@@ -7,5 +7,11 @@
     {"company":"绿盟科技","url":"https://app.mokahr.com/campus_apply/nsfocus/29118","graduationYear":"2027"},
     {"company":"锐捷网络","url":"https://app.mokahr.com/campus-recruitment/ruijie/136206","graduationYear":"2027"},
     {"company":"完美世界","url":"https://app.mokahr.com/campus-recruitment/pwrd/144582?locale=zh-CN","graduationYear":"2027"}
+  ],
+  "beisen": [
+    {"company":"科大讯飞","baseUrl":"https://iflytek.zhiye.com","graduationYear":"2027"},
+    {"company":"中芯国际","baseUrl":"https://smics.zhiye.com","graduationYear":"2027"},
+    {"company":"零跑汽车","baseUrl":"https://leapmotor.zhiye.com","graduationYear":"2027"},
+    {"company":"新产业生物","baseUrl":"https://snibe.zhiye.com","graduationYear":"2027"}
   ]
 }
