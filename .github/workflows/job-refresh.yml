@@ -41,6 +41,14 @@ jobs:
             echo "No job data changes."
             exit 0
           fi
+
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
+            echo "main advanced while this refresh was running; skip stale data push."
+            echo "The newer main push will run a fresh discovery pass with the latest configuration."
+            exit 0
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add src/data/live-jobs.js package-lock.json
