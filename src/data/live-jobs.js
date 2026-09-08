@@ -5,7 +5,7 @@ export const liveJobs = [
     "company": "安克创新",
     "title": "电商实习生（Charging）",
     "roleFamily": [
-      "其他"
+      "电商运营"
     ],
     "city": "深圳",
     "graduationYear": "2027",
@@ -45,7 +45,51 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：平台电商运营类。识别关键词：英语、Excel、数据分析、内容运营、PPT。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
+  },
+  {
+    "id": "anker-bbb011ade003",
+    "company": "安克创新",
+    "title": "欧洲品牌经理实习（英国，西班牙，意大利）",
+    "roleFamily": [
+      "产品营销"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析",
+      "项目管理",
+      "跨部门沟通",
+      "文案"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "内容",
+      "项目",
+      "市场",
+      "用户",
+      "数据",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "安克创新官方2027校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://career.anker-in.com/universities/recruitment/",
+    "verification": "官方招聘官网",
+    "publishedAt": "",
+    "deadline": "",
+    "description": "安克创新官方 2027 全球校招岗位；职类：品牌管理类。识别关键词：英语、数据分析、项目管理、跨部门沟通、文案。投递前请打开官方校招页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-0b12a2d023c1",
@@ -88,7 +132,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：渠道运营类。识别关键词：英语、项目管理、电商。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-4a90b09b7318",
@@ -136,7 +180,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：英语、Excel、数据分析、市场分析、PPT。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "nowcoder-3f777c250a42",
@@ -178,7 +222,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "ecoflow-7678716189099297070",
@@ -219,51 +263,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、数据分析、GA4、SEO。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
-  },
-  {
-    "id": "anker-bbb011ade003",
-    "company": "安克创新",
-    "title": "欧洲品牌经理实习（英国，西班牙，意大利）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析",
-      "项目管理",
-      "跨部门沟通",
-      "文案"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "内容",
-      "项目",
-      "市场",
-      "用户",
-      "数据",
-      "营销",
-      "品牌"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "安克创新官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://career.anker-in.com/universities/recruitment/",
-    "verification": "官方招聘官网",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "安克创新官方 2027 全球校招岗位；职类：品牌管理类。识别关键词：英语、数据分析、项目管理、跨部门沟通、文案。投递前请打开官方校招页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "nowcoder-e2efc6d11256",
@@ -305,7 +305,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：英语、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "ecoflow-7678715348036700426",
@@ -348,7 +348,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "nowcoder-ffed57fbca15",
@@ -387,26 +387,28 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：内容运营、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
-    "id": "nowcoder-21cfc8f1ff81",
-    "company": "途游游戏",
-    "title": "内容运营（成都）-2027校招",
+    "id": "ecoflow-7678717054119282980",
+    "company": "正浩创新EcoFlow",
+    "title": "社媒运营（英语）",
     "roleFamily": [
       "内容运营"
     ],
-    "city": "成都",
+    "city": "深圳",
     "graduationYear": "2027",
     "skills": [
-      "数据分析",
-      "内容运营"
+      "英语",
+      "文案"
     ],
-    "languages": [],
+    "languages": [
+      "英语"
+    ],
     "experienceKeywords": [
+      "海外",
       "运营",
       "内容",
-      "项目",
       "市场",
       "用户",
       "数据",
@@ -416,16 +418,55 @@ export const liveJobs = [
       "国际业务"
     ],
     "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465046?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2027-08-31",
-    "description": "自动发现的 内容运营 类岗位；识别关键词：数据分析、内容运营。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "source": "正浩创新EcoFlow官方2027校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717054119282980/detail",
+    "verification": "官方招聘官网/API",
+    "publishedAt": "2026-08-27",
+    "deadline": "",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
+  },
+  {
+    "id": "ecoflow-7678716401519151398",
+    "company": "正浩创新EcoFlow",
+    "title": "KOL运营（西语）",
+    "roleFamily": [
+      "内容运营"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析"
+    ],
+    "languages": [
+      "西班牙语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "内容",
+      "市场",
+      "数据",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "正浩创新EcoFlow官方2027校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678716401519151398/detail",
+    "verification": "官方招聘官网/API",
+    "publishedAt": "2026-08-27",
+    "deadline": "",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "ecoflow-7631423377182148874",
@@ -467,7 +508,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、数据分析、PPT、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "nowcoder-459498",
@@ -547,7 +588,47 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：Excel、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
+  },
+  {
+    "id": "ecoflow-7678716235413424430",
+    "company": "正浩创新EcoFlow",
+    "title": "社媒运营（日语）",
+    "roleFamily": [
+      "内容运营"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "文案",
+      "电商"
+    ],
+    "languages": [
+      "日语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "市场",
+      "电商",
+      "用户",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [
+      "跨文化"
+    ],
+    "riskTags": [],
+    "source": "正浩创新EcoFlow官方2027校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678716235413424430/detail",
+    "verification": "官方招聘官网/API",
+    "publishedAt": "2026-08-27",
+    "deadline": "",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "anker-af21a3095dc9",
@@ -589,7 +670,42 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：英语、数据分析。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
+  },
+  {
+    "id": "nowcoder-b5e96b8f4de2",
+    "company": "众安保险",
+    "title": "[2027届秋招-上海]用户运营专员",
+    "roleFamily": [
+      "用户运营"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel",
+      "数据分析"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "用户",
+      "数据"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465675?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2026-11-30",
+    "description": "自动发现的 用户运营 类岗位；识别关键词：Excel、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-0923473ab36d",
@@ -625,7 +741,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-9e858879b389",
@@ -661,7 +777,40 @@ export const liveJobs = [
     "description": "自动发现的 产品运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
+  },
+  {
+    "id": "ecoflow-7682617192211319082",
+    "company": "正浩创新EcoFlow",
+    "title": "【日常实习】服务运营实习生",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "项目管理"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "数据",
+      "营销",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "正浩创新EcoFlow官方2027校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7682617192211319082/detail",
+    "verification": "官方招聘官网/API",
+    "publishedAt": "2026-09-07",
+    "deadline": "",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：项目管理。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "beisen-5cb8b9e0c0c8",
@@ -705,7 +854,85 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
+  },
+  {
+    "id": "ecoflow-7678717525072628009",
+    "company": "正浩创新EcoFlow",
+    "title": "社媒运营（德语）",
+    "roleFamily": [
+      "内容运营"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "文案"
+    ],
+    "languages": [
+      "德语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "内容",
+      "市场",
+      "用户",
+      "数据",
+      "营销"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "正浩创新EcoFlow官方2027校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717525072628009/detail",
+    "verification": "官方招聘官网/API",
+    "publishedAt": "2026-08-27",
+    "deadline": "",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
+  },
+  {
+    "id": "ecoflow-7678717158109972778",
+    "company": "正浩创新EcoFlow",
+    "title": "社媒运营（俄语）",
+    "roleFamily": [
+      "内容运营"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "文案"
+    ],
+    "languages": [
+      "俄语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "内容",
+      "市场",
+      "用户",
+      "数据",
+      "营销"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "正浩创新EcoFlow官方2027校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717158109972778/detail",
+    "verification": "官方招聘官网/API",
+    "publishedAt": "2026-08-27",
+    "deadline": "",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "ecoflow-7678717154627553555",
@@ -742,23 +969,59 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、数据分析、SEO。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
-    "id": "ecoflow-7678717054119282980",
+    "id": "ecoflow-7678717100516870442",
     "company": "正浩创新EcoFlow",
-    "title": "社媒运营（英语）",
+    "title": "社媒运营（英西双语）",
     "roleFamily": [
-      "其他"
+      "内容运营"
     ],
     "city": "深圳",
     "graduationYear": "2027",
     "skills": [
-      "英语",
+      "文案"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "内容",
+      "市场",
+      "用户",
+      "数据",
+      "营销"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "正浩创新EcoFlow官方2027校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717100516870442/detail",
+    "verification": "官方招聘官网/API",
+    "publishedAt": "2026-08-27",
+    "deadline": "",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
+  },
+  {
+    "id": "ecoflow-7678716228316465434",
+    "company": "正浩创新EcoFlow",
+    "title": "社媒运营（法语）",
+    "roleFamily": [
+      "内容运营"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
       "文案"
     ],
     "languages": [
-      "英语"
+      "法语"
     ],
     "experienceKeywords": [
       "海外",
@@ -775,53 +1038,14 @@ export const liveJobs = [
     "riskTags": [],
     "source": "正浩创新EcoFlow官方2027校招官网",
     "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717054119282980/detail",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678716228316465434/detail",
     "verification": "官方招聘官网/API",
     "publishedAt": "2026-08-27",
     "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、文案。投递前请打开官方职位页确认最新状态。",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
-  },
-  {
-    "id": "ecoflow-7678716401519151398",
-    "company": "正浩创新EcoFlow",
-    "title": "KOL运营（西语）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [
-      "西班牙语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "内容",
-      "市场",
-      "数据",
-      "营销",
-      "品牌"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678716401519151398/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "beisen-8b3f8c211ac6",
@@ -853,14 +1077,14 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "anker-80a5779d8984",
     "company": "安克创新",
     "title": "欧洲电商实习生（英国，西班牙，意大利）",
     "roleFamily": [
-      "其他"
+      "电商运营"
     ],
     "city": "深圳",
     "graduationYear": "2027",
@@ -894,7 +1118,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：平台电商运营类。识别关键词：英语、文案、电商。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "nowcoder-cc212c57ab1f",
@@ -929,7 +1153,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-06ec4395bc51",
@@ -965,7 +1189,44 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：数据分析、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
+  },
+  {
+    "id": "nowcoder-2bf4ab661bcd",
+    "company": "未岚大陆",
+    "title": "2027届校招-业务运营助理（深圳）",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "内容",
+      "数据",
+      "客户"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465254?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2027-08-01",
+    "description": "自动发现的 业务运营 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-458259",
@@ -999,46 +1260,6 @@ export const liveJobs = [
     "deadline": "2026-09-30",
     "description": "线上系统问题协同、交易链路需求分析、运营策略迭代和产品优化推进方向。",
     "status": "推荐"
-  },
-  {
-    "id": "ecoflow-7678716235413424430",
-    "company": "正浩创新EcoFlow",
-    "title": "社媒运营（日语）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "文案",
-      "电商"
-    ],
-    "languages": [
-      "日语"
-    ],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "市场",
-      "电商",
-      "用户",
-      "营销",
-      "品牌"
-    ],
-    "preferenceTags": [
-      "跨文化"
-    ],
-    "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678716235413424430/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案、电商。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
   },
   {
     "id": "beisen-a96b05cbef1a",
@@ -1078,7 +1299,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、跨部门沟通、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-4140647f612b",
@@ -1116,7 +1337,40 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
+  },
+  {
+    "id": "beisen-60eadb46679d",
+    "company": "vivo",
+    "title": "品牌经理-27届秋招",
+    "roleFamily": [
+      "产品营销"
+    ],
+    "city": "东莞",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "海外",
+      "市场",
+      "用户",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "公司官方北森校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282939",
+    "verification": "官方招聘官网",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "面议",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-fed8d264a653",
@@ -1156,7 +1410,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-a8f69190afb1",
@@ -1190,7 +1444,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-e7483def1fe2",
@@ -1229,7 +1483,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-a6b7201a9ece",
@@ -1268,7 +1522,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-ed4c7816c550",
@@ -1310,7 +1564,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、SQL、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-85b965012016",
@@ -1346,7 +1600,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "nowcoder-b2b3e1f84936",
@@ -1384,7 +1638,7 @@ export const liveJobs = [
     "description": "自动发现的 项目管理 类岗位；识别关键词：英语、项目管理。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-98b069306978",
@@ -1419,7 +1673,77 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
+  },
+  {
+    "id": "nowcoder-600f43a5ff8a",
+    "company": "仲望咨询",
+    "title": "能源电力行业-招聘研究员（可实习转正）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "海外",
+      "市场",
+      "数据",
+      "品牌",
+      "客户"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464541?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2028-10-01",
+    "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
+  },
+  {
+    "id": "nowcoder-90460abb3d1e",
+    "company": "仲望咨询",
+    "title": "能源电力行业-招聘研究员（可实习转正）（实习）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "海外",
+      "市场",
+      "数据",
+      "品牌",
+      "客户"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464542?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2028-10-01",
+    "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-464485",
@@ -1460,39 +1784,6 @@ export const liveJobs = [
     "status": "推荐"
   },
   {
-    "id": "ecoflow-7682617192211319082",
-    "company": "正浩创新EcoFlow",
-    "title": "【日常实习】服务运营实习生",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "数据",
-      "营销",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7682617192211319082/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-09-07",
-    "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：项目管理。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
-  },
-  {
     "id": "ecoflow-7680039194568263945",
     "company": "正浩创新EcoFlow",
     "title": "技术文档工程师",
@@ -1526,122 +1817,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：研发。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
-  },
-  {
-    "id": "ecoflow-7678717525072628009",
-    "company": "正浩创新EcoFlow",
-    "title": "社媒运营（德语）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "文案"
-    ],
-    "languages": [
-      "德语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "内容",
-      "市场",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717525072628009/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
-  },
-  {
-    "id": "ecoflow-7678717158109972778",
-    "company": "正浩创新EcoFlow",
-    "title": "社媒运营（俄语）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "文案"
-    ],
-    "languages": [
-      "俄语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "内容",
-      "市场",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717158109972778/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
-  },
-  {
-    "id": "ecoflow-7678717100516870442",
-    "company": "正浩创新EcoFlow",
-    "title": "社媒运营（英西双语）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "文案"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "内容",
-      "市场",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717100516870442/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "ecoflow-7678716350526064915",
@@ -1678,46 +1854,45 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：Excel、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
-    "id": "ecoflow-7678716228316465434",
-    "company": "正浩创新EcoFlow",
-    "title": "社媒运营（法语）",
+    "id": "beisen-0478f82fe2bf",
+    "company": "vivo",
+    "title": "服务运营经理-27届秋招",
     "roleFamily": [
-      "其他"
+      "业务运营"
     ],
-    "city": "深圳",
+    "city": "东莞",
     "graduationYear": "2027",
     "skills": [
-      "文案"
+      "英语",
+      "数据分析"
     ],
     "languages": [
-      "法语"
+      "英语"
     ],
     "experienceKeywords": [
       "海外",
       "运营",
-      "内容",
-      "市场",
       "用户",
       "数据",
-      "营销"
+      "客户"
     ],
     "preferenceTags": [
       "国际业务"
     ],
     "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
+    "source": "公司官方北森校招官网",
     "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678716228316465434/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-27",
+    "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282724",
+    "verification": "官方招聘官网",
+    "publishedAt": "2026-08-06",
     "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
+    "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-a9440bd0b680",
@@ -1757,7 +1932,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-a597bca45db8",
@@ -1791,7 +1966,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-fee2d03ebd68",
@@ -1831,7 +2006,41 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
+  },
+  {
+    "id": "nowcoder-8bd44692469f",
+    "company": "公牛集团股份有限公司",
+    "title": "2027届校招-营销岗-电商运营岗(J23844)",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "电商"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "电商",
+      "数据",
+      "营销"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465087?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2029-09-03",
+    "description": "自动发现的 电商运营 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-0d2b50f0eb86",
@@ -1867,7 +2076,48 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：数据分析、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
+  },
+  {
+    "id": "nowcoder-4c09351ebf4a",
+    "company": "奥克斯",
+    "title": "【2027秋】空调-海外市场营销(家用空调方向)(J16390)",
+    "roleFamily": [
+      "市场"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "跨部门沟通"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "市场",
+      "营销",
+      "客户"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "跨文化",
+      "出海"
+    ],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465512?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2029-09-06",
+    "description": "自动发现的 市场 类岗位；识别关键词：英语、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-992bb963b4e4",
@@ -1900,7 +2150,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-2e2735f16a2f",
@@ -1938,12 +2188,12 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
-    "id": "nowcoder-57cc473bf882",
+    "id": "nowcoder-9d6913a7e5a4",
     "company": "点点互动",
-    "title": "全球市场增长专员（休闲）-北京-A(J13841)",
+    "title": "全球市场增长专员（休闲）-北京-E(J13844)",
     "roleFamily": [
       "其他"
     ],
@@ -1965,14 +2215,14 @@ export const liveJobs = [
     "riskTags": [],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465354?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465341?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-08",
     "deadline": "2029-09-04",
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-1d41978843c9",
@@ -2006,7 +2256,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "beisen-79fa23caf9e4",
@@ -2041,40 +2291,37 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
-    "id": "beisen-60eadb46679d",
-    "company": "vivo",
-    "title": "品牌经理-27届秋招",
+    "id": "ecoflow-7671131248996206886",
+    "company": "正浩创新EcoFlow",
+    "title": "【日常实习】部门运营实习生",
     "roleFamily": [
-      "其他"
+      "业务运营"
     ],
-    "city": "东莞",
+    "city": "深圳",
     "graduationYear": "2027",
     "skills": [],
     "languages": [],
     "experienceKeywords": [
-      "海外",
-      "市场",
-      "用户",
+      "运营",
+      "数据",
       "营销",
-      "品牌"
+      "招聘"
     ],
-    "preferenceTags": [
-      "国际业务"
-    ],
+    "preferenceTags": [],
     "riskTags": [],
-    "source": "公司官方北森校招官网",
+    "source": "正浩创新EcoFlow官方2027校招官网",
     "sourceType": "official",
-    "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282939",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-08-06",
+    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7671131248996206886/detail",
+    "verification": "官方招聘官网/API",
+    "publishedAt": "2026-08-07",
     "deadline": "",
-    "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
+    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "beisen-a93fd02b9ea6",
@@ -2111,7 +2358,101 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
+  },
+  {
+    "id": "beisen-610d8b0a003e",
+    "company": "科大讯飞",
+    "title": "品牌经理-媒介公关方向(J13752)",
+    "roleFamily": [
+      "产品营销"
+    ],
+    "city": "安徽省·合肥市",
+    "graduationYear": "2027",
+    "skills": [
+      "文案"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "内容",
+      "市场",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方北森校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190845092",
+    "verification": "官方招聘官网",
+    "publishedAt": "2026-08-04",
+    "deadline": "",
+    "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "面议",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
+  },
+  {
+    "id": "beisen-0c7bdf3e7f03",
+    "company": "科大讯飞",
+    "title": "品牌经理(J13713)",
+    "roleFamily": [
+      "产品营销"
+    ],
+    "city": "安徽省·合肥市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "内容",
+      "市场",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方北森校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190844513",
+    "verification": "官方招聘官网",
+    "publishedAt": "2026-08-01",
+    "deadline": "",
+    "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "面议",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
+  },
+  {
+    "id": "beisen-124e7c8c5e8a",
+    "company": "科大讯飞",
+    "title": "品牌经理-AI视频方向(J13712)",
+    "roleFamily": [
+      "产品营销"
+    ],
+    "city": "安徽省·合肥市",
+    "graduationYear": "2027",
+    "skills": [
+      "文案"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "内容",
+      "市场",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方北森校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190844508",
+    "verification": "官方招聘官网",
+    "publishedAt": "2026-08-01",
+    "deadline": "",
+    "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "面议",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-f1a84219915e",
@@ -2144,7 +2485,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-66dc50379541",
@@ -2179,7 +2520,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-8ed354db0872",
@@ -2211,7 +2552,41 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
+  },
+  {
+    "id": "moka-798e1df017ac",
+    "company": "岚图汽车",
+    "title": "用户服务运营",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "用户",
+      "客户"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方Moka校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4275078d-b72b-4cfe-8be4-904e02ad1041",
+    "verification": "官方招聘官网",
+    "publishedAt": "",
+    "deadline": "",
+    "description": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:48:30.352Z"
   },
   {
     "id": "moka-2c3c18c8819c",
@@ -2248,20 +2623,27 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:24:14.912Z"
+    "discoveredAt": "2026-09-08T08:48:30.352Z"
   },
   {
-    "id": "nowcoder-090e33ef07d5",
-    "company": "公牛集团股份有限公司",
-    "title": "2027届校招-非技术岗-经营管理岗(J23853)",
+    "id": "nowcoder-70205647d4ff",
+    "company": "南京银行",
+    "title": "总行定向培训生岗-金融市场方向（南京）",
     "roleFamily": [
-      "业务运营"
+      "其他"
     ],
-    "city": "北京",
+    "city": "南京",
     "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
+    "skills": [
+      "英语",
+      "数据分析"
+    ],
+    "languages": [
+      "英语"
+    ],
     "experienceKeywords": [
+      "项目",
+      "市场",
       "数据"
     ],
     "preferenceTags": [
@@ -2270,14 +2652,48 @@ export const liveJobs = [
     "riskTags": [],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464963?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466004?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-08",
-    "deadline": "2026-10-29",
-    "description": "自动发现的 业务运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "deadline": "2026-10-11",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
+  },
+  {
+    "id": "nowcoder-176692122a7d",
+    "company": "南京银行",
+    "title": "总行定向培训生岗-金融市场方向（上海）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "项目",
+      "市场"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466005?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2026-10-11",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "beisen-d9ed22ca9a22",
@@ -2309,7 +2725,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-4ba3244e6533",
@@ -2344,7 +2760,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "ecoflow-7678717009148725523",
@@ -2379,7 +2795,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "beisen-0000d7baf338",
@@ -2416,7 +2832,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-bb550736f16a",
@@ -2453,7 +2869,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "ecoflow-7677887614838360329",
@@ -2486,7 +2902,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：人力资源。识别关键词：Excel。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "beisen-7f2fb8bf05e7",
@@ -2518,45 +2934,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
-  },
-  {
-    "id": "beisen-0478f82fe2bf",
-    "company": "vivo",
-    "title": "服务运营经理-27届秋招",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "东莞",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "用户",
-      "数据",
-      "客户"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282724",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-08-06",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-e285d201875f",
@@ -2587,7 +2965,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "ecoflow-7644528397095913791",
@@ -2620,7 +2998,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：人力资源。识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "moka-42fe8514b500",
@@ -2654,7 +3032,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:24:14.912Z"
+    "discoveredAt": "2026-09-08T08:48:30.352Z"
   },
   {
     "id": "nowcoder-b12177ea72e6",
@@ -2685,7 +3063,7 @@ export const liveJobs = [
     "description": "自动发现的 项目管理 类岗位；识别关键词：项目管理。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-f110cdf92918",
@@ -2715,7 +3093,73 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
+  },
+  {
+    "id": "nowcoder-24d310c93a8a",
+    "company": "赢合",
+    "title": "27届科技项目管理工程师（博士）(J13771)",
+    "roleFamily": [
+      "项目管理"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "项目管理",
+      "跨部门沟通"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "项目"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465589?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2027-09-07",
+    "description": "自动发现的 项目管理 类岗位；识别关键词：项目管理、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
+  },
+  {
+    "id": "nowcoder-5f59bb02df7e",
+    "company": "南京银行",
+    "title": "总行定向培训生岗-金融市场数智化方向（南京）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "南京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "项目",
+      "市场"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466007?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2026-10-11",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-bc8b621e987a",
@@ -2750,7 +3194,7 @@ export const liveJobs = [
     "description": "自动发现的 项目管理 类岗位；识别关键词：英语、项目管理。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-84c706b45dae",
@@ -2780,7 +3224,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "beisen-fb717dd60a81",
@@ -2817,7 +3261,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-05efedfc54ce",
@@ -2856,7 +3300,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-6d7f773cf897",
@@ -2885,7 +3329,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-c245461f7476",
@@ -2920,131 +3364,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
-  },
-  {
-    "id": "ecoflow-7671131248996206886",
-    "company": "正浩创新EcoFlow",
-    "title": "【日常实习】部门运营实习生",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "数据",
-      "营销",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7671131248996206886/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-07",
-    "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
-  },
-  {
-    "id": "beisen-610d8b0a003e",
-    "company": "科大讯飞",
-    "title": "品牌经理-媒介公关方向(J13752)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "安徽省·合肥市",
-    "graduationYear": "2027",
-    "skills": [
-      "文案"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "内容",
-      "市场",
-      "营销",
-      "品牌"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190845092",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-08-04",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
-  },
-  {
-    "id": "beisen-0c7bdf3e7f03",
-    "company": "科大讯飞",
-    "title": "品牌经理(J13713)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "安徽省·合肥市",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "内容",
-      "市场",
-      "营销",
-      "品牌"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190844513",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-08-01",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
-  },
-  {
-    "id": "beisen-124e7c8c5e8a",
-    "company": "科大讯飞",
-    "title": "品牌经理-AI视频方向(J13712)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "安徽省·合肥市",
-    "graduationYear": "2027",
-    "skills": [
-      "文案"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "内容",
-      "市场",
-      "营销",
-      "品牌"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190844508",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-08-01",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-bd5cd094761f",
@@ -3074,41 +3394,37 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
-    "id": "moka-798e1df017ac",
-    "company": "岚图汽车",
-    "title": "用户服务运营",
+    "id": "beisen-ff21a9cd9cbc",
+    "company": "科大讯飞",
+    "title": "品牌经理-品牌内容方向(J13422)",
     "roleFamily": [
-      "其他"
+      "产品营销"
     ],
-    "city": "武汉",
+    "city": "安徽省·合肥市",
     "graduationYear": "2027",
     "skills": [
-      "英语"
+      "文案"
     ],
-    "languages": [
-      "英语"
-    ],
+    "languages": [],
     "experienceKeywords": [
-      "运营",
-      "项目",
-      "用户",
-      "客户"
+      "内容",
+      "品牌"
     ],
     "preferenceTags": [],
     "riskTags": [],
-    "source": "公司官方Moka校招官网",
+    "source": "公司官方北森校招官网",
     "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4275078d-b72b-4cfe-8be4-904e02ad1041",
+    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842331",
     "verification": "官方招聘官网",
-    "publishedAt": "",
+    "publishedAt": "2026-07-23",
     "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
+    "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:24:14.912Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "moka-65c892e648ef",
@@ -3142,7 +3458,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:24:14.912Z"
+    "discoveredAt": "2026-09-08T08:48:30.352Z"
   },
   {
     "id": "anker-b5cf28e2be1e",
@@ -3175,35 +3491,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：渠道运营类。识别关键词：跨部门沟通。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
-  },
-  {
-    "id": "nowcoder-b5e96b8f4de2",
-    "company": "众安保险",
-    "title": "[2027届秋招-上海]用户运营专员",
-    "roleFamily": [
-      "用户运营"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "用户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465675?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "",
-    "description": "自动发现的 用户运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "beisen-2fb3512004e8",
@@ -3237,7 +3525,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：SQL、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-d5d643d45af7",
@@ -3267,7 +3555,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-0156d531e51c",
@@ -3301,7 +3589,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：SQL、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "ecoflow-7678718079220287780",
@@ -3334,7 +3622,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "beisen-1527c561d47e",
@@ -3365,7 +3653,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-9c71a359036e",
@@ -3399,7 +3687,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-d514700a857e",
@@ -3432,7 +3720,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-5c443d1087b8",
@@ -3463,7 +3751,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-3fbd423331e5",
@@ -3494,7 +3782,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "beisen-8bd51a150362",
@@ -3528,38 +3816,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
-  },
-  {
-    "id": "nowcoder-8bd44692469f",
-    "company": "公牛集团股份有限公司",
-    "title": "2027届校招-营销岗-电商运营岗(J23844)",
-    "roleFamily": [
-      "电商运营"
-    ],
-    "city": "待核",
-    "graduationYear": "2027",
-    "skills": [
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "电商",
-      "营销"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465087?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "",
-    "description": "自动发现的 电商运营 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "nowcoder-627393580369",
@@ -3590,37 +3847,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
-  },
-  {
-    "id": "nowcoder-10e165a36f48",
-    "company": "华为云",
-    "title": "【华为2027届招聘】软件开发工程师",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465203?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2027-10-31",
-    "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-27c346c52cf6",
@@ -3651,7 +3878,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "nowcoder-c910fb2b8007",
@@ -3680,34 +3907,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
-  },
-  {
-    "id": "nowcoder-2bf4ab661bcd",
-    "company": "未岚大陆",
-    "title": "2027届校招-业务运营助理（深圳）",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "运营"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465254?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "",
-    "description": "自动发现的 业务运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "ecoflow-7677583961945786667",
@@ -3742,7 +3942,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：人力资源。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:51:15.536Z"
   },
   {
     "id": "beisen-2f3b25c3de46",
@@ -3774,7 +3974,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "anker-92f0c84e5d9c",
@@ -3806,7 +4006,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-d6aa9a816fad",
@@ -3838,7 +4038,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-44e914d22154",
@@ -3872,7 +4072,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-7bb153bdecfa",
@@ -3906,7 +4106,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：区域GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-1f2eb62d1494",
@@ -3940,7 +4140,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-0811e1228b5c",
@@ -3974,7 +4174,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-169339c6c681",
@@ -4008,7 +4208,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-9d49ef4ee7fe",
@@ -4040,7 +4240,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-aad4d2120a78",
@@ -4074,7 +4274,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "anker-694e8f2fa303",
@@ -4108,7 +4308,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "nowcoder-5582361172e6",
@@ -4137,41 +4337,32 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:22:13.725Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
-    "id": "ecoflow-7678712738147404051",
-    "company": "正浩创新EcoFlow",
-    "title": "电商系统开发工程师",
+    "id": "nowcoder-090e33ef07d5",
+    "company": "公牛集团股份有限公司",
+    "title": "2027届校招-非技术岗-经营管理岗(J23853)",
     "roleFamily": [
-      "其他"
+      "业务运营"
     ],
-    "city": "深圳",
+    "city": "待核",
     "graduationYear": "2027",
-    "skills": [
-      "SQL",
-      "电商"
-    ],
+    "skills": [],
     "languages": [],
-    "experienceKeywords": [
-      "电商",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "出海"
-    ],
+    "experienceKeywords": [],
+    "preferenceTags": [],
     "riskTags": [],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678712738147404051/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-27",
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464963?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
     "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "description": "自动发现的 业务运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:26:53.455Z"
+    "discoveredAt": "2026-09-08T08:42:24.886Z"
   },
   {
     "id": "beisen-e0ed424a75f2",
@@ -4203,37 +4394,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
-  },
-  {
-    "id": "beisen-ff21a9cd9cbc",
-    "company": "科大讯飞",
-    "title": "品牌经理-品牌内容方向(J13422)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "安徽省·合肥市",
-    "graduationYear": "2027",
-    "skills": [
-      "文案"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "内容",
-      "品牌"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842331",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-07-23",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   },
   {
     "id": "anker-e7a8616cec17",
@@ -4266,7 +4427,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：零售管理类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:44.162Z"
+    "discoveredAt": "2026-09-08T08:50:02.863Z"
   },
   {
     "id": "beisen-e16689195900",
@@ -4298,12 +4459,12 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T08:25:05.962Z"
+    "discoveredAt": "2026-09-08T08:49:20.014Z"
   }
 ];
 
 export const discoveryMeta = {
-  "updatedAt": "2026-09-08T08:27:08.646Z",
+  "updatedAt": "2026-09-08T08:51:30.009Z",
   "source": "多源：公司官方招聘官网/API + 牛客公开职位",
   "mode": "官方源优先去重 + 多源扩面 + 前端画像 S/A/B 精排",
   "stats": {
@@ -4311,7 +4472,7 @@ export const discoveryMeta = {
       "nowcoder": {
         "discoveredUrls": 1044,
         "scannedPages": 1000,
-        "keptJobs": 29,
+        "keptJobs": 34,
         "errors": 0
       },
       "moka": {
@@ -4378,15 +4539,15 @@ export const discoveryMeta = {
       "ecoflow": {
         "pages": 11,
         "listed": 104,
-        "keptJobs": 22,
+        "keptJobs": 21,
         "errors": 0,
         "snapshotComplete": true,
         "emptyResult": false
       }
     },
     "retainedSeeds": 3,
-    "totalJobs": 122,
-    "companies": 28
+    "totalJobs": 126,
+    "companies": 27
   },
   "note": "官方招聘官网/API优先用于去重与核验；二手来源用于扩大岗位发现范围。安克使用官方公开API游标分页，EcoFlow使用官方飞书招聘匿名公开职位API。纯销售岗位不进入推荐池，投递前仍建议打开原始职位页确认职责和截止日期。"
 };
