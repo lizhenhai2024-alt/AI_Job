@@ -41,13 +41,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968880",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、市场分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -143,7 +143,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -235,7 +235,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -326,13 +326,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270965302",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-13",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -418,7 +418,7 @@ export const liveJobs = [
     "description": "自动发现的 产品运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -507,13 +507,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968817",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、内容运营、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -607,13 +607,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=511198630",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-18",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、SEO。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "12K-18K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -701,7 +701,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：内容运营、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -787,7 +787,7 @@ export const liveJobs = [
     "description": "自动发现的 产品运营 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -872,7 +872,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、SQL。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -948,13 +948,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849543",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：内容运营、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -1035,7 +1035,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：数据分析、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -1115,13 +1115,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151126941",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-01-14",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -1204,7 +1204,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：英语、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -1241,103 +1241,6 @@ export const liveJobs = [
           "label": "职责动词",
           "verdict": "待核",
           "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-5cb8b9e0c0c8",
-    "company": "零跑汽车",
-    "title": "校招-海外商务专员(J18183)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "杭州",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "Excel",
-      "数据分析",
-      "PPT"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "项目",
-      "市场",
-      "数据",
-      "跨文化",
-      "营销",
-      "客户"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://leapmotor.zhiye.com/campus/detail?jobAdId=230934521",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-08-28",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：商务测算",
-        "职责：跨文化沟通",
-        "职责：国际业务"
-      ],
-      "penalty": 0,
-      "bonus": 6,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "国际贸易、商务英语、国际商务、市场营销、法律、经济管理等专业优先",
-          "2、专业基础：具备基础的国际商务知识（如国际贸易术语、关税政策、进出口流程框架、涉外合同基本要素等），了解基本商务谈判逻辑"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "商务测算",
-          "跨文化沟通",
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "商务测算、跨文化沟通、国际业务"
         },
         {
           "step": 3,
@@ -1390,7 +1293,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:55:03.509Z",
+    "discoveredAt": "2026-09-08T12:17:30.612Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -1476,13 +1379,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849526",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -1564,13 +1467,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151075910",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2025-09-10",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -1600,91 +1503,6 @@ export const liveJobs = [
           "label": "专业范围",
           "verdict": "友好",
           "detail": "专业不限"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "nowcoder-21cfc8f1ff81",
-    "company": "途游游戏",
-    "title": "内容运营（成都）-2027校招",
-    "roleFamily": [
-      "内容运营"
-    ],
-    "city": "成都",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "内容运营"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "市场",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：商科/市场知识底子更占优"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465046?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2027-08-31",
-    "description": "自动发现的 内容运营 类岗位；识别关键词：数据分析、内容运营。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
-    "candidateFit": {
-      "warnings": [
-        "商科/市场知识底子更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "商科/市场专业主导",
-        "evidence": [
-          "1. 2027届毕业，本科以上学历，市场营销、广告、新闻传播、电子商务、新媒体及理工类专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-08-31"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "商科/市场专业主导"
         },
         {
           "step": 2,
@@ -1737,13 +1555,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://streamax.zhiye.com/campus/detail?jobAdId=621136483",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-09-01",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、内容运营、市场分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "15K-22K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -1825,13 +1643,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849557",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -1907,13 +1725,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849515",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -1960,103 +1778,6 @@ export const liveJobs = [
     }
   },
   {
-    "id": "beisen-0ab1d2109b77",
-    "company": "慧策集团",
-    "title": "2026校招-财务管培生(J14780)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "Excel",
-      "电商"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "适配风险：专业证书优先"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151126937",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-01-14",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语、Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [
-        "专业证书优先"
-      ],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：跨文化沟通"
-      ],
-      "penalty": 6,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "6、定岗发展：一年轮岗期结束后，结合项目期间的综合绩效表现、个人能力特质及公司业务需求，进行双向选择，确定固定岗位（如：财务分析师、预算专员、税务专员、业务财务伙伴等），开启深度专业发展通道",
-          "1、学历专业：2025-2026届毕业生，统招本科及以上学历，财务、会计、金融、经济等相关专业优先",
-          "2、专业知识：扎实的财务专业知识基础，通过CPA部分科目或持有ACCA等证书者优先",
-          "5、语言要求：良好的中文书面与口头表达能力，英语四级以上，具备阅读英文专业材料的能力"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
     "id": "beisen-a214f298a4ee",
     "company": "慧策集团",
     "title": "2026校招-业务运营管培生(J14525)",
@@ -2090,13 +1811,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151126932",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-01-14",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -2109,94 +1830,6 @@ export const liveJobs = [
         "label": "专业范围较宽，含技术与文商科",
         "evidence": [
           "1、统招本科及以上学历，统计学、经济学、数据科学、大数据科学与技术等专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-6fa8cb827eb1",
-    "company": "慧策集团",
-    "title": "2026校招-人力管培生(J14781)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "PPT",
-      "文案",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海"
-    ],
-    "riskTags": [
-      "节奏快",
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151126929",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-01-14",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：Excel、PPT、文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、2026届毕业本科或研究生，人力资源、工商管理、心理学、大数据、统计学、会计学专业优先"
         ]
       },
       "responsibility": {
@@ -2264,7 +1897,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -2337,13 +1970,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390864300",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-09-08",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -2421,13 +2054,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968804",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：内容运营、文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -2509,13 +2142,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968803",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：内容运营、SQL、文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -2602,13 +2235,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=511199414",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-19",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -2697,13 +2330,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270965296",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-13",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -2789,13 +2422,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=511197105",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-13",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-12K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -2883,13 +2516,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=511197050",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-13",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -2966,13 +2599,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282939",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-06",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3049,13 +2682,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849798",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-29",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -3128,13 +2761,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849524",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -3210,13 +2843,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849417",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -3297,7 +2930,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -3379,7 +3012,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3457,7 +3090,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3481,84 +3114,6 @@ export const liveJobs = [
       "eligibilityEvidence": [
         "招聘对象：2027届",
         "投递截止：2027-04-30"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "nowcoder-243a8152abec",
-    "company": "加多宝（天津）饮料有限公司",
-    "title": "27届北区（北京）-销售管培生",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "市场",
-      "营销",
-      "品牌",
-      "客户"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464905?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2027-05-31",
-    "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1.2027届应届本科及以上学历，市场营销、零售业管理、工商管理、商务管理、经济与贸易等相关专业"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-05-31"
       ],
       "decisionSteps": [
         {
@@ -3617,13 +3172,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270978990",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-09-07",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3707,7 +3262,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：Excel、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:55:03.509Z",
+    "discoveredAt": "2026-09-08T12:17:30.612Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3790,13 +3345,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=511199123",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-19",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3877,13 +3432,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849775",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-29",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -3959,13 +3514,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849462",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -3995,87 +3550,6 @@ export const liveJobs = [
           "label": "专业范围",
           "verdict": "混合",
           "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "nowcoder-cc212c57ab1f",
-    "company": "公牛集团股份有限公司",
-    "title": "2027届校招-营销岗-市场营销岗(J23860)",
-    "roleFamily": [
-      "市场"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "市场",
-      "电商",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "专业不限"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464955?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2026-10-29",
-    "description": "自动发现的 市场 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "2、专业不限，电商运营、营销类、传媒系专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-10-29"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
         },
         {
           "step": 2,
@@ -4132,7 +3606,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：英语、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -4220,7 +3694,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：研发。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:55:03.509Z",
+    "discoveredAt": "2026-09-08T12:17:30.612Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -4298,13 +3772,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849771",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-29",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -4384,13 +3858,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849537",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -4465,13 +3939,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849521",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -4546,13 +4020,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849517",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -4629,13 +4103,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849430",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、SQL、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -4706,13 +4180,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849408",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -4783,13 +4257,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151073750",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2025-09-08",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -4815,87 +4289,6 @@ export const liveJobs = [
           "label": "专业范围",
           "verdict": "待核",
           "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-b770a0382e21",
-    "company": "慧策集团",
-    "title": "2026校招-职能管培生(J14785)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "市场",
-      "电商"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "专业不限"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151038013",
-    "verification": "官方招聘官网",
-    "publishedAt": "2025-06-23",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "1、2026届毕业生，本科及以上实习生，专业不限，男女不限"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
         },
         {
           "step": 2,
@@ -4948,7 +4341,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -5031,7 +4424,7 @@ export const liveJobs = [
     "description": "自动发现的 业务运营 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -5114,13 +4507,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968970",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -5198,13 +4591,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282519",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-06",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -5279,13 +4672,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190845092",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-04",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -5361,13 +4754,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849419",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -5445,13 +4838,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180182",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-04-20",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "6K-8K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -5533,7 +4926,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、SQL。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -5608,7 +5001,7 @@ export const liveJobs = [
     "description": "自动发现的 业务运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -5684,7 +5077,7 @@ export const liveJobs = [
     "description": "自动发现的 电商运营 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -5762,7 +5155,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -5793,88 +5186,6 @@ export const liveJobs = [
           "label": "专业范围",
           "verdict": "降权",
           "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "nowcoder-98b069306978",
-    "company": "点点互动",
-    "title": "国内市场增长专员（SLG）-北京(J13846)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "内容",
-      "市场",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：商科/市场知识底子更占优"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465339?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2029-09-04",
-    "description": "自动发现的 其他 类岗位；识别关键词：数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
-    "candidateFit": {
-      "warnings": [
-        "商科/市场知识底子更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "商科/市场专业主导",
-        "evidence": [
-          "1、2027届统招本科及以上学历，市场营销、分析或相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2029-09-04"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "商科/市场专业主导"
         },
         {
           "step": 2,
@@ -5923,7 +5234,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -5998,7 +5309,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -6042,81 +5353,70 @@ export const liveJobs = [
     }
   },
   {
-    "id": "nowcoder-4c2e835880f2",
-    "company": "华数",
-    "title": "技术管培生（售前方向）",
+    "id": "nowcoder-1d41978843c9",
+    "company": "点点互动",
+    "title": "全球市场增长专员（休闲）-北京-B(J13842)",
     "roleFamily": [
       "其他"
     ],
     "city": "北京",
     "graduationYear": "2027",
     "skills": [
+      "Excel",
+      "数据分析",
       "PPT"
     ],
     "languages": [],
     "experienceKeywords": [
-      "内容",
-      "项目",
-      "数据",
-      "客户"
+      "市场",
+      "数据"
     ],
     "preferenceTags": [
       "国际业务"
     ],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级",
-      "适配风险：工作职责偏技术"
-    ],
+    "riskTags": [],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464773?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465355?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-08",
-    "deadline": "2026-10-20",
-    "description": "自动发现的 其他 类岗位；识别关键词：PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "deadline": "2029-09-04",
+    "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级",
-        "工作职责偏技术"
-      ],
+      "warnings": [],
       "strengths": [],
-      "penalty": 15,
+      "penalty": 0,
       "bonus": 0,
       "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、遵守中国宪法和法律，具有对党忠诚的政治品格，具有职务所需的工作能力、文化水平、专业知识及身体条件",
-          "2、2027届应届毕业生，大学本科及以上学历，计算机科学与技术、软件工程、人工智能、智能科学与技术、数据科学与大数据技术、信息与通信工程、电子信息等相关专业可优先考虑"
-        ]
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
       },
       "responsibility": {
-        "verdict": "偏技术",
-        "technical": [
-          "技术评估"
-        ],
+        "verdict": "待核",
+        "technical": [],
         "business": []
       },
       "hardRequirements": [],
       "eligibilityEvidence": [
         "招聘对象：2027届",
-        "投递截止：2026-10-20"
+        "投递截止：2029-09-04"
       ],
       "decisionSteps": [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
         },
         {
           "step": 2,
           "label": "职责动词",
-          "verdict": "偏技术",
-          "detail": "技术评估"
+          "verdict": "待核",
+          "detail": "未识别明显信号"
         },
         {
           "step": 3,
@@ -6161,7 +5461,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、SQL。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优",
@@ -6244,7 +5544,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:55:03.509Z",
+    "discoveredAt": "2026-09-08T12:17:30.612Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -6326,13 +5626,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190853655",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-26",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、跨部门沟通、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -6408,13 +5708,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849766",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-29",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -6492,13 +5792,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/ruijie/136206#/job/56f91040-1d12-4aac-a2e0-6bfe2d8c6ee3",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（卡片未单列届别）",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -6580,7 +5880,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -6736,13 +6036,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190858823",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-09-05",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -6796,102 +6096,6 @@ export const liveJobs = [
     }
   },
   {
-    "id": "beisen-e6bb6e15cbf1",
-    "company": "锐明技术",
-    "title": "法务管培生",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "节奏快",
-      "适配风险：专业证书优先"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://streamax.zhiye.com/campus/detail?jobAdId=621136737",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-09-01",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "9K-14K 元/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [
-        "专业证书优先"
-      ],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：合同",
-        "职责：跨文化沟通",
-        "职责：国际业务"
-      ],
-      "penalty": 6,
-      "bonus": 6,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1、教育背景 法学本科及以上学历，知名法学院校毕业优先考虑",
-          "拥有海外留学背景（LL.M. / J.D. 或海外法学硕士）者优先考虑",
-          "4、专业技能与行业热情 通过国家法律职业资格考试（A证）或拥有境外执业资格（如纽约州执业资格等）优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "合同",
-          "跨文化沟通",
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "合同、跨文化沟通、国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
     "id": "beisen-0000d7baf338",
     "company": "洲明科技",
     "title": "运营专员（2027届校招）(J13729)",
@@ -6921,13 +6125,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://unilumin.zhiye.com/campus/detail?jobAdId=390858693",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-26",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -7002,13 +6206,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968797",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -7085,13 +6289,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849498",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -7168,13 +6372,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849447",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -7252,7 +6456,7 @@ export const liveJobs = [
     "description": "自动发现的 项目管理 类岗位；识别关键词：项目管理、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -7335,7 +6539,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -7420,7 +6624,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -7501,7 +6705,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -7575,13 +6779,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270978995",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-09-07",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、PPT、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -7661,13 +6865,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190853661",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-26",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -7749,13 +6953,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968893",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -7837,13 +7041,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=511197097",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-13",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优",
@@ -7923,13 +7127,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282531",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-06",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -8007,13 +7211,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849500",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -8087,13 +7291,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849450",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -8169,13 +7373,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849433",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -8247,13 +7451,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842392",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -8323,13 +7527,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842386",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -8403,13 +7607,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/29a73430-ec54-485c-828b-d9359e092c39",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [
         "工作职责偏技术"
@@ -8490,7 +7694,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -8571,7 +7775,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -8650,7 +7854,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -8807,13 +8011,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968816",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -8887,13 +8091,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282863",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-06",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -8965,13 +8169,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190844508",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-01",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -9041,13 +8245,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849808",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-29",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -9118,13 +8322,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849384",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -9190,13 +8394,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842409",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -9273,13 +8477,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842408",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、SQL、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -9357,13 +8561,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842407",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -9437,13 +8641,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842406",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -9520,13 +8724,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842389",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -9599,13 +8803,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842325",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -9685,13 +8889,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180241",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-04-20",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-10K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -9717,91 +8921,6 @@ export const liveJobs = [
           "label": "专业范围",
           "verdict": "待核",
           "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-3bb0bb52fa0a",
-    "company": "慧策集团",
-    "title": "实习-管培生(J15256)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "专业不限"
-    ],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180160",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "1、​​学历背景：​​ 应届毕业生，本科及以上学历，​​专业不限​​，我们欢迎多元化的背景和视角"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
         },
         {
           "step": 2,
@@ -9846,13 +8965,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/4c81a5e2-d727-43d8-806e-a9acc3a30529",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -9934,7 +9053,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、数据分析、SEO。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:55:03.509Z",
+    "discoveredAt": "2026-09-08T12:17:30.612Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -10011,7 +9130,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：Excel、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:55:03.509Z",
+    "discoveredAt": "2026-09-08T12:17:30.612Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -10083,13 +9202,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://unilumin.zhiye.com/campus/detail?jobAdId=390858679",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-26",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：项目管理、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -10164,13 +9283,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968800",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -10255,13 +9374,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282898",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-06",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -10340,13 +9459,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282724",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-06",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -10421,13 +9540,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190844513",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-01",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -10499,13 +9618,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849770",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-29",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -10579,13 +9698,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849579",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -10657,13 +9776,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849493",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -10734,13 +9853,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849396",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -10809,13 +9928,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842393",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -10883,13 +10002,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842372",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -10953,13 +10072,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842331",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11028,13 +10147,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842329",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11070,178 +10189,6 @@ export const liveJobs = [
           "label": "职责动词",
           "verdict": "偏语言/商务",
           "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-b40512e048b4",
-    "company": "慧策集团",
-    "title": "实习-培训管培生(J11272)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "PPT",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "内容",
-      "项目",
-      "市场",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180183",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：Excel、PPT、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "6.5K-7.5K 元/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-68c047d26368",
-    "company": "慧策集团",
-    "title": "实习-商家运营(J15057)",
-    "roleFamily": [
-      "电商运营"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "PPT",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "市场",
-      "电商",
-      "数据",
-      "供应链"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "专业不限"
-    ],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180167",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：Excel、PPT、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "1. 本科及以上学历，专业不限，无相关工作经验要求，对电商运营、供应链管理领域感兴趣者优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
         },
         {
           "step": 3,
@@ -11284,7 +10231,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -11362,7 +10309,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11509,13 +10456,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://leapmotor.zhiye.com/campus/detail?jobAdId=230937951",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-09-07",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -11591,13 +10538,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://streamax.zhiye.com/campus/detail?jobAdId=621136777",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-09-01",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "13K-18K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11675,13 +10622,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968884",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11755,13 +10702,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968825",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11839,13 +10786,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282543",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-06",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11914,13 +10861,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842383",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -11988,13 +10935,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842326",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -12041,277 +10988,6 @@ export const liveJobs = [
     }
   },
   {
-    "id": "beisen-625fc8c8b6ab",
-    "company": "慧策集团",
-    "title": "实习-业务运营管培生(J14525)",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "全国",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "项目管理",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海"
-    ],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180180",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、统招本科及以上学历，统计学、经济学、数据科学、大数据科学与技术等专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-4fc067e1bd44",
-    "company": "慧策集团",
-    "title": "实习-财务管培生(J14780)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "Excel",
-      "电商"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "适配风险：专业证书优先"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180179",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语、Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [
-        "专业证书优先"
-      ],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：跨文化沟通"
-      ],
-      "penalty": 6,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "6、定岗发展：一年轮岗期结束后，结合项目期间的综合绩效表现、个人能力特质及公司业务需求，进行双向选择，确定固定岗位（如：财务分析师、预算专员、税务专员、业务财务伙伴等），开启深度专业发展通道",
-          "1、学历专业：2025-2026届毕业生，统招本科及以上学历，财务、会计、金融、经济等相关专业优先",
-          "2、专业知识：扎实的财务专业知识基础，通过CPA部分科目或持有ACCA等证书者优先",
-          "5、语言要求：良好的中文书面与口头表达能力，英语四级以上，具备阅读英文专业材料的能力"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-b6e1683ad08a",
-    "company": "慧策集团",
-    "title": "实习-人力管培生(J14781)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "PPT",
-      "文案",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海"
-    ],
-    "riskTags": [
-      "节奏快",
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180178",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：Excel、PPT、文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、毕业本科或研究生，人力资源、工商管理、心理学、大数据、统计学、会计学专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
     "id": "beisen-ed8126205a77",
     "company": "新华三集团",
     "title": "新华三校园大使（长期招聘）(J17259)",
@@ -12334,13 +11010,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://h3c.zhiye.com/campus/detail?jobAdId=390706953",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2024-09-26",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -12411,13 +11087,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/92491c80-06c2-4362-aced-6194557c49be",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -12488,13 +11164,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/011a52df-a67d-48dc-8824-b15d27ca09ac",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -12565,13 +11241,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/60f290ee-eb66-47e8-98c7-506731949ee5",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -12618,228 +11294,6 @@ export const liveJobs = [
     }
   },
   {
-    "id": "moka-188683662caf",
-    "company": "微步在线",
-    "title": "销售管培生-北京（27届）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "海外出差",
-      "节奏快"
-    ],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/24b5826a-d061-481b-b808-009e86d5883e",
-    "verification": "官方招聘官网",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "moka-892abd1379b2",
-    "company": "微步在线",
-    "title": "销售管培生-深圳（27届）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "海外出差",
-      "节奏快"
-    ],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/7487164a-0d85-41fc-9bf8-44b1848ec7fc",
-    "verification": "官方招聘官网",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "moka-0197a3073912",
-    "company": "微步在线",
-    "title": "销售管培生-上海企业（27届）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "海外出差",
-      "节奏快"
-    ],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/103a690f-9d24-4c54-9938-496646176e4d",
-    "verification": "官方招聘官网",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
     "id": "nowcoder-5582361172e6",
     "company": "公牛集团股份有限公司",
     "title": "2027届校招-非技术岗-人力资源岗(J23857)",
@@ -12866,7 +11320,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -12941,13 +11395,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://streamax.zhiye.com/campus/detail?jobAdId=621136767",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-09-01",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "13K-18K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -13022,13 +11476,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282839",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-06",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -13095,13 +11549,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849523",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优",
@@ -13171,13 +11625,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270958979",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-24",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -13246,13 +11700,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842385",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -13326,13 +11780,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4275078d-b72b-4cfe-8be4-904e02ad1041",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13404,13 +11858,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/8799342d-7543-4e1f-a6ab-389f808c476f",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -13440,228 +11894,6 @@ export const liveJobs = [
           "label": "专业范围",
           "verdict": "降权",
           "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "moka-a0d2f2d29567",
-    "company": "微步在线",
-    "title": "销售管培生-成都 （27届）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "成都",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "海外出差",
-      "节奏快"
-    ],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/bf6ffeee-cd85-430e-b173-1cc7d0950675",
-    "verification": "官方招聘官网",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "moka-f682bbe23d9f",
-    "company": "微步在线",
-    "title": "销售管培生-郑州（27届）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "待核",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "海外出差",
-      "节奏快"
-    ],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/aa62af73-154f-4491-938d-71a6e00e497e",
-    "verification": "官方招聘官网",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "moka-9aaf3d567b95",
-    "company": "微步在线",
-    "title": "销售管培生-重庆（27届）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "重庆",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "海外出差",
-      "节奏快"
-    ],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/f78714f6-9307-42b6-857c-cfa1d4b7d5e1",
-    "verification": "官方招聘官网",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
         },
         {
           "step": 2,
@@ -13721,7 +11953,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：品牌管理类。识别关键词：英语、数据分析、项目管理、跨部门沟通、文案。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13796,13 +12028,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://leapmotor.zhiye.com/campus/detail?jobAdId=230934958",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-31",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13878,13 +12110,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://unilumin.zhiye.com/campus/detail?jobAdId=390859952",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -13961,7 +12193,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:55:03.509Z",
+    "discoveredAt": "2026-09-08T12:17:30.612Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -14028,13 +12260,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=511197221",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-13",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：Excel、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-12K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -14102,13 +12334,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849386",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -14186,13 +12418,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/b423395c-78da-4efd-8680-8c534cfe946b",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -14269,13 +12501,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/ruijie/136206#/job/a68a6676-43e0-46da-8098-0c1a654d5152",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（卡片未单列届别）",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -14346,13 +12578,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://leapmotor.zhiye.com/campus/detail?jobAdId=230934810",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -14425,13 +12657,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968799",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -14501,13 +12733,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190848920",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-16",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -14580,13 +12812,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842390",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -14633,122 +12865,34 @@ export const liveJobs = [
     }
   },
   {
-    "id": "beisen-9cf8b099c589",
-    "company": "慧策集团",
-    "title": "实习-职能管培生(J14785)",
+    "id": "moka-5ce3cde43f3e",
+    "company": "微步在线",
+    "title": "回款运营专员（27届）",
     "roleFamily": [
       "其他"
     ],
     "city": "北京",
     "graduationYear": "2027",
-    "skills": [
-      "电商"
-    ],
+    "skills": [],
     "languages": [],
     "experienceKeywords": [
-      "海外",
       "运营",
-      "市场",
-      "电商"
+      "项目",
+      "数据",
+      "客户"
     ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "专业不限"
-    ],
+    "preferenceTags": [],
     "riskTags": [],
-    "source": "公司官方北森校招官网",
+    "source": "公司官方Moka校招官网",
     "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180181",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
+    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/7c1e5810-d219-4f51-8e46-3a7e74236255",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
+    "publishedAt": "",
     "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
+    "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "1、2026届毕业生，本科及以上实习生，专业不限，男女不限"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-1b64557e9884",
-    "company": "慧策集团",
-    "title": "实习-行政管培生(J14784)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "市场",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180177",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -14791,34 +12935,39 @@ export const liveJobs = [
     }
   },
   {
-    "id": "moka-5ce3cde43f3e",
-    "company": "微步在线",
-    "title": "回款运营专员（27届）",
+    "id": "nowcoder-600f43a5ff8a",
+    "company": "仲望咨询",
+    "title": "能源电力行业-招聘研究员（可实习转正）",
     "roleFamily": [
       "其他"
     ],
-    "city": "北京",
+    "city": "上海",
     "graduationYear": "2027",
     "skills": [],
     "languages": [],
     "experienceKeywords": [
-      "运营",
-      "项目",
+      "海外",
+      "市场",
       "数据",
+      "品牌",
       "客户"
     ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/7c1e5810-d219-4f51-8e46-3a7e74236255",
-    "verification": "官方招聘官网",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464541?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2028-10-01",
+    "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -14836,7 +12985,8 @@ export const liveJobs = [
       },
       "hardRequirements": [],
       "eligibilityEvidence": [
-        "招聘对象：2027届"
+        "招聘对象：2027届",
+        "投递截止：2028-10-01"
       ],
       "decisionSteps": [
         {
@@ -14893,7 +13043,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -14969,7 +13119,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：人力资源。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:55:03.509Z",
+    "discoveredAt": "2026-09-08T12:17:30.612Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -15030,13 +13180,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849594",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -15102,13 +13252,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849401",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优",
@@ -15181,13 +13331,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842391",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -15257,13 +13407,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842382",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-23",
     "deadline": "",
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -15343,7 +13493,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：数据分析、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:47:58.244Z",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -15413,13 +13563,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968955",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -15490,13 +13640,13 @@ export const liveJobs = [
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968954",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-21",
     "deadline": "",
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
+    "discoveredAt": "2026-09-08T12:15:30.763Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -15560,13 +13710,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/d7c08c41-1ceb-42f5-b0ca-e62e458595a3",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -15638,7 +13788,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -15710,7 +13860,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -15784,7 +13934,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -15858,7 +14008,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：区域GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -15932,7 +14082,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16006,7 +14156,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16080,7 +14230,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16152,7 +14302,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16226,7 +14376,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16300,7 +14450,7 @@ export const liveJobs = [
     "description": "安克创新官方 2027 全球校招岗位；职类：GTM类。识别关键词：Excel。投递前请打开官方校招页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:54:05.795Z",
+    "discoveredAt": "2026-09-08T12:16:35.394Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16332,332 +14482,6 @@ export const liveJobs = [
           "label": "职责动词",
           "verdict": "待核",
           "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-91f193ee2a15",
-    "company": "慧策集团",
-    "title": "招聘专员-校招/实习(J15112)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "天津",
-    "graduationYear": "2027",
-    "skills": [
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "市场",
-      "电商"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "专业不限"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151216491",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-07-17",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "1、应届毕业生/在校生，本科及以上学历，专业不限，人力资源/计算机/经管等专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-242f3ac51e5d",
-    "company": "慧策集团",
-    "title": "客户成功管培生-校招/实习-全国可选（J15244）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "全国",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "电商",
-      "数据",
-      "供应链",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151215784",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-07-15",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1.学历背景：2025届毕业生/2026届应届生，计算机、电商物流、工商管理、供应链、财务等相关专业优先，其他专业也可投递"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-15ec40fdc269",
-    "company": "慧策集团",
-    "title": "产品运营-实习(J15257)",
-    "roleFamily": [
-      "产品运营"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "用户",
-      "数据",
-      "客户"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151180248",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-20",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    }
-  },
-  {
-    "id": "beisen-239881d62880",
-    "company": "慧策集团",
-    "title": "产品运营-校招/实习转正(J15257)",
-    "roleFamily": [
-      "产品运营"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "用户",
-      "数据",
-      "客户"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://huicecom.zhiye.com/campus/detail?jobAdId=151174900",
-    "verification": "官方招聘官网",
-    "publishedAt": "2026-04-09",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T11:52:49.919Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
         },
         {
           "step": 3,
@@ -16689,13 +14513,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/7d607ab9-0331-4e7e-8dce-399a9a3225ea",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16754,13 +14578,81 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/c080d624-bfad-4e2a-8e92-15b69636ce7f",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nowcoder-cc212c57ab1f",
+    "company": "公牛集团股份有限公司",
+    "title": "2027届校招-营销岗-市场营销岗(J23860)",
+    "roleFamily": [
+      "市场"
+    ],
+    "city": "待核",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "市场",
+      "营销"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464955?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "",
+    "description": "自动发现的 市场 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T12:11:14.610Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16821,13 +14713,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/3b38d452-2a9f-4b5e-befd-ab74745ffadf",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16888,13 +14780,13 @@ export const liveJobs = [
     "source": "公司官方Moka校招官网",
     "sourceType": "official",
     "sourceUrl": "https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/job/a26486f3-10cd-445a-b128-a69bebd9bce8",
-    "verification": "官方招聘官网",
+    "verification": "官方招聘官网 · JD/标题明确2027届",
     "publishedAt": "",
     "deadline": "",
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T11:51:01.351Z",
+    "discoveredAt": "2026-09-08T12:13:42.336Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -16939,7 +14831,7 @@ export const liveJobs = [
 ];
 
 export const discoveryMeta = {
-  "updatedAt": "2026-09-08T11:55:16.441Z",
+  "updatedAt": "2026-09-08T12:17:43.594Z",
   "source": "多源：公司官方招聘官网/API + 牛客公开职位",
   "mode": "官方多ATS源优先去重 + JD专业/技术门槛过滤 + 英语专业适配信号 + 前端画像 S/A/B 精排",
   "stats": {
@@ -16947,93 +14839,123 @@ export const discoveryMeta = {
       "nowcoder": {
         "discoveredUrls": 1044,
         "scannedPages": 1044,
-        "keptJobs": 53,
+        "keptJobs": 51,
         "errors": 0
       },
       "moka": {
         "portals": 16,
         "scannedPortals": 16,
         "discoveredUrls": 452,
-        "keptJobs": 26,
+        "keptJobs": 19,
         "errors": 0,
         "ssrJobs": 0,
-        "domJobs": 527
+        "domJobs": 527,
+        "cohortRejected": 0,
+        "titleRejected": 26
       },
       "beisen": {
         "portals": 14,
         "scannedPortals": 13,
         "scannedRows": 3814,
-        "keptJobs": 150,
+        "keptJobs": 133,
         "errors": 1,
         "perPortal": {
           "科大讯飞": {
             "scannedRows": 600,
             "keptJobs": 28,
+            "cohortRejected": 0,
+            "titleRejected": 0,
             "mode": "api"
           },
           "中芯国际": {
             "scannedRows": 0,
             "keptJobs": 0,
+            "cohortRejected": 0,
+            "titleRejected": 0,
             "mode": "html"
           },
           "零跑汽车": {
             "scannedRows": 600,
-            "keptJobs": 10,
+            "keptJobs": 9,
+            "cohortRejected": 1,
+            "titleRejected": 0,
             "mode": "api"
           },
           "新产业生物": {
             "scannedRows": 271,
             "keptJobs": 0,
+            "cohortRejected": 0,
+            "titleRejected": 0,
             "mode": "api"
           },
           "vivo": {
             "scannedRows": 255,
             "keptJobs": 9,
+            "cohortRejected": 0,
+            "titleRejected": 1,
             "mode": "api"
           },
           "奇瑞汽车": {
             "scannedRows": 600,
             "keptJobs": 0,
+            "cohortRejected": 0,
+            "titleRejected": 1,
             "mode": "api"
           },
           "洲明科技": {
             "scannedRows": 49,
             "keptJobs": 4,
+            "cohortRejected": 0,
+            "titleRejected": 0,
             "mode": "api"
           },
           "传音控股": {
             "scannedRows": 600,
             "keptJobs": 21,
+            "cohortRejected": 0,
+            "titleRejected": 17,
             "mode": "api"
           },
           "新华三集团": {
             "scannedRows": 369,
             "keptJobs": 4,
+            "cohortRejected": 0,
+            "titleRejected": 2,
             "mode": "api"
           },
           "Babycare": {
             "scannedRows": 246,
             "keptJobs": 38,
+            "cohortRejected": 0,
+            "titleRejected": 9,
             "mode": "api"
           },
           "慧策集团": {
             "scannedRows": 123,
-            "keptJobs": 28,
+            "keptJobs": 8,
+            "cohortRejected": 7,
+            "titleRejected": 50,
             "mode": "api"
           },
           "锐明技术": {
             "scannedRows": 83,
-            "keptJobs": 7,
+            "keptJobs": 6,
+            "cohortRejected": 1,
+            "titleRejected": 1,
             "mode": "api"
           },
           "扬腾创新": {
             "scannedRows": 18,
             "keptJobs": 8,
+            "cohortRejected": 0,
+            "titleRejected": 1,
             "mode": "api"
           },
           "厦门国贸控股": {
             "scannedRows": 0,
             "keptJobs": 0,
+            "cohortRejected": 0,
+            "titleRejected": 0,
             "mode": "api",
             "error": "non-JSON Beisen response for 厦门国贸控股"
           }
@@ -17041,37 +14963,37 @@ export const discoveryMeta = {
       },
       "feishu": {
         "portals": 3,
-        "scannedPortals": 0,
-        "listed": 0,
+        "scannedPortals": 3,
+        "listed": 1016,
         "keptJobs": 0,
-        "errors": 3,
+        "errors": 0,
         "perPortal": {
           "影石Insta360": {
-            "pages": 0,
-            "listed": 0,
+            "pages": 3,
+            "listed": 277,
             "keptJobs": 0,
-            "errors": 1,
-            "snapshotComplete": false,
-            "emptyResult": true,
-            "websitePath": ""
+            "errors": 0,
+            "snapshotComplete": true,
+            "emptyResult": false,
+            "error": ""
           },
           "得物App": {
-            "pages": 0,
-            "listed": 0,
+            "pages": 6,
+            "listed": 592,
             "keptJobs": 0,
-            "errors": 1,
-            "snapshotComplete": false,
-            "emptyResult": true,
-            "websitePath": ""
+            "errors": 0,
+            "snapshotComplete": true,
+            "emptyResult": false,
+            "error": ""
           },
           "沐瞳科技": {
-            "pages": 0,
-            "listed": 0,
+            "pages": 2,
+            "listed": 147,
             "keptJobs": 0,
-            "errors": 1,
-            "snapshotComplete": false,
-            "emptyResult": true,
-            "websitePath": ""
+            "errors": 0,
+            "snapshotComplete": true,
+            "emptyResult": false,
+            "error": ""
           }
         }
       },
@@ -17094,15 +15016,15 @@ export const discoveryMeta = {
     },
     "policyExcluded": {
       "专业硬门槛与英语专业不匹配": 34,
-      "纯销售": 3,
+      "纯销售": 2,
       "硬技术能力要求": 17,
       "明确技术工程/实施岗位": 8,
       "技术职责主导": 2,
       "实习岗位": 4
     },
     "retainedSeeds": 3,
-    "totalJobs": 209,
-    "companies": 36
+    "totalJobs": 184,
+    "companies": 34
   },
   "note": "硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。"
 };
