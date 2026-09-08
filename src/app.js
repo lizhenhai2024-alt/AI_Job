@@ -10,7 +10,7 @@ const baseJobs = liveJobs.length ? liveJobs : demoJobs;
 
 const state = {
   tab: 'radar', profile: loadProfile(defaultProfile), statuses: loadStatuses(),
-  filters: { keyword: '', city: '全部', role: '全部', minScore: '0' }, selectedJobId: null
+  filters: { keyword: '', city: '全部', role: '全部', tier: '全部', minScore: '0' }, selectedJobId: null
 };
 
 function esc(value = '') {
@@ -35,6 +35,7 @@ function currentFilteredJobs() {
     return (!keyword || text.includes(keyword))
       && (state.filters.city === '全部' || job.city === state.filters.city)
       && (state.filters.role === '全部' || (job.roleFamily || []).includes(state.filters.role))
+      && (state.filters.tier === '全部' || job.match.tier === state.filters.tier)
       && job.match.score >= Number(state.filters.minScore || 0);
   });
 }
@@ -43,9 +44,9 @@ function statData(jobs) {
   const now = new Date();
   const in30 = new Date(now.getTime() + 30 * 86400000);
   return {
-    total: jobs.length,
-    high: jobs.filter((j) => j.match.score >= 80).length,
-    must: jobs.filter((j) => j.match.score >= 85 && !j.match.risks.some((r) => r.startsWith('命中排除条件'))).length,
+    s: jobs.filter((j) => j.match.tier === 'S').length,
+    a: jobs.filter((j) => j.match.tier === 'A').length,
+    b: jobs.filter((j) => j.match.tier === 'B').length,
     closing: jobs.filter((j) => {
       if (!j.deadline) return false;
       const d = new Date(`${j.deadline}T23:59:59`);
@@ -57,11 +58,11 @@ function statData(jobs) {
 function companyClues() {
   const map = new Map();
   for (const job of jobsWithState()) {
-    const item = map.get(job.company) || { company: job.company, jobs: [], cities: new Set(), roles: new Set(), bestScore: 0, verification: job.verification || '来源待核' };
+    const item = map.get(job.company) || { company: job.company, jobs: [], cities: new Set(), roles: new Set(), bestScore: 0, bestTier: 'B', verification: job.verification || '来源待核' };
     item.jobs.push(job);
     item.cities.add(job.city);
     for (const role of job.roleFamily || []) item.roles.add(role);
-    item.bestScore = Math.max(item.bestScore, job.match.score);
+    if (job.match.score > item.bestScore) { item.bestScore = job.match.score; item.bestTier = job.match.tier; }
     map.set(job.company, item);
   }
   return [...map.values()].map((item) => ({ ...item, cities: [...item.cities], roles: [...item.roles] })).sort((a,b) => b.bestScore - a.bestScore || b.jobs.length - a.jobs.length);
@@ -90,24 +91,25 @@ function renderRadar() {
   const roles = ['全部', ...new Set(all.flatMap((j) => j.roleFamily || []))];
   const live = liveJobs.length > 0;
   return `<section class="hero">
-      <div><h1>今天哪些岗位值得投？</h1><p>自动发现公开岗位，再按你的画像做可解释精排。</p></div>
+      <div><h1>今天哪些岗位值得投？</h1><p>S 档优先投、A 档建议投、B 档备选观察；来源可信度也参与分层。</p></div>
       <div class="demo-note ${live ? 'live-note' : ''}">
         <strong>${live ? '● 自动岗位池已启用' : 'Demo 回退模式'}</strong><br>
         ${live ? `${baseJobs.length} 个岗位 · ${companyClues().length} 家公司 · 更新 ${esc(fmtDateTime(discoveryMeta.updatedAt))}` : '当前没有自动岗位数据，正在展示示例数据。'}
-        ${live ? '<br>公开二手来源用于发现，投递前请回公司官网核验。' : ''}
+        ${live ? '<br>官方来源优先；二手来源用于扩大发现，投递前请回官网核验。' : ''}
       </div>
     </section>
     <section class="stats">
-      <div class="stat"><div class="value">${stats.total}</div><div class="label">候选岗位</div></div>
-      <div class="stat"><div class="value">${stats.high}</div><div class="label">高匹配 ≥ 80</div></div>
-      <div class="stat"><div class="value">${stats.must}</div><div class="label">建议优先投递</div></div>
+      <div class="stat"><div class="value">${stats.s}</div><div class="label">S档 · 优先投递</div></div>
+      <div class="stat"><div class="value">${stats.a}</div><div class="label">A档 · 建议投递</div></div>
+      <div class="stat"><div class="value">${stats.b}</div><div class="label">B档 · 备选观察</div></div>
       <div class="stat"><div class="value">${stats.closing}</div><div class="label">30天内截止</div></div>
     </section>
     <section class="toolbar">
       <div class="field"><label>关键词</label><input id="filter-keyword" value="${esc(state.filters.keyword)}" placeholder="公司 / 岗位 / 技能" /></div>
       <div class="field"><label>城市</label><select id="filter-city">${cities.map((x) => `<option ${x === state.filters.city ? 'selected' : ''}>${esc(x)}</option>`).join('')}</select></div>
       <div class="field"><label>岗位族</label><select id="filter-role">${roles.map((x) => `<option ${x === state.filters.role ? 'selected' : ''}>${esc(x)}</option>`).join('')}</select></div>
-      <div class="field"><label>最低匹配</label><select id="filter-score">${[0,50,65,80,85].map((x) => `<option value="${x}" ${String(x) === state.filters.minScore ? 'selected' : ''}>${x}+</option>`).join('')}</select></div>
+      <div class="field"><label>优先级</label><select id="filter-tier">${['全部','S','A','B'].map((x) => `<option ${x === state.filters.tier ? 'selected' : ''}>${x}</option>`).join('')}</select></div>
+      <div class="field"><label>最低匹配</label><select id="filter-score">${[0,50,65,70,80,85].map((x) => `<option value="${x}" ${String(x) === state.filters.minScore ? 'selected' : ''}>${x}+</option>`).join('')}</select></div>
     </section>
     <section class="jobs">${jobs.length ? jobs.map(renderJobCard).join('') : '<div class="empty">没有符合当前筛选条件的岗位。</div>'}</section>`;
 }
@@ -120,11 +122,11 @@ function renderJobCard(job) {
     <div>
       <div class="company">${esc(job.company)}</div><h2 class="job-title">${esc(job.title)}</h2>
       <div class="meta"><span>📍 ${esc(job.city)}</span><span>🎓 ${esc(job.graduationYear)}届</span><span>🗓 截止 ${esc(job.deadline || '待核')}</span><span>${esc(job.source || '来源待核')}</span>${verify}</div>
-      <div class="tags">${(job.roleFamily || []).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
+      <div class="tags"><span class="tag"><strong>${esc(job.match.tier)}档</strong></span>${(job.roleFamily || []).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
       <div class="reasons" style="margin-top:11px">${highlights}${risks}</div>
     </div>
     <div class="score-wrap">
-      <div><div class="score">${job.match.score}<small>/100</small></div><span class="badge">${esc(job.match.level)}</span></div>
+      <div><div class="score">${job.match.score}<small>/100</small></div><span class="badge">${esc(job.match.tierLabel)}</span></div>
       <div class="actions">
         ${job.sourceUrl ? `<a class="btn" href="${esc(job.sourceUrl)}" target="_blank" rel="noopener">查看来源</a>` : ''}
         <button class="btn" data-detail="${esc(job.id)}">匹配分析</button>
@@ -139,7 +141,7 @@ function renderCompanies() {
   return `<section class="hero"><div><h1>公司雷达</h1><p>先发现正在招 2027 届的公司，再看其中哪些岗位真正适合你。</p></div>
     <div class="demo-note live-note"><strong>${companies.length} 家候选公司</strong><br>来源：${esc(discoveryMeta.source || '自动岗位池')}<br>最近更新：${esc(fmtDateTime(discoveryMeta.updatedAt))}</div></section>
     <section class="company-grid">${companies.map((c) => `<article class="company-card">
-      <div class="company-card-head"><div><div class="company">候选公司</div><h2>${esc(c.company)}</h2></div><div class="company-score">${c.bestScore}<small>最高匹配</small></div></div>
+      <div class="company-card-head"><div><div class="company">候选公司</div><h2>${esc(c.company)}</h2></div><div class="company-score">${c.bestScore}<small>${esc(c.bestTier)}档最高匹配</small></div></div>
       <div class="meta"><span>岗位 ${c.jobs.length}</span><span>📍 ${esc(c.cities.join('、') || '待核')}</span><span>${esc(c.verification)}</span></div>
       <div class="tags">${c.roles.slice(0,6).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
       <div class="company-actions"><button class="btn primary" data-company="${esc(c.company)}">查看该公司岗位</button></div>
@@ -151,7 +153,7 @@ function renderPipeline() {
   return `<section class="hero"><div><h1>投递看板</h1><p>把“想投”变成可追踪的求职漏斗。</p></div></section>
     <section class="pipeline">${PIPELINE.map((status) => {
       const items = jobs.filter((j) => j.status === status);
-      return `<div class="column"><h3>${status}<span>${items.length}</span></h3>${items.map((j) => `<div class="pipeline-card"><strong>${esc(j.title)}</strong><span>${esc(j.company)} · ${j.match.score}分</span><select data-pipeline-id="${esc(j.id)}">${PIPELINE.map((x) => `<option ${x === status ? 'selected' : ''}>${x}</option>`).join('')}</select></div>`).join('') || '<div class="hint">暂无岗位</div>'}</div>`;
+      return `<div class="column"><h3>${status}<span>${items.length}</span></h3>${items.map((j) => `<div class="pipeline-card"><strong>${esc(j.title)}</strong><span>${esc(j.company)} · ${j.match.tier}档 · ${j.match.score}分</span><select data-pipeline-id="${esc(j.id)}">${PIPELINE.map((x) => `<option ${x === status ? 'selected' : ''}>${x}</option>`).join('')}</select></div>`).join('') || '<div class="hint">暂无岗位</div>'}</div>`;
     }).join('')}</section>`;
 }
 
@@ -180,7 +182,7 @@ function renderModal() {
   return `<div class="modal-backdrop" data-close-modal="1"><div class="modal" role="dialog" aria-modal="true" onclick="event.stopPropagation()">
     <div class="modal-head"><div><div class="company">${esc(job.company)}</div><h2>${esc(job.title)}</h2></div><button class="close" data-close-modal="1">×</button></div>
     <p>${esc(job.description)}</p><div class="source-box"><strong>数据来源：</strong>${esc(job.source || '待核')} · ${esc(job.verification || '待核')}${job.sourceUrl ? ` · <a href="${esc(job.sourceUrl)}" target="_blank" rel="noopener">打开来源</a>` : ''}</div>
-    <h3>匹配得分：${job.match.score}/100 · ${esc(job.match.level)}</h3>
+    <h3>${esc(job.match.tierLabel)} · ${job.match.score}/100</h3><p>${esc(job.match.tierReason)}</p>
     ${job.match.dimensions.map((d) => `<div class="dimension"><strong>${esc(d.label)}</strong><div class="bar"><div style="width:${Math.round(d.ratio * 100)}%"></div></div><span>${d.score}/${d.weight}</span></div>`).join('')}
     <h3>亮点</h3><div class="tags">${job.match.highlights.map((x) => `<span class="tag">✓ ${esc(x)}</span>`).join('') || '<span class="hint">暂无明显优势</span>'}</div>
     <h3>缺口 / 风险</h3><div class="tags">${[...job.match.gaps, ...job.match.risks].map((x) => `<span class="tag">△ ${esc(x)}</span>`).join('') || '<span class="hint">暂无明显风险</span>'}</div>
@@ -198,7 +200,7 @@ app.addEventListener('click', (event) => {
   const tab = event.target.closest('[data-tab]')?.dataset.tab;
   if (tab) { state.tab = tab; state.selectedJobId = null; render(); return; }
   const company = event.target.closest('[data-company]')?.dataset.company;
-  if (company) { state.filters.keyword = company; state.filters.city = '全部'; state.filters.role = '全部'; state.filters.minScore = '0'; state.tab = 'radar'; render(); return; }
+  if (company) { state.filters.keyword = company; state.filters.city = '全部'; state.filters.role = '全部'; state.filters.tier = '全部'; state.filters.minScore = '0'; state.tab = 'radar'; render(); return; }
   const detail = event.target.closest('[data-detail]')?.dataset.detail;
   if (detail) { state.selectedJobId = detail; render(); return; }
   if (event.target.closest('[data-close-modal]')) { state.selectedJobId = null; render(); return; }
@@ -226,6 +228,7 @@ app.addEventListener('input', (event) => {
 app.addEventListener('change', (event) => {
   if (event.target.id === 'filter-city') { state.filters.city = event.target.value; render(); }
   if (event.target.id === 'filter-role') { state.filters.role = event.target.value; render(); }
+  if (event.target.id === 'filter-tier') { state.filters.tier = event.target.value; render(); }
   if (event.target.id === 'filter-score') { state.filters.minScore = event.target.value; render(); }
   if (event.target.matches('[data-pipeline-id]')) setStatus(event.target.dataset.pipelineId, event.target.value);
 });
