@@ -3,20 +3,22 @@ import crypto from 'node:crypto';
 export const CITY_NAMES = ['深圳','上海','广州','北京','武汉','杭州','成都','南京','苏州','西安','长沙','东莞','天津','重庆','厦门','珠海','佛山','惠州','香港'];
 const ROLE_RULES = [
   ['GTM', /\bGTM\b|go[- ]?to[- ]?market|上市推广|新品上市/i],
+  ['产品运营', /产品运营|产品策划|产品增长/i],
   ['产品营销', /产品营销|营销策划|品牌策划|市场推广|市场专员|数字营销|品牌营销/i],
   ['海外运营', /海外.*运营|国际.*运营|全球.*运营|版本运营|本地化运营/i],
-  ['电商运营', /电商运营|跨境电商|平台运营|商家运营/i],
+  ['电商运营', /电商运营|跨境电商|商家运营/i],
   ['用户运营', /用户运营|会员运营|用户增长|社区运营/i],
   ['业务运营', /业务运营|运营管理|经营管理|销售运营|商务运营/i],
   ['内容运营', /内容运营|SEO运营|新媒体|内容策划/i],
   ['项目管理', /项目管理|项目运营|项目推进|项目协调/i],
-  ['HR', /人力资源|招聘运营|校园招聘|HR|人才/i],
-  ['市场', /市场专员|市场营销|市场推广|市场分析/i],
-  ['销售', /销售|客户经理|渠道|商务拓展|BD/i]
+  ['HR', /人力资源|招聘运营|校园招聘|HRBP|\bHR\b/i],
+  ['市场', /市场专员|市场营销|市场推广|市场分析|品牌市场/i],
+  ['销售', /销售代表|销售经理|客户经理|渠道销售|商务拓展|\bBD\b/i]
 ];
 
 const SKILL_WORDS = ['英语','Excel','数据分析','内容运营','市场分析','PPT','SQL','PowerBI','GA4','SEO','项目管理','跨部门沟通','文案','电商'];
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户'];
+const ADJACENT_TITLE = /技术文档|本地化|翻译|国际商务|海外商务|客户成功|品牌|市场|运营|GTM|电商|项目管理|项目运营|招聘|人力资源|内容/i;
 
 export function decodeHtml(value = '') {
   return String(value)
@@ -69,7 +71,7 @@ function asText(value) {
   return String(value);
 }
 
-function extractLocation(posting, text) {
+function extractLocation(posting, pageText) {
   const raw = posting?.jobLocation;
   const locations = Array.isArray(raw) ? raw : raw ? [raw] : [];
   const fromLd = locations.flatMap((loc) => {
@@ -78,7 +80,7 @@ function extractLocation(posting, text) {
   }).join('、');
   const candidate = CITY_NAMES.find((city) => fromLd.includes(city));
   if (candidate) return candidate;
-  return CITY_NAMES.find((city) => text.slice(0, 1400).includes(city)) || fromLd || '待核';
+  return CITY_NAMES.find((city) => pageText.slice(0, 1400).includes(city)) || fromLd || '待核';
 }
 
 function normalizeDate(value = '') {
@@ -106,8 +108,8 @@ function fallbackTitleAndCompany(html, text) {
   return { title: jobTitle, company: company || '待核公司' };
 }
 
-export function classifyRole(text = '') {
-  const hit = ROLE_RULES.filter(([, rx]) => rx.test(text)).map(([name]) => name);
+export function classifyRole(title = '') {
+  const hit = ROLE_RULES.filter(([, rx]) => rx.test(title)).map(([name]) => name);
   return hit.length ? [...new Set(hit)].slice(0, 4) : ['其他'];
 }
 
@@ -141,39 +143,40 @@ export function isClosed(text = '', deadline = '', now = new Date()) {
 }
 
 export function parseJobPage({ html, url, lastmod = '', now = new Date() }) {
-  const text = htmlToText(html);
+  const pageText = htmlToText(html);
   const posting = findJobPosting(html);
-  const fallback = fallbackTitleAndCompany(html, text);
+  const fallback = fallbackTitleAndCompany(html, pageText);
   const title = asText(posting?.title) || fallback.title;
   const company = asText(posting?.hiringOrganization) || fallback.company;
   const rawDescription = htmlToText(asText(posting?.description) || '') || (() => {
-    const idx = text.indexOf('岗位职责');
-    return (idx >= 0 ? text.slice(idx, idx + 2600) : text.slice(0, 2600)).trim();
+    const idx = pageText.indexOf('岗位职责');
+    return (idx >= 0 ? pageText.slice(idx, idx + 2600) : pageText.slice(0, 2600)).trim();
   })();
-  const combined = `${title}\n${company}\n${rawDescription}\n${text}`;
-  const deadline = normalizeDate(posting?.validThrough) || fallbackDeadline(text);
-  const graduationYear = is2027(combined, posting) ? '2027' : '';
-  const roleFamily = classifyRole(`${title}\n${rawDescription}`);
-  const skills = detectSkills(combined);
-  const experienceKeywords = EXPERIENCE_WORDS.filter((word) => combined.includes(word)).slice(0, 8);
-  const languages = /英语|英文|CET|雅思|托福|English/i.test(combined) ? ['英语'] : [];
+  const jobText = `${title}\n${company}\n${rawDescription}`;
+  const cohortEvidence = `${title}\n${rawDescription}\n${pageText}`;
+  const deadline = normalizeDate(posting?.validThrough) || fallbackDeadline(pageText);
+  const graduationYear = is2027(cohortEvidence, posting) ? '2027' : '';
+  const roleFamily = classifyRole(title);
+  const skills = detectSkills(jobText);
+  const experienceKeywords = EXPERIENCE_WORDS.filter((word) => jobText.includes(word)).slice(0, 8);
+  const languages = /英语|英文|CET|雅思|托福|English/i.test(jobText) ? ['英语'] : [];
   const preferenceTags = [
-    /海外|国际|全球/.test(combined) ? '国际业务' : '',
-    /跨文化|本地化|海外用户|海外市场/.test(combined) ? '跨文化' : '',
-    /出海|海外市场|跨境/.test(combined) ? '出海' : ''
+    /海外|国际|全球/.test(jobText) ? '国际业务' : '',
+    /跨文化|本地化|海外用户|海外市场/.test(jobText) ? '跨文化' : '',
+    /出海|海外市场|跨境/.test(jobText) ? '出海' : ''
   ].filter(Boolean);
-  const riskTags = detectRisks(combined);
+  const riskTags = detectRisks(jobText);
   const publishedAt = normalizeDate(posting?.datePosted) || normalizeDate(lastmod);
   const salary = asText(posting?.baseSalary);
   const id = `nowcoder-${crypto.createHash('sha1').update(url).digest('hex').slice(0, 12)}`;
   const description = `自动发现的 ${roleFamily.join(' / ')} 类岗位${skills.length ? `；识别关键词：${skills.slice(0,5).join('、')}` : ''}。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。`;
   return {
-    id, company, title, roleFamily, city: extractLocation(posting, text), graduationYear,
+    id, company, title, roleFamily, city: extractLocation(posting, pageText), graduationYear,
     skills, languages, experienceKeywords, preferenceTags, riskTags,
     source: '牛客公开职位', sourceType: 'secondary', sourceUrl: url,
     verification: '二手来源，待官网核验', publishedAt, deadline,
     description, salary, status: '推荐', discoveredAt: now.toISOString(),
-    closed: isClosed(text, deadline, now), _searchText: combined
+    closed: isClosed(pageText, deadline, now), _searchText: jobText
   };
 }
 
@@ -187,9 +190,17 @@ export function relevanceScore(job, profile) {
   return score;
 }
 
+function hasRoleSignal(job, profile) {
+  const title = String(job.title || '');
+  const directKeyword = (profile.roleKeywords || []).some((kw) => title.toLowerCase().includes(String(kw).toLowerCase()));
+  const classified = (job.roleFamily || []).some((role) => role !== '其他');
+  return directKeyword || classified || ADJACENT_TITLE.test(title);
+}
+
 export function shouldKeep(job, profile, now = new Date()) {
   if (!job || job.graduationYear !== String(profile.graduationYear || '2027')) return false;
   if (job.closed || isClosed('', job.deadline, now)) return false;
+  if (!hasRoleSignal(job, profile)) return false;
   return relevanceScore(job, profile) >= Number(profile.minRelevanceScore ?? 4);
 }
 
