@@ -7,6 +7,7 @@ import { searchBeisenJobs } from './job-discovery/beisen.mjs';
 import { searchAnkerJobs } from './job-discovery/anker.mjs';
 import { searchEcoflowJobs } from './job-discovery/ecoflow.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
+import { isInternshipJob } from './job-discovery/policy.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const config = JSON.parse(await fs.readFile(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -39,11 +40,6 @@ function dedupePreferOfficial(jobs = []) {
     if (!prev || rank(job) > rank(prev) || (rank(job) === rank(prev) && String(job.publishedAt || '') > String(prev.publishedAt || ''))) map.set(key, job);
   }
   return [...map.values()];
-}
-
-function isInternshipJob(job) {
-  const title = String(job?.title || '');
-  return /实习生|日常实习|暑期实习|实习岗位|\bIntern(?:ship)?\b/i.test(title);
 }
 
 const existing = await loadExisting();
