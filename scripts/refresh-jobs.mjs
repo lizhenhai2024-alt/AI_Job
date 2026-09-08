@@ -41,6 +41,11 @@ function dedupePreferOfficial(jobs = []) {
   return [...map.values()];
 }
 
+function isInternshipJob(job) {
+  const title = String(job?.title || '');
+  return /实习生|日常实习|暑期实习|实习岗位|\bIntern(?:ship)?\b/i.test(title);
+}
+
 const existing = await loadExisting();
 const sourceResults = [];
 let chromium = null;
@@ -95,16 +100,17 @@ try {
   console.warn(`[job-refresh:ecoflow] skipped: ${error.message}`);
 }
 
-const freshJobs = sourceResults.flatMap((r) => r.jobs || []).filter((job) => !job.riskTags?.includes('纯销售'));
+const freshJobs = sourceResults.flatMap((r) => r.jobs || [])
+  .filter((job) => !job.riskTags?.includes('纯销售') && !isInternshipJob(job));
 if (!freshJobs.length) {
   console.warn('[job-refresh] no fresh matching jobs found; keeping existing live job pool unchanged.');
   process.exit(0);
 }
 
-const retainedSeeds = existing.filter((job) => !job.discoveredAt && !job.riskTags?.includes('纯销售'));
+const retainedSeeds = existing.filter((job) => !job.discoveredAt && !job.riskTags?.includes('纯销售') && !isInternshipJob(job));
 const now = new Date();
 const merged = dedupePreferOfficial([...freshJobs, ...retainedSeeds])
-  .filter((job) => !isClosed('', job.deadline, now) && !job.riskTags?.includes('纯销售'))
+  .filter((job) => !isClosed('', job.deadline, now) && !job.riskTags?.includes('纯销售') && !isInternshipJob(job))
   .sort((a,b) => {
     const scoreDiff = relevanceScore(b, config) - relevanceScore(a, config);
     if (scoreDiff) return scoreDiff;
@@ -121,7 +127,7 @@ const meta = {
   source: '多源：公司官方招聘官网/API + 牛客公开职位',
   mode: '官方源优先去重 + 多源扩面 + 前端画像 S/A/B 精排',
   stats: { sources: sourceStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '官方招聘官网/API优先用于去重与核验；二手来源用于扩大岗位发现范围。安克使用官方公开API游标分页，EcoFlow使用官方飞书招聘匿名公开职位API。纯销售岗位不进入推荐池，投递前仍建议打开原始职位页确认职责和截止日期。'
+  note: '官方招聘官网/API优先用于去重与核验；二手来源用于扩大岗位发现范围。安克使用官方公开API游标分页，EcoFlow使用官方飞书招聘匿名公开职位API。纯销售和实习岗位不进入推荐池，投递前仍建议打开原始职位页确认职责和截止日期。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
