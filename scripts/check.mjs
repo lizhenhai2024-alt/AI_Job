@@ -7,7 +7,7 @@ const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
   'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
-  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/job-discovery/beisen.mjs', 'scripts/refresh-jobs.mjs',
+  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/anker.mjs', 'scripts/refresh-jobs.mjs',
   'config/search-profile.json', 'config/official-sources.json', 'README.md', 'docs/PLAN.md'
 ];
 
@@ -49,4 +49,9 @@ if (sources.beisen.some((s) => {
 const vivo = sources.beisen.find((s) => s.company === 'vivo');
 if (vivo && !vivo.portalId) throw new Error('vivo Beisen campus PortalId is required');
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, provenance OK.`);
+const anker = sources.anker;
+if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker-in.com/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || !anker.websiteId || anker.graduationYear !== '2027') {
+  throw new Error('official Anker source registry validation failed');
+}
+
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, Anker official API, provenance OK.`);
