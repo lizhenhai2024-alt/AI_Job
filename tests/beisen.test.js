@@ -5,7 +5,7 @@ import { parseBeisenRow, parseBeisenCampusHtml, searchBeisenJobs, resolveBeisenG
 const source = { company: '示例企业', baseUrl: 'https://example.zhiye.com', graduationYear: '2027' };
 const profile = {
   graduationYear: '2027',
-  roleKeywords: ['运营','海外运营','产品运营','产品营销','市场','用户运营','业务运营','项目管理'],
+  roleKeywords: ['运营','海外运营','海外业务','贸易运营','产品运营','产品营销','市场','用户运营','业务运营','项目管理'],
   keywords: ['英语','海外','数据分析'],
   targetCities: ['深圳','上海','北京'],
   strongExclude: ['软件工程师'],
@@ -115,4 +115,48 @@ test('parses server-rendered Beisen campus table as HTML fallback', async () => 
   assert.equal(result.stats.perPortal['中芯国际'].mode, 'html');
   assert.equal(result.jobs.length, 1);
   assert.equal(result.jobs[0].title, '政府项目管理工程师（2027届校招）');
+});
+
+test('ITG verified 2027 campaign HTML uses custom list/detail routes and JD enrichment', async () => {
+  const itgSource = {
+    company: '国贸股份',
+    baseUrl: 'https://itg.zhiye.com',
+    graduationYear: '2027',
+    mode: 'html',
+    campaignLabel: '2027届秋季全球校园招聘',
+    listUrl: 'https://itg.zhiye.com/gmkgxzlb?k=&PageIndex=1&key=gmgf&job=campus',
+    enrichDetails: true
+  };
+  const listHtml = `<div class="zwlb"><ul>
+    <li><a href="/gmkgxzxq?jobId=311179882&key=gmgf&job=campus"><h2>海外业务岗(J13645)<span>国贸股份</span></h2><span>工作地址：国外-泰国</span><span>发布时间：2026-09-01</span></a></li>
+    <li><a href="/gmkgxzxq?jobId=311179875&key=gmgf&job=campus"><h2>行业研究岗(J13649)<span>国贸股份</span></h2><span>工作地址：福建省-厦门市</span><span>发布时间：2026-09-01</span></a></li>
+  </ul></div>`;
+  const overseasDetail = `<html><body>职位详情 海外业务岗(J13645) 薪资范围：14-18 万元/年 发布时间：2026-09-01 工作地址：国外-泰国,国外-马来西亚 工作职责 收集海外市场信息，开拓国际市场客户。任职资格 本科及以上学历，英语专业通过专业四级；责任感强，沟通能力优秀。立即申请</body></html>`;
+  const researchDetail = `<html><body>职位详情 行业研究岗(J13649) 薪资范围：14-16 万元/年 发布时间：2026-09-01 工作地址：福建省-厦门市 工作职责 开展大宗商品量化研究。任职资格 熟练 Python、R、MATLAB、C++ 和 SQL。立即申请</body></html>`;
+  const fetcher = async (url) => {
+    const value = String(url);
+    if (value.includes('gmkgxzlb')) return new Response(listHtml, { status: 200, headers: { 'content-type': 'text/html' } });
+    if (value.includes('311179882')) return new Response(overseasDetail, { status: 200, headers: { 'content-type': 'text/html' } });
+    if (value.includes('311179875')) return new Response(researchDetail, { status: 200, headers: { 'content-type': 'text/html' } });
+    return new Response('', { status: 404 });
+  };
+
+  const parsed = parseBeisenCampusHtml(itgSource, listHtml);
+  assert.equal(parsed.length, 2);
+  assert.equal(parsed[0].JobAdId, '311179882');
+  assert.equal(parsed[0].JobAdName, '海外业务岗(J13645)');
+  assert.match(parsed[0].DetailUrl, /gmkgxzxq\?jobId=311179882/);
+
+  const result = await searchBeisenJobs(profile, [itgSource], { fetcher, maxPages: 2, now: new Date('2026-09-08T00:00:00Z') });
+  assert.equal(result.stats.errors, 0);
+  assert.equal(result.stats.scannedPortals, 1);
+  assert.equal(result.stats.perPortal['国贸股份'].mode, 'html');
+  assert.equal(result.stats.perPortal['国贸股份'].detailErrors, 0);
+  assert.equal(result.jobs.length, 1);
+  assert.equal(result.jobs[0].title, '海外业务岗(J13645)');
+  assert.equal(result.jobs[0].city, '国外');
+  assert.equal(result.jobs[0].salary, '14-18 万元/年');
+  assert.ok(result.jobs[0].languages.includes('英语'));
+  assert.match(result.jobs[0].verification, /已核验2027届秋季全球校园招聘/);
+  assert.match(result.jobs[0].sourceUrl, /gmkgxzxq\?jobId=311179882/);
 });
