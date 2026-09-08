@@ -3,6 +3,37 @@ import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_N
 
 function textOf(v = '') { return String(v || '').replace(/\s+/g, ' ').trim(); }
 function cityFrom(text = '') { return CITY_NAMES.find((c) => String(text).includes(c)) || '待核'; }
+function decodeAttr(value = '') {
+  return String(value)
+    .replace(/&quot;/g, '"').replace(/&#34;/g, '"')
+    .replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+}
+
+export function mokaJobsUrl(portalUrl = '') {
+  const base = String(portalUrl).split('#')[0].replace(/\/$/, '');
+  return `${base}#/jobs`;
+}
+
+export function mokaJobUrl(portalUrl = '', jobId = '') {
+  const base = String(portalUrl).split('#')[0].replace(/\/$/, '');
+  return `${base}#/job/${jobId}`;
+}
+
+export function parseMokaInitData(html = '') {
+  const match = String(html).match(/<input[^>]+id=["']init-data["'][^>]+value=["']([\s\S]*?)["'][^>]*>/i);
+  if (!match) return null;
+  try { return JSON.parse(decodeAttr(match[1])); } catch { return null; }
+}
+
+function cardsFromInitData(initData, source) {
+  const jobs = Array.isArray(initData?.jobs) ? initData.jobs : [];
+  return jobs.map((job) => {
+    const locations = Array.isArray(job?.locations) ? job.locations : [];
+    const locationText = locations.map((x) => x?.cityName || x?.country || x?.address || '').filter(Boolean).join(' ');
+    const extra = [job?.department?.name, job?.zhineng?.name, job?.commitment, locationText].filter(Boolean).join(' ');
+    return { href: mokaJobUrl(source.url, job?.id || ''), text: [job?.title, extra].filter(Boolean).join('\n') };
+  }).filter((x) => x.href && x.text && !x.href.endsWith('/job/'));
+}
 
 export function parseMokaCard({ company, title, text = '', url, graduationYear = '2027', now = new Date() }) {
   const body = `${title}\n${text}`;
@@ -23,24 +54,40 @@ export function parseMokaCard({ company, title, text = '', url, graduationYear =
 }
 
 export async function searchMokaJobs(profile, sources = [], { chromium, timeoutMs = 45000, now = new Date() } = {}) {
-  if (!chromium || !sources.length) return { jobs: [], stats: { portals: sources.length, scannedPortals: 0, discoveredUrls: 0, keptJobs: 0, errors: 0 } };
+  if (!chromium || !sources.length) return { jobs: [], stats: { portals: sources.length, scannedPortals: 0, discoveredUrls: 0, keptJobs: 0, errors: 0, ssrJobs: 0, domJobs: 0 } };
   const browser = await chromium.launch({ headless: true });
   const jobs = [];
-  let scannedPortals = 0, discoveredUrls = 0, errors = 0;
+  let scannedPortals = 0, discoveredUrls = 0, errors = 0, ssrJobs = 0, domJobs = 0;
   try {
     const page = await browser.newPage({ viewport: { width: 1365, height: 900 } });
     for (const source of sources) {
       try {
-        await page.goto(source.url, { waitUntil: 'domcontentloaded', timeout: timeoutMs });
-        await page.waitForTimeout(3500);
+        await page.goto(mokaJobsUrl(source.url), { waitUntil: 'domcontentloaded', timeout: timeoutMs });
+        await page.waitForTimeout(2500);
+        for (let i = 0; i < 4; i++) {
+          await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+          await page.waitForTimeout(500);
+        }
         scannedPortals++;
-        const cards = await page.evaluate(() => {
+
+        const html = await page.content();
+        const initCards = cardsFromInitData(parseMokaInitData(html), source);
+        ssrJobs += initCards.length;
+
+        const domCards = await page.evaluate(() => {
           const anchors = [...document.querySelectorAll('a[href*="#/job/"], a[href*="/job/"]')];
-          return anchors.map((a) => ({ href: a.href, text: (a.innerText || a.textContent || '').trim() }))
-            .filter((x) => x.href && x.text)
-            .filter((x, i, arr) => arr.findIndex((y) => y.href === x.href) === i);
+          return anchors.map((a) => {
+            const box = a.closest('li, article, [class*="job"], [class*="position"], [class*="card"]') || a.parentElement || a;
+            return { href: a.href, text: (box.innerText || a.innerText || a.textContent || '').trim() };
+          }).filter((x) => x.href && x.text);
         });
+        domJobs += domCards.length;
+
+        const cardMap = new Map();
+        for (const card of [...initCards, ...domCards]) if (!cardMap.has(card.href)) cardMap.set(card.href, card);
+        const cards = [...cardMap.values()];
         discoveredUrls += cards.length;
+
         for (const card of cards) {
           const lines = card.text.split(/\n+/).map(textOf).filter(Boolean);
           const title = lines[0] || '';
@@ -52,5 +99,5 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
     }
   } finally { await browser.close(); }
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { portals: sources.length, scannedPortals, discoveredUrls, keptJobs: kept.length, errors } };
+  return { jobs: kept, stats: { portals: sources.length, scannedPortals, discoveredUrls, keptJobs: kept.length, errors, ssrJobs, domJobs } };
 }
