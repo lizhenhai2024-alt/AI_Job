@@ -2,6 +2,11 @@ import crypto from 'node:crypto';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES } from './core.mjs';
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','GTM','洞察','招聘'];
+const LANGUAGE_RULES = [
+  ['英语', /英语|英文|English|CET/i], ['德语', /德语|German/i], ['法语', /法语|French/i],
+  ['西班牙语', /西语|西班牙语|Spanish/i], ['葡萄牙语', /葡语|葡萄牙语|Portuguese/i],
+  ['日语', /日语|Japanese/i], ['韩语', /韩语|Korean/i], ['俄语', /俄语|Russian/i], ['阿拉伯语', /阿语|阿拉伯语|Arabic/i]
+];
 
 function clean(value = '') {
   return String(value || '').replace(/<br\s*\/?\s*>/gi, '\n').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/gi, ' ').replace(/\s+/g, ' ').trim();
@@ -12,6 +17,7 @@ function cityFrom(row = {}) {
   const title = clean(row.title || '');
   return CITY_NAMES.find((city) => title.includes(city)) || CITY_NAMES.find((city) => raw.includes(city)) || raw || '待核';
 }
+function languagesFrom(text) { return LANGUAGE_RULES.filter(([, rx]) => rx.test(text)).map(([name]) => name); }
 function publishedAt(row = {}) {
   const ts = Number(row.publish_time || 0);
   if (!ts) return '';
@@ -46,7 +52,7 @@ export function parseEcoflowJob(source, row = {}, now = new Date()) {
     city: cityFrom(row),
     graduationYear: String(source.graduationYear || '2027'),
     skills,
-    languages: /英语|英文|English|CET|德语|法语|西语|葡语|日语|韩语|俄语|阿语/i.test(jobText) ? ['英语'] : [],
+    languages: languagesFrom(jobText),
     experienceKeywords: EXPERIENCE_WORDS.filter((word) => jobText.toLowerCase().includes(word.toLowerCase())).slice(0, 8),
     preferenceTags,
     riskTags: detectRisks(jobText),
@@ -89,8 +95,10 @@ async function session(fetcher, source) {
   if (!response.ok) return { token: '', cookie: '' };
   let token = '';
   try { token = String((await response.json())?.data?.token || ''); } catch {}
-  const rawCookie = response.headers.get('set-cookie') || '';
-  const cookie = rawCookie.split(',').map((part) => part.trim().split(';')[0]).filter((part) => /=/.test(part)).join('; ');
+  const cookies = typeof response.headers.getSetCookie === 'function'
+    ? response.headers.getSetCookie()
+    : [response.headers.get('set-cookie') || ''];
+  const cookie = cookies.map((part) => String(part).split(';')[0].trim()).filter((part) => /=/.test(part)).join('; ');
   return { token, cookie };
 }
 
