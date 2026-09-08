@@ -40,8 +40,11 @@ if (!result.jobs.length) {
   process.exit(0);
 }
 
+// Keep only manually curated seed entries from the previous pool. Auto-generated entries are rebuilt
+// from source on every successful refresh so parser/filter improvements can remove stale false positives.
+const retainedSeeds = existing.filter((job) => !job.discoveredAt);
 const now = new Date();
-const merged = dedupeJobs([...result.jobs, ...existing])
+const merged = dedupeJobs([...result.jobs, ...retainedSeeds])
   .filter((job) => !isClosed('', job.deadline, now))
   .sort((a,b) => relevanceScore(b, config) - relevanceScore(a, config) || String(b.publishedAt || '').localeCompare(String(a.publishedAt || '')))
   .slice(0, Number(config.maxJobs || 120))
@@ -52,9 +55,9 @@ const meta = {
   updatedAt: new Date().toISOString(),
   source: '牛客公开职位',
   mode: '自动公司发现 + 公开职位索引 + 前端画像精排',
-  stats: { ...result.stats, totalJobs: merged.length, companies: companies.size },
+  stats: { ...result.stats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
   note: '公开二手来源用于发现；投递前请打开来源，并优先回到公司校招官网核验。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
-console.log(`[job-refresh] wrote ${merged.length} jobs across ${companies.size} companies.`);
+console.log(`[job-refresh] wrote ${merged.length} jobs across ${companies.size} companies; retainedSeeds=${retainedSeeds.length}.`);
