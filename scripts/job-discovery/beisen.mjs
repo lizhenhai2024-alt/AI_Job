@@ -6,7 +6,7 @@ const CAMPUS_RX = /2027届|2027\s*届|校园招聘|校园|校招|应届|飞星|�
 const SOCIAL_RX = /社会招聘|社招/i;
 
 function cleanText(value = '') {
-  return String(value || '').replace(/<br\s*\/?\s*>/gi, '\n').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/gi, ' ').replace(/\s+/g, ' ').trim();
+  return String(value || '').replace(/<br\s*\/?\s*>/gi, '\n').replace(/<[^>]+>/g, ' ').replace(/&nbsp;|&#160;/gi, ' ').replace(/&amp;/gi, '&').replace(/\s+/g, ' ').trim();
 }
 
 function normalizeDate(value = '') {
@@ -36,7 +36,8 @@ export function parseBeisenRow(source, row = {}, now = new Date()) {
     /出海|海外市场|跨境/.test(jobText) ? '出海' : ''
   ].filter(Boolean);
   const riskTags = detectRisks(jobText);
-  const detailUrl = rawId ? `${source.baseUrl.replace(/\/$/,'')}/campus/detail?jobAdId=${encodeURIComponent(rawId)}` : `${source.baseUrl.replace(/\/$/,'')}/campus/jobs`;
+  const base = source.baseUrl.replace(/\/$/,'');
+  const detailUrl = rawId ? `${base}/campus/detail?jobAdId=${encodeURIComponent(rawId)}` : `${base}/campus/jobs`;
   return {
     id: `beisen-${crypto.createHash('sha1').update(`${source.baseUrl}|${rawId}|${title}`).digest('hex').slice(0,12)}`,
     company: source.company,
@@ -64,20 +65,62 @@ export function parseBeisenRow(source, row = {}, now = new Date()) {
   };
 }
 
+export function parseBeisenCampusHtml(source, html = '') {
+  const rows = [];
+  const seen = new Set();
+  for (const tr of String(html).match(/<tr\b[\s\S]*?<\/tr>/gi) || []) {
+    const anchors = [...tr.matchAll(/<a[^>]+href=["']([^"']*\/campus\/detail\?jobAdId=([^"'&]+)[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)];
+    if (!anchors.length) continue;
+    const rowText = cleanText(tr);
+    const locations = CITY_NAMES.filter((city) => rowText.includes(city));
+    for (const match of anchors) {
+      const id = decodeURIComponent(match[2] || '');
+      const title = cleanText(match[3] || '');
+      if (!id || !title || seen.has(id)) continue;
+      seen.add(id);
+      rows.push({
+        JobAdId: id,
+        JobAdName: title,
+        Category: '校园招聘',
+        LocNames: locations,
+        Duty: rowText,
+        Require: '',
+        PostDate: normalizeDate(rowText)
+      });
+    }
+  }
+  return rows;
+}
+
 function isCampusRow(job) {
   const evidence = `${job.title}\n${job._category || ''}\n${job._searchText || ''}`;
   if (SOCIAL_RX.test(job._category || '') && !/2027届|2027\s*届/.test(job.title)) return false;
   return CAMPUS_RX.test(evidence);
 }
 
-async function fetchPage(source, pageIndex, pageSize, fetcher = fetch) {
+async function fetchHtmlCampusPage(source, pageIndex, fetcher = fetch) {
+  const base = source.baseUrl.replace(/\/$/, '');
+  const url = `${base}/campus/?PageIndex=${pageIndex + 1}`;
+  const response = await fetcher(url, {
+    method: 'GET',
+    headers: {
+      accept: 'text/html,application/xhtml+xml',
+      'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.4; +https://github.com/lizhenhai2024-alt/AI_Job)'
+    }
+  });
+  if (!response.ok) throw new Error(`HTTP ${response.status} HTML fallback for ${source.company}`);
+  const html = await response.text();
+  return { rows: parseBeisenCampusHtml(source, html), total: Number.POSITIVE_INFINITY, mode: 'html' };
+}
+
+async function fetchApiPage(source, pageIndex, pageSize, fetcher = fetch) {
   const base = source.baseUrl.replace(/\/$/, '');
   const response = await fetcher(`${base}/api/Jobad/GetJobAdPageList`, {
     method: 'POST',
     headers: {
       'content-type': 'application/json',
       accept: 'application/json',
-      'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.3; +https://github.com/lizhenhai2024-alt/AI_Job)',
+      'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.4; +https://github.com/lizhenhai2024-alt/AI_Job)',
       referer: `${base}/campus/jobs`,
       origin: base,
       'x-requested-with': 'xmlhttprequest',
@@ -88,14 +131,22 @@ async function fetchPage(source, pageIndex, pageSize, fetcher = fetch) {
       PageSize: pageSize,
       KeyWords: '',
       SpecialType: 0,
-      PortalId: '',
+      PortalId: source.portalId || '',
       DisplayFields: ['Category','Kind','LocId','Org','HeadCount','PostDate','Salary','Duty','Require']
     })
   });
   if (!response.ok) throw new Error(`HTTP ${response.status} for ${source.company}`);
-  const payload = await response.json();
+  const raw = await response.text();
+  let payload;
+  try { payload = JSON.parse(raw); }
+  catch { throw new Error(`non-JSON Beisen response for ${source.company}`); }
   if (payload?.Code !== 200 || !Array.isArray(payload?.Data)) throw new Error(payload?.Message || `bad Beisen response for ${source.company}`);
-  return { rows: payload.Data, total: Number(payload.Count ?? payload.Total ?? payload.Data.length) };
+  return { rows: payload.Data, total: Number(payload.Count ?? payload.Total ?? payload.Data.length), mode: 'api' };
+}
+
+async function fetchPage(source, pageIndex, pageSize, fetcher = fetch) {
+  if (source.mode === 'html') return fetchHtmlCampusPage(source, pageIndex, fetcher);
+  return fetchApiPage(source, pageIndex, pageSize, fetcher);
 }
 
 export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch, pageSize = 50, maxPages = 12, now = new Date() } = {}) {
@@ -104,11 +155,13 @@ export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch,
   const perPortal = {};
 
   for (const source of sources) {
-    let portalRows = 0, portalKept = 0;
+    let portalRows = 0, portalKept = 0, mode = source.mode || 'api';
     try {
       const seen = new Set();
       for (let pageIndex = 0; pageIndex < maxPages; pageIndex++) {
-        const { rows, total } = await fetchPage(source, pageIndex, pageSize, fetcher);
+        const result = await fetchPage(source, pageIndex, pageSize, fetcher);
+        const { rows, total } = result;
+        mode = result.mode;
         if (pageIndex === 0) scannedPortals++;
         if (!rows.length) break;
         let added = 0;
@@ -121,12 +174,13 @@ export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch,
           if (job.riskTags?.includes('纯销售')) continue;
           if (shouldKeep(job, profile, now)) { jobs.push(job); portalKept++; }
         }
-        if (!added || rows.length < pageSize || seen.size >= total) break;
+        if (!added) break;
+        if (mode === 'api' && (rows.length < pageSize || seen.size >= total)) break;
       }
-      perPortal[source.company] = { scannedRows: portalRows, keptJobs: portalKept };
+      perPortal[source.company] = { scannedRows: portalRows, keptJobs: portalKept, mode };
     } catch (error) {
       errors++;
-      perPortal[source.company] = { scannedRows: portalRows, keptJobs: portalKept, error: String(error?.message || error) };
+      perPortal[source.company] = { scannedRows: portalRows, keptJobs: portalKept, mode, error: String(error?.message || error) };
     }
   }
 
