@@ -14,12 +14,12 @@ test('official company pool includes verified 2027 Moka sources', () => {
   assert.ok(officialSources.moka.length >= 16);
 });
 
-test('official company pool includes verified 2027 Beisen sources', () => {
+test('official company pool includes high-fit verified 2027 Beisen sources', () => {
   const beisenCompanies = officialSources.beisen.map((item) => item.company);
-  for (const company of ['传音控股','新华三集团']) {
+  for (const company of ['传音控股','新华三集团','Babycare','慧策集团','锐明技术','扬腾创新','厦门国贸控股']) {
     assert.ok(beisenCompanies.includes(company), `missing official Beisen source: ${company}`);
   }
-  assert.ok(officialSources.beisen.length >= 9);
+  assert.ok(officialSources.beisen.length >= 14);
 });
 
 test('broad discovery covers adjacent business roles without blanket engineer penalty', () => {
