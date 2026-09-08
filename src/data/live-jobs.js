@@ -39,7 +39,49 @@ export const liveJobs = [
     "description": "自动发现的 产品运营 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
+  },
+  {
+    "id": "nowcoder-3f777c250a42",
+    "company": "昆仑万维",
+    "title": "【校招岗】市场运营",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "市场",
+      "用户",
+      "数据",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "跨文化",
+      "出海"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464798?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2028-09-01",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-e2efc6d11256",
@@ -81,7 +123,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：英语、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-21cfc8f1ff81",
@@ -90,7 +132,7 @@ export const liveJobs = [
     "roleFamily": [
       "内容运营"
     ],
-    "city": "北京",
+    "city": "成都",
     "graduationYear": "2027",
     "skills": [
       "数据分析",
@@ -119,46 +161,7 @@ export const liveJobs = [
     "description": "自动发现的 内容运营 类岗位；识别关键词：数据分析、内容运营。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
-  },
-  {
-    "id": "nowcoder-ffed57fbca15",
-    "company": "神州信息",
-    "title": "2027届-品牌市场管培生（北京）(J22636)",
-    "roleFamily": [
-      "市场"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "内容运营",
-      "文案"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "市场",
-      "数据",
-      "营销",
-      "品牌"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464833?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2029-09-02",
-    "description": "自动发现的 市场 类岗位；识别关键词：内容运营、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-464338",
@@ -351,7 +354,7 @@ export const liveJobs = [
     "description": "自动发现的 用户运营 类岗位；识别关键词：Excel、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-0923473ab36d",
@@ -387,7 +390,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-9e858879b389",
@@ -423,7 +426,7 @@ export const liveJobs = [
     "description": "自动发现的 产品运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-cc212c57ab1f",
@@ -458,7 +461,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-06ec4395bc51",
@@ -494,7 +497,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：数据分析、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-2bf4ab661bcd",
@@ -531,7 +534,7 @@ export const liveJobs = [
     "description": "自动发现的 业务运营 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-458259",
@@ -599,7 +602,7 @@ export const liveJobs = [
     "description": "自动发现的 销售 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-98b069306978",
@@ -634,7 +637,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-600f43a5ff8a",
@@ -669,7 +672,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-90460abb3d1e",
@@ -704,7 +707,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-464435",
@@ -813,7 +816,7 @@ export const liveJobs = [
     "description": "自动发现的 电商运营 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-0d2b50f0eb86",
@@ -849,43 +852,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：数据分析、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
-  },
-  {
-    "id": "nowcoder-70205647d4ff",
-    "company": "南京银行",
-    "title": "总行定向培训生岗-金融市场方向（南京）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466004?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2026-10-11",
-    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-9d6913a7e5a4",
@@ -919,7 +886,41 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
+  },
+  {
+    "id": "nowcoder-57cc473bf882",
+    "company": "点点互动",
+    "title": "全球市场增长专员（休闲）-北京-A(J13841)",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel",
+      "数据分析",
+      "PPT"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "市场",
+      "数据"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465354?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2029-09-04",
+    "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-1d41978843c9",
@@ -953,7 +954,72 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
+  },
+  {
+    "id": "nowcoder-090e33ef07d5",
+    "company": "公牛集团股份有限公司",
+    "title": "2027届校招-非技术岗-经营管理岗(J23853)",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "数据"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464963?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2026-10-29",
+    "description": "自动发现的 业务运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
+  },
+  {
+    "id": "nowcoder-70205647d4ff",
+    "company": "南京银行",
+    "title": "总行定向培训生岗-金融市场方向（南京）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "南京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "项目",
+      "市场",
+      "数据"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466004?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2026-10-11",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-176692122a7d",
@@ -987,41 +1053,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
-  },
-  {
-    "id": "nowcoder-5f59bb02df7e",
-    "company": "南京银行",
-    "title": "总行定向培训生岗-金融市场数智化方向（南京）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "项目",
-      "市场"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466007?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2026-10-11",
-    "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-b12177ea72e6",
@@ -1052,7 +1084,7 @@ export const liveJobs = [
     "description": "自动发现的 项目管理 类岗位；识别关键词：项目管理。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-f110cdf92918",
@@ -1082,7 +1114,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-24d310c93a8a",
@@ -1114,7 +1146,41 @@ export const liveJobs = [
     "description": "自动发现的 项目管理 类岗位；识别关键词：项目管理、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
+  },
+  {
+    "id": "nowcoder-5f59bb02df7e",
+    "company": "南京银行",
+    "title": "总行定向培训生岗-金融市场数智化方向（南京）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "南京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "项目",
+      "市场"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466007?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-08",
+    "deadline": "2026-10-11",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-bc8b621e987a",
@@ -1149,38 +1215,35 @@ export const liveJobs = [
     "description": "自动发现的 项目管理 类岗位；识别关键词：英语、项目管理。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
-    "id": "nowcoder-627393580369",
-    "company": "赢合",
-    "title": "27届人力资源专员(J13822)",
+    "id": "nowcoder-ffed57fbca15",
+    "company": "神州信息",
+    "title": "2027届-品牌市场管培生（北京）(J22636)",
     "roleFamily": [
-      "HR"
+      "市场"
     ],
-    "city": "深圳",
+    "city": "北京",
     "graduationYear": "2027",
-    "skills": [
-      "Excel"
-    ],
+    "skills": [],
     "languages": [],
     "experienceKeywords": [
-      "数据"
+      "市场",
+      "品牌"
     ],
-    "preferenceTags": [
-      "国际业务"
-    ],
+    "preferenceTags": [],
     "riskTags": [],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465559?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464833?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-08",
-    "deadline": "2027-09-07",
-    "description": "自动发现的 HR 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "deadline": "",
+    "description": "自动发现的 市场 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-10e165a36f48",
@@ -1210,7 +1273,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-c910fb2b8007",
@@ -1239,7 +1302,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   },
   {
     "id": "nowcoder-5582361172e6",
@@ -1247,35 +1310,6 @@ export const liveJobs = [
     "title": "2027届校招-非技术岗-人力资源岗(J23857)",
     "roleFamily": [
       "HR"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464959?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-08",
-    "deadline": "2026-10-29",
-    "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
-  },
-  {
-    "id": "nowcoder-090e33ef07d5",
-    "company": "公牛集团股份有限公司",
-    "title": "2027届校招-非技术岗-经营管理岗(J23853)",
-    "roleFamily": [
-      "业务运营"
     ],
     "city": "待核",
     "graduationYear": "2027",
@@ -1286,28 +1320,28 @@ export const liveJobs = [
     "riskTags": [],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464963?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/464959?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-08",
     "deadline": "",
-    "description": "自动发现的 业务运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "description": "自动发现的 HR 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-08T05:31:01.578Z"
+    "discoveredAt": "2026-09-08T05:36:36.171Z"
   }
 ];
 
 export const discoveryMeta = {
-  "updatedAt": "2026-09-08T05:32:59.494Z",
+  "updatedAt": "2026-09-08T05:38:48.680Z",
   "source": "牛客公开职位",
   "mode": "自动公司发现 + 公开职位索引 + 前端画像精排",
   "stats": {
     "discoveredUrls": 1044,
     "scannedPages": 1000,
-    "keptJobs": 30,
+    "keptJobs": 31,
     "errors": 0,
-    "retainedSeeds": 8,
-    "totalJobs": 37,
+    "retainedSeeds": 7,
+    "totalJobs": 38,
     "companies": 20
   },
   "note": "公开二手来源用于发现；投递前请打开来源，并优先回到公司校招官网核验。"
