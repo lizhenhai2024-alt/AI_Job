@@ -21,7 +21,7 @@ async function loadExisting() {
 }
 
 function cleanForStorage(job) {
-  const { _searchText, _category, _subject, _sourceJobId, closed, ...clean } = job;
+  const { _searchText, _category, _subject, _sourceJobId, _recruitType, closed, ...clean } = job;
   return clean;
 }
 
@@ -84,14 +84,13 @@ try {
 }
 
 try {
-  if (!chromium) throw new Error('Playwright Chromium unavailable');
   const ecoflow = await searchEcoflowJobs(config, officialSources.ecoflow, {
-    chromium,
     maxJobs: officialSources.ecoflow?.maxJobs,
-    maxDetails: officialSources.ecoflow?.maxDetails
+    pageSize: officialSources.ecoflow?.pageSize,
+    maxPages: officialSources.ecoflow?.maxPages
   });
   sourceResults.push({ name: 'ecoflow', ...ecoflow });
-  console.log(`[job-refresh:ecoflow] listed=${ecoflow.stats.listed} detailed=${ecoflow.stats.detailed} kept=${ecoflow.stats.keptJobs} errors=${ecoflow.stats.errors} complete=${ecoflow.stats.snapshotComplete}`);
+  console.log(`[job-refresh:ecoflow] pages=${ecoflow.stats.pages} listed=${ecoflow.stats.listed} kept=${ecoflow.stats.keptJobs} errors=${ecoflow.stats.errors} complete=${ecoflow.stats.snapshotComplete}`);
 } catch (error) {
   console.warn(`[job-refresh:ecoflow] skipped: ${error.message}`);
 }
@@ -122,7 +121,7 @@ const meta = {
   source: '多源：公司官方招聘官网/API + 牛客公开职位',
   mode: '官方源优先去重 + 多源扩面 + 前端画像 S/A/B 精排',
   stats: { sources: sourceStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '官方招聘官网/API优先用于去重与核验；二手来源用于扩大岗位发现范围。安克使用公开API游标分页，EcoFlow使用官方2027校招页浏览器发现。纯销售岗位不进入推荐池，投递前仍建议打开原始职位页确认职责和截止日期。'
+  note: '官方招聘官网/API优先用于去重与核验；二手来源用于扩大岗位发现范围。安克使用官方公开API游标分页，EcoFlow使用官方飞书招聘匿名公开职位API。纯销售岗位不进入推荐池，投递前仍建议打开原始职位页确认职责和截止日期。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
