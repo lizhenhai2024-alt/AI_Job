@@ -7,7 +7,7 @@ const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
   'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
-  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs', 'scripts/refresh-jobs.mjs',
+  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/feishu.mjs', 'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs', 'scripts/refresh-jobs.mjs',
   'config/search-profile.json', 'config/official-sources.json', 'README.md', 'docs/PLAN.md'
 ];
 
@@ -49,6 +49,16 @@ if (sources.beisen.some((s) => {
 const vivo = sources.beisen.find((s) => s.company === 'vivo');
 if (vivo && !vivo.portalId) throw new Error('vivo Beisen campus PortalId is required');
 
+if (!Array.isArray(sources.feishu) || !sources.feishu.length) throw new Error('official Feishu source registry is empty');
+if (sources.feishu.some((s) => {
+  const validHost = /^https:\/\/[a-z0-9.-]+\.jobs\.feishu\.cn$/i.test(s.baseUrl);
+  const validPath = !s.websitePath || /^[A-Za-z0-9_/-]{1,80}$/.test(s.websitePath);
+  const validCohort = s.graduationYear === '2027' && s.cohortMode === 'verified-2027-portal';
+  return !s.company || !validHost || !validPath || !validCohort || Number(s.maxJobs || 0) < 10 || Number(s.maxPages || 0) < 1;
+})) {
+  throw new Error('official generic Feishu source registry validation failed');
+}
+
 const anker = sources.anker;
 if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker-in.com/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || !anker.websiteId || anker.graduationYear !== '2027' || Number(anker.maxJobs) < 10 || Number(anker.maxPages) < 1) {
   throw new Error('official Anker source registry validation failed');
@@ -59,4 +69,4 @@ if (!ecoflow || ecoflow.company !== '正浩创新EcoFlow' || !/^https:\/\/jobs\.
   throw new Error('official EcoFlow Feishu API registry validation failed');
 }
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, Anker paginated API, EcoFlow public Feishu API, provenance OK.`);
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, ${sources.feishu.length} generic Feishu portals, Anker paginated API, EcoFlow public Feishu API, provenance OK.`);
