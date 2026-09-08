@@ -8,7 +8,7 @@ const profile = {
   keywords: ['英语','海外','运营','数据分析'], targetCities: ['深圳','上海','北京'], strongExclude: ['软件工程师'], minRelevanceScore: 4
 };
 
-function jobHtml(overrides = {}) {
+function jobHtml(overrides = {}, pageChrome = '') {
   const posting = {
     '@context': 'https://schema.org', '@type': 'JobPosting', title: '电商运营（英语）',
     hiringOrganization: { '@type': 'Organization', name: '示例公司' },
@@ -17,7 +17,7 @@ function jobHtml(overrides = {}) {
     description: '面向2027届毕业生，负责海外电商运营、销售数据分析，要求英语六级、Excel能力。',
     ...overrides
   };
-  return `<html><head><title>电商运营（英语）_示例公司校招_牛客网</title><script type="application/ld+json">${JSON.stringify(posting)}</script></head><body>2027届校园招聘</body></html>`;
+  return `<html><head><title>${posting.title}_示例公司校招_牛客网</title><script type="application/ld+json">${JSON.stringify(posting)}</script></head><body>${pageChrome} 2027届校园招聘</body></html>`;
 }
 
 test('normalizes JSON-LD JobPosting into AI Job schema', () => {
@@ -45,6 +45,20 @@ test('filters cohort and relevance while excluding technical roles', () => {
   assert.equal(shouldKeep(good, profile, new Date('2026-09-08T00:00:00Z')), true);
   const bad = { ...good, title: '软件工程师', roleFamily: ['其他'] };
   assert.equal(shouldKeep(bad, profile, new Date('2026-09-08T00:00:00Z')), false);
+});
+
+test('page template words do not pollute role classification', () => {
+  const html = jobHtml({ title: '用户运营专员', description: '负责用户分层、活动和数据分析，面向2027届。' }, '导航：人才招聘 HR 销售 电商 平台运营 市场推广');
+  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100004' });
+  assert.deepEqual(job.roleFamily, ['用户运营']);
+  assert.equal(job.skills.includes('电商'), false);
+});
+
+test('unrelated finance job is rejected even when site chrome contains target keywords', () => {
+  const html = jobHtml({ title: '财务管理', description: '负责财务核算、预算与报表，面向2027届毕业生。' }, '热门：海外运营 用户运营 市场 数据分析 英语 HR');
+  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100005' });
+  assert.deepEqual(job.roleFamily, ['其他']);
+  assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), false);
 });
 
 test('dedupe keeps the newer equivalent job', () => {
