@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   isInternshipJob,
+  isPureSalesJob,
   isEngineeringOrImplementationJob,
   requiresMandatoryStem,
   requiresHardTechnicalAbility,
@@ -18,15 +19,39 @@ test('internship titles are excluded in Chinese and English', () => {
     '电商实习生（Charging）',
     '【日常实习】服务运营实习生',
     '暑期实习岗位-市场运营',
+    '2027校招/实习-海外市场',
     'GTM Intern',
     'Product Marketing Internship'
   ];
   for (const title of titles) assert.equal(isInternshipJob({ title }), true, title);
 });
 
+test('internship recruit metadata is excluded even when title is generic', () => {
+  assert.equal(isInternshipJob({ title: '市场运营', _recruitType: '实习' }), true);
+  assert.equal(isInternshipJob({ title: '品牌营销', _subject: '暑期实习项目' }), true);
+});
+
 test('full-time campus roles are not mistaken for internships', () => {
   const titles = ['GTM Product Manager', '项目管理岗-2027校招', '海外市场专员', '产品运营'];
   for (const title of titles) assert.equal(isInternshipJob({ title }), false, title);
+});
+
+test('pure-sales titles are centrally excluded without blocking sales operations', () => {
+  const excluded = ['销售管培生', '海外销售专员', '渠道销售经理', '国际销售代表'];
+  for (const title of excluded) {
+    assert.equal(isPureSalesJob({ title }), true, title);
+    assert.equal(shouldExcludeByPolicy({ title }), true, title);
+  }
+  const retained = ['销售运营', '销售支持专员', '销售数据分析', '销售策略运营'];
+  for (const title of retained) {
+    assert.equal(isPureSalesJob({ title }), false, title);
+    assert.equal(shouldExcludeByPolicy({ title }), false, title);
+  }
+});
+
+test('existing pure-sales risk tag still feeds the unified policy', () => {
+  assert.equal(isPureSalesJob({ title: '业务拓展岗', riskTags: ['纯销售'] }), true);
+  assert.equal(shouldExcludeByPolicy({ title: '业务拓展岗', riskTags: ['纯销售'] }), true);
 });
 
 test('only unambiguous technical engineer or implementation titles are title-excluded', () => {

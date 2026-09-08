@@ -11,8 +11,19 @@ function textOf(job = {}) {
 }
 
 export function isInternshipJob(job = {}) {
+  const evidence = [job?.title, job?._recruitType, job?._subject]
+    .filter(Boolean)
+    .join(' ');
+  return /实习|\bIntern(?:ship)?\b/i.test(evidence);
+}
+
+const NON_PURE_SALES_RX = /销售运营|销售支持|销售分析|销售策略|销售计划|销售管理|销售赋能|销售助理|销售行政|售前|商务运营|商业运营/i;
+const PURE_SALES_TITLE_RX = /销售管培生|销售培训生|销售代表|销售专员|销售顾问|销售经理|海外销售|国际销售|渠道销售|区域销售|大客户销售|客户销售/i;
+export function isPureSalesJob(job = {}) {
   const title = String(job?.title || '');
-  return /实习生|日常实习|暑期实习|实习岗位|\bIntern(?:ship)?\b/i.test(title);
+  if (!title || NON_PURE_SALES_RX.test(title)) return false;
+  if (PURE_SALES_TITLE_RX.test(title)) return true;
+  return job?.riskTags?.includes('纯销售') === true;
 }
 
 const UNAMBIGUOUS_TECH_ENGINEER_RX = /研发工程师|算法工程师|软件工程师|硬件工程师|结构工程师|机械工程师|电气工程师|电子工程师|测试工程师|质量工程师|工艺工程师|系统工程师|数据工程师|开发工程师/i;
@@ -262,7 +273,7 @@ export function jobPolicyReasons(job = {}) {
   if (isTechnicalDutyDominant(job)) reasons.push('技术职责主导');
   if (requiresHardTechnicalAbility(job)) reasons.push('硬技术能力要求');
   if (requiresProfessionalCertificate(job)) reasons.push('必须专业资格证书');
-  if (job?.riskTags?.includes('纯销售')) reasons.push('纯销售');
+  if (isPureSalesJob(job)) reasons.push('纯销售');
   return [...new Set(reasons)];
 }
 
