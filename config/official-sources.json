@@ -16,5 +16,13 @@
     {"company":"vivo","baseUrl":"https://hr-campus.vivo.com","portalId":"903cbcbf-4898-46e1-817c-da522a9752b1","graduationYear":"2027"},
     {"company":"奇瑞汽车","baseUrl":"https://chery.zhiye.com","graduationYear":"2027"},
     {"company":"洲明科技","baseUrl":"https://unilumin.zhiye.com","graduationYear":"2027"}
-  ]
+  ],
+  "anker": {
+    "company":"安克创新",
+    "url":"https://career.anker-in.com/universities/recruitment/",
+    "apiBase":"https://rainbowbridge.anker.com",
+    "websiteId":"7268177039772633400",
+    "graduationYear":"2027",
+    "maxJobs":30
+  }
 }
