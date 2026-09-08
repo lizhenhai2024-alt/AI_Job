@@ -103,7 +103,7 @@ test('generic Feishu discovery sends only verified campus website-path plus zero
         },
         {
           id: 'social-1', title: '海外运营经理', city_list: [{ name: '深圳' }],
-          description: '负责2027年度海外运营计划', requirement: '3年以上经验',
+          description: '负责海外运营计划', requirement: '2027届毕业生，3年以上经验',
           job_function: { name: '市场营销' }, recruit_type: { name: '全职', parent: { name: '社招' } }, publish_time: 1788307200
         }
       ] } } });
