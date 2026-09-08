@@ -7,7 +7,7 @@ import { searchBeisenJobs } from './job-discovery/beisen.mjs';
 import { searchAnkerJobs } from './job-discovery/anker.mjs';
 import { searchEcoflowJobs } from './job-discovery/ecoflow.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
-import { shouldExcludeByPolicy } from './job-discovery/policy.mjs';
+import { shouldExcludeByPolicy, jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const config = JSON.parse(await fs.readFile(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -40,6 +40,14 @@ function dedupePreferOfficial(jobs = []) {
     if (!prev || rank(job) > rank(prev) || (rank(job) === rank(prev) && String(job.publishedAt || '') > String(prev.publishedAt || ''))) map.set(key, job);
   }
   return [...map.values()];
+}
+
+function countPolicyReasons(jobs = []) {
+  const stats = {};
+  for (const job of jobs) {
+    for (const reason of jobPolicyReasons(job)) stats[reason] = (stats[reason] || 0) + 1;
+  }
+  return stats;
 }
 
 const existing = await loadExisting();
@@ -96,14 +104,19 @@ try {
   console.warn(`[job-refresh:ecoflow] skipped: ${error.message}`);
 }
 
-const freshJobs = sourceResults.flatMap((r) => r.jobs || [])
-  .filter((job) => !shouldExcludeByPolicy(job));
+const discoveredJobs = sourceResults.flatMap((r) => r.jobs || []);
+const policyStats = countPolicyReasons(discoveredJobs);
+const freshJobs = discoveredJobs
+  .filter((job) => !shouldExcludeByPolicy(job))
+  .map(enrichCandidateFit);
 if (!freshJobs.length) {
   console.warn('[job-refresh] no fresh matching jobs found; keeping existing live job pool unchanged.');
   process.exit(0);
 }
 
-const retainedSeeds = existing.filter((job) => !job.discoveredAt && !shouldExcludeByPolicy(job));
+const retainedSeeds = existing
+  .filter((job) => !job.discoveredAt && !shouldExcludeByPolicy(job))
+  .map(enrichCandidateFit);
 const now = new Date();
 const merged = dedupePreferOfficial([...freshJobs, ...retainedSeeds])
   .filter((job) => !isClosed('', job.deadline, now) && !shouldExcludeByPolicy(job))
@@ -121,10 +134,11 @@ const sourceStats = Object.fromEntries(sourceResults.map((r) => [r.name, r.stats
 const meta = {
   updatedAt: new Date().toISOString(),
   source: '多源：公司官方招聘官网/API + 牛客公开职位',
-  mode: '官方源优先去重 + 多源扩面 + 前端画像 S/A/B 精排',
-  stats: { sources: sourceStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '官方招聘官网/API优先用于去重与核验；二手来源用于扩大岗位发现范围。纯销售、实习、工程师/实施岗位，以及明确要求理工科/技术专业的岗位不进入推荐池；“理工科优先”保留。投递前仍建议打开原始职位页确认职责和截止日期。'
+  mode: '官方源优先去重 + JD专业/技术门槛过滤 + 英语专业适配信号 + 前端画像 S/A/B 精排',
+  stats: { sources: sourceStats, policyExcluded: policyStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
+  note: '硬淘汰：纯销售、实习、工程师/实施、明确必须理工科/技术专业、硬技术能力、必须专业资格证书。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
+console.log(`[job-refresh] policyExcluded=${JSON.stringify(policyStats)}`);
 console.log(`[job-refresh] wrote ${merged.length} jobs across ${companies.size} companies; retainedSeeds=${retainedSeeds.length}.`);
