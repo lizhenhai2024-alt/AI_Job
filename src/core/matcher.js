@@ -61,15 +61,71 @@ function dimension(label, weight, ratio, detail) {
   };
 }
 
-function tierFor(job, score, matchedExclusions = [], fitWarnings = []) {
+function experienceEvidenceFor(job, profile) {
+  const catalog = Array.isArray(profile?.experienceEvidence) ? profile.experienceEvidence : [];
+  if (!catalog.length) {
+    return {
+      configured: false,
+      matches: [],
+      verdict: '待补充真实经历证据',
+      detail: '当前画像只有经历关键词，没有可追溯到具体实习/校园经历的证据；系统不会自动声称“做过类似工作”。'
+    };
+  }
+
+  const jobSignals = [
+    ...(job.experienceKeywords || []),
+    ...(job.skills || []),
+    ...(job.candidateFit?.responsibility?.business || []),
+    ...(job.candidateFit?.responsibility?.technical || [])
+  ];
+  const matches = catalog.filter((item) => {
+    const keywords = Array.isArray(item?.keywords) ? item.keywords : [];
+    return keywords.some((kw) => jobSignals.some((signal) => tokenHit(kw, signal)));
+  }).map((item) => ({
+    name: item.name || '未命名经历',
+    evidence: item.evidence || '',
+    keywords: item.keywords || []
+  }));
+
+  return {
+    configured: true,
+    matches,
+    verdict: matches.length ? '有直接经历证据' : '没有直接经历证据',
+    detail: matches.length
+      ? `可对应：${matches.map((item) => item.name).join('、')}`
+      : '没有找到能直接对应岗位职责的已记录实习/校园经历；不建议靠改写文案制造经验。'
+  };
+}
+
+function eligibilityFor(job, profile) {
+  const expected = normalize(profile?.graduationYear);
+  const actual = normalize(job?.graduationYear);
+  const cohortMatch = !expected || !actual ? null : expected === actual;
+  return {
+    cohortMatch,
+    verdict: cohortMatch === true ? '届别匹配' : cohortMatch === false ? '届别不符' : '届别待核',
+    evidence: job?.candidateFit?.eligibilityEvidence || (job?.graduationYear ? [`招聘对象：${job.graduationYear}届`] : [])
+  };
+}
+
+function tierFor(job, score, matchedExclusions = [], fitWarnings = [], experienceEvidence, eligibility) {
   const official = job?.sourceType === 'official' || /官方/.test(String(job?.verification || ''));
-  if (score >= 85 && matchedExclusions.length === 0 && fitWarnings.length === 0 && official) {
-    return { tier: 'S', tierLabel: 'S档 · 优先投递', tierReason: '高匹配、无硬性排除、无专业适配风险且已有官方来源核验' };
+  if (eligibility?.cohortMatch === false) {
+    return { tier: 'B', tierLabel: 'B档 · 不建议投递', tierReason: '届别/毕业时间资格不匹配，内容匹配度不再作为主要依据' };
+  }
+  if (score >= 85 && matchedExclusions.length === 0 && fitWarnings.length === 0 && official && experienceEvidence?.matches?.length) {
+    return { tier: 'S', tierLabel: 'S档 · 优先投递', tierReason: '高匹配、无硬性排除、官方来源已核验，且存在可追溯的真实经历证据' };
   }
   if (score >= 70 && matchedExclusions.length === 0) {
+    if (!experienceEvidence?.configured) {
+      return { tier: 'A', tierLabel: 'A档 · 建议投递', tierReason: '总体匹配，但真实经历证据尚未结构化，暂不升为 S 档' };
+    }
+    if (!experienceEvidence.matches.length) {
+      return { tier: 'A', tierLabel: 'A档 · 谨慎投递', tierReason: '岗位总体匹配，但没有找到能直接对应职责的真实经历证据' };
+    }
     return { tier: 'A', tierLabel: 'A档 · 建议投递', tierReason: fitWarnings.length ? '总体匹配，但存在专业/技术背景竞争劣势' : official ? '匹配较高且来源已核验' : '匹配较高，建议回官网核验后投递' };
   }
-  return { tier: 'B', tierLabel: 'B档 · 备选观察', tierReason: matchedExclusions.length ? '命中硬性排除或风险项' : fitWarnings.length ? '存在专业背景或技术能力竞争劣势' : '存在能力、城市或方向缺口' };
+  return { tier: 'B', tierLabel: 'B档 · 备选观察', tierReason: matchedExclusions.length ? '命中硬性排除或风险项' : fitWarnings.length ? '存在专业背景、技术能力或职责性质竞争劣势' : '存在能力、城市或方向缺口' };
 }
 
 export function evaluateJob(job, profile) {
@@ -89,7 +145,7 @@ export function evaluateJob(job, profile) {
     dimension('岗位方向', WEIGHTS.role, roleRatio, roleRatio >= 0.67 ? '目标岗位族命中' : '岗位方向存在偏差'),
     dimension('技能', WEIGHTS.skills, skillRatio, skillRatio >= 0.67 ? '核心技能覆盖较好' : '需要补齐部分技能'),
     dimension('城市', WEIGHTS.city, cityRatio, cityRatio === 1 ? '符合目标城市' : '非首选城市'),
-    dimension('经历', WEIGHTS.experience, experienceRatio, experienceRatio >= 0.67 ? '经历关键词匹配' : '相关经历证据偏少'),
+    dimension('经历', WEIGHTS.experience, experienceRatio, experienceRatio >= 0.67 ? '经历关键词相似' : '相关经历关键词偏少'),
     dimension('语言', WEIGHTS.language, languageRatio, languageRatio >= 0.67 ? '语言要求匹配' : '语言证据不足'),
     dimension('届别', WEIGHTS.graduation, graduationRatio, graduationRatio === 1 ? '毕业届别匹配' : '届别需核验'),
     dimension('偏好', WEIGHTS.preference, preferenceRatio, preferenceRatio >= 0.67 ? '职业偏好匹配' : '偏好匹配一般')
@@ -100,6 +156,8 @@ export function evaluateJob(job, profile) {
   );
   const fitWarnings = job.candidateFit?.warnings ?? [];
   const fitStrengths = job.candidateFit?.strengths ?? [];
+  const experienceEvidence = experienceEvidenceFor(job, profile);
+  const eligibility = eligibilityFor(job, profile);
   const baseScore = dimensions.reduce((sum, item) => sum + item.score, 0);
   const hardPenalty = Math.min(30, matchedExclusions.length * 15);
   const fitPenalty = Number(job.candidateFit?.penalty || 0);
@@ -112,6 +170,7 @@ export function evaluateJob(job, profile) {
     .map((item) => item.detail);
   const highlights = [
     ...fitStrengths.slice(0, 2).map((item) => `英语专业友好：${item}`),
+    ...(experienceEvidence.matches || []).slice(0, 1).map((item) => `真实经历：${item.name}`),
     ...dimensionHighlights
   ].slice(0, 3);
 
@@ -121,17 +180,25 @@ export function evaluateJob(job, profile) {
     .map((item) => item.detail);
   const gaps = [
     ...fitWarnings.map((item) => `竞争劣势：${item}`),
+    ...(experienceEvidence.configured && !experienceEvidence.matches.length ? ['没有直接经历证据'] : []),
     ...dimensionGaps
   ].slice(0, 3);
 
   const level = score >= 80 ? '强烈推荐' : score >= 65 ? '值得投递' : score >= 50 ? '可以尝试' : '谨慎考虑';
-  const tierInfo = tierFor(job, score, matchedExclusions, fitWarnings);
+  const tierInfo = tierFor(job, score, matchedExclusions, fitWarnings, experienceEvidence, eligibility);
+  const fourStepAnalysis = [
+    ...(job.candidateFit?.decisionSteps || []),
+    { step: 4, label: '真实经历', verdict: experienceEvidence.verdict, detail: experienceEvidence.detail }
+  ];
 
   return {
     score,
     level,
     ...tierInfo,
     dimensions,
+    eligibility,
+    fourStepAnalysis,
+    experienceEvidence,
     fitAdjustment: fitBonus - fitPenalty,
     highlights,
     gaps,
