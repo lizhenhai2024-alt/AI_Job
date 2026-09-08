@@ -34,7 +34,11 @@ export function parseEcoflowJob(source, row = {}, now = new Date()) {
   const title = clean(row.title || '');
   const descriptionText = clean(row.description || '');
   const requirementText = clean(row.requirement || '');
-  const category = clean(row?.job_category?.name || '');
+  // Feishu Hire tenants may use job_category for an industry taxonomy while
+  // job_function carries the actual functional family (运营/市场/产品/职能...).
+  // EcoFlow currently exposes the former as “能源 / 矿产 / 环保 ...”, so prefer
+  // job_function for human-facing role explanations and fall back to category.
+  const category = clean(row?.job_function?.name || row?.job_category?.name || '');
   const recruitType = clean(row?.recruit_type?.name || '');
   const jobText = [title, category, recruitType, descriptionText, requirementText].filter(Boolean).join('\n');
   const skills = detectSkills(jobText);

@@ -48,6 +48,15 @@ test('normalizes EcoFlow official 2027 campus role', () => {
   assert.ok(job.sourceUrl.includes('/602892/position/123456789/detail'));
 });
 
+test('EcoFlow functional family is preferred over broad industry category', () => {
+  const job = parseEcoflowJob(source, row('func-1', '会员运营', {
+    job_function: { name: '营销服类' },
+    job_category: { name: '能源 / 矿产 / 环保 / 农林牧渔' }
+  }));
+  assert.ok(job.description.includes('职类：营销服类'));
+  assert.ok(!job.description.includes('职类：能源 / 矿产 / 环保 / 农林牧渔'));
+});
+
 test('EcoFlow technical title stays outside target role families', () => {
   const job = parseEcoflowJob(source, row('999', '嵌入式软件工程师', { description: '负责嵌入式软件开发。' }));
   assert.deepEqual(job.roleFamily, ['其他']);
