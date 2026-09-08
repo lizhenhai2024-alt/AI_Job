@@ -10,8 +10,11 @@
   ],
   "beisen": [
     {"company":"科大讯飞","baseUrl":"https://iflytek.zhiye.com","graduationYear":"2027"},
-    {"company":"中芯国际","baseUrl":"https://smics.zhiye.com","graduationYear":"2027"},
+    {"company":"中芯国际","baseUrl":"https://smics.zhiye.com","graduationYear":"2027","mode":"html"},
     {"company":"零跑汽车","baseUrl":"https://leapmotor.zhiye.com","graduationYear":"2027"},
-    {"company":"新产业生物","baseUrl":"https://snibe.zhiye.com","graduationYear":"2027"}
+    {"company":"新产业生物","baseUrl":"https://snibe.zhiye.com","graduationYear":"2027"},
+    {"company":"vivo","baseUrl":"https://hr-campus.vivo.com","portalId":"903cbcbf-4898-46e1-817c-da522a9752b1","graduationYear":"2027"},
+    {"company":"奇瑞汽车","baseUrl":"https://chery.zhiye.com","graduationYear":"2027"},
+    {"company":"洲明科技","baseUrl":"https://unilumin.zhiye.com","graduationYear":"2027"}
   ]
 }
