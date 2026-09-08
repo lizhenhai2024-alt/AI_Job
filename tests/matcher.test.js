@@ -83,7 +83,8 @@ test('without structured real experience evidence a high-score role is capped at
     experienceKeywords: [...defaultProfile.experienceKeywords], preferenceTags: [...defaultProfile.workPreference],
     riskTags: []
   };
-  const result = evaluateJob(aligned, defaultProfile);
+  const profileWithoutEvidence = { ...defaultProfile, experienceEvidence: [] };
+  const result = evaluateJob(aligned, profileWithoutEvidence);
   assert.ok(result.score >= 85);
   assert.equal(result.tier, 'A');
   assert.equal(result.experienceEvidence.configured, false);
