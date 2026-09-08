@@ -5,6 +5,7 @@ import { searchNowcoderJobs } from './job-discovery/nowcoder.mjs';
 import { searchMokaJobs } from './job-discovery/moka.mjs';
 import { searchBeisenJobs } from './job-discovery/beisen.mjs';
 import { searchFeishuJobs } from './job-discovery/feishu.mjs';
+import { searchHotjobJobs } from './job-discovery/hotjob.mjs';
 import { searchAnkerJobs } from './job-discovery/anker.mjs';
 import { searchEcoflowJobs } from './job-discovery/ecoflow.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
@@ -87,6 +88,14 @@ try {
   console.log(`[job-refresh:feishu] portals=${feishu.stats.scannedPortals}/${feishu.stats.portals} listed=${feishu.stats.listed} kept=${feishu.stats.keptJobs} errors=${feishu.stats.errors}`);
 } catch (error) {
   console.warn(`[job-refresh:feishu] skipped: ${error.message}`);
+}
+
+try {
+  const hotjob = await searchHotjobJobs(config, officialSources.hotjob || []);
+  sourceResults.push({ name: 'hotjob', ...hotjob });
+  console.log(`[job-refresh:hotjob] portals=${hotjob.stats.scannedPortals}/${hotjob.stats.portals} listed=${hotjob.stats.listed} detailed=${hotjob.stats.detailed} kept=${hotjob.stats.keptJobs} errors=${hotjob.stats.errors}`);
+} catch (error) {
+  console.warn(`[job-refresh:hotjob] skipped: ${error.message}`);
 }
 
 try {
