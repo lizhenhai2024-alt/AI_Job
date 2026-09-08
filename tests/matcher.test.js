@@ -97,7 +97,38 @@ test('adjacent target titles receive full role-direction credit even when crawle
 });
 
 test('default profile covers the main non-technical campus role families', () => {
-  for (const role of ['GTM','产品营销','电商运营','内容运营','产品运营','用户运营','业务运营']) {
+  for (const role of ['PMO','项目管理','项目运营','GTM','产品营销','电商运营','内容运营','产品运营','用户运营','业务运营']) {
     assert.ok(defaultProfile.targetRoles.includes(role), `missing target role: ${role}`);
   }
+});
+
+test('soft major disadvantage lowers score and blocks S tier', () => {
+  const base = {
+    ...demoJobs[0],
+    sourceType: 'official', verification: '官方招聘官网',
+    roleFamily: ['产品营销'], city: defaultProfile.targetCities[0],
+    graduationYear: defaultProfile.graduationYear,
+    skills: [...defaultProfile.skills], languages: [...defaultProfile.languages],
+    experienceKeywords: [...defaultProfile.experienceKeywords], preferenceTags: [...defaultProfile.workPreference],
+    riskTags: []
+  };
+  const neutral = evaluateJob(base, defaultProfile);
+  const disadvantaged = evaluateJob({
+    ...base,
+    candidateFit: { warnings: ['专业背景不占优'], strengths: [], penalty: 10, bonus: 0 },
+    riskTags: ['适配风险：专业背景不占优']
+  }, defaultProfile);
+  assert.ok(disadvantaged.score < neutral.score);
+  assert.notEqual(disadvantaged.tier, 'S');
+  assert.ok(disadvantaged.gaps.some((x) => x.includes('专业背景不占优')));
+});
+
+test('English-major friendly signals create visible bonus evidence', () => {
+  const job = {
+    ...demoJobs[0],
+    candidateFit: { warnings: [], strengths: ['专业不限','沟通协调','国际业务'], penalty: 0, bonus: 6 }
+  };
+  const result = evaluateJob(job, defaultProfile);
+  assert.equal(result.fitAdjustment, 6);
+  assert.ok(result.highlights.some((x) => x.includes('英语专业友好')));
 });
