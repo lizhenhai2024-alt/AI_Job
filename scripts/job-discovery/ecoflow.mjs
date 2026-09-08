@@ -121,7 +121,7 @@ async function fetchPage(fetcher, source, auth, offset, limit) {
 }
 
 export async function searchEcoflowJobs(profile, source, { fetcher = fetch, maxJobs, pageSize, maxPages, now = new Date() } = {}) {
-  if (!source?.url || !source?.websitePath) return { jobs: [], stats: { pages: 0, listed: 0, keptJobs: 0, errors: 1, snapshotComplete: false } };
+  if (!source?.url || !source?.websitePath) return { jobs: [], stats: { pages: 0, listed: 0, keptJobs: 0, errors: 1, snapshotComplete: false, emptyResult: true } };
   const size = Math.max(1, Math.min(Number(pageSize || source.pageSize || 10), 10));
   const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 60), 100));
   const jobLimit = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 300), 600));
@@ -148,6 +148,14 @@ export async function searchEcoflowJobs(profile, source, { fetcher = fetch, maxJ
       if (!rows.length) { snapshotComplete = true; break; }
     }
   } catch { errors++; }
+
+  // An active, registered official campus source returning zero jobs is a source-health
+  // anomaly, not a valid "complete empty snapshot". Mark it unhealthy so API/schema
+  // changes cannot silently erase EcoFlow from the radar while CI stays green.
+  const emptyResult = listed === 0;
+  if (emptyResult && errors === 0) errors++;
+  if (emptyResult) snapshotComplete = false;
+
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { pages, listed, keptJobs: kept.length, errors, snapshotComplete } };
+  return { jobs: kept, stats: { pages, listed, keptJobs: kept.length, errors, snapshotComplete, emptyResult } };
 }

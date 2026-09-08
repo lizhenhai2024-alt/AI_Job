@@ -78,10 +78,37 @@ test('EcoFlow public Feishu API uses campaign website-path and paginates', async
   assert.equal(result.stats.listed, 3);
   assert.equal(result.stats.errors, 0);
   assert.equal(result.stats.snapshotComplete, true);
+  assert.equal(result.stats.emptyResult, false);
   assert.equal(result.jobs.length, 1);
   assert.equal(result.jobs[0].title, 'GTM');
   const searchCall = calls.find((c) => c.url.includes('/api/v1/search/job/posts'));
   assert.equal(searchCall.init.headers['website-path'], '602892');
   assert.equal(searchCall.init.headers['x-csrf-token'], 'public-csrf');
   assert.ok(searchCall.init.headers.cookie.includes('sessionid=public'));
+});
+
+test('EcoFlow zero-job response is a source-health error, not a complete snapshot', async () => {
+  const fetcher = async (url) => {
+    if (url.endsWith('/api/v1/csrf/token')) {
+      return new Response(JSON.stringify({ data: { token: 'public-csrf' } }), {
+        status: 200,
+        headers: { 'content-type': 'application/json', 'set-cookie': 'sessionid=public; Path=/' }
+      });
+    }
+    if (url.includes('/api/v1/search/job/posts')) {
+      return new Response(JSON.stringify({ data: { job_post_list: [] } }), {
+        status: 200,
+        headers: { 'content-type': 'application/json' }
+      });
+    }
+    throw new Error(`unexpected URL ${url}`);
+  };
+
+  const result = await searchEcoflowJobs(profile, source, { fetcher, now: new Date('2026-09-08T00:00:00Z') });
+  assert.equal(result.stats.pages, 1);
+  assert.equal(result.stats.listed, 0);
+  assert.equal(result.stats.keptJobs, 0);
+  assert.equal(result.stats.errors, 1);
+  assert.equal(result.stats.emptyResult, true);
+  assert.equal(result.stats.snapshotComplete, false);
 });
