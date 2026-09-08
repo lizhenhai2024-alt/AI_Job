@@ -19,6 +19,6 @@ export const defaultProfile = {
     '内容', '电商', '客户', 'GTM', '竞品分析', '本地化', '翻译',
     '项目推进', '流程', '协同'
   ],
-  exclusions: ['实习', 'Intern', '纯销售', '长期驻外'],
+  exclusions: ['实习', 'Intern', '工程师', '实施', '必须理工科', '纯销售', '长期驻外'],
   workPreference: ['国际业务', '出海', '跨文化']
 };
