@@ -1,6 +1,6 @@
 {
   "name": "ai-job",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,6 +9,9 @@
     "check": "npm run lint && npm test",
     "refresh:jobs": "node scripts/refresh-jobs.mjs",
     "serve": "python3 -m http.server 4173"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
   },
   "engines": {
     "node": ">=20"
