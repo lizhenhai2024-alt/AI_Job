@@ -7,8 +7,8 @@ const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
   'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
-  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/refresh-jobs.mjs',
-  'config/search-profile.json', 'README.md', 'docs/PLAN.md'
+  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/refresh-jobs.mjs',
+  'config/search-profile.json', 'config/official-sources.json', 'README.md', 'docs/PLAN.md'
 ];
 
 for (const file of required) {
@@ -33,4 +33,10 @@ if (config.graduationYear !== '2027' || !config.roleKeywords?.length || !config.
   throw new Error('search profile validation failed');
 }
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, unique ids and provenance OK.`);
+const sources = JSON.parse(fs.readFileSync(path.join(root, 'config/official-sources.json'), 'utf8'));
+if (!Array.isArray(sources.moka) || !sources.moka.length) throw new Error('official Moka source registry is empty');
+if (sources.moka.some((s) => !s.company || !/^https:\/\/app\.mokahr\.com\//.test(s.url) || s.graduationYear !== '2027')) {
+  throw new Error('official Moka source registry validation failed');
+}
+
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} official Moka portals, provenance OK.`);

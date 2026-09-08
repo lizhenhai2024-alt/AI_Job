@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { parseJobPage, shouldKeep, dedupeJobs, companiesFromJobs, relevanceScore } from '../scripts/job-discovery/core.mjs';
 import { parseSitemap, parseRobotsSitemaps, discoverJobUrls } from '../scripts/job-discovery/nowcoder.mjs';
+import { parseMokaCard } from '../scripts/job-discovery/moka.mjs';
 
 const profile = {
   graduationYear: '2027', roleKeywords: ['海外运营','产品运营','产品营销','电商运营','用户运营','业务运营','市场'],
@@ -28,6 +29,25 @@ test('normalizes JSON-LD JobPosting into AI Job schema', () => {
   assert.ok(job.roleFamily.includes('电商运营'));
   assert.ok(job.skills.includes('英语'));
   assert.equal(job.sourceType, 'secondary');
+});
+
+test('normalizes an official Moka card and keeps provenance', () => {
+  const job = parseMokaCard({
+    company: '韶音科技', title: '海外产品营销-深圳',
+    text: '负责全球市场推广、用户洞察与数据分析，英语可作为工作语言。',
+    url: 'https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/job/demo'
+  });
+  assert.equal(job.company, '韶音科技');
+  assert.equal(job.city, '深圳');
+  assert.equal(job.sourceType, 'official');
+  assert.equal(job.verification, '官方招聘官网');
+  assert.ok(job.roleFamily.includes('产品营销'));
+  assert.ok(job.skills.includes('英语'));
+});
+
+test('official Moka technical role is still rejected by profile filter', () => {
+  const job = parseMokaCard({ company: '示例公司', title: '软件工程师-北京', text: '2027届校园招聘', url: 'https://app.mokahr.com/campus-recruitment/demo/1#/job/2' });
+  assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), false);
 });
 
 test('explicit city in job title overrides company-location noise', () => {
