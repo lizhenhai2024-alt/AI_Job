@@ -30,8 +30,12 @@
   "ecoflow": {
     "company":"正浩创新EcoFlow",
     "url":"https://jobs.ecoflow.com/602892",
+    "apiBase":"https://jobs.ecoflow.com",
+    "websitePath":"602892",
+    "portalType":6,
     "graduationYear":"2027",
-    "maxJobs":120,
-    "maxDetails":120
+    "pageSize":10,
+    "maxPages":60,
+    "maxJobs":300
   }
 }
