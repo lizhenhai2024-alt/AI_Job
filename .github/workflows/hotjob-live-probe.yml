@@ -1,0 +1,57 @@
+name: Deloitte HotJob live probe
+
+on:
+  push:
+    branches:
+      - probe/hotjob-deloitte
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Probe Deloitte HotJob web app
+        shell: bash
+        run: |
+          node <<'NODE'
+          const origin = 'https://wecruit.hotjob.cn';
+          const tenant = 'SU64365a780dcad43c5ae82bab';
+          const pageUrl = `${origin}/${tenant}/pb/school.html`;
+          const headers = {
+            'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36',
+            accept: 'text/html,application/xhtml+xml'
+          };
+          const res = await fetch(pageUrl, { headers });
+          const html = await res.text();
+          console.log('PAGE', res.status, 'length=', html.length);
+          const scripts = [...html.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)]
+            .map(m => new URL(m[1], pageUrl).href);
+          console.log('SCRIPTS', scripts.length);
+          for (const url of scripts) console.log('SCRIPT', url);
+          const terms = ['positionInfo','listPosition','positionList','searchPosition','postType','schoolPosition','queryPosition','recruit/position','wecruit/position'];
+          for (const url of scripts.slice(-12)) {
+            try {
+              const r = await fetch(url, { headers: { ...headers, accept: '*/*', referer: pageUrl } });
+              const js = await r.text();
+              console.log('\nASSET', r.status, url, 'len=', js.length);
+              for (const term of terms) {
+                let idx = js.indexOf(term);
+                let count = 0;
+                while (idx >= 0 && count < 4) {
+                  console.log('HIT', term, js.slice(Math.max(0, idx - 280), Math.min(js.length, idx + 650)).replace(/\s+/g,' '));
+                  idx = js.indexOf(term, idx + term.length);
+                  count++;
+                }
+              }
+              const urls = [...js.matchAll(/(?:https?:\\?\/\\?\/[^"'`\\s]+|\/wecruit\/[^"'`\\s]+)/g)]
+                .map(m => m[0].replaceAll('\\/','/'))
+                .filter(v => /position|school|campus|recruit/i.test(v));
+              for (const value of [...new Set(urls)].slice(0,80)) console.log('ROUTE', value.slice(0,500));
+            } catch (e) { console.log('ASSET_ERROR', url, e.message); }
+          }
+          NODE
