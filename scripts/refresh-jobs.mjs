@@ -4,6 +4,7 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 import { searchNowcoderJobs } from './job-discovery/nowcoder.mjs';
 import { searchMokaJobs } from './job-discovery/moka.mjs';
 import { searchBeisenJobs } from './job-discovery/beisen.mjs';
+import { searchAnkerJobs } from './job-discovery/anker.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -19,7 +20,7 @@ async function loadExisting() {
 }
 
 function cleanForStorage(job) {
-  const { _searchText, _category, closed, ...clean } = job;
+  const { _searchText, _category, _subject, _sourceJobId, closed, ...clean } = job;
   return clean;
 }
 
@@ -67,6 +68,14 @@ try {
   console.warn(`[job-refresh:beisen] skipped: ${error.message}`);
 }
 
+try {
+  const anker = await searchAnkerJobs(config, officialSources.anker, { maxJobs: officialSources.anker?.maxJobs || 10 });
+  sourceResults.push({ name: 'anker', ...anker });
+  console.log(`[job-refresh:anker] listed=${anker.stats.listed} detailed=${anker.stats.detailed} kept=${anker.stats.keptJobs} errors=${anker.stats.errors}`);
+} catch (error) {
+  console.warn(`[job-refresh:anker] skipped: ${error.message}`);
+}
+
 const freshJobs = sourceResults.flatMap((r) => r.jobs || []).filter((job) => !job.riskTags?.includes('纯销售'));
 if (!freshJobs.length) {
   console.warn('[job-refresh] no fresh matching jobs found; keeping existing live job pool unchanged.');
@@ -94,7 +103,7 @@ const meta = {
   source: '多源：公司官方招聘官网 + 牛客公开职位',
   mode: '官方源优先去重 + 多源扩面 + 前端画像精排',
   stats: { sources: sourceStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '官方招聘官网优先用于去重与核验；二手来源用于扩大岗位发现范围。纯销售岗位不进入推荐池，投递前仍建议打开原始职位页确认职责和截止日期。'
+  note: '官方招聘官网优先用于去重与核验；二手来源用于扩大岗位发现范围。安克官方源当前为公开 API 首屏有界抓取；纯销售岗位不进入推荐池。投递前仍建议打开原始职位页确认职责和截止日期。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
