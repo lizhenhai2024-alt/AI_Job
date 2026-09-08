@@ -7,7 +7,7 @@ const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
   'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
-  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/refresh-jobs.mjs',
+  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/job-discovery/beisen.mjs', 'scripts/refresh-jobs.mjs',
   'config/search-profile.json', 'config/official-sources.json', 'README.md', 'docs/PLAN.md'
 ];
 
@@ -38,5 +38,9 @@ if (!Array.isArray(sources.moka) || !sources.moka.length) throw new Error('offic
 if (sources.moka.some((s) => !s.company || !/^https:\/\/app\.mokahr\.com\//.test(s.url) || s.graduationYear !== '2027')) {
   throw new Error('official Moka source registry validation failed');
 }
+if (!Array.isArray(sources.beisen) || !sources.beisen.length) throw new Error('official Beisen source registry is empty');
+if (sources.beisen.some((s) => !s.company || !/^https:\/\/[a-z0-9.-]+\.zhiye\.com$/i.test(s.baseUrl) || s.graduationYear !== '2027')) {
+  throw new Error('official Beisen source registry validation failed');
+}
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} official Moka portals, provenance OK.`);
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, provenance OK.`);

@@ -3,7 +3,8 @@ import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { searchNowcoderJobs } from './job-discovery/nowcoder.mjs';
 import { searchMokaJobs } from './job-discovery/moka.mjs';
-import { dedupeJobs, relevanceScore, isClosed } from './job-discovery/core.mjs';
+import { searchBeisenJobs } from './job-discovery/beisen.mjs';
+import { relevanceScore, isClosed } from './job-discovery/core.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const config = JSON.parse(await fs.readFile(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -18,7 +19,7 @@ async function loadExisting() {
 }
 
 function cleanForStorage(job) {
-  const { _searchText, closed, ...clean } = job;
+  const { _searchText, _category, closed, ...clean } = job;
   return clean;
 }
 
@@ -58,20 +59,30 @@ try {
   console.warn(`[job-refresh:moka] skipped: ${error.message}`);
 }
 
-const freshJobs = sourceResults.flatMap((r) => r.jobs || []);
+try {
+  const beisen = await searchBeisenJobs(config, officialSources.beisen || []);
+  sourceResults.push({ name: 'beisen', ...beisen });
+  console.log(`[job-refresh:beisen] portals=${beisen.stats.scannedPortals}/${beisen.stats.portals} rows=${beisen.stats.scannedRows} kept=${beisen.stats.keptJobs} errors=${beisen.stats.errors}`);
+} catch (error) {
+  console.warn(`[job-refresh:beisen] skipped: ${error.message}`);
+}
+
+const freshJobs = sourceResults.flatMap((r) => r.jobs || []).filter((job) => !job.riskTags?.includes('纯销售'));
 if (!freshJobs.length) {
   console.warn('[job-refresh] no fresh matching jobs found; keeping existing live job pool unchanged.');
   process.exit(0);
 }
 
 // Manually curated seed rows do not have discoveredAt. Auto rows are rebuilt on each successful refresh.
-const retainedSeeds = existing.filter((job) => !job.discoveredAt);
+const retainedSeeds = existing.filter((job) => !job.discoveredAt && !job.riskTags?.includes('纯销售'));
 const now = new Date();
 const merged = dedupePreferOfficial([...freshJobs, ...retainedSeeds])
-  .filter((job) => !isClosed('', job.deadline, now))
+  .filter((job) => !isClosed('', job.deadline, now) && !job.riskTags?.includes('纯销售'))
   .sort((a,b) => {
+    const scoreDiff = relevanceScore(b, config) - relevanceScore(a, config);
+    if (scoreDiff) return scoreDiff;
     if (a.sourceType !== b.sourceType) return a.sourceType === 'official' ? -1 : b.sourceType === 'official' ? 1 : 0;
-    return relevanceScore(b, config) - relevanceScore(a, config) || String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''));
+    return String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''));
   })
   .slice(0, Number(config.maxJobs || 300))
   .map(cleanForStorage);
@@ -81,9 +92,9 @@ const sourceStats = Object.fromEntries(sourceResults.map((r) => [r.name, r.stats
 const meta = {
   updatedAt: new Date().toISOString(),
   source: '多源：公司官方招聘官网 + 牛客公开职位',
-  mode: '官方源优先 + 二手源扩面 + 前端画像精排',
+  mode: '官方源优先去重 + 多源扩面 + 前端画像精排',
   stats: { sources: sourceStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '官方招聘官网优先；二手来源用于扩大岗位发现范围，投递前仍建议打开原始职位页确认职责和截止日期。'
+  note: '官方招聘官网优先用于去重与核验；二手来源用于扩大岗位发现范围。纯销售岗位不进入推荐池，投递前仍建议打开原始职位页确认职责和截止日期。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
