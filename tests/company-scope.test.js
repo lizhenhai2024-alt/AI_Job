@@ -16,14 +16,14 @@ test('official company pool includes verified 2027 Moka sources', () => {
 
 test('official company pool includes high-fit verified 2027 Beisen sources', () => {
   const beisenCompanies = officialSources.beisen.map((item) => item.company);
-  for (const company of ['传音控股','新华三集团','Babycare','慧策集团','锐明技术','扬腾创新','厦门国贸控股']) {
+  for (const company of ['传音控股','新华三集团','Babycare','慧策集团','锐明技术','扬腾创新','国贸股份']) {
     assert.ok(beisenCompanies.includes(company), `missing official Beisen source: ${company}`);
   }
   assert.ok(officialSources.beisen.length >= 14);
 });
 
 test('broad discovery covers adjacent business roles without blanket engineer penalty', () => {
-  for (const role of ['国际商务','客户成功','国际物流','供应链','管理培训生','战略运营','经营分析','品牌传播','雇主品牌','本地化']) {
+  for (const role of ['国际商务','海外业务','贸易运营','客户成功','国际物流','供应链','管理培训生','战略运营','经营分析','品牌传播','雇主品牌','本地化']) {
     assert.ok(searchProfile.roleKeywords.includes(role), `missing discovery role: ${role}`);
   }
   assert.equal(searchProfile.strongExclude.includes('工程师'), false);
