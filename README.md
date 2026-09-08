@@ -30,6 +30,17 @@ npm run check
 
 项目没有 npm 运行时依赖，`npm` 仅用于统一执行 Node.js 内置测试。
 
+## GitHub Pages 部署
+
+仓库已经提供 `.github/workflows/pages.yml`。GitHub Pages **首次使用需要一次性启用发布源**：
+
+1. 打开仓库 `Settings`。
+2. 进入 `Pages`。
+3. 在 `Build and deployment` 下把 `Source` 选择为 `GitHub Actions`。
+4. 回到 `Actions`，选择 `Deploy GitHub Pages`，点击 `Run workflow`。
+
+完成首次启用后即可使用该工作流部署。V1 暂时将 Pages 工作流设置为手动触发，避免仓库尚未启用 Pages 时每次推送 `main` 都产生无意义的失败状态。
+
 ## 重要说明
 
 当前仓库内职位是 **Demo 示例数据**，不代表对应公司当前真实开放岗位。下一阶段会接入公司校招官网、CSV/JSON 导入等真实数据源，并对岗位届别、来源、更新时间和失效状态进行核验。
