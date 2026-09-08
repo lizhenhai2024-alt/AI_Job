@@ -39,7 +39,7 @@ function jobUrlsFromHtml(html = '', base = 'https://www.nowcoder.com') {
   return [...new Set(refs.map((ref) => new URL(ref, base).href))];
 }
 
-export async function discoverJobUrls({ fetcher = fetchText, maxSitemaps = 20, maxCandidates = 500 } = {}) {
+export async function discoverJobUrls({ fetcher = fetchText, maxSitemaps = 80, maxCandidates = 5000 } = {}) {
   const roots = [];
   try {
     const robots = await fetcher('https://www.nowcoder.com/robots.txt');
@@ -97,12 +97,13 @@ async function mapLimit(items, limit, mapper) {
 
 export async function searchNowcoderJobs(profile, {
   fetcher = fetchText,
-  maxCandidates = profile.maxCandidates || 500,
-  maxPages = profile.maxPages || 120,
-  concurrency = profile.concurrency || 4,
+  maxSitemaps = profile.maxSitemaps || 80,
+  maxCandidates = profile.maxCandidates || 5000,
+  maxPages = profile.maxPages || 1000,
+  concurrency = profile.concurrency || 5,
   now = new Date()
 } = {}) {
-  const discovered = await discoverJobUrls({ fetcher, maxCandidates });
+  const discovered = await discoverJobUrls({ fetcher, maxSitemaps, maxCandidates });
   const sorted = discovered.sort((a,b) => String(b.lastmod).localeCompare(String(a.lastmod))).slice(0, maxPages);
   const results = await mapLimit(sorted, concurrency, async ({ url, lastmod }) => {
     const html = await fetcher(url);
