@@ -19,8 +19,8 @@ const STEM_RX = /理工科|工科|理科|计算机|软件工程|电子信息|电
 const PREFERRED_RX = /优先|优先考虑|加分项|加分|preferred|plus/i;
 const FLEXIBLE_RX = /专业不限|不限专业|专业不限制|不限制专业|统招本硕不限|本硕不限/i;
 const MANDATORY_RX = /必须|要求|限|仅限|需具备|需要具备|专业要求|相关专业|专业背景|应为|须为|本科.*专业|硕士.*专业/i;
-const ENGLISH_FRIENDLY_MAJOR_RX = /英语|外语|语言|文学|人文|文科|新闻传播|传播学|中文|汉语言|专业不限|不限专业/i;
-const MAJOR_LIST_RX = /市场营销|新闻传播|广告|商科|工商管理|经济|金融|管理|理工科|工科|计算机|电子|自动化|数学|统计|数据科学|信息管理/i;
+const ENGLISH_FRIENDLY_MAJOR_RX = /英语|外语|外国语言|语言类|文学类|人文|文科|专业不限|不限专业/i;
+const MAJOR_LIST_RX = /市场营销|新闻传播|传播学|广告|商科|工商管理|经济|金融|管理|理工科|工科|计算机|电子|自动化|数学|统计|数据科学|信息管理/i;
 const TECH_TERM_RX = /模型理论|大模型|\bAgent\b|智能体|\bSQL\b|\bPython\b|编程|代码|数据建模|算法|机器学习|深度学习|数据库|数据结构/i;
 const TECH_MANDATORY_RX = /深刻理解|深入理解|熟练掌握|熟练使用|精通|必须|要求|具备.{0,10}(能力|经验)|能够独立|需掌握|需要掌握/i;
 const CERT_RX = /\bCPA\b|注册会计师|\bCFA\b|特许金融分析师|精算师|法律职业资格|法考|律师资格/i;
@@ -45,7 +45,6 @@ function splitRequirementClauses(text = '') {
 export function requiresMandatoryStem(job = {}) {
   const text = textOf(job);
   if (!STEM_RX.test(text)) return false;
-
   for (const clause of splitRequirementClauses(text)) {
     if (!STEM_RX.test(clause)) continue;
     if (PREFERRED_RX.test(clause) || FLEXIBLE_RX.test(clause)) continue;
@@ -57,7 +56,7 @@ export function requiresMandatoryStem(job = {}) {
 export function requiresHardTechnicalAbility(job = {}) {
   for (const clause of splitRequirementClauses(textOf(job))) {
     if (!TECH_TERM_RX.test(clause)) continue;
-    if (PREFERRED_RX.test(clause) && !TECH_MANDATORY_RX.test(clause.replace(PREFERRED_RX, ''))) continue;
+    if (PREFERRED_RX.test(clause)) continue;
     if (TECH_MANDATORY_RX.test(clause)) return true;
     const hits = clause.match(new RegExp(TECH_TERM_RX.source, 'gi')) || [];
     if (hits.length >= 3) return true;
@@ -68,7 +67,7 @@ export function requiresHardTechnicalAbility(job = {}) {
 export function requiresProfessionalCertificate(job = {}) {
   for (const clause of splitRequirementClauses(textOf(job))) {
     if (!CERT_RX.test(clause)) continue;
-    if (PREFERRED_RX.test(clause) && !CERT_MANDATORY_RX.test(clause.replace(PREFERRED_RX, ''))) continue;
+    if (PREFERRED_RX.test(clause)) continue;
     if (CERT_MANDATORY_RX.test(clause)) return true;
   }
   return false;
@@ -83,13 +82,9 @@ export function analyzeCandidateFit(job = {}) {
     if (PREFERRED_RX.test(clause) && MAJOR_LIST_RX.test(clause) && !ENGLISH_FRIENDLY_MAJOR_RX.test(clause) && !FLEXIBLE_RX.test(clause)) {
       warnings.push('专业背景不占优');
     }
-    if (PREFERRED_RX.test(clause) && TECH_TERM_RX.test(clause) && !TECH_MANDATORY_RX.test(clause.replace(PREFERRED_RX, ''))) {
-      warnings.push('技术背景优先');
-    }
+    if (PREFERRED_RX.test(clause) && TECH_TERM_RX.test(clause)) warnings.push('技术背景优先');
     if (RELATED_MASTER_RX.test(clause)) warnings.push('相关专业硕士优先');
-    if (PREFERRED_RX.test(clause) && CERT_RX.test(clause) && !CERT_MANDATORY_RX.test(clause.replace(PREFERRED_RX, ''))) {
-      warnings.push('专业证书优先');
-    }
+    if (PREFERRED_RX.test(clause) && CERT_RX.test(clause)) warnings.push('专业证书优先');
   }
 
   for (const [label, rx] of FRIENDLY_SIGNAL_RULES) if (rx.test(text)) strengths.push(label);
