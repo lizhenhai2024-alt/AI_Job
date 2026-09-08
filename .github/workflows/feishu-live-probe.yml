@@ -1,0 +1,84 @@
+name: Feishu live probe
+
+on:
+  push:
+    branches:
+      - fix/feishu-cohort-diagnostics
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Probe public Feishu API
+        shell: bash
+        run: |
+          node <<'NODE'
+          const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+          const sources = [
+            ['影石Insta360','https://arashivision.jobs.feishu.cn','campus'],
+            ['得物App','https://poizon.jobs.feishu.cn','578078'],
+            ['沐瞳科技','https://moonton.jobs.feishu.cn','campus']
+          ];
+          const cohortRx = /2027\s*届|27\s*届|2027校招|27校招|2027秋招|27秋招/i;
+          const clean = (v) => String(v ?? '').replace(/\s+/g,' ').slice(0,240);
+          for (const [company, base, path] of sources) {
+            console.log(`\n=== ${company} ===`);
+            for (const pagePath of ['/', `/${path}`]) {
+              try {
+                const r = await fetch(base + pagePath, { headers: {'user-agent':UA, accept:'text/html'} });
+                const html = await r.text();
+                const m = html.match(/<script[^>]+id=["']js-websiteInfo["'][^>]*>([\s\S]*?)<\/script>/i);
+                console.log(`GET ${pagePath} status=${r.status} websiteInfo=${m ? clean(m[1]) : 'none'}`);
+              } catch (e) { console.log(`GET ${pagePath} ERROR ${e.message}`); }
+            }
+            for (const mode of ['plain','website-path']) {
+              const headers = {
+                'content-type':'application/json', accept:'application/json',
+                'user-agent':UA, referer:`${base}/${path}/`
+              };
+              if (mode === 'website-path') headers['website-path'] = path;
+              try {
+                const r = await fetch(base + '/api/v1/search/job/posts', {
+                  method:'POST', headers, body:JSON.stringify({limit:100,offset:0})
+                });
+                const text = await r.text();
+                let json;
+                try { json = JSON.parse(text); } catch {}
+                const rows = json?.data?.job_post_list || [];
+                const matches = rows.filter(row => cohortRx.test(JSON.stringify(row)));
+                console.log(`MODE=${mode} status=${r.status} code=${json?.code} count=${json?.data?.count} rows=${rows.length} cohortMatches=${matches.length}`);
+                if (rows[0]) console.log('rowKeys=', Object.keys(rows[0]).sort().join(','));
+                for (const row of matches.slice(0,5)) {
+                  console.log('MATCH', JSON.stringify({
+                    id: row.id,
+                    title: clean(row.title),
+                    recruit_type: row.recruit_type,
+                    subject: row.subject,
+                    job_subject: row.job_subject,
+                    recruitment: row.recruitment,
+                    recruitment_project: row.recruitment_project,
+                    project: row.project,
+                    description: clean(row.description),
+                    requirement: clean(row.requirement)
+                  }));
+                }
+                if (!matches.length) {
+                  for (const row of rows.slice(0,3)) {
+                    console.log('SAMPLE', JSON.stringify({
+                      id:row.id, title:clean(row.title), recruit_type:row.recruit_type,
+                      subject:row.subject, job_subject:row.job_subject, recruitment:row.recruitment,
+                      recruitment_project:row.recruitment_project, project:row.project
+                    }));
+                  }
+                }
+              } catch (e) { console.log(`MODE=${mode} ERROR ${e.message}`); }
+            }
+          }
+          NODE
