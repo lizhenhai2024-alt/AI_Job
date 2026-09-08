@@ -8,7 +8,7 @@ const LANGUAGE_RULES = [
   ['日语', /日语|Japanese/i], ['韩语', /韩语|Korean/i], ['俄语', /俄语|Russian/i], ['阿拉伯语', /阿语|阿拉伯语|Arabic/i]
 ];
 const SAFE_PATH_RX = /^[A-Za-z0-9_/-]{1,80}$/;
-const FALLBACK_PATHS = ['campus', 'index', 'fte', 'recruitment', 'experienced', 'social'];
+const MACOS_CHROME_UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 
 function clean(value = '') {
   return String(value || '')
@@ -42,56 +42,50 @@ function publishedAt(row = {}) {
   return Number.isNaN(d.getTime()) ? '' : d.toISOString().slice(0, 10);
 }
 
-function directUrl(source, path, id) {
+function directUrl(source, id) {
   const base = baseOf(source);
   if (!id) return source.url || base;
-  return `${base}/${String(path || '').replace(/^\/+|\/+$/g, '')}/position/${encodeURIComponent(id)}/detail`;
+  if (source.detailTemplate) return String(source.detailTemplate).replace('{id}', encodeURIComponent(id));
+  return `${base}/index/position/${encodeURIComponent(id)}/detail`;
 }
 
-function portalHeaders(source, path) {
+function apiHeaders(source) {
   const base = baseOf(source);
   return {
-    'website-path': path,
-    'portal-channel': 'office',
-    'portal-platform': 'pc',
-    origin: base,
-    referer: `${base}/`,
     'content-type': 'application/json',
-    accept: 'application/json, text/plain, */*',
+    accept: 'application/json',
     'accept-language': 'zh-CN,zh;q=0.9',
-    'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.7; +https://github.com/lizhenhai2024-alt/AI_Job)'
+    'user-agent': MACOS_CHROME_UA,
+    referer: `${base}/`
   };
 }
 
-function apiBody(source, keyword, limit, offset) {
-  return {
-    keyword,
-    limit,
-    offset,
-    portal_type: Number(source.portalType || 2),
-    job_category_id_list: [],
-    location_code_list: [],
-    subject_id_list: [],
-    recruitment_id_list: [],
-    job_function_id_list: []
-  };
+function apiBody(keyword, limit, offset) {
+  const body = { limit, offset };
+  if (keyword) body.keyword = keyword;
+  return body;
 }
 
-async function callJobsApi(fetcher, source, path, { keyword = '', limit = 20, offset = 0 } = {}) {
+async function callJobsApi(fetcher, source, { keyword = '', limit = 100, offset = 0 } = {}) {
   const base = baseOf(source);
   const response = await fetcher(`${base}/api/v1/search/job/posts`, {
     method: 'POST',
-    headers: portalHeaders(source, path),
-    body: JSON.stringify(apiBody(source, keyword, limit, offset))
+    headers: apiHeaders(source),
+    body: JSON.stringify(apiBody(keyword, limit, offset)),
+    redirect: 'error'
   });
   if (!response.ok) throw new Error(`Feishu API HTTP ${response.status} for ${source.company}`);
-  const payload = await response.json();
-  if (payload?.code != null && Number(payload.code) !== 0) throw new Error(payload?.message || `Feishu API code ${payload.code} for ${source.company}`);
+  let payload;
+  try { payload = await response.json(); }
+  catch { throw new Error(`Feishu API non-JSON response for ${source.company}`); }
+  if (Number(payload?.code) !== 0) throw new Error(`Feishu API code ${payload?.code ?? 'missing'} for ${source.company}: ${payload?.message || ''}`.trim());
   const posts = payload?.data?.job_post_list;
   if (!Array.isArray(posts)) throw new Error(`Feishu API payload missing data.job_post_list for ${source.company}`);
   return { posts, count: Number(payload?.data?.count || 0) };
 }
 
+// Kept for compatibility and diagnostics. Generic *.jobs.feishu.cn listing API no longer
+// depends on website-path; some branded/custom-domain tenants (EcoFlow) still do.
 export function parseWebsitePath(html = '') {
   const script = String(html).match(/<script[^>]+id=["']js-websiteInfo["'][^>]*>([\s\S]*?)<\/script>/i);
   if (!script) return '';
@@ -104,48 +98,11 @@ export function parseWebsitePath(html = '') {
   }
 }
 
-async function homepagePath(fetcher, source) {
-  try {
-    const response = await fetcher(`${baseOf(source)}/`, {
-      method: 'GET',
-      headers: {
-        accept: 'text/html,application/xhtml+xml',
-        'accept-language': 'zh-CN,zh;q=0.9',
-        'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.7; +https://github.com/lizhenhai2024-alt/AI_Job)'
-      }
-    });
-    if (!response.ok) return '';
-    return parseWebsitePath(await response.text());
-  } catch {
-    return '';
-  }
+function cohortEvidence(jobText) {
+  return is2027(jobText) ? { year: '2027', source: 'JD' } : { year: '', source: '' };
 }
 
-export async function resolveWebsitePath(fetcher, source) {
-  const explicit = String(source.websitePath || '').replace(/^\/+|\/+$/g, '');
-  const detected = await homepagePath(fetcher, source);
-  const candidates = [...new Set([explicit, detected, ...FALLBACK_PATHS].filter((path) => SAFE_PATH_RX.test(path)))];
-  let lastError = null;
-  for (const path of candidates) {
-    try {
-      await callJobsApi(fetcher, source, path, { limit: 1, offset: 0 });
-      return path;
-    } catch (error) {
-      lastError = error;
-    }
-  }
-  throw lastError || new Error(`Unable to resolve Feishu website-path for ${source.company}`);
-}
-
-function cohortEvidence(source, jobText) {
-  if (is2027(jobText)) return { year: '2027', source: 'JD' };
-  if (source.cohortMode === 'verified-2027-portal' && String(source.graduationYear) === '2027') {
-    return { year: '2027', source: 'verified-portal' };
-  }
-  return { year: '', source: '' };
-}
-
-export function parseFeishuJob(source, row = {}, path = '', now = new Date()) {
+export function parseFeishuJob(source, row = {}, now = new Date()) {
   const rawId = String(row.id || '');
   const title = clean(row.title || '');
   const descriptionText = clean(row.description || '');
@@ -154,7 +111,7 @@ export function parseFeishuJob(source, row = {}, path = '', now = new Date()) {
   const recruitType = clean(row?.recruit_type?.name || '');
   const subject = clean(row?.subject?.name || row?.job_subject?.name || row?.recruitment?.name || '');
   const jobText = [title, category, recruitType, subject, descriptionText, requirementText].filter(Boolean).join('\n');
-  const cohort = cohortEvidence(source, jobText);
+  const cohort = cohortEvidence(jobText);
   const skills = detectSkills(jobText);
   const roleFamily = classifyRole(title);
   const preferenceTags = [
@@ -178,8 +135,8 @@ export function parseFeishuJob(source, row = {}, path = '', now = new Date()) {
     riskTags: detectRisks(jobText),
     source: `${source.company}官方飞书招聘`,
     sourceType: 'official',
-    sourceUrl: directUrl(source, path, rawId),
-    verification: cohort.source === 'verified-portal' ? '官方招聘官网/API；2027届门户已核验' : '官方招聘官网/API',
+    sourceUrl: directUrl(source, rawId),
+    verification: cohort.year ? '官方招聘官网/API；岗位文本明确2027届' : '官方招聘官网/API；届别待核',
     publishedAt: publishedAt(row),
     deadline: '',
     description: `${source.company}官方校园招聘岗位；${category ? `职类：${category}。` : ''}${skills.length ? `识别关键词：${skills.slice(0, 5).join('、')}。` : ''}投递前请打开官方职位页确认最新状态。`,
@@ -196,25 +153,28 @@ function isInternRecruitType(value = '') {
   return /实习|intern(?:ship)?/i.test(String(value));
 }
 
+function isSocialRecruitType(value = '') {
+  return /社会招聘|社招|experienced/i.test(String(value));
+}
+
 async function searchOne(profile, source, { fetcher = fetch, now = new Date() } = {}) {
-  const pageSize = Math.max(1, Math.min(Number(source.pageSize || 30), 50));
-  const maxPages = Math.max(1, Math.min(Number(source.maxPages || 30), 100));
-  const maxJobs = Math.max(1, Math.min(Number(source.maxJobs || 500), 1000));
-  let pages = 0, listed = 0, errors = 0, snapshotComplete = false, path = '';
+  const pageSize = Math.max(1, Math.min(Number(source.pageSize || 100), 100));
+  const maxPages = Math.max(1, Math.min(Number(source.maxPages || 30), 200));
+  const maxJobs = Math.max(1, Math.min(Number(source.maxJobs || 1000), 5000));
+  let pages = 0, listed = 0, errors = 0, snapshotComplete = false, lastError = '';
   const jobs = [];
   const seen = new Set();
   try {
-    path = await resolveWebsitePath(fetcher, source);
     for (let page = 0, offset = 0; page < maxPages && seen.size < maxJobs; page++) {
-      const { posts, count } = await callJobsApi(fetcher, source, path, { limit: pageSize, offset });
+      const { posts, count } = await callJobsApi(fetcher, source, { limit: pageSize, offset });
       pages++;
       listed += posts.length;
       for (const row of posts) {
         const id = String(row?.id || '');
         if (!id || seen.has(id)) continue;
         seen.add(id);
-        const job = parseFeishuJob(source, row, path, now);
-        if (!job.title || !job.graduationYear || isInternRecruitType(job._recruitType) || job.riskTags?.includes('纯销售')) continue;
+        const job = parseFeishuJob(source, row, now);
+        if (!job.title || !job.graduationYear || isInternRecruitType(job._recruitType) || isSocialRecruitType(job._recruitType) || job.riskTags?.includes('纯销售')) continue;
         if (shouldKeep(job, profile, now)) jobs.push(job);
         if (seen.size >= maxJobs) break;
       }
@@ -224,14 +184,18 @@ async function searchOne(profile, source, { fetcher = fetch, now = new Date() } 
       }
       offset += posts.length;
     }
-  } catch {
+  } catch (error) {
     errors++;
+    lastError = String(error?.message || error);
   }
   const emptyResult = listed === 0;
-  if (emptyResult && errors === 0) errors++;
+  if (emptyResult && errors === 0) {
+    errors++;
+    lastError = 'Feishu source returned zero jobs';
+  }
   if (emptyResult) snapshotComplete = false;
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { pages, listed, keptJobs: kept.length, errors, snapshotComplete, emptyResult, websitePath: path } };
+  return { jobs: kept, stats: { pages, listed, keptJobs: kept.length, errors, snapshotComplete, emptyResult, error: lastError } };
 }
 
 export async function searchFeishuJobs(profile, sources = [], options = {}) {
