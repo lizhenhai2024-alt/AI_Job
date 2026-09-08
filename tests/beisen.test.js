@@ -1,11 +1,11 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseBeisenRow, searchBeisenJobs } from '../scripts/job-discovery/beisen.mjs';
+import { parseBeisenRow, parseBeisenCampusHtml, searchBeisenJobs } from '../scripts/job-discovery/beisen.mjs';
 
 const source = { company: '示例企业', baseUrl: 'https://example.zhiye.com', graduationYear: '2027' };
 const profile = {
   graduationYear: '2027',
-  roleKeywords: ['运营','海外运营','产品运营','产品营销','市场','用户运营','业务运营'],
+  roleKeywords: ['运营','海外运营','产品运营','产品营销','市场','用户运营','业务运营','项目管理'],
   keywords: ['英语','海外','数据分析'],
   targetCities: ['深圳','上海','北京'],
   strongExclude: ['软件工程师'],
@@ -45,4 +45,32 @@ test('Beisen discovery pages anonymously and filters pure sales', async () => {
   assert.equal(result.stats.errors, 0);
   assert.equal(result.jobs.length, 1);
   assert.equal(result.jobs[0].title, '产品运营（2027届校招）');
+});
+
+test('Beisen request forwards a tenant PortalId', async () => {
+  let body;
+  const vivoSource = { company: 'vivo', baseUrl: 'https://hr-campus.vivo.com', portalId: 'campus-portal-id', graduationYear: '2027' };
+  const fetcher = async (_url, init) => {
+    body = JSON.parse(init.body);
+    return new Response(JSON.stringify({ Code: 200, Count: 0, Data: [] }), { status: 200 });
+  };
+  const result = await searchBeisenJobs(profile, [vivoSource], { fetcher, maxPages: 1 });
+  assert.equal(result.stats.errors, 0);
+  assert.equal(body.PortalId, 'campus-portal-id');
+});
+
+test('parses server-rendered Beisen campus table as HTML fallback', async () => {
+  const html = `<table><tr><td>工程支持类</td><td><a href="/campus/detail?jobAdId=J13346">政府项目管理工程师（2027届校招）</a></td><td>硕士</td><td>北京市</td></tr></table>`;
+  const parsed = parseBeisenCampusHtml({ company: '中芯国际', baseUrl: 'https://smics.zhiye.com' }, html);
+  assert.equal(parsed.length, 1);
+  assert.equal(parsed[0].JobAdId, 'J13346');
+  assert.equal(parsed[0].JobAdName, '政府项目管理工程师（2027届校招）');
+  assert.deepEqual(parsed[0].LocNames, ['北京']);
+
+  const fetcher = async () => new Response(html, { status: 200, headers: { 'content-type': 'text/html' } });
+  const result = await searchBeisenJobs(profile, [{ company: '中芯国际', baseUrl: 'https://smics.zhiye.com', graduationYear: '2027', mode: 'html' }], { fetcher, maxPages: 2 });
+  assert.equal(result.stats.errors, 0);
+  assert.equal(result.stats.perPortal['中芯国际'].mode, 'html');
+  assert.equal(result.jobs.length, 1);
+  assert.equal(result.jobs[0].title, '政府项目管理工程师（2027届校招）');
 });
