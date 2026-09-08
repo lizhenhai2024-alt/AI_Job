@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseJobPage, shouldKeep, dedupeJobs, companiesFromJobs, relevanceScore } from '../scripts/job-discovery/core.mjs';
+import { parseJobPage, shouldKeep, dedupeJobs, companiesFromJobs, relevanceScore, classifyRole } from '../scripts/job-discovery/core.mjs';
 import { parseSitemap, parseRobotsSitemaps, discoverJobUrls } from '../scripts/job-discovery/nowcoder.mjs';
 import { parseMokaCard } from '../scripts/job-discovery/moka.mjs';
 
@@ -89,6 +89,30 @@ test('unrelated finance job is rejected even when site chrome contains target ke
   const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100005' });
   assert.deepEqual(job.roleFamily, ['其他']);
   assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), false);
+});
+
+test('adjacent operations and brand titles are classified into usable role families', () => {
+  const cases = [
+    ['社媒运营（日语）', '内容运营'],
+    ['KOL运营（西语）', '内容运营'],
+    ['电商实习生（Charging）', '电商运营'],
+    ['欧洲品牌经理实习（英国，西班牙，意大利）', '产品营销'],
+    ['【日常实习】服务运营实习生', '业务运营'],
+    ['【日常实习】部门运营实习生', '业务运营']
+  ];
+  for (const [title, expected] of cases) {
+    assert.ok(classifyRole(title).includes(expected), `${title} should classify as ${expected}`);
+  }
+});
+
+test('ecommerce developer role is rejected despite ecommerce title signal', () => {
+  const html = jobHtml({
+    title: '电商系统开发工程师',
+    description: '面向2027届毕业生，负责电商系统后端开发、接口设计与代码维护。'
+  });
+  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100007' });
+  const strictProfile = { ...profile, strongExclude: [...profile.strongExclude, '开发工程师'] };
+  assert.equal(shouldKeep(job, strictProfile, new Date('2026-09-08T00:00:00Z')), false);
 });
 
 test('dedupe keeps the newer equivalent job', () => {
