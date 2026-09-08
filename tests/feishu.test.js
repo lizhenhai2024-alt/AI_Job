@@ -26,34 +26,54 @@ test('parses Feishu website path only as compatibility metadata', () => {
   assert.equal(parseWebsitePath('<html></html>'), '');
 });
 
-test('generic Feishu job requires per-job 2027 evidence', () => {
+test('generic Feishu job requires per-job cohort evidence and accepts 27届 shorthand', () => {
   const row = {
     id: '1',
     title: '海外广告投放管培生',
     city_list: [{ name: '深圳' }],
     description: '负责海外市场投放与跨文化内容协同',
     requirement: '英语可作为工作语言',
-    recruit_type: { name: '校园招聘' }
+    recruit_type: { name: '正式', parent: { name: '校招' } }
   };
-  const noEvidence = parseFeishuJob({ company: '测试公司', baseUrl: 'https://demo.jobs.feishu.cn', graduationYear: '2027', cohortMode: 'verified-2027-portal' }, row);
+  const noEvidence = parseFeishuJob({ company: '测试公司', baseUrl: 'https://demo.jobs.feishu.cn', graduationYear: '2027' }, row);
   assert.equal(noEvidence.graduationYear, '');
   assert.match(noEvidence.verification, /届别待核/);
 
-  const jdVerified = parseFeishuJob(
+  const longYear = parseFeishuJob(
     { company: '测试公司', baseUrl: 'https://demo.jobs.feishu.cn', graduationYear: '2027' },
     { ...row, requirement: '面向2027届毕业生，英语可作为工作语言' }
   );
-  assert.equal(jdVerified.graduationYear, '2027');
-  assert.match(jdVerified.verification, /岗位文本明确2027届/);
+  assert.equal(longYear.graduationYear, '2027');
+
+  const shortYear = parseFeishuJob(
+    { company: '测试公司', baseUrl: 'https://demo.jobs.feishu.cn', graduationYear: '2027' },
+    { ...row, title: '【27届校招】海外广告投放管培生' }
+  );
+  assert.equal(shortYear.graduationYear, '2027');
 });
 
-test('generic Feishu discovery uses zero-auth list API, paginates and removes internship recruit type', async () => {
+test('localized Feishu job subject provides 2027 campaign evidence', () => {
+  const job = parseFeishuJob(
+    { company: '得物App', baseUrl: 'https://poizon.jobs.feishu.cn', websitePath: '578078', graduationYear: '2027' },
+    {
+      id: 'subject-1', title: '品牌运营', city_list: [{ name: '上海' }], description: '负责品牌内容运营', requirement: '本科及以上',
+      recruit_type: { name: '正式', parent: { name: '校招' } },
+      job_subject: { name: { zh_cn: '2027届秋季校园招聘项目', i18n: '2027届秋季校园招聘项目' } }
+    }
+  );
+  assert.equal(job.graduationYear, '2027');
+  assert.equal(job._subject, '2027届秋季校园招聘项目');
+  assert.equal(job._recruitGroup, '校招');
+});
+
+test('generic Feishu discovery sends only verified campus website-path plus zero-auth list body', async () => {
   const source = {
     company: '影石Insta360',
     baseUrl: 'https://arashivision.jobs.feishu.cn',
+    websitePath: 'campus',
     graduationYear: '2027',
     detailTemplate: 'https://arashivision.jobs.feishu.cn/campus/m/position/{id}/detail',
-    pageSize: 2,
+    pageSize: 3,
     maxPages: 3,
     maxJobs: 20
   };
@@ -61,28 +81,34 @@ test('generic Feishu discovery uses zero-auth list API, paginates and removes in
   const fetcher = async (url, options = {}) => {
     assert.equal(url, 'https://arashivision.jobs.feishu.cn/api/v1/search/job/posts');
     assert.equal(options.method, 'POST');
-    assert.equal(options.headers['website-path'], undefined);
+    assert.equal(options.headers['website-path'], 'campus');
     assert.equal(options.headers['portal-channel'], undefined);
+    assert.equal(options.headers['portal-platform'], undefined);
     assert.match(options.headers['user-agent'], /Macintosh/);
-    assert.equal(options.headers.referer, 'https://arashivision.jobs.feishu.cn/');
+    assert.equal(options.headers.referer, 'https://arashivision.jobs.feishu.cn/campus/');
     apiCalls++;
     const body = JSON.parse(options.body);
     assert.deepEqual(Object.keys(body).sort(), ['limit','offset']);
     if (body.offset === 0) {
-      return response({ json: { code: 0, data: { count: 2, job_post_list: [
+      return response({ json: { code: 0, data: { count: 3, job_post_list: [
         {
           id: 'fulltime-1', title: '海外广告投放管培生-2027校招', city_list: [{ name: '深圳' }],
           description: '负责海外市场投放、数据复盘和跨部门协同', requirement: '2027届毕业生，英文沟通流利',
-          job_function: { name: '市场营销' }, recruit_type: { name: '校园招聘' }, publish_time: 1788307200
+          job_function: { name: '市场营销' }, recruit_type: { name: '正式', parent: { name: '校招' } }, publish_time: 1788307200
         },
         {
           id: 'intern-1', title: '市场运营-2027校园实习', city_list: [{ name: '深圳' }],
           description: '支持市场运营', requirement: '2027届，英文良好',
-          job_function: { name: '市场营销' }, recruit_type: { name: '实习' }, publish_time: 1788307200
+          job_function: { name: '市场营销' }, recruit_type: { name: '实习', parent: { name: '校招' } }, publish_time: 1788307200
+        },
+        {
+          id: 'social-1', title: '海外运营经理', city_list: [{ name: '深圳' }],
+          description: '负责2027年度海外运营计划', requirement: '3年以上经验',
+          job_function: { name: '市场营销' }, recruit_type: { name: '全职', parent: { name: '社招' } }, publish_time: 1788307200
         }
       ] } } });
     }
-    return response({ json: { code: 0, data: { count: 2, job_post_list: [] } } });
+    return response({ json: { code: 0, data: { count: 3, job_post_list: [] } } });
   };
 
   const result = await searchFeishuJobs(profile, [source], { fetcher, now: new Date('2026-09-08T00:00:00Z') });
@@ -90,7 +116,11 @@ test('generic Feishu discovery uses zero-auth list API, paginates and removes in
   assert.equal(result.stats.portals, 1);
   assert.equal(result.stats.scannedPortals, 1);
   assert.equal(result.stats.errors, 0);
-  assert.equal(result.stats.listed, 2);
+  assert.equal(result.stats.listed, 3);
+  assert.equal(result.stats.cohortMatched, 3);
+  assert.equal(result.stats.perPortal['影石Insta360'].internRejected, 1);
+  assert.equal(result.stats.perPortal['影石Insta360'].socialRejected, 1);
+  assert.equal(result.stats.perPortal['影石Insta360'].websitePath, 'campus');
   assert.equal(result.jobs.length, 1);
   assert.equal(result.jobs[0].title, '海外广告投放管培生-2027校招');
   assert.equal(result.jobs[0].sourceType, 'official');
@@ -98,19 +128,21 @@ test('generic Feishu discovery uses zero-auth list API, paginates and removes in
   assert.equal(result.jobs[0].sourceUrl, 'https://arashivision.jobs.feishu.cn/campus/m/position/fulltime-1/detail');
 });
 
-test('generic Feishu filters social recruit rows even when text contains 2027', async () => {
-  const source = { company: '测试公司', baseUrl: 'https://demo.jobs.feishu.cn', graduationYear: '2027', pageSize: 100, maxPages: 1, maxJobs: 100 };
-  const fetcher = async () => response({ json: { code: 0, data: { count: 2, job_post_list: [
-    { id:'campus', title:'海外运营-2027校招', city_list:[{name:'上海'}], description:'负责海外运营', requirement:'2027届，英语流利', recruit_type:{name:'校园招聘'} },
-    { id:'social', title:'海外运营经理', city_list:[{name:'上海'}], description:'负责2027年度海外运营计划', requirement:'3年以上经验', recruit_type:{name:'社会招聘'} }
+test('generic Feishu campaign subject can establish cohort even when title omits year', async () => {
+  const source = { company: '得物App', baseUrl: 'https://poizon.jobs.feishu.cn', websitePath: '578078', graduationYear: '2027', pageSize: 100, maxPages: 1, maxJobs: 100 };
+  const fetcher = async () => response({ json: { code: 0, data: { count: 1, job_post_list: [
+    {
+      id:'campus', title:'品牌运营', city_list:[{name:'上海'}], description:'负责品牌运营和内容策划', requirement:'英语良好',
+      recruit_type:{name:'正式', parent:{name:'校招'}}, job_subject:{name:{zh_cn:'2027届秋季校园招聘项目'}}
+    }
   ] } } });
   const result = await searchFeishuJobs(profile, [source], { fetcher });
+  assert.equal(result.stats.cohortMatched, 1);
   assert.equal(result.jobs.length, 1);
-  assert.equal(result.jobs[0].id.includes('campus'), true);
 });
 
 test('empty Feishu official source is surfaced with diagnostic error', async () => {
-  const source = { company: '空门户', baseUrl: 'https://empty.jobs.feishu.cn', graduationYear: '2027' };
+  const source = { company: '空门户', baseUrl: 'https://empty.jobs.feishu.cn', websitePath: 'campus', graduationYear: '2027' };
   const fetcher = async () => response({ json: { code: 0, data: { count: 0, job_post_list: [] } } });
   const result = await searchFeishuJobs(profile, [source], { fetcher });
   assert.equal(result.stats.errors, 1);
@@ -120,7 +152,7 @@ test('empty Feishu official source is surfaced with diagnostic error', async () 
 });
 
 test('Feishu API error code is preserved in source-health diagnostics', async () => {
-  const source = { company: '错误门户', baseUrl: 'https://bad.jobs.feishu.cn', graduationYear: '2027' };
+  const source = { company: '错误门户', baseUrl: 'https://bad.jobs.feishu.cn', websitePath: 'campus', graduationYear: '2027' };
   const fetcher = async () => response({ json: { code: 10001, message: 'invalid request', data: null } });
   const result = await searchFeishuJobs(profile, [source], { fetcher });
   assert.equal(result.stats.errors, 1);
