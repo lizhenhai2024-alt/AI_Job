@@ -39,8 +39,14 @@ if (sources.moka.some((s) => !s.company || !/^https:\/\/app\.mokahr\.com\//.test
   throw new Error('official Moka source registry validation failed');
 }
 if (!Array.isArray(sources.beisen) || !sources.beisen.length) throw new Error('official Beisen source registry is empty');
-if (sources.beisen.some((s) => !s.company || !/^https:\/\/[a-z0-9.-]+\.zhiye\.com$/i.test(s.baseUrl) || s.graduationYear !== '2027')) {
+if (sources.beisen.some((s) => {
+  const validHost = /^https:\/\/[a-z0-9.-]+\.zhiye\.com$/i.test(s.baseUrl) || s.baseUrl === 'https://hr-campus.vivo.com';
+  const validMode = !s.mode || s.mode === 'html';
+  return !s.company || !validHost || !validMode || s.graduationYear !== '2027';
+})) {
   throw new Error('official Beisen source registry validation failed');
 }
+const vivo = sources.beisen.find((s) => s.company === 'vivo');
+if (vivo && !vivo.portalId) throw new Error('vivo Beisen campus PortalId is required');
 
 console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, provenance OK.`);
