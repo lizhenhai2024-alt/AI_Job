@@ -40,7 +40,8 @@ test('normalizes an official Moka card and keeps provenance', () => {
   assert.equal(job.company, '韶音科技');
   assert.equal(job.city, '深圳');
   assert.equal(job.sourceType, 'official');
-  assert.equal(job.verification, '官方招聘官网');
+  assert.match(job.verification, /^官方招聘官网/);
+  assert.match(job.verification, /2027校招源/);
   assert.ok(job.roleFamily.includes('产品营销'));
   assert.ok(job.skills.includes('英语'));
 });

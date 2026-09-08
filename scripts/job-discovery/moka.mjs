@@ -1,6 +1,8 @@
 import crypto from 'node:crypto';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES } from './core.mjs';
 
+const PURE_SALES_TITLE_RX = /销售管培生|销售代表|销售经理|渠道销售|区域销售|大客户销售|销售顾问|销售专员/i;
+
 function textOf(v = '') { return String(v || '').replace(/\s+/g, ' ').trim(); }
 function cityFrom(text = '') { return CITY_NAMES.find((c) => String(text).includes(c)) || '待核'; }
 function decodeAttr(value = '') {
@@ -35,19 +37,45 @@ function cardsFromInitData(initData, source) {
   }).filter((x) => x.href && x.text && !x.href.endsWith('/job/'));
 }
 
+export function explicitMokaCohortYears(text = '') {
+  return [...new Set([...String(text).matchAll(/(20\d{2})\s*届/g)].map((match) => match[1]))];
+}
+
+export function resolveMokaGraduationYear(text = '', configuredYear = '2027') {
+  const target = String(configuredYear || '');
+  if (!target) return '';
+  const years = explicitMokaCohortYears(text);
+  if (years.length && !years.includes(target)) return '';
+  return target;
+}
+
+export function isMokaTitleAllowed(title = '') {
+  const value = String(title || '');
+  return !/实习/i.test(value) && !PURE_SALES_TITLE_RX.test(value);
+}
+
 export function parseMokaCard({ company, title, text = '', url, graduationYear = '2027', now = new Date() }) {
   const body = `${title}\n${text}`;
   const roleFamily = classifyRole(title);
   const skills = detectSkills(body);
   const experienceKeywords = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户'].filter((w) => body.includes(w)).slice(0,8);
   const preferenceTags = [/海外|国际|全球/.test(body) ? '国际业务' : '', /跨文化|本地化|海外用户|海外市场/.test(body) ? '跨文化' : '', /出海|海外市场|跨境/.test(body) ? '出海' : ''].filter(Boolean);
+  const years = explicitMokaCohortYears(body);
+  const resolvedYear = resolveMokaGraduationYear(body, graduationYear);
+  const verification = resolvedYear
+    ? years.includes(String(graduationYear))
+      ? '官方招聘官网 · JD/标题明确2027届'
+      : '官方招聘官网 · 2027校招源（卡片未单列届别）'
+    : years.length
+      ? `官方招聘官网 · 届别冲突（${years.join('/')}届）`
+      : '官方招聘官网';
   return {
     id: `moka-${crypto.createHash('sha1').update(url).digest('hex').slice(0,12)}`,
-    company, title, roleFamily, city: cityFrom(`${title} ${text}`), graduationYear,
+    company, title, roleFamily, city: cityFrom(`${title} ${text}`), graduationYear: resolvedYear,
     skills, languages: /英语|英文|CET|English/i.test(body) ? ['英语'] : [],
     experienceKeywords, preferenceTags, riskTags: detectRisks(body),
     source: '公司官方Moka校招官网', sourceType: 'official', sourceUrl: url,
-    verification: '官方招聘官网', publishedAt: '', deadline: '',
+    verification, publishedAt: '', deadline: '',
     description: `公司官方 Moka 校招岗位；${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方职位页确认完整职责与截止日期。`,
     salary: '', status: '推荐', discoveredAt: now.toISOString(), _searchText: body
   };
@@ -57,7 +85,7 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
   if (!chromium || !sources.length) return { jobs: [], stats: { portals: sources.length, scannedPortals: 0, discoveredUrls: 0, keptJobs: 0, errors: 0, ssrJobs: 0, domJobs: 0 } };
   const browser = await chromium.launch({ headless: true });
   const jobs = [];
-  let scannedPortals = 0, discoveredUrls = 0, errors = 0, ssrJobs = 0, domJobs = 0;
+  let scannedPortals = 0, discoveredUrls = 0, errors = 0, ssrJobs = 0, domJobs = 0, cohortRejected = 0, titleRejected = 0;
   try {
     const page = await browser.newPage({ viewport: { width: 1365, height: 900 } });
     for (const source of sources) {
@@ -92,12 +120,14 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
           const lines = card.text.split(/\n+/).map(textOf).filter(Boolean);
           const title = lines[0] || '';
           if (!title) continue;
+          if (!isMokaTitleAllowed(title)) { titleRejected++; continue; }
           const job = parseMokaCard({ company: source.company, title, text: lines.slice(1).join(' '), url: card.href, graduationYear: source.graduationYear || profile.graduationYear, now });
+          if (!job.graduationYear) { cohortRejected++; continue; }
           if (shouldKeep(job, profile, now)) jobs.push(job);
         }
       } catch { errors++; }
     }
   } finally { await browser.close(); }
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { portals: sources.length, scannedPortals, discoveredUrls, keptJobs: kept.length, errors, ssrJobs, domJobs } };
+  return { jobs: kept, stats: { portals: sources.length, scannedPortals, discoveredUrls, keptJobs: kept.length, errors, ssrJobs, domJobs, cohortRejected, titleRejected } };
 }
