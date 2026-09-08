@@ -1,0 +1,33 @@
+name: ITG live probe
+
+on:
+  push:
+    branches:
+      - fix/itg-2027-html-source
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Probe verified 2027 campus page
+        shell: bash
+        run: |
+          node <<'NODE'
+          const url = 'https://itg.zhiye.com/gmkgxzlb?k=&c=&p=1%5E14,3%5E24&d=&PageIndex=1&key=gmgf&job=campus';
+          const r = await fetch(url, {headers:{'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36',accept:'text/html'}});
+          const html = await r.text();
+          console.log('status=',r.status,'length=',html.length);
+          const anchors = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)]
+            .map(m => ({href:m[1], text:m[2].replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim()}))
+            .filter(x => /jobId=|J13\d{3}|gmkg.*xq/i.test(x.href+' '+x.text));
+          console.log('matchingAnchors=',anchors.length);
+          for (const a of anchors.slice(0,20)) console.log(JSON.stringify(a));
+          const snippets = [...html.matchAll(/.{0,250}(?:J13645|J13647|J13648|J13649|J13650).{0,500}/gis)].slice(0,5).map(m=>m[0].replace(/\s+/g,' '));
+          for (const s of snippets) console.log('SNIPPET',s);
+          NODE
