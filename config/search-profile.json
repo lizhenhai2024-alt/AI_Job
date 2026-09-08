@@ -5,8 +5,9 @@
   "targetCities": ["深圳", "上海", "广州", "武汉", "北京", "杭州"],
   "strongExclude": ["算法工程师", "软件工程师", "硬件工程师", "研发工程师", "嵌入式工程师", "测试工程师", "机械工程师", "电气工程师"],
   "minRelevanceScore": 4,
-  "maxCandidates": 500,
-  "maxPages": 120,
-  "maxJobs": 120,
-  "concurrency": 4
+  "maxSitemaps": 80,
+  "maxCandidates": 5000,
+  "maxPages": 1000,
+  "maxJobs": 300,
+  "concurrency": 5
 }
