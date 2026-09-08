@@ -11,7 +11,17 @@ test('official company pool includes verified 2027 Moka sources', () => {
   for (const company of ['SHEIN','中兴通讯','雀巢中国','毕马威中国','微步在线','华勤技术','搜狐畅游','盛趣游戏','特斯拉中国']) {
     assert.ok(mokaCompanies.includes(company), `missing official Moka source: ${company}`);
   }
-  assert.ok(officialSources.moka.length >= 16);
+  assert.ok(officialSources.moka.length >= 18);
+});
+
+test('foreign Moka monitors require per-job 2027 evidence', () => {
+  for (const company of ['博世中国','百威中国']) {
+    const source = officialSources.moka.find((item) => item.company === company);
+    assert.ok(source, `missing foreign monitored source: ${company}`);
+    assert.equal(source.graduationYear, '2027');
+    assert.equal(source.strictCohort, true, `${company} must not inherit 2027 without JD/title evidence`);
+    assert.match(source.url, /^https:\/\/app\.mokahr\.com\//);
+  }
 });
 
 test('official company pool includes high-fit verified 2027 Beisen sources', () => {
