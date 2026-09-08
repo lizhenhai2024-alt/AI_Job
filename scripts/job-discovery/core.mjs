@@ -71,7 +71,10 @@ function asText(value) {
   return String(value);
 }
 
-function extractLocation(posting, pageText) {
+function extractLocation(posting, pageText, title = '') {
+  const titleCandidate = CITY_NAMES.find((city) => String(title).includes(city));
+  if (titleCandidate) return titleCandidate;
+
   const raw = posting?.jobLocation;
   const locations = Array.isArray(raw) ? raw : raw ? [raw] : [];
   const fromLd = locations.flatMap((loc) => {
@@ -171,7 +174,7 @@ export function parseJobPage({ html, url, lastmod = '', now = new Date() }) {
   const id = `nowcoder-${crypto.createHash('sha1').update(url).digest('hex').slice(0, 12)}`;
   const description = `自动发现的 ${roleFamily.join(' / ')} 类岗位${skills.length ? `；识别关键词：${skills.slice(0,5).join('、')}` : ''}。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。`;
   return {
-    id, company, title, roleFamily, city: extractLocation(posting, pageText), graduationYear,
+    id, company, title, roleFamily, city: extractLocation(posting, pageText, title), graduationYear,
     skills, languages, experienceKeywords, preferenceTags, riskTags,
     source: '牛客公开职位', sourceType: 'secondary', sourceUrl: url,
     verification: '二手来源，待官网核验', publishedAt, deadline,
