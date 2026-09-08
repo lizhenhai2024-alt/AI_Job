@@ -35,9 +35,48 @@ test('empty preference arrays do not crash matcher', () => {
   const result = evaluateJob(demoJobs[0], blank);
   assert.equal(typeof result.score, 'number');
   assert.equal(result.dimensions.length, 7);
+  assert.ok(['S','A','B'].includes(result.tier));
 });
 
 test('all dimension weights sum to 100', () => {
   const result = evaluateJob(demoJobs[0], defaultProfile);
   assert.equal(result.dimensions.reduce((sum, d) => sum + d.weight, 0), 100);
+});
+
+test('S tier requires high score, no hard exclusion and official provenance', () => {
+  const aligned = {
+    ...demoJobs[0],
+    sourceType: 'official',
+    verification: '官方招聘官网',
+    roleFamily: ['海外运营','GTM'],
+    city: defaultProfile.targetCities[0],
+    graduationYear: defaultProfile.graduationYear,
+    skills: [...defaultProfile.skills],
+    languages: [...defaultProfile.languages],
+    experienceKeywords: [...defaultProfile.experienceKeywords],
+    preferenceTags: [...defaultProfile.workPreference],
+    riskTags: []
+  };
+  const result = evaluateJob(aligned, defaultProfile);
+  assert.ok(result.score >= 85);
+  assert.equal(result.tier, 'S');
+});
+
+test('high score from secondary source is capped at A tier until official verification', () => {
+  const aligned = {
+    ...demoJobs[0],
+    sourceType: 'secondary',
+    verification: '二手来源，待官网核验',
+    roleFamily: ['海外运营','GTM'],
+    city: defaultProfile.targetCities[0],
+    graduationYear: defaultProfile.graduationYear,
+    skills: [...defaultProfile.skills],
+    languages: [...defaultProfile.languages],
+    experienceKeywords: [...defaultProfile.experienceKeywords],
+    preferenceTags: [...defaultProfile.workPreference],
+    riskTags: []
+  };
+  const result = evaluateJob(aligned, defaultProfile);
+  assert.ok(result.score >= 85);
+  assert.equal(result.tier, 'A');
 });
