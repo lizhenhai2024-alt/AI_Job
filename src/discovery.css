@@ -1,0 +1,14 @@
+.live-note { border-style: solid; border-color: #b8ddcc; background: #f2fbf6; }
+.live-note strong { color: var(--green); }
+.source-flag { color: var(--amber); font-weight: 700; }
+a.btn { text-decoration: none; display: inline-flex; align-items: center; justify-content: center; }
+.source-box { padding: 10px 12px; background: #f8fafc; border: 1px solid var(--line); border-radius: 10px; color: var(--muted); font-size: 13px; }
+.source-box a { color: var(--primary); }
+.company-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.company-card { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 20px; box-shadow: 0 7px 25px rgba(22,32,51,.05); }
+.company-card-head { display: flex; justify-content: space-between; gap: 16px; }
+.company-card h2 { margin: 0 0 12px; font-size: 21px; }
+.company-score { font-size: 28px; font-weight: 900; color: var(--primary); text-align: right; }
+.company-score small { display: block; color: var(--muted); font-size: 11px; font-weight: 700; }
+.company-actions { display: flex; justify-content: flex-end; margin-top: 16px; }
+@media (max-width: 760px) { .company-grid { grid-template-columns: 1fr; } }
