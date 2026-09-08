@@ -1,0 +1,15 @@
+{
+  "name": "ai-job",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "lint": "node scripts/check.mjs",
+    "check": "npm run lint && npm test",
+    "serve": "python3 -m http.server 4173"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
