@@ -40,6 +40,9 @@
     {"company":"得物App","baseUrl":"https://poizon.jobs.feishu.cn","websitePath":"578078","graduationYear":"2027","detailTemplate":"https://poizon.jobs.feishu.cn/578078/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000},
     {"company":"沐瞳科技","baseUrl":"https://moonton.jobs.feishu.cn","websitePath":"campus","graduationYear":"2027","detailTemplate":"https://moonton.jobs.feishu.cn/campus/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000}
   ],
+  "hotjob": [
+    {"company":"德勤中国","baseUrl":"https://wecruit.hotjob.cn","tenant":"64365a780dcad43c5ae82bab","url":"https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/school.html","graduationYear":"2027","projectEvidence":"Campus 2027","pageSize":100,"maxPages":260,"maxDetails":120,"listConcurrency":6,"detailConcurrency":5}
+  ],
   "anker": {
     "company":"安克创新",
     "url":"https://career.anker-in.com/universities/recruitment/",
