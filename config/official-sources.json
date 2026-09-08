@@ -33,6 +33,11 @@
     {"company":"扬腾创新","baseUrl":"https://yangtenginnovation-compus.zhiye.com","graduationYear":"2027"},
     {"company":"厦门国贸控股","baseUrl":"https://itgholding.zhiye.com","graduationYear":"2027"}
   ],
+  "feishu": [
+    {"company":"影石Insta360","baseUrl":"https://arashivision.jobs.feishu.cn","graduationYear":"2027","cohortMode":"verified-2027-portal","pageSize":30,"maxPages":30,"maxJobs":500},
+    {"company":"得物App","baseUrl":"https://poizon.jobs.feishu.cn","websitePath":"578078","graduationYear":"2027","cohortMode":"verified-2027-portal","pageSize":30,"maxPages":30,"maxJobs":500},
+    {"company":"沐瞳科技","baseUrl":"https://moonton.jobs.feishu.cn","graduationYear":"2027","cohortMode":"verified-2027-portal","pageSize":30,"maxPages":30,"maxJobs":500}
+  ],
   "anker": {
     "company":"安克创新",
     "url":"https://career.anker-in.com/universities/recruitment/",
