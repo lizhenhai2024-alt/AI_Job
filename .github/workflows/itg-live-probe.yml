@@ -15,19 +15,27 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-      - name: Probe verified 2027 campus page
+      - name: Probe verified 2027 campus page and details
         shell: bash
         run: |
           node <<'NODE'
-          const url = 'https://itg.zhiye.com/gmkgxzlb?k=&c=&p=1%5E14,3%5E24&d=&PageIndex=1&key=gmgf&job=campus';
-          const r = await fetch(url, {headers:{'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36',accept:'text/html'}});
+          const base = 'https://itg.zhiye.com';
+          const url = base + '/gmkgxzlb?k=&c=&p=1%5E14,3%5E24&d=&PageIndex=1&key=gmgf&job=campus';
+          const headers = {'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36',accept:'text/html'};
+          const clean = (v) => String(v || '').replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,' ').replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi,' ').replace(/<[^>]+>/g,' ').replace(/&nbsp;|&#160;/gi,' ').replace(/&amp;/gi,'&').replace(/\s+/g,' ').trim();
+          const r = await fetch(url, {headers});
           const html = await r.text();
-          console.log('status=',r.status,'length=',html.length);
-          const anchors = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)]
-            .map(m => ({href:m[1], text:m[2].replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim()}))
-            .filter(x => /jobId=|J13\d{3}|gmkg.*xq/i.test(x.href+' '+x.text));
+          console.log('list status=',r.status,'length=',html.length);
+          const anchors = [...html.matchAll(/<a\b[^>]*href=["']([^"']*\/gmkgxzxq\?[^"']*jobId=([^"'&]+)[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)]
+            .map(m => ({href:m[1], id:m[2], text:clean(m[3])}));
           console.log('matchingAnchors=',anchors.length);
-          for (const a of anchors.slice(0,20)) console.log(JSON.stringify(a));
-          const snippets = [...html.matchAll(/.{0,250}(?:J13645|J13647|J13648|J13649|J13650).{0,500}/gis)].slice(0,5).map(m=>m[0].replace(/\s+/g,' '));
-          for (const s of snippets) console.log('SNIPPET',s);
+          for (const a of anchors) {
+            console.log('LIST', JSON.stringify(a));
+            const detailUrl = new URL(a.href, base).href;
+            const dr = await fetch(detailUrl, {headers});
+            const detailHtml = await dr.text();
+            const text = clean(detailHtml);
+            const marker = ['岗位职责','职位描述','任职要求','岗位要求','职位要求'].map(k => text.indexOf(k)).filter(i => i >= 0).sort((x,y)=>x-y)[0] ?? 0;
+            console.log('DETAIL', JSON.stringify({id:a.id,status:dr.status,url:detailUrl,snippet:text.slice(marker, marker + 2200)}));
+          }
           NODE
