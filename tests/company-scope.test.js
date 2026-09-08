@@ -6,12 +6,20 @@ import { defaultProfile } from '../src/data/profile.js';
 const officialSources = JSON.parse(readFileSync(new URL('../config/official-sources.json', import.meta.url), 'utf8'));
 const searchProfile = JSON.parse(readFileSync(new URL('../config/search-profile.json', import.meta.url), 'utf8'));
 
-test('official company pool includes newly verified 2027 sources', () => {
+test('official company pool includes verified 2027 Moka sources', () => {
   const mokaCompanies = officialSources.moka.map((item) => item.company);
-  for (const company of ['SHEIN','中兴通讯','雀巢中国','毕马威中国','微步在线']) {
-    assert.ok(mokaCompanies.includes(company), `missing official source: ${company}`);
+  for (const company of ['SHEIN','中兴通讯','雀巢中国','毕马威中国','微步在线','华勤技术','搜狐畅游','盛趣游戏','特斯拉中国']) {
+    assert.ok(mokaCompanies.includes(company), `missing official Moka source: ${company}`);
   }
-  assert.ok(officialSources.moka.length >= 12);
+  assert.ok(officialSources.moka.length >= 16);
+});
+
+test('official company pool includes verified 2027 Beisen sources', () => {
+  const beisenCompanies = officialSources.beisen.map((item) => item.company);
+  for (const company of ['传音控股','新华三集团']) {
+    assert.ok(beisenCompanies.includes(company), `missing official Beisen source: ${company}`);
+  }
+  assert.ok(officialSources.beisen.length >= 9);
 });
 
 test('broad discovery covers adjacent business roles without blanket engineer penalty', () => {
