@@ -52,9 +52,10 @@ if (vivo && !vivo.portalId) throw new Error('vivo Beisen campus PortalId is requ
 if (!Array.isArray(sources.feishu) || !sources.feishu.length) throw new Error('official Feishu source registry is empty');
 if (sources.feishu.some((s) => {
   const validHost = /^https:\/\/[a-z0-9.-]+\.jobs\.feishu\.cn$/i.test(s.baseUrl);
+  const validPath = /^[A-Za-z0-9_/-]{1,80}$/.test(s.websitePath || '');
   const validDetail = !s.detailTemplate || /^https:\/\/[a-z0-9.-]+\.jobs\.feishu\.cn\/.+\{id\}.+$/i.test(s.detailTemplate);
   const validCohort = s.graduationYear === '2027' && !s.cohortMode;
-  return !s.company || !validHost || !validDetail || !validCohort || Number(s.maxJobs || 0) < 10 || Number(s.maxPages || 0) < 1;
+  return !s.company || !validHost || !validPath || !validDetail || !validCohort || Number(s.maxJobs || 0) < 10 || Number(s.maxPages || 0) < 1;
 })) {
   throw new Error('official generic Feishu source registry validation failed');
 }

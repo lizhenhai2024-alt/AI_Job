@@ -9,6 +9,7 @@ const LANGUAGE_RULES = [
 ];
 const SAFE_PATH_RX = /^[A-Za-z0-9_/-]{1,80}$/;
 const MACOS_CHROME_UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+const SHORT_2027_RX = /(?:^|[^0-9])27\s*届(?:毕业生|校招|秋招|应届)?/i;
 
 function clean(value = '') {
   return String(value || '')
@@ -20,8 +21,22 @@ function clean(value = '') {
     .trim();
 }
 
+function localizedName(value) {
+  if (value == null) return '';
+  if (typeof value === 'string' || typeof value === 'number') return clean(value);
+  if (typeof value === 'object') {
+    return clean(value.zh_cn || value.i18n || value.en_us || value.name || value.value || '');
+  }
+  return clean(value);
+}
+
 function baseOf(source = {}) {
   return String(source.baseUrl || source.url || '').replace(/\/$/, '');
+}
+
+function websitePathOf(source = {}) {
+  const path = String(source.websitePath || '').replace(/^\/+|\/+$/g, '');
+  return SAFE_PATH_RX.test(path) ? path : '';
 }
 
 function cityFrom(row = {}) {
@@ -46,18 +61,22 @@ function directUrl(source, id) {
   const base = baseOf(source);
   if (!id) return source.url || base;
   if (source.detailTemplate) return String(source.detailTemplate).replace('{id}', encodeURIComponent(id));
-  return `${base}/index/position/${encodeURIComponent(id)}/detail`;
+  const path = websitePathOf(source) || 'index';
+  return `${base}/${path}/position/${encodeURIComponent(id)}/detail`;
 }
 
 function apiHeaders(source) {
   const base = baseOf(source);
-  return {
+  const path = websitePathOf(source);
+  const headers = {
     'content-type': 'application/json',
     accept: 'application/json',
     'accept-language': 'zh-CN,zh;q=0.9',
     'user-agent': MACOS_CHROME_UA,
-    referer: `${base}/`
+    referer: path ? `${base}/${path}/` : `${base}/`
   };
+  if (path) headers['website-path'] = path;
+  return headers;
 }
 
 function apiBody(keyword, limit, offset) {
@@ -84,8 +103,8 @@ async function callJobsApi(fetcher, source, { keyword = '', limit = 100, offset 
   return { posts, count: Number(payload?.data?.count || 0) };
 }
 
-// Kept for compatibility and diagnostics. Generic *.jobs.feishu.cn listing API no longer
-// depends on website-path; some branded/custom-domain tenants (EcoFlow) still do.
+// Kept for compatibility and diagnostics. For generic multi-board tenants the verified
+// campus website-path is stored in config and sent only as the website-path header.
 export function parseWebsitePath(html = '') {
   const script = String(html).match(/<script[^>]+id=["']js-websiteInfo["'][^>]*>([\s\S]*?)<\/script>/i);
   if (!script) return '';
@@ -99,7 +118,9 @@ export function parseWebsitePath(html = '') {
 }
 
 function cohortEvidence(jobText) {
-  return is2027(jobText) ? { year: '2027', source: 'JD' } : { year: '', source: '' };
+  return is2027(jobText) || SHORT_2027_RX.test(jobText)
+    ? { year: '2027', source: 'JD' }
+    : { year: '', source: '' };
 }
 
 export function parseFeishuJob(source, row = {}, now = new Date()) {
@@ -107,10 +128,11 @@ export function parseFeishuJob(source, row = {}, now = new Date()) {
   const title = clean(row.title || '');
   const descriptionText = clean(row.description || '');
   const requirementText = clean(row.requirement || '');
-  const category = clean(row?.job_function?.name || row?.job_category?.name || '');
-  const recruitType = clean(row?.recruit_type?.name || '');
-  const subject = clean(row?.subject?.name || row?.job_subject?.name || row?.recruitment?.name || '');
-  const jobText = [title, category, recruitType, subject, descriptionText, requirementText].filter(Boolean).join('\n');
+  const category = localizedName(row?.job_function?.name || row?.job_category?.name || '');
+  const recruitType = localizedName(row?.recruit_type?.name || '');
+  const recruitGroup = localizedName(row?.recruit_type?.parent?.name || '');
+  const subject = localizedName(row?.subject?.name || row?.job_subject?.name || row?.recruitment?.name || '');
+  const jobText = [title, category, recruitType, recruitGroup, subject, descriptionText, requirementText].filter(Boolean).join('\n');
   const cohort = cohortEvidence(jobText);
   const skills = detectSkills(jobText);
   const roleFamily = classifyRole(title);
@@ -145,6 +167,7 @@ export function parseFeishuJob(source, row = {}, now = new Date()) {
     discoveredAt: now.toISOString(),
     _searchText: jobText,
     _recruitType: recruitType,
+    _recruitGroup: recruitGroup,
     _subject: subject
   };
 }
@@ -162,8 +185,10 @@ async function searchOne(profile, source, { fetcher = fetch, now = new Date() } 
   const maxPages = Math.max(1, Math.min(Number(source.maxPages || 30), 200));
   const maxJobs = Math.max(1, Math.min(Number(source.maxJobs || 1000), 5000));
   let pages = 0, listed = 0, errors = 0, snapshotComplete = false, lastError = '';
+  let cohortMatched = 0, missingCohort = 0, internRejected = 0, socialRejected = 0, pureSalesRejected = 0, relevanceRejected = 0;
   const jobs = [];
   const seen = new Set();
+  const cohortSamples = [];
   try {
     for (let page = 0, offset = 0; page < maxPages && seen.size < maxJobs; page++) {
       const { posts, count } = await callJobsApi(fetcher, source, { limit: pageSize, offset });
@@ -174,8 +199,15 @@ async function searchOne(profile, source, { fetcher = fetch, now = new Date() } 
         if (!id || seen.has(id)) continue;
         seen.add(id);
         const job = parseFeishuJob(source, row, now);
-        if (!job.title || !job.graduationYear || isInternRecruitType(job._recruitType) || isSocialRecruitType(job._recruitType) || job.riskTags?.includes('纯销售')) continue;
+        if (!job.title) continue;
+        if (!job.graduationYear) { missingCohort++; continue; }
+        cohortMatched++;
+        if (cohortSamples.length < 5) cohortSamples.push(job.title);
+        if (isInternRecruitType(job._recruitType)) { internRejected++; continue; }
+        if (isSocialRecruitType(job._recruitType) || isSocialRecruitType(job._recruitGroup)) { socialRejected++; continue; }
+        if (job.riskTags?.includes('纯销售')) { pureSalesRejected++; continue; }
         if (shouldKeep(job, profile, now)) jobs.push(job);
+        else relevanceRejected++;
         if (seen.size >= maxJobs) break;
       }
       if (!posts.length || posts.length < pageSize || (count > 0 && seen.size >= count)) {
@@ -195,24 +227,32 @@ async function searchOne(profile, source, { fetcher = fetch, now = new Date() } 
   }
   if (emptyResult) snapshotComplete = false;
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { pages, listed, keptJobs: kept.length, errors, snapshotComplete, emptyResult, error: lastError } };
+  return {
+    jobs: kept,
+    stats: {
+      pages, listed, keptJobs: kept.length, errors, snapshotComplete, emptyResult, error: lastError,
+      websitePath: websitePathOf(source), cohortMatched, missingCohort, internRejected, socialRejected,
+      pureSalesRejected, relevanceRejected, cohortSamples
+    }
+  };
 }
 
 export async function searchFeishuJobs(profile, sources = [], options = {}) {
   const jobs = [];
   const perPortal = {};
-  let scannedPortals = 0, listed = 0, errors = 0;
+  let scannedPortals = 0, listed = 0, errors = 0, cohortMatched = 0;
   for (const source of sources) {
     const result = await searchOne(profile, source, options);
     perPortal[source.company] = result.stats;
     listed += result.stats.listed;
     errors += result.stats.errors;
+    cohortMatched += result.stats.cohortMatched;
     if (result.stats.listed > 0) scannedPortals++;
     jobs.push(...result.jobs);
   }
   const kept = dedupeJobs(jobs);
   return {
     jobs: kept,
-    stats: { portals: sources.length, scannedPortals, listed, keptJobs: kept.length, errors, perPortal }
+    stats: { portals: sources.length, scannedPortals, listed, cohortMatched, keptJobs: kept.length, errors, perPortal }
   };
 }
