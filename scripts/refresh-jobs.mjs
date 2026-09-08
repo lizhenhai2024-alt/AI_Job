@@ -4,6 +4,7 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 import { searchNowcoderJobs } from './job-discovery/nowcoder.mjs';
 import { searchMokaJobs } from './job-discovery/moka.mjs';
 import { searchBeisenJobs } from './job-discovery/beisen.mjs';
+import { searchFeishuJobs } from './job-discovery/feishu.mjs';
 import { searchAnkerJobs } from './job-discovery/anker.mjs';
 import { searchEcoflowJobs } from './job-discovery/ecoflow.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
@@ -81,6 +82,14 @@ try {
 }
 
 try {
+  const feishu = await searchFeishuJobs(config, officialSources.feishu || []);
+  sourceResults.push({ name: 'feishu', ...feishu });
+  console.log(`[job-refresh:feishu] portals=${feishu.stats.scannedPortals}/${feishu.stats.portals} listed=${feishu.stats.listed} kept=${feishu.stats.keptJobs} errors=${feishu.stats.errors}`);
+} catch (error) {
+  console.warn(`[job-refresh:feishu] skipped: ${error.message}`);
+}
+
+try {
   const anker = await searchAnkerJobs(config, officialSources.anker, {
     maxJobs: officialSources.anker?.maxJobs,
     pageSize: officialSources.anker?.pageSize,
@@ -134,9 +143,9 @@ const sourceStats = Object.fromEntries(sourceResults.map((r) => [r.name, r.stats
 const meta = {
   updatedAt: new Date().toISOString(),
   source: '多源：公司官方招聘官网/API + 牛客公开职位',
-  mode: '官方源优先去重 + JD专业/技术门槛过滤 + 英语专业适配信号 + 前端画像 S/A/B 精排',
+  mode: '官方多ATS源优先去重 + JD专业/技术门槛过滤 + 英语专业适配信号 + 前端画像 S/A/B 精排',
   stats: { sources: sourceStats, policyExcluded: policyStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '硬淘汰：纯销售、实习、工程师/实施、明确必须理工科/技术专业、硬技术能力、必须专业资格证书。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。'
+  note: '硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
