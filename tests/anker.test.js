@@ -8,7 +8,9 @@ const source = {
   apiBase: 'https://rainbowbridge.anker.com',
   websiteId: '7268177039772633400',
   graduationYear: '2027',
-  maxJobs: 10
+  pageSize: 10,
+  maxPages: 30,
+  maxJobs: 300
 };
 const profile = {
   graduationYear: '2027',
@@ -45,10 +47,7 @@ test('discovers Anker campus row from public list and detail APIs', async () => 
   const fetcher = async (url, init = {}) => {
     calls.push({ url, method: init.method || 'GET' });
     if (url.includes('/job_posts/search')) {
-      return new Response(JSON.stringify({
-        code: 0,
-        data: { items: [{ id: 'job-1', title: '海外产品营销专员', subject: { name: { zh_cn: '2027届全球校园招聘' } } }] }
-      }), { status: 200, headers: { 'content-type': 'application/json' } });
+      return new Response(JSON.stringify({ code: 0, data: { items: [{ id: 'job-1', title: '海外产品营销专员', subject: { name: { zh_cn: '2027届全球校园招聘' } } }], has_more: false } }), { status: 200, headers: { 'content-type': 'application/json' } });
     }
     if (url.endsWith('/job_posts/job-1')) {
       return new Response(JSON.stringify({ code: 0, data: { job_post: fullJob } }), { status: 200, headers: { 'content-type': 'application/json' } });
@@ -57,11 +56,37 @@ test('discovers Anker campus row from public list and detail APIs', async () => 
   };
 
   const result = await searchAnkerJobs(profile, source, { fetcher, maxJobs: 10, now: new Date('2026-09-08T00:00:00Z') });
+  assert.equal(result.stats.pages, 1);
   assert.equal(result.stats.listed, 1);
   assert.equal(result.stats.detailed, 1);
   assert.equal(result.stats.errors, 0);
+  assert.equal(result.stats.snapshotComplete, true);
   assert.equal(result.jobs.length, 1);
-  assert.equal(result.jobs[0].title, '海外产品营销专员');
   assert.equal(calls[0].method, 'POST');
   assert.equal(calls[1].method, 'GET');
+});
+
+test('Anker discovery follows cursor pages without duplicating jobs', async () => {
+  const details = new Map([
+    ['job-1', fullJob],
+    ['job-2', { ...fullJob, id: 'job-2', title: 'GTM Product Manager - Germany' }]
+  ]);
+  const fetcher = async (url) => {
+    if (url.includes('/job_posts/search')) {
+      const token = new URL(url).searchParams.get('page_token');
+      const payload = token
+        ? { code: 0, data: { items: [{ id: 'job-2', title: 'GTM Product Manager - Germany', subject: { name: { zh_cn: '2027届全球校园招聘' } } }], has_more: false } }
+        : { code: 0, data: { items: [{ id: 'job-1', title: '海外产品营销专员', subject: { name: { zh_cn: '2027届全球校园招聘' } } }], has_more: true, page_token: 'next-1' } };
+      return new Response(JSON.stringify(payload), { status: 200, headers: { 'content-type': 'application/json' } });
+    }
+    const id = url.split('/').pop();
+    return new Response(JSON.stringify({ code: 0, data: { job_post: details.get(id) } }), { status: 200, headers: { 'content-type': 'application/json' } });
+  };
+  const result = await searchAnkerJobs(profile, source, { fetcher, maxJobs: 20, maxPages: 5, now: new Date('2026-09-08T00:00:00Z') });
+  assert.equal(result.stats.pages, 2);
+  assert.equal(result.stats.listed, 2);
+  assert.equal(result.stats.detailed, 2);
+  assert.equal(result.stats.errors, 0);
+  assert.equal(result.stats.snapshotComplete, true);
+  assert.equal(new Set(result.jobs.map((j) => j.id)).size, result.jobs.length);
 });

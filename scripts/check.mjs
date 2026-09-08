@@ -7,7 +7,7 @@ const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
   'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
-  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/anker.mjs', 'scripts/refresh-jobs.mjs',
+  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs', 'scripts/refresh-jobs.mjs',
   'config/search-profile.json', 'config/official-sources.json', 'README.md', 'docs/PLAN.md'
 ];
 
@@ -50,8 +50,13 @@ const vivo = sources.beisen.find((s) => s.company === 'vivo');
 if (vivo && !vivo.portalId) throw new Error('vivo Beisen campus PortalId is required');
 
 const anker = sources.anker;
-if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker-in.com/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || !anker.websiteId || anker.graduationYear !== '2027') {
+if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker-in.com/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || !anker.websiteId || anker.graduationYear !== '2027' || Number(anker.maxJobs) < 10 || Number(anker.maxPages) < 1) {
   throw new Error('official Anker source registry validation failed');
 }
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, Anker official API, provenance OK.`);
+const ecoflow = sources.ecoflow;
+if (!ecoflow || ecoflow.company !== '正浩创新EcoFlow' || !/^https:\/\/jobs\.ecoflow\.com\/602892/.test(ecoflow.url) || ecoflow.graduationYear !== '2027' || Number(ecoflow.maxDetails) < 1) {
+  throw new Error('official EcoFlow source registry validation failed');
+}
+
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, Anker paginated API, EcoFlow official source, provenance OK.`);

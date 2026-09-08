@@ -23,6 +23,15 @@
     "apiBase":"https://rainbowbridge.anker.com",
     "websiteId":"7268177039772633400",
     "graduationYear":"2027",
-    "maxJobs":10
+    "pageSize":10,
+    "maxPages":30,
+    "maxJobs":300
+  },
+  "ecoflow": {
+    "company":"正浩创新EcoFlow",
+    "url":"https://jobs.ecoflow.com/602892",
+    "graduationYear":"2027",
+    "maxJobs":120,
+    "maxDetails":120
   }
 }

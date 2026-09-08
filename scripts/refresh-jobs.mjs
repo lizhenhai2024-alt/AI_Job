@@ -5,6 +5,7 @@ import { searchNowcoderJobs } from './job-discovery/nowcoder.mjs';
 import { searchMokaJobs } from './job-discovery/moka.mjs';
 import { searchBeisenJobs } from './job-discovery/beisen.mjs';
 import { searchAnkerJobs } from './job-discovery/anker.mjs';
+import { searchEcoflowJobs } from './job-discovery/ecoflow.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -42,6 +43,8 @@ function dedupePreferOfficial(jobs = []) {
 
 const existing = await loadExisting();
 const sourceResults = [];
+let chromium = null;
+try { chromium = (await import('playwright')).chromium; } catch {}
 
 try {
   const nowcoder = await searchNowcoderJobs(config);
@@ -52,7 +55,7 @@ try {
 }
 
 try {
-  const { chromium } = await import('playwright');
+  if (!chromium) throw new Error('Playwright Chromium unavailable');
   const moka = await searchMokaJobs(config, officialSources.moka || [], { chromium });
   sourceResults.push({ name: 'moka', ...moka });
   console.log(`[job-refresh:moka] portals=${moka.stats.scannedPortals}/${moka.stats.portals} discovered=${moka.stats.discoveredUrls} kept=${moka.stats.keptJobs} errors=${moka.stats.errors}`);
@@ -69,11 +72,28 @@ try {
 }
 
 try {
-  const anker = await searchAnkerJobs(config, officialSources.anker, { maxJobs: officialSources.anker?.maxJobs || 10 });
+  const anker = await searchAnkerJobs(config, officialSources.anker, {
+    maxJobs: officialSources.anker?.maxJobs,
+    pageSize: officialSources.anker?.pageSize,
+    maxPages: officialSources.anker?.maxPages
+  });
   sourceResults.push({ name: 'anker', ...anker });
-  console.log(`[job-refresh:anker] listed=${anker.stats.listed} detailed=${anker.stats.detailed} kept=${anker.stats.keptJobs} errors=${anker.stats.errors}`);
+  console.log(`[job-refresh:anker] pages=${anker.stats.pages} listed=${anker.stats.listed} detailed=${anker.stats.detailed} kept=${anker.stats.keptJobs} errors=${anker.stats.errors} complete=${anker.stats.snapshotComplete}`);
 } catch (error) {
   console.warn(`[job-refresh:anker] skipped: ${error.message}`);
+}
+
+try {
+  if (!chromium) throw new Error('Playwright Chromium unavailable');
+  const ecoflow = await searchEcoflowJobs(config, officialSources.ecoflow, {
+    chromium,
+    maxJobs: officialSources.ecoflow?.maxJobs,
+    maxDetails: officialSources.ecoflow?.maxDetails
+  });
+  sourceResults.push({ name: 'ecoflow', ...ecoflow });
+  console.log(`[job-refresh:ecoflow] listed=${ecoflow.stats.listed} detailed=${ecoflow.stats.detailed} kept=${ecoflow.stats.keptJobs} errors=${ecoflow.stats.errors} complete=${ecoflow.stats.snapshotComplete}`);
+} catch (error) {
+  console.warn(`[job-refresh:ecoflow] skipped: ${error.message}`);
 }
 
 const freshJobs = sourceResults.flatMap((r) => r.jobs || []).filter((job) => !job.riskTags?.includes('纯销售'));
@@ -82,7 +102,6 @@ if (!freshJobs.length) {
   process.exit(0);
 }
 
-// Manually curated seed rows do not have discoveredAt. Auto rows are rebuilt on each successful refresh.
 const retainedSeeds = existing.filter((job) => !job.discoveredAt && !job.riskTags?.includes('纯销售'));
 const now = new Date();
 const merged = dedupePreferOfficial([...freshJobs, ...retainedSeeds])
@@ -100,10 +119,10 @@ const companies = new Set(merged.map((job) => job.company).filter(Boolean));
 const sourceStats = Object.fromEntries(sourceResults.map((r) => [r.name, r.stats]));
 const meta = {
   updatedAt: new Date().toISOString(),
-  source: '多源：公司官方招聘官网 + 牛客公开职位',
-  mode: '官方源优先去重 + 多源扩面 + 前端画像精排',
+  source: '多源：公司官方招聘官网/API + 牛客公开职位',
+  mode: '官方源优先去重 + 多源扩面 + 前端画像 S/A/B 精排',
   stats: { sources: sourceStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '官方招聘官网优先用于去重与核验；二手来源用于扩大岗位发现范围。安克官方源当前为公开 API 首屏有界抓取；纯销售岗位不进入推荐池。投递前仍建议打开原始职位页确认职责和截止日期。'
+  note: '官方招聘官网/API优先用于去重与核验；二手来源用于扩大岗位发现范围。安克使用公开API游标分页，EcoFlow使用官方2027校招页浏览器发现。纯销售岗位不进入推荐池，投递前仍建议打开原始职位页确认职责和截止日期。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
