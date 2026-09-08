@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { mokaJobsUrl, mokaJobUrl, parseMokaInitData, parseMokaCard, resolveMokaGraduationYear, isMokaTitleAllowed } from '../scripts/job-discovery/moka.mjs';
+import { mokaJobsUrl, mokaJobUrl, parseMokaInitData, parseMokaCard, resolveMokaGraduationYear, explicitMokaCohortYears, isMokaTitleAllowed } from '../scripts/job-discovery/moka.mjs';
 
 test('Moka campus portal is normalized to the jobs hash route', () => {
   assert.equal(
@@ -45,6 +45,36 @@ test('Moka explicit non-2027 cohort cannot inherit configured 2027', () => {
 test('Moka explicit 2027 or no-year card resolves to configured cohort', () => {
   assert.equal(resolveMokaGraduationYear('【2027届秋招】产品运营', '2027'), '2027');
   assert.equal(resolveMokaGraduationYear('海外产品运营 深圳', '2027'), '2027');
+});
+
+test('Moka recognizes 27届 shorthand as 2027 evidence', () => {
+  assert.deepEqual(explicitMokaCohortYears('27届秋招 海外市场管培生'), ['2027']);
+  assert.equal(resolveMokaGraduationYear('27届校招 海外市场管培生', '2027', { strict: true }), '2027');
+});
+
+test('strict Moka monitoring never inherits 2027 without per-job cohort evidence', () => {
+  assert.equal(resolveMokaGraduationYear('海外市场管培生 上海', '2027', { strict: true }), '');
+  const unverified = parseMokaCard({
+    company: '外资示例企业',
+    title: '品牌管理培训生',
+    text: '上海 英语沟通 品牌与市场轮岗',
+    url: 'https://app.mokahr.com/campus-recruitment/demo/2#/job/watch',
+    graduationYear: '2027',
+    strictCohort: true
+  });
+  assert.equal(unverified.graduationYear, '');
+  assert.match(unverified.verification, /未出现2027届证据/);
+
+  const verified = parseMokaCard({
+    company: '外资示例企业',
+    title: '品牌管理培训生（27届校招）',
+    text: '上海 英语沟通 品牌与市场轮岗',
+    url: 'https://app.mokahr.com/campus-recruitment/demo/2#/job/verified',
+    graduationYear: '2027',
+    strictCohort: true
+  });
+  assert.equal(verified.graduationYear, '2027');
+  assert.match(verified.verification, /明确2027届/);
 });
 
 test('Moka mixed internship and pure-sales titles are blocked', () => {
