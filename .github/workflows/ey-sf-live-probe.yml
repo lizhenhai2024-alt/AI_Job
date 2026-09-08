@@ -1,0 +1,44 @@
+name: EY SuccessFactors live probe
+
+on:
+  push:
+    branches:
+      - probe/successfactors-ey
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Probe EY RMK fragments
+        shell: bash
+        run: |
+          node <<'NODE'
+          const ua='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124 Safari/537.36';
+          const urls=[
+            'https://careers.ey.com/ey/tile-search-results/?startrow=0',
+            'https://careers.ey.com/tile-search-results/?startrow=0',
+            'https://careers.ey.com/ey/tile-search-results/?q=2027&startrow=0',
+            'https://careers.ey.com/ey/tile-search-results/?q=Graduate&locationsearch=China&startrow=0'
+          ];
+          const clean=v=>String(v||'').replace(/\s+/g,' ').trim();
+          for(const url of urls){
+            try{
+              const r=await fetch(url,{headers:{'user-agent':ua,accept:'text/html,application/xhtml+xml',referer:'https://careers.ey.com/ey/search/'}});
+              const html=await r.text();
+              console.log('\nURL',url,'status=',r.status,'len=',html.length,'ctype=',r.headers.get('content-type'));
+              const anchors=[...html.matchAll(/<a\b[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)]
+                .map(m=>({href:m[1],text:clean(m[2].replace(/<[^>]+>/g,' '))}))
+                .filter(x=>/\/job\//.test(x.href)&&x.text);
+              console.log('JOB_ANCHORS',anchors.length);
+              for(const a of anchors.slice(0,12)) console.log('JOB',JSON.stringify(a));
+              const rows=[...html.matchAll(/.{0,500}(?:2027|Graduate|China|Shanghai|Beijing).{0,900}/gis)].slice(0,8).map(m=>clean(m[0]));
+              for(const s of rows) console.log('SNIP',s.slice(0,1800));
+            }catch(e){console.log('ERROR',url,e.message)}
+          }
+          NODE
