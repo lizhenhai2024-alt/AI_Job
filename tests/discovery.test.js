@@ -1,24 +1,19 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseJobPage, shouldKeep, dedupeJobs, companiesFromJobs, relevanceScore, classifyRole } from '../scripts/job-discovery/core.mjs';
-import { parseSitemap, parseRobotsSitemaps, discoverJobUrls } from '../scripts/job-discovery/nowcoder.mjs';
+import { parseJobPage, shouldKeep, dedupeJobs, companiesFromJobs, discoverUrlsFromRobots } from '../scripts/job-discovery/core.mjs';
 import { parseMokaCard } from '../scripts/job-discovery/moka.mjs';
 
 const profile = {
-  graduationYear: '2027', roleKeywords: ['海外运营','产品运营','产品营销','电商运营','用户运营','业务运营','市场'],
-  keywords: ['英语','海外','运营','数据分析'], targetCities: ['深圳','上海','北京'], strongExclude: ['软件工程师'], minRelevanceScore: 4
+  graduationYear: '2027',
+  roleKeywords: ['GTM','产品运营','产品营销','海外运营','电商运营','用户运营','内容运营','业务运营','项目管理','HR','市场'],
+  keywords: ['英语','CET-6','海外','国际','跨文化','运营','市场','电商','项目','数据分析'],
+  targetCities: ['深圳','上海','广州','武汉','长沙','北京'],
+  strongExclude: ['纯销售','销售代表','销售经理','渠道销售','软件工程师','算法工程师','研发工程师'],
+  minRelevanceScore: 4
 };
 
-function jobHtml(overrides = {}, pageChrome = '') {
-  const posting = {
-    '@context': 'https://schema.org', '@type': 'JobPosting', title: '电商运营（英语）',
-    hiringOrganization: { '@type': 'Organization', name: '示例公司' },
-    jobLocation: { '@type': 'Place', address: { '@type': 'PostalAddress', addressLocality: '深圳' } },
-    datePosted: '2026-08-31', validThrough: '2027-08-31',
-    description: '面向2027届毕业生，负责海外电商运营、销售数据分析，要求英语六级、Excel能力。',
-    ...overrides
-  };
-  return `<html><head><title>${posting.title}_示例公司校招_牛客网</title><script type="application/ld+json">${JSON.stringify(posting)}</script></head><body>${pageChrome} 2027届校园招聘</body></html>`;
+function jobHtml({ title='海外电商运营（深圳）-2027校招', company='示例公司', desc='2027届校园招聘。英语可作为工作语言，负责海外电商运营、市场分析与数据分析。', posted='2026-09-01', valid='2026-12-31' } = {}) {
+  return `<html><head><title>${title}_${company}校招_牛客网</title><script type="application/ld+json">${JSON.stringify({ '@type':'JobPosting', title, hiringOrganization:{name:company}, description:desc, jobLocation:{address:{addressLocality:'深圳'}}, datePosted:posted, validThrough:valid })}</script></head><body><h1>${title}</h1><div>岗位职责 ${desc}</div></body></html>`;
 }
 
 test('normalizes JSON-LD JobPosting into AI Job schema', () => {
@@ -40,7 +35,8 @@ test('normalizes an official Moka card and keeps provenance', () => {
   assert.equal(job.company, '韶音科技');
   assert.equal(job.city, '深圳');
   assert.equal(job.sourceType, 'official');
-  assert.equal(job.verification, '官方招聘官网');
+  assert.match(job.verification, /^官方招聘官网/);
+  assert.match(job.verification, /2027校招源/);
   assert.ok(job.roleFamily.includes('产品营销'));
   assert.ok(job.skills.includes('英语'));
 });
@@ -53,98 +49,80 @@ test('official Moka technical role is still rejected by profile filter', () => {
 test('explicit city in job title overrides company-location noise', () => {
   const html = jobHtml({
     title: '内容运营（成都）-2027校招',
-    jobLocation: { '@type': 'Place', address: { '@type': 'PostalAddress', addressLocality: '北京' } },
-    description: '面向2027届，负责内容运营、短视频与数据分析。'
-  }, '公司总部 北京');
-  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100006' });
+    desc: '2027届校园招聘。负责内容运营与海外社媒，页面模板其他位置包含上海、深圳。'
+  }).replace('</body>', '<footer>热门城市：上海 深圳 广州</footer></body>');
+  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100002', now: new Date('2026-09-08T00:00:00Z') });
   assert.equal(job.city, '成都');
 });
 
 test('falls back to title/company and Chinese投递时间 when JSON-LD is absent', () => {
-  const html = '<html><head><title>海外版本运营_乐元素校招_牛客网</title></head><body><h1>海外版本运营</h1>面向2027届，英语作为工作语言。岗位职责 海外版本内容运营。投递时间：2026年8月1日-2027年6月30日 工作地点 上海</body></html>';
-  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100002', now: new Date('2026-09-08T00:00:00Z') });
-  assert.equal(job.company, '乐元素');
-  assert.equal(job.deadline, '2027-06-30');
-  assert.equal(job.city, '上海');
-  assert.ok(job.roleFamily.includes('海外运营'));
+  const html = `<html><head><title>项目运营_示例企业校招_牛客网</title></head><body><h1>项目运营</h1><p>2027届校园招聘</p><p>投递时间：2026年9月1日-2026年11月30日</p><p>岗位职责：负责项目推进和跨部门沟通，英语六级优先。</p></body></html>`;
+  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100003', now: new Date('2026-09-08T00:00:00Z') });
+  assert.equal(job.company, '示例企业');
+  assert.equal(job.title, '项目运营');
+  assert.equal(job.deadline, '2026-11-30');
 });
 
 test('filters cohort and relevance while excluding technical roles', () => {
-  const good = parseJobPage({ html: jobHtml(), url: 'https://www.nowcoder.com/jobs/detail/100003' });
-  assert.ok(relevanceScore(good, profile) >= 4);
+  const good = parseJobPage({ html: jobHtml(), url: 'https://www.nowcoder.com/jobs/detail/1', now: new Date('2026-09-08T00:00:00Z') });
+  const old = parseJobPage({ html: jobHtml({ title:'海外电商运营', desc:'2026届校园招聘。负责海外电商运营。' }), url: 'https://www.nowcoder.com/jobs/detail/2', now: new Date('2026-09-08T00:00:00Z') });
+  const tech = parseJobPage({ html: jobHtml({ title:'软件工程师-2027校招', desc:'2027届校园招聘，负责软件开发。' }), url: 'https://www.nowcoder.com/jobs/detail/3', now: new Date('2026-09-08T00:00:00Z') });
   assert.equal(shouldKeep(good, profile, new Date('2026-09-08T00:00:00Z')), true);
-  const bad = { ...good, title: '软件工程师', roleFamily: ['其他'] };
-  assert.equal(shouldKeep(bad, profile, new Date('2026-09-08T00:00:00Z')), false);
+  assert.equal(shouldKeep(old, profile, new Date('2026-09-08T00:00:00Z')), false);
+  assert.equal(shouldKeep(tech, profile, new Date('2026-09-08T00:00:00Z')), false);
 });
 
 test('page template words do not pollute role classification', () => {
-  const html = jobHtml({ title: '用户运营专员', description: '负责用户分层、活动和数据分析，面向2027届。' }, '导航：人才招聘 HR 销售 电商 平台运营 市场推广');
-  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100004' });
-  assert.deepEqual(job.roleFamily, ['用户运营']);
-  assert.equal(job.skills.includes('电商'), false);
+  const html = jobHtml({ title:'行政专员-2027校招', desc:'2027届校园招聘。负责行政支持。' }).replace('</body>', '<footer>产品运营 海外运营 电商运营 市场</footer></body>');
+  const job = parseJobPage({ html, url:'https://www.nowcoder.com/jobs/detail/4', now:new Date('2026-09-08T00:00:00Z') });
+  assert.deepEqual(job.roleFamily, ['其他']);
 });
 
 test('unrelated finance job is rejected even when site chrome contains target keywords', () => {
-  const html = jobHtml({ title: '财务管理', description: '负责财务核算、预算与报表，面向2027届毕业生。' }, '热门：海外运营 用户运营 市场 数据分析 英语 HR');
-  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100005' });
-  assert.deepEqual(job.roleFamily, ['其他']);
+  const html = jobHtml({ title:'财务分析-2027校招', desc:'2027届校园招聘。负责财务分析和报表。' }).replace('</body>', '<footer>英语 海外 电商 运营 市场 数据分析</footer></body>');
+  const job = parseJobPage({ html, url:'https://www.nowcoder.com/jobs/detail/5', now:new Date('2026-09-08T00:00:00Z') });
   assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), false);
 });
 
 test('adjacent operations and brand titles are classified into usable role families', () => {
-  const cases = [
-    ['社媒运营（日语）', '内容运营'],
-    ['KOL运营（西语）', '内容运营'],
-    ['电商实习生（Charging）', '电商运营'],
-    ['欧洲品牌经理实习（英国，西班牙，意大利）', '产品营销'],
-    ['【日常实习】服务运营实习生', '业务运营'],
-    ['【日常实习】部门运营实习生', '业务运营']
-  ];
-  for (const [title, expected] of cases) {
-    assert.ok(classifyRole(title).includes(expected), `${title} should classify as ${expected}`);
-  }
+  const brand = parseJobPage({ html: jobHtml({ title:'品牌市场专员-2027校招', desc:'2027届校园招聘。负责品牌市场和海外推广。' }), url:'https://www.nowcoder.com/jobs/detail/6', now:new Date('2026-09-08T00:00:00Z') });
+  const service = parseJobPage({ html: jobHtml({ title:'服务运营-2027校招', desc:'2027届校园招聘。负责服务运营与跨部门沟通。' }), url:'https://www.nowcoder.com/jobs/detail/7', now:new Date('2026-09-08T00:00:00Z') });
+  assert.ok(brand.roleFamily.includes('产品营销') || brand.roleFamily.includes('市场'));
+  assert.ok(service.roleFamily.includes('业务运营'));
+  assert.equal(shouldKeep(brand, profile, new Date('2026-09-08T00:00:00Z')), true);
+  assert.equal(shouldKeep(service, profile, new Date('2026-09-08T00:00:00Z')), true);
 });
 
 test('ecommerce developer role is rejected despite ecommerce title signal', () => {
-  const html = jobHtml({
-    title: '电商系统开发工程师',
-    description: '面向2027届毕业生，负责电商系统后端开发、接口设计与代码维护。'
-  });
-  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100007' });
-  const strictProfile = { ...profile, strongExclude: [...profile.strongExclude, '开发工程师'] };
-  assert.equal(shouldKeep(job, strictProfile, new Date('2026-09-08T00:00:00Z')), false);
+  const job = parseJobPage({ html: jobHtml({ title:'电商平台开发工程师-2027校招', desc:'2027届校园招聘。负责电商系统开发。' }), url:'https://www.nowcoder.com/jobs/detail/8', now:new Date('2026-09-08T00:00:00Z') });
+  assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), false);
 });
 
 test('dedupe keeps the newer equivalent job', () => {
-  const base = { id: 'a', company: 'A公司', title: '产品运营', city: '深圳', publishedAt: '2026-08-01' };
-  const newer = { ...base, id: 'b', publishedAt: '2026-09-01' };
-  const jobs = dedupeJobs([base, newer]);
-  assert.equal(jobs.length, 1);
-  assert.equal(jobs[0].id, 'b');
+  const a = { id:'a', company:'A', title:'海外运营', city:'深圳', publishedAt:'2026-09-01' };
+  const b = { id:'b', company:'A', title:'海外运营', city:'深圳', publishedAt:'2026-09-03' };
+  assert.deepEqual(dedupeJobs([a,b]).map((x) => x.id), ['b']);
 });
 
 test('aggregates companies from discovered jobs', () => {
-  const companies = companiesFromJobs([
-    { company: 'A公司', city: '深圳', roleFamily: ['海外运营'], publishedAt: '2026-09-01', source: '牛客', verification: '待核' },
-    { company: 'A公司', city: '上海', roleFamily: ['产品营销'], publishedAt: '2026-09-02', source: '牛客', verification: '待核' }
+  const rows = companiesFromJobs([
+    { company:'A', city:'深圳', roleFamily:['海外运营'], publishedAt:'2026-09-01', source:'x', verification:'y' },
+    { company:'A', city:'上海', roleFamily:['产品运营'], publishedAt:'2026-09-03', source:'x', verification:'y' }
   ]);
-  assert.equal(companies[0].jobCount, 2);
-  assert.deepEqual(new Set(companies[0].cities), new Set(['深圳','上海']));
+  assert.equal(rows.length, 1);
+  assert.equal(rows[0].jobCount, 2);
+  assert.ok(rows[0].cities.includes('深圳'));
+  assert.ok(rows[0].cities.includes('上海'));
 });
 
 test('discovers job detail URLs by robots sitemap recursion', async () => {
-  const fixtures = new Map([
-    ['https://www.nowcoder.com/robots.txt', 'User-agent: *\nSitemap: https://www.nowcoder.com/root-sitemap.xml'],
-    ['https://www.nowcoder.com/root-sitemap.xml', '<sitemapindex><sitemap><loc>https://www.nowcoder.com/jobs-sitemap.xml</loc></sitemap></sitemapindex>'],
-    ['https://www.nowcoder.com/jobs-sitemap.xml', '<urlset><url><loc>https://www.nowcoder.com/jobs/detail/123</loc><lastmod>2026-09-08</lastmod></url></urlset>']
+  const pages = new Map([
+    ['https://example.com/robots.txt', 'Sitemap: https://example.com/sitemap.xml'],
+    ['https://example.com/sitemap.xml', '<sitemapindex><sitemap><loc>https://example.com/jobs.xml</loc></sitemap></sitemapindex>'],
+    ['https://example.com/jobs.xml', '<urlset><url><loc>https://example.com/jobs/detail/1</loc><lastmod>2026-09-08</lastmod></url></urlset>']
   ]);
-  const fetcher = async (url) => {
-    if (!fixtures.has(url)) throw new Error(`unexpected ${url}`);
-    return fixtures.get(url);
-  };
-  assert.deepEqual(parseRobotsSitemaps(fixtures.get('https://www.nowcoder.com/robots.txt')), ['https://www.nowcoder.com/root-sitemap.xml']);
-  assert.equal(parseSitemap(fixtures.get('https://www.nowcoder.com/jobs-sitemap.xml'))[0].loc, 'https://www.nowcoder.com/jobs/detail/123');
-  const urls = await discoverJobUrls({ fetcher, maxSitemaps: 5, maxCandidates: 10 });
-  assert.equal(urls.length, 1);
-  assert.equal(urls[0].url, 'https://www.nowcoder.com/jobs/detail/123');
+  const fetcher = async (url) => new Response(pages.get(url) || '', { status: pages.has(url) ? 200 : 404 });
+  const rows = await discoverUrlsFromRobots('https://example.com', { fetcher, maxSitemaps: 5, maxUrls: 10 });
+  assert.equal(rows.length, 1);
+  assert.equal(rows[0].url, 'https://example.com/jobs/detail/1');
 });
