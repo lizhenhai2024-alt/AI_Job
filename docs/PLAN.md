@@ -58,8 +58,8 @@
 ├─ 牛客公开职位：大范围扫描
 ├─ Moka：公司官方校招门户
 ├─ 北森 zhiye：公司官方校招门户/API
-├─ 安克创新：官方公开 Lark Hire API
-└─ EcoFlow：官方 2027 校招页面
+├─ 安克创新：官方公开 Lark Hire API（游标分页）
+└─ EcoFlow：官方飞书招聘匿名公开职位 API（website-path=602892）
        ↓
 标准化 / 届别 / 截止 / 风险过滤
        ↓
@@ -69,6 +69,16 @@ live-jobs.js
        ↓
 浏览器画像七维评分 + S/A/B
 ```
+
+### EcoFlow 官方源说明
+
+`jobs.ecoflow.com` 使用飞书招聘 SaaS。V1.2 通过公开职位查询接口工作：
+
+- `POST /api/v1/csrf/token`：匿名访客获取公开 CSRF token；
+- `POST /api/v1/search/job/posts`：按 `offset / limit` 分页读取公开岗位；
+- `website-path=602892`：固定到 EcoFlow 2027 秋招入口，避免与 generic 社招目录混用；
+- 读取字段包括岗位名称、职责、要求、城市、发布时间、职位类别和招聘类型；
+- 不登录、不使用候选人数据、不复现或绕过 `_signature`。
 
 ## 已交付阶段
 
@@ -96,7 +106,9 @@ live-jobs.js
 - [x] 安克创新官方公开 API
 - [x] 安克职位详情读取
 - [x] 安克游标分页与完整性状态
-- [x] EcoFlow 官方 2027 校招页面适配
+- [x] EcoFlow 2027 校招飞书招聘公开 API
+- [x] EcoFlow CSRF / Cookie / website-path / offset 分页
+- [x] EcoFlow 语种精确识别，避免非英语岗位被错误加英语标签
 - [x] S/A/B 来源感知分层
 - [x] 前端 S/A/B 统计与筛选
 - [x] 数据源故障隔离
@@ -127,8 +139,8 @@ live-jobs.js
 
 1. `npm run check` 全绿。
 2. GitHub Actions 在真实网络环境完成多源刷新。
-3. 安克分页能读取多页或明确报告完整性状态，不把首屏冒充全量。
-4. EcoFlow 官方源能真实发现岗位；若官网结构变化，失败只影响该源。
+3. 安克分页能读取多页并报告完整性状态，不把首屏冒充全量。
+4. EcoFlow 官方源通过匿名公开 API 真实发现岗位；若上游接口变化，失败只影响该源。
 5. `live-jobs.js` 自动写回 `main`。
 6. S 档岗位必须满足“官方来源 + 高匹配 + 无硬性排除”。
 7. README 与本规划和实际代码状态一致。
