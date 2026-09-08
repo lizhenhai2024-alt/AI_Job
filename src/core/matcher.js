@@ -40,6 +40,17 @@ function dimension(label, weight, ratio, detail) {
   };
 }
 
+function tierFor(job, score, matchedExclusions = []) {
+  const official = job?.sourceType === 'official' || /官方/.test(String(job?.verification || ''));
+  if (score >= 85 && matchedExclusions.length === 0 && official) {
+    return { tier: 'S', tierLabel: 'S档 · 优先投递', tierReason: '高匹配、无硬性排除且已有官方来源核验' };
+  }
+  if (score >= 70 && matchedExclusions.length === 0) {
+    return { tier: 'A', tierLabel: 'A档 · 建议投递', tierReason: official ? '匹配较高且来源已核验' : '匹配较高，建议回官网核验后投递' };
+  }
+  return { tier: 'B', tierLabel: 'B档 · 备选观察', tierReason: matchedExclusions.length ? '命中硬性排除或风险项' : '存在能力、城市或方向缺口' };
+}
+
 export function evaluateJob(job, profile) {
   const roleRatio = anyAlternativeMatch(profile.targetRoles, [...(job.roleFamily ?? []), job.title]);
   const skillRatio = requirementCoverage(profile.skills, job.skills ?? []);
@@ -83,10 +94,12 @@ export function evaluateJob(job, profile) {
     .map((item) => item.detail);
 
   const level = score >= 80 ? '强烈推荐' : score >= 65 ? '值得投递' : score >= 50 ? '可以尝试' : '谨慎考虑';
+  const tierInfo = tierFor(job, score, matchedExclusions);
 
   return {
     score,
     level,
+    ...tierInfo,
     dimensions,
     highlights,
     gaps,
@@ -95,7 +108,8 @@ export function evaluateJob(job, profile) {
 }
 
 export function rankJobs(jobs, profile) {
+  const tierRank = { S: 3, A: 2, B: 1 };
   return jobs
     .map((job) => ({ ...job, match: evaluateJob(job, profile) }))
-    .sort((a, b) => b.match.score - a.match.score || String(b.publishedAt).localeCompare(String(a.publishedAt)));
+    .sort((a, b) => (tierRank[b.match.tier] - tierRank[a.match.tier]) || b.match.score - a.match.score || String(b.publishedAt).localeCompare(String(a.publishedAt)));
 }
