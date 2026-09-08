@@ -51,7 +51,7 @@ test('broad discovery covers adjacent business roles without blanket engineer pe
 });
 
 test('ranking profile recognizes adjacent non-technical career families', () => {
-  for (const role of ['国际商务','客户成功','国际物流','供应链管理','管理培训生','战略运营','品牌传播','雇主品牌','人力资源','本地化']) {
+  for (const role of ['国际商务','客户成功','国际物流','供应链管理','管理培训生','战略运营','品牌传播','雇主品牌','人力资源','本地化','咨询','顾问']) {
     assert.ok(defaultProfile.targetRoles.includes(role), `missing target role: ${role}`);
   }
 });
