@@ -7,7 +7,19 @@ const SOCIAL_RX = /社会招聘|社招/i;
 const PURE_SALES_TITLE_RX = /销售管培生|销售代表|销售经理|渠道销售|区域销售|大客户销售|销售顾问|销售专员/i;
 
 function cleanText(value = '') {
-  return String(value || '').replace(/<br\s*\/?\s*>/gi, '\n').replace(/<[^>]+>/g, ' ').replace(/&nbsp;|&#160;/gi, ' ').replace(/&amp;/gi, '&').replace(/\s+/g, ' ').trim();
+  return String(value || '')
+    .replace(/<br\s*\/?\s*>/gi, '\n')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;|&#160;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function cleanHtmlText(value = '') {
+  return cleanText(String(value || '')
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, ' '));
 }
 
 function normalizeDate(value = '') {
@@ -17,7 +29,11 @@ function normalizeDate(value = '') {
 
 function cityFrom(row = {}) {
   const raw = Array.isArray(row.LocNames) ? row.LocNames.join('、') : String(row.LocNames || row.LocName || '');
-  return CITY_NAMES.find((city) => raw.includes(city)) || raw || '待核';
+  const city = CITY_NAMES.find((name) => raw.includes(name));
+  if (city) return city;
+  if (raw.includes('全国')) return '全国';
+  if (/国外|海外/.test(raw)) return '国外';
+  return raw || '待核';
 }
 
 export function explicitCohortYears(text = '') {
@@ -55,14 +71,20 @@ export function parseBeisenRow(source, row = {}, now = new Date()) {
   ].filter(Boolean);
   const riskTags = detectRisks(jobText);
   const base = source.baseUrl.replace(/\/$/,'');
-  const detailUrl = rawId ? `${base}/campus/detail?jobAdId=${encodeURIComponent(rawId)}` : `${base}/campus/jobs`;
+  const detailUrl = row.DetailUrl
+    ? String(row.DetailUrl)
+    : rawId
+      ? `${base}/campus/detail?jobAdId=${encodeURIComponent(rawId)}`
+      : `${base}/campus/jobs`;
   const years = explicitCohortYears(jobText);
   const graduationYear = resolveBeisenGraduationYear(source, jobText);
   const configured = String(source.graduationYear || '');
   const verification = graduationYear
     ? years.includes(configured)
       ? '官方招聘官网 · JD明确2027届'
-      : '官方招聘官网 · 2027校招源（JD未单列届别）'
+      : source.campaignLabel
+        ? `官方招聘官网 · 已核验${source.campaignLabel}`
+        : '官方招聘官网 · 2027校招源（JD未单列届别）'
     : years.length
       ? `官方招聘官网 · JD届别冲突（${years.join('/')}届）`
       : '官方招聘官网';
@@ -93,9 +115,7 @@ export function parseBeisenRow(source, row = {}, now = new Date()) {
   };
 }
 
-export function parseBeisenCampusHtml(source, html = '') {
-  const rows = [];
-  const seen = new Set();
+function addGenericCampusRows(source, html, rows, seen) {
   for (const tr of String(html).match(/<tr\b[\s\S]*?<\/tr>/gi) || []) {
     const anchors = [...tr.matchAll(/<a[^>]+href=["']([^"']*\/campus\/detail\?jobAdId=([^"'&]+)[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi)];
     if (!anchors.length) continue;
@@ -113,11 +133,80 @@ export function parseBeisenCampusHtml(source, html = '') {
         LocNames: locations,
         Duty: rowText,
         Require: '',
-        PostDate: normalizeDate(rowText)
+        PostDate: normalizeDate(rowText),
+        DetailUrl: new URL(match[1].replace(/&amp;/gi, '&'), source.baseUrl).href
       });
     }
   }
+}
+
+function addItgCampusRows(source, html, rows, seen) {
+  for (const li of String(html).match(/<li\b[\s\S]*?<\/li>/gi) || []) {
+    const anchor = li.match(/<a[^>]+href=["']([^"']*\/gmkgxzxq\?[^"']*jobId=([^"'&]+)[^"']*)["'][^>]*>([\s\S]*?)<\/a>/i);
+    if (!anchor) continue;
+    const id = decodeURIComponent(anchor[2] || '');
+    if (!id || seen.has(id)) continue;
+    const body = anchor[3] || '';
+    const titleHtml = (body.match(/<h2[^>]*>([\s\S]*?)(?:<span|<\/h2>)/i) || [,''])[1];
+    const title = cleanText(titleHtml) || cleanText(body).split(' 招聘单位：')[0];
+    if (!title) continue;
+    seen.add(id);
+    const rowText = cleanText(li);
+    const locations = CITY_NAMES.filter((city) => rowText.includes(city));
+    if (rowText.includes('全国')) locations.push('全国');
+    if (/国外|海外/.test(rowText)) locations.push('国外');
+    rows.push({
+      JobAdId: id,
+      JobAdName: title,
+      Category: '校园招聘',
+      LocNames: [...new Set(locations)],
+      Duty: rowText,
+      Require: '',
+      PostDate: normalizeDate(rowText),
+      DetailUrl: new URL(anchor[1].replace(/&amp;/gi, '&'), source.baseUrl).href
+    });
+  }
+}
+
+export function parseBeisenCampusHtml(source, html = '') {
+  const rows = [];
+  const seen = new Set();
+  addGenericCampusRows(source, html, rows, seen);
+  addItgCampusRows(source, html, rows, seen);
   return rows;
+}
+
+function extractDetailFields(html = '') {
+  const text = cleanHtmlText(html);
+  const start = text.indexOf('职位详情');
+  const begin = start >= 0 ? start : 0;
+  const endMarker = text.indexOf('立即申请', begin);
+  const detail = text.slice(begin, endMarker > begin ? endMarker : Math.min(text.length, begin + 9000));
+  const salary = (detail.match(/薪资范围[:：]\s*(.+?)\s+发布时间[:：]/) || [,''])[1].trim();
+  const address = (detail.match(/工作地址[:：]\s*(.+?)\s+工作职责/) || [,''])[1].trim();
+  const requireIndex = detail.indexOf('任职资格');
+  const require = requireIndex >= 0 ? detail.slice(requireIndex) : '';
+  return { detail, salary, address, require };
+}
+
+async function enrichHtmlRow(row, fetcher = fetch) {
+  if (!row?.DetailUrl) return row;
+  const response = await fetcher(row.DetailUrl, {
+    method: 'GET',
+    headers: {
+      accept: 'text/html,application/xhtml+xml',
+      'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.4; +https://github.com/lizhenhai2024-alt/AI_Job)'
+    }
+  });
+  if (!response.ok) throw new Error(`HTTP ${response.status} detail ${row.DetailUrl}`);
+  const fields = extractDetailFields(await response.text());
+  return {
+    ...row,
+    Duty: fields.detail || row.Duty,
+    Require: fields.require || row.Require,
+    Salary: fields.salary || row.Salary,
+    LocNames: fields.address || row.LocNames
+  };
 }
 
 function isCampusRow(job) {
@@ -126,9 +215,16 @@ function isCampusRow(job) {
   return CAMPUS_RX.test(evidence);
 }
 
-async function fetchHtmlCampusPage(source, pageIndex, fetcher = fetch) {
+function htmlPageUrl(source, pageIndex) {
   const base = source.baseUrl.replace(/\/$/, '');
-  const url = `${base}/campus/?PageIndex=${pageIndex + 1}`;
+  if (!source.listUrl) return `${base}/campus/?PageIndex=${pageIndex + 1}`;
+  const url = new URL(source.listUrl, base);
+  url.searchParams.set('PageIndex', String(pageIndex + 1));
+  return url.href;
+}
+
+async function fetchHtmlCampusPage(source, pageIndex, fetcher = fetch) {
+  const url = htmlPageUrl(source, pageIndex);
   const response = await fetcher(url, {
     method: 'GET',
     headers: {
@@ -183,7 +279,7 @@ export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch,
   const perPortal = {};
 
   for (const source of sources) {
-    let portalRows = 0, portalKept = 0, cohortRejected = 0, titleRejected = 0, mode = source.mode || 'api';
+    let portalRows = 0, portalKept = 0, cohortRejected = 0, titleRejected = 0, detailErrors = 0, mode = source.mode || 'api';
     try {
       const seen = new Set();
       for (let pageIndex = 0; pageIndex < maxPages; pageIndex++) {
@@ -197,7 +293,12 @@ export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch,
           const key = String(row.JobAdId ?? row.Id ?? `${row.JobAdName}|${row.LocNames}`);
           if (seen.has(key)) continue;
           seen.add(key); added++; portalRows++; scannedRows++;
-          const job = parseBeisenRow(source, row, now);
+          let normalizedRow = row;
+          if (mode === 'html' && source.enrichDetails && row.DetailUrl) {
+            try { normalizedRow = await enrichHtmlRow(row, fetcher); }
+            catch { detailErrors++; }
+          }
+          const job = parseBeisenRow(source, normalizedRow, now);
           if (!isCampusRow(job)) continue;
           if (!isBeisenTitleAllowed(job.title)) { titleRejected++; continue; }
           if (!job.graduationYear) { cohortRejected++; continue; }
@@ -207,10 +308,10 @@ export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch,
         if (!added) break;
         if (mode === 'api' && (rows.length < pageSize || seen.size >= total)) break;
       }
-      perPortal[source.company] = { scannedRows: portalRows, keptJobs: portalKept, cohortRejected, titleRejected, mode };
+      perPortal[source.company] = { scannedRows: portalRows, keptJobs: portalKept, cohortRejected, titleRejected, detailErrors, mode };
     } catch (error) {
       errors++;
-      perPortal[source.company] = { scannedRows: portalRows, keptJobs: portalKept, cohortRejected, titleRejected, mode, error: String(error?.message || error) };
+      perPortal[source.company] = { scannedRows: portalRows, keptJobs: portalKept, cohortRejected, titleRejected, detailErrors, mode, error: String(error?.message || error) };
     }
   }
 
