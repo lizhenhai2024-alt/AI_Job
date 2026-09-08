@@ -162,6 +162,7 @@ const parseArray = (value) => value.split(/[、,，\n]/).map((x) => x.trim()).fi
 
 function renderProfile() {
   const p = state.profile;
+  const evidence = p.experienceEvidence || [];
   return `<section class="hero"><div><h1>我的画像</h1><p>自动发现负责“尽量不漏”，这里负责“哪些最值得你投”。</p></div></section>
     <section class="panel"><form id="profile-form" class="profile-grid">
       <div class="field"><label>毕业届别</label><input name="graduationYear" value="${esc(p.graduationYear)}" /></div>
@@ -172,17 +173,33 @@ function renderProfile() {
       <div class="field"><label>经历关键词</label><input name="experienceKeywords" value="${esc(arrayText(p.experienceKeywords))}" /></div>
       <div class="field"><label>职业偏好</label><input name="workPreference" value="${esc(arrayText(p.workPreference))}" /></div>
       <div class="field"><label>硬性排除条件</label><input name="exclusions" value="${esc(arrayText(p.exclusions))}" /></div>
-    </form><div class="save-row"><button class="btn primary" id="save-profile">保存并重新计算</button></div></section>`;
+    </form><div class="save-row"><button class="btn primary" id="save-profile">保存并重新计算</button></div></section>
+    <section class="hero" style="margin-top:18px"><div><h2>简历证据基线</h2><p>这些经历用于判断“真正做过什么”，不会因改写岗位关键词而凭空生成经验。</p></div></section>
+    <section class="company-grid">${evidence.map((item) => `<article class="company-card">
+      <div class="company">真实经历</div><h3>${esc(item.name)}</h3>
+      <p>${esc(item.evidence)}</p>
+      <div class="tags">${(item.keywords || []).slice(0,8).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
+    </article>`).join('') || '<div class="empty">尚未配置可追溯的简历经历证据。</div>'}</section>`;
 }
 
 function renderModal() {
   if (!state.selectedJobId) return '';
   const job = jobsWithState().find((x) => x.id === state.selectedJobId);
   if (!job) return '';
+  const eligibility = job.match.eligibility || { verdict: '届别待核', evidence: [] };
+  const steps = job.match.fourStepAnalysis || [];
+  const evidenceMatches = job.match.experienceEvidence?.matches || [];
   return `<div class="modal-backdrop" data-close-modal="1"><div class="modal" role="dialog" aria-modal="true" onclick="event.stopPropagation()">
     <div class="modal-head"><div><div class="company">${esc(job.company)}</div><h2>${esc(job.title)}</h2></div><button class="close" data-close-modal="1">×</button></div>
     <p>${esc(job.description)}</p><div class="source-box"><strong>数据来源：</strong>${esc(job.source || '待核')} · ${esc(job.verification || '待核')}${job.sourceUrl ? ` · <a href="${esc(job.sourceUrl)}" target="_blank" rel="noopener">打开来源</a>` : ''}</div>
     <h3>${esc(job.match.tierLabel)} · ${job.match.score}/100</h3><p>${esc(job.match.tierReason)}</p>
+    <h3>投递资格</h3>
+    <div class="source-box"><strong>${esc(eligibility.verdict)}</strong>${(eligibility.evidence || []).length ? ` · ${esc(eligibility.evidence.join('；'))}` : ' · 招聘对象/毕业时间请投递前再次核对官网'}</div>
+    <h3>四步 JD 判断</h3>
+    ${steps.map((step) => `<div class="source-box"><strong>${step.step ? `${step.step}. ` : ''}${esc(step.label)}：${esc(step.verdict)}</strong><br>${esc(step.detail || '无补充证据')}</div>`).join('') || '<div class="hint">当前岗位暂缺结构化四步分析，建议打开来源核对完整 JD。</div>'}
+    <h3>真实经历证据</h3>
+    ${evidenceMatches.length ? evidenceMatches.map((item) => `<div class="source-box"><strong>${esc(item.name)}</strong><br>${esc(item.evidence || '')}</div>`).join('') : `<div class="source-box"><strong>${esc(job.match.experienceEvidence?.verdict || '没有直接经历证据')}</strong><br>${esc(job.match.experienceEvidence?.detail || '没有找到能直接对应岗位职责的已记录经历。')}</div>`}
+    <h3>评分维度</h3>
     ${job.match.dimensions.map((d) => `<div class="dimension"><strong>${esc(d.label)}</strong><div class="bar"><div style="width:${Math.round(d.ratio * 100)}%"></div></div><span>${d.score}/${d.weight}</span></div>`).join('')}
     <h3>亮点</h3><div class="tags">${job.match.highlights.map((x) => `<span class="tag">✓ ${esc(x)}</span>`).join('') || '<span class="hint">暂无明显优势</span>'}</div>
     <h3>缺口 / 风险</h3><div class="tags">${[...job.match.gaps, ...job.match.risks].map((x) => `<span class="tag">△ ${esc(x)}</span>`).join('') || '<span class="hint">暂无明显风险</span>'}</div>
@@ -212,7 +229,8 @@ app.addEventListener('click', (event) => {
       graduationYear: String(data.get('graduationYear') || '').trim(), targetRoles: parseArray(String(data.get('targetRoles') || '')),
       targetCities: parseArray(String(data.get('targetCities') || '')), skills: parseArray(String(data.get('skills') || '')),
       languages: parseArray(String(data.get('languages') || '')), experienceKeywords: parseArray(String(data.get('experienceKeywords') || '')),
-      workPreference: parseArray(String(data.get('workPreference') || '')), exclusions: parseArray(String(data.get('exclusions') || ''))
+      workPreference: parseArray(String(data.get('workPreference') || '')), exclusions: parseArray(String(data.get('exclusions') || '')),
+      experienceEvidence: structuredClone(state.profile.experienceEvidence || defaultProfile.experienceEvidence || [])
     };
     saveProfile(state.profile); state.tab = 'radar'; render();
   }
