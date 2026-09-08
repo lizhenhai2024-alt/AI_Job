@@ -4,8 +4,8 @@ import { parseWebsitePath, parseFeishuJob, searchFeishuJobs } from '../scripts/j
 
 const profile = {
   graduationYear: '2027',
-  roleKeywords: ['海外运营','产品营销','电商运营','招聘运营','市场','运营'],
-  keywords: ['英语','海外','市场','运营','电商','招聘'],
+  roleKeywords: ['海外运营','产品营销','电商运营','招聘运营','市场','运营','管培生','管理培训生'],
+  keywords: ['英语','海外','市场','运营','电商','招聘','管培'],
   targetCities: ['深圳','上海'],
   strongExclude: ['实施','实习','实习生','Intern','Internship'],
   minRelevanceScore: 4
