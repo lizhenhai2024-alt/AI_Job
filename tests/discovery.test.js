@@ -30,6 +30,16 @@ test('normalizes JSON-LD JobPosting into AI Job schema', () => {
   assert.equal(job.sourceType, 'secondary');
 });
 
+test('explicit city in job title overrides company-location noise', () => {
+  const html = jobHtml({
+    title: '内容运营（成都）-2027校招',
+    jobLocation: { '@type': 'Place', address: { '@type': 'PostalAddress', addressLocality: '北京' } },
+    description: '面向2027届，负责内容运营、短视频与数据分析。'
+  }, '公司总部 北京');
+  const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100006' });
+  assert.equal(job.city, '成都');
+});
+
 test('falls back to title/company and Chinese投递时间 when JSON-LD is absent', () => {
   const html = '<html><head><title>海外版本运营_乐元素校招_牛客网</title></head><body><h1>海外版本运营</h1>面向2027届，英语作为工作语言。岗位职责 海外版本内容运营。投递时间：2026年8月1日-2027年6月30日 工作地点 上海</body></html>';
   const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100002', now: new Date('2026-09-08T00:00:00Z') });
