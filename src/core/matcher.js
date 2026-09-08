@@ -8,6 +8,19 @@ const WEIGHTS = {
   preference: 8
 };
 
+const ROLE_INTENT_GROUPS = [
+  /海外运营|国际运营|全球运营|本地化运营|海外推广运营/i,
+  /\bGTM\b|go[- ]?to[- ]?market|产品GTM/i,
+  /产品营销|品牌经理|品牌管理|品牌运营|品牌市场|市场营销|市场推广|市场管培/i,
+  /用户运营|会员运营|用户增长|社区运营/i,
+  /电商运营|电商实习|跨境电商|平台运营|店铺运营/i,
+  /内容运营|社媒运营|KOL运营|SEO运营|新媒体|内容策划/i,
+  /产品运营|产品增长|产品策划/i,
+  /业务运营|运营管理|经营管理|销售运营|商务运营|战略运营/i,
+  /项目管理|项目运营|项目推进|项目协调/i,
+  /人力资源|招聘运营|校园招聘|HRBP|\bHR\b/i
+];
+
 const normalize = (value) => String(value ?? '').trim().toLowerCase();
 
 function tokenHit(a, b) {
@@ -28,6 +41,14 @@ function anyAlternativeMatch(profileItems = [], jobItems = []) {
   if (!profileItems.length) return 0.5;
   if (!jobItems.length) return 0;
   return profileItems.some((profileItem) => jobItems.some((item) => tokenHit(profileItem, item))) ? 1 : 0;
+}
+
+function roleIntentMatch(profileItems = [], jobItems = []) {
+  const direct = anyAlternativeMatch(profileItems, jobItems);
+  if (direct === 1 || !profileItems.length) return direct;
+  const profileText = profileItems.join(' ');
+  const jobText = jobItems.join(' ');
+  return ROLE_INTENT_GROUPS.some((group) => group.test(profileText) && group.test(jobText)) ? 1 : 0;
 }
 
 function dimension(label, weight, ratio, detail) {
@@ -52,7 +73,7 @@ function tierFor(job, score, matchedExclusions = []) {
 }
 
 export function evaluateJob(job, profile) {
-  const roleRatio = anyAlternativeMatch(profile.targetRoles, [...(job.roleFamily ?? []), job.title]);
+  const roleRatio = roleIntentMatch(profile.targetRoles, [...(job.roleFamily ?? []), job.title]);
   const skillRatio = requirementCoverage(profile.skills, job.skills ?? []);
   const cityRatio = (profile.targetCities ?? []).length === 0
     ? 0.5
