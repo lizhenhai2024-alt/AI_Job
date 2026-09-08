@@ -70,27 +70,62 @@ async function readJson(response, label) {
   return payload;
 }
 
-export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJobs = 30, now = new Date() } = {}) {
-  if (!source?.websiteId) return { jobs: [], stats: { listed: 0, detailed: 0, keptJobs: 0, errors: 1 } };
+function nextToken(payload = {}) {
+  const data = payload?.data || {};
+  return String(data.next_page_token || data.nextPageToken || data.page_token || data.pageToken || '').trim();
+}
+
+export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJobs, pageSize, maxPages, now = new Date() } = {}) {
+  if (!source?.websiteId) return { jobs: [], stats: { pages: 0, listed: 0, detailed: 0, keptJobs: 0, errors: 1, snapshotComplete: false } };
   const apiBase = String(source.apiBase || 'https://rainbowbridge.anker.com').replace(/\/$/, '');
   const websiteId = encodeURIComponent(source.websiteId);
-  const listUrl = `${apiBase}/api/lark/hire/v1/websites/${websiteId}/job_posts/search?page_size=10&page_token=`;
-  let errors = 0, listed = 0, detailed = 0;
+  const limit = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 300), 500));
+  const size = Math.max(1, Math.min(Number(pageSize || source.pageSize || 10), 50));
+  const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 30), 50));
+  let errors = 0, listed = 0, detailed = 0, pages = 0;
   const jobs = [];
+  const rows = [];
+  const seenIds = new Set();
+  const seenTokens = new Set(['']);
+  let token = '';
+  let snapshotComplete = false;
+
   try {
-    const listResponse = await fetcher(listUrl, {
-      method: 'POST',
-      headers: { 'content-type': 'application/json', accept: 'application/json', 'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.4)' },
-      body: JSON.stringify({ job_function_id_list: [], city_code_list: [], keyword: '', job_lang_list: [] })
-    });
-    const listPayload = await readJson(listResponse, 'Anker list');
-    const rows = Array.isArray(listPayload?.data?.items) ? listPayload.data.items : [];
-    listed = rows.length;
-    for (const row of rows.slice(0, Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 30), 50)))) {
+    for (let page = 0; page < pageLimit && rows.length < limit; page++) {
+      const listUrl = `${apiBase}/api/lark/hire/v1/websites/${websiteId}/job_posts/search?page_size=${size}&page_token=${encodeURIComponent(token)}`;
+      const listResponse = await fetcher(listUrl, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json', accept: 'application/json', 'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.5)' },
+        body: JSON.stringify({ job_function_id_list: [], city_code_list: [], keyword: '', job_lang_list: [] })
+      });
+      const payload = await readJson(listResponse, `Anker list page ${page + 1}`);
+      pages++;
+      const pageRows = Array.isArray(payload?.data?.items) ? payload.data.items : [];
+      listed += pageRows.length;
+      let added = 0;
+      for (const row of pageRows) {
+        const id = String(row?.id || '');
+        if (!id || seenIds.has(id)) continue;
+        seenIds.add(id);
+        rows.push(row);
+        added++;
+        if (rows.length >= limit) break;
+      }
+      const next = nextToken(payload);
+      const hasMore = payload?.data?.has_more ?? payload?.data?.hasMore;
+      if (!pageRows.length || !added || hasMore === false || !next || seenTokens.has(next)) {
+        snapshotComplete = hasMore === false || !pageRows.length || !next;
+        break;
+      }
+      seenTokens.add(next);
+      token = next;
+    }
+
+    for (const row of rows.slice(0, limit)) {
       if (!row?.id || !row?.title || !isCampus(row)) continue;
       try {
         const detailUrl = `${apiBase}/api/lark/hire/v1/websites/${websiteId}/job_posts/${encodeURIComponent(row.id)}`;
-        const detailPayload = await readJson(await fetcher(detailUrl, { headers: { accept: 'application/json', 'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.4)' } }), 'Anker detail');
+        const detailPayload = await readJson(await fetcher(detailUrl, { headers: { accept: 'application/json', 'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.5)' } }), 'Anker detail');
         const detail = detailPayload?.data?.job_post || {};
         detailed++;
         const job = parseAnkerJob(source, { ...row, ...detail, source_job_id: row.id }, now);
@@ -99,6 +134,7 @@ export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJob
       } catch { errors++; }
     }
   } catch { errors++; }
+
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { listed, detailed, keptJobs: kept.length, errors } };
+  return { jobs: kept, stats: { pages, listed, detailed, keptJobs: kept.length, errors, snapshotComplete } };
 }
