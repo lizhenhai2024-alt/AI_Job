@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseBeisenRow, parseBeisenCampusHtml, searchBeisenJobs } from '../scripts/job-discovery/beisen.mjs';
+import { parseBeisenRow, parseBeisenCampusHtml, searchBeisenJobs, resolveBeisenGraduationYear, isBeisenTitleAllowed } from '../scripts/job-discovery/beisen.mjs';
 
 const source = { company: '示例企业', baseUrl: 'https://example.zhiye.com', graduationYear: '2027' };
 const profile = {
@@ -25,9 +25,35 @@ test('normalizes a Beisen campus row with official provenance', () => {
   assert.equal(job.company, '示例企业');
   assert.equal(job.city, '深圳');
   assert.equal(job.sourceType, 'official');
-  assert.equal(job.verification, '官方招聘官网');
+  assert.match(job.verification, /JD明确2027届/);
   assert.ok(job.sourceUrl.includes('/campus/detail?jobAdId=job-1'));
   assert.ok(job.skills.includes('英语'));
+});
+
+test('Beisen explicit older cohorts override configured 2027 source', () => {
+  const oldText = '学历背景：2025届毕业生/2026届应届生，其他专业也可投递';
+  assert.equal(resolveBeisenGraduationYear(source, oldText), '');
+  const job = parseBeisenRow(source, {
+    JobAdId: 'old-1',
+    JobAdName: '客户成功管培生-校招',
+    Category: '校园招聘',
+    LocNames: ['上海'],
+    Duty: '负责客户成功和项目运营',
+    Require: oldText
+  });
+  assert.equal(job.graduationYear, '');
+  assert.match(job.verification, /届别冲突/);
+});
+
+test('Beisen no-year JD can inherit a verified configured campus cohort', () => {
+  assert.equal(resolveBeisenGraduationYear(source, '校园招聘，负责海外市场运营，英语可作为工作语言'), '2027');
+});
+
+test('Beisen mixed internship and pure-sales titles are not eligible', () => {
+  for (const title of ['招聘专员-校招/实习', '客户成功管培生-校招/实习', '销售管培生-深圳']) {
+    assert.equal(isBeisenTitleAllowed(title), false, title);
+  }
+  assert.equal(isBeisenTitleAllowed('海外市场运营管培生'), true);
 });
 
 test('Beisen discovery pages anonymously and filters pure sales', async () => {
@@ -45,6 +71,22 @@ test('Beisen discovery pages anonymously and filters pure sales', async () => {
   assert.equal(result.stats.errors, 0);
   assert.equal(result.jobs.length, 1);
   assert.equal(result.jobs[0].title, '产品运营（2027届校招）');
+});
+
+test('Beisen discovery rejects explicit non-2027 rows even on configured 2027 source', async () => {
+  const payload = {
+    Code: 200,
+    Count: 2,
+    Data: [
+      { JobAdId: '1', JobAdName: '产品运营', Category: '校园招聘', LocNames: ['上海市'], Duty: '用户运营和数据分析', Require: '2027届应届毕业生，英语六级' },
+      { JobAdId: '2', JobAdName: '客户成功管培生-校招', Category: '校园招聘', LocNames: ['上海市'], Duty: '客户成功和项目运营', Require: '2025届毕业生/2026届应届生，其他专业可投递' }
+    ]
+  };
+  const fetcher = async () => new Response(JSON.stringify(payload), { status: 200, headers: { 'content-type': 'application/json' } });
+  const result = await searchBeisenJobs(profile, [source], { fetcher, pageSize: 50, maxPages: 1 });
+  assert.equal(result.jobs.length, 1);
+  assert.equal(result.jobs[0].title, '产品运营');
+  assert.equal(result.stats.perPortal['示例企业'].cohortRejected, 1);
 });
 
 test('Beisen request forwards a tenant PortalId', async () => {
