@@ -80,3 +80,24 @@ test('high score from secondary source is capped at A tier until official verifi
   assert.ok(result.score >= 85);
   assert.equal(result.tier, 'A');
 });
+
+test('adjacent target titles receive full role-direction credit even when crawler taxonomy is 其他', () => {
+  const cases = [
+    ['社媒运营（日语）', '内容运营'],
+    ['KOL运营（西语）', '内容运营'],
+    ['电商实习生（Charging）', '电商运营'],
+    ['欧洲品牌经理实习（英国，西班牙，意大利）', '产品营销']
+  ];
+  for (const [title, targetRole] of cases) {
+    const job = { ...demoJobs[0], title, roleFamily: ['其他'] };
+    const result = evaluateJob(job, { ...defaultProfile, targetRoles: [targetRole] });
+    const role = result.dimensions.find((item) => item.label === '岗位方向');
+    assert.equal(role.ratio, 1, `${title} should match ${targetRole}`);
+  }
+});
+
+test('default profile covers the main non-technical campus role families', () => {
+  for (const role of ['GTM','产品营销','电商运营','内容运营','产品运营','用户运营','业务运营']) {
+    assert.ok(defaultProfile.targetRoles.includes(role), `missing target role: ${role}`);
+  }
+});
