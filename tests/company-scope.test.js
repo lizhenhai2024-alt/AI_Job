@@ -24,6 +24,15 @@ test('foreign Moka monitors require per-job 2027 evidence', () => {
   }
 });
 
+test('official HotJob pool includes Deloitte Campus 2027', () => {
+  const source = officialSources.hotjob?.find((item) => item.company === '德勤中国');
+  assert.ok(source, 'missing Deloitte HotJob source');
+  assert.equal(source.graduationYear, '2027');
+  assert.equal(source.projectEvidence, 'Campus 2027');
+  assert.equal(source.tenant, '64365a780dcad43c5ae82bab');
+  assert.match(source.url, /^https:\/\/wecruit\.hotjob\.cn\/SU/);
+});
+
 test('official company pool includes high-fit verified 2027 Beisen sources', () => {
   const beisenCompanies = officialSources.beisen.map((item) => item.company);
   for (const company of ['传音控股','新华三集团','Babycare','慧策集团','锐明技术','扬腾创新','国贸股份']) {
@@ -33,7 +42,7 @@ test('official company pool includes high-fit verified 2027 Beisen sources', () 
 });
 
 test('broad discovery covers adjacent business roles without blanket engineer penalty', () => {
-  for (const role of ['国际商务','海外业务','贸易运营','客户成功','国际物流','供应链','管理培训生','战略运营','经营分析','品牌传播','雇主品牌','本地化']) {
+  for (const role of ['国际商务','海外业务','贸易运营','客户成功','国际物流','供应链','管理培训生','战略运营','经营分析','品牌传播','雇主品牌','本地化','咨询','顾问']) {
     assert.ok(searchProfile.roleKeywords.includes(role), `missing discovery role: ${role}`);
   }
   assert.equal(searchProfile.strongExclude.includes('工程师'), false);
@@ -42,7 +51,7 @@ test('broad discovery covers adjacent business roles without blanket engineer pe
 });
 
 test('ranking profile recognizes adjacent non-technical career families', () => {
-  for (const role of ['国际商务','客户成功','国际物流','供应链管理','管理培训生','战略运营','品牌传播','雇主品牌','人力资源','本地化']) {
+  for (const role of ['国际商务','客户成功','国际物流','供应链管理','管理培训生','战略运营','品牌传播','雇主品牌','人力资源','本地化','咨询','顾问']) {
     assert.ok(defaultProfile.targetRoles.includes(role), `missing target role: ${role}`);
   }
 });
