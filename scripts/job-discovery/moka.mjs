@@ -38,14 +38,21 @@ function cardsFromInitData(initData, source) {
 }
 
 export function explicitMokaCohortYears(text = '') {
-  return [...new Set([...String(text).matchAll(/(20\d{2})\s*届/g)].map((match) => match[1]))];
+  const value = String(text);
+  const years = [...value.matchAll(/(20\d{2})\s*届/g)].map((match) => match[1]);
+  for (const match of value.matchAll(/(?:^|[^0-9])(\d{2})\s*届/g)) {
+    const yy = Number(match[1]);
+    if (yy >= 20 && yy <= 40) years.push(`20${match[1]}`);
+  }
+  return [...new Set(years)];
 }
 
-export function resolveMokaGraduationYear(text = '', configuredYear = '2027') {
+export function resolveMokaGraduationYear(text = '', configuredYear = '2027', { strict = false } = {}) {
   const target = String(configuredYear || '');
   if (!target) return '';
   const years = explicitMokaCohortYears(text);
   if (years.length && !years.includes(target)) return '';
+  if (strict && !years.includes(target)) return '';
   return target;
 }
 
@@ -54,21 +61,23 @@ export function isMokaTitleAllowed(title = '') {
   return !/实习/i.test(value) && !PURE_SALES_TITLE_RX.test(value);
 }
 
-export function parseMokaCard({ company, title, text = '', url, graduationYear = '2027', now = new Date() }) {
+export function parseMokaCard({ company, title, text = '', url, graduationYear = '2027', strictCohort = false, now = new Date() }) {
   const body = `${title}\n${text}`;
   const roleFamily = classifyRole(title);
   const skills = detectSkills(body);
   const experienceKeywords = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户'].filter((w) => body.includes(w)).slice(0,8);
   const preferenceTags = [/海外|国际|全球/.test(body) ? '国际业务' : '', /跨文化|本地化|海外用户|海外市场/.test(body) ? '跨文化' : '', /出海|海外市场|跨境/.test(body) ? '出海' : ''].filter(Boolean);
   const years = explicitMokaCohortYears(body);
-  const resolvedYear = resolveMokaGraduationYear(body, graduationYear);
+  const resolvedYear = resolveMokaGraduationYear(body, graduationYear, { strict: strictCohort });
   const verification = resolvedYear
     ? years.includes(String(graduationYear))
       ? '官方招聘官网 · JD/标题明确2027届'
       : '官方招聘官网 · 2027校招源（卡片未单列届别）'
     : years.length
       ? `官方招聘官网 · 届别冲突（${years.join('/')}届）`
-      : '官方招聘官网';
+      : strictCohort
+        ? '官方招聘官网 · 监控源（岗位未出现2027届证据）'
+        : '官方招聘官网';
   return {
     id: `moka-${crypto.createHash('sha1').update(url).digest('hex').slice(0,12)}`,
     company, title, roleFamily, city: cityFrom(`${title} ${text}`), graduationYear: resolvedYear,
@@ -121,7 +130,15 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
           const title = lines[0] || '';
           if (!title) continue;
           if (!isMokaTitleAllowed(title)) { titleRejected++; continue; }
-          const job = parseMokaCard({ company: source.company, title, text: lines.slice(1).join(' '), url: card.href, graduationYear: source.graduationYear || profile.graduationYear, now });
+          const job = parseMokaCard({
+            company: source.company,
+            title,
+            text: lines.slice(1).join(' '),
+            url: card.href,
+            graduationYear: source.graduationYear || profile.graduationYear,
+            strictCohort: Boolean(source.strictCohort),
+            now
+          });
           if (!job.graduationYear) { cohortRejected++; continue; }
           if (shouldKeep(job, profile, now)) jobs.push(job);
         }
