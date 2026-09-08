@@ -55,8 +55,8 @@ if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.
 }
 
 const ecoflow = sources.ecoflow;
-if (!ecoflow || ecoflow.company !== '正浩创新EcoFlow' || !/^https:\/\/jobs\.ecoflow\.com\/602892/.test(ecoflow.url) || ecoflow.graduationYear !== '2027' || Number(ecoflow.maxDetails) < 1) {
-  throw new Error('official EcoFlow source registry validation failed');
+if (!ecoflow || ecoflow.company !== '正浩创新EcoFlow' || !/^https:\/\/jobs\.ecoflow\.com\/602892/.test(ecoflow.url) || ecoflow.apiBase !== 'https://jobs.ecoflow.com' || ecoflow.websitePath !== '602892' || Number(ecoflow.portalType) !== 6 || ecoflow.graduationYear !== '2027' || Number(ecoflow.maxJobs) < 10 || Number(ecoflow.maxPages) < 1) {
+  throw new Error('official EcoFlow Feishu API registry validation failed');
 }
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, Anker paginated API, EcoFlow official source, provenance OK.`);
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, Anker paginated API, EcoFlow public Feishu API, provenance OK.`);
