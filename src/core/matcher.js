@@ -17,7 +17,7 @@ const ROLE_INTENT_GROUPS = [
   /内容运营|社媒运营|KOL运营|SEO运营|新媒体|内容策划/i,
   /产品运营|产品增长|产品策划/i,
   /业务运营|运营管理|经营管理|销售运营|商务运营|战略运营|部门运营|服务运营/i,
-  /项目管理|项目运营|项目推进|项目协调/i,
+  /项目管理|项目运营|项目推进|项目协调|PMO/i,
   /人力资源|招聘运营|校园招聘|HRBP|\bHR\b/i
 ];
 
@@ -61,15 +61,15 @@ function dimension(label, weight, ratio, detail) {
   };
 }
 
-function tierFor(job, score, matchedExclusions = []) {
+function tierFor(job, score, matchedExclusions = [], fitWarnings = []) {
   const official = job?.sourceType === 'official' || /官方/.test(String(job?.verification || ''));
-  if (score >= 85 && matchedExclusions.length === 0 && official) {
-    return { tier: 'S', tierLabel: 'S档 · 优先投递', tierReason: '高匹配、无硬性排除且已有官方来源核验' };
+  if (score >= 85 && matchedExclusions.length === 0 && fitWarnings.length === 0 && official) {
+    return { tier: 'S', tierLabel: 'S档 · 优先投递', tierReason: '高匹配、无硬性排除、无专业适配风险且已有官方来源核验' };
   }
   if (score >= 70 && matchedExclusions.length === 0) {
-    return { tier: 'A', tierLabel: 'A档 · 建议投递', tierReason: official ? '匹配较高且来源已核验' : '匹配较高，建议回官网核验后投递' };
+    return { tier: 'A', tierLabel: 'A档 · 建议投递', tierReason: fitWarnings.length ? '总体匹配，但存在专业/技术背景竞争劣势' : official ? '匹配较高且来源已核验' : '匹配较高，建议回官网核验后投递' };
   }
-  return { tier: 'B', tierLabel: 'B档 · 备选观察', tierReason: matchedExclusions.length ? '命中硬性排除或风险项' : '存在能力、城市或方向缺口' };
+  return { tier: 'B', tierLabel: 'B档 · 备选观察', tierReason: matchedExclusions.length ? '命中硬性排除或风险项' : fitWarnings.length ? '存在专业背景或技术能力竞争劣势' : '存在能力、城市或方向缺口' };
 }
 
 export function evaluateJob(job, profile) {
@@ -98,30 +98,41 @@ export function evaluateJob(job, profile) {
   const matchedExclusions = (profile.exclusions ?? []).filter((rule) =>
     (job.riskTags ?? []).some((risk) => tokenHit(rule, risk)) || tokenHit(rule, job.title)
   );
+  const fitWarnings = job.candidateFit?.warnings ?? [];
+  const fitStrengths = job.candidateFit?.strengths ?? [];
   const baseScore = dimensions.reduce((sum, item) => sum + item.score, 0);
-  const penalty = Math.min(30, matchedExclusions.length * 15);
-  const score = Math.max(0, Math.min(100, baseScore - penalty));
+  const hardPenalty = Math.min(30, matchedExclusions.length * 15);
+  const fitPenalty = Number(job.candidateFit?.penalty || 0);
+  const fitBonus = Number(job.candidateFit?.bonus || 0);
+  const score = Math.max(0, Math.min(100, baseScore - hardPenalty - fitPenalty + fitBonus));
 
-  const highlights = dimensions
+  const dimensionHighlights = dimensions
     .filter((item) => item.ratio >= 0.67)
     .sort((a, b) => b.weight - a.weight)
-    .slice(0, 3)
     .map((item) => item.detail);
+  const highlights = [
+    ...fitStrengths.slice(0, 2).map((item) => `英语专业友好：${item}`),
+    ...dimensionHighlights
+  ].slice(0, 3);
 
-  const gaps = dimensions
+  const dimensionGaps = dimensions
     .filter((item) => item.ratio < 0.5)
     .sort((a, b) => b.weight - a.weight)
-    .slice(0, 3)
     .map((item) => item.detail);
+  const gaps = [
+    ...fitWarnings.map((item) => `竞争劣势：${item}`),
+    ...dimensionGaps
+  ].slice(0, 3);
 
   const level = score >= 80 ? '强烈推荐' : score >= 65 ? '值得投递' : score >= 50 ? '可以尝试' : '谨慎考虑';
-  const tierInfo = tierFor(job, score, matchedExclusions);
+  const tierInfo = tierFor(job, score, matchedExclusions, fitWarnings);
 
   return {
     score,
     level,
     ...tierInfo,
     dimensions,
+    fitAdjustment: fitBonus - fitPenalty,
     highlights,
     gaps,
     risks: [...matchedExclusions.map((item) => `命中排除条件：${item}`), ...(job.riskTags ?? [])]
