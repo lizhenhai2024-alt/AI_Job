@@ -1,4 +1,7 @@
 import { companyRiskHistory, companyRiskMethodology } from '../data/company-risk-history.js';
+import { priorityCompanyRiskHistory } from '../data/company-risk-history-priority.js';
+
+export const mergedCompanyRiskHistory = [...companyRiskHistory, ...priorityCompanyRiskHistory];
 
 function key(value = '') {
   return String(value)
@@ -42,7 +45,7 @@ export function validateRiskEvent(event = {}) {
 }
 
 export function companyRiskProfile(company = '') {
-  return companyRiskHistory.find((profile) =>
+  return mergedCompanyRiskHistory.find((profile) =>
     matches(profile.company, company) || (profile.aliases || []).some((alias) => matches(alias, company))
   ) || null;
 }
