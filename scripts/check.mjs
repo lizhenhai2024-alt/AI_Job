@@ -8,7 +8,7 @@ import { sourceRegistry } from '../src/data/source-registry.js';
 const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/bootstrap.js', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
-  'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
+  'src/core/shortlist.js', 'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
   'src/data/company-library.js', 'src/data/company-registry.js', 'src/data/source-registry.js',
   'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs',
   'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/feishu.mjs', 'scripts/job-discovery/hotjob.mjs',
