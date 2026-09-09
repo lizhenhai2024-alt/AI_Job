@@ -45,6 +45,10 @@ const TECH_MANDATORY_RX = /深刻理解|深入理解|熟练掌握|熟练使用|�
 const CERT_RX = /\bCPA\b|注册会计师|\bCFA\b|特许金融分析师|精算师|法律职业资格|法考|律师资格/i;
 const CERT_MANDATORY_RX = /必须|要求|须|需|持有|取得|通过|具备/i;
 const RELATED_MASTER_RX = /(相关专业.{0,12}硕士.{0,12}优先|硕士.{0,12}相关专业.{0,12}优先|相关学科.{0,12}硕士.{0,12}优先)/i;
+const MINOR_LANGUAGE_RX = /日语|日文|德语|德文|法语|法文|西班牙语|西语|葡萄牙语|葡语|俄语|韩语|韩文|意大利语|意语|阿拉伯语|泰语|越南语|印尼语|印度尼西亚语|马来语|土耳其语|波兰语|荷兰语|瑞典语|挪威语|丹麦语|芬兰语|希腊语|捷克语|匈牙利语|罗马尼亚语|乌克兰语|希伯来语|第二外语|小语种/i;
+const MINOR_LANGUAGE_MANDATORY_RX = /必须|要求|需|须|应|具备|熟练|精通|流利|听说读写|可作为工作语言|作为工作语言|工作语言|母语|native|business\s*level|professional\s*proficiency|\bN[1-5]\b|JLPT|TOPIK|DELF|DALF|DELE|TestDaF|Goethe|\b[BC][12]\b/i;
+const ENGLISH_OR_MINOR_ALTERNATIVE_RX = /(英语|英文).{0,24}(或|任选其一|任一|其中一种|至少一种|之一|二选一).{0,24}(日语|德语|法语|西班牙语|西语|葡萄牙语|葡语|俄语|韩语|意大利语|阿拉伯语|泰语|越南语|印尼语|马来语)|(日语|德语|法语|西班牙语|西语|葡萄牙语|葡语|俄语|韩语|意大利语|阿拉伯语|泰语|越南语|印尼语|马来语).{0,24}(或|任选其一|任一|其中一种|至少一种|之一|二选一).{0,24}(英语|英文)/i;
+const MINOR_LANGUAGE_TITLE_RX = /(日语|德语|法语|西班牙语|西语|葡萄牙语|葡语|俄语|韩语|意大利语|阿拉伯语|泰语|越南语|印尼语|马来语).{0,10}(翻译|本地化|运营|客服|内容|编辑|审核|商务|市场|销售|支持|专员|管培)/i;
 
 const TECH_DUTY_RULES = [
   ['问题根因', /识别.{0,8}问题根因|判断.{0,8}问题根因|根因分析|故障诊断/i],
@@ -188,6 +192,18 @@ export function requiresProfessionalCertificate(job = {}) {
   return false;
 }
 
+export function requiresMandatoryMinorLanguage(job = {}) {
+  const title = String(job?.title || '');
+  if (MINOR_LANGUAGE_TITLE_RX.test(title)) return true;
+  for (const clause of splitClauses(extractRequirements(job))) {
+    if (!MINOR_LANGUAGE_RX.test(clause)) continue;
+    if (PREFERRED_RX.test(clause)) continue;
+    if (ENGLISH_OR_MINOR_ALTERNATIVE_RX.test(clause)) continue;
+    if (MINOR_LANGUAGE_MANDATORY_RX.test(clause)) return true;
+  }
+  return false;
+}
+
 function detectEligibilityEvidence(job = {}) {
   const text = textOf(job);
   const evidence = [];
@@ -246,6 +262,7 @@ export function analyzeCandidateFit(job = {}) {
   if (requiresMandatoryMajorMismatch(job)) hardRequirements.push(major.label);
   if (requiresHardTechnicalAbility(job)) hardRequirements.push('具体技术知识/能力为硬要求');
   if (requiresProfessionalCertificate(job)) hardRequirements.push('专业资格证书为硬要求');
+  if (requiresMandatoryMinorLanguage(job)) hardRequirements.push('小语种为硬要求');
   if (isTechnicalDutyDominant(job)) hardRequirements.push('工作职责由技术任务主导');
 
   return {
@@ -273,6 +290,7 @@ export function jobPolicyReasons(job = {}) {
   if (isTechnicalDutyDominant(job)) reasons.push('技术职责主导');
   if (requiresHardTechnicalAbility(job)) reasons.push('硬技术能力要求');
   if (requiresProfessionalCertificate(job)) reasons.push('必须专业资格证书');
+  if (requiresMandatoryMinorLanguage(job)) reasons.push('必须小语种');
   if (isPureSalesJob(job)) reasons.push('纯销售');
   return [...new Set(reasons)];
 }
