@@ -29,7 +29,9 @@ function cleanText(value = '') {
 function sameCompany(a, b) {
   const left = canonicalCompanyKey(a);
   const right = canonicalCompanyKey(b);
-  return Boolean(left && right && (left === right || (Math.min(left.length, right.length) >= 3 && (left.includes(right) || right.includes(left))));
+  if (!left || !right) return false;
+  if (left === right) return true;
+  return Math.min(left.length, right.length) >= 3 && (left.includes(right) || right.includes(left));
 }
 
 function sourceEntries(provider) {
