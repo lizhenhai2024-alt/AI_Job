@@ -4,17 +4,19 @@ import { demoJobs } from '../src/data/jobs.js';
 import { liveJobs } from '../src/data/live-jobs.js';
 import { companyRegistry, isValidCompanyRecord } from '../src/data/company-registry.js';
 import { sourceRegistry } from '../src/data/source-registry.js';
+import { companyRequests } from '../src/data/company-requests.js';
 
 const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/bootstrap.js', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
-  'src/core/shortlist.js', 'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
-  'src/data/company-library.js', 'src/data/company-registry.js', 'src/data/source-registry.js',
+  'src/core/shortlist.js', 'src/core/company-intake.js', 'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
+  'src/data/company-library.js', 'src/data/company-registry.js', 'src/data/company-requests.js', 'src/data/source-registry.js',
   'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs',
   'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/feishu.mjs', 'scripts/job-discovery/hotjob.mjs',
   'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs', 'scripts/refresh-jobs.mjs',
-  'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs',
-  'config/search-profile.json', 'config/official-sources.json', 'README.md', 'docs/PLAN.md'
+  'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs', 'scripts/build-company-requests.mjs',
+  'scripts/process-company-intake.mjs', 'config/search-profile.json', 'config/official-sources.json', 'config/company-requests.json',
+  '.github/workflows/company-intake.yml', 'README.md', 'docs/PLAN.md'
 ];
 
 for (const file of required) {
@@ -37,6 +39,15 @@ if (liveJobs.some((job) => job.graduationYear !== '2027' || !job.sourceUrl || !j
 const config = JSON.parse(fs.readFileSync(path.join(root, 'config/search-profile.json'), 'utf8'));
 if (config.graduationYear !== '2027' || !config.roleKeywords?.length || !config.keywords?.length) {
   throw new Error('search profile validation failed');
+}
+
+const requestConfig = JSON.parse(fs.readFileSync(path.join(root, 'config/company-requests.json'), 'utf8'));
+if (!Array.isArray(requestConfig)) throw new Error('company request queue must be an array');
+if (JSON.stringify(requestConfig) !== JSON.stringify(companyRequests)) {
+  throw new Error('company-requests.js is stale; run npm run build:company-requests');
+}
+if (companyRequests.some((request) => !request?.name || !request?.status || !request?.requestedAt)) {
+  throw new Error('company request schema validation failed');
 }
 
 const sources = JSON.parse(fs.readFileSync(path.join(root, 'config/official-sources.json'), 'utf8'));
@@ -94,6 +105,12 @@ if (companyRegistry.some((record) => record.status !== '主投' && (record.indus
 if (companyRegistry.some((record) => (record.cities || []).some((value) => /市场|营销|HR|运营|商务|供应链|客户|产品/i.test(value)))) {
   throw new Error('company cities contains target-track data');
 }
+const missingRequests = companyRequests.filter((request) => !companyRegistry.some((record) => record.userRequested && (() => {
+  const clean = (value) => String(value || '').replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '').replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase();
+  const a = clean(record.name); const b = clean(request.name);
+  return a === b || (Math.min(a.length, b.length) >= 3 && (a.includes(b) || b.includes(a)));
+})()));
+if (missingRequests.length) throw new Error(`company requests missing from registry: ${missingRequests.map((x) => x.name).join(', ')}`);
 const missingManaged = sourceRegistry.filter((source) => !companyRegistry.some((record) => record.sourceManaged && record.sourceProviders?.includes(source.provider) && (() => {
   const clean = (value) => String(value || '').replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '').replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase();
   const a = clean(record.name); const b = clean(source.company);
@@ -101,4 +118,4 @@ const missingManaged = sourceRegistry.filter((source) => !companyRegistry.some((
 })()));
 if (missingManaged.length) throw new Error(`official sources missing from company registry: ${missingManaged.map((x) => `${x.provider}:${x.company}`).join(', ')}`);
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${companyRegistry.length} unified companies, ${sourceRegistry.length} official source links, provenance and registry quality OK.`);
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${companyRegistry.length} unified companies, ${sourceRegistry.length} official source links, ${companyRequests.length} company intake requests, provenance and registry quality OK.`);
