@@ -3,6 +3,7 @@ import { liveJobs, discoveryMeta } from './data/live-jobs.js';
 import { defaultProfile } from './data/profile.js';
 import { companyLibrary, companyLibraryMeta } from './data/company-library.js';
 import { rankJobs } from './core/matcher.js';
+import { buildDailyShortlist, dailyShortlistStats } from './core/shortlist.js';
 import { loadProfile, saveProfile, loadStatuses, saveStatuses } from './core/storage.js';
 
 const app = document.querySelector('#app');
@@ -10,7 +11,7 @@ const PIPELINE = ['推荐', '已收藏', '已投递', '面试', 'Offer', '淘汰
 const baseJobs = liveJobs.length ? liveJobs : demoJobs;
 
 const state = {
-  tab: 'radar', profile: loadProfile(defaultProfile), statuses: loadStatuses(),
+  tab: 'radar', radarMode: 'daily', profile: loadProfile(defaultProfile), statuses: loadStatuses(),
   filters: { keyword: '', city: '全部', role: '全部', tier: '全部', minScore: '0', company: '' }, selectedJobId: null
 };
 
@@ -38,9 +39,9 @@ function jobsWithState() {
   return rankJobs(baseJobs.map((job) => ({ ...job, status: state.statuses[job.id] || job.status || '推荐' })), state.profile);
 }
 
-function currentFilteredJobs() {
+function currentFilteredJobs(pool = jobsWithState()) {
   const keyword = state.filters.keyword.trim().toLowerCase();
-  return jobsWithState().filter((job) => {
+  return pool.filter((job) => {
     const text = [job.company, job.title, job.city, ...(job.roleFamily || []), ...(job.skills || [])].join(' ').toLowerCase();
     return (!keyword || text.includes(keyword))
       && (!state.filters.company || companyMatches(job.company, state.filters.company))
@@ -120,23 +121,32 @@ function shell(content) {
 
 function renderRadar() {
   const all = jobsWithState();
-  const jobs = currentFilteredJobs();
-  const stats = statData(all);
+  const daily = buildDailyShortlist(all);
+  const pool = state.radarMode === 'daily' ? daily : all;
+  const jobs = currentFilteredJobs(pool);
+  const stats = statData(pool);
+  const dailyStats = dailyShortlistStats(all);
   const cities = ['全部', ...new Set(all.map((j) => j.city).filter(Boolean))];
   const roles = ['全部', ...new Set(all.flatMap((j) => j.roleFamily || []))];
   const live = liveJobs.length > 0;
+  const modeLabel = state.radarMode === 'daily' ? `今日精选 ${daily.length}` : `全部岗位 ${all.length}`;
   return `<section class="hero">
-      <div><h1>今天哪些岗位值得投？</h1><p>S 档优先投、A 档建议投、B 档备选观察；来源可信度也参与分层。</p></div>
+      <div><h1>今天哪些岗位值得投？</h1><p>默认只看最值得推进的 10–20 个；S/A 优先，不足 10 个时才用高质量 B 档补足。</p>
+        <div class="actions" style="margin-top:12px">
+          <button class="btn ${state.radarMode === 'daily' ? 'primary' : ''}" data-radar-mode="daily">今日精选 ${daily.length}</button>
+          <button class="btn ${state.radarMode === 'all' ? 'primary' : ''}" data-radar-mode="all">全部岗位 ${all.length}</button>
+        </div>
+      </div>
       <div class="demo-note ${live ? 'live-note' : ''}">
-        <strong>${live ? '● 自动岗位池已启用' : 'Demo 回退模式'}</strong><br>
-        ${live ? `${baseJobs.length} 个岗位 · ${companyClues().length} 家公司 · 更新 ${esc(fmtDateTime(discoveryMeta.updatedAt))}` : '当前没有自动岗位数据，正在展示示例数据。'}
-        ${live ? '<br>官方来源优先；二手来源用于扩大发现，投递前请回官网核验。' : ''}
+        <strong>${live ? `● ${esc(modeLabel)}` : 'Demo 回退模式'}</strong><br>
+        ${live ? `${companyClues().length} 家公司 · 更新 ${esc(fmtDateTime(discoveryMeta.updatedAt))}` : '当前没有自动岗位数据，正在展示示例数据。'}
+        ${live && state.radarMode === 'daily' ? `<br>官方 ${dailyStats.official} · 待官网复核 ${dailyStats.needsVerification}` : live ? '<br>官方来源优先；二手来源投递前需回官网核验。' : ''}
       </div>
     </section>
     <section class="stats">
       <div class="stat"><div class="value">${stats.s}</div><div class="label">S档 · 优先投递</div></div>
-      <div class="stat"><div class="value">${stats.a}</div><div class="label">A档 · 建议投递</div></div>
-      <div class="stat"><div class="value">${stats.b}</div><div class="label">B档 · 备选观察</div></div>
+      <div class="stat"><div class="value">${stats.a}</div><div class="label">A档 · 可以投</div></div>
+      <div class="stat"><div class="value">${stats.b}</div><div class="label">B档 · 机会型</div></div>
       <div class="stat"><div class="value">${stats.closing}</div><div class="label">30天内截止</div></div>
     </section>
     <section class="toolbar">
@@ -144,20 +154,20 @@ function renderRadar() {
       <div class="field"><label>城市</label><select id="filter-city">${cities.map((x) => `<option ${x === state.filters.city ? 'selected' : ''}>${esc(x)}</option>`).join('')}</select></div>
       <div class="field"><label>岗位族</label><select id="filter-role">${roles.map((x) => `<option ${x === state.filters.role ? 'selected' : ''}>${esc(x)}</option>`).join('')}</select></div>
       <div class="field"><label>优先级</label><select id="filter-tier">${['全部','S','A','B'].map((x) => `<option ${x === state.filters.tier ? 'selected' : ''}>${x}</option>`).join('')}</select></div>
-      <div class="field"><label>最低匹配</label><select id="filter-score">${[0,50,65,70,80,85].map((x) => `<option value="${x}" ${String(x) === state.filters.minScore ? 'selected' : ''}>${x}+</option>`).join('')}</select></div>
+      <div class="field"><label>最低匹配</label><select id="filter-score">${[0,55,68,70,80,85].map((x) => `<option value="${x}" ${String(x) === state.filters.minScore ? 'selected' : ''}>${x}+</option>`).join('')}</select></div>
     </section>
     <section class="jobs">${jobs.length ? jobs.map(renderJobCard).join('') : '<div class="empty">没有符合当前筛选条件的岗位。</div>'}</section>`;
 }
 
 function renderJobCard(job) {
   const highlights = job.match.highlights.slice(0,2).map((x) => `<span class="reason">✓ ${esc(x)}</span>`).join('');
-  const risks = job.match.risks.filter((x) => x.startsWith('命中排除条件')).slice(0,1).map((x) => `<span class="risk">△ ${esc(x)}</span>`).join('');
+  const risks = job.match.risks.slice(0,1).map((x) => `<span class="risk">△ ${esc(x)}</span>`).join('');
   const verify = job.verification ? `<span class="source-flag">${esc(job.verification)}</span>` : '';
   return `<article class="job-card">
     <div>
       <div class="company">${esc(job.company)}</div><h2 class="job-title">${esc(job.title)}</h2>
       <div class="meta"><span>📍 ${esc(job.city)}</span><span>🎓 ${esc(job.graduationYear)}届</span><span>🗓 截止 ${esc(job.deadline || '待核')}</span><span>${esc(job.source || '来源待核')}</span>${verify}</div>
-      <div class="tags"><span class="tag"><strong>${esc(job.match.tier)}档</strong></span>${(job.roleFamily || []).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
+      <div class="tags"><span class="tag"><strong>${esc(job.match.tier)}档 · ${esc(job.match.priority || '')}</strong></span>${(job.roleFamily || []).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
       <div class="reasons" style="margin-top:11px">${highlights}${risks}</div>
     </div>
     <div class="score-wrap">
@@ -204,7 +214,7 @@ function renderProfile() {
     <section class="panel"><form id="profile-form" class="profile-grid">
       <div class="field"><label>毕业届别</label><input name="graduationYear" value="${esc(p.graduationYear)}" /></div>
       <div class="field"><label>目标城市</label><input name="targetCities" value="${esc(arrayText(p.targetCities))}" /></div>
-      <div class="field wide"><label>目标岗位族</label><input name="targetRoles" value="${esc(arrayText(p.targetRoles))}" /><div class="hint">例如：海外运营、GTM、产品营销、用户运营</div></div>
+      <div class="field wide"><label>目标岗位族</label><input name="targetRoles" value="${esc(arrayText(p.targetRoles))}" /><div class="hint">例如：海外运营、GTM、产品营销、贸易运营</div></div>
       <div class="field wide"><label>技能</label><textarea name="skills" rows="2">${esc(arrayText(p.skills))}</textarea></div>
       <div class="field"><label>语言</label><input name="languages" value="${esc(arrayText(p.languages))}" /></div>
       <div class="field"><label>经历关键词</label><input name="experienceKeywords" value="${esc(arrayText(p.experienceKeywords))}" /></div>
@@ -225,18 +235,18 @@ function renderModal() {
   if (!job) return '';
   const eligibility = job.match.eligibility || { verdict: '届别待核', evidence: [] };
   const steps = job.match.fourStepAnalysis || [];
-  const evidenceMatches = job.match.experienceEvidence?.matches || [];
+  const evidenceMatches = job.match.experienceEvidence?.directMatches || [];
   return `<div class="modal-backdrop" data-close-modal="1"><div class="modal" role="dialog" aria-modal="true" onclick="event.stopPropagation()">
     <div class="modal-head"><div><div class="company">${esc(job.company)}</div><h2>${esc(job.title)}</h2></div><button class="close" data-close-modal="1">×</button></div>
     <p>${esc(job.description)}</p><div class="source-box"><strong>数据来源：</strong>${esc(job.source || '待核')} · ${esc(job.verification || '待核')}${job.sourceUrl ? ` · <a href="${esc(job.sourceUrl)}" target="_blank" rel="noopener">打开来源</a>` : ''}</div>
     <h3>${esc(job.match.tierLabel)} · ${job.match.score}/100</h3><p>${esc(job.match.tierReason)}</p>
     <h3>投递资格</h3>
     <div class="source-box"><strong>${esc(eligibility.verdict)}</strong>${(eligibility.evidence || []).length ? ` · ${esc(eligibility.evidence.join('；'))}` : ' · 招聘对象/毕业时间请投递前再次核对官网'}</div>
-    <h3>四步 JD 判断</h3>
-    ${steps.map((step) => `<div class="source-box"><strong>${step.step ? `${step.step}. ` : ''}${esc(step.label)}：${esc(step.verdict)}</strong><br>${esc(step.detail || '无补充证据')}</div>`).join('') || '<div class="hint">当前岗位暂缺结构化四步分析，建议打开来源核对完整 JD。</div>'}
+    <h3>五步 JD + 投递判断</h3>
+    ${steps.map((step) => `<div class="source-box"><strong>${step.step ? `${step.step}. ` : ''}${esc(step.label)}：${esc(step.verdict)}</strong><br>${esc(step.detail || '无补充证据')}</div>`).join('') || '<div class="hint">当前岗位暂缺结构化判断，建议打开来源核对完整 JD。</div>'}
     <h3>真实经历证据</h3>
-    ${evidenceMatches.length ? evidenceMatches.map((item) => `<div class="source-box"><strong>${esc(item.name)}</strong><br>${esc(item.evidence || '')}</div>`).join('') : `<div class="source-box"><strong>${esc(job.match.experienceEvidence?.verdict || '没有直接经历证据')}</strong><br>${esc(job.match.experienceEvidence?.detail || '没有找到能直接对应岗位职责的已记录经历。')}</div>`}
-    <h3>评分维度</h3>
+    ${evidenceMatches.length ? evidenceMatches.map((item) => `<div class="source-box"><strong>${esc(item.name)}</strong><br>${esc(item.evidence || '')}<br><span class="hint">命中：${esc((item.matchedKeywords || []).join('、'))}</span></div>`).join('') : `<div class="source-box"><strong>${esc(job.match.experienceEvidence?.verdict || '没有直接经历证据')}</strong><br>${esc(job.match.experienceEvidence?.detail || '没有找到能直接对应岗位职责的已记录经历。')}</div>`}
+    <h3>V3 评分维度</h3>
     ${job.match.dimensions.map((d) => `<div class="dimension"><strong>${esc(d.label)}</strong><div class="bar"><div style="width:${Math.round(d.ratio * 100)}%"></div></div><span>${d.score}/${d.weight}</span></div>`).join('')}
     <h3>亮点</h3><div class="tags">${job.match.highlights.map((x) => `<span class="tag">✓ ${esc(x)}</span>`).join('') || '<span class="hint">暂无明显优势</span>'}</div>
     <h3>缺口 / 风险</h3><div class="tags">${[...job.match.gaps, ...job.match.risks].map((x) => `<span class="tag">△ ${esc(x)}</span>`).join('') || '<span class="hint">暂无明显风险</span>'}</div>
@@ -253,8 +263,13 @@ function setStatus(jobId, status) { state.statuses[jobId] = status; saveStatuses
 app.addEventListener('click', (event) => {
   const tab = event.target.closest('[data-tab]')?.dataset.tab;
   if (tab) { state.tab = tab; state.selectedJobId = null; render(); return; }
+  const radarMode = event.target.closest('[data-radar-mode]')?.dataset.radarMode;
+  if (radarMode) { state.radarMode = radarMode; render(); return; }
   const company = event.target.closest('[data-company]')?.dataset.company;
-  if (company) { state.filters.company = company; state.filters.keyword = ''; state.filters.city = '全部'; state.filters.role = '全部'; state.filters.tier = '全部'; state.filters.minScore = '0'; state.tab = 'radar'; render(); return; }
+  if (company) {
+    state.filters.company = company; state.filters.keyword = ''; state.filters.city = '全部'; state.filters.role = '全部'; state.filters.tier = '全部'; state.filters.minScore = '0';
+    state.radarMode = 'all'; state.tab = 'radar'; render(); return;
+  }
   const detail = event.target.closest('[data-detail]')?.dataset.detail;
   if (detail) { state.selectedJobId = detail; render(); return; }
   if (event.target.closest('[data-close-modal]')) { state.selectedJobId = null; render(); return; }
@@ -269,7 +284,7 @@ app.addEventListener('click', (event) => {
       workPreference: parseArray(String(data.get('workPreference') || '')), exclusions: parseArray(String(data.get('exclusions') || '')),
       experienceEvidence: structuredClone(state.profile.experienceEvidence || defaultProfile.experienceEvidence || [])
     };
-    saveProfile(state.profile); state.tab = 'radar'; render();
+    saveProfile(state.profile); state.radarMode = 'daily'; state.tab = 'radar'; render();
   }
 });
 
