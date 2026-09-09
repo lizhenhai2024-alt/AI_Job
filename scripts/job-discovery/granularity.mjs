@@ -61,7 +61,7 @@ function fuyaoSalesFollowup(job) {
     sourceType: 'official',
     sourceUrl: officialUrl,
     verification: '已按福耀集团2027届校招核验岗位名、专业要求与工作地点；投递以官方校园招聘实时职位页为准',
-    description: '负责订单下达、跟踪与发运，并跟进量产客户交付、回款、库存及相关数据报表。',
+    description: '岗位职责：负责产品订单下达、跟踪、发运；负责日常客户服务，并跟进量产客户交付、回款、库存及部门报表统计分析。岗位要求：专业要求为外语类、国贸类、机械类、材料类等；学历要求本科及以上。',
     officialEvidence: {
       verifiedAt: '2026-09-09',
       campaign: '福耀集团2027届校园招聘',
@@ -77,8 +77,28 @@ function fuyaoSalesFollowup(job) {
     id: `${job.id}-fuyao-sales-followup-${city === '福清' ? 'fuqing' : 'hefei'}`,
     title: `${base.title}-${city}`,
     city,
-    _searchText: `${base.title} ${city} 外语类 国贸类 机械类 材料类 英语 订单 交付 回款 库存 客户 数据`
+    _searchText: `${base.title} ${city} 专业要求 外语类 国贸类 机械类 材料类 英语 订单 交付 回款 库存 客户 数据`
   }));
+}
+
+export function curatedOfficialGranularityJobs() {
+  return fuyaoSalesFollowup({
+    id: 'verified-fuyao-sales-followup-2027',
+    company: '福耀玻璃',
+    title: '销售跟单',
+    graduationYear: '2027',
+    roleFamily: ['业务运营'],
+    skills: ['英语'],
+    languages: ['英语'],
+    experienceKeywords: ['客户', '供应链', '数据'],
+    preferenceTags: ['国际业务'],
+    riskTags: [],
+    publishedAt: '2026-09-02',
+    deadline: '2027-03-01',
+    salary: '',
+    status: '推荐',
+    discoveredAt: '2026-09-09T00:00:00.000Z'
+  });
 }
 
 function resolveKnownOfficialPosting(job) {
