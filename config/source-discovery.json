@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T07:07:58.215Z",
+  "updatedAt": "2026-09-09T12:58:12.641Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -35,15 +35,21 @@
           "reason": "候选页面缺少足够的公司身份信息，未自动接入"
         },
         {
+          "url": "https://www.lazada.com/en/graduate-intern/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
           "url": "https://aidc-jobs.alibaba.com/home",
           "provider": "",
           "state": "candidate_rejected",
           "reason": "候选页面缺少足够的公司身份信息，未自动接入"
         }
       ],
-      "attempts": 4,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 5,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "兰亭集势": {
       "name": "兰亭集势",
@@ -84,9 +90,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 4,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 5,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "aliexpress": {
       "name": "AliExpress",
@@ -115,9 +121,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 4,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 5,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "阿里巴巴": {
       "name": "阿里巴巴",
@@ -134,9 +140,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 4,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 5,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "爱奇艺": {
       "name": "爱奇艺",
@@ -153,9 +159,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 4,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 5,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "顾家家居": {
       "name": "顾家家居",
@@ -220,9 +226,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 4,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 5,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "名创优品": {
       "name": "名创优品",
@@ -258,9 +264,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 4,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 5,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "水羊御泥坊": {
       "name": "水羊集团御泥坊",
@@ -289,9 +295,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 3,
-      "lastCheckedAt": "2026-09-09T07:05:00.876Z",
-      "nextCheckAfter": "2026-09-12T07:05:00.876Z"
+      "attempts": 4,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "致欧家居": {
       "name": "致欧家居",
@@ -327,9 +333,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 3,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 4,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "amazon": {
       "name": "Amazon",
@@ -346,9 +352,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 3,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 4,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "baseus": {
       "name": "Baseus",
@@ -377,9 +383,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 3,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 4,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "shopee": {
       "name": "Shopee",
@@ -396,9 +402,9 @@
           "reason": "候选官网不可稳定访问：HTTP 0"
         }
       ],
-      "attempts": 3,
-      "lastCheckedAt": "2026-09-09T07:07:58.215Z",
-      "nextCheckAfter": "2026-09-12T07:07:58.215Z"
+      "attempts": 4,
+      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
+      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
     },
     "temu": {
       "name": "Temu",
@@ -446,9 +452,9 @@
   },
   "lastRun": {
     "processed": 12,
-    "sourcesAdded": 1,
+    "sourcesAdded": 0,
     "errors": 0,
     "batchSize": 12,
-    "forceRetry": true
+    "forceRetry": false
   }
 }
