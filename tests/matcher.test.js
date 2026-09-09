@@ -114,7 +114,9 @@ test('adjacent target titles receive full role-direction credit even when crawle
     ['社媒运营（日语）', '内容运营'],
     ['KOL运营（西语）', '内容运营'],
     ['电商实习生（Charging）', '电商运营'],
-    ['欧洲品牌经理实习（英国，西班牙，意大利）', '产品营销']
+    ['欧洲品牌经理实习（英国，西班牙，意大利）', '产品营销'],
+    ['海外业务岗(J13645)', '国际业务'],
+    ['贸易运营岗(J13647)', '贸易运营']
   ];
   for (const [title, targetRole] of cases) {
     const job = { ...demoJobs[0], title, roleFamily: ['其他'] };
@@ -125,7 +127,7 @@ test('adjacent target titles receive full role-direction credit even when crawle
 });
 
 test('default profile covers the main non-technical campus role families', () => {
-  for (const role of ['PMO','项目管理','项目运营','GTM','产品营销','电商运营','内容运营','产品运营','用户运营','业务运营']) {
+  for (const role of ['PMO','项目管理','项目运营','GTM','产品营销','电商运营','内容运营','产品运营','用户运营','业务运营','海外业务','贸易运营']) {
     assert.ok(defaultProfile.targetRoles.includes(role), `missing target role: ${role}`);
   }
 });
