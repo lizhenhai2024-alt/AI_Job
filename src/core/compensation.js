@@ -50,6 +50,33 @@ function salaryText(job = {}) {
   return values.filter(Boolean).join('\n');
 }
 
+function parseStructuredSalary(value) {
+  if (!value || typeof value !== 'object') return null;
+  const root = value.value && typeof value.value === 'object' ? value.value : value;
+  const min = n(root.minValue ?? root.min ?? root.value);
+  const max = n(root.maxValue ?? root.max ?? root.value);
+  if (min == null || max == null || min <= 0 || max <= 0) return null;
+  const unitRaw = String(root.unitText || value.unitText || root.unit || value.unit || '').toUpperCase();
+  const multiplier = /YEAR|ANNUAL|年/.test(unitRaw) ? 'annual' : /MONTH|月/.test(unitRaw) ? 'monthly' : null;
+  if (!multiplier) return null;
+  return { min: Math.min(min, max), max: Math.max(min, max), unit: multiplier, match: JSON.stringify(value) };
+}
+
+function parseJsonStringSalary(text = '') {
+  const raw = String(text || '');
+  if (!/["']?(?:minValue|maxValue|unitText)["']?\s*:/.test(raw)) return null;
+  const minMatch = raw.match(/["']?minValue["']?\s*:\s*["']?(\d+(?:\.\d+)?)/i);
+  const maxMatch = raw.match(/["']?maxValue["']?\s*:\s*["']?(\d+(?:\.\d+)?)/i);
+  const unitMatch = raw.match(/["']?unitText["']?\s*:\s*["']([^"']+)/i);
+  const min = n(minMatch?.[1]);
+  const max = n(maxMatch?.[1]);
+  if (min == null || max == null) return null;
+  const unitRaw = String(unitMatch?.[1] || '').toUpperCase();
+  const unit = /YEAR|ANNUAL|年/.test(unitRaw) ? 'annual' : /MONTH|月/.test(unitRaw) ? 'monthly' : null;
+  if (!unit) return null;
+  return { min: Math.min(min, max), max: Math.max(min, max), unit, match: [minMatch?.[0], maxMatch?.[0], unitMatch?.[0]].filter(Boolean).join(' ') };
+}
+
 function parseAnnualWan(text = '') {
   const rx = new RegExp(`(?:年薪|年收入|年度总包|年包|年薪资|package|total\\s*compensation)[^\\d]{0,16}(\\d+(?:\\.\\d+)?)\\s*${MONEY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?`, 'i');
   const m = String(text).match(rx);
@@ -100,11 +127,16 @@ function parseSingleMonthlyK(text = '') {
 export function normalizeCompensation(job = {}) {
   const rawSalary = typeof job.salary === 'string' ? job.salary.trim() : job.salary ? JSON.stringify(job.salary) : '';
   const text = salaryText(job);
-  const explicitAnnual = parseAnnualWan(text);
-  const monthly = parseMonthlyK(text)
-    || parseMonthlyYuan(rawSalary, true)
-    || parseMonthlyYuan(text, false)
-    || parseSingleMonthlyK(text);
+  const structured = parseStructuredSalary(job.salary) || parseJsonStringSalary(rawSalary);
+  const explicitAnnual = structured?.unit === 'annual'
+    ? { min: structured.min, max: structured.max, match: structured.match }
+    : parseAnnualWan(text);
+  const monthly = structured?.unit === 'monthly'
+    ? { min: structured.min, max: structured.max, months: null, match: structured.match }
+    : parseMonthlyK(text)
+      || parseMonthlyYuan(rawSalary, true)
+      || parseMonthlyYuan(text, false)
+      || parseSingleMonthlyK(text);
 
   let monthlyMin = monthly?.min ?? null;
   let monthlyMax = monthly?.max ?? null;
