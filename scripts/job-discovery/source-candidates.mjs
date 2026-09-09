@@ -7,7 +7,7 @@ const ATS_HOSTS = [
   ['hotjob', /^wecruit\.hotjob\.cn$/i]
 ];
 const BLOCKED_HOST_RX = /(^|\.)(nowcoder\.com|zhipin\.com|liepin\.com|51job\.com|lagou\.com|linkedin\.com|xiaohongshu\.com|weibo\.com|zhihu\.com|baidu\.com|google\.com|bing\.com|duckduckgo\.com)$/i;
-const CAREER_PATH_RX = /(career|careers|job|jobs|campus|recruit|recruitment|join|graduate|school)/i;
+const CAREER_TOKEN_RX = /(career|careers|job|jobs|campus|recruit|recruitment|join|graduate|school|talent|hire|hiring)/i;
 
 export function canonicalCompanyKey(value = '') {
   return String(value || '')
@@ -32,9 +32,23 @@ export function isLikelyOfficialCareerUrl(value = '') {
     const url = new URL(value);
     if (!/^https?:$/.test(url.protocol) || BLOCKED_HOST_RX.test(url.hostname)) return false;
     if (sourceProviderFromUrl(value)) return true;
-    return CAREER_PATH_RX.test(url.pathname + url.search);
+    return CAREER_TOKEN_RX.test(`${url.hostname}${url.pathname}${url.search}`);
   } catch {
     return false;
+  }
+}
+
+function decodeBingTarget(value = '') {
+  const decoded = decodeURIComponent(String(value || ''));
+  if (/^https?:\/\//i.test(decoded)) return decoded;
+  if (!/^a1/i.test(decoded)) return '';
+  const encoded = decoded.slice(2).replace(/-/g, '+').replace(/_/g, '/');
+  const padded = encoded.padEnd(Math.ceil(encoded.length / 4) * 4, '=');
+  try {
+    const text = Buffer.from(padded, 'base64').toString('utf8');
+    return /^https?:\/\//i.test(text) ? text : '';
+  } catch {
+    return '';
   }
 }
 
@@ -42,8 +56,13 @@ export function decodeSearchHref(value = '') {
   try {
     const absolute = value.startsWith('//') ? `https:${value}` : value;
     const url = new URL(absolute, 'https://duckduckgo.com');
-    const redirected = url.searchParams.get('uddg') || url.searchParams.get('url') || url.searchParams.get('u');
-    return redirected ? decodeURIComponent(redirected) : url.href;
+    const host = url.hostname.toLowerCase();
+    const target = url.searchParams.get('uddg') || url.searchParams.get('url') || url.searchParams.get('u');
+    if (target) {
+      if (/(^|\.)bing\.com$/i.test(host)) return decodeBingTarget(target) || decodeURIComponent(target);
+      return decodeURIComponent(target);
+    }
+    return url.href;
   } catch {
     return '';
   }
@@ -55,7 +74,7 @@ export function extractSearchCandidates(html = '') {
   for (const match of String(html).matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
     const url = decodeSearchHref(match[1]);
     if (!url || seen.has(url) || !isLikelyOfficialCareerUrl(url)) continue;
-    const text = String(match[2] || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    const text = String(match[2] || '').replace(/<[^>]+>/g, ' ').replace(/&amp;/gi, '&').replace(/\s+/g, ' ').trim();
     seen.add(url);
     candidates.push({ url, text, provider: sourceProviderFromUrl(url) });
   }
@@ -66,7 +85,7 @@ export function cohortEvidence(text = '') {
   return /2027\s*届|27\s*届|2027[^\n。]{0,40}(校园招聘|校招|秋招)|(校园招聘|校招|秋招)[^\n。]{0,40}2027/i.test(String(text));
 }
 
-export function buildDiscoveryQueue(records = [], audit = {}, { limit = 12, now = new Date() } = {}) {
+export function buildDiscoveryQueue(records = [], audit = {}, { limit = 12, now = new Date(), forceRetry = false } = {}) {
   const current = now.getTime();
   const rows = [];
   for (const record of records || []) {
@@ -75,7 +94,7 @@ export function buildDiscoveryQueue(records = [], audit = {}, { limit = 12, now 
     if (!key) continue;
     const previous = audit?.companies?.[key] || {};
     const dueAt = previous.nextCheckAfter ? new Date(previous.nextCheckAfter).getTime() : 0;
-    if (dueAt && Number.isFinite(dueAt) && dueAt > current) continue;
+    if (!forceRetry && dueAt && Number.isFinite(dueAt) && dueAt > current) continue;
     const evidenceCount = Number(record.evidence?.count || 0);
     const priority = (STATUS_WEIGHT[record.status] || 0) + (record.userRequested ? 30 : 0) + Math.min(evidenceCount, 10) * 2 + (!previous.lastCheckedAt ? 20 : 0);
     rows.push({
@@ -83,6 +102,7 @@ export function buildDiscoveryQueue(records = [], audit = {}, { limit = 12, now 
       name: record.name,
       status: record.status,
       careerUrl: record.careerUrl || '',
+      aliases: [...(record.aliases || [])],
       targetTracks: [...(record.targetTracks || [])],
       evidenceCount,
       userRequested: Boolean(record.userRequested),

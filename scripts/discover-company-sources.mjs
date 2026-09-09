@@ -19,6 +19,7 @@ const audit = JSON.parse(await fs.readFile(auditPath, 'utf8'));
 const sources = JSON.parse(await fs.readFile(sourcesPath, 'utf8'));
 const now = new Date();
 const batchSize = Math.max(1, Math.min(Number(process.env.SOURCE_DISCOVERY_BATCH || 12), 40));
+const forceRetry = process.env.SOURCE_DISCOVERY_FORCE_RETRY === '1' || process.env.GITHUB_EVENT_NAME === 'push';
 const USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
 function cleanText(value = '') {
@@ -28,7 +29,9 @@ function cleanText(value = '') {
 function sameCompany(a, b) {
   const left = canonicalCompanyKey(a);
   const right = canonicalCompanyKey(b);
-  return Boolean(left && right && (left === right || (Math.min(left.length, right.length) >= 3 && (left.includes(right) || right.includes(left)))));
+  if (!left || !right) return false;
+  if (left === right) return true;
+  return Math.min(left.length, right.length) >= 3 && (left.includes(right) || right.includes(left));
 }
 
 function sourceEntries(provider) {
@@ -45,14 +48,9 @@ async function fetchText(url, options = {}) {
   const timer = setTimeout(() => controller.abort(), Number(options.timeoutMs || 15000));
   try {
     const response = await fetch(url, {
+      ...options,
       redirect: 'follow',
       signal: controller.signal,
-      headers: {
-        'user-agent': USER_AGENT,
-        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.7',
-        ...(options.headers || {})
-      },
-      ...options,
       headers: {
         'user-agent': USER_AGENT,
         'accept-language': 'zh-CN,zh;q=0.9,en;q=0.7',
@@ -67,45 +65,78 @@ async function fetchText(url, options = {}) {
   }
 }
 
-async function searchHtml(query) {
+function mergeCandidates(target, rows = []) {
+  const known = new Set(target.map((item) => item.url));
+  for (const item of rows) {
+    if (!item?.url || known.has(item.url)) continue;
+    known.add(item.url);
+    target.push(item);
+  }
+}
+
+async function searchCandidates(query) {
   const encoded = encodeURIComponent(query);
   const engines = [
     `https://html.duckduckgo.com/html/?q=${encoded}`,
+    `https://lite.duckduckgo.com/lite/?q=${encoded}`,
     `https://www.bing.com/search?q=${encoded}&setlang=zh-Hans`
   ];
+  const found = [];
   for (const url of engines) {
     const result = await fetchText(url, { timeoutMs: 12000 });
-    if (result.ok && result.text.length > 1000) return result.text;
+    if (!result.ok || result.text.length < 300) continue;
+    const rows = extractSearchCandidates(result.text);
+    mergeCandidates(found, rows);
+    if (rows.some((item) => item.provider)) break;
   }
-  return '';
+  return found;
+}
+
+function companyQueryNames(company) {
+  const names = [company.name, ...(company.aliases || [])]
+    .map((item) => String(item || '').trim())
+    .filter(Boolean);
+  return [...new Set(names)].slice(0, 4);
 }
 
 async function discoverCandidates(company) {
   const direct = company.careerUrl ? [{ url: company.careerUrl, text: `${company.name} 官方招聘 用户提供`, provider: sourceProviderFromUrl(company.careerUrl) }] : [];
-  const queries = [
-    `"${company.name}" 2027 校园招聘 官方`,
-    `"${company.name}" 校园招聘 site:app.mokahr.com OR site:zhiye.com OR site:jobs.feishu.cn OR site:wecruit.hotjob.cn`
-  ];
   const found = [...direct];
   const seen = new Set(direct.map((item) => item.url));
+  const queries = [];
+  for (const name of companyQueryNames(company)) {
+    queries.push(
+      `"${name}" 2027 校园招聘 官方`,
+      `"${name}" 招聘 官网 careers`,
+      `"${name}" 校园招聘 site:app.mokahr.com`,
+      `"${name}" 校园招聘 site:zhiye.com`,
+      `"${name}" 校园招聘 site:jobs.feishu.cn`,
+      `"${name}" 校园招聘 site:wecruit.hotjob.cn`
+    );
+  }
   for (const query of queries) {
-    const html = await searchHtml(query);
-    for (const item of extractSearchCandidates(html)) {
+    const rows = await searchCandidates(query);
+    for (const item of rows) {
       if (seen.has(item.url)) continue;
       seen.add(item.url);
       found.push(item);
     }
     if (found.some((item) => item.provider)) break;
-    await new Promise((resolve) => setTimeout(resolve, 350));
+    if (found.length >= 8) break;
+    await new Promise((resolve) => setTimeout(resolve, 180));
   }
-  return found.slice(0, 12);
+  return found.slice(0, 16);
 }
 
-function companyIdentityEvidence(name, text = '') {
+function companyIdentityEvidence(company, text = '') {
   const hay = canonicalCompanyKey(text);
-  const key = canonicalCompanyKey(name);
-  if (key.length >= 3 && hay.includes(key)) return true;
-  return String(text).toLowerCase().includes(String(name).toLowerCase());
+  const candidates = [company.name, ...(company.aliases || [])].filter(Boolean);
+  for (const value of candidates) {
+    const key = canonicalCompanyKey(value);
+    if (key.length >= 3 && hay.includes(key)) return true;
+    if (String(text).toLowerCase().includes(String(value).toLowerCase())) return true;
+  }
+  return false;
 }
 
 function feishuWebsitePath(value = '', html = '') {
@@ -184,7 +215,7 @@ async function validateCandidate(company, candidate) {
   const pageText = cleanText(inspected.text).slice(0, 300000);
   const evidenceText = `${candidate.text || ''} ${pageText}`;
   if (!inspected.ok) return { state: 'candidate_found', provider, url: finalUrl, reason: `候选官网不可稳定访问：HTTP ${inspected.status || 0}` };
-  if (!companyIdentityEvidence(company.name, evidenceText)) return { state: 'candidate_rejected', provider, url: finalUrl, reason: '候选页面缺少足够的公司身份信息，未自动接入' };
+  if (!companyIdentityEvidence(company, evidenceText)) return { state: 'candidate_rejected', provider, url: finalUrl, reason: '候选页面缺少足够的公司身份信息，未自动接入' };
 
   if (provider === 'moka') {
     if (!/\/campus(?:-|_|\/)|campus[_-]?recruitment|campus_apply/i.test(new URL(finalUrl).pathname)) {
@@ -273,10 +304,10 @@ async function processCompany(company) {
   return { state: best?.state || 'not_found', provider: best?.provider || '', officialUrl: best?.url || '', reason: best?.reason || '未找到可自动接入来源', candidates: evaluated };
 }
 
-const queue = buildDiscoveryQueue(companyRegistry, audit, { limit: batchSize, now });
+const queue = buildDiscoveryQueue(companyRegistry, audit, { limit: batchSize, now, forceRetry });
 let sourcesAdded = 0;
 let errors = 0;
-console.log(`[source-discovery] queue=${queue.length} batch=${batchSize}`);
+console.log(`[source-discovery] queue=${queue.length} batch=${batchSize} forceRetry=${forceRetry}`);
 for (const company of queue) {
   if (sourceExists(company.name)) continue;
   let result;
@@ -302,7 +333,7 @@ for (const company of queue) {
 }
 
 audit.updatedAt = now.toISOString();
-audit.lastRun = { processed: queue.length, sourcesAdded, errors, batchSize };
+audit.lastRun = { processed: queue.length, sourcesAdded, errors, batchSize, forceRetry };
 await fs.writeFile(auditPath, `${JSON.stringify(audit, null, 2)}\n`, 'utf8');
 if (sourcesAdded) await fs.writeFile(sourcesPath, `${JSON.stringify(sources, null, 2)}\n`, 'utf8');
 

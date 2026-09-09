@@ -40,6 +40,7 @@ jobs:
         id: discovery
         env:
           SOURCE_DISCOVERY_BATCH: ${{ inputs.batch_size || '12' }}
+          SOURCE_DISCOVERY_FORCE_RETRY: ${{ github.event_name == 'push' && '1' || '0' }}
         run: npm run discover:sources
       - name: Rebuild generated coverage registries
         run: |
