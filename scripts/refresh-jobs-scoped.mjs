@@ -33,6 +33,9 @@ try {
   if (exitCode === 0) {
     exitCode = await runScript('scripts/job-discovery/refresh-university-jobs.mjs');
   }
+  if (exitCode === 0) {
+    exitCode = await runScript('scripts/enrich-job-compensation.mjs');
+  }
 } finally {
   await fs.writeFile(profilePath, original, 'utf8');
 }

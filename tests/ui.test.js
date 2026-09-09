@@ -5,6 +5,7 @@ import fs from 'node:fs';
 const appSource = fs.readFileSync(new URL('../src/app.js', import.meta.url), 'utf8');
 const bootstrapSource = fs.readFileSync(new URL('../src/bootstrap.js', import.meta.url), 'utf8');
 const imeGuardSource = fs.readFileSync(new URL('../src/ime-guard.js', import.meta.url), 'utf8');
+const enhancementSource = fs.readFileSync(new URL('../src/intelligence-enhancements.js', import.meta.url), 'utf8');
 
 test('AI_Job UI declares the discovery/intelligence boundary and links to the final board', () => {
   for (const text of ['岗位发现 / 情报库', '职责边界', 'S/A/B、匹配度、岗位方向、公司匹配度、是否值得投', 'campus-job-board-mu.vercel.app']) {
@@ -31,6 +32,15 @@ test('company radar is evidence-only and does not show company match score', () 
   assert.ok(appSource.includes('不做公司匹配度评级'));
   assert.equal(appSource.includes('bestTier'), false);
   assert.equal(appSource.includes('bestScore'), false);
+});
+
+test('salary and company history enhancements are loaded after the base app', () => {
+  assert.ok(bootstrapSource.includes("import './intelligence-enhancements.js'"));
+  assert.ok(bootstrapSource.indexOf("import './app.js'") < bootstrapSource.indexOf("import './intelligence-enhancements.js'"));
+  for (const text of ['月薪：', '年薪：', '历史风险 / 实习留用线索', '不自动生成公司黑名单分数']) {
+    assert.ok(enhancementSource.includes(text), `missing intelligence enhancement: ${text}`);
+  }
+  assert.equal(enhancementSource.includes('companyScore'), false);
 });
 
 test('company intake remains available for source discovery expansion', () => {

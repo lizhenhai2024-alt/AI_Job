@@ -11,6 +11,8 @@ on:
       - 'scripts/job-discovery/**'
       - 'scripts/refresh-jobs.mjs'
       - 'scripts/refresh-jobs-scoped.mjs'
+      - 'scripts/enrich-job-compensation.mjs'
+      - 'src/core/compensation.js'
       - 'config/search-profile.json'
       - 'config/official-sources.json'
       - 'config/university-sources.json'
