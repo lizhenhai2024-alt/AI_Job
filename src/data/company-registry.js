@@ -1,6 +1,7 @@
 import { companyLibrary } from './company-library.js';
 import { sourceRegistry } from './source-registry.js';
 import { companyRequests } from './company-requests.js';
+import { sourceDiscovery } from './source-discovery.js';
 
 const CITY_NAMES = ['北京','上海','广州','深圳','杭州','苏州','无锡','长沙','武汉','西安','成都','天津','南京','佛山','东莞','珠海','惠州','厦门','济南','青岛','昆明','长春','宁波','合肥','郑州','重庆','青岛','大连','沈阳','福州','南昌','南宁'];
 const CITY_SET = new Set(CITY_NAMES);
@@ -60,7 +61,7 @@ function findMatch(records, name) {
   }) || null;
 }
 
-export function buildCompanyRegistry(library = companyLibrary, sources = sourceRegistry, requests = companyRequests) {
+export function buildCompanyRegistry(library = companyLibrary, sources = sourceRegistry, requests = companyRequests, discoveries = sourceDiscovery) {
   const records = library
     .filter(isValidCompanyRecord)
     .map((record) => {
@@ -72,6 +73,10 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
         targetTracks: normalizeTracks(record.targetTracks || [], legacyCities),
         sourceProviders: [],
         sourceManaged: false,
+        sourceDiscoveryState: 'queued',
+        sourceDiscoveryReason: '',
+        sourceDiscoveryUrl: '',
+        sourceDiscoveryCheckedAt: '',
         userRequested: false
       };
     });
@@ -88,7 +93,11 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
         targetTracks: [],
         evidence: { count: 0 },
         sourceProviders: [],
-        sourceManaged: false
+        sourceManaged: false,
+        sourceDiscoveryState: 'queued',
+        sourceDiscoveryReason: '',
+        sourceDiscoveryUrl: '',
+        sourceDiscoveryCheckedAt: ''
       };
       records.push(record);
     }
@@ -114,15 +123,33 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
         evidence: { count: 0 },
         sourceProviders: [],
         sourceManaged: true,
+        sourceDiscoveryState: 'official_source',
+        sourceDiscoveryReason: '',
+        sourceDiscoveryUrl: '',
+        sourceDiscoveryCheckedAt: '',
         userRequested: false
       };
       records.push(record);
     }
     record.sourceManaged = true;
+    record.sourceDiscoveryState = 'official_source';
     if (!record.sourceProviders.includes(source.provider)) record.sourceProviders.push(source.provider);
     if (record.userRequested && /等待岗位刷新|官方源已存在/.test(record.intakeStatus || '')) {
       record.intakeStatus = '官方源已接入';
     }
+  }
+
+  for (const discovery of discoveries || []) {
+    if (!discovery?.name) continue;
+    const record = findMatch(records, discovery.name);
+    if (!record) continue;
+    record.sourceDiscoveryState = record.sourceManaged ? 'official_source' : (discovery.state || 'queued');
+    record.sourceDiscoveryProvider = discovery.provider || '';
+    record.sourceDiscoveryReason = discovery.reason || '';
+    record.sourceDiscoveryUrl = discovery.officialUrl || '';
+    record.sourceDiscoveryCheckedAt = discovery.lastCheckedAt || '';
+    record.sourceDiscoveryNextCheck = discovery.nextCheckAfter || '';
+    record.sourceDiscoveryAttempts = Number(discovery.attempts || 0);
   }
 
   return records;
