@@ -255,6 +255,19 @@
       "maxDetails": 120,
       "listConcurrency": 6,
       "detailConcurrency": 5
+    },
+    {
+      "company": "Decathlon",
+      "baseUrl": "https://wecruit.hotjob.cn",
+      "tenant": "64631fe6bef57c0907f133c4",
+      "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/school.html?projectCode=0&showProjectBanner=true",
+      "graduationYear": "2027",
+      "projectEvidence": "迪卡侬2027秋季招聘",
+      "pageSize": 100,
+      "maxPages": 100,
+      "maxDetails": 180,
+      "listConcurrency": 6,
+      "detailConcurrency": 5
     }
   ],
   "anker": {
