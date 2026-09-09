@@ -194,6 +194,42 @@ export const companyRiskHistory = [
         sourceUrl: 'https://www.nowcoder.com/discuss/601894434199924736'
       }
     ]
+  },
+  {
+    company: '得物App',
+    aliases: ['得物', '上海识装信息科技有限公司', 'Poizon'],
+    events: [
+      {
+        id: 'dewu-org-efficiency-2024-08',
+        type: 'layoff',
+        sentiment: 'negative',
+        date: '2024-08-07',
+        scope: '公司组织提效；低投入产出项目和岗位',
+        title: '全员信称启动组织提效，测算减少约 5% 岗位',
+        summary: '第一财经、澎湃等媒体报道得物全员信：公司决定精简低投入产出项目并启动组织提效，测算减少约 5% 岗位，同时表示将依法提供经济补偿。该历史事件不代表当前团队一定仍在缩编。',
+        evidenceLevel: 'B',
+        source: '第一财经（引用得物全员信）',
+        sourceUrl: 'https://www.yicai.com/news/102224056.html'
+      }
+    ]
+  },
+  {
+    company: '安克创新',
+    aliases: ['Anker', 'Anker Innovations', '安克创新科技股份有限公司'],
+    events: [
+      {
+        id: 'anker-org-adjustment-2025-12',
+        type: 'layoff',
+        sentiment: 'negative',
+        date: '2025-12-31',
+        scope: '业务线整合及部分人员调整',
+        title: '公司确认存在正常人员调整，并否认“裁员 30%”传闻',
+        summary: '界面新闻报道，安克创新回应称人员变动属于战略升级和效率提升下的正常调整，网络流传的“30%”比例严重不属实；公司未披露具体调整比例。因此只能确认存在人员调整，不能把“30%”作为事实。',
+        evidenceLevel: 'B',
+        source: '界面新闻（东方财富转载）',
+        sourceUrl: 'https://finance.eastmoney.com/a/202512313607079367.html'
+      }
+    ]
   }
 ];
 
