@@ -7,9 +7,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://www.alibabagroup.com/en-US/careers",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "爱奇艺",
@@ -18,9 +18,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://careers.iqiyi.com/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "顾家家居",
@@ -84,20 +84,20 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://career.meituan.com/web/campus?source=mtgw",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "名创优品",
     "status": "主投",
-    "state": "no_2027_evidence",
+    "state": "source_registered",
     "provider": "beisen",
     "officialUrl": "https://miniso.zhiye.com/campus",
-    "reason": "识别为北森，但当前页面/搜索证据没有明确2027校招信息",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-14T05:53:46.860Z"
+    "reason": "北森2027证据和标准API均通过（岗位约31）",
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "拼多多",
@@ -106,9 +106,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://careers.pddglobalhr.com/campus/grad",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "三一集团",
@@ -150,9 +150,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://careers.tencent.com/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "小红书",
@@ -161,9 +161,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://job.xiaohongshu.com/campus",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "致欧家居",
@@ -201,13 +201,13 @@ export const sourceDiscovery = [
   {
     "name": "Amazon",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    "officialUrl": "https://www.amazon.jobs/content/en/career-programs/university/undergraduate-non-tech",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "Baseus",
@@ -223,35 +223,35 @@ export const sourceDiscovery = [
   {
     "name": "Bilibili",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    "officialUrl": "https://www.bilibili.com/blackboard/join-list.html",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "Lazada",
     "status": "主投",
     "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "https://www.lazada.com/en/careers/",
+    "officialUrl": "https://www.lazada.cn/recruit",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "Shopee",
     "status": "主投",
-    "state": "not_found",
-    "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    "state": "candidate_found",
+    "provider": "moka",
+    "officialUrl": "https://app.mokahr.com/campus_apply/shopee/2962#/jobs",
+    "reason": "候选官网不可稳定访问：HTTP 0",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   },
   {
     "name": "Temu",
@@ -271,14 +271,14 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://lifeattiktok.com/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 2,
-    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
-    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+    "attempts": 3,
+    "lastCheckedAt": "2026-09-09T07:05:00.876Z",
+    "nextCheckAfter": "2026-09-12T07:05:00.876Z"
   }
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-09T05:53:46.860Z",
+  "updatedAt": "2026-09-09T07:05:00.876Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 1,
