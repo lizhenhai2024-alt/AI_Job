@@ -6,6 +6,7 @@ const DEFAULT_MAX_LINKS = 36;
 const RECRUIT_LINK_RX = /2027\s*届|27\s*届|校园招聘|校招|秋招|招聘简章|招聘公告|招聘信息|宣讲/i;
 const SKIP_LINK_RX = /登录|注册|联系我们|政策|手续|下载|新闻|通知公告|邀请函|生源信息|双选会邀请|招聘活动邀请/i;
 const NON_COMPANY_RX = /^(?:待核公司|就业办\d*|就业办|就业处|就业指导中心|就业创业中心|招生就业处|招生就业办|学生就业|学生工作处|人才服务中心|毕业生就业|关于做好|关于开展|关于组织|通知|公告|邀请函|感谢贵单位|尊敬的用人单位|各用人单位|各学院|各位同学|就业补贴|求职补贴|一次性求职补贴)$/i;
+const NON_COMPANY_START_RX = /^(?:就业办\d*|就业办|就业处|就业指导中心|就业创业中心|招生就业处|招生就业办|学生就业|学生工作处|人才服务中心|毕业生就业)(?:\b|\s|[:：]|\d|$)/i;
 const NON_COMPANY_CONTAINS_RX = /(?:就业创业工作|毕业生一次性求职补贴|求职补贴申报|校园招聘正式启动$|秋季学期校园招聘正式启动$|工商查询$)/i;
 const SCHOOL_ENTITY_RX = /(?:大学|学院|职业技术学校|职业学院|就业信息网|就业指导中心|就业创业中心)$/i;
 const NOTICE_TITLE_RX = /(?:关于做好|关于开展|关于组织|求职补贴|就业补贴|招聘活动邀请函|双选会邀请函|校园招聘正式启动$|秋季学期校园招聘正式启动$)/i;
@@ -67,7 +68,8 @@ function firstHeading(html = '') {
 
 function cleanCompanyCandidate(value = '') {
   return String(value)
-    .split(/\s+(?=招聘对象|招聘岗位|岗位要求|职位要求|学历要求|专业要求|工作地点|招聘人数|发布时间)/i)[0]
+    .replace(/^(?:宣讲单位|招聘单位|用人单位|单位名称|公司名称)[:：]\s*/i, '')
+    .split(/\s+(?=招聘对象|招聘岗位|岗位要求|职位要求|学历要求|专业要求|工作地点|招聘人数|发布时间|宣讲单位|招聘单位|用人单位|单位名称|公司名称)/i)[0]
     .replace(/\s*(?:工商查询|查看工商|企业查询|单位详情)\s*$/i, '')
     .replace(/^[【〖\[]+|[】〗\]]+$/g, '')
     .replace(/[：:·丨|\-–—]+$/g, '')
@@ -78,7 +80,7 @@ function cleanCompanyCandidate(value = '') {
 export function isPlausibleUniversityCompany(company = '', source = {}) {
   const value = cleanCompanyCandidate(company);
   if (!value || value.length < 2 || value.length > 60) return false;
-  if (NON_COMPANY_RX.test(value) || NON_COMPANY_CONTAINS_RX.test(value)) return false;
+  if (NON_COMPANY_RX.test(value) || NON_COMPANY_START_RX.test(value) || NON_COMPANY_CONTAINS_RX.test(value)) return false;
   if (!/[\p{L}]/u.test(value)) return false;
   if (source.school && value.replace(/\s+/g, '') === String(source.school).replace(/\s+/g, '')) return false;
   if (SCHOOL_ENTITY_RX.test(value) && !/(银行|公司|集团|科技|股份|有限|事务所|研究院|医院|出版社)/.test(value)) return false;
