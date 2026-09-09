@@ -9,6 +9,7 @@ const CHANNELS = {
 
 const MINOR_LANGUAGE_RX = /日语|日文|德语|德文|法语|法文|西班牙语|西语|葡萄牙语|葡语|俄语|韩语|韩文|意大利语|意语|阿拉伯语|泰语|越南语|印尼语|印度尼西亚语|马来语|土耳其语|波兰语|荷兰语|瑞典语|挪威语|丹麦语|芬兰语|希腊语|捷克语|匈牙利语|罗马尼亚语|乌克兰语|希伯来语|第二外语|小语种/i;
 const MANDATORY_RX = /必须|要求|需|须|应|具备|熟练|精通|流利|听说读写|工作语言|母语|native|business\s*level|professional\s*proficiency|\bN[1-5]\b|JLPT|TOPIK|DELF|DALF|DELE|TestDaF|Goethe|\b[BC][12]\b/i;
+const COMPANY_OFFICIAL_RX = /公司官方|企业官方|官方招聘官网|官方校招官网|官方\s*ats|官方招聘接口|官方职位|官网职位|官网直投/i;
 
 export function classifySourceChannel(job = {}) {
   if (job.sourceChannel && CHANNELS[job.sourceChannel]) return job.sourceChannel;
@@ -82,9 +83,15 @@ function explicitSourceCount(job = {}) {
   return Math.max(hosts.size, labels.size);
 }
 
+function isCompanyOfficialSource(job = {}) {
+  if (job.sourceType === 'official') return true;
+  if (job.sourceType === 'secondary') return false;
+  return COMPANY_OFFICIAL_RX.test(`${job.source || ''} ${job.verification || ''}`);
+}
+
 export function provenanceSummary(job = {}) {
   const evidence = sourceEvidence(job);
-  const official = job.sourceType === 'official' || /官方/.test(String(job.verification || ''));
+  const official = isCompanyOfficialSource(job);
   const crossVerified = explicitSourceCount(job) >= 2;
   return {
     channel: classifySourceChannel(job),

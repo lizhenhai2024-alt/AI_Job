@@ -18,6 +18,19 @@ test('university employment notices are classified as university channel', () =>
   assert.equal(classifySourceChannel(job), 'university');
 });
 
+test('official university publication remains secondary until company official source is found', () => {
+  const result = provenanceSummary({
+    source: '北京外国语大学就业创业网',
+    sourceType: 'secondary',
+    sourceChannel: 'university',
+    verification: '高校就业信息网官方发布 · 待公司官网复核',
+    sourceUrl: 'https://jyzd.bfsu.edu.cn/front/zpxx.jspa?tid=1'
+  });
+  assert.equal(result.official, false);
+  assert.equal(result.crossVerified, false);
+  assert.equal(result.verificationLabel, '待官网复核');
+});
+
 test('nowcoder and maimai discovery remains a referral/discovery channel unless official evidence upgrades it', () => {
   assert.equal(classifySourceChannel({ source: '牛客公开职位', sourceUrl: 'https://www.nowcoder.com/jobs/detail/1' }), 'referral');
   assert.equal(classifySourceChannel({ source: '脉脉认证内推帖', sourceUrl: 'https://maimai.cn/article/1' }), 'referral');
