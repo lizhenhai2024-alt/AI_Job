@@ -16,8 +16,5 @@ export const companySourceSeeds = [
   { company: 'Bilibili', url: 'https://www.bilibili.com/blackboard/join-list.html', note: '哔哩哔哩官方招聘职位页', verifiedAt: '2026-09-09' },
   { company: '致欧家居', url: 'https://songmicshome.jobs.feishu.cn/852372', note: '致欧家居2027校招官方飞书入口', verifiedAt: '2026-09-09' },
   { company: 'Shopee', url: 'https://app.mokahr.com/campus_apply/shopee/2962#/jobs', note: 'Shopee研发中心2027校招官方Moka入口', verifiedAt: '2026-09-09' },
-  { company: '海大集团', url: 'https://haid1.zhiye.com/campus/jobs', note: '海大集团2027全球校园招聘官方北森入口', verifiedAt: '2026-09-09' },
-  { company: '欣旺达', url: 'https://sunwodacampus.zhiye.com/campus/jobs', note: '欣旺达2027全球校园招聘官方北森入口', verifiedAt: '2026-09-09' },
-  { company: '三一集团', url: 'https://sanycampus.zhiye.com/campus/jobs', note: '三一集团2027校园招聘官方北森入口', verifiedAt: '2026-09-09' },
-  { company: 'BIGO', url: 'https://campus.bigo.sg/campus_apply/bigo/1018/', note: 'BIGO官方校园招聘入口（Moka品牌域名）', verifiedAt: '2026-09-09' }
+  { company: '三一集团', url: 'https://sanycampus.zhiye.com/campus/jobs', note: '三一集团2027校园招聘官方北森入口', verifiedAt: '2026-09-09' }
 ];
