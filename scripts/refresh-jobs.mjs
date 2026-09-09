@@ -11,7 +11,7 @@ import { searchEcoflowJobs } from './job-discovery/ecoflow.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
 import { shouldExcludeByPolicy, jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
 import { buildSourceHealth } from './job-discovery/source-health.mjs';
-import { curateDiscoveredJobs } from './job-discovery/granularity.mjs';
+import { curateDiscoveredJobs, curatedOfficialGranularityJobs } from './job-discovery/granularity.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const config = JSON.parse(await fs.readFile(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -130,9 +130,11 @@ try {
 }
 
 const discoveredJobs = curateDiscoveredJobs(sourceResults.flatMap((r) => r.jobs || []));
-const granularityExcluded = discoveredJobs.filter((job) => job.excludeFromLiveBoard).length;
-const policyStats = countPolicyReasons(discoveredJobs.filter((job) => !job.excludeFromLiveBoard));
-const freshJobs = discoveredJobs
+const verifiedConcreteJobs = curatedOfficialGranularityJobs();
+const candidateJobs = [...discoveredJobs, ...verifiedConcreteJobs];
+const granularityExcluded = candidateJobs.filter((job) => job.excludeFromLiveBoard).length;
+const policyStats = countPolicyReasons(candidateJobs.filter((job) => !job.excludeFromLiveBoard));
+const freshJobs = candidateJobs
   .filter((job) => !job.excludeFromLiveBoard)
   .filter((job) => !shouldExcludeByPolicy(job))
   .map(enrichCandidateFit);
@@ -162,14 +164,14 @@ const sourceHealth = buildSourceHealth(sourceStats, officialSources);
 const updatedAt = new Date().toISOString();
 const meta = {
   updatedAt,
-  source: '多源：公司官方招聘官网/API + 牛客公开职位',
+  source: '多源：公司官方招聘官网/API + 牛客公开职位 + 官网核验具体岗位',
   mode: '官方多ATS源优先去重 + 官网粒度校正 + JD专业/技术/小语种硬门槛过滤 + 英语专业适配信号 + 前端画像 S/A/B 精排',
-  stats: { sources: sourceStats, sourceHealth, granularityExcluded, policyExcluded: policyStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '岗位名、届别/专业要求与岗位方向分层处理；高置信度多岗位合并记录在完成官网逐岗位核验前不进入机会看板。硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书、必须小语种。小语种仅为优先/加分项，或英语与小语种明确任选其一时保留。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。'
+  stats: { sources: sourceStats, sourceHealth, verifiedConcreteJobs: verifiedConcreteJobs.length, granularityExcluded, policyExcluded: policyStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
+  note: '岗位名、届别/专业要求与岗位方向分层处理；已官网核验的具体岗位作为确定性记录进入岗位池，不依赖二手源每次都能重新抓到；高置信度多岗位合并记录在完成官网逐岗位核验前不进入机会看板。硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书、必须小语种。小语种仅为优先/加分项，或英语与小语种明确任选其一时保留。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
 await fs.writeFile(sourceHealthPath, healthModule(sourceHealth, updatedAt), 'utf8');
 console.log(`[job-refresh] sourceHealth=${sourceHealth.healthy}/${sourceHealth.total} healthy; attention=${sourceHealth.attention}`);
-console.log(`[job-refresh] granularityExcluded=${granularityExcluded} policyExcluded=${JSON.stringify(policyStats)}`);
+console.log(`[job-refresh] verifiedConcreteJobs=${verifiedConcreteJobs.length} granularityExcluded=${granularityExcluded} policyExcluded=${JSON.stringify(policyStats)}`);
 console.log(`[job-refresh] wrote ${merged.length} jobs across ${companies.size} companies; retainedSeeds=${retainedSeeds.length}.`);
