@@ -117,24 +117,15 @@ function has2027Evidence(source = {}, row = {}, detail = {}) {
   return CAMPUS_2027_RX.test(evidence) || SHORT_2027_RX.test(evidence);
 }
 
-function isListCandidate(source = {}, row = {}, profile = {}) {
+function isListCandidate(source = {}, row = {}) {
   const title = clean(row.postName || '');
   if (!title || INTERNSHIP_RX.test(`${title} ${row.workTypeStr || ''} ${row.projectName || ''}`)) return false;
   if (PURE_SALES_RX.test(title) && !NON_PURE_SALES_RX.test(title)) return false;
   if (!has2027Evidence(source, row, {})) return false;
-  const roleFamily = roleFamilyFrom(title);
-  const rough = {
-    title,
-    company: clean(row.company || ''),
-    city: cityFrom(row.workPlaceStr || row.department || ''),
-    graduationYear: '2027',
-    roleFamily,
-    skills: detectSkills(`${title} ${row.postTypeName || ''} ${row.projectName || ''} ${source.projectEvidence || ''}`),
-    _searchText: [title, row.postTypeName, row.company, row.department, row.projectName, source.projectEvidence].filter(Boolean).join(' '),
-    deadline: normalizeDate(row.endDate),
-    closed: false
-  };
-  return shouldKeep(rough, profile, new Date());
+  // Do not apply relevance scoring before the full JD is fetched. Generic campaign
+  // titles such as “线上运营主管” can look weak in list metadata but become strong
+  // matches once duties, requirements and language/major evidence are available.
+  return true;
 }
 
 export function parseHotjobDetail(source, row = {}, detail = {}, now = new Date()) {
@@ -234,7 +225,7 @@ export async function searchHotjobJobs(profile, sources = [], { fetcher = fetch,
       const rows = [...rowMap.values()];
       portalListed = rows.length;
       listed += rows.length;
-      const candidates = rows.filter((row) => isListCandidate(source, row, profile)).slice(0, Number(source.maxDetails || 120));
+      const candidates = rows.filter((row) => isListCandidate(source, row)).slice(0, Number(source.maxDetails || 120));
       const normalized = await mapLimit(candidates, Number(source.detailConcurrency || concurrency), async (row) => {
         try {
           const detail = await fetchDetail(fetcher, source, row.postId);
