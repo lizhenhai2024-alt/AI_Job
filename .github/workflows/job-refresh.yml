@@ -47,15 +47,8 @@ jobs:
       - name: Commit refreshed job pool and source health
         shell: bash
         run: |
-          if git diff --quiet -- src/data/live-jobs.js src/data/source-health.js; then
+          if git diff --quiet -- src/data/live-jobs.js src/data/source-health.js package-lock.json; then
             echo "No job/source-health data changes."
-            exit 0
-          fi
-
-          git fetch origin main
-          if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
-            echo "main advanced while this refresh was running; skip stale data push."
-            echo "The newer main push will run a fresh discovery pass with the latest configuration."
             exit 0
           fi
 
@@ -63,4 +56,21 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add src/data/live-jobs.js src/data/source-health.js package-lock.json
           git commit -m "data: refresh 2027 campus jobs and source health"
+
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
+            changed_paths="$(git diff --name-only "$GITHUB_SHA"..origin/main)"
+            echo "main advanced while refresh was running:"
+            echo "$changed_paths"
+
+            if echo "$changed_paths" | grep -Eq '^(.github/workflows/job-refresh\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
+              echo "Refresh inputs or generated data changed on newer main; skip stale data push."
+              echo "A newer refresh run should own the next snapshot."
+              exit 0
+            fi
+
+            echo "Only unrelated files changed; rebase refreshed data onto latest main."
+            git rebase origin/main
+          fi
+
           git push
