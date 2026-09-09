@@ -26,6 +26,17 @@ test('parses yuan monthly range and uses 12 salary months only as an explicit es
   assert.match(result.annualDisplay, /按12薪推算/);
 });
 
+test('parses structured JSON-LD monthly salary object', () => {
+  const result = normalizeCompensation({
+    salary: { currency: 'CNY', value: { minValue: 18000, maxValue: 26000, unitText: 'MONTH' } },
+    sourceType: 'official'
+  });
+  assert.equal(result.monthlyMin, 18000);
+  assert.equal(result.monthlyMax, 26000);
+  assert.equal(result.annualMin, 216000);
+  assert.equal(result.annualMax, 312000);
+});
+
 test('parses explicit annual package and derives monthly equivalent as estimate', () => {
   const result = normalizeCompensation({ salary: '年薪 24-36万', sourceType: 'official' });
   assert.equal(result.annualMin, 240000);
