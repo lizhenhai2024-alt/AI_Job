@@ -1,3 +1,4 @@
+// Normalize scraped campus-recruitment records to the concrete job granularity verified from official sources.
 const ROLE_WORDS = /运营|销售|跟单|采购|物流|市场|营销|财务|会计|人力|招聘|计划|供应链|客服|商务|项目|产品|品牌|管培|经理|专员|工程师|管理/;
 const MAJOR_WORDS = /外语|国贸|国际经济与贸易|英语|翻译|小语种|机械|材料|经管|工商管理|市场营销|专业|学科|类/;
 const COHORT_WORDS = /20\d{2}\s*届|校招|应届/;
