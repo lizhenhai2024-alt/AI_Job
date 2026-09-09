@@ -1,6 +1,7 @@
 import { demoJobs } from './data/jobs.js';
 import { liveJobs, discoveryMeta } from './data/live-jobs.js';
 import { defaultProfile } from './data/profile.js';
+import { companyLibrary, companyLibraryMeta } from './data/company-library.js';
 import { rankJobs } from './core/matcher.js';
 import { loadProfile, saveProfile, loadStatuses, saveStatuses } from './core/storage.js';
 
@@ -10,7 +11,7 @@ const baseJobs = liveJobs.length ? liveJobs : demoJobs;
 
 const state = {
   tab: 'radar', profile: loadProfile(defaultProfile), statuses: loadStatuses(),
-  filters: { keyword: '', city: '全部', role: '全部', tier: '全部', minScore: '0' }, selectedJobId: null
+  filters: { keyword: '', city: '全部', role: '全部', tier: '全部', minScore: '0', company: '' }, selectedJobId: null
 };
 
 function esc(value = '') {
@@ -24,6 +25,15 @@ function fmtDateTime(value) {
   return new Intl.DateTimeFormat('zh-CN', { month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit', hour12:false }).format(d);
 }
 
+function companyKey(value = '') {
+  return String(value).replace(/[（(].*?[）)]/g, '').replace(/[\s·,.，、股份有限公司集团控股]/g, '').toLowerCase();
+}
+
+function companyMatches(left, right) {
+  const a = companyKey(left); const b = companyKey(right);
+  return Boolean(a && b && (a === b || a.includes(b) || b.includes(a)));
+}
+
 function jobsWithState() {
   return rankJobs(baseJobs.map((job) => ({ ...job, status: state.statuses[job.id] || job.status || '推荐' })), state.profile);
 }
@@ -33,6 +43,7 @@ function currentFilteredJobs() {
   return jobsWithState().filter((job) => {
     const text = [job.company, job.title, job.city, ...(job.roleFamily || []), ...(job.skills || [])].join(' ').toLowerCase();
     return (!keyword || text.includes(keyword))
+      && (!state.filters.company || companyMatches(job.company, state.filters.company))
       && (state.filters.city === '全部' || job.city === state.filters.city)
       && (state.filters.role === '全部' || (job.roleFamily || []).includes(state.filters.role))
       && (state.filters.tier === '全部' || job.match.tier === state.filters.tier)
@@ -56,8 +67,9 @@ function statData(jobs) {
 }
 
 function companyClues() {
+  const ranked = jobsWithState();
   const map = new Map();
-  for (const job of jobsWithState()) {
+  for (const job of ranked) {
     const item = map.get(job.company) || { company: job.company, jobs: [], cities: new Set(), roles: new Set(), bestScore: 0, bestTier: 'B', verification: job.verification || '来源待核' };
     item.jobs.push(job);
     item.cities.add(job.city);
@@ -65,7 +77,30 @@ function companyClues() {
     if (job.match.score > item.bestScore) { item.bestScore = job.match.score; item.bestTier = job.match.tier; }
     map.set(job.company, item);
   }
-  return [...map.values()].map((item) => ({ ...item, cities: [...item.cities], roles: [...item.roles] })).sort((a,b) => b.bestScore - a.bestScore || b.jobs.length - a.jobs.length);
+  const discovered = [...map.values()].map((item) => ({ ...item, cities: [...item.cities], roles: [...item.roles] }));
+  const libraryCards = companyLibrary.map((company) => {
+    const linked = discovered.filter((item) => companyMatches(item.company, company.name) || (company.aliases || []).some((alias) => companyMatches(item.company, alias)));
+    const jobs = linked.flatMap((item) => item.jobs);
+    const cities = [...new Set([...company.cities, ...linked.flatMap((item) => item.cities)])].filter(Boolean);
+    const roles = [...new Set([...company.targetTracks, ...linked.flatMap((item) => item.roles)])].filter(Boolean);
+    const best = jobs.sort((a, b) => b.match.score - a.match.score)[0];
+    return {
+      ...company, jobs, cities, roles,
+      discoveredCount: jobs.length,
+      bestScore: best?.match.score ?? null,
+      bestTier: best?.match.tier ?? null,
+      verification: jobs.length ? (best?.verification || '自动岗位池来源待核') : '尚无自动岗位池关联',
+      analysis: company.status === '主投'
+        ? '已进入主投池；公司状态不代替岗位核验，优先查看已关联的真实岗位。'
+        : company.status === '风险'
+          ? '风险观察：投递前需单独核验招聘稳定性与岗位真实性。'
+          : '纳入候选监测；发现真实岗位后再按个人画像参与排序。'
+    };
+  });
+  const unmatched = discovered.filter((item) => !libraryCards.some((company) => companyMatches(item.company, company.name) || (company.aliases || []).some((alias) => companyMatches(item.company, alias))))
+    .map((item) => ({ ...item, status: '待归档', evidence: { count: 0, roles: [], cities: [], statuses: [], nextSteps: [] }, targetTracks: [], industries: [], analysis: '自动发现的新公司，尚未进入人工公司库。' }));
+  const rank = { '主投': 4, '观察': 3, '风险': 2, '移出': 1, '待归档': 0 };
+  return [...libraryCards, ...unmatched].sort((a, b) => (rank[b.status] - rank[a.status]) || (b.bestScore || 0) - (a.bestScore || 0) || b.discoveredCount - a.discoveredCount);
 }
 
 function shell(content) {
@@ -138,13 +173,15 @@ function renderJobCard(job) {
 
 function renderCompanies() {
   const companies = companyClues();
-  return `<section class="hero"><div><h1>公司雷达</h1><p>先发现正在招 2027 届的公司，再看其中哪些岗位真正适合你。</p></div>
-    <div class="demo-note live-note"><strong>${companies.length} 家候选公司</strong><br>来源：${esc(discoveryMeta.source || '自动岗位池')}<br>最近更新：${esc(fmtDateTime(discoveryMeta.updatedAt))}</div></section>
+  const counts = ['主投','观察','风险','移出'].map((status) => `${status} ${companies.filter((item) => item.status === status).length}`).join(' · ');
+  return `<section class="hero"><div><h1>公司雷达</h1><p>公司库与实时岗位池分离：公司状态用于监测，只有关联到真实岗位才进入个人匹配排名。</p></div>
+    <div class="demo-note live-note"><strong>${companies.length} 家候选公司</strong><br>${esc(counts)}<br>公司库更新：${esc(companyLibraryMeta.generatedAt)} · 岗位池更新：${esc(fmtDateTime(discoveryMeta.updatedAt))}</div></section>
     <section class="company-grid">${companies.map((c) => `<article class="company-card">
-      <div class="company-card-head"><div><div class="company">候选公司</div><h2>${esc(c.company)}</h2></div><div class="company-score">${c.bestScore}<small>${esc(c.bestTier)}档最高匹配</small></div></div>
-      <div class="meta"><span>岗位 ${c.jobs.length}</span><span>📍 ${esc(c.cities.join('、') || '待核')}</span><span>${esc(c.verification)}</span></div>
-      <div class="tags">${c.roles.slice(0,6).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
-      <div class="company-actions"><button class="btn primary" data-company="${esc(c.company)}">查看该公司岗位</button></div>
+      <div class="company-card-head"><div><div class="company">${esc(c.status || '待归档')} · ${c.restoredCandidate ? '已恢复候选' : '公司库'}</div><h2>${esc(c.name || c.company)}</h2></div><div class="company-score">${c.bestScore ?? '—'}<small>${c.bestTier ? `${esc(c.bestTier)}档最高匹配` : '暂无实时评分'}</small></div></div>
+      <div class="meta"><span>真实岗位 ${c.discoveredCount ?? c.jobs.length}</span><span>已启动证据 ${c.evidence?.count || 0} 条</span><span>📍 ${esc(c.cities.slice(0,3).join('、') || '待核')}</span></div>
+      <div class="tags"><span class="tag">${esc(c.industries?.[0] || '待分类')}</span>${c.roles.slice(0,5).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
+      <p class="company-analysis">${esc(c.analysis || '')}</p>
+      <div class="company-actions">${c.discoveredCount ? `<button class="btn primary" data-company="${esc(c.name || c.company)}">查看 ${c.discoveredCount} 个真实岗位</button>` : '<span class="hint">暂未关联实时岗位，持续监测中</span>'}</div>
     </article>`).join('') || '<div class="empty">尚未发现公司。</div>'}</section>`;
 }
 
@@ -217,7 +254,7 @@ app.addEventListener('click', (event) => {
   const tab = event.target.closest('[data-tab]')?.dataset.tab;
   if (tab) { state.tab = tab; state.selectedJobId = null; render(); return; }
   const company = event.target.closest('[data-company]')?.dataset.company;
-  if (company) { state.filters.keyword = company; state.filters.city = '全部'; state.filters.role = '全部'; state.filters.tier = '全部'; state.filters.minScore = '0'; state.tab = 'radar'; render(); return; }
+  if (company) { state.filters.company = company; state.filters.keyword = ''; state.filters.city = '全部'; state.filters.role = '全部'; state.filters.tier = '全部'; state.filters.minScore = '0'; state.tab = 'radar'; render(); return; }
   const detail = event.target.closest('[data-detail]')?.dataset.detail;
   if (detail) { state.selectedJobId = detail; render(); return; }
   if (event.target.closest('[data-close-modal]')) { state.selectedJobId = null; render(); return; }
