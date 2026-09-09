@@ -16,6 +16,10 @@ on:
       - 'config/university-sources.json'
       - 'package.json'
 
+concurrency:
+  group: refresh-campus-jobs-main
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
