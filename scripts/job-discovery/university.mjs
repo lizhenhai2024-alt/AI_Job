@@ -67,6 +67,7 @@ function firstHeading(html = '') {
 
 function cleanCompanyCandidate(value = '') {
   return String(value)
+    .split(/\s+(?=招聘对象|招聘岗位|岗位要求|职位要求|学历要求|专业要求|工作地点|招聘人数|发布时间)/i)[0]
     .replace(/\s*(?:工商查询|查看工商|企业查询|单位详情)\s*$/i, '')
     .replace(/^[【〖\[]+|[】〗\]]+$/g, '')
     .replace(/[：:·丨|\-–—]+$/g, '')
@@ -78,7 +79,7 @@ export function isPlausibleUniversityCompany(company = '', source = {}) {
   const value = cleanCompanyCandidate(company);
   if (!value || value.length < 2 || value.length > 60) return false;
   if (NON_COMPANY_RX.test(value) || NON_COMPANY_CONTAINS_RX.test(value)) return false;
-  if (/^[\d\W_]+$/u.test(value)) return false;
+  if (!/[\p{L}]/u.test(value)) return false;
   if (source.school && value.replace(/\s+/g, '') === String(source.school).replace(/\s+/g, '')) return false;
   if (SCHOOL_ENTITY_RX.test(value) && !/(银行|公司|集团|科技|股份|有限|事务所|研究院|医院|出版社)/.test(value)) return false;
   if (/^(?:感谢|尊敬|关于|各位|各用人单位|各学院)/.test(value)) return false;
@@ -86,7 +87,7 @@ export function isPlausibleUniversityCompany(company = '', source = {}) {
 }
 
 function extractCompany(title = '', text = '', source = {}) {
-  const explicit = String(text).match(/(?:宣讲单位|招聘单位|用人单位|单位名称|公司名称)[:：]\s*([^\n。；;]{2,60})/i)?.[1]?.trim();
+  const explicit = String(text).match(/(?:宣讲单位|招聘单位|用人单位|单位名称|公司名称)[:：]\s*([^\n。；;]{2,100})/i)?.[1]?.trim();
   if (explicit) {
     const cleaned = cleanCompanyCandidate(explicit);
     if (isPlausibleUniversityCompany(cleaned, source)) return cleaned;
