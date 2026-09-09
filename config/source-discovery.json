@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T15:40:07.371Z",
+  "updatedAt": "2026-09-09T17:50:12.293Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -29,39 +29,21 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         },
         {
-          "url": "https://www.lazada.com/en/careers/job-search/?section=graduate",
+          "url": "https://campus-talent.alibaba.com/campus/business/detail?circleCode=60005",
           "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+          "state": "candidate_rejected",
+          "reason": "候选页面缺少足够的公司身份信息，未自动接入"
         },
         {
           "url": "https://aidc-jobs.alibaba.com/home",
           "provider": "",
           "state": "candidate_rejected",
           "reason": "候选页面缺少足够的公司身份信息，未自动接入"
-        },
-        {
-          "url": "https://www.lazada.com/en/graduate-intern/",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://www.lazada.com/en/careers/job-search/",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://campus-talent.alibaba.com/campus/business/detail?circleCode=60005",
-          "provider": "",
-          "state": "candidate_rejected",
-          "reason": "候选页面缺少足够的公司身份信息，未自动接入"
         }
       ],
-      "attempts": 6,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 7,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "兰亭集势": {
       "name": "兰亭集势",
@@ -100,35 +82,11 @@
           "provider": "",
           "state": "needs_adapter",
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://careers.tencent.com/campusrecruit.html",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://careers.tencent.com/zh-cn/faqdetail.html",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://join.qq.com/?referqh_sy",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://join.qq.com/post.html",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 6,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 7,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "aliexpress": {
       "name": "AliExpress",
@@ -157,9 +115,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 6,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 7,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "阿里巴巴": {
       "name": "阿里巴巴",
@@ -176,9 +134,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 6,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 7,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "爱奇艺": {
       "name": "爱奇艺",
@@ -195,9 +153,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 6,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 7,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "顾家家居": {
       "name": "顾家家居",
@@ -262,9 +220,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 6,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 7,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "名创优品": {
       "name": "名创优品",
@@ -300,9 +258,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 5,
-      "lastCheckedAt": "2026-09-09T12:58:12.641Z",
-      "nextCheckAfter": "2026-09-12T12:58:12.641Z"
+      "attempts": 6,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "水羊御泥坊": {
       "name": "水羊集团御泥坊",
@@ -319,21 +277,21 @@
     "小红书": {
       "name": "小红书",
       "status": "主投",
-      "state": "candidate_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "https://campus.xiaohongshu.com/",
-      "reason": "候选官网不可稳定访问：HTTP 0",
+      "officialUrl": "https://job.xiaohongshu.com/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
       "candidates": [
         {
-          "url": "https://campus.xiaohongshu.com/",
+          "url": "https://job.xiaohongshu.com/campus",
           "provider": "",
-          "state": "candidate_found",
-          "reason": "候选官网不可稳定访问：HTTP 0"
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 5,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 6,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "致欧家居": {
       "name": "致欧家居",
@@ -369,9 +327,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 5,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 6,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "amazon": {
       "name": "Amazon",
@@ -388,9 +346,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 5,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 6,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "baseus": {
       "name": "Baseus",
@@ -419,9 +377,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 5,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 6,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "shopee": {
       "name": "Shopee",
@@ -438,9 +396,9 @@
           "reason": "候选官网不可稳定访问：HTTP 0"
         }
       ],
-      "attempts": 5,
-      "lastCheckedAt": "2026-09-09T15:40:07.371Z",
-      "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+      "attempts": 6,
+      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
+      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
     },
     "temu": {
       "name": "Temu",
@@ -552,6 +510,6 @@
     "sourcesAdded": 0,
     "errors": 0,
     "batchSize": 12,
-    "forceRetry": true
+    "forceRetry": false
   }
 }
