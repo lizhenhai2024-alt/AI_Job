@@ -7,6 +7,7 @@ import {
   requiresMandatoryStem,
   requiresHardTechnicalAbility,
   requiresProfessionalCertificate,
+  requiresMandatoryMinorLanguage,
   analyzeMajorOrientation,
   analyzeResponsibilityOrientation,
   isTechnicalDutyDominant,
@@ -82,6 +83,29 @@ test('preferred technical majors are retained and downgraded rather than exclude
   assert.equal(major.verdict, '降权');
   assert.equal(shouldExcludeByPolicy(job), false);
   assert.ok(fit.warnings.includes('技术专业背景更占优'));
+});
+
+test('mandatory minor languages are excluded but preferred or English-alternative languages are retained', () => {
+  const hardJobs = [
+    { title: '海外运营', _searchText: '任职要求：日语N1，听说读写熟练，可作为工作语言。' },
+    { title: '品牌营销', _searchText: '职位要求：必须具备德语B2及以上能力。' },
+    { title: '法语本地化运营', _searchText: '任职要求：本科及以上学历。' }
+  ];
+  for (const job of hardJobs) {
+    assert.equal(requiresMandatoryMinorLanguage(job), true, `${job.title} ${job._searchText}`);
+    assert.equal(shouldExcludeByPolicy(job), true, `${job.title} ${job._searchText}`);
+    assert.ok(analyzeCandidateFit(job).hardRequirements.includes('小语种为硬要求'));
+  }
+
+  const retained = [
+    { title: '海外运营', _searchText: '任职要求：英语可作为工作语言；日语能力优先。' },
+    { title: '国际市场', _searchText: '任职要求：英语或日语可作为工作语言，任一即可。' },
+    { title: '品牌运营', _searchText: '任职要求：英语流利；会德语、法语者加分。' }
+  ];
+  for (const job of retained) {
+    assert.equal(requiresMandatoryMinorLanguage(job), false, `${job.title} ${job._searchText}`);
+    assert.equal(shouldExcludeByPolicy(job), false, `${job.title} ${job._searchText}`);
+  }
 });
 
 test('market and business major list is a disadvantage when it excludes language and broad social majors', () => {
