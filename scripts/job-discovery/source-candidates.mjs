@@ -94,14 +94,15 @@ export function buildDiscoveryQueue(records = [], audit = {}, { limit = 12, now 
     if (!key) continue;
     const previous = audit?.companies?.[key] || {};
     const dueAt = previous.nextCheckAfter ? new Date(previous.nextCheckAfter).getTime() : 0;
-    if (!forceRetry && dueAt && Number.isFinite(dueAt) && dueAt > current) continue;
+    if (!forceRetry && dueAt && Number.isFinite(dueAt) && dueAt > current && !previous.officialUrl) continue;
     const evidenceCount = Number(record.evidence?.count || 0);
-    const priority = (STATUS_WEIGHT[record.status] || 0) + (record.userRequested ? 30 : 0) + Math.min(evidenceCount, 10) * 2 + (!previous.lastCheckedAt ? 20 : 0);
+    const hasSeed = Boolean(record.careerUrl || previous.officialUrl);
+    const priority = (STATUS_WEIGHT[record.status] || 0) + (record.userRequested ? 30 : 0) + (hasSeed ? 40 : 0) + Math.min(evidenceCount, 10) * 2 + (!previous.lastCheckedAt ? 20 : 0);
     rows.push({
       key,
       name: record.name,
       status: record.status,
-      careerUrl: record.careerUrl || '',
+      careerUrl: record.careerUrl || previous.officialUrl || '',
       aliases: [...(record.aliases || [])],
       targetTracks: [...(record.targetTracks || [])],
       evidenceCount,
