@@ -27,15 +27,30 @@ test('social announcements are classified separately from job-level ATS sources'
   assert.equal(classifySourceChannel({ source: '公司官方公众号校招公告', sourceUrl: 'https://mp.weixin.qq.com/s/abc' }), 'social_official');
 });
 
-test('cross-source evidence is preserved without producing a fit score', () => {
+test('cross-source evidence requires distinct origins and does not produce a fit score', () => {
   const result = provenanceSummary({
-    source: '高校就业网', sourceType: 'secondary', sourceUrl: 'https://example.edu.cn/a',
-    sourceEvidence: ['https://company.example/campus/1', 'https://example.edu.cn/a']
+    source: '高校就业网', sourceType: 'secondary', sourceUrl: 'https://career.example.edu.cn/a',
+    sourceEvidence: [
+      { label: '高校就业网详情', url: 'https://career.example.edu.cn/a' },
+      { label: '公司官方职位', url: 'https://jobs.company.example/campus/1' }
+    ]
   });
   assert.equal(result.crossVerified, true);
   assert.equal(result.verificationLabel, '多源交叉核实');
   assert.equal('score' in result, false);
   assert.equal('tier' in result, false);
+});
+
+test('detail and list pages from the same university are not treated as cross-source verification', () => {
+  const result = provenanceSummary({
+    source: '某大学就业信息网', sourceType: 'secondary', sourceUrl: 'https://career.example.edu.cn/detail/1',
+    sourceEvidence: [
+      { label: '某大学就业信息网', url: 'https://career.example.edu.cn/detail/1' },
+      { label: '某大学招聘列表', url: 'https://career.example.edu.cn/list' }
+    ]
+  });
+  assert.equal(result.crossVerified, false);
+  assert.equal(result.verificationLabel, '待官网复核');
 });
 
 test('intelligence completeness counts evidence fields, not candidate match', () => {
