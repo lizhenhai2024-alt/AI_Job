@@ -1,10 +1,10 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "purpose": "AI_Job 岗位发现/情报库的五大获取渠道。该配置不参与 S/A/B、匹配度、岗位方向、公司匹配度或是否值得投的最终判断。",
   "finalDecisionRepository": "lizhenhai2024-alt/campus-job-board",
   "channels": [
     {"id":"official_ats","name":"公司官方校招官网 / ATS 系统","priority":1,"examples":["飞书招聘","Moka","北森","智联校招","牛客校招","公司自建招聘官网"]},
-    {"id":"university","name":"高校就业信息网官方简章","priority":2,"examples":["南开大学","广东外语外贸大学","对外经贸大学","湖南大学","厦门大学","30+ 高校就业网"]},
+    {"id":"university","name":"高校就业信息网官方简章","priority":2,"examples":["985高校就业网","211高校就业网","双一流高校就业网","北京外国语大学","上海外国语大学","广东外语外贸大学","对外经济贸易大学","北京语言大学等外语外贸特色高校"]},
     {"id":"platform_official","name":"招聘平台官方账号","priority":3,"examples":["猎聘","51job","智联招聘","应届生求职网"]},
     {"id":"referral","name":"牛客 / 脉脉官方内推帖","priority":4,"examples":["牛客官方/认证内推帖","脉脉官方/认证内推帖"]},
     {"id":"social_official","name":"公司官方公众号 / 微博校招公告","priority":5,"examples":["公司招聘公众号","公司官方微信公众号","公司官方微博校招公告"]}
