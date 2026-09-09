@@ -174,14 +174,14 @@ export const sourceHealth = {
       "company": "洲明科技",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描48，源内保留3"
+      "reason": "北森源正常：扫描42，源内保留1"
     },
     {
       "provider": "beisen",
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描100，源内保留2"
+      "reason": "北森源正常：扫描600，源内保留21"
     },
     {
       "provider": "beisen",
@@ -195,7 +195,7 @@ export const sourceHealth = {
       "company": "Babycare",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描249，源内保留38"
+      "reason": "北森源正常：扫描251，源内保留38"
     },
     {
       "provider": "beisen",
@@ -244,21 +244,21 @@ export const sourceHealth = {
       "company": "名创优品",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描31，源内保留1"
+      "reason": "北森源正常：扫描56，源内保留6"
     },
     {
       "provider": "feishu",
       "company": "影石Insta360",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出342，正式2027候选10，筛选后2"
+      "reason": "官方飞书源正常：列出345，正式2027候选10，筛选后2"
     },
     {
       "provider": "feishu",
       "company": "得物App",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出161，正式2027候选153，筛选后100"
+      "reason": "官方飞书源正常：列出160，正式2027候选152，筛选后100"
     },
     {
       "provider": "feishu",
@@ -311,5 +311,5 @@ export const sourceHealth = {
   "total": 43,
   "healthy": 23,
   "attention": 20,
-  "updatedAt": "2026-09-09T07:19:57.538Z"
+  "updatedAt": "2026-09-09T15:50:29.771Z"
 };
