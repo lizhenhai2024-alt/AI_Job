@@ -229,6 +229,17 @@
       "maxPages": 30,
       "maxJobs": 3000,
       "monitoringNote": "2027正式批已启动；仅岗位文本明确2027届时入池"
+    },
+    {
+      "company": "致欧家居",
+      "baseUrl": "https://songmicshome.jobs.feishu.cn",
+      "websitePath": "852372",
+      "graduationYear": "2027",
+      "detailTemplate": "https://songmicshome.jobs.feishu.cn/852372/m/position/{id}/detail",
+      "pageSize": 100,
+      "maxPages": 30,
+      "maxJobs": 3000,
+      "monitoringNote": "自动来源发现；岗位级继续要求2027届证据"
     }
   ],
   "hotjob": [
