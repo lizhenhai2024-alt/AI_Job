@@ -15,6 +15,8 @@ on:
       - '.github/workflows/source-discovery.yml'
       - 'scripts/discover-company-sources.mjs'
       - 'scripts/job-discovery/source-candidates.mjs'
+      - 'src/data/company-source-seeds.js'
+      - 'src/data/company-registry.js'
 
 permissions:
   contents: write
