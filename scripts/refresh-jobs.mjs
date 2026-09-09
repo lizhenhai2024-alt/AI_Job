@@ -12,6 +12,7 @@ import { relevanceScore, isClosed } from './job-discovery/core.mjs';
 import { shouldExcludeByPolicy, jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
 import { buildSourceHealth } from './job-discovery/source-health.mjs';
 import { curateDiscoveredJobs, curatedOfficialGranularityJobs } from './job-discovery/granularity.mjs';
+import { retainedJobsForUnhealthySources, providerOfJob, findHistoricalProviderJobs } from './job-discovery/snapshot-retention.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const config = JSON.parse(await fs.readFile(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -57,6 +58,12 @@ function countPolicyReasons(jobs = []) {
     for (const reason of jobPolicyReasons(job)) stats[reason] = (stats[reason] || 0) + 1;
   }
   return stats;
+}
+
+function sourceConfigured(provider) {
+  if (provider === 'nowcoder') return true;
+  const value = officialSources?.[provider];
+  return Array.isArray(value) ? value.length > 0 : Boolean(value);
 }
 
 const existing = await loadExisting();
@@ -129,6 +136,21 @@ try {
   console.warn(`[job-refresh:ecoflow] skipped: ${error.message}`);
 }
 
+const configuredProviders = ['nowcoder','moka','beisen','feishu','hotjob','anker','ecoflow'].filter(sourceConfigured);
+const snapshotRetention = retainedJobsForUnhealthySources(existing, sourceResults, configuredProviders);
+let retainedSourceJobs = [...snapshotRetention.retained];
+for (const provider of snapshotRetention.unhealthy) {
+  if (retainedSourceJobs.some((job) => providerOfJob(job) === provider)) continue;
+  const historical = await findHistoricalProviderJobs({ root, provider });
+  if (historical.jobs.length) {
+    retainedSourceJobs.push(...historical.jobs);
+    console.warn(`[job-refresh:${provider}] unhealthy snapshot; recovered ${historical.jobs.length} jobs from ${historical.commit.slice(0, 8)}`);
+  }
+}
+if (snapshotRetention.unhealthy.length) {
+  console.warn(`[job-refresh] unhealthySources=${snapshotRetention.unhealthy.join(',')} retainedSourceJobs=${retainedSourceJobs.length}`);
+}
+
 const discoveredJobs = curateDiscoveredJobs(sourceResults.flatMap((r) => r.jobs || []));
 const verifiedConcreteJobs = curatedOfficialGranularityJobs();
 const candidateJobs = [...discoveredJobs, ...verifiedConcreteJobs];
@@ -138,16 +160,19 @@ const freshJobs = candidateJobs
   .filter((job) => !job.excludeFromLiveBoard)
   .filter((job) => !shouldExcludeByPolicy(job))
   .map(enrichCandidateFit);
-if (!freshJobs.length) {
+if (!freshJobs.length && !retainedSourceJobs.length) {
   console.warn('[job-refresh] no fresh matching jobs found; keeping existing live job pool unchanged.');
   process.exit(0);
 }
 
+const now = new Date();
+const retainedHealthySnapshot = retainedSourceJobs
+  .filter((job) => !isClosed('', job.deadline, now) && !shouldExcludeByPolicy(job))
+  .map(enrichCandidateFit);
 const retainedSeeds = existing
   .filter((job) => !job.discoveredAt && !shouldExcludeByPolicy(job))
   .map(enrichCandidateFit);
-const now = new Date();
-const merged = dedupePreferOfficial([...freshJobs, ...retainedSeeds])
+const merged = dedupePreferOfficial([...freshJobs, ...retainedHealthySnapshot, ...retainedSeeds])
   .filter((job) => !isClosed('', job.deadline, now) && !shouldExcludeByPolicy(job))
   .sort((a,b) => {
     const scoreDiff = relevanceScore(b, config) - relevanceScore(a, config);
@@ -165,13 +190,13 @@ const updatedAt = new Date().toISOString();
 const meta = {
   updatedAt,
   source: '多源：公司官方招聘官网/API + 牛客公开职位 + 官网核验具体岗位',
-  mode: '官方多ATS源优先去重 + 官网粒度校正 + JD专业/技术/小语种硬门槛过滤 + 英语专业适配信号 + 前端画像 S/A/B 精排',
-  stats: { sources: sourceStats, sourceHealth, verifiedConcreteJobs: verifiedConcreteJobs.length, granularityExcluded, policyExcluded: policyStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '岗位名、届别/专业要求与岗位方向分层处理；已官网核验的具体岗位作为确定性记录进入岗位池，不依赖二手源每次都能重新抓到；高置信度多岗位合并记录在完成官网逐岗位核验前不进入机会看板。硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书、必须小语种。小语种仅为优先/加分项，或英语与小语种明确任选其一时保留。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。'
+  mode: '官方多ATS源优先去重 + 来源失败快照保留 + 官网粒度校正 + JD专业/技术/小语种硬门槛过滤 + 英语专业适配信号',
+  stats: { sources: sourceStats, sourceHealth, unhealthySources: snapshotRetention.unhealthy, retainedSourceJobs: retainedHealthySnapshot.length, verifiedConcreteJobs: verifiedConcreteJobs.length, granularityExcluded, policyExcluded: policyStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
+  note: '岗位名、届别/专业要求与岗位方向分层处理。来源本轮抓取报错、返回不完整快照或异常空结果时，不用该结果清空历史岗位；先保留该来源最近一次有效岗位快照，待来源恢复后再替换。已官网核验的具体岗位作为确定性记录进入岗位池，不依赖二手源每次都能重新抓到。硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书、必须小语种。小语种仅为优先/加分项，或英语与小语种明确任选其一时保留。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
 await fs.writeFile(sourceHealthPath, healthModule(sourceHealth, updatedAt), 'utf8');
 console.log(`[job-refresh] sourceHealth=${sourceHealth.healthy}/${sourceHealth.total} healthy; attention=${sourceHealth.attention}`);
 console.log(`[job-refresh] verifiedConcreteJobs=${verifiedConcreteJobs.length} granularityExcluded=${granularityExcluded} policyExcluded=${JSON.stringify(policyStats)}`);
-console.log(`[job-refresh] wrote ${merged.length} jobs across ${companies.size} companies; retainedSeeds=${retainedSeeds.length}.`);
+console.log(`[job-refresh] wrote ${merged.length} jobs across ${companies.size} companies; retainedSeeds=${retainedSeeds.length} retainedSourceJobs=${retainedHealthySnapshot.length}.`);
