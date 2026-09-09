@@ -52,11 +52,40 @@ export function sourceEvidence(job = {}) {
   return rows.slice(0, 12);
 }
 
+function sourceHosts(job = {}) {
+  const urls = [job.sourceUrl];
+  for (const item of job.sourceEvidence || []) {
+    if (typeof item === 'string' && /^https?:\/\//i.test(item)) urls.push(item);
+    else if (item && typeof item === 'object') urls.push(item.url || item.sourceUrl || '');
+  }
+  for (const item of job.sources || []) {
+    if (typeof item === 'string' && /^https?:\/\//i.test(item)) urls.push(item);
+    else if (item && typeof item === 'object') urls.push(item.url || item.sourceUrl || '');
+  }
+  const hosts = new Set();
+  for (const value of urls.filter(Boolean)) {
+    try { hosts.add(new URL(value).hostname.toLowerCase()); } catch {}
+  }
+  return hosts;
+}
+
+function explicitSourceCount(job = {}) {
+  if (Number(job.crossSourceCount || 0) > 0) return Number(job.crossSourceCount);
+  const hosts = sourceHosts(job);
+  if (hosts.size > 1) return hosts.size;
+  const sources = Array.isArray(job.sources) ? job.sources : [];
+  const labels = new Set(sources.map((item) => {
+    if (typeof item === 'string' && !/^https?:\/\//i.test(item)) return item.trim().toLowerCase();
+    if (item && typeof item === 'object') return String(item.source || item.label || item.name || '').trim().toLowerCase();
+    return '';
+  }).filter(Boolean));
+  return Math.max(hosts.size, labels.size);
+}
+
 export function provenanceSummary(job = {}) {
   const evidence = sourceEvidence(job);
   const official = job.sourceType === 'official' || /官方/.test(String(job.verification || ''));
-  const distinctEvidence = new Set(evidence.map((item) => item.value)).size;
-  const crossVerified = distinctEvidence >= 2 && (job.sourceEvidence?.length > 0 || job.sources?.length > 1);
+  const crossVerified = explicitSourceCount(job) >= 2;
   return {
     channel: classifySourceChannel(job),
     channelLabel: sourceChannelLabel(job),
