@@ -341,7 +341,7 @@ export function evaluateJob(job, profile) {
     fourStepAnalysis,
     experienceEvidence,
     riskAdjustment: risk,
-    fitAdjustment: -risk.penalty,
+    fitAdjustment: risk.penalty === 0 ? 0 : -risk.penalty,
     highlights,
     gaps,
     risks: [...risk.items.map((item) => `${item.label} (-${item.points})`), ...(job.riskTags || [])],
