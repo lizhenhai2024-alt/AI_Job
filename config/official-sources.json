@@ -17,7 +17,11 @@
     {"company":"盛趣游戏","url":"https://app.mokahr.com/campus-recruitment/shengqu/96336","graduationYear":"2027"},
     {"company":"特斯拉中国","url":"https://app.mokahr.com/campus-recruitment/tesla/41460","graduationYear":"2027"},
     {"company":"博世中国","url":"https://app.mokahr.com/campus-recruitment/bosch/75909?locale=zh-CN","graduationYear":"2027","strictCohort":true,"monitoringNote":"仅岗位明确出现2027届/27届证据时入池"},
-    {"company":"百威中国","url":"https://app.mokahr.com/campus-recruitment/budweiser/148097","graduationYear":"2027","strictCohort":true,"monitoringNote":"仅岗位明确出现2027届/27届证据时入池"}
+    {"company":"百威中国","url":"https://app.mokahr.com/campus-recruitment/budweiser/148097","graduationYear":"2027","strictCohort":true,"monitoringNote":"仅岗位明确出现2027届/27届证据时入池"},
+    {"company":"Shopee","url":"https://app.mokahr.com/campus_apply/shopee/2962","graduationYear":"2027","campaignLabel":"Shopee研发中心2027届校园招聘"},
+    {"company":"BIGO","url":"https://app.mokahr.com/campus-recruitment/bigo/1018","graduationYear":"2027","campaignLabel":"BIGO 2027届校园招聘"},
+    {"company":"嘉士伯中国","url":"https://app.mokahr.com/campus_apply/carlsberg/37541","graduationYear":"2027","campaignLabel":"嘉士伯2027届校园招聘"},
+    {"company":"珠海万达商管","url":"https://app.mokahr.com/campus-recruitment/wandacm/164049?locale=zh-CN","graduationYear":"2027","campaignLabel":"珠海万达商管2027届校园招聘"}
   ],
   "beisen": [
     {"company":"科大讯飞","baseUrl":"https://iflytek.zhiye.com","graduationYear":"2027"},
@@ -33,12 +37,21 @@
     {"company":"慧策集团","baseUrl":"https://huicecom.zhiye.com","graduationYear":"2027"},
     {"company":"锐明技术","baseUrl":"https://streamax.zhiye.com","graduationYear":"2027"},
     {"company":"扬腾创新","baseUrl":"https://yangtenginnovation-compus.zhiye.com","graduationYear":"2027"},
-    {"company":"国贸股份","baseUrl":"https://itg.zhiye.com","graduationYear":"2027","mode":"html","campaignLabel":"2027届秋季全球校园招聘","listUrl":"https://itg.zhiye.com/gmkgxzlb?k=&c=&p=1%5E14,3%5E24&d=&PageIndex=1&key=gmgf&job=campus","enrichDetails":true}
+    {"company":"国贸股份","baseUrl":"https://itg.zhiye.com","graduationYear":"2027","mode":"html","campaignLabel":"2027届秋季全球校园招聘","listUrl":"https://itg.zhiye.com/gmkgxzlb?k=&c=&p=1%5E14,3%5E24&d=&PageIndex=1&key=gmgf&job=campus","enrichDetails":true},
+    {"company":"万兴科技","baseUrl":"https://wondersharecampus.zhiye.com","graduationYear":"2027","campaignLabel":"万兴科技2027届全球校园招聘"},
+    {"company":"名创优品","baseUrl":"https://miniso.zhiye.com","graduationYear":"2027","campaignLabel":"名创优品2027届校园招聘"},
+    {"company":"三一集团","baseUrl":"https://sanycampus.zhiye.com","graduationYear":"2027","campaignLabel":"三一集团2027届秋季校园招聘"},
+    {"company":"海大集团","baseUrl":"https://haid1.zhiye.com","graduationYear":"2027","campaignLabel":"海大集团2027届全球校园招聘"},
+    {"company":"恒安集团","baseUrl":"https://hengan1.zhiye.com","graduationYear":"2027","campaignLabel":"恒安集团2027届校园招聘"},
+    {"company":"欣旺达","baseUrl":"https://sunwodacampus.zhiye.com","graduationYear":"2027","campaignLabel":"欣旺达2027届全球校园招聘"}
   ],
   "feishu": [
     {"company":"影石Insta360","baseUrl":"https://arashivision.jobs.feishu.cn","websitePath":"campus","graduationYear":"2027","detailTemplate":"https://arashivision.jobs.feishu.cn/campus/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000},
     {"company":"得物App","baseUrl":"https://poizon.jobs.feishu.cn","websitePath":"578078","graduationYear":"2027","detailTemplate":"https://poizon.jobs.feishu.cn/578078/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000},
-    {"company":"沐瞳科技","baseUrl":"https://moonton.jobs.feishu.cn","websitePath":"campus","graduationYear":"2027","detailTemplate":"https://moonton.jobs.feishu.cn/campus/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000}
+    {"company":"沐瞳科技","baseUrl":"https://moonton.jobs.feishu.cn","websitePath":"campus","graduationYear":"2027","detailTemplate":"https://moonton.jobs.feishu.cn/campus/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000},
+    {"company":"致欧家居","baseUrl":"https://songmicshome.jobs.feishu.cn","websitePath":"852372","graduationYear":"2027","detailTemplate":"https://songmicshome.jobs.feishu.cn/852372/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000},
+    {"company":"拓竹科技","baseUrl":"https://bambulab.jobs.feishu.cn","websitePath":"campus","graduationYear":"2027","detailTemplate":"https://bambulab.jobs.feishu.cn/campus/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000},
+    {"company":"蓝色光标","baseUrl":"https://bluefocus.jobs.feishu.cn","websitePath":"campus","graduationYear":"2027","detailTemplate":"https://bluefocus.jobs.feishu.cn/campus/m/position/{id}/detail","pageSize":100,"maxPages":30,"maxJobs":3000}
   ],
   "hotjob": [
     {"company":"德勤中国","baseUrl":"https://wecruit.hotjob.cn","tenant":"64365a780dcad43c5ae82bab","url":"https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/school.html","graduationYear":"2027","projectEvidence":"Campus 2027","pageSize":100,"maxPages":260,"maxDetails":120,"listConcurrency":6,"detailConcurrency":5}
