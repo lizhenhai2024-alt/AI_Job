@@ -1,0 +1,61 @@
+name: Process company intake
+
+on:
+  issues:
+    types: [opened, edited, reopened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  process:
+    if: github.event.issue.user.login == github.repository_owner && startsWith(github.event.issue.title, '[Company Intake]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Process intake request
+        id: intake
+        run: node scripts/process-company-intake.mjs "$GITHUB_EVENT_PATH"
+      - name: Rebuild generated registries
+        run: |
+          npm run build:company-requests
+          npm run build:source-registry
+      - name: Validate repository
+        run: npm run check
+      - name: Commit intake result
+        shell: bash
+        run: |
+          if git diff --quiet -- config/company-requests.json src/data/company-requests.js config/official-sources.json src/data/source-registry.js; then
+            echo "No repository changes required."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/company-requests.json src/data/company-requests.js config/official-sources.json src/data/source-registry.js
+          git commit -m "data: process company intake - ${{ steps.intake.outputs.company }}"
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Report result on issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPOSITORY: ${{ github.repository }}
+          COMPANY: ${{ steps.intake.outputs.company }}
+          STATUS: ${{ steps.intake.outputs.status }}
+          PROVIDER: ${{ steps.intake.outputs.provider }}
+          SOURCE_REGISTERED: ${{ steps.intake.outputs.source_registered }}
+        run: |
+          if [ "$SOURCE_REGISTERED" = "true" ]; then
+            EXTRA="已自动加入官方招聘源；main 更新后会触发岗位刷新。"
+          else
+            EXTRA="已进入公司分析库；尚未安全识别为可自动抓取的 2027 官方源时，不会强行入池。"
+          fi
+          gh issue comment "$ISSUE_NUMBER" --repo "$REPOSITORY" --body "AI Job 已处理 **$COMPANY**。\n\n- 状态：$STATUS\n- 招聘系统：$PROVIDER\n- $EXTRA"
+          gh issue close "$ISSUE_NUMBER" --repo "$REPOSITORY" --reason completed
