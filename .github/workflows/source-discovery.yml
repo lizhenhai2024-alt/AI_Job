@@ -1,0 +1,69 @@
+name: Discover official company sources
+
+on:
+  schedule:
+    - cron: '15 2,8,14,20 * * *'
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Maximum companies to inspect this run (1-40)'
+        required: false
+        default: '12'
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: company-source-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Discover and validate official sources
+        id: discovery
+        env:
+          SOURCE_DISCOVERY_BATCH: ${{ inputs.batch_size || '12' }}
+        run: npm run discover:sources
+      - name: Rebuild generated coverage registries
+        run: |
+          npm run build:source-registry
+          npm run build:source-discovery
+      - name: Validate repository
+        run: npm run check
+      - name: Commit discovery state and newly verified sources
+        shell: bash
+        run: |
+          if git diff --quiet -- config/source-discovery.json src/data/source-discovery.js config/official-sources.json src/data/source-registry.js; then
+            echo "No source discovery changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/source-discovery.json src/data/source-discovery.js config/official-sources.json src/data/source-registry.js
+          git commit -m "data: discover official company recruitment sources"
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Refresh jobs when new official sources were registered
+        if: steps.discovery.outputs.sources_added != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          gh workflow run job-refresh.yml --repo "$REPOSITORY" --ref main
+          echo "Dispatched job refresh for ${{ steps.discovery.outputs.sources_added }} newly verified official source(s)."
+      - name: Coverage summary
+        run: |
+          echo "Processed: ${{ steps.discovery.outputs.processed }}"
+          echo "New official sources: ${{ steps.discovery.outputs.sources_added }}"
+          echo "Errors: ${{ steps.discovery.outputs.errors }}"
