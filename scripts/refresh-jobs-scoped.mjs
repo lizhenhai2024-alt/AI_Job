@@ -14,11 +14,9 @@ const scoped = augmentSearchProfile(profile, companyRegistry);
 
 console.log(`[company-scope] companies=${scoped.companySearchMeta.total} main=${scoped.companySearchMeta.main} watch=${scoped.companySearchMeta.watch} official=${scoped.companySearchMeta.sourceManaged} pendingOfficial=${scoped.companySearchMeta.pendingOfficialSource}`);
 
-let exitCode = 1;
-try {
-  await fs.writeFile(profilePath, `${JSON.stringify(scoped, null, 2)}\n`, 'utf8');
-  exitCode = await new Promise((resolve, reject) => {
-    const child = spawn(process.execPath, [path.join(root, 'scripts/refresh-jobs.mjs')], {
+function runScript(relativePath) {
+  return new Promise((resolve, reject) => {
+    const child = spawn(process.execPath, [path.join(root, relativePath)], {
       cwd: root,
       stdio: 'inherit',
       env: process.env
@@ -26,6 +24,15 @@ try {
     child.on('error', reject);
     child.on('exit', (code) => resolve(code ?? 1));
   });
+}
+
+let exitCode = 1;
+try {
+  await fs.writeFile(profilePath, `${JSON.stringify(scoped, null, 2)}\n`, 'utf8');
+  exitCode = await runScript('scripts/refresh-jobs.mjs');
+  if (exitCode === 0) {
+    exitCode = await runScript('scripts/job-discovery/refresh-university-jobs.mjs');
+  }
 } finally {
   await fs.writeFile(profilePath, original, 'utf8');
 }
