@@ -11,6 +11,7 @@ import {
   mergeAuditEntry,
   sourceProviderFromUrl
 } from './job-discovery/source-candidates.mjs';
+import { probeFeishuSource } from './job-discovery/source-probes.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const auditPath = path.join(root, 'config/source-discovery.json');
@@ -99,8 +100,17 @@ function companyQueryNames(company) {
   return [...new Set(names)].slice(0, 4);
 }
 
+function directCandidateText(company) {
+  if (!company.careerUrl) return '';
+  const origin = company.careerUrlSeeded ? '已核验官方招聘入口种子' : company.userRequested ? '用户提供招聘入口' : '已发现招聘入口';
+  const seedEvidence = company.careerUrlSeeded
+    ? [company.careerUrlEvidence, company.careerUrlGraduationYear === '2027' ? company.careerUrlCohortEvidence : ''].filter(Boolean).join(' ')
+    : '';
+  return `${company.name} 官方招聘 ${origin} ${seedEvidence}`.trim();
+}
+
 async function discoverCandidates(company) {
-  const direct = company.careerUrl ? [{ url: company.careerUrl, text: `${company.name} 官方招聘 用户提供`, provider: sourceProviderFromUrl(company.careerUrl) }] : [];
+  const direct = company.careerUrl ? [{ url: company.careerUrl, text: directCandidateText(company), provider: sourceProviderFromUrl(company.careerUrl) }] : [];
   const found = [...direct];
   const seen = new Set(direct.map((item) => item.url));
   const queries = [];
@@ -173,41 +183,6 @@ async function probeBeisen(baseUrl) {
   }
 }
 
-function rawFeishuName(value) {
-  if (value == null) return '';
-  if (typeof value === 'string' || typeof value === 'number') return String(value);
-  if (typeof value === 'object') return String(value.zh_cn || value.i18n || value.en_us || value.name || value.value || '');
-  return '';
-}
-
-async function probeFeishu(baseUrl, websitePath) {
-  let listed = 0;
-  let cohortMatched = 0;
-  let nonInternCohort = 0;
-  for (let offset = 0; offset < 300; offset += 100) {
-    const result = await fetchText(`${baseUrl}/api/v1/search/job/posts`, {
-      method: 'POST',
-      headers: { 'content-type': 'application/json', accept: 'application/json', referer: `${baseUrl}/${websitePath}/`, 'website-path': websitePath },
-      body: JSON.stringify({ limit: 100, offset })
-    });
-    if (!result.ok) return { ok: false, reason: `飞书 API HTTP ${result.status}` };
-    let payload;
-    try { payload = JSON.parse(result.text); } catch { return { ok: false, reason: '飞书 API 非 JSON 响应' }; }
-    const posts = payload?.data?.job_post_list;
-    if (Number(payload?.code) !== 0 || !Array.isArray(posts)) return { ok: false, reason: `飞书 API code ${payload?.code ?? 'missing'}` };
-    listed += posts.length;
-    for (const row of posts) {
-      const text = [row?.title, row?.description, row?.requirement, rawFeishuName(row?.subject?.name || row?.job_subject?.name || row?.recruitment?.name), rawFeishuName(row?.recruit_type?.name), rawFeishuName(row?.recruit_type?.parent?.name)].filter(Boolean).join(' ');
-      if (!cohortEvidence(text)) continue;
-      cohortMatched++;
-      if (!/实习|intern(?:ship)?/i.test(text) && !/社会招聘|社招|experienced/i.test(text)) nonInternCohort++;
-    }
-    const total = Number(payload?.data?.count || listed);
-    if (!posts.length || posts.length < 100 || listed >= total) return { ok: listed > 0, total, listed, cohortMatched, nonInternCohort, reason: listed > 0 ? '' : '飞书源当前返回 0 个岗位' };
-  }
-  return { ok: listed > 0, total: listed, listed, cohortMatched, nonInternCohort, reason: listed > 0 ? '' : '飞书源当前返回 0 个岗位' };
-}
-
 async function validateCandidate(company, candidate) {
   const inspected = await fetchText(candidate.url);
   const finalUrl = inspected.url || candidate.url;
@@ -231,7 +206,7 @@ async function validateCandidate(company, candidate) {
   if (provider === 'beisen') {
     const url = new URL(finalUrl);
     const baseUrl = `${url.protocol}//${url.host}`;
-    if (!cohortEvidence(evidenceText)) return { state: 'no_2027_evidence', provider, url: finalUrl, reason: '识别为北森，但当前页面/搜索证据没有明确2027校招信息' };
+    if (!cohortEvidence(evidenceText)) return { state: 'no_2027_evidence', provider, url: finalUrl, reason: '识别为北森，但当前页面/已核验证据没有明确2027校招信息' };
     const probe = await probeBeisen(baseUrl);
     if (!probe.ok) return { state: 'needs_adapter', provider, url: finalUrl, reason: `北森2027证据存在，但标准API探针未通过：${probe.reason}` };
     return { state: 'source_registered', provider, url: finalUrl, source: { company: company.name, baseUrl, graduationYear: '2027' }, reason: `北森2027证据和标准API均通过（岗位约${probe.total}）` };
@@ -242,7 +217,15 @@ async function validateCandidate(company, candidate) {
     const baseUrl = `${url.protocol}//${url.host}`;
     const websitePath = feishuWebsitePath(finalUrl, inspected.text);
     if (!websitePath) return { state: 'needs_adapter', provider, url: finalUrl, reason: '识别为飞书招聘，但无法确定 website-path' };
-    const probe = await probeFeishu(baseUrl, websitePath);
+    const probe = await probeFeishuSource({
+      company: company.name,
+      baseUrl,
+      websitePath,
+      detailTemplate: `${baseUrl}/${websitePath}/m/position/{id}/detail`,
+      pageSize: 100,
+      maxPages: 3,
+      maxJobs: 300
+    });
     if (!probe.ok) return { state: 'candidate_found', provider, url: finalUrl, reason: probe.reason };
     const explicitPageCohort = cohortEvidence(evidenceText);
     const genericPath = /^(index|home|jobs?)$/i.test(websitePath);
@@ -255,7 +238,7 @@ async function validateCandidate(company, candidate) {
     return {
       state: 'source_registered', provider, url: finalUrl,
       source: { company: company.name, baseUrl, websitePath, graduationYear: '2027', detailTemplate: `${baseUrl}/${websitePath}/m/position/{id}/detail`, pageSize: 100, maxPages: 30, maxJobs: 3000, monitoringNote: '自动来源发现；岗位级继续要求2027届证据' },
-      reason: `飞书 path=${websitePath} 探针通过；抽样${probe.listed}个岗位，正式2027命中${probe.nonInternCohort}`
+      reason: `飞书 path=${websitePath} 生产探针通过；抽样${probe.listed}个岗位，正式2027命中${probe.nonInternCohort}`
     };
   }
 

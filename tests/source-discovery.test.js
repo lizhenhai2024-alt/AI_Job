@@ -10,6 +10,7 @@ import {
   mergeAuditEntry,
   sourceProviderFromUrl
 } from '../scripts/job-discovery/source-candidates.mjs';
+import { probeFeishuSource } from '../scripts/job-discovery/source-probes.mjs';
 import { buildSourceHealth, evaluateSourceHealth } from '../scripts/job-discovery/source-health.mjs';
 
 test('source provider detection recognizes supported ATS hosts only', () => {
@@ -75,6 +76,35 @@ test('discovery queue respects retry backoff but source-discovery code changes c
 test('2027 evidence requires cohort and campus recruitment context', () => {
   assert.equal(cohortEvidence('2027届校园招聘正式批'), true);
   assert.equal(cohortEvidence('2027年度社会责任报告'), false);
+});
+
+test('Feishu source probe uses the production request contract and counts formal 2027 jobs', async () => {
+  let request = null;
+  const fetcher = async (url, options = {}) => {
+    request = { url, options };
+    return new Response(JSON.stringify({
+      code: 0,
+      data: {
+        count: 1,
+        job_post_list: [{
+          id: 'p1',
+          title: '2027届海外运营',
+          description: '2027届校园招聘，负责海外业务运营',
+          requirement: '英语可作为工作语言',
+          recruit_type: { name: '校园招聘' }
+        }]
+      }
+    }), { status: 200, headers: { 'content-type': 'application/json' } });
+  };
+  const probe = await probeFeishuSource({ company: '示例', baseUrl: 'https://demo.jobs.feishu.cn', websitePath: '852372' }, { fetcher, now: new Date('2026-09-09T00:00:00Z') });
+  assert.equal(request.url, 'https://demo.jobs.feishu.cn/api/v1/search/job/posts');
+  assert.equal(request.options.method, 'POST');
+  assert.equal(request.options.headers['website-path'], '852372');
+  assert.equal(request.options.redirect, 'error');
+  assert.deepEqual(JSON.parse(request.options.body), { limit: 100, offset: 0 });
+  assert.equal(probe.ok, true);
+  assert.equal(probe.cohortMatched, 1);
+  assert.equal(probe.nonInternCohort, 1);
 });
 
 test('Feishu health flags broad or non-formal 2027 sources instead of treating API success as healthy', () => {
