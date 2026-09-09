@@ -286,7 +286,14 @@ export const sourceHealth = {
       "company": "德勤中国",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出179，源内保留120"
+      "reason": "HotJob源正常：列出144，源内保留99"
+    },
+    {
+      "provider": "hotjob",
+      "company": "Decathlon",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "HotJob源正常：列出372，源内保留0"
     },
     {
       "provider": "anker",
@@ -312,16 +319,16 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京外国语大学",
-      "status": "error",
+      "status": "unknown",
       "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "reason": "本轮缺少足够来源健康统计"
     },
     {
       "provider": "university",
       "company": "对外经济贸易大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 3 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量25，源内保留0"
     },
     {
       "provider": "university",
@@ -347,9 +354,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "南开大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量30，源内保留8"
     },
     {
       "provider": "university",
@@ -361,13 +368,13 @@ export const sourceHealth = {
   ],
   "counts": {
     "empty": 19,
-    "healthy": 25,
+    "healthy": 28,
     "no_formal_2027": 1,
-    "error": 5,
-    "unknown": 1
+    "error": 2,
+    "unknown": 2
   },
-  "total": 51,
-  "healthy": 25,
-  "attention": 26,
-  "updatedAt": "2026-09-09T22:09:41.696Z"
+  "total": 52,
+  "healthy": 28,
+  "attention": 24,
+  "updatedAt": "2026-09-09T22:25:54.543Z"
 };
