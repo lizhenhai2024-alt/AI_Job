@@ -2,3 +2,4 @@
 import './data/company-registry.js';
 import './ime-guard.js';
 import './app.js';
+import './intelligence-enhancements.js';
