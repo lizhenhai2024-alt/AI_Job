@@ -3,7 +3,7 @@ const headers = {
   'content-type': 'application/json',
   accept: 'application/json',
   'accept-language': 'zh-CN,zh;q=0.9',
-  'user-agent': 'Mozilla/5.0',
+  'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
   referer: `${base}/index/`,
   'website-path': 'index'
 };
@@ -22,7 +22,9 @@ function inc(map, key) {
 
 const rows = [];
 for (let offset = 0; offset < 3000; offset += 100) {
-  const res = await fetch(`${base}/api/v1/search/job/posts`, { method: 'POST', headers, body: JSON.stringify({ limit: 100, offset }) });
+  const res = await fetch(`${base}/api/v1/search/job/posts`, {
+    method: 'POST', headers, body: JSON.stringify({ limit: 100, offset }), redirect: 'error'
+  });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const payload = await res.json();
   if (Number(payload?.code) !== 0) throw new Error(`API code ${payload?.code}: ${payload?.message || ''}`);
