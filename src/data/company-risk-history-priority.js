@@ -54,5 +54,23 @@ export const priorityCompanyRiskHistory = [
         sourceUrl: 'https://static.cninfo.com.cn/finalpage/2026-04-29/1225281007.PDF'
       }
     ]
+  },
+  {
+    company: '科大讯飞',
+    aliases: ['iFLYTEK', '科大讯飞股份有限公司'],
+    events: [
+      {
+        id: 'iflytek-performance-optimization-2019-01',
+        type: 'layoff',
+        sentiment: 'negative',
+        date: '2019-01-30',
+        scope: '2018年度绩效考核后的人员优化',
+        title: '公司公告确认绩效考核后的人员优化低于正式编制员工总数5%',
+        summary: '第一财经转引科大讯飞澄清公告：公司针对2018年度考核绩效在2019年1月进行人员优化调整，涉及员工数量低于正式编制员工总数5%，并表示2019年仍会继续绩效考核与人员优化、员工总数预计保持稳定并略有增长。该记录距今较久，只能作为历史管理机制参考；2026年网络流传的“向政府备案裁员30%”已被警方认定为捏造，不得与本事件混同或外推为当前裁员比例。',
+        evidenceLevel: 'B',
+        source: '第一财经（转引科大讯飞澄清公告）',
+        sourceUrl: 'https://www.yicai.com/news/100110331.html'
+      }
+    ]
   }
 ];
