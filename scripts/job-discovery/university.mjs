@@ -5,6 +5,10 @@ import { CITY_NAMES, htmlToText, classifyRole, detectSkills, detectRisks, should
 const DEFAULT_MAX_LINKS = 36;
 const RECRUIT_LINK_RX = /2027\s*届|27\s*届|校园招聘|校招|秋招|招聘简章|招聘公告|招聘信息|宣讲/i;
 const SKIP_LINK_RX = /登录|注册|联系我们|政策|手续|下载|新闻|通知公告|邀请函|生源信息|双选会邀请|招聘活动邀请/i;
+const NON_COMPANY_RX = /^(?:待核公司|就业办\d*|就业办|就业处|就业指导中心|就业创业中心|招生就业处|招生就业办|学生就业|学生工作处|人才服务中心|毕业生就业|关于做好|关于开展|关于组织|通知|公告|邀请函|感谢贵单位|尊敬的用人单位|各用人单位|各学院|各位同学|就业补贴|求职补贴|一次性求职补贴)$/i;
+const NON_COMPANY_CONTAINS_RX = /(?:就业创业工作|毕业生一次性求职补贴|求职补贴申报|校园招聘正式启动$|秋季学期校园招聘正式启动$|工商查询$)/i;
+const SCHOOL_ENTITY_RX = /(?:大学|学院|职业技术学校|职业学院|就业信息网|就业指导中心|就业创业中心)$/i;
+const NOTICE_TITLE_RX = /(?:关于做好|关于开展|关于组织|求职补贴|就业补贴|招聘活动邀请函|双选会邀请函|校园招聘正式启动$|秋季学期校园招聘正式启动$)/i;
 
 function decodeHtml(value = '') {
   return String(value)
@@ -61,17 +65,48 @@ function firstHeading(html = '') {
   return title.replace(/[-_|].*?(就业|招聘|大学).*$/i, '').trim();
 }
 
-function extractCompany(title = '', text = '') {
-  const explicit = String(text).match(/(?:宣讲单位|招聘单位|用人单位|单位名称|公司名称)[:：]\s*([^\n。；;]{2,60})/i)?.[1]?.trim();
-  if (explicit) return explicit.replace(/\s{2,}.*/, '').trim();
-  const bracket = String(text).match(/〖([^〗]{2,50})〗/)?.[1]?.trim();
-  if (bracket && !/就业|大学|中心/.test(bracket)) return bracket;
-  const prefix = String(title)
+function cleanCompanyCandidate(value = '') {
+  return String(value)
+    .replace(/\s*(?:工商查询|查看工商|企业查询|单位详情)\s*$/i, '')
     .replace(/^[【〖\[]+|[】〗\]]+$/g, '')
-    .split(/2027\s*届|27\s*届|2027年|校园招聘|秋季招聘|秋招|招聘简章|招聘公告|校招/i)[0]
     .replace(/[：:·丨|\-–—]+$/g, '')
+    .replace(/\s+/g, ' ')
     .trim();
-  return prefix && prefix.length <= 60 ? prefix : '待核公司';
+}
+
+export function isPlausibleUniversityCompany(company = '', source = {}) {
+  const value = cleanCompanyCandidate(company);
+  if (!value || value.length < 2 || value.length > 60) return false;
+  if (NON_COMPANY_RX.test(value) || NON_COMPANY_CONTAINS_RX.test(value)) return false;
+  if (/^[\d\W_]+$/u.test(value)) return false;
+  if (source.school && value.replace(/\s+/g, '') === String(source.school).replace(/\s+/g, '')) return false;
+  if (SCHOOL_ENTITY_RX.test(value) && !/(银行|公司|集团|科技|股份|有限|事务所|研究院|医院|出版社)/.test(value)) return false;
+  if (/^(?:感谢|尊敬|关于|各位|各用人单位|各学院)/.test(value)) return false;
+  return true;
+}
+
+function extractCompany(title = '', text = '', source = {}) {
+  const explicit = String(text).match(/(?:宣讲单位|招聘单位|用人单位|单位名称|公司名称)[:：]\s*([^\n。；;]{2,60})/i)?.[1]?.trim();
+  if (explicit) {
+    const cleaned = cleanCompanyCandidate(explicit);
+    if (isPlausibleUniversityCompany(cleaned, source)) return cleaned;
+  }
+  const bracket = cleanCompanyCandidate(String(text).match(/〖([^〗]{2,50})〗/)?.[1]?.trim() || '');
+  if (bracket && !/就业|大学|中心/.test(bracket) && isPlausibleUniversityCompany(bracket, source)) return bracket;
+  const prefix = cleanCompanyCandidate(String(title)
+    .replace(/^[【〖\[]+|[】〗\]]+$/g, '')
+    .split(/2027\s*届|27\s*届|2027年|校园招聘|秋季招聘|秋招|招聘简章|招聘公告|校招/i)[0]);
+  return isPlausibleUniversityCompany(prefix, source) ? prefix : '待核公司';
+}
+
+export function isPlausibleUniversityJob(job = {}, source = {}) {
+  const company = String(job.company || '').trim();
+  const title = String(job.title || '').trim();
+  if (!isPlausibleUniversityCompany(company, source)) return false;
+  if (!title || title.length < 4 || title.length > 180) return false;
+  if (NOTICE_TITLE_RX.test(title) && !/(有限公司|股份|集团|银行|科技|汽车|电子|通信|家居|控股|公司)/.test(company)) return false;
+  if (/^(?:宣讲单位[:：])?(?:就业办|就业处|就业指导中心|就业创业中心)/i.test(title)) return false;
+  return true;
 }
 
 function dateFromText(text = '') {
@@ -109,7 +144,7 @@ export function parseUniversityJobPage({ html, url, source, now = new Date() }) 
   const skills = detectSkills(cohortText);
   const publishedAt = dateFromText(text);
   const deadline = deadlineFromText(text);
-  const company = extractCompany(heading, text);
+  const company = extractCompany(heading, text, source);
   const sourceName = `${source.school}就业信息网`;
   const id = `university-${crypto.createHash('sha1').update(`${source.school}|${url}`).digest('hex').slice(0, 14)}`;
   const description = `${source.school}就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。`;
@@ -197,6 +232,7 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
     const rows = await mapLimit(unique, concurrency, async (candidate) => {
       const html = await fetcher(candidate.url);
       const job = parseUniversityJobPage({ html, url: candidate.url, source, now });
+      if (!isPlausibleUniversityJob(job, source)) return null;
       return shouldKeep(job, profile, now) ? job : null;
     });
     detailed += rows.length;
