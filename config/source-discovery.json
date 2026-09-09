@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T17:50:12.293Z",
+  "updatedAt": "2026-09-09T22:17:04.821Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -15,35 +15,11 @@
           "provider": "",
           "state": "needs_adapter",
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://www.lazada.cn/recruit",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://www.lazada.com/en/careers/job-search/",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://campus-talent.alibaba.com/campus/business/detail?circleCode=60005",
-          "provider": "",
-          "state": "candidate_rejected",
-          "reason": "候选页面缺少足够的公司身份信息，未自动接入"
-        },
-        {
-          "url": "https://aidc-jobs.alibaba.com/home",
-          "provider": "",
-          "state": "candidate_rejected",
-          "reason": "候选页面缺少足够的公司身份信息，未自动接入"
         }
       ],
-      "attempts": 7,
-      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
-      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
+      "attempts": 8,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
     },
     "兰亭集势": {
       "name": "兰亭集势",
@@ -84,9 +60,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 7,
-      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
-      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
+      "attempts": 8,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
     },
     "aliexpress": {
       "name": "AliExpress",
@@ -115,9 +91,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 7,
-      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
-      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
+      "attempts": 8,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
     },
     "阿里巴巴": {
       "name": "阿里巴巴",
@@ -258,9 +234,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 6,
-      "lastCheckedAt": "2026-09-09T17:50:12.293Z",
-      "nextCheckAfter": "2026-09-12T17:50:12.293Z"
+      "attempts": 7,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
     },
     "水羊御泥坊": {
       "name": "水羊集团御泥坊",
@@ -503,6 +479,176 @@
       "attempts": 1,
       "lastCheckedAt": "2026-09-09T15:40:07.371Z",
       "nextCheckAfter": "2026-09-12T15:40:07.371Z"
+    },
+    "联合利华": {
+      "name": "联合利华",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.unilever.com/en",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.unilever.com/en",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://campus.niuqizp.com/job-vsm5LCLta.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
+        },
+        {
+          "url": "https://www.resumemakeroffer.com/jobradar/companies/103200-%E8%81%94%E5%90%88%E5%88%A9%E5%8D%8E",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://campus.niuqizp.com/job-vks5aCzta.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
+    },
+    "欧莱雅": {
+      "name": "欧莱雅",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.loreal.com/en/careers/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.loreal.com/en/careers/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
+    },
+    "施耐德": {
+      "name": "施耐德",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.se.com/early-careers",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.se.com/early-careers",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
+    },
+    "百胜": {
+      "name": "百胜中国",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.yumchina.com/career/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.yumchina.com/career/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
+    },
+    "道达尔": {
+      "name": "道达尔",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.totalenergies.com/en",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.totalenergies.com/en",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
+    },
+    "马士基": {
+      "name": "马士基",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.maersk.com/careers/our-teams/students-graduates",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.maersk.com/careers/our-teams/students-graduates",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
+    },
+    "玛氏": {
+      "name": "玛氏",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.mars.com/cn/zh/students-graduates",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.mars.com/cn/zh/students-graduates",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
+    },
+    "nike": {
+      "name": "Nike",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.nike.com/zh-cn/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.nike.com/zh-cn/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T22:17:04.821Z",
+      "nextCheckAfter": "2026-09-12T22:17:04.821Z"
     }
   },
   "lastRun": {
@@ -510,6 +656,6 @@
     "sourcesAdded": 0,
     "errors": 0,
     "batchSize": 12,
-    "forceRetry": false
+    "forceRetry": true
   }
 }
