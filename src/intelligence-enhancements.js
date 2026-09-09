@@ -4,6 +4,33 @@ import { companyRiskSummary, evidenceLevelLabel, riskTypeLabel } from './core/co
 const jobs = Array.isArray(liveJobs) ? liveJobs : [];
 const jobById = new Map(jobs.map((job) => [String(job.id), job]));
 
+const RISK_SOURCE_GUIDE = [
+  {
+    level: 'A',
+    name: '一手材料',
+    sources: '公司公告/官网、交易所/监管、法院/裁判文书、公司官方公众号/微博',
+    usage: '可直接确认事件主体、时间与事实边界。'
+  },
+  {
+    level: 'B',
+    name: '高可信媒体 / 公司回应',
+    sources: 'Reuters、第一财经、界面、澎湃等，或媒体明确引用公司回应',
+    usage: '用于确认公开事件；不把报道范围扩大到未提及的团队、地区或年份。'
+  },
+  {
+    level: 'C',
+    name: '社区经验线索',
+    sources: 'CampusShame、牛客、脉脉、知乎、V2EX 等',
+    usage: '用于发现校招毁约、实习留用、工作强度等线索；保留原帖/快照，不能由单帖外推成全公司事实。'
+  },
+  {
+    level: 'D',
+    name: '未经核实传闻',
+    sources: '无法追溯原帖、仅截图转述或单一匿名爆料',
+    usage: '默认隐藏，不作为事实、黑名单或投递结论。'
+  }
+];
+
 function companyKey(value = '') {
   return String(value)
     .replace(/[（(].*?[）)]/g, '')
@@ -32,6 +59,28 @@ function safeLink(url, label = '查看证据') {
   link.target = '_blank';
   link.rel = 'noopener';
   return link;
+}
+
+function riskSourceGuideNode() {
+  const details = create('details', 'risk-source-guide');
+  details.append(create('summary', 'risk-source-guide-summary', '来源说明：A/B 高可信 · CampusShame / 牛客 / 脉脉等为社区线索'));
+  const body = create('div', 'risk-source-guide-body');
+  for (const item of RISK_SOURCE_GUIDE) {
+    const row = create('div', 'risk-source-row');
+    row.append(
+      create('strong', '', `${item.level}级 · ${item.name}`),
+      create('p', '', `典型来源：${item.sources}`),
+      create('p', '', `使用原则：${item.usage}`)
+    );
+    body.append(row);
+  }
+  body.append(create(
+    'p',
+    'risk-source-foot',
+    'CampusShame 是校招案例汇总/证据索引，主要引用牛客、脉脉、知乎等公开论坛，因此默认按 C 级二手社区线索处理；若条目可回溯到 A/B 级原始证据，则以原始证据等级为准。'
+  ));
+  details.append(body);
+  return details;
 }
 
 function compensationStrip(job) {
@@ -67,7 +116,7 @@ function companyRiskPanel(company, { compact = false } = {}) {
   const risk = companyRiskSummary(company);
   const panel = create('div', compact ? 'company-risk-panel compact' : 'company-risk-panel');
   const title = create('div', 'company-risk-title', '历史风险 / 实习留用线索');
-  panel.append(title);
+  panel.append(title, riskSourceGuideNode());
 
   if (!risk.hasData) {
     panel.append(create('p', 'risk-empty', '暂无已录入的高可信公开风险事件；这不等于公司“无风险”，建议继续核验团队和年份。'));
@@ -169,6 +218,11 @@ function installStyles() {
     .company-risk-panel{margin-top:14px;padding-top:12px;border-top:1px solid var(--line,#e5e7eb)}
     .company-risk-panel.compact .risk-event:nth-of-type(n+4){display:none}
     .company-risk-title{font-weight:750;margin-bottom:8px}.risk-summary-line{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+    .risk-source-guide{margin:0 0 9px;border:1px solid var(--line,#e5e7eb);border-radius:10px;background:rgba(248,250,252,.72)}
+    .risk-source-guide summary{cursor:pointer;list-style:none;padding:7px 9px;font-size:12px;font-weight:650;line-height:1.45;opacity:.86}
+    .risk-source-guide summary::-webkit-details-marker{display:none}.risk-source-guide summary:before{content:'＋';display:inline-block;width:18px;opacity:.7}.risk-source-guide[open] summary:before{content:'－'}
+    .risk-source-guide-body{padding:0 9px 9px;display:grid;gap:7px}.risk-source-row{padding:7px 8px;border-radius:8px;background:var(--panel,#fff);border:1px solid var(--line,#e5e7eb)}
+    .risk-source-row strong{display:block;font-size:12px;margin-bottom:2px}.risk-source-row p{margin:2px 0;font-size:12px;line-height:1.5;opacity:.78}.risk-source-foot{margin:2px 1px 0;font-size:12px;line-height:1.55;opacity:.8}
     .risk-chip,.evidence-level{font-size:12px;padding:3px 7px;border-radius:999px;border:1px solid var(--line,#d8dee8)}
     .risk-event{padding:9px 10px;margin:7px 0;border:1px solid var(--line,#e5e7eb);border-radius:10px;background:var(--panel,#fff)}
     .risk-event.negative{border-left-width:3px}.risk-event.positive{border-left-width:3px}.risk-event-head{display:flex;gap:8px;justify-content:space-between;align-items:center;flex-wrap:wrap}
