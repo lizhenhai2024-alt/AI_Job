@@ -230,6 +230,42 @@ export const companyRiskHistory = [
         sourceUrl: 'https://finance.eastmoney.com/a/202512313607079367.html'
       }
     ]
+  },
+  {
+    company: '沐瞳科技',
+    aliases: ['Moonton', '上海沐瞳科技有限公司'],
+    events: [
+      {
+        id: 'moonton-ownership-change-2026-03',
+        type: 'restructuring',
+        sentiment: 'mixed',
+        date: '2026-03-20',
+        scope: '公司股权/控股股东变更',
+        title: '字节同意将沐瞳出售给 Savvy Games，管理结构承诺保持不变',
+        summary: 'Reuters 报道字节跳动同意将上海沐瞳科技出售给沙特 PIF 旗下 Savvy Games Group；沐瞳 CEO 表示管理结构保持不变。该事件属于所有权与战略层面的重大变化，不等同于裁员或业务收缩。',
+        evidenceLevel: 'B',
+        source: 'Reuters',
+        sourceUrl: 'https://www.reuters.com/world/asia-pacific/bytedance-sell-gaming-unit-moonton-saudi-pif-owned-firm-2026-03-20/'
+      }
+    ]
+  },
+  {
+    company: '三一集团',
+    aliases: ['SANY', '三一重工', '三一集团有限公司'],
+    events: [
+      {
+        id: 'sany-workforce-change-2024-report',
+        type: 'restructuring',
+        sentiment: 'mixed',
+        date: '2025-05-06',
+        scope: '2024年末总人数与研发人员数量变化',
+        title: '公司确认2024年末总人数、研发人员数量同比下降',
+        summary: '三一重工在投资者互动平台答复称，2024年末公司总人数、研发人员数量同比有所下降，符合生产经营实际，相关人数变化不会对生产经营产生重大影响。公司没有确认投资者所称的具体“裁员比例/年龄段”，因此这里只记录公司确认的人数下降事实，不把外部描述当成事实。',
+        evidenceLevel: 'B',
+        source: '财联社（公司互动平台答复）',
+        sourceUrl: 'https://www.cls.cn/detail/xk/df93a4b7253fc845bde4740c60e86b57'
+      }
+    ]
   }
 ];
 
