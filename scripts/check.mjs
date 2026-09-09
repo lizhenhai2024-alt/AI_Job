@@ -2,12 +2,18 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { demoJobs } from '../src/data/jobs.js';
 import { liveJobs } from '../src/data/live-jobs.js';
+import { companyRegistry, isValidCompanyRecord } from '../src/data/company-registry.js';
+import { sourceRegistry } from '../src/data/source-registry.js';
 
 const root = path.resolve(process.cwd());
 const required = [
-  'index.html', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
+  'index.html', 'src/bootstrap.js', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
   'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
-  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs', 'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/feishu.mjs', 'scripts/job-discovery/hotjob.mjs', 'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs', 'scripts/refresh-jobs.mjs',
+  'src/data/company-library.js', 'src/data/company-registry.js', 'src/data/source-registry.js',
+  'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs',
+  'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/feishu.mjs', 'scripts/job-discovery/hotjob.mjs',
+  'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs', 'scripts/refresh-jobs.mjs',
+  'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs',
   'config/search-profile.json', 'config/official-sources.json', 'README.md', 'docs/PLAN.md'
 ];
 
@@ -16,8 +22,8 @@ for (const file of required) {
 }
 
 const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
-if (!html.includes('./src/app.js') || !html.includes('./src/styles.css') || !html.includes('./src/discovery.css')) {
-  throw new Error('index.html asset references are incomplete');
+if (!html.includes('./src/bootstrap.js') || !html.includes('./src/styles.css') || !html.includes('./src/discovery.css')) {
+  throw new Error('index.html asset/bootstrap references are incomplete');
 }
 
 const allJobs = [...demoJobs, ...liveJobs];
@@ -74,10 +80,25 @@ const anker = sources.anker;
 if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker-in.com/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || !anker.websiteId || anker.graduationYear !== '2027' || Number(anker.maxJobs) < 10 || Number(anker.maxPages) < 1) {
   throw new Error('official Anker source registry validation failed');
 }
-
 const ecoflow = sources.ecoflow;
 if (!ecoflow || ecoflow.company !== '正浩创新EcoFlow' || !/^https:\/\/jobs\.ecoflow\.com\/602892/.test(ecoflow.url) || ecoflow.apiBase !== 'https://jobs.ecoflow.com' || ecoflow.websitePath !== '602892' || Number(ecoflow.portalType) !== 6 || ecoflow.graduationYear !== '2027' || Number(ecoflow.maxJobs) < 10 || Number(ecoflow.maxPages) < 1) {
   throw new Error('official EcoFlow Feishu API registry validation failed');
 }
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${sources.moka.length} Moka portals, ${sources.beisen.length} Beisen portals, ${sources.feishu.length} generic Feishu portals, ${sources.hotjob.length} HotJob portals, Anker paginated API, EcoFlow public Feishu API, provenance OK.`);
+const flattenedSources = Object.entries(sources).flatMap(([provider, value]) => (Array.isArray(value) ? value : value ? [value] : []).map((item) => ({ provider, company: item.company })));
+if (JSON.stringify(flattenedSources) !== JSON.stringify(sourceRegistry)) {
+  throw new Error('source-registry.js is stale; run npm run build:source-registry');
+}
+if (companyRegistry.some((record) => !isValidCompanyRecord(record))) throw new Error('invalid company row in unified company registry');
+if (companyRegistry.some((record) => record.status !== '主投' && (record.industries || []).length)) throw new Error('non-main company has leaked industry label');
+if (companyRegistry.some((record) => (record.cities || []).some((value) => /市场|营销|HR|运营|商务|供应链|客户|产品/i.test(value)))) {
+  throw new Error('company cities contains target-track data');
+}
+const missingManaged = sourceRegistry.filter((source) => !companyRegistry.some((record) => record.sourceManaged && record.sourceProviders?.includes(source.provider) && (() => {
+  const clean = (value) => String(value || '').replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '').replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase();
+  const a = clean(record.name); const b = clean(source.company);
+  return a === b || (Math.min(a.length, b.length) >= 3 && (a.includes(b) || b.includes(a)));
+})()));
+if (missingManaged.length) throw new Error(`official sources missing from company registry: ${missingManaged.map((x) => `${x.provider}:${x.company}`).join(', ')}`);
+
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${companyRegistry.length} unified companies, ${sourceRegistry.length} official source links, provenance and registry quality OK.`);
