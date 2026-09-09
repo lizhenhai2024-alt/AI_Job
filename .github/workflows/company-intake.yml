@@ -7,6 +7,7 @@ on:
 permissions:
   contents: write
   issues: write
+  actions: write
 
 jobs:
   process:
@@ -42,6 +43,14 @@ jobs:
           git commit -m "data: process company intake - ${{ steps.intake.outputs.company }}"
           git pull --rebase origin main
           git push origin HEAD:main
+      - name: Dispatch job refresh for managed source
+        if: steps.intake.outputs.source_registered == 'true' || steps.intake.outputs.source_exists == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          gh workflow run job-refresh.yml --repo "$REPOSITORY" --ref main
+          echo "Explicitly dispatched job-refresh.yml because GITHUB_TOKEN-authored pushes do not recursively trigger push workflows."
       - name: Report result on issue
         env:
           GH_TOKEN: ${{ github.token }}
@@ -51,9 +60,10 @@ jobs:
           STATUS: ${{ steps.intake.outputs.status }}
           PROVIDER: ${{ steps.intake.outputs.provider }}
           SOURCE_REGISTERED: ${{ steps.intake.outputs.source_registered }}
+          SOURCE_EXISTS: ${{ steps.intake.outputs.source_exists }}
         run: |
-          if [ "$SOURCE_REGISTERED" = "true" ]; then
-            EXTRA="已自动加入官方招聘源；main 更新后会触发岗位刷新。"
+          if [ "$SOURCE_REGISTERED" = "true" ] || [ "$SOURCE_EXISTS" = "true" ]; then
+            EXTRA="官方招聘源已接入；已显式启动岗位刷新。"
           else
             EXTRA="已进入公司分析库；尚未安全识别为可自动抓取的 2027 官方源时，不会强行入池。"
           fi
