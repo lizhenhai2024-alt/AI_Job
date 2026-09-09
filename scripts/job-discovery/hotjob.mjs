@@ -103,17 +103,25 @@ function cityFrom(text = '') {
   return city || raw || '待核';
 }
 
-function has2027Evidence(row = {}, detail = {}) {
-  const evidence = [row.projectName, row.postName, detail.projectName, detail.postName, detail.workContent, detail.serviceCondition]
-    .filter(Boolean).join('\n');
+function has2027Evidence(source = {}, row = {}, detail = {}) {
+  const evidence = [
+    source.projectEvidence,
+    source.cohortEvidence,
+    row.projectName,
+    row.postName,
+    detail.projectName,
+    detail.postName,
+    detail.workContent,
+    detail.serviceCondition
+  ].filter(Boolean).join('\n');
   return CAMPUS_2027_RX.test(evidence) || SHORT_2027_RX.test(evidence);
 }
 
-function isListCandidate(row = {}, profile = {}) {
+function isListCandidate(source = {}, row = {}, profile = {}) {
   const title = clean(row.postName || '');
   if (!title || INTERNSHIP_RX.test(`${title} ${row.workTypeStr || ''} ${row.projectName || ''}`)) return false;
   if (PURE_SALES_RX.test(title) && !NON_PURE_SALES_RX.test(title)) return false;
-  if (!has2027Evidence(row, {})) return false;
+  if (!has2027Evidence(source, row, {})) return false;
   const roleFamily = roleFamilyFrom(title);
   const rough = {
     title,
@@ -121,8 +129,8 @@ function isListCandidate(row = {}, profile = {}) {
     city: cityFrom(row.workPlaceStr || row.department || ''),
     graduationYear: '2027',
     roleFamily,
-    skills: detectSkills(`${title} ${row.postTypeName || ''} ${row.projectName || ''}`),
-    _searchText: [title, row.postTypeName, row.company, row.department, row.projectName].filter(Boolean).join(' '),
+    skills: detectSkills(`${title} ${row.postTypeName || ''} ${row.projectName || ''} ${source.projectEvidence || ''}`),
+    _searchText: [title, row.postTypeName, row.company, row.department, row.projectName, source.projectEvidence].filter(Boolean).join(' '),
     deadline: normalizeDate(row.endDate),
     closed: false
   };
@@ -132,13 +140,13 @@ function isListCandidate(row = {}, profile = {}) {
 export function parseHotjobDetail(source, row = {}, detail = {}, now = new Date()) {
   const postId = String(detail.postId || row.postId || '');
   const title = clean(detail.postName || row.postName || '');
-  const projectName = clean(detail.projectName || row.projectName || '');
+  const projectName = clean(detail.projectName || row.projectName || source.projectEvidence || '');
   const workContent = clean(detail.workContent || '');
   const requirements = clean(detail.serviceCondition || detail.applyPositionContent || '');
   const category = clean(detail.postTypeName || row.postTypeName || '');
   const org = clean(detail.orgName || detail.company || row.company || '');
   const jobText = [title, projectName, category, org, workContent, requirements].filter(Boolean).join('\n');
-  const graduationYear = has2027Evidence(row, detail) ? '2027' : '';
+  const graduationYear = has2027Evidence(source, row, detail) ? '2027' : '';
   const roleFamily = roleFamilyFrom(title);
   const skills = detectSkills(jobText);
   const experienceKeywords = EXPERIENCE_WORDS.filter((word) => jobText.toLowerCase().includes(word.toLowerCase())).slice(0, 10);
@@ -226,7 +234,7 @@ export async function searchHotjobJobs(profile, sources = [], { fetcher = fetch,
       const rows = [...rowMap.values()];
       portalListed = rows.length;
       listed += rows.length;
-      const candidates = rows.filter((row) => isListCandidate(row, profile)).slice(0, Number(source.maxDetails || 120));
+      const candidates = rows.filter((row) => isListCandidate(source, row, profile)).slice(0, Number(source.maxDetails || 120));
       const normalized = await mapLimit(candidates, Number(source.detailConcurrency || concurrency), async (row) => {
         try {
           const detail = await fetchDetail(fetcher, source, row.postId);
