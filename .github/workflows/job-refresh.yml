@@ -10,8 +10,10 @@ on:
       - '.github/workflows/job-refresh.yml'
       - 'scripts/job-discovery/**'
       - 'scripts/refresh-jobs.mjs'
+      - 'scripts/refresh-jobs-scoped.mjs'
       - 'config/search-profile.json'
       - 'config/official-sources.json'
+      - 'config/university-sources.json'
       - 'package.json'
 
 permissions:
