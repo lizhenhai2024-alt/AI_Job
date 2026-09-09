@@ -43,6 +43,22 @@ test('salary and company history enhancements are loaded after the base app', ()
   assert.equal(enhancementSource.includes('companyScore'), false);
 });
 
+test('company risk source guide explains evidence hierarchy and community sources', () => {
+  for (const text of [
+    '来源说明：A/B 高可信',
+    'CampusShame',
+    '牛客',
+    '脉脉',
+    '一手材料',
+    '高可信媒体 / 公司回应',
+    '社区经验线索',
+    '默认隐藏，不作为事实、黑名单或投递结论',
+    '默认按 C 级二手社区线索处理'
+  ]) {
+    assert.ok(enhancementSource.includes(text), `missing risk source guide: ${text}`);
+  }
+});
+
 test('company intake remains available for source discovery expansion', () => {
   for (const text of ['添加公司到发现队列', '加入公司库并提交分析', '官方招聘 / 校招链接', 'createCompanyIntake']) {
     assert.ok(appSource.includes(text), `missing company-intake UI behavior: ${text}`);
