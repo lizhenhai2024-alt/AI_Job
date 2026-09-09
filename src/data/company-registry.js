@@ -69,7 +69,8 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
       industries: record.status === '主投' ? [...(record.industries || [])] : [], cities: normalizeCities(legacyCities),
       targetTracks: normalizeTracks(record.targetTracks || [], legacyCities), sourceProviders: [], sourceManaged: false,
       sourceDiscoveryState: 'queued', sourceDiscoveryReason: '', sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '',
-      sourceHealthStatus: '', sourceHealthReason: '', userRequested: false
+      sourceHealthStatus: '', sourceHealthReason: '', userRequested: false,
+      careerUrlSeeded: false, careerUrlVerifiedAt: '', careerUrlEvidence: '', careerUrlGraduationYear: '', careerUrlCohortEvidence: ''
     };
   });
 
@@ -81,20 +82,30 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
     record.careerUrlSeeded = true;
     record.careerUrlVerifiedAt = seed.verifiedAt || '';
     record.careerUrlEvidence = seed.note || '';
+    record.careerUrlGraduationYear = seed.graduationYear || '';
+    record.careerUrlCohortEvidence = seed.cohortEvidence || '';
   }
 
-  // User-provided URLs are authoritative over curated seeds.
+  // User-provided URLs are authoritative over curated seeds and must not inherit seed-only cohort evidence.
   for (const request of requests || []) {
     if (!isValidCompanyRecord({ name: request?.name })) continue;
     let record = findMatch(records, request.name);
     if (!record) {
       record = { name: request.name, status: '观察', industries: [], cities: [], targetTracks: [], evidence: { count: 0 }, sourceProviders: [], sourceManaged: false,
-        sourceDiscoveryState: 'queued', sourceDiscoveryReason: '', sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '', sourceHealthStatus: '', sourceHealthReason: '' };
+        sourceDiscoveryState: 'queued', sourceDiscoveryReason: '', sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '', sourceHealthStatus: '', sourceHealthReason: '',
+        careerUrlSeeded: false, careerUrlVerifiedAt: '', careerUrlEvidence: '', careerUrlGraduationYear: '', careerUrlCohortEvidence: '' };
       records.push(record);
     }
     record.userRequested = true;
     record.intakeStatus = request.status || '待分析'; record.intakeProvider = request.provider || ''; record.intakeAnalysis = request.analysis || '';
-    if (request.careerUrl) { record.careerUrl = request.careerUrl; record.careerUrlSeeded = false; }
+    if (request.careerUrl) {
+      record.careerUrl = request.careerUrl;
+      record.careerUrlSeeded = false;
+      record.careerUrlVerifiedAt = '';
+      record.careerUrlEvidence = '';
+      record.careerUrlGraduationYear = '';
+      record.careerUrlCohortEvidence = '';
+    }
     record.intakeIssueUrl = request.issueUrl || ''; record.requestedAt = request.requestedAt || '';
     record.targetTracks = [...new Set([...(record.targetTracks || []), ...normalizeTracks(request.focus || [])])];
   }
@@ -103,7 +114,8 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
     let record = findMatch(records, source.company);
     if (!record) {
       record = { name: source.company, status: '观察', industries: [], cities: [], targetTracks: [], evidence: { count: 0 }, sourceProviders: [], sourceManaged: true,
-        sourceDiscoveryState: 'official_source', sourceDiscoveryReason: '', sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '', sourceHealthStatus: '', sourceHealthReason: '', userRequested: false };
+        sourceDiscoveryState: 'official_source', sourceDiscoveryReason: '', sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '', sourceHealthStatus: '', sourceHealthReason: '', userRequested: false,
+        careerUrlSeeded: false, careerUrlVerifiedAt: '', careerUrlEvidence: '', careerUrlGraduationYear: '', careerUrlCohortEvidence: '' };
       records.push(record);
     }
     record.sourceManaged = true; record.sourceDiscoveryState = 'official_source';
@@ -143,7 +155,10 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
     if (!record.intakeStatus || !record.userRequested) record.intakeStatus = label;
     if (!record.intakeProvider && record.sourceDiscoveryProvider) record.intakeProvider = record.sourceDiscoveryProvider;
     if (!record.intakeAnalysis && record.sourceDiscoveryReason) record.intakeAnalysis = record.sourceDiscoveryReason;
-    if (!record.intakeAnalysis && record.careerUrlSeeded) record.intakeAnalysis = `已核验官方招聘入口种子；仍需通过2027届与抓取器探针：${record.careerUrlEvidence || '待探针'}`;
+    if (!record.intakeAnalysis && record.careerUrlSeeded) {
+      const cohort = record.careerUrlCohortEvidence ? `；已核验届别证据：${record.careerUrlCohortEvidence}` : '';
+      record.intakeAnalysis = `已核验官方招聘入口种子；仍需通过抓取器探针：${record.careerUrlEvidence || '待探针'}${cohort}`;
+    }
     if (!record.intakeAnalysis) record.intakeAnalysis = '已进入统一来源发现队列；系统会自动寻找官方招聘入口、核验2027校招证据并在探针通过后接入抓岗。';
     if (!record.careerUrl && record.sourceDiscoveryUrl) record.careerUrl = record.sourceDiscoveryUrl;
   }
