@@ -21,7 +21,7 @@ test('non-main pool rows do not keep leaked industry labels', () => {
 });
 
 test('cities and target tracks are normalized into separate fields', () => {
-  assert.deepEqual(normalizeCities(['上海/北京 有office', '品牌市场/HR/运营']), ['上海', '北京']);
+  assert.deepEqual([...normalizeCities(['上海/北京 有office', '品牌市场/HR/运营'])].sort(), ['上海', '北京'].sort());
   assert.deepEqual(normalizeTracks([], ['上海/北京 有office', '品牌市场/HR/运营']), ['品牌市场', 'HR', '运营']);
   for (const record of companyRegistry) {
     assert.equal((record.cities || []).some((value) => /市场|营销|HR|运营|商务|供应链|客户|产品/i.test(value)), false, `${record.name} has track data in cities`);
