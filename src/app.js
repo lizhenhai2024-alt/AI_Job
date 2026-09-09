@@ -4,7 +4,11 @@ import { defaultProfile } from './data/profile.js';
 import { companyLibrary, companyLibraryMeta } from './data/company-library.js';
 import { rankJobs } from './core/matcher.js';
 import { buildDailyShortlist, dailyShortlistStats } from './core/shortlist.js';
-import { loadProfile, saveProfile, loadStatuses, saveStatuses } from './core/storage.js';
+import { createCompanyIntake, buildCompanyIntakeIssueUrl } from './core/company-intake.js';
+import {
+  loadProfile, saveProfile, loadStatuses, saveStatuses,
+  loadCompanyIntakes, upsertCompanyIntake
+} from './core/storage.js';
 
 const app = document.querySelector('#app');
 const PIPELINE = ['推荐', '已收藏', '已投递', '面试', 'Offer', '淘汰'];
@@ -12,6 +16,7 @@ const baseJobs = liveJobs.length ? liveJobs : demoJobs;
 
 const state = {
   tab: 'radar', radarMode: 'daily', profile: loadProfile(defaultProfile), statuses: loadStatuses(),
+  companyIntakes: loadCompanyIntakes(), showCompanyIntake: false, intakeMessage: '',
   filters: { keyword: '', city: '全部', role: '全部', tier: '全部', minScore: '0', company: '' }, selectedJobId: null
 };
 
@@ -82,26 +87,40 @@ function companyClues() {
   const libraryCards = companyLibrary.map((company) => {
     const linked = discovered.filter((item) => companyMatches(item.company, company.name) || (company.aliases || []).some((alias) => companyMatches(item.company, alias)));
     const jobs = linked.flatMap((item) => item.jobs);
-    const cities = [...new Set([...company.cities, ...linked.flatMap((item) => item.cities)])].filter(Boolean);
-    const roles = [...new Set([...company.targetTracks, ...linked.flatMap((item) => item.roles)])].filter(Boolean);
-    const best = jobs.sort((a, b) => b.match.score - a.match.score)[0];
+    const cities = [...new Set([...(company.cities || []), ...linked.flatMap((item) => item.cities)])].filter(Boolean);
+    const roles = [...new Set([...(company.targetTracks || []), ...linked.flatMap((item) => item.roles)])].filter(Boolean);
+    const best = [...jobs].sort((a, b) => b.match.score - a.match.score)[0];
+    const localIntake = state.companyIntakes.find((item) => companyMatches(item.name, company.name));
+    const intakeStatus = company.intakeStatus || localIntake?.status || '';
+    const intakeAnalysis = company.intakeAnalysis || '';
     return {
-      ...company, jobs, cities, roles,
+      ...company, jobs, cities, roles, localIntake,
       discoveredCount: jobs.length,
       bestScore: best?.match.score ?? null,
       bestTier: best?.match.tier ?? null,
+      intakeStatus,
       verification: jobs.length ? (best?.verification || '自动岗位池来源待核') : '尚无自动岗位池关联',
-      analysis: company.status === '主投'
+      analysis: intakeAnalysis || (company.status === '主投'
         ? '已进入主投池；公司状态不代替岗位核验，优先查看已关联的真实岗位。'
         : company.status === '风险'
           ? '风险观察：投递前需单独核验招聘稳定性与岗位真实性。'
-          : '纳入候选监测；发现真实岗位后再按个人画像参与排序。'
+          : '纳入候选监测；发现真实岗位后再按个人画像参与排序。')
     };
   });
   const unmatched = discovered.filter((item) => !libraryCards.some((company) => companyMatches(item.company, company.name) || (company.aliases || []).some((alias) => companyMatches(item.company, alias))))
     .map((item) => ({ ...item, status: '待归档', evidence: { count: 0, roles: [], cities: [], statuses: [], nextSteps: [] }, targetTracks: [], industries: [], analysis: '自动发现的新公司，尚未进入人工公司库。' }));
+  const localOnly = state.companyIntakes
+    .filter((request) => !libraryCards.some((company) => companyMatches(company.name, request.name)) && !unmatched.some((company) => companyMatches(company.company, request.name)))
+    .map((request) => ({
+      name: request.name, status: '观察', industries: [], cities: [], roles: request.focus || [], targetTracks: request.focus || [], jobs: [],
+      discoveredCount: 0, bestScore: null, bestTier: null, evidence: { count: 0 }, userRequested: true,
+      intakeStatus: request.status || '待提交分析', careerUrl: request.careerUrl || '', localIntake: request,
+      analysis: request.careerUrl
+        ? '已加入本机分析队列；在 GitHub 确认提交后，系统将识别招聘系统、核验 2027 届并尝试抓取岗位。'
+        : '已加入本机分析队列；尚未提供官方招聘链接，提交后先进入“待发现官方招聘入口”。'
+    }));
   const rank = { '主投': 4, '观察': 3, '风险': 2, '移出': 1, '待归档': 0 };
-  return [...libraryCards, ...unmatched].sort((a, b) => (rank[b.status] - rank[a.status]) || (b.bestScore || 0) - (a.bestScore || 0) || b.discoveredCount - a.discoveredCount);
+  return [...libraryCards, ...localOnly, ...unmatched].sort((a, b) => (rank[b.status] - rank[a.status]) || (b.bestScore || 0) - (a.bestScore || 0) || b.discoveredCount - a.discoveredCount);
 }
 
 function shell(content) {
@@ -181,17 +200,41 @@ function renderJobCard(job) {
   </article>`;
 }
 
+function renderCompanyIntakeForm() {
+  if (!state.showCompanyIntake) return '';
+  return `<section class="panel" style="margin-bottom:18px">
+    <form id="company-intake-form" class="profile-grid">
+      <div class="field"><label>公司名称 *</label><input name="name" required placeholder="例如：追觅科技" /></div>
+      <div class="field"><label>官方招聘 / 校招链接</label><input name="careerUrl" type="url" placeholder="https://...（可选，但建议填写）" /></div>
+      <div class="field wide"><label>重点关注方向</label><input name="focus" placeholder="海外运营、GTM、品牌、国际业务、HR..." /></div>
+      <div class="field wide"><label>备注</label><textarea name="note" rows="2" placeholder="为什么关注这家公司，或希望优先找哪类岗位"></textarea></div>
+    </form>
+    <div class="hint">提交后会先进入本机公司库，并打开 GitHub 的标准分析请求。确认提交后，Actions 才能安全写入共享公司库并自动识别招聘源；浏览器不会保存或暴露 GitHub Token。</div>
+    <div class="save-row"><button class="btn primary" id="submit-company-intake">加入公司库并提交分析</button></div>
+  </section>`;
+}
+
 function renderCompanies() {
   const companies = companyClues();
   const counts = ['主投','观察','风险','移出'].map((status) => `${status} ${companies.filter((item) => item.status === status).length}`).join(' · ');
-  return `<section class="hero"><div><h1>公司雷达</h1><p>公司库与实时岗位池分离：公司状态用于监测，只有关联到真实岗位才进入个人匹配排名。</p></div>
-    <div class="demo-note live-note"><strong>${companies.length} 家候选公司</strong><br>${esc(counts)}<br>公司库更新：${esc(companyLibraryMeta.generatedAt)} · 岗位池更新：${esc(fmtDateTime(discoveryMeta.updatedAt))}</div></section>
+  const requested = companies.filter((item) => item.userRequested || item.localIntake).length;
+  return `<section class="hero"><div><h1>公司雷达</h1><p>除了系统已维护的公司，也可以把新公司直接加入分析队列，让系统继续找官方 2027 校招和匹配岗位。</p>
+      <div class="actions" style="margin-top:12px"><button class="btn primary" data-toggle-company-intake="1">${state.showCompanyIntake ? '收起添加公司' : '+ 添加公司'}</button></div>
+    </div>
+    <div class="demo-note live-note"><strong>${companies.length} 家候选公司</strong><br>${esc(counts)} · 用户新增 ${requested}<br>公司库更新：${esc(companyLibraryMeta.generatedAt)} · 岗位池更新：${esc(fmtDateTime(discoveryMeta.updatedAt))}</div></section>
+    ${state.intakeMessage ? `<div class="source-box" style="margin-bottom:18px"><strong>${esc(state.intakeMessage)}</strong></div>` : ''}
+    ${renderCompanyIntakeForm()}
     <section class="company-grid">${companies.map((c) => `<article class="company-card">
-      <div class="company-card-head"><div><div class="company">${esc(c.status || '待归档')} · ${c.restoredCandidate ? '已恢复候选' : '公司库'}</div><h2>${esc(c.name || c.company)}</h2></div><div class="company-score">${c.bestScore ?? '—'}<small>${c.bestTier ? `${esc(c.bestTier)}档最高匹配` : '暂无实时评分'}</small></div></div>
+      <div class="company-card-head"><div><div class="company">${esc(c.status || '待归档')} · ${c.userRequested || c.localIntake ? '用户添加' : c.restoredCandidate ? '已恢复候选' : '公司库'}</div><h2>${esc(c.name || c.company)}</h2></div><div class="company-score">${c.bestScore ?? '—'}<small>${c.bestTier ? `${esc(c.bestTier)}档最高匹配` : '暂无实时评分'}</small></div></div>
       <div class="meta"><span>真实岗位 ${c.discoveredCount ?? c.jobs.length}</span><span>已启动证据 ${c.evidence?.count || 0} 条</span><span>📍 ${esc(c.cities.slice(0,3).join('、') || '待核')}</span></div>
       <div class="tags"><span class="tag">${esc(c.industries?.[0] || '待分类')}</span>${c.roles.slice(0,5).map((x) => `<span class="tag">${esc(x)}</span>`).join('')}</div>
+      ${c.intakeStatus ? `<div class="source-box"><strong>分析状态：${esc(c.intakeStatus)}</strong>${c.intakeProvider ? ` · ${esc(c.intakeProvider)}` : ''}</div>` : ''}
       <p class="company-analysis">${esc(c.analysis || '')}</p>
-      <div class="company-actions">${c.discoveredCount ? `<button class="btn primary" data-company="${esc(c.name || c.company)}">查看 ${c.discoveredCount} 个真实岗位</button>` : '<span class="hint">暂未关联实时岗位，持续监测中</span>'}</div>
+      <div class="company-actions">
+        ${c.discoveredCount ? `<button class="btn primary" data-company="${esc(c.name || c.company)}">查看 ${c.discoveredCount} 个真实岗位</button>` : '<span class="hint">暂未关联实时岗位，持续分析中</span>'}
+        ${c.careerUrl ? `<a class="btn" href="${esc(c.careerUrl)}" target="_blank" rel="noopener">官方招聘</a>` : ''}
+        ${c.intakeIssueUrl ? `<a class="btn" href="${esc(c.intakeIssueUrl)}" target="_blank" rel="noopener">分析请求</a>` : ''}
+      </div>
     </article>`).join('') || '<div class="empty">尚未发现公司。</div>'}</section>`;
 }
 
@@ -265,6 +308,30 @@ app.addEventListener('click', (event) => {
   if (tab) { state.tab = tab; state.selectedJobId = null; render(); return; }
   const radarMode = event.target.closest('[data-radar-mode]')?.dataset.radarMode;
   if (radarMode) { state.radarMode = radarMode; render(); return; }
+  if (event.target.closest('[data-toggle-company-intake]')) {
+    state.showCompanyIntake = !state.showCompanyIntake; state.intakeMessage = ''; render(); return;
+  }
+  if (event.target.id === 'submit-company-intake') {
+    const form = document.querySelector('#company-intake-form');
+    if (!form?.reportValidity()) return;
+    const data = new FormData(form);
+    try {
+      const request = createCompanyIntake({
+        name: data.get('name'), careerUrl: data.get('careerUrl'), focus: data.get('focus'), note: data.get('note')
+      });
+      const issueUrl = buildCompanyIntakeIssueUrl(request);
+      request.issueUrl = issueUrl;
+      request.status = '已加入本机队列，待 GitHub 确认';
+      state.companyIntakes = upsertCompanyIntake(request);
+      state.intakeMessage = `${request.name} 已加入本机公司库。请在刚打开的 GitHub 页面点击 Submit new issue，后台才会正式开始分析和抓岗。`;
+      state.showCompanyIntake = false;
+      window.open(issueUrl, '_blank', 'noopener');
+      render();
+    } catch (error) {
+      state.intakeMessage = String(error?.message || error); render();
+    }
+    return;
+  }
   const company = event.target.closest('[data-company]')?.dataset.company;
   if (company) {
     state.filters.company = company; state.filters.keyword = ''; state.filters.city = '全部'; state.filters.role = '全部'; state.filters.tier = '全部'; state.filters.minScore = '0';
