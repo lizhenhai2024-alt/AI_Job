@@ -208,6 +208,17 @@
       "pageSize": 100,
       "maxPages": 30,
       "maxJobs": 3000
+    },
+    {
+      "company": "蔚来",
+      "baseUrl": "https://nio.jobs.feishu.cn",
+      "websitePath": "index",
+      "graduationYear": "2027",
+      "detailTemplate": "https://nio.jobs.feishu.cn/index/m/position/{id}/detail",
+      "pageSize": 100,
+      "maxPages": 30,
+      "maxJobs": 3000,
+      "monitoringNote": "2027正式批已启动；仅岗位文本明确2027届时入池"
     }
   ],
   "hotjob": [

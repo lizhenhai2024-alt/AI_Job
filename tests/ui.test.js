@@ -3,6 +3,8 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 
 const appSource = fs.readFileSync(new URL('../src/app.js', import.meta.url), 'utf8');
+const bootstrapSource = fs.readFileSync(new URL('../src/bootstrap.js', import.meta.url), 'utf8');
+const imeGuardSource = fs.readFileSync(new URL('../src/ime-guard.js', import.meta.url), 'utf8');
 
 test('match analysis exposes eligibility, five-step V3 reasoning and direct real evidence', () => {
   for (const text of ['投递资格', '五步 JD + 投递判断', '真实经历证据', 'V3 评分维度']) {
@@ -28,6 +30,13 @@ test('company radar exposes safe add-company intake and ATS analysis queue', () 
   assert.ok(appSource.includes('buildCompanyIntakeIssueUrl'));
   assert.ok(appSource.includes('upsertCompanyIntake'));
   assert.ok(appSource.includes("window.open(issueUrl, '_blank', 'noopener')"));
+});
+
+test('keyword input preserves Chinese IME composition until candidate commit', () => {
+  assert.ok(bootstrapSource.indexOf("import './ime-guard.js'") < bootstrapSource.indexOf("import './app.js'"));
+  for (const text of ['filter-keyword', 'compositionstart', 'compositionend', 'event.isComposing', 'stopImmediatePropagation']) {
+    assert.ok(imeGuardSource.includes(text), `missing IME guard behavior: ${text}`);
+  }
 });
 
 test('profile page exposes evidence baseline and keeps it on save', () => {
