@@ -17,5 +17,6 @@ export const companySourceSeeds = [
   { company: 'Bilibili', url: 'https://www.bilibili.com/blackboard/join-list.html', note: '哔哩哔哩官方招聘职位页', verifiedAt: '2026-09-09' },
   { company: '致欧家居', url: 'https://songmicshome.jobs.feishu.cn/852372', note: '致欧家居官方飞书校园招聘入口', graduationYear: '2027', cohortEvidence: '致欧家居2027届校园招聘', verifiedAt: '2026-09-09' },
   { company: 'Shopee', url: 'https://app.mokahr.com/campus_apply/shopee/2962#/jobs', note: 'Shopee研发中心官方Moka校园招聘入口', graduationYear: '2027', cohortEvidence: 'Shopee研发中心2027届校园招聘', verifiedAt: '2026-09-09' },
-  { company: '三一集团', url: 'https://sanycampus.zhiye.com/campus/jobs', note: '三一集团官方北森校园招聘入口', graduationYear: '2027', cohortEvidence: '三一集团2027届校园招聘', verifiedAt: '2026-09-09' }
+  { company: '三一集团', url: 'https://sanycampus.zhiye.com/campus/jobs', note: '三一集团官方北森校园招聘入口', graduationYear: '2027', cohortEvidence: '三一集团2027届校园招聘', verifiedAt: '2026-09-09' },
+  { company: '福耀玻璃', url: 'https://job.fuyaogroup.com/', note: '福耀集团官方校园招聘入口；用于逐岗位官网核验', graduationYear: '2027', cohortEvidence: '福耀集团2027届校园招聘已启动', verifiedAt: '2026-09-09' }
 ];
