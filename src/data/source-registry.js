@@ -165,6 +165,10 @@ export const sourceRegistry = [
     "company": "德勤中国"
   },
   {
+    "provider": "hotjob",
+    "company": "Decathlon"
+  },
+  {
     "provider": "anker",
     "company": "安克创新"
   },
