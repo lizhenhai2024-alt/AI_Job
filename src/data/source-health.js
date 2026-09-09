@@ -181,7 +181,7 @@ export const sourceHealth = {
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留21"
+      "reason": "北森源正常：扫描100，源内保留2"
     },
     {
       "provider": "beisen",
@@ -195,7 +195,7 @@ export const sourceHealth = {
       "company": "Babycare",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描247，源内保留38"
+      "reason": "北森源正常：扫描249，源内保留38"
     },
     {
       "provider": "beisen",
@@ -240,6 +240,13 @@ export const sourceHealth = {
       "reason": "北森源正常：扫描136，源内保留12"
     },
     {
+      "provider": "beisen",
+      "company": "名创优品",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描31，源内保留1"
+    },
+    {
       "provider": "feishu",
       "company": "影石Insta360",
       "status": "healthy",
@@ -251,7 +258,7 @@ export const sourceHealth = {
       "company": "得物App",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出160，正式2027候选152，筛选后100"
+      "reason": "官方飞书源正常：列出161，正式2027候选153，筛选后100"
     },
     {
       "provider": "feishu",
@@ -268,11 +275,18 @@ export const sourceHealth = {
       "reason": "识别到49个2027岗位，但全部属于实习/社招；需要定位正式批入口"
     },
     {
+      "provider": "feishu",
+      "company": "致欧家居",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方飞书源正常：列出27，正式2027候选26，筛选后23"
+    },
+    {
       "provider": "hotjob",
       "company": "德勤中国",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出144，源内保留99"
+      "reason": "HotJob源正常：列出179，源内保留120"
     },
     {
       "provider": "anker",
@@ -291,11 +305,11 @@ export const sourceHealth = {
   ],
   "counts": {
     "empty": 19,
-    "healthy": 21,
+    "healthy": 23,
     "no_formal_2027": 1
   },
-  "total": 41,
-  "healthy": 21,
+  "total": 43,
+  "healthy": 23,
   "attention": 20,
-  "updatedAt": "2026-09-09T06:03:48.291Z"
+  "updatedAt": "2026-09-09T07:19:57.538Z"
 };
