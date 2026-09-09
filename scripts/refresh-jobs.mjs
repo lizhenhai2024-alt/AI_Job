@@ -160,9 +160,9 @@ const updatedAt = new Date().toISOString();
 const meta = {
   updatedAt,
   source: '多源：公司官方招聘官网/API + 牛客公开职位',
-  mode: '官方多ATS源优先去重 + JD专业/技术门槛过滤 + 英语专业适配信号 + 前端画像 S/A/B 精排',
+  mode: '官方多ATS源优先去重 + JD专业/技术/小语种硬门槛过滤 + 英语专业适配信号 + 前端画像 S/A/B 精排',
   stats: { sources: sourceStats, sourceHealth, policyExcluded: policyStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。'
+  note: '硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书、必须小语种。小语种仅为优先/加分项，或英语与小语种明确任选其一时保留。保留但降权：专业列表不利于英语专业、技术背景优先、相关专业硕士优先、专业证书优先。专业不限、跨部门沟通、资料整理、翻译/本地化、客户沟通、国际业务等作为友好信号。'
 };
 
 await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
