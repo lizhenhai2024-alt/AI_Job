@@ -5,18 +5,20 @@ import { liveJobs } from '../src/data/live-jobs.js';
 import { companyRegistry, isValidCompanyRecord } from '../src/data/company-registry.js';
 import { sourceRegistry } from '../src/data/source-registry.js';
 import { companyRequests } from '../src/data/company-requests.js';
+import { sourceDiscovery } from '../src/data/source-discovery.js';
 
 const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/bootstrap.js', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
   'src/core/shortlist.js', 'src/core/company-intake.js', 'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
-  'src/data/company-library.js', 'src/data/company-registry.js', 'src/data/company-requests.js', 'src/data/source-registry.js',
+  'src/data/company-library.js', 'src/data/company-registry.js', 'src/data/company-requests.js', 'src/data/source-registry.js', 'src/data/source-discovery.js',
   'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs',
   'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/feishu.mjs', 'scripts/job-discovery/hotjob.mjs',
-  'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs', 'scripts/refresh-jobs.mjs',
-  'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs', 'scripts/build-company-requests.mjs',
-  'scripts/process-company-intake.mjs', 'config/search-profile.json', 'config/official-sources.json', 'config/company-requests.json',
-  '.github/workflows/company-intake.yml', 'README.md', 'docs/PLAN.md'
+  'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs', 'scripts/job-discovery/source-candidates.mjs', 'scripts/job-discovery/source-health.mjs',
+  'scripts/refresh-jobs.mjs', 'scripts/refresh-jobs-scoped.mjs', 'scripts/discover-company-sources.mjs',
+  'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs', 'scripts/build-company-requests.mjs', 'scripts/build-source-discovery.mjs',
+  'scripts/process-company-intake.mjs', 'config/search-profile.json', 'config/official-sources.json', 'config/company-requests.json', 'config/source-discovery.json',
+  '.github/workflows/company-intake.yml', '.github/workflows/job-refresh.yml', 'README.md', 'docs/PLAN.md'
 ];
 
 for (const file of required) {
@@ -48,6 +50,19 @@ if (JSON.stringify(requestConfig) !== JSON.stringify(companyRequests)) {
 }
 if (companyRequests.some((request) => !request?.name || !request?.status || !request?.requestedAt)) {
   throw new Error('company request schema validation failed');
+}
+
+const discoveryConfig = JSON.parse(fs.readFileSync(path.join(root, 'config/source-discovery.json'), 'utf8'));
+if (Number(discoveryConfig.version) !== 1 || typeof discoveryConfig.companies !== 'object' || Array.isArray(discoveryConfig.companies)) {
+  throw new Error('source discovery state schema validation failed');
+}
+const generatedDiscovery = Object.values(discoveryConfig.companies || {}).map((item) => ({
+  name: item.name || '', status: item.status || '', state: item.state || 'queued', provider: item.provider || '',
+  officialUrl: item.officialUrl || '', reason: item.reason || '', attempts: Number(item.attempts || 0),
+  lastCheckedAt: item.lastCheckedAt || '', nextCheckAfter: item.nextCheckAfter || ''
+})).filter((item) => item.name).sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'));
+if (JSON.stringify(generatedDiscovery) !== JSON.stringify(sourceDiscovery)) {
+  throw new Error('source-discovery.js is stale; run npm run build:source-discovery');
 }
 
 const sources = JSON.parse(fs.readFileSync(path.join(root, 'config/official-sources.json'), 'utf8'));
@@ -105,6 +120,9 @@ if (companyRegistry.some((record) => record.status !== '主投' && (record.indus
 if (companyRegistry.some((record) => (record.cities || []).some((value) => /市场|营销|HR|运营|商务|供应链|客户|产品/i.test(value)))) {
   throw new Error('company cities contains target-track data');
 }
+if (companyRegistry.filter((record) => ['主投','观察'].includes(record.status)).some((record) => !record.sourceDiscoveryState)) {
+  throw new Error('active company missing source discovery coverage state');
+}
 const missingRequests = companyRequests.filter((request) => !companyRegistry.some((record) => record.userRequested && (() => {
   const clean = (value) => String(value || '').replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '').replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase();
   const a = clean(record.name); const b = clean(request.name);
@@ -118,4 +136,4 @@ const missingManaged = sourceRegistry.filter((source) => !companyRegistry.some((
 })()));
 if (missingManaged.length) throw new Error(`official sources missing from company registry: ${missingManaged.map((x) => `${x.provider}:${x.company}`).join(', ')}`);
 
-console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${companyRegistry.length} unified companies, ${sourceRegistry.length} official source links, ${companyRequests.length} company intake requests, provenance and registry quality OK.`);
+console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${companyRegistry.length} unified companies, ${sourceRegistry.length} official source links, ${companyRequests.length} company intake requests, ${sourceDiscovery.length} source discovery audits, provenance and registry quality OK.`);
