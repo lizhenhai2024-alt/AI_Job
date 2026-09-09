@@ -3,7 +3,7 @@ import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_N
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','咨询','沟通','分析'];
 const SHORT_2027_RX = /(?:^|[^0-9])27\s*届(?:毕业生|校招|秋招|应届)?/i;
-const CAMPUS_2027_RX = /2027\s*届|Campus\s*2027|2027\s*Campus|27\s*届/i;
+const CAMPUS_2027_RX = /2027\s*届|Campus\s*2027|2027\s*Campus|2027[^\n。]{0,20}(?:校园招聘|校招|秋招|秋季招聘|应届|毕业生项目)|27\s*届/i;
 const INTERNSHIP_RX = /实习|\bIntern(?:ship)?\b/i;
 const PURE_SALES_RX = /销售管培生|销售代表|销售专员|销售顾问|销售经理|海外销售|国际销售|渠道销售|区域销售|大客户销售/i;
 const NON_PURE_SALES_RX = /销售运营|销售支持|销售分析|销售策略|销售计划|销售管理|商务运营/i;
