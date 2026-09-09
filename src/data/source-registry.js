@@ -133,6 +133,10 @@ export const sourceRegistry = [
     "company": "万兴科技"
   },
   {
+    "provider": "beisen",
+    "company": "三一集团"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },

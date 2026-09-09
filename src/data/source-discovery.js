@@ -3,24 +3,24 @@ export const sourceDiscovery = [
   {
     "name": "阿里巴巴",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-    "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+    "officialUrl": "https://www.alibabagroup.com/en-US/careers",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   },
   {
     "name": "爱奇艺",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-    "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+    "officialUrl": "https://careers.iqiyi.com/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   },
   {
     "name": "顾家家居",
@@ -80,35 +80,46 @@ export const sourceDiscovery = [
   {
     "name": "美团",
     "status": "主投",
-    "state": "candidate_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "https://career.meituan.com/web/campus",
-    "reason": "候选官网不可稳定访问：HTTP 0",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-12T05:41:29.410Z"
+    "officialUrl": "https://career.meituan.com/web/campus?source=mtgw",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   },
   {
     "name": "名创优品",
     "status": "主投",
-    "state": "not_found",
-    "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    "state": "no_2027_evidence",
+    "provider": "beisen",
+    "officialUrl": "https://miniso.zhiye.com/campus",
+    "reason": "识别为北森，但当前页面/搜索证据没有明确2027校招信息",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-14T05:53:46.860Z"
   },
   {
     "name": "拼多多",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
+    "officialUrl": "https://careers.pddglobalhr.com/campus/grad",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
+  },
+  {
+    "name": "三一集团",
+    "status": "主投",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://sany.zhiye.com/campus/jobs",
+    "reason": "北森2027证据和标准API均通过（岗位约136）",
     "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "森大&特福",
@@ -135,46 +146,46 @@ export const sourceDiscovery = [
   {
     "name": "腾讯",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-    "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+    "officialUrl": "https://careers.tencent.com/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   },
   {
     "name": "小红书",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    "officialUrl": "https://job.xiaohongshu.com/campus",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   },
   {
     "name": "致欧家居",
     "status": "主投",
-    "state": "not_found",
-    "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    "state": "candidate_found",
+    "provider": "feishu",
+    "officialUrl": "https://songmicshome.jobs.feishu.cn/852372",
+    "reason": "飞书 API HTTP 405",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   },
   {
     "name": "字节跳动",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-    "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    "officialUrl": "https://jobs.bytedance.com/campus/position",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   },
   {
     "name": "AliExpress",
@@ -223,13 +234,13 @@ export const sourceDiscovery = [
   {
     "name": "Lazada",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-    "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+    "officialUrl": "https://www.lazada.com/en/careers/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   },
   {
     "name": "Shopee",
@@ -256,21 +267,21 @@ export const sourceDiscovery = [
   {
     "name": "TikTok",
     "status": "主投",
-    "state": "not_found",
+    "state": "needs_adapter",
     "provider": "",
-    "officialUrl": "",
-    "reason": "本轮未找到可信官方招聘入口",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-    "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+    "officialUrl": "https://lifeattiktok.com/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 2,
+    "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+    "nextCheckAfter": "2026-09-12T05:53:46.860Z"
   }
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-09T05:41:29.410Z",
+  "updatedAt": "2026-09-09T05:53:46.860Z",
   "lastRun": {
     "processed": 12,
-    "sourcesAdded": 0,
+    "sourcesAdded": 1,
     "errors": 0,
     "batchSize": 12,
     "forceRetry": true

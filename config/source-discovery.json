@@ -1,18 +1,49 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T05:41:29.410Z",
+  "updatedAt": "2026-09-09T05:53:46.860Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
       "status": "主投",
-      "state": "not_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-      "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+      "officialUrl": "https://www.lazada.com/en/careers/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.lazada.com/en/careers/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://www.lazada.cn/recruit",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://www.lazada.com/en/careers/job-search/?category=00000808&section=graduate",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://www.lazada.com/en/careers/job-search/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://campus-talent.alibaba.com/campus/business/detail?circleCode=60005",
+          "provider": "",
+          "state": "candidate_rejected",
+          "reason": "候选页面缺少足够的公司身份信息，未自动接入"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "兰亭集势": {
       "name": "兰亭集势",
@@ -41,14 +72,21 @@
     "腾讯": {
       "name": "腾讯",
       "status": "主投",
-      "state": "not_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-      "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+      "officialUrl": "https://careers.tencent.com/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.tencent.com/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "aliexpress": {
       "name": "AliExpress",
@@ -65,38 +103,59 @@
     "tiktok": {
       "name": "TikTok",
       "status": "主投",
-      "state": "not_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-      "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+      "officialUrl": "https://lifeattiktok.com/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://lifeattiktok.com/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "阿里巴巴": {
       "name": "阿里巴巴",
       "status": "主投",
-      "state": "not_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-      "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+      "officialUrl": "https://www.alibabagroup.com/en-US/careers",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.alibabagroup.com/en-US/careers",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "爱奇艺": {
       "name": "爱奇艺",
       "status": "主投",
-      "state": "not_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:31:20.646Z",
-      "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+      "officialUrl": "https://careers.iqiyi.com/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.iqiyi.com/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "顾家家居": {
       "name": "顾家家居",
@@ -149,69 +208,59 @@
     "美团": {
       "name": "美团",
       "status": "主投",
-      "state": "candidate_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "https://career.meituan.com/web/campus",
-      "reason": "候选官网不可稳定访问：HTTP 0",
+      "officialUrl": "https://career.meituan.com/web/campus?source=mtgw",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
       "candidates": [
         {
-          "url": "https://career.meituan.com/web/campus",
+          "url": "https://career.meituan.com/web/campus?source=mtgw",
           "provider": "",
-          "state": "candidate_found",
-          "reason": "候选官网不可稳定访问：HTTP 0"
-        },
-        {
-          "url": "https://job.meituan.com/",
-          "provider": "",
-          "state": "candidate_found",
-          "reason": "候选官网不可稳定访问：HTTP 0"
-        },
-        {
-          "url": "https://zhaopin.meituan.com/web/campus/schedule",
-          "provider": "",
-          "state": "candidate_found",
-          "reason": "候选官网不可稳定访问：HTTP 0"
-        },
-        {
-          "url": "https://career.xujc.com/2026/0826/c3959a172381/page.htm",
-          "provider": "",
-          "state": "candidate_found",
-          "reason": "候选官网不可稳定访问：HTTP 0"
-        },
-        {
-          "url": "https://campus.meituan.com/",
-          "provider": "",
-          "state": "candidate_found",
-          "reason": "候选官网不可稳定访问：HTTP 0"
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-      "nextCheckAfter": "2026-09-12T05:41:29.410Z"
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "名创优品": {
       "name": "名创优品",
       "status": "主投",
-      "state": "not_found",
-      "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-      "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+      "state": "no_2027_evidence",
+      "provider": "beisen",
+      "officialUrl": "https://miniso.zhiye.com/campus",
+      "reason": "识别为北森，但当前页面/搜索证据没有明确2027校招信息",
+      "candidates": [
+        {
+          "url": "https://miniso.zhiye.com/campus",
+          "provider": "beisen",
+          "state": "no_2027_evidence",
+          "reason": "识别为北森，但当前页面/搜索证据没有明确2027校招信息"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-14T05:53:46.860Z"
     },
     "拼多多": {
       "name": "拼多多",
       "status": "主投",
-      "state": "not_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-      "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+      "officialUrl": "https://careers.pddglobalhr.com/campus/grad",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.pddglobalhr.com/campus/grad",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "水羊御泥坊": {
       "name": "水羊集团御泥坊",
@@ -228,38 +277,59 @@
     "小红书": {
       "name": "小红书",
       "status": "主投",
-      "state": "not_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-      "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+      "officialUrl": "https://job.xiaohongshu.com/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://job.xiaohongshu.com/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "致欧家居": {
       "name": "致欧家居",
       "status": "主投",
-      "state": "not_found",
-      "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-      "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+      "state": "candidate_found",
+      "provider": "feishu",
+      "officialUrl": "https://songmicshome.jobs.feishu.cn/852372",
+      "reason": "飞书 API HTTP 405",
+      "candidates": [
+        {
+          "url": "https://songmicshome.jobs.feishu.cn/852372",
+          "provider": "feishu",
+          "state": "candidate_found",
+          "reason": "飞书 API HTTP 405"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "字节跳动": {
       "name": "字节跳动",
       "status": "主投",
-      "state": "not_found",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
-      "candidates": [],
-      "attempts": 1,
-      "lastCheckedAt": "2026-09-09T05:41:29.410Z",
-      "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+      "officialUrl": "https://jobs.bytedance.com/campus/position",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://jobs.bytedance.com/campus/position",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 2,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": "2026-09-12T05:53:46.860Z"
     },
     "amazon": {
       "name": "Amazon",
@@ -320,11 +390,42 @@
       "attempts": 1,
       "lastCheckedAt": "2026-09-09T05:41:29.410Z",
       "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+    },
+    "三一": {
+      "name": "三一集团",
+      "status": "主投",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://sany.zhiye.com/campus/jobs",
+      "reason": "北森2027证据和标准API均通过（岗位约136）",
+      "candidates": [
+        {
+          "url": "https://sanycampus.zhiye.com/campus/jobs",
+          "provider": "beisen",
+          "state": "no_2027_evidence",
+          "reason": "识别为北森，但当前页面/搜索证据没有明确2027校招信息"
+        },
+        {
+          "url": "https://www.sanygroup.com/join/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://sany.zhiye.com/campus/jobs",
+          "provider": "beisen",
+          "state": "source_registered",
+          "reason": "北森2027证据和标准API均通过（岗位约136）"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-09T05:53:46.860Z",
+      "nextCheckAfter": ""
     }
   },
   "lastRun": {
     "processed": 12,
-    "sourcesAdded": 0,
+    "sourcesAdded": 1,
     "errors": 0,
     "batchSize": 12,
     "forceRetry": true
