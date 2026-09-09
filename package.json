@@ -9,6 +9,7 @@
     "check": "npm run lint && npm test",
     "refresh:jobs": "node scripts/refresh-jobs.mjs",
     "build:source-registry": "node scripts/build-source-registry.mjs",
+    "build:company-requests": "node scripts/build-company-requests.mjs",
     "serve": "python3 -m http.server 4173"
   },
   "dependencies": {
