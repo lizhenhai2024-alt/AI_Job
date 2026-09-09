@@ -3,39 +3,26 @@ import { sourceRegistry } from './source-registry.js';
 import { companyRequests } from './company-requests.js';
 import { sourceDiscovery } from './source-discovery.js';
 import { sourceHealth } from './source-health.js';
+import { companySourceSeeds } from './company-source-seeds.js';
 
 const CITY_NAMES = ['北京','上海','广州','深圳','杭州','苏州','无锡','长沙','武汉','西安','成都','天津','南京','佛山','东莞','珠海','惠州','厦门','济南','青岛','昆明','长春','宁波','合肥','郑州','重庆','青岛','大连','沈阳','福州','南昌','南宁'];
 const CITY_SET = new Set(CITY_NAMES);
 const TRACK_HINT = /(市场|营销|品牌|运营|商务|客户|HR|人力|供应链|采购|财务|咨询|审计|法务|销售支持|客户成功|产品|项目管理|国际业务|跨境|电商|海外|GTM|物流)/i;
 const DISCOVERY_LABELS = {
-  queued: '待发现官方招聘入口',
-  not_found: '本轮未找到官网，待重试',
-  candidate_found: '找到候选招聘入口，待复核',
-  candidate_rejected: '候选入口身份不充分，待重试',
-  no_2027_evidence: '找到招聘入口，暂无2027证据',
-  needs_adapter: '找到官方招聘页，待适配抓取器',
-  search_error: '来源发现异常，待自动重试',
-  source_registered: '官方源已识别，等待岗位刷新',
-  official_source: '官方源已接入'
+  queued: '待发现官方招聘入口', not_found: '本轮未找到官网，待重试', candidate_found: '找到候选招聘入口，待复核',
+  candidate_rejected: '候选入口身份不充分，待重试', no_2027_evidence: '找到招聘入口，暂无2027证据',
+  needs_adapter: '找到官方招聘页，待适配抓取器', search_error: '来源发现异常，待自动重试',
+  source_registered: '官方源已识别，等待岗位刷新', official_source: '官方源已接入'
 };
 const HEALTH_LABELS = {
-  healthy: '官方源正常',
-  error: '官方源抓取异常',
-  empty: '官方源当前无岗位/需检查',
-  no_2027: '官方源未识别到2027届',
-  no_formal_2027: '官方源没有2027正式岗，需换入口',
-  broad_scope: '官方源范围过宽，需定位2027专属入口',
-  unknown: '官方源健康状态待核'
+  healthy: '官方源正常', error: '官方源抓取异常', empty: '官方源当前无岗位/需检查', no_2027: '官方源未识别到2027届',
+  no_formal_2027: '官方源没有2027正式岗，需换入口', broad_scope: '官方源范围过宽，需定位2027专属入口', unknown: '官方源健康状态待核'
 };
 
 export function canonicalCompanyKey(value = '') {
-  return String(value)
-    .replace(/^[\s🔴🟢🔵✅❌⭐★•·]+/u, '')
-    .replace(/[（(].*?[）)]/g, '')
+  return String(value).replace(/^[\s🔴🟢🔵✅❌⭐★•·]+/u, '').replace(/[（(].*?[）)]/g, '')
     .replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '')
-    .replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '')
-    .toLowerCase()
-    .trim();
+    .replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase().trim();
 }
 
 export function isValidCompanyRecord(record) {
@@ -47,12 +34,7 @@ export function isValidCompanyRecord(record) {
 
 export function normalizeCities(values = []) {
   const found = [];
-  for (const value of values || []) {
-    const text = String(value || '');
-    for (const city of CITY_NAMES) {
-      if (text.includes(city) && !found.includes(city)) found.push(city);
-    }
-  }
+  for (const value of values || []) for (const city of CITY_NAMES) if (String(value || '').includes(city) && !found.includes(city)) found.push(city);
   return found;
 }
 
@@ -61,9 +43,7 @@ export function normalizeTracks(targetTracks = [], legacyCities = []) {
   const add = (value) => {
     const text = String(value || '').trim();
     if (!text || !TRACK_HINT.test(text)) return;
-    for (const part of text.split(/[\/、，,]/).map((item) => item.trim()).filter(Boolean)) {
-      if (TRACK_HINT.test(part) && !tracks.includes(part)) tracks.push(part);
-    }
+    for (const part of text.split(/[\/、，,]/).map((item) => item.trim()).filter(Boolean)) if (TRACK_HINT.test(part) && !tracks.includes(part)) tracks.push(part);
   };
   for (const value of targetTracks || []) add(value);
   for (const value of legacyCities || []) add(value);
@@ -77,68 +57,56 @@ function findMatch(records, name) {
     const candidate = canonicalCompanyKey(record.name);
     if (!candidate) return false;
     if (candidate === key) return true;
-    const minLength = Math.min(candidate.length, key.length);
-    return minLength >= 3 && (candidate.includes(key) || key.includes(candidate));
+    return Math.min(candidate.length, key.length) >= 3 && (candidate.includes(key) || key.includes(candidate));
   }) || null;
 }
 
-export function buildCompanyRegistry(library = companyLibrary, sources = sourceRegistry, requests = companyRequests, discoveries = sourceDiscovery, health = sourceHealth) {
-  const records = library
-    .filter(isValidCompanyRecord)
-    .map((record) => {
-      const legacyCities = [...(record.cities || [])];
-      return {
-        ...record,
-        industries: record.status === '主投' ? [...(record.industries || [])] : [],
-        cities: normalizeCities(legacyCities),
-        targetTracks: normalizeTracks(record.targetTracks || [], legacyCities),
-        sourceProviders: [],
-        sourceManaged: false,
-        sourceDiscoveryState: 'queued',
-        sourceDiscoveryReason: '',
-        sourceDiscoveryUrl: '',
-        sourceDiscoveryCheckedAt: '',
-        sourceHealthStatus: '',
-        sourceHealthReason: '',
-        userRequested: false
-      };
-    });
+export function buildCompanyRegistry(library = companyLibrary, sources = sourceRegistry, requests = companyRequests, discoveries = sourceDiscovery, health = sourceHealth, seeds = companySourceSeeds) {
+  const records = library.filter(isValidCompanyRecord).map((record) => {
+    const legacyCities = [...(record.cities || [])];
+    return {
+      ...record,
+      industries: record.status === '主投' ? [...(record.industries || [])] : [], cities: normalizeCities(legacyCities),
+      targetTracks: normalizeTracks(record.targetTracks || [], legacyCities), sourceProviders: [], sourceManaged: false,
+      sourceDiscoveryState: 'queued', sourceDiscoveryReason: '', sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '',
+      sourceHealthStatus: '', sourceHealthReason: '', userRequested: false
+    };
+  });
 
+  // Curated seeds improve discovery recall only. They never mark a company as source-managed.
+  for (const seed of seeds || []) {
+    const record = findMatch(records, seed?.company);
+    if (!record || !seed?.url) continue;
+    if (!record.careerUrl) record.careerUrl = seed.url;
+    record.careerUrlSeeded = true;
+    record.careerUrlVerifiedAt = seed.verifiedAt || '';
+    record.careerUrlEvidence = seed.note || '';
+  }
+
+  // User-provided URLs are authoritative over curated seeds.
   for (const request of requests || []) {
     if (!isValidCompanyRecord({ name: request?.name })) continue;
     let record = findMatch(records, request.name);
     if (!record) {
-      record = {
-        name: request.name,
-        status: '观察',
-        industries: [], cities: [], targetTracks: [], evidence: { count: 0 },
-        sourceProviders: [], sourceManaged: false, sourceDiscoveryState: 'queued', sourceDiscoveryReason: '',
-        sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '', sourceHealthStatus: '', sourceHealthReason: ''
-      };
+      record = { name: request.name, status: '观察', industries: [], cities: [], targetTracks: [], evidence: { count: 0 }, sourceProviders: [], sourceManaged: false,
+        sourceDiscoveryState: 'queued', sourceDiscoveryReason: '', sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '', sourceHealthStatus: '', sourceHealthReason: '' };
       records.push(record);
     }
     record.userRequested = true;
-    record.intakeStatus = request.status || '待分析';
-    record.intakeProvider = request.provider || '';
-    record.intakeAnalysis = request.analysis || '';
-    record.careerUrl = request.careerUrl || record.careerUrl || '';
-    record.intakeIssueUrl = request.issueUrl || '';
-    record.requestedAt = request.requestedAt || '';
+    record.intakeStatus = request.status || '待分析'; record.intakeProvider = request.provider || ''; record.intakeAnalysis = request.analysis || '';
+    if (request.careerUrl) { record.careerUrl = request.careerUrl; record.careerUrlSeeded = false; }
+    record.intakeIssueUrl = request.issueUrl || ''; record.requestedAt = request.requestedAt || '';
     record.targetTracks = [...new Set([...(record.targetTracks || []), ...normalizeTracks(request.focus || [])])];
   }
 
   for (const source of sources) {
     let record = findMatch(records, source.company);
     if (!record) {
-      record = {
-        name: source.company, status: '观察', industries: [], cities: [], targetTracks: [], evidence: { count: 0 },
-        sourceProviders: [], sourceManaged: true, sourceDiscoveryState: 'official_source', sourceDiscoveryReason: '',
-        sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '', sourceHealthStatus: '', sourceHealthReason: '', userRequested: false
-      };
+      record = { name: source.company, status: '观察', industries: [], cities: [], targetTracks: [], evidence: { count: 0 }, sourceProviders: [], sourceManaged: true,
+        sourceDiscoveryState: 'official_source', sourceDiscoveryReason: '', sourceDiscoveryUrl: '', sourceDiscoveryCheckedAt: '', sourceHealthStatus: '', sourceHealthReason: '', userRequested: false };
       records.push(record);
     }
-    record.sourceManaged = true;
-    record.sourceDiscoveryState = 'official_source';
+    record.sourceManaged = true; record.sourceDiscoveryState = 'official_source';
     if (!record.sourceProviders.includes(source.provider)) record.sourceProviders.push(source.provider);
     if (record.userRequested && /等待岗位刷新|官方源已存在/.test(record.intakeStatus || '')) record.intakeStatus = '官方源已接入';
   }
@@ -148,20 +116,15 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
     const record = findMatch(records, discovery.name);
     if (!record) continue;
     record.sourceDiscoveryState = record.sourceManaged ? 'official_source' : (discovery.state || 'queued');
-    record.sourceDiscoveryProvider = discovery.provider || '';
-    record.sourceDiscoveryReason = discovery.reason || '';
-    record.sourceDiscoveryUrl = discovery.officialUrl || '';
-    record.sourceDiscoveryCheckedAt = discovery.lastCheckedAt || '';
-    record.sourceDiscoveryNextCheck = discovery.nextCheckAfter || '';
-    record.sourceDiscoveryAttempts = Number(discovery.attempts || 0);
+    record.sourceDiscoveryProvider = discovery.provider || ''; record.sourceDiscoveryReason = discovery.reason || '';
+    record.sourceDiscoveryUrl = discovery.officialUrl || ''; record.sourceDiscoveryCheckedAt = discovery.lastCheckedAt || '';
+    record.sourceDiscoveryNextCheck = discovery.nextCheckAfter || ''; record.sourceDiscoveryAttempts = Number(discovery.attempts || 0);
   }
 
   for (const item of health?.companies || []) {
     const record = findMatch(records, item.company);
     if (!record) continue;
-    record.sourceHealthStatus = item.status || 'unknown';
-    record.sourceHealthReason = item.reason || '';
-    record.sourceHealthHealthy = Boolean(item.healthy);
+    record.sourceHealthStatus = item.status || 'unknown'; record.sourceHealthReason = item.reason || ''; record.sourceHealthHealthy = Boolean(item.healthy);
   }
 
   for (const record of records) {
@@ -180,6 +143,7 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
     if (!record.intakeStatus || !record.userRequested) record.intakeStatus = label;
     if (!record.intakeProvider && record.sourceDiscoveryProvider) record.intakeProvider = record.sourceDiscoveryProvider;
     if (!record.intakeAnalysis && record.sourceDiscoveryReason) record.intakeAnalysis = record.sourceDiscoveryReason;
+    if (!record.intakeAnalysis && record.careerUrlSeeded) record.intakeAnalysis = `已核验官方招聘入口种子；仍需通过2027届与抓取器探针：${record.careerUrlEvidence || '待探针'}`;
     if (!record.intakeAnalysis) record.intakeAnalysis = '已进入统一来源发现队列；系统会自动寻找官方招聘入口、核验2027校招证据并在探针通过后接入抓岗。';
     if (!record.careerUrl && record.sourceDiscoveryUrl) record.careerUrl = record.sourceDiscoveryUrl;
   }
