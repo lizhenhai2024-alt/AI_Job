@@ -166,11 +166,14 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
 
   for (const record of records) {
     if (record.sourceManaged) {
-      const healthLabel = HEALTH_LABELS[record.sourceHealthStatus] || HEALTH_LABELS.unknown;
-      record.intakeStatus = healthLabel;
+      if (record.sourceHealthStatus) {
+        record.intakeStatus = HEALTH_LABELS[record.sourceHealthStatus] || HEALTH_LABELS.unknown;
+        if (record.sourceHealthReason) record.intakeAnalysis = record.sourceHealthReason;
+      } else {
+        record.intakeStatus = '官方源已接入';
+        if (!record.intakeAnalysis) record.intakeAnalysis = '官方招聘源已进入统一管理；等待下一次岗位刷新生成来源健康检查。';
+      }
       record.intakeProvider = (record.sourceProviders || []).join(' / ');
-      if (record.sourceHealthReason) record.intakeAnalysis = record.sourceHealthReason;
-      else if (!record.intakeAnalysis) record.intakeAnalysis = '官方招聘源已进入统一管理；等待或使用最近一次岗位刷新验证来源健康度。';
       continue;
     }
     const label = DISCOVERY_LABELS[record.sourceDiscoveryState] || DISCOVERY_LABELS.queued;
