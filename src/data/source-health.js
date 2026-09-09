@@ -181,7 +181,7 @@ export const sourceHealth = {
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描150，源内保留2"
+      "reason": "北森源正常：扫描600，源内保留21"
     },
     {
       "provider": "beisen",
@@ -195,7 +195,7 @@ export const sourceHealth = {
       "company": "Babycare",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描246，源内保留38"
+      "reason": "北森源正常：扫描247，源内保留38"
     },
     {
       "provider": "beisen",
@@ -231,6 +231,13 @@ export const sourceHealth = {
       "status": "healthy",
       "healthy": true,
       "reason": "北森源正常：扫描137，源内保留10"
+    },
+    {
+      "provider": "beisen",
+      "company": "三一集团",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描136，源内保留12"
     },
     {
       "provider": "feishu",
@@ -284,11 +291,11 @@ export const sourceHealth = {
   ],
   "counts": {
     "empty": 19,
-    "healthy": 20,
+    "healthy": 21,
     "no_formal_2027": 1
   },
-  "total": 40,
-  "healthy": 20,
+  "total": 41,
+  "healthy": 21,
   "attention": 20,
-  "updatedAt": "2026-09-09T05:18:58.028Z"
+  "updatedAt": "2026-09-09T06:03:48.291Z"
 };
