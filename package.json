@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "node --test",
-    "lint": "node scripts/check.mjs",
+    "lint": "node --check src/app.js && node --check src/core/company-intake.js && node --check scripts/process-company-intake.mjs && node scripts/check.mjs",
     "check": "npm run lint && npm test",
     "refresh:jobs": "node scripts/refresh-jobs.mjs",
     "build:source-registry": "node scripts/build-source-registry.mjs",
