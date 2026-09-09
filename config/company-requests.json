@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "intake-78a9c7997ba6",
+    "name": "万兴科技",
+    "careerUrl": "https://wondersharecampus.zhiye.com/",
+    "focus": [
+      "海外运营",
+      "GTM",
+      "产品营销",
+      "内容运营",
+      "国际业务"
+    ],
+    "note": "真实端到端验收（动态扩源测试已修正后重跑）；官方页面已确认“万兴科技2027届全球校园招聘”，重点验证公司请求→北森识别→2027证据→官方源→岗位刷新闭环。",
+    "requestedAt": "2026-09-09T03:48:08Z",
+    "updatedAt": "2026-09-09T03:50:55.354Z",
+    "issueNumber": 44,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/44",
+    "status": "已识别官方源，等待岗位刷新",
+    "provider": "beisen",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": false,
+    "analysis": "识别为北森；2027 届证据和标准 API 探针均通过（岗位 137）；官方链接可访问"
+  }
+]
