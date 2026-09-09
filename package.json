@@ -1,13 +1,14 @@
 {
   "name": "ai-job",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": true,
   "type": "module",
   "scripts": {
     "test": "node --test",
-    "lint": "node --check src/app.js && node --check src/ime-guard.js && node --check src/core/company-intake.js && node --check scripts/process-company-intake.mjs && node --check scripts/refresh-jobs-scoped.mjs && node --check scripts/discover-company-sources.mjs && node --check scripts/job-discovery/source-candidates.mjs && node --check scripts/job-discovery/source-probes.mjs && node --check scripts/job-discovery/source-health.mjs && node --check scripts/job-discovery/university.mjs && node --check scripts/job-discovery/dedupe.mjs && node --check scripts/job-discovery/refresh-university-jobs.mjs && node --check scripts/check-source-seeds.mjs && node scripts/check-source-seeds.mjs && node scripts/check.mjs",
+    "lint": "node --check src/app.js && node --check src/ime-guard.js && node --check src/intelligence-enhancements.js && node --check src/core/compensation.js && node --check src/core/company-risk.js && node --check src/core/company-intake.js && node --check src/data/company-risk-history.js && node --check scripts/process-company-intake.mjs && node --check scripts/refresh-jobs-scoped.mjs && node --check scripts/enrich-job-compensation.mjs && node --check scripts/discover-company-sources.mjs && node --check scripts/job-discovery/source-candidates.mjs && node --check scripts/job-discovery/source-probes.mjs && node --check scripts/job-discovery/source-health.mjs && node --check scripts/job-discovery/university.mjs && node --check scripts/job-discovery/dedupe.mjs && node --check scripts/job-discovery/refresh-university-jobs.mjs && node --check scripts/check-source-seeds.mjs && node scripts/check-source-seeds.mjs && node scripts/check.mjs",
     "check": "npm run lint && npm test",
     "refresh:jobs": "node scripts/refresh-jobs-scoped.mjs",
+    "enrich:compensation": "node scripts/enrich-job-compensation.mjs",
     "discover:sources": "node scripts/discover-company-sources.mjs",
     "build:source-registry": "node scripts/build-source-registry.mjs",
     "build:company-requests": "node scripts/build-company-requests.mjs",
