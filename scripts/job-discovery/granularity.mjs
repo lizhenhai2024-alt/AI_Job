@@ -81,6 +81,7 @@ function fuyaoSalesFollowup(job) {
   }));
 }
 
+// Officially verified concrete jobs are deterministic inputs: they remain on the board even if a secondary discovery source misses them on a later run.
 export function curatedOfficialGranularityJobs() {
   return fuyaoSalesFollowup({
     id: 'verified-fuyao-sales-followup-2027',
