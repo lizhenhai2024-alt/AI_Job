@@ -6,7 +6,7 @@ function evidenceRows(job = {}) {
   const rows = [];
   const push = (row) => {
     if (!row) return;
-    if (typeof row === 'string') rows.push({ label: row, url: '' });
+    if (typeof row === 'string') rows.push({ label: row, url: /^https?:\/\//i.test(row) ? row : '' });
     else if (typeof row === 'object') rows.push({
       label: row.label || row.source || row.name || '',
       url: row.url || row.sourceUrl || ''
@@ -28,6 +28,18 @@ function mergeEvidence(primary, secondary) {
     rows.push(row);
   }
   return rows.slice(0, 12);
+}
+
+function evidenceOrigin(row = {}) {
+  if (row.url) {
+    try { return `host:${new URL(row.url).hostname.toLowerCase()}`; } catch {}
+  }
+  const label = String(row.label || '').replace(/招聘列表|职位列表|详情页|官方发布|官方招聘/gi, '').replace(/\s+/g, '').trim().toLowerCase();
+  return label ? `label:${label}` : '';
+}
+
+function distinctSourceCount(rows = []) {
+  return new Set(rows.map(evidenceOrigin).filter(Boolean)).size;
 }
 
 export function jobDedupeKey(job = {}) {
@@ -53,7 +65,7 @@ export function dedupePreferOfficial(jobs = []) {
     map.set(key, {
       ...primary,
       sourceEvidence: mergedEvidence,
-      crossSourceCount: mergedEvidence.length
+      crossSourceCount: distinctSourceCount(mergedEvidence)
     });
   }
   return [...map.values()];
