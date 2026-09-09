@@ -286,7 +286,7 @@ export const sourceHealth = {
       "company": "德勤中国",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出179，源内保留120"
+      "reason": "HotJob源正常：列出144，源内保留99"
     },
     {
       "provider": "anker",
@@ -311,5 +311,5 @@ export const sourceHealth = {
   "total": 43,
   "healthy": 23,
   "attention": 20,
-  "updatedAt": "2026-09-09T15:50:29.771Z"
+  "updatedAt": "2026-09-09T16:01:54.339Z"
 };
