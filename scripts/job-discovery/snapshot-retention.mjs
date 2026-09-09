@@ -1,3 +1,8 @@
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
+
+const execFileAsync = promisify(execFile);
+
 const PROVIDER_RULES = [
   ['nowcoder', (job) => /牛客|nowcoder/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
   ['moka', (job) => /moka|mokahr/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
@@ -21,7 +26,6 @@ export function isSourceRefreshUnhealthy(result) {
   if (errors > 0) return true;
   if (stats.snapshotComplete === false) return true;
   if (stats.emptyResult === true) return true;
-  // A configured provider reporting activity metrics but scanning/listing nothing is not a trustworthy replacement snapshot.
   const hasActivityMetric = ['listed','scannedRows','scannedPages','discoveredUrls','detailed','pages','portals']
     .some((key) => Object.prototype.hasOwnProperty.call(stats, key));
   const activity = Number(stats.listed ?? stats.scannedRows ?? stats.scannedPages ?? stats.discoveredUrls ?? stats.detailed ?? stats.pages ?? 0);
@@ -36,4 +40,34 @@ export function retainedJobsForUnhealthySources(existing = [], sourceResults = [
   const unhealthy = new Set([...providers].filter((provider) => isSourceRefreshUnhealthy(resultMap.get(provider))));
   const retained = existing.filter((job) => unhealthy.has(providerOfJob(job)));
   return { retained, unhealthy: [...unhealthy].sort() };
+}
+
+export function parseLiveJobsModule(raw = '') {
+  const text = String(raw || '');
+  const marker = text.indexOf('export const liveJobs =');
+  const start = text.indexOf('[', marker);
+  const meta = text.indexOf('export const discoveryMeta', start);
+  if (marker < 0 || start < 0) return [];
+  const segment = meta > start ? text.slice(start, meta) : text.slice(start);
+  const end = segment.lastIndexOf('];');
+  if (end < 0) return [];
+  try { return JSON.parse(segment.slice(0, end + 1)); }
+  catch { return []; }
+}
+
+export async function findHistoricalProviderJobs({ root, provider, livePath = 'src/data/live-jobs.js', maxCommits = 12 } = {}) {
+  if (!root || !provider) return { jobs: [], commit: '' };
+  let commits = [];
+  try {
+    const { stdout } = await execFileAsync('git', ['log', '--format=%H', '-n', String(maxCommits), '--', livePath], { cwd: root, maxBuffer: 2 * 1024 * 1024 });
+    commits = stdout.split(/\r?\n/).map((x) => x.trim()).filter(Boolean);
+  } catch { return { jobs: [], commit: '' }; }
+  for (const commit of commits) {
+    try {
+      const { stdout } = await execFileAsync('git', ['show', `${commit}:${livePath}`], { cwd: root, maxBuffer: 32 * 1024 * 1024 });
+      const jobs = parseLiveJobsModule(stdout).filter((job) => providerOfJob(job) === provider);
+      if (jobs.length) return { jobs, commit };
+    } catch {}
+  }
+  return { jobs: [], commit: '' };
 }
