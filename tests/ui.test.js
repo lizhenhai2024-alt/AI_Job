@@ -20,6 +20,16 @@ test('job radar exposes daily shortlist and full-pool modes', () => {
   assert.ok(appSource.includes("state.radarMode = 'all'"));
 });
 
+test('company radar exposes safe add-company intake and ATS analysis queue', () => {
+  for (const text of ['+ 添加公司', '加入公司库并提交分析', '官方招聘 / 校招链接', '分析状态：']) {
+    assert.ok(appSource.includes(text), `missing company-intake UI behavior: ${text}`);
+  }
+  assert.ok(appSource.includes('createCompanyIntake'));
+  assert.ok(appSource.includes('buildCompanyIntakeIssueUrl'));
+  assert.ok(appSource.includes('upsertCompanyIntake'));
+  assert.ok(appSource.includes("window.open(issueUrl, '_blank', 'noopener')"));
+});
+
 test('profile page exposes evidence baseline and keeps it on save', () => {
   assert.ok(appSource.includes('简历证据基线'));
   assert.ok(appSource.includes('experienceEvidence: structuredClone'));

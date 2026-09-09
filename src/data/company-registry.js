@@ -1,9 +1,10 @@
 import { companyLibrary } from './company-library.js';
 import { sourceRegistry } from './source-registry.js';
+import { companyRequests } from './company-requests.js';
 
 const CITY_NAMES = ['北京','上海','广州','深圳','杭州','苏州','无锡','长沙','武汉','西安','成都','天津','南京','佛山','东莞','珠海','惠州','厦门','济南','青岛','昆明','长春','宁波','合肥','郑州','重庆','青岛','大连','沈阳','福州','南昌','南宁'];
 const CITY_SET = new Set(CITY_NAMES);
-const TRACK_HINT = /(市场|营销|品牌|运营|商务|客户|HR|人力|供应链|采购|财务|咨询|审计|法务|销售支持|客户成功|产品|项目管理|国际业务|跨境|电商)/i;
+const TRACK_HINT = /(市场|营销|品牌|运营|商务|客户|HR|人力|供应链|采购|财务|咨询|审计|法务|销售支持|客户成功|产品|项目管理|国际业务|跨境|电商|海外|GTM|物流)/i;
 
 export function canonicalCompanyKey(value = '') {
   return String(value)
@@ -17,7 +18,7 @@ export function canonicalCompanyKey(value = '') {
 
 export function isValidCompanyRecord(record) {
   const name = String(record?.name || '').trim();
-  if (!name || name.length > 40 || CITY_SET.has(name)) return false;
+  if (!name || name.length > 80 || CITY_SET.has(name)) return false;
   if (/^(?:\d+|[0-9️⃣🔟①②③④⑤⑥⑦⑧⑨⑩]+)$/u.test(name)) return false;
   return /[A-Za-z\u4e00-\u9fff]/u.test(name);
 }
@@ -43,8 +44,6 @@ export function normalizeTracks(targetTracks = [], legacyCities = []) {
     }
   };
   for (const value of targetTracks || []) add(value);
-  // Historical imports sometimes wrote role directions into cities. Salvage
-  // those strings into targetTracks, then normalize cities independently.
   for (const value of legacyCities || []) add(value);
   return tracks;
 }
@@ -61,23 +60,47 @@ function findMatch(records, name) {
   }) || null;
 }
 
-export function buildCompanyRegistry(library = companyLibrary, sources = sourceRegistry) {
+export function buildCompanyRegistry(library = companyLibrary, sources = sourceRegistry, requests = companyRequests) {
   const records = library
     .filter(isValidCompanyRecord)
     .map((record) => {
       const legacyCities = [...(record.cities || [])];
       return {
         ...record,
-        // Older generated files leaked the last master-list industry into
-        // observation/risk rows. Until regenerated from the corrected importer,
-        // only the authoritative main pool keeps its industry labels.
         industries: record.status === '主投' ? [...(record.industries || [])] : [],
         cities: normalizeCities(legacyCities),
         targetTracks: normalizeTracks(record.targetTracks || [], legacyCities),
         sourceProviders: [],
-        sourceManaged: false
+        sourceManaged: false,
+        userRequested: false
       };
     });
+
+  for (const request of requests || []) {
+    if (!isValidCompanyRecord({ name: request?.name })) continue;
+    let record = findMatch(records, request.name);
+    if (!record) {
+      record = {
+        name: request.name,
+        status: '观察',
+        industries: [],
+        cities: [],
+        targetTracks: [],
+        evidence: { count: 0 },
+        sourceProviders: [],
+        sourceManaged: false
+      };
+      records.push(record);
+    }
+    record.userRequested = true;
+    record.intakeStatus = request.status || '待分析';
+    record.intakeProvider = request.provider || '';
+    record.intakeAnalysis = request.analysis || '';
+    record.careerUrl = request.careerUrl || record.careerUrl || '';
+    record.intakeIssueUrl = request.issueUrl || '';
+    record.requestedAt = request.requestedAt || '';
+    record.targetTracks = [...new Set([...(record.targetTracks || []), ...normalizeTracks(request.focus || [])])];
+  }
 
   for (const source of sources) {
     let record = findMatch(records, source.company);
@@ -90,18 +113,20 @@ export function buildCompanyRegistry(library = companyLibrary, sources = sourceR
         targetTracks: [],
         evidence: { count: 0 },
         sourceProviders: [],
-        sourceManaged: true
+        sourceManaged: true,
+        userRequested: false
       };
       records.push(record);
     }
     record.sourceManaged = true;
     if (!record.sourceProviders.includes(source.provider)) record.sourceProviders.push(source.provider);
+    if (record.userRequested && /等待岗位刷新|官方源已存在/.test(record.intakeStatus || '')) {
+      record.intakeStatus = '官方源已接入';
+    }
   }
 
   return records;
 }
 
 export const companyRegistry = buildCompanyRegistry();
-
-// Keep the existing app API stable: app.js already imports companyLibrary.
 companyLibrary.splice(0, companyLibrary.length, ...companyRegistry);
