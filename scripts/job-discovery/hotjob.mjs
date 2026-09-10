@@ -184,6 +184,90 @@ export function parseHotjobDetail(source, row = {}, detail = {}, now = new Date(
   };
 }
 
+// --- HotJob "hztp" tenant shape (e.g. Yili: https://yili.hotjob.cn/wt/yili/web/json/position/list) ---
+function hztpListUrl(source = {}, page = 1) {
+  const base = baseOf(source);
+  const params = new URLSearchParams({
+    positionType: source.positionType || '',
+    comPart: '',
+    sicCorpCode: '',
+    brandCode: String(source.brandCode ?? '1'),
+    releaseTime: '',
+    trademark: String(source.trademark ?? '1'),
+    recruitType: String(source.recruitType ?? '1'),
+    projectId: '',
+    lanType: String(source.lanType ?? '1'),
+    workPlace: '',
+    page: String(page || 1),
+    keyWord: source.keyWord || ''
+  });
+  return `${base}/${source.corpPath}/web/json/position/list?${params.toString()}`;
+}
+
+async function fetchHztpPage(fetcher, source, page = 1) {
+  const response = await fetcher(hztpListUrl(source, page), {
+    headers: {
+      accept: 'application/json, text/plain, */*',
+      'user-agent': apiHeaders(source)['user-agent'],
+      referer: `${baseOf(source)}/${source.corpPath}/web/index/CompyiliPageindex_campus`
+    }
+  });
+  if (!response.ok) throw new Error(`HotJob hztp HTTP ${response.status} for ${source.company}`);
+  const raw = await response.text();
+  let payload;
+  try { payload = JSON.parse(raw); }
+  catch { throw new Error(`HotJob hztp non-JSON response for ${source.company}`); }
+  if (String(payload?.req_state) !== '9200') throw new Error(`HotJob hztp req_state=${payload?.req_state} for ${source.company}`);
+  return {
+    rows: Array.isArray(payload.postList) ? payload.postList : [],
+    totalPage: Number(payload.pageCount || 1),
+    totalPositions: Number(payload.rowCount || 0)
+  };
+}
+
+// hztp list rows already carry the full JD; map fields onto the SU-row shape for reuse.
+function hztpRow(row = {}) {
+  return { ...row, workPlaceStr: row.workPlace, postTypeName: row.postType, department: row.deptOrgName, company: row.orgName };
+}
+
+function parseHotjobHztpDetail(source, row = {}, now = new Date()) {
+  const postId = String(row.postId || '');
+  const title = clean(row.postName || '');
+  const jobText = [title, row.postType, row.deptOrgName, row.workContent, row.serviceCondition].filter(Boolean).join('\n');
+  const graduationYear = CAMPUS_2027_RX.test(jobText) ? '2027' : '';
+  const roleFamily = roleFamilyFrom(title);
+  return {
+    id: `hotjob-${crypto.createHash('sha1').update(`${source.company}|${postId}`).digest('hex').slice(0, 12)}`,
+    company: source.company,
+    title,
+    roleFamily,
+    city: cityFrom(row.workPlace || row.deptOrgName || ''),
+    graduationYear,
+    skills: detectSkills(jobText),
+    languages: /英语|英文|English|CET|TOEFL|IELTS/i.test(jobText) ? ['英语'] : [],
+    experienceKeywords: EXPERIENCE_WORDS.filter((word) => jobText.toLowerCase().includes(word.toLowerCase())).slice(0, 10),
+    preferenceTags: [
+      /海外|国际|全球|Global/i.test(jobText) ? '国际业务' : '',
+      /跨文化|本地化|海外用户|海外市场/i.test(jobText) ? '跨文化' : ''
+    ].filter(Boolean),
+    riskTags: detectRisks(jobText),
+    source: '公司官方HotJob校招官网',
+    sourceType: 'official',
+    sourceUrl: `${baseOf(source)}/${source.corpPath}/web/index/CompyiliPageindex_campus`,
+    verification: graduationYear ? `官方HotJob校招 · 岗位明确${(CAMPUS_2027_RX.exec(jobText) || ['2027届'])[0]}` : '官方HotJob校招 · 未识别2027届证据',
+    publishedAt: normalizeDate(row.publishDate || row.publishDateTime),
+    deadline: normalizeDate(row.endDate),
+    description: `公司官方 HotJob 校招岗位（${source.company}）；已读取完整职位职责与任职要求并进入四步 JD 筛选。`,
+    salary: clean(row.workingTreatment || ''),
+    status: '推荐',
+    discoveredAt: now.toISOString(),
+    _searchText: jobText,
+    _recruitType: '全职',
+    _subject: clean(row.subject || ''),
+    _sourceJobId: postId
+  };
+}
+
 async function mapLimit(items, limit, fn) {
   const out = new Array(items.length);
   let cursor = 0;
@@ -206,51 +290,96 @@ export async function searchHotjobJobs(profile, sources = [], { fetcher = fetch,
   for (const source of sources) {
     let portalListed = 0, portalDetailed = 0, portalKept = 0, detailErrors = 0, totalPositions = 0;
     try {
-      if (!source.company || !tenantOf(source)) throw new Error('HotJob source requires company and tenant');
-      const first = await fetchListPage(fetcher, source, 1);
-      scannedPortals++;
-      totalPositions = first.totalPositions;
-      const maxPages = Math.max(1, Math.min(Number(source.maxPages || 300), 500));
-      const totalPages = Math.max(1, Math.min(first.totalPage || 1, maxPages));
-      const pages = [first];
-      if (totalPages > 1) {
-        const indexes = Array.from({ length: totalPages - 1 }, (_, i) => i + 2);
-        const rest = await mapLimit(indexes, Number(source.listConcurrency || concurrency), async (page) => fetchListPage(fetcher, source, page));
-        pages.push(...rest);
-      }
-      const rowMap = new Map();
-      for (const page of pages) {
-        for (const row of page.rows || []) {
-          const id = String(row.postId || '');
-          if (id && !rowMap.has(id)) rowMap.set(id, row);
+      if (source.corpPath) {
+        // hztp shape: GET JSON list where each row already carries the full JD.
+        if (!source.company) throw new Error('HotJob hztp source requires company');
+        const first = await fetchHztpPage(fetcher, source, 1);
+        scannedPortals++;
+        totalPositions = first.totalPositions;
+        const maxPages = Math.max(1, Math.min(Number(source.maxPages || 300), 500));
+        const totalPages = Math.max(1, Math.min(first.totalPage || 1, maxPages));
+        const pages = [first];
+        if (totalPages > 1) {
+          const indexes = Array.from({ length: totalPages - 1 }, (_, i) => i + 2);
+          const rest = await mapLimit(indexes, Number(source.listConcurrency || concurrency), async (page) => fetchHztpPage(fetcher, source, page));
+          pages.push(...rest);
         }
-      }
-      const rows = [...rowMap.values()];
-      portalListed = rows.length;
-      listed += rows.length;
-      const candidates = rows.filter((row) => isListCandidate(row, profile, source)).slice(0, Number(source.maxDetails || 120));
-      const normalized = await mapLimit(candidates, Number(source.detailConcurrency || concurrency), async (row) => {
-        try {
-          const detail = await fetchDetail(fetcher, source, row.postId);
-          portalDetailed++; detailed++;
-          const job = parseHotjobDetail(source, row, detail, now);
-          return shouldKeep(job, profile, now) ? job : null;
-        } catch {
-          detailErrors++;
-          return null;
+        const rowMap = new Map();
+        for (const page of pages) {
+          for (const row of page.rows || []) {
+            const id = String(row.postId || '');
+            if (id && !rowMap.has(id)) rowMap.set(id, row);
+          }
         }
-      });
-      const portalJobs = dedupeJobs(normalized.filter(Boolean));
-      portalKept = portalJobs.length;
-      jobs.push(...portalJobs);
-      perPortal[source.company] = {
-        totalPositions,
-        listed: portalListed,
-        detailed: portalDetailed,
-        keptJobs: portalKept,
-        detailErrors,
-        totalPages
-      };
+        const rows = [...rowMap.values()];
+        portalListed = rows.length;
+        listed += rows.length;
+        const candidates = rows.filter((row) => isListCandidate(hztpRow(row), profile, source)).slice(0, Number(source.maxDetails || 120));
+        const normalized = candidates.map((row) => {
+          try {
+            portalDetailed++; detailed++;
+            const job = parseHotjobHztpDetail(source, row, now);
+            return shouldKeep(job, profile, now) ? job : null;
+          } catch { detailErrors++; return null; }
+        });
+        const portalJobs = dedupeJobs(normalized.filter(Boolean));
+        portalKept = portalJobs.length;
+        jobs.push(...portalJobs);
+        perPortal[source.company] = {
+          totalPositions,
+          listed: portalListed,
+          detailed: portalDetailed,
+          keptJobs: portalKept,
+          detailErrors,
+          totalPages
+        };
+      } else {
+        if (!source.company || !tenantOf(source)) throw new Error('HotJob source requires company and tenant');
+        const first = await fetchListPage(fetcher, source, 1);
+        scannedPortals++;
+        totalPositions = first.totalPositions;
+        const maxPages = Math.max(1, Math.min(Number(source.maxPages || 300), 500));
+        const totalPages = Math.max(1, Math.min(first.totalPage || 1, maxPages));
+        const pages = [first];
+        if (totalPages > 1) {
+          const indexes = Array.from({ length: totalPages - 1 }, (_, i) => i + 2);
+          const rest = await mapLimit(indexes, Number(source.listConcurrency || concurrency), async (page) => fetchListPage(fetcher, source, page));
+          pages.push(...rest);
+        }
+        const rowMap = new Map();
+        for (const page of pages) {
+          for (const row of page.rows || []) {
+            const id = String(row.postId || '');
+            if (id && !rowMap.has(id)) rowMap.set(id, row);
+          }
+        }
+        const rows = [...rowMap.values()];
+        portalListed = rows.length;
+        listed += rows.length;
+        const candidates = rows.filter((row) => isListCandidate(row, profile, source)).slice(0, Number(source.maxDetails || 120));
+        const normalized = await mapLimit(candidates, Number(source.detailConcurrency || concurrency), async (row) => {
+          try {
+            const detail = await fetchDetail(fetcher, source, row.postId);
+            portalDetailed++; detailed++;
+            const job = parseHotjobDetail(source, row, detail, now);
+            return shouldKeep(job, profile, now) ? job : null;
+          } catch {
+            detailErrors++;
+            return null;
+          }
+        });
+        const portalJobs = dedupeJobs(normalized.filter(Boolean));
+        portalKept = portalJobs.length;
+        jobs.push(...portalJobs);
+        perPortal[source.company] = {
+          totalPositions,
+          listed: portalListed,
+          detailed: portalDetailed,
+          keptJobs: portalKept,
+          detailErrors,
+          totalPages
+        };
+      }
     } catch (error) {
       errors++;
       perPortal[source.company] = {

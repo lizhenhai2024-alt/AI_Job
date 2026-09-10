@@ -94,6 +94,12 @@ if (sources.feishu.some((s) => {
 
 if (!Array.isArray(sources.hotjob) || !sources.hotjob.length) throw new Error('official HotJob source registry is empty');
 if (sources.hotjob.some((s) => {
+  if (s.corpPath) {
+    // hztp shape (e.g. Yili): GET JSON list under a per-corp path, no SU tenant.
+    const validHost = /^https:\/\/[a-z0-9.-]+\.hotjob\.cn$/.test(s.baseUrl || '');
+    const validPath = /^[a-z0-9/_-]+$/.test(s.corpPath || '');
+    return !s.company || !validHost || !validPath || s.graduationYear !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
+  }
   const validHost = s.baseUrl === 'https://wecruit.hotjob.cn';
   const validTenant = /^[a-f0-9]{24}$/i.test(s.tenant || '');
   const validUrl = new RegExp(`^https://wecruit\\.hotjob\\.cn/SU${s.tenant}/pb/school\\.html`).test(s.url || '');

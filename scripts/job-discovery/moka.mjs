@@ -40,7 +40,10 @@ function cardsFromInitData(initData, source) {
 
 export function explicitMokaCohortYears(text = '') {
   const value = String(text);
-  const years = [...value.matchAll(/(20\d{2})\s*届/g)].map((match) => match[1]);
+  const years = [];
+  for (const match of value.matchAll(/(20\d{2})\s*届/g)) years.push(match[1]);
+  // "2026管理培训生 / 2026校园招聘 / 2026管培生" style titles omit the 届 character.
+  for (const match of value.matchAll(/(20\d{2})\s*(?:届|年)?\s*(?:管理培训生|管培生|校园招聘|校招|秋招|招聘|毕业生)/g)) years.push(match[1]);
   for (const match of value.matchAll(/(?:^|[^0-9])(\d{2})\s*届/g)) {
     const yy = Number(match[1]);
     if (yy >= 20 && yy <= 40) years.push(`20${match[1]}`);
@@ -57,9 +60,11 @@ export function resolveMokaGraduationYear(text = '', configuredYear = '2027', { 
   return target;
 }
 
-export function isMokaTitleAllowed(title = '') {
+export function isMokaTitleAllowed(title = '', source = {}) {
   const value = String(title || '');
-  return !/实习/i.test(value) && !PURE_SALES_TITLE_RX.test(value);
+  if (/实习/i.test(value) || PURE_SALES_TITLE_RX.test(value)) return false;
+  const excludes = Array.isArray(source.excludeTitle) ? source.excludeTitle : [];
+  return !excludes.some((pattern) => value.includes(String(pattern)));
 }
 
 export function resolveMokaCardTitle(lines = []) {
@@ -145,7 +150,7 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
           const lines = card.text.split(/\n+/).map(textOf).filter(Boolean);
           const title = resolveMokaCardTitle(lines);
           if (!title) continue;
-          if (!isMokaTitleAllowed(title)) { titleRejected++; portalTitle++; continue; }
+          if (!isMokaTitleAllowed(title, source)) { titleRejected++; portalTitle++; continue; }
           const job = parseMokaCard({
             company: source.company,
             title,

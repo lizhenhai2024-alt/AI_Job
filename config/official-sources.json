@@ -93,6 +93,22 @@
       "graduationYear": "2027",
       "strictCohort": true,
       "monitoringNote": "仅岗位明确出现2027届/27届证据时入池"
+    },
+    {
+      "company": "达能",
+      "url": "https://app.mokahr.com/campus-recruitment/danone/170511?locale=zh-CN",
+      "graduationYear": "2027",
+      "excludeTitle": [
+        "医药管培生",
+        "医学市场管培生",
+        "研发管培生",
+        "营运管培生-区域制造"
+      ]
+    },
+    {
+      "company": "太古可口可乐",
+      "url": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484?locale=zh-CN",
+      "graduationYear": "2027"
     }
   ],
   "beisen": [
@@ -270,6 +286,21 @@
       "maxDetails": 180,
       "listConcurrency": 6,
       "detailConcurrency": 5
+    },
+    {
+      "company": "伊利",
+      "baseUrl": "https://yili.hotjob.cn",
+      "corpPath": "wt/yili",
+      "recruitType": "1",
+      "brandCode": "1",
+      "trademark": "1",
+      "lanType": "1",
+      "graduationYear": "2027",
+      "maxPages": 50,
+      "maxDetails": 200,
+      "listConcurrency": 3,
+      "detailConcurrency": 3,
+      "monitoringNote": "HotJob hztp 形态（yili.hotjob.cn/wt/yili/web/json/position/list），GET 列表即含完整 JD"
     }
   ],
   "anker": {

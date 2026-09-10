@@ -73,6 +73,14 @@ export const sourceRegistry = [
     "company": "百威中国"
   },
   {
+    "provider": "moka",
+    "company": "达能"
+  },
+  {
+    "provider": "moka",
+    "company": "太古可口可乐"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },
@@ -167,6 +175,10 @@ export const sourceRegistry = [
   {
     "provider": "hotjob",
     "company": "Decathlon"
+  },
+  {
+    "provider": "hotjob",
+    "company": "伊利"
   },
   {
     "provider": "anker",
