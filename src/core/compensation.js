@@ -49,6 +49,8 @@ function salaryText(job = {}) {
   push(job.salary);
   push(job._searchText);
   push(job.description);
+  push(job.jobDescription);
+  push(job.jobRequirements);
   return values.filter(Boolean).join('\n');
 }
 

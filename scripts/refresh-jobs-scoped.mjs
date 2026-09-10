@@ -36,6 +36,18 @@ try {
   if (exitCode === 0) {
     exitCode = await runScript('scripts/enrich-job-compensation.mjs');
   }
+  if (exitCode === 0) {
+    // 校验：compensation enrich 结果必须已写入 live-jobs.js，防止只跑发现/被覆盖后仍提交坏数据
+    const livePath = path.join(root, 'src/data/live-jobs.js');
+    const liveModule = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
+    const stats = liveModule.discoveryMeta?.stats?.compensation;
+    if (!stats || typeof stats.disclosed !== 'number' || stats.disclosed < 1) {
+      console.error(`[compensation-check] FAIL: stats.compensation missing or disclosed<1 (got ${JSON.stringify(stats)})`);
+      exitCode = 1;
+    } else {
+      console.log(`[compensation-check] OK disclosed=${stats.disclosed}/${stats.totalJobs} official=${stats.officialDisclosed}`);
+    }
+  }
 } finally {
   await fs.writeFile(profilePath, original, 'utf8');
 }

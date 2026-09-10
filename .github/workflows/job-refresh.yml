@@ -42,6 +42,8 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Refresh jobs
         run: npm run refresh:jobs
+      - name: Verify compensation enrichment
+        run: node -e "import('./src/data/live-jobs.js').then(m=>{const s=m.discoveryMeta&&m.discoveryMeta.stats&&m.discoveryMeta.stats.compensation;if(!s||typeof s.disclosed!=='number'||s.disclosed<1){console.error('[compensation-check] FAIL: stats.compensation missing or disclosed<1: '+JSON.stringify(s));process.exit(1)}console.log('[compensation-check] OK disclosed='+s.disclosed+'/'+s.totalJobs+' official='+s.officialDisclosed)})"
       - name: Validate
         run: npm run check
       - name: Commit refreshed job pool and source health
