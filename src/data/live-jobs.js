@@ -48,7 +48,7 @@ export const liveJobs = [
     "deadline": "2027-09-09",
     "description": "湖南大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
     "candidateFit": {
       "warnings": [
         "工作职责偏技术"
@@ -167,7 +167,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -207,123 +207,6 @@ export const liveJobs = [
           "label": "职责动词",
           "verdict": "偏技术",
           "detail": "技术评估"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannelLabel": "高校就业信息网官方简章",
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "university-84b349daac6f3c",
-    "company": "上海德邦物流有限公司",
-    "title": "宣讲单位：上海德邦物流有限公司 工商查询",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [],
-    "preferenceTags": [
-      "专业不限"
-    ],
-    "riskTags": [],
-    "source": "湖南大学就业信息网",
-    "sourceType": "secondary",
-    "sourceChannel": "university",
-    "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=694545",
-    "verification": "高校就业信息网官方发布 · 待公司官网复核",
-    "sourceEvidence": [
-      {
-        "label": "湖南大学就业信息网",
-        "url": "https://scc.hnu.edu.cn/detail/career?id=694545"
-      },
-      {
-        "label": "高校就业信息网官方发布 · 待公司官网复核",
-        "url": ""
-      },
-      {
-        "label": "湖南大学招聘列表",
-        "url": "https://scc.hnu.edu.cn/"
-      }
-    ],
-    "universitySource": {
-      "school": "湖南大学",
-      "segments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "priority": 103
-    },
-    "publishedAt": "2026-09-11",
-    "deadline": "2027-09-08",
-    "description": "湖南大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "1、2026年9月1日至2027年9月1日之间毕业的海内外本科毕业生，专业不限",
-          "招聘专业：不限专业"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-09-08"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
         },
         {
           "step": 3,
@@ -404,7 +287,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -436,6 +319,122 @@ export const liveJobs = [
           "label": "职责动词",
           "verdict": "待核",
           "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannelLabel": "高校就业信息网官方简章",
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "university-22c6c288fd8d9a",
+    "company": "一汽资本控股有限公司2027",
+    "title": "一汽资本控股有限公司2027校园招聘-一汽资本控股有限公司",
+    "roleFamily": [
+      "业务运营",
+      "HR"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "南开大学就业信息网",
+    "sourceType": "secondary",
+    "sourceChannel": "university",
+    "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118506.html",
+    "verification": "高校就业信息网官方发布 · 待公司官网复核",
+    "sourceEvidence": [
+      {
+        "label": "南开大学就业信息网",
+        "url": "https://career.nankai.edu.cn/correcruit/content/id/118506.html"
+      },
+      {
+        "label": "高校就业信息网官方发布 · 待公司官网复核",
+        "url": ""
+      },
+      {
+        "label": "南开大学招聘列表",
+        "url": "https://career.nankai.edu.cn/correcruit/index.html"
+      }
+    ],
+    "universitySource": {
+      "school": "南开大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 105
+    },
+    "publishedAt": "2026-09-10",
+    "deadline": "",
+    "description": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：国际业务"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "国际业务"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "国际业务"
         },
         {
           "step": 3,
@@ -509,7 +508,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -625,7 +624,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：英语、Excel、数据分析、PPT、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -757,7 +756,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、市场分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -835,6 +834,121 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "university-419fdcd3d01e5b",
+    "company": "有道领世2027",
+    "title": "有道领世2027校园招聘 领世1对1甄选教师管培生专项正式启动！ 综合薪资20-30W，优秀者不限！-北京领世瑞丰教育科技有限公司",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [],
+    "preferenceTags": [
+      "专业不限"
+    ],
+    "riskTags": [],
+    "source": "南开大学就业信息网",
+    "sourceType": "secondary",
+    "sourceChannel": "university",
+    "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118504.html",
+    "verification": "高校就业信息网官方发布 · 待公司官网复核",
+    "sourceEvidence": [
+      {
+        "label": "南开大学就业信息网",
+        "url": "https://career.nankai.edu.cn/correcruit/content/id/118504.html"
+      },
+      {
+        "label": "高校就业信息网官方发布 · 待公司官网复核",
+        "url": ""
+      },
+      {
+        "label": "南开大学招聘列表",
+        "url": "https://career.nankai.edu.cn/correcruit/index.html"
+      }
+    ],
+    "universitySource": {
+      "school": "南开大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 105
+    },
+    "publishedAt": "2026-09-10",
+    "deadline": "",
+    "description": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "专业不限"
+      ],
+      "penalty": 0,
+      "bonus": 2,
+      "major": {
+        "verdict": "友好",
+        "label": "专业不限",
+        "evidence": [
+          "专业不限",
+          "招募人群：2027届海内外应届毕业生，专业不限",
+          "不限专业，应届生友好"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "友好",
+          "detail": "专业不限"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannelLabel": "高校就业信息网官方简章",
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-1fdf6e-7663476504336992531",
     "company": "小鹏汽车",
     "title": "【27届校招】HRBP培训生",
@@ -873,7 +987,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：人力资源。识别关键词：英语、数据分析、内容运营、跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -1001,7 +1115,7 @@ export const liveJobs = [
     "deadline": "2026-10-31",
     "description": "湖南大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -1028,122 +1142,6 @@ export const liveJobs = [
           "label": "专业范围",
           "verdict": "待核",
           "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannelLabel": "高校就业信息网官方简章",
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "university-4e080ee4d8a7b2",
-    "company": "“梦想靠岸”招商银行北京分行2027秋季",
-    "title": "“梦想靠岸”招商银行北京分行2027秋季校园招聘公告",
-    "roleFamily": [
-      "HR",
-      "市场"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [],
-    "preferenceTags": [
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "北京语言大学就业信息网",
-    "sourceType": "secondary",
-    "sourceChannel": "university",
-    "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095058688639934465",
-    "verification": "高校就业信息网官方发布 · 待公司官网复核",
-    "sourceEvidence": [
-      {
-        "label": "北京语言大学就业信息网",
-        "url": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095058688639934465"
-      },
-      {
-        "label": "高校就业信息网官方发布 · 待公司官网复核",
-        "url": ""
-      },
-      {
-        "label": "北京语言大学招聘列表",
-        "url": "https://jobs.blcu.edu.cn/"
-      }
-    ],
-    "universitySource": {
-      "school": "北京语言大学",
-      "segments": [
-        "外语外贸特色高校"
-      ],
-      "priority": 114
-    },
-    "publishedAt": "2026-09-04",
-    "deadline": "",
-    "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "（五）本科生要求英语四级成绩在425分及以上或达到雅思"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
         },
         {
           "step": 2,
@@ -1317,7 +1315,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -1425,7 +1423,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -1502,244 +1500,6 @@ export const liveJobs = [
     "annualSalary": "11.4万–17.4万/年（按12薪推算）"
   },
   {
-    "id": "feishu-4031ce-7680376718741915958",
-    "company": "小米",
-    "title": "供应链运营管理专员-成本方向",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "数据",
-      "供应链",
-      "洞察",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "小米官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7680376718741915958/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-09-01",
-    "deadline": "",
-    "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:44:22.084Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小米官方飞书招聘",
-        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7680376718741915958/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-96da49-7677508867571468595",
-    "company": "得物App",
-    "title": "【27届校招】跨境履约解决方案运营-得物国际",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "Excel",
-      "SQL",
-      "跨部门沟通",
-      "电商"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "电商",
-      "用户",
-      "数据",
-      "供应链",
-      "招聘"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "适配风险：技术背景优先"
-    ],
-    "source": "得物App官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7677508867571468595/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-24",
-    "deadline": "",
-    "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：英语、Excel、SQL、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术背景优先"
-      ],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：跨文化沟通",
-        "职责：物流执行"
-      ],
-      "penalty": 8,
-      "bonus": 4,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1. 2027 届应届生，本科及以上学历，国际贸易 / 物流管理 / 供应链管理 / 电子商务相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "跨文化沟通",
-          "物流执行"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "跨文化沟通、物流执行"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "得物App官方飞书招聘",
-        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7677508867571468595/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-1fdf6e-7675640647755696422",
     "company": "小鹏汽车",
     "title": "【27届校招】海外官网内容运营培训生",
@@ -1780,7 +1540,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析、内容运营、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -1902,7 +1662,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：Excel、PPT、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -2021,7 +1781,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：英语、数据分析、内容运营、跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -2148,7 +1908,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、市场分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -2267,7 +2027,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析、项目管理、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -2353,131 +2113,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-96da49-7670386561960216882",
-    "company": "得物App",
-    "title": "【27届校招】交易PMO（策略运营方向）",
-    "roleFamily": [
-      "项目管理"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "数据分析",
-      "SQL",
-      "项目管理",
-      "跨部门沟通",
-      "电商"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "电商",
-      "数据",
-      "营销",
-      "洞察",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优",
-      "适配风险：技术背景优先"
-    ],
-    "source": "得物App官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7670386561960216882/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-05",
-    "deadline": "",
-    "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、SQL、项目管理、跨部门沟通。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优",
-        "技术背景优先"
-      ],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 20,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1. 2027届应届生，本科及以上学历，数学、计算机、统计学、管理学等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "得物App官方飞书招聘",
-        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7670386561960216882/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-96da49-7670372291317909796",
     "company": "得物App",
     "title": "【27届校招】项目运营-消电食饮虚拟业务",
@@ -2519,7 +2154,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、SQL、项目管理、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -2632,7 +2267,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -2745,7 +2380,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -2857,7 +2492,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -2934,129 +2569,6 @@ export const liveJobs = [
     "annualSalary": "11.4万–17.4万/年（按12薪推算）"
   },
   {
-    "id": "feishu-1fdf6e-7663476497910532394",
-    "company": "小鹏汽车",
-    "title": "【27届校招】HRBP培训生（肇庆基地）",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "肇庆",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析",
-      "内容运营",
-      "跨部门沟通",
-      "文案"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "数据",
-      "供应链",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "小鹏汽车官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476497910532394/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-07-17",
-    "deadline": "",
-    "description": "小鹏汽车官方校园招聘岗位；职类：人力资源。识别关键词：英语、数据分析、内容运营、跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：跨文化沟通",
-        "职责：资料/流程"
-      ],
-      "penalty": 12,
-      "bonus": 4,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、27届本科/硕士在校生，汽车、供应链、理工科等专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "跨文化沟通",
-          "资料/流程"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "跨文化沟通、资料/流程"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小鹏汽车官方飞书招聘",
-        "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476497910532394/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "moka-995ea46435ce",
     "company": "SHEIN",
     "title": "国际物流运营专员（广州）-2027届",
@@ -3083,7 +2595,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -3156,129 +2668,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "hotjob-616e7693ce58",
-    "company": "创维集团",
-    "title": "海外运营管培生",
-    "roleFamily": [
-      "海外运营"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "Excel",
-      "数据分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "市场",
-      "数据",
-      "营销",
-      "供应链",
-      "沟通",
-      "分析"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化"
-    ],
-    "riskTags": [
-      "海外出差",
-      "节奏快"
-    ],
-    "source": "公司官方HotJob校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/pb/posDetail.html?postId=6a69d1dcba2dc64cbb91a32f&postType=campus",
-    "verification": "官方HotJob校招 · 项目明确2027届秋季校园招聘",
-    "publishedAt": "2026-09-10",
-    "deadline": "2026-09-17",
-    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "职责：跨文化沟通",
-        "职责：国际业务"
-      ],
-      "penalty": 0,
-      "bonus": 4,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "跨文化沟通",
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-09-17"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "跨文化沟通、国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方HotJob校招官网",
-        "url": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/pb/posDetail.html?postId=6a69d1dcba2dc64cbb91a32f&postType=campus"
-      },
-      {
-        "label": "官方HotJob校招 · 项目明确2027届秋季校园招聘",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-3d6af2db9384",
     "company": "三一集团",
     "title": "国际运营管理专员",
@@ -3322,7 +2711,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3399,137 +2788,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-96da49-7677512811878926611",
-    "company": "得物App",
-    "title": "【27届校招】履约策略和项目管理-得物国际",
-    "roleFamily": [
-      "项目管理"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析",
-      "项目管理",
-      "电商"
-    ],
-    "languages": [
-      "英语",
-      "日语",
-      "韩语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "电商",
-      "数据",
-      "供应链",
-      "招聘",
-      "商务"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "得物App官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7677512811878926611/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-24",
-    "deadline": "",
-    "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：英语、数据分析、项目管理、电商。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：跨文化沟通",
-        "职责：物流执行",
-        "职责：资料/流程",
-        "职责：国际业务"
-      ],
-      "penalty": 0,
-      "bonus": 6,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1、2027届应届生，本科及以上学历，交通运输、交通管理、物流管理、供应链管理、国际经济与贸易、电子商务等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "跨文化沟通",
-          "物流执行",
-          "资料/流程",
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "跨文化沟通、物流执行、资料/流程、国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "得物App官方飞书招聘",
-        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7677512811878926611/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7673027194914228518",
     "company": "蔚来",
     "title": "校招-社媒运营新业务",
@@ -3569,7 +2827,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：英语、数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -3689,7 +2947,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、PPT、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -3810,7 +3068,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -3929,7 +3187,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：产品岗位。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -4048,7 +3306,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -4167,7 +3425,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -4287,7 +3545,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -4406,7 +3664,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -4532,7 +3790,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -4754,7 +4012,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [
         "工作职责偏技术"
@@ -4860,7 +4118,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -4967,7 +4225,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、数据分析、SEO。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:31.791Z",
+    "discoveredAt": "2026-09-10T08:41:36.077Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -5080,7 +4338,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5191,7 +4449,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：项目管理。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5306,7 +4564,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、内容运营。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -5425,7 +4683,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5538,7 +4796,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5616,232 +4874,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7673027180083988746",
-    "company": "蔚来",
-    "title": "校招-业务运营管理（家充）",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "数据分析",
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "用户",
-      "数据",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027180083988746/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：Excel、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1. 教育背景： - 本科及以上学历优先，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027180083988746/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7673027180084365578",
-    "company": "蔚来",
-    "title": "校招-业务运营管理（充电）",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "数据分析",
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "用户",
-      "数据",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027180084365578/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：Excel、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1. 教育背景： - 本科及以上学历优先，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027180084365578/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-af0a71-7672650855288686884",
     "company": "致欧家居",
     "title": "网站运营管培生（27届校招）",
@@ -5886,7 +4918,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、Excel、数据分析、SEO、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5967,129 +4999,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-1fdf6e-7672611596493179186",
-    "company": "小鹏汽车",
-    "title": "【27届校招】海外备件培训生（供应链/项目管理）",
-    "roleFamily": [
-      "项目管理"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析",
-      "SQL",
-      "项目管理"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "数据",
-      "供应链",
-      "物流"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "海外出差",
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "小鹏汽车官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7672611596493179186/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-11",
-    "deadline": "",
-    "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析、SQL、项目管理。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：物流执行"
-      ],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历供应链、物流、统计、数据科学、工业工程、计算机、汽车工程、国贸等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "物流执行"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "物流执行"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小鹏汽车官方飞书招聘",
-        "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7672611596493179186/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-af0a71-7672651691866802459",
     "company": "致欧家居",
     "title": "TikTok运营管培生（27届校招）",
@@ -6131,7 +5040,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6209,127 +5118,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-af0a71-7672657864284768553",
-    "company": "致欧家居",
-    "title": "运营策略管培生（27届校招）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "Excel",
-      "数据分析",
-      "SQL",
-      "电商"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "节奏快",
-      "适配风险：技术背景优先"
-    ],
-    "source": "致欧家居官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672657864284768553/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-11",
-    "deadline": "",
-    "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术背景优先"
-      ],
-      "strengths": [
-        "文科/社科专业范围兼容"
-      ],
-      "penalty": 8,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1. 本科及以上学历，数学、统计学、经济学等理工科相关专业优先，英语CET-6及以上"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "致欧家居官方飞书招聘",
-        "url": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672657864284768553/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-96da49-7672229950585571630",
     "company": "得物App",
     "title": "【27届校招】供应链技术支持",
@@ -6366,7 +5154,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -6486,19 +5274,24 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:44:22.084Z",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
     "_recruitGroup": "校招",
     "candidateFit": {
-      "warnings": [],
+      "warnings": [
+        "商科/市场知识底子更占优",
+        "技术背景优先"
+      ],
       "strengths": [
         "职责：跨文化沟通"
       ],
-      "penalty": 0,
+      "penalty": 20,
       "bonus": 0,
       "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
+        "verdict": "降权",
+        "label": "商科/市场专业主导",
+        "evidence": [
+          "1. 本科及以上学历，有海外广告投放或数据分析实习经验者优先"
+        ]
       },
       "responsibility": {
         "verdict": "偏语言/商务",
@@ -6515,8 +5308,8 @@ export const liveJobs = [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
+          "verdict": "降权",
+          "detail": "商科/市场专业主导"
         },
         {
           "step": 2,
@@ -6598,7 +5391,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：数据分析、项目管理、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:44:22.084Z",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6710,7 +5503,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：销售类。识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:44:22.084Z",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6822,7 +5615,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、数据分析、内容运营、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:44:22.084Z",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6933,17 +5726,21 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:44:22.084Z",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
-      "strengths": [],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
       "penalty": 0,
       "bonus": 0,
       "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上学历，英语可作为工作语言"
+        ]
       },
       "responsibility": {
         "verdict": "待核",
@@ -6958,8 +5755,8 @@ export const liveJobs = [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
         },
         {
           "step": 2,
@@ -7039,7 +5836,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:44:22.084Z",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -7148,7 +5945,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、市场分析、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -7265,7 +6062,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、SQL、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -7376,7 +6173,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -7489,7 +6286,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、SQL、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -7597,7 +6394,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -7705,7 +6502,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：品牌。识别关键词：数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -7819,7 +6616,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：产品 / 策划 / 项目。识别关键词：数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -7897,6 +6694,125 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "university-524ab28654e06e",
+    "company": "炼化数智技术研究/炼化工艺与设备技术研究/炼化设备技术/炼化环保技术-中国石油天然气股份有限公司长庆石化分公司",
+    "title": "炼化数智技术研究/炼化工艺与设备技术研究/炼化设备技术/炼化环保技术-中国石油天然气股份有限公司长庆石化分公司",
+    "roleFamily": [
+      "业务运营",
+      "HR"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [],
+    "preferenceTags": [
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [],
+    "source": "南开大学就业信息网",
+    "sourceType": "secondary",
+    "sourceChannel": "university",
+    "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118494.html",
+    "verification": "高校就业信息网官方发布 · 待公司官网复核",
+    "sourceEvidence": [
+      {
+        "label": "南开大学就业信息网",
+        "url": "https://career.nankai.edu.cn/correcruit/content/id/118494.html"
+      },
+      {
+        "label": "高校就业信息网官方发布 · 待公司官网复核",
+        "url": ""
+      },
+      {
+        "label": "南开大学招聘列表",
+        "url": "https://career.nankai.edu.cn/correcruit/index.html"
+      }
+    ],
+    "universitySource": {
+      "school": "南开大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 105
+    },
+    "publishedAt": "2026-09-10",
+    "deadline": "2027-08-31",
+    "description": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "3.毕业生院校、专业、学历、学位、毕业时间、外语成绩和培养方式等信息不实或不符合招聘条件的，取消录用资格"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2027-08-31"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannelLabel": "高校就业信息网官方简章",
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "hotjob-b54fddc65560",
     "company": "创维集团",
     "title": "海外电商管培生",
@@ -7945,7 +6861,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -8023,121 +6939,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "ecoflow-7678717009148725523",
-    "company": "正浩创新EcoFlow",
-    "title": "销售运营",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "运营",
-      "数据",
-      "营销",
-      "供应链",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "正浩创新EcoFlow官方2027校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://jobs.ecoflow.com/602892/position/7678717009148725523/detail",
-    "verification": "官方招聘官网/API",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:31.791Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：资料/流程"
-      ],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、2027届获得本科及以上学历，经管、国贸、供应链、新能源等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "资料/流程"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "资料/流程"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "正浩创新EcoFlow官方2027校招官网",
-        "url": "https://jobs.ecoflow.com/602892/position/7678717009148725523/detail"
-      },
-      {
-        "label": "官方招聘官网/API",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-96da49-7677512186726107443",
     "company": "得物App",
     "title": "【27届校招】商家运营-得物国际",
@@ -8181,7 +6982,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -8293,7 +7094,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：产品经理。识别关键词：英语、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -8407,7 +7208,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -8524,7 +7325,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -8647,7 +7448,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、Excel、市场分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -8773,7 +7574,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：项目管理。识别关键词：英语、Excel、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -8895,7 +7696,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：内容运营、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9012,7 +7813,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：Excel、数据分析、文案、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9094,219 +7895,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7673027213571426586",
-    "company": "蔚来",
-    "title": "校招-产品&社区运营助理",
-    "roleFamily": [
-      "用户运营"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理",
-      "文案"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "市场",
-      "用户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027213571426586/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：产品经理。识别关键词：项目管理、文案。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027213571426586/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7673027213571115290",
-    "company": "蔚来",
-    "title": "校招-产品运营助理",
-    "roleFamily": [
-      "产品运营"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "用户",
-      "数据",
-      "洞察",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027213571115290/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：产品经理。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027213571115290/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7673027171800467738",
     "company": "蔚来",
     "title": "校招-电力市场商务管培生",
@@ -9344,7 +7932,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：用户服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -9466,7 +8054,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9550,6 +8138,2311 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-4031ce-7671295533159500038",
+    "company": "小米",
+    "title": "电商运营专员-西语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语",
+      "西班牙语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295533159500038/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-07",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295533159500038/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7671295455737710891",
+    "company": "小米",
+    "title": "电商运营专员-葡萄牙语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语",
+      "葡萄牙语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295455737710891/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-07",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295455737710891/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7671295351282600202",
+    "company": "小米",
+    "title": "电商运营专员-意大利语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295351282600202/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-07",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295351282600202/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7671295302238865727",
+    "company": "小米",
+    "title": "电商运营专员-泰语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295302238865727/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-07",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295302238865727/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7671292970372778303",
+    "company": "小米",
+    "title": "本地化项目经理",
+    "roleFamily": [
+      "项目管理"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "项目",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "跨文化"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671292970372778303/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-07",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：产品类。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：翻译/本地化"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "翻译/本地化"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "翻译/本地化"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671292970372778303/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885967847508278",
+    "company": "小米",
+    "title": "电商运营专员-德语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语",
+      "德语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885967847508278/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885967847508278/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885875107416370",
+    "company": "小米",
+    "title": "电商运营专员-越南语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885875107416370/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885875107416370/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885874674567474",
+    "company": "小米",
+    "title": "电商运营专员-阿拉伯语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语",
+      "阿拉伯语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885874674567474/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885874674567474/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885800137951494",
+    "company": "小米",
+    "title": "电商运营专员-波兰语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885800137951494/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885800137951494/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885742336346394",
+    "company": "小米",
+    "title": "电商运营专员-日语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语",
+      "日语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885742336346394/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885742336346394/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885741542770954",
+    "company": "小米",
+    "title": "电商运营专员-土耳其语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885741542770954/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885741542770954/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885568955582770",
+    "company": "小米",
+    "title": "电商运营专员-法语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语",
+      "法语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885568955582770/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885568955582770/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885233823156486",
+    "company": "小米",
+    "title": "电商运营专员-英语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "数据",
+      "营销",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885233823156486/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上，国际贸易、电子商务、外语、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885233823156486/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670935283243977011",
+    "company": "小米",
+    "title": "电商销售运营-local",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "莫斯科",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "电商",
+      "数据",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935283243977011/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935283243977011/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670935018223225124",
+    "company": "小米",
+    "title": "人力资源专员-国际ops",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "杜塞尔多夫、雅加达",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析",
+      "项目管理"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "数据",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935018223225124/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上学历，英语可作为工作语言"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935018223225124/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885064838187274",
+    "company": "小米",
+    "title": "交付运营专员",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "PowerBI",
+      "项目管理"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "数据",
+      "供应链",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885064838187274/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、PowerBI。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885064838187274/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670923768931322163",
+    "company": "小米",
+    "title": "商业化产品运营",
+    "roleFamily": [
+      "产品运营"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel",
+      "数据分析",
+      "PPT",
+      "SQL",
+      "跨部门沟通"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923768931322163/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、PPT、SQL、跨部门沟通。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [
+        "文科/社科专业范围兼容",
+        "职责：跨文化沟通"
+      ],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "5、学习商业化广告知识与产品方法论，快速熟悉业务链路与核心指标体系，不断提升专业能力",
+          "1、27 届应届毕业生，本科及以上学历，计算机、统计学、经济学、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923768931322163/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885821927573814",
+    "company": "小米",
+    "title": "交付运营专员-俄语",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "PowerBI",
+      "项目管理"
+    ],
+    "languages": [
+      "英语",
+      "俄语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "数据",
+      "供应链",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885821927573814/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、PowerBI。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885821927573814/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670934357804091686",
+    "company": "小米",
+    "title": "销售运营-local",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "杜塞尔多夫",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析",
+      "跨部门沟通"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "数据",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934357804091686/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "文科/社科专业范围兼容",
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上学历，小语种、国际贸易、财经、工商管理等相关专业"
+        ]
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934357804091686/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-96da49-7670423980151032118",
     "company": "得物App",
     "title": "【27届校招】供应链售后运营岗",
@@ -9589,7 +10482,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9702,7 +10595,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、项目管理、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -9817,7 +10710,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、内容运营、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9930,7 +10823,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -10047,7 +10940,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：内容运营、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -10160,7 +11053,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -10273,7 +11166,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -10350,117 +11243,6 @@ export const liveJobs = [
     "annualSalary": "11.4万–17.4万/年（按12薪推算）"
   },
   {
-    "id": "beisen-7f70f36d07ff",
-    "company": "Babycare",
-    "title": "2027校招-产品经理管培生（纺织）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "杭州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "市场分析",
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "用户",
-      "数据"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快",
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849433",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-07-28",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "9.5K-14.5K 元/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、硕士及以上学历，服装设计/服装工程/纺织材料学专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://babycare.zhiye.com/campus/detail?jobAdId=390849433"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": true,
-      "raw": "9.5K-14.5K 元/月",
-      "monthlyMin": 9500,
-      "monthlyMax": 14500,
-      "annualMin": 114000,
-      "annualMax": 174000,
-      "salaryMonths": 12,
-      "monthlyEstimated": false,
-      "annualEstimated": true,
-      "monthlyDisplay": "9.5k–1.45万/月",
-      "annualDisplay": "11.4万–17.4万/年（按12薪推算）",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "high",
-      "evidence": "9.5K-14.5K 元/月 公司官方北森校招岗位；识别关键词：数据分析、市"
-    },
-    "monthlySalary": "9.5k–1.45万/月",
-    "annualSalary": "11.4万–17.4万/年（按12薪推算）"
-  },
-  {
     "id": "feishu-1fdf6e-7663476492252645673",
     "company": "小鹏汽车",
     "title": "【27届校招】内容运营培训生",
@@ -10495,7 +11277,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：品牌。识别关键词：内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10607,7 +11389,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10715,7 +11497,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -10788,126 +11570,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "hotjob-987ef54ca521",
-    "company": "创维集团",
-    "title": "海外产品管培生",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析",
-      "市场分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "项目",
-      "市场",
-      "用户",
-      "数据",
-      "营销",
-      "供应链",
-      "客户",
-      "沟通",
-      "分析"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化"
-    ],
-    "riskTags": [],
-    "source": "公司官方HotJob校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/pb/posDetail.html?postId=6a69d1dd53b4650cd34cda0a&postType=campus",
-    "verification": "官方HotJob校招 · 项目明确2027届秋季校园招聘",
-    "publishedAt": "2026-09-10",
-    "deadline": "2026-09-17",
-    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "职责：国际业务"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-09-17"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方HotJob校招官网",
-        "url": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/pb/posDetail.html?postId=6a69d1dd53b4650cd34cda0a&postType=campus"
-      },
-      {
-        "label": "官方HotJob校招 · 项目明确2027届秋季校园招聘",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "hotjob-8592a6d90641",
     "company": "创维集团",
     "title": "海外供应链管培生",
@@ -10946,7 +11608,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11066,7 +11728,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10W-14W 元/年",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11181,7 +11843,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -11304,7 +11966,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、内容运营、市场分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "15K-22K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11423,7 +12085,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、跨部门沟通、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11535,7 +12197,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -11608,6 +12270,117 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-4031ce-7677560924911438099",
+    "company": "小米",
+    "title": "中国区-供应链管培生",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "市场",
+      "数据",
+      "供应链",
+      "招聘",
+      "物流"
+    ],
+    "preferenceTags": [],
+    "riskTags": [
+      "适配风险：商科/市场知识底子更占优"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7677560924911438099/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-24",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "商科/市场知识底子更占优"
+      ],
+      "strengths": [],
+      "penalty": 12,
+      "bonus": 0,
+      "major": {
+        "verdict": "降权",
+        "label": "商科/市场专业主导",
+        "evidence": [
+          "本科及以上学历，供应链管理、物流管理、工商管理等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "降权",
+          "detail": "商科/市场专业主导"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7677560924911438099/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-96da49-7677512811878189331",
     "company": "得物App",
     "title": "【27届校招】商家履约产品运营-得物国际",
@@ -11647,7 +12420,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：英语、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -11758,7 +12531,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：内容运营、文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11877,7 +12650,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -11959,121 +12732,6 @@ export const liveJobs = [
     "annualSalary": "12万–18万/年（按12薪推算）"
   },
   {
-    "id": "feishu-1fdf6e-7675640647755270438",
-    "company": "小鹏汽车",
-    "title": "【27届校招】海外流量运营培训生",
-    "roleFamily": [
-      "海外运营"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "小鹏汽车官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7675640647755270438/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-19",
-    "deadline": "",
-    "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "3. 有数据分析、产品运营、营销、计算机网络或物联工程相关专业及实习经历者优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小鹏汽车官方飞书招聘",
-        "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7675640647755270438/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-4b7153cefd50",
     "company": "万兴科技",
     "title": "GEO运营专员",
@@ -12120,7 +12778,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、内容运营、PPT、SEO。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -12206,6 +12864,226 @@ export const liveJobs = [
     "annualSalary": "36万–60万/年（按12薪推算）"
   },
   {
+    "id": "feishu-4031ce-7675292549434902811",
+    "company": "小米",
+    "title": "服务管培生 - 物流服务类",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "项目",
+      "用户",
+      "数据",
+      "供应链",
+      "招聘",
+      "物流"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7675292549434902811/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-18",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：供应链类。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7675292549434902811/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7675291796579289387",
+    "company": "小米",
+    "title": "服务管培生 - 备件管理类",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "用户",
+      "数据",
+      "供应链",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7675291796579289387/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-18",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：合同",
+        "职责：跨文化沟通",
+        "职责：翻译/本地化"
+      ],
+      "penalty": 0,
+      "bonus": 6,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "语言/商务主导",
+        "technical": [],
+        "business": [
+          "合同",
+          "跨文化沟通",
+          "翻译/本地化"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "语言/商务主导",
+          "detail": "合同、跨文化沟通、翻译/本地化"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7675291796579289387/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-1fdf6e-7675212133546002724",
     "company": "小鹏汽车",
     "title": "【27届校招】行政培训生（综合服务运营）",
@@ -12235,7 +13113,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：人力资源。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -12355,7 +13233,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-12K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -12479,7 +13357,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -12599,7 +13477,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优",
@@ -12677,127 +13555,6 @@ export const liveJobs = [
     "annualSalary": "12万–18万/年（按12薪推算）"
   },
   {
-    "id": "feishu-1fdf6e-7673330339926837555",
-    "company": "小鹏汽车",
-    "title": "【27届校招】海外售后运营培训生-东南亚",
-    "roleFamily": [
-      "海外运营"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "数据",
-      "营销",
-      "客户"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "海外出差",
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "小鹏汽车官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7673330339926837555/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-13",
-    "deadline": "",
-    "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，车辆工程、机械、管理、营销等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小鹏汽车官方飞书招聘",
-        "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7673330339926837555/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7673027194914818342",
     "company": "蔚来",
     "title": "校招- 用户与内容运营",
@@ -12831,7 +13588,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：内容运营、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -12934,7 +13691,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -13012,122 +13769,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7673027389115910438",
-    "company": "蔚来",
-    "title": "校招-firefly萤火虫项目经理",
-    "roleFamily": [
-      "项目管理"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "Excel",
-      "项目管理"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "项目",
-      "数据",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027389115910438/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：项目管理。识别关键词：英语、Excel、项目管理。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1. 理工科相关专业，本科及以上学历，车辆、计算机、软件、通信、电子、物联网相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027389115910438/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-96da49-7672088309460781375",
     "company": "得物App",
     "title": "【27届校招】项目产品运营-消电食饮虚拟业务",
@@ -13164,7 +13805,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -13277,7 +13918,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -13355,6 +13996,242 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-4031ce-7670934925583960329",
+    "company": "小米",
+    "title": "交付运营专员-local",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "米兰、伊斯坦布尔、杜塞尔多夫",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "PowerBI",
+      "项目管理"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "数据",
+      "供应链",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934925583960329/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、PowerBI。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934925583960329/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670886125619906822",
+    "company": "小米",
+    "title": "交付运营专员-外派",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "布加勒斯特",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "PowerBI",
+      "项目管理"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "数据",
+      "供应链",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670886125619906822/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：交付类。识别关键词：英语、Excel、数据分析、SQL、PowerBI。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "技术背景优先"
+      ],
+      "strengths": [],
+      "penalty": 8,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670886125619906822/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "beisen-a9440bd0b680",
     "company": "vivo",
     "title": "产品营销经理（海外业务）-27届秋招",
@@ -13392,7 +14269,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13469,6 +14346,116 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-4031ce-7670885511074040091",
+    "company": "小米",
+    "title": "增值服务运营",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "项目管理"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885511074040091/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：项目管理。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885511074040091/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-96da49-7670554967485483274",
     "company": "得物App",
     "title": "【27届校招】中台运营（效率&精益）",
@@ -13507,7 +14494,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：商品研究中心。识别关键词：Excel、数据分析、SQL、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -13624,7 +14611,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：商品研究中心。识别关键词：Excel、数据分析、SQL、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -13736,7 +14723,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -13844,7 +14831,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、项目管理、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -13955,7 +14942,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -14064,7 +15051,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -14183,7 +15170,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -14305,7 +15292,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -14420,7 +15407,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -14532,7 +15519,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -14609,118 +15596,6 @@ export const liveJobs = [
     "annualSalary": "11.4万–17.4万/年（按12薪推算）"
   },
   {
-    "id": "beisen-2c3e7025bfa1",
-    "company": "Babycare",
-    "title": "2027校招-应用产品经理管培生（前台）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "杭州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "项目管理",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "电商",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849419",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-07-28",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "9.5K-14.5K 元/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、本科以上学历，计算机、统计学、数学、信息管理等相关专业优先，有产品经理、项目管理经验优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://babycare.zhiye.com/campus/detail?jobAdId=390849419"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": true,
-      "raw": "9.5K-14.5K 元/月",
-      "monthlyMin": 9500,
-      "monthlyMax": 14500,
-      "annualMin": 114000,
-      "annualMax": 174000,
-      "salaryMonths": 12,
-      "monthlyEstimated": false,
-      "annualEstimated": true,
-      "monthlyDisplay": "9.5k–1.45万/月",
-      "annualDisplay": "11.4万–17.4万/年（按12薪推算）",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "high",
-      "evidence": "9.5K-14.5K 元/月 公司官方北森校招岗位；识别关键词：数据分析、项"
-    },
-    "monthlySalary": "9.5k–1.45万/月",
-    "annualSalary": "11.4万–17.4万/年（按12薪推算）"
-  },
-  {
     "id": "nowcoder-9e858879b389",
     "company": "信也科技",
     "title": "2027届校招-产品运营管培生（泰国市场）",
@@ -14754,7 +15629,7 @@ export const liveJobs = [
     "description": "自动发现的 产品运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -14834,6 +15709,123 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "nowcoder-51b5d939ce53",
+    "company": "惠州市德赛西威汽车电子股份有限公司",
+    "title": "AI产品运营（上海）",
+    "roleFamily": [
+      "产品运营"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel",
+      "数据分析",
+      "PPT",
+      "跨部门沟通",
+      "文案"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "项目",
+      "市场",
+      "用户",
+      "数据"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：技术专业背景更占优"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466132?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-10",
+    "deadline": "2029-09-08",
+    "description": "自动发现的 产品运营 类岗位；识别关键词：Excel、数据分析、PPT、跨部门沟通、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
+    "candidateFit": {
+      "warnings": [
+        "技术专业背景更占优"
+      ],
+      "strengths": [],
+      "penalty": 12,
+      "bonus": 0,
+      "major": {
+        "verdict": "降权",
+        "label": "理工/计算机专业主导",
+        "evidence": [
+          "1.本科及以上学历，计算机、人工智能、产品、市场等相关专业优先，热爱AI、学习能力优秀的非技术背景亦可"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2029-09-08"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "降权",
+          "detail": "理工/计算机专业主导"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "referral",
+    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
+    "sourceEvidence": [
+      {
+        "label": "牛客公开职位",
+        "url": "https://www.nowcoder.com/jobs/detail/466132?urlSource=sitemap"
+      },
+      {
+        "label": "二手来源，待官网核验",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "hotjob-73185160bc55",
     "company": "创维集团",
     "title": "海外营销管培生",
@@ -14877,7 +15869,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -14957,124 +15949,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "hotjob-2cfa996f6d1a",
-    "company": "创维集团",
-    "title": "海外项目经理",
-    "roleFamily": [
-      "项目管理"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "项目管理"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "项目",
-      "市场",
-      "营销",
-      "客户",
-      "沟通",
-      "分析"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化"
-    ],
-    "riskTags": [],
-    "source": "公司官方HotJob校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/pb/posDetail.html?postId=6a9699a55e09b14b274f5747&postType=campus",
-    "verification": "官方HotJob校招 · 项目明确2027届秋季校园招聘",
-    "publishedAt": "2026-09-09",
-    "deadline": "2026-09-17",
-    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "职责：资料/流程",
-        "职责：国际业务"
-      ],
-      "penalty": 0,
-      "bonus": 4,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "资料/流程",
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-09-17"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "资料/流程、国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方HotJob校招官网",
-        "url": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/pb/posDetail.html?postId=6a9699a55e09b14b274f5747&postType=campus"
-      },
-      {
-        "label": "官方HotJob校招 · 项目明确2027届秋季校园招聘",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7680808052996245802",
     "company": "蔚来",
     "title": "校招-商业分析师",
@@ -15110,7 +15984,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15234,7 +16108,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、市场分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -15358,7 +16232,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -15474,7 +16348,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15584,7 +16458,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15699,7 +16573,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15814,7 +16688,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15929,7 +16803,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16053,7 +16927,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、SEO。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "12K-18K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -16178,7 +17052,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16263,118 +17137,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7673027164011809034",
-    "company": "蔚来",
-    "title": "校招-业务运营管理",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "杭州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "用户",
-      "数据",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027164011809034/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：用户服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027164011809034/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7673027351076997426",
     "company": "蔚来",
     "title": "校招-总部新媒体运营（体系化与AI提效方向）",
@@ -16408,7 +17170,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16512,7 +17274,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：人力资源。识别关键词：Excel。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16623,7 +17385,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16745,7 +17507,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16860,7 +17622,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16973,7 +17735,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：人力资源。识别关键词：跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -17055,6 +17817,1476 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-4031ce-7671292176374417670",
+    "company": "小米",
+    "title": "市场品牌推广",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "招聘",
+      "商务"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671292176374417670/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-07",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科以上学历，新闻传播、国际商务、国际贸易、市场营销、企业管理等相关专业"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671292176374417670/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7671129798714460470",
+    "company": "小米",
+    "title": "中国区-市场营销管培生",
+    "roleFamily": [
+      "市场"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "文案"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "市场",
+      "用户",
+      "营销",
+      "品牌",
+      "洞察",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [
+      "适配风险：商科/市场知识底子更占优"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129798714460470/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-07",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "商科/市场知识底子更占优"
+      ],
+      "strengths": [],
+      "penalty": 12,
+      "bonus": 0,
+      "major": {
+        "verdict": "降权",
+        "label": "商科/市场专业主导",
+        "evidence": [
+          "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "降权",
+          "detail": "商科/市场专业主导"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129798714460470/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7671293483919853850",
+    "company": "小米",
+    "title": "策略运营",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "SQL",
+      "跨部门沟通"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "数据",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：商科/市场知识底子更占优",
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671293483919853850/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-07",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、跨部门沟通。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "商科/市场知识底子更占优",
+        "技术背景优先"
+      ],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 20,
+      "bonus": 0,
+      "major": {
+        "verdict": "降权",
+        "label": "商科/市场专业主导",
+        "evidence": [
+          "1. 本科及以上学历，有海外广告投放或数据分析实习经验者优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "降权",
+          "detail": "商科/市场专业主导"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671293483919853850/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885774128597275",
+    "company": "小米",
+    "title": "电商运营专员-韩语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析",
+      "电商"
+    ],
+    "languages": [
+      "韩语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "用户",
+      "数据",
+      "营销",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885774128597275/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885774128597275/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670918797348178222",
+    "company": "小米",
+    "title": "远程诊断产品运营-汽车",
+    "roleFamily": [
+      "产品运营"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel",
+      "数据分析",
+      "SQL"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "用户",
+      "数据",
+      "营销",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [
+      "适配风险：专业范围含技术方向，需核对具体优先级",
+      "适配风险：技术背景优先"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670918797348178222/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：软件研发类。识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "专业范围含技术方向，需核对具体优先级",
+        "技术背景优先"
+      ],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 13,
+      "bonus": 0,
+      "major": {
+        "verdict": "混合",
+        "label": "专业范围较宽，含技术与文商科",
+        "evidence": [
+          "1、本科及以上学历，计算机、汽车工程、数据分析、市场营销等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "混合",
+          "detail": "专业范围较宽，含技术与文商科"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670918797348178222/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885775769159974",
+    "company": "小米",
+    "title": "市场专员",
+    "roleFamily": [
+      "产品营销",
+      "市场"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "招聘",
+      "商务"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885775769159974/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科以上学历，新闻传播、国际商务、国际贸易、市场营销、企业管理等相关专业"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885775769159974/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670923755846666532",
+    "company": "小米",
+    "title": "人力资源专员-国际payroll",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "数据",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923755846666532/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923755846666532/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885702062606655",
+    "company": "小米",
+    "title": "电商运营专员-俄语",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "文案",
+      "电商"
+    ],
+    "languages": [
+      "英语",
+      "俄语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "市场",
+      "电商",
+      "用户",
+      "数据",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885702062606655/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、文案、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885702062606655/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670884904113195274",
+    "company": "小米",
+    "title": "广告投放及运营",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "电商"
+    ],
+    "languages": [
+      "英语",
+      "德语",
+      "法语",
+      "西班牙语",
+      "俄语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "市场",
+      "电商",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884904113195274/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：英语、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884904113195274/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670935478140635401",
+    "company": "小米",
+    "title": "电商运营专员-西语-外派",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "墨西哥城、圣地亚哥",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel",
+      "数据分析",
+      "电商"
+    ],
+    "languages": [
+      "西班牙语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "电商",
+      "数据",
+      "客户",
+      "招聘",
+      "物流"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935478140635401/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：外语外派类。识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935478140635401/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670930784789989675",
+    "company": "小米",
+    "title": "产品运营经理",
+    "roleFamily": [
+      "产品运营"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel",
+      "数据分析",
+      "文案"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "用户",
+      "数据",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930784789989675/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、文案。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930784789989675/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885568703760678",
+    "company": "小米",
+    "title": "合规认证项目经理",
+    "roleFamily": [
+      "项目管理"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "项目",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885568703760678/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885568703760678/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670923706315934003",
+    "company": "小米",
+    "title": "内容运营",
+    "roleFamily": [
+      "内容运营"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "内容运营",
+      "文案"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "内容",
+      "用户",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923706315934003/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、内容运营、文案。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923706315934003/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-96da49-7670391119918401838",
     "company": "得物App",
     "title": "【27届校招】供给策略运营",
@@ -17093,7 +19325,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、PPT、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -17169,125 +19401,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-96da49-7670429340735932726",
-    "company": "得物App",
-    "title": "【27届校招】供应链产品经理（仓储/国际/S&OP）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "SQL",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "电商",
-      "用户",
-      "数据",
-      "供应链",
-      "洞察",
-      "物流"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优",
-      "适配风险：技术背景优先"
-    ],
-    "source": "得物App官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7670429340735932726/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-05",
-    "deadline": "",
-    "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优",
-        "技术背景优先"
-      ],
-      "strengths": [],
-      "penalty": 20,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1.2027届应届生，本科及以上学历，计算机、工业工程、供应链管理、物流管理、数学/统计学等相关专业优先，有电商/物流/供应链相关实习经验者优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "得物App官方飞书招聘",
-        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7670429340735932726/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-96da49-7670549232986638602",
     "company": "得物App",
     "title": "【27届校招】商家运营-酒水",
@@ -17323,7 +19436,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -17434,7 +19547,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -17547,7 +19660,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -17659,7 +19772,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -17772,7 +19885,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -17885,7 +19998,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -17996,7 +20109,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18104,7 +20217,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18211,7 +20324,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -18331,7 +20444,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、内容运营、SQL。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -18442,7 +20555,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：产品类。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -18559,7 +20672,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18684,7 +20797,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18803,7 +20916,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：产品岗位。识别关键词：英语、内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -18916,7 +21029,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -19025,7 +21138,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -19135,7 +21248,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -19243,7 +21356,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -19363,7 +21476,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -19491,7 +21604,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -19613,7 +21726,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "6K-8K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -19725,7 +21838,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8k-10k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -19836,7 +21949,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -19915,118 +22028,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-5afaea9ee775",
-    "company": "惠州市德赛西威汽车电子股份有限公司",
-    "title": "产品项目方向管培生（北极星计划）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "惠州",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "项目管理"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "项目"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "节奏快",
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466152?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2029-09-08",
-    "description": "自动发现的 其他 类岗位；识别关键词：英语、项目管理。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、2027届硕士学历，双一流及重点院校优先，理工科类相关专业，学业成绩优异、绩点靠前，拥有校级及以上奖学金、科研竞赛获奖者优先，对汽车智能座舱、智能驾驶、车载电子等领域具备浓厚兴趣"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2029-09-08"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/466152?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "nowcoder-3dc1a2a850e7",
     "company": "惠州市德赛西威汽车电子股份有限公司",
     "title": "人力资源方向管培生（北极星计划）",
@@ -20060,7 +22061,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -20175,7 +22176,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -20257,220 +22258,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "moka-2f6322039613",
-    "company": "微步在线",
-    "title": "客户成功经理-武汉（27届）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "武汉",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/92491c80-06c2-4362-aced-6194557c49be",
-    "verification": "官方招聘官网 · JD/标题明确2027届",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1. 学历背景 2027届应届毕业生，网络安全或计算机相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方Moka校招官网",
-        "url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/92491c80-06c2-4362-aced-6194557c49be"
-      },
-      {
-        "label": "官方招聘官网 · JD/标题明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "moka-478545814d10",
-    "company": "微步在线",
-    "title": "客户成功经理-北京（27届）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/60f290ee-eb66-47e8-98c7-506731949ee5",
-    "verification": "官方招聘官网 · JD/标题明确2027届",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1. 学历背景 2027届应届毕业生，网络安全或计算机相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方Moka校招官网",
-        "url": "https://app.mokahr.com/campus-recruitment/threatbook/39679#/job/60f290ee-eb66-47e8-98c7-506731949ee5"
-      },
-      {
-        "label": "官方招聘官网 · JD/标题明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-43922065cfc6",
     "company": "名创优品",
     "title": "项目管理创优生(J17241)",
@@ -20503,7 +22290,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10W-14W 元/年",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -20617,7 +22404,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -20739,7 +22526,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -20858,7 +22645,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:31.791Z",
+    "discoveredAt": "2026-09-10T08:41:36.077Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -20969,7 +22756,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -21082,7 +22869,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -21159,114 +22946,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-3c60b7e6bb76",
-    "company": "三一集团",
-    "title": "战略与运营管理专员",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "长沙",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "数据"
-    ],
-    "preferenceTags": [
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://sany.zhiye.com/campus/detail?jobAdId=270971591",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-08-26",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "工商管理、经济学、工业工程、统计学、行政管理等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://sany.zhiye.com/campus/detail?jobAdId=270971591"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "面议",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "面议"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "hotjob-07d969fbca6b",
     "company": "Decathlon",
     "title": "迪卡侬供应链计划主管（校园招聘）--上海",
@@ -21298,7 +22977,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "11k-13k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -21399,7 +23078,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "7K-9K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -21511,7 +23190,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -21630,7 +23309,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、内容运营、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -21756,7 +23435,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：内容运营、SQL、文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -21877,7 +23556,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -21990,7 +23669,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -22105,7 +23784,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -22220,7 +23899,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -22342,7 +24021,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -22425,342 +24104,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7673027171799288090",
-    "company": "蔚来",
-    "title": "校招-业务运营管理",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "武汉",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "用户",
-      "数据",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027171799288090/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027171799288090/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7673027164010334474",
-    "company": "蔚来",
-    "title": "校招-业务运营管理",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "用户",
-      "数据",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027164010334474/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027164010334474/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7673027157405026586",
-    "company": "蔚来",
-    "title": "校招-业务运营管理",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "用户",
-      "数据",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027157405026586/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027157405026586/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7673027194914523430",
     "company": "蔚来",
     "title": "校招- 数字内容视觉设计",
@@ -22793,7 +24136,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -22901,7 +24244,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -23004,7 +24347,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：人力资源。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -23121,7 +24464,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -23234,7 +24577,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：采购 / 贸易 / 交通 / 物流。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -23308,19 +24651,17 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-96da49-7671160092998011186",
-    "company": "得物App",
-    "title": "【27届校招】平台商品运营",
+    "id": "feishu-4031ce-7671129748432980230",
+    "company": "小米",
+    "title": "内容策划",
     "roleFamily": [
-      "其他"
+      "内容运营"
     ],
-    "city": "上海",
+    "city": "武汉",
     "graduationYear": "2027",
     "skills": [
-      "Excel",
-      "数据分析",
-      "SQL",
-      "电商"
+      "内容运营",
+      "文案"
     ],
     "languages": [],
     "experienceKeywords": [
@@ -23328,51 +24669,44 @@ export const liveJobs = [
       "内容",
       "项目",
       "市场",
-      "电商",
       "用户",
-      "数据",
-      "营销"
+      "营销",
+      "洞察",
+      "招聘"
     ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快",
-      "适配风险：专业范围含技术方向，需核对具体优先级",
-      "适配风险：技术背景优先"
+    "preferenceTags": [
+      "专业不限"
     ],
-    "source": "得物App官方飞书招聘",
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
     "sourceType": "official",
-    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7671160092998011186/detail",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129748432980230/detail",
     "verification": "官方招聘官网/API；岗位文本明确2027届",
     "publishedAt": "2026-08-07",
     "deadline": "",
-    "description": "得物App官方校园招聘岗位；职类：产品类。识别关键词：Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：内容运营、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
     "_recruitGroup": "校招",
     "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级",
-        "技术背景优先"
-      ],
+      "warnings": [],
       "strengths": [
-        "职责：跨文化沟通"
+        "专业不限"
       ],
-      "penalty": 13,
-      "bonus": 0,
+      "penalty": 0,
+      "bonus": 2,
       "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
+        "verdict": "友好",
+        "label": "专业不限",
         "evidence": [
-          "1. 2027届应届生，本科及以上学历，计算机、工程类、管理学、经济学、统计学、应用数学等相关专业优先"
+          "1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限"
         ]
       },
       "responsibility": {
-        "verdict": "偏语言/商务",
+        "verdict": "待核",
         "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
+        "business": []
       },
       "hardRequirements": [],
       "eligibilityEvidence": [
@@ -23382,14 +24716,14 @@ export const liveJobs = [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
+          "verdict": "友好",
+          "detail": "专业不限"
         },
         {
           "step": 2,
           "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
+          "verdict": "待核",
+          "detail": "未识别明显信号"
         },
         {
           "step": 3,
@@ -23403,8 +24737,134 @@ export const liveJobs = [
     "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
     "sourceEvidence": [
       {
-        "label": "得物App官方飞书招聘",
-        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7671160092998011186/detail"
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129748432980230/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885138124982574",
+    "company": "小米",
+    "title": "渠道零售品类运营主管",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "Excel",
+      "数据分析",
+      "文案"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "用户",
+      "数据",
+      "跨文化",
+      "营销"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "跨文化",
+      "出海",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885138124982574/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、文案。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "文科/社科专业范围兼容",
+        "职责：跨文化沟通",
+        "职责：国际业务"
+      ],
+      "penalty": 0,
+      "bonus": 4,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上学历，市场营销、国际贸易、工商管理、数据分析等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "语言/商务主导",
+        "technical": [],
+        "business": [
+          "跨文化沟通",
+          "国际业务"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "语言/商务主导",
+          "detail": "跨文化沟通、国际业务"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885138124982574/detail"
       },
       {
         "label": "官方招聘官网/API；岗位文本明确2027届",
@@ -23469,7 +24929,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -23550,6 +25010,785 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-4031ce-7670935167976540467",
+    "company": "小米",
+    "title": "电商运营-泰语-local",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "曼谷",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "文案",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "市场",
+      "电商",
+      "用户",
+      "数据",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935167976540467/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、文案、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935167976540467/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670935136749865226",
+    "company": "小米",
+    "title": "电商运营专员E-commerce Operations Specialist-local",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "马尼拉、胡志明市、吉隆坡",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "文案",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "市场",
+      "电商",
+      "用户",
+      "数据",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935136749865226/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、文案、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935136749865226/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885805262899499",
+    "company": "小米",
+    "title": "商务拓展经理",
+    "roleFamily": [
+      "销售"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析",
+      "项目管理"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "项目",
+      "市场",
+      "数据",
+      "客户",
+      "招聘",
+      "商务"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885805262899499/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：商务类。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885805262899499/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670933692873836851",
+    "company": "小米",
+    "title": "电商运营专员-广告投放-local",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "雅加达",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "电商",
+      "数据",
+      "营销",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670933692873836851/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670933692873836851/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670923881368996102",
+    "company": "小米",
+    "title": "人力资源专员-国际招聘",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "市场",
+      "洞察",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923881368996102/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：Excel。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923881368996102/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670931024012396838",
+    "company": "小米",
+    "title": "电商运营专员-达人运营-local",
+    "roleFamily": [
+      "电商运营"
+    ],
+    "city": "雅加达",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "电商"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "电商",
+      "数据",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670931024012396838/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、电商。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670931024012396838/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670924149524023578",
+    "company": "小米",
+    "title": "人力资源专员-薪酬",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "Excel",
+      "数据分析"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "项目",
+      "市场",
+      "数据",
+      "洞察",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670924149524023578/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670924149524023578/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-96da49-7670418150458509614",
     "company": "得物App",
     "title": "【27届校招】供应链-经营规划",
@@ -23581,7 +25820,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -23688,7 +25927,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -23794,7 +26033,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：商品研究中心。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -23898,7 +26137,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -24006,7 +26245,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -24109,7 +26348,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：商品研究中心。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -24214,7 +26453,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -24319,7 +26558,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -24404,6 +26643,208 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-96da49-7670549047245343027",
+    "company": "得物App",
+    "title": "【27届校招】品牌研究运营（综合类目）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "市场",
+      "用户",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "得物App官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7670549047245343027/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-05",
+    "deadline": "",
+    "description": "得物App官方校园招聘岗位；职类：商品研究中心。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "得物App官方飞书招聘",
+        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7670549047245343027/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-96da49-7670544823561341238",
+    "company": "得物App",
+    "title": "【27届校招】品牌研究运营（潮流运动鞋类）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "市场",
+      "用户",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "得物App官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7670544823561341238/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-05",
+    "deadline": "",
+    "description": "得物App官方校园招聘岗位；职类：商品研究中心。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "得物App官方飞书招聘",
+        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7670544823561341238/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-c93cd7-7669710410455173417",
     "company": "沐瞳科技",
     "title": "【2027届秋招】用户与社区运营",
@@ -24437,7 +26878,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -24554,7 +26995,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -24661,7 +27102,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -24735,350 +27176,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "hotjob-9ba700a8248f",
-    "company": "创维集团",
-    "title": "海外项目管培生（光伏方向）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "海口市、海外",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "项目",
-      "数据",
-      "营销",
-      "沟通",
-      "分析"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "公司官方HotJob校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/pb/posDetail.html?postId=6a6c09d7e05c792b8ed3832c&postType=campus",
-    "verification": "官方HotJob校招 · 项目明确2027届秋季校园招聘",
-    "publishedAt": "2026-07-31",
-    "deadline": "2027-07-31",
-    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-07-31"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方HotJob校招官网",
-        "url": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/pb/posDetail.html?postId=6a6c09d7e05c792b8ed3832c&postType=campus"
-      },
-      {
-        "label": "官方HotJob校招 · 项目明确2027届秋季校园招聘",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "beisen-54861b3ed612",
-    "company": "Babycare",
-    "title": "2027校招-供应计划管培生",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "杭州",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "供应链"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849808",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-07-29",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "9.5K-14.5K 元/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://babycare.zhiye.com/campus/detail?jobAdId=390849808"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": true,
-      "raw": "9.5K-14.5K 元/月",
-      "monthlyMin": 9500,
-      "monthlyMax": 14500,
-      "annualMin": 114000,
-      "annualMax": 174000,
-      "salaryMonths": 12,
-      "monthlyEstimated": false,
-      "annualEstimated": true,
-      "monthlyDisplay": "9.5k–1.45万/月",
-      "annualDisplay": "11.4万–17.4万/年（按12薪推算）",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "high",
-      "evidence": "9.5K-14.5K 元/月 公司官方北森校招岗位；识别关键词：项目管理。投"
-    },
-    "monthlySalary": "9.5k–1.45万/月",
-    "annualSalary": "11.4万–17.4万/年（按12薪推算）"
-  },
-  {
-    "id": "feishu-c93cd7-7667891320506550534",
-    "company": "沐瞳科技",
-    "title": "【2027届秋招】项目管理-MOBA",
-    "roleFamily": [
-      "项目管理"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析",
-      "项目管理"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "数据",
-      "招聘"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优",
-      "适配风险：技术背景优先",
-      "适配风险：职责同时含技术与商务内容"
-    ],
-    "source": "沐瞳科技官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://moonton.jobs.feishu.cn/campus/m/position/7667891320506550534/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-07-29",
-    "deadline": "",
-    "description": "沐瞳科技官方校园招聘岗位；职类：产品岗位。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优",
-        "技术背景优先",
-        "职责同时含技术与商务内容"
-      ],
-      "strengths": [
-        "职责：资料/流程"
-      ],
-      "penalty": 26,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1.2027届本科及以上学历，计算机、软件、自动化等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "混合",
-        "technical": [
-          "模型/算法"
-        ],
-        "business": [
-          "资料/流程"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "混合",
-          "detail": "资料/流程、模型/算法"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "沐瞳科技官方飞书招聘",
-        "url": "https://moonton.jobs.feishu.cn/campus/m/position/7667891320506550534/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-c26d6fe0fc72",
     "company": "Babycare",
     "title": "2027校招-产品营销管培生（小N）",
@@ -25113,7 +27210,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -25224,7 +27321,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -25334,7 +27431,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -25411,116 +27508,6 @@ export const liveJobs = [
     "annualSalary": "11.4万–17.4万/年（按12薪推算）"
   },
   {
-    "id": "beisen-0989f09bf782",
-    "company": "Babycare",
-    "title": "2027校招-产品经理管培生（洗护）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "杭州",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "数据分析",
-      "PPT"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "用户",
-      "数据"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849498",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-07-28",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "9.5K-14.5K 元/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，化学、应用化学、化工、药学、材料科学等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://babycare.zhiye.com/campus/detail?jobAdId=390849498"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": true,
-      "raw": "9.5K-14.5K 元/月",
-      "monthlyMin": 9500,
-      "monthlyMax": 14500,
-      "annualMin": 114000,
-      "annualMax": 174000,
-      "salaryMonths": 12,
-      "monthlyEstimated": false,
-      "annualEstimated": true,
-      "monthlyDisplay": "9.5k–1.45万/月",
-      "annualDisplay": "11.4万–17.4万/年（按12薪推算）",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "high",
-      "evidence": "9.5K-14.5K 元/月 公司官方北森校招岗位；识别关键词：Excel、"
-    },
-    "monthlySalary": "9.5k–1.45万/月",
-    "annualSalary": "11.4万–17.4万/年（按12薪推算）"
-  },
-  {
     "id": "beisen-876cbe25d517",
     "company": "Babycare",
     "title": "2027校招-工业设计管培生",
@@ -25551,7 +27538,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -25657,7 +27644,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -25762,7 +27749,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -25843,115 +27830,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-f1a84219915e",
-    "company": "科大讯飞",
-    "title": "产品运营经理-2B2C市场方向(J13402)",
-    "roleFamily": [
-      "产品运营"
-    ],
-    "city": "安徽省·合肥市",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "市场",
-      "数据",
-      "营销",
-      "客户"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842393",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-07-23",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、 重点院校本科及以上学历，计算机等工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://iflytek.zhiye.com/campus/detail?jobAdId=190842393"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "面议",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "面议"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-ff21a9cd9cbc",
     "company": "科大讯飞",
     "title": "品牌经理-品牌内容方向(J13422)",
@@ -25979,7 +27857,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -26096,7 +27974,7 @@ export const liveJobs = [
     "description": "影石Insta360官方校园招聘岗位；识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:34.755Z",
+    "discoveredAt": "2026-09-10T08:39:26.640Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26214,7 +28092,7 @@ export const liveJobs = [
     "description": "影石Insta360官方校园招聘岗位；识别关键词：文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:34.755Z",
+    "discoveredAt": "2026-09-10T08:39:26.640Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -26333,7 +28211,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：品牌。识别关键词：数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26450,7 +28328,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：职能 / 支持。识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26570,7 +28448,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26691,7 +28569,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26769,359 +28647,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-1fdf6e-7658239540087507210",
-    "company": "小鹏汽车",
-    "title": "【27届校招】OTA产品运营培训生",
-    "roleFamily": [
-      "产品运营"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [
-      "跨部门沟通"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "用户",
-      "数据"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快",
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "小鹏汽车官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239540087507210/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-07-03",
-    "deadline": "",
-    "description": "小鹏汽车官方校园招聘岗位；职类：测试。识别关键词：跨部门沟通。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：跨文化沟通",
-        "职责：资料/流程"
-      ],
-      "penalty": 12,
-      "bonus": 4,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，车辆工程、计算机、电子信息、软件工程、自动化等工科相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "跨文化沟通",
-          "资料/流程"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "跨文化沟通、资料/流程"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小鹏汽车官方飞书招聘",
-        "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239540087507210/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "nowcoder-9c0847133d77",
-    "company": "信也科技",
-    "title": "2027届校招-商务管培生（派驻非洲）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析",
-      "电商"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465377?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2026-12-31",
-    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：国际业务"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1、学历背景：本科及以上学历，市场营销、国际贸易、金融经济、商务管理、英语及小语种相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-12-31"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465377?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "nowcoder-832de0087bf9",
-    "company": "九方云",
-    "title": "新媒体运营(A55698)",
-    "roleFamily": [
-      "内容运营"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "PPT"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：商科/市场知识底子更占优"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466481?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2026-12-31",
-    "description": "自动发现的 内容运营 类岗位；识别关键词：数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "商科/市场知识底子更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "商科/市场专业主导",
-        "evidence": [
-          "1.2027届本科及以上学历，财经类、新闻传播类或广告学等专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-12-31"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "商科/市场专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/466481?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "moka-f463563a3eef",
     "company": "货拉拉",
     "title": "运营培训生",
@@ -27159,7 +28684,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -27273,7 +28798,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -27381,7 +28906,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：金融。识别关键词：Excel、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -27495,7 +29020,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：数据分析。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -27601,7 +29126,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：产品 / 策划 / 项目。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -27679,125 +29204,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-ad86729ba437",
-    "company": "三一集团",
-    "title": "国际人力资源专员",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "国外",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "数据",
-      "跨文化",
-      "品牌"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://sany.zhiye.com/campus/detail?jobAdId=270976072",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-09-03",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：跨文化沟通",
-        "职责：翻译/本地化"
-      ],
-      "penalty": 0,
-      "bonus": 4,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1、学历与专业：本科及以上学历，人力资源管理、工商管理、心理学、劳动与社会保障、法学等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "跨文化沟通",
-          "翻译/本地化"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "跨文化沟通、翻译/本地化"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://sany.zhiye.com/campus/detail?jobAdId=270976072"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "面议",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "面议"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-375dc4e100ea",
     "company": "国贸股份",
     "title": "贸易运营岗(J13647)",
@@ -27830,7 +29236,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "14-16 万元/年",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -27951,7 +29357,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -28068,7 +29474,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "10k-15k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -28177,7 +29583,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -28290,7 +29696,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -28402,7 +29808,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -28481,127 +29887,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-96da49-7677517227885857078",
-    "company": "得物App",
-    "title": "【27届校招】出海体验策略运营-得物国际",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "SQL",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "电商",
-      "用户",
-      "数据",
-      "招聘",
-      "商务"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "出海"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "得物App官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7677517227885857078/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-24",
-    "deadline": "",
-    "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：SQL、电商。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：国际业务"
-      ],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、2027届应届生，本科及以上学历，统计学、计算机、应用数学、电子商务、理工科等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "得物App官方飞书招聘",
-        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7677517227885857078/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7676297902574569769",
     "company": "蔚来",
     "title": "校招正式-乐道顾问（25/26可投）-北京",
@@ -28634,7 +29919,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28741,7 +30026,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28848,7 +30133,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28922,61 +30207,59 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-2f0307bbef42",
-    "company": "万兴科技",
-    "title": "经营分析专员",
+    "id": "feishu-4031ce-7675292530737137963",
+    "company": "小米",
+    "title": "服务管培生 - 售后管理类",
     "roleFamily": [
       "其他"
     ],
-    "city": "长沙",
+    "city": "北京",
     "graduationYear": "2027",
     "skills": [
-      "Excel",
-      "数据分析",
-      "SQL"
+      "英语"
     ],
-    "languages": [],
+    "languages": [
+      "英语"
+    ],
     "experienceKeywords": [
       "运营",
-      "项目",
-      "数据"
+      "用户",
+      "数据",
+      "品牌",
+      "客户",
+      "招聘"
     ],
-    "preferenceTags": [
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "适配风险：技术背景优先"
-    ],
-    "source": "公司官方北森校招官网",
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
     "sourceType": "official",
-    "sourceUrl": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=621129086",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7675292530737137963/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
     "publishedAt": "2026-08-18",
     "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "17K-25K 元/月",
+    "description": "小米官方校园招聘岗位；职类：服务类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
     "candidateFit": {
-      "warnings": [
-        "技术背景优先"
-      ],
+      "warnings": [],
       "strengths": [
-        "文科/社科专业范围兼容"
+        "职责：跨文化沟通"
       ],
-      "penalty": 8,
+      "penalty": 0,
       "bonus": 0,
       "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1、本科及以上学历，统计学、数学、经济学、信息管理、计算机等相关专业优先"
-        ]
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
       },
       "responsibility": {
-        "verdict": "待核",
+        "verdict": "偏语言/商务",
         "technical": [],
-        "business": []
+        "business": [
+          "跨文化沟通"
+        ]
       },
       "hardRequirements": [],
       "eligibilityEvidence": [
@@ -28986,14 +30269,14 @@ export const liveJobs = [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
         },
         {
           "step": 2,
           "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
         },
         {
           "step": 3,
@@ -29007,32 +30290,32 @@ export const liveJobs = [
     "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
     "sourceEvidence": [
       {
-        "label": "公司官方北森校招官网",
-        "url": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=621129086"
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7675292530737137963/detail"
       },
       {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
+        "label": "官方招聘官网/API；岗位文本明确2027届",
         "url": ""
       }
     ],
     "compensation": {
-      "disclosed": true,
-      "raw": "17K-25K 元/月",
-      "monthlyMin": 17000,
-      "monthlyMax": 25000,
-      "annualMin": 204000,
-      "annualMax": 300000,
-      "salaryMonths": 12,
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
       "monthlyEstimated": false,
-      "annualEstimated": true,
-      "monthlyDisplay": "1.7万–2.5万/月",
-      "annualDisplay": "20.4万–30万/年（按12薪推算）",
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
       "sourceLabel": "企业官方JD/ATS",
-      "confidence": "high",
-      "evidence": "17K-25K 元/月 公司官方北森校招岗位；识别关键词：Excel、"
+      "confidence": "none",
+      "evidence": ""
     },
-    "monthlySalary": "1.7万–2.5万/月",
-    "annualSalary": "20.4万–30万/年（按12薪推算）"
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
   },
   {
     "id": "feishu-1fdf6e-7675278435976055094",
@@ -29070,7 +30353,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -29184,7 +30467,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -29262,342 +30545,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7673027171799877914",
-    "company": "蔚来",
-    "title": "校招-业务运营管理",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "南宁",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "用户",
-      "数据",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027171799877914/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027171799877914/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7673027171799583002",
-    "company": "蔚来",
-    "title": "校招-业务运营管理",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "西安",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "用户",
-      "数据",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027171799583002/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027171799583002/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7673027164010924298",
-    "company": "蔚来",
-    "title": "校招-业务运营管理",
-    "roleFamily": [
-      "业务运营"
-    ],
-    "city": "沈阳",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "用户",
-      "数据",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027164010924298/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，理工科专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027164010924298/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7673027250325195054",
     "company": "蔚来",
     "title": "校招-业务运营管理",
@@ -29628,7 +30575,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -29735,7 +30682,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：法务。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -29818,121 +30765,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7673027221095582003",
-    "company": "蔚来",
-    "title": "校招-市场洞察分析",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "市场",
-      "用户",
-      "数据",
-      "洞察",
-      "招聘"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "节奏快",
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7673027221095582003/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-12",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：战略及业务规划。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1. 国内外顶尖学校硕士以上学历，商业分析/经济学/管理学/统计学等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7673027221095582003/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-a6b7201a9ece",
     "company": "vivo",
     "title": "市场与用户洞察经理（设计方向）-27届秋招",
@@ -29970,7 +30802,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -30081,7 +30913,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -30197,7 +31029,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -30309,7 +31141,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -30424,7 +31256,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -30506,6 +31338,340 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-4031ce-7670934488843176235",
+    "company": "小米",
+    "title": "服务运营专员-local",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "莫斯科",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "供应链",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：工作职责偏技术"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934488843176235/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "工作职责偏技术"
+      ],
+      "strengths": [],
+      "penalty": 10,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏技术",
+        "technical": [
+          "质量技术"
+        ],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏技术",
+          "detail": "质量技术"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934488843176235/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670935464878377266",
+    "company": "小米",
+    "title": "服务运营专员-法语-外派",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "开罗",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析"
+    ],
+    "languages": [
+      "法语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "数据",
+      "供应链",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：工作职责偏技术"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935464878377266/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：外语外派类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "工作职责偏技术"
+      ],
+      "strengths": [],
+      "penalty": 10,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏技术",
+        "technical": [
+          "质量技术"
+        ],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏技术",
+          "detail": "质量技术"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935464878377266/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670924249989499142",
+    "company": "小米",
+    "title": "人力资源专员-培训",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [
+      "PPT"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [
+      "适配风险：商科/市场知识底子更占优"
+    ],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670924249989499142/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：PPT。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [
+        "商科/市场知识底子更占优"
+      ],
+      "strengths": [],
+      "penalty": 12,
+      "bonus": 0,
+      "major": {
+        "verdict": "降权",
+        "label": "商科/市场专业主导",
+        "evidence": [
+          "1、本科及以上学历，人力资源管理、新闻传播学等专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "降权",
+          "detail": "商科/市场专业主导"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670924249989499142/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-96da49-7670397723540375834",
     "company": "得物App",
     "title": "【27届校招】频道运营",
@@ -30544,7 +31710,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -30654,7 +31820,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -30766,7 +31932,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -30874,7 +32040,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -30982,7 +32148,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -31056,67 +32222,51 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-96da49-7670371750030952740",
+    "id": "feishu-96da49-7670552830009149702",
     "company": "得物App",
-    "title": "【27届校招】国际业务法务BP",
+    "title": "【27届校招】品牌研究运营（全品类）【成都】",
     "roleFamily": [
       "其他"
     ],
-    "city": "上海",
+    "city": "成都",
     "graduationYear": "2027",
     "skills": [],
-    "languages": [
-      "英语"
-    ],
+    "languages": [],
     "experienceKeywords": [
-      "海外",
+      "运营",
       "项目",
-      "招聘",
-      "商务"
+      "市场",
+      "用户",
+      "数据",
+      "品牌"
     ],
-    "preferenceTags": [
-      "国际业务",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "适配风险：专业证书优先"
-    ],
+    "preferenceTags": [],
+    "riskTags": [],
     "source": "得物App官方飞书招聘",
     "sourceType": "official",
-    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7670371750030952740/detail",
+    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7670552830009149702/detail",
     "verification": "官方招聘官网/API；岗位文本明确2027届",
     "publishedAt": "2026-08-05",
     "deadline": "",
-    "description": "得物App官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+    "description": "得物App官方校园招聘岗位；职类：商品研究中心。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
-      "warnings": [
-        "专业证书优先"
-      ],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：合同",
-        "职责：国际业务"
-      ],
-      "penalty": 6,
-      "bonus": 4,
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
       "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1. 2027届应届生， 法律专业本科以上学历，海外留学或工作经历加分"
-        ]
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
       },
       "responsibility": {
-        "verdict": "语言/商务主导",
+        "verdict": "待核",
         "technical": [],
-        "business": [
-          "合同",
-          "国际业务"
-        ]
+        "business": []
       },
       "hardRequirements": [],
       "eligibilityEvidence": [
@@ -31126,14 +32276,14 @@ export const liveJobs = [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
         },
         {
           "step": 2,
           "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "合同、国际业务"
+          "verdict": "待核",
+          "detail": "未识别明显信号"
         },
         {
           "step": 3,
@@ -31148,7 +32298,7 @@ export const liveJobs = [
     "sourceEvidence": [
       {
         "label": "得物App官方飞书招聘",
-        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7670371750030952740/detail"
+        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7670552830009149702/detail"
       },
       {
         "label": "官方招聘官网/API；岗位文本明确2027届",
@@ -31213,7 +32363,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -31328,7 +32478,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -31438,7 +32588,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -31546,7 +32696,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -31662,7 +32812,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -31775,7 +32925,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -31888,7 +33038,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -31991,7 +33141,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -32093,7 +33243,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -32196,7 +33346,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -32300,7 +33450,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -32407,7 +33557,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -32484,233 +33634,6 @@ export const liveJobs = [
     "annualSalary": "9.6万–18万/年（按12薪推算）"
   },
   {
-    "id": "nowcoder-06ec4395bc51",
-    "company": "拼多多集团-PDD",
-    "title": "HR管培生（上海）",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "电商",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465012?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2026-10-31",
-    "description": "自动发现的 HR 类岗位；识别关键词：数据分析、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1、2027届毕业生，本科及以上学历，人力资源管理、心理学、法学、小语种等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-10-31"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465012?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "nowcoder-21cfc8f1ff81",
-    "company": "途游游戏",
-    "title": "内容运营（成都）-2027校招",
-    "roleFamily": [
-      "内容运营"
-    ],
-    "city": "成都",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析",
-      "内容运营"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "内容",
-      "项目",
-      "市场",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：商科/市场知识底子更占优"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465046?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2027-08-31",
-    "description": "自动发现的 内容运营 类岗位；识别关键词：数据分析、内容运营。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "商科/市场知识底子更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "商科/市场专业主导",
-        "evidence": [
-          "1. 2027届毕业，本科以上学历，市场营销、广告、新闻传播、电子商务、新媒体及理工类专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-08-31"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "商科/市场专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465046?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "nowcoder-8bd44692469f",
     "company": "公牛集团股份有限公司",
     "title": "2027届校招-营销岗-电商运营岗(J23844)",
@@ -32743,7 +33666,7 @@ export const liveJobs = [
     "description": "自动发现的 电商运营 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -32852,7 +33775,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -32957,7 +33880,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -33062,7 +33985,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -33179,7 +34102,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:46.217Z",
+    "discoveredAt": "2026-09-10T08:41:51.269Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -33278,7 +34201,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -33386,7 +34309,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:03:06.995Z",
+    "discoveredAt": "2026-09-10T08:34:41.068Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -33496,7 +34419,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -33602,7 +34525,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -33712,7 +34635,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、PPT、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -33827,7 +34750,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -33933,7 +34856,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34039,7 +34962,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34145,7 +35068,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34251,7 +35174,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34357,7 +35280,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34464,7 +35387,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34571,7 +35494,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34678,7 +35601,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34785,7 +35708,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34898,7 +35821,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -34972,239 +35895,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-5d441cc17fae",
-    "company": "传音控股",
-    "title": "安装工运营专员(J20363)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "国外",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "Excel",
-      "PPT"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "市场",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968800",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-08-21",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：跨文化沟通",
-        "职责：国际业务"
-      ],
-      "penalty": 12,
-      "bonus": 4,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1. 本科及以上学历，电气、电子、电力、自动化等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "跨文化沟通",
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "跨文化沟通、国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://transsion.zhiye.com/campus/detail?jobAdId=270968800"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "面议",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "面议"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "beisen-8cc79ad9a9ce",
-    "company": "传音控股",
-    "title": "安装工运营专员（产品）(J20364)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "用户",
-      "数据"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270968816",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-08-21",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1. 硕士研究生及以上学历，电气、电子、电力、能源类，计算机类相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://transsion.zhiye.com/campus/detail?jobAdId=270968816"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "面议",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "面议"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-ba0d94df3eb9",
     "company": "传音控股",
     "title": "采购管培生（雏鹰专项）(J20377)",
@@ -35238,7 +35928,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -35348,7 +36038,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35455,7 +36145,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35561,7 +36251,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35667,7 +36357,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35773,7 +36463,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35879,7 +36569,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35985,7 +36675,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36091,7 +36781,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36197,7 +36887,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36303,7 +36993,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36409,7 +37099,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36515,7 +37205,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36621,7 +37311,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36727,7 +37417,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36833,7 +37523,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36939,7 +37629,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37045,7 +37735,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37151,7 +37841,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37258,7 +37948,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37365,7 +38055,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37472,7 +38162,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37579,7 +38269,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37686,7 +38376,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37793,7 +38483,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -37900,7 +38590,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38007,7 +38697,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38114,7 +38804,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38221,7 +38911,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38328,7 +39018,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38435,7 +39125,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38542,7 +39232,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38649,7 +39339,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38756,7 +39446,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38863,7 +39553,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -38970,7 +39660,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39077,7 +39767,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39184,7 +39874,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39291,7 +39981,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39398,7 +40088,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39505,7 +40195,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39612,7 +40302,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39719,7 +40409,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39826,7 +40516,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -39933,7 +40623,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -40040,7 +40730,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -40147,7 +40837,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -40254,7 +40944,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -40361,7 +41051,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -40468,7 +41158,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -40575,7 +41265,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -40680,7 +41370,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -40798,7 +41488,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、SEO。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -40880,246 +41570,6 @@ export const liveJobs = [
     "annualSalary": "36万–60万/年（按12薪推算）"
   },
   {
-    "id": "feishu-1fdf6e-7675272804484876554",
-    "company": "小鹏汽车",
-    "title": "【27届校招】服务大区管理培训生-广州大区",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "市场",
-      "用户",
-      "数据",
-      "客户",
-      "洞察"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快",
-      "适配风险：技术专业背景更占优",
-      "适配风险：职责同时含技术与商务内容"
-    ],
-    "source": "小鹏汽车官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7675272804484876554/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-18",
-    "deadline": "",
-    "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优",
-        "职责同时含技术与商务内容"
-      ],
-      "strengths": [
-        "职责：客户关系"
-      ],
-      "penalty": 18,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、2027 届应届毕业生，本科及以上学历，汽车类、机械工程类、新能源技术类相关理工专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "混合",
-        "technical": [
-          "问题根因"
-        ],
-        "business": [
-          "客户关系"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "混合",
-          "detail": "客户关系、问题根因"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小鹏汽车官方飞书招聘",
-        "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7675272804484876554/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-1fdf6e-7675270735959886121",
-    "company": "小鹏汽车",
-    "title": "【27届校招】服务大区管理培训生-深闽大区",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "市场",
-      "用户",
-      "数据",
-      "客户",
-      "洞察"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快",
-      "适配风险：技术专业背景更占优",
-      "适配风险：职责同时含技术与商务内容"
-    ],
-    "source": "小鹏汽车官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7675270735959886121/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-18",
-    "deadline": "",
-    "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优",
-        "职责同时含技术与商务内容"
-      ],
-      "strengths": [
-        "职责：客户关系"
-      ],
-      "penalty": 18,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、2027 届应届毕业生，本科及以上学历，汽车类、机械工程类相关理工专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "混合",
-        "technical": [
-          "问题根因"
-        ],
-        "business": [
-          "客户关系"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "混合",
-          "detail": "客户关系、问题根因"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小鹏汽车官方飞书招聘",
-        "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7675270735959886121/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-1fdf6e-7675270725363779881",
     "company": "小鹏汽车",
     "title": "【27届校招】服务大区管理培训生-西南大区",
@@ -41156,7 +41606,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -41276,7 +41726,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -41387,7 +41837,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：产品岗位。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -41461,129 +41911,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-af0a71-7672659909695441162",
-    "company": "致欧家居",
-    "title": "关务管培生（27届校招）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "郑州",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语",
-      "德语",
-      "西班牙语",
-      "葡萄牙语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "项目",
-      "供应链",
-      "商务",
-      "物流"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "致欧家居官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672659909695441162/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-11",
-    "deadline": "",
-    "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：跨文化沟通",
-        "职责：物流执行"
-      ],
-      "penalty": 0,
-      "bonus": 4,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "2. 合规能力培养 ：学习商品归类、原产地规则、贸易政策解读等专业知识，参与合规风险排查，协助处理通关异常问题 跨部门协同 ：对接工厂、运输、清关代理等上下游角色，跟进清关全流程，保障货物顺利通关",
-          "1. 学历与专业 ：一本及以上院校毕业，供应链管理、物流工程、国际经济与贸易、电子商务类专业优先，211/985 院校及海外留学生优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "语言/商务主导",
-        "technical": [],
-        "business": [
-          "跨文化沟通",
-          "物流执行"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "语言/商务主导",
-          "detail": "跨文化沟通、物流执行"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "致欧家居官方飞书招聘",
-        "url": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672659909695441162/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-af0a71-7672690504877984046",
     "company": "致欧家居",
     "title": "产品设计管培生（27届校招）",
@@ -41611,7 +41938,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：设计。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:10.707Z",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -41685,6 +42012,125 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-af0a71-7672664313010604351",
+    "company": "致欧家居",
+    "title": "外贸管培生（27届校招）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "郑州",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "项目",
+      "客户",
+      "商务"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "致欧家居官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672664313010604351/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-11",
+    "deadline": "",
+    "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:40:10.368Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "文科/社科专业范围兼容",
+        "职责：客户关系",
+        "职责：国际业务"
+      ],
+      "penalty": 0,
+      "bonus": 4,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、本科及以上学历，国贸、英语类相关专业，英语六级及以上，口语流利"
+        ]
+      },
+      "responsibility": {
+        "verdict": "语言/商务主导",
+        "technical": [],
+        "business": [
+          "客户关系",
+          "国际业务"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "语言/商务主导",
+          "detail": "客户关系、国际业务"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "致欧家居官方飞书招聘",
+        "url": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672664313010604351/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "feishu-96da49-7672223695294073151",
     "company": "得物App",
     "title": "【27届校招】效率运营",
@@ -41720,7 +42166,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -41802,6 +42248,877 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "feishu-4031ce-7670935610878511410",
+    "company": "小米",
+    "title": "新零售管培生-外派",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "约翰内斯堡",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935610878511410/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：外语外派类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935610878511410/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670935478127986970",
+    "company": "小米",
+    "title": "新零售管培生-西语-外派",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "圣地亚哥",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语",
+      "西班牙语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935478127986970/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：外语外派类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935478127986970/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670930864515860799",
+    "company": "小米",
+    "title": "交付运营专员-汽车",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "数据",
+      "供应链",
+      "招聘",
+      "物流"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930864515860799/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930864515860799/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670884801415645467",
+    "company": "小米",
+    "title": "市场主管",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "GTM",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884801415645467/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884801415645467/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670885566489659674",
+    "company": "小米",
+    "title": "区域客服运营",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "用户",
+      "数据",
+      "客户",
+      "招聘",
+      "物流"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885566489659674/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885566489659674/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-4031ce-7670884846186055945",
+    "company": "小米",
+    "title": "运营主管",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "文案"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "市场",
+      "用户",
+      "数据",
+      "客户",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "小米官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884846186055945/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、文案。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:53.619Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "小米官方飞书招聘",
+        "url": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884846186055945/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "beisen-a93fd02b9ea6",
+    "company": "vivo",
+    "title": "产品营销经理-27届秋招",
+    "roleFamily": [
+      "产品营销"
+    ],
+    "city": "东莞",
+    "graduationYear": "2027",
+    "skills": [
+      "市场分析"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "海外",
+      "内容",
+      "市场",
+      "用户",
+      "营销"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "公司官方北森校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282839",
+    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
+    "publishedAt": "2026-08-06",
+    "deadline": "",
+    "description": "公司官方北森校招岗位；识别关键词：市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
+    "salary": "面议",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方北森校招官网",
+        "url": "https://hr-campus.vivo.com/campus/detail?jobAdId=561282839"
+      },
+      {
+        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "面议",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": "面议"
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "feishu-96da49-7670375197174761755",
+    "company": "得物App",
+    "title": "【27届校招】男装运营",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "数据",
+      "品牌",
+      "招聘"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "得物App官方飞书招聘",
+    "sourceType": "official",
+    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7670375197174761755/detail",
+    "verification": "官方招聘官网/API；岗位文本明确2027届",
+    "publishedAt": "2026-08-05",
+    "deadline": "",
+    "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
+    "_recruitGroup": "校招",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "得物App官方飞书招聘",
+        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7670375197174761755/detail"
+      },
+      {
+        "label": "官方招聘官网/API；岗位文本明确2027届",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "hotjob-b3611648bad8",
     "company": "创维集团",
     "title": "海外财务管培生（光伏方向）",
@@ -41836,7 +43153,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -41948,7 +43265,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -42056,7 +43373,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -42164,7 +43481,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -42272,7 +43589,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -42385,7 +43702,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -42498,7 +43815,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -42610,7 +43927,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -42720,7 +44037,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -42828,7 +44145,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -42938,7 +44255,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -43048,7 +44365,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：品牌。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -43158,7 +44475,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：销售管理。识别关键词：数据分析、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -43265,7 +44582,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -43380,7 +44697,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -43500,7 +44817,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-10K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -43611,7 +44928,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -43718,7 +45035,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -43830,7 +45147,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -43908,124 +45225,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-e2efc6d11256",
-    "company": "点点互动",
-    "title": "全球市场营销专员（SLG）-北京(J13838)",
-    "roleFamily": [
-      "市场"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "文案"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "内容",
-      "项目",
-      "市场",
-      "用户",
-      "数据",
-      "营销",
-      "品牌"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465367?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2029-09-04",
-    "description": "自动发现的 市场 类岗位；识别关键词：英语、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1、2027届统招本科及以上学历，英语可以无障碍沟通并撰写文案（附上雅思/托福/CET/专四/专八成绩），英专/欧美留学经验优先，如有其他小语种能力可以放宽对英文能力的要求（韩语/阿语/德语/法语）"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2029-09-04"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465367?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "nowcoder-2f86a9910431",
     "company": "惠州市德赛西威汽车电子股份有限公司",
     "title": "智能制造方向管培生（北极星计划）",
@@ -44060,7 +45259,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [
         "工作职责偏技术"
@@ -44143,6 +45342,120 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "nowcoder-2bf4ab661bcd",
+    "company": "未岚大陆",
+    "title": "2027届校招-业务运营助理（深圳）",
+    "roleFamily": [
+      "业务运营"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "内容",
+      "数据",
+      "客户"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465254?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-10",
+    "deadline": "2027-08-01",
+    "description": "自动发现的 业务运营 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "文科/社科专业范围兼容"
+      ],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1. 本科及以上学历，管理类/理工科/语言类专业，对智能硬件产品感兴趣",
+          "4. 英语六级/专业八级以上，曾有海外留学背景或同时具备额外小语种能力者加分"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2027-08-01"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "referral",
+    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
+    "sourceEvidence": [
+      {
+        "label": "牛客公开职位",
+        "url": "https://www.nowcoder.com/jobs/detail/465254?urlSource=sitemap"
+      },
+      {
+        "label": "二手来源，待官网核验",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "beisen-a8bbd11c5dda",
     "company": "传音控股",
     "title": "区域营销(J20453)",
@@ -44183,7 +45496,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -44260,114 +45573,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-d9ed22ca9a22",
-    "company": "零跑汽车",
-    "title": "校招-运营工程师(J18101)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "杭州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "数据"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://leapmotor.zhiye.com/campus/detail?jobAdId=230937951",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-09-07",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、本科及以上学历，信息管理、计算机、软件工程、工商管理等相关专业"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://leapmotor.zhiye.com/campus/detail?jobAdId=230937951"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "面议",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "面议"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "hotjob-0761cdce9dba",
     "company": "Decathlon",
     "title": "迪卡侬物流部门经理（校园招聘）--广东东莞",
@@ -44404,7 +45609,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -44515,7 +45720,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "14-18 万元/年",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -44632,7 +45837,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -44740,7 +45945,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -44847,7 +46052,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -44954,7 +46159,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:42.027Z",
+    "discoveredAt": "2026-09-10T08:39:34.203Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -45061,7 +46266,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -45173,7 +46378,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：职能类。识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:38.651Z",
+    "discoveredAt": "2026-09-10T08:39:30.661Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -45285,7 +46490,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -45391,7 +46596,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -45495,7 +46700,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -45612,7 +46817,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、SQL、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -45724,7 +46929,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -45832,7 +47037,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "10k-13k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -45944,7 +47149,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -46058,7 +47263,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、SQL。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -46163,11 +47368,11 @@ export const liveJobs = [
     "sourceUrl": "https://www.nowcoder.com/jobs/detail/465364?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-10",
-    "deadline": "2029-09-04",
+    "deadline": "2029-09-10",
     "description": "自动发现的 市场 类岗位；识别关键词：文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -46186,7 +47391,7 @@ export const liveJobs = [
       "hardRequirements": [],
       "eligibilityEvidence": [
         "招聘对象：2027届",
-        "投递截止：2029-09-04"
+        "投递截止：2029-09-10"
       ],
       "decisionSteps": [
         {
@@ -46215,115 +47420,6 @@ export const liveJobs = [
       {
         "label": "牛客公开职位",
         "url": "https://www.nowcoder.com/jobs/detail/465364?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "nowcoder-ec2733cf57d5",
-    "company": "未岚大陆",
-    "title": "2027届校招-初级SAP顾问（北京）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "项目",
-      "用户",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "节奏快",
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465674?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2027-04-29",
-    "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "本科及以上在读，计算机、信息管理、财务管理等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-04-29"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465674?urlSource=sitemap"
       },
       {
         "label": "二手来源，待官网核验",
@@ -46380,7 +47476,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -46454,339 +47550,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-b295a7746c65",
-    "company": "信也科技",
-    "title": "2027届校招-商业分析师（泰国风险策略）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "数据分析",
-      "SQL"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "数据",
-      "客户"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级",
-      "适配风险：技术背景优先"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465353?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2027-07-31",
-    "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、SQL。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级",
-        "技术背景优先"
-      ],
-      "strengths": [],
-      "penalty": 13,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、本科及以上学历，数学、统计学、计算机或金融等相关专业同学优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-07-31"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465353?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "nowcoder-24d310c93a8a",
-    "company": "赢合",
-    "title": "27届科技项目管理工程师（博士）(J13771)",
-    "roleFamily": [
-      "项目管理"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "项目管理",
-      "跨部门沟通"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "项目"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465589?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2027-09-07",
-    "description": "自动发现的 项目管理 类岗位；识别关键词：项目管理、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、博士学历，理工科专业，发表过高水平论文或参与过重大科研项目者优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-09-07"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465589?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "nowcoder-627393580369",
-    "company": "赢合",
-    "title": "27届人力资源专员(J13822)",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级",
-      "适配风险：相关专业硕士优先"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465559?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2027-09-07",
-    "description": "自动发现的 HR 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级",
-        "相关专业硕士优先"
-      ],
-      "strengths": [],
-      "penalty": 13,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、本科及以上学历，人力资源管理、统计学、信息管理等相关专业，硕士优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-09-07"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465559?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "nowcoder-27c346c52cf6",
     "company": "奥克斯",
     "title": "【2027秋】空调-人力资源管理(J16364)",
@@ -46816,7 +47579,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -46923,7 +47686,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：智能制造 / 工业互联网 / 工业自动化。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:53.399Z",
+    "discoveredAt": "2026-09-10T08:39:46.321Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -47027,7 +47790,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8k-12k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -47135,7 +47898,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：研发。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:10:31.791Z",
+    "discoveredAt": "2026-09-10T08:41:36.077Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -47246,7 +48009,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8.4k-12.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -47348,7 +48111,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.7k-6.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -47450,7 +48213,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.5k-7.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -47560,7 +48323,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -47668,7 +48431,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：职能岗位。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:08:40.933Z",
+    "discoveredAt": "2026-09-10T08:39:33.177Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -47774,7 +48537,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -47874,7 +48637,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -47975,7 +48738,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.5k-7.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48080,7 +48843,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "9k-13k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48185,7 +48948,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -48294,7 +49057,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.6k-6.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48396,7 +49159,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.5k-7.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48498,7 +49261,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.6k-6.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48600,7 +49363,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6k-6.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48702,7 +49465,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.9k-6.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48810,7 +49573,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -48888,114 +49651,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-625e8799b57f",
-    "company": "奥克斯",
-    "title": "【2027秋】电能-供应链专员(J16421)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "数据",
-      "供应链"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465175?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2029-09-03",
-    "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、本科及以上学历，机械/电子类工科专业优先，掌握基础专业知识"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2029-09-03"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465175?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "nowcoder-093446f1a0e9",
     "company": "九方云",
     "title": "营销策划(A66668)",
@@ -49028,7 +49683,7 @@ export const liveJobs = [
     "description": "自动发现的 产品营销 类岗位；识别关键词：文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -49106,350 +49761,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-be813019ec9c",
-    "company": "信也科技",
-    "title": "2027 届校招-商业分析师（非洲风险策略）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "SQL"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "用户"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优",
-      "适配风险：技术背景优先"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465356?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2027-09-01",
-    "description": "自动发现的 其他 类岗位；识别关键词：Excel、SQL。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优",
-        "技术背景优先"
-      ],
-      "strengths": [],
-      "penalty": 20,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、统招本科及以上学历，数学、统计学、计算机、经济等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2027-09-01"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465356?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "nowcoder-70205647d4ff",
-    "company": "南京银行",
-    "title": "总行定向培训生岗-金融市场方向（南京）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "南京",
-    "graduationYear": "2027",
-    "skills": [
-      "英语",
-      "数据分析"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "项目",
-      "市场",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466004?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2026-10-11",
-    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "0.计算机类、电子信息类、数学类、统计学类等理工类专业及金融工程相关专业，具有复合专业背景优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-10-11"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/466004?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "nowcoder-176692122a7d",
-    "company": "南京银行",
-    "title": "总行定向培训生岗-金融市场方向（上海）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "项目",
-      "市场"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466005?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2026-10-11",
-    "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "0.计算机类、电子信息类、数学类、统计学类等理工类专业及金融工程相关专业，具有复合专业背景优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-10-11"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/466005?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "nowcoder-879cefee93f6",
     "company": "美团",
     "title": "校招-美团2027届商户/客户服务管理培训生",
@@ -49476,7 +49787,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49577,7 +49888,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T04:59:31.307Z",
+    "discoveredAt": "2026-09-10T08:31:16.513Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49681,7 +49992,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.3k-9.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49783,7 +50094,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.8k-5.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49887,7 +50198,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.6k-10.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49991,7 +50302,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.6k-10.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50095,7 +50406,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8k-12k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50197,7 +50508,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50299,7 +50610,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.8k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50401,7 +50712,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50503,7 +50814,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50605,7 +50916,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.7k-5.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50707,7 +51018,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4k-5.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50811,7 +51122,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.5k-9.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50915,7 +51226,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6k-10.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51019,7 +51330,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.8k-10.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51123,7 +51434,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.2k-10k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51227,7 +51538,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8.1k-11.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51331,7 +51642,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8k-12k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51435,7 +51746,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8.1k-10.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51539,7 +51850,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.4k-9.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51643,7 +51954,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.4k-10.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51747,7 +52058,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.8k-10.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51851,7 +52162,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8.1k-12.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51955,7 +52266,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.9k-10.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52059,7 +52370,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.6k-9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52163,7 +52474,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.5k-10.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52267,7 +52578,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.9k-10.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52371,7 +52682,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.4k-10k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52475,7 +52786,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.2k-10k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52579,7 +52890,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.8k-8.8k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52683,7 +52994,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.1k-9.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52790,7 +53101,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:05:58.027Z",
+    "discoveredAt": "2026-09-10T08:37:36.459Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -52895,7 +53206,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.6k-6.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52997,7 +53308,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.8k-5.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53099,7 +53410,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53201,7 +53512,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.8k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53303,7 +53614,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53405,7 +53716,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53507,7 +53818,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.4k-6.4k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53609,7 +53920,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.3k-6.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53711,7 +54022,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53813,7 +54124,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.7k-6.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53915,7 +54226,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54017,7 +54328,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54119,7 +54430,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.3k-6.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54221,7 +54532,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54323,7 +54634,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.6k-6.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54425,7 +54736,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54527,7 +54838,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.1k-6.1k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54629,7 +54940,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.3k-6.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54731,7 +55042,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.5k-8k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54833,7 +55144,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.4k-6.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54935,7 +55246,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55037,7 +55348,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.7k-6.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55139,7 +55450,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55241,7 +55552,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
+    "discoveredAt": "2026-09-10T08:40:11.322Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55313,317 +55624,11 @@ export const liveJobs = [
     },
     "monthlySalary": "5.5k–6.5k/月",
     "annualSalary": "6.6万–7.8万/年（按12薪推算）"
-  },
-  {
-    "id": "hotjob-02ef7a508ce6",
-    "company": "Decathlon",
-    "title": "迪卡侬全渠道运动主管（校园招聘）--南昌",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "南昌市",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "数据",
-      "品牌"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方HotJob校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9158ad4315481304d9a862&postType=campus",
-    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
-    "publishedAt": "2026-02-25",
-    "deadline": "2026-12-20",
-    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-    "salary": "5.2k-6.2k/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-12-20"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方HotJob校招官网",
-        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9158ad4315481304d9a862&postType=campus"
-      },
-      {
-        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": true,
-      "raw": "5.2k-6.2k/月",
-      "monthlyMin": 5200,
-      "monthlyMax": 6200,
-      "annualMin": 62400,
-      "annualMax": 74400,
-      "salaryMonths": 12,
-      "monthlyEstimated": false,
-      "annualEstimated": true,
-      "monthlyDisplay": "5.2k–6.2k/月",
-      "annualDisplay": "6.24万–7.44万/年（按12薪推算）",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "high",
-      "evidence": "5.2k-6.2k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
-    },
-    "monthlySalary": "5.2k–6.2k/月",
-    "annualSalary": "6.24万–7.44万/年（按12薪推算）"
-  },
-  {
-    "id": "hotjob-e6596136aaf7",
-    "company": "Decathlon",
-    "title": "迪卡侬全渠道运动主管（校园招聘）--福州",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "福州市",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "数据",
-      "品牌"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方HotJob校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9159894315481304d9aa46&postType=campus",
-    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
-    "publishedAt": "2026-02-25",
-    "deadline": "2026-12-20",
-    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-    "salary": "5.5k-6.5k/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-12-20"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方HotJob校招官网",
-        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9159894315481304d9aa46&postType=campus"
-      },
-      {
-        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": true,
-      "raw": "5.5k-6.5k/月",
-      "monthlyMin": 5500,
-      "monthlyMax": 6500,
-      "annualMin": 66000,
-      "annualMax": 78000,
-      "salaryMonths": 12,
-      "monthlyEstimated": false,
-      "annualEstimated": true,
-      "monthlyDisplay": "5.5k–6.5k/月",
-      "annualDisplay": "6.6万–7.8万/年（按12薪推算）",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "high",
-      "evidence": "5.5k-6.5k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
-    },
-    "monthlySalary": "5.5k–6.5k/月",
-    "annualSalary": "6.6万–7.8万/年（按12薪推算）"
-  },
-  {
-    "id": "hotjob-05a00921d48e",
-    "company": "Decathlon",
-    "title": "迪卡侬全渠道运动主管（校园招聘）--泸州",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "泸州市",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "数据",
-      "品牌"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方HotJob校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94ddc05e09b14b274b588e&postType=campus",
-    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
-    "publishedAt": "2026-02-25",
-    "deadline": "2026-12-20",
-    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-    "salary": "4.9k-5.9k/月",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T05:09:11.567Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-12-20"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方HotJob校招官网",
-        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94ddc05e09b14b274b588e&postType=campus"
-      },
-      {
-        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": true,
-      "raw": "4.9k-5.9k/月",
-      "monthlyMin": 4900,
-      "monthlyMax": 5900,
-      "annualMin": 58800,
-      "annualMax": 70800,
-      "salaryMonths": 12,
-      "monthlyEstimated": false,
-      "annualEstimated": true,
-      "monthlyDisplay": "4.9k–5.9k/月",
-      "annualDisplay": "5.88万–7.08万/年（按12薪推算）",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "high",
-      "evidence": "4.9k-5.9k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
-    },
-    "monthlySalary": "4.9k–5.9k/月",
-    "annualSalary": "5.88万–7.08万/年（按12薪推算）"
   }
 ];
 
 export const discoveryMeta = {
-  "updatedAt": "2026-09-10T05:12:17.807Z",
+  "updatedAt": "2026-09-10T08:42:58.167Z",
   "source": "多源：公司官方招聘官网/API + 高校就业信息网 + 牛客公开职位 + 官网核验具体岗位",
   "mode": "岗位发现/情报库：公司官方源优先 + 重点高校就业网补充 + 多源证据合并去重；最终 S/A/B 与匹配度由 campus-job-board 负责",
   "stats": {
@@ -55631,19 +55636,19 @@ export const discoveryMeta = {
       "nowcoder": {
         "discoveredUrls": 1317,
         "scannedPages": 1317,
-        "keptJobs": 49,
+        "keptJobs": 30,
         "errors": 0
       },
       "moka": {
         "portals": 25,
         "scannedPortals": 25,
-        "discoveredUrls": 687,
-        "keptJobs": 80,
+        "discoveredUrls": 688,
+        "keptJobs": 76,
         "errors": 0,
         "ssrJobs": 339,
         "domJobs": 752,
         "cohortRejected": 53,
-        "titleRejected": 162,
+        "titleRejected": 163,
         "perPortal": {
           "韶音科技": {
             "discoveredUrls": 30,
@@ -55682,7 +55687,7 @@ export const discoveryMeta = {
           },
           "锐捷网络": {
             "discoveredUrls": 38,
-            "keptJobs": 4,
+            "keptJobs": 2,
             "errors": 0,
             "cohortRejected": 0,
             "titleRejected": 1
@@ -55696,10 +55701,10 @@ export const discoveryMeta = {
           },
           "SHEIN": {
             "discoveredUrls": 41,
-            "keptJobs": 19,
+            "keptJobs": 18,
             "errors": 0,
             "cohortRejected": 0,
-            "titleRejected": 5
+            "titleRejected": 6
           },
           "中兴通讯": {
             "discoveredUrls": 36,
@@ -55724,7 +55729,7 @@ export const discoveryMeta = {
           },
           "微步在线": {
             "discoveredUrls": 35,
-            "keptJobs": 8,
+            "keptJobs": 5,
             "errors": 0,
             "cohortRejected": 0,
             "titleRejected": 7
@@ -55737,8 +55742,8 @@ export const discoveryMeta = {
             "titleRejected": 0
           },
           "搜狐畅游": {
-            "discoveredUrls": 30,
-            "keptJobs": 4,
+            "discoveredUrls": 31,
+            "keptJobs": 6,
             "errors": 0,
             "cohortRejected": 0,
             "titleRejected": 1
@@ -55752,7 +55757,7 @@ export const discoveryMeta = {
           },
           "特斯拉中国": {
             "discoveredUrls": 34,
-            "keptJobs": 0,
+            "keptJobs": 1,
             "errors": 0,
             "cohortRejected": 0,
             "titleRejected": 15
@@ -55766,7 +55771,7 @@ export const discoveryMeta = {
           },
           "货拉拉": {
             "discoveredUrls": 46,
-            "keptJobs": 9,
+            "keptJobs": 8,
             "errors": 0,
             "cohortRejected": 0,
             "titleRejected": 14
@@ -55826,12 +55831,12 @@ export const discoveryMeta = {
         "portals": 20,
         "scannedPortals": 20,
         "scannedRows": 5393,
-        "keptJobs": 171,
+        "keptJobs": 133,
         "errors": 0,
         "perPortal": {
           "科大讯飞": {
             "scannedRows": 600,
-            "keptJobs": 33,
+            "keptJobs": 27,
             "cohortRejected": 0,
             "titleRejected": 0,
             "detailErrors": 0,
@@ -55847,7 +55852,7 @@ export const discoveryMeta = {
           },
           "零跑汽车": {
             "scannedRows": 600,
-            "keptJobs": 9,
+            "keptJobs": 4,
             "cohortRejected": 1,
             "titleRejected": 0,
             "detailErrors": 0,
@@ -55863,7 +55868,7 @@ export const discoveryMeta = {
           },
           "vivo": {
             "scannedRows": 255,
-            "keptJobs": 10,
+            "keptJobs": 8,
             "cohortRejected": 0,
             "titleRejected": 1,
             "detailErrors": 0,
@@ -55887,7 +55892,7 @@ export const discoveryMeta = {
           },
           "传音控股": {
             "scannedRows": 600,
-            "keptJobs": 22,
+            "keptJobs": 18,
             "cohortRejected": 0,
             "titleRejected": 17,
             "detailErrors": 0,
@@ -55895,7 +55900,7 @@ export const discoveryMeta = {
           },
           "新华三集团": {
             "scannedRows": 369,
-            "keptJobs": 4,
+            "keptJobs": 1,
             "cohortRejected": 0,
             "titleRejected": 2,
             "detailErrors": 0,
@@ -55903,7 +55908,7 @@ export const discoveryMeta = {
           },
           "Babycare": {
             "scannedRows": 251,
-            "keptJobs": 38,
+            "keptJobs": 29,
             "cohortRejected": 0,
             "titleRejected": 9,
             "detailErrors": 0,
@@ -55919,7 +55924,7 @@ export const discoveryMeta = {
           },
           "锐明技术": {
             "scannedRows": 83,
-            "keptJobs": 6,
+            "keptJobs": 4,
             "cohortRejected": 1,
             "titleRejected": 1,
             "detailErrors": 0,
@@ -55927,7 +55932,7 @@ export const discoveryMeta = {
           },
           "扬腾创新": {
             "scannedRows": 18,
-            "keptJobs": 8,
+            "keptJobs": 7,
             "cohortRejected": 0,
             "titleRejected": 1,
             "detailErrors": 0,
@@ -55943,7 +55948,7 @@ export const discoveryMeta = {
           },
           "万兴科技": {
             "scannedRows": 137,
-            "keptJobs": 10,
+            "keptJobs": 9,
             "cohortRejected": 0,
             "titleRejected": 63,
             "detailErrors": 0,
@@ -55951,7 +55956,7 @@ export const discoveryMeta = {
           },
           "三一集团": {
             "scannedRows": 136,
-            "keptJobs": 12,
+            "keptJobs": 8,
             "cohortRejected": 0,
             "titleRejected": 2,
             "detailErrors": 0,
@@ -55959,7 +55964,7 @@ export const discoveryMeta = {
           },
           "名创优品": {
             "scannedRows": 56,
-            "keptJobs": 6,
+            "keptJobs": 5,
             "cohortRejected": 0,
             "titleRejected": 0,
             "detailErrors": 0,
@@ -55985,11 +55990,11 @@ export const discoveryMeta = {
       },
       "feishu": {
         "portals": 8,
-        "scannedPortals": 7,
-        "listed": 2065,
-        "cohortMatched": 1590,
-        "keptJobs": 375,
-        "errors": 1,
+        "scannedPortals": 8,
+        "listed": 2828,
+        "cohortMatched": 2351,
+        "keptJobs": 415,
+        "errors": 0,
         "perPortal": {
           "影石Insta360": {
             "pages": 4,
@@ -56017,7 +56022,7 @@ export const discoveryMeta = {
           "得物App": {
             "pages": 2,
             "listed": 160,
-            "keptJobs": 100,
+            "keptJobs": 80,
             "errors": 0,
             "snapshotComplete": true,
             "emptyResult": false,
@@ -56028,7 +56033,7 @@ export const discoveryMeta = {
             "internRejected": 1,
             "socialRejected": 0,
             "pureSalesRejected": 0,
-            "relevanceRejected": 52,
+            "relevanceRejected": 72,
             "cohortSamples": [
               "【27届校招】安全产品/策略开发工程师",
               "【27届校招】算法研究员-视觉方向",
@@ -56040,7 +56045,7 @@ export const discoveryMeta = {
           "沐瞳科技": {
             "pages": 1,
             "listed": 94,
-            "keptJobs": 22,
+            "keptJobs": 18,
             "errors": 0,
             "snapshotComplete": true,
             "emptyResult": false,
@@ -56051,7 +56056,7 @@ export const discoveryMeta = {
             "internRejected": 1,
             "socialRejected": 0,
             "pureSalesRejected": 0,
-            "relevanceRejected": 69,
+            "relevanceRejected": 73,
             "cohortSamples": [
               "【2027届秋招】技术TA-PC动作游戏",
               "【2027届秋招】数值策划-PC动作游戏",
@@ -56063,7 +56068,7 @@ export const discoveryMeta = {
           "蔚来": {
             "pages": 9,
             "listed": 896,
-            "keptJobs": 136,
+            "keptJobs": 109,
             "errors": 0,
             "snapshotComplete": true,
             "emptyResult": false,
@@ -56074,7 +56079,7 @@ export const discoveryMeta = {
             "internRejected": 385,
             "socialRejected": 0,
             "pureSalesRejected": 1,
-            "relevanceRejected": 324,
+            "relevanceRejected": 352,
             "cohortSamples": [
               "校招-NVH主动降噪工程师",
               "校招-车端AI Agent运行时基座软件开发工程师",
@@ -56085,19 +56090,19 @@ export const discoveryMeta = {
           },
           "小鹏汽车": {
             "pages": 6,
-            "listed": 521,
-            "keptJobs": 92,
+            "listed": 520,
+            "keptJobs": 70,
             "errors": 0,
             "snapshotComplete": true,
             "emptyResult": false,
             "error": "",
             "websitePath": "campus",
-            "cohortMatched": 455,
-            "missingCohort": 66,
+            "cohortMatched": 453,
+            "missingCohort": 67,
             "internRejected": 20,
             "socialRejected": 0,
             "pureSalesRejected": 2,
-            "relevanceRejected": 338,
+            "relevanceRejected": 361,
             "cohortSamples": [
               "【27届校招】金融市场培训生",
               "【27届校招】电机电磁开发培训生",
@@ -56108,7 +56113,7 @@ export const discoveryMeta = {
           },
           "莉莉丝游戏": {
             "pages": 1,
-            "listed": 21,
+            "listed": 22,
             "keptJobs": 0,
             "errors": 0,
             "snapshotComplete": true,
@@ -56116,7 +56121,7 @@ export const discoveryMeta = {
             "error": "",
             "websitePath": "campus",
             "cohortMatched": 1,
-            "missingCohort": 20,
+            "missingCohort": 21,
             "internRejected": 0,
             "socialRejected": 0,
             "pureSalesRejected": 0,
@@ -56126,26 +56131,32 @@ export const discoveryMeta = {
             ]
           },
           "小米": {
-            "pages": 0,
-            "listed": 0,
-            "keptJobs": 0,
-            "errors": 1,
-            "snapshotComplete": false,
-            "emptyResult": true,
-            "error": "fetch failed",
+            "pages": 8,
+            "listed": 763,
+            "keptJobs": 120,
+            "errors": 0,
+            "snapshotComplete": true,
+            "emptyResult": false,
+            "error": "",
             "websitePath": "campus",
-            "cohortMatched": 0,
+            "cohortMatched": 763,
             "missingCohort": 0,
             "internRejected": 0,
             "socialRejected": 0,
-            "pureSalesRejected": 0,
-            "relevanceRejected": 0,
-            "cohortSamples": []
+            "pureSalesRejected": 3,
+            "relevanceRejected": 630,
+            "cohortSamples": [
+              "整车架构与集成工程师（AI方向）-汽车",
+              "AI能耗优化算法工程师",
+              "大模型平台产品经理",
+              "后台开发工程师",
+              "AI平台开发工程师-训推平台"
+            ]
           },
           "致欧家居": {
             "pages": 1,
             "listed": 27,
-            "keptJobs": 23,
+            "keptJobs": 16,
             "errors": 0,
             "snapshotComplete": true,
             "emptyResult": false,
@@ -56156,7 +56167,7 @@ export const discoveryMeta = {
             "internRejected": 0,
             "socialRejected": 0,
             "pureSalesRejected": 0,
-            "relevanceRejected": 0,
+            "relevanceRejected": 7,
             "cohortSamples": [
               "产品经理管培生（27届校招）",
               "2027届管培生（产品经理方向）",
@@ -56170,9 +56181,9 @@ export const discoveryMeta = {
       "hotjob": {
         "portals": 4,
         "scannedPortals": 4,
-        "listed": 615,
+        "listed": 617,
         "detailed": 211,
-        "keptJobs": 211,
+        "keptJobs": 201,
         "errors": 0,
         "perPortal": {
           "德勤中国": {
@@ -56192,8 +56203,8 @@ export const discoveryMeta = {
             "totalPages": 25
           },
           "伊利": {
-            "totalPositions": 8,
-            "listed": 8,
+            "totalPositions": 10,
+            "listed": 10,
             "detailed": 0,
             "keptJobs": 0,
             "detailErrors": 0,
@@ -56203,7 +56214,7 @@ export const discoveryMeta = {
             "totalPositions": 136,
             "listed": 126,
             "detailed": 33,
-            "keptJobs": 33,
+            "keptJobs": 23,
             "detailErrors": 0,
             "totalPages": 14
           }
@@ -56219,8 +56230,8 @@ export const discoveryMeta = {
       },
       "ecoflow": {
         "pages": 11,
-        "listed": 105,
-        "keptJobs": 18,
+        "listed": 104,
+        "keptJobs": 15,
         "errors": 0,
         "snapshotComplete": true,
         "emptyResult": false
@@ -56228,10 +56239,10 @@ export const discoveryMeta = {
       "university": {
         "portals": 8,
         "scannedPortals": 8,
-        "listed": 68,
-        "detailed": 68,
-        "keptJobs": 14,
-        "errors": 10,
+        "listed": 100,
+        "detailed": 100,
+        "keptJobs": 16,
+        "errors": 13,
         "perPortal": {
           "广东外语外贸大学": {
             "company": "广东外语外贸大学",
@@ -56265,7 +56276,7 @@ export const discoveryMeta = {
             "listed": 25,
             "detailed": 25,
             "keptJobs": 0,
-            "errors": 3,
+            "errors": 6,
             "priority": 118,
             "segments": [
               "211",
@@ -56293,7 +56304,7 @@ export const discoveryMeta = {
             "listed": 0,
             "detailed": 0,
             "keptJobs": 0,
-            "errors": 1,
+            "errors": 0,
             "priority": 115,
             "segments": [
               "外语外贸特色高校"
@@ -56302,8 +56313,8 @@ export const discoveryMeta = {
           "北京语言大学": {
             "company": "北京语言大学",
             "listPages": 1,
-            "listed": 23,
-            "detailed": 23,
+            "listed": 24,
+            "detailed": 24,
             "keptJobs": 8,
             "errors": 0,
             "priority": 114,
@@ -56314,9 +56325,9 @@ export const discoveryMeta = {
           "南开大学": {
             "company": "南开大学",
             "listPages": 1,
-            "listed": 0,
-            "detailed": 0,
-            "keptJobs": 0,
+            "listed": 31,
+            "detailed": 31,
+            "keptJobs": 3,
             "errors": 1,
             "priority": 105,
             "segments": [
@@ -56330,8 +56341,8 @@ export const discoveryMeta = {
             "listPages": 1,
             "listed": 20,
             "detailed": 20,
-            "keptJobs": 6,
-            "errors": 2,
+            "keptJobs": 5,
+            "errors": 3,
             "priority": 103,
             "segments": [
               "985",
@@ -56384,7 +56395,7 @@ export const discoveryMeta = {
           "company": "锐捷网络",
           "status": "healthy",
           "healthy": true,
-          "reason": "Moka源正常：发现38，源内保留4"
+          "reason": "Moka源正常：发现38，源内保留2"
         },
         {
           "provider": "moka",
@@ -56398,7 +56409,7 @@ export const discoveryMeta = {
           "company": "SHEIN",
           "status": "healthy",
           "healthy": true,
-          "reason": "Moka源正常：发现41，源内保留19"
+          "reason": "Moka源正常：发现41，源内保留18"
         },
         {
           "provider": "moka",
@@ -56426,7 +56437,7 @@ export const discoveryMeta = {
           "company": "微步在线",
           "status": "healthy",
           "healthy": true,
-          "reason": "Moka源正常：发现35，源内保留8"
+          "reason": "Moka源正常：发现35，源内保留5"
         },
         {
           "provider": "moka",
@@ -56440,7 +56451,7 @@ export const discoveryMeta = {
           "company": "搜狐畅游",
           "status": "healthy",
           "healthy": true,
-          "reason": "Moka源正常：发现30，源内保留4"
+          "reason": "Moka源正常：发现31，源内保留6"
         },
         {
           "provider": "moka",
@@ -56454,7 +56465,7 @@ export const discoveryMeta = {
           "company": "特斯拉中国",
           "status": "healthy",
           "healthy": true,
-          "reason": "Moka源正常：发现34，源内保留0"
+          "reason": "Moka源正常：发现34，源内保留1"
         },
         {
           "provider": "moka",
@@ -56468,7 +56479,7 @@ export const discoveryMeta = {
           "company": "货拉拉",
           "status": "healthy",
           "healthy": true,
-          "reason": "Moka源正常：发现46，源内保留9"
+          "reason": "Moka源正常：发现46，源内保留8"
         },
         {
           "provider": "moka",
@@ -56524,7 +56535,7 @@ export const discoveryMeta = {
           "company": "科大讯飞",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描600，源内保留33"
+          "reason": "北森源正常：扫描600，源内保留27"
         },
         {
           "provider": "beisen",
@@ -56538,7 +56549,7 @@ export const discoveryMeta = {
           "company": "零跑汽车",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描600，源内保留9"
+          "reason": "北森源正常：扫描600，源内保留4"
         },
         {
           "provider": "beisen",
@@ -56552,7 +56563,7 @@ export const discoveryMeta = {
           "company": "vivo",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描255，源内保留10"
+          "reason": "北森源正常：扫描255，源内保留8"
         },
         {
           "provider": "beisen",
@@ -56573,21 +56584,21 @@ export const discoveryMeta = {
           "company": "传音控股",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描600，源内保留22"
+          "reason": "北森源正常：扫描600，源内保留18"
         },
         {
           "provider": "beisen",
           "company": "新华三集团",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描369，源内保留4"
+          "reason": "北森源正常：扫描369，源内保留1"
         },
         {
           "provider": "beisen",
           "company": "Babycare",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描251，源内保留38"
+          "reason": "北森源正常：扫描251，源内保留29"
         },
         {
           "provider": "beisen",
@@ -56601,14 +56612,14 @@ export const discoveryMeta = {
           "company": "锐明技术",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描83，源内保留6"
+          "reason": "北森源正常：扫描83，源内保留4"
         },
         {
           "provider": "beisen",
           "company": "扬腾创新",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描18，源内保留8"
+          "reason": "北森源正常：扫描18，源内保留7"
         },
         {
           "provider": "beisen",
@@ -56622,21 +56633,21 @@ export const discoveryMeta = {
           "company": "万兴科技",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描137，源内保留10"
+          "reason": "北森源正常：扫描137，源内保留9"
         },
         {
           "provider": "beisen",
           "company": "三一集团",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描136，源内保留12"
+          "reason": "北森源正常：扫描136，源内保留8"
         },
         {
           "provider": "beisen",
           "company": "名创优品",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描56，源内保留6"
+          "reason": "北森源正常：扫描56，源内保留5"
         },
         {
           "provider": "beisen",
@@ -56657,7 +56668,7 @@ export const discoveryMeta = {
           "company": "传音控股",
           "status": "healthy",
           "healthy": true,
-          "reason": "北森源正常：扫描600，源内保留22"
+          "reason": "北森源正常：扫描600，源内保留18"
         },
         {
           "provider": "feishu",
@@ -56671,49 +56682,49 @@ export const discoveryMeta = {
           "company": "得物App",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方飞书源正常：列出160，正式2027候选152，筛选后100"
+          "reason": "官方飞书源正常：列出160，正式2027候选152，筛选后80"
         },
         {
           "provider": "feishu",
           "company": "沐瞳科技",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方飞书源正常：列出94，正式2027候选91，筛选后22"
+          "reason": "官方飞书源正常：列出94，正式2027候选91，筛选后18"
         },
         {
           "provider": "feishu",
           "company": "蔚来",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方飞书源正常：列出896，正式2027候选462，筛选后136"
+          "reason": "官方飞书源正常：列出896，正式2027候选462，筛选后109"
         },
         {
           "provider": "feishu",
           "company": "小鹏汽车",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方飞书源正常：列出521，正式2027候选435，筛选后92"
+          "reason": "官方飞书源正常：列出520，正式2027候选433，筛选后70"
         },
         {
           "provider": "feishu",
           "company": "莉莉丝游戏",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方飞书源正常：列出21，正式2027候选1，筛选后0"
+          "reason": "官方飞书源正常：列出22，正式2027候选1，筛选后0"
         },
         {
           "provider": "feishu",
           "company": "小米",
-          "status": "error",
-          "healthy": false,
-          "reason": "来源抓取存在 1 个错误"
+          "status": "healthy",
+          "healthy": true,
+          "reason": "官方飞书源正常：列出763，正式2027候选763，筛选后120"
         },
         {
           "provider": "feishu",
           "company": "致欧家居",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方飞书源正常：列出27，正式2027候选26，筛选后23"
+          "reason": "官方飞书源正常：列出27，正式2027候选26，筛选后16"
         },
         {
           "provider": "hotjob",
@@ -56734,14 +56745,14 @@ export const discoveryMeta = {
           "company": "伊利",
           "status": "healthy",
           "healthy": true,
-          "reason": "HotJob源正常：列出8，源内保留0"
+          "reason": "HotJob源正常：列出10，源内保留0"
         },
         {
           "provider": "hotjob",
           "company": "创维集团",
           "status": "healthy",
           "healthy": true,
-          "reason": "HotJob源正常：列出126，源内保留33"
+          "reason": "HotJob源正常：列出126，源内保留23"
         },
         {
           "provider": "anker",
@@ -56755,7 +56766,7 @@ export const discoveryMeta = {
           "company": "正浩创新EcoFlow",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方源正常：本轮活动量105，源内保留18"
+          "reason": "官方源正常：本轮活动量104，源内保留15"
         },
         {
           "provider": "university",
@@ -56776,7 +56787,7 @@ export const discoveryMeta = {
           "company": "对外经济贸易大学",
           "status": "error",
           "healthy": false,
-          "reason": "来源抓取存在 3 个错误"
+          "reason": "来源抓取存在 6 个错误"
         },
         {
           "provider": "university",
@@ -56788,16 +56799,16 @@ export const discoveryMeta = {
         {
           "provider": "university",
           "company": "上海对外经贸大学",
-          "status": "error",
+          "status": "unknown",
           "healthy": false,
-          "reason": "来源抓取存在 1 个错误"
+          "reason": "本轮缺少足够来源健康统计"
         },
         {
           "provider": "university",
           "company": "北京语言大学",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方源正常：本轮活动量23，源内保留8"
+          "reason": "官方源正常：本轮活动量24，源内保留8"
         },
         {
           "provider": "university",
@@ -56811,49 +56822,48 @@ export const discoveryMeta = {
           "company": "湖南大学",
           "status": "error",
           "healthy": false,
-          "reason": "来源抓取存在 2 个错误"
+          "reason": "来源抓取存在 3 个错误"
         }
       ],
       "counts": {
-        "healthy": 57,
+        "healthy": 58,
         "empty": 2,
-        "error": 8
+        "error": 6,
+        "unknown": 1
       },
       "total": 67,
-      "healthy": 57,
-      "attention": 10
+      "healthy": 58,
+      "attention": 9
     },
-    "unhealthySources": [
-      "feishu"
-    ],
-    "retainedSourceJobs": 217,
+    "unhealthySources": [],
+    "retainedSourceJobs": 0,
     "verifiedConcreteJobs": 2,
     "granularityExcluded": 0,
     "policyExcluded": {
-      "专业硬门槛与英语专业不匹配": 70,
-      "硬技术能力要求": 52,
-      "纯销售": 3,
-      "必须小语种": 14,
+      "专业硬门槛与英语专业不匹配": 38,
+      "硬技术能力要求": 21,
+      "纯销售": 4,
+      "必须小语种": 25,
       "必须专业资格证书": 1,
-      "明确技术工程/实施岗位": 12,
-      "技术职责主导": 10,
+      "明确技术工程/实施岗位": 3,
+      "技术职责主导": 3,
       "实习岗位": 7
     },
     "retainedSeeds": 2,
     "totalJobs": 500,
-    "companies": 53,
+    "companies": 48,
     "university": {
       "targetSchools": 56,
       "activeSchools": 8,
-      "discovered": 68,
-      "keptBeforeGranularity": 14,
-      "keptAfterGranularityAndPolicy": 9
+      "discovered": 100,
+      "keptBeforeGranularity": 16,
+      "keptAfterGranularityAndPolicy": 10
     },
     "compensation": {
-      "disclosed": 120,
-      "officialDisclosed": 120,
-      "annualized": 120,
-      "undisclosed": 380,
+      "disclosed": 112,
+      "officialDisclosed": 112,
+      "annualized": 112,
+      "undisclosed": 388,
       "totalJobs": 500
     }
   },
