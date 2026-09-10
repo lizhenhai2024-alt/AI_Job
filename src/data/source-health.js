@@ -53,9 +53,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "广东外语外贸大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量24，源内保留4"
     },
     {
       "provider": "university",
@@ -67,16 +67,16 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "对外经济贸易大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 6 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量25，源内保留0"
     },
     {
       "provider": "university",
       "company": "上海外国语大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量5，源内保留0"
     },
     {
       "provider": "university",
@@ -104,16 +104,16 @@ export const sourceHealth = {
       "company": "湖南大学",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 3 个错误"
+      "reason": "来源抓取存在 2 个错误"
     }
   ],
   "counts": {
     "unknown": 9,
-    "error": 4,
-    "healthy": 2
+    "healthy": 5,
+    "error": 1
   },
   "total": 15,
-  "healthy": 2,
-  "attention": 13,
-  "updatedAt": "2026-09-10T12:48:56.244Z"
+  "healthy": 5,
+  "attention": 10,
+  "updatedAt": "2026-09-10T12:40:18.064Z"
 };

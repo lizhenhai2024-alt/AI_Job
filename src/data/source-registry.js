@@ -411,5 +411,37 @@ export const sourceRegistry = [
   {
     "provider": "ecoflow",
     "company": "正浩创新EcoFlow"
+  },
+  {
+    "provider": "alibaba",
+    "company": "阿里巴巴"
+  },
+  {
+    "provider": "tencent",
+    "company": "腾讯"
+  },
+  {
+    "provider": "bytedance",
+    "company": "字节跳动"
+  },
+  {
+    "provider": "meituan",
+    "company": "美团"
+  },
+  {
+    "provider": "pinduoduo",
+    "company": "拼多多"
+  },
+  {
+    "provider": "kuaishou",
+    "company": "快手"
+  },
+  {
+    "provider": "xiaohongshu",
+    "company": "小红书"
+  },
+  {
+    "provider": "ctrip",
+    "company": "携程集团"
   }
 ];

@@ -8,6 +8,14 @@ import { searchFeishuJobs } from './job-discovery/feishu.mjs';
 import { searchHotjobJobs } from './job-discovery/hotjob.mjs';
 import { searchAnkerJobs } from './job-discovery/anker.mjs';
 import { searchEcoflowJobs } from './job-discovery/ecoflow.mjs';
+import { searchAlibabaJobs } from './job-discovery/alibaba.mjs';
+import { searchTencentJobs } from './job-discovery/tencent.mjs';
+import { searchBytedanceJobs } from './job-discovery/bytedance.mjs';
+import { searchMeituanJobs } from './job-discovery/meituan.mjs';
+import { searchPinduoduoJobs } from './job-discovery/pinduoduo.mjs';
+import { searchKuaishouJobs } from './job-discovery/kuaishou.mjs';
+import { searchXiaohongshuJobs } from './job-discovery/xiaohongshu.mjs';
+import { searchCtripJobs } from './job-discovery/ctrip.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
 import { shouldExcludeByPolicy, jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
 import { enrichProvenanceFields } from '../src/core/source-provenance.js';
@@ -208,6 +216,134 @@ if (sourceConfigured('ecoflow') && officialSources.ecoflow) {
   });
 }
 
+if (sourceConfigured('alibaba') && officialSources.alibaba) {
+  parallelTasks.push({
+    name: 'alibaba',
+    fn: async () => {
+      console.log('[job-refresh:alibaba] starting');
+      const result = await searchAlibabaJobs(config, officialSources.alibaba, {
+        maxJobs: officialSources.alibaba?.maxJobs,
+        pageSize: officialSources.alibaba?.pageSize,
+        maxPages: officialSources.alibaba?.maxPages
+      });
+      logSourceResult('alibaba', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('tencent') && officialSources.tencent) {
+  parallelTasks.push({
+    name: 'tencent',
+    fn: async () => {
+      console.log('[job-refresh:tencent] starting');
+      const result = await searchTencentJobs(config, officialSources.tencent, {
+        maxJobs: officialSources.tencent?.maxJobs,
+        pageSize: officialSources.tencent?.pageSize,
+        maxPages: officialSources.tencent?.maxPages
+      });
+      logSourceResult('tencent', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('bytedance') && officialSources.bytedance) {
+  parallelTasks.push({
+    name: 'bytedance',
+    fn: async () => {
+      console.log('[job-refresh:bytedance] starting');
+      const result = await searchBytedanceJobs(config, officialSources.bytedance, {
+        maxJobs: officialSources.bytedance?.maxJobs,
+        pageSize: officialSources.bytedance?.pageSize,
+        maxPages: officialSources.bytedance?.maxPages
+      });
+      logSourceResult('bytedance', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('meituan') && officialSources.meituan) {
+  parallelTasks.push({
+    name: 'meituan',
+    fn: async () => {
+      console.log('[job-refresh:meituan] starting');
+      const result = await searchMeituanJobs(config, officialSources.meituan, {
+        maxJobs: officialSources.meituan?.maxJobs,
+        pageSize: officialSources.meituan?.pageSize,
+        maxPages: officialSources.meituan?.maxPages
+      });
+      logSourceResult('meituan', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('pinduoduo') && officialSources.pinduoduo) {
+  parallelTasks.push({
+    name: 'pinduoduo',
+    fn: async () => {
+      console.log('[job-refresh:pinduoduo] starting');
+      const result = await searchPinduoduoJobs(config, officialSources.pinduoduo, {
+        maxJobs: officialSources.pinduoduo?.maxJobs,
+        pageSize: officialSources.pinduoduo?.pageSize,
+        maxPages: officialSources.pinduoduo?.maxPages
+      });
+      logSourceResult('pinduoduo', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('kuaishou') && officialSources.kuaishou) {
+  parallelTasks.push({
+    name: 'kuaishou',
+    fn: async () => {
+      console.log('[job-refresh:kuaishou] starting');
+      const result = await searchKuaishouJobs(config, officialSources.kuaishou, {
+        maxJobs: officialSources.kuaishou?.maxJobs,
+        pageSize: officialSources.kuaishou?.pageSize,
+        maxPages: officialSources.kuaishou?.maxPages
+      });
+      logSourceResult('kuaishou', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('xiaohongshu') && officialSources.xiaohongshu) {
+  parallelTasks.push({
+    name: 'xiaohongshu',
+    fn: async () => {
+      console.log('[job-refresh:xiaohongshu] starting');
+      const result = await searchXiaohongshuJobs(config, officialSources.xiaohongshu, {
+        maxJobs: officialSources.xiaohongshu?.maxJobs,
+        pageSize: officialSources.xiaohongshu?.pageSize,
+        maxPages: officialSources.xiaohongshu?.maxPages
+      });
+      logSourceResult('xiaohongshu', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('ctrip') && officialSources.ctrip) {
+  parallelTasks.push({
+    name: 'ctrip',
+    fn: async () => {
+      console.log('[job-refresh:ctrip] starting');
+      const result = await searchCtripJobs(config, officialSources.ctrip, {
+        maxJobs: officialSources.ctrip?.maxJobs,
+        pageSize: officialSources.ctrip?.pageSize,
+        maxPages: officialSources.ctrip?.maxPages
+      });
+      logSourceResult('ctrip', result);
+      return result;
+    }
+  });
+}
+
 console.log(`[job-refresh] running ${parallelTasks.length} sources in parallel (concurrency=${MAX_CONCURRENCY})`);
 
 const parallelResults = await runWithConcurrency(parallelTasks, MAX_CONCURRENCY);
@@ -225,7 +361,7 @@ for (let i = 0; i < parallelTasks.length; i++) {
 console.log(`[job-refresh] all sources completed: ${sourceResults.length}/${parallelTasks.length + 1} successful`);
 
 // === 后续处理逻辑保持不变 ===
-const configuredProviders = ['nowcoder','moka','beisen','feishu','hotjob','anker','ecoflow'].filter(sourceConfigured);
+const configuredProviders = ['nowcoder','moka','beisen','feishu','hotjob','anker','ecoflow','alibaba','tencent','bytedance','meituan','pinduoduo','kuaishou','xiaohongshu','ctrip'].filter(sourceConfigured);
 const snapshotRetention = retainedJobsForUnhealthySources(existing, sourceResults, configuredProviders);
 let retainedSourceJobs = [...snapshotRetention.retained];
 for (const provider of snapshotRetention.unhealthy) {

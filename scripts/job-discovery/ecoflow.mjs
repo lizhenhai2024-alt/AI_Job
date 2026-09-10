@@ -29,6 +29,16 @@ function directUrl(source, id) {
   return id ? `${base}/${source.websitePath || '602892'}/position/${encodeURIComponent(id)}/detail` : source.url;
 }
 
+function salaryFromEcoflowRow(row = {}) {
+  const info = row?.job_post_info || {};
+  const min = info.min_salary;
+  const max = info.max_salary;
+  if (min && max && Number(min) > 0 && Number(max) > 0) {
+    return `${min}-${max}`;
+  }
+  return '';
+}
+
 export function parseEcoflowJob(source, row = {}, now = new Date()) {
   const rawId = String(row.id || '');
   const title = clean(row.title || '');
@@ -67,7 +77,7 @@ export function parseEcoflowJob(source, row = {}, now = new Date()) {
     publishedAt: publishedAt(row),
     deadline: '',
     description: `EcoFlow 官方 2027 秋季校园招聘岗位；${category ? `职类：${category}。` : ''}${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方职位页确认最新状态。`,
-    salary: extractSalary(jobText),
+    salary: salaryFromEcoflowRow(row) || extractSalary(jobText),
     status: '推荐',
     discoveredAt: now.toISOString(),
     jobDescription: descriptionText,

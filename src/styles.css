@@ -101,3 +101,19 @@ input:focus, select:focus, textarea:focus { border-color: #9aabff; box-shadow: 0
 .company-meta-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
 .tag-nature { background: #e8f5e9; color: #2e7d32; font-weight: 500; }
 .tag-scale { background: #e3f2fd; color: #1565c0; font-weight: 500; }
+
+/* 薪资标签（岗位卡片标题旁） */
+.salary-badge { display: inline-flex; align-items: center; margin-left: 10px; padding: 3px 10px; border-radius: 999px; font-size: 12px; font-weight: 700; vertical-align: middle; white-space: nowrap; position: relative; top: -2px; }
+.salary-badge.salary-high { background: #fff1e6; color: #c2410c; border: 1px solid #fed7aa; }
+.salary-badge.salary-mid { background: #eef2f5; color: #475569; }
+.salary-badge.salary-none { background: #f2f5f9; color: #9aa3b2; font-weight: 500; }
+
+/* 详情弹窗薪资区块 */
+.salary-detail .salary-monthly { font-weight: 800; }
+.salary-detail .salary-monthly.salary-high { color: #c2410c; }
+.salary-detail .salary-monthly.salary-mid { color: #334155; }
+.salary-detail .salary-monthly.salary-none { color: #9aa3b2; font-weight: 500; }
+.confidence-high { color: var(--green); font-weight: 700; }
+.confidence-medium { color: var(--amber); font-weight: 700; }
+.confidence-none { color: var(--muted); }
+.salary-evidence { margin-top: 10px; font-size: 12.5px; color: var(--muted); }
