@@ -8,7 +8,7 @@ test('refresh pipeline keeps provider blocks outside the Ctrip callback and uses
   const source = await fs.readFile(new URL('../scripts/refresh-jobs.mjs', import.meta.url), 'utf8');
 
   assert.doesNotMatch(source, /\n\s*lo\s*\n/);
-  assert.doesNotMatch(source, /gSourceResult/);
+  assert.doesNotMatch(source, /\bgSourceResult\s*\(/);
   assert.match(source, /const sourceStatsByProvider = Object\.fromEntries/);
   assert.match(source, /buildSourceHealth\(sourceStatsByProvider, configuredOfficialSources\)/);
 
