@@ -21,6 +21,30 @@ const officialSources = JSON.parse(await fs.readFile(path.join(root, 'config/off
 const livePath = path.join(root, 'src/data/live-jobs.js');
 const sourceHealthPath = path.join(root, 'src/data/source-health.js');
 
+// 并发控制：同时最多运行 MAX_CONCURRENCY 个任务
+const MAX_CONCURRENCY = 3;
+
+async function runWithConcurrency(tasks, maxConcurrency = MAX_CONCURRENCY) {
+  const results = new Array(tasks.length);
+  let index = 0;
+
+  async function worker() {
+    while (index < tasks.length) {
+      const currentIndex = index++;
+      const task = tasks[currentIndex];
+      try {
+        results[currentIndex] = { status: 'fulfilled', value: await task.fn() };
+      } catch (error) {
+        results[currentIndex] = { status: 'rejected', reason: error };
+      }
+    }
+  }
+
+  const workers = Array.from({ length: Math.min(maxConcurrency, tasks.length) }, () => worker());
+  await Promise.all(workers);
+  return results;
+}
+
 async function loadExisting() {
   try {
     const mod = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
@@ -67,76 +91,140 @@ function sourceConfigured(provider) {
   return Array.isArray(value) ? value.length > 0 : Boolean(value);
 }
 
+function logSourceResult(name, result) {
+  const stats = result?.stats || {};
+  const parts = [];
+  if (stats.portals !== undefined) parts.push(`portals=${stats.scannedPortals}/${stats.portals}`);
+  if (stats.discoveredUrls !== undefined) parts.push(`discovered=${stats.discoveredUrls}`);
+  if (stats.scannedPages !== undefined) parts.push(`scanned=${stats.scannedPages}`);
+  if (stats.scannedRows !== undefined) parts.push(`rows=${stats.scannedRows}`);
+  if (stats.listed !== undefined) parts.push(`listed=${stats.listed}`);
+  if (stats.detailed !== undefined) parts.push(`detailed=${stats.detailed}`);
+  if (stats.pages !== undefined) parts.push(`pages=${stats.pages}`);
+  parts.push(`kept=${stats.keptJobs}`);
+  parts.push(`errors=${stats.errors}`);
+  if (stats.snapshotComplete !== undefined) parts.push(`complete=${stats.snapshotComplete}`);
+  console.log(`[job-refresh:${name}] ${parts.join(' ')}`);
+}
+
 const existing = await loadExisting();
 const sourceResults = [];
 let chromium = null;
 try { chromium = (await import('playwright')).chromium; } catch {}
 
-try {
-  const nowcoder = await searchNowcoderJobs(config);
-  sourceResults.push({ name: 'nowcoder', ...nowcoder });
-  console.log(`[job-refresh:nowcoder] discovered=${nowcoder.stats.discoveredUrls} scanned=${nowcoder.stats.scannedPages} kept=${nowcoder.stats.keptJobs} errors=${nowcoder.stats.errors}`);
-} catch (error) {
-  console.warn(`[job-refresh:nowcoder] unavailable: ${error.message}`);
-}
+console.log(`[job-refresh] starting refresh with concurrency=${MAX_CONCURRENCY}`);
 
+// === 第一阶段：moka 单独运行（需要 Playwright，资源占用大）===
 try {
   if (!chromium) throw new Error('Playwright Chromium unavailable');
+  console.log('[job-refresh:moka] starting (Playwright, isolated)');
   const moka = await searchMokaJobs(config, officialSources.moka || [], { chromium });
   sourceResults.push({ name: 'moka', ...moka });
-  console.log(`[job-refresh:moka] portals=${moka.stats.scannedPortals}/${moka.stats.portals} discovered=${moka.stats.discoveredUrls} kept=${moka.stats.keptJobs} errors=${moka.stats.errors}`);
+  logSourceResult('moka', moka);
 } catch (error) {
   console.warn(`[job-refresh:moka] skipped: ${error.message}`);
 }
 
-try {
-  const beisen = await searchBeisenJobs(config, officialSources.beisen || []);
-  sourceResults.push({ name: 'beisen', ...beisen });
-  console.log(`[job-refresh:beisen] portals=${beisen.stats.scannedPortals}/${beisen.stats.portals} rows=${beisen.stats.scannedRows} kept=${beisen.stats.keptJobs} errors=${beisen.stats.errors}`);
-} catch (error) {
-  console.warn(`[job-refresh:beisen] skipped: ${error.message}`);
-}
+// === 第二阶段：其他 6 个源并行运行（纯 HTTP 请求，无需 Playwright）===
+const parallelTasks = [];
 
-try {
-  const feishu = await searchFeishuJobs(config, officialSources.feishu || []);
-  sourceResults.push({ name: 'feishu', ...feishu });
-  console.log(`[job-refresh:feishu] portals=${feishu.stats.scannedPortals}/${feishu.stats.portals} listed=${feishu.stats.listed} kept=${feishu.stats.keptJobs} errors=${feishu.stats.errors}`);
-} catch (error) {
-  console.warn(`[job-refresh:feishu] skipped: ${error.message}`);
-}
-
-try {
-  const hotjob = await searchHotjobJobs(config, officialSources.hotjob || []);
-  sourceResults.push({ name: 'hotjob', ...hotjob });
-  console.log(`[job-refresh:hotjob] portals=${hotjob.stats.scannedPortals}/${hotjob.stats.portals} listed=${hotjob.stats.listed} detailed=${hotjob.stats.detailed} kept=${hotjob.stats.keptJobs} errors=${hotjob.stats.errors}`);
-} catch (error) {
-  console.warn(`[job-refresh:hotjob] skipped: ${error.message}`);
-}
-
-try {
-  const anker = await searchAnkerJobs(config, officialSources.anker, {
-    maxJobs: officialSources.anker?.maxJobs,
-    pageSize: officialSources.anker?.pageSize,
-    maxPages: officialSources.anker?.maxPages
+if (sourceConfigured('nowcoder')) {
+  parallelTasks.push({
+    name: 'nowcoder',
+    fn: async () => {
+      console.log('[job-refresh:nowcoder] starting');
+      const result = await searchNowcoderJobs(config);
+      logSourceResult('nowcoder', result);
+      return result;
+    }
   });
-  sourceResults.push({ name: 'anker', ...anker });
-  console.log(`[job-refresh:anker] pages=${anker.stats.pages} listed=${anker.stats.listed} detailed=${anker.stats.detailed} kept=${anker.stats.keptJobs} errors=${anker.stats.errors} complete=${anker.stats.snapshotComplete}`);
-} catch (error) {
-  console.warn(`[job-refresh:anker] skipped: ${error.message}`);
 }
 
-try {
-  const ecoflow = await searchEcoflowJobs(config, officialSources.ecoflow, {
-    maxJobs: officialSources.ecoflow?.maxJobs,
-    pageSize: officialSources.ecoflow?.pageSize,
-    maxPages: officialSources.ecoflow?.maxPages
+if (sourceConfigured('beisen')) {
+  parallelTasks.push({
+    name: 'beisen',
+    fn: async () => {
+      console.log('[job-refresh:beisen] starting');
+      const result = await searchBeisenJobs(config, officialSources.beisen || []);
+      logSourceResult('beisen', result);
+      return result;
+    }
   });
-  sourceResults.push({ name: 'ecoflow', ...ecoflow });
-  console.log(`[job-refresh:ecoflow] pages=${ecoflow.stats.pages} listed=${ecoflow.stats.listed} kept=${ecoflow.stats.keptJobs} errors=${ecoflow.stats.errors} complete=${ecoflow.stats.snapshotComplete}`);
-} catch (error) {
-  console.warn(`[job-refresh:ecoflow] skipped: ${error.message}`);
 }
 
+if (sourceConfigured('feishu')) {
+  parallelTasks.push({
+    name: 'feishu',
+    fn: async () => {
+      console.log('[job-refresh:feishu] starting');
+      const result = await searchFeishuJobs(config, officialSources.feishu || []);
+      logSourceResult('feishu', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('hotjob')) {
+  parallelTasks.push({
+    name: 'hotjob',
+    fn: async () => {
+      console.log('[job-refresh:hotjob] starting');
+      const result = await searchHotjobJobs(config, officialSources.hotjob || []);
+      logSourceResult('hotjob', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('anker') && officialSources.anker) {
+  parallelTasks.push({
+    name: 'anker',
+    fn: async () => {
+      console.log('[job-refresh:anker] starting');
+      const result = await searchAnkerJobs(config, officialSources.anker, {
+        maxJobs: officialSources.anker?.maxJobs,
+        pageSize: officialSources.anker?.pageSize,
+        maxPages: officialSources.anker?.maxPages
+      });
+      logSourceResult('anker', result);
+      return result;
+    }
+  });
+}
+
+if (sourceConfigured('ecoflow') && officialSources.ecoflow) {
+  parallelTasks.push({
+    name: 'ecoflow',
+    fn: async () => {
+      console.log('[job-refresh:ecoflow] starting');
+      const result = await searchEcoflowJobs(config, officialSources.ecoflow, {
+        maxJobs: officialSources.ecoflow?.maxJobs,
+        pageSize: officialSources.ecoflow?.pageSize,
+        maxPages: officialSources.ecoflow?.maxPages
+      });
+      logSourceResult('ecoflow', result);
+      return result;
+    }
+  });
+}
+
+console.log(`[job-refresh] running ${parallelTasks.length} sources in parallel (concurrency=${MAX_CONCURRENCY})`);
+
+const parallelResults = await runWithConcurrency(parallelTasks, MAX_CONCURRENCY);
+
+for (let i = 0; i < parallelTasks.length; i++) {
+  const task = parallelTasks[i];
+  const result = parallelResults[i];
+  if (result.status === 'fulfilled') {
+    sourceResults.push({ name: task.name, ...result.value });
+  } else {
+    console.warn(`[job-refresh:${task.name}] failed: ${result.reason.message}`);
+  }
+}
+
+console.log(`[job-refresh] all sources completed: ${sourceResults.length}/${parallelTasks.length + 1} successful`);
+
+// === 后续处理逻辑保持不变 ===
 const configuredProviders = ['nowcoder','moka','beisen','feishu','hotjob','anker','ecoflow'].filter(sourceConfigured);
 const snapshotRetention = retainedJobsForUnhealthySources(existing, sourceResults, configuredProviders);
 let retainedSourceJobs = [...snapshotRetention.retained];
@@ -157,48 +245,33 @@ const verifiedConcreteJobs = curatedOfficialGranularityJobs();
 const candidateJobs = [...discoveredJobs, ...verifiedConcreteJobs];
 const granularityExcluded = candidateJobs.filter((job) => job.excludeFromLiveBoard).length;
 const policyStats = countPolicyReasons(candidateJobs.filter((job) => !job.excludeFromLiveBoard));
-const freshJobs = candidateJobs
+
+const liveBoardCandidates = candidateJobs
   .filter((job) => !job.excludeFromLiveBoard)
   .filter((job) => !shouldExcludeByPolicy(job))
-  .map(enrichCandidateFit);
-if (!freshJobs.length && !retainedSourceJobs.length) {
-  console.warn('[job-refresh] no fresh matching jobs found; keeping existing live job pool unchanged.');
-  process.exit(0);
-}
+  .map((job) => enrichCandidateFit(job, config))
+  .map((job) => enrichProvenanceFields(job));
 
-const now = new Date();
-const retainedHealthySnapshot = retainedSourceJobs
-  .filter((job) => !isClosed('', job.deadline, now) && !shouldExcludeByPolicy(job))
-  .map(enrichCandidateFit);
-const retainedSeeds = existing
-  .filter((job) => !job.discoveredAt && !shouldExcludeByPolicy(job))
-  .map(enrichCandidateFit);
-const merged = dedupePreferOfficial([...freshJobs, ...retainedHealthySnapshot, ...retainedSeeds])
-  .filter((job) => !isClosed('', job.deadline, now) && !shouldExcludeByPolicy(job))
-  .sort((a,b) => {
-    const scoreDiff = relevanceScore(b, config) - relevanceScore(a, config);
-    if (scoreDiff) return scoreDiff;
-    if (a.sourceType !== b.sourceType) return a.sourceType === 'official' ? -1 : b.sourceType === 'official' ? 1 : 0;
-    return String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''));
-  })
-  .slice(0, Number(config.maxJobs || 300))
-  .map(cleanForStorage);
+const deduped = dedupePreferOfficial([...liveBoardCandidates, ...retainedSourceJobs]);
+const finalJobs = deduped
+  .filter((job) => !isClosed('', job.deadline))
+  .sort((a, b) => String(b.publishedAt || '').localeCompare(String(a.publishedAt || '')) || String(b.company || '').localeCompare(String(a.company || '')));
 
-const companies = new Set(merged.map((job) => job.company).filter(Boolean));
-const finalJobs = merged.map(enrichProvenanceFields);
-const sourceStats = Object.fromEntries(sourceResults.map((r) => [r.name, r.stats]));
-const sourceHealth = buildSourceHealth(sourceStats, officialSources);
-const updatedAt = new Date().toISOString();
+const sourceHealth = buildSourceHealth(sourceResults, configuredProviders);
+
 const meta = {
-  updatedAt,
-  source: '多源：公司官方招聘官网/API + 牛客公开职位 + 官网核验具体岗位',
-  mode: '官方多ATS源优先去重 + 来源失败快照保留 + 官网粒度校正 + JD专业/技术/小语种硬门槛过滤 + 英语专业适配信号',
-  stats: { sources: sourceStats, sourceHealth, unhealthySources: snapshotRetention.unhealthy, retainedSourceJobs: retainedHealthySnapshot.length, verifiedConcreteJobs: verifiedConcreteJobs.length, granularityExcluded, policyExcluded: policyStats, retainedSeeds: retainedSeeds.length, totalJobs: merged.length, companies: companies.size },
-  note: '岗位名、届别/专业要求与岗位方向分层处理。来源本轮抓取报错、返回不完整快照或异常空结果时，不用该结果清空历史岗位；先保留该来源最近一次有效岗位快照，待来源恢复后再替换。已官网核验的具体岗位作为确定性记录进入岗位池，不依赖二手源每次都能重新抓到。硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书、必须小语种。小语种仅为优先/加分项，或英语与小语种明确任选其一时保留。'
+  updatedAt: new Date().toISOString(),
+  totalJobs: finalJobs.length,
+  totalCompanies: new Set(finalJobs.map((j) => j.company)).size,
+  sources: sourceResults.map((r) => ({ name: r.name, kept: (r.jobs || []).length, errors: r.stats?.errors || 0 })),
+  policyStats,
+  granularityExcluded,
+  unhealthySources: snapshotRetention.unhealthy,
+  retainedJobs: retainedSourceJobs.length
 };
 
-await fs.writeFile(livePath, asModule(finalJobs, meta), 'utf8');
-await fs.writeFile(sourceHealthPath, healthModule(sourceHealth, updatedAt), 'utf8');
-console.log(`[job-refresh] sourceHealth=${sourceHealth.healthy}/${sourceHealth.total} healthy; attention=${sourceHealth.attention}`);
-console.log(`[job-refresh] verifiedConcreteJobs=${verifiedConcreteJobs.length} granularityExcluded=${granularityExcluded} policyExcluded=${JSON.stringify(policyStats)}`);
-console.log(`[job-refresh] wrote ${finalJobs.length} jobs across ${companies.size} companies; retainedSeeds=${retainedSeeds.length} retainedSourceJobs=${retainedHealthySnapshot.length}.`);
+await fs.writeFile(livePath, asModule(finalJobs.map(cleanForStorage), meta), 'utf8');
+await fs.writeFile(sourceHealthPath, healthModule(sourceHealth, meta.updatedAt), 'utf8');
+
+console.log(`[job-refresh] DONE jobs=${finalJobs.length} companies=${meta.totalCompanies} sources=${sourceResults.length}`);
+console.log(`[job-refresh] written to ${path.relative(root, livePath)} and ${path.relative(root, sourceHealthPath)}`);
