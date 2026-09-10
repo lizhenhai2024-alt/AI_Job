@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10T12:39:22.685Z",
+  "updatedAt": "2026-09-10T12:55:11.942Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -17,9 +17,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 11,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 12,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "兰亭集势": {
       "name": "兰亭集势",
@@ -60,9 +60,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 11,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 12,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "aliexpress": {
       "name": "AliExpress",
@@ -91,9 +91,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 11,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 12,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "阿里巴巴": {
       "name": "阿里巴巴",
@@ -110,9 +110,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 10,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 11,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "爱奇艺": {
       "name": "爱奇艺",
@@ -129,9 +129,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 10,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 11,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "顾家家居": {
       "name": "顾家家居",
@@ -196,9 +196,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 10,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 11,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "名创优品": {
       "name": "名创优品",
@@ -234,9 +234,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 10,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 11,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "水羊御泥坊": {
       "name": "水羊集团御泥坊",
@@ -255,14 +255,14 @@
       "status": "主投",
       "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "https://www.wondercv.com/xiaozhao/xiaohongshu-2027-global-campus-recruitment-14637-3183cd/",
+      "officialUrl": "https://job.xiaohongshu.com/campus",
       "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
       "candidates": [
         {
-          "url": "https://campus.xiaohongshu.com/",
+          "url": "https://job.xiaohongshu.com/campus",
           "provider": "",
-          "state": "candidate_found",
-          "reason": "候选官网不可稳定访问：HTTP 0"
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         },
         {
           "url": "https://www.wondercv.com/xiaozhao/xiaohongshu-2027-global-campus-recruitment-14637-3183cd/",
@@ -271,21 +271,21 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         },
         {
-          "url": "https://campus.niuqizp.com/job-vry5CNMZ5.html",
-          "provider": "",
-          "state": "candidate_found",
-          "reason": "候选官网不可稳定访问：HTTP 403"
-        },
-        {
           "url": "https://hzau.91wllm.cn/job/view/id/2389105",
           "provider": "",
           "state": "needs_adapter",
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://jy.xmu.edu.cn/campus/view/id/1002445",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
         }
       ],
-      "attempts": 9,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 10,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "致欧家居": {
       "name": "致欧家居",
@@ -321,9 +321,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 9,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 10,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "amazon": {
       "name": "Amazon",
@@ -340,9 +340,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 9,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 10,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "baseus": {
       "name": "Baseus",
@@ -371,9 +371,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 9,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 10,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "shopee": {
       "name": "Shopee",
@@ -513,9 +513,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 2,
-      "lastCheckedAt": "2026-09-10T12:39:22.685Z",
-      "nextCheckAfter": "2026-09-13T12:39:22.685Z"
+      "attempts": 3,
+      "lastCheckedAt": "2026-09-10T12:55:11.942Z",
+      "nextCheckAfter": "2026-09-13T12:55:11.942Z"
     },
     "欧莱雅": {
       "name": "欧莱雅",
@@ -656,6 +656,6 @@
     "sourcesAdded": 0,
     "errors": 0,
     "batchSize": 12,
-    "forceRetry": true
+    "forceRetry": false
   }
 }
