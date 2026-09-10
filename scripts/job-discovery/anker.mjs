@@ -1,5 +1,5 @@
 import crypto from 'node:crypto';
-import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES } from './core.mjs';
+import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, extractSalary } from './core.mjs';
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','GTM'];
 
@@ -54,9 +54,11 @@ export function parseAnkerJob(source, row = {}, now = new Date()) {
     publishedAt: '',
     deadline: '',
     description: `安克创新官方 2027 全球校招岗位；${jobFunction ? `职类：${jobFunction}。` : ''}${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方校招页确认最新状态。`,
-    salary: '',
+    salary: extractSalary(jobText),
     status: '推荐',
     discoveredAt: now.toISOString(),
+    jobDescription: descriptionText,
+    jobRequirements: requirementText,
     _searchText: jobText,
     _subject: subject,
     _sourceJobId: rawId

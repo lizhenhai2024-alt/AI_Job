@@ -1,5 +1,5 @@
 import crypto from 'node:crypto';
-import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES } from './core.mjs';
+import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, extractSalary } from './core.mjs';
 
 const PURE_SALES_TITLE_RX = /销售管培生|销售代表|销售经理|渠道销售|区域销售|大客户销售|销售顾问|销售专员/i;
 const CARD_TAG_LINE_RX = /^(?:急|热|新|荐|推|置顶|热门|紧急|hot|new)$/i;
@@ -97,7 +97,10 @@ export function parseMokaCard({ company, title, text = '', url, graduationYear =
     source: '公司官方Moka校招官网', sourceType: 'official', sourceUrl: url,
     verification, publishedAt: '', deadline: '',
     description: `公司官方 Moka 校招岗位；${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方职位页确认完整职责与截止日期。`,
-    salary: '', status: '推荐', discoveredAt: now.toISOString(), _searchText: body
+    salary: extractSalary(body), status: '推荐', discoveredAt: now.toISOString(),
+    jobDescription: text,
+    jobRequirements: '',
+    _searchText: body
   };
 }
 

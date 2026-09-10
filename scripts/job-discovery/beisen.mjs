@@ -110,6 +110,8 @@ export function parseBeisenRow(source, row = {}, now = new Date()) {
     salary: cleanText(row.Salary || ''),
     status: '推荐',
     discoveredAt: now.toISOString(),
+    jobDescription: duty,
+    jobRequirements: require,
     _searchText: jobText,
     _category: category
   };

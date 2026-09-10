@@ -1,5 +1,5 @@
 import crypto from 'node:crypto';
-import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, is2027 } from './core.mjs';
+import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, is2027, extractSalary } from './core.mjs';
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','GTM','洞察','招聘','商务','物流'];
 const LANGUAGE_RULES = [
@@ -162,9 +162,11 @@ export function parseFeishuJob(source, row = {}, now = new Date()) {
     publishedAt: publishedAt(row),
     deadline: '',
     description: `${source.company}官方校园招聘岗位；${category ? `职类：${category}。` : ''}${skills.length ? `识别关键词：${skills.slice(0, 5).join('、')}。` : ''}投递前请打开官方职位页确认最新状态。`,
-    salary: '',
+    salary: extractSalary(jobText),
     status: '推荐',
     discoveredAt: now.toISOString(),
+    jobDescription: descriptionText,
+    jobRequirements: requirementText,
     _searchText: jobText,
     _recruitType: recruitType,
     _recruitGroup: recruitGroup,

@@ -178,6 +178,8 @@ export function parseHotjobDetail(source, row = {}, detail = {}, now = new Date(
     status: '推荐',
     discoveredAt: now.toISOString(),
     _searchText: jobText,
+    jobDescription: workContent,
+    jobRequirements: requirements,
     _recruitType: clean(detail.workTypeStr || row.workTypeStr || '全职'),
     _subject: projectName,
     _sourceJobId: postId
@@ -262,6 +264,8 @@ function parseHotjobHztpDetail(source, row = {}, now = new Date()) {
     status: '推荐',
     discoveredAt: now.toISOString(),
     _searchText: jobText,
+    jobDescription: clean(row.workContent || ''),
+    jobRequirements: clean(row.serviceCondition || ''),
     _recruitType: '全职',
     _subject: clean(row.subject || ''),
     _sourceJobId: postId

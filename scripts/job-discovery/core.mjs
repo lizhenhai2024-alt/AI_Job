@@ -130,6 +130,61 @@ export function detectRisks(text = '') {
   if (/高强度|抗压|节奏快/.test(text)) risks.push('节奏快');
   return [...new Set(risks)];
 }
+// 薪资提取：从职位描述/要求文本中用正则提取薪资原始字符串，供 compensation.js 后续解析
+const SALARY_RANGE_SEP = String.raw`(?:-|~|～|—|–|至|到)`;
+
+export function extractSalary(text = '') {
+  const raw = String(text || '').replace(/\s+/g, ' ');
+  if (!raw) return '';
+  if (/薪资面议|薪酬面议|工资面议|待遇面议|面议薪资/.test(raw)) return '';
+
+  // 1. 年薪：年薪/年收入/年度总包/年包/年薪资/package + 数字-数字 + 万/W
+  const annualRx = new RegExp(
+    `(?:年薪|年收入|年度总包|年包|年薪资|package|total\\s*compensation)[^\\d]{0,16}(\\d+(?:\\.\\d+)?)\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?`,
+    'i'
+  );
+  const annualM = raw.match(annualRx);
+  if (annualM) return annualM[0].trim();
+
+  // 2. 月薪K：数字K-数字K（可选前缀），可选 ·N薪
+  const monthlyKRx = new RegExp(
+    `(?:月薪|薪资范围|薪酬|薪资|base\\s*salary)?[^\\d]{0,10}(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`,
+    'i'
+  );
+  const monthlyKM = raw.match(monthlyKRx);
+  if (monthlyKM) {
+    const min = Number(monthlyKM[1]);
+    const max = Number(monthlyKM[2]);
+    if (min >= 3 && max <= 500 && min <= max) return monthlyKM[0].trim();
+  }
+
+  // 3. 月薪元：月薪/薪资范围 + 数字-数字 + 元/月
+  const monthlyYuanRx = new RegExp(
+    `(?:月薪|薪资范围|薪酬|薪资)[^\\d]{0,10}(\\d{4,6})\\s*${SALARY_RANGE_SEP}\\s*(\\d{4,6})\\s*(?:元)?\\s*(?:/|每)?\\s*(?:月|个月)?(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`,
+    'i'
+  );
+  const monthlyYuanM = raw.match(monthlyYuanRx);
+  if (monthlyYuanM) return monthlyYuanM[0].trim();
+
+  // 4. 单值月薪K：月薪/薪资 + 数字K·N薪
+  const singleKRx = /(?:月薪|薪资范围|薪酬|薪资)[^\d]{0,10}(\d+(?:\.\d+)?)\s*(?:k|K|千)(?:\s*(?:[·xX×*]|\+)\s*(\d{1,2})\s*薪)?/i;
+  const singleKM = raw.match(singleKRx);
+  if (singleKM) {
+    const v = Number(singleKM[1]);
+    if (v >= 3 && v <= 500) return singleKM[0].trim();
+  }
+
+  // 5. 万-万（需薪资/薪酬/待遇等上下文词）
+  const wanCtxRx = new RegExp(
+    `(?:薪资|薪酬|工资|待遇|收入|总包|package)[^\\d]{0,12}(\\d+(?:\\.\\d+)?)\\s*万\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*万`,
+    'i'
+  );
+  const wanCtxM = raw.match(wanCtxRx);
+  if (wanCtxM) return wanCtxM[0].trim();
+
+  return '';
+}
+
 
 // 专业限制检测：排除有明确理工科/技术/特定专业门槛的岗位（文科/商科/语言类不可投）
 const MAJOR_RESTRICTION_RX = /(理工科|工科|理科|理工学|计算机|软件|电子|通信|机械|自动化|电气|微电子|集成电路|物理|化学|生物|数学|统计|医学|药学|临床|法学|法律|建筑|土木|城乡规划|材料|能源|动力|环境|水利|地质|海洋|天文).{0,10}(相关)?(专业|专业背景|专业基础)/;
@@ -180,7 +235,7 @@ export function parseJobPage({ html, url, lastmod = '', now = new Date() }) {
   ].filter(Boolean);
   const riskTags = detectRisks(jobText);
   const publishedAt = normalizeDate(posting?.datePosted) || normalizeDate(lastmod);
-  const salary = asText(posting?.baseSalary);
+  const salary = asText(posting?.baseSalary) || extractSalary(jobText);
   const id = `nowcoder-${crypto.createHash('sha1').update(url).digest('hex').slice(0, 12)}`;
   const description = `自动发现的 ${roleFamily.join(' / ')} 类岗位${skills.length ? `；识别关键词：${skills.slice(0,5).join('、')}` : ''}。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。`;
   return {
@@ -189,7 +244,10 @@ export function parseJobPage({ html, url, lastmod = '', now = new Date() }) {
     source: '牛客公开职位', sourceType: 'secondary', sourceUrl: url,
     verification: '二手来源，待官网核验', publishedAt, deadline,
     description, salary, status: '推荐', discoveredAt: now.toISOString(),
-    closed: isClosed(pageText, deadline, now), _searchText: jobText
+    closed: isClosed(pageText, deadline, now),
+    jobDescription: rawDescription,
+    jobRequirements: '',
+    _searchText: jobText
   };
 }
 

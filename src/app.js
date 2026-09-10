@@ -58,6 +58,31 @@ function active(job) {
   return Number.isNaN(d.getTime()) || d >= new Date();
 }
 
+// 薪资展示：统一从 job.compensation / job.monthlySalary 等字段中提取可渲染信息
+function salaryInfo(job) {
+  const comp = job.compensation || {};
+  const monthlyDisplay = job.monthlySalary || comp.monthlyDisplay || '';
+  const annualDisplay = job.annualSalary || comp.annualDisplay || '';
+  const disclosed = Boolean(comp.disclosed) && monthlyDisplay && monthlyDisplay !== '未披露';
+  const monthlyMax = typeof comp.monthlyMax === 'number' ? comp.monthlyMax : null;
+  // 高薪（>20k/月）用暖色强调，其余已披露用中性色
+  const tier = !disclosed ? 'none' : (monthlyMax !== null && monthlyMax > 20000 ? 'high' : 'mid');
+  return {
+    disclosed,
+    monthlyDisplay: disclosed ? monthlyDisplay : '薪资未披露',
+    annualDisplay,
+    tier,
+    confidence: comp.confidence || 'none',
+    sourceLabel: comp.sourceLabel || '',
+    evidence: comp.evidence || '',
+    raw: job.salary || comp.raw || ''
+  };
+}
+
+function salaryConfidenceLabel(confidence) {
+  return { high: '高', medium: '中', none: '无' }[confidence] || '无';
+}
+
 function jobsWithIntel() {
   return baseJobs
     .map((job) => ({
@@ -153,7 +178,7 @@ function renderJobCard(job) {
   return `<article class="job-card intel-card">
     <div>
       <div class="company">${esc(job.company || '待核公司')}</div>
-      <h2 class="job-title">${esc(job.title || '待核岗位')}</h2>
+      <h2 class="job-title">${esc(job.title || '待核岗位')}<span class="salary-badge salary-${salaryInfo(job).tier}">${esc(salaryInfo(job).monthlyDisplay)}</span></h2>
       <div class="meta">
         <span>📍 ${esc(job.city || '待核')}</span>
         <span>🎓 ${esc(job.graduationYear ? `${job.graduationYear}届` : '届别待核')}</span>
@@ -252,8 +277,18 @@ function renderModal() {
   const p = job._provenance;
   const c = job._completeness;
   const lang = job._languageSignal;
+  const sal = salaryInfo(job);
   return `<div class="modal-backdrop" data-close="1"><div class="modal" onclick="event.stopPropagation()">
     <div class="modal-head"><div><div class="company">${esc(job.company)}</div><h2>${esc(job.title)}</h2></div><button class="close" data-close="1">×</button></div>
+    <div class="detail-section salary-detail"><h3>薪资信息</h3><div class="detail-grid">
+      <div class="detailbox"><b>月薪范围</b><span class="salary-monthly salary-${sal.tier}">${esc(sal.monthlyDisplay)}</span></div>
+      <div class="detailbox"><b>年薪范围</b><span>${esc(sal.disclosed ? (sal.annualDisplay || '待推算') : '薪资未披露')}</span></div>
+      <div class="detailbox"><b>薪资来源</b><span>${esc(sal.sourceLabel || '待核')}</span></div>
+      <div class="detailbox"><b>置信度</b><span class="confidence-${sal.confidence}">${esc(salaryConfidenceLabel(sal.confidence))}</span></div>
+    </div>
+    ${sal.disclosed && sal.raw ? `<div class="source-box salary-evidence">原始薪资表述：${esc(sal.raw)}</div>` : ''}
+    ${sal.disclosed && sal.evidence ? `<div class="source-box salary-evidence">解析依据：${esc(sal.evidence)}</div>` : ''}
+    </div>
     <div class="detail-section"><h3>来源与核验</h3><div class="detail-grid">
       <div class="detailbox"><b>获取渠道</b><span>${esc(p.channelLabel)}</span></div>
       <div class="detailbox"><b>来源状态</b><span>${esc(p.verificationLabel)}</span></div>
@@ -272,6 +307,8 @@ function renderModal() {
       <div class="detailbox"><b>发布时间</b><span>${esc(job.publishedAt || '待核')}</span></div>
       <div class="detailbox"><b>抓取标签</b><span>${esc((job.roleFamily || []).join('、') || '待分类')}</span></div>
     </div></div>
+    <div class="detail-section"><h3>岗位职责</h3><div class="job-description">${esc(job.jobDescription || '暂无详细职责描述，请打开原始来源查看')}</div></div>
+    <div class="detail-section"><h3>任职要求</h3><div class="job-requirements">${esc(job.jobRequirements || '暂无详细任职要求，请打开原始来源查看')}</div></div>
     <div class="actions modal-actions">
       ${job.sourceUrl ? `<a class="btn" href="${esc(job.sourceUrl)}" target="_blank" rel="noopener">打开原始来源</a>` : ''}
       <a class="btn primary" href="${FINAL_BOARD_URL}" target="_blank" rel="noopener">到最终看板判断</a>
