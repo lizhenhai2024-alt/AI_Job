@@ -130,25 +130,43 @@ export function detectRisks(text = '') {
   if (/高强度|抗压|节奏快/.test(text)) risks.push('节奏快');
   return [...new Set(risks)];
 }
-// 薪资提取：从职位描述/要求文本中用正则提取薪资原始字符串，供 compensation.js 后续解析
+
+// 薪资提取：从职位描述/要求文本中提取薪资原始字符串，供 compensation.js 后续解析。
+// 兼容校招 JD 常见的 15-25K、15K-25K、14-18万元/年、年薪30万等写法。
 const SALARY_RANGE_SEP = String.raw`(?:-|~|～|—|–|至|到)`;
+const ANNUAL_SALARY_CONTEXT = String.raw`(?:年薪|年收入|年度总包|年度薪酬|年包|年薪资|总包|package|total\s*compensation)`;
+const MONTHLY_SALARY_CONTEXT = String.raw`(?:月薪|薪资范围|薪资待遇|薪酬范围|薪酬|薪资|工资|待遇|税前|税后|base\s*salary)`;
+
+function plausibleWan(min, max = min) {
+  return Number.isFinite(min) && Number.isFinite(max) && min > 0 && max > 0 && min <= max && max <= 1000;
+}
 
 export function extractSalary(text = '') {
   const raw = String(text || '').replace(/\s+/g, ' ');
   if (!raw) return '';
-  if (/薪资面议|薪酬面议|工资面议|待遇面议|面议薪资/.test(raw)) return '';
+  if (/薪资面议|薪酬面议|工资面议|待遇面议|面议薪资|^\s*面议\s*$/.test(raw)) return '';
 
-  // 1. 年薪：年薪/年收入/年度总包/年包/年薪资/package + 数字-数字 + 万/W
-  const annualRx = new RegExp(
-    `(?:年薪|年收入|年度总包|年包|年薪资|package|total\\s*compensation)[^\\d]{0,16}(\\d+(?:\\.\\d+)?)\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?`,
-    'i'
-  );
-  const annualM = raw.match(annualRx);
-  if (annualM) return annualM[0].trim();
+  // 1. 年薪区间：支持“年薪20-35万”“年度总包20万-35万”“14-18万元/年”“9W-11W元/年”。
+  const annualRangePatterns = [
+    new RegExp(`${ANNUAL_SALARY_CONTEXT}[^\\d]{0,16}(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)?\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?(?:\\s*(?:/|每)\\s*年)?`, 'i'),
+    new RegExp(`(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)?\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?\\s*(?:/|每)\\s*年`, 'i')
+  ];
+  for (const rx of annualRangePatterns) {
+    const m = raw.match(rx);
+    if (!m) continue;
+    const min = Number(m[1]);
+    const max = Number(m[2]);
+    if (plausibleWan(min, max)) return m[0].trim();
+  }
 
-  // 2. 月薪K：数字K-数字K（可选前缀），可选 ·N薪
+  // 2. 单值年薪：例如“年薪30万”。
+  const annualSingleRx = new RegExp(`${ANNUAL_SALARY_CONTEXT}[^\\d]{0,16}(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?(?:\\s*(?:/|每)\\s*年)?`, 'i');
+  const annualSingleM = raw.match(annualSingleRx);
+  if (annualSingleM && plausibleWan(Number(annualSingleM[1]))) return annualSingleM[0].trim();
+
+  // 3. 月薪K区间：首个 K 可省略，兼容 15-25K 与 15K-25K；可带 14薪。
   const monthlyKRx = new RegExp(
-    `(?:月薪|薪资范围|薪酬|薪资|base\\s*salary)?[^\\d]{0,10}(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`,
+    `(?:${MONTHLY_SALARY_CONTEXT}[^\\d]{0,10})?(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)?\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`,
     'i'
   );
   const monthlyKM = raw.match(monthlyKRx);
@@ -158,33 +176,36 @@ export function extractSalary(text = '') {
     if (min >= 3 && max <= 500 && min <= max) return monthlyKM[0].trim();
   }
 
-  // 3. 月薪元：月薪/薪资范围 + 数字-数字 + 元/月
+  // 4. 月薪元：月薪/薪资范围 + 数字-数字 + 元/月。
   const monthlyYuanRx = new RegExp(
-    `(?:月薪|薪资范围|薪酬|薪资)[^\\d]{0,10}(\\d{4,6})\\s*${SALARY_RANGE_SEP}\\s*(\\d{4,6})\\s*(?:元)?\\s*(?:/|每)?\\s*(?:月|个月)?(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`,
+    `(?:月薪|薪资范围|薪资待遇|薪酬范围|薪酬|薪资|工资|待遇|税前|税后)[^\\d]{0,10}(\\d{4,6})\\s*${SALARY_RANGE_SEP}\\s*(\\d{4,6})\\s*(?:元)?\\s*(?:/|每)?\\s*(?:月|个月)?(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`,
     'i'
   );
   const monthlyYuanM = raw.match(monthlyYuanRx);
-  if (monthlyYuanM) return monthlyYuanM[0].trim();
-
-  // 4. 单值月薪K：月薪/薪资 + 数字K·N薪
-  const singleKRx = /(?:月薪|薪资范围|薪酬|薪资)[^\d]{0,10}(\d+(?:\.\d+)?)\s*(?:k|K|千)(?:\s*(?:[·xX×*]|\+)\s*(\d{1,2})\s*薪)?/i;
-  const singleKM = raw.match(singleKRx);
-  if (singleKM) {
-    const v = Number(singleKM[1]);
-    if (v >= 3 && v <= 500) return singleKM[0].trim();
+  if (monthlyYuanM) {
+    const min = Number(monthlyYuanM[1]);
+    const max = Number(monthlyYuanM[2]);
+    if (min >= 1000 && max <= 200000 && min <= max) return monthlyYuanM[0].trim();
   }
 
-  // 5. 万-万（需薪资/薪酬/待遇等上下文词）
+  // 5. 单值月薪K：必须带薪资上下文，避免把普通技术参数误识别为薪资。
+  const singleKRx = new RegExp(`${MONTHLY_SALARY_CONTEXT}[^\\d]{0,10}(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`, 'i');
+  const singleKM = raw.match(singleKRx);
+  if (singleKM) {
+    const value = Number(singleKM[1]);
+    if (value >= 3 && value <= 500) return singleKM[0].trim();
+  }
+
+  // 6. “薪资20万-35万”一类写法，按年包语义保留原文。
   const wanCtxRx = new RegExp(
-    `(?:薪资|薪酬|工资|待遇|收入|总包|package)[^\\d]{0,12}(\\d+(?:\\.\\d+)?)\\s*万\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*万`,
+    `(?:薪资|薪酬|工资|待遇|收入|总包|package)[^\\d]{0,12}(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)\\s*${SALARY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)`,
     'i'
   );
   const wanCtxM = raw.match(wanCtxRx);
-  if (wanCtxM) return wanCtxM[0].trim();
+  if (wanCtxM && plausibleWan(Number(wanCtxM[1]), Number(wanCtxM[2]))) return wanCtxM[0].trim();
 
   return '';
 }
-
 
 // 专业限制检测：排除有明确理工科/技术/特定专业门槛的岗位（文科/商科/语言类不可投）
 const MAJOR_RESTRICTION_RX = /(理工科|工科|理科|理工学|计算机|软件|电子|通信|机械|自动化|电气|微电子|集成电路|物理|化学|生物|数学|统计|医学|药学|临床|法学|法律|建筑|土木|城乡规划|材料|能源|动力|环境|水利|地质|海洋|天文).{0,10}(相关)?(专业|专业背景|专业基础)/;
