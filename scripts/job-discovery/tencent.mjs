@@ -61,7 +61,9 @@ export function parseTencentJob(source, listRow = {}, detail = {}, now = new Dat
     description: `腾讯 2027 校园招聘岗位${tidName ? `（职类：${tidName}）` : ''}；${bg ? `BG：${bg}。` : ''}${skills.length ? `识别关键词：${skills.slice(0, 5).join('、')}。` : ''}投递前请打开官方职位页确认最新状态。`,
     salary: '',
     status: '推荐',
-    discoveredAt: now.toISOString(),
+    discoveredAt: now.toISOString(),    jobDescription: detail.description || '',
+    jobRequirements: detail.requirement || '',
+
     _searchText: jobText
   };
 }

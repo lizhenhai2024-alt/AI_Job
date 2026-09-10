@@ -59,7 +59,9 @@ export function parseAlibabaJob(source, row = {}, now = new Date()) {
     description: `阿里巴巴 2027 校园招聘岗位；${skills.length ? `识别关键词：${skills.slice(0, 5).join('、')}。` : ''}投递前请打开官方职位页确认最新状态与截止日期。`,
     salary: '',
     status: '推荐',
-    discoveredAt: now.toISOString(),
+    discoveredAt: now.toISOString(),    jobDescription: descriptionText,
+    jobRequirements: requirementText,
+
     _searchText: jobText
   };
 }

@@ -74,7 +74,9 @@ export function parseKuaishouJob(source, row = {}, now = new Date()) {
     description: `快手官方2027校园招聘岗位；${category ? `职类：${category}。` : ''}${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方职位页确认完整职责与截止日期。`,
     salary: '',
     status: '推荐',
-    discoveredAt: now.toISOString(),
+    discoveredAt: now.toISOString(),    jobDescription: row.description || '',
+    jobRequirements: row.requirement || '',
+
     _searchText: jobText,
     _sourceJobId: rawId
   };

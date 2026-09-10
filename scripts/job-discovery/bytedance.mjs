@@ -69,7 +69,9 @@ export function parseBytedanceJob(source, row = {}, now = new Date()) {
     verification: '官方招聘官网/API',
     publishedAt: publishedAt(row),
     deadline: '',
-    description: `字节跳动官方校园招聘岗位；${category ? `职类：${category}。` : ''}${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方校招页确认最新状态。`,
+    description: `字节跳动官方校园招聘岗位；${category ? `职类：${category}。` : ''}${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方校招页确认最新状态。`,    jobDescription: descriptionText || '',
+    jobRequirements: requirementText || '',
+
     salary: '',
     status: '推荐',
     discoveredAt: now.toISOString(),

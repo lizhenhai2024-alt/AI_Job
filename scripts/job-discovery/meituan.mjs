@@ -62,7 +62,9 @@ export function parseMeituanJob(source, row = {}, now = new Date()) {
     description: `美团官方校园招聘（应届生）岗位；${family ? `职类：${family}。` : ''}${department ? `部门：${department}。` : ''}${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方校招页确认最新状态。`,
     salary: '',
     status: '推荐',
-    discoveredAt: now.toISOString(),
+    discoveredAt: now.toISOString(),    jobDescription: row.jobDescription || '',
+    jobRequirements: row.jobRequirement || '',
+
     _searchText: jobText,
     _sourceJobId: rawId
   };

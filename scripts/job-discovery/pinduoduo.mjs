@@ -72,7 +72,9 @@ export function parsePinduoduoJob(source, row = {}, now = new Date()) {
     description: `拼多多官方2027校招岗位；${category ? `职类：${category}。` : ''}${batch ? `批次：${batch}。` : ''}${tags.length ? `标签：${tags.join('、')}。` : ''}${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方校招页确认最新状态。`,
     salary: '',
     status: '推荐',
-    discoveredAt: now.toISOString(),
+    discoveredAt: now.toISOString(),    jobDescription: row.description || '',
+    jobRequirements: row.requirement || '',
+
     _searchText: jobText,
     _sourceJobId: rawId
   };
