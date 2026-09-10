@@ -23,6 +23,8 @@ if (!mainName || !opportunitiesName) throw new Error('Missing master company lis
 const CITY_NAMES = ['北京','上海','广州','深圳','杭州','苏州','无锡','长沙','武汉','西安','成都','天津','南京','佛山','东莞','珠海','惠州','厦门','济南','青岛','昆明','长春','宁波','合肥','郑州','重庆','大连','沈阳','福州','南昌','南宁'];
 const CITY_SET = new Set(CITY_NAMES);
 const NON_COMPANY_LABELS = /^(公司|排序|城市|维度|最高优先|高优先|次优先|主投池|观察池|风险观察|移出主投池|工作机会|英语友好岗|27届校招|主要产业|主流岗位|品牌终端|整车|零部件|其他|大型|垂直|综合|出海|快递|工业|动力|光伏|输变电|游戏|内容|网络|数据|晶圆|半导体|机器人|核心|医疗|酒水|农牧)$/;
+// 金融相关公司（银行/券商/审计/咨询）默认不新增为主投池（用户硬约束）；四大所按品牌名匹配；保险类仅当用户机会清单显式保留时放行。
+const FINANCIAL_RX = /银行|证券|审计|咨询|会计|资管|信托|普华永道|毕马威|安永|德勤/;
 const TRACK_HINT = /(市场|营销|品牌|运营|商务|客户|HR|人力|供应链|采购|财务|咨询|审计|法务|销售支持|客户成功|产品|项目管理|国际业务|跨境|电商)/i;
 
 export const cleanCompanyName = (value = '') => String(value)
@@ -152,7 +154,7 @@ for (const name of files.filter((file) => /上海及周边|北京外资|深圳�
     const cities = normalizeCityValues(locationValues);
     const tracks = normalizeTrackValues(trackValues);
     const cohort = row['27届校招'] || '';
-    const active = /已启动|在招|网申|招聘中/.test(cohort);
+    const active = /已启动|在招|网申|招聘中/.test(cohort) && !FINANCIAL_RX.test(company);
     upsert(company, { status: active ? '主投' : '观察', cities, targetTracks: tracks, sources: [name] });
   }
 }
@@ -172,6 +174,28 @@ for (const line of fs.readFileSync(path.join(inputDir, opportunitiesName), 'utf8
   }
   opportunityEvidence.set(key, evidence);
   upsert(company, { status: /已启动|网申|招聘中/.test(cells[7] || '') ? '主投' : '观察', sources: [opportunitiesName] });
+}
+
+// Opportunity board is a 12-column superset of the started-opportunities list
+// (目录|公司|等级|岗位|城市|Role|P100|Coverage/RFS|优先级|状态|截止|下一步).
+// Rows are evidence only; the status column sits at index 9.
+const boardName = files.find((name) => name.includes('机会看板_全行业汇总'));
+if (boardName) {
+  for (const line of fs.readFileSync(path.join(inputDir, boardName), 'utf8').split(/\r?\n/)) {
+    if (!/^\|/.test(line) || /^\|[- :|]+\|$/.test(line)) continue;
+    const cells = line.split('|').slice(1, -1).map((cell) => cell.replace(/\*|—/g, '').trim());
+    if (cells.length < 10 || /^(目录|公司|合计)/.test(cells[0])) continue;
+    const company = cleanCompanyName(cells[1]);
+    if (!isPlausibleCompanyName(company)) continue;
+    const key = canonicalCompanyName(company);
+    const evidence = opportunityEvidence.get(key) || { count: 0, roles: [], cities: [], statuses: [], nextSteps: [] };
+    evidence.count += 1;
+    for (const [field, value, limit] of [['roles', cells[3], 5], ['cities', cells[4], 4], ['statuses', cells[9], 3], ['nextSteps', cells[11], 3]]) {
+      if (value && !evidence[field].includes(value) && evidence[field].length < limit) evidence[field].push(value);
+    }
+    opportunityEvidence.set(key, evidence);
+    upsert(company, { status: /已启动|网申|招聘中/.test(cells[9] || '') ? '主投' : '观察', sources: [boardName] });
+  }
 }
 
 const companies = [...records.values()].map((record) => {

@@ -4,7 +4,7 @@ import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_N
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','咨询','沟通','分析'];
 const SHORT_2027_RX = /(?:^|[^0-9])27\s*届(?:毕业生|校招|秋招|应届)?/i;
 const CAMPUS_2027_RX = /2027\s*届|Campus\s*2027|2027\s*Campus|27\s*届/i;
-const INTERNSHIP_RX = /实习|\bIntern(?:ship)?\b/i;
+const INTERNSHIP_RX = /实习|兼职|part[- ]?time|\bIntern(?:ship)?\b/i;
 const PURE_SALES_RX = /销售管培生|销售代表|销售专员|销售顾问|销售经理|海外销售|国际销售|渠道销售|区域销售|大客户销售/i;
 const NON_PURE_SALES_RX = /销售运营|销售支持|销售分析|销售策略|销售计划|销售管理|商务运营/i;
 
@@ -109,11 +109,11 @@ function has2027Evidence(row = {}, detail = {}) {
   return CAMPUS_2027_RX.test(evidence) || SHORT_2027_RX.test(evidence);
 }
 
-function isListCandidate(row = {}, profile = {}) {
+function isListCandidate(row = {}, profile = {}, source = {}) {
   const title = clean(row.postName || '');
   if (!title || INTERNSHIP_RX.test(`${title} ${row.workTypeStr || ''} ${row.projectName || ''}`)) return false;
   if (PURE_SALES_RX.test(title) && !NON_PURE_SALES_RX.test(title)) return false;
-  if (!has2027Evidence(row, {})) return false;
+  if (!has2027Evidence(row, {}) && !source.trustCohort2027) return false;
   const roleFamily = roleFamilyFrom(title);
   const rough = {
     title,
@@ -138,7 +138,7 @@ export function parseHotjobDetail(source, row = {}, detail = {}, now = new Date(
   const category = clean(detail.postTypeName || row.postTypeName || '');
   const org = clean(detail.orgName || detail.company || row.company || '');
   const jobText = [title, projectName, category, org, workContent, requirements].filter(Boolean).join('\n');
-  const graduationYear = has2027Evidence(row, detail) ? '2027' : '';
+  const graduationYear = has2027Evidence(row, detail) || source.trustCohort2027 ? '2027' : '';
   const roleFamily = roleFamilyFrom(title);
   const skills = detectSkills(jobText);
   const experienceKeywords = EXPERIENCE_WORDS.filter((word) => jobText.toLowerCase().includes(word.toLowerCase())).slice(0, 10);
@@ -168,7 +168,9 @@ export function parseHotjobDetail(source, row = {}, detail = {}, now = new Date(
     source: '公司官方HotJob校招官网',
     sourceType: 'official',
     sourceUrl,
-    verification: graduationYear ? `官方HotJob校招 · 项目明确${projectName || '2027届'}` : '官方HotJob校招 · 未识别2027届证据',
+    verification: graduationYear
+      ? (source.trustCohort2027 && !has2027Evidence(row, detail) ? `官方HotJob校招 · 官网核验2027届入口（${projectName || source.projectEvidence || '2027届'}）` : `官方HotJob校招 · 项目明确${projectName || '2027届'}`)
+      : '官方HotJob校招 · 未识别2027届证据',
     publishedAt,
     deadline,
     description: `公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。`,
@@ -226,7 +228,7 @@ export async function searchHotjobJobs(profile, sources = [], { fetcher = fetch,
       const rows = [...rowMap.values()];
       portalListed = rows.length;
       listed += rows.length;
-      const candidates = rows.filter((row) => isListCandidate(row, profile)).slice(0, Number(source.maxDetails || 120));
+      const candidates = rows.filter((row) => isListCandidate(row, profile, source)).slice(0, Number(source.maxDetails || 120));
       const normalized = await mapLimit(candidates, Number(source.detailConcurrency || concurrency), async (row) => {
         try {
           const detail = await fetchDetail(fetcher, source, row.postId);

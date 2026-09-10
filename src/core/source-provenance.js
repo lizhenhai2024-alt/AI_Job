@@ -125,6 +125,41 @@ export function languageRequirementSignal(job = {}) {
     : { level: 'info', label: '识别到小语种相关描述，需核对是否为硬要求' };
 }
 
+export function normalizeSourceEvidence(job = {}) {
+  const rows = [];
+  const seen = new Set();
+  const push = (label, url) => {
+    const text = String(label || '').trim();
+    const link = String(url || '').trim();
+    const key = `${text}|${link}`;
+    if (!text || seen.has(key)) return;
+    seen.add(key);
+    rows.push({ label: text, url: link });
+  };
+  push(job.source, job.sourceUrl);
+  push(job.verification, '');
+  for (const row of job.sourceEvidence || job.sources || []) {
+    if (typeof row === 'string') push(row, '');
+    else if (row && typeof row === 'object') {
+      if (row.label !== undefined || row.url !== undefined) push(row.label || row.source || row.name, row.url || row.sourceUrl);
+      else if (row.kind !== undefined) {
+        if (row.kind === 'url') push('来源链接', row.value);
+        else push(row.value, '');
+      }
+    }
+  }
+  return rows.slice(0, 12);
+}
+
+export function enrichProvenanceFields(job = {}) {
+  return {
+    ...job,
+    sourceChannel: classifySourceChannel(job),
+    sourceChannelLabel: sourceChannelLabel(job),
+    sourceEvidence: normalizeSourceEvidence(job)
+  };
+}
+
 export function compareDiscoveryIntelligence(a, b) {
   const pa = provenanceSummary(a);
   const pb = provenanceSummary(b);

@@ -10,6 +10,7 @@ import { searchAnkerJobs } from './job-discovery/anker.mjs';
 import { searchEcoflowJobs } from './job-discovery/ecoflow.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
 import { shouldExcludeByPolicy, jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
+import { enrichProvenanceFields } from '../src/core/source-provenance.js';
 import { buildSourceHealth } from './job-discovery/source-health.mjs';
 import { curateDiscoveredJobs, curatedOfficialGranularityJobs } from './job-discovery/granularity.mjs';
 import { retainedJobsForUnhealthySources, providerOfJob, findHistoricalProviderJobs } from './job-discovery/snapshot-retention.mjs';
@@ -184,6 +185,7 @@ const merged = dedupePreferOfficial([...freshJobs, ...retainedHealthySnapshot, .
   .map(cleanForStorage);
 
 const companies = new Set(merged.map((job) => job.company).filter(Boolean));
+const finalJobs = merged.map(enrichProvenanceFields);
 const sourceStats = Object.fromEntries(sourceResults.map((r) => [r.name, r.stats]));
 const sourceHealth = buildSourceHealth(sourceStats, officialSources);
 const updatedAt = new Date().toISOString();
@@ -195,8 +197,8 @@ const meta = {
   note: '岗位名、届别/专业要求与岗位方向分层处理。来源本轮抓取报错、返回不完整快照或异常空结果时，不用该结果清空历史岗位；先保留该来源最近一次有效岗位快照，待来源恢复后再替换。已官网核验的具体岗位作为确定性记录进入岗位池，不依赖二手源每次都能重新抓到。硬淘汰：纯销售、实习、明确技术工程/实施岗位、明确必须理工科/技术专业、硬技术能力、必须专业资格证书、必须小语种。小语种仅为优先/加分项，或英语与小语种明确任选其一时保留。'
 };
 
-await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
+await fs.writeFile(livePath, asModule(finalJobs, meta), 'utf8');
 await fs.writeFile(sourceHealthPath, healthModule(sourceHealth, updatedAt), 'utf8');
 console.log(`[job-refresh] sourceHealth=${sourceHealth.healthy}/${sourceHealth.total} healthy; attention=${sourceHealth.attention}`);
 console.log(`[job-refresh] verifiedConcreteJobs=${verifiedConcreteJobs.length} granularityExcluded=${granularityExcluded} policyExcluded=${JSON.stringify(policyStats)}`);
-console.log(`[job-refresh] wrote ${merged.length} jobs across ${companies.size} companies; retainedSeeds=${retainedSeeds.length} retainedSourceJobs=${retainedHealthySnapshot.length}.`);
+console.log(`[job-refresh] wrote ${finalJobs.length} jobs across ${companies.size} companies; retainedSeeds=${retainedSeeds.length} retainedSourceJobs=${retainedHealthySnapshot.length}.`);

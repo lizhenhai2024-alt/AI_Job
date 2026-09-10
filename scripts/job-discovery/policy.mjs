@@ -14,7 +14,7 @@ export function isInternshipJob(job = {}) {
   const evidence = [job?.title, job?._recruitType, job?._subject]
     .filter(Boolean)
     .join(' ');
-  return /实习|\bIntern(?:ship)?\b/i.test(evidence);
+  return /实习|兼职|part[- ]?time|\bIntern(?:ship)?\b/i.test(evidence);
 }
 
 const NON_PURE_SALES_RX = /销售运营|销售支持|销售分析|销售策略|销售计划|销售管理|销售赋能|销售助理|销售行政|售前|商务运营|商业运营/i;

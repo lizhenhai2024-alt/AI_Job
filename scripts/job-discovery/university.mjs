@@ -8,6 +8,7 @@ const SKIP_LINK_RX = /登录|注册|联系我们|政策|手续|下载|新闻|通
 const NON_COMPANY_RX = /^(?:待核公司|就业办\d*|就业办|就业处|就业指导中心|就业创业中心|招生就业处|招生就业办|学生就业|学生工作处|人才服务中心|毕业生就业|关于做好|关于开展|关于组织|通知|公告|邀请函|感谢贵单位|尊敬的用人单位|各用人单位|各学院|各位同学|就业补贴|求职补贴|一次性求职补贴)$/i;
 const NON_COMPANY_START_RX = /^(?:就业办\d*|就业办|就业处|就业指导中心|就业创业中心|招生就业处|招生就业办|学生就业|学生工作处|人才服务中心|毕业生就业)(?:\b|\s|[:：]|\d|$)/i;
 const NON_COMPANY_CONTAINS_RX = /(?:就业创业工作|毕业生一次性求职补贴|求职补贴申报|校园招聘正式启动$|秋季学期校园招聘正式启动$|工商查询$)/i;
+const PLACEHOLDER_TITLE_RX = /^(?:招聘信息|招聘公告|招聘简章|校园招聘|宣讲会信息|招聘会信息|就业信息|招聘启事|招聘)$/i;
 const SCHOOL_ENTITY_RX = /(?:大学|学院|职业技术学校|职业学院|就业信息网|就业指导中心|就业创业中心)$/i;
 const NOTICE_TITLE_RX = /(?:关于做好|关于开展|关于组织|求职补贴|就业补贴|招聘活动邀请函|双选会邀请函|校园招聘正式启动$|秋季学期校园招聘正式启动$)/i;
 
@@ -105,6 +106,7 @@ function extractCompany(title = '', text = '', source = {}) {
 export function isPlausibleUniversityJob(job = {}, source = {}) {
   const company = String(job.company || '').trim();
   const title = String(job.title || '').trim();
+  if (PLACEHOLDER_TITLE_RX.test(title) || (PLACEHOLDER_TITLE_RX.test(company) && company === title)) return false;
   if (!isPlausibleUniversityCompany(company, source)) return false;
   if (!title || title.length < 4 || title.length > 180) return false;
   if (NOTICE_TITLE_RX.test(title) && !/(有限公司|股份|集团|银行|科技|汽车|电子|通信|家居|控股|公司)/.test(company)) return false;

@@ -2,6 +2,7 @@ import crypto from 'node:crypto';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES } from './core.mjs';
 
 const PURE_SALES_TITLE_RX = /销售管培生|销售代表|销售经理|渠道销售|区域销售|大客户销售|销售顾问|销售专员/i;
+const CARD_TAG_LINE_RX = /^(?:急|热|新|荐|推|置顶|热门|紧急|hot|new)$/i;
 
 function textOf(v = '') { return String(v || '').replace(/\s+/g, ' ').trim(); }
 function cityFrom(text = '') { return CITY_NAMES.find((c) => String(text).includes(c)) || '待核'; }
@@ -61,6 +62,11 @@ export function isMokaTitleAllowed(title = '') {
   return !/实习/i.test(value) && !PURE_SALES_TITLE_RX.test(value);
 }
 
+export function resolveMokaCardTitle(lines = []) {
+  const cleanLines = lines.map((line) => String(line || '').replace(/\s+/g, ' ').trim()).filter(Boolean);
+  return cleanLines.find((line) => !CARD_TAG_LINE_RX.test(line)) || cleanLines[0] || '';
+}
+
 export function parseMokaCard({ company, title, text = '', url, graduationYear = '2027', strictCohort = false, now = new Date() }) {
   const body = `${title}\n${text}`;
   const roleFamily = classifyRole(title);
@@ -95,9 +101,11 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
   const browser = await chromium.launch({ headless: true });
   const jobs = [];
   let scannedPortals = 0, discoveredUrls = 0, errors = 0, ssrJobs = 0, domJobs = 0, cohortRejected = 0, titleRejected = 0;
+  const perPortal = {};
   try {
     const page = await browser.newPage({ viewport: { width: 1365, height: 900 } });
     for (const source of sources) {
+      let portalDiscovered = 0, portalKept = 0, portalErrors = 0, portalCohort = 0, portalTitle = 0;
       try {
         await page.goto(mokaJobsUrl(source.url), { waitUntil: 'domcontentloaded', timeout: timeoutMs });
         await page.waitForTimeout(2500);
@@ -108,7 +116,14 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
         scannedPortals++;
 
         const html = await page.content();
-        const initCards = cardsFromInitData(parseMokaInitData(html), source);
+        const turboData = await page.evaluate(() => {
+          try {
+            const d = window.TurboApply && window.TurboApply.data;
+            if (!d || !Array.isArray(d.jobs)) return null;
+            return { jobs: d.jobs };
+          } catch { return null; }
+        });
+        const initCards = cardsFromInitData(turboData || parseMokaInitData(html), source);
         ssrJobs += initCards.length;
 
         const domCards = await page.evaluate(() => {
@@ -124,12 +139,13 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
         for (const card of [...initCards, ...domCards]) if (!cardMap.has(card.href)) cardMap.set(card.href, card);
         const cards = [...cardMap.values()];
         discoveredUrls += cards.length;
+        portalDiscovered += cards.length;
 
         for (const card of cards) {
           const lines = card.text.split(/\n+/).map(textOf).filter(Boolean);
-          const title = lines[0] || '';
+          const title = resolveMokaCardTitle(lines);
           if (!title) continue;
-          if (!isMokaTitleAllowed(title)) { titleRejected++; continue; }
+          if (!isMokaTitleAllowed(title)) { titleRejected++; portalTitle++; continue; }
           const job = parseMokaCard({
             company: source.company,
             title,
@@ -139,12 +155,13 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
             strictCohort: Boolean(source.strictCohort),
             now
           });
-          if (!job.graduationYear) { cohortRejected++; continue; }
-          if (shouldKeep(job, profile, now)) jobs.push(job);
+          if (!job.graduationYear) { cohortRejected++; portalCohort++; continue; }
+          if (shouldKeep(job, profile, now)) { jobs.push(job); portalKept++; }
         }
-      } catch { errors++; }
+      } catch { errors++; portalErrors++; }
+      perPortal[source.company] = { discoveredUrls: portalDiscovered, keptJobs: portalKept, errors: portalErrors, cohortRejected: portalCohort, titleRejected: portalTitle };
     }
   } finally { await browser.close(); }
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { portals: sources.length, scannedPortals, discoveredUrls, keptJobs: kept.length, errors, ssrJobs, domJobs, cohortRejected, titleRejected } };
+  return { jobs: kept, stats: { portals: sources.length, scannedPortals, discoveredUrls, keptJobs: kept.length, errors, ssrJobs, domJobs, cohortRejected, titleRejected, perPortal } };
 }

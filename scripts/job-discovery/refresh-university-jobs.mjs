@@ -6,6 +6,7 @@ import { searchUniversityJobs } from './university.mjs';
 import { dedupePreferOfficial } from './dedupe.mjs';
 import { relevanceScore, isClosed } from './core.mjs';
 import { shouldExcludeByPolicy, enrichCandidateFit } from './policy.mjs';
+import { enrichProvenanceFields } from '../../src/core/source-provenance.js';
 import { curateDiscoveredJobs } from './granularity.mjs';
 import { evaluateSourceHealth } from './source-health.mjs';
 
@@ -78,6 +79,7 @@ const merged = dedupePreferOfficial([...existingJobs, ...freshUniversityJobs])
   .map(cleanForStorage);
 
 const activeSources = (universityConfig.schools || []).filter((source) => source.enabled && source.listUrls?.length);
+const finalJobs = merged.map(enrichProvenanceFields);
 const updatedAt = new Date().toISOString();
 const sourceHealth = combineHealth(existingHealth, university.stats || {}, activeSources);
 const companies = new Set(merged.map((job) => job.company).filter(Boolean));
@@ -103,7 +105,7 @@ const meta = {
   note: `${existingMeta.note || ''} 高校渠道覆盖策略：985/211/双一流及外语外贸特色高校；高校就业网作为发现与交叉取证来源，正式投递前仍回公司官方校招官网复核。`.trim()
 };
 
-await fs.writeFile(livePath, asModule(merged, meta), 'utf8');
+await fs.writeFile(livePath, asModule(finalJobs, meta), 'utf8');
 await fs.writeFile(sourceHealthPath, healthModule(sourceHealth, updatedAt), 'utf8');
 console.log(`[university-refresh] activeSchools=${activeSources.length} listed=${university.stats?.listed || 0} rawKept=${university.stats?.keptJobs || 0} finalAdded=${freshUniversityJobs.length}`);
-console.log(`[university-refresh] mergedPool=${merged.length} companies=${companies.size} crossEvidence=${merged.filter((job) => (job.sourceEvidence || []).length > 1).length}`);
+console.log(`[university-refresh] mergedPool=${finalJobs.length} companies=${companies.size} crossEvidence=${finalJobs.filter((job) => (job.sourceEvidence || []).length > 1).length}`);
