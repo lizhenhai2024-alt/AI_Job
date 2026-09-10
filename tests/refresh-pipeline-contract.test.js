@@ -17,6 +17,15 @@ test('refresh pipeline keeps provider blocks outside the Ctrip callback and uses
   }
 });
 
+test('refresh pipeline normalizes inherited URL and graduation-year fields before adapters', async () => {
+  const source = await fs.readFile(new URL('../scripts/refresh-jobs.mjs', import.meta.url), 'utf8');
+
+  assert.match(source, /if \(!normalized\.url && normalized\.baseUrl\) normalized\.url = normalized\.baseUrl/);
+  assert.match(source, /if \(!normalized\.graduationYear && config\.graduationYear\) normalized\.graduationYear = config\.graduationYear/);
+  assert.match(source, /searchMokaJobs\(config, normalizedSources\('moka'\)/);
+  assert.match(source, /searchBeisenJobs\(config, normalizedSources\('beisen'\)\)/);
+});
+
 test('source health reports real provider names instead of array indexes', () => {
   const health = buildSourceHealth(
     {
