@@ -122,7 +122,7 @@ try { chromium = (await import('playwright')).chromium; } catch {}
 
 console.log(`[job-refresh] starting refresh with concurrency=${MAX_CONCURRENCY}`);
 
-// === 第一阶段：moka 单独运行（需要 Playwright，资源占用大）===
+// === 第一阶段：moka 和 bytedance 单独运行（需要 Playwright，资源占用大，避免并发冲突）===
 try {
   if (!chromium) throw new Error('Playwright Chromium unavailable');
   console.log('[job-refresh:moka] starting (Playwright, isolated)');
@@ -133,7 +133,25 @@ try {
   console.warn(`[job-refresh:moka] skipped: ${error.message}`);
 }
 
-// === 第二阶段：其他 6 个源并行运行（纯 HTTP 请求，无需 Playwright）===
+// bytedance 使用 Playwright 生成 _signature，必须单独串行运行
+if (sourceConfigured('bytedance') && officialSources.bytedance) {
+  try {
+    if (!chromium) throw new Error('Playwright Chromium unavailable');
+    console.log('[job-refresh:bytedance] starting (Playwright, isolated)');
+    const bytedance = await searchBytedanceJobs(config, officialSources.bytedance, {
+      maxJobs: officialSources.bytedance?.maxJobs,
+      pageSize: officialSources.bytedance?.pageSize,
+      maxPages: officialSources.bytedance?.maxPages
+    });
+    sourceResults.push({ name: 'bytedance', ...bytedance });
+    logSourceResult('bytedance', bytedance);
+  } catch (error) {
+    console.warn(`[job-refresh:bytedance] failed: ${error.message}`);
+  }
+}
+
+
+// === 第二阶段：其他源并行运行（纯 HTTP 请求，无需 Playwright）===
 const parallelTasks = [];
 
 if (sourceConfigured('nowcoder')) {
@@ -248,21 +266,6 @@ if (sourceConfigured('tencent') && officialSources.tencent) {
   });
 }
 
-if (sourceConfigured('bytedance') && officialSources.bytedance) {
-  parallelTasks.push({
-    name: 'bytedance',
-    fn: async () => {
-      console.log('[job-refresh:bytedance] starting');
-      const result = await searchBytedanceJobs(config, officialSources.bytedance, {
-        maxJobs: officialSources.bytedance?.maxJobs,
-        pageSize: officialSources.bytedance?.pageSize,
-        maxPages: officialSources.bytedance?.maxPages
-      });
-      logSourceResult('bytedance', result);
-      return result;
-    }
-  });
-}
 
 if (sourceConfigured('meituan') && officialSources.meituan) {
   parallelTasks.push({
