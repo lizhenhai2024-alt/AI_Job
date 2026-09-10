@@ -342,7 +342,7 @@ export const sourceHealth = {
       "company": "蔚来",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出896，正式2027候选463，筛选后133"
+      "reason": "官方飞书源正常：列出895，正式2027候选462，筛选后133"
     },
     {
       "provider": "feishu",
@@ -384,7 +384,7 @@ export const sourceHealth = {
       "company": "Decathlon",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出337，源内保留79"
+      "reason": "HotJob源正常：列出372，源内保留114"
     },
     {
       "provider": "hotjob",
@@ -398,7 +398,7 @@ export const sourceHealth = {
       "company": "创维集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出136，源内保留31"
+      "reason": "HotJob源正常：列出126，源内保留31"
     },
     {
       "provider": "anker",
@@ -417,9 +417,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "广东外语外贸大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量25，源内保留4"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
@@ -438,9 +438,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "上海外国语大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量5，源内保留0"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
@@ -459,26 +459,26 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "南开大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量31，源内保留7"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
       "company": "湖南大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量20，源内保留6"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     }
   ],
   "counts": {
-    "healthy": 63,
+    "healthy": 59,
     "empty": 2,
-    "unknown": 1,
-    "error": 1
+    "error": 5,
+    "unknown": 1
   },
   "total": 67,
-  "healthy": 63,
-  "attention": 4,
-  "updatedAt": "2026-09-10T03:48:34.601Z"
+  "healthy": 59,
+  "attention": 8,
+  "updatedAt": "2026-09-10T04:47:31.851Z"
 };

@@ -48,7 +48,7 @@ export const liveJobs = [
     "deadline": "2027-09-09",
     "description": "湖南大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
     "candidateFit": {
       "warnings": [
         "工作职责偏技术"
@@ -167,7 +167,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -207,6 +207,123 @@ export const liveJobs = [
           "label": "职责动词",
           "verdict": "偏技术",
           "detail": "技术评估"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannelLabel": "高校就业信息网官方简章",
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "university-84b349daac6f3c",
+    "company": "上海德邦物流有限公司",
+    "title": "宣讲单位：上海德邦物流有限公司 工商查询",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析"
+    ],
+    "languages": [],
+    "experienceKeywords": [],
+    "preferenceTags": [
+      "专业不限"
+    ],
+    "riskTags": [],
+    "source": "湖南大学就业信息网",
+    "sourceType": "secondary",
+    "sourceChannel": "university",
+    "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=694545",
+    "verification": "高校就业信息网官方发布 · 待公司官网复核",
+    "sourceEvidence": [
+      {
+        "label": "湖南大学就业信息网",
+        "url": "https://scc.hnu.edu.cn/detail/career?id=694545"
+      },
+      {
+        "label": "高校就业信息网官方发布 · 待公司官网复核",
+        "url": ""
+      },
+      {
+        "label": "湖南大学招聘列表",
+        "url": "https://scc.hnu.edu.cn/"
+      }
+    ],
+    "universitySource": {
+      "school": "湖南大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 103
+    },
+    "publishedAt": "2026-09-11",
+    "deadline": "2027-09-08",
+    "description": "湖南大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [
+        "专业不限"
+      ],
+      "penalty": 0,
+      "bonus": 2,
+      "major": {
+        "verdict": "友好",
+        "label": "专业不限",
+        "evidence": [
+          "1、2026年9月1日至2027年9月1日之间毕业的海内外本科毕业生，专业不限",
+          "招聘专业：不限专业"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2027-09-08"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "友好",
+          "detail": "专业不限"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
         },
         {
           "step": 3,
@@ -287,7 +404,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -392,7 +509,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -508,7 +625,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：英语、Excel、数据分析、PPT、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -640,7 +757,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、市场分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -756,7 +873,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：人力资源。识别关键词：英语、数据分析、内容运营、跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -839,231 +956,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "university-9b992e3111f685",
-    "company": "中国航发动力股份有限公司",
-    "title": "宣讲单位：中国航发动力股份有限公司 工商查询",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "西安",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "湖南大学就业信息网",
-    "sourceType": "secondary",
-    "sourceChannel": "university",
-    "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=714050",
-    "verification": "高校就业信息网官方发布 · 待公司官网复核",
-    "sourceEvidence": [
-      {
-        "label": "湖南大学就业信息网",
-        "url": "https://scc.hnu.edu.cn/detail/career?id=714050"
-      },
-      {
-        "label": "高校就业信息网官方发布 · 待公司官网复核",
-        "url": ""
-      },
-      {
-        "label": "湖南大学招聘列表",
-        "url": "https://scc.hnu.edu.cn/"
-      }
-    ],
-    "universitySource": {
-      "school": "湖南大学",
-      "segments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "priority": 103
-    },
-    "publishedAt": "2026-09-11",
-    "deadline": "2026-10-31",
-    "description": "湖南大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2026-10-31"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannelLabel": "高校就业信息网官方简章",
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "university-297583f73969dc",
-    "company": "管培生（运营方向）-珠海/武汉-珠海金山办公软件有限公司",
-    "title": "管培生（运营方向）-珠海/武汉-珠海金山办公软件有限公司",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [],
-    "preferenceTags": [
-      "专业不限"
-    ],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "南开大学就业信息网",
-    "sourceType": "secondary",
-    "sourceChannel": "university",
-    "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118454.html",
-    "verification": "高校就业信息网官方发布 · 待公司官网复核",
-    "sourceEvidence": [
-      {
-        "label": "南开大学就业信息网",
-        "url": "https://career.nankai.edu.cn/correcruit/content/id/118454.html"
-      },
-      {
-        "label": "高校就业信息网官方发布 · 待公司官网复核",
-        "url": ""
-      },
-      {
-        "label": "南开大学招聘列表",
-        "url": "https://career.nankai.edu.cn/correcruit/index.html"
-      }
-    ],
-    "universitySource": {
-      "school": "南开大学",
-      "segments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "priority": 105
-    },
-    "publishedAt": "2026-09-10",
-    "deadline": "",
-    "description": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "1、2027届毕业生，专业不限，理工科背景优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannelLabel": "高校就业信息网官方简章",
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "university-4e080ee4d8a7b2",
     "company": "“梦想靠岸”招商银行北京分行2027秋季",
     "title": "“梦想靠岸”招商银行北京分行2027秋季校园招聘公告",
@@ -1114,7 +1006,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -1317,7 +1209,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -1425,7 +1317,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -1536,7 +1428,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -1663,7 +1555,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：英语、Excel、SQL、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -1788,7 +1680,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析、内容运营、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -1910,7 +1802,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：Excel、PPT、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -2029,7 +1921,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：英语、数据分析、内容运营、跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -2156,7 +2048,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、市场分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -2275,7 +2167,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析、项目管理、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -2403,7 +2295,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、SQL、项目管理、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -2527,7 +2419,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、SQL、项目管理、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -2645,7 +2537,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -2757,7 +2649,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -2873,7 +2765,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：人力资源。识别关键词：英语、数据分析、内容运营、跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -2957,120 +2849,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "university-768541f91a9b7b",
-    "company": "管培生（产品方向）-珠海-珠海金山办公软件有限公司",
-    "title": "管培生（产品方向）-珠海-珠海金山办公软件有限公司",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快",
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "南开大学就业信息网",
-    "sourceType": "secondary",
-    "sourceChannel": "university",
-    "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118453.html",
-    "verification": "高校就业信息网官方发布 · 待公司官网复核",
-    "sourceEvidence": [
-      {
-        "label": "南开大学就业信息网",
-        "url": "https://career.nankai.edu.cn/correcruit/content/id/118453.html"
-      },
-      {
-        "label": "高校就业信息网官方发布 · 待公司官网复核",
-        "url": ""
-      },
-      {
-        "label": "南开大学招聘列表",
-        "url": "https://career.nankai.edu.cn/correcruit/index.html"
-      }
-    ],
-    "universitySource": {
-      "school": "南开大学",
-      "segments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "priority": 105
-    },
-    "publishedAt": "2026-09-10",
-    "deadline": "",
-    "description": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、2027届毕业生，计算机相关专业、理工科背景优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannelLabel": "高校就业信息网官方简章",
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "moka-995ea46435ce",
     "company": "SHEIN",
     "title": "国际物流运营专员（广州）-2027届",
@@ -3097,7 +2875,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -3213,7 +2991,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3336,7 +3114,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -3457,7 +3235,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：英语、数据分析、项目管理、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -3583,7 +3361,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：英语、数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -3703,7 +3481,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、PPT、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -3824,7 +3602,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -3943,7 +3721,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：产品岗位。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -4062,7 +3840,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -4181,7 +3959,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -4301,7 +4079,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -4420,7 +4198,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -4546,7 +4324,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -4768,7 +4546,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [
         "工作职责偏技术"
@@ -4850,103 +4628,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "moka-42eb27a4fe2e",
-    "company": "SHEIN",
-    "title": "供应链管理管培生（肇庆）-仓储经营分析-2027届",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "待核",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "供应链"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "公司官方Moka校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/666748db-4a22-47b7-a606-547ff7427ea3",
-    "verification": "官方招聘官网 · JD/标题明确2027届",
-    "publishedAt": "",
-    "deadline": "",
-    "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方Moka校招官网",
-        "url": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/666748db-4a22-47b7-a606-547ff7427ea3"
-      },
-      {
-        "label": "官方招聘官网 · JD/标题明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "ecoflow-7678717154627553555",
     "company": "正浩创新EcoFlow",
     "title": "SEO运营",
@@ -4981,7 +4662,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、数据分析、SEO。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:26.539Z",
+    "discoveredAt": "2026-09-10T04:45:56.962Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -5094,7 +4775,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5205,7 +4886,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：项目管理。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5320,7 +5001,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、内容运营。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -5439,7 +5120,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5552,7 +5233,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -5665,7 +5346,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：Excel、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -5778,7 +5459,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：Excel、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -5900,7 +5581,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、Excel、数据分析、SEO、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6022,7 +5703,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析、SQL、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -6145,7 +5826,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6264,7 +5945,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -6380,7 +6061,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -6500,7 +6181,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -6617,7 +6298,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：数据分析、项目管理、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6729,7 +6410,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：销售类。识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6841,7 +6522,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、数据分析、内容运营、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -6952,7 +6633,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -7062,7 +6743,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -7171,7 +6852,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、市场分析、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -7288,7 +6969,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、SQL、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -7397,7 +7078,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -7507,7 +7188,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -7620,7 +7301,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、SQL、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -7728,7 +7409,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -7836,7 +7517,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：品牌。识别关键词：数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -7950,7 +7631,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：产品 / 策划 / 项目。识别关键词：数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -8028,119 +7709,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "university-2f63dcaf3dedb4",
-    "company": "管培生（政企营销方向）-北京-珠海金山办公软件有限公司",
-    "title": "管培生（政企营销方向）-北京-珠海金山办公软件有限公司",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [],
-    "preferenceTags": [
-      "专业不限"
-    ],
-    "riskTags": [],
-    "source": "南开大学就业信息网",
-    "sourceType": "secondary",
-    "sourceChannel": "university",
-    "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118455.html",
-    "verification": "高校就业信息网官方发布 · 待公司官网复核",
-    "sourceEvidence": [
-      {
-        "label": "南开大学就业信息网",
-        "url": "https://career.nankai.edu.cn/correcruit/content/id/118455.html"
-      },
-      {
-        "label": "高校就业信息网官方发布 · 待公司官网复核",
-        "url": ""
-      },
-      {
-        "label": "南开大学招聘列表",
-        "url": "https://career.nankai.edu.cn/correcruit/index.html"
-      }
-    ],
-    "universitySource": {
-      "school": "南开大学",
-      "segments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "priority": 105
-    },
-    "publishedAt": "2026-09-10",
-    "deadline": "",
-    "description": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "1、2027届毕业生 ，专业不限，有计算机相关或营销类相关专业者优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannelLabel": "高校就业信息网官方简章",
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "hotjob-b54fddc65560",
     "company": "创维集团",
     "title": "海外电商管培生",
@@ -8189,7 +7757,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -8301,7 +7869,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:26.539Z",
+    "discoveredAt": "2026-09-10T04:45:56.962Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -8425,7 +7993,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -8537,7 +8105,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：产品经理。识别关键词：英语、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -8651,7 +8219,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -8768,7 +8336,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -8891,7 +8459,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、Excel、市场分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9015,7 +8583,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：内容运营、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9132,7 +8700,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：Excel、数据分析、文案、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9246,7 +8814,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：产品经理。识别关键词：项目管理、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -9353,7 +8921,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：产品经理。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -9464,7 +9032,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：用户服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -9586,7 +9154,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9715,7 +9283,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9840,7 +9408,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -9964,7 +9532,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10088,7 +9656,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10213,7 +9781,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10337,7 +9905,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10462,7 +10030,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10586,7 +10154,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10711,7 +10279,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10835,7 +10403,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -10960,7 +10528,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -11084,7 +10652,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -11201,7 +10769,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -11312,7 +10880,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -11432,7 +11000,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、PowerBI。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -11548,7 +11116,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、PPT、SQL、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -11675,7 +11243,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、PowerBI。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -11787,7 +11355,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -11907,7 +11475,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -12020,7 +11588,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、项目管理、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -12135,7 +11703,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、内容运营、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -12248,7 +11816,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -12365,7 +11933,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：内容运营、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -12478,7 +12046,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -12591,7 +12159,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -12702,7 +12270,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -12813,7 +12381,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：品牌。识别关键词：内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -12925,7 +12493,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -13033,7 +12601,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -13148,7 +12716,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13264,7 +12832,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13384,7 +12952,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10W-14W 元/年",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13499,7 +13067,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -13622,7 +13190,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、内容运营、市场分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "15K-22K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13732,7 +13300,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：供应链类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -13851,7 +13419,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、市场分析、跨部门沟通、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -13963,7 +13531,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -14069,7 +13637,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -14186,7 +13754,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：英语、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -14297,7 +13865,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：内容运营、文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -14416,7 +13984,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -14535,7 +14103,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -14659,7 +14227,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、内容运营、PPT、SEO。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -14776,7 +14344,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：供应链类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -14883,7 +14451,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15007,7 +14575,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-12K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -15131,7 +14699,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -15251,7 +14819,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优",
@@ -15362,7 +14930,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：内容运营、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15465,7 +15033,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15579,7 +15147,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -15692,7 +15260,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -15798,7 +15366,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：产品类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -15918,7 +15486,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、SQL、PowerBI。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -16036,7 +15604,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：交付类。识别关键词：英语、Excel、数据分析、SQL、PowerBI。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -16149,7 +15717,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -16258,7 +15826,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16374,7 +15942,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：商品研究中心。识别关键词：Excel、数据分析、SQL、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -16491,7 +16059,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：商品研究中心。识别关键词：Excel、数据分析、SQL、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -16603,7 +16171,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16711,7 +16279,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、项目管理、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16822,7 +16390,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -16931,7 +16499,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -17050,7 +16618,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -17172,7 +16740,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -17287,7 +16855,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -17399,7 +16967,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -17511,7 +17079,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -17621,7 +17189,7 @@ export const liveJobs = [
     "description": "自动发现的 产品运营 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -17740,7 +17308,7 @@ export const liveJobs = [
     "description": "自动发现的 产品运营 类岗位；识别关键词：Excel、数据分析、PPT、跨部门沟通、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -17855,7 +17423,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：英语、Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -17976,7 +17544,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -18091,7 +17659,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18215,7 +17783,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、市场分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -18339,7 +17907,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -18455,7 +18023,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18565,7 +18133,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18680,7 +18248,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18795,7 +18363,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -18910,7 +18478,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -19034,7 +18602,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、SEO。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "12K-18K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -19159,7 +18727,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -19278,7 +18846,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：用户服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -19389,7 +18957,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -19500,7 +19068,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -19622,7 +19190,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -19737,7 +19305,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -19850,7 +19418,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：人力资源。识别关键词：跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -19970,7 +19538,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -20083,7 +19651,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -20197,7 +19765,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -20308,7 +19876,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：软件研发类。识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -20428,7 +19996,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -20540,7 +20108,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -20652,7 +20220,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、文案、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -20769,7 +20337,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：英语、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -20878,7 +20446,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：外语外派类。识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -20987,7 +20555,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -21094,7 +20662,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：供应链类。识别关键词：Excel、数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -21214,7 +20782,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、PPT、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -21330,7 +20898,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -21444,7 +21012,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -21555,7 +21123,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -21668,7 +21236,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -21780,7 +21348,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -21893,7 +21461,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -22006,7 +21574,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -22117,7 +21685,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -22225,7 +21793,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -22332,7 +21900,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -22452,7 +22020,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、内容运营、SQL。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -22563,7 +22131,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：产品类。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -22680,7 +22248,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、跨部门沟通、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -22805,7 +22373,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -22924,7 +22492,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：产品岗位。识别关键词：英语、内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -23037,7 +22605,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -23146,7 +22714,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -23256,7 +22824,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -23364,7 +22932,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -23484,7 +23052,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -23612,7 +23180,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -23734,7 +23302,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "6K-8K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -23846,7 +23414,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8k-10k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -23920,11 +23488,11 @@ export const liveJobs = [
     "annualSalary": "9.6万–12万/年（按12薪推算）"
   },
   {
-    "id": "nowcoder-1224c7d7f6c5",
+    "id": "nowcoder-3dc1a2a850e7",
     "company": "惠州市德赛西威汽车电子股份有限公司",
-    "title": "供应链方向管培生（北极星计划）",
+    "title": "人力资源方向管培生（北极星计划）",
     "roleFamily": [
-      "其他"
+      "HR"
     ],
     "city": "惠州",
     "graduationYear": "2027",
@@ -23936,41 +23504,36 @@ export const liveJobs = [
     ],
     "experienceKeywords": [
       "运营",
-      "项目",
-      "数据",
-      "供应链"
+      "项目"
     ],
     "preferenceTags": [
-      "国际业务",
-      "出海",
-      "文科/社科专业范围兼容"
+      "国际业务"
     ],
     "riskTags": [
-      "节奏快"
+      "适配风险：商科/市场知识底子更占优"
     ],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466151?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466149?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-10",
     "deadline": "2029-09-08",
-    "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "description": "自动发现的 HR 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容"
+      "warnings": [
+        "商科/市场知识底子更占优"
       ],
-      "penalty": 0,
+      "strengths": [],
+      "penalty": 12,
       "bonus": 0,
       "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
+        "verdict": "降权",
+        "label": "商科/市场专业主导",
         "evidence": [
-          "1、2027届硕士学历，双一流及重点院校优先，供应链管理、物流工程、工业工程、理工科相关专业，学业成绩扎实、绩点良好，获得校级及以上奖学金、学业表彰者优先",
-          "3、英语读写流利、口语顺畅，可适配跨境供应链业务对接与专业资料研读"
+          "1、2027届硕士学历，双一流及重点院校优先，人力资源管理、工商管理、心理学、汉语言、经管类等相关专业，学业成绩良好、综合素质优秀，获得校级及以上荣誉、奖学金者优先"
         ]
       },
       "responsibility": {
@@ -23987,8 +23550,8 @@ export const liveJobs = [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
+          "verdict": "降权",
+          "detail": "商科/市场专业主导"
         },
         {
           "step": 2,
@@ -24009,7 +23572,7 @@ export const liveJobs = [
     "sourceEvidence": [
       {
         "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/466151?urlSource=sitemap"
+        "url": "https://www.nowcoder.com/jobs/detail/466149?urlSource=sitemap"
       },
       {
         "label": "二手来源，待官网核验",
@@ -24036,26 +23599,31 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-5afaea9ee775",
-    "company": "惠州市德赛西威汽车电子股份有限公司",
-    "title": "产品项目方向管培生（北极星计划）",
+    "id": "nowcoder-4c09351ebf4a",
+    "company": "奥克斯",
+    "title": "【2027秋】空调-海外市场营销(家用空调方向)(J16390)",
     "roleFamily": [
-      "其他"
+      "市场"
     ],
-    "city": "惠州",
+    "city": "深圳",
     "graduationYear": "2027",
     "skills": [
       "英语",
-      "项目管理"
+      "跨部门沟通"
     ],
     "languages": [
       "英语"
     ],
     "experienceKeywords": [
-      "项目"
+      "海外",
+      "市场",
+      "营销",
+      "客户"
     ],
     "preferenceTags": [
-      "国际业务"
+      "国际业务",
+      "跨文化",
+      "出海"
     ],
     "riskTags": [
       "节奏快",
@@ -24063,37 +23631,43 @@ export const liveJobs = [
     ],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466152?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465512?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-10",
-    "deadline": "2029-09-08",
-    "description": "自动发现的 其他 类岗位；识别关键词：英语、项目管理。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "deadline": "2029-09-06",
+    "description": "自动发现的 市场 类岗位；识别关键词：英语、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
       ],
-      "strengths": [],
+      "strengths": [
+        "职责：跨文化沟通",
+        "职责：资料/流程"
+      ],
       "penalty": 12,
-      "bonus": 0,
+      "bonus": 4,
       "major": {
         "verdict": "降权",
         "label": "理工/计算机专业主导",
         "evidence": [
-          "1、2027届硕士学历，双一流及重点院校优先，理工科类相关专业，学业成绩优异、绩点靠前，拥有校级及以上奖学金、科研竞赛获奖者优先，对汽车智能座舱、智能驾驶、车载电子等领域具备浓厚兴趣"
+          "1、本科及以上，国贸/暖通等工科相关专业，小语种优先(葡/日/韩/西/俄/法)"
         ]
       },
       "responsibility": {
-        "verdict": "待核",
+        "verdict": "语言/商务主导",
         "technical": [],
-        "business": []
+        "business": [
+          "跨文化沟通",
+          "资料/流程"
+        ]
       },
       "hardRequirements": [],
       "eligibilityEvidence": [
         "招聘对象：2027届",
-        "投递截止：2029-09-08"
+        "投递截止：2029-09-06"
       ],
       "decisionSteps": [
         {
@@ -24105,8 +23679,8 @@ export const liveJobs = [
         {
           "step": 2,
           "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
+          "verdict": "语言/商务主导",
+          "detail": "跨文化沟通、资料/流程"
         },
         {
           "step": 3,
@@ -24121,7 +23695,7 @@ export const liveJobs = [
     "sourceEvidence": [
       {
         "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/466152?urlSource=sitemap"
+        "url": "https://www.nowcoder.com/jobs/detail/465512?urlSource=sitemap"
       },
       {
         "label": "二手来源，待官网核验",
@@ -24185,7 +23759,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -24297,7 +23871,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -24404,7 +23978,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -24513,7 +24087,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10W-14W 元/年",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -24627,7 +24201,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -24749,7 +24323,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -24868,7 +24442,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：营销服。识别关键词：英语、Excel、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:26.539Z",
+    "discoveredAt": "2026-09-10T04:45:56.962Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -24979,7 +24553,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -25092,7 +24666,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -25200,7 +24774,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -25308,7 +24882,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "11k-13k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -25409,7 +24983,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "7K-9K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -25521,7 +25095,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -25640,7 +25214,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、内容运营、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -25766,7 +25340,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：内容运营、SQL、文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -25887,7 +25461,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -26000,7 +25574,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26115,7 +25689,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26230,7 +25804,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26352,7 +25926,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -26469,7 +26043,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -26581,7 +26155,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -26693,7 +26267,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -26803,7 +26377,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：市场与传播。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -26911,7 +26485,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -27014,7 +26588,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：人力资源。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -27131,7 +26705,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -27250,7 +26824,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：内容运营、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -27368,7 +26942,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：产品类。识别关键词：Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -27494,7 +27068,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、Excel、数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -27615,7 +27189,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -27735,7 +27309,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、文案、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -27852,7 +27426,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、文案、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -27967,7 +27541,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：商务类。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28074,7 +27648,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28185,7 +27759,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：职能类。识别关键词：Excel。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28290,7 +27864,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28397,7 +27971,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28503,7 +28077,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：商品研究中心。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28607,7 +28181,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28715,7 +28289,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28818,7 +28392,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：商品研究中心。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -28923,7 +28497,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -29028,7 +28602,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：供应链类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -29146,7 +28720,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -29263,7 +28837,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -29370,7 +28944,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -29473,7 +29047,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -29589,7 +29163,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：产品岗位。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -29709,7 +29283,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -29820,7 +29394,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -29930,7 +29504,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -30040,7 +29614,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -30147,7 +29721,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -30253,7 +29827,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -30358,7 +29932,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -30471,7 +30045,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -30575,7 +30149,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -30692,7 +30266,7 @@ export const liveJobs = [
     "description": "影石Insta360官方校园招聘岗位；识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:27.085Z",
+    "discoveredAt": "2026-09-10T04:43:54.952Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -30810,7 +30384,7 @@ export const liveJobs = [
     "description": "影石Insta360官方校园招聘岗位；识别关键词：文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:27.085Z",
+    "discoveredAt": "2026-09-10T04:43:54.952Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -30929,7 +30503,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：品牌。识别关键词：数据分析、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -31046,7 +30620,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：职能 / 支持。识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -31166,7 +30740,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -31287,7 +30861,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：内容运营。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -31398,7 +30972,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：测试。识别关键词：跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -31482,59 +31056,178 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "university-7a347d78915886",
-    "company": "办公地址",
-    "title": "办公地址",
+    "id": "nowcoder-9c0847133d77",
+    "company": "信也科技",
+    "title": "2027届校招-商务管培生（派驻非洲）",
     "roleFamily": [
-      "HR"
+      "其他"
     ],
     "city": "深圳",
     "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "广东外语外贸大学就业信息网",
-    "sourceType": "secondary",
-    "sourceChannel": "university",
-    "sourceUrl": "https://career.gdufs.edu.cn/web/Index/preach-list",
-    "verification": "高校就业信息网官方发布 · 待公司官网复核",
-    "sourceEvidence": [
-      {
-        "label": "广东外语外贸大学就业信息网",
-        "url": "https://career.gdufs.edu.cn/web/Index/preach-list"
-      },
-      {
-        "label": "高校就业信息网官方发布 · 待公司官网复核",
-        "url": ""
-      },
-      {
-        "label": "广东外语外贸大学招聘列表",
-        "url": "https://career.gdufs.edu.cn/web/Index/index"
-      }
+    "skills": [
+      "英语",
+      "数据分析",
+      "电商"
     ],
-    "universitySource": {
-      "school": "广东外语外贸大学",
-      "segments": [
-        "外语外贸特色高校"
-      ],
-      "priority": 120
-    },
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "项目",
+      "市场",
+      "电商",
+      "用户",
+      "数据",
+      "营销"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "跨文化",
+      "出海",
+      "文科/社科专业范围兼容"
+    ],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465377?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-10",
-    "deadline": "",
-    "description": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+    "deadline": "2026-12-31",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
-      "strengths": [],
+      "strengths": [
+        "文科/社科专业范围兼容",
+        "职责：国际业务"
+      ],
       "penalty": 0,
       "bonus": 0,
       "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
+        "verdict": "兼容",
+        "label": "文科/社科专业范围兼容",
+        "evidence": [
+          "1、学历背景：本科及以上学历，市场营销、国际贸易、金融经济、商务管理、英语及小语种相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "国际业务"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-31"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "兼容",
+          "detail": "文科/社科专业范围兼容"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "国际业务"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "referral",
+    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
+    "sourceEvidence": [
+      {
+        "label": "牛客公开职位",
+        "url": "https://www.nowcoder.com/jobs/detail/465377?urlSource=sitemap"
+      },
+      {
+        "label": "二手来源，待官网核验",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "nowcoder-832de0087bf9",
+    "company": "九方云",
+    "title": "新媒体运营(A55698)",
+    "roleFamily": [
+      "内容运营"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [
+      "数据分析",
+      "PPT"
+    ],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "内容",
+      "数据"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：商科/市场知识底子更占优"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466481?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-10",
+    "deadline": "2026-12-31",
+    "description": "自动发现的 内容运营 类岗位；识别关键词：数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
+    "candidateFit": {
+      "warnings": [
+        "商科/市场知识底子更占优"
+      ],
+      "strengths": [],
+      "penalty": 12,
+      "bonus": 0,
+      "major": {
+        "verdict": "降权",
+        "label": "商科/市场专业主导",
+        "evidence": [
+          "1.2027届本科及以上学历，财经类、新闻传播类或广告学等专业优先"
+        ]
       },
       "responsibility": {
         "verdict": "待核",
@@ -31543,14 +31236,15 @@ export const liveJobs = [
       },
       "hardRequirements": [],
       "eligibilityEvidence": [
-        "招聘对象：2027届"
+        "招聘对象：2027届",
+        "投递截止：2026-12-31"
       ],
       "decisionSteps": [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
+          "verdict": "降权",
+          "detail": "商科/市场专业主导"
         },
         {
           "step": 2,
@@ -31566,7 +31260,18 @@ export const liveJobs = [
         }
       ]
     },
-    "sourceChannelLabel": "高校就业信息网官方简章",
+    "sourceChannel": "referral",
+    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
+    "sourceEvidence": [
+      {
+        "label": "牛客公开职位",
+        "url": "https://www.nowcoder.com/jobs/detail/466481?urlSource=sitemap"
+      },
+      {
+        "label": "二手来源，待官网核验",
+        "url": ""
+      }
+    ],
     "compensation": {
       "disclosed": false,
       "raw": "",
@@ -31624,7 +31329,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -31738,7 +31443,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -31846,7 +31551,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：金融。识别关键词：Excel、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -31960,7 +31665,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：数据分析。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -32039,111 +31744,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-af0a71-7683054353284040979",
-    "company": "致欧家居",
-    "title": "产品经理管培生（27届校招）",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "内容",
-      "项目",
-      "市场",
-      "洞察"
-    ],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "致欧家居官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://songmicshome.jobs.feishu.cn/852372/m/position/7683054353284040979/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-09-08",
-    "deadline": "",
-    "description": "致欧家居官方校园招聘岗位；职类：产品 / 策划 / 项目。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "职责：跨文化沟通"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "跨文化沟通"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "跨文化沟通"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "致欧家居官方飞书招聘",
-        "url": "https://songmicshome.jobs.feishu.cn/852372/m/position/7683054353284040979/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-ad86729ba437",
     "company": "三一集团",
     "title": "国际人力资源专员",
@@ -32181,7 +31781,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -32263,119 +31863,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-375dc4e100ea",
-    "company": "国贸股份",
-    "title": "贸易运营岗(J13647)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "运营",
-      "数据"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://itg.zhiye.com/gmkgxzxq?jobId=311179886&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus",
-    "verification": "官方招聘官网 · 已核验2027届秋季全球校园招聘",
-    "publishedAt": "2026-09-01",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "14-16 万元/年",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：物流执行"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1.本科及以上学历，国际贸易等经管类相关专业优先",
-          "1.本科及以上学历，国际贸易等经管类相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "物流执行"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "物流执行"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://itg.zhiye.com/gmkgxzxq?jobId=311179886&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus"
-      },
-      {
-        "label": "官方招聘官网 · 已核验2027届秋季全球校园招聘",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "14-16 万元/年",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "14-16 万元/年"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-8a23f204faf3",
     "company": "三一集团",
     "title": "海外销服管培生——黄埔计划",
@@ -32416,7 +31903,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -32533,7 +32020,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "10k-15k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -32642,7 +32129,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -32755,7 +32242,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -32867,7 +32354,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -32946,127 +32433,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-96da49-7677517227885857078",
-    "company": "得物App",
-    "title": "【27届校招】出海体验策略运营-得物国际",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [
-      "SQL",
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "海外",
-      "运营",
-      "项目",
-      "电商",
-      "用户",
-      "数据",
-      "招聘",
-      "商务"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "出海"
-    ],
-    "riskTags": [
-      "适配风险：技术专业背景更占优"
-    ],
-    "source": "得物App官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://poizon.jobs.feishu.cn/578078/m/position/7677517227885857078/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-24",
-    "deadline": "",
-    "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：SQL、电商。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [
-        "技术专业背景更占优"
-      ],
-      "strengths": [
-        "职责：国际业务"
-      ],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "理工/计算机专业主导",
-        "evidence": [
-          "1、2027届应届生，本科及以上学历，统计学、计算机、应用数学、电子商务、理工科等相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "理工/计算机专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "得物App官方飞书招聘",
-        "url": "https://poizon.jobs.feishu.cn/578078/m/position/7677517227885857078/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-49f725-7676297902574569769",
     "company": "蔚来",
     "title": "校招正式-乐道顾问（25/26可投）-北京",
@@ -33099,7 +32465,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -33206,7 +32572,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -33313,7 +32679,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -33421,7 +32787,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "17K-25K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -33533,7 +32899,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：服务类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -33646,7 +33012,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -33760,7 +33126,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -33872,7 +33238,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -33984,7 +33350,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -34096,7 +33462,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -34204,7 +33570,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34311,7 +33677,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：法务。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34431,7 +33797,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -34542,7 +33908,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -34658,7 +34024,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -34767,7 +34133,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -34883,7 +34249,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -34998,7 +34364,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术背景优先"
@@ -35115,7 +34481,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -35231,7 +34597,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -35341,7 +34707,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35453,7 +34819,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：Excel、PPT。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35561,7 +34927,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35669,7 +35035,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -35777,7 +35143,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -35900,7 +35266,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36015,7 +35381,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：发行岗位。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -36125,7 +35491,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -36233,7 +35599,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -36349,7 +35715,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -36462,7 +35828,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -36575,7 +35941,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -36678,7 +36044,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -36781,7 +36147,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -36885,7 +36251,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -36992,7 +36358,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -37103,7 +36469,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：数据分析、电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -37218,7 +36584,7 @@ export const liveJobs = [
     "description": "自动发现的 内容运营 类岗位；识别关键词：数据分析、内容运营。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -37296,116 +36662,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-8bd44692469f",
-    "company": "公牛集团股份有限公司",
-    "title": "2027届校招-营销岗-电商运营岗(J23844)",
-    "roleFamily": [
-      "电商运营"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "电商"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "电商",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "专业不限"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465087?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2029-09-03",
-    "description": "自动发现的 电商运营 类岗位；识别关键词：电商。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "专业不限"
-      ],
-      "penalty": 0,
-      "bonus": 2,
-      "major": {
-        "verdict": "友好",
-        "label": "专业不限",
-        "evidence": [
-          "2、专业不限"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2029-09-03"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "友好",
-          "detail": "专业不限"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465087?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "nowcoder-9d6913a7e5a4",
     "company": "点点互动",
     "title": "全球市场增长专员（休闲）-北京-E(J13844)",
@@ -37437,7 +36693,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -37542,7 +36798,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -37647,7 +36903,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、PPT。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -37721,111 +36977,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "university-c5e7d7588a58ba",
-    "company": "为全面落实党中央、国务院对毕业生就业工作的决策部署，推动人才供需精准对接，...",
-    "title": "办公地址",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "广州",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [],
-    "preferenceTags": [],
-    "riskTags": [],
-    "source": "广东外语外贸大学就业信息网",
-    "sourceType": "secondary",
-    "sourceChannel": "university",
-    "sourceUrl": "https://career.gdufs.edu.cn/web/Index/notice-detail?id=2156",
-    "verification": "高校就业信息网官方发布 · 待公司官网复核",
-    "sourceEvidence": [
-      {
-        "label": "广东外语外贸大学就业信息网",
-        "url": "https://career.gdufs.edu.cn/web/Index/notice-detail?id=2156"
-      },
-      {
-        "label": "高校就业信息网官方发布 · 待公司官网复核",
-        "url": ""
-      },
-      {
-        "label": "广东外语外贸大学招聘列表",
-        "url": "https://career.gdufs.edu.cn/web/Index/index"
-      }
-    ],
-    "universitySource": {
-      "school": "广东外语外贸大学",
-      "segments": [
-        "外语外贸特色高校"
-      ],
-      "priority": 120
-    },
-    "publishedAt": "2026-09-10",
-    "deadline": "",
-    "description": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannelLabel": "高校就业信息网官方简章",
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "university-63933d6036651f",
     "company": "深圳菲亚兰德科技集团股份有限公司",
     "title": "菲亚兰德集团2027届校园招聘",
@@ -37869,7 +37020,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -37968,7 +37119,7 @@ export const liveJobs = [
     "description": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:41:26.789Z",
+    "discoveredAt": "2026-09-10T04:39:48.964Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -38045,219 +37196,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7683048638940203302",
-    "company": "蔚来",
-    "title": "校招正式-蔚来顾问（25/26可投）-金华",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "金华",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7683048638940203302/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-09-08",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7683048638940203302/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7683044395137894662",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-金华",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "金华",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7683044395137894662/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-09-08",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7683044395137894662/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-b8508348af98",
     "company": "传音控股",
     "title": "产品营销(J20454)",
@@ -38294,7 +37232,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、PPT、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -38376,1071 +37314,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7680477826159855881",
-    "company": "蔚来",
-    "title": "校招正式-蔚来顾问（25/26可投）-桂林",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "桂林",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7680477826159855881/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-09-01",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7680477826159855881/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678666028570970395",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-嵊州",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "绍兴",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678666028570970395/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678666028570970395/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678666028570380571",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-上虞",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "绍兴",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678666028570380571/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678666028570380571/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678666028570085659",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-诸暨",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "绍兴",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678666028570085659/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678666028570085659/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678666021473749298",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-桐乡",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "嘉兴",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678666021473749298/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678666021473749298/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678666021473159474",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-海宁",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "嘉兴",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678666021473159474/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678666021473159474/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678665284971202842",
-    "company": "蔚来",
-    "title": "校招正式-蔚来顾问（25/26可投）-承德",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "承德",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678665284971202842/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678665284971202842/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678665284970907930",
-    "company": "蔚来",
-    "title": "校招正式-蔚来顾问（25/26可投）-张家口",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "张家口",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678665284970907930/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678665284970907930/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678665284970613018",
-    "company": "蔚来",
-    "title": "校招正式-蔚来顾问（25/26可投）-廊坊",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "廊坊",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678665284970613018/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678665284970613018/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7678665284970318106",
-    "company": "蔚来",
-    "title": "校招正式-蔚来顾问（25/26可投）-秦皇岛",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "秦皇岛",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7678665284970318106/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-27",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7678665284970318106/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "hotjob-34212ca5584c",
     "company": "德勤中国",
     "title": "Analyst - Cyber Security - Consulting - CD",
@@ -39480,7 +37353,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -39592,7 +37465,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -39710,7 +37583,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -39820,7 +37693,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -39897,1916 +37770,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "feishu-49f725-7676317601975355684",
-    "company": "蔚来",
-    "title": "校招正式-蔚来顾问（25/26可投）-吉安",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "吉安",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676317601975355684/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-21",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676317601975355684/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676297902574274857",
-    "company": "蔚来",
-    "title": "校招正式-蔚来顾问（25/26可投）-泉州",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "泉州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "客户",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676297902574274857/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-21",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676297902574274857/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071932387625257",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-乌鲁木齐",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "乌鲁木齐",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071932387625257/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071932387625257/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071923595938111",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-廊坊",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "廊坊",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071923595938111/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071923595938111/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071923595626815",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-沧州",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "沧州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071923595626815/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071923595626815/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071915652958506",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-唐山",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "唐山",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071915652958506/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071915652958506/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071915652663594",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-天津",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "天津",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071915652663594/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071915652663594/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071915652368682",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-秦皇岛",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "秦皇岛",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071915652368682/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071915652368682/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071915652073770",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-南宁",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "南宁",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071915652073770/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071915652073770/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071915651778858",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-日照",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "日照",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071915651778858/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071915651778858/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071915651483946",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-潍坊",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "潍坊",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071915651483946/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071915651483946/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071906530216211",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-威海",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "威海",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071906530216211/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071906530216211/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071906529888531",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-烟台",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "烟台",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071906529888531/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071906529888531/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071906529511699",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-青岛",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "青岛",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071906529511699/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071906529511699/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071906529085715",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-长治",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "长治",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071906529085715/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071906529085715/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071906528790803",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-运城",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "运城",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071906528790803/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071906528790803/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071897323637035",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-大同",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "大同",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071897323637035/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071897323637035/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-49f725-7676071897323342123",
-    "company": "蔚来",
-    "title": "校招正式-乐道顾问（25/26可投）-太原",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "太原",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "用户",
-      "数据",
-      "营销",
-      "品牌",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "蔚来官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://nio.jobs.feishu.cn/campus/position/7676071897323342123/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-08-20",
-    "deadline": "",
-    "description": "蔚来官方校园招聘岗位；职类：蔚来顾问。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "蔚来官方飞书招聘",
-        "url": "https://nio.jobs.feishu.cn/campus/position/7676071897323342123/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "feishu-1fdf6e-7675641123033418030",
     "company": "小鹏汽车",
     "title": "【27届校招】海外渠道建店管理培训生",
@@ -41838,7 +37801,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -41956,7 +37919,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、SEO。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -42071,7 +38034,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：产品岗位。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -42184,7 +38147,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -42295,7 +38258,7 @@ export const liveJobs = [
     "description": "致欧家居官方校园招聘岗位；职类：设计。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:07.342Z",
+    "discoveredAt": "2026-09-10T04:44:35.249Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -42404,7 +38367,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：运营类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -42522,7 +38485,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：外语外派类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -42633,7 +38596,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：外语外派类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -42739,7 +38702,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -42846,7 +38809,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：市场类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -42959,7 +38922,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -43068,7 +39031,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。识别关键词：英语、文案。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -43180,7 +39143,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -43292,7 +39255,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -43400,7 +39363,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -43508,7 +39471,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -43616,7 +39579,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -43729,7 +39692,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -43842,7 +39805,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：文案、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -43954,7 +39917,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -44064,7 +40027,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -44172,7 +40135,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -44282,7 +40245,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -44392,7 +40355,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：品牌。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -44502,7 +40465,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：销售管理。识别关键词：数据分析、市场分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -44609,7 +40572,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -44724,7 +40687,7 @@ export const liveJobs = [
     "description": "小鹏汽车官方校园招聘岗位；职类：汽车销售与服务。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
+    "discoveredAt": "2026-09-10T04:44:15.263Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -44844,7 +40807,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "8K-10K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -44955,7 +40918,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "10K-15K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -45062,7 +41025,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -45135,6 +41098,123 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "nowcoder-7d080649471d",
+    "company": "惠州市德赛西威汽车电子股份有限公司",
+    "title": "供应链计划专员（惠州）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "惠州",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "海外",
+      "运营",
+      "数据",
+      "跨文化",
+      "供应链"
+    ],
+    "preferenceTags": [
+      "国际业务",
+      "跨文化"
+    ],
+    "riskTags": [
+      "节奏快",
+      "适配风险：专业范围含技术方向，需核对具体优先级"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466180?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-10",
+    "deadline": "2029-09-08",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
+    "candidateFit": {
+      "warnings": [
+        "专业范围含技术方向，需核对具体优先级"
+      ],
+      "strengths": [],
+      "penalty": 5,
+      "bonus": 0,
+      "major": {
+        "verdict": "混合",
+        "label": "专业范围较宽，含技术与文商科",
+        "evidence": [
+          "1. 全日制本科及以上学历，电子、机械、供应链管理、物流管理、国际贸易等相关专业优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2029-09-08"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "混合",
+          "detail": "专业范围较宽，含技术与文商科"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "referral",
+    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
+    "sourceEvidence": [
+      {
+        "label": "牛客公开职位",
+        "url": "https://www.nowcoder.com/jobs/detail/466180?urlSource=sitemap"
+      },
+      {
+        "label": "二手来源，待官网核验",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
     "id": "nowcoder-e2efc6d11256",
     "company": "点点互动",
     "title": "全球市场营销专员（SLG）-北京(J13838)",
@@ -45175,7 +41255,7 @@ export const liveJobs = [
     "description": "自动发现的 市场 类岗位；识别关键词：英语、文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -45287,7 +41367,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "工作职责偏技术"
@@ -45405,7 +41485,7 @@ export const liveJobs = [
     "description": "自动发现的 业务运营 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -45524,7 +41604,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -45601,114 +41681,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-d9ed22ca9a22",
-    "company": "零跑汽车",
-    "title": "校招-运营工程师(J18101)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "杭州",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "市场",
-      "数据"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "适配风险：专业范围含技术方向，需核对具体优先级"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://leapmotor.zhiye.com/campus/detail?jobAdId=230937951",
-    "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
-    "publishedAt": "2026-09-07",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "面议",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
-    "candidateFit": {
-      "warnings": [
-        "专业范围含技术方向，需核对具体优先级"
-      ],
-      "strengths": [],
-      "penalty": 5,
-      "bonus": 0,
-      "major": {
-        "verdict": "混合",
-        "label": "专业范围较宽，含技术与文商科",
-        "evidence": [
-          "1、本科及以上学历，信息管理、计算机、软件工程、工商管理等相关专业"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "混合",
-          "detail": "专业范围较宽，含技术与文商科"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://leapmotor.zhiye.com/campus/detail?jobAdId=230937951"
-      },
-      {
-        "label": "官方招聘官网 · 2027校招源（JD未单列届别）",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "面议",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "面议"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "hotjob-0761cdce9dba",
     "company": "Decathlon",
     "title": "迪卡侬物流部门经理（校园招聘）--广东东莞",
@@ -45745,7 +41717,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -45819,126 +41791,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "beisen-afe5cfafb8fe",
-    "company": "国贸股份",
-    "title": "海外业务岗(J13645)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "国外",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [
-      "海外",
-      "市场",
-      "客户"
-    ],
-    "preferenceTags": [
-      "国际业务",
-      "跨文化",
-      "出海",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "公司官方北森校招官网",
-    "sourceType": "official",
-    "sourceUrl": "https://itg.zhiye.com/gmkgxzxq?jobId=311179882&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus",
-    "verification": "官方招聘官网 · 已核验2027届秋季全球校园招聘",
-    "publishedAt": "2026-09-01",
-    "deadline": "",
-    "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-    "salary": "14-18 万元/年",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容",
-        "职责：国际业务"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "4.熟悉当地语言，具备良好的听说读写能力，满足下列条件之一： ●英语专业：通过专业四级",
-          "●非英语专业：大学英语六级，或雅思",
-          "4.熟悉当地语言，具备良好的听说读写能力，满足下列条件之一： ●英语专业：通过专业四级",
-          "●非英语专业：大学英语六级，或雅思"
-        ]
-      },
-      "responsibility": {
-        "verdict": "偏语言/商务",
-        "technical": [],
-        "business": [
-          "国际业务"
-        ]
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "偏语言/商务",
-          "detail": "国际业务"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "公司官方北森校招官网",
-        "url": "https://itg.zhiye.com/gmkgxzxq?jobId=311179882&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus"
-      },
-      {
-        "label": "官方招聘官网 · 已核验2027届秋季全球校园招聘",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "14-18 万元/年",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": "14-18 万元/年"
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "beisen-79fa23caf9e4",
     "company": "科大讯飞",
     "title": "采销运营(J14190)",
@@ -45973,7 +41825,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -46081,7 +41933,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "30K-50K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -46184,7 +42036,7 @@ export const liveJobs = [
     "description": "蔚来官方校园招聘岗位；职类：运营管理。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:35.358Z",
+    "discoveredAt": "2026-09-10T04:44:02.680Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -46291,7 +42143,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：运营类。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -46405,7 +42257,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -46517,7 +42369,7 @@ export const liveJobs = [
     "description": "小米官方校园招聘岗位；职类：销售类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:56.525Z",
+    "discoveredAt": "2026-09-10T04:44:22.084Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [
@@ -46630,7 +42482,7 @@ export const liveJobs = [
     "description": "得物App官方校园招聘岗位；职类：职能类。识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:31.578Z",
+    "discoveredAt": "2026-09-10T04:43:58.768Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -46742,7 +42594,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -46848,7 +42700,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -46952,7 +42804,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "9.5K-14.5K 元/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -47069,7 +42921,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语、数据分析、SQL、文案。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -47181,7 +43033,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -47289,7 +43141,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "10k-13k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -47401,7 +43253,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -47478,55 +43330,51 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-af444b984f47",
-    "company": "信也科技",
-    "title": "2027届校招-商业分析师（菲律宾业务）",
+    "id": "nowcoder-ec2733cf57d5",
+    "company": "未岚大陆",
+    "title": "2027届校招-初级SAP顾问（北京）",
     "roleFamily": [
       "其他"
     ],
-    "city": "上海",
+    "city": "北京",
     "graduationYear": "2027",
-    "skills": [
-      "Excel",
-      "数据分析",
-      "SQL"
-    ],
+    "skills": [],
     "languages": [],
     "experienceKeywords": [
-      "运营",
       "项目",
       "用户",
-      "数据",
-      "营销",
-      "客户"
+      "数据"
     ],
     "preferenceTags": [
       "国际业务"
     ],
     "riskTags": [
-      "适配风险：技术背景优先"
+      "节奏快",
+      "适配风险：专业范围含技术方向，需核对具体优先级"
     ],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465351?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465674?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-10",
-    "deadline": "2026-12-31",
-    "description": "自动发现的 其他 类岗位；识别关键词：Excel、数据分析、SQL。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "deadline": "2027-04-29",
+    "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
-        "技术背景优先"
+        "专业范围含技术方向，需核对具体优先级"
       ],
       "strengths": [],
-      "penalty": 8,
+      "penalty": 5,
       "bonus": 0,
       "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
+        "verdict": "混合",
+        "label": "专业范围较宽，含技术与文商科",
+        "evidence": [
+          "本科及以上在读，计算机、信息管理、财务管理等相关专业优先"
+        ]
       },
       "responsibility": {
         "verdict": "待核",
@@ -47536,14 +43384,14 @@ export const liveJobs = [
       "hardRequirements": [],
       "eligibilityEvidence": [
         "招聘对象：2027届",
-        "投递截止：2026-12-31"
+        "投递截止：2027-04-29"
       ],
       "decisionSteps": [
         {
           "step": 1,
           "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
+          "verdict": "混合",
+          "detail": "专业范围较宽，含技术与文商科"
         },
         {
           "step": 2,
@@ -47564,7 +43412,7 @@ export const liveJobs = [
     "sourceEvidence": [
       {
         "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465351?urlSource=sitemap"
+        "url": "https://www.nowcoder.com/jobs/detail/465674?urlSource=sitemap"
       },
       {
         "label": "二手来源，待官网核验",
@@ -47591,25 +43439,22 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-0923473ab36d",
-    "company": "点点互动",
-    "title": "全球市场营销专员（韩语）-北京(J13837)",
+    "id": "nowcoder-992bb963b4e4",
+    "company": "奥克斯",
+    "title": "【2027秋】空调-国内市场营销(商用空调方向)(J16389)",
     "roleFamily": [
       "市场"
     ],
-    "city": "北京",
+    "city": "深圳",
     "graduationYear": "2027",
     "skills": [
-      "文案"
+      "Excel"
     ],
     "languages": [],
     "experienceKeywords": [
-      "内容",
+      "项目",
       "市场",
-      "用户",
-      "数据",
-      "营销",
-      "品牌"
+      "营销"
     ],
     "preferenceTags": [
       "国际业务"
@@ -47617,14 +43462,14 @@ export const liveJobs = [
     "riskTags": [],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465364?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465514?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-10",
-    "deadline": "2029-09-04",
-    "description": "自动发现的 市场 类岗位；识别关键词：文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "deadline": "2029-09-06",
+    "description": "自动发现的 市场 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -47643,7 +43488,7 @@ export const liveJobs = [
       "hardRequirements": [],
       "eligibilityEvidence": [
         "招聘对象：2027届",
-        "投递截止：2029-09-04"
+        "投递截止：2029-09-06"
       ],
       "decisionSteps": [
         {
@@ -47671,7 +43516,7 @@ export const liveJobs = [
     "sourceEvidence": [
       {
         "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465364?urlSource=sitemap"
+        "url": "https://www.nowcoder.com/jobs/detail/465514?urlSource=sitemap"
       },
       {
         "label": "二手来源，待官网核验",
@@ -47729,7 +43574,7 @@ export const liveJobs = [
     "description": "自动发现的 项目管理 类岗位；识别关键词：项目管理、跨部门沟通。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -47838,7 +43683,7 @@ export const liveJobs = [
     "description": "自动发现的 HR 类岗位；识别关键词：Excel。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级",
@@ -47917,216 +43762,6 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-27c346c52cf6",
-    "company": "奥克斯",
-    "title": "【2027秋】空调-人力资源管理(J16364)",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "深圳",
-    "graduationYear": "2027",
-    "skills": [
-      "英语"
-    ],
-    "languages": [
-      "英语"
-    ],
-    "experienceKeywords": [],
-    "preferenceTags": [
-      "国际业务",
-      "文科/社科专业范围兼容"
-    ],
-    "riskTags": [],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465519?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2029-09-06",
-    "description": "自动发现的 HR 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [
-        "文科/社科专业范围兼容"
-      ],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "兼容",
-        "label": "文科/社科专业范围兼容",
-        "evidence": [
-          "1、人力资源、工商管理、行政管理等相关专业，本科及以上学历，英语流利，小语种优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2029-09-06"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "兼容",
-          "detail": "文科/社科专业范围兼容"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465519?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
-    "id": "feishu-1fdf6e-7681615705750784262",
-    "company": "小鹏汽车",
-    "title": "【27届校招】HRBP培训生（研发方向）",
-    "roleFamily": [
-      "HR"
-    ],
-    "city": "上海",
-    "graduationYear": "2027",
-    "skills": [],
-    "languages": [],
-    "experienceKeywords": [
-      "运营",
-      "项目",
-      "数据",
-      "招聘"
-    ],
-    "preferenceTags": [],
-    "riskTags": [
-      "节奏快"
-    ],
-    "source": "小鹏汽车官方飞书招聘",
-    "sourceType": "official",
-    "sourceUrl": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7681615705750784262/detail",
-    "verification": "官方招聘官网/API；岗位文本明确2027届",
-    "publishedAt": "2026-09-04",
-    "deadline": "",
-    "description": "小鹏汽车官方校园招聘岗位；职类：智能制造 / 工业互联网 / 工业自动化。投递前请打开官方职位页确认最新状态。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:48.587Z",
-    "_recruitGroup": "校招",
-    "candidateFit": {
-      "warnings": [],
-      "strengths": [],
-      "penalty": 0,
-      "bonus": 0,
-      "major": {
-        "verdict": "待核",
-        "label": "未识别明确专业范围",
-        "evidence": []
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "待核",
-          "detail": "未识别明确专业范围"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "official_ats",
-    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
-    "sourceEvidence": [
-      {
-        "label": "小鹏汽车官方飞书招聘",
-        "url": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7681615705750784262/detail"
-      },
-      {
-        "label": "官方招聘官网/API；岗位文本明确2027届",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "企业官方JD/ATS",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "hotjob-8ea4fd368359",
     "company": "Decathlon",
     "title": "迪卡侬运动部门经理（校园招聘）--昆山",
@@ -48157,7 +43792,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8k-12k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48265,7 +43900,7 @@ export const liveJobs = [
     "description": "EcoFlow 官方 2027 秋季校园招聘岗位；职类：研发。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:26.539Z",
+    "discoveredAt": "2026-09-10T04:45:56.962Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -48346,6 +43981,734 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
+    "id": "hotjob-6a4cf293ae6d",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--广州",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "广州",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fa84b4315481304d76ed8&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "9.3k-12.1k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fa84b4315481304d76ed8&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "9.3k-12.1k/月",
+      "monthlyMin": 9300,
+      "monthlyMax": 12100,
+      "annualMin": 111600,
+      "annualMax": 145200,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "9.3k–1.21万/月",
+      "annualDisplay": "11.16万–14.52万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "9.3k-12.1k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "9.3k–1.21万/月",
+    "annualSalary": "11.16万–14.52万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-877a58e976de",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--北京",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "北京",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a82bf7243154813049e0d95&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "9.3k-12.1k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a82bf7243154813049e0d95&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "9.3k-12.1k/月",
+      "monthlyMin": 9300,
+      "monthlyMax": 12100,
+      "annualMin": 111600,
+      "annualMax": 145200,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "9.3k–1.21万/月",
+      "annualDisplay": "11.16万–14.52万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "9.3k-12.1k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "9.3k–1.21万/月",
+    "annualSalary": "11.16万–14.52万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-fc713367fce9",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--武汉",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fcee61ad6db7cf83ec228&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.7k-10.4k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fcee61ad6db7cf83ec228&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.7k-10.4k/月",
+      "monthlyMin": 7700,
+      "monthlyMax": 10400,
+      "annualMin": 92400,
+      "annualMax": 124800,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.7k–1.04万/月",
+      "annualDisplay": "9.24万–12.48万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.7k-10.4k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.7k–1.04万/月",
+    "annualSalary": "9.24万–12.48万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-81f1468f2a11",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--上海",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "上海",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a82f5b268cc6f624f423df5&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "9k-12k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a82f5b268cc6f624f423df5&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "9k-12k/月",
+      "monthlyMin": 9000,
+      "monthlyMax": 12000,
+      "annualMin": 108000,
+      "annualMax": 144000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "9k–1.2万/月",
+      "annualDisplay": "10.8万–14.4万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "9k-12k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "9k–1.2万/月",
+    "annualSalary": "10.8万–14.4万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-70157800802c",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--深圳",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a82bd5a43154813049e0b96&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "9.3k-12.1k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a82bd5a43154813049e0b96&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "9.3k-12.1k/月",
+      "monthlyMin": 9300,
+      "monthlyMax": 12100,
+      "annualMin": 111600,
+      "annualMax": 145200,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "9.3k–1.21万/月",
+      "annualDisplay": "11.16万–14.52万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "9.3k-12.1k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "9.3k–1.21万/月",
+    "annualSalary": "11.16万–14.52万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-c476409a6f8d",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--长沙",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "长沙",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8faa0168cc6f624f79fa8f&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "8k-10.4k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8faa0168cc6f624f79fa8f&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "8k-10.4k/月",
+      "monthlyMin": 8000,
+      "monthlyMax": 10400,
+      "annualMin": 96000,
+      "annualMax": 124800,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "8k–1.04万/月",
+      "annualDisplay": "9.6万–12.48万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "8k-10.4k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "8k–1.04万/月",
+    "annualSalary": "9.6万–12.48万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-77df72ab1610",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--苏州",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "苏州",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fa1e04315481304d768b5&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "8.3k-12.5k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fa1e04315481304d768b5&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "8.3k-12.5k/月",
+      "monthlyMin": 8300,
+      "monthlyMax": 12500,
+      "annualMin": 99600,
+      "annualMax": 150000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "8.3k–1.25万/月",
+      "annualDisplay": "9.96万–15万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "8.3k-12.5k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "8.3k–1.25万/月",
+    "annualSalary": "9.96万–15万/年（按12薪推算）"
+  },
+  {
     "id": "hotjob-1aa76af45c2d",
     "company": "Decathlon",
     "title": "迪卡侬运动部门经理（校园招聘）--杭州",
@@ -48376,7 +44739,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8.4k-12.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48478,7 +44841,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.7k-6.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48580,7 +44943,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.5k-7.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -48690,7 +45053,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [
@@ -48798,7 +45161,7 @@ export const liveJobs = [
     "description": "沐瞳科技官方校园招聘岗位；职类：职能岗位。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:45:34.162Z",
+    "discoveredAt": "2026-09-10T04:44:01.500Z",
     "_recruitGroup": "校招",
     "candidateFit": {
       "warnings": [],
@@ -48904,7 +45267,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49004,7 +45367,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49105,7 +45468,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.5k-7.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49210,7 +45573,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "9k-13k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49315,7 +45678,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -49424,7 +45787,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.6k-6.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49526,7 +45889,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.5k-7.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49628,7 +45991,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.6k-6.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49730,7 +46093,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6k-6.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49832,7 +46195,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.9k-6.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -49906,118 +46269,6 @@ export const liveJobs = [
     "annualSalary": "7.08万–8.28万/年（按12薪推算）"
   },
   {
-    "id": "nowcoder-98b069306978",
-    "company": "点点互动",
-    "title": "国内市场增长专员（SLG）-北京(J13846)",
-    "roleFamily": [
-      "其他"
-    ],
-    "city": "北京",
-    "graduationYear": "2027",
-    "skills": [
-      "数据分析"
-    ],
-    "languages": [],
-    "experienceKeywords": [
-      "内容",
-      "市场",
-      "用户",
-      "数据",
-      "营销"
-    ],
-    "preferenceTags": [
-      "国际业务"
-    ],
-    "riskTags": [
-      "适配风险：商科/市场知识底子更占优"
-    ],
-    "source": "牛客公开职位",
-    "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465339?urlSource=sitemap",
-    "verification": "二手来源，待官网核验",
-    "publishedAt": "2026-09-10",
-    "deadline": "2029-09-04",
-    "description": "自动发现的 其他 类岗位；识别关键词：数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-    "salary": "",
-    "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
-    "candidateFit": {
-      "warnings": [
-        "商科/市场知识底子更占优"
-      ],
-      "strengths": [],
-      "penalty": 12,
-      "bonus": 0,
-      "major": {
-        "verdict": "降权",
-        "label": "商科/市场专业主导",
-        "evidence": [
-          "1、2027届统招本科及以上学历，市场营销、分析或相关专业优先"
-        ]
-      },
-      "responsibility": {
-        "verdict": "待核",
-        "technical": [],
-        "business": []
-      },
-      "hardRequirements": [],
-      "eligibilityEvidence": [
-        "招聘对象：2027届",
-        "投递截止：2029-09-04"
-      ],
-      "decisionSteps": [
-        {
-          "step": 1,
-          "label": "专业范围",
-          "verdict": "降权",
-          "detail": "商科/市场专业主导"
-        },
-        {
-          "step": 2,
-          "label": "职责动词",
-          "verdict": "待核",
-          "detail": "未识别明显信号"
-        },
-        {
-          "step": 3,
-          "label": "硬技术/资格",
-          "verdict": "未发现硬门槛",
-          "detail": "无"
-        }
-      ]
-    },
-    "sourceChannel": "referral",
-    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
-    "sourceEvidence": [
-      {
-        "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465339?urlSource=sitemap"
-      },
-      {
-        "label": "二手来源，待官网核验",
-        "url": ""
-      }
-    ],
-    "compensation": {
-      "disclosed": false,
-      "raw": "",
-      "monthlyMin": null,
-      "monthlyMax": null,
-      "annualMin": null,
-      "annualMax": null,
-      "salaryMonths": null,
-      "monthlyEstimated": false,
-      "annualEstimated": false,
-      "monthlyDisplay": "未披露",
-      "annualDisplay": "未披露",
-      "sourceLabel": "二手岗位来源，待官网复核",
-      "confidence": "none",
-      "evidence": ""
-    },
-    "monthlySalary": "未披露",
-    "annualSalary": "未披露"
-  },
-  {
     "id": "nowcoder-625e8799b57f",
     "company": "奥克斯",
     "title": "【2027秋】电能-供应链专员(J16421)",
@@ -50048,7 +46299,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "技术专业背景更占优"
@@ -50126,53 +46377,51 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-be813019ec9c",
-    "company": "信也科技",
-    "title": "2027 届校招-商业分析师（非洲风险策略）",
+    "id": "nowcoder-093446f1a0e9",
+    "company": "九方云",
+    "title": "营销策划(A66668)",
     "roleFamily": [
-      "其他"
+      "产品营销"
     ],
-    "city": "深圳",
+    "city": "上海",
     "graduationYear": "2027",
     "skills": [
-      "Excel",
-      "SQL"
+      "文案"
     ],
     "languages": [],
     "experienceKeywords": [
-      "运营",
-      "用户"
+      "市场",
+      "数据",
+      "营销"
     ],
     "preferenceTags": [
       "国际业务"
     ],
     "riskTags": [
-      "适配风险：技术专业背景更占优",
-      "适配风险：技术背景优先"
+      "适配风险：商科/市场知识底子更占优"
     ],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465356?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466539?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-10",
-    "deadline": "2027-09-01",
-    "description": "自动发现的 其他 类岗位；识别关键词：Excel、SQL。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "deadline": "2026-12-31",
+    "description": "自动发现的 产品营销 类岗位；识别关键词：文案。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
-        "技术专业背景更占优",
-        "技术背景优先"
+        "商科/市场知识底子更占优"
       ],
       "strengths": [],
-      "penalty": 20,
+      "penalty": 12,
       "bonus": 0,
       "major": {
         "verdict": "降权",
-        "label": "理工/计算机专业主导",
+        "label": "商科/市场专业主导",
         "evidence": [
-          "1、统招本科及以上学历，数学、统计学、计算机、经济等相关专业优先"
+          "1.2027届本科及以上学历，金融学、市场营销、新闻传播等专业优先"
         ]
       },
       "responsibility": {
@@ -50183,14 +46432,14 @@ export const liveJobs = [
       "hardRequirements": [],
       "eligibilityEvidence": [
         "招聘对象：2027届",
-        "投递截止：2027-09-01"
+        "投递截止：2026-12-31"
       ],
       "decisionSteps": [
         {
           "step": 1,
           "label": "专业范围",
           "verdict": "降权",
-          "detail": "理工/计算机专业主导"
+          "detail": "商科/市场专业主导"
         },
         {
           "step": 2,
@@ -50211,7 +46460,230 @@ export const liveJobs = [
     "sourceEvidence": [
       {
         "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/465356?urlSource=sitemap"
+        "url": "https://www.nowcoder.com/jobs/detail/466539?urlSource=sitemap"
+      },
+      {
+        "label": "二手来源，待官网核验",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "nowcoder-3f5fce96784e",
+    "company": "惠州市德赛西威汽车电子股份有限公司",
+    "title": "EHS运营专员（惠州）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "惠州",
+    "graduationYear": "2027",
+    "skills": [
+      "英语"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "运营"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "节奏快"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466125?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-10",
+    "deadline": "2029-09-08",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2029-09-08"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "referral",
+    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
+    "sourceEvidence": [
+      {
+        "label": "牛客公开职位",
+        "url": "https://www.nowcoder.com/jobs/detail/466125?urlSource=sitemap"
+      },
+      {
+        "label": "二手来源，待官网核验",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "nowcoder-70205647d4ff",
+    "company": "南京银行",
+    "title": "总行定向培训生岗-金融市场方向（南京）",
+    "roleFamily": [
+      "其他"
+    ],
+    "city": "南京",
+    "graduationYear": "2027",
+    "skills": [
+      "英语",
+      "数据分析"
+    ],
+    "languages": [
+      "英语"
+    ],
+    "experienceKeywords": [
+      "项目",
+      "市场",
+      "数据"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [
+      "适配风险：专业范围含技术方向，需核对具体优先级"
+    ],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466004?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-10",
+    "deadline": "2026-10-11",
+    "description": "自动发现的 其他 类岗位；识别关键词：英语、数据分析。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
+    "candidateFit": {
+      "warnings": [
+        "专业范围含技术方向，需核对具体优先级"
+      ],
+      "strengths": [
+        "职责：跨文化沟通"
+      ],
+      "penalty": 5,
+      "bonus": 0,
+      "major": {
+        "verdict": "混合",
+        "label": "专业范围较宽，含技术与文商科",
+        "evidence": [
+          "0.计算机类、电子信息类、数学类、统计学类等理工类专业及金融工程相关专业，具有复合专业背景优先"
+        ]
+      },
+      "responsibility": {
+        "verdict": "偏语言/商务",
+        "technical": [],
+        "business": [
+          "跨文化沟通"
+        ]
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-10-11"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "混合",
+          "detail": "专业范围较宽，含技术与文商科"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏语言/商务",
+          "detail": "跨文化沟通"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "referral",
+    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
+    "sourceEvidence": [
+      {
+        "label": "牛客公开职位",
+        "url": "https://www.nowcoder.com/jobs/detail/466004?urlSource=sitemap"
       },
       {
         "label": "二手来源，待官网核验",
@@ -50271,7 +46743,7 @@ export const liveJobs = [
     "description": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [
         "专业范围含技术方向，需核对具体优先级"
@@ -50353,7 +46825,7 @@ export const liveJobs = [
     "annualSalary": "未披露"
   },
   {
-    "id": "nowcoder-879cefee93f6",
+    "id": "nowcoder-fd91657b2440",
     "company": "美团",
     "title": "校招-美团2027届商户/客户服务管理培训生",
     "roleFamily": [
@@ -50372,14 +46844,14 @@ export const liveJobs = [
     "riskTags": [],
     "source": "牛客公开职位",
     "sourceType": "secondary",
-    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466742?urlSource=sitemap",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/466743?urlSource=sitemap",
     "verification": "二手来源，待官网核验",
     "publishedAt": "2026-09-10",
     "deadline": "2027-08-01",
     "description": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
     "salary": "",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:38:49.767Z",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50426,13 +46898,227 @@ export const liveJobs = [
     "sourceEvidence": [
       {
         "label": "牛客公开职位",
-        "url": "https://www.nowcoder.com/jobs/detail/466742?urlSource=sitemap"
+        "url": "https://www.nowcoder.com/jobs/detail/466743?urlSource=sitemap"
       },
       {
         "label": "二手来源，待官网核验",
         "url": ""
       }
     ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "nowcoder-84c706b45dae",
+    "company": "奥克斯",
+    "title": "【2027秋】空调-国内市场营销(家用空调方向)(J16386)",
+    "roleFamily": [
+      "市场"
+    ],
+    "city": "深圳",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "市场",
+      "营销"
+    ],
+    "preferenceTags": [
+      "国际业务"
+    ],
+    "riskTags": [],
+    "source": "牛客公开职位",
+    "sourceType": "secondary",
+    "sourceUrl": "https://www.nowcoder.com/jobs/detail/465517?urlSource=sitemap",
+    "verification": "二手来源，待官网核验",
+    "publishedAt": "2026-09-10",
+    "deadline": "2029-09-06",
+    "description": "自动发现的 市场 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
+    "salary": "",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:36:47.796Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2029-09-06"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "referral",
+    "sourceChannelLabel": "牛客 / 脉脉官方内推帖",
+    "sourceEvidence": [
+      {
+        "label": "牛客公开职位",
+        "url": "https://www.nowcoder.com/jobs/detail/465517?urlSource=sitemap"
+      },
+      {
+        "label": "二手来源，待官网核验",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": false,
+      "raw": "",
+      "monthlyMin": null,
+      "monthlyMax": null,
+      "annualMin": null,
+      "annualMax": null,
+      "salaryMonths": null,
+      "monthlyEstimated": false,
+      "annualEstimated": false,
+      "monthlyDisplay": "未披露",
+      "annualDisplay": "未披露",
+      "sourceLabel": "二手岗位来源，待官网复核",
+      "confidence": "none",
+      "evidence": ""
+    },
+    "monthlySalary": "未披露",
+    "annualSalary": "未披露"
+  },
+  {
+    "id": "university-f05cf86b493f68",
+    "company": "科技研发岗-中铝郑州有色金属研究院有限公司",
+    "title": "科技研发岗-中铝郑州有色金属研究院有限公司",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "武汉",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [],
+    "preferenceTags": [],
+    "riskTags": [
+      "适配风险：工作职责偏技术"
+    ],
+    "source": "南开大学就业信息网",
+    "sourceType": "secondary",
+    "sourceChannel": "university",
+    "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118464.html",
+    "verification": "高校就业信息网官方发布 · 待公司官网复核",
+    "sourceEvidence": [
+      {
+        "label": "南开大学就业信息网",
+        "url": "https://career.nankai.edu.cn/correcruit/content/id/118464.html"
+      },
+      {
+        "label": "高校就业信息网官方发布 · 待公司官网复核",
+        "url": ""
+      },
+      {
+        "label": "南开大学招聘列表",
+        "url": "https://career.nankai.edu.cn/correcruit/index.html"
+      }
+    ],
+    "universitySource": {
+      "school": "南开大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 105
+    },
+    "publishedAt": "2026-09-10",
+    "deadline": "",
+    "description": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
+    "candidateFit": {
+      "warnings": [
+        "工作职责偏技术"
+      ],
+      "strengths": [],
+      "penalty": 10,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "偏技术",
+        "technical": [
+          "技术评估"
+        ],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "偏技术",
+          "detail": "技术评估"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannelLabel": "高校就业信息网官方简章",
     "compensation": {
       "disclosed": false,
       "raw": "",
@@ -50498,7 +47184,7 @@ export const liveJobs = [
     "deadline": "",
     "description": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:47:41.979Z",
+    "discoveredAt": "2026-09-10T04:46:11.903Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50590,7 +47276,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.3k-9.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50692,7 +47378,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.8k-5.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50796,7 +47482,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.6k-10.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -50900,7 +47586,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.6k-10.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51004,7 +47690,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8k-12k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51106,7 +47792,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51208,7 +47894,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.8k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51310,7 +47996,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51412,7 +48098,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51514,7 +48200,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.7k-5.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51616,7 +48302,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4k-5.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51690,6 +48376,2804 @@ export const liveJobs = [
     "annualSalary": "4.8万–6.6万/年（按12薪推算）"
   },
   {
+    "id": "hotjob-9a25cb0e813f",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--大庆",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "大庆市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94e58c829af219b7d201b4&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-31",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5.1k-6.1k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94e58c829af219b7d201b4&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5.1k-6.1k/月",
+      "monthlyMin": 5100,
+      "monthlyMax": 6100,
+      "annualMin": 61200,
+      "annualMax": 73200,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5.1k–6.1k/月",
+      "annualDisplay": "6.12万–7.32万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5.1k-6.1k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5.1k–6.1k/月",
+    "annualSalary": "6.12万–7.32万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-0aa838b589df",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--长春",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "长春市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94e296829af219b7d1fe08&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-31",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5k-6.5k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94e296829af219b7d1fe08&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5k-6.5k/月",
+      "monthlyMin": 5000,
+      "monthlyMax": 6500,
+      "annualMin": 60000,
+      "annualMax": 78000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5k–6.5k/月",
+      "annualDisplay": "6万–7.8万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5k-6.5k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5k–6.5k/月",
+    "annualSalary": "6万–7.8万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-272c590c6e78",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--沈阳",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "沈阳市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94e15c5e09b14b274b632d&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-31",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5k-6.5k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94e15c5e09b14b274b632d&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5k-6.5k/月",
+      "monthlyMin": 5000,
+      "monthlyMax": 6500,
+      "annualMin": 60000,
+      "annualMax": 78000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5k–6.5k/月",
+      "annualDisplay": "6万–7.8万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5k-6.5k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5k–6.5k/月",
+    "annualSalary": "6万–7.8万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-221ccba34e3f",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--桂林",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "桂林市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a915a021ad6db7cf8415dde&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-28",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5k-5.9k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a915a021ad6db7cf8415dde&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5k-5.9k/月",
+      "monthlyMin": 5000,
+      "monthlyMax": 5900,
+      "annualMin": 60000,
+      "annualMax": 70800,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5k–5.9k/月",
+      "annualDisplay": "6万–7.08万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5k-5.9k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5k–5.9k/月",
+    "annualSalary": "6万–7.08万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-6e8bdcf7d698",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--常州",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "常州市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9152681ad6db7cf8414e6b&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-28",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5.7k-6.7k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9152681ad6db7cf8414e6b&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5.7k-6.7k/月",
+      "monthlyMin": 5700,
+      "monthlyMax": 6700,
+      "annualMin": 68400,
+      "annualMax": 80400,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5.7k–6.7k/月",
+      "annualDisplay": "6.84万–8.04万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5.7k-6.7k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5.7k–6.7k/月",
+    "annualSalary": "6.84万–8.04万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-2bffe74725af",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--南京",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "南京",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fa0a94315481304d76754&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "8.1k-12.2k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fa0a94315481304d76754&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "8.1k-12.2k/月",
+      "monthlyMin": 8100,
+      "monthlyMax": 12200,
+      "annualMin": 97200,
+      "annualMax": 146400,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "8.1k–1.22万/月",
+      "annualDisplay": "9.72万–14.64万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "8.1k-12.2k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "8.1k–1.22万/月",
+    "annualSalary": "9.72万–14.64万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-17eb7c6452f0",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--珠海",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "珠海",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fb4e04315481304d779a8&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "8k-10.4k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fb4e04315481304d779a8&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "8k-10.4k/月",
+      "monthlyMin": 8000,
+      "monthlyMax": 10400,
+      "annualMin": 96000,
+      "annualMax": 124800,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "8k–1.04万/月",
+      "annualDisplay": "9.6万–12.48万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "8k-10.4k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "8k–1.04万/月",
+    "annualSalary": "9.6万–12.48万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-2149c028ec8a",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--晋中",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "晋中市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fde3468cc6f624f7a50cd&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "6.8k-8.8k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fde3468cc6f624f7a50cd&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "6.8k-8.8k/月",
+      "monthlyMin": 6800,
+      "monthlyMax": 8800,
+      "annualMin": 81600,
+      "annualMax": 105600,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "6.8k–8.8k/月",
+      "annualDisplay": "8.16万–10.56万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "6.8k-8.8k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "6.8k–8.8k/月",
+    "annualSalary": "8.16万–10.56万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-f96ca03d14e7",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--天津",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "天津",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd4221ad6db7cf83ecb54&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.9k-10.3k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd4221ad6db7cf83ecb54&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.9k-10.3k/月",
+      "monthlyMin": 7900,
+      "monthlyMax": 10300,
+      "annualMin": 94800,
+      "annualMax": 123600,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.9k–1.03万/月",
+      "annualDisplay": "9.48万–12.36万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.9k-10.3k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.9k–1.03万/月",
+    "annualSalary": "9.48万–12.36万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-283f8675f42c",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--青岛",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "青岛市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd4ab1ad6db7cf83ecbb0&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.8k-10.3k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd4ab1ad6db7cf83ecbb0&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.8k-10.3k/月",
+      "monthlyMin": 7800,
+      "monthlyMax": 10300,
+      "annualMin": 93600,
+      "annualMax": 123600,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.8k–1.03万/月",
+      "annualDisplay": "9.36万–12.36万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.8k-10.3k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.8k–1.03万/月",
+    "annualSalary": "9.36万–12.36万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-585905466b59",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--淄博",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "淄博市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fe0924315481304d7937c&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.1k-9.2k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fe0924315481304d7937c&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.1k-9.2k/月",
+      "monthlyMin": 7100,
+      "monthlyMax": 9200,
+      "annualMin": 85200,
+      "annualMax": 110400,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.1k–9.2k/月",
+      "annualDisplay": "8.52万–11.04万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.1k-9.2k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.1k–9.2k/月",
+    "annualSalary": "8.52万–11.04万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-5f880d1dc515",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--海口",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "海口市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fb5574315481304d779ff&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.9k-10.3k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fb5574315481304d779ff&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.9k-10.3k/月",
+      "monthlyMin": 7900,
+      "monthlyMax": 10300,
+      "annualMin": 94800,
+      "annualMax": 123600,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.9k–1.03万/月",
+      "annualDisplay": "9.48万–12.36万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.9k-10.3k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.9k–1.03万/月",
+    "annualSalary": "9.48万–12.36万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-a6435c54b5e7",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--重庆",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "重庆",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fc7781ad6db7cf83ebdbe&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "8k-10.4k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fc7781ad6db7cf83ebdbe&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "8k-10.4k/月",
+      "monthlyMin": 8000,
+      "monthlyMax": 10400,
+      "annualMin": 96000,
+      "annualMax": 124800,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "8k–1.04万/月",
+      "annualDisplay": "9.6万–12.48万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "8k-10.4k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "8k–1.04万/月",
+    "annualSalary": "9.6万–12.48万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-ecb314c8e14e",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--贵阳",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "贵阳市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd09e68cc6f624f7a466a&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.6k-9.9k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd09e68cc6f624f7a466a&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.6k-9.9k/月",
+      "monthlyMin": 7600,
+      "monthlyMax": 9900,
+      "annualMin": 91200,
+      "annualMax": 118800,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.6k–9.9k/月",
+      "annualDisplay": "9.12万–11.88万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.6k-9.9k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.6k–9.9k/月",
+    "annualSalary": "9.12万–11.88万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-37210bd3cc91",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--呼和浩特",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "呼和浩特市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9fbb2f38cb5261fe59485e&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.6k-9.9k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9fbb2f38cb5261fe59485e&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.6k-9.9k/月",
+      "monthlyMin": 7600,
+      "monthlyMax": 9900,
+      "annualMin": 91200,
+      "annualMax": 118800,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.6k–9.9k/月",
+      "annualDisplay": "9.12万–11.88万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.6k-9.9k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.6k–9.9k/月",
+    "annualSalary": "9.12万–11.88万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-6251cef945a6",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--济南",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "济南市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd8ff1ad6db7cf83ecf34&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.8k-10.2k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd8ff1ad6db7cf83ecf34&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.8k-10.2k/月",
+      "monthlyMin": 7800,
+      "monthlyMax": 10200,
+      "annualMin": 93600,
+      "annualMax": 122400,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.8k–1.02万/月",
+      "annualDisplay": "9.36万–12.24万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.8k-10.2k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.8k–1.02万/月",
+    "annualSalary": "9.36万–12.24万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-986311f74602",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--保定",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "保定市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fddc24315481304d7908f&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "6k-8k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fddc24315481304d7908f&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "6k-8k/月",
+      "monthlyMin": 6000,
+      "monthlyMax": 8000,
+      "annualMin": 72000,
+      "annualMax": 96000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "6k–8k/月",
+      "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "6k-8k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "6k–8k/月",
+    "annualSalary": "7.2万–9.6万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-53a5b65525b0",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--福州",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "福州市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd29668cc6f624f7a478d&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.9k-10.3k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd29668cc6f624f7a478d&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.9k-10.3k/月",
+      "monthlyMin": 7900,
+      "monthlyMax": 10300,
+      "annualMin": 94800,
+      "annualMax": 123600,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.9k–1.03万/月",
+      "annualDisplay": "9.48万–12.36万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.9k-10.3k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.9k–1.03万/月",
+    "annualSalary": "9.48万–12.36万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-2ba4b6fd7e43",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--石家庄",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "石家庄市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fdf524315481304d791d4&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7k-10k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fdf524315481304d791d4&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7k-10k/月",
+      "monthlyMin": 7000,
+      "monthlyMax": 10000,
+      "annualMin": 84000,
+      "annualMax": 120000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7k–1万/月",
+      "annualDisplay": "8.4万–12万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7k-10k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7k–1万/月",
+    "annualSalary": "8.4万–12万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-89779baca3de",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--成都",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "成都",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fcf894315481304d78678&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "8.1k-10.5k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fcf894315481304d78678&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "8.1k-10.5k/月",
+      "monthlyMin": 8100,
+      "monthlyMax": 10500,
+      "annualMin": 97200,
+      "annualMax": 126000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "8.1k–1.05万/月",
+      "annualDisplay": "9.72万–12.6万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "8.1k-10.5k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "8.1k–1.05万/月",
+    "annualSalary": "9.72万–12.6万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-31283662852f",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--吉林",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "吉林市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fdd124315481304d79005&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "6k-9.1k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fdd124315481304d79005&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "6k-9.1k/月",
+      "monthlyMin": 6000,
+      "monthlyMax": 9100,
+      "annualMin": 72000,
+      "annualMax": 109200,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "6k–9.1k/月",
+      "annualDisplay": "7.2万–10.92万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "6k-9.1k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "6k–9.1k/月",
+    "annualSalary": "7.2万–10.92万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-f58e5de8e60c",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--银川",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "银川市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd1a21ad6db7cf83ec3bd&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7k-9k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd1a21ad6db7cf83ec3bd&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7k-9k/月",
+      "monthlyMin": 7000,
+      "monthlyMax": 9000,
+      "annualMin": 84000,
+      "annualMax": 108000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7k–9k/月",
+      "annualDisplay": "8.4万–10.8万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7k-9k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7k–9k/月",
+    "annualSalary": "8.4万–10.8万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-e9dc2e3e156e",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理(校园招聘)-乌鲁木齐",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "乌鲁木齐市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd11f1ad6db7cf83ec377&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.6k-9.9k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fd11f1ad6db7cf83ec377&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.6k-9.9k/月",
+      "monthlyMin": 7600,
+      "monthlyMax": 9900,
+      "annualMin": 91200,
+      "annualMax": 118800,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.6k–9.9k/月",
+      "annualDisplay": "9.12万–11.88万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.6k-9.9k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.6k–9.9k/月",
+    "annualSalary": "9.12万–11.88万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-39990652385b",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--南宁",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "南宁市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8facb61ad6db7cf83e66f2&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.8k-10.2k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8facb61ad6db7cf83e66f2&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.8k-10.2k/月",
+      "monthlyMin": 7800,
+      "monthlyMax": 10200,
+      "annualMin": 93600,
+      "annualMax": 122400,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.8k–1.02万/月",
+      "annualDisplay": "9.36万–12.24万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.8k-10.2k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.8k–1.02万/月",
+    "annualSalary": "9.36万–12.24万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-13cca9c5f4b9",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--哈尔滨",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "哈尔滨市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fdeca4315481304d7915f&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "6.5k-10.2k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fdeca4315481304d7915f&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "6.5k-10.2k/月",
+      "monthlyMin": 6500,
+      "monthlyMax": 10200,
+      "annualMin": 78000,
+      "annualMax": 122400,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "6.5k–1.02万/月",
+      "annualDisplay": "7.8万–12.24万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "6.5k-10.2k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "6.5k–1.02万/月",
+    "annualSalary": "7.8万–12.24万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-1441ad19724d",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--大庆",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "大庆市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fdc2e4315481304d78f56&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "7.3k-9.6k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8fdc2e4315481304d78f56&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "7.3k-9.6k/月",
+      "monthlyMin": 7300,
+      "monthlyMax": 9600,
+      "annualMin": 87600,
+      "annualMax": 115200,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "7.3k–9.6k/月",
+      "annualDisplay": "8.76万–11.52万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "7.3k-9.6k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "7.3k–9.6k/月",
+    "annualSalary": "8.76万–11.52万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-490670f0c18e",
+    "company": "Decathlon",
+    "title": "迪卡侬运动部门经理（校园招聘）--佛山",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "佛山",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "营销",
+      "品牌",
+      "分析"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8faaaa68cc6f624f79fb52&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-08-27",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "8.1k-10.5k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a8faaaa68cc6f624f79fb52&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "8.1k-10.5k/月",
+      "monthlyMin": 8100,
+      "monthlyMax": 10500,
+      "annualMin": 97200,
+      "annualMax": 126000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "8.1k–1.05万/月",
+      "annualDisplay": "9.72万–12.6万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "8.1k-10.5k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "8.1k–1.05万/月",
+    "annualSalary": "9.72万–12.6万/年（按12薪推算）"
+  },
+  {
     "id": "hotjob-58ed9e6ddd22",
     "company": "Decathlon",
     "title": "迪卡侬运动部门经理（校园招聘）--秦皇岛",
@@ -51720,7 +51204,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.5k-9.9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51824,7 +51308,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6k-10.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -51928,7 +51412,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.8k-10.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52032,7 +51516,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.2k-10k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52136,7 +51620,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8.1k-11.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52240,7 +51724,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8k-12k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52344,7 +51828,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8.1k-10.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52448,7 +51932,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.4k-9.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52552,7 +52036,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.4k-10.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52656,7 +52140,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.8k-10.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52760,7 +52244,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "8.1k-12.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52864,7 +52348,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.9k-10.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -52968,7 +52452,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.6k-9k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53072,7 +52556,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.5k-10.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53176,7 +52660,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.9k-10.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53280,7 +52764,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.4k-10k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53384,7 +52868,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.2k-10k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53488,7 +52972,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "6.8k-8.8k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53592,7 +53076,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "7.1k-9.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53699,7 +53183,7 @@ export const liveJobs = [
     "description": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
     "salary": "面议",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:44:14.693Z",
+    "discoveredAt": "2026-09-10T04:42:37.082Z",
     "candidateFit": {
       "warnings": [
         "商科/市场知识底子更占优"
@@ -53804,7 +53288,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.6k-6.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -53906,7 +53390,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.8k-5.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54008,7 +53492,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54110,7 +53594,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "4.8k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54212,7 +53696,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54314,7 +53798,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54416,7 +53900,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.4k-6.4k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54518,7 +54002,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.3k-6.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54620,7 +54104,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54722,7 +54206,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.7k-6.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54824,7 +54308,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -54926,7 +54410,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55028,7 +54512,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.3k-6.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55130,7 +54614,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5k-6.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55232,7 +54716,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.6k-6.6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55334,7 +54818,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.5k-6.5k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55436,7 +54920,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.1k-6.1k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55538,7 +55022,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.3k-6.3k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55640,7 +55124,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.5k-8k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55742,7 +55226,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.4k-6.2k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55844,7 +55328,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.2k-6k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -55946,7 +55430,7 @@ export const liveJobs = [
     "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
     "salary": "5.7k-6.7k/月",
     "status": "推荐",
-    "discoveredAt": "2026-09-10T03:46:08.734Z",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
     "candidateFit": {
       "warnings": [],
       "strengths": [],
@@ -56018,11 +55502,419 @@ export const liveJobs = [
     },
     "monthlySalary": "5.7k–6.7k/月",
     "annualSalary": "6.84万–8.04万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-45fa914893fe",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--徐州",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "徐州市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9008f94315481304d7ba90&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-02-25",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5.2k-6k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9008f94315481304d7ba90&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5.2k-6k/月",
+      "monthlyMin": 5200,
+      "monthlyMax": 6000,
+      "annualMin": 62400,
+      "annualMax": 72000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5.2k–6k/月",
+      "annualDisplay": "6.24万–7.2万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5.2k-6k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5.2k–6k/月",
+    "annualSalary": "6.24万–7.2万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-d7d7b5db9531",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--郑州",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "郑州市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94dbb2829af219b7d1e6bf&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-02-25",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5.5k-6.5k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a94dbb2829af219b7d1e6bf&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5.5k-6.5k/月",
+      "monthlyMin": 5500,
+      "monthlyMax": 6500,
+      "annualMin": 66000,
+      "annualMax": 78000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5.5k–6.5k/月",
+      "annualDisplay": "6.6万–7.8万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5.5k-6.5k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5.5k–6.5k/月",
+    "annualSalary": "6.6万–7.8万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-02ef7a508ce6",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--南昌",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "南昌市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9158ad4315481304d9a862&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-02-25",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5.2k-6.2k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9158ad4315481304d9a862&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5.2k-6.2k/月",
+      "monthlyMin": 5200,
+      "monthlyMax": 6200,
+      "annualMin": 62400,
+      "annualMax": 74400,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5.2k–6.2k/月",
+      "annualDisplay": "6.24万–7.44万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5.2k-6.2k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5.2k–6.2k/月",
+    "annualSalary": "6.24万–7.44万/年（按12薪推算）"
+  },
+  {
+    "id": "hotjob-e6596136aaf7",
+    "company": "Decathlon",
+    "title": "迪卡侬全渠道运动主管（校园招聘）--福州",
+    "roleFamily": [
+      "HR"
+    ],
+    "city": "福州市",
+    "graduationYear": "2027",
+    "skills": [],
+    "languages": [],
+    "experienceKeywords": [
+      "运营",
+      "项目",
+      "市场",
+      "数据",
+      "品牌"
+    ],
+    "preferenceTags": [],
+    "riskTags": [],
+    "source": "公司官方HotJob校招官网",
+    "sourceType": "official",
+    "sourceUrl": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9159894315481304d9aa46&postType=campus",
+    "verification": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+    "publishedAt": "2026-02-25",
+    "deadline": "2026-12-20",
+    "description": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+    "salary": "5.5k-6.5k/月",
+    "status": "推荐",
+    "discoveredAt": "2026-09-10T04:44:36.232Z",
+    "candidateFit": {
+      "warnings": [],
+      "strengths": [],
+      "penalty": 0,
+      "bonus": 0,
+      "major": {
+        "verdict": "待核",
+        "label": "未识别明确专业范围",
+        "evidence": []
+      },
+      "responsibility": {
+        "verdict": "待核",
+        "technical": [],
+        "business": []
+      },
+      "hardRequirements": [],
+      "eligibilityEvidence": [
+        "招聘对象：2027届",
+        "投递截止：2026-12-20"
+      ],
+      "decisionSteps": [
+        {
+          "step": 1,
+          "label": "专业范围",
+          "verdict": "待核",
+          "detail": "未识别明确专业范围"
+        },
+        {
+          "step": 2,
+          "label": "职责动词",
+          "verdict": "待核",
+          "detail": "未识别明显信号"
+        },
+        {
+          "step": 3,
+          "label": "硬技术/资格",
+          "verdict": "未发现硬门槛",
+          "detail": "无"
+        }
+      ]
+    },
+    "sourceChannel": "official_ats",
+    "sourceChannelLabel": "公司官方校招官网 / ATS 系统",
+    "sourceEvidence": [
+      {
+        "label": "公司官方HotJob校招官网",
+        "url": "https://wecruit.hotjob.cn/SU64631fe6bef57c0907f133c4/pb/posDetail.html?postId=6a9159894315481304d9aa46&postType=campus"
+      },
+      {
+        "label": "官方HotJob校招 · 官网核验2027届入口（校园招聘）",
+        "url": ""
+      }
+    ],
+    "compensation": {
+      "disclosed": true,
+      "raw": "5.5k-6.5k/月",
+      "monthlyMin": 5500,
+      "monthlyMax": 6500,
+      "annualMin": 66000,
+      "annualMax": 78000,
+      "salaryMonths": 12,
+      "monthlyEstimated": false,
+      "annualEstimated": true,
+      "monthlyDisplay": "5.5k–6.5k/月",
+      "annualDisplay": "6.6万–7.8万/年（按12薪推算）",
+      "sourceLabel": "企业官方JD/ATS",
+      "confidence": "high",
+      "evidence": "5.5k-6.5k/月 公司官方 HotJob 校招岗位；已读取完整职位职"
+    },
+    "monthlySalary": "5.5k–6.5k/月",
+    "annualSalary": "6.6万–7.8万/年（按12薪推算）"
   }
 ];
 
 export const discoveryMeta = {
-  "updatedAt": "2026-09-10T03:48:34.681Z",
+  "updatedAt": "2026-09-10T04:47:33.026Z",
   "source": "多源：公司官方招聘官网/API + 高校就业信息网 + 牛客公开职位 + 官网核验具体岗位",
   "mode": "岗位发现/情报库：公司官方源优先 + 重点高校就业网补充 + 多源证据合并去重；最终 S/A/B 与匹配度由 campus-job-board 负责",
   "stats": {
@@ -56030,7 +55922,7 @@ export const discoveryMeta = {
       "nowcoder": {
         "discoveredUrls": 1317,
         "scannedPages": 1317,
-        "keptJobs": 41,
+        "keptJobs": 47,
         "errors": 0
       },
       "moka": {
@@ -56385,8 +56277,8 @@ export const discoveryMeta = {
       "feishu": {
         "portals": 8,
         "scannedPortals": 8,
-        "listed": 2828,
-        "cohortMatched": 2353,
+        "listed": 2827,
+        "cohortMatched": 2352,
         "keptJobs": 503,
         "errors": 0,
         "perPortal": {
@@ -56461,19 +56353,19 @@ export const discoveryMeta = {
           },
           "蔚来": {
             "pages": 9,
-            "listed": 896,
+            "listed": 895,
             "keptJobs": 133,
             "errors": 0,
             "snapshotComplete": true,
             "emptyResult": false,
             "error": "",
             "websitePath": "campus",
-            "cohortMatched": 847,
+            "cohortMatched": 846,
             "missingCohort": 49,
             "internRejected": 384,
             "socialRejected": 0,
             "pureSalesRejected": 1,
-            "relevanceRejected": 328,
+            "relevanceRejected": 327,
             "cohortSamples": [
               "校招-NVH主动降噪工程师",
               "校招-车端AI Agent运行时基座软件开发工程师",
@@ -56575,9 +56467,9 @@ export const discoveryMeta = {
       "hotjob": {
         "portals": 4,
         "scannedPortals": 4,
-        "listed": 625,
-        "detailed": 209,
-        "keptJobs": 209,
+        "listed": 650,
+        "detailed": 244,
+        "keptJobs": 244,
         "errors": 0,
         "perPortal": {
           "德勤中国": {
@@ -56590,11 +56482,11 @@ export const discoveryMeta = {
           },
           "Decathlon": {
             "totalPositions": 372,
-            "listed": 337,
-            "detailed": 79,
-            "keptJobs": 79,
+            "listed": 372,
+            "detailed": 114,
+            "keptJobs": 114,
             "detailErrors": 0,
-            "totalPages": 25
+            "totalPages": 8
           },
           "伊利": {
             "totalPositions": 8,
@@ -56606,11 +56498,11 @@ export const discoveryMeta = {
           },
           "创维集团": {
             "totalPositions": 136,
-            "listed": 136,
+            "listed": 126,
             "detailed": 31,
             "keptJobs": 31,
             "detailErrors": 0,
-            "totalPages": 7
+            "totalPages": 14
           }
         }
       },
@@ -56633,18 +56525,18 @@ export const discoveryMeta = {
       "university": {
         "portals": 8,
         "scannedPortals": 8,
-        "listed": 129,
-        "detailed": 129,
-        "keptJobs": 25,
-        "errors": 1,
+        "listed": 99,
+        "detailed": 99,
+        "keptJobs": 19,
+        "errors": 5,
         "perPortal": {
           "广东外语外贸大学": {
             "company": "广东外语外贸大学",
             "listPages": 1,
-            "listed": 25,
-            "detailed": 25,
-            "keptJobs": 4,
-            "errors": 0,
+            "listed": 0,
+            "detailed": 0,
+            "keptJobs": 0,
+            "errors": 1,
             "priority": 120,
             "segments": [
               "外语外贸特色高校"
@@ -56681,10 +56573,10 @@ export const discoveryMeta = {
           "上海外国语大学": {
             "company": "上海外国语大学",
             "listPages": 1,
-            "listed": 5,
-            "detailed": 5,
+            "listed": 0,
+            "detailed": 0,
             "keptJobs": 0,
-            "errors": 0,
+            "errors": 1,
             "priority": 116,
             "segments": [
               "211",
@@ -56721,8 +56613,8 @@ export const discoveryMeta = {
             "listPages": 1,
             "listed": 31,
             "detailed": 31,
-            "keptJobs": 7,
-            "errors": 0,
+            "keptJobs": 6,
+            "errors": 1,
             "priority": 105,
             "segments": [
               "985",
@@ -56735,8 +56627,8 @@ export const discoveryMeta = {
             "listPages": 1,
             "listed": 20,
             "detailed": 20,
-            "keptJobs": 6,
-            "errors": 0,
+            "keptJobs": 5,
+            "errors": 1,
             "priority": 103,
             "segments": [
               "985",
@@ -57090,7 +56982,7 @@ export const discoveryMeta = {
           "company": "蔚来",
           "status": "healthy",
           "healthy": true,
-          "reason": "官方飞书源正常：列出896，正式2027候选463，筛选后133"
+          "reason": "官方飞书源正常：列出895，正式2027候选462，筛选后133"
         },
         {
           "provider": "feishu",
@@ -57132,7 +57024,7 @@ export const discoveryMeta = {
           "company": "Decathlon",
           "status": "healthy",
           "healthy": true,
-          "reason": "HotJob源正常：列出337，源内保留79"
+          "reason": "HotJob源正常：列出372，源内保留114"
         },
         {
           "provider": "hotjob",
@@ -57146,7 +57038,7 @@ export const discoveryMeta = {
           "company": "创维集团",
           "status": "healthy",
           "healthy": true,
-          "reason": "HotJob源正常：列出136，源内保留31"
+          "reason": "HotJob源正常：列出126，源内保留31"
         },
         {
           "provider": "anker",
@@ -57165,9 +57057,9 @@ export const discoveryMeta = {
         {
           "provider": "university",
           "company": "广东外语外贸大学",
-          "status": "healthy",
-          "healthy": true,
-          "reason": "官方源正常：本轮活动量25，源内保留4"
+          "status": "error",
+          "healthy": false,
+          "reason": "来源抓取存在 1 个错误"
         },
         {
           "provider": "university",
@@ -57186,9 +57078,9 @@ export const discoveryMeta = {
         {
           "provider": "university",
           "company": "上海外国语大学",
-          "status": "healthy",
-          "healthy": true,
-          "reason": "官方源正常：本轮活动量5，源内保留0"
+          "status": "error",
+          "healthy": false,
+          "reason": "来源抓取存在 1 个错误"
         },
         {
           "provider": "university",
@@ -57207,56 +57099,57 @@ export const discoveryMeta = {
         {
           "provider": "university",
           "company": "南开大学",
-          "status": "healthy",
-          "healthy": true,
-          "reason": "官方源正常：本轮活动量31，源内保留7"
+          "status": "error",
+          "healthy": false,
+          "reason": "来源抓取存在 1 个错误"
         },
         {
           "provider": "university",
           "company": "湖南大学",
-          "status": "healthy",
-          "healthy": true,
-          "reason": "官方源正常：本轮活动量20，源内保留6"
+          "status": "error",
+          "healthy": false,
+          "reason": "来源抓取存在 1 个错误"
         }
       ],
       "counts": {
-        "healthy": 63,
+        "healthy": 59,
         "empty": 2,
-        "unknown": 1,
-        "error": 1
+        "error": 5,
+        "unknown": 1
       },
       "total": 67,
-      "healthy": 63,
-      "attention": 4
+      "healthy": 59,
+      "attention": 8
     },
     "unhealthySources": [],
     "retainedSourceJobs": 0,
     "verifiedConcreteJobs": 2,
     "granularityExcluded": 0,
     "policyExcluded": {
-      "专业硬门槛与英语专业不匹配": 76,
-      "硬技术能力要求": 49,
-      "明确技术工程/实施岗位": 13,
-      "技术职责主导": 10,
+      "专业硬门槛与英语专业不匹配": 78,
+      "硬技术能力要求": 52,
+      "必须小语种": 26,
+      "必须专业资格证书": 1,
+      "明确技术工程/实施岗位": 12,
+      "技术职责主导": 11,
       "实习岗位": 7,
-      "纯销售": 3,
-      "必须小语种": 25
+      "纯销售": 3
     },
-    "retainedSeeds": 3,
+    "retainedSeeds": 2,
     "totalJobs": 500,
-    "companies": 57,
+    "companies": 51,
     "university": {
       "targetSchools": 56,
       "activeSchools": 8,
-      "discovered": 129,
-      "keptBeforeGranularity": 25,
-      "keptAfterGranularityAndPolicy": 14
+      "discovered": 99,
+      "keptBeforeGranularity": 19,
+      "keptAfterGranularityAndPolicy": 10
     },
     "compensation": {
-      "disclosed": 114,
-      "officialDisclosed": 114,
-      "annualized": 114,
-      "undisclosed": 386,
+      "disclosed": 152,
+      "officialDisclosed": 152,
+      "annualized": 152,
+      "undisclosed": 348,
       "totalJobs": 500
     }
   },
