@@ -46,6 +46,8 @@ const config = JSON.parse(fs.readFileSync(path.join(root, 'config/search-profile
 if (config.graduationYear !== '2027' || !config.roleKeywords?.length || !config.keywords?.length) {
   throw new Error('search profile validation failed');
 }
+const effectiveGraduationYear = (source = {}) => String(source.graduationYear || config.graduationYear || '');
+const effectiveSourceUrl = (source = {}) => String(source.url || source.baseUrl || '');
 
 const requestConfig = JSON.parse(fs.readFileSync(path.join(root, 'config/company-requests.json'), 'utf8'));
 if (!Array.isArray(requestConfig)) throw new Error('company request queue must be an array');
@@ -71,7 +73,7 @@ if (JSON.stringify(generatedDiscovery) !== JSON.stringify(sourceDiscovery)) {
 
 const sources = JSON.parse(fs.readFileSync(path.join(root, 'config/official-sources.json'), 'utf8'));
 if (!Array.isArray(sources.moka) || !sources.moka.length) throw new Error('official Moka source registry is empty');
-if (sources.moka.some((s) => !s.company || !/^https:\/\/(app\.mokahr\.com|[a-z0-9.-]+\.(?:com|cn))\//.test(s.url) || s.graduationYear !== '2027')) {
+if (sources.moka.some((s) => !s.company || !/^https:\/\/(app\.mokahr\.com|[a-z0-9.-]+\.(?:com|cn))\//.test(effectiveSourceUrl(s)) || effectiveGraduationYear(s) !== '2027')) {
   throw new Error('official Moka source registry validation failed');
 }
 if (!Array.isArray(sources.beisen) || !sources.beisen.length) throw new Error('official Beisen source registry is empty');
@@ -79,7 +81,7 @@ if (sources.beisen.some((s) => {
   const beisenCustomDomains = ['https://hr-campus.vivo.com', 'https://jobs.hisense.com', 'https://campus.boe.com'];
   const validHost = /^https:\/\/[a-z0-9.-]+\.zhiye\.com$/i.test(s.baseUrl) || beisenCustomDomains.includes(s.baseUrl);
   const validMode = !s.mode || s.mode === 'html';
-  return !s.company || !validHost || !validMode || s.graduationYear !== '2027';
+  return !s.company || !validHost || !validMode || effectiveGraduationYear(s) !== '2027';
 })) {
   throw new Error('official Beisen source registry validation failed');
 }
@@ -91,7 +93,7 @@ if (sources.feishu.some((s) => {
   const validHost = /^https:\/\/[a-z0-9.-]+\.jobs\.(feishu\.cn|f\.mioffice\.cn)$/i.test(s.baseUrl);
   const validPath = /^[A-Za-z0-9_/-]{1,80}$/.test(s.websitePath || '');
   const validDetail = !s.detailTemplate || /^https:\/\/[a-z0-9.-]+\.jobs\.(feishu\.cn|f\.mioffice\.cn)\/.+\{id\}.+$/i.test(s.detailTemplate);
-  const validCohort = s.graduationYear === '2027' && !s.cohortMode;
+  const validCohort = effectiveGraduationYear(s) === '2027' && !s.cohortMode;
   return !s.company || !validHost || !validPath || !validDetail || !validCohort || Number(s.maxJobs || 0) < 10 || Number(s.maxPages || 0) < 1;
 })) {
   throw new Error('official generic Feishu source registry validation failed');
@@ -100,27 +102,26 @@ if (sources.feishu.some((s) => {
 if (!Array.isArray(sources.hotjob) || !sources.hotjob.length) throw new Error('official HotJob source registry is empty');
 if (sources.hotjob.some((s) => {
   if (s.corpPath) {
-    // hztp shape (e.g. Yili): GET JSON list under a per-corp path, no SU tenant.
     const validHost = /^https:\/\/[a-z0-9.-]+\.hotjob\.cn$/.test(s.baseUrl || '');
     const validPath = /^[a-z0-9/_-]+$/.test(s.corpPath || '');
-    return !s.company || !validHost || !validPath || s.graduationYear !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
+    return !s.company || !validHost || !validPath || effectiveGraduationYear(s) !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
   }
   const hotjobCustomDomains = ['https://career.honor.com', 'https://hr.sensetime.com'];
   const validHost = /^https:\/\/[a-z0-9.-]+\.hotjob\.cn$/.test(s.baseUrl || '') || hotjobCustomDomains.includes(s.baseUrl);
   const validTenant = /^[a-f0-9]{24}$/i.test(s.tenant || '');
   const validUrl = new RegExp(`^https:\/\/[a-z0-9.-]+\\.hotjob\\.cn/SU${s.tenant}/`).test(s.url || '') ||
     (hotjobCustomDomains.some(d => (s.url || '').startsWith(d)) && (s.url || '').includes(`/SU${s.tenant}/`));
-  return !s.company || !validHost || !validTenant || !validUrl || s.graduationYear !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
+  return !s.company || !validHost || !validTenant || !validUrl || effectiveGraduationYear(s) !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
 })) {
   throw new Error('official HotJob source registry validation failed');
 }
 
 const anker = sources.anker;
-if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker-in.com/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || !anker.websiteId || anker.graduationYear !== '2027' || Number(anker.maxJobs) < 10 || Number(anker.maxPages) < 1) {
+if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker-in.com/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || !anker.websiteId || effectiveGraduationYear(anker) !== '2027' || Number(anker.maxJobs) < 10 || Number(anker.maxPages) < 1) {
   throw new Error('official Anker source registry validation failed');
 }
 const ecoflow = sources.ecoflow;
-if (!ecoflow || ecoflow.company !== '正浩创新EcoFlow' || !/^https:\/\/jobs\.ecoflow\.com\/602892/.test(ecoflow.url) || ecoflow.apiBase !== 'https://jobs.ecoflow.com' || ecoflow.websitePath !== '602892' || Number(ecoflow.portalType) !== 6 || ecoflow.graduationYear !== '2027' || Number(ecoflow.maxJobs) < 10 || Number(ecoflow.maxPages) < 1) {
+if (!ecoflow || ecoflow.company !== '正浩创新EcoFlow' || !/^https:\/\/jobs\.ecoflow\.com\/602892/.test(ecoflow.url) || ecoflow.apiBase !== 'https://jobs.ecoflow.com' || ecoflow.websitePath !== '602892' || Number(ecoflow.portalType) !== 6 || effectiveGraduationYear(ecoflow) !== '2027' || Number(ecoflow.maxJobs) < 10 || Number(ecoflow.maxPages) < 1) {
   throw new Error('official EcoFlow Feishu API registry validation failed');
 }
 

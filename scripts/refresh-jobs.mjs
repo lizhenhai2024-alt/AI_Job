@@ -160,9 +160,10 @@ function adapterOptions(source = {}) {
 function normalizedSource(provider, source = {}) {
   const normalized = { ...source };
 
-  // Some source configs predate the adapter contract. Preserve the configured
-  // base URL as a safe fallback, but do not invent provider-specific endpoints.
+  // Source entries are allowed to inherit the global target cohort and to use
+  // baseUrl when an adapter's historical schema did not require a url field.
   if (!normalized.url && normalized.baseUrl) normalized.url = normalized.baseUrl;
+  if (!normalized.graduationYear && config.graduationYear) normalized.graduationYear = config.graduationYear;
 
   // Topband's token is encoded in the configured website path.
   if (provider === 'topband' && !normalized.token) {
@@ -171,6 +172,12 @@ function normalizedSource(provider, source = {}) {
   }
 
   return normalized;
+}
+
+function normalizedSources(provider) {
+  const configured = officialSources?.[provider];
+  const sources = Array.isArray(configured) ? configured : configured ? [configured] : [];
+  return sources.map((source) => normalizedSource(provider, source));
 }
 
 function aggregateNumericStats(target, stats = {}) {
@@ -187,14 +194,12 @@ function aggregateNumericStats(target, stats = {}) {
 }
 
 async function searchConfiguredSourceList(provider, searcher) {
-  const configured = officialSources?.[provider];
-  const sources = Array.isArray(configured) ? configured : configured ? [configured] : [];
+  const sources = normalizedSources(provider);
   const jobs = [];
   const perPortal = {};
   const aggregate = { keptJobs: 0, errors: 0, snapshotComplete: true, perPortal };
 
-  for (const rawSource of sources) {
-    const source = normalizedSource(provider, rawSource);
+  for (const source of sources) {
     let result;
 
     try {
@@ -251,7 +256,7 @@ if (sourceConfigured('moka')) {
   try {
     if (!chromium) throw new Error('Playwright Chromium unavailable');
     console.log('[job-refresh:moka] starting (Playwright, isolated)');
-    const result = await searchMokaJobs(config, officialSources.moka || [], { chromium });
+    const result = await searchMokaJobs(config, normalizedSources('moka'), { chromium });
     sourceResults.push({ name: 'moka', ...result });
     logSourceResult('moka', result);
   } catch (error) {
@@ -263,7 +268,7 @@ if (sourceConfigured('bytedance')) {
   try {
     if (!chromium) throw new Error('Playwright Chromium unavailable');
     console.log('[job-refresh:bytedance] starting (Playwright, isolated)');
-    const source = officialSources.bytedance;
+    const source = normalizedSource('bytedance', officialSources.bytedance);
     const result = await searchBytedanceJobs(config, source, adapterOptions(source));
     sourceResults.push({ name: 'bytedance', ...result });
     logSourceResult('bytedance', result);
@@ -275,9 +280,9 @@ if (sourceConfigured('bytedance')) {
 const parallelTasks = [];
 
 addParallelTask(parallelTasks, 'nowcoder', () => searchNowcoderJobs(config));
-addParallelTask(parallelTasks, 'beisen', () => searchBeisenJobs(config, officialSources.beisen || []));
-addParallelTask(parallelTasks, 'feishu', () => searchFeishuJobs(config, officialSources.feishu || []));
-addParallelTask(parallelTasks, 'hotjob', () => searchHotjobJobs(config, officialSources.hotjob || []));
+addParallelTask(parallelTasks, 'beisen', () => searchBeisenJobs(config, normalizedSources('beisen')));
+addParallelTask(parallelTasks, 'feishu', () => searchFeishuJobs(config, normalizedSources('feishu')));
+addParallelTask(parallelTasks, 'hotjob', () => searchHotjobJobs(config, normalizedSources('hotjob')));
 
 for (const [provider, searcher] of [
   ['anker', searchAnkerJobs],
@@ -291,7 +296,7 @@ for (const [provider, searcher] of [
   ['ctrip', searchCtripJobs]
 ]) {
   addParallelTask(parallelTasks, provider, () => {
-    const source = officialSources[provider];
+    const source = normalizedSource(provider, officialSources[provider]);
     return searcher(config, source, adapterOptions(source));
   });
 }
