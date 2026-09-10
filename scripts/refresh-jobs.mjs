@@ -21,7 +21,7 @@ import { search51JobCampus } from './job-discovery/job51.mjs';
 import { searchPhenomJobs } from './job-discovery/phenom.mjs';
 import { searchAvatureJobs } from './job-discovery/avature.mjs';
 import { searchSuccessFactorsJobs } from './job-discovery/successfactors.mjs';
-import { relevanceScore, isClosed } from './job-discovery/core.mjs';
+import { isClosed } from './job-discovery/core.mjs';
 import { shouldExcludeByPolicy, jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
 import { enrichProvenanceFields } from '../src/core/source-provenance.js';
 import { buildSourceHealth } from './job-discovery/source-health.mjs';
@@ -34,8 +34,13 @@ const officialSources = JSON.parse(await fs.readFile(path.join(root, 'config/off
 const livePath = path.join(root, 'src/data/live-jobs.js');
 const sourceHealthPath = path.join(root, 'src/data/source-health.js');
 
-// 并发控制：同时最多运行 MAX_CONCURRENCY 个任务
 const MAX_CONCURRENCY = 3;
+const SUPPORTED_PROVIDERS = [
+  'nowcoder', 'moka', 'beisen', 'feishu', 'hotjob', 'anker', 'ecoflow',
+  'alibaba', 'tencent', 'bytedance', 'meituan', 'pinduoduo', 'kuaishou',
+  'xiaohongshu', 'ctrip', 'topband', 'job51', 'phenom', 'avature',
+  'successfactors'
+];
 
 async function runWithConcurrency(tasks, maxConcurrency = MAX_CONCURRENCY) {
   const results = new Array(tasks.length);
@@ -53,7 +58,10 @@ async function runWithConcurrency(tasks, maxConcurrency = MAX_CONCURRENCY) {
     }
   }
 
-  const workers = Array.from({ length: Math.min(maxConcurrency, tasks.length) }, () => worker());
+  const workers = Array.from(
+    { length: Math.min(maxConcurrency, Math.max(tasks.length, 1)) },
+    () => worker()
+  );
   await Promise.all(workers);
   return results;
 }
@@ -62,11 +70,22 @@ async function loadExisting() {
   try {
     const mod = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
     return Array.isArray(mod.liveJobs) ? mod.liveJobs : [];
-  } catch { return []; }
+  } catch {
+    return [];
+  }
 }
 
 function cleanForStorage(job) {
-  const { _searchText, _category, _subject, _sourceJobId, _recruitType, closed, excludeFromLiveBoard, ...clean } = job;
+  const {
+    _searchText,
+    _category,
+    _subject,
+    _sourceJobId,
+    _recruitType,
+    closed,
+    excludeFromLiveBoard,
+    ...clean
+  } = job;
   return clean;
 }
 
@@ -79,21 +98,31 @@ function healthModule(health, updatedAt) {
 }
 
 function dedupePreferOfficial(jobs = []) {
-  const rank = (j) => j?.sourceType === 'official' ? 2 : j?.sourceType === 'secondary' ? 1 : 0;
+  const rank = (job) => job?.sourceType === 'official' ? 2 : job?.sourceType === 'secondary' ? 1 : 0;
   const map = new Map();
+
   for (const job of jobs) {
     if (!job?.id) continue;
-    const key = `${String(job.company || '').trim().toLowerCase()}|${String(job.title || '').replace(/[\s【】〖〗()（）\-_]/g,'').toLowerCase()}|${String(job.city || '').trim().toLowerCase()}`;
-    const prev = map.get(key);
-    if (!prev || rank(job) > rank(prev) || (rank(job) === rank(prev) && String(job.publishedAt || '') > String(prev.publishedAt || ''))) map.set(key, job);
+    const key = `${String(job.company || '').trim().toLowerCase()}|${String(job.title || '').replace(/[\s【】〖〗()（）\-_]/g, '').toLowerCase()}|${String(job.city || '').trim().toLowerCase()}`;
+    const previous = map.get(key);
+    if (
+      !previous
+      || rank(job) > rank(previous)
+      || (rank(job) === rank(previous) && String(job.publishedAt || '') > String(previous.publishedAt || ''))
+    ) {
+      map.set(key, job);
+    }
   }
+
   return [...map.values()];
 }
 
 function countPolicyReasons(jobs = []) {
   const stats = {};
   for (const job of jobs) {
-    for (const reason of jobPolicyReasons(job)) stats[reason] = (stats[reason] || 0) + 1;
+    for (const reason of jobPolicyReasons(job)) {
+      stats[reason] = (stats[reason] || 0) + 1;
+    }
   }
   return stats;
 }
@@ -114,309 +143,193 @@ function logSourceResult(name, result) {
   if (stats.listed !== undefined) parts.push(`listed=${stats.listed}`);
   if (stats.detailed !== undefined) parts.push(`detailed=${stats.detailed}`);
   if (stats.pages !== undefined) parts.push(`pages=${stats.pages}`);
-  parts.push(`kept=${stats.keptJobs}`);
-  parts.push(`errors=${stats.errors}`);
+  parts.push(`kept=${Number(stats.keptJobs || 0)}`);
+  parts.push(`errors=${Number(stats.errors || 0) + Number(stats.detailErrors || 0)}`);
   if (stats.snapshotComplete !== undefined) parts.push(`complete=${stats.snapshotComplete}`);
   console.log(`[job-refresh:${name}] ${parts.join(' ')}`);
+}
+
+function adapterOptions(source = {}) {
+  return {
+    maxJobs: source.maxJobs,
+    pageSize: source.pageSize,
+    maxPages: source.maxPages
+  };
+}
+
+function normalizedSource(provider, source = {}) {
+  const normalized = { ...source };
+
+  // Some source configs predate the adapter contract. Preserve the configured
+  // base URL as a safe fallback, but do not invent provider-specific endpoints.
+  if (!normalized.url && normalized.baseUrl) normalized.url = normalized.baseUrl;
+
+  // Topband's token is encoded in the configured website path.
+  if (provider === 'topband' && !normalized.token) {
+    const parts = String(normalized.websitePath || '').split('/').filter(Boolean);
+    normalized.token = parts.at(-1) || '';
+  }
+
+  return normalized;
+}
+
+function aggregateNumericStats(target, stats = {}) {
+  const numericKeys = [
+    'pages', 'listed', 'detailed', 'scannedRows', 'scannedPages',
+    'discoveredUrls', 'keptJobs', 'errors', 'detailErrors',
+    'internRejected', 'socialRejected', 'cohortMatched'
+  ];
+  for (const key of numericKeys) {
+    if (stats[key] !== undefined) {
+      target[key] = Number(target[key] || 0) + Number(stats[key] || 0);
+    }
+  }
+}
+
+async function searchConfiguredSourceList(provider, searcher) {
+  const configured = officialSources?.[provider];
+  const sources = Array.isArray(configured) ? configured : configured ? [configured] : [];
+  const jobs = [];
+  const perPortal = {};
+  const aggregate = { keptJobs: 0, errors: 0, snapshotComplete: true, perPortal };
+
+  for (const rawSource of sources) {
+    const source = normalizedSource(provider, rawSource);
+    let result;
+
+    try {
+      result = await searcher(config, source, adapterOptions(source));
+    } catch (error) {
+      result = {
+        jobs: [],
+        stats: {
+          errors: 1,
+          keptJobs: 0,
+          snapshotComplete: false,
+          error: String(error?.message || error)
+        }
+      };
+    }
+
+    jobs.push(...(Array.isArray(result?.jobs) ? result.jobs : []));
+    const stats = result?.stats || {};
+    perPortal[source.company || source.baseUrl || source.url || 'unknown'] = stats;
+    aggregateNumericStats(aggregate, stats);
+    if (stats.snapshotComplete === false || Number(stats.errors || 0) > 0 || Number(stats.detailErrors || 0) > 0) {
+      aggregate.snapshotComplete = false;
+    }
+  }
+
+  aggregate.keptJobs = jobs.length;
+  if (!sources.length) aggregate.snapshotComplete = false;
+  return { jobs, stats: aggregate };
+}
+
+function addParallelTask(tasks, name, fn) {
+  if (!sourceConfigured(name)) return;
+  tasks.push({
+    name,
+    fn: async () => {
+      console.log(`[job-refresh:${name}] starting`);
+      const result = await fn();
+      logSourceResult(name, result);
+      return result;
+    }
+  });
 }
 
 const existing = await loadExisting();
 const sourceResults = [];
 let chromium = null;
-try { chromium = (await import('playwright')).chromium; } catch {}
+try {
+  chromium = (await import('playwright')).chromium;
+} catch {}
 
 console.log(`[job-refresh] starting refresh with concurrency=${MAX_CONCURRENCY}`);
 
-// === 第一阶段：moka 和 bytedance 单独运行（需要 Playwright，资源占用大，避免并发冲突）===
-try {
-  if (!chromium) throw new Error('Playwright Chromium unavailable');
-  console.log('[job-refresh:moka] starting (Playwright, isolated)');
-  const moka = await searchMokaJobs(config, officialSources.moka || [], { chromium });
-  sourceResults.push({ name: 'moka', ...moka });
-  logSourceResult('moka', moka);
-} catch (error) {
-  console.warn(`[job-refresh:moka] skipped: ${error.message}`);
+if (sourceConfigured('moka')) {
+  try {
+    if (!chromium) throw new Error('Playwright Chromium unavailable');
+    console.log('[job-refresh:moka] starting (Playwright, isolated)');
+    const result = await searchMokaJobs(config, officialSources.moka || [], { chromium });
+    sourceResults.push({ name: 'moka', ...result });
+    logSourceResult('moka', result);
+  } catch (error) {
+    console.warn(`[job-refresh:moka] failed: ${error.message}`);
+  }
 }
 
-// bytedance 使用 Playwright 生成 _signature，必须单独串行运行
-if (sourceConfigured('bytedance') && officialSources.bytedance) {
+if (sourceConfigured('bytedance')) {
   try {
     if (!chromium) throw new Error('Playwright Chromium unavailable');
     console.log('[job-refresh:bytedance] starting (Playwright, isolated)');
-    const bytedance = await searchBytedanceJobs(config, officialSources.bytedance, {
-      maxJobs: officialSources.bytedance?.maxJobs,
-      pageSize: officialSources.bytedance?.pageSize,
-      maxPages: officialSources.bytedance?.maxPages
-    });
-    sourceResults.push({ name: 'bytedance', ...bytedance });
-    logSourceResult('bytedance', bytedance);
+    const source = officialSources.bytedance;
+    const result = await searchBytedanceJobs(config, source, adapterOptions(source));
+    sourceResults.push({ name: 'bytedance', ...result });
+    logSourceResult('bytedance', result);
   } catch (error) {
     console.warn(`[job-refresh:bytedance] failed: ${error.message}`);
   }
 }
 
-
-// === 第二阶段：其他源并行运行（纯 HTTP 请求，无需 Playwright）===
 const parallelTasks = [];
 
-if (sourceConfigured('nowcoder')) {
-  parallelTasks.push({
-    name: 'nowcoder',
-    fn: async () => {
-      console.log('[job-refresh:nowcoder] starting');
-      const result = await searchNowcoderJobs(config);
-      logSourceResult('nowcoder', result);
-      return result;
-    }
+addParallelTask(parallelTasks, 'nowcoder', () => searchNowcoderJobs(config));
+addParallelTask(parallelTasks, 'beisen', () => searchBeisenJobs(config, officialSources.beisen || []));
+addParallelTask(parallelTasks, 'feishu', () => searchFeishuJobs(config, officialSources.feishu || []));
+addParallelTask(parallelTasks, 'hotjob', () => searchHotjobJobs(config, officialSources.hotjob || []));
+
+for (const [provider, searcher] of [
+  ['anker', searchAnkerJobs],
+  ['ecoflow', searchEcoflowJobs],
+  ['alibaba', searchAlibabaJobs],
+  ['tencent', searchTencentJobs],
+  ['meituan', searchMeituanJobs],
+  ['pinduoduo', searchPinduoduoJobs],
+  ['kuaishou', searchKuaishouJobs],
+  ['xiaohongshu', searchXiaohongshuJobs],
+  ['ctrip', searchCtripJobs]
+]) {
+  addParallelTask(parallelTasks, provider, () => {
+    const source = officialSources[provider];
+    return searcher(config, source, adapterOptions(source));
   });
 }
 
-if (sourceConfigured('beisen')) {
-  parallelTasks.push({
-    name: 'beisen',
-    fn: async () => {
-      console.log('[job-refresh:beisen] starting');
-      const result = await searchBeisenJobs(config, officialSources.beisen || []);
-      logSourceResult('beisen', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('feishu')) {
-  parallelTasks.push({
-    name: 'feishu',
-    fn: async () => {
-      console.log('[job-refresh:feishu] starting');
-      const result = await searchFeishuJobs(config, officialSources.feishu || []);
-      logSourceResult('feishu', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('hotjob')) {
-  parallelTasks.push({
-    name: 'hotjob',
-    fn: async () => {
-      console.log('[job-refresh:hotjob] starting');
-      const result = await searchHotjobJobs(config, officialSources.hotjob || []);
-      logSourceResult('hotjob', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('anker') && officialSources.anker) {
-  parallelTasks.push({
-    name: 'anker',
-    fn: async () => {
-      console.log('[job-refresh:anker] starting');
-      const result = await searchAnkerJobs(config, officialSources.anker, {
-        maxJobs: officialSources.anker?.maxJobs,
-        pageSize: officialSources.anker?.pageSize,
-        maxPages: officialSources.anker?.maxPages
-      });
-      logSourceResult('anker', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('ecoflow') && officialSources.ecoflow) {
-  parallelTasks.push({
-    name: 'ecoflow',
-    fn: async () => {
-      console.log('[job-refresh:ecoflow] starting');
-      const result = await searchEcoflowJobs(config, officialSources.ecoflow, {
-        maxJobs: officialSources.ecoflow?.maxJobs,
-        pageSize: officialSources.ecoflow?.pageSize,
-        maxPages: officialSources.ecoflow?.maxPages
-      });
-      logSourceResult('ecoflow', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('alibaba') && officialSources.alibaba) {
-  parallelTasks.push({
-    name: 'alibaba',
-    fn: async () => {
-      console.log('[job-refresh:alibaba] starting');
-      const result = await searchAlibabaJobs(config, officialSources.alibaba, {
-        maxJobs: officialSources.alibaba?.maxJobs,
-        pageSize: officialSources.alibaba?.pageSize,
-        maxPages: officialSources.alibaba?.maxPages
-      });
-      logSourceResult('alibaba', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('tencent') && officialSources.tencent) {
-  parallelTasks.push({
-    name: 'tencent',
-    fn: async () => {
-      console.log('[job-refresh:tencent] starting');
-      const result = await searchTencentJobs(config, officialSources.tencent, {
-        maxJobs: officialSources.tencent?.maxJobs,
-        pageSize: officialSources.tencent?.pageSize,
-        maxPages: officialSources.tencent?.maxPages
-      });
-      logSourceResult('tencent', result);
-      return result;
-    }
-  });
-}
-
-
-if (sourceConfigured('meituan') && officialSources.meituan) {
-  parallelTasks.push({
-    name: 'meituan',
-    fn: async () => {
-      console.log('[job-refresh:meituan] starting');
-      const result = await searchMeituanJobs(config, officialSources.meituan, {
-        maxJobs: officialSources.meituan?.maxJobs,
-        pageSize: officialSources.meituan?.pageSize,
-        maxPages: officialSources.meituan?.maxPages
-      });
-      logSourceResult('meituan', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('pinduoduo') && officialSources.pinduoduo) {
-  parallelTasks.push({
-    name: 'pinduoduo',
-    fn: async () => {
-      console.log('[job-refresh:pinduoduo] starting');
-      const result = await searchPinduoduoJobs(config, officialSources.pinduoduo, {
-        maxJobs: officialSources.pinduoduo?.maxJobs,
-        pageSize: officialSources.pinduoduo?.pageSize,
-        maxPages: officialSources.pinduoduo?.maxPages
-      });
-      logSourceResult('pinduoduo', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('kuaishou') && officialSources.kuaishou) {
-  parallelTasks.push({
-    name: 'kuaishou',
-    fn: async () => {
-      console.log('[job-refresh:kuaishou] starting');
-      const result = await searchKuaishouJobs(config, officialSources.kuaishou, {
-        maxJobs: officialSources.kuaishou?.maxJobs,
-        pageSize: officialSources.kuaishou?.pageSize,
-        maxPages: officialSources.kuaishou?.maxPages
-      });
-      logSourceResult('kuaishou', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('xiaohongshu') && officialSources.xiaohongshu) {
-  parallelTasks.push({
-    name: 'xiaohongshu',
-    fn: async () => {
-      console.log('[job-refresh:xiaohongshu] starting');
-      const result = await searchXiaohongshuJobs(config, officialSources.xiaohongshu, {
-        maxJobs: officialSources.xiaohongshu?.maxJobs,
-        pageSize: officialSources.xiaohongshu?.pageSize,
-        maxPages: officialSources.xiaohongshu?.maxPages
-      });
-      logSourceResult('xiaohongshu', result);
-      return result;
-    }
-  });
-}
-
-if (sourceConfigured('ctrip') && officialSources.ctrip) {
-  parallelTasks.push({
-    name: 'ctrip',
-    fn: async () => {
-      console.log('[job-refresh:ctrip] starting');
-      const result = await searchCtripJobs(config, officialSources.ctrip, {
-        maxJobs: officialSources.ctrip?.maxJobs,
-        pageSize: officialSources.ctrip?.pageSize,
-        maxPages: officialSources.ctrip?.maxPages
-      });
-      lo
-if (sourceConfigured('topband') && officialSources.topband) {
-  parallelTasks.push({ name: 'topband', fn: async () => {
-    console.log('[job-refresh:topband] starting');
-    const result = await searchTopbandJobs(config, officialSources.topband, { maxJobs: officialSources.topband?.maxJobs, pageSize: officialSources.topband?.pageSize, maxPages: officialSources.topband?.maxPages });
-    logSourceResult('topband', result);
-    return result;
-  }});
-}
-
-if (sourceConfigured('job51') && officialSources.job51) {
-  parallelTasks.push({ name: 'job51', fn: async () => {
-    console.log('[job-refresh:job51] starting');
-    const result = await search51JobCampus(config, officialSources.job51);
-    logSourceResult('job51', result);
-    return result;
-  }});
-}
-
-if (sourceConfigured('phenom') && officialSources.phenom) {
-  parallelTasks.push({ name: 'phenom', fn: async () => {
-    console.log('[job-refresh:phenom] starting');
-    const result = await searchPhenomJobs(config, officialSources.phenom, { maxJobs: officialSources.phenom?.maxJobs, pageSize: officialSources.phenom?.pageSize, maxPages: officialSources.phenom?.maxPages });
-    logSourceResult('phenom', result);
-    return result;
-  }});
-}
-
-if (sourceConfigured('avature') && officialSources.avature) {
-  parallelTasks.push({ name: 'avature', fn: async () => {
-    console.log('[job-refresh:avature] starting');
-    const result = await searchAvatureJobs(config, officialSources.avature, { maxJobs: officialSources.avature?.maxJobs, maxPages: officialSources.avature?.maxPages });
-    logSourceResult('avature', result);
-    return result;
-  }});
-}
-
-if (sourceConfigured('successfactors') && officialSources.successfactors) {
-  parallelTasks.push({ name: 'successfactors', fn: async () => {
-    console.log('[job-refresh:successfactors] starting');
-    const result = await searchSuccessFactorsJobs(config, officialSources.successfactors, { maxJobs: officialSources.successfactors?.maxJobs, maxPages: officialSources.successfactors?.maxPages });
-    logSourceResult('successfactors', result);
-    return result;
-  }});
-}
-gSourceResult('ctrip', result);
-      return result;
-    }
-  });
+for (const [provider, searcher] of [
+  ['topband', searchTopbandJobs],
+  ['job51', search51JobCampus],
+  ['phenom', searchPhenomJobs],
+  ['avature', searchAvatureJobs],
+  ['successfactors', searchSuccessFactorsJobs]
+]) {
+  addParallelTask(
+    parallelTasks,
+    provider,
+    () => searchConfiguredSourceList(provider, searcher)
+  );
 }
 
 console.log(`[job-refresh] running ${parallelTasks.length} sources in parallel (concurrency=${MAX_CONCURRENCY})`);
-
 const parallelResults = await runWithConcurrency(parallelTasks, MAX_CONCURRENCY);
 
 for (let i = 0; i < parallelTasks.length; i++) {
   const task = parallelTasks[i];
   const result = parallelResults[i];
+
   if (result.status === 'fulfilled') {
     sourceResults.push({ name: task.name, ...result.value });
   } else {
-    console.warn(`[job-refresh:${task.name}] failed: ${result.reason.message}`);
+    console.warn(`[job-refresh:${task.name}] failed: ${result.reason?.message || result.reason}`);
   }
 }
 
-console.log(`[job-refresh] all sources completed: ${sourceResults.length}/${parallelTasks.length + 1} successful`);
+const configuredProviders = SUPPORTED_PROVIDERS.filter(sourceConfigured);
+console.log(`[job-refresh] all sources completed: ${sourceResults.length}/${configuredProviders.length} successful`);
 
-// === 后续处理逻辑保持不变 ===
-const configuredProviders = ['nowcoder','moka','beisen','feishu','hotjob','anker','ecoflow','alibaba','tencent','bytedance','meituan','pinduoduo','kuaishou','xiaohongshu','ctrip'].filter(sourceConfigured);
 const snapshotRetention = retainedJobsForUnhealthySources(existing, sourceResults, configuredProviders);
 let retainedSourceJobs = [...snapshotRetention.retained];
+
 for (const provider of snapshotRetention.unhealthy) {
   if (retainedSourceJobs.some((job) => providerOfJob(job) === provider)) continue;
   const historical = await findHistoricalProviderJobs({ root, provider });
@@ -425,11 +338,12 @@ for (const provider of snapshotRetention.unhealthy) {
     console.warn(`[job-refresh:${provider}] unhealthy snapshot; recovered ${historical.jobs.length} jobs from ${historical.commit.slice(0, 8)}`);
   }
 }
+
 if (snapshotRetention.unhealthy.length) {
   console.warn(`[job-refresh] unhealthySources=${snapshotRetention.unhealthy.join(',')} retainedSourceJobs=${retainedSourceJobs.length}`);
 }
 
-const discoveredJobs = curateDiscoveredJobs(sourceResults.flatMap((r) => r.jobs || []));
+const discoveredJobs = curateDiscoveredJobs(sourceResults.flatMap((result) => result.jobs || []));
 const verifiedConcreteJobs = curatedOfficialGranularityJobs();
 const candidateJobs = [...discoveredJobs, ...verifiedConcreteJobs];
 const granularityExcluded = candidateJobs.filter((job) => job.excludeFromLiveBoard).length;
@@ -444,15 +358,29 @@ const liveBoardCandidates = candidateJobs
 const deduped = dedupePreferOfficial([...liveBoardCandidates, ...retainedSourceJobs]);
 const finalJobs = deduped
   .filter((job) => !isClosed('', job.deadline))
-  .sort((a, b) => String(b.publishedAt || '').localeCompare(String(a.publishedAt || '')) || String(b.company || '').localeCompare(String(a.company || '')));
+  .sort(
+    (a, b) =>
+      String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''))
+      || String(b.company || '').localeCompare(String(a.company || ''))
+  );
 
-const sourceHealth = buildSourceHealth(sourceResults, configuredProviders);
+const sourceStatsByProvider = Object.fromEntries(
+  sourceResults.map((result) => [result.name, result.stats || {}])
+);
+const configuredOfficialSources = Object.fromEntries(
+  Object.entries(officialSources).filter(([provider]) => configuredProviders.includes(provider))
+);
+const sourceHealth = buildSourceHealth(sourceStatsByProvider, configuredOfficialSources);
 
 const meta = {
   updatedAt: new Date().toISOString(),
   totalJobs: finalJobs.length,
-  totalCompanies: new Set(finalJobs.map((j) => j.company)).size,
-  sources: sourceResults.map((r) => ({ name: r.name, kept: (r.jobs || []).length, errors: r.stats?.errors || 0 })),
+  totalCompanies: new Set(finalJobs.map((job) => job.company)).size,
+  sources: sourceResults.map((result) => ({
+    name: result.name,
+    kept: (result.jobs || []).length,
+    errors: Number(result.stats?.errors || 0) + Number(result.stats?.detailErrors || 0)
+  })),
   policyStats,
   granularityExcluded,
   unhealthySources: snapshotRetention.unhealthy,
