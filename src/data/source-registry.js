@@ -101,6 +101,58 @@ export const sourceRegistry = [
     "company": "太古可口可乐"
   },
   {
+    "provider": "moka",
+    "company": "得力集团"
+  },
+  {
+    "provider": "moka",
+    "company": "德佑"
+  },
+  {
+    "provider": "moka",
+    "company": "多维联合集团"
+  },
+  {
+    "provider": "moka",
+    "company": "顾家家居"
+  },
+  {
+    "provider": "moka",
+    "company": "金山软件"
+  },
+  {
+    "provider": "moka",
+    "company": "兰亭集势"
+  },
+  {
+    "provider": "moka",
+    "company": "宁德时代新能源科技股份有限公司"
+  },
+  {
+    "provider": "moka",
+    "company": "万向集团"
+  },
+  {
+    "provider": "moka",
+    "company": "星源材质"
+  },
+  {
+    "provider": "moka",
+    "company": "中微半导体设备股份有限公司"
+  },
+  {
+    "provider": "moka",
+    "company": "NVIDIA 英伟达"
+  },
+  {
+    "provider": "moka",
+    "company": "Shopee"
+  },
+  {
+    "provider": "moka",
+    "company": "可口可乐"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },
@@ -181,6 +233,90 @@ export const sourceRegistry = [
     "company": "传音控股"
   },
   {
+    "provider": "beisen",
+    "company": "傲基科技"
+  },
+  {
+    "provider": "beisen",
+    "company": "奥克斯集团"
+  },
+  {
+    "provider": "beisen",
+    "company": "宝宝巴士"
+  },
+  {
+    "provider": "beisen",
+    "company": "格兰仕"
+  },
+  {
+    "provider": "beisen",
+    "company": "杭州宇树科技股份有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "杰克科技"
+  },
+  {
+    "provider": "beisen",
+    "company": "金发科技"
+  },
+  {
+    "provider": "beisen",
+    "company": "海信"
+  },
+  {
+    "provider": "beisen",
+    "company": "京东方"
+  },
+  {
+    "provider": "beisen",
+    "company": "南京埃斯顿自动化"
+  },
+  {
+    "provider": "beisen",
+    "company": "普渡机器人"
+  },
+  {
+    "provider": "beisen",
+    "company": "赛轮轮胎"
+  },
+  {
+    "provider": "beisen",
+    "company": "厦门象屿"
+  },
+  {
+    "provider": "beisen",
+    "company": "深圳市汇川技术股份有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "泰康保险"
+  },
+  {
+    "provider": "beisen",
+    "company": "新东方深圳学校"
+  },
+  {
+    "provider": "beisen",
+    "company": "优必选科技"
+  },
+  {
+    "provider": "beisen",
+    "company": "圆通速递"
+  },
+  {
+    "provider": "beisen",
+    "company": "中信科移动"
+  },
+  {
+    "provider": "beisen",
+    "company": "Creality"
+  },
+  {
+    "provider": "beisen",
+    "company": "VESYNC"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },
@@ -213,6 +349,30 @@ export const sourceRegistry = [
     "company": "致欧家居"
   },
   {
+    "provider": "feishu",
+    "company": "德赛西威"
+  },
+  {
+    "provider": "feishu",
+    "company": "飞书深诺"
+  },
+  {
+    "provider": "feishu",
+    "company": "极兔速递"
+  },
+  {
+    "provider": "feishu",
+    "company": "水羊集团御泥坊"
+  },
+  {
+    "provider": "feishu",
+    "company": "拓竹科技"
+  },
+  {
+    "provider": "feishu",
+    "company": "英科医疗/英科再生"
+  },
+  {
     "provider": "hotjob",
     "company": "德勤中国"
   },
@@ -227,6 +387,22 @@ export const sourceRegistry = [
   {
     "provider": "hotjob",
     "company": "创维集团"
+  },
+  {
+    "provider": "hotjob",
+    "company": "宁德新能源科技有限公司"
+  },
+  {
+    "provider": "hotjob",
+    "company": "荣耀"
+  },
+  {
+    "provider": "hotjob",
+    "company": "商汤科技"
+  },
+  {
+    "provider": "hotjob",
+    "company": "特变电工股份有限公司"
   },
   {
     "provider": "anker",

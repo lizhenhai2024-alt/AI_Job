@@ -72,7 +72,8 @@ if (sources.moka.some((s) => !s.company || !/^https:\/\/(app\.mokahr\.com|[a-z0-
 }
 if (!Array.isArray(sources.beisen) || !sources.beisen.length) throw new Error('official Beisen source registry is empty');
 if (sources.beisen.some((s) => {
-  const validHost = /^https:\/\/[a-z0-9.-]+\.zhiye\.com$/i.test(s.baseUrl) || s.baseUrl === 'https://hr-campus.vivo.com';
+  const beisenCustomDomains = ['https://hr-campus.vivo.com', 'https://jobs.hisense.com', 'https://campus.boe.com'];
+  const validHost = /^https:\/\/[a-z0-9.-]+\.zhiye\.com$/i.test(s.baseUrl) || beisenCustomDomains.includes(s.baseUrl);
   const validMode = !s.mode || s.mode === 'html';
   return !s.company || !validHost || !validMode || s.graduationYear !== '2027';
 })) {
@@ -100,9 +101,11 @@ if (sources.hotjob.some((s) => {
     const validPath = /^[a-z0-9/_-]+$/.test(s.corpPath || '');
     return !s.company || !validHost || !validPath || s.graduationYear !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
   }
-  const validHost = /^https:\/\/[a-z0-9.-]+\.hotjob\.cn$/.test(s.baseUrl || '');
+  const hotjobCustomDomains = ['https://career.honor.com', 'https://hr.sensetime.com'];
+  const validHost = /^https:\/\/[a-z0-9.-]+\.hotjob\.cn$/.test(s.baseUrl || '') || hotjobCustomDomains.includes(s.baseUrl);
   const validTenant = /^[a-f0-9]{24}$/i.test(s.tenant || '');
-  const validUrl = new RegExp(`^https://[a-z0-9.-]+\\.hotjob\\.cn/SU${s.tenant}/`).test(s.url || '');
+  const validUrl = new RegExp(`^https:\/\/[a-z0-9.-]+\\.hotjob\\.cn/SU${s.tenant}/`).test(s.url || '') ||
+    (hotjobCustomDomains.some(d => (s.url || '').startsWith(d)) && (s.url || '').includes(`/SU${s.tenant}/`));
   return !s.company || !validHost || !validTenant || !validUrl || s.graduationYear !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
 })) {
   throw new Error('official HotJob source registry validation failed');
