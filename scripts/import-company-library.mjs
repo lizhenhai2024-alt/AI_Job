@@ -18,6 +18,7 @@ if (!inputDir || !fs.statSync(inputDir).isDirectory()) {
 const files = fs.readdirSync(inputDir).filter((name) => name.endsWith('.md'));
 const mainName = files.find((name) => name.includes('公司清单_按行业分类'));
 const opportunitiesName = files.find((name) => name.includes('机会清单_已启动校招'));
+const reportName = files.find((name) => name.includes('调研报告公司补充清单'));
 if (!mainName || !opportunitiesName) throw new Error('Missing master company list or started-opportunities list.');
 
 const CITY_NAMES = ['北京','上海','广州','深圳','杭州','苏州','无锡','长沙','武汉','西安','成都','天津','南京','佛山','东莞','珠海','惠州','厦门','济南','青岛','昆明','长春','宁波','合肥','郑州','重庆','大连','沈阳','福州','南昌','南宁'];
@@ -117,6 +118,21 @@ for (const line of fs.readFileSync(path.join(inputDir, mainName), 'utf8').split(
   const single = line.match(/^- \*\*([^*]+)\*\*：/);
   if (single && sectionStatus && ['观察', '风险', '移出'].includes(sectionStatus)) {
     upsert(single[1], { status: sectionStatus, authoritative: true, sources: [mainName] });
+  }
+}
+
+// Report-derived supplemental list: same four-pool single-row format, non-authoritative pool additions.
+if (reportName) {
+  let reportSection = null;
+  for (const line of fs.readFileSync(path.join(inputDir, reportName), 'utf8').split(/\r?\n/)) {
+    if (/^## /.test(line)) {
+      reportSection = /观察池/.test(line) ? '观察' : /风险观察/.test(line) ? '风险' : /移出主投池/.test(line) ? '移出' : null;
+      continue;
+    }
+    const single = line.match(/^- \*\*([^*]+)\*\*：/);
+    if (single && reportSection && ['观察', '风险', '移出'].includes(reportSection)) {
+      upsert(single[1], { status: reportSection, authoritative: true, sources: [reportName] });
+    }
   }
 }
 
