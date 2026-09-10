@@ -104,7 +104,10 @@ export async function searchBytedanceJobs(profile, source, { maxJobs, pageSize, 
 
   let browser;
   try {
-    browser = await chromium.launch({ headless: true });
+    browser = await chromium.launch({ 
+      headless: true, 
+      args: ['--disable-blink-features=AutomationControlled']
+    });
   } catch (e) {
     return { ...empty(), degraded: true, reason: `launch-failed:${e?.message || e}` };
   }
