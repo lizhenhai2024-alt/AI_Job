@@ -536,5 +536,5 @@ export const companyMeta = {
     scale: "10000人以上",
     nature: "上市公司",
     tags: ["消费电子","跨境电商"]
-  }
+  },
 };
