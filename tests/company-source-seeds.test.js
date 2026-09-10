@@ -11,8 +11,20 @@ test('verified recruitment seeds attach to existing company-registry records wit
     assert.match(record.careerUrl || '', /^https:\/\//);
     assert.equal(record.careerUrlSeeded, true);
   }
-  const tencent = companyRegistry.find((item) => item.name === '腾讯');
-  assert.equal(tencent.sourceManaged, false, 'a curated seed must not become an approved source by itself');
+
+  // Use an isolated seed-only fixture for the governance invariant. Some real
+  // companies above are now legitimately source-managed after provider probes,
+  // so their current state must not be used to prove what a seed does by itself.
+  const seedOnly = buildCompanyRegistry(
+    [{ name: '种子测试公司', status: '主投', industries: [], cities: [], targetTracks: [], evidence: { count: 1 } }],
+    [],
+    [],
+    [],
+    { companies: [] },
+    [{ company: '种子测试公司', url: 'https://careers.example.com/campus', note: 'seed only', verifiedAt: '2026-09-10' }]
+  )[0];
+  assert.equal(seedOnly.careerUrlSeeded, true);
+  assert.equal(seedOnly.sourceManaged, false, 'a curated seed must not become an approved source by itself');
 
   const miniso = companyRegistry.find((item) => item.name === '名创优品');
   assert.equal(miniso.careerUrlGraduationYear, '2027');
