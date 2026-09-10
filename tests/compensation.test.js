@@ -15,6 +15,15 @@ test('parses monthly K range with explicit salary months and annualizes it', () 
   assert.match(result.annualDisplay, /14薪/);
 });
 
+test('parses common monthly range when only the upper bound carries K', () => {
+  const result = normalizeCompensation({ salary: '薪资范围：15-25K·14薪', sourceType: 'official' });
+  assert.equal(result.monthlyMin, 15000);
+  assert.equal(result.monthlyMax, 25000);
+  assert.equal(result.salaryMonths, 14);
+  assert.equal(result.annualMin, 210000);
+  assert.equal(result.annualMax, 350000);
+});
+
 test('parses yuan monthly range and uses 12 salary months only as an explicit estimate', () => {
   const result = normalizeCompensation({ salary: '15000-22000元/月', sourceType: 'official' });
   assert.equal(result.monthlyMin, 15000);
@@ -45,6 +54,16 @@ test('parses explicit annual package and derives monthly equivalent as estimate'
   assert.equal(result.monthlyMin, 20000);
   assert.equal(result.monthlyMax, 30000);
   assert.match(result.monthlyDisplay, /估算/);
+});
+
+test('parses single annual salary and annual ranges with /年 suffix', () => {
+  const single = normalizeCompensation({ salary: '年薪30万', sourceType: 'official' });
+  assert.equal(single.annualMin, 300000);
+  assert.equal(single.annualMax, 300000);
+
+  const range = normalizeCompensation({ salary: '14-18 万元/年', sourceType: 'official' });
+  assert.equal(range.annualMin, 140000);
+  assert.equal(range.annualMax, 180000);
 });
 
 test('does not invent salary when source says negotiable', () => {

@@ -1,4 +1,6 @@
 const MONEY_RANGE_SEP = String.raw`(?:-|~|～|—|–|至|到)`;
+const ANNUAL_CONTEXT = String.raw`(?:年薪|年收入|年度总包|年度薪酬|年包|年薪资|总包|package|total\s*compensation)`;
+const MONTHLY_CONTEXT = String.raw`(?:月薪|薪资范围|薪资待遇|薪酬范围|薪酬|薪资|工资|待遇|税前|税后|base\s*salary)`;
 
 function n(value) {
   const out = Number(value);
@@ -78,29 +80,42 @@ function parseJsonStringSalary(text = '') {
 }
 
 function parseAnnualWan(text = '') {
-  const rx = new RegExp(`(?:年薪|年收入|年度总包|年包|年薪资|package|total\\s*compensation)[^\\d]{0,16}(\\d+(?:\\.\\d+)?)\\s*${MONEY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?`, 'i');
-  const m = String(text).match(rx);
+  const raw = String(text || '');
+  const rangePatterns = [
+    new RegExp(`${ANNUAL_CONTEXT}[^\\d]{0,16}(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)?\\s*${MONEY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?(?:\\s*(?:/|每)\\s*年)?`, 'i'),
+    new RegExp(`(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)?\\s*${MONEY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?\\s*(?:/|每)\\s*年`, 'i')
+  ];
+  for (const rx of rangePatterns) {
+    const m = raw.match(rx);
+    if (!m) continue;
+    const min = n(m[1]);
+    const max = n(m[2]);
+    if (min == null || max == null || min <= 0 || max <= 0 || min > 1000 || max > 1000) continue;
+    return { min: Math.min(min, max) * 10000, max: Math.max(min, max) * 10000, match: m[0] };
+  }
+
+  const singleRx = new RegExp(`${ANNUAL_CONTEXT}[^\\d]{0,16}(\\d+(?:\\.\\d+)?)\\s*(?:万|w|W)(?:\\s*元)?(?:\\s*(?:/|每)\\s*年)?`, 'i');
+  const m = raw.match(singleRx);
   if (!m) return null;
-  const min = n(m[1]);
-  const max = n(m[2]);
-  if (min == null || max == null) return null;
-  return { min: Math.min(min, max) * 10000, max: Math.max(min, max) * 10000, match: m[0] };
+  const value = n(m[1]);
+  if (value == null || value <= 0 || value > 1000) return null;
+  return { min: value * 10000, max: value * 10000, match: m[0] };
 }
 
 function parseMonthlyK(text = '') {
-  const rx = new RegExp(`(?:月薪|薪资范围|薪酬|薪资|base\\s*salary)?[^\\d]{0,10}(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)\\s*${MONEY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`, 'i');
+  const rx = new RegExp(`(?:${MONTHLY_CONTEXT}[^\\d]{0,10})?(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)?\\s*${MONEY_RANGE_SEP}\\s*(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`, 'i');
   const m = String(text).match(rx);
   if (!m) return null;
   const min = n(m[1]);
   const max = n(m[2]);
   const months = n(m[3]);
-  if (min == null || max == null || min <= 0 || max > 500) return null;
-  return { min: Math.min(min, max) * 1000, max: Math.max(min, max) * 1000, months, match: m[0] };
+  if (min == null || max == null || min < 3 || max > 500 || min > max) return null;
+  return { min: min * 1000, max: max * 1000, months, match: m[0] };
 }
 
 function parseMonthlyYuan(text = '', strictSalaryField = false) {
   const patterns = [
-    new RegExp(`(?:月薪|薪资范围|薪酬|薪资)[^\\d]{0,10}(\\d{4,6})\\s*${MONEY_RANGE_SEP}\\s*(\\d{4,6})\\s*(?:元)?\\s*(?:/|每)?\\s*(?:月|个月)?(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`, 'i'),
+    new RegExp(`(?:月薪|薪资范围|薪资待遇|薪酬范围|薪酬|薪资|工资|待遇|税前|税后)[^\\d]{0,10}(\\d{4,6})\\s*${MONEY_RANGE_SEP}\\s*(\\d{4,6})\\s*(?:元)?\\s*(?:/|每)?\\s*(?:月|个月)?(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`, 'i'),
     strictSalaryField ? new RegExp(`^\\s*(\\d{4,6})\\s*${MONEY_RANGE_SEP}\\s*(\\d{4,6})(?:\\s*(?:元)?(?:/月)?)?(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?\\s*$`, 'i') : null
   ].filter(Boolean);
   for (const rx of patterns) {
@@ -109,18 +124,19 @@ function parseMonthlyYuan(text = '', strictSalaryField = false) {
     const min = n(m[1]);
     const max = n(m[2]);
     const months = n(m[3]);
-    if (min == null || max == null || min < 1000 || max > 200000) continue;
-    return { min: Math.min(min, max), max: Math.max(min, max), months, match: m[0] };
+    if (min == null || max == null || min < 1000 || max > 200000 || min > max) continue;
+    return { min, max, months, match: m[0] };
   }
   return null;
 }
 
 function parseSingleMonthlyK(text = '') {
-  const m = String(text).match(/(?:月薪|薪资范围|薪酬|薪资)[^\d]{0,10}(\d+(?:\.\d+)?)\s*(?:k|K|千)(?:\s*(?:[·xX×*]|\+)\s*(\d{1,2})\s*薪)?/i);
+  const rx = new RegExp(`${MONTHLY_CONTEXT}[^\\d]{0,10}(\\d+(?:\\.\\d+)?)\\s*(?:k|K|千)(?:\\s*(?:[·xX×*]|\\+)\\s*(\\d{1,2})\\s*薪)?`, 'i');
+  const m = String(text).match(rx);
   if (!m) return null;
   const value = n(m[1]);
   const months = n(m[2]);
-  if (value == null || value <= 0 || value > 500) return null;
+  if (value == null || value < 3 || value > 500) return null;
   return { min: value * 1000, max: value * 1000, months, match: m[0] };
 }
 
