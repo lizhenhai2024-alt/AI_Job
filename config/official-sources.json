@@ -206,6 +206,11 @@
       "url": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484",
       "graduationYear": "2027",
       "monitoringNote": "以主要装瓶商太古可口可乐Moka入口为准；中粮可口可乐走智联"
+    },
+    {
+      "company": "农夫山泉",
+      "baseUrl": "https://app.mokahr.com/campus-recruitment/nongfuspring/74623",
+      "websitePath": ""
     }
   ],
   "beisen": [
@@ -430,6 +435,31 @@
       "company": "奥马冰箱",
       "baseUrl": "https://homa-hr.zhiye.com",
       "graduationYear": "2027"
+    },
+    {
+      "company": "蒙牛",
+      "baseUrl": "https://mengniu.zhiye.com",
+      "websitePath": "campus"
+    },
+    {
+      "company": "泡泡玛特",
+      "baseUrl": "https://popmart.zhiye.com",
+      "websitePath": "campus"
+    },
+    {
+      "company": "中国人寿",
+      "baseUrl": "https://chinalife.zhiye.com",
+      "websitePath": "campus"
+    },
+    {
+      "company": "中国太平保险集团",
+      "baseUrl": "https://cntp.zhiye.com",
+      "websitePath": "campus"
+    },
+    {
+      "company": "优衣库",
+      "baseUrl": "https://uniqlo.zhiye.com",
+      "websitePath": "campus"
     }
   ],
   "feishu": [
@@ -788,5 +818,50 @@
     "maxPages": 30,
     "maxJobs": 200,
     "monitoringNote": "自研招聘门户（hash路由SPA），无需鉴权；category=2为校园招聘，列表直接含HTML版JD"
-  }
+  },
+  "topband": [
+    {
+      "company": "拓邦股份",
+      "baseUrl": "https://campus.topband.com.cn",
+      "websitePath": "company/tuobang/tuobang5011161"
+    }
+  ],
+  "job51": [
+    {
+      "company": "联合利华",
+      "baseUrl": "https://xyz.51job.com",
+      "ctmid": "8833740"
+    },
+    {
+      "company": "雅诗兰黛",
+      "baseUrl": "https://xyz.51job.com",
+      "ctmid": "9525875"
+    }
+  ],
+  "phenom": [
+    {
+      "company": "宝洁",
+      "baseUrl": "https://recruit.pg.com.cn",
+      "websitePath": "social-recruitment/pg/91934"
+    },
+    {
+      "company": "玛氏",
+      "baseUrl": "https://www.mars.com",
+      "websitePath": "careers"
+    }
+  ],
+  "avature": [
+    {
+      "company": "欧莱雅",
+      "baseUrl": "https://careers.loreal.com",
+      "websitePath": ""
+    }
+  ],
+  "successfactors": [
+    {
+      "company": "高露洁",
+      "baseUrl": "https://colgate.wd1.myworkdayjobs.com",
+      "websitePath": "Colgate_Palmolive_Careers"
+    }
+  ]
 }

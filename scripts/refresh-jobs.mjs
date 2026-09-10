@@ -16,6 +16,11 @@ import { searchPinduoduoJobs } from './job-discovery/pinduoduo.mjs';
 import { searchKuaishouJobs } from './job-discovery/kuaishou.mjs';
 import { searchXiaohongshuJobs } from './job-discovery/xiaohongshu.mjs';
 import { searchCtripJobs } from './job-discovery/ctrip.mjs';
+import { searchTopbandJobs } from './job-discovery/topband.mjs';
+import { search51JobCampus } from './job-discovery/job51.mjs';
+import { searchPhenomJobs } from './job-discovery/phenom.mjs';
+import { searchAvatureJobs } from './job-discovery/avature.mjs';
+import { searchSuccessFactorsJobs } from './job-discovery/successfactors.mjs';
 import { relevanceScore, isClosed } from './job-discovery/core.mjs';
 import { shouldExcludeByPolicy, jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
 import { enrichProvenanceFields } from '../src/core/source-provenance.js';
@@ -341,7 +346,52 @@ if (sourceConfigured('ctrip') && officialSources.ctrip) {
         pageSize: officialSources.ctrip?.pageSize,
         maxPages: officialSources.ctrip?.maxPages
       });
-      logSourceResult('ctrip', result);
+      lo
+if (sourceConfigured('topband') && officialSources.topband) {
+  parallelTasks.push({ name: 'topband', fn: async () => {
+    console.log('[job-refresh:topband] starting');
+    const result = await searchTopbandJobs(config, officialSources.topband, { maxJobs: officialSources.topband?.maxJobs, pageSize: officialSources.topband?.pageSize, maxPages: officialSources.topband?.maxPages });
+    logSourceResult('topband', result);
+    return result;
+  }});
+}
+
+if (sourceConfigured('job51') && officialSources.job51) {
+  parallelTasks.push({ name: 'job51', fn: async () => {
+    console.log('[job-refresh:job51] starting');
+    const result = await search51JobCampus(config, officialSources.job51);
+    logSourceResult('job51', result);
+    return result;
+  }});
+}
+
+if (sourceConfigured('phenom') && officialSources.phenom) {
+  parallelTasks.push({ name: 'phenom', fn: async () => {
+    console.log('[job-refresh:phenom] starting');
+    const result = await searchPhenomJobs(config, officialSources.phenom, { maxJobs: officialSources.phenom?.maxJobs, pageSize: officialSources.phenom?.pageSize, maxPages: officialSources.phenom?.maxPages });
+    logSourceResult('phenom', result);
+    return result;
+  }});
+}
+
+if (sourceConfigured('avature') && officialSources.avature) {
+  parallelTasks.push({ name: 'avature', fn: async () => {
+    console.log('[job-refresh:avature] starting');
+    const result = await searchAvatureJobs(config, officialSources.avature, { maxJobs: officialSources.avature?.maxJobs, maxPages: officialSources.avature?.maxPages });
+    logSourceResult('avature', result);
+    return result;
+  }});
+}
+
+if (sourceConfigured('successfactors') && officialSources.successfactors) {
+  parallelTasks.push({ name: 'successfactors', fn: async () => {
+    console.log('[job-refresh:successfactors] starting');
+    const result = await searchSuccessFactorsJobs(config, officialSources.successfactors, { maxJobs: officialSources.successfactors?.maxJobs, maxPages: officialSources.successfactors?.maxPages });
+    logSourceResult('successfactors', result);
+    return result;
+  }});
+}
+gSourceResult('ctrip', result);
       return result;
     }
   });
