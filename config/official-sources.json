@@ -425,6 +425,11 @@
       "company": "VESYNC",
       "baseUrl": "https://vesync.zhiye.com",
       "graduationYear": "2027"
+    },
+    {
+      "company": "奥马冰箱",
+      "baseUrl": "https://homa-hr.zhiye.com",
+      "graduationYear": "2027"
     }
   ],
   "feishu": [
@@ -571,6 +576,16 @@
       "maxPages": 30,
       "maxJobs": 3000,
       "monitoringNote": "英科医疗走intcomedical.com.cn自研；英科再生2027全球校招走飞书"
+    },
+    {
+      "company": "图拉斯",
+      "baseUrl": "https://lanhevip.jobs.feishu.cn",
+      "websitePath": "campus",
+      "graduationYear": "2027",
+      "detailTemplate": "https://lanhevip.jobs.feishu.cn/campus/m/position/{id}/detail",
+      "pageSize": 100,
+      "maxPages": 30,
+      "maxJobs": 3000
     }
   ],
   "hotjob": [
