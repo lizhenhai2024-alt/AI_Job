@@ -93,3 +93,11 @@ input:focus, select:focus, textarea:focus { border-color: #9aabff; box-shadow: 0
   .stats, .toolbar { grid-template-columns: 1fr; }
   .hero { align-items: flex-start; flex-direction: column; }
 }
+
+
+/* 公司卡片增强 */
+.company-link { color: var(--text); text-decoration: none; font-weight: 600; }
+.company-link:hover { color: var(--primary); text-decoration: underline; }
+.company-meta-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.tag-nature { background: #e8f5e9; color: #2e7d32; font-weight: 500; }
+.tag-scale { background: #e3f2fd; color: #1565c0; font-weight: 500; }

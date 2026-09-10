@@ -1,6 +1,7 @@
 import { demoJobs } from './data/jobs.js';
 import { liveJobs, discoveryMeta } from './data/live-jobs.js';
 import { sourceChannels } from './data/source-channels.js';
+import { companyMeta } from './data/company-meta.js';
 import {
   compareDiscoveryIntelligence,
   intelligenceCompleteness,
@@ -200,7 +201,7 @@ function renderCompanies() {
   return `${boundaryNotice()}
     <section class="hero"><div><h1>公司招聘情报</h1><p>这里只统计“发现了什么、来自哪里、证据是否充分”，不做公司匹配度评级。</p></div></section>
     <section class="company-grid">${companies.map((item) => `<article class="company-card">
-      <div class="company-card-head"><div><div class="company">公司</div><h2>${esc(item.company || '待核公司')}</h2></div><div class="company-score">${item.jobs.length}<small>发现岗位</small></div></div>
+      <div class="company-card-head"><div><div class="company">公司</div><h2><a href="#" class="company-link" data-company="${esc(item.company)}">${esc((companyMeta[item.company] || {}).fullName || item.company || '待核公司')}</a></h2><div class="company-meta-tags">${[((companyMeta[item.company] || {}).nature) ? `<span class="tag tag-nature">${esc((companyMeta[item.company] || {}).nature)}</span>` : '', ((companyMeta[item.company] || {}).scale) ? `<span class="tag tag-scale">${esc((companyMeta[item.company] || {}).scale)}</span>` : '', ...(((companyMeta[item.company] || {}).tags) || []).slice(0, 2).map((t) => `<span class="tag">${esc(t)}</span>`)].filter(Boolean).join('')}</div></div><div class="company-score">${item.jobs.length}<small>发现岗位</small></div></div>
       <div class="tags"><span class="tag">官方源 ${item.official}</span><span class="tag">多源证据 ${item.cross}</span><span class="tag">渠道 ${item.channels.size}</span></div>
       <p class="company-analysis">${esc([...item.channels].join(' · ') || '来源渠道待核')}</p>
       <div class="company-actions"><button class="btn" data-company="${esc(item.company)}">查看该公司岗位</button></div>
