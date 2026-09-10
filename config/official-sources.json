@@ -81,6 +81,34 @@
       "graduationYear": "2027"
     },
     {
+      "company": "吉利汽车",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436",
+      "graduationYear": "2027",
+      "monitoringNote": "Moka定制版(自有域名campus.geely.com)；极氪智能科技板块在此源内"
+    },
+    {
+      "company": "货拉拉",
+      "url": "https://app.mokahr.com/campus-recruitment/huolalahr",
+      "graduationYear": "2027"
+    },
+    {
+      "company": "智谱AI",
+      "url": "https://app.mokahr.com/campus-recruitment/zphz/148984",
+      "graduationYear": "2027"
+    },
+    {
+      "company": "嘉士伯中国",
+      "url": "https://app.mokahr.com/campus_apply/carlsberg/37541",
+      "graduationYear": "2027",
+      "strictCohort": true,
+      "monitoringNote": "三大管培项目(商务/供应链/职能)；25-27届均可投"
+    },
+    {
+      "company": "三七互娱",
+      "url": "https://app.mokahr.com/campus-recruitment/37/58016?locale=zh-CN",
+      "graduationYear": "2027"
+    },
+    {
       "company": "博世中国",
       "url": "https://app.mokahr.com/campus-recruitment/bosch/75909?locale=zh-CN",
       "graduationYear": "2027",
@@ -202,6 +230,21 @@
       "company": "名创优品",
       "baseUrl": "https://miniso.zhiye.com",
       "graduationYear": "2027"
+    },
+    {
+      "company": "石头科技",
+      "baseUrl": "https://roborock.zhiye.com",
+      "graduationYear": "2027"
+    },
+    {
+      "company": "追觅科技",
+      "baseUrl": "https://dreame.zhiye.com",
+      "graduationYear": "2027"
+    },
+    {
+      "company": "传音控股",
+      "baseUrl": "https://transsion.zhiye.com",
+      "graduationYear": "2027"
     }
   ],
   "feishu": [
@@ -238,13 +281,44 @@
     {
       "company": "蔚来",
       "baseUrl": "https://nio.jobs.feishu.cn",
-      "websitePath": "index",
+      "websitePath": "campus",
       "graduationYear": "2027",
-      "detailTemplate": "https://nio.jobs.feishu.cn/index/m/position/{id}/detail",
+      "detailTemplate": "https://nio.jobs.feishu.cn/campus/position/{id}/detail",
       "pageSize": 100,
       "maxPages": 30,
       "maxJobs": 3000,
       "monitoringNote": "2027正式批已启动；仅岗位文本明确2027届时入池"
+    },
+    {
+      "company": "小鹏汽车",
+      "baseUrl": "https://xiaopeng.jobs.feishu.cn",
+      "websitePath": "campus",
+      "graduationYear": "2027",
+      "detailTemplate": "https://xiaopeng.jobs.feishu.cn/campus/m/position/{id}/detail",
+      "pageSize": 100,
+      "maxPages": 30,
+      "maxJobs": 3000
+    },
+    {
+      "company": "莉莉丝游戏",
+      "baseUrl": "https://lilithgames.jobs.feishu.cn",
+      "websitePath": "campus",
+      "graduationYear": "2027",
+      "detailTemplate": "https://lilithgames.jobs.feishu.cn/campus/m/position/{id}/detail",
+      "pageSize": 100,
+      "maxPages": 30,
+      "maxJobs": 3000
+    },
+    {
+      "company": "小米",
+      "baseUrl": "https://xiaomi.jobs.f.mioffice.cn",
+      "websitePath": "campus",
+      "graduationYear": "2027",
+      "detailTemplate": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/{id}/detail",
+      "pageSize": 100,
+      "maxPages": 30,
+      "maxJobs": 3000,
+      "monitoringNote": "飞书招聘定制版(f.mioffice.cn域名)；需验证API兼容性"
     },
     {
       "company": "致欧家居",
@@ -301,6 +375,15 @@
       "listConcurrency": 3,
       "detailConcurrency": 3,
       "monitoringNote": "HotJob hztp 形态（yili.hotjob.cn/wt/yili/web/json/position/list），GET 列表即含完整 JD"
+    },
+    {
+      "company": "创维集团",
+      "baseUrl": "https://skyworth.hotjob.cn",
+      "tenant": "668e3a541eb8050602c1b176",
+      "url": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/index",
+      "graduationYear": "2027",
+      "maxPages": 20,
+      "maxDetails": 150
     }
   ],
   "anker": {

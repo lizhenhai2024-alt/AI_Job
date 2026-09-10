@@ -32,7 +32,7 @@ function cardsFromInitData(initData, source) {
   const jobs = Array.isArray(initData?.jobs) ? initData.jobs : [];
   return jobs.map((job) => {
     const locations = Array.isArray(job?.locations) ? job.locations : [];
-    const locationText = locations.map((x) => x?.cityName || x?.country || x?.address || '').filter(Boolean).join(' ');
+    const locationText = locations.map((x) => x?.address || x?.cityName || (x?.country && x.country !== '中国' ? x.country : '') || '').filter(Boolean).join(' ');
     const extra = [job?.department?.name, job?.zhineng?.name, job?.commitment, locationText].filter(Boolean).join(' ');
     return { href: mokaJobUrl(source.url, job?.id || ''), text: [job?.title, extra].filter(Boolean).join('\n') };
   }).filter((x) => x.href && x.text && !x.href.endsWith('/job/'));

@@ -66,6 +66,26 @@ export const sourceRegistry = [
   },
   {
     "provider": "moka",
+    "company": "吉利汽车"
+  },
+  {
+    "provider": "moka",
+    "company": "货拉拉"
+  },
+  {
+    "provider": "moka",
+    "company": "智谱AI"
+  },
+  {
+    "provider": "moka",
+    "company": "嘉士伯中国"
+  },
+  {
+    "provider": "moka",
+    "company": "三七互娱"
+  },
+  {
+    "provider": "moka",
     "company": "博世中国"
   },
   {
@@ -149,6 +169,18 @@ export const sourceRegistry = [
     "company": "名创优品"
   },
   {
+    "provider": "beisen",
+    "company": "石头科技"
+  },
+  {
+    "provider": "beisen",
+    "company": "追觅科技"
+  },
+  {
+    "provider": "beisen",
+    "company": "传音控股"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },
@@ -166,6 +198,18 @@ export const sourceRegistry = [
   },
   {
     "provider": "feishu",
+    "company": "小鹏汽车"
+  },
+  {
+    "provider": "feishu",
+    "company": "莉莉丝游戏"
+  },
+  {
+    "provider": "feishu",
+    "company": "小米"
+  },
+  {
+    "provider": "feishu",
     "company": "致欧家居"
   },
   {
@@ -179,6 +223,10 @@ export const sourceRegistry = [
   {
     "provider": "hotjob",
     "company": "伊利"
+  },
+  {
+    "provider": "hotjob",
+    "company": "创维集团"
   },
   {
     "provider": "anker",

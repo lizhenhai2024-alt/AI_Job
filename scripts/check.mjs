@@ -67,7 +67,7 @@ if (JSON.stringify(generatedDiscovery) !== JSON.stringify(sourceDiscovery)) {
 
 const sources = JSON.parse(fs.readFileSync(path.join(root, 'config/official-sources.json'), 'utf8'));
 if (!Array.isArray(sources.moka) || !sources.moka.length) throw new Error('official Moka source registry is empty');
-if (sources.moka.some((s) => !s.company || !/^https:\/\/app\.mokahr\.com\//.test(s.url) || s.graduationYear !== '2027')) {
+if (sources.moka.some((s) => !s.company || !/^https:\/\/(app\.mokahr\.com|[a-z0-9.-]+\.(?:com|cn))\//.test(s.url) || s.graduationYear !== '2027')) {
   throw new Error('official Moka source registry validation failed');
 }
 if (!Array.isArray(sources.beisen) || !sources.beisen.length) throw new Error('official Beisen source registry is empty');
@@ -83,9 +83,9 @@ if (vivo && !vivo.portalId) throw new Error('vivo Beisen campus PortalId is requ
 
 if (!Array.isArray(sources.feishu) || !sources.feishu.length) throw new Error('official Feishu source registry is empty');
 if (sources.feishu.some((s) => {
-  const validHost = /^https:\/\/[a-z0-9.-]+\.jobs\.feishu\.cn$/i.test(s.baseUrl);
+  const validHost = /^https:\/\/[a-z0-9.-]+\.jobs\.(feishu\.cn|f\.mioffice\.cn)$/i.test(s.baseUrl);
   const validPath = /^[A-Za-z0-9_/-]{1,80}$/.test(s.websitePath || '');
-  const validDetail = !s.detailTemplate || /^https:\/\/[a-z0-9.-]+\.jobs\.feishu\.cn\/.+\{id\}.+$/i.test(s.detailTemplate);
+  const validDetail = !s.detailTemplate || /^https:\/\/[a-z0-9.-]+\.jobs\.(feishu\.cn|f\.mioffice\.cn)\/.+\{id\}.+$/i.test(s.detailTemplate);
   const validCohort = s.graduationYear === '2027' && !s.cohortMode;
   return !s.company || !validHost || !validPath || !validDetail || !validCohort || Number(s.maxJobs || 0) < 10 || Number(s.maxPages || 0) < 1;
 })) {
@@ -100,9 +100,9 @@ if (sources.hotjob.some((s) => {
     const validPath = /^[a-z0-9/_-]+$/.test(s.corpPath || '');
     return !s.company || !validHost || !validPath || s.graduationYear !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
   }
-  const validHost = s.baseUrl === 'https://wecruit.hotjob.cn';
+  const validHost = /^https:\/\/[a-z0-9.-]+\.hotjob\.cn$/.test(s.baseUrl || '');
   const validTenant = /^[a-f0-9]{24}$/i.test(s.tenant || '');
-  const validUrl = new RegExp(`^https://wecruit\\.hotjob\\.cn/SU${s.tenant}/pb/school\\.html`).test(s.url || '');
+  const validUrl = new RegExp(`^https://[a-z0-9.-]+\\.hotjob\\.cn/SU${s.tenant}/`).test(s.url || '');
   return !s.company || !validHost || !validTenant || !validUrl || s.graduationYear !== '2027' || Number(s.maxPages || 0) < 1 || Number(s.maxDetails || 0) < 1;
 })) {
   throw new Error('official HotJob source registry validation failed');
