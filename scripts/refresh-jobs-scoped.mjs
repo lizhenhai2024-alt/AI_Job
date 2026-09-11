@@ -2,7 +2,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 import { companyRegistry } from '../src/data/company-registry.js';
 import { augmentSearchProfile } from './job-discovery/company-scope.mjs';
 
