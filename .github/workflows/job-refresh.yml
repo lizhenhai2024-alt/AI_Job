@@ -2,7 +2,9 @@ name: Refresh campus jobs
 
 on:
   schedule:
-    - cron: '15 0 * * *'
+    # Beijing time 06:00 and 17:00
+    - cron: '0 22 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch:
   push:
     branches: [main]
