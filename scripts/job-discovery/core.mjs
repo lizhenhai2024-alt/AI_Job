@@ -209,7 +209,7 @@ export function extractSalary(text = '') {
 
 // 专业限制检测：排除有明确理工科/技术/特定专业门槛的岗位（文科/商科/语言类不可投）
 const MAJOR_RESTRICTION_RX = /(理工科|工科|理科|理工学|计算机|软件|电子|通信|机械|自动化|电气|微电子|集成电路|物理|化学|生物|数学|统计|医学|药学|临床|法学|法律|建筑|土木|城乡规划|材料|能源|动力|环境|水利|地质|海洋|天文).{0,10}(相关)?(专业|专业背景|专业基础)/;
-const MAJOR_FRIENDLY_RX = /(专业不限|不限专业|文科.*专业|商科.*专业|语言类.*专业|英语.*专业|管理类.*专业|人文社科.*专业|经济类.*专业|金融类.*专业|市场营销.*专业|新闻传播.*专业)/;
+const MAJOR_FRIENDLY_RX = /(专业不限|不限专业|非理工科|非工科|文科.*专业|商科.*专业|语言类.*专业|英语.*专业|管理类.*专业|人文社科.*专业|经济类.*专业|金融类.*专业|市场营销.*专业|新闻传播.*专业)/;
 
 export function hasMajorRestriction(job = {}) {
   const text = [job._searchText, job.requirement, job.description, job.title].filter(Boolean).join(' ');

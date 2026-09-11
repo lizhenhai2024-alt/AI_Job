@@ -19,6 +19,7 @@ const PROVIDER_RULES = [
   ['kuaishou', (job) => /快手|kuaishou/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
   ['xiaohongshu', (job) => /小红书|xiaohongshu|rednote/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
   ['ctrip', (job) => /携程|ctrip|trip\.com/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
+  ['oppo', (job) => /oppo|careers\.oppo\.com/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
   ['topband', (job) => /拓邦|topband/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
   ['job51', (job) => /前程无忧|51job|xyz\.51job/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
   ['phenom', (job) => /phenom|pg\.com|pg\.com\.cn|mars\.com/i.test(`${job.source || ''} ${job.sourceUrl || ''}`)],
