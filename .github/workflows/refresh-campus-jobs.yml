@@ -1,15 +1,14 @@
 name: Refresh campus jobs
 
 on:
-  workflow_dispatch: {}
   schedule:
     - cron: '0 22 * * *'
     - cron: '0 9 * * *'
+  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
-      - '.github/workflows/job-refresh.yml'
+      - '.github/workflows/refresh-campus-jobs.yml'
       - 'scripts/job-discovery/**'
       - 'scripts/refresh-jobs.mjs'
       - 'scripts/refresh-jobs-scoped.mjs'
@@ -26,7 +25,6 @@ concurrency:
 
 permissions:
   contents: write
-  actions: read
 
 jobs:
   refresh:
@@ -68,7 +66,7 @@ jobs:
             echo "main advanced while refresh was running:"
             echo "$changed_paths"
 
-            if echo "$changed_paths" | grep -Eq '^(.github/workflows/job-refresh\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
+            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
               echo "Refresh inputs or generated data changed on newer main; skip stale data push."
               echo "A newer refresh run should own the next snapshot."
               exit 0

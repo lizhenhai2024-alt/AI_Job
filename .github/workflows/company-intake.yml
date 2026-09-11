@@ -49,8 +49,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPOSITORY: ${{ github.repository }}
         run: |
-          gh workflow run job-refresh.yml --repo "$REPOSITORY" --ref main
-          echo "Explicitly dispatched job-refresh.yml because GITHUB_TOKEN-authored pushes do not recursively trigger push workflows."
+          gh workflow run refresh-campus-jobs.yml --repo "$REPOSITORY" --ref main
+          echo "Explicitly dispatched refresh-campus-jobs.yml because GITHUB_TOKEN-authored pushes do not recursively trigger push workflows."
       - name: Report result on issue
         env:
           GH_TOKEN: ${{ github.token }}
