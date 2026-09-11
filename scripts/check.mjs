@@ -22,7 +22,7 @@ const required = [
   'scripts/refresh-jobs.mjs', 'scripts/refresh-jobs-scoped.mjs', 'scripts/discover-company-sources.mjs',
   'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs', 'scripts/build-company-requests.mjs', 'scripts/build-source-discovery.mjs',
   'scripts/process-company-intake.mjs', 'config/search-profile.json', 'config/official-sources.json', 'config/company-requests.json', 'config/source-discovery.json',
-  '.github/workflows/company-intake.yml', '.github/workflows/job-refresh.yml', 'README.md', 'docs/PLAN.md'
+  '.github/workflows/company-intake.yml', '.github/workflows/refresh-campus-jobs.yml', 'README.md', 'docs/PLAN.md'
 ];
 
 for (const file of required) {

@@ -71,7 +71,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPOSITORY: ${{ github.repository }}
         run: |
-          gh workflow run job-refresh.yml --repo "$REPOSITORY" --ref main
+          gh workflow run refresh-campus-jobs.yml --repo "$REPOSITORY" --ref main
           echo "Dispatched job refresh for ${{ steps.discovery.outputs.sources_added }} newly verified official source(s)."
       - name: Coverage summary
         run: |

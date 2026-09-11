@@ -53,3 +53,11 @@ test('snapshot retention recognizes the expanded official providers', () => {
   assert.equal(providerOfJob({ source: '联合利华官方2027校招官网', sourceUrl: 'https://xyz.51job.com/' }), 'job51');
   assert.equal(providerOfJob({ source: '欧莱雅官方校招官网', sourceUrl: 'https://loachina.avature.cn/' }), 'avature');
 });
+
+test('university refresh keeps the full merged pool and writes a board-parseable terminator', async () => {
+  const source = await fs.readFile(new URL('../scripts/job-discovery/refresh-university-jobs.mjs', import.meta.url), 'utf8');
+
+  assert.doesNotMatch(source, /\.slice\(0,\s*Number\(profile\.maxJobs/);
+  assert.match(source, /replace\(\/\\n\]\$\/, '\\n];'\)/);
+  assert.match(source, /dedupePreferOfficial\(\[\.\.\.existingJobs, \.\.\.freshUniversityJobs\]\)/);
+});
