@@ -73,9 +73,6 @@ function emptyResult(errors = 1) {
   return { jobs: [], stats: { pages: 0, listed: 0, detailed: 0, keptJobs: 0, errors, snapshotComplete: false } };
 }
 
-/**
- * Extract phApp.ddo.eagerLoadRefineSearch JSON from Phenom People HTML
- */
 function extractRefineSearch(html) {
   const m = html.match(/phApp\.ddo\s*=\s*(\{[\s\S]*?\});\s*phApp\.experimentData/);
   if (!m) return null;
@@ -100,12 +97,11 @@ function extractCsrfToken(html) {
 
 async function fetchPage(fetcher, source, pageNo) {
   const baseUrl = source.baseUrl || 'https://careers.pg.com.cn';
-  const refNum = source.refNum;
-  const locale = source.locale || 'zh_cn';
-  const country = source.country || 'cn';
   const langPath = source.langPath || '/cn/zh';
-
-  const url = `${baseUrl}${langPath}/search-results?page=${pageNo}&pagesize=20`;
+  const keyword = Array.isArray(source.includeTitle) && source.includeTitle.length
+    ? encodeURIComponent(String(source.includeTitle[0]))
+    : '';
+  const url = `${baseUrl}${langPath}/search-results?${keyword ? `keywords=${keyword}&` : ''}page=${pageNo}&pagesize=20`;
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 20000);
   try {
@@ -133,7 +129,6 @@ async function fetchPage(fetcher, source, pageNo) {
 
 export async function searchPhenomJobs(profile, source, { fetcher = fetch, maxJobs, pageSize, maxPages, now = new Date() } = {}) {
   if (!source?.url || !source?.refNum) return emptyResult();
-  const size = Math.max(1, Math.min(Number(pageSize || source.pageSize || 20), 50));
   const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 10), 30));
   const jobLimit = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 200), 600));
 
@@ -154,8 +149,13 @@ export async function searchPhenomJobs(profile, source, { fetcher = fetch, maxJo
         try {
           const job = parsePhenomJob(source, row, now);
           if (!job.title || job.riskTags?.includes('纯销售')) continue;
-          // Phenom pages contain social recruitment too; rely on shouldKeep for graduationYear filtering
-          if (shouldKeep(job, profile, now)) jobs.push(job);
+          const includeTitle = Array.isArray(source.includeTitle) ? source.includeTitle : [];
+          const titleHit = includeTitle.length
+            ? includeTitle.some((token) => job.title.includes(token) || String(job._searchText || '').includes(token))
+            : true;
+          if (!titleHit) continue;
+          const campusFriendly = /品牌|Brand|市场|Marketing|增长|HR|人力|供应链|传播|公关|CBD|Campus/i.test(job.title);
+          if (shouldKeep(job, profile, now) || campusFriendly) jobs.push(job);
         } catch { errors++; }
         if (seen.size >= jobLimit) break;
       }
