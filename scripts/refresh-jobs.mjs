@@ -16,6 +16,7 @@ import { searchPinduoduoJobs } from './job-discovery/pinduoduo.mjs';
 import { searchKuaishouJobs } from './job-discovery/kuaishou.mjs';
 import { searchXiaohongshuJobs } from './job-discovery/xiaohongshu.mjs';
 import { searchCtripJobs } from './job-discovery/ctrip.mjs';
+import { searchOppoJobs } from './job-discovery/oppo.mjs';
 import { searchTopbandJobs } from './job-discovery/topband.mjs';
 import { search51JobCampus } from './job-discovery/job51.mjs';
 import { searchPhenomJobs } from './job-discovery/phenom.mjs';
@@ -39,7 +40,7 @@ const MAX_CONCURRENCY = 3;
 const SUPPORTED_PROVIDERS = [
   'nowcoder', 'moka', 'beisen', 'feishu', 'hotjob', 'anker', 'ecoflow',
   'alibaba', 'tencent', 'bytedance', 'meituan', 'pinduoduo', 'kuaishou',
-  'xiaohongshu', 'ctrip', 'topband', 'job51', 'phenom', 'avature',
+  'xiaohongshu', 'ctrip', 'oppo', 'topband', 'job51', 'phenom', 'avature',
   'successfactors'
 ];
 
@@ -296,7 +297,8 @@ for (const [provider, searcher] of [
   ['pinduoduo', searchPinduoduoJobs],
   ['kuaishou', searchKuaishouJobs],
   ['xiaohongshu', searchXiaohongshuJobs],
-  ['ctrip', searchCtripJobs]
+  ['ctrip', searchCtripJobs],
+  ['oppo', searchOppoJobs]
 ]) {
   addParallelTask(parallelTasks, provider, () => {
     const source = normalizedSource(provider, officialSources[provider]);

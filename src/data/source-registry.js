@@ -479,5 +479,9 @@ export const sourceRegistry = [
   {
     "provider": "successfactors",
     "company": "高露洁"
+  },
+  {
+    "provider": "oppo",
+    "company": "OPPO"
   }
 ];

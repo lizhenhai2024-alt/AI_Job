@@ -56,7 +56,7 @@
 | 公司 | 校招官网 | 系统特征 | 2027届状态 |
 |------|----------|----------|------------|
 | 华为 | https://career.huawei.com/cn/campus-recruitment | 自研招聘门户 | 已启动 |
-| OPPO | https://careers.oppo.com/campus | 自研校招系统 | 已启动 |
+| OPPO | https://careers.oppo.com/campus | 自研校招系统 | **已接入** `scripts/job-discovery/oppo.mjs`（2027应届生项目） |
 | OnePlus | https://careers.oppo.com/campus | 并入OPPO统一校招 | 已启动 |
 | 联想Lenovo | https://talent.lenovo.com.cn/campus/ | 自建校招系统 | 已启动 |
 | TCL | https://campus.tcl.com/campus/recruiting.html | 自建校招系统 | 已启动 |

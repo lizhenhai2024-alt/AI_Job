@@ -18,6 +18,7 @@ const required = [
   'scripts/job-discovery/alibaba.mjs', 'scripts/job-discovery/tencent.mjs', 'scripts/job-discovery/bytedance.mjs',
   'scripts/job-discovery/meituan.mjs', 'scripts/job-discovery/pinduoduo.mjs', 'scripts/job-discovery/kuaishou.mjs',
   'scripts/job-discovery/xiaohongshu.mjs', 'scripts/job-discovery/ctrip.mjs',
+  'scripts/job-discovery/oppo.mjs', 'scripts/job-discovery/topband.mjs',
   'scripts/job-discovery/source-candidates.mjs', 'scripts/job-discovery/source-health.mjs',
   'scripts/refresh-jobs.mjs', 'scripts/refresh-jobs-scoped.mjs', 'scripts/check-compensation.mjs', 'scripts/discover-company-sources.mjs',
   'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs', 'scripts/build-company-requests.mjs', 'scripts/build-source-discovery.mjs',
@@ -124,6 +125,10 @@ if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.
 const ecoflow = sources.ecoflow;
 if (!ecoflow || ecoflow.company !== '正浩创新EcoFlow' || !/^https:\/\/jobs\.ecoflow\.com\/602892/.test(ecoflow.url) || ecoflow.apiBase !== 'https://jobs.ecoflow.com' || ecoflow.websitePath !== '602892' || Number(ecoflow.portalType) !== 6 || effectiveGraduationYear(ecoflow) !== '2027' || Number(ecoflow.maxJobs) < 10 || Number(ecoflow.maxPages) < 1) {
   throw new Error('official EcoFlow Feishu API registry validation failed');
+}
+const oppo = sources.oppo;
+if (!oppo || oppo.company !== 'OPPO' || !/^https:\/\/careers\.oppo\.com\/university\/oppo\/campus\/post/.test(oppo.url) || oppo.apiBase !== 'https://careers.oppo.com' || Number(oppo.tenantId) !== 1000 || effectiveGraduationYear(oppo) !== '2027' || Number(oppo.projectId) !== 30 || Number(oppo.maxJobs) < 10 || Number(oppo.maxPages) < 1) {
+  throw new Error('official OPPO campus source registry validation failed');
 }
 
 const flattenedSources = Object.entries(sources).flatMap(([provider, value]) => (Array.isArray(value) ? value : value ? [value] : []).map((item) => ({ provider, company: item.company })));
