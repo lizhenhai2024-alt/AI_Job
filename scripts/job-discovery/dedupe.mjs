@@ -70,3 +70,27 @@ export function dedupePreferOfficial(jobs = []) {
   }
   return [...map.values()];
 }
+
+export function dedupeById(jobs = []) {
+  const map = new Map();
+  for (const job of jobs) {
+    if (!job?.id) continue;
+    const prev = map.get(job.id);
+    if (!prev) {
+      map.set(job.id, job);
+      continue;
+    }
+    const prevRank = sourceRank(prev);
+    const nextRank = sourceRank(job);
+    const chooseNext = nextRank > prevRank || (nextRank === prevRank && String(job.publishedAt || '') > String(prev.publishedAt || ''));
+    const primary = chooseNext ? job : prev;
+    const secondary = chooseNext ? prev : job;
+    const mergedEvidence = mergeEvidence(primary, secondary);
+    map.set(job.id, {
+      ...primary,
+      sourceEvidence: mergedEvidence,
+      crossSourceCount: distinctSourceCount(mergedEvidence)
+    });
+  }
+  return [...map.values()];
+}

@@ -59,5 +59,5 @@ test('university refresh keeps the full merged pool and writes a board-parseable
 
   assert.doesNotMatch(source, /\.slice\(0,\s*Number\(profile\.maxJobs/);
   assert.match(source, /replace\(\/\\n\]\$\/, '\\n];'\)/);
-  assert.match(source, /dedupePreferOfficial\(\[\.\.\.existingJobs, \.\.\.freshUniversityJobs\]\)/);
+  assert.match(source, /dedupeById\(dedupePreferOfficial\(\[\.\.\.existingJobs, \.\.\.freshUniversityJobs\]\)\)/);
 });

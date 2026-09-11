@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import { extractUniversityRecruitLinks, parseUniversityJobPage, searchUniversityJobs } from '../scripts/job-discovery/university.mjs';
-import { dedupePreferOfficial } from '../scripts/job-discovery/dedupe.mjs';
+import { dedupePreferOfficial, dedupeById } from '../scripts/job-discovery/dedupe.mjs';
 
 const config = JSON.parse(fs.readFileSync(new URL('../config/university-sources.json', import.meta.url), 'utf8'));
 
@@ -76,3 +76,18 @@ test('cross-source dedupe preserves university evidence while preferring company
   assert.ok(merged.sourceEvidence.some((row) => row.url === university.sourceUrl));
   assert.ok(merged.sourceEvidence.some((row) => row.url === official.sourceUrl));
 });
+
+test('dedupeById collapses same-id rows from university and official sources', () => {
+  const university = {
+    id: 'shared-1', company: '示例公司', title: '海外运营', city: '深圳',
+    sourceType: 'secondary', publishedAt: '2026-09-01', sourceUrl: 'https://school.example/1'
+  };
+  const official = {
+    id: 'shared-1', company: '示例公司', title: '海外运营（校招）', city: '深圳南山',
+    sourceType: 'official', publishedAt: '2026-09-08', sourceUrl: 'https://company.example/job'
+  };
+  const [merged] = dedupeById([university, official]);
+  assert.equal(merged.sourceType, 'official');
+  assert.equal(merged.sourceUrl, official.sourceUrl);
+});
+

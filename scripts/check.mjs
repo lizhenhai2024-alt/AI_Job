@@ -36,7 +36,8 @@ if (!html.includes('./src/bootstrap.js') || !html.includes('./src/styles.css') |
 
 const allJobs = [...demoJobs, ...liveJobs];
 const ids = allJobs.map((job) => job.id);
-if (new Set(ids).size !== ids.length) throw new Error('duplicate job ids detected');
+const duplicateIds = [...new Set(ids.filter((id, index) => ids.indexOf(id) !== index))];
+if (duplicateIds.length) throw new Error(`duplicate job ids detected: ${duplicateIds.slice(0, 20).join(', ')}`);
 if (allJobs.some((job) => !job.company || !job.title || !job.roleFamily?.length)) throw new Error('job schema validation failed');
 if (liveJobs.some((job) => job.graduationYear !== '2027' || !job.sourceUrl || !job.verification)) {
   throw new Error('live job provenance/cohort validation failed');

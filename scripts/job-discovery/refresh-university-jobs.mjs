@@ -3,7 +3,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { searchUniversityJobs } from './university.mjs';
-import { dedupePreferOfficial } from './dedupe.mjs';
+import { dedupePreferOfficial, dedupeById } from './dedupe.mjs';
 import { relevanceScore, isClosed } from './core.mjs';
 import { shouldExcludeByPolicy, enrichCandidateFit } from './policy.mjs';
 import { enrichProvenanceFields } from '../../src/core/source-provenance.js';
@@ -69,7 +69,7 @@ const freshUniversityJobs = curated
   .map(enrichCandidateFit);
 
 const now = new Date();
-const merged = dedupePreferOfficial([...existingJobs, ...freshUniversityJobs])
+const merged = dedupeById(dedupePreferOfficial([...existingJobs, ...freshUniversityJobs]))
   .filter((job) => !isClosed('', job.deadline, now) && !shouldExcludeByPolicy(job))
   .sort((a, b) => {
     const scoreDiff = relevanceScore(b, profile) - relevanceScore(a, profile);
