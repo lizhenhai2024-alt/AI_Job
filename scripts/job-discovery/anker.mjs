@@ -2,6 +2,10 @@ import crypto from 'node:crypto';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, extractSalary } from './core.mjs';
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','GTM'];
+const MAINLAND_CITIES = CITY_NAMES.filter((city) => city !== '香港');
+const CHINA_COUNTRY_RX = /中国大陆|中华人民共和国|中国内地|\bPRC\b|People'?s Republic of China|^China$|^中国$/i;
+const OVERSEAS_PLACE_RX = /美国|德国|日本|英国|法国|加拿大|澳大利亚|迪拜|荷兰|巴西|土耳其|瑞典|印尼|新加坡|越南|泰国|韩国|意大利|西班牙|波兰|摩洛哥|墨西哥|印度|越南|非洲|欧洲|南美|北美|United States|\bUSA\b|Germany|Japan|United Kingdom|\bUK\b|France|Canada|Australia|Netherlands|Brazil|Turkey|Sweden|Indonesia|Singapore|Vietnam|Thailand|Korea|Italy|Spain|Poland|Mexico|Düsseldorf|Dusseldorf|Seattle|Austin|Tokyo|Osaka|London|Paris|Berlin|Munich|Sydney|Melbourne|Toronto|Vancouver/i;
+const OVERSEAS_VISA_RX = /工作签证|work visa|valid work visa|sponsorship/i;
 
 function text(value = '') { return String(value || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim(); }
 function nameOf(value) {
@@ -13,7 +17,23 @@ function nameOf(value) {
 function nestedName(value) { return nameOf(value?.name || value); }
 function cityOf(row = {}) {
   const raw = nestedName(row?.address?.city) || nestedName(row?.city) || '';
-  return CITY_NAMES.find((city) => raw.includes(city)) || raw || '待核';
+  return MAINLAND_CITIES.find((city) => raw.includes(city)) || raw || '待核';
+}
+function countryOf(row = {}) {
+  return nestedName(row?.address?.country) || nestedName(row?.country) || '';
+}
+function locationBlob(row = {}) {
+  const title = typeof row.title === 'object' ? nameOf(row.title) : text(row.title || '');
+  return [title, cityOf(row), countryOf(row), nestedName(row?.address), nestedName(row?.address?.state)].join(' ');
+}
+export function isOverseasAnkerJob(row = {}) {
+  const country = countryOf(row);
+  if (country && !CHINA_COUNTRY_RX.test(country)) return true;
+  const blob = locationBlob(row);
+  if (OVERSEAS_PLACE_RX.test(blob)) return true;
+  const desc = text(row.description || '');
+  if (OVERSEAS_VISA_RX.test(desc) && OVERSEAS_PLACE_RX.test(`${blob} ${desc}`)) return true;
+  return false;
 }
 function isCampus(row = {}) {
   const subject = nestedName(row?.subject).toLowerCase();
@@ -78,13 +98,13 @@ function nextToken(payload = {}) {
 }
 
 export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJobs, pageSize, maxPages, now = new Date() } = {}) {
-  if (!source?.websiteId) return { jobs: [], stats: { pages: 0, listed: 0, detailed: 0, keptJobs: 0, errors: 1, snapshotComplete: false } };
+  if (!source?.websiteId) return { jobs: [], stats: { pages: 0, listed: 0, detailed: 0, keptJobs: 0, errors: 1, overseasSkipped: 0, snapshotComplete: false } };
   const apiBase = String(source.apiBase || 'https://rainbowbridge.anker.com').replace(/\/$/, '');
   const websiteId = encodeURIComponent(source.websiteId);
   const limit = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 300), 500));
   const size = Math.max(1, Math.min(Number(pageSize || source.pageSize || 10), 50));
   const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 30), 50));
-  let errors = 0, listed = 0, detailed = 0, pages = 0;
+  let errors = 0, listed = 0, detailed = 0, pages = 0, overseasSkipped = 0;
   const jobs = [];
   const rows = [];
   const seenIds = new Set();
@@ -109,13 +129,17 @@ export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJob
         const id = String(row?.id || '');
         if (!id || seenIds.has(id)) continue;
         seenIds.add(id);
+        if (isOverseasAnkerJob(row)) {
+          overseasSkipped++;
+          continue;
+        }
         rows.push(row);
         added++;
         if (rows.length >= limit) break;
       }
       const next = nextToken(payload);
       const hasMore = payload?.data?.has_more ?? payload?.data?.hasMore;
-      if (!pageRows.length || !added || hasMore === false || !next || seenTokens.has(next)) {
+      if (!pageRows.length || (added === 0 && overseasSkipped > 0 && !hasMore) || hasMore === false || !next || seenTokens.has(next)) {
         snapshotComplete = hasMore === false || !pageRows.length || !next;
         break;
       }
@@ -124,13 +148,21 @@ export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJob
     }
 
     for (const row of rows.slice(0, limit)) {
-      if (!row?.id || !row?.title || !isCampus(row)) continue;
+      if (!row?.id || !row?.title || !isCampus(row) || isOverseasAnkerJob(row)) {
+        if (row && isOverseasAnkerJob(row)) overseasSkipped++;
+        continue;
+      }
       try {
         const detailUrl = `${apiBase}/api/lark/hire/v1/websites/${websiteId}/job_posts/${encodeURIComponent(row.id)}`;
         const detailPayload = await readJson(await fetcher(detailUrl, { headers: { accept: 'application/json', 'user-agent': 'Mozilla/5.0 (compatible; AI-Job/0.5)' } }), 'Anker detail');
         const detail = detailPayload?.data?.job_post || {};
         detailed++;
-        const job = parseAnkerJob(source, { ...row, ...detail, source_job_id: row.id }, now);
+        const merged = { ...row, ...detail, source_job_id: row.id };
+        if (isOverseasAnkerJob(merged)) {
+          overseasSkipped++;
+          continue;
+        }
+        const job = parseAnkerJob(source, merged, now);
         if (!job.title || job.riskTags?.includes('纯销售')) continue;
         if (shouldKeep(job, profile, now)) jobs.push(job);
       } catch { errors++; }
@@ -138,5 +170,5 @@ export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJob
   } catch { errors++; }
 
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { pages, listed, detailed, keptJobs: kept.length, errors, snapshotComplete } };
+  return { jobs: kept, stats: { pages, listed, detailed, keptJobs: kept.length, errors, overseasSkipped, snapshotComplete } };
 }
