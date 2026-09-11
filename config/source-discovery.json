@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11T07:17:25.984Z",
+  "updatedAt": "2026-09-11T12:49:44.350Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -17,9 +17,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 13,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 14,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "兰亭集势": {
       "name": "兰亭集势",
@@ -91,9 +91,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 13,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 14,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "阿里巴巴": {
       "name": "阿里巴巴",
@@ -129,9 +129,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 12,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 13,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "顾家家居": {
       "name": "顾家家居",
@@ -346,7 +346,7 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         },
         {
-          "url": "https://www.amazon.jobs/en/search?base",
+          "url": "https://www.amazon.jobs/en/",
           "provider": "",
           "state": "needs_adapter",
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
@@ -358,27 +358,27 @@
           "reason": "候选官网不可稳定访问：HTTP 403"
         },
         {
+          "url": "https://www.amazon.jobs/en/search?base",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
           "url": "https://hiring.amazon.com/login",
           "provider": "",
           "state": "candidate_found",
           "reason": "候选官网不可稳定访问：HTTP 403"
         },
         {
-          "url": "https://www.amazon.jobs/en/",
+          "url": "https://hiring.amazon.com/",
           "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
-        },
-        {
-          "url": "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students",
-          "provider": "",
-          "state": "needs_adapter",
-          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
         }
       ],
-      "attempts": 11,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 12,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "baseus": {
       "name": "Baseus",
@@ -407,9 +407,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 11,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 12,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "shopee": {
       "name": "Shopee",
@@ -488,9 +488,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 2,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 3,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "联合利华": {
       "name": "联合利华",
@@ -545,9 +545,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 2,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 3,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "百胜": {
       "name": "百胜中国",
@@ -564,9 +564,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 2,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 3,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "道达尔": {
       "name": "道达尔",
@@ -583,9 +583,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 2,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 3,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "马士基": {
       "name": "马士基",
@@ -602,9 +602,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 2,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 3,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "玛氏": {
       "name": "玛氏",
@@ -640,9 +640,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 2,
-      "lastCheckedAt": "2026-09-11T07:17:25.984Z",
-      "nextCheckAfter": "2026-09-14T07:17:25.984Z"
+      "attempts": 3,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-14T12:49:44.350Z"
     },
     "zuru": {
       "name": "ZURU",
@@ -655,6 +655,18 @@
       "attempts": 1,
       "lastCheckedAt": "2026-09-11T07:17:25.984Z",
       "nextCheckAfter": "2026-09-18T07:17:25.984Z"
+    },
+    "比亚迪": {
+      "name": "比亚迪",
+      "status": "主投",
+      "state": "not_found",
+      "provider": "",
+      "officialUrl": "",
+      "reason": "本轮未找到可信官方招聘入口",
+      "candidates": [],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
+      "nextCheckAfter": "2026-09-18T12:49:44.350Z"
     }
   },
   "lastRun": {
