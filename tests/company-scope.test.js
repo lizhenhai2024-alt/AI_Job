@@ -8,7 +8,7 @@ const searchProfile = JSON.parse(readFileSync(new URL('../config/search-profile.
 
 test('official company pool includes verified 2027 Moka sources', () => {
   const mokaCompanies = officialSources.moka.map((item) => item.company);
-  for (const company of ['SHEIN','中兴通讯','雀巢中国','毕马威中国','微步在线','华勤技术','搜狐畅游','盛趣游戏','特斯拉中国']) {
+  for (const company of ['SHEIN','中兴通讯','雀巢中国','达能','微步在线','华勤技术','搜狐畅游','盛趣游戏','特斯拉中国']) {
     assert.ok(mokaCompanies.includes(company), `missing official Moka source: ${company}`);
   }
   assert.ok(officialSources.moka.length >= 18);
@@ -24,13 +24,12 @@ test('foreign Moka monitors require per-job 2027 evidence', () => {
   }
 });
 
-test('official HotJob pool includes Deloitte Campus 2027', () => {
-  const source = officialSources.hotjob?.find((item) => item.company === '德勤中国');
-  assert.ok(source, 'missing Deloitte HotJob source');
+test('official HotJob pool includes Decathlon campus 2027', () => {
+  const source = officialSources.hotjob?.find((item) => item.company === 'Decathlon');
+  assert.ok(source, 'missing Decathlon HotJob source');
   assert.equal(source.graduationYear, '2027');
-  assert.equal(source.projectEvidence, 'Campus 2027');
-  assert.equal(source.tenant, '64365a780dcad43c5ae82bab');
-  assert.match(source.url, /^https:\/\/wecruit\.hotjob\.cn\/SU/);
+  assert.equal(source.trustCohort2027, true);
+  assert.match(source.url, /hotjob\.cn|wecruit/);
 });
 
 test('official company pool includes high-fit verified 2027 Beisen sources', () => {
@@ -42,7 +41,7 @@ test('official company pool includes high-fit verified 2027 Beisen sources', () 
 });
 
 test('broad discovery covers adjacent business roles without blanket engineer penalty', () => {
-  for (const role of ['国际商务','海外业务','贸易运营','客户成功','国际物流','供应链','管理培训生','战略运营','经营分析','品牌传播','雇主品牌','本地化','咨询','顾问']) {
+  for (const role of ['国际商务','海外业务','贸易运营','客户成功','国际物流','供应链','管理培训生','战略运营','经营分析','品牌传播','雇主品牌','本地化']) {
     assert.ok(searchProfile.roleKeywords.includes(role), `missing discovery role: ${role}`);
   }
   assert.equal(searchProfile.strongExclude.includes('工程师'), false);
@@ -51,7 +50,7 @@ test('broad discovery covers adjacent business roles without blanket engineer pe
 });
 
 test('ranking profile recognizes adjacent non-technical career families', () => {
-  for (const role of ['国际商务','客户成功','国际物流','供应链管理','管理培训生','战略运营','品牌传播','雇主品牌','人力资源','本地化','咨询','顾问']) {
+  for (const role of ['国际商务','客户成功','国际物流','供应链管理','管理培训生','战略运营','品牌传播','雇主品牌','人力资源','本地化']) {
     assert.ok(defaultProfile.targetRoles.includes(role), `missing target role: ${role}`);
   }
 });

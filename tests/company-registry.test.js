@@ -29,9 +29,6 @@ test('cities and target tracks are normalized into separate fields', () => {
 });
 
 test('all official source entries are represented in the unified company registry', () => {
-  // Source count is intentionally dynamic: Company Intake and future expansion
-  // add verified sources over time. The invariant is complete representation,
-  // not a permanently frozen count.
   assert.ok(sourceRegistry.length > 0, 'official source registry should not be empty');
   for (const source of sourceRegistry) {
     const key = canonicalCompanyKey(source.company);
@@ -48,8 +45,8 @@ test('all official source entries are represented in the unified company registr
 test('common official aliases collapse onto existing canonical companies', () => {
   const bosch = companyRegistry.find((record) => record.name === '博世');
   assert.ok(bosch?.sourceProviders.includes('moka'));
-  const kpmg = companyRegistry.find((record) => /毕马威/.test(record.name));
-  assert.ok(kpmg?.sourceProviders.includes('moka'));
+  const nestle = companyRegistry.find((record) => /雀巢/.test(record.name));
+  assert.ok(nestle?.sourceProviders.includes('moka'));
   const insta = companyRegistry.find((record) => /Insta360|影石/i.test(record.name));
   assert.ok(insta?.sourceProviders.includes('feishu'));
 });
