@@ -4,9 +4,9 @@ import { parseAnkerJob, searchAnkerJobs } from '../scripts/job-discovery/anker.m
 
 const source = {
   company: '安克创新',
-  url: 'https://career.anker-in.com/universities/recruitment/',
+  url: 'https://career.anker.com.cn/universities/recruitment/',
   apiBase: 'https://rainbowbridge.anker.com',
-  websiteId: '7268177039772633400',
+  websiteId: '6962795203808217351',
   graduationYear: '2027',
   pageSize: 10,
   maxPages: 30,
@@ -40,6 +40,8 @@ test('normalizes Anker official campus job', () => {
   assert.ok(job.roleFamily.includes('产品营销'));
   assert.ok(job.skills.includes('英语'));
   assert.ok(job.preferenceTags.includes('国际业务'));
+  assert.ok(job.sourceUrl.includes('larkJobDetail'));
+  assert.ok(job.sourceUrl.includes(source.websiteId));
 });
 
 test('discovers Anker campus row from public list and detail APIs', async () => {
@@ -89,4 +91,29 @@ test('Anker discovery follows cursor pages without duplicating jobs', async () =
   assert.equal(result.stats.errors, 0);
   assert.equal(result.stats.snapshotComplete, true);
   assert.equal(new Set(result.jobs.map((j) => j.id)).size, result.jobs.length);
+});
+
+test('skips intern rows and keeps 秋招 campus jobs', async () => {
+  const fetcher = async (url) => {
+    if (url.includes('/job_posts/search')) {
+      return new Response(JSON.stringify({
+        code: 0,
+        data: {
+          items: [
+            { id: 'intern-1', title: 'ANZ GTM 实习生', subject: { name: { zh_cn: '27届校招储备实习生' } }, address: { city: { name: { zh_cn: '深圳' } }, country: { name: { zh_cn: '中国大陆' } } } },
+            { id: 'job-1', title: '海外产品营销专员', subject: { name: { zh_cn: '27届秋招项目' } }, address: { city: { name: { zh_cn: '深圳' } }, country: { name: { zh_cn: '中国大陆' } } } }
+          ],
+          has_more: false
+        }
+      }), { status: 200, headers: { 'content-type': 'application/json' } });
+    }
+    if (url.endsWith('/job_posts/intern-1')) throw new Error('intern should not be fetched');
+    if (url.endsWith('/job_posts/job-1')) {
+      return new Response(JSON.stringify({ code: 0, data: { job_post: { ...fullJob, subject: { name: { zh_cn: '27届秋招项目' } } } } }), { status: 200, headers: { 'content-type': 'application/json' } });
+    }
+    throw new Error(`unexpected URL ${url}`);
+  };
+  const result = await searchAnkerJobs(profile, source, { fetcher, maxJobs: 10, now: new Date('2026-09-08T00:00:00Z') });
+  assert.equal(result.jobs.length, 1);
+  assert.equal(result.jobs[0].title, '海外产品营销专员');
 });

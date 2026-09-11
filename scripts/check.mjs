@@ -118,7 +118,7 @@ if (sources.hotjob.some((s) => {
 }
 
 const anker = sources.anker;
-if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker-in.com/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || !anker.websiteId || effectiveGraduationYear(anker) !== '2027' || Number(anker.maxJobs) < 10 || Number(anker.maxPages) < 1) {
+if (!anker || anker.company !== '安克创新' || anker.url !== 'https://career.anker.com.cn/universities/recruitment/' || anker.apiBase !== 'https://rainbowbridge.anker.com' || anker.websiteId !== '6962795203808217351' || effectiveGraduationYear(anker) !== '2027' || Number(anker.maxJobs) < 10 || Number(anker.maxPages) < 1) {
   throw new Error('official Anker source registry validation failed');
 }
 const ecoflow = sources.ecoflow;
