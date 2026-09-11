@@ -896,17 +896,24 @@ export const sourceHealth = {
       "status": "healthy",
       "healthy": true,
       "reason": "官方源正常：本轮活动量20，源内保留4"
+    },
+    {
+      "provider": "oppo",
+      "company": "OPPO",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量118，源内保留17"
     }
   ],
   "counts": {
-    "healthy": 111,
+    "healthy": 112,
     "empty": 7,
     "no_2027": 1,
     "error": 4,
     "unknown": 5
   },
-  "total": 128,
-  "healthy": 111,
+  "total": 129,
+  "healthy": 112,
   "attention": 17,
-  "updatedAt": "2026-09-11T07:05:21.464Z"
+  "updatedAt": "2026-09-11T07:44:03.345Z"
 };
