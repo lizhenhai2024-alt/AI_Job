@@ -179750,10 +179750,7 @@ export const liveJobs = [
     "monthlySalary": "面议",
     "annualSalary": "未披露"
   }
-]
-;
-
-export const discoveryMeta = {
+];export const discoveryMeta = {
   "updatedAt": "2026-09-10T22:45:35.678Z",
   "totalJobs": 1607,
   "totalCompanies": 98,
