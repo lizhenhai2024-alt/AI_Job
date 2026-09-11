@@ -19,7 +19,7 @@ const required = [
   'scripts/job-discovery/meituan.mjs', 'scripts/job-discovery/pinduoduo.mjs', 'scripts/job-discovery/kuaishou.mjs',
   'scripts/job-discovery/xiaohongshu.mjs', 'scripts/job-discovery/ctrip.mjs',
   'scripts/job-discovery/source-candidates.mjs', 'scripts/job-discovery/source-health.mjs',
-  'scripts/refresh-jobs.mjs', 'scripts/refresh-jobs-scoped.mjs', 'scripts/discover-company-sources.mjs',
+  'scripts/refresh-jobs.mjs', 'scripts/refresh-jobs-scoped.mjs', 'scripts/check-compensation.mjs', 'scripts/discover-company-sources.mjs',
   'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs', 'scripts/build-company-requests.mjs', 'scripts/build-source-discovery.mjs',
   'scripts/process-company-intake.mjs', 'config/search-profile.json', 'config/official-sources.json', 'config/company-requests.json', 'config/source-discovery.json',
   '.github/workflows/company-intake.yml', '.github/workflows/refresh-campus-jobs.yml', 'README.md', 'docs/PLAN.md'
