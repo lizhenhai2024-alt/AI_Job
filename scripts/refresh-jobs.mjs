@@ -27,6 +27,7 @@ import { enrichProvenanceFields } from '../src/core/source-provenance.js';
 import { buildSourceHealth } from './job-discovery/source-health.mjs';
 import { curateDiscoveredJobs, curatedOfficialGranularityJobs } from './job-discovery/granularity.mjs';
 import { retainedJobsForUnhealthySources, providerOfJob, findHistoricalProviderJobs } from './job-discovery/snapshot-retention.mjs';
+import { dedupeById } from './job-discovery/dedupe.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const config = JSON.parse(await fs.readFile(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -362,7 +363,7 @@ const liveBoardCandidates = candidateJobs
   .map((job) => enrichCandidateFit(job, config))
   .map((job) => enrichProvenanceFields(job));
 
-const deduped = dedupePreferOfficial([...liveBoardCandidates, ...retainedSourceJobs]);
+const deduped = dedupeById(dedupePreferOfficial([...liveBoardCandidates, ...retainedSourceJobs]));
 const finalJobs = deduped
   .filter((job) => !isClosed('', job.deadline))
   .sort(
