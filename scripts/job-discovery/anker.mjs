@@ -35,9 +35,14 @@ export function isOverseasAnkerJob(row = {}) {
   if (OVERSEAS_VISA_RX.test(desc) && OVERSEAS_PLACE_RX.test(`${blob} ${desc}`)) return true;
   return false;
 }
+function isInternRow(row = {}) {
+  const blob = [nestedName(row?.subject), typeof row.title === 'object' ? nameOf(row.title) : text(row.title)].join(' ');
+  return /实习|intern/i.test(blob);
+}
 function isCampus(row = {}) {
-  const subject = nestedName(row?.subject).toLowerCase();
-  return /校招|校园|应届|campus|graduate|实习|intern/.test(subject);
+  if (isInternRow(row)) return false;
+  const blob = [nestedName(row?.subject), typeof row.title === 'object' ? nameOf(row.title) : text(row.title)].join(' ');
+  return /校招|校园|应届|campus|graduate|秋招/i.test(blob);
 }
 
 export function parseAnkerJob(source, row = {}, now = new Date()) {
@@ -69,7 +74,9 @@ export function parseAnkerJob(source, row = {}, now = new Date()) {
     riskTags: detectRisks(jobText),
     source: '安克创新官方2027校招官网',
     sourceType: 'official',
-    sourceUrl: source.url,
+    sourceUrl: rawId
+      ? `https://career.anker.com.cn/larkJobDetail/?websiteId=${encodeURIComponent(source.websiteId)}&jobId=${encodeURIComponent(rawId)}`
+      : (source.url || 'https://career.anker.com.cn/universities/recruitment/'),
     verification: '官方招聘官网',
     publishedAt: '',
     deadline: '',
@@ -103,7 +110,7 @@ export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJob
   const websiteId = encodeURIComponent(source.websiteId);
   const limit = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 300), 500));
   const size = Math.max(1, Math.min(Number(pageSize || source.pageSize || 10), 50));
-  const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 30), 50));
+  const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 50), 80));
   let errors = 0, listed = 0, detailed = 0, pages = 0, overseasSkipped = 0;
   const jobs = [];
   const rows = [];
@@ -129,8 +136,8 @@ export async function searchAnkerJobs(profile, source, { fetcher = fetch, maxJob
         const id = String(row?.id || '');
         if (!id || seenIds.has(id)) continue;
         seenIds.add(id);
-        if (isOverseasAnkerJob(row)) {
-          overseasSkipped++;
+        if (isOverseasAnkerJob(row) || isInternRow(row) || !isCampus(row)) {
+          if (isOverseasAnkerJob(row)) overseasSkipped++;
           continue;
         }
         rows.push(row);
