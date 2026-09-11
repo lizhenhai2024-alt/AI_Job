@@ -1,13 +1,12 @@
 name: Refresh campus jobs
 
 on:
-  workflow_dispatch: {}
   schedule:
     - cron: '0 22 * * *'
     - cron: '0 9 * * *'
+  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - '.github/workflows/job-refresh.yml'
       - 'scripts/job-discovery/**'
@@ -26,7 +25,6 @@ concurrency:
 
 permissions:
   contents: write
-  actions: read
 
 jobs:
   refresh:
