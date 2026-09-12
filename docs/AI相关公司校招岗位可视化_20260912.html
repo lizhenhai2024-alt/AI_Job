@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI相关公司2027届校招岗位补充 - 数据可视化</title>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; background:#f5f7fa; color:#333; padding:24px; }
+  .header { text-align:center; margin-bottom:24px; }
+  .header h1 { font-size:22px; color:#1a1a2e; margin-bottom:6px; }
+  .header p { font-size:13px; color:#666; }
+  .stats-row { display:flex; gap:16px; margin-bottom:24px; flex-wrap:wrap; justify-content:center; }
+  .stat-card { background:#fff; border-radius:10px; padding:16px 28px; text-align:center; box-shadow:0 2px 8px rgba(0,0,0,0.06); min-width:140px; }
+  .stat-card .num { font-size:28px; font-weight:700; color:#4a6cf7; }
+  .stat-card .label { font-size:12px; color:#888; margin-top:4px; }
+  .grid { display:grid; grid-template-columns: 1fr 1fr; gap:20px; margin-bottom:20px; }
+  .grid-full { grid-column: 1 / -1; }
+  .chart-card { background:#fff; border-radius:10px; padding:16px; box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+  .chart-card h3 { font-size:14px; color:#333; margin-bottom:8px; padding-left:8px; border-left:3px solid #4a6cf7; }
+  .chart { width:100%; height:340px; }
+  .chart-tall { height:400px; }
+  .footer { text-align:center; font-size:11px; color:#aaa; margin-top:20px; padding-top:16px; border-top:1px solid #eee; }
+  @media (max-width: 768px) { .grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>AI 相关公司 2027 届校招岗位补充调研</h1>
+  <p>数据截止：2026-09-12 ｜ 覆盖 14 家公司 ｜ 共 25 个适配岗位（S/A/B级）</p>
+</div>
+
+<div class="stats-row">
+  <div class="stat-card"><div class="num">25</div><div class="label">适配岗位总数</div></div>
+  <div class="stat-card"><div class="num">14</div><div class="label">覆盖公司数</div></div>
+  <div class="stat-card"><div class="num">3</div><div class="label">S级高度适配</div></div>
+  <div class="stat-card"><div class="num">10</div><div class="label">A级较适配</div></div>
+  <div class="stat-card"><div class="num">18</div><div class="label">官方来源</div></div>
+  <div class="stat-card"><div class="num">7</div><div class="label">二手来源</div></div>
+</div>
+
+<div class="grid">
+  <div class="chart-card">
+    <h3>岗位方向分布</h3>
+    <div id="chart-direction" class="chart"></div>
+  </div>
+  <div class="chart-card">
+    <h3>适配度评级分布</h3>
+    <div id="chart-verdict" class="chart"></div>
+  </div>
+  <div class="chart-card">
+    <h3>目标城市分布（多城市岗位重复计数）</h3>
+    <div id="chart-city" class="chart"></div>
+  </div>
+  <div class="chart-card">
+    <h3>来源可访问性分布</h3>
+    <div id="chart-source" class="chart"></div>
+  </div>
+  <div class="chart-card grid-full">
+    <h3>方向 × 适配度 矩阵热力图</h3>
+    <div id="chart-heatmap" class="chart chart-tall"></div>
+  </div>
+  <div class="chart-card grid-full">
+    <h3>各公司岗位数量分布</h3>
+    <div id="chart-company" class="chart chart-tall"></div>
+  </div>
+</div>
+
+<div class="footer">
+  数据来源：公司官方校招官网/ATS、高校就业网、招聘平台、聚合站 ｜ 生成时间：2026-09-12
+</div>
+
+<script>
+// Color palette
+var colors = ['#4a6cf7','#36c5b5','#f5a623','#e8686a','#9b59b6','#3498db','#1abc9c','#f39c12','#e74c3c','#2ecc71','#95a5a6','#d35400','#8e44ad','#16a085'];
+
+// 1. Direction distribution - horizontal bar
+var dirData = [["GTM/市场策略", 13], ["跨境电商/运营", 5], ["外贸/海外业务", 3], ["HR/HRBP", 2], ["产品/AI产品", 1], ["管培/其他", 1]];
+var chart1 = echarts.init(document.getElementById('chart-direction'));
+chart1.setOption({
+  tooltip: { trigger:'axis', triggerOn:'mousemove|click', renderMode:'richText', confine:true, axisPointer:{type:'shadow'} },
+  grid: { left:'3%', right:'8%', bottom:'3%', top:'5%', containLabel:true },
+  xAxis: { type:'value', axisLabel:{fontSize:11} },
+  yAxis: { type:'category', data: dirData.map(function(d){return d[0];}), axisLabel:{fontSize:11} },
+  series: [{
+    type:'bar', data: dirData.map(function(d){return d[1];}),
+    itemStyle:{color:'#4a6cf7', borderRadius:[0,4,4,0]},
+    label:{show:true, position:'right', fontSize:11, formatter:'{c}个'}
+  }]
+});
+
+// 2. Verdict distribution - pie
+var chart2 = echarts.init(document.getElementById('chart-verdict'));
+chart2.setOption({
+  tooltip: { trigger:'item', triggerOn:'mousemove|click', renderMode:'richText', confine:true, formatter:'{b}级: {c}个 ({d}%)' },
+  legend: { bottom:0, textStyle:{fontSize:11} },
+  series: [{
+    type:'pie', radius:['40%','65%'], center:['50%','45%'],
+    avoidLabelOverlap:true,
+    label:{show:true, formatter:'{b}级\n{c}个', fontSize:11},
+    data:[
+      {value:3, name:'S', itemStyle:{color:'#e8686a'}},
+      {value:10, name:'A', itemStyle:{color:'#f5a623'}},
+      {value:12, name:'B', itemStyle:{color:'#4a6cf7'}}
+    ]
+  }]
+});
+
+// 3. City distribution - bar
+var cityData = [["上海", 13], ["北京", 11], ["杭州", 7], ["深圳", 7], ["广州", 5], ["苏州", 2], ["珠海", 2]];
+var chart3 = echarts.init(document.getElementById('chart-city'));
+chart3.setOption({
+  tooltip: { trigger:'axis', triggerOn:'mousemove|click', renderMode:'richText', confine:true, axisPointer:{type:'shadow'} },
+  grid: { left:'3%', right:'5%', bottom:'3%', top:'8%', containLabel:true },
+  xAxis: { type:'category', data: cityData.map(function(d){return d[0];}), axisLabel:{fontSize:11, rotate:0} },
+  yAxis: { type:'value', axisLabel:{fontSize:11} },
+  series: [{
+    type:'bar', data: cityData.map(function(d){return d[1];}),
+    itemStyle:{color:'#36c5b5', borderRadius:[4,4,0,0]},
+    label:{show:true, position:'top', fontSize:11}
+  }]
+});
+
+// 4. Source accessibility - horizontal bar
+var srcData = [["官网可直接访问", 12], ["需人工登录核验", 6], ["二手待官网核验", 6], ["岗位已关闭需核实", 1]];
+var srcColors = {'官网可直接访问':'#2ecc71','需人工登录核验':'#f5a623','二手待官网核验':'#e8686a','无法抓取需人工核实':'#95a5a6','岗位已关闭需核实':'#e74c3c'};
+var chart4 = echarts.init(document.getElementById('chart-source'));
+chart4.setOption({
+  tooltip: { trigger:'axis', triggerOn:'mousemove|click', renderMode:'richText', confine:true, axisPointer:{type:'shadow'} },
+  grid: { left:'3%', right:'12%', bottom:'3%', top:'5%', containLabel:true },
+  xAxis: { type:'value', axisLabel:{fontSize:11} },
+  yAxis: { type:'category', data: srcData.map(function(d){return d[0];}), axisLabel:{fontSize:10, width:100, overflow:'truncate'} },
+  series: [{
+    type:'bar',
+    data: srcData.map(function(d){return {value:d[1], itemStyle:{color: srcColors[d[0]] || '#4a6cf7', borderRadius:[0,4,4,0]}};}),
+    label:{show:true, position:'right', fontSize:11, formatter:'{c}个'}
+  }]
+});
+
+// 5. Heatmap - direction x verdict
+var chart5 = echarts.init(document.getElementById('chart-heatmap'));
+chart5.setOption({
+  tooltip: { trigger:'item', triggerOn:'mousemove|click', renderMode:'richText', confine:true,
+    formatter: function(p){ return directions[p.data[1]] + ' × ' + verdicts[p.data[0]] + '级: ' + p.data[2] + '个'; }
+  },
+  grid: { left:'3%', right:'10%', bottom:'8%', top:'8%', containLabel:true },
+  xAxis: { type:'category', data:['S级','A级','B级'], splitArea:{show:true}, axisLabel:{fontSize:12} },
+  yAxis: { type:'category', data:["GTM/市场策略", "跨境电商/运营", "外贸/海外业务", "HR/HRBP", "产品/AI产品", "管培/其他"], splitArea:{show:true}, axisLabel:{fontSize:11} },
+  visualMap: { min:0, max:7, calculable:true, orient:'horizontal', left:'center', bottom:'2%',
+    inRange:{color:['#f0f4ff','#4a6cf7','#1a3a9e']}, textStyle:{fontSize:11} },
+  series: [{
+    type:'heatmap', data:[[0, 0, 2], [1, 0, 7], [2, 0, 4], [0, 1, 0], [1, 1, 3], [2, 1, 2], [0, 2, 1], [1, 2, 0], [2, 2, 2], [0, 3, 0], [1, 3, 0], [2, 3, 2], [0, 4, 0], [1, 4, 0], [2, 4, 1], [0, 5, 0], [1, 5, 0], [2, 5, 1]],
+    label:{show:true, fontSize:13, fontWeight:'bold', formatter:function(p){return p.data[2]>0?p.data[2]:'';}},
+    emphasis:{itemStyle:{shadowBlur:10, shadowColor:'rgba(0,0,0,0.3)'}}
+  }]
+});
+var directions = ["GTM/市场策略", "跨境电商/运营", "外贸/海外业务", "HR/HRBP", "产品/AI产品", "管培/其他"];
+var verdicts = ['S','A','B'];
+
+// 6. Company distribution - horizontal bar
+var compData = [["字节跳动", 4], ["拼多多", 4], ["智元机器人（AGIBOT）", 2], ["科沃斯（Ecovacs）", 2], ["云鲸智能（Narwal）", 2], ["腾讯", 2], ["壁仞科技", 2], ["出门问问（Mobvoi）", 1], ["宇树科技（Unitree Robotics）", 1], ["优必选（UBTECH）", 1], ["徕芬（Laifen/徕芬科技）", 1], ["云深处科技（DeepRobotics）", 1], ["网易（互娱/游戏）", 1], ["寒武纪", 1]];
+var chart6 = echarts.init(document.getElementById('chart-company'));
+chart6.setOption({
+  tooltip: { trigger:'axis', triggerOn:'mousemove|click', renderMode:'richText', confine:true, axisPointer:{type:'shadow'} },
+  grid: { left:'3%', right:'8%', bottom:'3%', top:'3%', containLabel:true },
+  xAxis: { type:'value', axisLabel:{fontSize:11} },
+  yAxis: { type:'category', data: compData.map(function(d){return d[0];}), axisLabel:{fontSize:10, width:140, overflow:'truncate'} },
+  series: [{
+    type:'bar', data: compData.map(function(d,i){return {value:d[1], itemStyle:{color:colors[i%colors.length], borderRadius:[0,4,4,0]}};}),
+    label:{show:true, position:'right', fontSize:11, formatter:'{c}个'}
+  }]
+});
+
+// Responsive resize
+window.addEventListener('resize', function(){
+  chart1.resize(); chart2.resize(); chart3.resize(); chart4.resize(); chart5.resize(); chart6.resize();
+});
+</script>
+</body>
+</html>
