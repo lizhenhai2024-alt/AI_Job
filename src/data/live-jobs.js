@@ -43713,7 +43713,7 @@ export const liveJobs = [
       "出海",
       "文科/社科专业范围兼容"
     ],
-    "riskTags": [],
+    "riskTags": ["长期外派", "跨国出差", "全球岗位调配"],
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://sany.zhiye.com/campus/detail?jobAdId=270972186",
