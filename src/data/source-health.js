@@ -370,7 +370,7 @@ export const sourceHealth = {
       "company": "万兴科技",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描137，源内保留9"
+      "reason": "北森源正常：扫描138，源内保留9"
     },
     {
       "provider": "beisen",
@@ -699,7 +699,7 @@ export const sourceHealth = {
       "company": "宁德新能源科技有限公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出74，源内保留0"
+      "reason": "HotJob源正常：列出39，源内保留0"
     },
     {
       "provider": "hotjob",
@@ -762,7 +762,7 @@ export const sourceHealth = {
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量189，源内保留27"
+      "reason": "官方源正常：本轮活动量189，源内保留28"
     },
     {
       "provider": "pinduoduo",
@@ -853,7 +853,7 @@ export const sourceHealth = {
       "company": "广东外语外贸大学",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 18 个错误"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
@@ -893,27 +893,27 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "南开大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量31，源内保留18"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 7 个错误"
     },
     {
       "provider": "university",
       "company": "湖南大学",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量20，源内保留3"
+      "reason": "官方源正常：本轮活动量20，源内保留4"
     }
   ],
   "counts": {
-    "healthy": 110,
+    "healthy": 109,
     "empty": 7,
     "no_2027": 1,
-    "error": 6,
+    "error": 7,
     "unknown": 5
   },
   "total": 129,
-  "healthy": 110,
-  "attention": 19,
-  "updatedAt": "2026-09-12T00:02:42.552Z"
+  "healthy": 109,
+  "attention": 20,
+  "updatedAt": "2026-09-12T12:39:19.262Z"
 };
