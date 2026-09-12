@@ -676,9 +676,9 @@ export const sourceHealth = {
     {
       "provider": "hotjob",
       "company": "Decathlon",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "HotJob源正常：列出337，源内保留54"
+      "status": "empty",
+      "healthy": false,
+      "reason": "HotJob源本轮没有列出岗位"
     },
     {
       "provider": "hotjob",
@@ -692,21 +692,21 @@ export const sourceHealth = {
       "company": "创维集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出126，源内保留23"
+      "reason": "HotJob源正常：列出136，源内保留23"
     },
     {
       "provider": "hotjob",
       "company": "宁德新能源科技有限公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出39，源内保留0"
+      "reason": "HotJob源正常：列出74，源内保留0"
     },
     {
       "provider": "hotjob",
       "company": "荣耀",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出58，源内保留2"
+      "reason": "HotJob源正常：列出98，源内保留5"
     },
     {
       "provider": "hotjob",
@@ -755,14 +755,14 @@ export const sourceHealth = {
       "company": "字节跳动",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量1000，源内保留34"
+      "reason": "官方源正常：本轮活动量1000，源内保留41"
     },
     {
       "provider": "meituan",
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量189，源内保留28"
+      "reason": "官方源正常：本轮活动量189，源内保留27"
     },
     {
       "provider": "pinduoduo",
@@ -895,7 +895,7 @@ export const sourceHealth = {
       "company": "南开大学",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 7 个错误"
+      "reason": "来源抓取存在 3 个错误"
     },
     {
       "provider": "university",
@@ -906,14 +906,14 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 109,
-    "empty": 7,
+    "healthy": 108,
+    "empty": 8,
     "no_2027": 1,
     "error": 7,
     "unknown": 5
   },
   "total": 129,
-  "healthy": 109,
-  "attention": 20,
-  "updatedAt": "2026-09-12T12:39:19.262Z"
+  "healthy": 108,
+  "attention": 21,
+  "updatedAt": "2026-09-12T23:53:32.069Z"
 };
