@@ -145788,7 +145788,7 @@ export const liveJobs = [
     ],
     "source": "公司官方北森校招官网",
     "sourceType": "official",
-    "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=390849526",
+    "sourceUrl": "https://babycare.zhiye.com/campus/detail?jobAdId=42d2fa1b-0446-4a6e-97e6-7c350a6e26ee",
     "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-07-28",
     "deadline": "",
