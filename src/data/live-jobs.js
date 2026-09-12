@@ -91623,7 +91623,7 @@ export const liveJobs = [
       "出海",
       "文科/社科专业范围兼容"
     ],
-    "riskTags": [],
+    "riskTags": ["长期外派", "海外出差", "多任务压力"],
     "source": "公司官方北森校招官网",
     "sourceType": "official",
     "sourceUrl": "https://transsion.zhiye.com/campus/detail?jobAdId=270965302",
