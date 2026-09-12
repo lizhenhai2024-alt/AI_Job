@@ -6910,7 +6910,7 @@ export const liveJobs = [
     "roleFamily": [
       "产品营销"
     ],
-    "city": "佛山",
+    "city": "青岛/佛山",
     "graduationYear": "2027",
     "skills": [
       "英语"
