@@ -75341,7 +75341,7 @@ export const liveJobs = [
     "riskTags": [],
     "source": "公司官方北森校招官网",
     "sourceType": "official",
-    "sourceUrl": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=621128976",
+    "sourceUrl": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=93cec780-3c95-4e9f-9c99-4328762ee1ac",
     "verification": "官方招聘官网 · JD明确2027届",
     "publishedAt": "2026-08-18",
     "deadline": "",
