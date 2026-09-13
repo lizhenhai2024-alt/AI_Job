@@ -337,6 +337,14 @@ export const sourceRegistry = [
     "company": "蓝思科技"
   },
   {
+    "provider": "beisen",
+    "company": "国科微电子股份有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "深圳市鹏芯微集成电路制造有限公司"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },
@@ -431,6 +439,10 @@ export const sourceRegistry = [
   {
     "provider": "hotjob",
     "company": "中车戚墅堰所"
+  },
+  {
+    "provider": "hotjob",
+    "company": "TCL华星光电"
   },
   {
     "provider": "anker",

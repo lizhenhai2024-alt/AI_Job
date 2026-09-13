@@ -80,7 +80,7 @@ if (sources.moka.some((s) => !s.company || !/^https:\/\/(app\.mokahr\.com|[a-z0-
 }
 if (!Array.isArray(sources.beisen) || !sources.beisen.length) throw new Error('official Beisen source registry is empty');
 if (sources.beisen.some((s) => {
-  const beisenCustomDomains = ['https://hr-campus.vivo.com', 'https://jobs.hisense.com', 'https://campus.boe.com'];
+  const beisenCustomDomains = ['https://hr-campus.vivo.com', 'https://jobs.hisense.com', 'https://campus.boe.com', 'https://career.pxwsemi.com'];
   const validHost = /^https:\/\/[a-z0-9.-]+\.zhiye\.com$/i.test(s.baseUrl) || beisenCustomDomains.includes(s.baseUrl);
   const validMode = !s.mode || s.mode === 'html';
   return !s.company || !validHost || !validMode || effectiveGraduationYear(s) !== '2027';
