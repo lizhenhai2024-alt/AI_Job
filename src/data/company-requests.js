@@ -21,5 +21,347 @@ export const companyRequests = [
     "sourceRegistered": true,
     "sourceAlreadyExists": true,
     "analysis": "识别为北森；2027 届证据和标准 API 探针均通过（岗位 137）；官方链接可访问"
+  },
+  {
+    "id": "intake-630b1512f86e",
+    "name": "欣锐科技",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/shinry/142745",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "已识别官方源，等待岗位刷新",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "analysis": "Moka已接入；车载电源，2027届校招已启动(哈工大就业网2026-09-04)"
+  },
+  {
+    "id": "intake-ebe9f89a0706",
+    "name": "新芯股份",
+    "careerUrl": "https://whxmc.zhiye.com/Campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "已识别官方源，等待岗位刷新",
+    "provider": "beisen",
+    "sourceRegistered": true,
+    "analysis": "北森已接入(XMC)；2027届全球校园招聘2026-08启动"
+  },
+  {
+    "id": "intake-5761779010ae",
+    "name": "蓝思科技",
+    "careerUrl": "https://hnlens.zhiye.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "已识别官方源，等待岗位刷新",
+    "provider": "beisen",
+    "sourceRegistered": true,
+    "analysis": "北森已接入(A+H上市)；2027届秋季校招需求约500人"
+  },
+  {
+    "id": "intake-002fb37a6219",
+    "name": "新能安",
+    "careerUrl": "https://ampace.hotjob.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "已识别官方源，等待岗位刷新",
+    "provider": "hotjob",
+    "sourceRegistered": true,
+    "analysis": "HotJob已接入(tenant=6619d98e1eb8053acd618afb)；ATL旗下动力电池，2027届全球校招"
+  },
+  {
+    "id": "intake-11f58649b1f3",
+    "name": "中车戚墅堰所",
+    "careerUrl": "https://crrc-qsys.hotjob.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "已识别官方源，等待岗位刷新",
+    "provider": "hotjob",
+    "sourceRegistered": true,
+    "analysis": "HotJob已接入(tenant=64ca23a76202cc125d4844de)；中国中车旗下，2027届校招"
+  },
+  {
+    "id": "intake-bcccc76fef10",
+    "name": "中建四局",
+    "careerUrl": "https://recruit.cscec.com/recruit#/index?contract_unit=32045741&company_id=1873",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "中建集团统一招聘平台(自研)，须参加中国建筑统一考试；2027届已启动"
+  },
+  {
+    "id": "intake-188681915659",
+    "name": "中建八局一公司",
+    "careerUrl": "https://job.cscec8b.com.cn/81",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "中建八局自研招聘系统；2027届已启动"
+  },
+  {
+    "id": "intake-a597bd9b0aec",
+    "name": "中建八局发展建设公司",
+    "careerUrl": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2773",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "中建八局自研招聘系统；网申至2027-06-30"
+  },
+  {
+    "id": "intake-15e938d1688d",
+    "name": "中国电信",
+    "careerUrl": "https://job.chinatelecom.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "在库观察公司，本次补官方源",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "集团自建校招入口；53家招聘单位，2026-08-24启动2027届校招"
+  },
+  {
+    "id": "intake-b5a78a6ade7f",
+    "name": "招商银行佛山分行",
+    "careerUrl": "https://career.cmbchina.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "在库招商银行，补佛山分行为子条目",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "招行总行统一入口(自研)，分行级无独立入口；2026-09-03公告，网申约10月10日截止"
+  },
+  {
+    "id": "intake-45910a0b9142",
+    "name": "国科微",
+    "careerUrl": "http://www.gokemicro.com/CampusRecruitment/index.aspx",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "自研宣传页，实际投递经公众号/第三方平台；2027届\"同芯筑梦\""
+  },
+  {
+    "id": "intake-dfaa6837a9c5",
+    "name": "鹏芯微",
+    "careerUrl": "https://career.pxwsemi.com/campus/jobs",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "自研招聘系统，2026-07-01上线；2027届已启动"
+  },
+  {
+    "id": "intake-239c1912ffbf",
+    "name": "TCL华星光电",
+    "careerUrl": "https://campus.tcl.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "在库TCL，补华星光电子公司说明",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "TCL集团自研校招门户，华星光电无独立入口，选机构\"TCL华星光电\""
+  },
+  {
+    "id": "intake-c0bce546295c",
+    "name": "比亚迪",
+    "careerUrl": "https://job.byd.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "在库主投公司，本次补官方源",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "自研校招系统(校园招聘板块)；\"寻找爱迪生\"2027届秋招2026-08-20起"
+  },
+  {
+    "id": "intake-123601a0655f",
+    "name": "中铁城建",
+    "careerUrl": "http://www.crucg.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "无独立网申系统，邮箱投递(cruzgzhaopin@163.com等)；7个招聘组进校宣讲"
+  },
+  {
+    "id": "intake-046f4fa35ca9",
+    "name": "派克新材",
+    "careerUrl": "http://www.wuxipaike.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "邮箱wxpkhr@wuxipaike.com投递；博士40-50万/硕士19-23万/本科13-15万"
+  },
+  {
+    "id": "intake-0430b7d13e0e",
+    "name": "优优绿能",
+    "careerUrl": "https://www.uugreenpower.cn/join.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "公众号\"优优绿能招聘号\"/邮箱XZ@uugreenpower.com；\"优世界，能者聚\"2026-08-25起"
+  },
+  {
+    "id": "intake-44ead4ca873f",
+    "name": "湖南德赛电池",
+    "careerUrl": "https://docs.qq.com/form/page/DUWFpZFRIbHFqWm9z",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "湖南大学2026秋招宣讲会公司",
+    "requestedAt": "2026-09-13T08:00:00Z",
+    "updatedAt": "2026-09-13T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "腾讯文档表单+邮箱yinz_hndc@desay.com；本科9-16W/硕士12-25W"
   }
 ];

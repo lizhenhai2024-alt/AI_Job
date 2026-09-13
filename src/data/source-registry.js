@@ -153,6 +153,10 @@ export const sourceRegistry = [
     "company": "农夫山泉"
   },
   {
+    "provider": "moka",
+    "company": "欣锐科技"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },
@@ -325,6 +329,14 @@ export const sourceRegistry = [
     "company": "优衣库"
   },
   {
+    "provider": "beisen",
+    "company": "新芯股份"
+  },
+  {
+    "provider": "beisen",
+    "company": "蓝思科技"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },
@@ -411,6 +423,14 @@ export const sourceRegistry = [
   {
     "provider": "hotjob",
     "company": "特变电工股份有限公司"
+  },
+  {
+    "provider": "hotjob",
+    "company": "新能安"
+  },
+  {
+    "provider": "hotjob",
+    "company": "中车戚墅堰所"
   },
   {
     "provider": "anker",
