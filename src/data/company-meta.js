@@ -745,35 +745,30 @@ export const companyMeta = {
     scale: "10000人以上",
     nature: "上市公司",
     tags: ["潮玩","零售"],
-    addedAt: "2026-09-13"
   },
   "优衣库": {
     fullName: "迅销（中国）商贸有限公司",
     scale: "10000人以上",
     nature: "外企",
     tags: ["服装零售","快时尚"],
-    addedAt: "2026-09-13"
   },
   "雀巢中国": {
     fullName: "雀巢（中国）有限公司",
     scale: "10000人以上",
     nature: "外企",
     tags: ["快消","食品饮料"],
-    addedAt: "2026-09-13"
   },
   "字节跳动": {
     fullName: "北京字节跳动科技有限公司",
     scale: "10000人以上",
     nature: "民营企业",
     tags: ["互联网","短视频"],
-    addedAt: "2026-09-13"
   },
   "OPPO": {
     fullName: "OPPO广东移动通信有限公司",
     scale: "10000人以上",
     nature: "民营企业",
     tags: ["智能手机","消费电子"],
-    addedAt: "2026-09-13"
   },
   "韶音科技": {
     fullName: "深圳市韶音科技有限公司",
@@ -787,7 +782,6 @@ export const companyMeta = {
     scale: "1000-9999人",
     nature: "民营企业",
     tags: ["钢结构","建材"],
-    addedAt: "2026-09-13"
   },
   "厦门亿联网络": {
     fullName: "厦门亿联网络技术股份有限公司",
@@ -920,14 +914,12 @@ export const companyMeta = {
     scale: "10000人以上",
     nature: "上市公司",
     tags: ["电商","互联网"],
-    addedAt: "2026-09-13"
   },
   "百度": {
     fullName: "百度在线网络技术（北京）有限公司",
     scale: "10000人以上",
     nature: "上市公司",
     tags: ["互联网","搜索","AI"],
-    addedAt: "2026-09-13"
   },
   "海康威视": {
     fullName: "杭州海康威视数字技术股份有限公司",
@@ -941,7 +933,6 @@ export const companyMeta = {
     scale: "10000人以上",
     nature: "国企",
     tags: ["通信运营商","5G"],
-    addedAt: "2026-09-13"
   },
   "中国外运": {
     fullName: "中国外运股份有限公司",
@@ -976,7 +967,6 @@ export const companyMeta = {
     scale: "1000-9999人",
     nature: "民营企业",
     tags: ["游戏","二次元"],
-    addedAt: "2026-09-13"
   },
   "中国路桥": {
     fullName: "中国路桥工程有限责任公司",
