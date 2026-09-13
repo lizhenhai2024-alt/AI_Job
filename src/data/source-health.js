@@ -268,6 +268,13 @@ export const sourceHealth = {
       "reason": "Moka源本轮没有发现岗位，需检查校园招聘入口"
     },
     {
+      "provider": "moka",
+      "company": "欣锐科技",
+      "status": "empty",
+      "healthy": false,
+      "reason": "Moka源本轮没有发现岗位，需检查校园招聘入口"
+    },
+    {
       "provider": "beisen",
       "company": "科大讯飞",
       "status": "healthy",
@@ -321,7 +328,7 @@ export const sourceHealth = {
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留18"
+      "reason": "北森源正常：扫描450，源内保留18"
     },
     {
       "provider": "beisen",
@@ -405,7 +412,7 @@ export const sourceHealth = {
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留18"
+      "reason": "北森源正常：扫描450，源内保留18"
     },
     {
       "provider": "beisen",
@@ -569,6 +576,20 @@ export const sourceHealth = {
       "reason": "北森源正常：扫描600，源内保留1"
     },
     {
+      "provider": "beisen",
+      "company": "新芯股份",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描53，源内保留1"
+    },
+    {
+      "provider": "beisen",
+      "company": "蓝思科技",
+      "status": "empty",
+      "healthy": false,
+      "reason": "北森源本轮没有扫描到岗位，需检查模板/API或招聘状态"
+    },
+    {
       "provider": "feishu",
       "company": "影石Insta360",
       "status": "healthy",
@@ -723,6 +744,20 @@ export const sourceHealth = {
       "reason": "HotJob源本轮没有列出岗位"
     },
     {
+      "provider": "hotjob",
+      "company": "新能安",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "HotJob源正常：列出62，源内保留0"
+    },
+    {
+      "provider": "hotjob",
+      "company": "中车戚墅堰所",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "HotJob源正常：列出6，源内保留0"
+    },
+    {
       "provider": "anker",
       "company": "安克创新",
       "status": "healthy",
@@ -858,16 +893,16 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京外国语大学",
-      "status": "error",
+      "status": "unknown",
       "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "reason": "本轮缺少足够来源健康统计"
     },
     {
       "provider": "university",
       "company": "对外经济贸易大学",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 5 个错误"
+      "reason": "来源抓取存在 3 个错误"
     },
     {
       "provider": "university",
@@ -906,14 +941,14 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 105,
-    "empty": 9,
+    "healthy": 108,
+    "empty": 11,
     "no_2027": 1,
-    "error": 10,
-    "unknown": 4
+    "error": 9,
+    "unknown": 5
   },
-  "total": 129,
-  "healthy": 105,
-  "attention": 24,
-  "updatedAt": "2026-09-13T13:42:01.562Z"
+  "total": 134,
+  "healthy": 108,
+  "attention": 26,
+  "updatedAt": "2026-09-13T15:13:08.794Z"
 };
