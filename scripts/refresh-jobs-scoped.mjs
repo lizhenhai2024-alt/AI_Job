@@ -34,6 +34,10 @@ try {
     exitCode = await runScript('scripts/job-discovery/refresh-university-jobs.mjs');
   }
   if (exitCode === 0) {
+    // 高校就业网/牛客等继续承担发现与交叉取证，但生产 liveJobs 只保留公司官方来源。
+    exitCode = await runScript('scripts/filter-official-live-jobs.mjs');
+  }
+  if (exitCode === 0) {
     exitCode = await runScript('scripts/enrich-job-compensation.mjs');
   }
   if (exitCode === 0) {
@@ -44,8 +48,12 @@ try {
     if (!stats || typeof stats.disclosed !== 'number' || stats.disclosed < 1) {
       console.error(`[compensation-check] FAIL: stats.compensation missing or disclosed<1 (got ${JSON.stringify(stats)})`);
       exitCode = 1;
+    } else if ((liveModule.liveJobs || []).some((job) => job?.sourceType !== 'official')) {
+      console.error('[source-policy-check] FAIL: production liveJobs contains non-official records');
+      exitCode = 1;
     } else {
       console.log(`[compensation-check] OK disclosed=${stats.disclosed}/${stats.totalJobs} official=${stats.officialDisclosed}`);
+      console.log(`[source-policy-check] OK official-only jobs=${liveModule.liveJobs.length}`);
     }
   }
 } finally {
