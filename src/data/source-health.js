@@ -270,9 +270,9 @@ export const sourceHealth = {
     {
       "provider": "moka",
       "company": "欣锐科技",
-      "status": "empty",
-      "healthy": false,
-      "reason": "Moka源本轮没有发现岗位，需检查校园招聘入口"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "Moka源正常：发现21，源内保留1"
     },
     {
       "provider": "beisen",
@@ -328,7 +328,7 @@ export const sourceHealth = {
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描450，源内保留18"
+      "reason": "北森源正常：扫描600，源内保留18"
     },
     {
       "provider": "beisen",
@@ -412,7 +412,7 @@ export const sourceHealth = {
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描450，源内保留18"
+      "reason": "北森源正常：扫描600，源内保留18"
     },
     {
       "provider": "beisen",
@@ -559,7 +559,7 @@ export const sourceHealth = {
       "company": "蒙牛",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描252，源内保留26"
+      "reason": "北森源正常：扫描248，源内保留26"
     },
     {
       "provider": "beisen",
@@ -585,9 +585,23 @@ export const sourceHealth = {
     {
       "provider": "beisen",
       "company": "蓝思科技",
-      "status": "empty",
-      "healthy": false,
-      "reason": "北森源本轮没有扫描到岗位，需检查模板/API或招聘状态"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描45，源内保留1"
+    },
+    {
+      "provider": "beisen",
+      "company": "国科微电子股份有限公司",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描115，源内保留0"
+    },
+    {
+      "provider": "beisen",
+      "company": "深圳市鹏芯微集成电路制造有限公司",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描12，源内保留0"
     },
     {
       "provider": "feishu",
@@ -758,6 +772,13 @@ export const sourceHealth = {
       "reason": "HotJob源正常：列出6，源内保留0"
     },
     {
+      "provider": "hotjob",
+      "company": "TCL华星光电",
+      "status": "empty",
+      "healthy": false,
+      "reason": "HotJob源本轮没有列出岗位"
+    },
+    {
       "provider": "anker",
       "company": "安克创新",
       "status": "healthy",
@@ -790,14 +811,14 @@ export const sourceHealth = {
       "company": "字节跳动",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量1000，源内保留41"
+      "reason": "官方源正常：本轮活动量980，源内保留41"
     },
     {
       "provider": "meituan",
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量189，源内保留28"
+      "reason": "官方源正常：本轮活动量189，源内保留27"
     },
     {
       "provider": "pinduoduo",
@@ -837,16 +858,16 @@ export const sourceHealth = {
     {
       "provider": "job51",
       "company": "联合利华",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "job51",
       "company": "雅诗兰黛",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "phenom",
@@ -893,16 +914,16 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京外国语大学",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
       "company": "对外经济贸易大学",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 3 个错误"
+      "reason": "来源抓取存在 6 个错误"
     },
     {
       "provider": "university",
@@ -941,14 +962,14 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 108,
-    "empty": 11,
+    "healthy": 112,
+    "empty": 10,
     "no_2027": 1,
-    "error": 9,
-    "unknown": 5
+    "error": 12,
+    "unknown": 2
   },
-  "total": 134,
-  "healthy": 108,
-  "attention": 26,
-  "updatedAt": "2026-09-13T15:13:08.794Z"
+  "total": 137,
+  "healthy": 112,
+  "attention": 25,
+  "updatedAt": "2026-09-13T16:10:58.537Z"
 };
