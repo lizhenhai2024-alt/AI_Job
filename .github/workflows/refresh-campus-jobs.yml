@@ -2,8 +2,9 @@ name: Refresh campus jobs
 
 on:
   schedule:
-    - cron: '0 22 * * *'
-    - cron: '0 9 * * *'
+    - cron: '0 22 * * *'      # 06:00 Asia/Shanghai
+    - cron: '0 9 * * *'       # 17:00 Asia/Shanghai
+    - cron: '30 14 * * *'     # 22:30 Asia/Shanghai，补抓晚间高校新增
   workflow_dispatch:
   push:
     branches: [main]
@@ -19,6 +20,8 @@ on:
       - 'config/search-profile.json'
       - 'config/official-sources.json'
       - 'config/university-sources.json'
+      - 'config/source-discovery.json'
+      - 'config/company-requests.json'
       - 'package.json'
 
 concurrency:
@@ -31,7 +34,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
         with:
@@ -54,15 +57,16 @@ jobs:
       - name: Commit refreshed job pool and source health
         shell: bash
         run: |
-          if git diff --quiet -- src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js package-lock.json; then
-            echo "No job/source-health data changes."
+          TRACKED_PATHS="src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js config/official-sources.json config/source-discovery.json config/company-requests.json package-lock.json"
+          if git diff --quiet -- $TRACKED_PATHS; then
+            echo "No job/source-health/source-bridge data changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js package-lock.json
-          git commit -m "data: refresh 2027 campus jobs and source health"
+          git add $TRACKED_PATHS
+          git commit -m "data: refresh 2027 campus jobs and university source bridge"
 
           git fetch origin main
           if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
@@ -70,7 +74,7 @@ jobs:
             echo "main advanced while refresh was running:"
             echo "$changed_paths"
 
-            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
+            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
               echo "Refresh inputs or generated data changed on newer main; skip stale data push."
               echo "A newer refresh run should own the next snapshot."
               exit 0
