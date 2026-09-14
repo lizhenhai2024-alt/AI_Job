@@ -6,6 +6,7 @@ import { searchUniversityJobs } from './university.mjs';
 import { dedupePreferOfficial, dedupeById } from './dedupe.mjs';
 import { relevanceScore, isClosed } from './core.mjs';
 import { shouldExcludeByPolicy, enrichCandidateFit } from './policy.mjs';
+import { isLikelyOfficialCareerUrl } from './source-candidates.mjs';
 import { enrichProvenanceFields } from '../../src/core/source-provenance.js';
 import { curateDiscoveredJobs } from './granularity.mjs';
 import { evaluateSourceHealth } from './source-health.mjs';
@@ -23,6 +24,25 @@ async function loadModule(filePath) {
 function cleanForStorage(job) {
   const { _searchText, _category, _subject, _sourceJobId, _recruitType, closed, excludeFromLiveBoard, ...clean } = job;
   return clean;
+}
+
+export function extractOfficialCareerUrl(text = '', sourceUrl = '') {
+  const sourceHost = (() => { try { return new URL(sourceUrl).hostname.toLowerCase(); } catch { return ''; } })();
+  const blocked = /(^|\.)(nowcoder\.com|zhipin\.com|liepin\.com|51job\.com|lagou\.com|linkedin\.com|weibo\.com|zhihu\.com|xiaohongshu\.com|qq\.com|weixin\.qq\.com)$/i;
+  const rawCandidates = String(text).match(/(?:https?:\/\/)?(?:www\.)?(?:[a-z0-9-]+\.)+[a-z]{2,}(?:\/[a-z0-9._~:/?#\[\]@!$&'()*+,;=%-]*)?/gi) || [];
+  for (let raw of rawCandidates) {
+    raw = raw.replace(/[，。；;、)）】\]>'"\s]+$/g, '');
+    const candidate = /^https?:\/\//i.test(raw) ? raw : `https://${raw}`;
+    try {
+      const url = new URL(candidate);
+      const host = url.hostname.toLowerCase();
+      if (!host || host === sourceHost || sourceHost.endsWith(`.${host}`) || host.endsWith(`.${sourceHost}`)) continue;
+      if (blocked.test(host)) continue;
+      if (!isLikelyOfficialCareerUrl(candidate)) continue;
+      return url.href;
+    } catch {}
+  }
+  return '';
 }
 
 function asModule(jobs, meta) {
@@ -66,7 +86,17 @@ const curated = curateDiscoveredJobs(university.jobs || []);
 const freshUniversityJobs = curated
   .filter((job) => !job.excludeFromLiveBoard)
   .filter((job) => !shouldExcludeByPolicy(job))
-  .map(enrichCandidateFit);
+  .map(enrichCandidateFit)
+  .map((job) => {
+    const officialCareerUrl = extractOfficialCareerUrl(job._searchText || '', job.sourceUrl || '');
+    if (!officialCareerUrl) return job;
+    return {
+      ...job,
+      officialCareerUrl,
+      officialCareerEvidence: `${job.universitySource?.school || '高校就业网'}详情页明确给出公司招聘官网/投递入口`,
+      verification: '高校就业信息网官方发布 · 已发现公司官方招聘入口 · 待官网岗位细化'
+    };
+  });
 
 const now = new Date();
 const merged = dedupeById(dedupePreferOfficial([...existingJobs, ...freshUniversityJobs]))
@@ -84,6 +114,7 @@ const finalJobs = merged.map(enrichProvenanceFields);
 const updatedAt = new Date().toISOString();
 const sourceHealth = combineHealth(existingHealth, university.stats || {}, activeSources);
 const companies = new Set(merged.map((job) => job.company).filter(Boolean));
+const officialBackedUniversity = merged.filter((job) => job.sourceChannel === 'university' && job.graduationYear === '2027' && job.officialCareerUrl).length;
 const meta = {
   ...existingMeta,
   updatedAt,
@@ -98,15 +129,16 @@ const meta = {
       activeSchools: activeSources.length,
       discovered: university.stats?.listed || 0,
       keptBeforeGranularity: university.stats?.keptJobs || 0,
-      keptAfterGranularityAndPolicy: freshUniversityJobs.length
+      keptAfterGranularityAndPolicy: freshUniversityJobs.length,
+      officialBacked: officialBackedUniversity
     },
     totalJobs: merged.length,
     companies: companies.size
   },
-  note: `${existingMeta.note || ''} 高校渠道覆盖策略：985/211/双一流及外语外贸特色高校；高校就业网作为发现与交叉取证来源，正式投递前仍回公司官方校招官网复核。`.trim()
+  note: `${existingMeta.note || ''} 高校渠道覆盖策略：985/211/双一流及外语外贸特色高校；高校就业网作为发现与交叉取证来源；若详情页明确给出公司官方招聘入口，则进入自动官方源适配队列。`.trim()
 };
 
 await fs.writeFile(livePath, asModule(finalJobs, meta), 'utf8');
 await fs.writeFile(sourceHealthPath, healthModule(sourceHealth, updatedAt), 'utf8');
-console.log(`[university-refresh] activeSchools=${activeSources.length} listed=${university.stats?.listed || 0} rawKept=${university.stats?.keptJobs || 0} finalAdded=${freshUniversityJobs.length}`);
+console.log(`[university-refresh] activeSchools=${activeSources.length} listed=${university.stats?.listed || 0} rawKept=${university.stats?.keptJobs || 0} finalAdded=${freshUniversityJobs.length} officialBacked=${officialBackedUniversity}`);
 console.log(`[university-refresh] mergedPool=${finalJobs.length} companies=${companies.size} crossEvidence=${finalJobs.filter((job) => (job.sourceEvidence || []).length > 1).length}`);
