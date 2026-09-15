@@ -42,6 +42,38 @@ GET /api/JobAd/GetJobAdInfo?jobAdId=<id>&category=2&displayFields=[...]
   - 当前 html 模式北森源：中芯国际（`smics.zhiye.com`）、国贸股份（`itg.zhiye.com`，使用 `gmkgxzxq?jobId=` 特殊系统，不走 `campus/detail` 标准路径）。
 - 其余 URL 形态（`/campus` 列表页、`gmkgxzxq` 等）不受本规则约束。
 
+## 全量扫描结论（2026-09-16）
+
+扫描 `src/data/live-jobs.js` 全量北森详情 URL：
+
+- 共 **1164** 个 `zhiye.com/campus/detail?jobAdId=` 详情 URL：**736 个数字** jobAdId（无效）+ 428 个 UUID（有效）。
+- sourceUrl 层 **368 个数字**（其余来自 sourceEvidence 重复计数），全部集中在 10 个北森域名：
+
+| 域名 | 公司 | 数字 URL 数 | 是否注册官方源 |
+| --- | --- | ---: | --- |
+| chinalife.zhiye.com | 中国人寿 | 130 | 否（金融，用户排除） |
+| cntp.zhiye.com | 中国太平保险集团 | 101 | 否（金融，用户排除） |
+| xdf.zhiye.com | 新东方深圳学校 | 68 | 否（教育） |
+| picc.zhiye.com | 中国人民保险集团 | 48 | 否（金融，用户排除） |
+| jobtaikang.zhiye.com | 泰康保险 | 13 | 否（金融，用户排除） |
+| huicecom.zhiye.com | 慧策集团 | 2 | 是 |
+| mxbc1997.zhiye.com | 蜜雪冰城 | 2 | 否（茶饮） |
+| iflytek.zhiye.com | 科大讯飞 | 2 | 是 |
+| babycare.zhiye.com | Babycare | 1 | 是 |
+| miniso.zhiye.com | 名创优品 | 1 | 是 |
+
+## 残留根因（两层）
+
+**1. 未注册源永不重建**：6 个域名（人寿/太平/新东方/人保/泰康/蜜雪冰城，共 362 条）不在 `config/official-sources.json` 的 `beisen` 列表，`refresh-jobs.mjs` 的 beisen 抓取从不覆盖它们，其历史数字 URL 不会被重抓修复。
+
+**2. 快照保留机制捞回旧条目**：补水 run（如 34994152218）中 beisen 有 2 个源抓取错误（`errors=2`，beisen 源含 3 个 empty 源），`isSourceRefreshUnhealthy()` 按 provider 级判定为 unhealthy → `retainedJobsForUnhealthySources()` 把补水前 `live-jobs.js` 中**所有**北森条目（含历史数字 URL）原样保留，与本次新抓的 UUID 条目并存。**只要每轮 beisen 存在任意源错误，旧数字 URL 就永久存活**。
+
+## 处置（2026-09-16）
+
+1. **数据修复**：一次性清除 `live-jobs.js` 中 368 条数字 `jobAdId` 条目（URL 无效、主体为金融保险/教育/茶饮等低价值或用户排除行业，无保留价值），UUID 条目全部保留。
+2. **代码防回流**：`scripts/job-discovery/snapshot-retention.mjs` 新增 `hasNumericBeisenDetailUrl()`，快照保留时剔除数字 `jobAdId` 条目（`retained` 过滤条件），防止每轮 unhealthy 时捞回无效 URL。
+3. `scripts/check.mjs` R-BEISEN-001 校验保持强制，任何数字 `jobAdId` 回流即报红。
+
 ## 排查速查
 
 | 现象 | 可能原因 | 处理 |

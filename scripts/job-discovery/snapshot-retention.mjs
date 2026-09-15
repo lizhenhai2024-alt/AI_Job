@@ -49,12 +49,19 @@ export function isSourceRefreshUnhealthy(result) {
   return false;
 }
 
+// R-BEISEN-001：北森（zhiye.com）详情路由 GetJobAdInfo 需要岗位 UUID；数字 JobAdId 的详情 URL 一律"参数错误"。
+// 快照保留不得把这类无效 URL 的历史条目捞回（否则每轮 unhealthy 都会让它们永久存活）。
+export function hasNumericBeisenDetailUrl(job = {}) {
+  const urls = [String(job?.sourceUrl || ''), ...(Array.isArray(job?.sourceEvidence) ? job.sourceEvidence.map((e) => e?.url || '') : [])];
+  return urls.some((url) => /zhiye\.com\/campus\/detail\?jobAdId=\d+(?:&|$)/i.test(url));
+}
+
 export function retainedJobsForUnhealthySources(existing = [], sourceResults = [], configuredProviders = []) {
   const resultMap = new Map(sourceResults.map((result) => [result.name, result]));
   const providers = new Set(configuredProviders.filter(Boolean));
   for (const result of sourceResults) providers.add(result.name);
   const unhealthy = new Set([...providers].filter((provider) => isSourceRefreshUnhealthy(resultMap.get(provider))));
-  const retained = existing.filter((job) => unhealthy.has(providerOfJob(job)));
+  const retained = existing.filter((job) => unhealthy.has(providerOfJob(job)) && !hasNumericBeisenDetailUrl(job));
   return { retained, unhealthy: [...unhealthy].sort() };
 }
 
