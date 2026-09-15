@@ -1,0 +1,51 @@
+name: Patch job intelligence v1
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/patch-job-intelligence-v1.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 20
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Apply production patch
+        run: python scripts/patch-job-intelligence-v1.py
+      - name: Syntax and focused tests
+        run: |
+          node --check src/core/headcount.js
+          node --check src/core/compensation.js
+          node --check scripts/enrich-job-compensation.mjs
+          node --check scripts/job-discovery/beisen.mjs
+          node --check scripts/refresh-jobs-scoped.mjs
+          node --test src/core/headcount.test.js
+      - name: Run repository tests
+        run: npm test
+      - name: Commit production changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/core/headcount.js src/core/headcount.test.js scripts/enrich-job-compensation.mjs scripts/check-compensation.mjs scripts/job-discovery/beisen.mjs scripts/refresh-jobs-scoped.mjs package.json .github/workflows/refresh-campus-jobs.yml docs/job-intelligence-contract-v1.md
+          if git diff --cached --quiet; then
+            echo "No production changes to commit."
+            exit 0
+          fi
+          git commit -m "feat: standardize publication date, job HC and salary intelligence"
+          git pull --rebase origin main
+          git push origin main
