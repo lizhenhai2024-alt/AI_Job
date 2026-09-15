@@ -1054,20 +1054,349 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "湖南大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "北京第二外国语学院",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "四川外国语大学",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量20，源内保留8"
+      "reason": "官方源正常：本轮活动量23，源内保留6"
+    },
+    {
+      "provider": "university",
+      "company": "西安外国语大学",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量27，源内保留1"
+    },
+    {
+      "provider": "university",
+      "company": "天津外国语大学",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量5，源内保留0"
+    },
+    {
+      "provider": "university",
+      "company": "大连外国语大学",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量5，源内保留0"
+    },
+    {
+      "provider": "university",
+      "company": "北京大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "清华大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "中国人民大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "复旦大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "上海交通大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "浙江大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "南京大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "武汉大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "华中科技大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "中山大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "厦门大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "山东大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "四川大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "重庆大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "西安交通大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "哈尔滨工业大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "北京航空航天大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "北京理工大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "同济大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "华东师范大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "东南大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "天津大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "吉林大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "大连理工大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "华南理工大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "中南大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "电子科技大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "中国科学技术大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "西北工业大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "兰州大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "中央财经大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "上海财经大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "中南财经政法大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "西南财经大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "北京师范大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "华中师范大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "暨南大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "苏州大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "南京师范大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "上海大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "郑州大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
+    },
+    {
+      "provider": "university",
+      "company": "云南大学",
+      "status": "unknown",
+      "healthy": false,
+      "reason": "本轮缺少足够来源健康统计"
     }
   ],
   "counts": {
     "empty": 45,
-    "healthy": 95,
+    "healthy": 98,
     "no_2027": 1,
     "error": 4,
-    "unknown": 6
+    "unknown": 50
   },
-  "total": 151,
-  "healthy": 95,
-  "attention": 56,
-  "updatedAt": "2026-09-15T17:54:24.922Z"
+  "total": 198,
+  "healthy": 98,
+  "attention": 100,
+  "updatedAt": "2026-09-15T23:02:11.138Z"
 };
