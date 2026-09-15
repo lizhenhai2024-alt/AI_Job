@@ -4653,5 +4653,445 @@ export const companyRequests = [
     "sourceRegistered": true,
     "sourceAlreadyExists": true,
     "analysis": "识别为北森；2027 届证据和标准 API 探针均通过（岗位 137）；官方链接可访问"
+  },
+  {
+    "id": "intake-fbb2005795aa",
+    "name": "达能",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/danone/170511",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "analysis": "2027管培在招（Moka网申截止2026-10-31；吉林大学/南开就业网来源）；已在official-sources的moka注册"
+  },
+  {
+    "id": "intake-32adbc6b8ec2",
+    "name": "百事",
+    "careerUrl": "https://xyz.51job.com/External/Apply.aspx?CtmID=9549079",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "job51",
+    "sourceRegistered": false,
+    "analysis": "2027供应链/综合管理培训生在招（应届生网来源）；官网投递 pepjobs.mypepsico.com/apac"
+  },
+  {
+    "id": "intake-226e423a97d3",
+    "name": "百威中国",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/budweiser/148097",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "analysis": "2027商务管理培训生（红星）项目在招（Moka，中南/厦大/吉首等高校就业网确认）；已在official-sources的moka注册"
+  },
+  {
+    "id": "intake-59356277d2bc",
+    "name": "亚玛芬体育",
+    "careerUrl": "https://campus.51job.com/amersports2026",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "job51",
+    "sourceRegistered": false,
+    "analysis": "2027总部职能/商品企划管培生（萨洛蒙等品牌），网申至2026-10-15，空中宣讲9/21；邮箱 amersports-ta@amersports.com"
+  },
+  {
+    "id": "intake-6cac99e423f4",
+    "name": "安踏集团",
+    "careerUrl": "https://jobs.anta.com/campus-recruitment/antahr/142914",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027届全球校招（品牌/商品/零售/供应链/职能族160+岗位），网申截止2026-11-30；自建Moka平台"
+  },
+  {
+    "id": "intake-518f620efd5f",
+    "name": "特斯拉中国",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/tesla/41460",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "analysis": "2027届250+岗位在招（Moka；牛客来源）；应届生职位投递链接9月中旬官宣；已在official-sources的moka注册"
+  },
+  {
+    "id": "intake-3bc0820d77cb",
+    "name": "微软",
+    "careerUrl": "https://careers.microsoft.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招（微软亚洲研究院2026-09-08官宣）；careers.microsoft.com官方投递系统"
+  },
+  {
+    "id": "intake-4d715684df83",
+    "name": "ABB",
+    "careerUrl": "https://xy.liepin.com/abb2027",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "liepin",
+    "sourceRegistered": false,
+    "analysis": "2027届校园招聘启动（猎聘校园网申平台，网申2026-09-01~11-01）；邮箱 center.recruit@cn.abb.com"
+  },
+  {
+    "id": "intake-1ae482f6ede5",
+    "name": "霍尼韦尔",
+    "careerUrl": "https://careers.honeywell.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027届招聘2026-09-15启动（管培/实习，上海/北京/苏州/天津/厦门）；careers.honeywell.com学生毕业生入口已核"
+  },
+  {
+    "id": "intake-0619424543a6",
+    "name": "壳牌",
+    "careerUrl": "https://www.shell.com.cn/careers/students-and-graduates.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027毕业生英才计划（管培）+暑期实习生，专业不限；北京/珠海/天津/惠州/嘉兴/湛江；牛客9-13汇总确认开启"
+  },
+  {
+    "id": "intake-1b70122068d0",
+    "name": "英特尔",
+    "careerUrl": "https://chinacampus.jobs.intel.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027中国校园招聘启动（上海/北京/深圳，AI编译器/AI框架/数据中心软件）；浙江大学就业平台来源；招满即止"
+  },
+  {
+    "id": "intake-54ad45c9cafb",
+    "name": "泡泡玛特",
+    "careerUrl": "https://popmart.zhiye.com/Campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027秋招网申至2026-11-30（北森源）；已有海外岗位'跨境电商运营（美洲区）'；华中科技/南开就业网来源；北森UUID链接规则生效"
+  },
+  {
+    "id": "intake-e23beaa41588",
+    "name": "日邮物流",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/yusen",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招（管理/销售/物流培训生，重庆/天津等）；51job官方校招页确认，网申至2026-11-30"
+  },
+  {
+    "id": "intake-505d55a1c7e8",
+    "name": "利洁时",
+    "careerUrl": "https://reckitt.zhaopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhaopin",
+    "sourceRegistered": false,
+    "analysis": "2027供应链NextGen管培（太仓等，2026-09-14发布）；研发FLS管培走 reckitt.zhaopin.com"
+  },
+  {
+    "id": "intake-dc4930c729df",
+    "name": "上海家化",
+    "careerUrl": "https://xyz.51job.com/External/Apply.aspx?CtmID=9573221",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "job51",
+    "sourceRegistered": false,
+    "analysis": "2027届校招（品牌市场/电商运营/人力资源/零售管培，上海），网申2026-09-05~10-15；官方新闻页确认网申通道"
+  },
+  {
+    "id": "intake-0faf9f0ec4cf",
+    "name": "斯堪尼亚",
+    "careerUrl": "https://xyz.51job.com/External/Apply.aspx?CtmID=6456390",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "job51",
+    "sourceRegistered": false,
+    "analysis": "2027研发未来人才培训生（江苏南通）+实习生；空中宣讲2026-09-03；工作地南通（非目标城市，观察池）"
+  },
+  {
+    "id": "intake-4550d3e1bc8f",
+    "name": "采埃孚",
+    "careerUrl": "https://jobs.zf.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "学生/毕业生项目（实习+培训生）；官方招聘系统jobs.zf.com（AI简历姬已核）；公众号采埃孚职场派"
+  },
+  {
+    "id": "intake-c3b77ba6e6cc",
+    "name": "沃尔玛中国",
+    "careerUrl": "https://walmart.zhaopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhaopin",
+    "sourceRegistered": false,
+    "analysis": "2027届管培生（深圳支持中心/门店/山姆/供应链配送中心）；集美大学/武汉本地宝确认；深圳总部与目标城市匹配"
+  },
+  {
+    "id": "intake-607e27300044",
+    "name": "Garena",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/garena/148076",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027秋招网申至2026-09-15已截止（上海徐汇）；Sea Global MAP全球管培生申请至2026-10；海外岗 careers.garena.cn/global"
+  },
+  {
+    "id": "intake-2cf38c613b06",
+    "name": "汉高",
+    "careerUrl": "https://www.henkel.com/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Finance Leadership Trainee（上海）在招；CHAiNGERS供应链/粘合剂销售管培（2026届走 campus.51job.com/Henkel2026）；官方求职门户投递"
+  },
+  {
+    "id": "intake-ef313a18f363",
+    "name": "拜尔斯道夫",
+    "careerUrl": "https://www.beiersdorf.com/career",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "中国区校招走官方招聘公众号/51job；跨境电商部培训生（市场方向，上海）为在招参考；全球careers门户投递"
+  },
+  {
+    "id": "intake-320b5a9e9186",
+    "name": "优衣库",
+    "careerUrl": "https://uniqlo.zhiye.com/Campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合站C类候选入清单（2027在招入口已核验）",
+    "requestedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-16T00:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "北森源（uniqlo.zhiye.com 在live-jobs北森扫描范围，UUID链接已修复）；2027届门店/总部管培参考"
   }
 ];

@@ -43,6 +43,25 @@ if (allJobs.some((job) => !job.company || !job.title || !job.roleFamily?.length)
 if (liveJobs.some((job) => job.graduationYear !== '2027' || !job.sourceUrl || !job.verification)) {
   throw new Error('live job provenance/cohort validation failed');
 }
+// 北森（zhiye.com）详情 URL 规则 R-BEISEN-001：jobAdId 必须是岗位 UUID，数字 JobAdId 会导致详情页"参数错误"
+// 详见 docs/beisen-url-rules.md
+const numericBeisenDetail = [];
+for (const job of liveJobs) {
+  const urls = [job.sourceUrl, ...(Array.isArray(job.sourceEvidence) ? job.sourceEvidence.map((e) => e?.url) : [])].filter(Boolean);
+  for (const url of urls) {
+    if (/zhiye\.com\/campus\/detail\?jobAdId=\d+(?:&|$)/i.test(url)) {
+      numericBeisenDetail.push({ id: job.id, company: job.company, url });
+    }
+  }
+}
+if (numericBeisenDetail.length) {
+  throw new Error(
+    `R-BEISEN-001 violation: ${numericBeisenDetail.length} Beisen job detail URL(s) use numeric jobAdId instead of UUID; first: ${numericBeisenDetail
+      .slice(0, 3)
+      .map((b) => `${b.company} ${b.url}`)
+      .join(' | ')}`
+  );
+}
 
 const config = JSON.parse(fs.readFileSync(path.join(root, 'config/search-profile.json'), 'utf8'));
 if (config.graduationYear !== '2027' || !config.roleKeywords?.length || !config.keywords?.length) {
