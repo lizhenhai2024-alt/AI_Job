@@ -46,9 +46,9 @@ test('normalizes an official Moka card and keeps provenance', () => {
   assert.ok(job.skills.includes('英语'));
 });
 
-test('official Moka technical role is still rejected by profile filter', () => {
+test('official Moka technical role is retained for downstream eligibility', () => {
   const job = parseMokaCard({ company: '示例公司', title: '软件工程师-北京', text: '2027届校园招聘', url: 'https://app.mokahr.com/campus-recruitment/demo/1#/job/2' });
-  assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), false);
+  assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), true);
 });
 
 test('explicit city in job title overrides company-location noise', () => {
@@ -70,12 +70,12 @@ test('falls back to title/company and Chinese投递时间 when JSON-LD is absent
   assert.ok(job.roleFamily.includes('海外运营'));
 });
 
-test('filters cohort and relevance while excluding technical roles', () => {
+test('discovery gate keeps active 2027 roles regardless of candidate fit', () => {
   const good = parseJobPage({ html: jobHtml(), url: 'https://www.nowcoder.com/jobs/detail/100003' });
   assert.ok(relevanceScore(good, profile) >= 4);
   assert.equal(shouldKeep(good, profile, new Date('2026-09-08T00:00:00Z')), true);
-  const bad = { ...good, title: '软件工程师', roleFamily: ['其他'] };
-  assert.equal(shouldKeep(bad, profile, new Date('2026-09-08T00:00:00Z')), false);
+  const technical = { ...good, title: '软件工程师', roleFamily: ['其他'] };
+  assert.equal(shouldKeep(technical, profile, new Date('2026-09-08T00:00:00Z')), true);
 });
 
 test('page template words do not pollute role classification', () => {
@@ -89,7 +89,7 @@ test('unrelated finance job is rejected even when site chrome contains target ke
   const html = jobHtml({ title: '财务管理', description: '负责财务核算、预算与报表，面向2027届毕业生。' }, '热门：海外运营 用户运营 市场 数据分析 英语 HR');
   const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100005' });
   assert.deepEqual(job.roleFamily, ['其他']);
-  assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), false);
+  assert.equal(shouldKeep(job, profile, new Date('2026-09-08T00:00:00Z')), true);
 });
 
 test('adjacent operations and brand titles are classified into usable role families', () => {
@@ -113,7 +113,7 @@ test('ecommerce developer role is rejected despite ecommerce title signal', () =
   });
   const job = parseJobPage({ html, url: 'https://www.nowcoder.com/jobs/detail/100007' });
   const strictProfile = { ...profile, strongExclude: [...profile.strongExclude, '开发工程师'] };
-  assert.equal(shouldKeep(job, strictProfile, new Date('2026-09-08T00:00:00Z')), false);
+  assert.equal(shouldKeep(job, strictProfile, new Date('2026-09-08T00:00:00Z')), true);
 });
 
 test('dedupe keeps the newer equivalent job', () => {

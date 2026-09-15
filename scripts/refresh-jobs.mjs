@@ -23,7 +23,7 @@ import { searchPhenomJobs } from './job-discovery/phenom.mjs';
 import { searchAvatureJobs } from './job-discovery/avature.mjs';
 import { searchSuccessFactorsJobs } from './job-discovery/successfactors.mjs';
 import { isClosed } from './job-discovery/core.mjs';
-import { shouldExcludeByPolicy, jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
+import { jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
 import { enrichProvenanceFields } from '../src/core/source-provenance.js';
 import { buildSourceHealth } from './job-discovery/source-health.mjs';
 import { curateDiscoveredJobs, curatedOfficialGranularityJobs } from './job-discovery/granularity.mjs';
@@ -361,7 +361,6 @@ const policyStats = countPolicyReasons(candidateJobs.filter((job) => !job.exclud
 
 const liveBoardCandidates = candidateJobs
   .filter((job) => !job.excludeFromLiveBoard)
-  .filter((job) => !shouldExcludeByPolicy(job))
   .map((job) => enrichCandidateFit(job, config))
   .map((job) => enrichProvenanceFields(job));
 

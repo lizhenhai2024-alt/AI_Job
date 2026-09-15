@@ -88,8 +88,8 @@ test('EcoFlow public Feishu API uses campaign website-path and paginates', async
   assert.equal(result.stats.errors, 0);
   assert.equal(result.stats.snapshotComplete, true);
   assert.equal(result.stats.emptyResult, false);
-  assert.equal(result.jobs.length, 1);
-  assert.equal(result.jobs[0].title, 'GTM');
+  assert.equal(result.jobs.length, 2);
+  assert.deepEqual(new Set(result.jobs.map((job) => job.title)), new Set(['GTM', '嵌入式软件工程师']));
   const searchCall = calls.find((c) => c.url.includes('/api/v1/search/job/posts'));
   assert.equal(searchCall.init.headers['website-path'], '602892');
   assert.equal(searchCall.init.headers['x-csrf-token'], 'public-csrf');
