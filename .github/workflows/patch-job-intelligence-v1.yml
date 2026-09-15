@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Apply production patch
-        run: python scripts/patch-job-intelligence-v1.py
+        run: python scripts/patch-job-intelligence-v1-safe.py
       - name: Syntax and focused tests
         run: |
           node --check src/core/headcount.js
@@ -41,7 +41,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/core/headcount.js src/core/headcount.test.js scripts/enrich-job-compensation.mjs scripts/check-compensation.mjs scripts/job-discovery/beisen.mjs scripts/refresh-jobs-scoped.mjs package.json .github/workflows/refresh-campus-jobs.yml docs/job-intelligence-contract-v1.md
+          git add src/core/headcount.js src/core/headcount.test.js scripts/enrich-job-compensation.mjs scripts/check-compensation.mjs scripts/job-discovery/beisen.mjs scripts/refresh-jobs-scoped.mjs package.json docs/job-intelligence-contract-v1.md
           if git diff --cached --quiet; then
             echo "No production changes to commit."
             exit 0
