@@ -17,6 +17,7 @@ on:
       - 'scripts/enrich-job-compensation.mjs'
       - 'scripts/check-compensation.mjs'
       - 'src/core/compensation.js'
+      - 'src/core/headcount.js'
       - 'config/search-profile.json'
       - 'config/official-sources.json'
       - 'config/university-sources.json'
@@ -48,7 +49,7 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Refresh jobs
         run: npm run refresh:jobs
-      - name: Verify compensation enrichment
+      - name: Verify job intelligence enrichment
         run: node scripts/check-compensation.mjs
       - name: Rebuild source registry
         run: npm run build:source-registry
@@ -78,7 +79,7 @@ jobs:
             echo "main advanced while refresh was running:"
             echo "$changed_paths"
 
-            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
+            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
               echo "Refresh inputs or generated data changed on newer main; skip stale data push."
               echo "A newer refresh run should own the next snapshot."
               exit 0
