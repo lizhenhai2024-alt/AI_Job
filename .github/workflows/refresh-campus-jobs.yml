@@ -26,7 +26,7 @@ on:
       - 'package.json'
 
 concurrency:
-  group: refresh-campus-jobs-main
+  group: refresh-campus-jobs-main-v2
   cancel-in-progress: false
 
 permissions:
