@@ -29,6 +29,7 @@ import { curateDiscoveredJobs, curatedOfficialGranularityJobs } from './job-disc
 import { retainedJobsForUnhealthySources, providerOfJob, findHistoricalProviderJobs, hasNumericBeisenDetailUrl } from './job-discovery/snapshot-retention.mjs';
 import { preferFresh } from './job-discovery/dedupe.mjs';
 import { dedupeById } from './job-discovery/dedupe.mjs';
+import { resolveJdEvidence } from './job-discovery/policy.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const config = JSON.parse(await fs.readFile(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -72,7 +73,12 @@ async function loadExisting() {
   try {
     const mod = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
     return Array.isArray(mod.liveJobs) ? mod.liveJobs : [];
-  } catch {
+  } catch (error) {
+    // Returning [] silently is how a corrupt/partial pool (or a writer that left
+    // the file mid-write) turns into "there was no previous snapshot": retention
+    // and evidence merging then have nothing to work against, and this run's
+    // scrapes become the whole pool.
+    console.warn(`[job-refresh] previous live-jobs.js could not be loaded (${error?.message || error}); starting from an empty pool`);
     return [];
   }
 }
@@ -87,10 +93,13 @@ function cleanForStorage(job) {
     closed,
     excludeFromLiveBoard,
     candidateFit,
+    jdEvidence,
     ...clean
   } = job;
   if (Array.isArray(clean.riskTags)) clean.riskTags = clean.riskTags.filter((tag) => !String(tag).startsWith('适配风险：'));
-  return clean;
+  // 传原始 job：它仍带 _searchText（上面才解构掉）和 candidateFit，
+  // resolveJdEvidence 需要这两者来决定重算 / 保留 / 迁移。
+  return { ...clean, jdEvidence: resolveJdEvidence(job) };
 }
 
 function asModule(jobs, meta) {
