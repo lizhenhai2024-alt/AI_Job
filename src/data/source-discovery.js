@@ -74,8 +74,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://jobs-startimes.ourats.com/req/campus",
     "reason": "已发现公司官方招聘入口，但当前站点 jobs-startimes.ourats.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
-    "nextCheckAfter": "2026-09-16T18:11:43.264Z"
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
+    "nextCheckAfter": "2026-09-16T18:35:18.582Z"
   },
   {
     "name": "比亚迪股份有限公司",
@@ -173,8 +173,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://careers.oppo.com/university/oppo/campus",
     "reason": "已发现公司官方招聘入口，但当前站点 careers.oppo.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
-    "nextCheckAfter": "2026-09-16T18:11:43.265Z"
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
+    "nextCheckAfter": "2026-09-16T18:35:18.583Z"
   },
   {
     "name": "广东特福国际控股有限公司",
@@ -184,8 +184,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://twyfordtile.gllue.com/portal/campusposition/list",
     "reason": "已发现公司官方招聘入口，但当前站点 twyfordtile.gllue.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
-    "nextCheckAfter": "2026-09-16T18:11:43.264Z"
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
+    "nextCheckAfter": "2026-09-16T18:35:18.582Z"
   },
   {
     "name": "广州地铁集团有限公司",
@@ -195,7 +195,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://gzmetro.zhiye.com/campus",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": ""
   },
   {
@@ -470,7 +470,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://talent.catl.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 talent.catl.com 尚无自动抓取适配器；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": ""
   },
   {
@@ -525,7 +525,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://sailuntire.zhiye.com/campus/jobs",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": ""
   },
   {
@@ -580,7 +580,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://shantui.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": ""
   },
   {
@@ -723,7 +723,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://gwpst.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": ""
   },
   {
@@ -734,8 +734,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
-    "nextCheckAfter": "2026-09-16T18:11:43.266Z"
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
+    "nextCheckAfter": "2026-09-16T18:35:18.585Z"
   },
   {
     "name": "招商银行股份有限公司长沙分行",
@@ -745,8 +745,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
-    "nextCheckAfter": "2026-09-16T18:11:43.266Z"
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
+    "nextCheckAfter": "2026-09-16T18:35:18.584Z"
   },
   {
     "name": "致欧家居",
@@ -789,7 +789,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://ccccltd.zhiye.com/custom/fxzzw?c2=26&fname=luqiaogc&hideMenu=1",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T18:11:43.263Z",
+    "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": ""
   },
   {
@@ -1037,7 +1037,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-15T18:11:43.263Z",
+  "updatedAt": "2026-09-15T18:35:18.580Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

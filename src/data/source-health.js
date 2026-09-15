@@ -825,21 +825,21 @@ export const sourceHealth = {
       "company": "创维集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出126，源内保留125"
+      "reason": "HotJob源正常：列出136，源内保留135"
     },
     {
       "provider": "hotjob",
       "company": "宁德新能源科技有限公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出40，源内保留40"
+      "reason": "HotJob源正常：列出75，源内保留75"
     },
     {
       "provider": "hotjob",
       "company": "荣耀",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出61，源内保留61"
+      "reason": "HotJob源正常：列出101，源内保留100"
     },
     {
       "provider": "hotjob",
@@ -916,7 +916,7 @@ export const sourceHealth = {
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量188，源内保留185"
+      "reason": "官方源正常：本轮活动量188，源内保留187"
     },
     {
       "provider": "pinduoduo",
@@ -937,7 +937,7 @@ export const sourceHealth = {
       "company": "小红书",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量151，源内保留150"
+      "reason": "官方源正常：本轮活动量151，源内保留149"
     },
     {
       "provider": "ctrip",
@@ -1049,7 +1049,7 @@ export const sourceHealth = {
       "company": "南开大学",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 2 个错误"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
@@ -1069,5 +1069,5 @@ export const sourceHealth = {
   "total": 151,
   "healthy": 132,
   "attention": 19,
-  "updatedAt": "2026-09-15T18:11:42.785Z"
+  "updatedAt": "2026-09-15T18:35:17.936Z"
 };
