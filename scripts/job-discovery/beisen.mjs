@@ -23,7 +23,11 @@ function cleanHtmlText(value = '') {
 
 function normalizeDate(value = '') {
   const m = String(value || '').match(/(20\d{2})[-年\/.](\d{1,2})[-月\/.](\d{1,2})/);
-  return m ? `${m[1]}-${m[2].padStart(2,'0')}-${m[3].padStart(2,'0')}` : '';
+  if (!m) return '';
+  const year = Number(m[1]);
+  // 北森哨兵值：0001-01-01 / 2222-02-02 等表示未设置截止时间
+  if (year < 2000 || year > 2100) return '';
+  return `${m[1]}-${m[2].padStart(2,'0')}-${m[3].padStart(2,'0')}`;
 }
 
 function cityFrom(row = {}) {
@@ -105,9 +109,10 @@ export function parseBeisenRow(source, row = {}, now = new Date()) {
     sourceUrl: detailUrl,
     verification,
     publishedAt: normalizeDate(row.PostDate),
-    deadline: '',
+    deadline: normalizeDate(row.EndTime),
     description: `公司官方北森校招岗位；${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方职位页确认完整职责与截止日期。`,
     salary: cleanText(row.Salary || ''),
+    headCount: Number(row.HeadCount) > 0 ? Number(row.HeadCount) : '',
     // 北森 API 已请求 HeadCount；此前这里没有保留，导致岗位 HC 在标准化前被丢掉。
     headcountRaw: cleanText(row.HeadCount ?? row.RecruitNumber ?? row.RecruitCount ?? ''),
     status: '推荐',
@@ -260,7 +265,7 @@ async function fetchApiPage(source, pageIndex, pageSize, fetcher = fetch) {
       KeyWords: '',
       SpecialType: 0,
       PortalId: source.portalId || '',
-      DisplayFields: ['Category','Kind','LocId','Org','HeadCount','PostDate','Salary','Duty','Require']
+      DisplayFields: ['Category','Kind','LocId','Org','HeadCount','PostDate','EndTime','Salary','Duty','Require']
     })
   });
   if (!response.ok) throw new Error(`HTTP ${response.status} for ${source.company}`);

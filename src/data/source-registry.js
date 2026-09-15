@@ -385,6 +385,18 @@ export const sourceRegistry = [
     "company": "蜜雪冰城"
   },
   {
+    "provider": "beisen",
+    "company": "赛轮集团(青岛) ·2027全球"
+  },
+  {
+    "provider": "beisen",
+    "company": "中国路桥"
+  },
+  {
+    "provider": "beisen",
+    "company": "山推工程机械股份有限公司"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },

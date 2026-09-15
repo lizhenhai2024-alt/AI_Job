@@ -5,6 +5,13 @@ const CARD_TAG_LINE_RX = /^(?:急|热|新|荐|推|置顶|热门|紧急|hot|new)$
 
 function textOf(v = '') { return String(v || '').replace(/\s+/g, ' ').trim(); }
 function cityFrom(text = '') { return CITY_NAMES.find((c) => String(text).includes(c)) || '待核'; }
+function normalizeMokaDate(value = '') {
+  const m = String(value || '').match(/(20\d{2})[-/](\d{1,2})[-/](\d{1,2})/);
+  if (!m) return '';
+  const year = Number(m[1]);
+  if (year < 2000 || year > 2100) return '';
+  return `${m[1]}-${m[2].padStart(2,'0')}-${m[3].padStart(2,'0')}`;
+}
 function decodeAttr(value = '') {
   return String(value)
     .replace(/&quot;/g, '"').replace(/&#34;/g, '"')
@@ -33,7 +40,12 @@ function cardsFromInitData(initData, source) {
     const locations = Array.isArray(job?.locations) ? job.locations : [];
     const locationText = locations.map((x) => x?.address || x?.cityName || (x?.country && x.country !== '中国' ? x.country : '') || '').filter(Boolean).join(' ');
     const extra = [job?.department?.name, job?.zhineng?.name, job?.commitment, locationText].filter(Boolean).join(' ');
-    return { href: mokaJobUrl(source.url, job?.id || ''), text: [job?.title, extra].filter(Boolean).join('\n') };
+    return {
+      href: mokaJobUrl(source.url, job?.id || ''),
+      text: [job?.title, extra].filter(Boolean).join('\n'),
+      publishedAt: normalizeMokaDate(job?.publishedAt || job?.openedAt || job?.createdAt),
+      deadline: normalizeMokaDate(job?.closedAt)
+    };
   }).filter((x) => x.href && x.text && !x.href.endsWith('/job/'));
 }
 
@@ -71,7 +83,7 @@ export function resolveMokaCardTitle(lines = []) {
   return cleanLines.find((line) => !CARD_TAG_LINE_RX.test(line)) || cleanLines[0] || '';
 }
 
-export function parseMokaCard({ company, title, text = '', url, graduationYear = '2027', strictCohort = false, now = new Date() }) {
+export function parseMokaCard({ company, title, text = '', url, graduationYear = '2027', strictCohort = false, now = new Date(), publishedAt = '', deadline = '' }) {
   const body = `${title}\n${text}`;
   const roleFamily = classifyRole(title);
   const skills = detectSkills(body);
@@ -94,7 +106,7 @@ export function parseMokaCard({ company, title, text = '', url, graduationYear =
     skills, languages: /英语|英文|CET|English/i.test(body) ? ['英语'] : [],
     experienceKeywords, preferenceTags, riskTags: detectRisks(body),
     source: '公司官方Moka校招官网', sourceType: 'official', sourceUrl: url,
-    verification, publishedAt: '', deadline: '',
+    verification, publishedAt, deadline,
     description: `公司官方 Moka 校招岗位；${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方职位页确认完整职责与截止日期。`,
     salary: extractSalary(body), status: '推荐', discoveredAt: now.toISOString(),
     jobDescription: text,
@@ -160,7 +172,9 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
             url: card.href,
             graduationYear: source.graduationYear || profile.graduationYear,
             strictCohort: Boolean(source.strictCohort),
-            now
+            now,
+            publishedAt: card.publishedAt,
+            deadline: card.deadline
           });
           if (!job.graduationYear) { cohortRejected++; portalCohort++; continue; }
           if (shouldKeep(job, profile, now)) { jobs.push(job); portalKept++; }

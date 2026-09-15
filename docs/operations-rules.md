@@ -16,6 +16,9 @@
 | R-OPS-005 | 数据修复必须排查全部回流路径 | 修复后又被快照/桥接/历史恢复加回 |
 | R-OPS-006 | 本地执行环境约定（Windows/PowerShell） | 命令转义与换行导致执行失败 |
 | R-OPS-007 | 刷新/补水前后做数据质量断言对比 | 刷新后坏链增量/源缺失未被发现 |
+| R-BEISEN-002 | 北森 `deadline` 采 `DisplayFields` 的 `EndTime`，哨兵值必须过滤 | 截止日期缺失/0001-01-01、2222-02-02 错误日期入库 |
+| R-OPS-008 | 多 Agent 共享工作目录时，禁止 git reset/checkout/restore 他人改动 | 并行 Agent 因 reset 把对方未提交补丁抹掉/ 把对方改动 staged 混入自己 commit |
+| R-OPS-009 | 外部 API 字段增强前必须同源实测；UUID 统计正则必须带 `(?:&|$)` 锚定 | 用 `\d+` 统计 UUID 开头数字误报；不实测就改字段导致重抓 |
 
 ---
 
@@ -100,6 +103,38 @@
 - **检查点**：刷新后 `npm run check` 全绿 + `git diff --stat` 确认预期规模变化。
 
 ---
+## R-BEISEN-002：北森 `deadline` 必须采 `EndTime` 并过滤哨兵值
+
+- **场景**：2027 校招许多列岗位有具体投递截止日期（如 `2026-11-30`），但 parseBeisenRow 当时 `deadline: ''` 直接丢弃。
+- **根因**：北森 `GetJobAdPageList` 响应中 `EndTime` 就是投递截止时间标签，但**DisplayFields 必须包含 `EndTime` 才会返回真实值**；`0001-01-01T00:00:00` / `2222-02-02T00:00:00` 为无效哨兵值（EndTimeInt=0 时代表长期有效/未设截止）。
+- **规则**：
+  1. `fetchApiPage` 的 `DisplayFields` 必须包含 `EndTime`，否则不返回；
+  2. `parseBeisenRow` 的 `deadline = normalizeDate(row.EndTime)`；`normalizeDate` 必须过滤年份 <2000 或 >2100 的哨兵值（0001-01-01/2222-02-02 等）为空；
+  3. `refresh-jobs.mjs` 已支持 `isClosed` 过滤：deadline 显示投递截止后关闭职位。
+- **检查点**：live-jobs 中 beisen 职位 `deadline` 有值率；refresh 后抽样验证（如 `泰康保险|2026-11-30`）。
+
+## R-OPS-008：多 Agent 共享工作目录时的 git 协作纪律
+
+- **场景**：本轮 OrganizerAgent 在同一 AI_Job_clone 目录并行运行，其 git 操作把 MainAgent 的 beisen.mjs 字段补丁、university-official-bridge.mjs 排除规则在工作树上抹掉（reset/checkout），并把 moka.mjs 等 staged 混入它的 commit 区，导致数据一度回退。
+- **根因**：多 Agent 共享工作目录时 git 不是单主写的；`git add -A` / `git reset --hard` / `git checkout --` / `git stash` 都会吞没或搞乱他人的未提交改动。
+- **规则**：
+  1. 共享目录下，**任何一个 Agent 不得执行 `git reset --hard`、`git checkout --`、`git restore`、`git stash` 等会抹掉工作树的命令**（除非明确只针对自己新写文件）。
+  2. commit 前必须 `git status --short` 核对，只 add 自己的目标文件，**禁止 `git add -A`/`git add .`** 以免混入他人改动。
+  3. 多 Agent 并行工作应分配不同文件/目录；必须抹掉工作树时，先 `git diff` 分类保存自己与他人改动，重建后再重放。
+  4. **两个 Agent 同时在同一个 repo 执行业务时，commit/push 由 MainAgent 统一执行**，子 Agent 只写文件。
+- **检查点**：已小人在同时运行时 `git status` 多次核对；commit 前重新 `git diff --cached --stat` 确认只有目标文件。
+
+## R-OPS-009：字段增强前必须同源实测；UUID 统计正则必须带锚定
+
+- **场景**：本轮统计北森"数字 URL"时用 `/zhiye\.com\/campus\/detail\?jobAdId=\d+/`，把以数字开头的 UUID（如 `5c7c0dc7-...`）误计为数字 jobAdId（虚报 2769 条）；同时没有先实测就改 beisen.mjs 字段，导致一次重抓（哨兵值未清、DisplayFields 行为未知）。
+- **根因**：北森 API 必须同源（同域名内 fetch 才通过 CORS）；DisplayFields 决定返回哪些字段的真实值；UUID 正则未带锚定时 `\d+` 会同时匹配 UUID 开头的数字。
+- **规则**：
+  1. 对北森/Moka 等外部 API 做字段增强前，**必须先用浏览器同源实测**（先分别导航到目标域名页面再 fetch），确认响应字段名与有效值分布，再改代码。
+  2. 统计/校验北森 URL 时，正则必须用 `jobAdId=\d+(?:&|$)` 锚定（同 R-BEISEN-001/check.mjs），**禁止 `\d+` 结尾无锚定的写法**。
+  3. 多源合并（snapshot-retention + 新抓取）时，抓取后必须核对 discoveredAt/company 分布，区分新旧，避免把历史数据当作新状态。
+- **检查点**：最终数据 `R-BEISEN-001 违规: 0` 与 deadline/HC 有值率对比。
+
+---
 
 ## 修改数据/脚本的标准操作流程
 
@@ -119,3 +154,6 @@
 | 09-16 | 补水 run 有源错误 → 快照保留捞回全部旧北森条目 | R-OPS-001 / R-OPS-005 |
 | 09-16 | 数据修复脚本误替换内层 `]` → live-jobs.js SyntaxError → check 抓出 | R-OPS-002 / R-OPS-003 |
 | 09-16 | 未注册 6 域名（人寿/太平/新东方/人保/泰康/蜜雪）坏链永不重建 | R-OPS-004 |
+| 09-16 | 取消金融/教育/茶饮排除 → 6 个北森源恢复采集（人寿/太平/新东方/人保/泰康/蜜雪） | R-OPS-004 / 用户政策变更 |
+| 09-16 | 并行 Organizer git 操作回退 MainAgent 的 beisen/moka/桥接补丁 → 提炼 R-OPS-008 | R-OPS-008 |
+| 09-16 | 北森 EndTime 截止日期采集 + HeadCount 标准化（623/3507 条），UUID 统计正则锚定修正 | R-BEISEN-002 / R-OPS-009 |
