@@ -108,6 +108,8 @@ export function parseBeisenRow(source, row = {}, now = new Date()) {
     deadline: '',
     description: `公司官方北森校招岗位；${skills.length ? `识别关键词：${skills.slice(0,5).join('、')}。` : ''}投递前请打开官方职位页确认完整职责与截止日期。`,
     salary: cleanText(row.Salary || ''),
+    // 北森 API 已请求 HeadCount；此前这里没有保留，导致岗位 HC 在标准化前被丢掉。
+    headcountRaw: cleanText(row.HeadCount ?? row.RecruitNumber ?? row.RecruitCount ?? ''),
     status: '推荐',
     discoveredAt: now.toISOString(),
     jobDescription: duty,
