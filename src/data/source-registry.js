@@ -353,6 +353,14 @@ export const sourceRegistry = [
     "company": "广州地铁集团有限公司"
   },
   {
+    "provider": "beisen",
+    "company": "长城电源技术有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "中国东方资产管理股份有限公司2027"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },

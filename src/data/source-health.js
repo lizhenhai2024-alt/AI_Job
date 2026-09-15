@@ -384,7 +384,7 @@ export const sourceHealth = {
       "company": "万兴科技",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描138，源内保留9"
+      "reason": "北森源正常：扫描140，源内保留10"
     },
     {
       "provider": "beisen",
@@ -618,6 +618,20 @@ export const sourceHealth = {
       "reason": "北森源正常：扫描38，源内保留2"
     },
     {
+      "provider": "beisen",
+      "company": "长城电源技术有限公司",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描78，源内保留1"
+    },
+    {
+      "provider": "beisen",
+      "company": "中国东方资产管理股份有限公司2027",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描29，源内保留1"
+    },
+    {
       "provider": "feishu",
       "company": "影石Insta360",
       "status": "healthy",
@@ -664,14 +678,14 @@ export const sourceHealth = {
       "company": "小米",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出781，正式2027候选780，筛选后124"
+      "reason": "官方飞书源正常：列出775，正式2027候选775，筛选后124"
     },
     {
       "provider": "feishu",
       "company": "致欧家居",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出27，正式2027候选26，筛选后16"
+      "reason": "官方飞书源正常：列出27，正式2027候选26，筛选后17"
     },
     {
       "provider": "feishu",
@@ -734,7 +748,7 @@ export const sourceHealth = {
       "company": "Decathlon",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出372，源内保留60"
+      "reason": "HotJob源正常：列出337，源内保留54"
     },
     {
       "provider": "hotjob",
@@ -832,7 +846,7 @@ export const sourceHealth = {
       "company": "字节跳动",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量1000，源内保留39"
+      "reason": "官方源正常：本轮活动量980，源内保留39"
     },
     {
       "provider": "meituan",
@@ -853,7 +867,7 @@ export const sourceHealth = {
       "company": "快手",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量273，源内保留36"
+      "reason": "官方源正常：本轮活动量272，源内保留36"
     },
     {
       "provider": "xiaohongshu",
@@ -928,9 +942,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "广东外语外贸大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量26，源内保留3"
     },
     {
       "provider": "university",
@@ -977,20 +991,20 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "湖南大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量20，源内保留8"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     }
   ],
   "counts": {
-    "healthy": 122,
+    "healthy": 124,
     "empty": 6,
     "no_2027": 1,
     "error": 6,
     "unknown": 5
   },
-  "total": 140,
-  "healthy": 122,
+  "total": 142,
+  "healthy": 124,
   "attention": 18,
-  "updatedAt": "2026-09-15T11:07:29.727Z"
+  "updatedAt": "2026-09-15T14:18:45.341Z"
 };
