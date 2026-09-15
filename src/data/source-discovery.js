@@ -199,6 +199,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-16T10:55:22.111Z"
   },
   {
+    "name": "虎牙",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://hr.huya.com/campusRecruit/index",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
     "name": "华为",
     "status": "主投",
     "state": "not_found",
@@ -208,6 +219,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-12T12:10:21.008Z",
     "nextCheckAfter": "2026-09-19T12:10:21.008Z"
+  },
+  {
+    "name": "欢聚集团",
+    "status": "主投",
+    "state": "candidate_found",
+    "provider": "",
+    "officialUrl": "https://campus.bigo.sg/",
+    "reason": "候选官网不可稳定访问：HTTP 0",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
     "name": "京东国际",
@@ -331,6 +353,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-12T22:17:04.821Z"
   },
   {
+    "name": "美的",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://career.gdut.edu.cn/campus/view/id/1020878",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
     "name": "美团",
     "status": "主投",
     "state": "needs_adapter",
@@ -375,6 +408,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-13T12:55:11.942Z"
   },
   {
+    "name": "睿联技术",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://career.nankai.edu.cn/correcruit/content/id/117591.html",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
     "name": "三一集团",
     "status": "主投",
     "state": "source_registered",
@@ -397,6 +441,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-16T05:31:20.646Z"
   },
   {
+    "name": "厦门松霖科技",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://www.esolex.cn/recruitment.html",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
     "name": "施耐德",
     "status": "主投",
     "state": "needs_adapter",
@@ -417,6 +472,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-09T05:41:29.410Z",
     "nextCheckAfter": "2026-09-16T05:41:29.410Z"
+  },
+  {
+    "name": "顺丰国际",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://campus.sf-express.com/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
     "name": "腾讯",
@@ -450,6 +516,17 @@ export const sourceDiscovery = [
     "attempts": 10,
     "lastCheckedAt": "2026-09-10T12:55:11.942Z",
     "nextCheckAfter": "2026-09-13T12:55:11.942Z"
+  },
+  {
+    "name": "新东方深圳学校",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://zhaopin.xdf.cn/campus",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
     "name": "扬腾创新",
@@ -529,6 +606,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-16T10:55:22.109Z"
   },
   {
+    "name": "中通快递",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://hr.zto.com/campus",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
     "name": "字节跳动",
     "status": "主投",
     "state": "needs_adapter",
@@ -560,6 +648,17 @@ export const sourceDiscovery = [
     "attempts": 26,
     "lastCheckedAt": "2026-09-15T07:44:35.841Z",
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
+  },
+  {
+    "name": "Apple",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://jobs.apple.com/en-us/search?location=china-CHNC&team=internships-STDNT-INTRN",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
     "name": "Baseus",
@@ -595,6 +694,28 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
   },
   {
+    "name": "Lenovo",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://talent.lenovo.com.cn/campus/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
+    "name": "NetEase",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://campus.163.com/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
     "name": "Nike",
     "status": "主投",
     "state": "needs_adapter",
@@ -604,6 +725,17 @@ export const sourceDiscovery = [
     "attempts": 16,
     "lastCheckedAt": "2026-09-15T07:44:35.841Z",
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
+  },
+  {
+    "name": "OnePlus",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://careers.oppo.com/university/oppo/campus/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
     "name": "Shopee",
@@ -652,7 +784,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-15T10:55:22.106Z",
+  "updatedAt": "2026-09-15T13:33:17.800Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

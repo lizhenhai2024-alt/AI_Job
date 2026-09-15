@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T10:55:22.106Z",
+  "updatedAt": "2026-09-15T13:33:17.800Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -986,6 +986,312 @@
       },
       "lastCheckedAt": "2026-09-15T10:55:22.106Z",
       "nextCheckAfter": "2026-09-16T10:55:22.111Z"
+    },
+    "美的": {
+      "name": "美的",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://career.gdut.edu.cn/campus/view/id/1020878",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.midea.com/recruit-school-wechat/home/",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "http://careers.midea.com/",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://careerssit.midea.com/recruit-school-out/home",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://recruit.midea.com/recruitOut/ihr/home/index",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://career.gdut.edu.cn/campus/view/id/1020878",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://jiuye.swjtu.edu.cn/career/zpxx/view/zpxx/234689586406756352",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://job.hdu.edu.cn/campus/view?id=9779",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://job.xpu.edu.cn/detail/online?id=3602775",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "睿联技术": {
+      "name": "睿联技术",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://career.nankai.edu.cn/correcruit/content/id/117591.html",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://hr.reolink.com.cn/",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://career.nankai.edu.cn/correcruit/content/id/117591.html",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://myjob.dlmu.edu.cn/campus/view/id/868626",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://career.cup.edu.cn/campus/view/id/460291",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://campus.niuqizp.com/job-v8r5aLn5L.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
+        },
+        {
+          "url": "https://school.gxjy.sdei.edu.cn/jobsdufe/jiuye/zhaopingg/detail/16099",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://school.gxjy.sdei.edu.cn/jobsdufe/jiuye/zhaopingg/detail/15428",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "厦门松霖科技": {
+      "name": "厦门松霖科技",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.esolex.cn/recruitment.html",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.esolex.cn/recruitment.html",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "顺丰国际": {
+      "name": "顺丰国际",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://campus.sf-express.com/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://campus.sf-express.com/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "新东方深圳学校": {
+      "name": "新东方深圳学校",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://zhaopin.xdf.cn/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://zhaopin.xdf.cn/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "中通快递": {
+      "name": "中通快递",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://hr.zto.com/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://hr.zto.com/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "le": {
+      "name": "Apple",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://jobs.apple.com/en-us/search?location=china-CHNC&team=internships-STDNT-INTRN",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://jobs.apple.com/en-us/search?location=china-CHNC&team=internships-STDNT-INTRN",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "lenovo": {
+      "name": "Lenovo",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://talent.lenovo.com.cn/campus/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://talent.lenovo.com.cn/campus/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "netease": {
+      "name": "NetEase",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://campus.163.com/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://campus.163.com/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "oneplus": {
+      "name": "OnePlus",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.oppo.com/university/oppo/campus/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.oppo.com/university/oppo/campus/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "虎牙": {
+      "name": "虎牙",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://hr.huya.com/campusRecruit/index",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://hr.huya.com/campusRecruit/index",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+    },
+    "欢聚": {
+      "name": "欢聚集团",
+      "status": "主投",
+      "state": "candidate_found",
+      "provider": "",
+      "officialUrl": "https://campus.bigo.sg/",
+      "reason": "候选官网不可稳定访问：HTTP 0",
+      "candidates": [
+        {
+          "url": "https://campus.bigo.sg/",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T13:33:17.800Z",
+      "nextCheckAfter": "2026-09-18T13:33:17.800Z"
     }
   },
   "lastRun": {
