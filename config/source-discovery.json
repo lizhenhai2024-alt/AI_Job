@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T18:35:18.580Z",
+  "updatedAt": "2026-09-15T22:53:49.671Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -1715,6 +1715,264 @@
       },
       "lastCheckedAt": "2026-09-15T18:35:18.580Z",
       "nextCheckAfter": ""
+    },
+    "北方华创": {
+      "name": "北方华创",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://career.naura.com/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://career.naura.com/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://career.naura.com/campus/jobs",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://career.hebut.edu.cn/home/recruitment/content/type/2/id/5132.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://campus.niuqizp.com/job-v8k5atNz5.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
+        },
+        {
+          "url": "https://campus.niuqizp.com/job-vrk5zCLnL.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
+        },
+        {
+          "url": "https://career.nankai.edu.cn/correcruit/content/id/118780.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "多益网络": {
+      "name": "多益网络",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://xz.duoyi.com/v40/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://xz.duoyi.com/v40/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "广东拓斯达": {
+      "name": "广东拓斯达科技",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.topstarltd.com/lang-cn/recruitinglist/006002003.html",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.topstarltd.com/lang-cn/recruitinglist/006002003.html",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "惠州亿纬锂能": {
+      "name": "惠州亿纬锂能股份有限公司",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.evebattery.com/campus-recruitment-new",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.evebattery.com/campus-recruitment-new",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "极氪": {
+      "name": "极氪",
+      "status": "主投",
+      "state": "candidate_found",
+      "provider": "",
+      "officialUrl": "https://campus.geely.com",
+      "reason": "候选官网不可稳定访问：HTTP 0",
+      "candidates": [
+        {
+          "url": "https://campus.geely.com",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "迈瑞医疗": {
+      "name": "迈瑞医疗",
+      "status": "主投",
+      "state": "candidate_found",
+      "provider": "",
+      "officialUrl": "https://career.mindray.com/campus",
+      "reason": "候选官网不可稳定访问：HTTP 0",
+      "candidates": [
+        {
+          "url": "https://career.mindray.com/campus",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "趣加": {
+      "name": "趣加",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://campus.funplus.com.cn/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://campus.funplus.com.cn/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "深信服": {
+      "name": "深信服",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://hr.sangfor.com/campucompon/schoolRecruitment",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://hr.sangfor.com/campucompon/schoolRecruitment",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "阳光电源": {
+      "name": "阳光电源",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://jobs.sungrowpower.com/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://jobs.sungrowpower.com/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "宇通客车": {
+      "name": "宇通客车",
+      "status": "主投",
+      "state": "no_2027_evidence",
+      "provider": "hotjob",
+      "officialUrl": "https://wecruit.hotjob.cn/SU64a37a4dbef57c3af71c2478/pb/index.html",
+      "reason": "识别为 HotJob，但页面没有明确2027校招证据",
+      "candidates": [
+        {
+          "url": "https://wecruit.hotjob.cn/SU64a37a4dbef57c3af71c2478/pb/index.html",
+          "provider": "hotjob",
+          "state": "no_2027_evidence",
+          "reason": "识别为 HotJob，但页面没有明确2027校招证据"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-20T22:53:49.671Z"
+    },
+    "长川": {
+      "name": "长川科技",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://career.hzcctech.com/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://career.hzcctech.com/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+    },
+    "中信金属": {
+      "name": "中信金属",
+      "status": "主投",
+      "state": "candidate_found",
+      "provider": "",
+      "officialUrl": "https://cmghr.metal.citic/recruit",
+      "reason": "候选官网不可稳定访问：HTTP 0",
+      "candidates": [
+        {
+          "url": "https://cmghr.metal.citic/recruit",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+      "nextCheckAfter": "2026-09-18T22:53:49.671Z"
     }
   },
   "lastRun": {
@@ -1722,7 +1980,7 @@
     "sourcesAdded": 0,
     "errors": 0,
     "batchSize": 12,
-    "forceRetry": true
+    "forceRetry": false
   },
   "lastUniversityBridge": {
     "candidates": 11,

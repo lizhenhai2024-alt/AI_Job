@@ -67,6 +67,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
   },
   {
+    "name": "北方华创",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://career.naura.com/campus",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+  },
+  {
     "name": "北京四达时代国际投资有限公司",
     "status": "高校自动发现",
     "state": "needs_adapter",
@@ -122,6 +133,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
   },
   {
+    "name": "多益网络",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://xz.duoyi.com/v40/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+  },
+  {
     "name": "帆软软件",
     "status": "主投",
     "state": "not_found",
@@ -175,6 +197,17 @@ export const sourceDiscovery = [
     "attempts": 0,
     "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": "2026-09-16T18:35:18.583Z"
+  },
+  {
+    "name": "广东拓斯达科技",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://www.topstarltd.com/lang-cn/recruitinglist/006002003.html",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
     "name": "广东特福国际控股有限公司",
@@ -263,6 +296,28 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-15T13:33:17.800Z",
     "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
+    "name": "惠州亿纬锂能股份有限公司",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://www.evebattery.com/campus-recruitment-new",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+  },
+  {
+    "name": "极氪",
+    "status": "主投",
+    "state": "candidate_found",
+    "provider": "",
+    "officialUrl": "https://campus.geely.com",
+    "reason": "候选官网不可稳定访问：HTTP 0",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
     "name": "金徽酒",
@@ -397,6 +452,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-12T22:17:04.821Z"
   },
   {
+    "name": "迈瑞医疗",
+    "status": "主投",
+    "state": "candidate_found",
+    "provider": "",
+    "officialUrl": "https://career.mindray.com/campus",
+    "reason": "候选官网不可稳定访问：HTTP 0",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+  },
+  {
     "name": "美的",
     "status": "主投",
     "state": "needs_adapter",
@@ -496,6 +562,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-13T12:55:11.942Z"
   },
   {
+    "name": "趣加",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://campus.funplus.com.cn/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+  },
+  {
     "name": "睿联技术",
     "status": "主投",
     "state": "needs_adapter",
@@ -582,6 +659,17 @@ export const sourceDiscovery = [
     "attempts": 0,
     "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": ""
+  },
+  {
+    "name": "深信服",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://hr.sangfor.com/campucompon/schoolRecruitment",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
     "name": "施耐德",
@@ -683,6 +771,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": ""
   },
   {
+    "name": "阳光电源",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://jobs.sungrowpower.com/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
+  },
+  {
     "name": "银泰商机集团",
     "status": "主投",
     "state": "needs_adapter",
@@ -692,6 +791,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-15T15:32:28.871Z",
     "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
+    "name": "宇通客车",
+    "status": "主投",
+    "state": "no_2027_evidence",
+    "provider": "hotjob",
+    "officialUrl": "https://wecruit.hotjob.cn/SU64a37a4dbef57c3af71c2478/pb/index.html",
+    "reason": "识别为 HotJob，但页面没有明确2027校招证据",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-20T22:53:49.671Z"
   },
   {
     "name": "阅文集团",
@@ -725,6 +835,17 @@ export const sourceDiscovery = [
     "attempts": 0,
     "lastCheckedAt": "2026-09-15T18:35:18.580Z",
     "nextCheckAfter": ""
+  },
+  {
+    "name": "长川科技",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://career.hzcctech.com/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
     "name": "招商银行股份有限公司沈阳分行",
@@ -824,6 +945,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-15T13:33:17.800Z",
     "nextCheckAfter": "2026-09-18T13:33:17.800Z"
+  },
+  {
+    "name": "中信金属",
+    "status": "主投",
+    "state": "candidate_found",
+    "provider": "",
+    "officialUrl": "https://cmghr.metal.citic/recruit",
+    "reason": "候选官网不可稳定访问：HTTP 0",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T22:53:49.671Z",
+    "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
     "name": "字节跳动",
@@ -1037,12 +1169,12 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-15T18:35:18.580Z",
+  "updatedAt": "2026-09-15T22:53:49.671Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
     "errors": 0,
     "batchSize": 12,
-    "forceRetry": true
+    "forceRetry": false
   }
 };
