@@ -54,12 +54,14 @@ jobs:
         run: npm run build:source-registry
       - name: Rebuild company requests module
         run: npm run build:company-requests
+      - name: Rebuild source discovery module
+        run: npm run build:source-discovery
       - name: Validate
         run: npm run check
       - name: Commit refreshed job pool and source health
         shell: bash
         run: |
-          TRACKED_PATHS="src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js src/data/company-requests.js config/official-sources.json config/source-discovery.json config/company-requests.json package-lock.json"
+          TRACKED_PATHS="src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js src/data/company-requests.js src/data/source-discovery.js config/official-sources.json config/source-discovery.json config/company-requests.json package-lock.json"
           if git diff --quiet -- $TRACKED_PATHS; then
             echo "No job/source-health/source-bridge data changes."
             exit 0
