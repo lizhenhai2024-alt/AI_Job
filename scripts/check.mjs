@@ -6,11 +6,12 @@ import { companyRegistry, isValidCompanyRecord } from '../src/data/company-regis
 import { sourceRegistry } from '../src/data/source-registry.js';
 import { companyRequests } from '../src/data/company-requests.js';
 import { sourceDiscovery } from '../src/data/source-discovery.js';
+import { sameCanonicalCompany } from '../src/core/company-normalization.js';
 
 const root = path.resolve(process.cwd());
 const required = [
   'index.html', 'src/bootstrap.js', 'src/app.js', 'src/styles.css', 'src/discovery.css', 'src/core/matcher.js',
-  'src/core/shortlist.js', 'src/core/company-intake.js', 'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
+  'src/core/shortlist.js', 'src/core/company-intake.js', 'src/core/company-normalization.js', 'src/core/storage.js', 'src/data/jobs.js', 'src/data/live-jobs.js', 'src/data/profile.js',
   'src/data/company-library.js', 'src/data/company-registry.js', 'src/data/company-requests.js', 'src/data/source-registry.js', 'src/data/source-discovery.js',
   'scripts/job-discovery/core.mjs', 'scripts/job-discovery/nowcoder.mjs', 'scripts/job-discovery/moka.mjs',
   'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/feishu.mjs', 'scripts/job-discovery/hotjob.mjs',
@@ -162,17 +163,13 @@ if (companyRegistry.some((record) => (record.cities || []).some((value) => /市�
 if (companyRegistry.filter((record) => ['主投','观察'].includes(record.status)).some((record) => !record.sourceDiscoveryState)) {
   throw new Error('active company missing source discovery coverage state');
 }
-const missingRequests = companyRequests.filter((request) => !companyRegistry.some((record) => record.userRequested && (() => {
-  const clean = (value) => String(value || '').replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '').replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase();
-  const a = clean(record.name); const b = clean(request.name);
-  return a === b || (Math.min(a.length, b.length) >= 3 && (a.includes(b) || b.includes(a)));
-})()));
+const missingRequests = companyRequests.filter((request) => !companyRegistry.some((record) =>
+  record.userRequested && sameCanonicalCompany(record.name, request.name)
+));
 if (missingRequests.length) throw new Error(`company requests missing from registry: ${missingRequests.map((x) => x.name).join(', ')}`);
-const missingManaged = sourceRegistry.filter((source) => !companyRegistry.some((record) => record.sourceManaged && record.sourceProviders?.includes(source.provider) && (() => {
-  const clean = (value) => String(value || '').replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '').replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase();
-  const a = clean(record.name); const b = clean(source.company);
-  return a === b || (Math.min(a.length, b.length) >= 3 && (a.includes(b) || b.includes(a)));
-})()));
+const missingManaged = sourceRegistry.filter((source) => !companyRegistry.some((record) =>
+  record.sourceManaged && record.sourceProviders?.includes(source.provider) && sameCanonicalCompany(record.name, source.company)
+));
 if (missingManaged.length) throw new Error(`official sources missing from company registry: ${missingManaged.map((x) => `${x.provider}:${x.company}`).join(', ')}`);
 
 console.log(`Static checks passed: ${required.length} files, ${demoJobs.length} demo jobs, ${liveJobs.length} live jobs, ${companyRegistry.length} unified companies, ${sourceRegistry.length} official source links, ${companyRequests.length} company intake requests, ${sourceDiscovery.length} source discovery audits, provenance and registry quality OK.`);

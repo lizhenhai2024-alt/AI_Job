@@ -1,3 +1,6 @@
+import { canonicalCompanyKey } from '../../src/core/company-normalization.js';
+export { canonicalCompanyKey };
+
 const ACTIVE_STATUSES = new Set(['主投', '观察']);
 const STATUS_WEIGHT = { '主投': 100, '观察': 50 };
 const ATS_HOSTS = [
@@ -8,16 +11,6 @@ const ATS_HOSTS = [
 ];
 const BLOCKED_HOST_RX = /(^|\.)(nowcoder\.com|zhipin\.com|liepin\.com|51job\.com|lagou\.com|linkedin\.com|xiaohongshu\.com|weibo\.com|zhihu\.com|baidu\.com|google\.com|bing\.com|duckduckgo\.com)$/i;
 const CAREER_TOKEN_RX = /(career|careers|job|jobs|campus|recruit|recruitment|join|graduate|school|talent|hire|hiring)/i;
-
-export function canonicalCompanyKey(value = '') {
-  return String(value || '')
-    .replace(/[（(].*?[）)]/g, '')
-    .replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '')
-    .replace(/新能源|科技|技术|动力/gi, '')
-    .replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '')
-    .toLowerCase()
-    .trim();
-}
 
 export function sourceProviderFromUrl(value = '') {
   try {

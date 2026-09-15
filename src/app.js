@@ -9,6 +9,7 @@ import {
   provenanceSummary
 } from './core/source-provenance.js';
 import { createCompanyIntake, buildCompanyIntakeIssueUrl } from './core/company-intake.js';
+import { sameCanonicalCompany } from './core/company-normalization.js';
 import { loadCompanyIntakes, upsertCompanyIntake } from './core/storage.js';
 
 const FINAL_BOARD_URL = 'https://campus-job-board-mu.vercel.app/';
@@ -41,14 +42,8 @@ function fmtDate(value) {
   return new Intl.DateTimeFormat('zh-CN', { year:'numeric', month:'2-digit', day:'2-digit' }).format(date);
 }
 
-function companyKey(value = '') {
-  return String(value).replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|集团|控股|中国/gi, '').replace(/[\s·,.，、]/g, '').toLowerCase();
-}
-
 function companyMatches(left, right) {
-  const a = companyKey(left);
-  const b = companyKey(right);
-  return Boolean(a && b && (a === b || a.includes(b) || b.includes(a)));
+  return sameCanonicalCompany(left, right);
 }
 
 function active(job) {

@@ -4,6 +4,8 @@ import { companyRequests } from './company-requests.js';
 import { sourceDiscovery } from './source-discovery.js';
 import { sourceHealth } from './source-health.js';
 import { companySourceSeeds } from './company-source-seeds.js';
+import { canonicalCompanyKey } from '../core/company-normalization.js';
+export { canonicalCompanyKey };
 
 const CITY_NAMES = ['北京','上海','广州','深圳','杭州','苏州','无锡','长沙','武汉','西安','成都','天津','南京','佛山','东莞','珠海','惠州','厦门','济南','青岛','昆明','长春','宁波','合肥','郑州','重庆','青岛','大连','沈阳','福州','南昌','南宁'];
 const CITY_SET = new Set(CITY_NAMES);
@@ -18,12 +20,6 @@ const HEALTH_LABELS = {
   healthy: '官方源正常', error: '官方源抓取异常', empty: '官方源当前无岗位/需检查', no_2027: '官方源未识别到2027届',
   no_formal_2027: '官方源没有2027正式岗，需换入口', broad_scope: '官方源范围过宽，需定位2027专属入口', unknown: '官方源健康状态待核'
 };
-
-export function canonicalCompanyKey(value = '') {
-  return String(value).replace(/^[\s🔴🟢🔵✅❌⭐★•·]+/u, '').replace(/[（(].*?[）)]/g, '')
-    .replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '')
-    .replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase().trim();
-}
 
 export function isValidCompanyRecord(record) {
   const name = String(record?.name || '').trim();

@@ -162,17 +162,6 @@ export const sourceDiscovery = [
     "officialUrl": "https://careers.oppo.com/university/oppo/campus",
     "reason": "已发现公司官方招聘入口，但当前站点 careers.oppo.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T14:07:32.523Z",
-    "nextCheckAfter": "2026-09-16T14:07:32.525Z"
-  },
-  {
-    "name": "广东欧加通信科技有限公司",
-    "status": "高校自动发现",
-    "state": "needs_adapter",
-    "provider": "",
-    "officialUrl": "https://careers.oppo.com/university/oppo/campus",
-    "reason": "已发现公司官方招聘入口，但当前站点 careers.oppo.com 尚无自动抓取适配器",
-    "attempts": 0,
     "lastCheckedAt": "2026-09-15T16:30:55.841Z",
     "nextCheckAfter": "2026-09-16T16:30:55.842Z"
   },
@@ -459,17 +448,6 @@ export const sourceDiscovery = [
     "officialUrl": "https://talent.catl.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 talent.catl.com 尚无自动抓取适配器；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T14:07:32.523Z",
-    "nextCheckAfter": ""
-  },
-  {
-    "name": "宁德时代新能源科技股份有限公司",
-    "status": "高校自动发现",
-    "state": "source_registered",
-    "provider": "",
-    "officialUrl": "https://talent.catl.com/",
-    "reason": "已发现公司官方招聘入口，但当前站点 talent.catl.com 尚无自动抓取适配器；等价官方源已存在",
-    "attempts": 0,
     "lastCheckedAt": "2026-09-15T16:30:55.841Z",
     "nextCheckAfter": ""
   },
@@ -494,17 +472,6 @@ export const sourceDiscovery = [
     "attempts": 11,
     "lastCheckedAt": "2026-09-10T12:55:11.942Z",
     "nextCheckAfter": "2026-09-13T12:55:11.942Z"
-  },
-  {
-    "name": "睿联技术",
-    "status": "主投",
-    "state": "needs_adapter",
-    "provider": "",
-    "officialUrl": "https://career.nankai.edu.cn/correcruit/content/id/117591.html",
-    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
-    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
     "name": "睿联技术",
@@ -538,17 +505,6 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-09T05:31:20.646Z",
     "nextCheckAfter": "2026-09-16T05:31:20.646Z"
-  },
-  {
-    "name": "厦门松霖科技",
-    "status": "主投",
-    "state": "needs_adapter",
-    "provider": "",
-    "officialUrl": "https://www.esolex.cn/recruitment.html",
-    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 1,
-    "lastCheckedAt": "2026-09-15T13:33:17.800Z",
-    "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
     "name": "厦门松霖科技",
@@ -681,17 +637,6 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-15T15:32:28.871Z",
     "nextCheckAfter": "2026-09-18T15:32:28.871Z"
-  },
-  {
-    "name": "长城电源技术有限公司",
-    "status": "高校自动发现",
-    "state": "source_registered",
-    "provider": "beisen",
-    "officialUrl": "https://gwpst.zhiye.com/",
-    "reason": "高校详情页明确给出北森招聘入口",
-    "attempts": 0,
-    "lastCheckedAt": "2026-09-15T14:07:32.523Z",
-    "nextCheckAfter": ""
   },
   {
     "name": "长城电源技术有限公司",
@@ -1004,7 +949,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-15T16:30:55.841Z",
+  "updatedAt": "2026-09-15T17:00:50.653Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

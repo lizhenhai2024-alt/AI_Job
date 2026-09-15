@@ -1,3 +1,5 @@
+import { canonicalCompanyKey } from './company-normalization.js';
+
 export const COMPANY_INTAKE_MARKER = '<!-- AI_JOB_COMPANY_INTAKE_V1 -->';
 export const COMPANY_INTAKE_REPO = 'lizhenhai2024-alt/AI_Job';
 
@@ -6,11 +8,7 @@ export function normalizeCompanyName(value = '') {
 }
 
 export function canonicalCompanyIntakeKey(value = '') {
-  return normalizeCompanyName(value)
-    .replace(/[（(].*?[）)]/g, '')
-    .replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '')
-    .replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '')
-    .toLowerCase();
+  return canonicalCompanyKey(normalizeCompanyName(value));
 }
 
 export function normalizeCareerUrl(value = '') {
