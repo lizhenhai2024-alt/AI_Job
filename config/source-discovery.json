@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T07:44:35.841Z",
+  "updatedAt": "2026-09-15T10:55:22.106Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -621,16 +621,21 @@
       "nextCheckAfter": "2026-09-18T07:17:25.984Z"
     },
     "比亚迪": {
-      "name": "比亚迪",
-      "status": "主投",
-      "state": "not_found",
+      "name": "比亚迪股份有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
       "provider": "",
-      "officialUrl": "",
-      "reason": "本轮未找到可信官方招聘入口",
+      "officialUrl": "https://job.byd.com/",
+      "reason": "已发现公司官方招聘入口，但当前站点 job.byd.com 尚无自动抓取适配器",
       "candidates": [],
       "attempts": 1,
-      "lastCheckedAt": "2026-09-11T12:49:44.350Z",
-      "nextCheckAfter": "2026-09-18T12:49:44.350Z"
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.110Z",
+      "universityEvidence": {
+        "school": "湖南大学",
+        "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=708874",
+        "graduationYear": "2027"
+      }
     },
     "滴滴出行": {
       "name": "滴滴出行",
@@ -801,6 +806,186 @@
       "attempts": 1,
       "lastCheckedAt": "2026-09-13T17:24:40.092Z",
       "nextCheckAfter": "2026-09-20T17:24:40.092Z"
+    },
+    "广东特福国际": {
+      "name": "广东特福国际控股有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://twyfordtile.gllue.com/portal/campusposition/list",
+      "reason": "已发现公司官方招聘入口，但当前站点 twyfordtile.gllue.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "湖南大学",
+        "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=708626",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.108Z"
+    },
+    "北京四达时代国际投资": {
+      "name": "北京四达时代国际投资有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://jobs-startimes.ourats.com/req/campus",
+      "reason": "已发现公司官方招聘入口，但当前站点 jobs-startimes.ourats.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "北京语言大学",
+        "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2098223691345870850",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.108Z"
+    },
+    "武汉新芯集成电路": {
+      "name": "武汉新芯集成电路股份有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://jobapply.cn/",
+      "reason": "已发现公司官方招聘入口，但当前站点 jobapply.cn 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "湖南大学",
+        "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=714046",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.108Z"
+    },
+    "招商银行长沙分行": {
+      "name": "招商银行股份有限公司长沙分行",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://career.cmbchina.com/",
+      "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "北京语言大学",
+        "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096883184623599618",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.109Z"
+    },
+    "中建八局土木公司": {
+      "name": "中建八局土木公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://job.cscec8b.com.cn/8btumu",
+      "reason": "已发现公司官方招聘入口，但当前站点 job.cscec8b.com.cn 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118803.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.109Z"
+    },
+    "1研发类单位": {
+      "name": "1.研发类单位",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "moka",
+      "officialUrl": "https://app.mokahr.com/m/campus-recruitment/dfmc/164438#/home",
+      "reason": "高校详情页明确给出Moka校园招聘入口",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118819.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": ""
+    },
+    "招商银行沈阳分行": {
+      "name": "招商银行股份有限公司沈阳分行",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://career.cmbchina.com/",
+      "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "北京语言大学",
+        "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.110Z"
+    },
+    "广州地铁": {
+      "name": "广州地铁集团有限公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://gzmetro.zhiye.com/campus",
+      "reason": "高校详情页明确给出北森招聘入口",
+      "universityEvidence": {
+        "school": "湖南大学",
+        "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=708761",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": ""
+    },
+    "银行大连市分行": {
+      "name": "中国银行大连市分行",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://campus.chinahr.com/pages/2027-boc",
+      "reason": "已发现公司官方招聘入口，但当前站点 campus.chinahr.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118847.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.110Z"
+    },
+    "扬腾创新": {
+      "name": "扬腾创新",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://yangtenginnovation-compus.zhiye.com/",
+      "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118843.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": ""
+    },
+    "恒生电子2027": {
+      "name": "恒生电子2027",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://campus.hundsun.com/",
+      "reason": "已发现公司官方招聘入口，但当前站点 campus.hundsun.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118841.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.111Z"
+    },
+    "中车戚墅堰机车车辆工艺研究所": {
+      "name": "中车戚墅堰机车车辆工艺研究所股份有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://crrc-qsys.hotjob.cn/",
+      "reason": "已发现公司官方招聘入口，但当前站点 crrc-qsys.hotjob.cn 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "湖南大学",
+        "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=694482",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
+      "nextCheckAfter": "2026-09-16T10:55:22.111Z"
     }
   },
   "lastRun": {
@@ -809,5 +994,11 @@
     "errors": 0,
     "batchSize": 12,
     "forceRetry": false
+  },
+  "lastUniversityBridge": {
+    "candidates": 13,
+    "sourcesAdded": 2,
+    "queued": 10,
+    "updatedAt": "2026-09-15T10:55:22.106Z"
   }
 }

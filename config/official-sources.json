@@ -212,6 +212,13 @@
       "url": "https://app.mokahr.com/campus-recruitment/shinry/172541",
       "graduationYear": "2027",
       "monitoringNote": "深圳欣锐科技股份有限公司(车载电源)；2027届校招已启动(哈工大就业网2026-09-04发布)；原入口142745已关停，2026-09-13核验新门户id=172541(裸slug自动跳转)，在招21岗"
+    },
+    {
+      "company": "1.研发类单位",
+      "url": "https://app.mokahr.com/m/campus-recruitment/dfmc/164438#/home",
+      "graduationYear": "2027",
+      "strictCohort": true,
+      "monitoringNote": "高校就业网自动发现：南开大学；岗位级继续要求2027届证据"
     }
   ],
   "beisen": [
@@ -467,6 +474,12 @@
       "portalId": "857dacc4-aa18-4775-b74a-eebb8f74926b",
       "graduationYear": "2027",
       "monitoringNote": "北森定制域名(自有域名career.pxwsemi.com封装beisen/zhiye/bstatics，参照海信jobs.hisense.com/京东方campus.boe.com模式)；2027届2026-07-01上线；岗位ID格式J106xx"
+    },
+    {
+      "company": "广州地铁集团有限公司",
+      "baseUrl": "https://gzmetro.zhiye.com",
+      "graduationYear": "2027",
+      "monitoringNote": "高校就业网自动发现：湖南大学；后续由source health验证标准北森抓取"
     }
   ],
   "feishu": [

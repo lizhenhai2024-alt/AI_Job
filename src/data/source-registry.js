@@ -157,6 +157,10 @@ export const sourceRegistry = [
     "company": "欣锐科技"
   },
   {
+    "provider": "moka",
+    "company": "1.研发类单位"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },
@@ -343,6 +347,10 @@ export const sourceRegistry = [
   {
     "provider": "beisen",
     "company": "深圳市鹏芯微集成电路制造有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "广州地铁集团有限公司"
   },
   {
     "provider": "feishu",
