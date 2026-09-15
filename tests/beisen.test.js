@@ -49,14 +49,15 @@ test('Beisen no-year JD can inherit a verified configured campus cohort', () => 
   assert.equal(resolveBeisenGraduationYear(source, '校园招聘，负责海外市场运营，英语可作为工作语言'), '2027');
 });
 
-test('Beisen mixed internship and pure-sales titles are not eligible', () => {
-  for (const title of ['招聘专员-校招/实习', '客户成功管培生-校招/实习', '销售管培生-深圳']) {
+test('Beisen blocks internships but keeps sales roles for downstream fit decisions', () => {
+  for (const title of ['招聘专员-校招/实习', '客户成功管培生-校招/实习']) {
     assert.equal(isBeisenTitleAllowed(title), false, title);
   }
+  assert.equal(isBeisenTitleAllowed('销售管培生-深圳'), true);
   assert.equal(isBeisenTitleAllowed('海外市场运营管培生'), true);
 });
 
-test('Beisen discovery pages anonymously and filters pure sales', async () => {
+test('Beisen discovery pages anonymously and retains pure sales for downstream decisions', async () => {
   const payload = {
     Code: 200,
     Count: 2,
@@ -69,8 +70,8 @@ test('Beisen discovery pages anonymously and filters pure sales', async () => {
   const result = await searchBeisenJobs(profile, [source], { fetcher, pageSize: 50, maxPages: 2, now: new Date('2026-09-08T00:00:00Z') });
   assert.equal(result.stats.scannedPortals, 1);
   assert.equal(result.stats.errors, 0);
-  assert.equal(result.jobs.length, 1);
-  assert.equal(result.jobs[0].title, '产品运营（2027届校招）');
+  assert.equal(result.jobs.length, 2);
+  assert.deepEqual(new Set(result.jobs.map((job) => job.title)), new Set(['产品运营（2027届校招）', '国内销售经理（2027届校招）']));
 });
 
 test('Beisen discovery rejects explicit non-2027 rows even on configured 2027 source', async () => {

@@ -294,6 +294,8 @@ function hasRoleSignal(job, profile) {
 export function shouldKeep(job, profile, now = new Date()) {
   if (!job || job.graduationYear !== String(profile.graduationYear || '2027')) return false;
   if (job.closed || isClosed('', job.deadline, now)) return false;
+  const employmentEvidence = [job.title, job._recruitType, job._subject].filter(Boolean).join(' ');
+  if (/实习|兼职|part[- ]?time|\bIntern(?:ship)?\b/i.test(employmentEvidence)) return false;
   return true;
 }
 

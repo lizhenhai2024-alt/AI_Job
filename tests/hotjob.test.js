@@ -46,7 +46,7 @@ test('normalizes Deloitte Campus 2027 HotJob detail with official provenance', (
   assert.equal(shouldExcludeByPolicy(job), false);
 });
 
-test('HotJob technical consulting detail reaches central policy and is rejected', () => {
+test('HotJob technical consulting detail can still emit a downstream policy signal', () => {
   const row = {
     postId: 'cyber', postName: 'Analyst - Cyber Security - Consulting - CD', projectName: 'Campus 2027',
     postTypeName: 'Cyber', workPlaceStr: '成都市'
@@ -61,7 +61,7 @@ test('HotJob technical consulting detail reaches central policy and is rejected'
   assert.equal(shouldExcludeByPolicy(job), true);
 });
 
-test('HotJob discovery paginates form API, prefilters, and fetches relevant details only', async () => {
+test('HotJob discovery paginates form API and keeps sales roles for downstream decisions', async () => {
   const listRows = [
     { postId:'p1', postName:'Analyst - Business Consulting - SH', projectName:'Campus 2027', postTypeName:'Consulting', workPlaceStr:'上海市', company:'咨询', publishDate:'2026-08-21 09:00:00', endDate:'2026-10-31 23:59:59' },
     { postId:'p2', postName:'销售经理', projectName:'Campus 2027', postTypeName:'Sales', workPlaceStr:'上海市', company:'咨询' }
@@ -82,11 +82,12 @@ test('HotJob discovery paginates form API, prefilters, and fetches relevant deta
     if (String(url).includes('/listPositionDetail/')) {
       detailCalls++;
       const postId = body.get('postId');
-      assert.equal(postId, 'p1');
+      const row = listRows.find((item) => item.postId === postId);
+      assert.ok(row);
       return new Response(JSON.stringify({ state:'200', data:{
-        ...listRows[0],
-        workContent:'职位描述：参与客户业务流程优化、项目协调和跨部门沟通。',
-        serviceCondition:'任职要求：本科及以上，专业不限，英语沟通能力良好。'
+        ...row,
+        workContent: postId === 'p1' ? '职位描述：参与客户业务流程优化、项目协调和跨部门沟通。' : '职位描述：负责客户销售与业务拓展。',
+        serviceCondition:'任职要求：本科及以上，专业不限。'
       } }), { status: 200, headers: { 'content-type':'application/json' } });
     }
     return new Response('{}', { status: 404 });
@@ -96,8 +97,8 @@ test('HotJob discovery paginates form API, prefilters, and fetches relevant deta
   assert.equal(result.stats.errors, 0);
   assert.equal(result.stats.scannedPortals, 1);
   assert.equal(result.stats.listed, 2);
-  assert.equal(result.stats.detailed, 1);
-  assert.equal(detailCalls, 1);
-  assert.equal(result.jobs.length, 1);
-  assert.equal(result.jobs[0].title, 'Analyst - Business Consulting - SH');
+  assert.equal(result.stats.detailed, 2);
+  assert.equal(detailCalls, 2);
+  assert.equal(result.jobs.length, 2);
+  assert.deepEqual(new Set(result.jobs.map((job) => job.title)), new Set(['Analyst - Business Consulting - SH', '销售经理']));
 });

@@ -5,7 +5,6 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 import { searchUniversityJobs } from './university.mjs';
 import { dedupePreferOfficial, dedupeById } from './dedupe.mjs';
 import { relevanceScore, isClosed } from './core.mjs';
-import { enrichCandidateFit } from './policy.mjs';
 import { isLikelyOfficialCareerUrl } from './source-candidates.mjs';
 import { enrichProvenanceFields } from '../../src/core/source-provenance.js';
 import { curateDiscoveredJobs } from './granularity.mjs';
@@ -22,7 +21,8 @@ async function loadModule(filePath) {
 }
 
 function cleanForStorage(job) {
-  const { _searchText, _category, _subject, _sourceJobId, _recruitType, closed, excludeFromLiveBoard, ...clean } = job;
+  const { _searchText, _category, _subject, _sourceJobId, _recruitType, closed, excludeFromLiveBoard, candidateFit, ...clean } = job;
+  if (Array.isArray(clean.riskTags)) clean.riskTags = clean.riskTags.filter((tag) => !String(tag).startsWith('适配风险：'));
   return clean;
 }
 
@@ -85,7 +85,6 @@ const university = await searchUniversityJobs(profile, universityConfig);
 const curated = curateDiscoveredJobs(university.jobs || []);
 const freshUniversityJobs = curated
   .filter((job) => !job.excludeFromLiveBoard)
-  .map(enrichCandidateFit)
   .map((job) => {
     const officialCareerUrl = extractOfficialCareerUrl(job._searchText || '', job.sourceUrl || '');
     if (!officialCareerUrl) return job;

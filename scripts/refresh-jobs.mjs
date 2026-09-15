@@ -23,7 +23,6 @@ import { searchPhenomJobs } from './job-discovery/phenom.mjs';
 import { searchAvatureJobs } from './job-discovery/avature.mjs';
 import { searchSuccessFactorsJobs } from './job-discovery/successfactors.mjs';
 import { isClosed } from './job-discovery/core.mjs';
-import { jobPolicyReasons, enrichCandidateFit } from './job-discovery/policy.mjs';
 import { enrichProvenanceFields } from '../src/core/source-provenance.js';
 import { buildSourceHealth } from './job-discovery/source-health.mjs';
 import { curateDiscoveredJobs, curatedOfficialGranularityJobs } from './job-discovery/granularity.mjs';
@@ -86,8 +85,10 @@ function cleanForStorage(job) {
     _recruitType,
     closed,
     excludeFromLiveBoard,
+    candidateFit,
     ...clean
   } = job;
+  if (Array.isArray(clean.riskTags)) clean.riskTags = clean.riskTags.filter((tag) => !String(tag).startsWith('适配风险：'));
   return clean;
 }
 
@@ -119,16 +120,6 @@ function dedupePreferOfficial(jobs = []) {
   }
 
   return [...map.values()];
-}
-
-function countPolicyReasons(jobs = []) {
-  const stats = {};
-  for (const job of jobs) {
-    for (const reason of jobPolicyReasons(job)) {
-      stats[reason] = (stats[reason] || 0) + 1;
-    }
-  }
-  return stats;
 }
 
 function sourceConfigured(provider) {
@@ -357,11 +348,9 @@ const discoveredJobs = curateDiscoveredJobs(sourceResults.flatMap((result) => re
 const verifiedConcreteJobs = curatedOfficialGranularityJobs();
 const candidateJobs = [...discoveredJobs, ...verifiedConcreteJobs];
 const granularityExcluded = candidateJobs.filter((job) => job.excludeFromLiveBoard).length;
-const policyStats = countPolicyReasons(candidateJobs.filter((job) => !job.excludeFromLiveBoard));
 
 const liveBoardCandidates = candidateJobs
   .filter((job) => !job.excludeFromLiveBoard)
-  .map((job) => enrichCandidateFit(job, config))
   .map((job) => enrichProvenanceFields(job));
 
 const deduped = dedupeById(dedupePreferOfficial([...liveBoardCandidates, ...retainedSourceJobs]));
@@ -390,7 +379,6 @@ const meta = {
     kept: (result.jobs || []).length,
     errors: Number(result.stats?.errors || 0) + Number(result.stats?.detailErrors || 0)
   })),
-  policyStats,
   granularityExcluded,
   unhealthySources: snapshotRetention.unhealthy,
   retainedJobs: retainedSourceJobs.length
