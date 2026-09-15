@@ -161,6 +161,10 @@ campus-job-board
 
 ```text
 .
+├── docs/
+│   ├── operations-rules.md             # 运维规则与经验教训（提交/推送前必读）
+│   ├── beisen-url-rules.md             # R-BEISEN-001 北森详情 URL 规则
+│   └── PLAN.md                         # 项目计划
 ├── config/
 │   ├── source-channels.json          # 五大获取渠道与核验策略
 │   ├── university-sources.json       # 985/211/双一流/外语外贸高校目标池

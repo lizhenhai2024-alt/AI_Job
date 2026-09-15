@@ -1,0 +1,121 @@
+# AI_Job 运维规则与经验教训
+
+> 规则编号延续 R-BEISEN-001 体系 ｜ 创建：2026-09-16 ｜ 状态：强制（提交/推送前必须自查）
+
+本文件沉淀 2026-09 任务周期（公司清单补充 → 岗位抓取 → 高校源接入 → 北森链接"参数错误"排查与全库修复）中实际踩过的坑，每条规则附**场景、根因、规则、检查点**。修改数据、脚本或触发刷新前，先对照本文件自查。
+
+## 规则总览
+
+| 编号 | 规则 | 防止的错误 |
+| --- | --- | --- |
+| R-BEISEN-001 | 北森 `campus/detail` 的 `jobAdId` 必须为岗位 UUID | 详情页"参数错误"（系统性坏链） |
+| R-OPS-001 | 快照保留/历史恢复不得捞回无效 URL 条目 | 旧坏链每轮刷新永久存活、与新版并存 |
+| R-OPS-002 | 自动生成文件的写入必须与生成器一致 | 误改内层数组导致 JS 模块语法错误 |
+| R-OPS-003 | 数据/脚本修改后必须跑完整 `npm run check` | 带病产物提交或推送 |
+| R-OPS-004 | 新发现/历史遗留源必须注册进 `official-sources` 或明确清理 | 未注册源永不重建，数据带病 |
+| R-OPS-005 | 数据修复必须排查全部回流路径 | 修复后又被快照/桥接/历史恢复加回 |
+| R-OPS-006 | 本地执行环境约定（Windows/PowerShell） | 命令转义与换行导致执行失败 |
+| R-OPS-007 | 刷新/补水前后做数据质量断言对比 | 刷新后坏链增量/源缺失未被发现 |
+
+---
+
+## R-BEISEN-001：北森详情 URL 必须使用岗位 UUID
+
+- **场景**：`https://<tenant>.zhiye.com/campus/detail?jobAdId=<id>` 打开报"参数错误"。
+- **根因**：北森 SPA 详情路由 `GetJobAdInfo?jobAdId=` 只接受列表接口 `GetJobAdPageList` 响应中的 `Id` 字段（UUID，形如 `46bbf24b-…`）；数字 `JobAdId`（形如 `311177559`）一律返回 500 参数错误。
+- **规则**：
+  1. 抓取端 `parseBeisenRow` 取 `row.Id ?? row.JobAdId`，UUID 优先；仅在 HTML 解析模式（无 Id 字段）才回退。
+  2. `scripts/check.mjs` 全量扫描 `sourceUrl` + `sourceEvidence.url`，命中 `zhiye.com/campus/detail?jobAdId=\d+` 即抛错（本地 `npm run check` 与 CI Validate 均覆盖）。
+  3. 任何手动/脚本写入的北森详情 URL 必须先用浏览器或 API 验证可渲染，再入库。
+- **检查点**：`docs/beisen-url-rules.md`（含例外：html 模式源、非 `campus/detail` 路由）。
+
+## R-OPS-001：快照保留不得捞回无效 URL 条目
+
+- **场景**：补水 run 后旧坏链依然存在，且与新版有效链接并存（本次 368 条数字 URL + 428 条 UUID 同时存在于 live-jobs.js）。
+- **根因**：`refresh-jobs.mjs` 的 provider 级健康判定 `isSourceRefreshUnhealthy`：任一源 `errors>0` → 整个 provider 判 unhealthy → `retainedJobsForUnhealthySources` 把补水前该 provider **全部**旧条目原样保留。beisen 有 2 个源抓取错误时，所有历史北森条目（含坏链）被捞回。只要每轮存在任意源错误，坏链永久存活。
+- **规则**：
+  1. 快照保留过滤条件必须排除无效 URL 条目：`existing.filter(job => unhealthy.has(providerOfJob(job)) && !hasNumericBeisenDetailUrl(job))`（已实现于 `scripts/job-discovery/snapshot-retention.mjs`）。
+  2. provider 级 unhealthy 判定是"保留最后已知快照"的兜底，不是"保留全部历史"——保留前必须按条目质量过滤。
+- **检查点**：`hasNumericBeisenDetailUrl` 与 R-BEISEN-001 正则保持一致，二者同步维护。
+
+## R-OPS-002：自动生成文件的写入必须与生成器一致
+
+- **场景**：一次性数据修复脚本重写 `live-jobs.js` 时，用 `json.replace(']', '];', 1)` 把数组闭合标记插到了**第一个** `]` 之后（内层 `sourceEvidence` 数组），导致 JS 模块 `SyntaxError: Unexpected token ';'`。
+- **根因**：`refresh-jobs.mjs` 的 `asModule` 用 `replace(/\n]$/, '\n];')` 只匹配**数组闭合位置**（换行 + 右括号 + 行尾）；手写脚本若用全局/首个替换，会误伤内层嵌套数组。
+- **规则**：
+  1. 修改自动生成文件（`live-jobs.js`、`source-health.js`、`company-requests.js` 等）时，**复用原生成器的序列化函数**（`asModule`/`healthModule`/`build-company-requests.mjs`），不要重写。
+  2. 必须写一次性脚本时，用 `replace('\n]', '\n];')`（行尾锚定），禁止 `replace(']', '];', 1)` 之类。
+  3. 写入后立即 `node --check <file>` 验证模块可解析。
+- **检查点**：`git diff` 确认只有目标条目变化；`node --check` 通过。
+
+## R-OPS-003：数据/脚本修改后必须跑完整 `npm run check`
+
+- **场景**：数据修复后未立即验证，check 报 `SyntaxError`（见 R-OPS-002）才发现文件已损坏。
+- **根因**：文件存在/非空 ≠ 正确；`npm run check` 是唯一覆盖静态校验（54 文件、schema、provenance、registry 一致性）+ 210 单元测试的完整门禁。
+- **规则**：
+  1. 任何对 `src/data/*`、`config/*`、`scripts/*` 的修改，提交前必须 `npm run check` 全绿（lint + 静态 + 210 tests）。
+  2. 修改生成逻辑后，重跑生成，再跑 check，顺序不可颠倒。
+  3. check 报红时**不得 push**；先修到全绿。
+- **检查点**：`npm run check` 输出 `Static checks passed` 与 `# pass 210 # fail 0`。
+
+## R-OPS-004：新发现/历史遗留源必须注册或明确清理
+
+- **场景**：中国人寿/太平/新东方/人保/泰康/蜜雪冰城 6 个北森域名不在 `official-sources.json` 的 beisen 列表，但 live-jobs.js 里存在它们的岗位（历史抓取或高校桥接产物）——刷新从不覆盖 → 坏链永不修复。
+- **根因**：`refresh-jobs.mjs` 的 provider 抓取由 `sourceConfigured(provider)` 驱动，只抓 `official-sources` 注册的源。**未注册源 = 不抓取 = 旧数据永不更新**。
+- **规则**：
+  1. 高校就业网/聚合站发现的官方 ATS 入口，要么注册进 `official-sources.json`（纳入标准抓取，自动重建有效 URL），要么明确从 live-jobs 清理；**不得任其以"官方身份"滞留**。
+  2. 注册前核验：域名归属、2027 届在招、抓取契约（API 或 html 模式）可用。
+  3. 金融/军工/审计/咨询等用户默认排除行业的新源，直接清理岗位、不注册、不引入抓取。
+- **检查点**：`git grep` 该域名是否同时出现在 `official-sources.json` 与 live-jobs 条目；`source-health.js` 是否覆盖。
+
+## R-OPS-005：数据修复必须排查全部回流路径
+
+- **场景**：清除 368 条坏链后，若无快照过滤（R-OPS-001），下一轮 refresh 在 beisen unhealthy 时会原样捞回。
+- **根因**：live-jobs.js 是"重建 + 保留"模型，存在多条旧数据回流路径：provider 快照保留（snapshot-retention）、历史提交恢复（findHistoricalProviderJobs）、高校桥接（university-official-bridge）、固化列表（granularity）。
+- **规则**：
+  1. 做任何数据清理前，先枚举该数据的全部写入路径，逐一确认清理后不会被加回。
+  2. 清理与防回流**同 commit**：只删数据不修路径，等于没修。
+- **检查点**：清理后跑一次（模拟或真实）refresh，确认坏链数量不反弹。
+
+## R-OPS-006：本地执行环境约定（Windows/PowerShell）
+
+- **场景**：任务中多次因环境差异执行失败。
+- **根因**：Windows PowerShell 与 Unix shell 行为不同。
+- **规则**：
+  1. PowerShell **不支持 `&&`**：连续命令用 `;` 或分多次调用。
+  2. `python -c "内嵌多行代码"` 在 PowerShell 下引号/正则转义极易失败：**改为写临时 `.py` 文件再执行**（`scripts/tmp-*.py`，用后删除）。
+  3. `tail`、`grep` 等 Unix 命令不可用；用 `Select-Object -Last`、`Select-String` 或 Read/Grep 工具。
+  4. 仓库文件为 LF；Git 会提示 CRLF 转换 warning，属正常，无需处理。
+  5. 一次性分析脚本命名 `scripts/tmp-*.py`，交付前删除（`Remove-Item scripts\tmp-*.py -Force`）。
+- **检查点**：命令执行前按上表自查；失败先看是否环境差异，再换等价写法。
+
+## R-OPS-007：刷新/补水前后做数据质量断言对比
+
+- **场景**：补水 run（34994152218）成功后坏链仍存在，因没有"刷新前后坏链计数对比"暴露回归。
+- **根因**：刷新成功（exit 0 + source-health 生成）≠ 数据质量达标；`source-health` 只报告抓取健康，不校验 URL 有效性。
+- **规则**：
+  1. 每次 refresh/补水后，至少断言：北森数字 `jobAdId` 计数（应为 0）、beisen kept 数、总条目数、公司数——与上一轮对比，异常即告警。
+  2. `scripts/check.mjs` 的 R-BEISEN-001 就是该断言的落地；CI 与本地 `npm run check` 必须保持为强制门禁。
+  3. 大型数据操作后，用独立于生成路径的方式回读验证（如 node --check + 抽样条目核对）。
+- **检查点**：刷新后 `npm run check` 全绿 + `git diff --stat` 确认预期规模变化。
+
+---
+
+## 修改数据/脚本的标准操作流程
+
+1. `git status` 确认工作树基线；`git log origin/main --oneline -3` 确认远程最新。
+2. 改数据：优先复用生成器脚本；改逻辑：先读被改文件全文。
+3. 写入后 `node --check`（模块）或直接 `npm run check`（全量）。
+4. `git diff` 自查：只应有目标文件、目标内容变化。
+5. `npm run check` 全绿 → commit（描述含规则编号，如 `[R-BEISEN-001]`）→ push。
+6. 一次性临时脚本（`scripts/tmp-*.py`）交付前删除。
+
+## 事故时间线（2026-09）
+
+| 时间 | 事件 | 对应规则 |
+| --- | --- | --- |
+| 09-16 | 长城电源「项目管理工程师」链接参数错误 → 定位北森数字 jobAdId × UUID | R-BEISEN-001 |
+| 09-16 | 全库扫描：368 条数字坏链（10 家公司）+ 428 条 UUID 并存 | R-BEISEN-001 / R-OPS-001 |
+| 09-16 | 补水 run 有源错误 → 快照保留捞回全部旧北森条目 | R-OPS-001 / R-OPS-005 |
+| 09-16 | 数据修复脚本误替换内层 `]` → live-jobs.js SyntaxError → check 抓出 | R-OPS-002 / R-OPS-003 |
+| 09-16 | 未注册 6 域名（人寿/太平/新东方/人保/泰康/蜜雪）坏链永不重建 | R-OPS-004 |
