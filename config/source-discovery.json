@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T14:07:32.523Z",
+  "updatedAt": "2026-09-15T15:32:28.871Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -1367,6 +1367,264 @@
       },
       "lastCheckedAt": "2026-09-15T14:07:32.523Z",
       "nextCheckAfter": ""
+    },
+    "睿联": {
+      "name": "睿联技术",
+      "status": "主投",
+      "state": "candidate_found",
+      "provider": "",
+      "officialUrl": "https://hr.reolink.com.cn/",
+      "reason": "候选官网不可稳定访问：HTTP 0",
+      "candidates": [
+        {
+          "url": "https://hr.reolink.com.cn/",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://career.nankai.edu.cn/correcruit/content/id/117591.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://myjob.dlmu.edu.cn/campus/view/id/868626",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://school.gxjy.sdei.edu.cn/jobsdufe/jiuye/zhaopingg/detail/15428",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://career.cup.edu.cn/campus/view/id/460291",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://campus.niuqizp.com/job-v8r5aLn5L.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "厦门松霖": {
+      "name": "厦门松霖科技",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.esolex.cn/recruitment.html",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.esolex.cn/recruitment.html",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "金徽酒": {
+      "name": "金徽酒",
+      "status": "主投",
+      "state": "candidate_found",
+      "provider": "",
+      "officialUrl": "https://www.jinhuijiu.com/people/index.html",
+      "reason": "候选官网不可稳定访问：HTTP 0",
+      "candidates": [
+        {
+          "url": "https://www.jinhuijiu.com/people/index.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "美云智数": {
+      "name": "美云智数",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.meicloud.com/recruit/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.meicloud.com/recruit/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "米哈游": {
+      "name": "米哈游",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://jobs.mihoyo.com/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://jobs.mihoyo.com/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "双胞胎": {
+      "name": "双胞胎集团",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://www.sbtjt.com/xyzp.jhtml",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://www.sbtjt.com/xyzp.jhtml",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "银泰商机": {
+      "name": "银泰商机集团",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://talent.intime.com.cn/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://talent.intime.com.cn/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "阅文": {
+      "name": "阅文集团",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://join.yuewen.com/school.html",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://join.yuewen.com/school.html",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "dji": {
+      "name": "DJI",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.dji.com/zh-CN/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.dji.com/zh-CN/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "dreame": {
+      "name": "Dreame",
+      "status": "主投",
+      "state": "no_2027_evidence",
+      "provider": "beisen",
+      "officialUrl": "https://dreame.zhiye.com/campus",
+      "reason": "识别为北森，但当前页面/已核验证据没有明确2027校招信息",
+      "candidates": [
+        {
+          "url": "https://dreame.zhiye.com/campus",
+          "provider": "beisen",
+          "state": "no_2027_evidence",
+          "reason": "识别为北森，但当前页面/已核验证据没有明确2027校招信息"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-20T15:32:28.871Z"
+    },
+    "ninebot": {
+      "name": "Ninebot",
+      "status": "主投",
+      "state": "candidate_found",
+      "provider": "",
+      "officialUrl": "https://join.ninebot.com/campus",
+      "reason": "候选官网不可稳定访问：HTTP 0",
+      "candidates": [
+        {
+          "url": "https://join.ninebot.com/campus",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "ugreen": {
+      "name": "Ugreen",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.lulian.cn/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.lulian.cn/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+      "nextCheckAfter": "2026-09-18T15:32:28.871Z"
     }
   },
   "lastRun": {
@@ -1374,7 +1632,7 @@
     "sourcesAdded": 0,
     "errors": 0,
     "batchSize": 12,
-    "forceRetry": false
+    "forceRetry": true
   },
   "lastUniversityBridge": {
     "candidates": 11,

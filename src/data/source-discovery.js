@@ -254,6 +254,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
+    "name": "金徽酒",
+    "status": "主投",
+    "state": "candidate_found",
+    "provider": "",
+    "officialUrl": "https://www.jinhuijiu.com/people/index.html",
+    "reason": "候选官网不可稳定访问：HTTP 0",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
     "name": "京东国际",
     "status": "主投",
     "state": "not_found",
@@ -397,6 +408,28 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-13T12:55:11.942Z"
   },
   {
+    "name": "美云智数",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://www.meicloud.com/recruit/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
+    "name": "米哈游",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://jobs.mihoyo.com/",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
     "name": "名创优品",
     "status": "主投",
     "state": "source_registered",
@@ -452,6 +485,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
+    "name": "睿联技术",
+    "status": "主投",
+    "state": "candidate_found",
+    "provider": "",
+    "officialUrl": "https://hr.reolink.com.cn/",
+    "reason": "候选官网不可稳定访问：HTTP 0",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
     "name": "三一集团",
     "status": "主投",
     "state": "source_registered",
@@ -485,6 +529,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T13:33:17.800Z"
   },
   {
+    "name": "厦门松霖科技",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://www.esolex.cn/recruitment.html",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
     "name": "施耐德",
     "status": "主投",
     "state": "needs_adapter",
@@ -494,6 +549,17 @@ export const sourceDiscovery = [
     "attempts": 17,
     "lastCheckedAt": "2026-09-15T07:44:35.841Z",
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
+  },
+  {
+    "name": "双胞胎集团",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://www.sbtjt.com/xyzp.jhtml",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
   },
   {
     "name": "水羊集团御泥坊",
@@ -571,6 +637,28 @@ export const sourceDiscovery = [
     "attempts": 0,
     "lastCheckedAt": "2026-09-15T10:55:22.106Z",
     "nextCheckAfter": ""
+  },
+  {
+    "name": "银泰商机集团",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://talent.intime.com.cn/campus",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
+    "name": "阅文集团",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://join.yuewen.com/school.html",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
   },
   {
     "name": "长城电源技术有限公司",
@@ -738,6 +826,28 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
   },
   {
+    "name": "DJI",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://careers.dji.com/zh-CN/campus",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
+    "name": "Dreame",
+    "status": "主投",
+    "state": "no_2027_evidence",
+    "provider": "beisen",
+    "officialUrl": "https://dreame.zhiye.com/campus",
+    "reason": "识别为北森，但当前页面/已核验证据没有明确2027校招信息",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-20T15:32:28.871Z"
+  },
+  {
     "name": "Lazada",
     "status": "主投",
     "state": "needs_adapter",
@@ -780,6 +890,17 @@ export const sourceDiscovery = [
     "attempts": 16,
     "lastCheckedAt": "2026-09-15T07:44:35.841Z",
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
+  },
+  {
+    "name": "Ninebot",
+    "status": "主投",
+    "state": "candidate_found",
+    "provider": "",
+    "officialUrl": "https://join.ninebot.com/campus",
+    "reason": "候选官网不可稳定访问：HTTP 0",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
   },
   {
     "name": "OnePlus",
@@ -826,6 +947,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T07:44:35.841Z"
   },
   {
+    "name": "Ugreen",
+    "status": "主投",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://careers.lulian.cn/campus",
+    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "attempts": 1,
+    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+  },
+  {
     "name": "ZURU",
     "status": "主投",
     "state": "not_found",
@@ -839,12 +971,12 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-15T14:07:32.523Z",
+  "updatedAt": "2026-09-15T15:32:28.871Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
     "errors": 0,
     "batchSize": 12,
-    "forceRetry": false
+    "forceRetry": true
   }
 };
