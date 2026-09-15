@@ -207,7 +207,7 @@ export function extractSalary(text = '') {
   return '';
 }
 
-// 专业限制检测：排除有明确理工科/技术/特定专业门槛的岗位（文科/商科/语言类不可投）
+// 专业限制检测：仅作为情报信号，不参与 AI_Job 的发现/入库裁决。
 const MAJOR_RESTRICTION_RX = /(理工科|工科|理科|理工学|计算机|软件|电子|通信|机械|自动化|电气|微电子|集成电路|物理|化学|生物|数学|统计|医学|药学|临床|法学|法律|建筑|土木|城乡规划|材料|能源|动力|环境|水利|地质|海洋|天文).{0,10}(相关)?(专业|专业背景|专业基础)/;
 const MAJOR_FRIENDLY_RX = /(专业不限|不限专业|非理工科|非工科|文科.*专业|商科.*专业|语言类.*专业|英语.*专业|管理类.*专业|人文社科.*专业|经济类.*专业|金融类.*专业|市场营销.*专业|新闻传播.*专业)/;
 
@@ -289,12 +289,14 @@ function hasRoleSignal(job, profile) {
   return directKeyword || classified || ADJACENT_TITLE.test(title);
 }
 
+// Discovery boundary: AI_Job keeps every active 2027 role it can verify.
+// Candidate suitability, role direction, major fit and application priority belong downstream.
 export function shouldKeep(job, profile, now = new Date()) {
   if (!job || job.graduationYear !== String(profile.graduationYear || '2027')) return false;
   if (job.closed || isClosed('', job.deadline, now)) return false;
-  if (!hasRoleSignal(job, profile)) return false;
-  if (hasMajorRestriction(job)) return false;
-  return relevanceScore(job, profile) >= Number(profile.minRelevanceScore ?? 4);
+  const employmentEvidence = [job.title, job._recruitType, job._subject].filter(Boolean).join(' ');
+  if (/实习|兼职|part[- ]?time|\bIntern(?:ship)?\b/i.test(employmentEvidence)) return false;
+  return true;
 }
 
 export function dedupeJobs(jobs = []) {

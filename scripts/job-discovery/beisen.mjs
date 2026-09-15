@@ -4,7 +4,6 @@ import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_N
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户'];
 const CAMPUS_RX = /2027届|2027\s*届|校园招聘|校园|校招|应届|飞星|飞凡|校园大使/i;
 const SOCIAL_RX = /社会招聘|社招/i;
-const PURE_SALES_TITLE_RX = /销售管培生|销售代表|销售经理|渠道销售|区域销售|大客户销售|销售顾问|销售专员/i;
 
 function cleanText(value = '') {
   return String(value || '')
@@ -50,7 +49,7 @@ export function resolveBeisenGraduationYear(source = {}, jobText = '') {
 
 export function isBeisenTitleAllowed(title = '') {
   const value = String(title || '');
-  return !/实习/i.test(value) && !PURE_SALES_TITLE_RX.test(value);
+  return !/实习|兼职|part[- ]?time|\bIntern(?:ship)?\b/i.test(value);
 }
 
 export function parseBeisenRow(source, row = {}, now = new Date()) {
@@ -305,7 +304,6 @@ export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch,
           if (!isCampusRow(job)) continue;
           if (!isBeisenTitleAllowed(job.title)) { titleRejected++; continue; }
           if (!job.graduationYear) { cohortRejected++; continue; }
-          if (job.riskTags?.includes('纯销售')) continue;
           if (shouldKeep(job, profile, now)) { jobs.push(job); portalKept++; }
         }
         if (!added) break;

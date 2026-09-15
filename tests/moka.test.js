@@ -77,9 +77,10 @@ test('strict Moka monitoring never inherits 2027 without per-job cohort evidence
   assert.match(verified.verification, /明确2027届/);
 });
 
-test('Moka mixed internship and pure-sales titles are blocked', () => {
-  for (const title of ['招聘专员-校招/实习', '海外运营实习生', '销售管培生-成都']) {
+test('Moka blocks internships but keeps sales roles for downstream fit decisions', () => {
+  for (const title of ['招聘专员-校招/实习', '海外运营实习生']) {
     assert.equal(isMokaTitleAllowed(title), false, title);
   }
+  assert.equal(isMokaTitleAllowed('销售管培生-成都'), true);
   assert.equal(isMokaTitleAllowed('海外GTM管培生'), true);
 });

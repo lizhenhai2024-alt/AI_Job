@@ -76,13 +76,9 @@ export function sourceFromUniversityJob(job = {}) {
   return { provider: '', source: null, state: 'needs_adapter', reason: `已发现公司官方招聘入口，但当前站点 ${parsed.hostname} 尚无自动抓取适配器` };
 }
 
-const EXCLUDED_CATEGORIES = /银行|证券|保险|信托|基金|期货|军工|审计|咨询/;
-function isExcludedCompany(name, requests, jobKey) {
-  const exists = requests.some((item) => canonicalCompanyKey(item?.name) === jobKey);
-  if (exists) return false;
+function isExcludedCompany(name) {
   const n = String(name || '').trim();
-  if (/^\d+\./.test(n)) return true;
-  return EXCLUDED_CATEGORIES.test(n);
+  return /^\d+\./.test(n);
 }
 
 function upsertRequest(requests, job, bridge, now) {

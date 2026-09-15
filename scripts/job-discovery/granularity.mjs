@@ -36,7 +36,6 @@ export function separateTitleFromQualifications(job = {}) {
 }
 
 export function isHighConfidenceMergedPosting(job = {}) {
-  if (job.sourceType === 'official') return false;
   const title = String(job.title || '').trim();
   if (!title) return false;
   if (/岗位汇总|岗位合集|岗位概览|多岗位|若干岗位|招聘岗位一览|岗位方向汇总/.test(title)) return true;

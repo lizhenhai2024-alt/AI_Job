@@ -140,8 +140,11 @@ test('OPPO discovery uses Tenant-Id, graduate project filter, and skips intern r
   assert.equal(result.stats.internRejected, 1);
   assert.equal(result.stats.errors, 0);
   assert.equal(result.stats.snapshotComplete, true);
-  assert.equal(result.jobs.length, 1);
-  assert.equal(result.jobs[0].title, '产品营销经理（海外-小语种）');
+  assert.equal(result.jobs.length, 2);
+  assert.deepEqual(
+    new Set(result.jobs.map((job) => job.title)),
+    new Set(['产品营销经理（海外-小语种）', '电池算法工程师'])
+  );
   assert.equal(calls[0].headers['Tenant-Id'], '1000');
   assert.equal(calls[1].method, 'POST');
 });

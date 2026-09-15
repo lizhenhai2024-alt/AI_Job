@@ -1,7 +1,6 @@
 import crypto from 'node:crypto';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, extractSalary } from './core.mjs';
 
-const PURE_SALES_TITLE_RX = /销售管培生|销售代表|销售经理|渠道销售|区域销售|大客户销售|销售顾问|销售专员/i;
 const CARD_TAG_LINE_RX = /^(?:急|热|新|荐|推|置顶|热门|紧急|hot|new)$/i;
 
 function textOf(v = '') { return String(v || '').replace(/\s+/g, ' ').trim(); }
@@ -62,7 +61,7 @@ export function resolveMokaGraduationYear(text = '', configuredYear = '2027', { 
 
 export function isMokaTitleAllowed(title = '', source = {}) {
   const value = String(title || '');
-  if (/实习/i.test(value) || PURE_SALES_TITLE_RX.test(value)) return false;
+  if (/实习|兼职|part[- ]?time|\bIntern(?:ship)?\b/i.test(value)) return false;
   const excludes = Array.isArray(source.excludeTitle) ? source.excludeTitle : [];
   return !excludes.some((pattern) => value.includes(String(pattern)));
 }

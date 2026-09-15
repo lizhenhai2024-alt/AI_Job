@@ -73,6 +73,20 @@ test('withholds high-confidence secondary multi-role aggregates pending official
   assert.equal(job.granularityStatus, 'needs_official_resolution');
 });
 
+test('withholds high-confidence official multi-role aggregates pending concrete job resolution', () => {
+  const input = {
+    id: 'bulk-official',
+    company: '示例集团',
+    title: '销售跟单/业务运营/市场专员',
+    graduationYear: '2027',
+    sourceType: 'official'
+  };
+  assert.equal(isHighConfidenceMergedPosting(input), true);
+  const [job] = curateJobGranularity(input);
+  assert.equal(job.excludeFromLiveBoard, true);
+  assert.equal(job.granularityStatus, 'needs_official_resolution');
+});
+
 test('does not mistake a cohort-only suffix for a major requirement block', () => {
   const original = {
     id: 'x2',
