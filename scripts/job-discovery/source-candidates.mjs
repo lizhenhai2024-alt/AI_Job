@@ -13,6 +13,7 @@ export function canonicalCompanyKey(value = '') {
   return String(value || '')
     .replace(/[（(].*?[）)]/g, '')
     .replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '')
+    .replace(/新能源|科技|技术|动力/gi, '')
     .replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '')
     .toLowerCase()
     .trim();
