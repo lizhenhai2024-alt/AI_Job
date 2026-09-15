@@ -361,6 +361,30 @@ export const sourceRegistry = [
     "company": "中国东方资产管理股份有限公司2027"
   },
   {
+    "provider": "beisen",
+    "company": "中国人寿"
+  },
+  {
+    "provider": "beisen",
+    "company": "中国太平保险集团"
+  },
+  {
+    "provider": "beisen",
+    "company": "新东方深圳学校"
+  },
+  {
+    "provider": "beisen",
+    "company": "中国人民保险集团"
+  },
+  {
+    "provider": "beisen",
+    "company": "泰康保险"
+  },
+  {
+    "provider": "beisen",
+    "company": "蜜雪冰城"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },

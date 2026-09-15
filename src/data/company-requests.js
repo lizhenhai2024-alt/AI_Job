@@ -5093,5 +5093,5021 @@ export const companyRequests = [
     "provider": "beisen",
     "sourceRegistered": false,
     "analysis": "北森源（uniqlo.zhiye.com 在live-jobs北森扫描范围，UUID链接已修复）；2027届门店/总部管培参考"
+  },
+  {
+    "id": "intake-9af9c0f9d92d",
+    "name": "农夫山泉",
+    "careerUrl": "https://jobs.yst.com.cn/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka校招系统，养生堂集团校招入口"
+  },
+  {
+    "id": "intake-ea889681593f",
+    "name": "李宁",
+    "careerUrl": "http://campus.51job.com/lining2026",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，51job校招通道，品牌出海有海外业务"
+  },
+  {
+    "id": "intake-02df01d7a36c",
+    "name": "特步国际",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/xtep",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，有海外营销岗位"
+  },
+  {
+    "id": "intake-4c010a1c3344",
+    "name": "波司登",
+    "careerUrl": "https://campus.51job.com/BSD2027",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，51job校招通道，品牌出海"
+  },
+  {
+    "id": "intake-d0f3f3068454",
+    "name": "周大福",
+    "careerUrl": "https://hr.ctf.com.cn/campus/jobs",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，珠宝零售龙头"
+  },
+  {
+    "id": "intake-40eeb8a2c125",
+    "name": "东鹏饮料",
+    "careerUrl": "https://campus.51job.com/szeastroc",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，51job校招通道，功能饮料龙头"
+  },
+  {
+    "id": "intake-bce132cffba5",
+    "name": "海天味业",
+    "careerUrl": "https://haday.hotjob.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，用友大易系统，调味品龙头"
+  },
+  {
+    "id": "intake-76d45921f653",
+    "name": "颐海国际",
+    "careerUrl": "https://zp.easthope.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，海底捞底料供应商"
+  },
+  {
+    "id": "intake-0cceb790f7ce",
+    "name": "健合集团",
+    "careerUrl": "https://hhgroup.hotjob.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，用友大易系统，Swisse/H&H国际业务"
+  },
+  {
+    "id": "intake-b046926257c9",
+    "name": "中国飞鹤",
+    "careerUrl": "https://feihe.hotjob.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，用友大易系统，奶粉龙头有海外业务"
+  },
+  {
+    "id": "intake-a55c49c14206",
+    "name": "妙可蓝多",
+    "careerUrl": "https://milkgroundxiaozhao.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，奶酪龙头"
+  },
+  {
+    "id": "intake-41d7f4d7eb10",
+    "name": "青岛啤酒",
+    "careerUrl": "https://tsingtao.zhiye.com/Campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，啤酒龙头有海外业务"
+  },
+  {
+    "id": "intake-62866f70c04a",
+    "name": "百润股份",
+    "careerUrl": "http://www.bairun.net/join-rio.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招入口待核验，自有官网招聘页面，RIO预调酒"
+  },
+  {
+    "id": "intake-c58f6485c390",
+    "name": "伊利股份",
+    "careerUrl": "https://yili.hotjob.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，用友大易系统，乳业龙头有海外业务"
+  },
+  {
+    "id": "intake-847d8f2ec4d3",
+    "name": "蒙牛乳业",
+    "careerUrl": "https://mengniu.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，有海外岗位"
+  },
+  {
+    "id": "intake-06fe6d644a73",
+    "name": "洋河股份",
+    "careerUrl": "https://chinayanghe.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，白酒龙头"
+  },
+  {
+    "id": "intake-d21f492e0678",
+    "name": "广汽集团",
+    "careerUrl": "https://xyzp.51job.com/gacgroup2027",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，51job校招通道，汽车集团有海外业务"
+  },
+  {
+    "id": "intake-c35dd7a8d33f",
+    "name": "北汽蓝谷",
+    "careerUrl": "https://baicgroup.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，有海外岗位"
+  },
+  {
+    "id": "intake-1e2cd7a48ce9",
+    "name": "江淮汽车",
+    "careerUrl": "https://jac.zhiye.com/Campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，汽车出口有海外业务"
+  },
+  {
+    "id": "intake-3427612b30ff",
+    "name": "中科创达",
+    "careerUrl": "https://thundersoft.jobs.feishu.cn/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "feishu",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，飞书招聘系统，智能汽车操作系统"
+  },
+  {
+    "id": "intake-8800a0633b91",
+    "name": "春风动力",
+    "careerUrl": "https://cfmoto.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，有国际营销岗位，摩托车出海龙头"
+  },
+  {
+    "id": "intake-c758fd716357",
+    "name": "国轩高科",
+    "careerUrl": "https://gotion.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，动力电池有海外工厂"
+  },
+  {
+    "id": "intake-4e952c1cffcd",
+    "name": "欣旺达",
+    "careerUrl": "https://sunwodacampus.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，有泰国/摩洛哥海外岗位"
+  },
+  {
+    "id": "intake-3f1700909b78",
+    "name": "恒瑞医药",
+    "careerUrl": "https://www.hengrui.com/development/campusRecruitment.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有官网校招页面，医药龙头"
+  },
+  {
+    "id": "intake-351580328491",
+    "name": "翰森制药",
+    "careerUrl": "https://cn.hspharm.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有官网招聘页面，创新药企业"
+  },
+  {
+    "id": "intake-3489a2f1c9b8",
+    "name": "复星医药",
+    "careerUrl": "https://fosunpharma.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，有海外轮岗机会"
+  },
+  {
+    "id": "intake-cf2369c76e8a",
+    "name": "百济神州",
+    "careerUrl": "https://app.mokahr.com/su/dymoqp",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，全球化创新药企业"
+  },
+  {
+    "id": "intake-9e62830abae8",
+    "name": "药明康德",
+    "careerUrl": "https://wuxiapptec.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，CXO龙头有全球业务"
+  },
+  {
+    "id": "intake-5e4805582587",
+    "name": "联影医疗",
+    "careerUrl": "https://united-imaging.zhiye.com/Campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，医疗设备龙头出海"
+  },
+  {
+    "id": "intake-8a2e278466d4",
+    "name": "微创医疗",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/microport/56155",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，医疗器械集团有全球业务"
+  },
+  {
+    "id": "intake-82711705ff36",
+    "name": "大参林",
+    "careerUrl": "https://campus.dslyy.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，医药零售龙头"
+  },
+  {
+    "id": "intake-c66ea5fa534d",
+    "name": "浦发银行",
+    "careerUrl": "https://job.spdb.com.cn/campusJob",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，股份制银行"
+  },
+  {
+    "id": "intake-2639e8bc9634",
+    "name": "兴业银行",
+    "careerUrl": "https://job.cib.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，股份制银行"
+  },
+  {
+    "id": "intake-4e0ee99bac1e",
+    "name": "平安银行",
+    "careerUrl": "https://campus.pingan.com/pab",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，平安集团校招系统，股份制银行"
+  },
+  {
+    "id": "intake-fcbf833d770b",
+    "name": "国泰君安",
+    "careerUrl": "https://hr.gtja.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，头部券商（现国泰海通）"
+  },
+  {
+    "id": "intake-cba45c79d0bd",
+    "name": "华泰证券",
+    "careerUrl": "https://wecruit.hotjob.cn/SU6419745cbef57c635fe10142/pb/index.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，用友大易系统，头部券商"
+  },
+  {
+    "id": "intake-e1e33ea8a3d8",
+    "name": "广发证券",
+    "careerUrl": "http://job.gf.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，头部券商"
+  },
+  {
+    "id": "intake-c63587bbaa03",
+    "name": "中国平安",
+    "careerUrl": "https://campus.pingan.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027全球校招已启动，自有校招系统，金融保险集团"
+  },
+  {
+    "id": "intake-0b9adae0fcb5",
+    "name": "众安在线",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/zhongan/71908",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，互联网保险"
+  },
+  {
+    "id": "intake-13a332f55dee",
+    "name": "中联重科",
+    "careerUrl": "https://wecruit.hotjob.cn/SU661f37091eb8053acd6cdf3d/mc/position/campus?projectCode=128002",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027全球校招已启动，用友大易系统，工程机械龙头（长沙）"
+  },
+  {
+    "id": "intake-d1f603f8d354",
+    "name": "立讯精密",
+    "careerUrl": "https://wecruit.hotjob.cn/SU601778b25d83dc072073230a/pb/school.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，用友大易系统，消费电子龙头有海外业务"
+  },
+  {
+    "id": "intake-96247f7bbc1b",
+    "name": "歌尔股份",
+    "careerUrl": "https://goertek.hotjob.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，用友大易系统，有海外岗位和外语要求"
+  },
+  {
+    "id": "intake-192ad9732f6b",
+    "name": "舜宇光学",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/sunnyoptical/45602",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，1500+岗位，光学龙头出海"
+  },
+  {
+    "id": "intake-b03d8b4588a1",
+    "name": "金蝶国际",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/kingdeehr/166565",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，500+岗位，有海外办公室（新加坡/马来西亚等）"
+  },
+  {
+    "id": "intake-8e07fdb36328",
+    "name": "东方财富",
+    "careerUrl": "https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/92400",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，互联网券商龙头"
+  },
+  {
+    "id": "intake-fbe10157e4a8",
+    "name": "天齐锂业",
+    "careerUrl": "http://www.tianqilithium.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "待核验校招入口，自有官网，锂矿龙头有海外资源"
+  },
+  {
+    "id": "intake-fe2e185b5a18",
+    "name": "赣锋锂业",
+    "careerUrl": "https://www.ganfenglithium.com/career.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027全球校招已启动，自有官网，锂业龙头有海外轮岗"
+  },
+  {
+    "id": "intake-3d2395e2041d",
+    "name": "紫金矿业",
+    "careerUrl": "https://join.zjky.cn/m/campus-recruitment/zijinmining/117957",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027全球校招已启动，Moka系统，矿业龙头有全球业务"
+  },
+  {
+    "id": "intake-f96a798e58b9",
+    "name": "明阳智能",
+    "careerUrl": "https://mywind.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，风电龙头有海外业务"
+  },
+  {
+    "id": "intake-fb530d3640c5",
+    "name": "申通快递",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/sto/126265",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，快递物流"
+  },
+  {
+    "id": "intake-22d693bd5d6b",
+    "name": "嘉里物流",
+    "careerUrl": "https://kerryeas.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，国际物流（嘉里大通/嘉顺达）"
+  },
+  {
+    "id": "intake-675c7fb79b72",
+    "name": "海丰国际",
+    "careerUrl": "https://www.sitc.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有官网招聘页面，亚洲集装箱航运龙头"
+  },
+  {
+    "id": "intake-a1631335a2eb",
+    "name": "春秋航空",
+    "careerUrl": "https://wecruit.hotjob.cn/SU6311b6cf0dcad4076d054b89/pb/index.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，用友大易系统，民营航空有国际航线"
+  },
+  {
+    "id": "intake-ead167ed282e",
+    "name": "唯品会",
+    "careerUrl": "https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，电商有苏州海淘岗位"
+  },
+  {
+    "id": "intake-57584d585a80",
+    "name": "永辉超市",
+    "careerUrl": "https://yhchaoshi.zhiye.com/Campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，零售龙头"
+  },
+  {
+    "id": "intake-cf3ad6c342d9",
+    "name": "白云山",
+    "careerUrl": "https://www.gpc.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，广药集团自有招聘系统（广药聘U），医药商业"
+  },
+  {
+    "id": "intake-ee30a53ed8e2",
+    "name": "中国生物制药",
+    "careerUrl": "https://www.sinobiopharm.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "待核验校招入口，自有官网，港股医药龙头"
+  },
+  {
+    "id": "intake-cf8867a0b348",
+    "name": "石药集团",
+    "careerUrl": "https://www.e-cspc.com/hr/index.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有官网招聘页面，医药集团"
+  },
+  {
+    "id": "intake-c331eadc377f",
+    "name": "益丰药房",
+    "careerUrl": "https://yfdyf1.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，医药零售连锁"
+  },
+  {
+    "id": "intake-838f5c88ea36",
+    "name": "阿里健康",
+    "careerUrl": "https://careers.alihealth.cn/campus/home",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，互联网医疗"
+  },
+  {
+    "id": "intake-aab971c23458",
+    "name": "上海银行",
+    "careerUrl": "https://bosc.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，城商行龙头"
+  },
+  {
+    "id": "intake-f70d42012b0e",
+    "name": "北京银行",
+    "careerUrl": "https://bankofbeijing.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，城商行龙头"
+  },
+  {
+    "id": "intake-2e2661996693",
+    "name": "江苏银行",
+    "careerUrl": "https://hr.jsbchina.cn/zp",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，城商行"
+  },
+  {
+    "id": "intake-5a3c960debd4",
+    "name": "南京银行",
+    "careerUrl": "https://job.njcb.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027全球校招已启动，自有招聘系统，城商行"
+  },
+  {
+    "id": "intake-74c0fdeb07c0",
+    "name": "长沙银行",
+    "careerUrl": "https://cscb.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，湖南最大法人银行（长沙）"
+  },
+  {
+    "id": "intake-dbff72f0a4cd",
+    "name": "华夏银行",
+    "careerUrl": "https://hxb.hotjob.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027校招入口已确认（尚未发布），用友大易系统，股份制银行"
+  },
+  {
+    "id": "intake-a9d72368867f",
+    "name": "中国太保",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/cpicproperty/150956",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，Moka系统，保险集团"
+  },
+  {
+    "id": "intake-dc92c3618293",
+    "name": "三环集团",
+    "careerUrl": "https://hr.cctc.cc",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，自有招聘系统，有泰国海外岗位，电子陶瓷龙头"
+  },
+  {
+    "id": "intake-a5a345ae2bf5",
+    "name": "国信证券",
+    "careerUrl": "https://guosen.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 A股/港股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027校招已启动，北森系统，头部券商（深圳）"
+  },
+  {
+    "id": "intake-eddc4f15f9f6",
+    "name": "逸仙电商",
+    "careerUrl": "https://careers.yatsenglobal.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "NYSE:YSG；完美日记母公司，自建校招站点，广州/上海/深圳，新零售管培生与品牌市场岗，持续出海（EVE LOM/DR.WU等海外品牌运营）。"
+  },
+  {
+    "id": "intake-021b0af8d1e9",
+    "name": "宝尊电商",
+    "careerUrl": "https://jobs.baozun.com/custom/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:BZUN；校招主页jobs.baozun.com/custom/campus（宝尊新青年项目），上海为主，宝尊国际(BZI)业务线涉及海外品牌数字商业服务。"
+  },
+  {
+    "id": "intake-33168f4032a7",
+    "name": "富途控股",
+    "careerUrl": "https://join.futunn.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:FUTU；校招官网join.futunn.com，深圳/香港/新加坡，跨境券商，海外业务岗（英文学术/合规/运营）高度匹配英语专业。"
+  },
+  {
+    "id": "intake-35f501bccbed",
+    "name": "老虎国际",
+    "careerUrl": "https://tigertech.jobs.feishu.cn/index/m",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "feishu",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:TIGR；总部新加坡，飞书招聘ATS，北京/杭州/香港，跨境券商，BD/Marketing/英文客服类岗位多。"
+  },
+  {
+    "id": "intake-6ec4efd58350",
+    "name": "知乎",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/zhihu/68321",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "NYSE:ZH；2027届校招已启动（北航/北体大就业网2026-08-31发布），Moka ATS，北京为主，内容运营/商业化/海外产品岗。"
+  },
+  {
+    "id": "intake-3f686a533c48",
+    "name": "新浪&微博",
+    "careerUrl": "https://app.mokahr.com/social-recruitment/sina/43535?locale=zh-CN",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:WB；新浪&微博2027秋招已启动（2026-08-25），Moka ATS，北京/杭州，娱乐/技术/内容方向，微博有海外品牌营销业务。"
+  },
+  {
+    "id": "intake-e19cfe2c8f02",
+    "name": "挚文集团",
+    "careerUrl": "https://campus.hellogroup.com/campus-recruitment/immomo/54299/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:MOMO；陌陌/探探母公司，2027校招正式批已启动，明确招前端开发（海外业务）/海外产品经理，北京为主。"
+  },
+  {
+    "id": "intake-51be477f0473",
+    "name": "荔枝集团",
+    "careerUrl": "https://lizhi2021.jobs.feishu.cn/044144/m/position",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "feishu",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:LIZI（Sound Group Inc.）；广州/北京，飞书招聘ATS，海外音频社交业务（Tiya等），社媒运营/内容运营校招岗在招。"
+  },
+  {
+    "id": "intake-3434d1a29b49",
+    "name": "途牛旅游网",
+    "careerUrl": "https://tuniu.zhiye.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:TOUR；北森zhiye ATS，南京为主，2027秋招已启动（超级简历收录2026-08-22），出境旅游/旅游主播/运营类岗位。"
+  },
+  {
+    "id": "intake-033ecf80f76d",
+    "name": "华住集团",
+    "careerUrl": "https://campus.hworld.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:HTHT / 01179.HK；自建校招站campus.hworld.com，2026/2027届酒店经营管培生（星途计划）在招，海外品牌H2/Jaz扩张中。"
+  },
+  {
+    "id": "intake-760ebd42b4df",
+    "name": "小牛电动",
+    "careerUrl": "https://job.niu.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:NIU；常州/北京/海外，career主页job.niu.com；海外营销/品牌/海外渠道岗多，待核验2027届专项校招入口。"
+  },
+  {
+    "id": "intake-387c22afcc10",
+    "name": "信也科技",
+    "careerUrl": "https://app.mokahr.com/su/slqfrb",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "NYSE:FINV；2027届校招已启动（上交/西交/华科就业网2026-09），Moka ATS，上海总部，'信步全球'含东南亚海外业务。"
+  },
+  {
+    "id": "intake-63d3ea5db904",
+    "name": "乐信",
+    "careerUrl": "https://xiaozhao.lexin.com/m/campus_apply/lexinfintech/143322",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:LX；深圳总部，Moka ATS（xiaozhao.lexin.com），运营/商务/职能类校招岗，2027实习可转正。"
+  },
+  {
+    "id": "intake-e569adfb0f32",
+    "name": "再鼎医药",
+    "careerUrl": "https://www.zailaboratory.com/careers/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:ZLAB / 09688.HK；总部上海/美国，全球生物制药，career主页zailaboratory.com/careers；待核验2027届专项校招入口。"
+  },
+  {
+    "id": "intake-2afb1c70f72f",
+    "name": "传奇生物",
+    "careerUrl": "https://xy.liepin.com/legendbiotech/zhaopin.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "liepin",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:LEGN；南京/上海，跨国细胞治疗公司，Young Talent/Young Elite全球校招计划，猎聘校招专栏在招。"
+  },
+  {
+    "id": "intake-ee8e09619af0",
+    "name": "好未来",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/tal/95443",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "NYSE:TAL；2027届秋招已启动（浙大/西外就业网2026-09），Moka ATS，北京/上海/武汉/郑州等，AI教育/产品/运营岗。"
+  },
+  {
+    "id": "intake-e5a42497f3a0",
+    "name": "高途集团",
+    "careerUrl": "https://job.gaotu.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "NYSE:GOTU；2027全球校园招聘已启动（2026-08-07网申，5000+岗位），北京/郑州/武汉/成都，国际教育/运营/顾问类岗位。"
+  },
+  {
+    "id": "intake-27097d654bec",
+    "name": "亚朵集团",
+    "careerUrl": "https://www.atour.com/cn/join-us",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:ATAT；春蕾计划酒店管培生（北森zhiye ATS），全国40+城市，2026/2027届滚动招聘，品牌/运营/管培方向。"
+  },
+  {
+    "id": "intake-f0c6231dd7b1",
+    "name": "汽车之家",
+    "careerUrl": "https://talent.autohome.com.cn/campus_index.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "NYSE:ATHM / 02518.HK；2027届JIA STAR家速计划已启动（2026-09），北京为主，HR数字化运营/产品运营/内容编辑岗。"
+  },
+  {
+    "id": "intake-c558e972737c",
+    "name": "蘑菇街",
+    "careerUrl": "https://job.mogujie.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "NYSE:MOGU；杭州总部，自建校招站job.mogujie.com，运营/产品/管培生岗，时尚电商直播方向。"
+  },
+  {
+    "id": "intake-7a89e28757db",
+    "name": "百胜中国",
+    "careerUrl": "https://campus.51job.com/yumchina/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "NYSE:YUMC；2027届MT管培生已启动（2026-09），51job ATS，企划/供应链/职能三大路径，肯德基/必胜客/Lavazza品牌，全国轮岗。"
+  },
+  {
+    "id": "intake-7a280ee3633f",
+    "name": "高通",
+    "careerUrl": "https://www.qualcomm.cn/company/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:QCOM；美国半导体巨头，北京/上海/深圳/成都/西安，中国校招经nowcoder专栏与官网；2026实习已启动，2027校招待更新。"
+  },
+  {
+    "id": "intake-75f5fbb9c621",
+    "name": "德州仪器",
+    "careerUrl": "https://app.mokahr.com/su/veefmu",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:TXN；2027届应届生招聘已启动（2026-08-05网申），Moka ATS，深圳/上海/苏州/杭州/广州，FAE/采购/HR发展项目。"
+  },
+  {
+    "id": "intake-d1fbbe6592ae",
+    "name": "耐克",
+    "careerUrl": "https://campus.51job.com/NikeRetail2022/about2.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "NYSE:NKE；NIKE STRIDE零售管培生项目（51job ATS），中国区2年轮岗，国际品牌零售管理人才，英语工作环境。"
+  },
+  {
+    "id": "intake-06fcba05ba33",
+    "name": "水滴公司",
+    "careerUrl": "https://jobs.waterdrop-inc.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "feishu",
+    "sourceRegistered": false,
+    "analysis": "NYSE:WDH；2027秋招已启动（2026-09），飞书招聘ATS，北京/深圳/西安，保险科技/健康平台，后浪计划培养体系。"
+  },
+  {
+    "id": "intake-36d6c9bb6d26",
+    "name": "奇富科技",
+    "careerUrl": "https://app.mokahr.com/m/campus-recruitment/360jinrong/575",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:QFIN；原360数科，Moka ATS校招站，上海/北京/深圳/海外，策略/模型/运营/风控岗，含海外业务。"
+  },
+  {
+    "id": "intake-f4b1d3afc5d9",
+    "name": "斗鱼",
+    "careerUrl": "https://www.douyu.com/topic/zhaopin",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:DOYU；武汉/上海/北京，2027校招平面/视觉设计等岗位在招，官网招聘专栏douyu.com/topic/zhaopin。"
+  },
+  {
+    "id": "intake-35d0e11acf66",
+    "name": "陆金所控股",
+    "careerUrl": "https://www.lufax.com/about/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "NYSE:LU；平安旗下金融科技平台，上海/深圳，career主页；待核验2027届专项校招入口。"
+  },
+  {
+    "id": "intake-a48c87f2ac83",
+    "name": "金融壹账通",
+    "careerUrl": "https://www.oneconnect.com/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "NYSE:OCFT；平安旗下跨境金融科技SaaS，上海/深圳/香港，海外业务（东南亚/中东），career主页；待核验2027校招入口。"
+  },
+  {
+    "id": "intake-42c58bf48c3b",
+    "name": "嘉银金科",
+    "careerUrl": "https://www.jiayinfintech.com/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:JFIN；上海，跨境金融科技（印尼/越南/菲律宾业务），career主页；待核验2027届专项校招入口。"
+  },
+  {
+    "id": "intake-529886787091",
+    "name": "宜人金科",
+    "careerUrl": "https://www.yirendai.com/about/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "NYSE:YRD；北京，金融科技，career主页；待核验2027届专项校招入口。"
+  },
+  {
+    "id": "intake-801a0e3dc498",
+    "name": "慧择保险",
+    "careerUrl": "https://www.huize.com/about/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:HUIZ；深圳，保险电商平台，海外华人保险业务，career主页；待核验2027届专项校招入口。"
+  },
+  {
+    "id": "intake-4f4212d7e9c3",
+    "name": "泛华金控",
+    "careerUrl": "https://www.fanhua.com/about/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 美股上市公司补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "Nasdaq:FANH；广州，保险中介与金融服务集团，career主页；待核验2027届专项校招入口。"
+  },
+  {
+    "id": "intake4f8a2c1b9d0e",
+    "name": "百川智能(Baichuan)",
+    "careerUrl": "https://www.baichuan-ai.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "王小川创立的通用大模型独角兽，胡润全球独角兽榜在列，未上市（公司称计划2027年启动IPO）。北京总部，AI医疗垂直方向。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake7c3e91ab5f20",
+    "name": "零一万物(01.AI)",
+    "careerUrl": "https://www.01.ai/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "李开复创立的大模型独角兽，胡润全球独角兽榜在列，未上市。企业级AI方向，已在哈萨克斯坦等海外落地合资公司Q.AI，国际业务岗需求匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake9d04e7f2a8c3",
+    "name": "阶跃星辰(StepFun)",
+    "careerUrl": "https://www.stepfun.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "上海多模态大模型独角兽，胡润全球独角兽榜在列，未上市；印奇任董事长，已发布Step AOS智能体系统与STEPX终端品牌。技术岗为主，未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake2b8c6d4e0f7a",
+    "name": "面壁智能(ModelBest)",
+    "careerUrl": "https://modelbest.jobs.feishu.cn/campus/m/position/list",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "feishu",
+    "sourceRegistered": false,
+    "analysis": "清华THUNLP孵化的端侧大模型独角兽，胡润全球独角兽榜在列，未上市。校招入口已核验：飞书招聘ATS（modelbest.jobs.feishu.cn），2026校招与「前进四」Top Talent计划在招，base北京/上海/深圳/成都/西安/杭州。"
+  },
+  {
+    "id": "intake5e1a9c3d7b48",
+    "name": "智元机器人(AgiBot)",
+    "careerUrl": "https://agirobot.jobs.feishu.cn/campusrecruitment/m/position/list",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "feishu",
+    "sourceRegistered": false,
+    "analysis": "具身智能/人形机器人头部独角兽，胡润全球独角兽榜在列，未上市。2027届校招已启动（9月走进电子科大、东南大学等30+高校），校招入口已核验：飞书招聘ATS；明确招收海外销售（智鼎子公司，英语可作工作语言），base上海/北京/深圳/海外，高度匹配用户画像。"
+  },
+  {
+    "id": "intake8f4d2b6e1a90",
+    "name": "擎朗智能(Keenon Robotics)",
+    "careerUrl": "https://www.keenon.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "上海服务机器人独角兽（配送/清洁/人形），国家级专精特新小巨人，未上市。海外业务覆盖60+国家600+城市，在美/日/韩/荷设子公司，国际化岗位多。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake3a7e5c8f2d19",
+    "name": "猎户星空(OrionStar)",
+    "careerUrl": "https://www.orionstar.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "傅盛创立的智能服务机器人公司，胡润全球独角兽榜在列（母公司猎豹移动已美股上市，猎户星空主体未独立上市），多语言语音/大模型技术。北京总部。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake6d2b9f4a7c05",
+    "name": "节卡机器人(JAKA)",
+    "careerUrl": "https://www.jaka.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "上海协作机器人/人形机器人独角兽，胡润全球独角兽榜在列，未上市。海外销售网络覆盖多国，已发布轻量化人形JAKA π。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake0c5e8d3b6a27",
+    "name": "非夕科技(Flexiv)",
+    "careerUrl": "https://www.flexiv.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "上海通用智能/自适应机器人独角兽，斯坦福团队创立，胡润全球独角兽榜在列，未上市（2026年完成Invus领投新融资）。在硅谷/新加坡/北京/深圳/佛山设办公室，国际化程度高。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake9e1d4b8a5c36",
+    "name": "梅卡曼德(Mech-Mind)",
+    "careerUrl": "https://www.mech-mind.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京3D视觉/智能机器人独角兽，胡润全球独角兽榜在列，未上市。产品出口全球60+国家，海外营销/本地化岗位需求匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake4b7a2e9c8d15",
+    "name": "傅利叶智能(Fourier Intelligence)",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/fftai/147078",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "上海康复机器人/人形机器人独角兽，胡润全球独角兽榜在列，未上市；GR-1/GR-2人形机器人全球知名。校招入口已核验：Moka ATS（app.mokahr.com/campus-recruitment/fftai），27届实习/校招在招，base上海/北京/深圳。"
+  },
+  {
+    "id": "intake7f3c6d1e9a04",
+    "name": "星动纪元(Robot Era)",
+    "careerUrl": "https://k0fqxcszc9.jobs.feishu.cn/index/m",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "feishu",
+    "sourceRegistered": false,
+    "analysis": "北京具身智能/人形机器人独角兽（清华陈建宇团队），胡润全球独角兽榜在列，未上市。校招入口已核验：飞书招聘ATS，含校招专页（k0fqxcszc9.jobs.feishu.cn/010375），base北京。"
+  },
+  {
+    "id": "intake2d8b5e7c4f91",
+    "name": "云鲸智能(Narwal)",
+    "careerUrl": "https://www.narwal.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳/北京扫地机器人独角兽，胡润全球独角兽榜在列，未上市；产品出口全球，海外营销/品牌/本地化岗位需求匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake5a9c3d6b8e02",
+    "name": "艾利特机器人(Elite Robots)",
+    "careerUrl": "https://www.eliterobot.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "苏州协作机器人独角兽，入选《2026胡润全球独角兽榜》，未上市。总部苏州（用户目标城市），产品海外销售占比高，海外营销/本地化岗位匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake8e4f7b2d5a63",
+    "name": "卫蓝新能源(WeLion)",
+    "careerUrl": "https://www.welion.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京固态电池独角兽，2025胡润全球独角兽榜估值185亿元；2025年12月启动创业板IPO辅导，尚未上市。北京/溧阳/湖州基地，研发与供应链岗为主。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake1c7a9d4e3b86",
+    "name": "清陶能源(QT Solid State)",
+    "careerUrl": "https://www.qtao.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "昆山固态电池独角兽（清华南策文团队），全球独角兽企业；已递表港交所冲刺「固态电池第一股」，尚未上市。总部昆山/上海，研发制造岗为主。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake6b3e8f1a7c50",
+    "name": "蜂巢能源(SVOLT)",
+    "careerUrl": "https://www.svolt.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "常州动力电池/储能独角兽（长城汽车孵化），胡润全球独角兽榜在列，尚未上市（曾筹划科创板/港股IPO）。海外匈牙利/德国工厂布局，海外业务岗需求匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake9d5a2c7e1b84",
+    "name": "元气森林(Genki Forest)",
+    "careerUrl": "https://www.genkiforest.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京新消费饮料独角兽，胡润全球独角兽榜在列，未上市。海外市场快速扩张，品牌市场/海外营销/运营岗需求匹配，常年校招+「宇宙大赛」人才储备。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake4f8b6d3a9e17",
+    "name": "喜茶(HEYTEA)",
+    "careerUrl": "https://www.heytea.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳新茶饮独角兽，胡润全球独角兽榜在列，未上市。海外门店扩张（新加坡/伦敦/美国等），海外品牌/运营/本地化岗需求匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake7a1e4c8f2d93",
+    "name": "三顿半(Saturnbird)",
+    "careerUrl": "https://www.saturnbird.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "长沙精品速溶咖啡新消费独角兽，未上市。总部长沙（用户目标城市），已登陆沃尔玛北美电商等海外渠道，品牌/运营/出海岗需求匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake0c6b9e2a4d75",
+    "name": "花西子(宜格集团)",
+    "careerUrl": "https://www.florasis.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "杭州东方彩妆独角兽（浙江宜格集团），未上市。全球化品牌出海（Amazon/Shopee/独立站），海外品牌市场/本地化/PR岗需求高度匹配英语专业。未检索到独立校招官网，careerUrl暂用品牌官网，待核验校招入口。"
+  },
+  {
+    "id": "intake3d8f2b5c7e01",
+    "name": "蕉内(Bananain)",
+    "careerUrl": "https://www.bananain.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳体感内衣新消费独角兽（近十年估值最高内衣品牌），未上市。有2025届校招先例（走进东华大学/广州美院），品牌/设计/运营岗为主，出海布局中。未检索到2027届独立校招官网，careerUrl暂用品牌官网，待核验校招入口。"
+  },
+  {
+    "id": "intake5e2a7d9c1b48",
+    "name": "Ubras",
+    "careerUrl": "https://www.ubras.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳无尺码内衣新消费独角兽，未上市。天猫双11内衣头部品牌，品牌市场/运营岗为主，有出海规划。未检索到独立校招官网，careerUrl暂用品牌官网，待核验校招入口。"
+  },
+  {
+    "id": "intake8b4c1e7a6d30",
+    "name": "PingPong",
+    "careerUrl": "https://www.pingpongx.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "杭州跨境支付独角兽（全球80+支付牌照，覆盖200+国家地区），胡润全球独角兽榜在列，未上市。国际业务/海外合规/小币种结算岗需求高度匹配英语专业，base杭州。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake1f7d3b5e9c62",
+    "name": "寻汇SUNRATE",
+    "careerUrl": "https://www.sunrate.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "上海跨境支付/财资管理独角兽，服务全球企业出海，胡润全球独角兽榜在列，未上市。国际业务/海外渠道/多语种运营岗需求匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake4c9e6a2d8f17",
+    "name": "PatPat",
+    "careerUrl": "https://www.patpat.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳童装DTC跨境电商独角兽（「童装界SHEIN」，DST/今日资本投资），未上市。深圳/广州/杭州/佛山设办公室，海外营销/本地化/海外运营岗需求高度匹配。未检索到独立校招官网，careerUrl暂用官网，待核验校招入口。"
+  },
+  {
+    "id": "intake7d2b8e4a1c59",
+    "name": "神策数据(Sensors Data)",
+    "careerUrl": "https://www.sensorsdata.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京用户行为分析/CDP独角兽，胡润全球独角兽榜在列，未上市。数据驱动营销分析，市场/运营/解决方案岗为主。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake0a5c9f7d2b83",
+    "name": "Moka(希瑞亚斯)",
+    "careerUrl": "https://www.moka.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京HR SaaS独角兽（Moka招聘管理系统，C轮1亿美元），未上市。HR/招聘/客户成功/市场岗为主，base北京/上海/广深杭/成都，与用户HR方向匹配。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake3e8b1d6a9c04",
+    "name": "鹰角网络(Hypergryph)",
+    "careerUrl": "https://www.hypergryph.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "上海游戏独角兽（《明日方舟》开发商，「上海游戏四小龙」），未上市。产品全球发行（日/韩/美），海外发行/本地化/海外社区运营岗需求匹配。秋招为主，未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake6b4d7c2e5a91",
+    "name": "库洛游戏(Kuro Games)",
+    "careerUrl": "https://www.kurogame.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "广州游戏独角兽（《战双帕弥什》《鸣潮》开发商），腾讯投资，未上市。《鸣潮》全球发行，海外发行/本地化/海外社区运营岗需求高度匹配，base广州。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake9c1e5a8d7b36",
+    "name": "散爆网络(Sunborn)",
+    "careerUrl": "https://jobs.sunborngame.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "上海二次元游戏公司（《少女前线》系列），未上市独角兽。校招入口已核验：自有校招站jobs.sunborngame.com/campus（社招走Moka），27届秋招在招，校招岗位明确含「本地化」职位，高度匹配英语/本地化方向，base上海。"
+  },
+  {
+    "id": "intake2d7a4c9e1f60",
+    "name": "元戎启行(DeepRoute.ai)",
+    "careerUrl": "https://www.deeproute.ai/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳高阶智驾/RoboTaxi独角兽（连续两年胡润全球独角兽榜），未上市。与高通等海外合作，深圳/北京研发中心，商务/项目管理/海外业务岗有需求。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake5f8b2e6c9d43",
+    "name": "峰飞航空(AutoFlight)",
+    "careerUrl": "https://jobs.autoflight.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "上海eVTOL飞行器独角兽（全球低空经济赛道头部），未上市。校招入口已核验：自有校招站jobs.autoflight.com/campus，2026校招补录在招，base苏州/深圳/上海，管理/适航/国际化岗位需求匹配。"
+  },
+  {
+    "id": "intake8a3c7d1b4e05",
+    "name": "智齿科技(Zhichi Tech)",
+    "careerUrl": "https://www.srly.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京智能客服/一体化客服SaaS独角兽，胡润全球独角兽榜在列，未上市。客户成功/解决方案/运营/HR岗为主，base北京/广深沪杭。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake1b9e5d8a3c72",
+    "name": "滴普科技(Deepexi)",
+    "careerUrl": "https://www.deepexi.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京数据智能/实时数据独角兽（FastData品牌），胡润全球独角兽榜在列，未上市。市场/解决方案/运营/HR岗为主，base北京/上海/广深杭。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake4c6a2e9f8b17",
+    "name": "沃飞长空(Aerofugia)",
+    "careerUrl": "https://www.aerofugia.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "杭州吉利系eVTOL独角兽（AE200载人飞行器），胡润全球独角兽榜在列，未上市。总部杭州（用户目标城市），国际化适航/海外商务/项目管理岗有需求。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake7d2f9c5b1a83",
+    "name": "时的科技(TCab Tech)",
+    "careerUrl": "https://www.tcab.tech/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 独角兽企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "上海eVTOL独角兽（E20「倾转旋翼」飞行器），低空经济赛道头部，未上市。适航/海外商务/项目管理/品牌岗有需求，base上海。未检索到独立校招官网，careerUrl暂用公司官网，待核验校招入口。"
+  },
+  {
+    "id": "intake-26cf5691ca57",
+    "name": "赛维时代",
+    "careerUrl": "https://wecruit.hotjob.cn/SU60a36363bef57c11896121b2/mc/index",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "深圳跨境电商服饰品牌（002040.SZ），多平台多品牌矩阵出海，2026届秋招已在武大/浙大等高校开宣讲，岗位含运营/市场推广/官网推广，英语要求高；校招ATS为hotjob。"
+  },
+  {
+    "id": "intake-81dcf1ddb351",
+    "name": "Cider",
+    "careerUrl": "https://ciderglobal.jobs.feishu.cn/504718/m/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "ourats",
+    "sourceRegistered": false,
+    "analysis": "广州/纽约快时尚DTC品牌，主打Z世代海外市场，校招含全球市场营销管培生/国际化KOL营销/商品管理管培生，英语为工作语言；ATS为飞书招聘(feishu jobs)。"
+  },
+  {
+    "id": "intake-ec794789bfcc",
+    "name": "Halara（全量全速）",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/doublefs/24370",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "上海全量全速网络科技旗下运动时尚DTC品牌，聚焦欧美市场，2026届校招岗位base上海&广州，含跨境电商用户运营/海外市场方向；校招ATS为Moka。"
+  },
+  {
+    "id": "intake-3add22fc2992",
+    "name": "泽宝技术（Sunvalley）",
+    "careerUrl": "https://m.zhipin.com/companys/b0d4576c20f7e5511nJ52tu8E1o~.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳跨境消费电子品牌（300464.SZ），美国/德国/日本/香港/长沙设子公司，校招含运营/市场推广/人力资源/物流，英语六级优先；校招宣讲已开，当前以BOSS直聘公司页为主入口，ATS待核验。"
+  },
+  {
+    "id": "intake-d711b0aff229",
+    "name": "乐歌股份",
+    "careerUrl": "https://www.loctek.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "宁波人体工学/跨境家居+公共海外仓龙头（300729.SZ），跨境电商第一股，校招通过【乐歌招聘】公众号校招通道投递，岗位含独立站运营(要求CET-6)/海外项目；官网设校招门户。"
+  },
+  {
+    "id": "intake-3766262d8563",
+    "name": "道通智能（Autel Robotics）",
+    "careerUrl": "https://iwpirwbutbu.jobs.feishu.cn/index",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "ourats",
+    "sourceRegistered": false,
+    "analysis": "深圳消费级/行业级无人机出海品牌，海外销售占比高，全球多国设办公室；招聘走飞书招聘(feishu jobs)，含海外市场/技术支持类岗位。"
+  },
+  {
+    "id": "intake-5ef1a1cc1831",
+    "name": "极飞科技（XAG）",
+    "careerUrl": "https://zhaopin.xa.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "广州农业科技/农业无人机出海企业，业务覆盖全球多区域，校招岗位50+，通过官网zhaopin.xa.com投递，公众号「极飞招聘」；含海外营销/海外项目方向。"
+  },
+  {
+    "id": "intake-1c8a123c979a",
+    "name": "IGG",
+    "careerUrl": "https://cn-jobs.igg.com/careers.php",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "新加坡总部出海SLG游戏公司（王国纪元），中国区总部上海，福州/北京/成都/深圳设子公司，每年7月启动校招，核心岗位含海外SLG研发/多语言本地化/全球运营，英语必备。"
+  },
+  {
+    "id": "intake-4688829a512e",
+    "name": "点点互动（Century Games）",
+    "careerUrl": "https://career.centurygames.cn/campus/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhiye",
+    "sourceRegistered": false,
+    "analysis": "北京/上海/深圳/广州/福州出海游戏公司（Whiteout Survival无尽冬日），2027届校招已于2026年8月启动，市场类岗位集中在国际化业务，英语要求高；校招ATS为zhiye。"
+  },
+  {
+    "id": "intake-2e6e93e2b8a8",
+    "name": "沐瞳科技（Moonton）",
+    "careerUrl": "https://moonton.jobs.feishu.cn/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "ourats",
+    "sourceRegistered": false,
+    "analysis": "上海出海MOBA游戏公司（MLBB决胜巅峰），9个全球办公室，2027届秋招已启动，含全球品牌创意/发行/市场/翻译本地化岗，上海/广州/深圳/杭州/新加坡/雅加达；ATS为飞书招聘。"
+  },
+  {
+    "id": "intake-8f5e2563e491",
+    "name": "龙腾简合",
+    "careerUrl": "http://www.ltserver.cn/about.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "福州/北京出海中东SLG游戏公司（阿拉伯市场头部），研发与运营外包全流程，校招含研发/设计/营销/职能序列；无独立校招官网，以官网及公众号为主，待核验2027校招入口。"
+  },
+  {
+    "id": "intake-d92c0f0b01dd",
+    "name": "易点天下",
+    "careerUrl": "https://www.eclicktech.com.cn/html/joinus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "西安/北京/上海企业国际化智能营销服务商（301171.SZ），2027届秋招已开宣讲，岗位含海外广告优化师/海外客户经理/社交媒体运营/海外商务，英语为核心要求。"
+  },
+  {
+    "id": "intake-2cd562c5bda5",
+    "name": "汇量科技（Mobvista）",
+    "careerUrl": "https://mobvista.zhiye.com/campus/jobs",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhiye",
+    "sourceRegistered": false,
+    "analysis": "广州/北京出海移动广告与程序化营销平台（1860.HK），全球18城市设办公室，校招岗位含广告运营/产品运营/日韩语商务运营，校招培养计划「量子行动」；ATS为zhiye。"
+  },
+  {
+    "id": "intake-d33ec2ddde45",
+    "name": "赤子城科技（Newborn Town）",
+    "careerUrl": "https://www.newborntown.com/cn/join-us",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京出海社交/游戏/工具互联网平台（9911.HK），全球11亿+用户，2027届秋招已开数据产品/前端/法务BP等岗，业务以海外市场为主，英语能力受重视。"
+  },
+  {
+    "id": "intake-4461ffb1f320",
+    "name": "木瓜移动",
+    "careerUrl": "https://m.zhaopin.com/company/jobs-CZ178933520/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "北京/长沙出海营销与SaaS公司，服务跨境电商厂家，招英文运营/海外广告优化师，英文专业高度匹配；无独立校招官网，以智联招聘公司页为入口，待核验校招入口。"
+  },
+  {
+    "id": "intake-e2c5409641a7",
+    "name": "爱点击（iClick）",
+    "careerUrl": "https://www.i-click.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "北京独立营销科技集团（ICLK.US），服务出海企业数字营销与广告，海外营销业务为主；未发现独立2027校招官网，当前以公司官网为准，待核验校招入口。"
+  },
+  {
+    "id": "intake-6eb6a5ca2301",
+    "name": "德兰明海（BLUETTI铂陆帝）",
+    "careerUrl": "http://www.poweroak.net/careers/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳用户侧储能出海头部品牌，自主品牌BLUETTI行销120+国家，30+海外子公司/55个海外仓，2027届秋招已在高校开宣讲，深圳/惠州base，海外营销/国际业务岗英语要求高。"
+  },
+  {
+    "id": "intake-34420440266b",
+    "name": "鹏辉能源",
+    "careerUrl": "https://www.greatpower.net/about/campus.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "广州储能/消费电池龙头（300438.SZ），产品销往50+国家，2027届秋招已开宣讲，招海外交付及售后助理/海外销售类岗位，英语专业可投国际业务方向。"
+  },
+  {
+    "id": "intake-e832cfe2b452",
+    "name": "臻迪科技（PowerVision）",
+    "careerUrl": "https://app.mokahr.com/campus_apply/powervision",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "北京/深圳消费级机器人/无人机出海企业，在日本/芬兰/纽约/硅谷/珀斯设分支，校招走Moka投递，公众号「PowerVisionZhaoPin」，海外岗位需英语。"
+  },
+  {
+    "id": "intake-55bbaf27fd06",
+    "name": "飞马机器人（FEIMA Robotics）",
+    "careerUrl": "https://www.feimarobotics.com/zhcn/moreInfo?join=1",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳/北京测绘无人机出海企业，国家级专精特新小巨人，产品海外销售；无独立校招ATS，以官网Careers及BOSS直聘为主，待核验2027校招入口。"
+  },
+  {
+    "id": "intake-92919f8464f9",
+    "name": "友谊时光（FriendTimes）",
+    "careerUrl": "http://zp.friendtimes.cn/m/index.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "苏州出海女性向手游公司（6820.HK），韩国/香港/上海设分支，招聘页设海外发行/海外翻译/海外本地化/海外运营分类，英语小语种专业匹配度高。"
+  },
+  {
+    "id": "intake-71857cee7288",
+    "name": "华凯易佰（易佰网络）",
+    "careerUrl": "http://huakai.net/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳跨境出口电商上市公司（300592.SZ），武汉/长沙/成都设分公司，拉美布局海外仓，2027届全球校招8月已启动，含海外电商业务经理/品牌传播，匹配武汉/长沙目标城市。"
+  },
+  {
+    "id": "intake-a567c9b47863",
+    "name": "吉宏股份（吉客印）",
+    "careerUrl": "https://www.jihong.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "厦门跨境社交电商上市公司（002803.SZ），旗下吉客印业务覆盖全球39国，「宏羽计划」管培生/海外业务管培生每年校招，英语口语加分。"
+  },
+  {
+    "id": "intake-52be75ad2c42",
+    "name": "通拓科技（TOMTOP）",
+    "careerUrl": "http://www.tomtop.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳跨境出口零售头部企业，深耕近20年，多平台+独立站运营，公众号「通拓招聘」为投递入口，校招含运营/市场/职能类，英语需求大。"
+  },
+  {
+    "id": "intake-af9ab400f275",
+    "name": "帕拓逊（Patozon）",
+    "careerUrl": "https://m.zhipin.com/companys/907ad0232f5b42641H1y29S_.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳跨境出口电商公司（跨境通旗下），主营3C/家居/个护，业务遍及30+国家、15个海外订单执行中心，校招含亚马逊运营/海外品牌；无独立校招ATS，以BOSS直聘公司页为主，待核验校招入口。"
+  },
+  {
+    "id": "intake-b34bdf6bd55a",
+    "name": "省广集团（GIMC）",
+    "careerUrl": "https://gimc.hotjob.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "广州营销集团（002400.SZ），提供出海营销一站式服务，校招常年进行（hotjob校招官网），岗位含海外信息流优化师/品牌国际化，base广州/上海/武汉，英语能力受重视。"
+  },
+  {
+    "id": "intake-57800bc81577",
+    "name": "易幻网络（Efun）",
+    "careerUrl": "https://efun.com/campus/index.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "广州出海手游发行商（宝通科技旗下），中国最早出海手游公司之一，港澳台/日韩/东南亚市场领先，校招官网设校园招聘入口，岗位以海外发行/运营/市场为主，英语/小语种需求大。"
+  },
+  {
+    "id": "intake-2b36f562032b",
+    "name": "微派网络（Wepie）",
+    "careerUrl": "https://wepie.jobs.feishu.cn/359597/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "ourats",
+    "sourceRegistered": false,
+    "analysis": "武汉出海社交/游戏公司，2027届校招已启动（面向2026.9-2027.8毕业生），专设26校招-海外产品运营(17种语言)/中东活动运营(阿拉伯语)，英语/小语种专业高度匹配；ATS为飞书招聘。"
+  },
+  {
+    "id": "intake-98c31c3d2363",
+    "name": "创梦天地（iDreamSky）",
+    "careerUrl": "https://idreamsky.jobs.feishu.cn/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "ourats",
+    "sourceRegistered": false,
+    "analysis": "深圳港股上市游戏公司（1119.HK），旗下《卡拉彼丘》等积极拓展海外版本，校招设逗逗成长计划，含海外发行/市场方向；ATS为飞书招聘。"
+  },
+  {
+    "id": "intake-0653c67c72b9",
+    "name": "中手游（CMGE）",
+    "careerUrl": "https://hr.cmge.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 出海企业补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "深圳港股上市全球化IP游戏运营商（0302.HK，仙剑IP），定位全球化IP游戏，招海外游戏运营/市场营销实习生与正式岗，深圳/广州base，英语要求高。"
+  },
+  {
+    "id": "intake-32d2374008f9",
+    "name": "中国石油天然气集团",
+    "careerUrl": "https://zhaopin.cnpc.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "能源央企；2027秋招已启动(9/9-10/15)；自有招聘平台；海外业务多(中石油伊拉克/中亚/非洲等)，适合英语专业"
+  },
+  {
+    "id": "intake-c5059c327281",
+    "name": "中国石油化工集团",
+    "careerUrl": "http://job.sinopec.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "能源央企；2027校招9月发布；自有招聘平台；中石化国际工程/海外炼化项目多"
+  },
+  {
+    "id": "intake-6b0daa3df5c3",
+    "name": "中国海洋石油集团",
+    "careerUrl": "https://cnooc.zhaopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhilian",
+    "sourceRegistered": false,
+    "analysis": "能源央企；2027校招进行中；智联ATS；中海油海外油气资产遍布全球"
+  },
+  {
+    "id": "intake-128b5e52fff8",
+    "name": "国家石油天然气管网集团",
+    "careerUrl": "https://zhaopin.pipechina.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "能源管网央企；2027校招9/15-10/20；自有平台；国际LNG/跨境管道业务"
+  },
+  {
+    "id": "intake-5b728c978c90",
+    "name": "中国中化控股",
+    "careerUrl": "http://sinochem.hotjob.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "化工央企；2027校招9/15启动；hotjob ATS；中化国际/远东宏信海外业务强"
+  },
+  {
+    "id": "intake-dbecb4811e66",
+    "name": "国家电网",
+    "careerUrl": "https://zhaopin.sgcc.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "电力央企；2027校招分批进行；自有平台；国网国际公司有海外电网投资业务"
+  },
+  {
+    "id": "intake-3e1326c809d4",
+    "name": "中国南方电网",
+    "careerUrl": "https://zhaopin.csg.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "电力央企(南方五省)；2027校招进行中；自有平台；南网国际公司海外项目"
+  },
+  {
+    "id": "intake-73dc293056e2",
+    "name": "中国华能集团",
+    "careerUrl": "https://zhaopin.chng.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "发电央企；2027校招9/16-10/31；自有平台；华能海外电站项目多"
+  },
+  {
+    "id": "intake-4adfb5cbb2c5",
+    "name": "中国大唐集团",
+    "careerUrl": "https://zhaopin.china-cdt.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "发电央企；2027校招进行中；自有平台；大唐海外新能源业务"
+  },
+  {
+    "id": "intake-8fe097d09ebe",
+    "name": "中国华电集团",
+    "careerUrl": "https://rencaishichang.chd.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "发电央企；2027校招分批进行；自有平台；华电科工/华电国际有海外工程"
+  },
+  {
+    "id": "intake-78af9da8be08",
+    "name": "国家电力投资集团",
+    "careerUrl": "https://spic2027.iguopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "iguopin",
+    "sourceRegistered": false,
+    "analysis": "能源央企；2027校招9/14启动；国聘网ATS；国电投海外新能源/核电业务"
+  },
+  {
+    "id": "intake-a83507a3ec68",
+    "name": "中国长江三峡集团",
+    "careerUrl": "http://chrcmp.chinahr.com/pages/sanxia",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "chinahr",
+    "sourceRegistered": false,
+    "analysis": "水电央企；2027校招进行中；中华英才网ATS；三峡国际海外水电/风电项目"
+  },
+  {
+    "id": "intake-3a229bf543bd",
+    "name": "国家能源投资集团",
+    "careerUrl": "https://zhaopin.chnenergy.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "能源央企；2027统招9/2-10/7；自有平台；国家能源集团海外矿业/电力"
+  },
+  {
+    "id": "intake-fc71d269067e",
+    "name": "中国广核集团",
+    "careerUrl": "https://cgn.hotjob.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "核电央企；2027秋招9/4启动；hotjob ATS；中广核海外核电/新能源项目"
+  },
+  {
+    "id": "intake-176ea075e456",
+    "name": "中国中煤能源集团",
+    "careerUrl": "https://zhaopin.chinacoal.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "煤炭央企；2027校招进行中；自有平台；中煤建设海外工程"
+  },
+  {
+    "id": "intake-5e1af8dedde5",
+    "name": "中国中铁",
+    "careerUrl": "https://zhr.crec.cn/zhaopin/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "基建央企；2027校招进行中；自有平台；中铁国际集团海外工程体量极大，适合英语/项目协调"
+  },
+  {
+    "id": "intake-1fffa4e64f21",
+    "name": "中国铁建",
+    "careerUrl": "https://zhaopin.crcc.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "基建央企；2027校招进行中；自有平台；铁建国际(crcci.zhiye.com)海外项目集中"
+  },
+  {
+    "id": "intake-5508e7c1ebc9",
+    "name": "中国交通建设集团",
+    "careerUrl": "https://zhaopin.ccccltd.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "基建央企；2027全球校招8/31启动；自有平台；中交国际/振华重工海外业务极强"
+  },
+  {
+    "id": "intake-e1973383f473",
+    "name": "中国电力建设集团",
+    "careerUrl": "https://zhaopin.powerchina.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "电力建设央企；2027校招进行中；自有平台；中国电建海外工程(东南亚/非洲/拉美)体量大"
+  },
+  {
+    "id": "intake-c11cf747c6bb",
+    "name": "中国能源建设集团",
+    "careerUrl": "https://ceec.iguopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "iguopin",
+    "sourceRegistered": false,
+    "analysis": "能源建设央企；2027全球校招启动；国聘网ATS；中国能建国际集团海外工程"
+  },
+  {
+    "id": "intake-63fe55ebe7eb",
+    "name": "中国化学工程集团",
+    "careerUrl": "https://www.cncec.cn/human-resources/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "化工工程央企；2027校招进行中；官网人力资源页(子公司多经北森/51job分散招聘)；中国化学海外工程强；待核验集团统一校招入口"
+  },
+  {
+    "id": "intake-d8f2d7a68ccf",
+    "name": "中国冶金科工集团(中国中冶)",
+    "careerUrl": "https://www.mcc.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "冶金建设央企；校招通过子公司(中冶京诚/中冶赛迪等)分散发布；中冶海外工程业务多；待核验集团统一校招入口"
+  },
+  {
+    "id": "intake-07df1bd3b8db",
+    "name": "中国联合网络通信集团",
+    "careerUrl": "https://zglt.zhaopin.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhilian",
+    "sourceRegistered": false,
+    "analysis": "通信央企；2027新苗计划进行中；智联/国聘双ATS；联通国际公司海外业务"
+  },
+  {
+    "id": "intake-1b11035bb06f",
+    "name": "中国电子信息产业集团",
+    "careerUrl": "https://career.cec.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "网信央企；2027校招进行中；自有平台；中国电子海外业务(欧洲/南美/非洲)"
+  },
+  {
+    "id": "intake-2fc2a42b3582",
+    "name": "中国电子科技集团",
+    "careerUrl": "https://www.cetc.com.cn/zgdk/1593037/zpjgg/index.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "军工/电子央企；2027校招9/9启动；集团军工属性，但电科国际/中电科非军工业务子公司有校招需求；analysis注明军工集团非军工业务"
+  },
+  {
+    "id": "intake-0550a20b02d9",
+    "name": "中国第一汽车集团",
+    "careerUrl": "http://zhaopin.faw.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "汽车央企；2027全球校招9/1启动；hotjob ATS；一汽进出口/红旗海外营销业务"
+  },
+  {
+    "id": "intake-94b1cd1410ac",
+    "name": "东风汽车集团",
+    "careerUrl": "https://dfmc.hotjob.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "汽车央企(武汉)；2027全球校招进行中；hotjob ATS；东风国际/东风柳汽出海业务，武汉base匹配"
+  },
+  {
+    "id": "intake-de5523d56a19",
+    "name": "中国长安汽车集团",
+    "careerUrl": "http://changan.zhiye.com/Campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "汽车央企(重庆)；2027全球校招进行中；北森zhiye ATS；长安海外业务类岗位26个+英语测评，高度匹配"
+  },
+  {
+    "id": "intake-7cdbca7d7fb7",
+    "name": "广州汽车集团",
+    "careerUrl": "https://xyzp.51job.com/gacgroup2027",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "汽车国企(广州)；2027全球校招9/10启动；51job ATS；广汽国际/广汽三菱海外营销，广州base匹配"
+  },
+  {
+    "id": "intake-6b548d47771f",
+    "name": "上海汽车集团",
+    "careerUrl": "https://saic-recruit.saicmotor.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "汽车国企(上海)；2027全球校招9/8启动；自有平台；上汽海外(上汽大通/MG出海)业务体量大"
+  },
+  {
+    "id": "intake-fb39112991d1",
+    "name": "中国机械工业集团",
+    "careerUrl": "https://zhaopin.sinomach.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "装备央企；2027青蓝计划管培生进行中；自有平台；国机重工/中国机械设备工程海外贸易强"
+  },
+  {
+    "id": "intake-45570d2f3e5c",
+    "name": "哈尔滨电气集团",
+    "careerUrl": "https://hadian.zhaopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhilian",
+    "sourceRegistered": false,
+    "analysis": "装备央企；2027校招进行中；智联ATS；哈电国际海外电站工程"
+  },
+  {
+    "id": "intake-e7286559aa4a",
+    "name": "中国东方电气集团",
+    "careerUrl": "https://dongfang2027.zhaopin.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhilian",
+    "sourceRegistered": false,
+    "analysis": "装备央企；2027校招9/8启动；智联ATS；东方电气国际工程(印度/老挝/东南亚)"
+  },
+  {
+    "id": "intake-475a967a8b5e",
+    "name": "中国第一重型机械集团",
+    "careerUrl": "https://www.cfhi.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "装备央企；2027校招进行中；51job校园页campus.51job.com/cfhi；待核验2027具体URL"
+  },
+  {
+    "id": "intake-a5601af07c97",
+    "name": "中国宝武钢铁集团",
+    "careerUrl": "https://baowugroup-zhaopin.51job.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "钢铁央企；2027国宝生计划进行中；51job ATS；宝武海外矿产/钢材贸易"
+  },
+  {
+    "id": "intake-d64586393f1f",
+    "name": "鞍钢集团",
+    "careerUrl": "https://campus.51job.com/ansteel",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "钢铁央企；2027校招进行中；51job ATS；鞍钢海外矿业/攀钢"
+  },
+  {
+    "id": "intake-668d51895c74",
+    "name": "中国铝业集团",
+    "careerUrl": "https://chinalco.iguopin.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "iguopin",
+    "sourceRegistered": false,
+    "analysis": "有色金属央企；2027校招进行中；国聘网ATS；中铝海外矿产(几内亚/秘鲁/澳大利亚)"
+  },
+  {
+    "id": "intake-a083a73e65ea",
+    "name": "中国五矿集团",
+    "careerUrl": "https://zhaopin.minmetals.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "金属矿业央企；2027校招进行中；自有/hotjob ATS；五矿海外矿业/贸易网络遍布全球"
+  },
+  {
+    "id": "intake-19bcf9f302d7",
+    "name": "中国黄金集团",
+    "careerUrl": "https://hjzp.chinagoldgroup.com/recruit",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "黄金央企；2027全球校招进行中；自有平台；中国黄金海外矿产(老挝/南非等)"
+  },
+  {
+    "id": "intake-155729ce810f",
+    "name": "中国建材集团",
+    "careerUrl": "https://zhaopin.cnbm.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "建材央企；2027校招进行中；自有平台；中国建材海外工程/水泥产能"
+  },
+  {
+    "id": "intake-0627667cee76",
+    "name": "中粮集团",
+    "careerUrl": "https://campus.51job.com/cofco",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "51job",
+    "sourceRegistered": false,
+    "analysis": "粮商央企；2027校招9/15启动；51job ATS；中粮国际海外农产品贸易"
+  },
+  {
+    "id": "intake-e277e0cc01d5",
+    "name": "招商局集团",
+    "careerUrl": "https://cmhk.zhiye.com/custom/xiaoyuan",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "综合央企(香港)；2027校招9月启动；北森zhiye ATS；招商局港口/物流/金融海外业务极强，深圳/香港base"
+  },
+  {
+    "id": "intake-07732e208a48",
+    "name": "华润集团",
+    "careerUrl": "https://careers.crc.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "综合央企(香港/深圳)；2027校招进行中；自有/hotjob ATS；华润创业/华润电力海外业务，深圳base"
+  },
+  {
+    "id": "intake-f942f866b91c",
+    "name": "中国旅游集团",
+    "careerUrl": "https://ctg.zhaopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhilian",
+    "sourceRegistered": false,
+    "analysis": "旅游央企(香港/海南)；2027校招进行中；智联ATS；中免/港中旅海外旅游零售业务"
+  },
+  {
+    "id": "intake-11cdec38e862",
+    "name": "中国通用技术集团",
+    "careerUrl": "http://genertec.zhiye.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "医药/贸易央企；2027校招9/7启动；北森zhiye ATS；通用技术海外医疗/贸易"
+  },
+  {
+    "id": "intake-67ac8d2a0078",
+    "name": "中国远洋海运集团",
+    "careerUrl": "https://coscoshipping.iguopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "iguopin",
+    "sourceRegistered": false,
+    "analysis": "航运央企；2027全球校招进行中；国聘网ATS；中远海运全球航线网络，国际业务岗位多"
+  },
+  {
+    "id": "intake-1e6e205be5d1",
+    "name": "中国国际航空",
+    "careerUrl": "http://zhaopin.airchina.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "航空央企；2027校招进行中；自有平台；国航海外营业部/国际航线营销岗"
+  },
+  {
+    "id": "intake-67bd53532871",
+    "name": "中国东方航空",
+    "careerUrl": "https://job.ceair.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "航空央企(上海)；2027校招进行中；自有平台；东航国际航线/海外营销岗"
+  },
+  {
+    "id": "intake-1333a712e4da",
+    "name": "中国南方航空",
+    "careerUrl": "https://job.csair.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "航空央企(广州)；2027校招进行中；自有平台；南航国际航线/海外营业部，广州base匹配"
+  },
+  {
+    "id": "intake-87d9ee6c206e",
+    "name": "中国商用飞机",
+    "careerUrl": "https://zhaopin.comac.cc",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "大飞机央企(上海)；2026-2027秋招进行中；自有平台；商飞海外客户服务/适航业务"
+  },
+  {
+    "id": "intake-4a6e959ad671",
+    "name": "中国民航信息集团",
+    "careerUrl": "https://travelsky.hotjob.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "民航科技央企；2027校招进行中；hotjob ATS；航信海外GDS/国际航空IT业务"
+  },
+  {
+    "id": "intake-8cfcb14a8d7a",
+    "name": "交通银行",
+    "careerUrl": "https://job.bankcomm.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "国有大行(上海)；2027校招9/15启动；自有平台；交行海外分行(香港/纽约/伦敦/东京等)"
+  },
+  {
+    "id": "intake-4b5809c6fdaa",
+    "name": "上海浦东发展银行",
+    "careerUrl": "https://job.spdb.com.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "股份制银行(上海)；2027校招9/3启动；自有平台；浦发海外分行/香港子行"
+  },
+  {
+    "id": "intake-44553f8b9123",
+    "name": "中国人寿保险集团",
+    "careerUrl": "https://chinalife.zhiye.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "保险央企；2027校招9/9启动；北森zhiye ATS；国寿海外/中国人寿(海外)"
+  },
+  {
+    "id": "intake-3d47a93f1537",
+    "name": "中国出口信用保险公司",
+    "careerUrl": "https://sinosure.zhaopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhilian",
+    "sourceRegistered": false,
+    "analysis": "政策性金融央企；2027校招进行中；智联ATS；中信保服务中国出口/海外投资，深圳/广州/上海/北京均有分公司，高度匹配英语+出海方向"
+  },
+  {
+    "id": "intake-9c2af84953c1",
+    "name": "华侨城集团",
+    "careerUrl": "https://oct.zhaopin.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhilian",
+    "sourceRegistered": false,
+    "analysis": "文化旅游央企(深圳)；2027校招进行中；智联ATS；华侨城海外文旅项目，深圳base匹配"
+  },
+  {
+    "id": "intake-4add4b8b7bb5",
+    "name": "上海国际港务集团",
+    "careerUrl": "https://sipg.zhaopin.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "zhilian",
+    "sourceRegistered": false,
+    "analysis": "港口国企(上海)；2027校招进行中；智联ATS；上港集团海外港口运营/国际航运"
+  },
+  {
+    "id": "intake-4f22b56a25bc",
+    "name": "四川航空",
+    "careerUrl": "https://zhaopin.sichuanair.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 国企央企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "航空国企(成都)；2027校招进行中；自有平台；川航国际航线(欧洲/北美/东南亚)海外营业部"
+  },
+  {
+    "id": "intake-969b6a52efef",
+    "name": "玛氏中国 (Mars)",
+    "careerUrl": "https://www.mars.com/zh-cn/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "玛氏领导力培训生(MMLP/MIPS/MCMT)国际轮岗项目著称，适合英语专业出海/HR方向；2027秋招预计8-10月开放；ATS为自有/Workday系，校招入口待核验"
+  },
+  {
+    "id": "intake-bcaa1670f782",
+    "name": "亿滋中国 (Mondelēz)",
+    "careerUrl": "https://www.mondelezinternational.com/zh/about-us/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "亿滋未来领导人(GBL)管培生项目，含市场/销售/供应链轮岗；2027校招预计秋招启动；校招入口待核验"
+  },
+  {
+    "id": "intake-1333c594bec6",
+    "name": "金佰利中国 (Kimberly-Clark)",
+    "careerUrl": "https://www.careers.kimberly-clark.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "金佰利Future Leader管培生，覆盖市场/供应链/HR；在华有稳定校招；ATS待核验"
+  },
+  {
+    "id": "intake-4cdeea047a07",
+    "name": "强生中国 (Johnson & Johnson)",
+    "careerUrl": "https://www.careers.jnj.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "强生JLDP领袖发展计划/校招体系成熟，市场/医学/HR轮岗；中国区校招多走北森(zhiye)，具体列表页待核验"
+  },
+  {
+    "id": "intake-35b8a4b7ce0f",
+    "name": "雅培中国 (Abbott)",
+    "careerUrl": "https://www.jobs.abbott/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "雅培营养/医疗器械双业务，有中国区管培生与校招；英语友好；校招入口待核验"
+  },
+  {
+    "id": "intake-6531aebd568c",
+    "name": "星巴克中国 (Starbucks China)",
+    "careerUrl": "https://www.starbucks.com/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "星巴克中国零售/门店运营管培与校招，出海/品牌方向可投；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-92dea2961204",
+    "name": "麦当劳中国 (McDonald's China)",
+    "careerUrl": "https://www.mcdonalds.com/us/en-us/careers.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "麦当劳中国 Hamburger / 营运管培(LDP)项目，含海外/跨区轮岗；2027校招预计秋招；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-07f76b1716bc",
+    "name": "费列罗中国 (Ferrero)",
+    "careerUrl": "https://www.careers.ferrero.com",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "费列罗市场/销售管培生，快消出海属性强；在华有校招；校招入口待核验"
+  },
+  {
+    "id": "intake-4779abde08bf",
+    "name": "资生堂中国 (Shiseido)",
+    "careerUrl": "https://corp.shiseido.com/en/careers/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "资生堂中国多品牌(Shiseido/SK-II/CPB等)市场/品牌管培，本地化/出海方向匹配；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-44f03b736ec9",
+    "name": "花王中国 (Kao)",
+    "careerUrl": "https://www.kao.com/global/en/careers/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "花王中国化妆品/健康护理事业部校招与管培；日语/英语均可；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-2e13370c857e",
+    "name": "宝马中国 (BMW Group China)",
+    "careerUrl": "https://www.bmw-careers.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "宝马中国管理培训生(BMW Management Trainee)，含海外/跨部门轮岗；英语友好；中国校招入口待核验"
+  },
+  {
+    "id": "intake-f421b17e7288",
+    "name": "梅赛德斯-奔驰中国 (Mercedes-Benz)",
+    "careerUrl": "https://group.mercedes-benz.com/career/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "奔驰中国(北京奔驰/奔驰中国)管培生与校招，市场/销售/HR方向；中国校招入口待核验"
+  },
+  {
+    "id": "intake-f781959c69fd",
+    "name": "大众汽车集团中国 (Volkswagen Group China)",
+    "careerUrl": "https://www.volkswagen-group.cn/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "大众中国总部管培生(VWGT GP/校招)，出海/本地化/项目协调方向；2027校招预计秋招；入口待核验"
+  },
+  {
+    "id": "intake-959d213dc3a6",
+    "name": "丰田中国 (Toyota China)",
+    "careerUrl": "https://www.toyota-global.com/recruit/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "丰田中国总部/一汽丰田/广汽丰田校招，国际业务/海外事业岗；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-9c29c011e0ec",
+    "name": "本田中国 (Honda China)",
+    "careerUrl": "https://www.honda.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "本田中国技研/采购/海外事业校招与管培；英语/日语；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-e665ab4e0da2",
+    "name": "通用汽车中国 (GM China)",
+    "careerUrl": "https://careers.gm.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "通用中国总部管培生与校招，国际业务/市场方向；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-f866b82ffde1",
+    "name": "福特中国 (Ford China)",
+    "careerUrl": "https://careers.ford.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "福特中国管培生(Ford College Graduate/GT)项目，出海/市场/HR；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-21778d651949",
+    "name": "沃尔沃汽车中国 (Volvo Cars China)",
+    "careerUrl": "https://www.volvocars.com/en/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "沃尔沃汽车中国校招与管培，跨国矩阵，英语环境；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-b4dd6a7bba33",
+    "name": "辉瑞中国 (Pfizer)",
+    "careerUrl": "https://www.pfizercareers.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "辉瑞中国管培生/管培项目，商务/市场/医学事务；2027校招预计秋招；入口待核验"
+  },
+  {
+    "id": "intake-b3d3404b2739",
+    "name": "罗氏中国 (Roche)",
+    "careerUrl": "https://careers.roche.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "罗氏中国(制药/诊断)校招与管培，国际业务/市场/HR轮岗；入口待核验"
+  },
+  {
+    "id": "intake-651eda1c9073",
+    "name": "诺华中国 (Novartis)",
+    "careerUrl": "https://www.novartis.com/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "诺华中国管培生(如Future Leader Program)，市场/商务/本地化方向；入口待核验"
+  },
+  {
+    "id": "intake-a7bd5563aee6",
+    "name": "阿斯利康中国 (AstraZeneca)",
+    "careerUrl": "https://careers.astrazeneca.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "阿斯利康中国校招体系成熟，有管培/见习岗位，英语友好；中国区ATS/校招入口待核验"
+  },
+  {
+    "id": "intake-71186675ae05",
+    "name": "葛兰素史克中国 (GSK)",
+    "careerUrl": "https://www.gsk.com/en-gb/careers/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "GSK中国制药/疫苗校招与管培，商务/市场/医学；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-f9ea0da52dc0",
+    "name": "赛诺菲中国 (Sanofi)",
+    "careerUrl": "https://career.sanofi.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "赛诺菲中国管培生与校招，含商务/市场/医疗事务；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-022897704a49",
+    "name": "默沙东中国 (MSD)",
+    "careerUrl": "https://www.msd.com/careers.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "默沙东中国校招与管培，肿瘤/疫苗/动物保健；出海/商务方向；入口待核验"
+  },
+  {
+    "id": "intake-bb10eedd67aa",
+    "name": "礼来中国 (Eli Lilly)",
+    "careerUrl": "https://careers.lilly.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "礼来中国校招/管培，商务/市场/医学事务，英语环境；入口待核验"
+  },
+  {
+    "id": "intake-8dff8faef645",
+    "name": "拜耳中国 (Bayer)",
+    "careerUrl": "https://career.bayer.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "拜耳中国制药/消费健康/作物科技多事业部校招与管培，国际业务方向；入口待核验"
+  },
+  {
+    "id": "intake-fb51b62e9a0f",
+    "name": "西门子中国 (Siemens China)",
+    "careerUrl": "https://jobs.siemens.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "西门子中国管培生(西门子管理学院/CMDP类)与校招，工业自动化出海方向；中国校招多走北森(zhiye)，列表页待核验"
+  },
+  {
+    "id": "intake-37155d37a4f1",
+    "name": "IBM中国",
+    "careerUrl": "https://www.ibm.com/cn-zh/employment",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "IBM中国校招/毕业生项目(Graduate Program)，咨询/销售/HR/国际岗；ATS为自有Kenexa系，入口待核验"
+  },
+  {
+    "id": "intake-d5fc8a1e17b1",
+    "name": "惠普中国 (HP Inc.)",
+    "careerUrl": "https://jobs.hp.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "惠普中国校招与管培，销售/市场/供应链/HR，出海业务方向；入口待核验"
+  },
+  {
+    "id": "intake-49af7998d38b",
+    "name": "SAP中国",
+    "careerUrl": "https://www.sap.com/china/about/careers.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "SAP中国校招/毕业生项目(Graduate Academy)，咨询/销售/生态，英语环境，匹配出海业务；入口待核验"
+  },
+  {
+    "id": "intake-bac05915c460",
+    "name": "飞利浦中国 (Philips)",
+    "careerUrl": "https://www.philips.com/a-w/careers.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "飞利浦中国健康科技校招与管培，市场/商务/HR；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-c8ffff7c3857",
+    "name": "艾默生中国 (Emerson)",
+    "careerUrl": "https://www.emerson.com/en-us/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "艾默生中国制造/自动化管培生与校招，国际业务/供应链方向；入口待核验"
+  },
+  {
+    "id": "intake-b9a934a4393c",
+    "name": "3M中国",
+    "careerUrl": "https://www.3m.com.cn/3M/zh_CN/careers/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "3M中国管培生(LEAP类)与校招，市场/研发/供应链/HR，快消+工业双属性；入口待核验"
+  },
+  {
+    "id": "intake-8d1e32c35e7d",
+    "name": "巴斯夫中国 (BASF)",
+    "careerUrl": "https://www.basf.com/cn/zh/careers.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "巴斯夫中国管培生(BASF Graduate Program)与校招，化工出海/市场/HR；入口待核验"
+  },
+  {
+    "id": "intake-0ecef85f081d",
+    "name": "索尼中国 (Sony)",
+    "careerUrl": "https://www.sony.com/SCA/careers.page",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "索尼中国校招与管培，市场/品牌/售后/本地化，英语/日语；中国区校招入口待核验"
+  },
+  {
+    "id": "intake-ab9d2f99270d",
+    "name": "耐克中国 (Nike)",
+    "careerUrl": "https://jobs.nike.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16 外企补充",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "耐克中国校招/毕业生项目，市场/品牌/零售运营/HR，出海品牌方向匹配；入口待核验"
   }
 ];
