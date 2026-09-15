@@ -1,5 +1,26 @@
 function number(value) { return Number(value || 0); }
 
+function noValidJobsHealth(provider, company, activityLabel, stats = {}) {
+  const cohortRejected = number(stats.cohortRejected);
+  const titleRejected = number(stats.titleRejected);
+  if (cohortRejected > 0 && titleRejected <= 0) {
+    return {
+      provider,
+      company,
+      status: 'no_2027',
+      healthy: false,
+      reason: `${activityLabel}，但没有形成可确认的2027届岗位（届别拒绝${cohortRejected}）`
+    };
+  }
+  return {
+    provider,
+    company,
+    status: 'no_formal_2027',
+    healthy: false,
+    reason: `${activityLabel}，但没有当前有效的2027正式岗位${titleRejected ? `（实习/兼职等拒绝${titleRejected}）` : ''}`
+  };
+}
+
 export function evaluateSourceHealth(provider, source = {}, stats = {}) {
   const company = source.company || '未知公司';
   const errors = number(stats.errors) + number(stats.detailErrors);
@@ -23,25 +44,34 @@ export function evaluateSourceHealth(provider, source = {}, stats = {}) {
 
   if (provider === 'beisen') {
     const scanned = number(stats.scannedRows);
+    const kept = number(stats.keptJobs);
     if (scanned <= 0) return { provider, company, status: 'empty', healthy: false, reason: '北森源本轮没有扫描到岗位，需检查模板/API或招聘状态' };
-    return { provider, company, status: 'healthy', healthy: true, reason: `北森源正常：扫描${scanned}，源内保留${number(stats.keptJobs)}` };
+    if (kept <= 0) return noValidJobsHealth(provider, company, `北森源扫描${scanned}个岗位`, stats);
+    return { provider, company, status: 'healthy', healthy: true, reason: `北森源正常：扫描${scanned}，当前有效2027正式岗${kept}` };
   }
 
   if (provider === 'moka') {
     const discovered = number(stats.discoveredUrls ?? stats.listed ?? stats.scannedRows);
+    const kept = number(stats.keptJobs);
     if (discovered <= 0) return { provider, company, status: 'empty', healthy: false, reason: 'Moka源本轮没有发现岗位，需检查校园招聘入口' };
-    return { provider, company, status: 'healthy', healthy: true, reason: `Moka源正常：发现${discovered}，源内保留${number(stats.keptJobs)}` };
+    if (kept <= 0) return noValidJobsHealth(provider, company, `Moka源发现${discovered}个岗位`, stats);
+    return { provider, company, status: 'healthy', healthy: true, reason: `Moka源正常：发现${discovered}，当前有效2027正式岗${kept}` };
   }
 
   if (provider === 'hotjob') {
     const listed = number(stats.listed ?? stats.totalPositions);
+    const kept = number(stats.keptJobs);
     if (listed <= 0) return { provider, company, status: 'empty', healthy: false, reason: 'HotJob源本轮没有列出岗位' };
-    return { provider, company, status: 'healthy', healthy: true, reason: `HotJob源正常：列出${listed}，源内保留${number(stats.keptJobs)}` };
+    if (kept <= 0) return noValidJobsHealth(provider, company, `HotJob源列出${listed}个岗位`, stats);
+    return { provider, company, status: 'healthy', healthy: true, reason: `HotJob源正常：列出${listed}，当前有效2027正式岗${kept}` };
   }
 
   const listed = number(stats.listed ?? stats.detailed ?? stats.pages);
   if (listed <= 0) return { provider, company, status: 'unknown', healthy: false, reason: '本轮缺少足够来源健康统计' };
-  return { provider, company, status: 'healthy', healthy: true, reason: `官方源正常：本轮活动量${listed}，源内保留${number(stats.keptJobs)}` };
+  if (Object.prototype.hasOwnProperty.call(stats, 'keptJobs') && number(stats.keptJobs) <= 0) {
+    return noValidJobsHealth(provider, company, `官方源本轮活动量${listed}`, stats);
+  }
+  return { provider, company, status: 'healthy', healthy: true, reason: `官方源正常：本轮活动量${listed}，当前有效2027正式岗${number(stats.keptJobs)}` };
 }
 
 function providerSources(officialSources, provider) {
