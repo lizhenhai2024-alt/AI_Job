@@ -895,5 +895,334 @@ export const companyRequests = [
     "provider": "",
     "sourceRegistered": false,
     "analysis": "北语9/14宣讲，海外工程"
+  },
+  {
+    "id": "intake-fceb1b8054ba",
+    "name": "科大讯飞",
+    "careerUrl": "https://iflytek.zhiye.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "官方源已存在",
+    "provider": "beisen",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": true,
+    "analysis": "2027秋招正式批+飞星/飞凡计划在招（已核验）"
+  },
+  {
+    "id": "intake-a6fdb7f1714b",
+    "name": "商汤科技",
+    "careerUrl": "https://hr.sensetime.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "官方源已存在",
+    "provider": "hotjob",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": true,
+    "analysis": "2027校园招聘已启动（职位库 hr-jobs.sensetime.com）"
+  },
+  {
+    "id": "intake-a5e7586e8342",
+    "name": "智谱AI",
+    "careerUrl": "https://www.zhipuai.cn/zh/joinus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "官方源已存在",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": true,
+    "analysis": "校招算法/运营岗在招（投递 zhipu-ai.jobs.feishu.cn；Moka corpPath=zphz）"
+  },
+  {
+    "id": "intake-1bee1497aecd",
+    "name": "NVIDIA英伟达",
+    "careerUrl": "https://app.mokahr.com/campus-recruitment/nvidia/47111",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "官方源已存在",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": true,
+    "analysis": "2027校园招聘7/20启动（全球 https://jobs.nvidia.com/careers）"
+  },
+  {
+    "id": "intake-772ac28d028f",
+    "name": "金山软件",
+    "careerUrl": "https://join.wps.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "官方源已存在",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": true,
+    "analysis": "沿用云杉计划校招体系，2027届批次同入口刷新（join.wps.cn封装Moka wps/41436）"
+  },
+  {
+    "id": "intake-cb19841bfdbe",
+    "name": "金山办公",
+    "careerUrl": "https://join.wps.cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（观察池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "官方源已存在",
+    "provider": "moka",
+    "sourceRegistered": true,
+    "sourceAlreadyExists": true,
+    "analysis": "2027届云杉计划校招开放（已核验）；与金山软件同一Moka体系"
+  },
+  {
+    "id": "intake-5689acf6bcc3",
+    "name": "虹软科技",
+    "careerUrl": "https://www.arcsoft.com.cn/job/JobList.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "27届校招26个岗位在招（已核验）；自研官网招聘页，非标准ATS"
+  },
+  {
+    "id": "intake-3b6168d77960",
+    "name": "昆仑万维",
+    "careerUrl": "http://www.kunlun.com/html/join/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027 CEO管培生9月进高校；官网招聘页（投递走牛客）"
+  },
+  {
+    "id": "intake-e28c9a81eef1",
+    "name": "浪潮集团",
+    "careerUrl": "http://career.inspur.com/campus2027/index.html",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027届校园招聘已启动（已核验）；自研校招站"
+  },
+  {
+    "id": "intake-2f1528d277a3",
+    "name": "网易有道",
+    "careerUrl": "https://campus.163.com/app/talents/youdao",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（12_AI算力与AI应用 主投池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027届秋招已开，笔试10/11；网易统一校招体系"
+  },
+  {
+    "id": "intake-9669f24650f4",
+    "name": "地平线",
+    "careerUrl": "https://wecruit.hotjob.cn/SU62d915040dcad43c775ec12c/mc/position/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（观察池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "hotjob",
+    "sourceRegistered": false,
+    "analysis": "2027届校招开放（根路径跳转到用友大易官网，需用带租户ID完整路径，已核验）"
+  },
+  {
+    "id": "intake-5555fecde7d6",
+    "name": "DeepSeek",
+    "careerUrl": "https://talent.deepseek.com/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（观察池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "无独立校招批次页，官网招聘页兜底；AGI管培生在招（已核验）"
+  },
+  {
+    "id": "intake-f19ec4db9696",
+    "name": "MiniMax",
+    "careerUrl": "https://www.minimaxi.com/careers",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（观察池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "2027届校园招聘明确开放（已核验）；官网自建招聘页"
+  },
+  {
+    "id": "intake-640c4d39470b",
+    "name": "月之暗面",
+    "careerUrl": "https://careers.kimi.com/zh-cn",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（观察池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "招聘官网正常，校招/实习滚动更新（已核验；投递走Moka moonshot/148507）"
+  },
+  {
+    "id": "intake-4f1866b1f2cc",
+    "name": "Google谷歌中国",
+    "careerUrl": "https://careers.google.com/students/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（观察池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "仅全球入口，中国区无独立校招站；学生招聘页"
+  },
+  {
+    "id": "intake-dd05506484cf",
+    "name": "摩尔线程",
+    "careerUrl": "https://mthreads.zhiye.com/campus",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（观察池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "beisen",
+    "sourceRegistered": false,
+    "analysis": "2027届全球校招8/21启动；北森zhiye域名"
+  },
+  {
+    "id": "intake-f0025897b282",
+    "name": "沐曦股份",
+    "careerUrl": "https://recruitment.metax-tech.com/campus_apply/metax-tech/58131/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-15 全库校招网址核验补充（观察池）",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T08:00:00Z",
+    "status": "待适配招聘源",
+    "provider": "moka",
+    "sourceRegistered": false,
+    "analysis": "2027届校招“芯青年·芯时代”开放；自定义域名Moka（campus_apply/metax-tech）"
   }
 ];
