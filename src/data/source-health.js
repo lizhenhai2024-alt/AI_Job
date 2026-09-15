@@ -104,7 +104,7 @@ export const sourceHealth = {
       "company": "特斯拉中国",
       "status": "healthy",
       "healthy": true,
-      "reason": "Moka源正常：发现35，源内保留0"
+      "reason": "Moka源正常：发现43，源内保留8"
     },
     {
       "provider": "moka",
@@ -676,16 +676,16 @@ export const sourceHealth = {
     {
       "provider": "feishu",
       "company": "小米",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方飞书源正常：列出775，正式2027候选775，筛选后124"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "feishu",
       "company": "致欧家居",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出27，正式2027候选26，筛选后17"
+      "reason": "官方飞书源正常：列出27，正式2027候选26，筛选后16"
     },
     {
       "provider": "feishu",
@@ -767,9 +767,9 @@ export const sourceHealth = {
     {
       "provider": "hotjob",
       "company": "宁德新能源科技有限公司",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "HotJob源正常：列出40，源内保留0"
+      "status": "empty",
+      "healthy": false,
+      "reason": "HotJob源本轮没有列出岗位"
     },
     {
       "provider": "hotjob",
@@ -811,7 +811,7 @@ export const sourceHealth = {
       "company": "TCL华星光电",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出392，源内保留75"
+      "reason": "HotJob源正常：列出390，源内保留75"
     },
     {
       "provider": "anker",
@@ -846,7 +846,7 @@ export const sourceHealth = {
       "company": "字节跳动",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量980，源内保留39"
+      "reason": "官方源正常：本轮活动量1000，源内保留43"
     },
     {
       "provider": "meituan",
@@ -872,9 +872,9 @@ export const sourceHealth = {
     {
       "provider": "xiaohongshu",
       "company": "小红书",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量150，源内保留6"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "ctrip",
@@ -893,16 +893,16 @@ export const sourceHealth = {
     {
       "provider": "job51",
       "company": "联合利华",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "job51",
       "company": "雅诗兰黛",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "phenom",
@@ -942,9 +942,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "广东外语外贸大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量26，源内保留3"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
@@ -984,9 +984,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "南开大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量31，源内保留10"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 3 个错误"
     },
     {
       "provider": "university",
@@ -997,14 +997,14 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 124,
-    "empty": 6,
+    "healthy": 119,
+    "empty": 7,
+    "error": 12,
     "no_2027": 1,
-    "error": 6,
-    "unknown": 5
+    "unknown": 3
   },
   "total": 142,
-  "healthy": 124,
-  "attention": 18,
-  "updatedAt": "2026-09-15T14:18:45.341Z"
+  "healthy": 119,
+  "attention": 23,
+  "updatedAt": "2026-09-15T16:30:53.432Z"
 };

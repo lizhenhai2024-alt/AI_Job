@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T15:32:28.871Z",
+  "updatedAt": "2026-09-15T16:30:55.841Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -834,8 +834,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2098223691345870850",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-15T14:07:32.523Z",
-      "nextCheckAfter": "2026-09-16T14:07:32.524Z"
+      "lastCheckedAt": "2026-09-15T16:30:55.841Z",
+      "nextCheckAfter": "2026-09-16T16:30:55.842Z"
     },
     "武汉新芯集成电路": {
       "name": "武汉新芯集成电路股份有限公司",
@@ -924,7 +924,7 @@
         "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=708761",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-15T14:07:32.523Z",
+      "lastCheckedAt": "2026-09-15T16:30:55.841Z",
       "nextCheckAfter": ""
     },
     "银行大连市分行": {
@@ -1320,8 +1320,8 @@
         "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118868.html",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-15T14:07:32.523Z",
-      "nextCheckAfter": "2026-09-16T14:07:32.526Z"
+      "lastCheckedAt": "2026-09-15T16:30:55.841Z",
+      "nextCheckAfter": "2026-09-16T16:30:55.843Z"
     },
     "宁德时代新能源": {
       "name": "宁德时代新能源科技股份有限公司",
@@ -1359,13 +1359,13 @@
       "state": "source_registered",
       "provider": "beisen",
       "officialUrl": "https://coamc.zhiye.com/campus",
-      "reason": "高校详情页明确给出北森招聘入口",
+      "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
       "universityEvidence": {
         "school": "南开大学",
         "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118852.html",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-15T14:07:32.523Z",
+      "lastCheckedAt": "2026-09-15T16:30:55.841Z",
       "nextCheckAfter": ""
     },
     "睿联": {
@@ -1625,6 +1625,51 @@
       "attempts": 1,
       "lastCheckedAt": "2026-09-15T15:32:28.871Z",
       "nextCheckAfter": "2026-09-18T15:32:28.871Z"
+    },
+    "广东欧加通信": {
+      "name": "广东欧加通信科技有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.oppo.com/university/oppo/campus",
+      "reason": "已发现公司官方招聘入口，但当前站点 careers.oppo.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "湖南大学",
+        "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=694272",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T16:30:55.841Z",
+      "nextCheckAfter": "2026-09-16T16:30:55.842Z"
+    },
+    "宁德时代": {
+      "name": "宁德时代新能源科技股份有限公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "",
+      "officialUrl": "https://talent.catl.com/",
+      "reason": "已发现公司官方招聘入口，但当前站点 talent.catl.com 尚无自动抓取适配器；等价官方源已存在",
+      "universityEvidence": {
+        "school": "湖南大学",
+        "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=719629",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T16:30:55.841Z",
+      "nextCheckAfter": ""
+    },
+    "长城电源": {
+      "name": "长城电源技术有限公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://gwpst.zhiye.com/",
+      "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
+      "universityEvidence": {
+        "school": "湖南大学",
+        "sourceUrl": "https://scc.hnu.edu.cn/detail/career?id=714527",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-15T16:30:55.841Z",
+      "nextCheckAfter": ""
     }
   },
   "lastRun": {
@@ -1635,9 +1680,9 @@
     "forceRetry": true
   },
   "lastUniversityBridge": {
-    "candidates": 11,
-    "sourcesAdded": 2,
-    "queued": 7,
-    "updatedAt": "2026-09-15T14:07:32.523Z"
+    "candidates": 10,
+    "sourcesAdded": 0,
+    "queued": 3,
+    "updatedAt": "2026-09-15T16:30:55.841Z"
   }
 }

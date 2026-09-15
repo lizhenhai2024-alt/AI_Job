@@ -1,26 +1,12 @@
 [
   {
-    "id": "auto-ede52535189e",
-    "name": "广东特福国际控股有限公司",
-    "careerUrl": "https://twyfordtile.gllue.com/portal/campusposition/list",
-    "focus": [],
-    "note": "湖南大学自动发现；源页面：https://scc.hnu.edu.cn/detail/career?id=708626",
-    "requestedAt": "2026-09-15T10:55:22.106Z",
-    "updatedAt": "2026-09-15T14:07:32.523Z",
-    "status": "高校发现·待官方源适配",
-    "provider": "",
-    "sourceRegistered": false,
-    "sourceAlreadyExists": false,
-    "analysis": "已发现公司官方招聘入口，但当前站点 twyfordtile.gllue.com 尚无自动抓取适配器"
-  },
-  {
     "id": "auto-4a8f55731de0",
     "name": "北京四达时代国际投资有限公司",
     "careerUrl": "https://jobs-startimes.ourats.com/req/campus",
     "focus": [],
     "note": "北京语言大学自动发现；源页面：https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2098223691345870850",
     "requestedAt": "2026-09-15T10:55:22.106Z",
-    "updatedAt": "2026-09-15T14:07:32.523Z",
+    "updatedAt": "2026-09-15T16:30:55.841Z",
     "status": "高校发现·待官方源适配",
     "provider": "",
     "sourceRegistered": false,
@@ -34,7 +20,7 @@
     "focus": [],
     "note": "湖南大学自动发现；源页面：https://scc.hnu.edu.cn/detail/career?id=708761",
     "requestedAt": "2026-09-15T10:55:22.106Z",
-    "updatedAt": "2026-09-15T14:07:32.523Z",
+    "updatedAt": "2026-09-15T16:30:55.841Z",
     "status": "高校发现·官方源已注册",
     "provider": "beisen",
     "sourceRegistered": true,
@@ -48,7 +34,7 @@
     "focus": [],
     "note": "湖南大学自动发现；源页面：https://scc.hnu.edu.cn/detail/career?id=694272",
     "requestedAt": "2026-09-15T14:07:32.523Z",
-    "updatedAt": "2026-09-15T14:07:32.523Z",
+    "updatedAt": "2026-09-15T16:30:55.841Z",
     "status": "高校发现·待官方源适配",
     "provider": "",
     "sourceRegistered": false,
@@ -62,7 +48,7 @@
     "focus": [],
     "note": "南开大学自动发现；源页面：https://career.nankai.edu.cn/correcruit/content/id/118868.html",
     "requestedAt": "2026-09-15T14:07:32.523Z",
-    "updatedAt": "2026-09-15T14:07:32.523Z",
+    "updatedAt": "2026-09-15T16:30:55.841Z",
     "status": "高校发现·待官方源适配",
     "provider": "",
     "sourceRegistered": false,
@@ -76,12 +62,12 @@
     "focus": [],
     "note": "湖南大学自动发现；源页面：https://scc.hnu.edu.cn/detail/career?id=714527",
     "requestedAt": "2026-09-15T14:07:32.523Z",
-    "updatedAt": "2026-09-15T14:07:32.523Z",
+    "updatedAt": "2026-09-15T16:30:55.841Z",
     "status": "高校发现·官方源已注册",
     "provider": "beisen",
     "sourceRegistered": true,
     "sourceAlreadyExists": false,
-    "analysis": "高校详情页明确给出北森招聘入口"
+    "analysis": "高校详情页明确给出北森招聘入口；等价官方源已存在"
   },
   {
     "id": "auto-8603e71f33ae",
@@ -90,12 +76,40 @@
     "focus": [],
     "note": "南开大学自动发现；源页面：https://career.nankai.edu.cn/correcruit/content/id/118852.html",
     "requestedAt": "2026-09-15T14:07:32.523Z",
-    "updatedAt": "2026-09-15T14:07:32.523Z",
+    "updatedAt": "2026-09-15T16:30:55.841Z",
     "status": "高校发现·官方源已注册",
     "provider": "beisen",
     "sourceRegistered": true,
     "sourceAlreadyExists": false,
-    "analysis": "高校详情页明确给出北森招聘入口"
+    "analysis": "高校详情页明确给出北森招聘入口；等价官方源已存在"
+  },
+  {
+    "id": "intake-97558c6d8564",
+    "name": "宁德时代新能源科技股份有限公司",
+    "careerUrl": "https://talent.catl.com/",
+    "focus": [],
+    "note": "湖南大学自动发现；源页面：https://scc.hnu.edu.cn/detail/career?id=719629",
+    "requestedAt": "2026-09-15T08:00:00Z",
+    "updatedAt": "2026-09-15T16:30:55.841Z",
+    "status": "高校发现·官方源已注册",
+    "provider": "",
+    "sourceRegistered": true,
+    "analysis": "已发现公司官方招聘入口，但当前站点 talent.catl.com 尚无自动抓取适配器；等价官方源已存在",
+    "sourceAlreadyExists": false
+  },
+  {
+    "id": "auto-ede52535189e",
+    "name": "广东特福国际控股有限公司",
+    "careerUrl": "https://twyfordtile.gllue.com/portal/campusposition/list",
+    "focus": [],
+    "note": "湖南大学自动发现；源页面：https://scc.hnu.edu.cn/detail/career?id=708626",
+    "requestedAt": "2026-09-15T10:55:22.106Z",
+    "updatedAt": "2026-09-15T14:07:32.523Z",
+    "status": "高校发现·待官方源适配",
+    "provider": "",
+    "sourceRegistered": false,
+    "sourceAlreadyExists": false,
+    "analysis": "已发现公司官方招聘入口，但当前站点 twyfordtile.gllue.com 尚无自动抓取适配器"
   },
   {
     "id": "intake-402285b7361b",
@@ -3039,25 +3053,6 @@
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届校招进行中（投递 https://zhaopin.evebattery.com）；"
-  },
-  {
-    "id": "intake-97558c6d8564",
-    "name": "宁德时代(CATL)",
-    "careerUrl": "https://talent.catl.com",
-    "focus": [
-      "国际业务",
-      "海外营销",
-      "品牌市场",
-      "运营",
-      "HR"
-    ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届全球校园招聘已启动（已核验）；",
-    "requestedAt": "2026-09-15T08:00:00Z",
-    "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
-    "provider": "",
-    "sourceRegistered": false,
-    "analysis": "2027届全球校园招聘已启动（已核验）；"
   },
   {
     "id": "intake-4116051d1af2",
