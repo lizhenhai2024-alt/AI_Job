@@ -405,6 +405,10 @@ export const sourceRegistry = [
     "company": "图拉斯"
   },
   {
+    "provider": "feishu",
+    "company": "新石器无人车"
+  },
+  {
     "provider": "hotjob",
     "company": "Decathlon"
   },
