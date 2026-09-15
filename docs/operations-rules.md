@@ -18,6 +18,7 @@
 | R-OPS-007 | 刷新/补水前后做数据质量断言对比 | 刷新后坏链增量/源缺失未被发现 |
 | R-BEISEN-002 | 北森 `deadline` 采 `DisplayFields` 的 `EndTime`，哨兵值必须过滤 | 截止日期缺失/0001-01-01、2222-02-02 错误日期入库 |
 | R-OPS-008 | 多 Agent 共享工作目录时，禁止 git reset/checkout/restore 他人改动 | 并行 Agent 因 reset 把对方未提交补丁抹掉/ 把对方改动 staged 混入自己 commit |
+| R-OPS-010 | 快照保留岗位(`_snapshotRetained`)在 dedupe 时永远不得压过本轮新抓岗位 | 新抓字段(deadline/headCount/UUID)被旧快照覆盖丢失；publishedAt 为空或相同时旧岗位胜出 |
 | R-OPS-009 | 外部 API 字段增强前必须同源实测；UUID 统计正则必须带 `(?:&|$)` 锚定 | 用 `\d+` 统计 UUID 开头数字误报；不实测就改字段导致重抓 |
 
 ---
@@ -157,3 +158,23 @@
 | 09-16 | 取消金融/教育/茶饮排除 → 6 个北森源恢复采集（人寿/太平/新东方/人保/泰康/蜜雪） | R-OPS-004 / 用户政策变更 |
 | 09-16 | 并行 Organizer git 操作回退 MainAgent 的 beisen/moka/桥接补丁 → 提炼 R-OPS-008 | R-OPS-008 |
 | 09-16 | 北森 EndTime 截止日期采集 + HeadCount 标准化（623/3507 条），UUID 统计正则锚定修正 | R-BEISEN-002 / R-OPS-009 |
+
+## R-OPS-010：快照保留岗位永远不压过本轮新抓岗位
+
+- **场景**：北森等 provider 被 `isSourceRefreshUnhealthy` 判 unhealthy（任意源 `errors>0`）后，本轮新抓岗位（含 deadline/headCount/新 UUID 链接）与从 existing/历史捞回的旧快照岗位同 key 或同 id 去重时，旧岗位胜出，**新抓字段与坏链清理成果全部丢失**（2026-09-16 实测：beisen 新抓 5756 条含 HC/截止日期，最终 live-jobs.js 中 headCount 落库为 0）。
+- **根因**：`dedupePreferOfficial`/`dedupeById` 的 chooseNext 只比较 rank 与 `publishedAt`；当新抓岗位 `publishedAt` 为空（部分北森源 PostDate 缺失）或与旧快照相同时，`>` 不成立，保留先入 map 的 previous。若 previous 是旧快照（输入顺序或遍历时序导致），新抓岗位被丢弃。
+- **规则**：
+  1. refresh-jobs.mjs 在生成 `retainedSourceJobs`（existing 保留 + historical 捞回）时，给每条岗位打 `_snapshotRetained: true` 标记（`cleanForStorage` 会剔除 `_` 前缀字段，不会污染存储）。
+  2. dedupe（`dedupe.mjs` 的 `preferFresh` + refresh-jobs.mjs 本地 dedupe）判定：`next` 带 `_snapshotRetained` 且 `prev` 不带 → 永不选择 next；`prev` 带而 `next` 不带 → 必须选择 next。快照岗位仅在无同名新抓岗位时兜底保留。
+  3. `findHistoricalProviderJobs` 捞回的历史岗位必须再过 `hasNumericBeisenDetailUrl` 过滤（R-BEISEN-001 全路径覆盖，不仅 existing 层）。
+- **检查点**：刷新后回读 live-jobs.js 统计（`headCount`/`deadline` 覆盖数、数字 URL 数、discoveredAt 是否为当轮），不能只看 provider 的 keptJobs；字段增强后必须验证"写盘层"字段存在，而不仅是抓取层。
+
+## R-BEISEN-002：北森截止日期 deadline 采集（EndTime + 哨兵值过滤）
+
+- **场景**：用户要求岗位采集发布日期与截止日期；beisen.mjs 原 `deadline: ''` 恒空。
+- **根因**：北森 `GetJobAdPageList` 返回字段由 `DisplayFields` 决定（传空数组时所有字段值为 null/占位）；`EndTime` 未在 DisplayFields 中 → 不返回 → deadline 无法采集。
+- **规则**：
+  1. `fetchApiPage` 的 `DisplayFields` 必须包含 `EndTime`（连同 `PostDate`、`HeadCount`、`Salary`）。
+  2. `parseBeisenRow` 的 `deadline: normalizeDate(row.EndTime)`，`headCount: Number(row.HeadCount) > 0 ? Number(row.HeadCount) : ''`；`normalizeDate` 必须过滤哨兵值（`0001-01-01`、`2222-02-02` 及 `year<2000 || year>2100`）→ 返回空串表示未设截止。
+  3. 实测确认：有效 `EndTime` 形如 `2027-06-30T00:00:00`（截止日期）；哨兵值 `endInt=0` 且 EndTime 为 `0001-01-01` 或 `2222-02-02`。
+- **检查点**：刷新后统计 `liveJobs.filter(j => j.deadline).length` 应 >0（beisen 覆盖约 600+ 条）；`j.headCount` 数字字段应被 `src/core/headcount.js` 的 structuredHeadcount 消费。

@@ -2,6 +2,18 @@ function sourceRank(job = {}) {
   return job.sourceType === 'official' ? 2 : job.sourceType === 'secondary' ? 1 : 0;
 }
 
+// 快照保留岗位（unhealthy 时从 existing/historical 捞回）永远不得压过本轮新抓岗位。
+// refresh-jobs.mjs 在保留时给岗位打 _snapshotRetained: true 标记；cleanForStorage 会剔除 _ 前缀字段。
+export function preferFresh(prev = {}, next = {}) {
+  const nextRetained = Boolean(next._snapshotRetained);
+  const prevRetained = Boolean(prev._snapshotRetained);
+  if (nextRetained && !prevRetained) return false;
+  if (prevRetained && !nextRetained) return true;
+  const prevRank = sourceRank(prev);
+  const nextRank = sourceRank(next);
+  return nextRank > prevRank || (nextRank === prevRank && String(next.publishedAt || '') > String(prev.publishedAt || ''));
+}
+
 function evidenceRows(job = {}) {
   const rows = [];
   const push = (row) => {
@@ -56,9 +68,7 @@ export function dedupePreferOfficial(jobs = []) {
       map.set(key, { ...job });
       continue;
     }
-    const prevRank = sourceRank(prev);
-    const nextRank = sourceRank(job);
-    const chooseNext = nextRank > prevRank || (nextRank === prevRank && String(job.publishedAt || '') > String(prev.publishedAt || ''));
+    const chooseNext = preferFresh(prev, job);
     const primary = chooseNext ? job : prev;
     const secondary = chooseNext ? prev : job;
     const mergedEvidence = mergeEvidence(primary, secondary);
@@ -80,9 +90,7 @@ export function dedupeById(jobs = []) {
       map.set(job.id, job);
       continue;
     }
-    const prevRank = sourceRank(prev);
-    const nextRank = sourceRank(job);
-    const chooseNext = nextRank > prevRank || (nextRank === prevRank && String(job.publishedAt || '') > String(prev.publishedAt || ''));
+    const chooseNext = preferFresh(prev, job);
     const primary = chooseNext ? job : prev;
     const secondary = chooseNext ? prev : job;
     const mergedEvidence = mergeEvidence(primary, secondary);

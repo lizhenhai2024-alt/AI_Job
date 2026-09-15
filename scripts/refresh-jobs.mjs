@@ -26,7 +26,8 @@ import { isClosed } from './job-discovery/core.mjs';
 import { enrichProvenanceFields } from '../src/core/source-provenance.js';
 import { buildSourceHealth } from './job-discovery/source-health.mjs';
 import { curateDiscoveredJobs, curatedOfficialGranularityJobs } from './job-discovery/granularity.mjs';
-import { retainedJobsForUnhealthySources, providerOfJob, findHistoricalProviderJobs } from './job-discovery/snapshot-retention.mjs';
+import { retainedJobsForUnhealthySources, providerOfJob, findHistoricalProviderJobs, hasNumericBeisenDetailUrl } from './job-discovery/snapshot-retention.mjs';
+import { preferFresh } from './job-discovery/dedupe.mjs';
 import { dedupeById } from './job-discovery/dedupe.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -114,6 +115,7 @@ function dedupePreferOfficial(jobs = []) {
       !previous
       || rank(job) > rank(previous)
       || (rank(job) === rank(previous) && String(job.publishedAt || '') > String(previous.publishedAt || ''))
+      || Boolean(previous._snapshotRetained && !job._snapshotRetained)
     ) {
       map.set(key, job);
     }
@@ -329,14 +331,16 @@ const configuredProviders = SUPPORTED_PROVIDERS.filter(sourceConfigured);
 console.log(`[job-refresh] all sources completed: ${sourceResults.length}/${configuredProviders.length} successful`);
 
 const snapshotRetention = retainedJobsForUnhealthySources(existing, sourceResults, configuredProviders);
-let retainedSourceJobs = [...snapshotRetention.retained];
+let retainedSourceJobs = [...snapshotRetention.retained].map((job) => ({ ...job, _snapshotRetained: true }));
 
 for (const provider of snapshotRetention.unhealthy) {
   if (retainedSourceJobs.some((job) => providerOfJob(job) === provider)) continue;
   const historical = await findHistoricalProviderJobs({ root, provider });
-  if (historical.jobs.length) {
-    retainedSourceJobs.push(...historical.jobs);
-    console.warn(`[job-refresh:${provider}] unhealthy snapshot; recovered ${historical.jobs.length} jobs from ${historical.commit.slice(0, 8)}`);
+  const cleanHistorical = historical.jobs.filter((job) => !hasNumericBeisenDetailUrl(job));
+  if (cleanHistorical.length) {
+    retainedSourceJobs.push(...cleanHistorical.map((job) => ({ ...job, _snapshotRetained: true })));
+    const dropped = historical.jobs.length - cleanHistorical.length;
+    console.warn(`[job-refresh:${provider}] unhealthy snapshot; recovered ${cleanHistorical.length} jobs from ${historical.commit.slice(0, 8)}${dropped ? ` (dropped ${dropped} numeric Beisen URLs)` : ''}`);
   }
 }
 
