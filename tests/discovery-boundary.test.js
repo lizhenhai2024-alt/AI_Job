@@ -18,14 +18,20 @@ test('discovery gate keeps active formal 2027 roles regardless of candidate fit'
   assert.equal(shouldKeep({ graduationYear: '2027', title: '海外运营', deadline: '2026-09-01' }, profile, now), false);
 });
 
-test('production refresh does not invoke candidate-fit exclusion or enrichment', async () => {
+test('production refresh extracts job facts but never candidate-fit verdicts', async () => {
   const [refresh, university] = await Promise.all([
     source('scripts/refresh-jobs.mjs'),
     source('scripts/job-discovery/refresh-university-jobs.mjs')
   ]);
   for (const text of [refresh, university]) {
+    // 判定入口：不得回潮（契约 docs/job-intelligence-contract-v1.md §4）
     assert.doesNotMatch(text, /shouldExcludeByPolicy/);
     assert.doesNotMatch(text, /enrichCandidateFit/);
+    assert.doesNotMatch(text, /analyzeCandidateFit/);
+    assert.doesNotMatch(text, /jobPolicyReasons/);
+    // 事实抽取：允许且必需，并且必须真的落进 jdEvidence
+    assert.match(text, /resolveJdEvidence/);
+    assert.match(text, /jdEvidence/);
   }
 });
 
