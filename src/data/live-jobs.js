@@ -127715,7 +127715,7 @@ export const liveJobs = [
     "riskTags": [],
     "source": "公司官方北森校招官网",
     "sourceType": "official",
-    "sourceUrl": "https://gwpst.zhiye.com/campus/detail?jobAdId=311177559",
+    "sourceUrl": "https://gwpst.zhiye.com/campus/detail?jobAdId=46bbf24b-65b4-4fc2-a57e-6ad8e7be63fa",
     "verification": "官方招聘官网 · 2027校招源（JD未单列届别）",
     "publishedAt": "2026-08-28",
     "deadline": "",
@@ -127777,7 +127777,7 @@ export const liveJobs = [
     "sourceEvidence": [
       {
         "label": "公司官方北森校招官网",
-        "url": "https://gwpst.zhiye.com/campus/detail?jobAdId=311177559"
+        "url": "https://gwpst.zhiye.com/campus/detail?jobAdId=46bbf24b-65b4-4fc2-a57e-6ad8e7be63fa"
       },
       {
         "label": "官方招聘官网 · 2027校招源（JD未单列届别）",

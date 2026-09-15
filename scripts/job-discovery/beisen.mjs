@@ -54,7 +54,8 @@ export function isBeisenTitleAllowed(title = '') {
 }
 
 export function parseBeisenRow(source, row = {}, now = new Date()) {
-  const rawId = String(row.JobAdId ?? row.Id ?? '');
+  // 北森详情接口 GetJobAdInfo 需要岗位 UUID（row.Id）；数字 JobAdId 会导致详情页"参数错误"
+  const rawId = String(row.Id ?? row.JobAdId ?? '');
   const title = cleanText(row.JobAdName || row.Name || '');
   const category = cleanText(row.Category || '');
   const duty = cleanText(row.Duty || '');
@@ -292,7 +293,7 @@ export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch,
         if (!rows.length) break;
         let added = 0;
         for (const row of rows) {
-          const key = String(row.JobAdId ?? row.Id ?? `${row.JobAdName}|${row.LocNames}`);
+          const key = String(row.Id ?? row.JobAdId ?? `${row.JobAdName}|${row.LocNames}`);
           if (seen.has(key)) continue;
           seen.add(key); added++; portalRows++; scannedRows++;
           let normalizedRow = row;
