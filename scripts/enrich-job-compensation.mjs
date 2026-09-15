@@ -5,6 +5,8 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 import { enrichJobCompensation } from '../src/core/compensation.js';
 import { enrichJobHeadcount } from '../src/core/headcount.js';
 import { normalizeJobLanguages } from './job-discovery/languages.mjs';
+import { isTrustedUniversityOfficialBacked } from './filter-official-live-jobs.mjs';
+import { appendMetaNote } from './job-discovery/meta-note.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const livePath = path.join(root, 'src/data/live-jobs.js');
@@ -29,11 +31,30 @@ const withLanguages = enriched.filter((job) => (job.languages || []).length > 0)
 const mandatoryLanguageJobs = enriched.filter((job) => (job.mandatoryLanguages || []).length > 0).length;
 const preferredLanguageJobs = enriched.filter((job) => (job.preferredLanguages || []).length > 0).length;
 const updatedAt = new Date().toISOString();
+
+// This is the last writer of live-jobs.js, so it owns the invariant that the
+// recorded counts describe the array actually written. Any earlier writer that
+// leaves a stale count (or a hand edit that changes rows without touching stats)
+// is corrected here instead of being shipped to the board.
+const companies = new Set(enriched.map((job) => job.company).filter(Boolean));
+const officialCount = enriched.filter((job) => job.sourceType === 'official').length;
+const universityOfficialBacked = enriched.filter(isTrustedUniversityOfficialBacked).length;
+const priorSourcePolicy = discoveryMeta.stats?.sourcePolicy || {};
+
 const meta = {
   ...discoveryMeta,
   updatedAt,
+  totalJobs: enriched.length,
+  totalCompanies: companies.size,
   stats: {
     ...(discoveryMeta.stats || {}),
+    totalJobs: enriched.length,
+    companies: companies.size,
+    sourcePolicy: {
+      ...priorSourcePolicy,
+      official: officialCount,
+      universityOfficialBacked
+    },
     languages: {
       withLanguages,
       emptyLanguages: Math.max(0, enriched.length - withLanguages),
@@ -62,7 +83,10 @@ const meta = {
       totalJobs: enriched.length
     }
   },
-  note: `${discoveryMeta.note || ''} 语言字段规则：优先按标题/JD正文重新识别并标准化 languages，同时区分 mandatoryLanguages / preferredLanguages；仅在正文无语言证据时保留适配器已有字段。薪资情报规则：仅解析来源页/JD明确披露的薪资；月薪转年薪按明确薪数计算，未写薪数时仅按12薪估算并显式标记；“面议/未披露”不猜测。HC规则：只保留ATS结构化字段或JD明确招聘人数，区分岗位HC(job)与整届/项目招聘规模(program)，公司员工规模不得推断为HC。发布日期只认来源披露的publishedAt/datePosted/PostDate等字段，discoveredAt不得冒充发布日期。`.trim()
+  note: appendMetaNote(
+    discoveryMeta.note,
+    '语言字段规则：优先按标题/JD正文重新识别并标准化 languages，同时区分 mandatoryLanguages / preferredLanguages；仅在正文无语言证据时保留适配器已有字段。薪资情报规则：仅解析来源页/JD明确披露的薪资；月薪转年薪按明确薪数计算，未写薪数时仅按12薪估算并显式标记；“面议/未披露”不猜测。HC规则：只保留ATS结构化字段或JD明确招聘人数，区分岗位HC(job)与整届/项目招聘规模(program)，公司员工规模不得推断为HC。发布日期只认来源披露的publishedAt/datePosted/PostDate等字段，discoveredAt不得冒充发布日期。'
+  )
 };
 
 const jobsJson = JSON.stringify(enriched, null, 2).replace(/\n]$/, '\n];').replace(/]$/, '];');

@@ -161,7 +161,12 @@ export async function searchTopbandJobs(profile, source, { fetcher = fetch, maxJ
         if (shouldKeep(job, profile, now)) jobs.push(job);
         else relevanceRejected++;
       }
-      if (rows.length < size || seen.size >= jobLimit) { snapshotComplete = true; break; }
+      // A short page means the portal ran out of rows. Hitting jobLimit is a
+      // self-imposed local cap and is NOT evidence of completeness: claiming a
+      // complete snapshot there would make the provider look healthy and prune
+      // the jobs that fall past the cap.
+      if (rows.length < size) { snapshotComplete = true; break; }
+      if (seen.size >= jobLimit) break;
     }
   } catch (error) {
     errors++;

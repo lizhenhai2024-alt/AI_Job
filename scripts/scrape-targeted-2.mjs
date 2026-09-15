@@ -220,10 +220,14 @@ for (const row of report) {
   row.kept = pipelineKept.filter((j) => j.company === row.company).length;
 }
 
-// --- Merge: drop existing rows for these companies (incl. TCL placeholder) ---
+// --- Merge: drop existing rows for the companies that were re-read ---
 const { liveJobs: existing, meta: existingMeta } = await loadExisting();
-const removed = existing.filter((j) => isTargetCompany(j.company));
-const untouched = existing.filter((j) => !isTargetCompany(j.company));
+// A failed scrape means "we do not know this company's current state", not "this
+// company has no jobs". Only drop rows for targets we actually re-read, otherwise
+// a failure silently deletes them from the production pool.
+const rescraped = new Set(report.filter((r) => r.status !== 'failed').map((r) => r.company));
+const removed = existing.filter((j) => rescraped.has(j.company));
+const untouched = existing.filter((j) => !rescraped.has(j.company));
 console.log(`[scrape-targeted-2] existing=${existing.length} removedTargetRows=${removed.length} untouched=${untouched.length} fresh=${pipelineKept.length}`);
 for (const r of removed.slice(0, 10)) console.log(`  removed: ${r.company} | ${r.title} | ${r.sourceType}`);
 
@@ -263,3 +267,10 @@ for (const row of report) {
   console.log(`  - ${row.company} (${row.provider}): status=${row.status} raw=${row.raw} kept=${row.kept}${row.error ? ' error=' + row.error : ''}`);
 }
 console.log(`[scrape-targeted-2] DONE jobs=${finalJobs.length} companies=${meta.totalCompanies} -> ${path.relative(root, livePath)}`);
+
+// Report failure through the exit code; the summary above is easy to miss in CI logs.
+const failed = report.filter((row) => row.status === 'failed');
+if (failed.length) {
+  console.error(`[scrape-targeted-2] ${failed.length}/${report.length} target(s) failed: ${failed.map((row) => row.company).join(', ')}; their existing rows were left untouched.`);
+  process.exitCode = 1;
+}

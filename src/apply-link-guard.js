@@ -1,4 +1,15 @@
 import { companyRegistry } from './data/company-registry.js';
+import { liveJobs } from './data/live-jobs.js';
+import { sameCompany as companyMatches } from './core/company-name.js';
+
+// Cards carry the job id in data-detail; the record is the authority on whether
+// the source is company-official.
+const jobById = new Map((Array.isArray(liveJobs) ? liveJobs : []).map((job) => [String(job.id), job]));
+
+function cardJob(card) {
+  const id = card?.querySelector?.('[data-detail]')?.dataset?.detail;
+  return id ? jobById.get(String(id)) || null : null;
+}
 
 const SECONDARY_HOST_PATTERNS = [
   /(^|\.)nowcoder\.com$/i,
@@ -16,24 +27,6 @@ const SECONDARY_HOST_PATTERNS = [
   /(^|\.)shixiseng\.com$/i,
   /(^|\.)zhaopin\.com$/i
 ];
-
-function normalizeCompanyName(value = '') {
-  return String(value)
-    .replace(/^[\s🔴🟢🔵✅❌⭐★•·]+/u, '')
-    .replace(/[（(].*?[）)]/g, '')
-    .replace(/股份有限公司|集团有限公司|有限责任公司|有限公司|科技股份|集团|控股|中国/gi, '')
-    .replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '')
-    .toLowerCase()
-    .trim();
-}
-
-function companyMatches(left, right) {
-  const a = normalizeCompanyName(left);
-  const b = normalizeCompanyName(right);
-  if (!a || !b) return false;
-  if (a === b) return true;
-  return Math.min(a.length, b.length) >= 3 && (a.includes(b) || b.includes(a));
-}
 
 function parseHttpUrl(value = '') {
   try {
@@ -88,7 +81,7 @@ function sourceLinkForCard(card) {
 function sourceIsOfficial(card) {
   const text = cardText(card);
   return /公司官方|官方招聘|官方校招|官方来源|官方职位|官方.*(?:Moka|北森|飞书)|(?:Moka|北森|飞书).*官方/i.test(text)
-    && !/二手来源|待官网核验/i.test(text);
+    && !/二手|待官网复核|待官网核验/i.test(text);
 }
 
 export function resolveOfficialApplyUrlFromCard(card) {
@@ -96,6 +89,25 @@ export function resolveOfficialApplyUrlFromCard(card) {
   const companyName = card.querySelector('.company')?.textContent?.trim() || '';
   const sourceLink = sourceLinkForCard(card);
   const sourceUrl = safeOfficialUrl(sourceLink?.href || '');
+
+  // Prefer the record's own provenance over the rendered card text. Matching the
+  // card prose was fragile: the exclusion clause below referenced a label
+  // ("待官网核验") that the UI never renders — it shows 待官网复核 — so the guard
+  // meant to stop an unverified page being offered as a one-click official
+  // apply link could not fire.
+  const job = cardJob(card);
+  if (job) {
+    if (job.sourceType === 'official') {
+      // Best case: the job came from an official company/ATS page, so link to the
+      // concrete job detail rather than only the company homepage.
+      return safeOfficialUrl(job.sourceUrl || '') || sourceUrl || registryApplyUrl(companyName);
+    }
+    // A secondary record is never presented as company-official. The company
+    // career entry the university bridge verified is the right apply target.
+    const bridged = safeOfficialUrl(job.officialCareerUrl || '');
+    if (bridged) return bridged;
+    return registryApplyUrl(companyName);
+  }
 
   // Best case: the job itself came from an official company/ATS page, so link
   // directly to the concrete job detail rather than only the company homepage.

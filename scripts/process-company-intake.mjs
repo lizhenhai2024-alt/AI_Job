@@ -9,6 +9,7 @@ import {
   normalizeCareerUrl,
   normalizeCompanyName
 } from '../src/core/company-intake.js';
+import { withTimeout } from './job-discovery/http.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const eventPath = process.argv[2] || process.env.GITHUB_EVENT_PATH;
@@ -38,16 +39,16 @@ function cohortEvidence(text = '') {
 async function inspectUrl(url) {
   if (!url) return { ok: false, html: '', finalUrl: '', error: '未提供官方招聘链接' };
   try {
-    const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), 15000);
-    const response = await fetch(url, {
-      redirect: 'follow', signal: controller.signal,
+    // Shared wrapper: bounds the body read too, and unlike the hand-rolled timer
+    // it also releases on the error path (a throw here used to leave a 15s timer
+    // holding the event loop open instead of failing immediately).
+    const response = await withTimeout(fetch, 15000)(url, {
+      redirect: 'follow',
       headers: {
         'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36',
         'accept-language': 'zh-CN,zh;q=0.9,en;q=0.7'
       }
     });
-    clearTimeout(timer);
     const html = await response.text();
     return { ok: response.ok, html: html.slice(0, 2_000_000), finalUrl: response.url || url, error: response.ok ? '' : `HTTP ${response.status}` };
   } catch (error) {

@@ -94,10 +94,10 @@ function jobsWithIntel() {
     .sort(compareDiscoveryIntelligence);
 }
 
-function filteredJobs() {
+function filteredJobs(all = jobsWithIntel()) {
   const f = state.filters;
   const keyword = f.keyword.trim().toLowerCase();
-  return jobsWithIntel().filter((job) => {
+  return all.filter((job) => {
     const text = [job.company, job.title, job.city, job.source, job.verification, ...(job.roleFamily || []), ...(job.skills || [])].filter(Boolean).join(' ').toLowerCase();
     const verification = job._provenance.crossVerified ? '多源交叉核实' : job._provenance.official ? '官方源' : '待官网复核';
     return (!keyword || text.includes(keyword))
@@ -121,8 +121,8 @@ function nav() {
   </header>`;
 }
 
-function shell(content) {
-  return `<div class="shell">${nav()}<main>${content}</main>${renderModal()}</div>`;
+function shell(content, all) {
+  return `<div class="shell">${nav()}<main>${content}</main>${renderModal(all)}</div>`;
 }
 
 function boundaryNotice() {
@@ -133,9 +133,8 @@ function boundaryNotice() {
   </div>`;
 }
 
-function renderJobs() {
-  const all = jobsWithIntel();
-  const jobs = filteredJobs();
+function renderJobs(all = jobsWithIntel()) {
+  const jobs = filteredJobs(all);
   const official = all.filter((job) => job._provenance.official).length;
   const cross = all.filter((job) => job._provenance.crossVerified).length;
   const activeCount = all.filter(active).length;
@@ -206,9 +205,9 @@ function renderJobCard(job) {
   </article>`;
 }
 
-function companySummaries() {
+function companySummaries(all = jobsWithIntel()) {
   const map = new Map();
-  for (const job of jobsWithIntel()) {
+  for (const job of all) {
     const item = map.get(job.company) || { company: job.company, jobs: [], official: 0, cross: 0, channels: new Set(), latest: '' };
     item.jobs.push(job);
     item.official += Number(job._provenance.official);
@@ -221,8 +220,8 @@ function companySummaries() {
   return [...map.values()].sort((a, b) => b.jobs.length - a.jobs.length || b.official - a.official || String(b.latest).localeCompare(String(a.latest)));
 }
 
-function renderCompanies() {
-  const companies = companySummaries();
+function renderCompanies(all = jobsWithIntel()) {
+  const companies = companySummaries(all);
   return `${boundaryNotice()}
     <section class="hero"><div><h1>公司招聘情报</h1><p>这里只统计“发现了什么、来自哪里、证据是否充分”，不做公司匹配度评级。</p></div></section>
     <section class="company-grid">${companies.map((item) => `<article class="company-card">
@@ -233,8 +232,7 @@ function renderCompanies() {
     </article>`).join('')}</section>`;
 }
 
-function renderSources() {
-  const all = jobsWithIntel();
+function renderSources(all = jobsWithIntel()) {
   const counts = Object.fromEntries(sourceChannels.map((channel) => [channel.id, all.filter((job) => job._provenance.channel === channel.id).length]));
   const totalClassified = Object.values(counts).reduce((sum, n) => sum + n, 0);
   return `${boundaryNotice()}
@@ -270,9 +268,9 @@ function renderIntake() {
     <section class="panel" style="margin-top:16px"><h2>最近加入的公司</h2>${recent.length ? recent.map((item) => `<div class="intake-row"><strong>${esc(item.name)}</strong><span>分析状态：${esc(item.status || '待提交分析')}</span><span>${esc((item.focus || []).join('、') || '未限定关键词')}</span></div>`).join('') : '<div class="empty">还没有本机添加记录。</div>'}</section>`;
 }
 
-function renderModal() {
+function renderModal(all = jobsWithIntel()) {
   if (!state.selectedJobId) return '';
-  const job = jobsWithIntel().find((item) => item.id === state.selectedJobId);
+  const job = all.find((item) => item.id === state.selectedJobId);
   if (!job) return '';
   const p = job._provenance;
   const c = job._completeness;
@@ -316,12 +314,22 @@ function renderModal() {
   </div></div>`;
 }
 
+// Coalesces keystrokes in the keyword box: rebuilding the whole job list (and
+// re-running the card decorators) on every character is what made typing in the
+// search box stutter. The filter value itself is updated synchronously, so the
+// rendered result is never behind the input.
+let pendingKeywordRender = null;
+
 function render() {
-  const content = state.tab === 'jobs' ? renderJobs()
-    : state.tab === 'companies' ? renderCompanies()
-      : state.tab === 'sources' ? renderSources()
+  clearTimeout(pendingKeywordRender);
+  pendingKeywordRender = null;
+  // One pass over the job pool per render instead of one per renderer.
+  const all = jobsWithIntel();
+  const content = state.tab === 'jobs' ? renderJobs(all)
+    : state.tab === 'companies' ? renderCompanies(all)
+      : state.tab === 'sources' ? renderSources(all)
         : renderIntake();
-  app.innerHTML = shell(content);
+  app.innerHTML = shell(content, all);
 }
 
 app.addEventListener('click', (event) => {
@@ -342,10 +350,14 @@ app.addEventListener('input', (event) => {
   if (event.target.id !== 'filter-keyword' || event.isComposing) return;
   state.filters.keyword = event.target.value;
   const pos = event.target.selectionStart;
-  render();
-  const input = document.querySelector('#filter-keyword');
-  input?.focus();
-  input?.setSelectionRange(pos, pos);
+  clearTimeout(pendingKeywordRender);
+  pendingKeywordRender = setTimeout(() => {
+    pendingKeywordRender = null;
+    render();
+    const input = document.querySelector('#filter-keyword');
+    input?.focus();
+    input?.setSelectionRange(pos, pos);
+  }, 120);
 });
 
 app.addEventListener('change', (event) => {

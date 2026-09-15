@@ -102,3 +102,34 @@ test('HotJob discovery paginates form API and keeps sales roles for downstream d
   assert.equal(result.jobs.length, 2);
   assert.deepEqual(new Set(result.jobs.map((job) => job.title)), new Set(['Analyst - Business Consulting - SH', '销售经理']));
 });
+
+test('HotJob reports an incomplete snapshot when listed positions yield no kept job', async () => {
+  const listRows = [
+    { postId:'p1', postName:'Analyst - Business Consulting - SH', projectName:'Campus 2027', postTypeName:'Consulting', workPlaceStr:'上海市', endDate:'2026-10-31 23:59:59' },
+    { postId:'p2', postName:'销售经理', projectName:'Campus 2027', postTypeName:'Sales', workPlaceStr:'上海市' }
+  ];
+  const fetcher = async (url, init = {}) => {
+    const body = new URLSearchParams(init.body || '');
+    if (String(url).includes('/listPosition/')) {
+      const currentPage = Number(body.get('currentPage'));
+      const row = listRows[currentPage - 1];
+      return new Response(JSON.stringify({
+        state: '200',
+        data: { positonNum: 2, pageForm: { totalPage: 2, pageSize: 1, currentPage, dataCount: 2, pageData: row ? [row] : [] } }
+      }), { status: 200, headers: { 'content-type':'application/json' } });
+    }
+    // Every detail fetch breaks (403 / schema change). The portal still lists
+    // positions, so this run must not look like a healthy empty snapshot —
+    // otherwise the provider is "healthy" and its known jobs get pruned.
+    if (String(url).includes('/listPositionDetail/')) {
+      return new Response('{"state":"403"}', { status: 403 });
+    }
+    return new Response('{}', { status: 404 });
+  };
+
+  const result = await searchHotjobJobs(profile, [source], { fetcher, now: new Date('2026-09-09T00:00:00Z'), concurrency: 2 });
+  assert.equal(result.jobs.length, 0);
+  assert.equal(result.stats.listed, 2);
+  assert.equal(result.stats.detailErrors, 2);
+  assert.equal(result.stats.snapshotComplete, false);
+});

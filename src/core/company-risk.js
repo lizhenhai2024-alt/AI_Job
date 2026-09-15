@@ -1,21 +1,8 @@
 import { companyRiskHistory, companyRiskMethodology } from '../data/company-risk-history.js';
 import { priorityCompanyRiskHistory } from '../data/company-risk-history-priority.js';
+import { sameCompany as matches } from './company-name.js';
 
 export const mergedCompanyRiskHistory = [...companyRiskHistory, ...priorityCompanyRiskHistory];
-
-function key(value = '') {
-  return String(value)
-    .replace(/[（(].*?[）)]/g, '')
-    .replace(/股份有限公司|集团有限公司|有限公司|集团|控股|中国/gi, '')
-    .replace(/[\s·,.，、_-]/g, '')
-    .toLowerCase();
-}
-
-function matches(left, right) {
-  const a = key(left);
-  const b = key(right);
-  return Boolean(a && b && (a === b || a.includes(b) || b.includes(a)));
-}
 
 export function riskTypeLabel(type = '') {
   return ({

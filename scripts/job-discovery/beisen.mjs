@@ -1,4 +1,5 @@
 import crypto from 'node:crypto';
+import { withTimeout } from './http.mjs';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES } from './core.mjs';
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户'];
@@ -283,6 +284,7 @@ async function fetchPage(source, pageIndex, pageSize, fetcher = fetch) {
 }
 
 export async function searchBeisenJobs(profile, sources = [], { fetcher = fetch, pageSize = 50, maxPages = 12, now = new Date() } = {}) {
+  fetcher = withTimeout(fetcher);
   const jobs = [];
   let scannedPortals = 0, scannedRows = 0, errors = 0;
   const perPortal = {};

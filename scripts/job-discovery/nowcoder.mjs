@@ -1,8 +1,15 @@
 import { parseJobPage, shouldKeep, dedupeJobs } from './core.mjs';
+import { isSameSite } from './http.mjs';
 
 const DEFAULT_UA = 'AI-Job/0.2 (+https://github.com/lizhenhai2024-alt/AI_Job; public-campus-job-indexer)';
 
-export async function fetchText(url, { timeoutMs = 15000, userAgent = DEFAULT_UA } = {}) {
+// Every URL this adapter fetches is derived from nowcoder content (robots.txt,
+// sitemap <loc>, crawled hrefs). Keep the fetch confined to the site we are
+// indexing; redirects are followed, so the post-redirect URL is re-checked too.
+export const NOWCODER_HOSTS = ['nowcoder.com'];
+
+export async function fetchText(url, { timeoutMs = 15000, userAgent = DEFAULT_UA, allowedHosts = [] } = {}) {
+  if (!isSameSite(url, allowedHosts)) throw new Error(`refusing off-site fetch: ${url}`);
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
@@ -12,6 +19,7 @@ export async function fetchText(url, { timeoutMs = 15000, userAgent = DEFAULT_UA
       headers: { 'user-agent': userAgent, accept: 'text/html,application/xml,text/xml;q=0.9,*/*;q=0.8' }
     });
     if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText} for ${url}`);
+    if (!isSameSite(res.url, allowedHosts)) throw new Error(`redirected off-site: ${url} -> ${res.url}`);
     return await res.text();
   } finally {
     clearTimeout(timer);
@@ -47,7 +55,9 @@ export async function discoverJobUrls({ fetcher = fetchText, maxSitemaps = 80, m
   } catch {}
   if (!roots.length) roots.push('https://www.nowcoder.com/sitemap.xml');
 
-  const queue = [...new Set(roots)];
+  // Only nowcoder URLs may enter the fetch queue: <loc> values from remote XML
+  // are otherwise fetched verbatim from any host, with redirects followed.
+  const queue = [...new Set(roots)].filter((url) => isSameSite(url, NOWCODER_HOSTS));
   const seen = new Set();
   const jobs = new Map();
 
@@ -58,6 +68,7 @@ export async function discoverJobUrls({ fetcher = fetchText, maxSitemaps = 80, m
     try {
       const xml = await fetcher(sitemapUrl);
       for (const entry of parseSitemap(xml)) {
+        if (!isSameSite(entry.loc, NOWCODER_HOSTS)) continue;
         if (/\/jobs\/detail\/\d+/.test(entry.loc)) {
           jobs.set(entry.loc, entry.lastmod || jobs.get(entry.loc) || '');
         } else if (entry.kind === 'sitemap' || /sitemap.*\.xml/i.test(entry.loc)) {
@@ -96,7 +107,7 @@ async function mapLimit(items, limit, mapper) {
 }
 
 export async function searchNowcoderJobs(profile, {
-  fetcher = fetchText,
+  fetcher = (url, init) => fetchText(url, { ...init, allowedHosts: NOWCODER_HOSTS }),
   maxSitemaps = profile.maxSitemaps || 80,
   maxCandidates = profile.maxCandidates || 5000,
   maxPages = profile.maxPages || 1000,

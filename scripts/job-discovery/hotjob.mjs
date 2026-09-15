@@ -1,4 +1,5 @@
 import crypto from 'node:crypto';
+import { withTimeout } from './http.mjs';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES } from './core.mjs';
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','咨询','沟通','分析'];
@@ -284,12 +285,13 @@ async function mapLimit(items, limit, fn) {
 }
 
 export async function searchHotjobJobs(profile, sources = [], { fetcher = fetch, now = new Date(), concurrency = 5 } = {}) {
+  fetcher = withTimeout(fetcher);
   const jobs = [];
   const perPortal = {};
-  let scannedPortals = 0, listed = 0, detailed = 0, errors = 0;
+  let scannedPortals = 0, listed = 0, detailed = 0, errors = 0, totalDetailErrors = 0, truncatedPortals = 0;
 
   for (const source of sources) {
-    let portalListed = 0, portalDetailed = 0, portalKept = 0, detailErrors = 0, totalPositions = 0;
+    let portalListed = 0, portalDetailed = 0, portalKept = 0, detailErrors = 0, totalPositions = 0, portalTruncated = false;
     try {
       if (source.corpPath) {
         // hztp shape: GET JSON list where each row already carries the full JD.
@@ -299,6 +301,7 @@ export async function searchHotjobJobs(profile, sources = [], { fetcher = fetch,
         totalPositions = first.totalPositions;
         const maxPages = Math.max(1, Math.min(Number(source.maxPages || 300), 500));
         const totalPages = Math.max(1, Math.min(first.totalPage || 1, maxPages));
+        portalTruncated = (first.totalPage || 1) > maxPages;
         const pages = [first];
         if (totalPages > 1) {
           const indexes = Array.from({ length: totalPages - 1 }, (_, i) => i + 2);
@@ -341,6 +344,7 @@ export async function searchHotjobJobs(profile, sources = [], { fetcher = fetch,
         totalPositions = first.totalPositions;
         const maxPages = Math.max(1, Math.min(Number(source.maxPages || 300), 500));
         const totalPages = Math.max(1, Math.min(first.totalPage || 1, maxPages));
+        portalTruncated = (first.totalPage || 1) > maxPages;
         const pages = [first];
         if (totalPages > 1) {
           const indexes = Array.from({ length: totalPages - 1 }, (_, i) => i + 2);
@@ -392,8 +396,30 @@ export async function searchHotjobJobs(profile, sources = [], { fetcher = fetch,
         error: String(error?.message || error)
       };
     }
+    totalDetailErrors += detailErrors;
+    if (portalTruncated) truncatedPortals++;
   }
 
   const kept = dedupeJobs(jobs);
-  return { jobs: kept, stats: { portals: sources.length, scannedPortals, listed, detailed, keptJobs: kept.length, errors, perPortal } };
+  // A HotJob portal that listed positions but produced no kept job means the
+  // detail/list parsing stage broke for this run — not that the portal is empty.
+  // Reporting that as a complete snapshot would let isSourceRefreshUnhealthy()
+  // treat the provider as healthy and prune its previously-known jobs.
+  const lostEverything = listed > 0 && kept.length === 0;
+  const snapshotComplete = errors === 0 && !lostEverything && truncatedPortals === 0;
+  return {
+    jobs: kept,
+    stats: {
+      portals: sources.length,
+      scannedPortals,
+      listed,
+      detailed,
+      keptJobs: kept.length,
+      errors,
+      detailErrors: totalDetailErrors,
+      truncatedPortals,
+      snapshotComplete,
+      perPortal
+    }
+  };
 }

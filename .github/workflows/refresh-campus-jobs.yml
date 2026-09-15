@@ -16,16 +16,26 @@ on:
       - 'scripts/filter-official-live-jobs.mjs'
       - 'scripts/enrich-job-compensation.mjs'
       - 'scripts/check-compensation.mjs'
-      - 'src/core/compensation.js'
-      - 'src/core/headcount.js'
+      - 'src/core/**'
       - 'config/search-profile.json'
       - 'config/official-sources.json'
       - 'config/university-sources.json'
       - 'config/source-discovery.json'
       - 'config/company-requests.json'
+      # The registry/requests/discovery modules are rebuilt and committed by this
+      # job, so their generators and inputs must trigger it too — otherwise a
+      # change to a generator leaves the committed module stale until the next cron.
+      - 'scripts/build-source-registry.mjs'
+      - 'scripts/build-company-requests.mjs'
+      - 'scripts/build-source-discovery.mjs'
+      - 'scripts/process-company-intake.mjs'
+      - 'src/data/company-registry.js'
+      - 'src/data/company-source-seeds.js'
       - 'scripts/enrich-jd-evidence.mjs'
+      - 'scripts/report-jd-evidence-coverage.mjs'
       - 'src/data/jd-evidence-cache.json'
       - 'package.json'
+      - 'package-lock.json'
 
 concurrency:
   group: refresh-campus-jobs-main-v2
@@ -87,7 +97,11 @@ jobs:
         shell: bash
         run: |
           TRACKED_PATHS="src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js src/data/company-requests.js src/data/source-discovery.js src/data/jd-evidence-cache.json config/official-sources.json config/source-discovery.json config/company-requests.json package-lock.json"
-          if git diff --quiet -- $TRACKED_PATHS; then
+          # The refresh always rewrites discoveryMeta.updatedAt, so a raw diff can
+          # never be empty and this guard used to be unreachable. Compare the data
+          # instead: strip diff headers and the timestamp line.
+          DATA_DIFF="$(git diff -U0 -- $TRACKED_PATHS | grep '^[+-]' | grep -v '^[+-][+-][+-]' | grep -v '"updatedAt"')"
+          if [ -z "$DATA_DIFF" ]; then
             echo "No job/source-health/source-bridge data changes."
             exit 0
           fi
@@ -103,7 +117,24 @@ jobs:
             echo "main advanced while refresh was running:"
             echo "$changed_paths"
 
-            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|scripts/enrich-jd-evidence\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js|src/data/jd-evidence-cache\.json)$'; then
+            # Anything this job reads or writes must come from the newer main, or
+            # this run would rebase its own (older) rebuild of the same file on top
+            # of it. Kept in one list with TRACKED_PATHS above; the previous
+            # hand-written regex silently omitted four of them.
+            REFRESH_INPUTS=".github/workflows/refresh-campus-jobs.yml scripts/job-discovery scripts/refresh-jobs.mjs scripts/refresh-jobs-scoped.mjs scripts/filter-official-live-jobs.mjs scripts/enrich-job-compensation.mjs scripts/check-compensation.mjs scripts/enrich-jd-evidence.mjs scripts/report-jd-evidence-coverage.mjs scripts/build-source-registry.mjs scripts/build-company-requests.mjs scripts/build-source-discovery.mjs src/core src/data/company-registry.js src/data/company-source-seeds.js config/search-profile.json config/official-sources.json config/university-sources.json config/source-discovery.json config/company-requests.json package.json package-lock.json src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js src/data/company-requests.js src/data/source-discovery.js src/data/jd-evidence-cache.json"
+
+            stale=0
+            while IFS= read -r changed; do
+              [ -z "$changed" ] && continue
+              for input in $REFRESH_INPUTS; do
+                case "$changed" in
+                  "$input"|"$input"/*) stale=1; break ;;
+                esac
+              done
+              [ "$stale" = 1 ] && break
+            done <<< "$changed_paths"
+
+            if [ "$stale" = 1 ]; then
               echo "Refresh inputs or generated data changed on newer main; skip stale data push."
               echo "A newer refresh run should own the next snapshot."
               exit 0

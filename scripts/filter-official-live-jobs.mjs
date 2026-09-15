@@ -2,6 +2,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
+import { appendMetaNote } from './job-discovery/meta-note.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const livePath = path.join(root, 'src/data/live-jobs.js');
@@ -51,7 +52,10 @@ async function main() {
         excludedOtherSecondary: excluded
       }
     },
-    note: `${existingMeta.note || ''} 生产池默认 official；仅对“高校就业网官方发布 + 明确2027届 + 明确公司官方招聘入口”的记录开放受控过渡，保留 secondary 身份和待官网细化标记，不冒充公司官方岗位。`.trim()
+    note: appendMetaNote(
+      existingMeta.note,
+      '生产池默认 official；仅对“高校就业网官方发布 + 明确2027届 + 明确公司官方招聘入口”的记录开放受控过渡，保留 secondary 身份和待官网细化标记，不冒充公司官方岗位。'
+    )
   };
 
   await fs.writeFile(livePath, asModule(kept, meta), 'utf8');

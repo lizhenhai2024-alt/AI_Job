@@ -66,6 +66,29 @@ test('detail and list pages from the same university are not treated as cross-so
   assert.equal(result.verificationLabel, '待官网复核');
 });
 
+test('university notice carrying an explicit company career entry counts as cross-source', () => {
+  const result = provenanceSummary({
+    source: '湖南大学就业信息网官方招聘简章',
+    sourceType: 'secondary',
+    sourceChannel: 'university',
+    sourceUrl: 'https://scc.hnu.edu.cn/detail/news?id=1',
+    officialCareerUrl: 'https://talent.catl.com/campus',
+    verification: '高校就业信息网官方发布 · 已发现公司官方招聘入口 · 待官网岗位细化'
+  });
+  assert.equal(result.crossVerified, true);
+  assert.equal(result.verificationLabel, '多源交叉核实');
+});
+
+test('crossSourceCount from the shared dedupe is honoured over host counting', () => {
+  const result = provenanceSummary({
+    source: '某公司官方校招官网',
+    sourceType: 'official',
+    sourceUrl: 'https://jobs.example.com/campus/1',
+    crossSourceCount: 2
+  });
+  assert.equal(result.crossVerified, true);
+});
+
 test('intelligence completeness counts evidence fields, not candidate match', () => {
   const result = intelligenceCompleteness({ company:'A', title:'海外运营', city:'深圳', graduationYear:'2027', sourceUrl:'https://x', deadline:'2026-10-01', description:'JD' });
   assert.deepEqual(result, { filled: 7, total: 7, missing: [] });

@@ -12,7 +12,14 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          # Match the runtime the daily refresh job uses, so a green check here
+          # means the same runtime the write path runs on.
+          node-version: 24
+      # The suite currently passes without installing dependencies only because
+      # nothing imported from node_modules is loaded statically (playwright is
+      # always a dynamic import). Install for real so the lockfile is honoured and
+      # a future static import cannot silently fail here instead of in the refresh.
+      - run: npm ci --no-audit --no-fund
       - name: Rebuild generated source modules for validation
         run: |
           npm run build:source-registry

@@ -54,7 +54,10 @@ export function sourceEvidence(job = {}) {
 }
 
 function sourceHosts(job = {}) {
-  const urls = [job.sourceUrl];
+  // officialCareerUrl is a genuinely distinct origin: the company's own career
+  // entry found on a university notice page. Without it the university->official
+  // bridge produces evidence that never registers as cross-source.
+  const urls = [job.sourceUrl, job.officialCareerUrl];
   for (const item of job.sourceEvidence || []) {
     if (typeof item === 'string' && /^https?:\/\//i.test(item)) urls.push(item);
     else if (item && typeof item === 'object') urls.push(item.url || item.sourceUrl || '');

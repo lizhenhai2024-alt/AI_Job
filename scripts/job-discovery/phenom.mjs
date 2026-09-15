@@ -154,13 +154,17 @@ export async function searchPhenomJobs(profile, source, { fetcher = fetch, maxJo
             ? includeTitle.some((token) => job.title.includes(token) || String(job._searchText || '').includes(token))
             : true;
           if (!titleHit) continue;
-          const campusFriendly = /品牌|Brand|市场|Marketing|增长|HR|人力|供应链|传播|公关|CBD|Campus/i.test(job.title);
-          if (shouldKeep(job, profile, now) || campusFriendly) jobs.push(job);
+          // shouldKeep() is the shared discovery gate (cohort + closed + internship).
+          // A title-keyword bypass here re-admitted anything named 市场/HR/供应链,
+          // internships included, into the pool as sourceType 'official'.
+          if (shouldKeep(job, profile, now)) jobs.push(job);
         } catch { errors++; }
         if (seen.size >= jobLimit) break;
       }
-      const totalHits = Number(data.totalHits || 0);
-      if (!list.length || seen.size >= totalHits) { snapshotComplete = true; break; }
+      // A missing totalHits must not read as "all rows already seen" (seen.size >= 0).
+      const totalHits = Number(data.totalHits ?? 0);
+      if (!list.length) { snapshotComplete = true; break; }
+      if (totalHits > 0 && seen.size >= totalHits) { snapshotComplete = true; break; }
     }
   } catch { errors++; }
 

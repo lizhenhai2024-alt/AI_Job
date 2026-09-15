@@ -1,4 +1,5 @@
 import crypto from 'node:crypto';
+import { withTimeout } from './http.mjs';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, extractSalary } from './core.mjs';
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','GTM','洞察','招聘'];
@@ -137,6 +138,7 @@ async function fetchPage(fetcher, source, auth, offset, limit) {
 }
 
 export async function searchEcoflowJobs(profile, source, { fetcher = fetch, maxJobs, pageSize, maxPages, now = new Date() } = {}) {
+  fetcher = withTimeout(fetcher);
   if (!source?.url || !source?.websitePath) return { jobs: [], stats: { pages: 0, listed: 0, keptJobs: 0, errors: 1, snapshotComplete: false, emptyResult: true } };
   const size = Math.max(1, Math.min(Number(pageSize || source.pageSize || 10), 10));
   const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 60), 100));
@@ -159,9 +161,11 @@ export async function searchEcoflowJobs(profile, source, { fetcher = fetch, maxJ
         if (shouldKeep(job, profile, now)) jobs.push(job);
         if (seen.size >= jobLimit) break;
       }
+      // An empty page is the unambiguous end-of-data signal; check it before the
+      // short-page rule so the offset is only advanced on a real page.
+      if (!rows.length) { snapshotComplete = true; break; }
       if (rows.length < size) { snapshotComplete = true; break; }
       offset += rows.length;
-      if (!rows.length) { snapshotComplete = true; break; }
     }
   } catch { errors++; }
 

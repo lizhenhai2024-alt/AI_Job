@@ -7,6 +7,7 @@ import { dedupePreferOfficial, dedupeById } from './dedupe.mjs';
 import { relevanceScore, isClosed } from './core.mjs';
 import { isLikelyOfficialCareerUrl } from './source-candidates.mjs';
 import { enrichProvenanceFields } from '../../src/core/source-provenance.js';
+import { appendMetaNote } from './meta-note.mjs';
 import { curateDiscoveredJobs } from './granularity.mjs';
 import { evaluateSourceHealth } from './source-health.mjs';
 import { resolveJdEvidence } from './policy.mjs';
@@ -135,7 +136,10 @@ const meta = {
     totalJobs: merged.length,
     companies: companies.size
   },
-  note: `${existingMeta.note || ''} 高校渠道覆盖策略：985/211/双一流及外语外贸特色高校；高校就业网作为发现与交叉取证来源；若详情页明确给出公司官方招聘入口，则进入自动官方源适配队列。`.trim()
+  note: appendMetaNote(
+    existingMeta.note,
+    '高校渠道覆盖策略：985/211/双一流及外语外贸特色高校；高校就业网作为发现与交叉取证来源；若详情页明确给出公司官方招聘入口，则进入自动官方源适配队列。'
+  )
 };
 
 await fs.writeFile(livePath, asModule(finalJobs, meta), 'utf8');

@@ -5,6 +5,7 @@ import { spawn } from 'node:child_process';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { companyRegistry } from '../src/data/company-registry.js';
 import { augmentSearchProfile } from './job-discovery/company-scope.mjs';
+import { evaluateJobIntelligence, jobIntelligenceSummary } from './check-compensation.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const profilePath = path.join(root, 'config/search-profile.json');
@@ -77,24 +78,18 @@ try {
   if (exitCode === 0) {
     const livePath = path.join(root, 'src/data/live-jobs.js');
     const liveModule = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
-    const stats = liveModule.discoveryMeta?.stats?.compensation;
-    const headcountStats = liveModule.discoveryMeta?.stats?.headcount;
-    const publicationStats = liveModule.discoveryMeta?.stats?.publication;
     const invalidSourceJobs = (liveModule.liveJobs || []).filter((job) => job?.sourceType !== 'official' && !trustedUniversityOfficialBacked(job));
-    if (!stats || typeof stats.disclosed !== 'number' || stats.disclosed < 1) {
-      console.error(`[compensation-check] FAIL: stats.compensation missing or disclosed<1 (got ${JSON.stringify(stats)})`);
-      exitCode = 1;
-    } else if (!headcountStats || typeof headcountStats.disclosed !== 'number' || !publicationStats || typeof publicationStats.known !== 'number') {
-      console.error(`[job-intelligence-check] FAIL: headcount/publication stats missing (headcount=${JSON.stringify(headcountStats)} publication=${JSON.stringify(publicationStats)})`);
+    // Same evaluator the standalone `npm run` gate uses, so the two cannot drift.
+    const gate = evaluateJobIntelligence(liveModule.discoveryMeta);
+    if (gate.failures.length) {
+      for (const failure of gate.failures) console.error(failure);
       exitCode = 1;
     } else if (invalidSourceJobs.length) {
       console.error(`[source-policy-check] FAIL: production liveJobs contains ${invalidSourceJobs.length} untrusted non-official records`);
       exitCode = 1;
     } else {
       const bridgeCount = (liveModule.liveJobs || []).filter(trustedUniversityOfficialBacked).length;
-      console.log(`[compensation-check] OK disclosed=${stats.disclosed}/${stats.totalJobs} official=${stats.officialDisclosed}`);
-      console.log(`[headcount-check] OK disclosed=${headcountStats.disclosed}/${headcountStats.totalJobs} job=${headcountStats.jobLevel} program=${headcountStats.programLevel}`);
-      console.log(`[publication-check] OK known=${publicationStats.known}/${publicationStats.totalJobs}`);
+      for (const line of jobIntelligenceSummary(gate)) console.log(line);
       console.log(`[source-policy-check] OK official-preferred jobs=${liveModule.liveJobs.length} trustedUniversityOfficialBacked=${bridgeCount}`);
     }
   }

@@ -158,9 +158,13 @@ for (const row of report) {
   row.kept = pipelineKept.filter((j) => j.company === row.company).length;
 }
 
-// --- Merge into existing pool: drop the 5 target companies' old rows ---
+// --- Merge into existing pool: drop the target companies' old rows ---
 const { liveJobs: existing, meta: existingMeta } = await loadExisting();
-const untouched = existing.filter((j) => !TARGET_NAMES.includes(j.company));
+// A failed scrape means "we do not know this company's current state", not "this
+// company has no jobs". Dropping its rows here silently deleted them from the
+// production pool, and the script still exited 0. Only replace what we re-read.
+const rescraped = new Set(report.filter((r) => r.status !== 'failed').map((r) => r.company));
+const untouched = existing.filter((j) => !rescraped.has(j.company));
 console.log(`[scrape-targeted] existing=${existing.length} untouched=${untouched.length} fresh=${pipelineKept.length}`);
 
 const combined = [...untouched, ...pipelineKept];
@@ -197,5 +201,12 @@ await fs.writeFile(livePath, asModule(finalJobs.map(cleanForStorage), meta), 'ut
 console.log('\n[scrape-targeted] SUMMARY');
 for (const row of report) {
   console.log(`  - ${row.company} (${row.provider}): status=${row.status} raw=${row.raw} kept=${row.kept}${row.error ? ' error=' + row.error : ''}`);
+}
+
+// Report failure through the exit code; the summary above is easy to miss in CI logs.
+const failed = report.filter((row) => row.status === 'failed');
+if (failed.length) {
+  console.error(`[scrape-targeted] ${failed.length}/${report.length} target(s) failed: ${failed.map((row) => row.company).join(', ')}; their existing rows were left untouched.`);
+  process.exitCode = 1;
 }
 console.log(`[scrape-targeted] DONE jobs=${finalJobs.length} companies=${meta.totalCompanies} -> ${path.relative(root, livePath)}`);

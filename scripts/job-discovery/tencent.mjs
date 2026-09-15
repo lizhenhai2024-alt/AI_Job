@@ -137,8 +137,10 @@ export async function searchTencentJobs(profile, source, { fetcher = fetch, maxJ
           if (shouldKeep(job, profile, now)) jobs.push(job);
         } catch { errors++; }
       }
-      const total = Number(data.count || 0);
-      if (rows.length < size || seen.size >= total) { snapshotComplete = true; break; }
+      // A missing count must not read as "all rows already seen" (seen.size >= 0).
+      const total = Number(data.count ?? 0);
+      if (rows.length < size) { snapshotComplete = true; break; }
+      if (total > 0 && seen.size >= total) { snapshotComplete = true; break; }
     }
   } catch { errors++; }
 

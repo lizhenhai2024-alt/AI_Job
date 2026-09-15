@@ -133,8 +133,12 @@ export async function searchMeituanJobs(profile, source, { fetcher = fetch, maxJ
         } catch { errors++; }
         if (seen.size >= jobLimit) break;
       }
-      const totalPage = Number(data?.page?.totalPage || 0);
-      if (!list.length || pageNo >= totalPage) { snapshotComplete = true; break; }
+      // `|| 0` would turn a dropped/renamed total into "there are zero pages",
+      // which reads as a complete snapshot after page 1. Only trust the total
+      // when the API actually reported one; an empty page still ends the walk.
+      const totalPage = Number(data?.page?.totalPage ?? 0);
+      if (!list.length) { snapshotComplete = true; break; }
+      if (totalPage > 0 && pageNo >= totalPage) { snapshotComplete = true; break; }
     }
   } catch { errors++; }
 

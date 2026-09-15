@@ -6,6 +6,7 @@ import { companyRegistry, isValidCompanyRecord } from '../src/data/company-regis
 import { sourceRegistry } from '../src/data/source-registry.js';
 import { companyRequests } from '../src/data/company-requests.js';
 import { sourceDiscovery } from '../src/data/source-discovery.js';
+import { isTrustedUniversityOfficialBacked } from './filter-official-live-jobs.mjs';
 
 const root = path.resolve(process.cwd());
 const required = [
@@ -66,6 +67,44 @@ if (numericBeisenDetail.length) {
       .map((b) => `${b.company} ${b.url}`)
       .join(' | ')}`
   );
+}
+
+// discoveryMeta must describe the array it ships with. A manual data fix or a
+// writer that forgets to recompute its counts once shipped a pool whose metadata
+// claimed 1811 jobs with 1801 official rows while the array held 1443/1433 —
+// nothing validated it, because these numbers were only ever printed.
+const { discoveryMeta } = await import('../src/data/live-jobs.js');
+const liveCompanies = new Set(liveJobs.map((job) => job.company).filter(Boolean));
+const metaMismatches = [];
+const expectEqual = (label, actual, expected) => {
+  if (actual !== expected) metaMismatches.push(`${label}: ${JSON.stringify(actual)} (expected ${expected})`);
+};
+expectEqual('discoveryMeta.totalJobs', discoveryMeta.totalJobs, liveJobs.length);
+expectEqual('discoveryMeta.totalCompanies', discoveryMeta.totalCompanies, liveCompanies.size);
+expectEqual('discoveryMeta.stats.totalJobs', discoveryMeta.stats?.totalJobs, liveJobs.length);
+expectEqual('discoveryMeta.stats.companies', discoveryMeta.stats?.companies, liveCompanies.size);
+expectEqual('discoveryMeta.stats.compensation.totalJobs', discoveryMeta.stats?.compensation?.totalJobs, liveJobs.length);
+expectEqual('discoveryMeta.stats.languages.totalJobs', discoveryMeta.stats?.languages?.totalJobs, liveJobs.length);
+expectEqual('discoveryMeta.stats.headcount.totalJobs', discoveryMeta.stats?.headcount?.totalJobs, liveJobs.length);
+expectEqual('discoveryMeta.stats.publication.totalJobs', discoveryMeta.stats?.publication?.totalJobs, liveJobs.length);
+expectEqual(
+  'discoveryMeta.stats.sourcePolicy.official',
+  discoveryMeta.stats?.sourcePolicy?.official,
+  liveJobs.filter((job) => job.sourceType === 'official').length
+);
+expectEqual(
+  'discoveryMeta.stats.sourcePolicy.universityOfficialBacked',
+  discoveryMeta.stats?.sourcePolicy?.universityOfficialBacked,
+  liveJobs.filter(isTrustedUniversityOfficialBacked).length
+);
+const updatedAtMs = Date.parse(String(discoveryMeta.updatedAt || ''));
+if (!Number.isFinite(updatedAtMs)) {
+  metaMismatches.push(`discoveryMeta.updatedAt: ${JSON.stringify(discoveryMeta.updatedAt)} (not a parseable timestamp)`);
+} else if (updatedAtMs > Date.now() + 5 * 60 * 1000) {
+  metaMismatches.push(`discoveryMeta.updatedAt is in the future: ${discoveryMeta.updatedAt}`);
+}
+if (metaMismatches.length) {
+  throw new Error(`live-jobs.js metadata does not match its own job array: ${metaMismatches.join('; ')}`);
 }
 
 const config = JSON.parse(fs.readFileSync(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -155,7 +194,10 @@ if (!oppo || oppo.company !== 'OPPO' || !/^https:\/\/careers\.oppo\.com\/univers
   throw new Error('official OPPO campus source registry validation failed');
 }
 
-const flattenedSources = Object.entries(sources).flatMap(([provider, value]) => (Array.isArray(value) ? value : value ? [value] : []).map((item) => ({ provider, company: item.company })));
+// Mirror build-source-registry.mjs exactly, including its `entry?.company` guard:
+// without it an entry lacking `company` makes this comparison disagree with a
+// fresh rebuild, and the error sends you to a command that cannot fix it.
+const flattenedSources = Object.entries(sources).flatMap(([provider, value]) => (Array.isArray(value) ? value : value ? [value] : []).filter((item) => item?.company).map((item) => ({ provider, company: item.company })));
 if (JSON.stringify(flattenedSources) !== JSON.stringify(sourceRegistry)) {
   throw new Error('source-registry.js is stale; run npm run build:source-registry');
 }

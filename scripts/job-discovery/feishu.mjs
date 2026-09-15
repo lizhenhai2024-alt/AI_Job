@@ -1,4 +1,5 @@
 import crypto from 'node:crypto';
+import { withTimeout } from './http.mjs';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, is2027, extractSalary } from './core.mjs';
 
 const EXPERIENCE_WORDS = ['海外','运营','内容','项目','市场','电商','用户','数据','跨文化','营销','品牌','供应链','客户','GTM','洞察','招聘','商务','物流'];
@@ -250,6 +251,7 @@ async function searchOne(profile, source, { fetcher = fetch, now = new Date() } 
 }
 
 export async function searchFeishuJobs(profile, sources = [], options = {}) {
+  options = { ...options, fetcher: withTimeout(options.fetcher ?? fetch) };
   const jobs = [];
   const perPortal = {};
   let scannedPortals = 0, listed = 0, errors = 0, cohortMatched = 0;

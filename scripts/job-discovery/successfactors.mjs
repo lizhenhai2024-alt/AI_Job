@@ -1,4 +1,5 @@
 import crypto from 'node:crypto';
+import { withTimeout } from './http.mjs';
 import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_NAMES, htmlToText, decodeHtml } from './core.mjs';
 
 const LANGUAGE_RULES = [
@@ -108,6 +109,7 @@ function emptyResult(errors = 1) {
 }
 
 export async function searchSuccessFactorsJobs(profile, source, { fetcher = fetch, maxJobs, maxPages, now = new Date() } = {}) {
+  fetcher = withTimeout(fetcher);
   if (!source?.url) return emptyResult();
   const jobLimit = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 200), 500));
   const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 5), 10));
@@ -121,17 +123,13 @@ export async function searchSuccessFactorsJobs(profile, source, { fetcher = fetc
     for (let pageNo = 1; pageNo <= pageLimit && seen.size < jobLimit; pageNo++) {
       // SF career sites: try the search results page
       const url = `${baseUrl}/?locale=zh_CN&page=${pageNo}`;
-      const controller = new AbortController();
-      const timer = setTimeout(() => controller.abort(), 20000);
       const response = await fetcher(url, {
         headers: {
           'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
           'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
           'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
         },
-        signal: controller.signal
-      });
-      clearTimeout(timer);
+      });
       if (!response.ok) throw new Error(`SF HTTP ${response.status}`);
       const html = await response.text();
       pages++;

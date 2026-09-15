@@ -40,9 +40,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add config/company-requests.json src/data/company-requests.js config/official-sources.json src/data/source-registry.js
-          git commit -m "data: process company intake - ${{ steps.intake.outputs.company }}"
+          git commit -m "data: process company intake - $COMPANY_NAME"
           git pull --rebase origin main
           git push origin HEAD:main
+        env:
+          # Never interpolate ${{ ... }} directly into a run: block. This value
+          # comes from the issue body, and the job gate (`if:`) checks the issue
+          # AUTHOR, while `on: issues: [opened, edited, reopened]` re-runs the job
+          # when any user with write access edits a body the owner authored. A
+          # spliced value would be re-parsed by the shell, so `"`, `$( )`, `;` and
+          # backticks in the issue body would execute on the runner. Through an env
+          # var the expansion is passed as data and never re-parsed.
+          COMPANY_NAME: ${{ steps.intake.outputs.company }}
       - name: Dispatch job refresh for managed source
         if: steps.intake.outputs.source_registered == 'true' || steps.intake.outputs.source_exists == 'true'
         env:
