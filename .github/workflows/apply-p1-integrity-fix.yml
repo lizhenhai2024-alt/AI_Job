@@ -1,0 +1,50 @@
+name: Apply P1 data integrity fix
+
+on:
+  push:
+    branches:
+      - fix/data-integrity-p1-20260916
+    paths:
+      - '.github/workflows/apply-p1-integrity-fix.yml'
+      - 'scripts/apply-p1-integrity-fix.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apply-p1-integrity-fix
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/data-integrity-p1-20260916
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Apply source patches and migrate canonical keys
+        run: |
+          python3 scripts/apply-p1-integrity-fix.py
+          node scripts/migrate-source-discovery-keys.mjs
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+      - name: Rebuild generated discovery module
+        run: npm run build:source-discovery
+      - name: Validate repository
+        run: npm run check
+      - name: Commit validated P1 fix and remove migration helpers
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/core/company-normalization.js src/core/company-intake.js src/core/company-risk.js src/data/company-registry.js src/app.js scripts/check.mjs scripts/job-discovery/source-candidates.mjs scripts/job-discovery/dedupe.mjs scripts/job-discovery/snapshot-retention.mjs scripts/job-discovery/source-health.mjs scripts/job-discovery/granularity.mjs tests/company-normalization.test.js tests/dedupe-identity.test.js tests/snapshot-retention.test.js tests/source-health-integrity.test.js tests/granularity.test.js config/source-discovery.json src/data/source-discovery.js
+          git rm -f scripts/apply-p1-integrity-fix.py scripts/migrate-source-discovery-keys.mjs .github/workflows/apply-p1-integrity-fix.yml
+          git commit -m "fix(data): harden identity dedupe canonicalization and stale retention"
+          git push origin HEAD:fix/data-integrity-p1-20260916
