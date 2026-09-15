@@ -1874,7 +1874,7 @@ export const companyRequests = [
   {
     "id": "intake-b3b3a6ac74ec",
     "name": "Amazon",
-    "careerUrl": "https://www.amazon.jobs/content/zh/career-programs/university?country[]=CN",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -1882,10 +1882,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：中国区大学人才招聘页；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：中国区大学人才招聘页；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "中国区大学人才招聘页；"
@@ -1893,7 +1893,7 @@ export const companyRequests = [
   {
     "id": "intake-3dfc6f7e134c",
     "name": "Lazada(来赞达)",
-    "careerUrl": "https://aidc-jobs.alibaba.com/campus/home?lang=zh",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -1901,10 +1901,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：已并入阿里国际校招，原独立域名停用；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：已并入阿里国际校招，原独立域名停用；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "已并入阿里国际校招，原独立域名停用；"
@@ -1931,7 +1931,7 @@ export const companyRequests = [
   {
     "id": "intake-ff8a7624b1c8",
     "name": "Shopee",
-    "careerUrl": "https://careers.shopee.cn/join-us",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -1939,10 +1939,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届校招已开放（投递 https://app.mokahr.com/su/nykvgs）；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届校招已开放（投递 https://app.mokahr.com/su/nykvgs）；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届校招已开放（投递 https://app.mokahr.com/su/nykvgs）；"
@@ -1969,7 +1969,7 @@ export const companyRequests = [
   {
     "id": "intake-d7a9a3e2a989",
     "name": "TikTok",
-    "careerUrl": "https://jobs.bytedance.com/campus",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -1977,10 +1977,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：字节跳动2027校招已开放（已核验）",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：字节跳动2027校招已开放（已核验）；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "字节跳动2027校招已开放（已核验）"
@@ -2007,7 +2007,7 @@ export const companyRequests = [
   {
     "id": "intake-882cb5624e7a",
     "name": "阿里巴巴(Alibaba)",
-    "careerUrl": "https://campus-talent.alibaba.com/?lang=zh",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2015,10 +2015,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招已启动，可投多业务集团；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招已启动，可投多业务集团；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届秋招已启动，可投多业务集团；"
@@ -2026,7 +2026,7 @@ export const companyRequests = [
   {
     "id": "intake-c0f16bc978b6",
     "name": "爱奇艺(iQIYI)",
-    "careerUrl": "https://careers.iqiyi.com/campus/",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2034,10 +2034,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：当前以日常实习岗为主，27届正式批待官网刷新；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：当前以日常实习岗为主，27届正式批待官网刷新；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "当前以日常实习岗为主，27届正式批待官网刷新；"
@@ -2121,7 +2121,7 @@ export const companyRequests = [
   {
     "id": "intake-d41b43c08fc0",
     "name": "美团(Meituan)",
-    "careerUrl": "https://campus.meituan.com/",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2129,10 +2129,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招8/17网申开启、10/31截止；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招8/17网申开启、10/31截止；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届秋招8/17网申开启、10/31截止；"
@@ -2140,7 +2140,7 @@ export const companyRequests = [
   {
     "id": "intake-06e1dc44445d",
     "name": "拼多多(Pinduoduo)",
-    "careerUrl": "https://careers.pddglobalhr.com/campus",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2148,10 +2148,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届校招/云弧计划进行中；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届校招/云弧计划进行中；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届校招/云弧计划进行中；"
@@ -2159,7 +2159,7 @@ export const companyRequests = [
   {
     "id": "intake-bc73cbb19713",
     "name": "腾讯(Tencent)",
-    "careerUrl": "https://join.qq.com/",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2167,10 +2167,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校园招聘8/11启动（已核验）；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校园招聘8/11启动（已核验）；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027校园招聘8/11启动（已核验）；"
@@ -2178,7 +2178,7 @@ export const companyRequests = [
   {
     "id": "intake-ae26bb04cc2d",
     "name": "小红书",
-    "careerUrl": "https://job.xiaohongshu.com/campus",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2186,10 +2186,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招9月初全球启动，base含新加坡；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招9月初全球启动，base含新加坡；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027校招9月初全球启动，base含新加坡；"
@@ -2235,7 +2235,7 @@ export const companyRequests = [
   {
     "id": "intake-dc74dc547203",
     "name": "字节跳动(ByteDance)",
-    "careerUrl": "https://jobs.bytedance.com/campus",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2243,10 +2243,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招8月启动（已核验）；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招8月启动（已核验）；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027校招8月启动（已核验）；"
@@ -2254,7 +2254,7 @@ export const companyRequests = [
   {
     "id": "intake-8ef5925bc12c",
     "name": "Bilibili(哔哩哔哩)",
-    "careerUrl": "https://jobs.bilibili.com/campus",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2262,10 +2262,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招8/3启动，base含上海/北京/深圳/新加坡；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招8/3启动，base含上海/北京/深圳/新加坡；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届秋招8/3启动，base含上海/北京/深圳/新加坡；"
@@ -2501,7 +2501,7 @@ export const companyRequests = [
   {
     "id": "intake-57de730151a9",
     "name": "联合利华(Unilever)",
-    "careerUrl": "https://careers.unilever.com/en/china",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2509,10 +2509,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027 UFLP管培生已启动（已核验，仅全球/英文入口）；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027 UFLP管培生已启动（已核验，仅全球/英文入口）；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027 UFLP管培生已启动（已核验，仅全球/英文入口）；"
@@ -2558,7 +2558,7 @@ export const companyRequests = [
   {
     "id": "intake-5b63c3220617",
     "name": "名创优品",
-    "careerUrl": "https://miniso.zhiye.com/campus",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2566,10 +2566,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027黑马工程管培生进行中（全球化/IP运营方向，英语+小语种优先）；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027黑马工程管培生进行中（全球化/IP运营方向，英语+小语种优先）；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "beisen",
     "sourceRegistered": false,
     "analysis": "2027黑马工程管培生进行中（全球化/IP运营方向，英语+小语种优先）；"
@@ -2577,7 +2577,7 @@ export const companyRequests = [
   {
     "id": "intake-cc8b03efbda6",
     "name": "欧莱雅(L'Oréal)",
-    "careerUrl": "https://careers.loreal.com/zh_CN/content/China",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2585,10 +2585,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027 SeedZ管培生已启动；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027 SeedZ管培生已启动；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027 SeedZ管培生已启动；"
@@ -2672,7 +2672,7 @@ export const companyRequests = [
   {
     "id": "intake-872e4439d768",
     "name": "致欧家居",
-    "careerUrl": "https://songmicshome.jobs.feishu.cn/",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2680,10 +2680,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招8/14–10/14，跨境电商/英语/CET6要求；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招8/14–10/14，跨境电商/英语/CET6要求；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "feishu",
     "sourceRegistered": false,
     "analysis": "2027校招8/14–10/14，跨境电商/英语/CET6要求；"
@@ -2957,7 +2957,7 @@ export const companyRequests = [
   {
     "id": "intake-b8a16fbe953d",
     "name": "福耀玻璃",
-    "careerUrl": "http://job.fuyaogroup.com",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -2965,10 +2965,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招8/26-10/26，CET4以上；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招8/26-10/26，CET4以上；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届秋招8/26-10/26，CET4以上；"
@@ -3299,7 +3299,7 @@ export const companyRequests = [
   {
     "id": "intake-0e7b858b39eb",
     "name": "博世(Bosch)",
-    "careerUrl": "https://www.bosch.com.cn/careers/",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -3307,10 +3307,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届博世中国校园招聘已上线（已核验）；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届博世中国校园招聘已上线（已核验）；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届博世中国校园招聘已上线（已核验）；"
@@ -3413,7 +3413,7 @@ export const companyRequests = [
   {
     "id": "intake-59b0242901e3",
     "name": "三一集团",
-    "careerUrl": "https://sany.zhiye.com/campus/jobs",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -3421,10 +3421,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招全球启动，88个职位（已核验）；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招全球启动，88个职位（已核验）；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "beisen",
     "sourceRegistered": false,
     "analysis": "2027校招全球启动，88个职位（已核验）；"
@@ -3432,7 +3432,7 @@ export const companyRequests = [
   {
     "id": "intake-86fe9b00db43",
     "name": "施耐德(Schneider)",
-    "careerUrl": "http://www.schneidercampus.com/",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -3440,10 +3440,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：首页banner仍停留在2026春招，2027秋招主视觉未刷新（已核验；全球 careers.se.com 兜底）；",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：首页banner仍停留在2026春招，2027秋招主视觉未刷新（已核验；全球 careers.se.com 兜底）；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "首页banner仍停留在2026春招，2027秋招主视觉未刷新（已核验；全球 careers.se.com 兜底）；"
@@ -3527,7 +3527,7 @@ export const companyRequests = [
   {
     "id": "intake-feb9076bd16c",
     "name": "雀巢中国",
-    "careerUrl": "https://app.mokahr.com/campus-recruitment/nestlegcr",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -3535,10 +3535,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校园招聘已启动，截止11/30（介绍站 https://www.nestlecareers.cn/）",
+    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校园招聘已启动，截止11/30（介绍站 https://www.nestlecareers.cn/）；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "moka",
     "sourceRegistered": false,
     "analysis": "2027校园招聘已启动，截止11/30（介绍站 https://www.nestlecareers.cn/）"
@@ -4154,7 +4154,7 @@ export const companyRequests = [
   {
     "id": "intake-4db6adde7999",
     "name": "Adidas",
-    "careerUrl": "https://careers.adidas-group.com/jobs?location=[{\"region\":\"Asia+Pacific\",\"country\":\"Greater+China\"}]",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -4162,10 +4162,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（观察池）：偏销售/GTM/用户运营/客户成功，按画像不占用主投配额；仅全球入口，无中国区独立校招站",
+    "note": "2026-09-15 全库校招网址核验补充（观察池）：偏销售/GTM/用户运营/客户成功，按画像不占用主投配额；仅全球入口，无中国区独立校招站；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "偏销售/GTM/用户运营/客户成功，按画像不占用主投配额；仅全球入口，无中国区独立校招站"
@@ -4173,7 +4173,7 @@ export const companyRequests = [
   {
     "id": "intake-c879b7b553a0",
     "name": "Zara(Inditex)",
-    "careerUrl": "https://wecruit.hotjob.cn/SU66e2aea81c240e0e35e0add0/mc/index",
+    "careerUrl": "",
     "focus": [
       "国际业务",
       "海外营销",
@@ -4181,10 +4181,10 @@ export const companyRequests = [
       "运营",
       "HR"
     ],
-    "note": "2026-09-15 全库校招网址核验补充（观察池）：偏销售/GTM/用户运营/客户成功，按画像不占用主投配额；2027届批次未明确挂出，入口待核验",
+    "note": "2026-09-15 全库校招网址核验补充（观察池）：偏销售/GTM/用户运营/客户成功，按画像不占用主投配额；2027届批次未明确挂出，入口待核验；官方入口由AI_Job已核验种子接管（URL以种子为准）",
     "requestedAt": "2026-09-15T08:00:00Z",
     "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
+    "status": "官方种子已核验，待探针适配",
     "provider": "hotjob",
     "sourceRegistered": false,
     "analysis": "偏销售/GTM/用户运营/客户成功，按画像不占用主投配额；2027届批次未明确挂出，入口待核验"
