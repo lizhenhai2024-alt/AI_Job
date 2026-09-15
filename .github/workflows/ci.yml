@@ -13,4 +13,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: npm run check
+      - name: Rebuild generated source modules for validation
+        run: |
+          npm run build:source-registry
+          npm run build:company-requests
+          npm run build:source-discovery
+      - name: Run checks
+        run: npm run check
