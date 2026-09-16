@@ -110,7 +110,7 @@ jobs:
             fi
           done
 
-          if git diff --quiet -- "${ACTIVE_PATHS[@]}"; then
+          if [ -z "$(git status --porcelain -- "${ACTIVE_PATHS[@]}")" ]; then
             echo "No job/source-health/query-layer data changes."
             exit 0
           fi
