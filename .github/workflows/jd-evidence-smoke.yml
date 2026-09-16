@@ -18,7 +18,9 @@ jobs:
       - name: Smoke test configured providers
         run: node scripts/smoke-jd-evidence-providers.mjs
         env:
+          # OpenCode Zen free 模型当前在 headless API 会要求 OpenCode session，
+          # 所以不进入默认 smoke/生产顺序；Secret 保留，未来官方开放后可再启用。
           OPENCODE_ZEN_API_KEY: ${{ secrets.OPENCODE_ZEN_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
-          JD_EVIDENCE_PROVIDER_ORDER: zen-free,gemini-free,deepseek
+          JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25,deepseek
