@@ -55,10 +55,10 @@ function normalizeLanguage(job, text) {
   const t = `${raw}\n${text}`;
   const english = /英语|英文|CET[- ]?[46]|TEM[- ]?[48]|IELTS|TOEFL/i.test(t);
   const minorLanguage = '(?:日语|韩语|德语|法语|西班牙语|葡萄牙语|俄语|阿拉伯语|意大利语|泰语|越南语|印尼语|马来语)';
-  const required = '(?:必须|必需|要求|熟练|流利|工作语言)';
-  const minorLanguageRequired = (new RegExp(`${minorLanguage}.{0,12}${required}`).test(t)
-    || new RegExp(`${required}.{0,12}${minorLanguage}`).test(t))
-    && !/(?:小语种|第二外语).{0,10}(?:优先|加分)/.test(t);
+  const hardRequirement = '(?:必须|必需|要求|需|熟练|流利|精通|工作语言)';
+  const preferredOnly = new RegExp(`${minorLanguage}.{0,12}(?:优先|加分|preferred)`, 'i');
+  const requiredPattern = new RegExp(`(?:${hardRequirement}.{0,12}${minorLanguage}|${minorLanguage}.{0,12}${hardRequirement})`);
+  const minorLanguageRequired = requiredPattern.test(t) && !preferredOnly.test(t);
   return { raw, english, minorLanguageRequired };
 }
 
