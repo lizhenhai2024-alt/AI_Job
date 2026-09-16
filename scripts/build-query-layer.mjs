@@ -16,6 +16,11 @@ export function slugifyCompany(value = '') {
     .replace(/^-+|-+$/g, '') || 'unknown';
 }
 
+export function isCategoryHeadingCompany(value = '') {
+  const text = String(value || '').normalize('NFKC').replace(/\s+/g, '').trim();
+  return /^\d+[.、．-]?(?:研发|制造|营销|职能|事业|服务|金融|技术|生产|销售|管理|水平事业)(?:类)?单位$/u.test(text);
+}
+
 function textOf(job) {
   return [job.title, job.description, job.requirements, job.major, job.education, job.degree,
     ...(Array.isArray(job.skills) ? job.skills : []), ...(Array.isArray(job.languages) ? job.languages : [])]
@@ -85,7 +90,7 @@ export function toQueryJob(job) {
 export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString(), outputRoot = outRoot } = {}) {
   const byCompany = new Map();
   for (const job of jobs || []) {
-    if (!job?.company || !job?.title) continue;
+    if (!job?.company || !job?.title || isCategoryHeadingCompany(job.company)) continue;
     const key = String(job.company).trim();
     if (!byCompany.has(key)) byCompany.set(key, []);
     byCompany.get(key).push(toQueryJob(job));
