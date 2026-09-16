@@ -6,6 +6,11 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const livePath = path.join(root, 'src/data/live-jobs.js');
 
+export function isCategoryHeadingCompany(value = '') {
+  const text = String(value || '').normalize('NFKC').replace(/\s+/g, '').trim();
+  return /^\d+[.、．-]?(?:研发|制造|营销|职能|事业|服务|金融|技术|生产|销售|管理|水平事业)(?:类)?单位$/u.test(text);
+}
+
 export function isTrustedUniversityOfficialBacked(job = {}) {
   return job?.sourceType === 'secondary'
     && job?.sourceChannel === 'university'
@@ -15,7 +20,10 @@ export function isTrustedUniversityOfficialBacked(job = {}) {
 }
 
 export function keepProductionJobs(jobs = []) {
-  return (jobs || []).filter((job) => job?.sourceType === 'official' || isTrustedUniversityOfficialBacked(job));
+  return (jobs || []).filter((job) => {
+    if (isCategoryHeadingCompany(job?.company)) return false;
+    return job?.sourceType === 'official' || isTrustedUniversityOfficialBacked(job);
+  });
 }
 
 export const keepOfficialJobs = keepProductionJobs;
@@ -51,7 +59,7 @@ async function main() {
         excludedOtherSecondary: excluded
       }
     },
-    note: `${existingMeta.note || ''} 生产池默认 official；仅对“高校就业网官方发布 + 明确2027届 + 明确公司官方招聘入口”的记录开放受控过渡，保留 secondary 身份和待官网细化标记，不冒充公司官方岗位。`.trim()
+    note: `${existingMeta.note || ''} 生产池默认 official；仅对“高校就业网官方发布 + 明确2027届 + 明确公司官方招聘入口”的记录开放受控过渡，保留 secondary 身份和待官网细化标记，不冒充公司官方岗位；编号章节标题等伪公司记录直接排除。`.trim()
   };
 
   await fs.writeFile(livePath, asModule(kept, meta), 'utf8');
