@@ -30,7 +30,8 @@ function mockFetch(payload, { status = 200 } = {}) {
     return {
       ok: status >= 200 && status < 300,
       status,
-      json: async () => payload
+      json: async () => payload,
+      text: async () => JSON.stringify(payload)
     };
   };
   impl.calls = calls;
@@ -69,12 +70,27 @@ test('rejects clauses that are not verbatim JD text', async () => {
   assert.equal(ev, null, '非原文的专业结论必须被丢弃');
 });
 
-test('rejects duty labels outside the shared closed set', async () => {
+// 职责标签是软过滤：越界丢弃，但不能连累同一份输出里合法的原文引用。
+// 实测 DeepSeek 会把 JD 原文的职责短语当标签返回，硬校验会让成功率掉到 5/8。
+test('duty labels outside the closed set are dropped, not fatal', async () => {
   const fetchImpl = mockFetch(okPayload({
-    majorClauses: [], eligibilityClauses: [],
-    technicalDuties: [], businessDuties: ['海外市场拓展']   // 闭集外
+    majorClauses: ['本科及以上学历，英语或国际贸易专业优先'],
+    eligibilityClauses: ['招聘对象：2027届'],
+    technicalDuties: [],
+    businessDuties: ['海外市场拓展', '国际业务']   // 前者闭集外，后者闭集内
   }));
-  assert.equal(await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, retries: 0 }), null);
+  const ev = await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, retries: 0 });
+  assert.ok(ev, '越界标签不该作废整份输出');
+  assert.deepEqual(ev.businessDuties, ['国际业务'], '只保留闭集内的');
+  assert.deepEqual(ev.majorClauses, ['本科及以上学历，英语或国际贸易专业优先'], '原文引用必须保住');
+});
+
+test('a paraphrased (non-verbatim) clause is still fatal', () => {
+  const ev = validateEvidence(
+    { majorClauses: ['本岗位欢迎英语专业同学'], eligibilityClauses: [], technicalDuties: [], businessDuties: ['国际业务'] },
+    JD
+  );
+  assert.equal(ev, null, '改写专业要求是断言而非引用，必须整份作废');
 });
 
 test('transport and protocol failures degrade to null instead of throwing', async () => {
@@ -134,24 +150,62 @@ test('validator output shape matches the regex extractor exactly', () => {
 // 供给方无关：DeepSeek 配置必须原样可用，换模型只改一个参数。
 test('presets let the same code run MiMo or DeepSeek without touching opencode.json', () => {
   assert.equal(resolvePreset({}).model, DEFAULT_MODEL);
-  assert.equal(resolvePreset({ preset: 'deepseek-flash' }).model, 'deepseek-v4-flash-free');
+  assert.equal(resolvePreset({ preset: 'deepseek' }).model, 'deepseek-flash');
+  assert.equal(resolvePreset({ preset: 'deepseek' }).baseUrl, 'https://api.deepseek.com');
   assert.equal(resolvePreset({ preset: 'mimo-2.5' }).model, 'mimo-v2.5-free');
   // 显式参数优先级最高
   assert.equal(resolvePreset({ preset: 'mimo-2.5', model: 'custom' }).model, 'custom');
   assert.throws(() => resolvePreset({ preset: 'nope' }), /未知预设/);
-  assert.deepEqual(Object.keys(MODEL_PRESETS).sort(), ['deepseek-flash', 'mimo-2.5']);
+  assert.deepEqual(Object.keys(MODEL_PRESETS).sort(), ['deepseek', 'mimo-2.5']);
 });
 
 test('switching preset actually changes the model sent on the wire', async () => {
   const fetchImpl = mockFetch(okPayload({
     majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: []
   }));
-  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, preset: 'deepseek-flash', retries: 0 });
-  assert.equal(fetchImpl.calls[0].body.model, 'deepseek-v4-flash-free');
+  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, preset: 'deepseek', retries: 0 });
+  assert.equal(fetchImpl.calls[0].body.model, 'deepseek-flash');
 });
 
 test('cache does not leak evidence across models', () => {
-  assert.notEqual(cacheKey(JOB, 'mimo-v2.5-free'), cacheKey(JOB, 'deepseek-v4-flash-free'));
+  assert.notEqual(cacheKey(JOB, 'mimo-v2.5-free'), cacheKey(JOB, 'deepseek-flash'));
+});
+
+// DeepSeek 只支持 json_object，且要求 prompt 里出现 "json" 字样。
+test('response_format is taken from the preset', async () => {
+  const schema = mockFetch(okPayload({ majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: [] }));
+  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl: schema, preset: 'mimo-2.5', retries: 0 });
+  assert.equal(schema.calls[0].body.response_format.type, 'json_schema');
+
+  const object = mockFetch(okPayload({ majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: [] }));
+  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl: object, preset: 'deepseek', retries: 0 });
+  assert.deepEqual(object.calls[0].body.response_format, { type: 'json_object' });
+});
+
+test('an unsupported response_format falls back to json_object instead of losing the job', async () => {
+  let call = 0;
+  const fetchImpl = async (url, init) => {
+    call += 1;
+    const body = JSON.parse(init.body);
+    if (body.response_format.type === 'json_schema') {
+      return { ok: false, status: 400, text: async () => '{"error":{"message":"This response_format type is unavailable now"}}' };
+    }
+    return { ok: true, status: 200, json: async () => okPayload({
+      majorClauses: ['本科及以上学历，英语或国际贸易专业优先'], eligibilityClauses: [], technicalDuties: [], businessDuties: []
+    }) };
+  };
+  const ev = await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, retries: 0 });
+  assert.ok(ev, '格式被拒后必须回退，而不是返回 null');
+  assert.equal(ev.source, 'llm');
+  assert.equal(call, 2, '恰好两次调用：一次 json_schema 被拒，一次 json_object 成功');
+});
+
+test('a non-format 400 does not trigger the fallback', async () => {
+  const fetchImpl = mockFetch({}, { status: 400 });
+  const seen = [];
+  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, retries: 0, onError: (m) => seen.push(m) });
+  assert.equal(fetchImpl.calls.length, 1, '与格式无关的 400 不该白试一次');
+  assert.ok(!seen.some((m) => /回退/.test(m)));
 });
 
 // description 在本仓库始终是适配器生成的摘要。把它放进 prompt 会让

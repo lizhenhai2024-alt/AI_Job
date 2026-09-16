@@ -24,25 +24,37 @@ export const DEFAULT_MODEL = 'mimo-v2.5-free';
 export const MAX_JD_CHARS = 6000;
 
 /**
- * 预设。本模块与供给方无关：baseUrl / model / apiKey 全部是调用参数，
- * 因此 OpenCode Zen 的 MiMo、Zen 上的 DeepSeek、或 DeepSeek 直连都能用同一套代码。
+ * 预设。本模块与供给方无关：baseUrl / model / apiKey 全部是调用参数。
  *
  * 不会读取也不会修改 ~/.config/opencode/opencode.json —— 现有 DeepSeek 配置原样保留，
  * 这里只是把凭据显式传进来。
  *
- * 换模型：extractWithLlm(job, { preset: 'deepseek-flash', apiKey })。
+ * 换模型：extractWithLlm(job, { preset: 'deepseek', apiKey })。
+ *
+ * responseFormat 必须按端点能力给：
+ *   - json_schema：结构化输出（OpenAI 及兼容端）
+ *   - json_object：只保证返回合法 JSON。DeepSeek 只支持这个，
+ *     且要求 prompt 里出现 "json" 字样（SYSTEM_PROMPT 结尾的「只返回 JSON。」满足）。
+ * 给错的后果是整批 400 —— 实测过。所以宁可显式声明，也不猜。
  */
 export const MODEL_PRESETS = {
-  'mimo-2.5': { baseUrl: DEFAULT_BASE_URL, model: 'mimo-v2.5-free' },
-  'deepseek-flash': { baseUrl: DEFAULT_BASE_URL, model: 'deepseek-v4-flash-free' }
+  // OpenCode Zen 免费层要求一个只有其客户端会发的 session ID，
+  // 外部脚本调用一律 400「can only be used in OpenCode」。保留此预设仅作记录。
+  'mimo-2.5': { baseUrl: DEFAULT_BASE_URL, model: 'mimo-v2.5-free', responseFormat: 'json_schema' },
+  // 实测可用：/models 返回 deepseek-flash 与 deepseek-v4-pro。
+  // deepseek-flash 是推理模型（reasoning_tokens 常占输出大头），延迟约 0.2–3s/条。
+  deepseek: { baseUrl: 'https://api.deepseek.com', model: 'deepseek-flash', responseFormat: 'json_object' }
 };
+
+export const DEFAULT_RESPONSE_FORMAT = 'json_schema';
 
 export function resolvePreset(options = {}) {
   const preset = options.preset ? MODEL_PRESETS[options.preset] : null;
   if (options.preset && !preset) throw new Error(`未知预设：${options.preset}`);
   return {
     baseUrl: options.baseUrl || preset?.baseUrl || DEFAULT_BASE_URL,
-    model: options.model || preset?.model || DEFAULT_MODEL
+    model: options.model || preset?.model || DEFAULT_MODEL,
+    responseFormat: options.responseFormat || preset?.responseFormat || DEFAULT_RESPONSE_FORMAT
   };
 }
 
@@ -119,12 +131,16 @@ export function validateEvidence(raw, jdText) {
     }
     return { values: [...new Set(out)] };
   };
-  const inClosedSet = (value, allowed, field) => {
+  // 职责标签是**软过滤**：闭集外的一律丢弃，但不作废整份输出。
+  // 实测 DeepSeek 在 json_object 模式下会把 JD 原文的职责短语（「FBA发货处理」
+  // 「商务谈判」）直接当标签返回，完全无视 prompt 里的闭集约束 —— 若按硬校验处理，
+  // 同一份输出里合法的专业/学历原文引用会被一起扔掉，成功率掉到 5/8。
+  const inClosedSet = (value, allowed) => {
     const out = [];
     for (const item of Array.isArray(value) ? value : []) {
       const text = String(item || '').trim();
       if (!text) continue;
-      if (!allowed.includes(text)) return { error: `${field} 含闭集外标签：${text}` };
+      if (!allowed.includes(text)) continue;
       out.push(text);
     }
     return { values: [...new Set(out)] };
@@ -134,10 +150,8 @@ export function validateEvidence(raw, jdText) {
   if (major.error) return null;
   const eligibility = quoted(raw.eligibilityClauses, 'eligibilityClauses');
   if (eligibility.error) return null;
-  const technical = inClosedSet(raw.technicalDuties, TECH_DUTY_LABELS, 'technicalDuties');
-  if (technical.error) return null;
-  const business = inClosedSet(raw.businessDuties, BUSINESS_DUTY_LABELS, 'businessDuties');
-  if (business.error) return null;
+  const technical = inClosedSet(raw.technicalDuties, TECH_DUTY_LABELS);
+  const business = inClosedSet(raw.businessDuties, BUSINESS_DUTY_LABELS);
 
   return {
     source: 'llm',
@@ -154,9 +168,15 @@ export function cacheKey(job = {}, model = '') {
   return `${job.id || '(no-id)'}:${digest}:${model}`;
 }
 
+function responseFormatBody(mode) {
+  if (mode === 'json_object') return { type: 'json_object' };
+  return { type: 'json_schema', json_schema: buildSchema() };
+}
+
 async function callZen(job, options) {
   const {
     apiKey, baseUrl = DEFAULT_BASE_URL, model = DEFAULT_MODEL,
+    responseFormat = DEFAULT_RESPONSE_FORMAT,
     fetchImpl = globalThis.fetch, timeoutMs = 60000
   } = options;
   const controller = new AbortController();
@@ -169,14 +189,20 @@ async function callZen(job, options) {
       body: JSON.stringify({
         model,
         temperature: 0,
-        response_format: { type: 'json_schema', json_schema: buildSchema() },
+        response_format: responseFormatBody(responseFormat),
         messages: [
           { role: 'system', content: SYSTEM_PROMPT },
           { role: 'user', content: jobTextOf(job) }
         ]
       })
     });
-    if (!res.ok) return { error: `HTTP ${res.status}` };
+    if (!res.ok) {
+      // 把响应体带回来：端点拒收 response_format 时报的是 400，
+      // 只说 "HTTP 400" 会让人完全看不出是格式不受支持。
+      let detail = '';
+      try { detail = (await res.text()).slice(0, 200); } catch {}
+      return { error: `HTTP ${res.status}${detail ? ` ${detail}` : ''}`, status: res.status, detail };
+    }
     const payload = await res.json();
     const content = payload?.choices?.[0]?.message?.content;
     if (!content) return { error: '响应缺少 choices[0].message.content' };
@@ -188,6 +214,11 @@ async function callZen(job, options) {
   }
 }
 
+/** 端点是否在拒绝 response_format（而非别的 400）。 */
+function looksLikeResponseFormatRejection(result) {
+  return result?.status === 400 && /response_format|json_schema|unavailable/i.test(result?.detail || '');
+}
+
 /**
  * 抽取一条岗位的 JD 事实。
  * 成功返回 { source:'llm', ... }；任何失败返回 null（调用方回退正则）。
@@ -197,7 +228,7 @@ export async function extractWithLlm(job = {}, options = {}) {
   const { apiKey, cache, onError, retries = 1 } = options;
   if (!apiKey) return null;
 
-  const { baseUrl, model } = resolvePreset(options);
+  const { baseUrl, model, responseFormat } = resolvePreset(options);
   const key = cacheKey(job, model);
   const cached = cache?.get?.(key);
   if (cached) return cached;
@@ -205,17 +236,28 @@ export async function extractWithLlm(job = {}, options = {}) {
   const jdText = jobTextOf(job);
   if (!hasJdBody(job)) return null; // 只有适配器摘要，抽取没有意义
 
+  // 格式回退：预设给错或端点变了，就在同一个 job 上退回 json_object 再试一次，
+  // 而不是把整批岗位都丢给正则。只在真的被拒时才多花一次调用。
+  const formats = responseFormat === 'json_object' ? ['json_object'] : ['json_schema', 'json_object'];
+
   for (let attempt = 0; attempt <= retries; attempt += 1) {
-    const result = await callZen(job, { ...options, baseUrl, model });
-    if (result.raw) {
-      const evidence = validateEvidence(result.raw, jdText);
-      if (evidence) {
-        cache?.set?.(key, evidence);
-        return evidence;
+    for (let i = 0; i < formats.length; i += 1) {
+      const result = await callZen(job, { ...options, baseUrl, model, responseFormat: formats[i] });
+      if (result.raw) {
+        const evidence = validateEvidence(result.raw, jdText);
+        if (evidence) {
+          cache?.set?.(key, evidence);
+          return evidence;
+        }
+        onError?.(`校验未通过（第 ${attempt + 1} 次）`);
+        break; // 格式可用，是模型输出的问题 —— 换格式没用，交给下一次 attempt
       }
-      onError?.(`校验未通过（第 ${attempt + 1} 次）`);
-    } else {
+      if (looksLikeResponseFormatRejection(result) && i < formats.length - 1) {
+        onError?.(`${formats[i]} 不被支持，回退 ${formats[i + 1]}`);
+        continue;
+      }
       onError?.(`${result.error}（第 ${attempt + 1} 次）`);
+      break;
     }
   }
   return null;
