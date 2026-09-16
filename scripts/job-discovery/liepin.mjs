@@ -28,7 +28,21 @@ export async function fetchText(url, { timeoutMs = 15000, userAgent = DEFAULT_UA
   throw lastError;
 }
 
-const PROJECT_RX = /href="(https:\/\/www\.liepin\.com\/campus\/project-detail\/(\d+)\/)"[\s\S]*?<div class="company-title ellipsis-1">([^<]+)<\/div>/gi;
+const PROJECT_RX = /href="(https:\/\/www\.liepin\.com\/campus\/project-detail\/(\d+)\/)"[\s\S]*?<(?:div|h3) class="(?:company-title|job-title) ellipsis-1">([^<]+)<\/(?:div|h3)>/gi;
+
+function projectsFromHtml(html) {
+  const seen = new Set();
+  const projects = [];
+  for (const m of html.matchAll(PROJECT_RX)) {
+    const url = m[1];
+    const id = m[2];
+    if (seen.has(id)) continue;
+    seen.add(id);
+    const name = decodeHtml(m[3]).trim() || '';
+    projects.push({ id, url, name });
+  }
+  return projects;
+}
 
 // 从项目名（形如"富冶集团2027届校园招聘"）提取公司名：取"2027届|2026届|校园招聘|校招|秋招|春招|招聘"之前的主体
 export function companyFromProjectName(name = '') {
@@ -43,21 +57,25 @@ export function companyFromProjectName(name = '') {
   return company || clean || '待核公司';
 }
 
-// 发现猎聘校招项目：campus.liepin.com 首页项目卡片（SSR HTML）
-export async function discoverProjects({ fetcher = fetchText, maxProjects = 120 } = {}) {
-  const html = await fetcher('https://campus.liepin.com/');
+// 发现猎聘校招项目：comp-list 全量列表 + campus.liepin.com 首页热门
+export async function discoverProjects({ fetcher = fetchText, maxProjects = 300 } = {}) {
+  const out = [];
   const seen = new Set();
-  const projects = [];
-  for (const m of html.matchAll(PROJECT_RX)) {
-    const url = m[1];
-    const id = m[2];
-    if (seen.has(id)) continue;
-    seen.add(id);
-    const name = decodeHtml(m[3]).trim() || '';
-    projects.push({ id, url, name });
-    if (projects.length >= maxProjects) break;
+  for (const source of ['https://www.liepin.com/campus/comp-list/', 'https://campus.liepin.com/']) {
+    if (out.length >= maxProjects) break;
+    try {
+      const html = await fetcher(source);
+      for (const p of projectsFromHtml(html)) {
+        if (seen.has(p.id)) continue;
+        seen.add(p.id);
+        out.push(p);
+        if (out.length >= maxProjects) break;
+      }
+    } catch (error) {
+      console.warn(`[liepin:discoverProjects] ${source} failed: ${error.message}`);
+    }
   }
-  return projects;
+  return out;
 }
 
 // 解析项目详情页：公司名（meta description 的项目名）+ 校招岗位列表（lptjob 链接）
