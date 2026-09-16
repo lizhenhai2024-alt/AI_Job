@@ -1,44 +1,35 @@
 #!/usr/bin/env node
 /**
- * JD 事实富化阶段 —— 用 LLM 抽取 jdEvidence，替换/补齐正则抽取的结果。
+ * JD 事实富化阶段 —— 多 Provider LLM 抽取 jdEvidence。
  *
- * 契约 docs/job-intelligence-contract-v1.md §4：上游只定义事实，评价归下游。
- * 产出与 policy.mjs 的 extractJdEvidence 完全同形，所以 campus-job-board 无感。
- *
- * 在管线里的位置：第 4 阶段（filter）之后、第 5 阶段（enrich-job-compensation）之前。
- *   - 放在 filter 之后：只为存活下来的岗位付费/占额度。
- *   - 放在 compensation 之前：让 enrich-job-compensation 保持“最后写入者”和
- *     stats 不变量的所有者（它用 {...job} 展开，jdEvidence 会被保留）。
- *
- * 惰性：没有 JD_EVIDENCE_API_KEY 时不调模型、直接退出 0，刷新不受影响。
- * 但**缓存回灌仍然会做**：把已付费的证据写回岗位不需要密钥，所以拿不到 key 的
- * 机器/CI 上它依然能把证据从缓存里补回来（见下方"缓存命中时必须写回"那段）。
- *
- * 缓存是已付费事实的持久载体，不是"跳过清单"：刷新会重建整个岗位池，
- * jdEvidence 不随之带过来，靠的就是这一轮回灌把它贴回去。
- *
- * 用法：
- *   node scripts/enrich-jd-evidence.mjs            # 抽取（需 key）
- *   node scripts/enrich-jd-evidence.mjs --report   # 只统计待抽数量，不调模型、不需要 key
+ * 默认顺序：OpenCode Zen 免费模型 → Gemini Free Tier → DeepSeek 付费兜底 → 正则。
+ * 事实契约不变：LLM 只能摘录 JD 原文/闭集职责标签，不做候选人适配判断。
  *
  * 环境变量：
- *   JD_EVIDENCE_API_KEY       凭据。兼容 DEEPSEEK_API_KEY
- *   JD_EVIDENCE_PRESET        预设名，默认 deepseek（见 llm-evidence.mjs MODEL_PRESETS）
- *   JD_EVIDENCE_MAX_CALLS     单次运行最多调用次数，默认 3000
- *   JD_EVIDENCE_CONCURRENCY   并发，默认 4
- *   JD_EVIDENCE_ONLY_WEAK     默认开启。只对本仓库正则抽不到专业原文的岗位调用
- *                             （实测占 37.9%）。设为 0 则对所有有正文的岗位跑一遍。
+ *   OPENCODE_ZEN_API_KEY          OpenCode Zen API key
+ *   GEMINI_API_KEY               Google Gemini API key
+ *   JD_EVIDENCE_API_KEY          DeepSeek API key（兼容 DEEPSEEK_API_KEY）
+ *   JD_EVIDENCE_PROVIDER_ORDER   逗号顺序，默认 zen-free,gemini-free,deepseek
+ *   JD_EVIDENCE_PRESET           兼容旧部署；设置后在未给 PROVIDER_ORDER 时退化为单 Provider
+ *   JD_EVIDENCE_MAX_CALLS        单轮最多处理的岗位数，默认 3000
+ *   JD_EVIDENCE_PAID_MAX_CALLS   DeepSeek 等 paid Provider 单轮最多尝试数，默认 200
+ *   JD_EVIDENCE_CONCURRENCY      并发，默认 4
+ *   JD_EVIDENCE_ONLY_WEAK        默认 1，只补正则抽不到专业原文的岗位
  *
- * 成本（deepseek/deepseek-flash + reasoning_effort:none，2026-09 实测）：
- *   ¥0.0060/条、约 0.87s/条。
- *   全量 10403 条 ≈ ¥62；只补弱岗位 3938 条 ≈ ¥24。
- *   开了推理的话是 ¥0.0150/条、18s/条 —— 所以 reasoning_effort:'none' 是关键开关。
+ * 安全策略：
+ *   - Provider 401/403/404：本轮立即熔断该 Provider，转下一个。
+ *   - 同一 Provider 连续 3 次 429：本轮熔断，避免反复撞限流。
+ *   - 所有 Provider 失败：保留原正则证据，刷新仍成功。
+ *   - paid Provider 有独立调用上限，免费 Provider 故障时不会把整批流量意外打到付费兜底。
  */
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
-import { extractWithLlm, cacheKey, createFileCache, resolvePreset, hasJdBody, MIN_JD_BODY_CHARS } from './job-discovery/llm-evidence.mjs';
+import {
+  extractWithLlm, cacheKey, createFileCache, hasJdBody,
+  resolveProviderChain
+} from './job-discovery/llm-evidence.mjs';
 import { resolveJdEvidence, isLlmEvidence } from './job-discovery/policy.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -46,11 +37,9 @@ const livePath = path.join(root, 'src/data/live-jobs.js');
 const cachePath = path.join(root, 'src/data/jd-evidence-cache.json');
 
 const REPORT_ONLY = process.argv.includes('--report');
-const MAX_CALLS = Number(process.env.JD_EVIDENCE_MAX_CALLS || 3000);
+const MAX_CALLS = Math.max(0, Number(process.env.JD_EVIDENCE_MAX_CALLS || 3000));
+const PAID_MAX_CALLS = Math.max(0, Number(process.env.JD_EVIDENCE_PAID_MAX_CALLS || 200));
 const CONCURRENCY = Math.max(1, Number(process.env.JD_EVIDENCE_CONCURRENCY || 4));
-const PRESET = process.env.JD_EVIDENCE_PRESET || 'deepseek';
-const apiKey = process.env.JD_EVIDENCE_API_KEY || process.env.DEEPSEEK_API_KEY || '';
-// 默认只补"正则抽不到"的岗位：那批是 LLM 真正能带来增量的部分。
 const ONLY_WEAK = process.env.JD_EVIDENCE_ONLY_WEAK !== '0';
 
 async function readJson(file, fallback) {
@@ -78,22 +67,41 @@ async function runWithConcurrency(tasks, max) {
   await Promise.all(Array.from({ length: Math.min(max, Math.max(tasks.length, 1)) }, () => worker()));
 }
 
+async function appendProviderSummary(providers, total, restored, pending, success, failed) {
+  const summaryPath = process.env.GITHUB_STEP_SUMMARY;
+  const lines = [
+    '## JD Evidence Provider 路由',
+    '',
+    `岗位 ${total}；缓存回灌 ${restored}；待抽 ${pending}；新成功 ${success}；全部 Provider 失败 ${failed}`,
+    '',
+    '| Provider | 模型 | 成本级别 | Key | 尝试 | 成功 | 失败 | 状态 |',
+    '| --- | --- | --- | --- | ---: | ---: | ---: | --- |'
+  ];
+  for (const p of providers) {
+    const s = p.state;
+    lines.push(`| ${p.preset} | ${p.model} | ${p.costClass} | ${p.apiKey ? '已配置' : '未配置'} | ${s.attempted} | ${s.ok} | ${s.failed} | ${s.disabled ? `熔断：${s.disabledReason}` : (p.apiKey ? '可用' : '跳过')} |`);
+  }
+  lines.push('');
+  for (const line of lines) console.log(`[jd-evidence:provider] ${line}`);
+  if (summaryPath) await fs.appendFile(summaryPath, `${lines.join('\n')}\n`, 'utf8');
+}
+
 // ---- 载入 ----
 const liveModule = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
 const jobs = Array.isArray(liveModule.liveJobs) ? liveModule.liveJobs : [];
 const meta = liveModule.discoveryMeta;
-
-const { model } = resolvePreset({ preset: PRESET });
 const cache = createFileCache(await readJson(cachePath, {}));
 
-// ---- 选择候选：有正文、且缓存里还没有这一份 ----
-//
-// 缓存命中时必须**把证据写回岗位**，不能只跳过。
-// 刷新（refresh-jobs.mjs）从抓取结果重建整个池子，旧池只在不健康源时才保留，
-// 所以上一轮的 jdEvidence 不会自己跟过来。若此处只是 continue，一轮刷新之后
-// 已付费的证据就没了，而缓存键（id:JD哈希:模型）仍然命中，于是永远补不回来——
-// 缓存从"省钱的备忘录"变成"阻止恢复的墓碑"。
-// 回灌不调模型、不需要密钥，所以放在 apiKey 判断之前。
+// includeUnconfigured=true 是为了即使 Key 被临时移除，也能从这个 Provider 过去的缓存回灌证据。
+const allProviders = resolveProviderChain(process.env, { includeUnconfigured: true }).map((p) => ({
+  ...p,
+  state: { attempted: 0, ok: 0, failed: 0, rateLimitStreak: 0, disabled: false, disabledReason: '' }
+}));
+const activeProviders = allProviders.filter((p) => p.apiKey);
+
+console.log(`[jd-evidence] provider-order=${allProviders.map((p) => p.preset).join(' → ') || '(none)'} active=${activeProviders.map((p) => p.preset).join(',') || '(none)'}`);
+
+// ---- 选择候选 + 跨 Provider 缓存回灌 ----
 let restored = 0;
 const pending = [];
 let thin = 0;
@@ -101,73 +109,118 @@ let strong = 0;
 let cached = 0;
 for (const job of jobs) {
   if (!hasJdBody(job)) { thin++; continue; }
-  const hit = cache.get(cacheKey(job, model));
-  if (hit) {
+
+  let cacheHit = null;
+  let cacheProvider = null;
+  for (const p of allProviders) {
+    const hit = cache.get(cacheKey(job, p.model));
+    if (hit) { cacheHit = hit; cacheProvider = p; break; }
+  }
+  if (cacheHit) {
     cached++;
     if (!isLlmEvidence(job.jdEvidence)) {
-      job.jdEvidence = { ...hit, source: `llm:${model}` };
+      job.jdEvidence = { ...cacheHit, source: `llm:${cacheProvider.preset}:${cacheProvider.model}` };
       restored++;
     }
     continue;
   }
-  // 正则已经抽到专业原文的岗位，LLM 的增量主要体现在措辞而非有无，
-  // 而 dataQuality 只判断"有无证据"。默认跳过它们，成本从 ¥62 降到 ¥24。
+
   if (ONLY_WEAK && resolveJdEvidence(job).majorClauses.length > 0) { strong++; continue; }
   pending.push(job);
 }
 
-console.log(`[jd-evidence] preset=${PRESET} model=${model} jobs=${jobs.length} 太薄跳过=${thin} 正则已覆盖=${ONLY_WEAK ? strong : 0}(跳过) 缓存命中=${cached}(回灌=${restored}) 待抽=${pending.length}`);
+console.log(`[jd-evidence] jobs=${jobs.length} 太薄跳过=${thin} 正则已覆盖=${ONLY_WEAK ? strong : 0}(跳过) 缓存命中=${cached}(回灌=${restored}) 待抽=${pending.length}`);
 
 if (REPORT_ONLY) {
-  const willCall = Math.min(pending.length, MAX_CALLS);
-  console.log(`[jd-evidence] --report：本轮会实际调用 ${willCall} 次，其余 ${pending.length - willCall} 条留到后续轮次（上限 JD_EVIDENCE_MAX_CALLS=${MAX_CALLS}）`);
+  const willProcess = Math.min(pending.length, MAX_CALLS);
+  console.log(`[jd-evidence] --report：本轮最多处理 ${willProcess} 个岗位；paid-provider 单轮上限 ${PAID_MAX_CALLS}`);
+  await appendProviderSummary(allProviders, jobs.length, restored, pending.length, 0, 0);
   process.exit(0);
 }
 
-if (!apiKey) {
-  // 没有密钥也要把回灌落盘：那批证据是上一轮已经付过钱的，补回岗位不需要调模型。
-  // 只回灌不落盘 = 这一轮的劳动随进程一起消失，下一轮再从零重来。
+if (activeProviders.length === 0) {
   if (restored > 0) {
     await fs.writeFile(livePath, asModule(jobs, meta), 'utf8');
-    console.log(`[jd-evidence] 未设置密钥，但缓存回灌 ${restored} 条已写回 ${path.relative(root, livePath)}`);
+    console.log(`[jd-evidence] 未配置任何 Provider Key；缓存回灌 ${restored} 条已写回 ${path.relative(root, livePath)}`);
   } else {
-    console.log('[jd-evidence] 未设置 JD_EVIDENCE_API_KEY（或 DEEPSEEK_API_KEY），跳过（正则抽取结果原样保留）');
+    console.log('[jd-evidence] 未配置 OPENCODE_ZEN_API_KEY / GEMINI_API_KEY / JD_EVIDENCE_API_KEY，跳过 LLM（正则证据保留）');
   }
+  await appendProviderSummary(allProviders, jobs.length, restored, pending.length, 0, 0);
   process.exit(0);
 }
 
 const batch = pending.slice(0, MAX_CALLS);
 if (pending.length > batch.length) {
-  console.log(`[jd-evidence] 本轮上限 ${MAX_CALLS} 条，剩余 ${pending.length - batch.length} 条留到下一轮`);
+  console.log(`[jd-evidence] 本轮岗位上限 ${MAX_CALLS}，剩余 ${pending.length - batch.length} 条留到下一轮`);
 }
 
-// ---- 抽取 ----
+function updateHealthFromErrors(provider, messages) {
+  const joined = messages.join(' ');
+  if (/HTTP\s+(401|403|404)\b/.test(joined)) {
+    provider.state.disabled = true;
+    provider.state.disabledReason = '鉴权/端点/模型不可用';
+    return;
+  }
+  if (/HTTP\s+429\b/.test(joined)) {
+    provider.state.rateLimitStreak += 1;
+    if (provider.state.rateLimitStreak >= 3) {
+      provider.state.disabled = true;
+      provider.state.disabledReason = '连续 429 限流';
+    }
+  } else {
+    provider.state.rateLimitStreak = 0;
+  }
+}
+
+// ---- 免费优先 + 自动降级 ----
 let ok = 0;
 let failed = 0;
 let errorsShown = 0;
 await runWithConcurrency(batch.map((job) => async () => {
-  const evidence = await extractWithLlm(job, {
-    apiKey, cache, preset: PRESET,
-    onError: (message) => {
-      if (errorsShown < 3) { console.warn(`[jd-evidence] ${job.id}：${message}`); errorsShown++; }
+  for (const provider of activeProviders) {
+    if (provider.state.disabled) continue;
+    if (provider.costClass === 'paid' && provider.state.attempted >= PAID_MAX_CALLS) {
+      provider.state.disabled = true;
+      provider.state.disabledReason = `达到 paid 上限 ${PAID_MAX_CALLS}`;
+      continue;
     }
-  });
-  if (evidence) {
-    // source 记上模型，便于换模型后重抽与溯源。
-    job.jdEvidence = { ...evidence, source: `llm:${model}` };
-    ok++;
-  } else {
-    failed++;
+
+    provider.state.attempted += 1;
+    const messages = [];
+    const evidence = await extractWithLlm(job, {
+      apiKey: provider.apiKey,
+      cache,
+      preset: provider.preset,
+      retries: 0,
+      onError: (message) => {
+        messages.push(message);
+        if (errorsShown < 8) {
+          console.warn(`[jd-evidence] ${provider.preset}/${job.id}：${message}`);
+          errorsShown++;
+        }
+      }
+    });
+
+    if (evidence) {
+      provider.state.ok += 1;
+      provider.state.rateLimitStreak = 0;
+      job.jdEvidence = { ...evidence, source: `llm:${provider.preset}:${provider.model}` };
+      ok++;
+      return;
+    }
+
+    provider.state.failed += 1;
+    updateHealthFromErrors(provider, messages);
   }
+  failed++;
 }), CONCURRENCY);
 
-console.log(`[jd-evidence] 抽取成功=${ok} 失败(已保留原值)=${failed}`);
+console.log(`[jd-evidence] 新抽取成功=${ok} 全 Provider 失败=${failed}`);
+for (const p of allProviders) {
+  console.log(`[jd-evidence] provider=${p.preset} configured=${Boolean(p.apiKey)} attempted=${p.state.attempted} ok=${p.state.ok} failed=${p.state.failed} status=${p.state.disabled ? `disabled:${p.state.disabledReason}` : 'ready'}`);
+}
 
-// ---- 落盘：只在真有产出时改文件；meta 原样不动（stats 归 enrich-job-compensation） ----
-// 回灌也算产出：没有新调用、但岗位对象被刷新抹掉后由缓存补回来了，必须落盘，
-// 否则这一轮的回灌只在内存里生效，下一次刷新又丢。
-// 一次都没成功（且没有回灌）就不写缓存 —— 否则全失败的一轮会在仓库里留下一个
-// 空 {} 文件，而对 TRACKED_PATHS 来说那是一次无意义的改动。
+// ---- 落盘 ----
 if (ok > 0 || restored > 0) {
   await fs.writeFile(livePath, asModule(jobs, meta), 'utf8');
   console.log(`[jd-evidence] 已写回 ${path.relative(root, livePath)}（新抽取 ${ok}，缓存回灌 ${restored}）`);
@@ -179,5 +232,7 @@ if (ok > 0 || restored > 0) {
   console.log('[jd-evidence] 本轮无成功抽取，不改动任何文件');
 }
 
-// 抽取失败不构成管线失败：调用方回退正则，是设计内的降级路径。
+await appendProviderSummary(allProviders, jobs.length, restored, pending.length, ok, failed);
+
+// 所有 LLM Provider 失败也不构成刷新失败：正则是永久兜底。
 process.exit(0);
