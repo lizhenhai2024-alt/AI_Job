@@ -1,21 +1,11 @@
 name: Analyze complete JDs now
 
 on:
-  schedule:
-    - cron: '30 0 * * *'      # 08:30 Asia/Shanghai；与06:00核心岗位刷新解耦
   push:
     branches: [main]
     paths:
       - '.github/workflows/analyze-complete-jds-now.yml'
-      - 'scripts/enrich-jd-evidence.mjs'
-      - 'scripts/report-jd-evidence-coverage.mjs'
-      - 'scripts/job-discovery/llm-evidence.mjs'
-      - 'scripts/job-discovery/policy.mjs'
   workflow_dispatch:
-
-concurrency:
-  group: analyze-complete-jds-ai-evidence
-  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -23,8 +13,7 @@ permissions:
 jobs:
   analyze:
     runs-on: ubuntu-latest
-    # AI API限流属于增强层故障，不再占用/阻塞核心岗位刷新窗口。
-    timeout-minutes: 25
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:

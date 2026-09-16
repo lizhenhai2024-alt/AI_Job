@@ -23,6 +23,9 @@ on:
       - 'config/university-sources.json'
       - 'config/source-discovery.json'
       - 'config/company-requests.json'
+      - 'scripts/enrich-jd-evidence.mjs'
+      - 'scripts/report-jd-evidence-coverage.mjs'
+      - 'src/data/jd-evidence-cache.json'
       - 'package.json'
 
 concurrency:
@@ -35,9 +38,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    # 2026-09-16实测：官方源+高校桥接本身可接近25分钟。LLM已拆出，
-    # 这里仍留35分钟余量，避免核心数据在最后提交前被平台超时杀掉。
-    timeout-minutes: 35
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
         with:
@@ -49,16 +50,31 @@ jobs:
         run: |
           npm install --no-audit --no-fund
           npx playwright install --with-deps chromium
-      - name: Refresh core job snapshot
+      - name: Refresh jobs
         run: npm run refresh:jobs
         env:
-          # 核心岗位快照必须先稳定落盘。大批量LLM事实富化由独立
-          # Analyze complete JDs工作流承担，API限流/配额不得阻塞岗位刷新。
-          SKIP_JD_EVIDENCE: 1
-      - name: Report existing JD evidence coverage
+          # JD Evidence：Gemini Free Tier 多模型优先，DeepSeek Flash（非推理）只做付费兜底。
+          # OpenCode Zen free 在 headless API 实测返回 MissingSessionID，当前不进入生产顺序。
+          OPENCODE_ZEN_API_KEY: ${{ secrets.OPENCODE_ZEN_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # 推荐 Secret 名 JD_EVIDENCE_API_KEY；同时兼容 DEEPSEEK_API_KEY。
+          JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25,deepseek
+          # 单轮最多处理 1500 个完整 JD。三个 Gemini 免费模型都失败时，
+          # DeepSeek 最多兜底 200 条，避免免费层故障时把整批流量切到付费 API。
+          JD_EVIDENCE_MAX_CALLS: 1500
+          JD_EVIDENCE_PAID_MAX_CALLS: 200
+          JD_EVIDENCE_CONCURRENCY: 4
+          # 仅分析“岗位说明 + 任职要求”都完整的 JD；完整 JD 全部做 AI 事实分析。
+          JD_EVIDENCE_COMPLETE_ONLY: 1
+          JD_EVIDENCE_MIN_SECTION_CHARS: 40
+          JD_EVIDENCE_MIN_TOTAL_CHARS: 120
+          JD_EVIDENCE_ONLY_WEAK: 0
+      - name: Report JD evidence coverage
         run: node scripts/report-jd-evidence-coverage.mjs
         env:
-          # 只传“是否配置”的布尔值，不把Secret交给统计步骤。
+          # 只传“是否配置”的布尔值，不把 Secret 交给统计步骤。
           OPENCODE_ZEN_KEY_CONFIGURED: ${{ secrets.OPENCODE_ZEN_API_KEY != '' }}
           GEMINI_KEY_CONFIGURED: ${{ secrets.GEMINI_API_KEY != '' }}
           DEEPSEEK_KEY_CONFIGURED: ${{ secrets.JD_EVIDENCE_API_KEY != '' || secrets.DEEPSEEK_API_KEY != '' }}
@@ -81,6 +97,7 @@ jobs:
             src/data/source-registry.js
             src/data/company-requests.js
             src/data/source-discovery.js
+            src/data/jd-evidence-cache.json
             config/official-sources.json
             config/source-discovery.json
             config/company-requests.json
@@ -109,7 +126,7 @@ jobs:
             echo "main advanced while refresh was running:"
             echo "$changed_paths"
 
-            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
+            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|scripts/enrich-jd-evidence\.mjs|scripts/report-jd-evidence-coverage\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js|src/data/jd-evidence-cache\.json)$'; then
               echo "Refresh inputs or generated data changed on newer main; skip stale data push."
               echo "A newer refresh run should own the next snapshot."
               exit 0
