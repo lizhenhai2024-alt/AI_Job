@@ -12,12 +12,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历，英语可作为工作语言。",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语、韩语",
@@ -25,10 +25,85 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、市场分析、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、负责跨境电商平台项目运营和销售：产品上下架，活动规划，产品信息优化； 2、制定销售策略和营销方案，深入产品规划和布局，确保销售业绩的完成； 3、结合市场分析定价，熟悉并应用平台销售政策及运营方法，实现利润最大化； 4、研究行业内的市场销售情况，分析竞争对手状况，制定销售计划并良好执行； 5、对产品销售数据和库存情况进行分析，预估销量，达成健康的库存周转； 6、学习研究新平台最新政策和规定，及时作出应对调整。",
+      "jobRequirements": "1、本科及以上学历，英语可作为工作语言。有韩语/西语/葡语小语种背景、海外留学经历者、B2C电商平台销售经验者优先考虑； 2、沟通能力强，有较强的逻辑思维能力，擅长数据分析，对市场和客户需求敏感； 3、对跨境电商有浓厚的兴趣和激情，对数据敏感，抗压力强，有开拓创新精神； 4、工作积极主动、上进心强，有良好的学习能力和团队合作精神；",
+      "JD": "1、负责跨境电商平台项目运营和销售：产品上下架，活动规划，产品信息优化； 2、制定销售策略和营销方案，深入产品规划和布局，确保销售业绩的完成； 3、结合市场分析定价，熟悉并应用平台销售政策及运营方法，实现利润最大化； 4、研究行业内的市场销售情况，分析竞争对手状况，制定销售计划并良好执行； 5、对产品销售数据和库存情况进行分析，预估销量，达成健康的库存周转； 6、学习研究新平台最新政策和规定，及时作出应对调整。\n1、本科及以上学历，英语可作为工作语言。有韩语/西语/葡语小语种背景、海外留学经历者、B2C电商平台销售经验者优先考虑； 2、沟通能力强，有较强的逻辑思维能力，擅长数据分析，对市场和客户需求敏感； 3、对跨境电商有浓厚的兴趣和激情，对数据敏感，抗压力强，有开拓创新精神； 4、工作积极主动、上进心强，有良好的学习能力和团队合作精神；",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，英语可作为工作语言。"
+        ],
+        "eligibilityClauses": [
+          "销售运营管培生（27届校招）"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "客户关系",
+          "资料/流程",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "市场分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672670387557255474/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,12 +116,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语",
@@ -54,10 +129,78 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、市场分析、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、上传、优化listing，保证页面的整体质量和展示效果； 2、制定销售策略和营销方案，深入产品规划和布局，确保销售业绩的完成； 3、结合产品运营链条和市场分析，进行产品定价，实现利润最大化； 4、对产品销售数据和库存情况进行分析，预估销量，达成健康的库存周转； 5、进行CPC广告投放、活动策划，提高曝光和排名，提升转化率和成交量； 6、对接产品、客服、市场、设计等多部门，共同提高产品质量和曝光，提升客户满意度和复购率。",
+      "jobRequirements": "1、本科及以上学历，英语六级及以上。有海外留学经历、葡萄牙语/西班牙语小语种能力者优先； 2、有Amazon、Temu等跨境电商平台经验，或天猫、京东、等国内电商平台经验，或独立站、线下实体门店运营经验者优先； 3、抗压力强，自驱力强，良好的沟通表达和逻辑思维能力，对数据敏感，结果导向； 4、对跨境电商有浓厚的兴趣和激情，工作积极主动，有良好的团队合作精神。",
+      "JD": "1、上传、优化listing，保证页面的整体质量和展示效果； 2、制定销售策略和营销方案，深入产品规划和布局，确保销售业绩的完成； 3、结合产品运营链条和市场分析，进行产品定价，实现利润最大化； 4、对产品销售数据和库存情况进行分析，预估销量，达成健康的库存周转； 5、进行CPC广告投放、活动策划，提高曝光和排名，提升转化率和成交量； 6、对接产品、客服、市场、设计等多部门，共同提高产品质量和曝光，提升客户满意度和复购率。\n1、本科及以上学历，英语六级及以上。有海外留学经历、葡萄牙语/西班牙语小语种能力者优先； 2、有Amazon、Temu等跨境电商平台经验，或天猫、京东、等国内电商平台经验，或独立站、线下实体门店运营经验者优先； 3、抗压力强，自驱力强，良好的沟通表达和逻辑思维能力，对数据敏感，结果导向； 4、对跨境电商有浓厚的兴趣和激情，工作积极主动，有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "27届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "英语",
+        "市场分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "市场",
+        "电商",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672665123584903460/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,12 +213,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历，英语六级及以上。",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、意大利语",
@@ -83,10 +226,84 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、市场分析、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、为产品销售业绩达成负责，以数据分析为基础，把控市场动态，制定营销策略，抢占更高市场份额，达成业绩目标； 2、制定销售策略和营销方案，深入产品规划和布局，确保销售业绩的完成； 3、结合产品运营链条和市场分析，进行产品定价，实现利润最大化； 4、对产品销售数据和库存情况进行分析，预估销量，达成健康的库存周转； 5、进行CPC广告投放、活动策划，提高曝光和排名，提升转化率和成交量； 6、对接产品、客服、市场、设计等多部门，共同提高产品质量和曝光，提升客户满意度和复购率。",
+      "jobRequirements": "1、本科及以上学历，英语六级及以上。有海外留学经历者优先、有德语/法语/意大利语/西班牙语小语种背景者优先、口语流利能够进行商务谈判者优先； 2、有Amazon、Temu、Shein等跨境电商平台经验，或天猫、京东、抖音、得物、小红书等国内电商平台经验者优先； 3、抗压力强，自驱力强，良好的沟通表达和逻辑思维能力，对数据敏感，结果导向； 4、对跨境电商有浓厚的兴趣和激情，工作积极主动，有良好的团队合作精神。",
+      "JD": "1、为产品销售业绩达成负责，以数据分析为基础，把控市场动态，制定营销策略，抢占更高市场份额，达成业绩目标； 2、制定销售策略和营销方案，深入产品规划和布局，确保销售业绩的完成； 3、结合产品运营链条和市场分析，进行产品定价，实现利润最大化； 4、对产品销售数据和库存情况进行分析，预估销量，达成健康的库存周转； 5、进行CPC广告投放、活动策划，提高曝光和排名，提升转化率和成交量； 6、对接产品、客服、市场、设计等多部门，共同提高产品质量和曝光，提升客户满意度和复购率。\n1、本科及以上学历，英语六级及以上。有海外留学经历者优先、有德语/法语/意大利语/西班牙语小语种背景者优先、口语流利能够进行商务谈判者优先； 2、有Amazon、Temu、Shein等跨境电商平台经验，或天猫、京东、抖音、得物、小红书等国内电商平台经验者优先； 3、抗压力强，自驱力强，良好的沟通表达和逻辑思维能力，对数据敏感，结果导向； 4、对跨境电商有浓厚的兴趣和激情，工作积极主动，有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，英语六级及以上。"
+        ],
+        "eligibilityClauses": [
+          "跨境电商运营管培生（27届校招）"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "市场分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "市场",
+        "电商",
+        "数据",
+        "营销",
+        "客户",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海",
+        "文科/社科专业范围兼容"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672664328458029321/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -99,11 +316,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，数学、统计学、经济学等理工科相关专业优先，英语CET-6及以上",
         "hardRestriction": false
       },
       "language": {
@@ -112,10 +329,76 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 协助搭建BU中台标准化运营SOP、流程机制与管理规范，提升BU整体运营规范化与运转效率； 2. 协助搭建并维BUS数据监控体系，围绕经营、过程、风险核心指标，统一数据口径、预警规则与监控频次； 3. 负责BU中台综合数据可视化看板的搭建与迭代，打通多维度数据孤岛，实现经营、运营、项目资源数据线上化、可视化、实时化。 4. 针对业务人工统计繁琐、复盘低效、选品校核耗时等核心痛点，落地AI运营提效专项。",
+      "jobRequirements": "1. 本科及以上学历，数学、统计学、经济学等理工科相关专业优先，英语CET-6及以上； 2. 具备良好的体系化、逻辑化思维，擅长流程梳理、问题拆解，拥有全局视角； 3. 数据敏感度高，熟练使用Excel，掌握BI、SQL等数据分析工具优先，有数据体系搭建、项目复盘经验加分； 4. 熟悉AI办公及业务提效玩法，能结合业务痛点落地AI优化方案，有相关实习/项目经历优先； 5. 沟通推进能力强，结果导向、抗压好学，愿意长期深耕跨境电商赛道。",
+      "JD": "1. 协助搭建BU中台标准化运营SOP、流程机制与管理规范，提升BU整体运营规范化与运转效率； 2. 协助搭建并维BUS数据监控体系，围绕经营、过程、风险核心指标，统一数据口径、预警规则与监控频次； 3. 负责BU中台综合数据可视化看板的搭建与迭代，打通多维度数据孤岛，实现经营、运营、项目资源数据线上化、可视化、实时化。 4. 针对业务人工统计繁琐、复盘低效、选品校核耗时等核心痛点，落地AI运营提效专项。\n1. 本科及以上学历，数学、统计学、经济学等理工科相关专业优先，英语CET-6及以上； 2. 具备良好的体系化、逻辑化思维，擅长流程梳理、问题拆解，拥有全局视角； 3. 数据敏感度高，熟练使用Excel，掌握BI、SQL等数据分析工具优先，有数据体系搭建、项目复盘经验加分； 4. 熟悉AI办公及业务提效玩法，能结合业务痛点落地AI优化方案，有相关实习/项目经历优先； 5. 沟通推进能力强，结果导向、抗压好学，愿意长期深耕跨境电商赛道。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，数学、统计学、经济学等理工科相关专业优先，英语CET-6及以上"
+        ],
+        "eligibilityClauses": [
+          "运营策略管培生（27届校招）"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672657864284768553/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -132,7 +415,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "一本及以上学历，电子商务、市场营销、英语、国际贸易等相关专业优先。",
         "hardRestriction": false
       },
       "language": {
@@ -141,10 +424,77 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 负责TikTok Shop及TikTok账号日常运营，包括商品、内容、活动及店铺基础运营。 2. 协助制定TikTok内容及营销策略，参与短视频、直播、达人/KOL合作等项目执行。 3. 跟踪GMV、流量、转化率、投产比等核心数据，分析运营效果并持续优化。 4. 协同商品、内容、广告、设计等团队推进TikTok业务增长，逐步独立负责品类或店铺运营。",
+      "jobRequirements": "1. 一本及以上学历，电子商务、市场营销、英语、国际贸易等相关专业优先。 2. 英语读写能力良好，对TikTok、海外社媒及跨境电商有兴趣。 3. 具备较强的数据分析、逻辑思维、学习能力及执行力，对内容和热点有敏感度。 4. 有TikTok Shop、短视频、直播、达人/KOL、海外社媒运营经验者优先。",
+      "JD": "1. 负责TikTok Shop及TikTok账号日常运营，包括商品、内容、活动及店铺基础运营。 2. 协助制定TikTok内容及营销策略，参与短视频、直播、达人/KOL合作等项目执行。 3. 跟踪GMV、流量、转化率、投产比等核心数据，分析运营效果并持续优化。 4. 协同商品、内容、广告、设计等团队推进TikTok业务增长，逐步独立负责品类或店铺运营。\n1. 一本及以上学历，电子商务、市场营销、英语、国际贸易等相关专业优先。 2. 英语读写能力良好，对TikTok、海外社媒及跨境电商有兴趣。 3. 具备较强的数据分析、逻辑思维、学习能力及执行力，对内容和热点有敏感度。 4. 有TikTok Shop、短视频、直播、达人/KOL、海外社媒运营经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "一本及以上学历，电子商务、市场营销、英语、国际贸易等相关专业优先。"
+        ],
+        "eligibilityClauses": [
+          "TikTok运营管培生（27届校招）"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672651691866802459/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -161,7 +511,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "一本及以上学历，电子商务、市场营销、英语、国际贸易、数据分析等相关专业优先。",
         "hardRestriction": false
       },
       "language": {
@@ -170,10 +520,80 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、Excel、数据分析、SEO、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 负责海外品牌官网日常运营，包括商品上架、页面维护、活动配置及内容更新。 2. 协助新品上线、营销活动及专题页面搭建，持续优化网站用户体验和转化率。 3. 跟踪官网流量、销售、转化率、客单价等核心数据，发现问题并提出优化方案。 4. 协同产品、设计、广告、内容等团队推进官网增长，参与用户运营及会员营销。",
+      "jobRequirements": "1. 一本及以上学历，电子商务、市场营销、英语、国际贸易、数据分析等相关专业优先。 2. 英语读写能力良好，对跨境电商、海外市场及品牌官网运营有兴趣；具备欧洲小语种能力者优先。 3. 具备较强的数据分析、逻辑思维和学习能力，熟练使用Excel等办公工具。 4. 有独立站、Shopify、SEO、Google Analytics、海外社媒等相关经验者优先。",
+      "JD": "1. 负责海外品牌官网日常运营，包括商品上架、页面维护、活动配置及内容更新。 2. 协助新品上线、营销活动及专题页面搭建，持续优化网站用户体验和转化率。 3. 跟踪官网流量、销售、转化率、客单价等核心数据，发现问题并提出优化方案。 4. 协同产品、设计、广告、内容等团队推进官网增长，参与用户运营及会员营销。\n1. 一本及以上学历，电子商务、市场营销、英语、国际贸易、数据分析等相关专业优先。 2. 英语读写能力良好，对跨境电商、海外市场及品牌官网运营有兴趣；具备欧洲小语种能力者优先。 3. 具备较强的数据分析、逻辑思维和学习能力，熟练使用Excel等办公工具。 4. 有独立站、Shopify、SEO、Google Analytics、海外社媒等相关经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "一本及以上学历，电子商务、市场营销、英语、国际贸易、数据分析等相关专业优先。"
+        ],
+        "eligibilityClauses": [
+          "27届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "SEO",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "市场",
+        "电商",
+        "用户",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672650855288686884/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -190,8 +610,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "环境科学、环工、能动、化工、生态学、可持续发展、林学、供应链物流等相关专业；双一流 / 985/211 及海外名校优先，CET-6 及以上，可无障碍研读欧盟英文政策、欧美绿色贸易合规文件。",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -199,10 +619,74 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 碳数据归集分析：收集梳理公司全域运营及一二三层级供应链能耗、碳排放、原材料溯源信息，搭建碳数据基础台账。 2. ESG 报告编制支撑：归集 ESG 报告原始资料，按 GRI、ISO 规范整理指标数据，配合第三方审核核查。 3. 合规项目运营与风险管控：跟进 SBTi 科学碳目标核算追踪，对接供应商收集 CBAM、EUDR 合规数据，维护 FSC、GRS 环保认证及产品碳足迹档案，组织内部审核并闭环整改问题，完成内控合规全流程工作。 4. 绿色政策研判：追踪国内外双碳、ESG 及欧盟 CBAM、新电池法等绿色贸易新规，草拟政策解读简报。 5. 跨部门协同推进：联动采购、物流、销售等部门，保障合规数据按期报送、各项绿色管控要求落地执行。",
+      "jobRequirements": "1. 专业与学历外语：环境科学、环工、能动、化工、生态学、可持续发展、林学、供应链物流等相关专业；双一流 / 985/211 及海外名校优先，CET-6 及以上，可无障碍研读欧盟英文政策、欧美绿色贸易合规文件。 2. 学习与专业悟性：自主学习能力突出，对环境科学、碳足迹计算、温室气体排放等新知识有强烈的求知欲，能快速自学并应用于实际工作。 3. 思维与数据素养：逻辑缜密、细心严谨、对数据高度敏感，擅长拆解梳理零散信息，具备全面的问题分析与闭环解决能力。 软技能与工具加分：跨部门沟通协调、事项推动执行力强；掌握 Python/R、Tableau、Power BI 等数据分析可视化工具优先。 4. 经历与证书优先项：有ESG咨询、碳核算、环境监测实习，或环保科研课题、节能减排项目、相关领域论文发表经历；雅思 6.5+/ 托福 90+，持有 / 备考 PMP、CPA、CFA 等证书优先。",
+      "JD": "1. 碳数据归集分析：收集梳理公司全域运营及一二三层级供应链能耗、碳排放、原材料溯源信息，搭建碳数据基础台账。 2. ESG 报告编制支撑：归集 ESG 报告原始资料，按 GRI、ISO 规范整理指标数据，配合第三方审核核查。 3. 合规项目运营与风险管控：跟进 SBTi 科学碳目标核算追踪，对接供应商收集 CBAM、EUDR 合规数据，维护 FSC、GRS 环保认证及产品碳足迹档案，组织内部审核并闭环整改问题，完成内控合规全流程工作。 4. 绿色政策研判：追踪国内外双碳、ESG 及欧盟 CBAM、新电池法等绿色贸易新规，草拟政策解读简报。 5. 跨部门协同推进：联动采购、物流、销售等部门，保障合规数据按期报送、各项绿色管控要求落地执行。\n1. 专业与学历外语：环境科学、环工、能动、化工、生态学、可持续发展、林学、供应链物流等相关专业；双一流 / 985/211 及海外名校优先，CET-6 及以上，可无障碍研读欧盟英文政策、欧美绿色贸易合规文件。 2. 学习与专业悟性：自主学习能力突出，对环境科学、碳足迹计算、温室气体排放等新知识有强烈的求知欲，能快速自学并应用于实际工作。 3. 思维与数据素养：逻辑缜密、细心严谨、对数据高度敏感，擅长拆解梳理零散信息，具备全面的问题分析与闭环解决能力。 软技能与工具加分：跨部门沟通协调、事项推动执行力强；掌握 Python/R、Tableau、Power BI 等数据分析可视化工具优先。 4. 经历与证书优先项：有ESG咨询、碳核算、环境监测实习，或环保科研课题、节能减排项目、相关领域论文发表经历；雅思 6.5+/ 托福 90+，持有 / 备考 PMP、CPA、CFA 等证书优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "环境科学、环工、能动、化工、生态学、可持续发展、林学、供应链物流等相关专业；双一流 / 985/211 及海外名校优先，CET-6 及以上，可无障碍研读欧盟英文政策、欧美绿色贸易合规文件。"
+        ],
+        "eligibilityClauses": [
+          "合规运营管培生（27届校招）"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "数据",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672657442802944275/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,11 +699,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，人力资源管理、心理学、管理学等相关专业优先。",
         "hardRestriction": false
       },
       "language": {
@@ -228,10 +712,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：数据分析、项目管理。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、学习并参与人力资源各个模块的工作，进行多模块轮岗，全面了解人力体系，包括人才引进、学习发展、薪酬绩效、员工关系等； -协助招聘团队进行简历筛选、面试安排、薪酬谈判等工作，通过多维度数据分析，提升招聘效率和质量。 -参与员工培训的策划与组织，进行培训项目落地和培训效果评估。 -协助COE进行公司人力项目的落地和执行，掌握薪酬绩效体系和框架。 -协助处理员工关系问题，如员工入职、离职手续办理，劳动纠纷处理等。 2、了解公司业务和组织架构，为人力资源战略的制定提供建议和支持； -通过与不同部门的沟通与合作，深入了解公司业务流程和发展需求。 -分析人力资源数据，发现问题并提出解决方案，为公司的人力资源决策提供依据。 3、参与人力资源项目的策划与执行，提升项目管理能力； 4、参与企业文化建设项目，推动公司文化的落地与传承； 5、完成领导交办的其他任务，积极配合团队工作，展现良好的团队合作精神。",
+      "jobRequirements": "1、本科及以上学历，人力资源管理、心理学、管理学等相关专业优先。 2、具备较强的沟通协调能力和团队合作精神，自带亲和力，能够与不同层次的人员进行有效的沟通。 3、学习能力强，组织能力强，有责任心，同理心，工作积极主动，能够承受一定的工作压力。 4、熟练使用办公软件，数据分析能力较好。 5、对人力工作抱有极大的热情和意愿。",
+      "JD": "1、学习并参与人力资源各个模块的工作，进行多模块轮岗，全面了解人力体系，包括人才引进、学习发展、薪酬绩效、员工关系等； -协助招聘团队进行简历筛选、面试安排、薪酬谈判等工作，通过多维度数据分析，提升招聘效率和质量。 -参与员工培训的策划与组织，进行培训项目落地和培训效果评估。 -协助COE进行公司人力项目的落地和执行，掌握薪酬绩效体系和框架。 -协助处理员工关系问题，如员工入职、离职手续办理，劳动纠纷处理等。 2、了解公司业务和组织架构，为人力资源战略的制定提供建议和支持； -通过与不同部门的沟通与合作，深入了解公司业务流程和发展需求。 -分析人力资源数据，发现问题并提出解决方案，为公司的人力资源决策提供依据。 3、参与人力资源项目的策划与执行，提升项目管理能力； 4、参与企业文化建设项目，推动公司文化的落地与传承； 5、完成领导交办的其他任务，积极配合团队工作，展现良好的团队合作精神。\n1、本科及以上学历，人力资源管理、心理学、管理学等相关专业优先。 2、具备较强的沟通协调能力和团队合作精神，自带亲和力，能够与不同层次的人员进行有效的沟通。 3、学习能力强，组织能力强，有责任心，同理心，工作积极主动，能够承受一定的工作压力。 4、熟练使用办公软件，数据分析能力较好。 5、对人力工作抱有极大的热情和意愿。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，人力资源管理、心理学、管理学等相关专业优先。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7673070370810988810/detail",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -248,7 +788,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "一本及以上院校毕业，物流管理、采购管理、国际贸易、商务管理等相关专业优先，具备欧美留学背景或生活经历者优先",
         "hardRestriction": false
       },
       "language": {
@@ -257,10 +797,75 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 结合行业趋势、技术发展及供应链动态，制定仓储物流采购业务项目规划，支撑公司供应链体系高效运转； 2. 承接公司供应链战略，落地物流各模块中仓储、运输、清关等板块布局。基于市场调研、成本分析及业务需求洞察，输出精准的采购项目方案与规划，助力全年降本增效与运营目标达成； 3. 结合业务场景与对标分析，提炼核心优势，输出商务谈判策略、供应商沟通材料； 4. 供应商全生命周期管理，分析供应商绩效数据，推进供应商绩效提升，落地供应商分级应用和供应商关系管理长期策略。 5. 跟进仓储物流采购全流程进展，协同排查、分析业务异常问题，结合AI辅助，推进商务采购提升。",
+      "jobRequirements": "1. 一本及以上院校毕业，物流管理、采购管理、国际贸易、商务管理等相关专业优先，具备欧美留学背景或生活经历者优先； 2. 入职前半年需在仓储、运输、关务等板块轮岗，深入业务一线学习，掌握上下游知识技能，积累实践经验，培养综合供应链能力； 3. 有跨境电商仓储物流、亚马逊FBA或采购商务实习经验者优先； 4. 具备良好的独立思考、沟通协调能力，及较强的学习主动性与执行力。",
+      "JD": "1. 结合行业趋势、技术发展及供应链动态，制定仓储物流采购业务项目规划，支撑公司供应链体系高效运转； 2. 承接公司供应链战略，落地物流各模块中仓储、运输、清关等板块布局。基于市场调研、成本分析及业务需求洞察，输出精准的采购项目方案与规划，助力全年降本增效与运营目标达成； 3. 结合业务场景与对标分析，提炼核心优势，输出商务谈判策略、供应商沟通材料； 4. 供应商全生命周期管理，分析供应商绩效数据，推进供应商绩效提升，落地供应商分级应用和供应商关系管理长期策略。 5. 跟进仓储物流采购全流程进展，协同排查、分析业务异常问题，结合AI辅助，推进商务采购提升。\n1. 一本及以上院校毕业，物流管理、采购管理、国际贸易、商务管理等相关专业优先，具备欧美留学背景或生活经历者优先； 2. 入职前半年需在仓储、运输、关务等板块轮岗，深入业务一线学习，掌握上下游知识技能，积累实践经验，培养综合供应链能力； 3. 有跨境电商仓储物流、亚马逊FBA或采购商务实习经验者优先； 4. 具备良好的独立思考、沟通协调能力，及较强的学习主动性与执行力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "一本及以上院校毕业，物流管理、采购管理、国际贸易、商务管理等相关专业优先，具备欧美留学背景或生活经历者优先"
+        ],
+        "eligibilityClauses": [
+          "物流商务管培生（27届校招）"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "供应链",
+        "洞察",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672660674723498281/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -277,7 +882,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "一本及以上学历，统计学、数学、电子商务、英语等相关专业优先，优秀应届生可培养。",
         "hardRestriction": false
       },
       "language": {
@@ -286,10 +891,74 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、数据分析、跨部门沟通、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 经营分析与策略制定：分析销量、利润、库存、定价、渠道等核心数据，定位经营问题与增长机会，输出策略方案支撑业务决策与资源投放。 2. 销售流程数字化搭建：针对商品上架、订单、库存、需求预测、促销等场景，落地规则标准化、流程线上化、系统自动化改造，提升运营管理效率。 3. 全渠道一体化管控：统筹线上线下多渠道业务统一管理，打通货品、价格、库存、营销、预测数据，强化多渠道协同与风险管控。 4. 运营机制迭代提效：优化分货、定价、促销、销量预测等运营机制，运用数据工具、自动化及 AI 能力，提升决策效率与业务响应速度。 5. 跨部门项目落地：协同销售、供应链、产品、IT 等团队推进策略、系统及专项经营项目，解决协同卡点，保障经营目标达成。",
+      "jobRequirements": "1. 学历与专业：一本及以上学历，统计学、数学、电子商务、英语等相关专业优先，优秀应届生可培养。 2. 数据与业务能力：具备良好的数据敏感度与经营分析能力，可通过销售、库存、价格、渠道、促销等多维数据，挖掘业务问题与增长机会，输出可落地的经营策略。 3. 逻辑与体系能力：逻辑清晰、思维缜密，具备优秀的流程梳理、体系搭建和问题复盘能力，可独立推进销售流程优化、运营机制迭代及数字化提效相关项目。 4. 工具与项目素养：熟练掌握各类数据分析工具者优先；拥有电商、零售中台、经营分析、销售策略相关实习或项目经验者优先加分。 5. 沟通与推进能力：具备出色的跨部门沟通、资源协调与项目推进能力，工作主动积极，可承接复杂业务问题，保障工作闭环落地。",
+      "JD": "1. 经营分析与策略制定：分析销量、利润、库存、定价、渠道等核心数据，定位经营问题与增长机会，输出策略方案支撑业务决策与资源投放。 2. 销售流程数字化搭建：针对商品上架、订单、库存、需求预测、促销等场景，落地规则标准化、流程线上化、系统自动化改造，提升运营管理效率。 3. 全渠道一体化管控：统筹线上线下多渠道业务统一管理，打通货品、价格、库存、营销、预测数据，强化多渠道协同与风险管控。 4. 运营机制迭代提效：优化分货、定价、促销、销量预测等运营机制，运用数据工具、自动化及 AI 能力，提升决策效率与业务响应速度。 5. 跨部门项目落地：协同销售、供应链、产品、IT 等团队推进策略、系统及专项经营项目，解决协同卡点，保障经营目标达成。\n1. 学历与专业：一本及以上学历，统计学、数学、电子商务、英语等相关专业优先，优秀应届生可培养。 2. 数据与业务能力：具备良好的数据敏感度与经营分析能力，可通过销售、库存、价格、渠道、促销等多维数据，挖掘业务问题与增长机会，输出可落地的经营策略。 3. 逻辑与体系能力：逻辑清晰、思维缜密，具备优秀的流程梳理、体系搭建和问题复盘能力，可独立推进销售流程优化、运营机制迭代及数字化提效相关项目。 4. 工具与项目素养：熟练掌握各类数据分析工具者优先；拥有电商、零售中台、经营分析、销售策略相关实习或项目经验者优先加分。 5. 沟通与推进能力：具备出色的跨部门沟通、资源协调与项目推进能力，工作主动积极，可承接复杂业务问题，保障工作闭环落地。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "一本及以上学历，统计学、数学、电子商务、英语等相关专业优先，优秀应届生可培养。"
+        ],
+        "eligibilityClauses": [
+          "优秀应届生可培养。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "跨部门沟通",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "数据",
+        "营销",
+        "供应链",
+        "商务"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672655964374386953/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -306,8 +975,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -315,10 +984,75 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：跨部门沟通。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、基于销售预测，海外在库、安全库存等核心数据，制定补货计划并进行在制订单动态调节，保障有货率。基于补货计划生成订货指令、生产指令和发货指令；并监控供应商产能和原材料供应情况。 2、整合内部订单需求并结合供应商实际情况进行供应商订单分配，形成整体较优的采购方案； 3、制作和管理采购合同并与供应商保持沟通，结合公司出货要求协调供应商交货计划，跟进供应商交付情况并把控交付结果； 4、保障交付结果的同时降低国内运输等相关成本。 5、结合售卖情况，与跨部门沟通库存消化方案，推动国内库存消化，减少库存呆滞。 6、对全链条库存周转进行管理，控制并提升库存周转率。",
+      "jobRequirements": "1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）。 2、性格外向、善于表达； 具有强烈的自驱力，责任感，目标导向，学习能力强。 3、优秀的逻辑思考力&抗压力，在校成绩优良。",
+      "JD": "1、基于销售预测，海外在库、安全库存等核心数据，制定补货计划并进行在制订单动态调节，保障有货率。基于补货计划生成订货指令、生产指令和发货指令；并监控供应商产能和原材料供应情况。 2、整合内部订单需求并结合供应商实际情况进行供应商订单分配，形成整体较优的采购方案； 3、制作和管理采购合同并与供应商保持沟通，结合公司出货要求协调供应商交货计划，跟进供应商交付情况并把控交付结果； 4、保障交付结果的同时降低国内运输等相关成本。 5、结合售卖情况，与跨部门沟通库存消化方案，推动国内库存消化，减少库存呆滞。 6、对全链条库存周转进行管理，控制并提升库存周转率。\n1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）。 2、性格外向、善于表达； 具有强烈的自驱力，责任感，目标导向，学习能力强。 3、优秀的逻辑思考力&抗压力，在校成绩优良。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672701347628075307/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -331,7 +1065,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -344,10 +1078,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：采购 / 贸易 / 交通 / 物流。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、供应商资源池建设、供应商选择和管理，与供应商谈判价格、交期、账期、质量等合作条款； 2、把握所负责物料的各类属性，包括材质、工艺、配件、包装、描述、说明书等； 3、负责采购合同的起草及签订，完成采购计划，保证物料的供应； 4、把控供应商产能及制程，保证供给、持续优化成本; 5、供应商评价考核，竞争对手供应链调研分析，优秀供应商储备等。",
+      "jobRequirements": "1、重点本科及以上学历，国贸/物流/电子商务/工业工程/设计类等相关专业优先； 2、较好的英语能力，CET-6级或以上； 3、善于沟通、乐于合作，擅长总结分享。",
+      "JD": "1、供应商资源池建设、供应商选择和管理，与供应商谈判价格、交期、账期、质量等合作条款； 2、把握所负责物料的各类属性，包括材质、工艺、配件、包装、描述、说明书等； 3、负责采购合同的起草及签订，完成采购计划，保证物料的供应； 4、把控供应商产能及制程，保证供给、持续优化成本; 5、供应商评价考核，竞争对手供应链调研分析，优秀供应商储备等。\n1、重点本科及以上学历，国贸/物流/电子商务/工业工程/设计类等相关专业优先； 2、较好的英语能力，CET-6级或以上； 3、善于沟通、乐于合作，擅长总结分享。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "供应链",
+        "商务",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672700132513302820/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -360,12 +1149,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "2. 985 / 211 / 双一流高校或海外知名院校本科及以上学历，国际贸易、物流管理、航运管理、供应链管理等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -373,10 +1162,79 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语、SQL、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 负责跨境电商出口物流的日常操作（订舱，拖车、报关、单证），准确合规、高效流转。 2. 管理物流供应商（船公司、货代、报关行等），维护合作关系，监控时效、成本与服务质量。 3. 协调解决物流异常，保障货物按计划发运及交付。 4. 与内部其他团队紧密沟通，支持业务需求和项目落地。 5. 市场趋势、数据收集分析，协助推动流程优化、成本改善及系统化建设。",
+      "jobRequirements": "1. 认同企业“植根用户、认真做事、坦诚清晰”的价值观，愿意深耕供应链领域。 2. 985 / 211 / 双一流高校或海外知名院校本科及以上学历，国际贸易、物流管理、航运管理、供应链管理等相关专业。 3. 出色的英语读写能力，能独立完成英文单证及商务邮件往来，具备英语口语交流能力。 4. 积极主动，具备良好的团队协作能力，有较强的计划、组织及多任务处理能力。 5. 熟练使用办公软件，具备数据处理与量化分析能力，具备Python、SQL经验优先。",
+      "JD": "1. 负责跨境电商出口物流的日常操作（订舱，拖车、报关、单证），准确合规、高效流转。 2. 管理物流供应商（船公司、货代、报关行等），维护合作关系，监控时效、成本与服务质量。 3. 协调解决物流异常，保障货物按计划发运及交付。 4. 与内部其他团队紧密沟通，支持业务需求和项目落地。 5. 市场趋势、数据收集分析，协助推动流程优化、成本改善及系统化建设。\n1. 认同企业“植根用户、认真做事、坦诚清晰”的价值观，愿意深耕供应链领域。 2. 985 / 211 / 双一流高校或海外知名院校本科及以上学历，国际贸易、物流管理、航运管理、供应链管理等相关专业。 3. 出色的英语读写能力，能独立完成英文单证及商务邮件往来，具备英语口语交流能力。 4. 积极主动，具备良好的团队协作能力，有较强的计划、组织及多任务处理能力。 5. 熟练使用办公软件，具备数据处理与量化分析能力，具备Python、SQL经验优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 985 / 211 / 双一流高校或海外知名院校本科及以上学历，国际贸易、物流管理、航运管理、供应链管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "电商",
+        "用户",
+        "数据",
+        "供应链",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672663294267885860/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -402,10 +1260,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：产品 / 策划 / 项目。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "结合消费趋势、技术趋势及产业链动态，制定各品类产品中长期路标规划，支撑公司业务持续发展； 承接公司品类战略，系统规划品类布局，助力全年销售与利润目标高效达成； 基于市场调研、竞争分析及需求洞察，输出精准的产品定义； 结合产品定义与竞品分析，提炼核心卖点，输出卖点沟通材料及产品培训内容； 跟进产品上市全流程进展，协同排查、分析产品异常问题，统筹产品全生命周期管理。",
+      "jobRequirements": "一本及以上院校毕业，工业设计、家具设计、木材科学等相关专业优先；具备欧美留学背景或生活经历者优先； 入职前半年需在销售等板块轮岗，深入业务一线学习，掌握跨领域知识技能，积累实践经验，培养综合型产品能力； 有家具 / 家居行业或亚马逊平台实习经验者优先； 具备良好的独立思考、沟通协调能力，及较强的学习主动性与执行力。",
+      "JD": "结合消费趋势、技术趋势及产业链动态，制定各品类产品中长期路标规划，支撑公司业务持续发展； 承接公司品类战略，系统规划品类布局，助力全年销售与利润目标高效达成； 基于市场调研、竞争分析及需求洞察，输出精准的产品定义； 结合产品定义与竞品分析，提炼核心卖点，输出卖点沟通材料及产品培训内容； 跟进产品上市全流程进展，协同排查、分析产品异常问题，统筹产品全生命周期管理。\n一本及以上院校毕业，工业设计、家具设计、木材科学等相关专业优先；具备欧美留学背景或生活经历者优先； 入职前半年需在销售等板块轮岗，深入业务一线学习，掌握跨领域知识技能，积累实践经验，培养综合型产品能力； 有家具 / 家居行业或亚马逊平台实习经验者优先； 具备良好的独立思考、沟通协调能力，及较强的学习主动性与执行力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "市场",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7683054353284040979/detail",
-      "lastVerified": "2026-09-08",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -418,7 +1332,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -431,10 +1345,70 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：采购 / 贸易 / 交通 / 物流。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、分析外部客诉以及内部品质数据，追踪品质异常问题改善； 2、参与新产品品质测试及评审； 3、参与质量预防和工厂质量赋能及管理； 4、参与产品质量及检验标准编制优化，参与质量流程和体系文件编制优化； 5、对接客服部门，推进质量客诉改进闭环。",
+      "jobRequirements": "1、重点本科及以上学历，对质量管理工作感兴趣， 有较强的数据分析意识； 2、抗压能力强，有上进心，良好的沟通表达和逻辑思维能力； 3、积极主动，有良好的团队合作精神； 4、能接受长期海外出差。",
+      "JD": "1、分析外部客诉以及内部品质数据，追踪品质异常问题改善； 2、参与新产品品质测试及评审； 3、参与质量预防和工厂质量赋能及管理； 4、参与产品质量及检验标准编制优化，参与质量流程和体系文件编制优化； 5、对接客服部门，推进质量客诉改进闭环。\n1、重点本科及以上学历，对质量管理工作感兴趣， 有较强的数据分析意识； 2、抗压能力强，有上进心，良好的沟通表达和逻辑思维能力； 3、积极主动，有良好的团队合作精神； 4、能接受长期海外出差。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "数据",
+        "物流"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672699586654193970/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -447,12 +1421,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "会计学、财务管理、审计、金融等财务相关专业；（2）具备扎实的财务专业知识，熟悉财务软件和办公软件的操作",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -460,10 +1434,72 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：职能 / 支持。识别关键词：英语、Excel、SQL。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "根据具体岗位工作需要，工作内容包括以下的一项或者多项。 1、管理现金和国内外银行账户，协助完成结算、融资、理财、票据等业务； 2、分析、核对海外网络销售平台数据，处理账务，协助同事与销售平台沟通； 3、整理财务数据，核算费用和成本，出具财务报表和管理报表； 4、研究国内外税法，结合业务特点协调达成合规义务，协助税务师完成税务申报； 5、运用各种工具分析业务数据，发现潜在问题并推动改善，为业务提供支持； 6、支持审计、财务分析等部门交待的其它工作。",
+      "jobRequirements": "1、专业背景：本科及以上学历；会计学、财务管理、审计、金融等财务相关专业。 2、工作背景：优秀的应届毕业生，海外留学生优先。可接受在校实习生（以就业为目的）。 3、技能要求： （1）英语流利（CET6级500分以上或同等水平），可作为工作语言（必备项）； （2）具备扎实的财务专业知识，熟悉财务软件和办公软件的操作； （3）具备大量数据的分析能力，熟练掌握EXCEL函数，熟悉SQL、编程语言及AI智能体搭建为加分项； （4）具备良好的学习能力，能理解会计准则和税法，并在业务中有效应用； （5）具备良好的沟通能力和团队合作精神，能够积极主动地学习和工作。",
+      "JD": "根据具体岗位工作需要，工作内容包括以下的一项或者多项。 1、管理现金和国内外银行账户，协助完成结算、融资、理财、票据等业务； 2、分析、核对海外网络销售平台数据，处理账务，协助同事与销售平台沟通； 3、整理财务数据，核算费用和成本，出具财务报表和管理报表； 4、研究国内外税法，结合业务特点协调达成合规义务，协助税务师完成税务申报； 5、运用各种工具分析业务数据，发现潜在问题并推动改善，为业务提供支持； 6、支持审计、财务分析等部门交待的其它工作。\n1、专业背景：本科及以上学历；会计学、财务管理、审计、金融等财务相关专业。 2、工作背景：优秀的应届毕业生，海外留学生优先。可接受在校实习生（以就业为目的）。 3、技能要求： （1）英语流利（CET6级500分以上或同等水平），可作为工作语言（必备项）； （2）具备扎实的财务专业知识，熟悉财务软件和办公软件的操作； （3）具备大量数据的分析能力，熟练掌握EXCEL函数，熟悉SQL、编程语言及AI智能体搭建为加分项； （4）具备良好的学习能力，能理解会计准则和税法，并在业务中有效应用； （5）具备良好的沟通能力和团队合作精神，能够积极主动地学习和工作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "会计学、财务管理、审计、金融等财务相关专业",
+          "（2）具备扎实的财务专业知识，熟悉财务软件和办公软件的操作"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672664457365113139/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -489,10 +1525,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "结合消费趋势、技术趋势及产业链动态，制定各品类产品中长期路标规划，支撑公司业务持续发展； 承接公司品类战略，系统规划品类布局，助力全年销售与利润目标高效达成； 基于市场调研、竞争分析及需求洞察，输出精准的产品定义； 结合产品定义与竞品分析，提炼核心卖点，输出卖点沟通材料及产品培训内容； 跟进产品上市全流程进展，协同排查、分析产品异常问题，统筹产品全生命周期管理。",
+      "jobRequirements": "一本及以上院校毕业，工业设计、家具设计、木材科学等相关专业优先；具备欧美留学背景或生活经历者优先； 知识技能，积累实践经验，培养综合型产品能力； 有家具 / 家居行业或亚马逊平台实习经验者优先； 具备良好的独立思考、沟通协调能力，及较强的学习主动性与执行力",
+      "JD": "结合消费趋势、技术趋势及产业链动态，制定各品类产品中长期路标规划，支撑公司业务持续发展； 承接公司品类战略，系统规划品类布局，助力全年销售与利润目标高效达成； 基于市场调研、竞争分析及需求洞察，输出精准的产品定义； 结合产品定义与竞品分析，提炼核心卖点，输出卖点沟通材料及产品培训内容； 跟进产品上市全流程进展，协同排查、分析产品异常问题，统筹产品全生命周期管理。\n一本及以上院校毕业，工业设计、家具设计、木材科学等相关专业优先；具备欧美留学背景或生活经历者优先； 知识技能，积累实践经验，培养综合型产品能力； 有家具 / 家居行业或亚马逊平台实习经验者优先； 具备良好的独立思考、沟通协调能力，及较强的学习主动性与执行力",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7680387478788163886/detail",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -509,8 +1600,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -518,10 +1609,74 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：跨部门沟通。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、基于销售预测，海外在库、安全库存等核心数据，制定补货计划并进行在制订单动态调节，保障有货率。基于补货计划生成订货指令、生产指令和发货指令；并监控供应商产能和原材料供应情况。 2、整合内部订单需求并结合供应商实际情况进行供应商订单分配，形成整体较优的采购方案； 3、制作和管理采购合同并与供应商保持沟通，结合公司出货要求协调供应商交货计划，跟进供应商交付情况并把控交付结果； 4、保障交付结果的同时降低国内运输等相关成本。 5、结合售卖情况，与跨部门沟通库存消化方案，推动国内库存消化，减少库存呆滞。 6、对全链条库存周转进行管理，控制并提升库存周转率。",
+      "jobRequirements": "1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）。 2、性格外向、善于表达； 具有强烈的自驱力，责任感，目标导向，学习能力强。 3、优秀的逻辑思考力&抗压力，在校成绩优良。",
+      "JD": "1、基于销售预测，海外在库、安全库存等核心数据，制定补货计划并进行在制订单动态调节，保障有货率。基于补货计划生成订货指令、生产指令和发货指令；并监控供应商产能和原材料供应情况。 2、整合内部订单需求并结合供应商实际情况进行供应商订单分配，形成整体较优的采购方案； 3、制作和管理采购合同并与供应商保持沟通，结合公司出货要求协调供应商交货计划，跟进供应商交付情况并把控交付结果； 4、保障交付结果的同时降低国内运输等相关成本。 5、结合售卖情况，与跨部门沟通库存消化方案，推动国内库存消化，减少库存呆滞。 6、对全链条库存周转进行管理，控制并提升库存周转率。\n1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）。 2、性格外向、善于表达； 具有强烈的自驱力，责任感，目标导向，学习能力强。 3、优秀的逻辑思考力&抗压力，在校成绩优良。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672697493722269998/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -547,10 +1702,64 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：设计。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、洞悉产品设计与创意的流行趋势，通过参与用户研究、市场调研挖掘用户需求，提出产品创新和改善点，进行产品外观、结构、功能、体验等多维度设计； 2、根据公司品牌调性和市场需求，进行设计方案提案，参与并跟进产品生产工艺方案的制定及样品制作； 3、对品牌产品设计及用户体验提供有价值的想法和观点，保障设计落地，产出有效商业价值； 4、协助产品开发组进行产品改进，完成完善方案的制定。",
+      "jobRequirements": "1、八大美院或一本及以上学历，工业设计、产品设计等相关专业，具备欧美留学背景或生活经历者优先，投递简历请附带个人作品集； 2、具备良好的美术功底和美学基础，具备色彩、材料、工艺等CMF相关知识储备； 3、具备良好的商业设计分析能力和设计趋势判断能力，有家具类设计比赛、商业项目实践经历的优先， 4、擅长手绘，能够熟练使用常用设计软件，具备良好的沟通能力和自驱意识。",
+      "JD": "1、洞悉产品设计与创意的流行趋势，通过参与用户研究、市场调研挖掘用户需求，提出产品创新和改善点，进行产品外观、结构、功能、体验等多维度设计； 2、根据公司品牌调性和市场需求，进行设计方案提案，参与并跟进产品生产工艺方案的制定及样品制作； 3、对品牌产品设计及用户体验提供有价值的想法和观点，保障设计落地，产出有效商业价值； 4、协助产品开发组进行产品改进，完成完善方案的制定。\n1、八大美院或一本及以上学历，工业设计、产品设计等相关专业，具备欧美留学背景或生活经历者优先，投递简历请附带个人作品集； 2、具备良好的美术功底和美学基础，具备色彩、材料、工艺等CMF相关知识储备； 3、具备良好的商业设计分析能力和设计趋势判断能力，有家具类设计比赛、商业项目实践经历的优先， 4、擅长手绘，能够熟练使用常用设计软件，具备良好的沟通能力和自驱意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672690504877984046/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -563,12 +1772,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，国贸、英语类相关专业，英语六级及以上，口语流利",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -576,10 +1785,75 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、根据平台询盘、社媒途径及开发信等方式开发国外客户促成订单，完成销售任务； 2、搜集整理客户信息，通过邮件等形式与海外客户沟通，维护良好关系； 3、参加国内外展会，开拓国际业务及销售渠道； 4、负责客户来访接待，订单洽谈、商务谈判等工作； 5、综合能力及成绩突出优秀者带团队开展新项目。",
+      "jobRequirements": "1、本科及以上学历，国贸、英语类相关专业，英语六级及以上，口语流利； 2、熟悉外贸整体业务流程，有B2B平台销售经验或参展实习经验者优先； 3、善于客户沟通交流，具有良好的业务拓展能力和商务谈判技巧； 4、具有较强的事业心和团队合作精神，勇于开拓和创新，抗压力强。",
+      "JD": "1、根据平台询盘、社媒途径及开发信等方式开发国外客户促成订单，完成销售任务； 2、搜集整理客户信息，通过邮件等形式与海外客户沟通，维护良好关系； 3、参加国内外展会，开拓国际业务及销售渠道； 4、负责客户来访接待，订单洽谈、商务谈判等工作； 5、综合能力及成绩突出优秀者带团队开展新项目。\n1、本科及以上学历，国贸、英语类相关专业，英语六级及以上，口语流利； 2、熟悉外贸整体业务流程，有B2B平台销售经验或参展实习经验者优先； 3、善于客户沟通交流，具有良好的业务拓展能力和商务谈判技巧； 4、具有较强的事业心和团队合作精神，勇于开拓和创新，抗压力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，国贸、英语类相关专业，英语六级及以上，口语流利"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "客户",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672664313010604351/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -596,7 +1870,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 一本及以上院校毕业，物流管理、工业工程、数学、统计、交通运输等专业，具备欧美留学背景或生活经历者优先",
         "hardRestriction": false
       },
       "language": {
@@ -605,10 +1879,75 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：SQL。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 负责公司订单的接收、审核、分配、异常处理； 2. 尾程配送费用的拆解研究分析，提升对配送费的可管理和可预测性； 3. 通过订单履约时效、仓库作业数据的分析，完善端到端物流监控预警体系，并通过流程优化实现订单履约时效、人员操作效率的持续提升； 4. 基于市场调研、竞争分析及需求洞察，综合成本、时效搭建仓库选址分析模型，输出选址决策报告。",
+      "jobRequirements": "1. 一本及以上院校毕业，物流管理、工业工程、数学、统计、交通运输等专业，具备欧美留学背景或生活经历者优先； 2. 在校期间成绩优良，有数据建模、优化算法经验，能够熟练使用Python、SQL等数据处理工具； 3. 优秀的逻辑思考力&抗压力，在校成绩优良； 4. 善于表达，有较强的抗压能力， 具有强烈的自驱力，责任感，目标导向，对海外物流配送有强烈的兴趣，有并在该领域有清晰的个人发展规划。",
+      "JD": "1. 负责公司订单的接收、审核、分配、异常处理； 2. 尾程配送费用的拆解研究分析，提升对配送费的可管理和可预测性； 3. 通过订单履约时效、仓库作业数据的分析，完善端到端物流监控预警体系，并通过流程优化实现订单履约时效、人员操作效率的持续提升； 4. 基于市场调研、竞争分析及需求洞察，综合成本、时效搭建仓库选址分析模型，输出选址决策报告。\n1. 一本及以上院校毕业，物流管理、工业工程、数学、统计、交通运输等专业，具备欧美留学背景或生活经历者优先； 2. 在校期间成绩优良，有数据建模、优化算法经验，能够熟练使用Python、SQL等数据处理工具； 3. 优秀的逻辑思考力&抗压力，在校成绩优良； 4. 善于表达，有较强的抗压能力， 具有强烈的自驱力，责任感，目标导向，对海外物流配送有强烈的兴趣，有并在该领域有清晰的个人发展规划。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 一本及以上院校毕业，物流管理、工业工程、数学、统计、交通运输等专业，具备欧美留学背景或生活经历者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "洞察",
+        "物流"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672663889401628979/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -625,7 +1964,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2. 合规能力培养 ：学习商品归类、原产地规则、贸易政策解读等专业知识，参与合规风险排查，协助处理通关异常问题 跨部门协同 ：对接工厂、运输、清关代理等上下游角色，跟进清关全流程，保障货物顺利通关；1. 学历与专业 ：一本及以上院校毕业，供应链管理、物流工程、国际经济与贸易、电子商务类专业优先，211/985 院校及海外留学生优先",
         "hardRestriction": false
       },
       "language": {
@@ -634,10 +1973,76 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 基础业务实操 ：清关单证审核发送、HS 编码确认、关单审核、关税请款、查验跟进等基础关务工作，逐步掌握各国关务流程。 2. 合规能力培养 ：学习商品归类、原产地规则、贸易政策解读等专业知识，参与合规风险排查，协助处理通关异常问题 跨部门协同 ：对接工厂、运输、清关代理等上下游角色，跟进清关全流程，保障货物顺利通关。 3. 项目与系统优化 ：参与关务政策研究、合规流程搭建、关务系统功能迭代等专项项目，输出优化建议。",
+      "jobRequirements": "1. 学历与专业 ：一本及以上院校毕业，供应链管理、物流工程、国际经济与贸易、电子商务类专业优先，211/985 院校及海外留学生优先。 2. 语言能力 ：英语六级及以上，具备西语/葡萄牙语/德语等小语种能力者优先。 3. 能力素质 ：具备良好的学习能力、沟通协调能力与责任心，有跨境物流、外贸相关实习经验者优先。 4. 资格证书 ：持有初级关务管理师、商品归类水平证书等相关资格证书者优先。",
+      "JD": "1. 基础业务实操 ：清关单证审核发送、HS 编码确认、关单审核、关税请款、查验跟进等基础关务工作，逐步掌握各国关务流程。 2. 合规能力培养 ：学习商品归类、原产地规则、贸易政策解读等专业知识，参与合规风险排查，协助处理通关异常问题 跨部门协同 ：对接工厂、运输、清关代理等上下游角色，跟进清关全流程，保障货物顺利通关。 3. 项目与系统优化 ：参与关务政策研究、合规流程搭建、关务系统功能迭代等专项项目，输出优化建议。\n1. 学历与专业 ：一本及以上院校毕业，供应链管理、物流工程、国际经济与贸易、电子商务类专业优先，211/985 院校及海外留学生优先。 2. 语言能力 ：英语六级及以上，具备西语/葡萄牙语/德语等小语种能力者优先。 3. 能力素质 ：具备良好的学习能力、沟通协调能力与责任心，有跨境物流、外贸相关实习经验者优先。 4. 资格证书 ：持有初级关务管理师、商品归类水平证书等相关资格证书者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 合规能力培养 ：学习商品归类、原产地规则、贸易政策解读等专业知识，参与合规风险排查，协助处理通关异常问题 跨部门协同 ：对接工厂、运输、清关代理等上下游角色，跟进清关全流程，保障货物顺利通关",
+          "1. 学历与专业 ：一本及以上院校毕业，供应链管理、物流工程、国际经济与贸易、电子商务类专业优先，211/985 院校及海外留学生优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "供应链",
+        "商务",
+        "物流"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672659909695441162/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -650,11 +2055,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科及以上学历，计算机科学、软件工程、统计学、数学、信息管理、财务等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -663,10 +2068,64 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、根据信息技术中心岗位/轮岗安排，深入了解公司的业务流程、技术架构和团队协作模式； 2、协助各部门完成相关的基础工作任务，包括但不限于代码编写、数据收集与分析、产品需求调研等； 3、积极学习并掌握最新的技术和工具，应用于实际工作中，提高工作效率和质量； 4、参与公司内部的项目实践，运用所学知识和技能为项目的推进贡献力量； 5、参与团队内部的技术交流和分享，提升自身技术水平和团队协作能力； 6、积极关注行业动态和技术发展趋势，为公司的业务创新和技术优化提供有价值的建议。",
+      "jobRequirements": "1、本科及以上学历，计算机科学、软件工程、统计学、数学、信息管理、财务等相关专业优先； 2、具备扎实的编程基础，熟练掌握至少一种编程语言，如 Java、Python等； 3、对数据结构、算法、数据库等基础知识有较好的理解和掌握； 4、具备较强的逻辑思维能力和问题解决能力，善于分析和总结； 5、有良好的沟通表达能力和团队合作精神，能够快速融入团队并适应不同的工作环境； 6、具备创新思维和责任心，对IT行业充满热情，愿意在不同领域挑战和发展； 7、具备较强的学习能力和自我驱动力，能够不断提升自己的专业水平。",
+      "JD": "1、根据信息技术中心岗位/轮岗安排，深入了解公司的业务流程、技术架构和团队协作模式； 2、协助各部门完成相关的基础工作任务，包括但不限于代码编写、数据收集与分析、产品需求调研等； 3、积极学习并掌握最新的技术和工具，应用于实际工作中，提高工作效率和质量； 4、参与公司内部的项目实践，运用所学知识和技能为项目的推进贡献力量； 5、参与团队内部的技术交流和分享，提升自身技术水平和团队协作能力； 6、积极关注行业动态和技术发展趋势，为公司的业务创新和技术优化提供有价值的建议。\n1、本科及以上学历，计算机科学、软件工程、统计学、数学、信息管理、财务等相关专业优先； 2、具备扎实的编程基础，熟练掌握至少一种编程语言，如 Java、Python等； 3、对数据结构、算法、数据库等基础知识有较好的理解和掌握； 4、具备较强的逻辑思维能力和问题解决能力，善于分析和总结； 5、有良好的沟通表达能力和团队合作精神，能够快速融入团队并适应不同的工作环境； 6、具备创新思维和责任心，对IT行业充满热情，愿意在不同领域挑战和发展； 7、具备较强的学习能力和自我驱动力，能够不断提升自己的专业水平。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，计算机科学、软件工程、统计学、数学、信息管理、财务等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7671208965186881798/detail",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -679,12 +2138,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1：教育与语言 ：本科及以上学历，统计学、数学类、供应链管理等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -692,10 +2151,73 @@
         "minorLanguageRequired": false
       },
       "location": "郑州",
-      "JD": "致欧家居官方校园招聘岗位；职类：互联网 / 电子 / 网游。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1：交付全流程管理 ：统筹订单交付周期，确保新品及常规订单按时履行，保障交付及时率达标；协调内外部资源，处理订单调整、交期变更等异常状况。 2：订单与出货协同 ：与采购端和供应商对接，确认订单需求，跟进生产进度和出货安排；维护订单数据准确性，定期输出交付进度报表。 3：供应商协同与风险管控 ：评估供应商产能，监控生产风险并及时预警；与供应商 PMC 团队对接，协调排产计划，保障物料与生产相匹配。 4：财务流程闭环 ：负责订单对账、发票跟进及请付款流程，确保财务数据准确无误。",
+      "jobRequirements": "1：教育与语言 ：本科及以上学历，统计学、数学类、供应链管理等相关专业； 2：综合能力 ：抗压能力强，能适应多任务并行的快节奏工作；细致严谨，具备优秀的沟通协调能力和跨部门协作意识；逻辑清晰，问题解决能力突出，目标感强； 3：可接受阶段性海外出差。",
+      "JD": "1：交付全流程管理 ：统筹订单交付周期，确保新品及常规订单按时履行，保障交付及时率达标；协调内外部资源，处理订单调整、交期变更等异常状况。 2：订单与出货协同 ：与采购端和供应商对接，确认订单需求，跟进生产进度和出货安排；维护订单数据准确性，定期输出交付进度报表。 3：供应商协同与风险管控 ：评估供应商产能，监控生产风险并及时预警；与供应商 PMC 团队对接，协调排产计划，保障物料与生产相匹配。 4：财务流程闭环 ：负责订单对账、发票跟进及请付款流程，确保财务数据准确无误。\n1：教育与语言 ：本科及以上学历，统计学、数学类、供应链管理等相关专业； 2：综合能力 ：抗压能力强，能适应多任务并行的快节奏工作；细致严谨，具备优秀的沟通协调能力和跨部门协作意识；逻辑清晰，问题解决能力突出，目标感强； 3：可接受阶段性海外出差。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1：教育与语言 ：本科及以上学历，统计学、数学类、供应链管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "致欧家居官方飞书招聘",
       "officialURL": "https://songmicshome.jobs.feishu.cn/852372/m/position/7672698628667017498/detail",
-      "lastVerified": "2026-08-11",
+      "publishedAt": "2026-08-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

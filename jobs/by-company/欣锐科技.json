@@ -25,10 +25,61 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "本科招聘职位 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jobRequirements": "",
+      "JD": "本科招聘职位 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/5f2c93e8-0754-4f56-baa4-f742e265882a",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -54,9 +105,60 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/94516dc8-8a40-44fc-a585-376a60850de5",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -83,9 +185,60 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/34fdcf1d-5bfc-432a-9b38-be9e26a4f38c",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -112,9 +265,60 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/95d78be6-e701-4105-96da-da9b3133619c",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -141,9 +345,60 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/41daabc8-a7f5-45da-975d-91f81b2b3a6d",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -170,9 +425,60 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/16c13907-5053-4dba-884c-aa19fbb05df6",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -199,9 +505,60 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jobRequirements": "",
+      "JD": "发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 产品解决方案工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 运营助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 技术服务助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 AOI助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 软件测试工程师 发布于 2026-09-16 湖北·武汉市 广东·深圳市 湖北·武汉市 广东·深圳市 PMC助理专员 发布于 2026-09-16 广东·深圳市 广东·深圳市 IE助理工程师 发布于 2026-09-16 安徽·合肥市 广东·深圳市 安徽·合肥市 广东·深圳市 控制算法工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 SMT助理工程师 发布于 2026-09-16 安徽·合肥市 安徽·合肥市 结构工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 销售代表 发布于 2026-09-16 广东·深圳市 广东·深圳市 PE助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 校园大使 发布于 2026-09-16 TE助理工程师 发布于 2026-09-16 上海市 安徽·合肥市 广东·深圳市 上海市 安徽·合肥市 广东·深圳市 嵌入式软件工程师 发布于 2026-09-16 上海市 湖北·武汉市 广东·深圳市 上海市 湖北·武汉市 广东·深圳市 采购助理工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 IT工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 系统工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市 硬件测试工程师 发布于 2026-09-16 广东·深圳市 广东·深圳市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/c57600b5-7197-4747-ab1f-e7c0eb1b5074",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -228,10 +585,59 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "硕博招聘职位 张江高科碧波路912号华依创新园16号楼 武汉市经济技术开发区芙蓉路1号华中智谷D2栋15楼 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jobRequirements": "",
+      "JD": "硕博招聘职位 张江高科碧波路912号华依创新园16号楼 武汉市经济技术开发区芙蓉路1号华中智谷D2栋15楼 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/8a0c7843-7a80-43bb-b02f-9e1f5d9c8c28",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -257,10 +663,59 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "硕博招聘职位 张江高科碧波路912号华依创新园16号楼 留仙大道3370号南山智园崇文园区3号楼35层 武汉市经济技术开发区芙蓉路1号华中智谷D2栋15楼",
+      "jobRequirements": "",
+      "JD": "硕博招聘职位 张江高科碧波路912号华依创新园16号楼 留仙大道3370号南山智园崇文园区3号楼35层 武汉市经济技术开发区芙蓉路1号华中智谷D2栋15楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/fb695c6a-88ec-470f-96e2-bf47f87b1ab1",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -286,10 +741,59 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "硕博招聘职位 武汉市经济技术开发区芙蓉路1号华中智谷D2栋15楼 桃源街道塘岭路1号金骐智谷大厦5楼",
+      "jobRequirements": "",
+      "JD": "硕博招聘职位 武汉市经济技术开发区芙蓉路1号华中智谷D2栋15楼 桃源街道塘岭路1号金骐智谷大厦5楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/64a7ee04-3eea-4067-9b46-9824883c739b",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -315,10 +819,59 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "硕博招聘职位 张江高科碧波路912号华依创新园16号楼 武汉市经济技术开发区芙蓉路1号华中智谷D2栋15楼 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jobRequirements": "",
+      "JD": "硕博招聘职位 张江高科碧波路912号华依创新园16号楼 武汉市经济技术开发区芙蓉路1号华中智谷D2栋15楼 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/eebe2273-7be5-4210-82c6-8525cdce31fd",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -344,10 +897,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "硕博招聘职位",
+      "jobRequirements": "",
+      "JD": "硕博招聘职位",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/57ff23a4-fc3d-4975-b7c0-5225b321307c",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -373,10 +975,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "本科招聘职位 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jobRequirements": "",
+      "JD": "本科招聘职位 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/d4053eee-8f56-466d-9629-0e33ca6f840e",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -402,10 +1053,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "本科招聘职位 石岩街道塘头一号路领亚工业园冬藏楼",
+      "jobRequirements": "",
+      "JD": "本科招聘职位 石岩街道塘头一号路领亚工业园冬藏楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/9243da5c-b62e-4a01-a849-6c5ae9f6bbb3",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -431,10 +1131,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "本科招聘职位 石岩街道塘头一号路领亚工业园冬藏楼 安徽省合肥市庐江县同大镇",
+      "jobRequirements": "",
+      "JD": "本科招聘职位 石岩街道塘头一号路领亚工业园冬藏楼 安徽省合肥市庐江县同大镇",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/7a9ac856-eb74-4751-af14-6950b761ca21",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -460,10 +1209,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "本科招聘职位 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jobRequirements": "",
+      "JD": "本科招聘职位 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/7cb1695d-7ed6-42a6-8b03-2e126d1828a5",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -489,10 +1287,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "本科招聘职位 石岩街道塘头一号路领亚工业园冬藏楼",
+      "jobRequirements": "",
+      "JD": "本科招聘职位 石岩街道塘头一号路领亚工业园冬藏楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/edb9ca96-c733-4bdf-8862-0043cf63b66b",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -518,10 +1365,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "硕博招聘职位 桃源街道塘岭路1号金骐智谷大厦5楼",
+      "jobRequirements": "",
+      "JD": "硕博招聘职位 桃源街道塘岭路1号金骐智谷大厦5楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/21395c78-99fc-4c6b-8384-a3bf448908e1",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -547,10 +1443,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "本科招聘职位 石岩街道塘头一号路领亚工业园冬藏楼",
+      "jobRequirements": "",
+      "JD": "本科招聘职位 石岩街道塘头一号路领亚工业园冬藏楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/79ffcc04-9c10-4ae3-9fc8-d4b49a53a14e",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -576,10 +1521,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "本科招聘职位 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jobRequirements": "",
+      "JD": "本科招聘职位 留仙大道3370号南山智园崇文园区3号楼35层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/86ac5a6b-7abf-4b33-a500-710ec067639c",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -605,10 +1599,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "硕博招聘职位 桃源街道塘岭路1号金骐智谷大厦5楼",
+      "jobRequirements": "",
+      "JD": "硕博招聘职位 桃源街道塘岭路1号金骐智谷大厦5楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shinry/172541#/job/ac77dfbc-938d-47ac-815b-b35c0713cd33",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

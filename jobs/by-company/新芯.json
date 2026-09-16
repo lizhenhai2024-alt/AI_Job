@@ -12,12 +12,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "硕士及以上学历，电子工程、微电子、计算机科学或相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -25,10 +25,70 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、研究和评估新产品机会，对潜在产品的需求，以及客户需求和见解； 2、公司整体未来技术路线图的制定； 3、收集新产品和客户的需求； 4、新平台客户导入，项目管理 5、不断评估将影响XMC未来产品发展方向的竞争性产品和新技术； 6、制定未来技术开发及客户方向商务计划。",
+      "jobRequirements": "1.硕士及以上学历，电子工程、微电子、计算机科学或相关专业； 2.有学生会与社团经历，兼职经验优先 3.具有良好人际沟通能力和协调能力、计划执行能力； 4.积极主动，较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
+      "JD": "1、研究和评估新产品机会，对潜在产品的需求，以及客户需求和见解； 2、公司整体未来技术路线图的制定； 3、收集新产品和客户的需求； 4、新平台客户导入，项目管理 5、不断评估将影响XMC未来产品发展方向的竞争性产品和新技术； 6、制定未来技术开发及客户方向商务计划。\n1.硕士及以上学历，电子工程、微电子、计算机科学或相关专业； 2.有学生会与社团经历，兼职经验优先 3.具有良好人际沟通能力和协调能力、计划执行能力； 4.积极主动，较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，电子工程、微电子、计算机科学或相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销",
+        "市场"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=d7dca92b-9bfd-4ab6-8e7c-bf2442018d31",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,12 +101,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "硕士及以上学历；",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -54,10 +114,67 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 协助负责部门的产品策划、推广及市场维护 2. 收集市场和行业信息，制定公司产品与技术策略 3. 与客户进行前期技术交流，将市场需求与新产品开发定义做衔接 4. 开拓新市场，发展新客户，扩大销售范围 5. 与销售工程师/现场应用工程师协作拜访重点客户，推动新产品design-in/design-win 6. 分析产品技术优劣势及成本差异，制定推广策略 7. 撰写产品分析报告，新产品推广资料；",
+      "jobRequirements": "1.硕士及以上学历； 2.良好的沟通、协商和谈判能力 3.熟悉PowerPoint、Word等办公软件，擅长产品推广资料PPT撰写、现场宣讲介绍产品 4.自信、富有感染力，英文说写流利，具备良好的团队协作能力",
+      "JD": "1. 协助负责部门的产品策划、推广及市场维护 2. 收集市场和行业信息，制定公司产品与技术策略 3. 与客户进行前期技术交流，将市场需求与新产品开发定义做衔接 4. 开拓新市场，发展新客户，扩大销售范围 5. 与销售工程师/现场应用工程师协作拜访重点客户，推动新产品design-in/design-win 6. 分析产品技术优劣势及成本差异，制定推广策略 7. 撰写产品分析报告，新产品推广资料；\n1.硕士及以上学历； 2.良好的沟通、协商和谈判能力 3.熟悉PowerPoint、Word等办公软件，擅长产品推广资料PPT撰写、现场宣讲介绍产品 4.自信、富有感染力，英文说写流利，具备良好的团队协作能力",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历；"
+        ],
+        "eligibilityClauses": [
+          "2027届-XMC-市场专员(SBU)(J11653)"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销",
+        "市场"
+      ],
+      "skills": [
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=d43d2d4b-0b14-4121-9871-1198187e21fd",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,7 +187,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -83,10 +200,66 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、根据整体生产目标，分解并负责日常生产任务完成; 2、实时跟进生产状况，及时发现生产异常问题，推动跨部门协作，有效解决问题; 3、及时合理调整生产制造系统规则，确保目标在系统中有效执行； 4、及时发现系统规则漏洞，并提出有效变更、改善方案； 5、负责生产现场管理，执行团队培训与绩效管理，提高员工工作积极性; 6、了解设备运作模式、派工特点、产能状况，持续优化设备效率。",
+      "jobRequirements": "学历要求：本科及以上 其它要求： 1、具备较好的SQL运用水平，至少掌握一门程序语言（python，C#，JAVA，VB）； 2、熟练运用office相关（PPT, excel, outlook等)软件； 3、良好的英语听说读写能力(CET4及以上，CET6优先考虑); 4、较强的抗压能力，学习能力，执行能力，逻辑思维能力，工作严谨、有责任心; 5、优秀的表达沟通能力、组织协调能力和团队合作精神。",
+      "JD": "1、根据整体生产目标，分解并负责日常生产任务完成; 2、实时跟进生产状况，及时发现生产异常问题，推动跨部门协作，有效解决问题; 3、及时合理调整生产制造系统规则，确保目标在系统中有效执行； 4、及时发现系统规则漏洞，并提出有效变更、改善方案； 5、负责生产现场管理，执行团队培训与绩效管理，提高员工工作积极性; 6、了解设备运作模式、派工特点、产能状况，持续优化设备效率。\n学历要求：本科及以上 其它要求： 1、具备较好的SQL运用水平，至少掌握一门程序语言（python，C#，JAVA，VB）； 2、熟练运用office相关（PPT, excel, outlook等)软件； 3、良好的英语听说读写能力(CET4及以上，CET6优先考虑); 4、较强的抗压能力，学习能力，执行能力，逻辑思维能力，工作严谨、有责任心; 5、优秀的表达沟通能力、组织协调能力和团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "PPT",
+        "SQL"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=80ea38bd-675d-4519-b67b-84d47ed094f4",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -103,8 +276,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -112,10 +285,72 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. Cross APC跨工序协同控制算法研发 围绕光刻、刻蚀、薄膜、CMP等半导体核心制程，研究多任务序耦合关联特性，搭建先进过程控制模型。针对性解决设备漂移、批次偏差、环境扰动导致的工艺波动问题，构建全流程跨工序协同控制体系，有效提升制程精度、工艺一致性与量产良率。 2.工艺智能预测与异常诊断模型研发 基于时序、多模态大模型，融合设备运行、工艺参数等多源数据，研发虚拟量测、工艺异常预警、缺陷溯源及故障根因分析模型，推动半导体工艺管控从事后整改，升级为事前预判、事中精准调控的智能管控模式。 3. 算法与大模型工程化落地集成 完成Cross APC核心算法、AI工艺大模型模块的迭代优化，实现与MES、EAP、APC等生产系统的深度集成与仿真验证。推进算法模型产线量产落地，形成标准化、可迭代的智能工艺控制解决方案，助力先进制程提质、增效、降不良。",
+      "jobRequirements": "1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁。 2.扎实掌握机器学习、深度学习、统计学习、最优控制、预测控制、智能优化、时间序列分析等核心算法，具备独立算法建模、迭代优化、问题排查能力。 3.在半导体晶圆制造、集成电路工艺开发、半导体设备控制、工业智能制造、工业大数据分析相关方面，发表过高水平论文或参与过相关省部级科研项目者优先。 4.具备良好的中英文文献读写、学术汇报能力，能够快速跟进前沿技术，独立完成论文撰写、专利申报、项目申报材料编制工作。 5.具备优秀的系统性思维、跨部门沟通协作能力，能够精准对接产线工艺痛点，平衡算法创新性与产业化实用性，高效完成技术落地。",
+      "JD": "1. Cross APC跨工序协同控制算法研发 围绕光刻、刻蚀、薄膜、CMP等半导体核心制程，研究多任务序耦合关联特性，搭建先进过程控制模型。针对性解决设备漂移、批次偏差、环境扰动导致的工艺波动问题，构建全流程跨工序协同控制体系，有效提升制程精度、工艺一致性与量产良率。 2.工艺智能预测与异常诊断模型研发 基于时序、多模态大模型，融合设备运行、工艺参数等多源数据，研发虚拟量测、工艺异常预警、缺陷溯源及故障根因分析模型，推动半导体工艺管控从事后整改，升级为事前预判、事中精准调控的智能管控模式。 3. 算法与大模型工程化落地集成 完成Cross APC核心算法、AI工艺大模型模块的迭代优化，实现与MES、EAP、APC等生产系统的深度集成与仿真验证。推进算法模型产线量产落地，形成标准化、可迭代的智能工艺控制解决方案，助力先进制程提质、增效、降不良。\n1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁。 2.扎实掌握机器学习、深度学习、统计学习、最优控制、预测控制、智能优化、时间序列分析等核心算法，具备独立算法建模、迭代优化、问题排查能力。 3.在半导体晶圆制造、集成电路工艺开发、半导体设备控制、工业智能制造、工业大数据分析相关方面，发表过高水平论文或参与过相关省部级科研项目者优先。 4.具备良好的中英文文献读写、学术汇报能力，能够快速跟进前沿技术，独立完成论文撰写、专利申报、项目申报材料编制工作。 5.具备优秀的系统性思维、跨部门沟通协作能力，能够精准对接产线工艺痛点，平衡算法创新性与产业化实用性，高效完成技术落地。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "问题根因",
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=8ae67a8c-31cf-4b17-a244-5034dd3fa81d",
-      "lastVerified": "2026-09-06",
+      "publishedAt": "2026-09-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,12 +363,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，计算机科学、软件工程、自动化等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -141,10 +376,74 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责面向企业应用场景的AI智能体应用开发，基于大语言模型构建智能体的感知、推理、工具调用与决策能力； 2、搭建RAG系统融合企业知识库，支撑知识推理与辅助决策。 参与智能制造场景需求调研，设计AI解决方案并推动从原型到生产的全流程落地（数据准备→模型调优→应用开发→上线运维）；持续优化系统准确率、响应速度及稳定性，满足生产环境高可靠性要求。 3、 跟踪Agent、多模态、边缘计算等前沿技术在半导体制造中的应用潜力；与工艺、设备、IT团队协作推动AI融入业务流程，沉淀技术文档与最佳实践。",
+      "jobRequirements": "1.本科及以上学历，计算机科学、软件工程、自动化等相关专业； 2.有AI/机器学习应用开发经验、 智能体（Agent）、RAG系统或大模型应用开发经验者优先。 3.熟悉主流大模型API（如通义千问、文心一言等），具备Prompt Engineering实战经验；精通LangChain、LlamaIndex等Agent开发框架，理解智能体核心能力（任务规划、记忆管理、工具调用等）。 4.精通Python，熟悉FastAPI/Flask等后端框架；熟悉向量数据库（Milvus、Chroma等）及全文检索技术；了解Docker、Kubernetes等容器化部署技术者优先。 5.熟悉Pandas、NumPy等数据处理工具，了解主流机器学习算法（分类、回归、异常检测等）；有时序数据分析（设备传感器数据）经验者优先；熟悉SQL及数据库设计与优化。 6.具备较强业务理解能力，能快速学习半导体制造基本工艺流程；良好跨部门沟通能力，能与业务/IT团队高效协作；具备文档撰写能力，能输出清晰技术方案与用户手册。 7.熟悉低代码AI平台（如Dify、FastGPT等）；有GitHub技术博客、开源项目贡献或技术分享经历；熟悉边缘计算及模型部署",
+      "JD": "1、负责面向企业应用场景的AI智能体应用开发，基于大语言模型构建智能体的感知、推理、工具调用与决策能力； 2、搭建RAG系统融合企业知识库，支撑知识推理与辅助决策。 参与智能制造场景需求调研，设计AI解决方案并推动从原型到生产的全流程落地（数据准备→模型调优→应用开发→上线运维）；持续优化系统准确率、响应速度及稳定性，满足生产环境高可靠性要求。 3、 跟踪Agent、多模态、边缘计算等前沿技术在半导体制造中的应用潜力；与工艺、设备、IT团队协作推动AI融入业务流程，沉淀技术文档与最佳实践。\n1.本科及以上学历，计算机科学、软件工程、自动化等相关专业； 2.有AI/机器学习应用开发经验、 智能体（Agent）、RAG系统或大模型应用开发经验者优先。 3.熟悉主流大模型API（如通义千问、文心一言等），具备Prompt Engineering实战经验；精通LangChain、LlamaIndex等Agent开发框架，理解智能体核心能力（任务规划、记忆管理、工具调用等）。 4.精通Python，熟悉FastAPI/Flask等后端框架；熟悉向量数据库（Milvus、Chroma等）及全文检索技术；了解Docker、Kubernetes等容器化部署技术者优先。 5.熟悉Pandas、NumPy等数据处理工具，了解主流机器学习算法（分类、回归、异常检测等）；有时序数据分析（设备传感器数据）经验者优先；熟悉SQL及数据库设计与优化。 6.具备较强业务理解能力，能快速学习半导体制造基本工艺流程；良好跨部门沟通能力，能与业务/IT团队高效协作；具备文档撰写能力，能输出清晰技术方案与用户手册。 7.熟悉低代码AI平台（如Dify、FastGPT等）；有GitHub技术博客、开源项目贡献或技术分享经历；熟悉边缘计算及模型部署",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，计算机科学、软件工程、自动化等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=d87ecdbf-4a71-490e-ba36-a909c01b9666",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -170,10 +469,67 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责Frame版图规划，新建产品floorplan； 2. 能够使用版图软件完成Framecell数据准备； 3. 负责新产品光罩的制版，以及厂内产品改版需求； 4. 熟悉Tape Out相关内部管控系统，熟悉Linux环境及相应计算机语言； 5. 负责 产品和MPW的Logic Operation、Dummy数据的准备，以及开发和维护新技术的Logic Operation、Dummy程式； 6. 负责与客户工程师沟通协调系统方面的需求，如光罩需求时间、光罩信息等等； 7. 根据厂内产品的需求，统筹安排产品光罩优先级，并与光罩厂沟通协调光罩制造产能需求，保障产品或研发技术的进度； 8. 关于新技术开发，能够有良好的沟通协调能力，以确保研发进度；",
+      "jobRequirements": "1．有良好的语言表达能力与文字功底； 2．具备良好的统筹能力和沟通能力、有一定的分析问题/解决问题的能力； 3．熟练使用日常办公软件（Word, Excel, PPT, Outlook）； 4．熟悉Linux系统，熟练掌握Cadence软件及相关的计算机语言； 5．学习能力强、工作细心、责任感强； 6．性格随和，善于沟通，具有亲和力",
+      "JD": "1. 负责Frame版图规划，新建产品floorplan； 2. 能够使用版图软件完成Framecell数据准备； 3. 负责新产品光罩的制版，以及厂内产品改版需求； 4. 熟悉Tape Out相关内部管控系统，熟悉Linux环境及相应计算机语言； 5. 负责 产品和MPW的Logic Operation、Dummy数据的准备，以及开发和维护新技术的Logic Operation、Dummy程式； 6. 负责与客户工程师沟通协调系统方面的需求，如光罩需求时间、光罩信息等等； 7. 根据厂内产品的需求，统筹安排产品光罩优先级，并与光罩厂沟通协调光罩制造产能需求，保障产品或研发技术的进度； 8. 关于新技术开发，能够有良好的沟通协调能力，以确保研发进度；\n1．有良好的语言表达能力与文字功底； 2．具备良好的统筹能力和沟通能力、有一定的分析问题/解决问题的能力； 3．熟练使用日常办公软件（Word, Excel, PPT, Outlook）； 4．熟悉Linux系统，熟练掌握Cadence软件及相关的计算机语言； 5．学习能力强、工作细心、责任感强； 6．性格随和，善于沟通，具有亲和力",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=5015c8b4-2420-4ea3-add6-eff26d93af96",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -186,8 +542,8 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
         "raw": "",
@@ -199,10 +555,66 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品测试程序的开发及调试; 2、负责与设计部门合作进行新产品测试验证及特性分析; 3、负责测试数据分析; 4、负责测试硬件设计开发及维护; 5、负责产品工程实验室日常管理。",
+      "jobRequirements": "学历要求：硕士及以上 其他要求： 1、熟练掌握C、C++、Python等编程语言； 2、熟悉主流半导体测试仪器，有ATE编程经验及探针台使用经验者优先考虑； 3、良好的英语听说读写能力(CET-4及以上，CET-6优先考虑)； 4、较强的沟通表达能力、组织协调能力和团队合作精神； 5、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 6、积极主动，稳重踏实，工作严谨，责任心强。",
+      "JD": "1、负责产品测试程序的开发及调试; 2、负责与设计部门合作进行新产品测试验证及特性分析; 3、负责测试数据分析; 4、负责测试硬件设计开发及维护; 5、负责产品工程实验室日常管理。\n学历要求：硕士及以上 其他要求： 1、熟练掌握C、C++、Python等编程语言； 2、熟悉主流半导体测试仪器，有ATE编程经验及探针台使用经验者优先考虑； 3、良好的英语听说读写能力(CET-4及以上，CET-6优先考虑)； 4、较强的沟通表达能力、组织协调能力和团队合作精神； 5、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 6、积极主动，稳重踏实，工作严谨，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=5bdf4b75-c07e-4c26-aa29-5e7aa0423368",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,12 +627,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，理工科相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -228,10 +640,69 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.生产计划编制与执行 2.WIP与Cycle Time管理 3.交付管理与客户响应 4.跨部门协调 5.数据分析与持续改善；",
+      "jobRequirements": "1、本科及以上学历，理工科相关专业； 2、英语四级及以上，英语口语佳； 3、能适应短期出差，临时加班，能承受短期高强度压力； 4、良好的沟通能力，责任心强，学习能力强，积极主动； 5、熟练使用办公软件，能应用于对相关大量数据进行统计分析。",
+      "JD": "1.生产计划编制与执行 2.WIP与Cycle Time管理 3.交付管理与客户响应 4.跨部门协调 5.数据分析与持续改善；\n1、本科及以上学历，理工科相关专业； 2、英语四级及以上，英语口语佳； 3、能适应短期出差，临时加班，能承受短期高强度压力； 4、良好的沟通能力，责任心强，学习能力强，积极主动； 5、熟练使用办公软件，能应用于对相关大量数据进行统计分析。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，理工科相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=e09f8da2-7389-4a66-b91f-4331cb567d4e",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,7 +715,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -257,10 +728,68 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、聚焦12寸半导体制造场景，面向工艺、设备、良率等工程师，负责智能制造分析型应用系统的需求落地、功能开发与版本迭代，主打数据统计、趋势分析、异常研判、智能辅助决策类工具研发。 2、基于工厂制程、设备、生产数据，完成业务数据建模、数据可视化、统计分析逻辑开发，搭建适配工程师办公场景的智能分析工具，助力业务高效研判与问题复盘。 3、负责应用模块调试、问题修复与性能优化，规范输出开发文档，保障研发工作标准化、规范化推进。 4、跟进智能制造数据分析、智能决策相关新技术，结合工程师工作痛点，参与产品技术预研与功能创新，持续优化工具使用效率。 5、对接一线工程师收集业务需求与使用反馈，持续迭代优化分析型应用，解决工作中的数据分析与效率痛点。",
+      "jobRequirements": "学历要求：本科及以上 其它要求： 1、熟练掌握至少一门主流开发语言：Java/C#/C++/Python，掌握基础的数据结构与算法； 2、熟悉数据库基础操作，了解MySQL、SQL Server、Oracle等任意一种关系型数据库，掌握基础SQL语句； 3、了解前端基础（HTML/CSS/JS/Vue优先）、HTTP协议、接口开发基础，有B/S架构开发经验加分； 4、有工业软件、MES系统、自动化项目、校园科创项目、软件开发实习经历者优先； 5、了解半导体制造流程、工厂自动化、智能制造体系者优先。",
+      "JD": "1、聚焦12寸半导体制造场景，面向工艺、设备、良率等工程师，负责智能制造分析型应用系统的需求落地、功能开发与版本迭代，主打数据统计、趋势分析、异常研判、智能辅助决策类工具研发。 2、基于工厂制程、设备、生产数据，完成业务数据建模、数据可视化、统计分析逻辑开发，搭建适配工程师办公场景的智能分析工具，助力业务高效研判与问题复盘。 3、负责应用模块调试、问题修复与性能优化，规范输出开发文档，保障研发工作标准化、规范化推进。 4、跟进智能制造数据分析、智能决策相关新技术，结合工程师工作痛点，参与产品技术预研与功能创新，持续优化工具使用效率。 5、对接一线工程师收集业务需求与使用反馈，持续迭代优化分析型应用，解决工作中的数据分析与效率痛点。\n学历要求：本科及以上 其它要求： 1、熟练掌握至少一门主流开发语言：Java/C#/C++/Python，掌握基础的数据结构与算法； 2、熟悉数据库基础操作，了解MySQL、SQL Server、Oracle等任意一种关系型数据库，掌握基础SQL语句； 3、了解前端基础（HTML/CSS/JS/Vue优先）、HTTP协议、接口开发基础，有B/S架构开发经验加分； 4、有工业软件、MES系统、自动化项目、校园科创项目、软件开发实习经历者优先； 5、了解半导体制造流程、工厂自动化、智能制造体系者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=c2f5d4b2-b495-4fb8-b18a-5ad4bf31cbc4",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -273,8 +802,8 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
         "raw": "",
@@ -286,10 +815,66 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责大数据场景下相关数据统计、数据挖掘，包括数据清洗、模型建立、评估优化等工作； 2、与工程、生产等部门紧密合作，理解生产需求并提供算法解决方案以及技术支持、培训； 3、利用机器学习和统计分析方法，进行数据分析与建模，主动解决生产过程问题； 4、持续提升生产智能化水平，开发并优化良率分析、缺陷检测和故障预测、生产调度、工艺参数优化以及设备维护等相关模型或算法； 5、关注并学习最新的大数据和机器学习技术，推动团队技术创新。",
+      "jobRequirements": "学历要求：硕士及以上 其它要求： 1、熟悉大数据技术栈，如Hadoop、Spark、Kafka等，能够处理大规模数据集 2、熟练掌握Python、R或其他数据分析编程语言，具备扎实的编程基础； 3、熟悉机器学习和统计分析方法，熟悉TensorFlow、PyTorch等深度学习框架，能够开发和部署高效的机器学习模型; 4、具备优化算法（如线性规划、遗传算法、模拟退火等）的开发和应用经验，能够解决复杂的优化问题; 5、良好的团队合作精神和沟通能力，能够与跨职能团队有效合作，推动项目顺利进行; 6、主动学习和创新意识，愿意接受挑战并不断提升自我，推动技术和业务的双重进步。",
+      "JD": "1、负责大数据场景下相关数据统计、数据挖掘，包括数据清洗、模型建立、评估优化等工作； 2、与工程、生产等部门紧密合作，理解生产需求并提供算法解决方案以及技术支持、培训； 3、利用机器学习和统计分析方法，进行数据分析与建模，主动解决生产过程问题； 4、持续提升生产智能化水平，开发并优化良率分析、缺陷检测和故障预测、生产调度、工艺参数优化以及设备维护等相关模型或算法； 5、关注并学习最新的大数据和机器学习技术，推动团队技术创新。\n学历要求：硕士及以上 其它要求： 1、熟悉大数据技术栈，如Hadoop、Spark、Kafka等，能够处理大规模数据集 2、熟练掌握Python、R或其他数据分析编程语言，具备扎实的编程基础； 3、熟悉机器学习和统计分析方法，熟悉TensorFlow、PyTorch等深度学习框架，能够开发和部署高效的机器学习模型; 4、具备优化算法（如线性规划、遗传算法、模拟退火等）的开发和应用经验，能够解决复杂的优化问题; 5、良好的团队合作精神和沟通能力，能够与跨职能团队有效合作，推动项目顺利进行; 6、主动学习和创新意识，愿意接受挑战并不断提升自我，推动技术和业务的双重进步。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=0de93b7d-9a6c-4545-b423-c2f411348f07",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -315,10 +900,64 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责新产品设计验证； 2、负责新产品量产CP&FT测试及相关报告编写； 3、负责新产品特性数据收集及分析，以及量产良率提升及各种应用需求的失效分析； 4、保证产品正常ES&CS及日常产品维护工作。 5、负责客户服务。",
+      "jobRequirements": "1、具备一定的半导体物理知识。 2、熟练掌握各种办公软件的操作。 3、不错的英语口语能力，沟通与协调能力。 4、良好的学习能力。",
+      "JD": "1、负责新产品设计验证； 2、负责新产品量产CP&FT测试及相关报告编写； 3、负责新产品特性数据收集及分析，以及量产良率提升及各种应用需求的失效分析； 4、保证产品正常ES&CS及日常产品维护工作。 5、负责客户服务。\n1、具备一定的半导体物理知识。 2、熟练掌握各种办公软件的操作。 3、不错的英语口语能力，沟通与协调能力。 4、良好的学习能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=380205d9-50b3-4c90-a358-be52855f9796",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -344,10 +983,63 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责第一版的量产CP&FT&特性程序的开发、调试及优化 2、负责量产、工程以及特性的数据分析和量产良率提升及失效分析 3、负责测试硬件的改进和问题解决，如load-board,probecardorotherinterfaceboards 4、熟悉测试系统的结构和使用，如Advantest测试机，Magnum测试机等等。",
+      "jobRequirements": "1、熟悉微软的操作系统及相应的office软件 2、熟悉C或C++编程语言，或其它相关编程语言 3、优秀的数据分析能力 4、良好的沟通，组织和计划能力 5、良好的学习能力",
+      "JD": "1、负责第一版的量产CP&FT&特性程序的开发、调试及优化 2、负责量产、工程以及特性的数据分析和量产良率提升及失效分析 3、负责测试硬件的改进和问题解决，如load-board,probecardorotherinterfaceboards 4、熟悉测试系统的结构和使用，如Advantest测试机，Magnum测试机等等。\n1、熟悉微软的操作系统及相应的office软件 2、熟悉C或C++编程语言，或其它相关编程语言 3、优秀的数据分析能力 4、良好的沟通，组织和计划能力 5、良好的学习能力",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=64430dcb-1ae4-4677-96e8-461c600210da",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -360,12 +1052,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 微电子、集成电路、自动化、计算机等理工类全日制硕士以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -373,10 +1065,63 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 和团队成员一起，参与公司Standard cell 的设计，包括电路设计、版图设计、Design Kit设计，并完成对应的QA工作。 2. 参与公司GPIO的设计，包括电路设计、版图设计、Design Kit设计、并完成对应的QA工作。 3. 参与公司Memory Compiler的设计，包括电路设计、版图设计、Design Kit设计，并完成对应的QA工作。 4. 参与公司Flash& Analog的设计，包括电路设计、版图设计、物理验证等工作。 5. 参与公司数字电路的设计，包括Verilog的编写、BIST的前端代码编写、后端PR的数字布局布线设计和验证。 6. 参与公司EDA工具安装、脚本运行开发、服务器配置管理和优化等。",
+      "jobRequirements": "1. 微电子、集成电路、自动化、计算机等理工类全日制硕士以上学历； 2. 英语水平优秀（CET6或同等水平以上），熟练操作OFFICE等日常办公软件； 3. 工作态度认真、细致、负责，具有较强的使用能力和团队合作能力；",
+      "JD": "1. 和团队成员一起，参与公司Standard cell 的设计，包括电路设计、版图设计、Design Kit设计，并完成对应的QA工作。 2. 参与公司GPIO的设计，包括电路设计、版图设计、Design Kit设计、并完成对应的QA工作。 3. 参与公司Memory Compiler的设计，包括电路设计、版图设计、Design Kit设计，并完成对应的QA工作。 4. 参与公司Flash& Analog的设计，包括电路设计、版图设计、物理验证等工作。 5. 参与公司数字电路的设计，包括Verilog的编写、BIST的前端代码编写、后端PR的数字布局布线设计和验证。 6. 参与公司EDA工具安装、脚本运行开发、服务器配置管理和优化等。\n1. 微电子、集成电路、自动化、计算机等理工类全日制硕士以上学历； 2. 英语水平优秀（CET6或同等水平以上），熟练操作OFFICE等日常办公软件； 3. 工作态度认真、细致、负责，具有较强的使用能力和团队合作能力；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 微电子、集成电路、自动化、计算机等理工类全日制硕士以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=84cd39e4-60cf-4b17-b6a1-3641a2a802ee",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -389,12 +1134,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.硕士及以上学历，微电子学、物理学、光学、材料等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -402,10 +1147,65 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 能够熟练使用EDA软件，执行先进光刻工艺技术研究及开发； 2. 能够熟练使用二次电子显微镜，了解机台工作原理，并具备分析整理数据的能力； 3. 负责先进工艺OPC模型建立及验证，先进工艺OPC相关RET技术研究； 4. 执行本岗位既定工作目标和研发任务，协同TD和其他工艺模块一起完成研发工作； 5. 提交专利和研究论文。",
+      "jobRequirements": "1.硕士及以上学历，微电子学、物理学、光学、材料等相关专业； 2.了解半导体工艺制造流程，具备技术调研和数据分析能力； 3.具备良好的沟通能力和团队合作精神，具备独立工作、分析和解决问题能力，良好的中英文读写说能力。",
+      "JD": "1. 能够熟练使用EDA软件，执行先进光刻工艺技术研究及开发； 2. 能够熟练使用二次电子显微镜，了解机台工作原理，并具备分析整理数据的能力； 3. 负责先进工艺OPC模型建立及验证，先进工艺OPC相关RET技术研究； 4. 执行本岗位既定工作目标和研发任务，协同TD和其他工艺模块一起完成研发工作； 5. 提交专利和研究论文。\n1.硕士及以上学历，微电子学、物理学、光学、材料等相关专业； 2.了解半导体工艺制造流程，具备技术调研和数据分析能力； 3.具备良好的沟通能力和团队合作精神，具备独立工作、分析和解决问题能力，良好的中英文读写说能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.硕士及以上学历，微电子学、物理学、光学、材料等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=a3c5d826-cad8-4847-b954-5aba134cf1c5",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -418,8 +1218,8 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
         "raw": "",
@@ -431,10 +1231,65 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品全生命周期良率提升和日常监控及维稳 ; 2、理解客户产品需求及测试筛选方案，与工艺团队紧密配合，制定产品良率路线图; 3、主导新产品导入阶段良率攻坚，推动研发转量产，持续提升量产产品良率; 4、针对产线异常和工艺变更提供良率风险评估和失效分析。",
+      "jobRequirements": "学历要求：硕士及以上学历 其他要求： 1、熟悉半导体制造，半导体测试流程、半导体器件物理、半导体工艺相关知识； 2、熟悉失效分析手段EFA/PFA者优先; 具备Python编程能力者优先；英语水平达CET-6者优先 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "JD": "1、负责产品全生命周期良率提升和日常监控及维稳 ; 2、理解客户产品需求及测试筛选方案，与工艺团队紧密配合，制定产品良率路线图; 3、主导新产品导入阶段良率攻坚，推动研发转量产，持续提升量产产品良率; 4、针对产线异常和工艺变更提供良率风险评估和失效分析。\n学历要求：硕士及以上学历 其他要求： 1、熟悉半导体制造，半导体测试流程、半导体器件物理、半导体工艺相关知识； 2、熟悉失效分析手段EFA/PFA者优先; 具备Python编程能力者优先；英语水平达CET-6者优先 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=9f8811b1-604c-4803-9e00-9f8cf970b74c",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -447,8 +1302,8 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
         "raw": "",
@@ -460,10 +1315,66 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责新平台、新产品导入和新工艺流程建立开发支持； 2、深入芯片电性测试及缺陷分析,协同单项工艺工程师,持续改善提升芯片性能； 3、与客户及设计团队合作，解决产品由研发向量产转移过程中的工艺技术问题； 4、维护现有工艺流程,评估新工艺流程,提升产品良率,生产效率和产品竞争力; 5、快速响应产品异常,主导跨部门技术攻关,制定验证方案,确保问题根本性解决； 6、与设计、工艺、制造、质量等部门合作,制定产线管控和风险评估规则。",
+      "jobRequirements": "学历要求：硕士及以上学历 其他要求： 1、熟悉半导体制造流程，扎实的半导体器件物理、半导体工艺相关知识； 2、良好的英语听说读写能力（CET4及以上，CET6优先考虑）； 3、较强的沟通表达能力、组织协调能力和团队合作精神; 4、较强的逻辑思维能力、学习能力、及抗压能力；较高的数据敏感性，善于以数据驱动的分析解决问题能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "JD": "1、负责新平台、新产品导入和新工艺流程建立开发支持； 2、深入芯片电性测试及缺陷分析,协同单项工艺工程师,持续改善提升芯片性能； 3、与客户及设计团队合作，解决产品由研发向量产转移过程中的工艺技术问题； 4、维护现有工艺流程,评估新工艺流程,提升产品良率,生产效率和产品竞争力; 5、快速响应产品异常,主导跨部门技术攻关,制定验证方案,确保问题根本性解决； 6、与设计、工艺、制造、质量等部门合作,制定产线管控和风险评估规则。\n学历要求：硕士及以上学历 其他要求： 1、熟悉半导体制造流程，扎实的半导体器件物理、半导体工艺相关知识； 2、良好的英语听说读写能力（CET4及以上，CET6优先考虑）； 3、较强的沟通表达能力、组织协调能力和团队合作精神; 4、较强的逻辑思维能力、学习能力、及抗压能力；较高的数据敏感性，善于以数据驱动的分析解决问题能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=e2d77030-216e-4be8-b283-d98063cb3017",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -489,10 +1400,67 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、理解工艺原理，制定新产品导入量产的工艺维护流程以及标准； 2、提前预防和解决工艺异常，维护并持续优化量产产品工艺稳定性和生产线稳定性； 3、优化工艺生产力，以提高良率、成本效率及生产率； 4、推进新型产品、设备、材料等验证导入，以提升产品竞争力； 5、内外部客户沟通协作与问题解决。",
+      "jobRequirements": "1、熟悉半导体制造流程、半导体器件物理、半导体工艺相关知识； 2、良好的英语听说读写能力（CET4及以上，CET6优先考虑）； 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "JD": "1、理解工艺原理，制定新产品导入量产的工艺维护流程以及标准； 2、提前预防和解决工艺异常，维护并持续优化量产产品工艺稳定性和生产线稳定性； 3、优化工艺生产力，以提高良率、成本效率及生产率； 4、推进新型产品、设备、材料等验证导入，以提升产品竞争力； 5、内外部客户沟通协作与问题解决。\n1、熟悉半导体制造流程、半导体器件物理、半导体工艺相关知识； 2、良好的英语听说读写能力（CET4及以上，CET6优先考虑）； 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=98231205-f8b6-43ad-80e3-7e807f0a2071",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -518,10 +1486,65 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、建立产线缺陷检测机制，分析并确定缺陷成因，维护产线稳定； 2、持续改善影响产品良率和可靠性相关缺陷，持续提升产品良率和可靠性； 3、新研发平台缺陷检测，协助研发中心确定工艺窗口； 4、协助工程部解决新机台、新材料验证及成本节约项目中相关缺陷问题； 5、解决客诉及跨部门缺陷问题。",
+      "jobRequirements": "1、了解半导体制造流程、半导体工艺相关知识； 2、良好的英语听说读写能力（CET4及以上，CET6优先考虑）； 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "JD": "1、建立产线缺陷检测机制，分析并确定缺陷成因，维护产线稳定； 2、持续改善影响产品良率和可靠性相关缺陷，持续提升产品良率和可靠性； 3、新研发平台缺陷检测，协助研发中心确定工艺窗口； 4、协助工程部解决新机台、新材料验证及成本节约项目中相关缺陷问题； 5、解决客诉及跨部门缺陷问题。\n1、了解半导体制造流程、半导体工艺相关知识； 2、良好的英语听说读写能力（CET4及以上，CET6优先考虑）； 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=d331c2ed-0429-417f-942a-6d0533538789",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -534,7 +1557,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -547,10 +1570,63 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、定期维护与保养厂务系统（水，电，气体，化学，洁净室）设备，对设备异常及时查找原因并分析解决； 2、对厂务系统（水，电，气体，化学，洁净室）设备故障提出预防改善措施； 3、持续改进厂务系统综合效率。",
+      "jobRequirements": "学历要求：本科及以上 其它要求： 1、熟练运用office相关软件； 2、良好的英语听说读写能力(CET4及以上，CET6优先考虑)； 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "JD": "1、定期维护与保养厂务系统（水，电，气体，化学，洁净室）设备，对设备异常及时查找原因并分析解决； 2、对厂务系统（水，电，气体，化学，洁净室）设备故障提出预防改善措施； 3、持续改进厂务系统综合效率。\n学历要求：本科及以上 其它要求： 1、熟练运用office相关软件； 2、良好的英语听说读写能力(CET4及以上，CET6优先考虑)； 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=bc62deaa-fcb1-451d-b7a1-fa5ed0bbe8ca",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -563,7 +1639,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -576,10 +1652,63 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、设备保养及维护，提高机台可运行时间，改善设备效率专案； 2、处理日常设备异常,对设备故障提出预防及改善措施； 3、对所负责设备的综合效率进行分析，改进并提高设备产能和生产力； 4、新世代设备验证，新技术接收移转与导入量产，维护产线稳定度； 5、配合工艺和设备供应商做好设备装机调试验收工作； 6、设备操作与维护规范编写，责任区域环境安全改善，管理与工作相关的环境安全事项。",
+      "jobRequirements": "学历要求：本科及以上学历 其它要求： 1、熟练运用office相关软件； 2、良好的英语听说读写能力(CET4及以上，CET6优先考虑)； 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "JD": "1、设备保养及维护，提高机台可运行时间，改善设备效率专案； 2、处理日常设备异常,对设备故障提出预防及改善措施； 3、对所负责设备的综合效率进行分析，改进并提高设备产能和生产力； 4、新世代设备验证，新技术接收移转与导入量产，维护产线稳定度； 5、配合工艺和设备供应商做好设备装机调试验收工作； 6、设备操作与维护规范编写，责任区域环境安全改善，管理与工作相关的环境安全事项。\n学历要求：本科及以上学历 其它要求： 1、熟练运用office相关软件； 2、良好的英语听说读写能力(CET4及以上，CET6优先考虑)； 3、较强的沟通表达能力、组织协调能力和团队合作精神； 4、较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力； 5、积极主动，稳重踏实，工作严谨，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=785304ad-85b2-4d0d-a5c7-7a6e70e3f4ce",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -592,7 +1721,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -605,10 +1734,64 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.供应商开发&管理 2.成本分析&控制 3.市场咨询调研分析 4.供应商分级分类管理 5.交付跟进及异常处理 6.数据分析与报告整理",
+      "jobRequirements": "1.本科及以上学历； 2.具有良好的职业道德，有强烈的责任心、优秀的沟通和谈判能力、良好的团队合作精神 、善于发现问题并改善问题； 3.熟练使用Office/SAP等办公软件。 4.具备高效沟通技能和商务谈判技能。",
+      "JD": "1.供应商开发&管理 2.成本分析&控制 3.市场咨询调研分析 4.供应商分级分类管理 5.交付跟进及异常处理 6.数据分析与报告整理\n1.本科及以上学历； 2.具有良好的职业道德，有强烈的责任心、优秀的沟通和谈判能力、良好的团队合作精神 、善于发现问题并改善问题； 3.熟练使用Office/SAP等办公软件。 4.具备高效沟通技能和商务谈判技能。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=a5e71099-bac3-4f30-926b-1968687ec88c",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -621,12 +1804,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、硕士及以上学历，信息安全、计算机科学、电子工程、通信工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -634,10 +1817,63 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、参与企业网络边界防护、终端安全、数据安全策略部署，保障办公环境、研发环境、及生产环境信息安全。 2、参与公司防病毒、安全漏洞管理，定期对业务系统、设备、平台进行扫描与监测，提出修复方案或缓解措施。 3、参与安全合规管理，支持ISO 27001体系建设，编写相关合规文档，参与信息安全日常审计工作。 4、支持应急响应，监控安全事件，参与信息安全事件调查和处置。",
+      "jobRequirements": "1、硕士及以上学历，信息安全、计算机科学、电子工程、通信工程等相关专业。 2、熟悉TCP/IP、操作系统原理（Linux/Windows）。 3、了解常见攻防技术（Web渗透、逆向工程、漏洞利用）。 4、逻辑清晰，具备独立分析能力；高度的责任心和保密意识；良好的团队协作与沟通能力。 5、持有CISSP、CISP、CISA、Security+、OSCP等认证优先。",
+      "JD": "1、参与企业网络边界防护、终端安全、数据安全策略部署，保障办公环境、研发环境、及生产环境信息安全。 2、参与公司防病毒、安全漏洞管理，定期对业务系统、设备、平台进行扫描与监测，提出修复方案或缓解措施。 3、参与安全合规管理，支持ISO 27001体系建设，编写相关合规文档，参与信息安全日常审计工作。 4、支持应急响应，监控安全事件，参与信息安全事件调查和处置。\n1、硕士及以上学历，信息安全、计算机科学、电子工程、通信工程等相关专业。 2、熟悉TCP/IP、操作系统原理（Linux/Windows）。 3、了解常见攻防技术（Web渗透、逆向工程、漏洞利用）。 4、逻辑清晰，具备独立分析能力；高度的责任心和保密意识；良好的团队协作与沟通能力。 5、持有CISSP、CISP、CISA、Security+、OSCP等认证优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，信息安全、计算机科学、电子工程、通信工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=7da5dda1-ebd3-4e7e-9ee2-07c6e593943a",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -650,12 +1886,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，计算机、软件或数学相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -663,10 +1899,69 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责公司生产和运营系统的功能需求收集，挖掘用户痛点，制定解决方案。 2、负责系统需求的详细方案设计、需求开发、测试和部署运维。 3、负责系统的日常维护，监控系统运行状况及性能，发现故障，解决，优化。 4、编写系统的需求文档，功能模块文档以及用户手册等。",
+      "jobRequirements": "1、本科及以上学历，计算机、软件或数学相关专业。 2、扎实的BS或CS代码开发基础，掌握至少一种常用开发语言或BI工具。 3、了解主流数据库，能够熟练编写SQL。 4、良好的沟通能力和学习能力，积极主动，责任心强。",
+      "JD": "1、负责公司生产和运营系统的功能需求收集，挖掘用户痛点，制定解决方案。 2、负责系统需求的详细方案设计、需求开发、测试和部署运维。 3、负责系统的日常维护，监控系统运行状况及性能，发现故障，解决，优化。 4、编写系统的需求文档，功能模块文档以及用户手册等。\n1、本科及以上学历，计算机、软件或数学相关专业。 2、扎实的BS或CS代码开发基础，掌握至少一种常用开发语言或BI工具。 3、了解主流数据库，能够熟练编写SQL。 4、良好的沟通能力和学习能力，积极主动，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，计算机、软件或数学相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=35b2ea0a-8712-40da-913d-6399418adf94",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -679,11 +1974,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "1、硕士及以上学历，电子工程、微电子、物理或相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -692,10 +1987,68 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责日常客户商务对接，包含客户档案建立与更新、合作意向洽谈、合约签约及落地、保障回款及时到位。严格执行公司销售流程及制度； 2. 产品生命周期跟进，从产品开发直至量产乃至产品更新迭代，精准跟进客户需求； 3. 维护客户关系，定期拜访，提升客户信任度及稳定度； 4. 协同市场部收集市场动态、友商信息及客户长期发展规划路线，定期整理并同步至相关部门，支撑公司策略调整。",
+      "jobRequirements": "1、硕士及以上学历，电子工程、微电子、物理或相关专业优先； 2、沟通表达能力及逻辑思维能力优秀，目标感强、抗压能力佳，具备高效执行力和结果导向思维，以及良好的谈判和问题解决能力，能上下协同团队融洽合作，遵守公司规则制度，有良好的职业素养和诚信意识。",
+      "JD": "1. 负责日常客户商务对接，包含客户档案建立与更新、合作意向洽谈、合约签约及落地、保障回款及时到位。严格执行公司销售流程及制度； 2. 产品生命周期跟进，从产品开发直至量产乃至产品更新迭代，精准跟进客户需求； 3. 维护客户关系，定期拜访，提升客户信任度及稳定度； 4. 协同市场部收集市场动态、友商信息及客户长期发展规划路线，定期整理并同步至相关部门，支撑公司策略调整。\n1、硕士及以上学历，电子工程、微电子、物理或相关专业优先； 2、沟通表达能力及逻辑思维能力优秀，目标感强、抗压能力佳，具备高效执行力和结果导向思维，以及良好的谈判和问题解决能力，能上下协同团队融洽合作，遵守公司规则制度，有良好的职业素养和诚信意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，电子工程、微电子、物理或相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=18bb631d-be24-4b30-8f59-2afae05bf883",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -708,12 +2061,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、硕士及以上学历，微电子、集成电路、物理、光学、材料、化学工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -721,10 +2074,65 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、针对新研发技术制定工艺和产品可靠性认证方案并执行可靠性认证，评估工程变更和工程异常带来的可靠性风险； 2、研究栅氧化层、MOS器件、金属互连等关键制程，或先进NOR、逻辑、光电、3DIC等产品的可靠性失效机理； 3、设计工艺可靠性测试结构； 4、可靠性测试机台及实验室的维护和管理。",
+      "jobRequirements": "1、硕士及以上学历，微电子、集成电路、物理、光学、材料、化学工程等相关专业； 2、具备较好的工艺可靠性测试动手能力； 3、熟悉工艺可靠性测测试项目和测试方法； 4、熟悉半导体器件物理或后端工艺可靠性机理； 5、良好的沟通协作能力、学习能力及抗压能力。",
+      "JD": "1、针对新研发技术制定工艺和产品可靠性认证方案并执行可靠性认证，评估工程变更和工程异常带来的可靠性风险； 2、研究栅氧化层、MOS器件、金属互连等关键制程，或先进NOR、逻辑、光电、3DIC等产品的可靠性失效机理； 3、设计工艺可靠性测试结构； 4、可靠性测试机台及实验室的维护和管理。\n1、硕士及以上学历，微电子、集成电路、物理、光学、材料、化学工程等相关专业； 2、具备较好的工艺可靠性测试动手能力； 3、熟悉工艺可靠性测测试项目和测试方法； 4、熟悉半导体器件物理或后端工艺可靠性机理； 5、良好的沟通协作能力、学习能力及抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，微电子、集成电路、物理、光学、材料、化学工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=d12fa2c4-89ee-4f24-b213-880dc6d37563",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -737,12 +2145,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -750,10 +2158,63 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责失效分析工作，完成方案制定、实验分析、根因定位及报告输出； 2.负责失效分析工程方法的优化和创新，技术文档撰写； 3.负责实验室设备管理，包括设备维护、校准、采购评估以及耗材、预算等资源的统筹管理； 4.负责实验室日常运营统筹、人员协调与第三方服务管理，实验室6s及安全管理。",
+      "jobRequirements": "1.硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业； 2.具有FIB、SEM、TEM等机台操作或管理经验； 3.良好的沟通和表达能力 ，具备良好的失效分析动手能力； 4.责任心强，积极主动，乐于学习新知识； 5.具有良好的团队合作精神",
+      "JD": "1.负责失效分析工作，完成方案制定、实验分析、根因定位及报告输出； 2.负责失效分析工程方法的优化和创新，技术文档撰写； 3.负责实验室设备管理，包括设备维护、校准、采购评估以及耗材、预算等资源的统筹管理； 4.负责实验室日常运营统筹、人员协调与第三方服务管理，实验室6s及安全管理。\n1.硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业； 2.具有FIB、SEM、TEM等机台操作或管理经验； 3.良好的沟通和表达能力 ，具备良好的失效分析动手能力； 4.责任心强，积极主动，乐于学习新知识； 5.具有良好的团队合作精神",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=c4bb09f4-ed2b-4172-b60d-863ea428c437",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -766,12 +2227,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -779,10 +2240,65 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、维护和保障质量管理体系在产线的稳定运行； 2、不合格品管理：处理质量异常事件，推动持续改善； 3、变更管理：参与评审和管控工艺变更风险； 4、SPC管理：对产线统计指标进行监控，推动改善； 5、客户质量需求对接：配合解决客诉，保障客户端质量稳定性",
+      "jobRequirements": "1、硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业； 2、良好的沟通协作能力，以及学习能力; 3、一定的抗压能力，具有良好的团队合作精神。",
+      "JD": "1、维护和保障质量管理体系在产线的稳定运行； 2、不合格品管理：处理质量异常事件，推动持续改善； 3、变更管理：参与评审和管控工艺变更风险； 4、SPC管理：对产线统计指标进行监控，推动改善； 5、客户质量需求对接：配合解决客诉，保障客户端质量稳定性\n1、硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业； 2、良好的沟通协作能力，以及学习能力; 3、一定的抗压能力，具有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=97011f91-005a-408c-8b1b-f467a40220dd",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -795,12 +2311,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -808,10 +2324,64 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、新技术研发以及前沿技术先期探索; 根据新产品新项目的研发需求，合理选择DFM工具； 2、按时交付满足工艺要求的成套DFM套件，配合公司的研发路线图按计划推进； 3、新产品的流片、试产阶段通过解决工艺异常、优化工艺窗口来稳定工艺、降低缺陷、提升良率，达到量产转移指标； 4、管理DFM开发过程产生的技术文件、图形测例库、数据、文本文件，保证其安全、完整、可追溯； 5、建立完善模型开发和失效分析验证数据库，由此形成完整的模型开发和失效解决方案的专业技术体系，提高模型开发效率；",
+      "jobRequirements": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业； 2、熟悉集成电路制造工艺流程、版图设计，器件设计模拟开发，电路设计，器件模型建立的方式方法；熟悉芯片失效分析、良率提升等工作中所需采用的方式方法； 3、性格开朗，沟通能力强，工作态度积极认真，有很强的团队荣誉感；具备较强的自我管理能力和自我学习驱动力，理解能力和判断分析能力，能熟练使用office等软件，有行业相关的英文读写能力；",
+      "JD": "1、新技术研发以及前沿技术先期探索; 根据新产品新项目的研发需求，合理选择DFM工具； 2、按时交付满足工艺要求的成套DFM套件，配合公司的研发路线图按计划推进； 3、新产品的流片、试产阶段通过解决工艺异常、优化工艺窗口来稳定工艺、降低缺陷、提升良率，达到量产转移指标； 4、管理DFM开发过程产生的技术文件、图形测例库、数据、文本文件，保证其安全、完整、可追溯； 5、建立完善模型开发和失效分析验证数据库，由此形成完整的模型开发和失效解决方案的专业技术体系，提高模型开发效率；\n1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业； 2、熟悉集成电路制造工艺流程、版图设计，器件设计模拟开发，电路设计，器件模型建立的方式方法；熟悉芯片失效分析、良率提升等工作中所需采用的方式方法； 3、性格开朗，沟通能力强，工作态度积极认真，有很强的团队荣誉感；具备较强的自我管理能力和自我学习驱动力，理解能力和判断分析能力，能熟练使用office等软件，有行业相关的英文读写能力；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=5c2db9b6-08c9-4deb-a6dd-38106f70f26c",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -824,12 +2394,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -837,10 +2407,61 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、新技术研发以及前沿技术先期探索; 2、负责开发工艺流程，搭建新的工艺平台，制定、执行流片方案，确定工艺和关键参数的监控指标，并完成新技术平台的认证；产品上量过程中提升芯片良品率和产能扩充； 3、负责器件结构的设计，相关器件特性参数的模拟与仿真、建立表征器件相关参数的测试程序，分析工艺波动对器件特性的影响，优化器件性能，开发器件模型； 4、负责设计服务相关的IP和PDK开发，包含Foundation IP， Analog 和 Digital IP， LVS/DRC/PEX/Pcell等工作； 5、负责Mask Tooling相关工作，包含Tape Out， layout Drawn, Dummy Run等开发。",
+      "jobRequirements": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业； 2、熟悉集成电路制造工艺流程、版图设计，器件设计模拟开发，电路设计，器件模型建立的方式方法；熟悉芯片失效分析、良率提升等工作中所需采用的方式方法； 3、性格开朗，沟通能力强，工作态度积极认真，有很强的团队荣誉感； 4、具备较强的自我管理能力和自我学习驱动力，理解能力和判断分析能力，能熟练使用office等软件，有行业相关的英文读写能力；",
+      "JD": "1、新技术研发以及前沿技术先期探索; 2、负责开发工艺流程，搭建新的工艺平台，制定、执行流片方案，确定工艺和关键参数的监控指标，并完成新技术平台的认证；产品上量过程中提升芯片良品率和产能扩充； 3、负责器件结构的设计，相关器件特性参数的模拟与仿真、建立表征器件相关参数的测试程序，分析工艺波动对器件特性的影响，优化器件性能，开发器件模型； 4、负责设计服务相关的IP和PDK开发，包含Foundation IP， Analog 和 Digital IP， LVS/DRC/PEX/Pcell等工作； 5、负责Mask Tooling相关工作，包含Tape Out， layout Drawn, Dummy Run等开发。\n1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业； 2、熟悉集成电路制造工艺流程、版图设计，器件设计模拟开发，电路设计，器件模型建立的方式方法；熟悉芯片失效分析、良率提升等工作中所需采用的方式方法； 3、性格开朗，沟通能力强，工作态度积极认真，有很强的团队荣誉感； 4、具备较强的自我管理能力和自我学习驱动力，理解能力和判断分析能力，能熟练使用office等软件，有行业相关的英文读写能力；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=5fc1a6bb-8e7b-4de8-93ad-f16dc801f2a9",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -853,12 +2474,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -866,10 +2487,65 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 新技术研发以及前沿技术先期探索; 负责开发工艺流程，搭建新的工艺平台，确定工艺和关键参数的监控指标，并完成新技术平台的认证； 2. 产品上量过程中优化工艺生产力，以提高良率、成本效率及生产率； 3. 推进新型设备、材料等验证导入，以完成新技术研发； 4. 内外部客户沟通协作与问题解决",
+      "jobRequirements": "1. 硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业； 2. 熟悉集成电路制造工艺流程；熟悉芯片失效分析、良率提升等工作中所需采用的方式方法； 3. 性格开朗，沟通能力强，工作态度积极认真，有很强的团队荣誉感；具备较强的自我管理能力和自我学习驱动力，理解能力和判断分析能力，能熟练使用office等软件，有行业相关的英文读写能力；",
+      "JD": "1. 新技术研发以及前沿技术先期探索; 负责开发工艺流程，搭建新的工艺平台，确定工艺和关键参数的监控指标，并完成新技术平台的认证； 2. 产品上量过程中优化工艺生产力，以提高良率、成本效率及生产率； 3. 推进新型设备、材料等验证导入，以完成新技术研发； 4. 内外部客户沟通协作与问题解决\n1. 硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业； 2. 熟悉集成电路制造工艺流程；熟悉芯片失效分析、良率提升等工作中所需采用的方式方法； 3. 性格开朗，沟通能力强，工作态度积极认真，有很强的团队荣誉感；具备较强的自我管理能力和自我学习驱动力，理解能力和判断分析能力，能熟练使用office等软件，有行业相关的英文读写能力；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=3b43b059-bcb5-46dd-9395-d0e468ba1272",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -882,12 +2558,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -895,10 +2571,61 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、新技术研发以及前沿技术先期探索; 2、负责开发工艺流程，搭建新的工艺平台，制定、执行流片方案，确定工艺和关键参数的监控指标，并完成新技术平台的认证； 3、负责常规器件结构的设计，建立表征器件相关参数的测试程序，分析工艺波动对器件特性的影响； 4、负责产品性能及可靠性问题的分析及改善; 5、负责产品风险量产过程中工艺改善及芯片良品率提升；",
+      "jobRequirements": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业； 2、熟悉集成电路制造工艺流程、器件原理、版图设计，良率提升等工作中所需采用的方式方法； 3、性格开朗，沟通能力强，工作态度积极认真，有很强的团队荣誉感；具备较强的自我管理能力和自我学习驱动力，理解能力和判断分析能力，有行业相关的英文读写能力；",
+      "JD": "1、新技术研发以及前沿技术先期探索; 2、负责开发工艺流程，搭建新的工艺平台，制定、执行流片方案，确定工艺和关键参数的监控指标，并完成新技术平台的认证； 3、负责常规器件结构的设计，建立表征器件相关参数的测试程序，分析工艺波动对器件特性的影响； 4、负责产品性能及可靠性问题的分析及改善; 5、负责产品风险量产过程中工艺改善及芯片良品率提升；\n1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业； 2、熟悉集成电路制造工艺流程、器件原理、版图设计，良率提升等工作中所需采用的方式方法； 3、性格开朗，沟通能力强，工作态度积极认真，有很强的团队荣誉感；具备较强的自我管理能力和自我学习驱动力，理解能力和判断分析能力，有行业相关的英文读写能力；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=ee4b28a4-42ad-4be2-9701-0c67c3a4bcae",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -911,7 +2638,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -924,10 +2651,61 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 管理外包岗位的物料收发存操作，负责仓库物料账目； 2. 负责叉车及仓库相关设备工具的保养维修以及年检； 3. 制定仓库相关安全规定，管理仓库现场，确保人员，环境以及财产安全； 4. 接待来自于内外部的各种审核以及检查； 5. 配合其他部门，解决仓库相关问题。",
+      "jobRequirements": "1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力； 3.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
+      "JD": "1. 管理外包岗位的物料收发存操作，负责仓库物料账目； 2. 负责叉车及仓库相关设备工具的保养维修以及年检； 3. 制定仓库相关安全规定，管理仓库现场，确保人员，环境以及财产安全； 4. 接待来自于内外部的各种审核以及检查； 5. 配合其他部门，解决仓库相关问题。\n1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力； 3.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=c5ecf8ba-501d-4b64-9119-acad939d853e",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -940,7 +2718,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -953,10 +2731,61 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.了解设备生产模式，熟悉半导体生产工艺流程，建立标准产能计算模型； 2.动态产能评估、瓶颈分析及改善跟进； 3.中长期产能和投资规划及分析； 4.持续监控工厂OEE，核准机台OEE参数标准并进行改进，持续完善OEE系统； 5.制定设备安装周期标准, 掌控产能爬坡进度。",
+      "jobRequirements": "1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力； 3.有较强的安全责任意识和监工经验。； 4.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
+      "JD": "1.了解设备生产模式，熟悉半导体生产工艺流程，建立标准产能计算模型； 2.动态产能评估、瓶颈分析及改善跟进； 3.中长期产能和投资规划及分析； 4.持续监控工厂OEE，核准机台OEE参数标准并进行改进，持续完善OEE系统； 5.制定设备安装周期标准, 掌控产能爬坡进度。\n1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力； 3.有较强的安全责任意识和监工经验。； 4.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=dbb3d8cc-7353-412b-b423-ff44557d1de3",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -969,7 +2798,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -982,10 +2811,61 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.了解半导体生产工艺流程以及设备生产模式 2.负责工厂设施布局及优化，包含FAB，办公室，仓库，实验室区域规划与设计； 3.负责审核施工包商图纸，优化现场布局，协调处理现场干涉问题； 4.负责设备搬入计划的安排与协调，设计搬入动线，设置暂存区，协调现场异常处； 5.协助生产设备二次配，结合现场绘勘情况，优化附属设备布局；",
+      "jobRequirements": "1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力 3.有较强的安全责任意识和监工经验 4.熟练使用CAD 软件； 5.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
+      "JD": "1.了解半导体生产工艺流程以及设备生产模式 2.负责工厂设施布局及优化，包含FAB，办公室，仓库，实验室区域规划与设计； 3.负责审核施工包商图纸，优化现场布局，协调处理现场干涉问题； 4.负责设备搬入计划的安排与协调，设计搬入动线，设置暂存区，协调现场异常处； 5.协助生产设备二次配，结合现场绘勘情况，优化附属设备布局；\n1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力 3.有较强的安全责任意识和监工经验 4.熟练使用CAD 软件； 5.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=2b9f84f4-1e35-479d-b961-948621a9a5d9",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -998,12 +2878,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，安全工程、环境工程、化学、机械、电子、电气等理工科相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1011,10 +2891,63 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、24小时监测气体监测系统，火灾报警系统，VESDA系统，漏液监控系统，CCTV系统，广播系统，对讲机系统 2、按照程序响应安全报警与启动应急响应活动 3、组织ERT培训和应急响应演练 4、紧急应变器材和系统检查维护 5、现场安全巡查，稽核现场高风险作业，发现潜在的安全隐患",
+      "jobRequirements": "1、本科及以上学历，安全工程、环境工程、化学、机械、电子、电气等理工科相关专业 2、具备较强的责任心和学习能力、沟通协调能力、执行力和团队合作意识",
+      "JD": "1、24小时监测气体监测系统，火灾报警系统，VESDA系统，漏液监控系统，CCTV系统，广播系统，对讲机系统 2、按照程序响应安全报警与启动应急响应活动 3、组织ERT培训和应急响应演练 4、紧急应变器材和系统检查维护 5、现场安全巡查，稽核现场高风险作业，发现潜在的安全隐患\n1、本科及以上学历，安全工程、环境工程、化学、机械、电子、电气等理工科相关专业 2、具备较强的责任心和学习能力、沟通协调能力、执行力和团队合作意识",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，安全工程、环境工程、化学、机械、电子、电气等理工科相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=5cf123d4-2c0a-4d87-9de2-a3c73aef973a",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1027,12 +2960,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、硕士及以上学历，安全工程，环境工程，给排水工程，化学工程， 机械工程，环境科学等理工类专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1040,10 +2973,65 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、建立、推行和维护安全、卫生、环保管理体系和制度，鉴别法律法规，保证公司生产运营合法合规 2、识别生产运营过程中存在的安全、卫生、环保、安防风险，建立应急体系，提出预防和改善措施 3、建立安全、卫生、环保培训体系和机制，完成对员工及承揽商的ESH培训 4、监督和稽核ESH制度执行情况，追踪改善存在的隐患 5、提供安全、卫生、环保专业咨询服务",
+      "jobRequirements": "1、硕士及以上学历，安全工程，环境工程，给排水工程，化学工程， 机械工程，环境科学等理工类专业 2、具备较强的责任心和学习能力、沟通协调能力、执行力和团队合作意识",
+      "JD": "1、建立、推行和维护安全、卫生、环保管理体系和制度，鉴别法律法规，保证公司生产运营合法合规 2、识别生产运营过程中存在的安全、卫生、环保、安防风险，建立应急体系，提出预防和改善措施 3、建立安全、卫生、环保培训体系和机制，完成对员工及承揽商的ESH培训 4、监督和稽核ESH制度执行情况，追踪改善存在的隐患 5、提供安全、卫生、环保专业咨询服务\n1、硕士及以上学历，安全工程，环境工程，给排水工程，化学工程， 机械工程，环境科学等理工类专业 2、具备较强的责任心和学习能力、沟通协调能力、执行力和团队合作意识",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，安全工程，环境工程，给排水工程，化学工程， 机械工程，环境科学等理工类专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=2c5edddc-ac2f-4508-8ba5-af024e459d85",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1056,8 +3044,8 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
         "raw": "",
@@ -1069,10 +3057,61 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.党建事务：协助落实党组织“三会一课”、主题党日、组织生活会等党建工作；负责党员发展、教育培训、管理及党组织关系转接；维护党建信息系统，做好党内统计与台账管理。 2.工会工作：独立策划并组织工会各类文化体育活动；负责活动方案制定、预算编制、现场执行及后期宣传；做好活动物资采购、场地协调、人员组织等全流程管理。 3.综合支持：完成上级交办的其他党群相关工作。",
+      "jobRequirements": "1.硕士及以上学历； 2.具备较强的文字写作能力，能独立撰写新闻稿、活动方案、总结报告等。 3.具备独立策划并执行各类活动的能力，有大型活动组织经验者优先。 4.具有一定艺术特长（如摄影、视频剪辑、主持等）优先。 5.责任心强，善于沟通协调，能适应阶段性加班及活动筹备压力。",
+      "JD": "1.党建事务：协助落实党组织“三会一课”、主题党日、组织生活会等党建工作；负责党员发展、教育培训、管理及党组织关系转接；维护党建信息系统，做好党内统计与台账管理。 2.工会工作：独立策划并组织工会各类文化体育活动；负责活动方案制定、预算编制、现场执行及后期宣传；做好活动物资采购、场地协调、人员组织等全流程管理。 3.综合支持：完成上级交办的其他党群相关工作。\n1.硕士及以上学历； 2.具备较强的文字写作能力，能独立撰写新闻稿、活动方案、总结报告等。 3.具备独立策划并执行各类活动的能力，有大型活动组织经验者优先。 4.具有一定艺术特长（如摄影、视频剪辑、主持等）优先。 5.责任心强，善于沟通协调，能适应阶段性加班及活动筹备压力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=c7bb1f62-1728-42ce-885d-366c96cb2711",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1089,8 +3128,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.近三年内获得或即将获得半导体材料、微电子、机械工程、化学工程、自动化、材料科学等相关专业博士学位，具备扎实的理论基础与实验能力",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -1098,10 +3137,66 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "研究方向： 1、工艺制程优化：重点突破三维集成薄膜应力调控，晶圆键合及减薄工艺及堆叠晶圆晶边形貌整合优化等； 2、工稳定性与良率提升：构建基于大数据或者机器学习的工艺参数监控体系，研究掺杂工艺的浓度均匀性控制技术，优化金属互联工艺电迁移抑制方案，开发工艺过程中电荷累积的监控方案； 3、新兴工艺技术探索：异质集成工艺探索开发，开展后摩尔时代新型器件的工艺兼容性开发，验证其在现有fab产线的适配可行性。",
+      "jobRequirements": "1.近三年内获得或即将获得半导体材料、微电子、机械工程、化学工程、自动化、材料科学等相关专业博士学位，具备扎实的理论基础与实验能力。年龄不超过35周岁； 2.有半导体Fab工艺开发相关科研或实习经历； 3.具备良好的科研创新能力与问题解决能力，能独立设计并推进研究项目，有相关邻域高水平论文发表或专利，参与过省部级及以上科研项目/重大产业化攻关项目优先。 4. 具备良好的沟通协作能力与中英文读写能力，能适应团队合作与项目推进节奏，有跨学科项目研究经验者优先。",
+      "JD": "研究方向： 1、工艺制程优化：重点突破三维集成薄膜应力调控，晶圆键合及减薄工艺及堆叠晶圆晶边形貌整合优化等； 2、工稳定性与良率提升：构建基于大数据或者机器学习的工艺参数监控体系，研究掺杂工艺的浓度均匀性控制技术，优化金属互联工艺电迁移抑制方案，开发工艺过程中电荷累积的监控方案； 3、新兴工艺技术探索：异质集成工艺探索开发，开展后摩尔时代新型器件的工艺兼容性开发，验证其在现有fab产线的适配可行性。\n1.近三年内获得或即将获得半导体材料、微电子、机械工程、化学工程、自动化、材料科学等相关专业博士学位，具备扎实的理论基础与实验能力。年龄不超过35周岁； 2.有半导体Fab工艺开发相关科研或实习经历； 3.具备良好的科研创新能力与问题解决能力，能独立设计并推进研究项目，有相关邻域高水平论文发表或专利，参与过省部级及以上科研项目/重大产业化攻关项目优先。 4. 具备良好的沟通协作能力与中英文读写能力，能适应团队合作与项目推进节奏，有跨学科项目研究经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.近三年内获得或即将获得半导体材料、微电子、机械工程、化学工程、自动化、材料科学等相关专业博士学位，具备扎实的理论基础与实验能力"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=fd5d8d72-4fbb-477a-97b6-f27c021abcb3",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1118,8 +3213,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -1127,10 +3222,65 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "研究方向： 1、Agent智能体方向：结合半导体技术在研发、生产、质量等环节的业务需求，开展Workflow的智能化编排与生成，通过模型微调与优化，实现复杂工业场景下的辅助决策； 2、RAG检索增强方向：整合企业内外部知识源，构建企业级知识图谱、检索增强及上下文工程系统，实现专业知识的精准检索、生成与辅助决策； 3、Domain-skills-AI领域智能化方向：基于半导体技术在研发、生产、质量等环节的业务需求，研发具备领域能力的Domain-skills-AI小模型，构建相关业务场景下的自动化与智能化系统。",
+      "jobRequirements": "1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁。 2. 具备较强的科研创新能力和问题解决能力，能独立设计并推进研究项目；有相关领域高水平论文发表或专利，参与过省部级及以上科研项目或重大产业化攻关项目者优先。 3. 具备良好的沟通协作能力及中英文读写能力，具备系统性思维，良好的沟通与跨学科协作能力，能将前沿算法转化为业务价值。 4. 精通一门编程语言，如Python。 5. 有半导体Fab工艺开发相关科研或实习经历者优先。",
+      "JD": "研究方向： 1、Agent智能体方向：结合半导体技术在研发、生产、质量等环节的业务需求，开展Workflow的智能化编排与生成，通过模型微调与优化，实现复杂工业场景下的辅助决策； 2、RAG检索增强方向：整合企业内外部知识源，构建企业级知识图谱、检索增强及上下文工程系统，实现专业知识的精准检索、生成与辅助决策； 3、Domain-skills-AI领域智能化方向：基于半导体技术在研发、生产、质量等环节的业务需求，研发具备领域能力的Domain-skills-AI小模型，构建相关业务场景下的自动化与智能化系统。\n1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁。 2. 具备较强的科研创新能力和问题解决能力，能独立设计并推进研究项目；有相关领域高水平论文发表或专利，参与过省部级及以上科研项目或重大产业化攻关项目者优先。 3. 具备良好的沟通协作能力及中英文读写能力，具备系统性思维，良好的沟通与跨学科协作能力，能将前沿算法转化为业务价值。 4. 精通一门编程语言，如Python。 5. 有半导体Fab工艺开发相关科研或实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=a2d920a2-3223-49bb-a0eb-8dd82a7bb275",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1156,10 +3306,59 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "研究方向： 1、高速硅光电子低损耗无源器件、高带宽有源器件设计及结构开发； 2、12寸硅光电子工艺、材料及其对性能影响研究； 3、硅光电子器件设计规则、性能仿真、器件模型研究。",
+      "jobRequirements": "1.申请人年龄35周岁以下，可全职进行博士后研究； 2.有熟悉anysy，lumerical，HFSS等设计软件及版图绘制相关软件，有硅光设计及流片经验者优先 3.热爱本行业领域科学研究，能独立开展科研工作，有良好的思想品德，具有团队合作和敬业精神，作为第一作者在SCI/EI或本领域核心期刊上发表过高水平学术论文者优先",
+      "JD": "研究方向： 1、高速硅光电子低损耗无源器件、高带宽有源器件设计及结构开发； 2、12寸硅光电子工艺、材料及其对性能影响研究； 3、硅光电子器件设计规则、性能仿真、器件模型研究。\n1.申请人年龄35周岁以下，可全职进行博士后研究； 2.有熟悉anysy，lumerical，HFSS等设计软件及版图绘制相关软件，有硅光设计及流片经验者优先 3.热爱本行业领域科学研究，能独立开展科研工作，有良好的思想品德，具有团队合作和敬业精神，作为第一作者在SCI/EI或本领域核心期刊上发表过高水平学术论文者优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=0b3558a9-3b87-4a50-abc2-1893fe0e4b93",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1185,10 +3384,61 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "研究方向： 1、研究复杂三维集成系统（多晶圆堆叠键合、C2W键合等）的设计仿真联合优化问题； 2、通过电磁、热、应力等多物理场的联合仿真寻优，指导架构设计、版图布局及工艺开发，实现电路与技术协同优化。",
+      "jobRequirements": "1.申请人年龄35周岁以下； 2.熟练使用相关热仿真与热分析或者电磁仿真方面的软件，有集成电路/先进封装等设计仿真项目经验的优先。 3.热爱本行业领域科学研究，能独立开展科研工作，有良好的思想品德，具有团队合作和敬业精神，作为第一作者在SCI/EI或本领域核心期刊上发表过高水平学术论文者优先",
+      "JD": "研究方向： 1、研究复杂三维集成系统（多晶圆堆叠键合、C2W键合等）的设计仿真联合优化问题； 2、通过电磁、热、应力等多物理场的联合仿真寻优，指导架构设计、版图布局及工艺开发，实现电路与技术协同优化。\n1.申请人年龄35周岁以下； 2.熟练使用相关热仿真与热分析或者电磁仿真方面的软件，有集成电路/先进封装等设计仿真项目经验的优先。 3.热爱本行业领域科学研究，能独立开展科研工作，有良好的思想品德，具有团队合作和敬业精神，作为第一作者在SCI/EI或本领域核心期刊上发表过高水平学术论文者优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=b5a39f0b-8f49-45d0-bd39-0f183f71c65f",
-      "lastVerified": "2026-08-12",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

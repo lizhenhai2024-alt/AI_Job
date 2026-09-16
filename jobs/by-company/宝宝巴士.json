@@ -12,12 +12,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历，统计学，数学等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -25,10 +25,72 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、内容运营、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责协助策划并执行APP产品的活动方案，包括活动创意策划、活动文案撰写、资源对接与落地推进，提升用户活跃度与参与度； 2. 负责协助开展APP产品的内容运营工作，包括内容编辑，用户互动及用户内容反馈收集； 3. 日常监控产品核心数据，定期输出分析报告，基于数据洞察驱动运营策略、实现用户增长目标。",
+      "jobRequirements": "1. 本科及以上学历，统计学，数学等相关专业，对互联网运营有浓厚兴趣，具备活动策划或运营经验优先； 2. 掌握Excel等数据分析工具，能够进行基础的数据处理、分析与可视化，以支持运营决策； 3. 具备良好的文案撰写能力，能独立完成各类活动的文案策划与创意输出； 4. 具备良好的沟通能力与团队合作精神，工作积极主动，责任心强，有较强的学习能力和抗压能力； 5. 具备AI应用思维，能通过工具赋能实现工作提效。",
+      "JD": "1. 负责协助策划并执行APP产品的活动方案，包括活动创意策划、活动文案撰写、资源对接与落地推进，提升用户活跃度与参与度； 2. 负责协助开展APP产品的内容运营工作，包括内容编辑，用户互动及用户内容反馈收集； 3. 日常监控产品核心数据，定期输出分析报告，基于数据洞察驱动运营策略、实现用户增长目标。\n1. 本科及以上学历，统计学，数学等相关专业，对互联网运营有浓厚兴趣，具备活动策划或运营经验优先； 2. 掌握Excel等数据分析工具，能够进行基础的数据处理、分析与可视化，以支持运营决策； 3. 具备良好的文案撰写能力，能独立完成各类活动的文案策划与创意输出； 4. 具备良好的沟通能力与团队合作精神，工作积极主动，责任心强，有较强的学习能力和抗压能力； 5. 具备AI应用思维，能通过工具赋能实现工作提效。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，统计学，数学等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "内容运营",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=5f85240d-a2a2-4f3e-b513-916fd7498d09",
-      "lastVerified": "2026-01-20",
+      "publishedAt": "2026-01-20",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,12 +103,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历，学前教育、心理学、物理学类、天文学、地理科学、生物科学等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -54,10 +116,67 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 根据3~10岁儿童用户心理及需求，规划和设计有趣、有效的选题内容，包括音频剧本、图书出版物等产品； 2. 能够将想法形成可执行的策划方案，包括市场分析、产品定位、内容规划等； 3. 独立跟进策划内容，负责音频剧本、图书出版物等产品的编写和制作，确保产品的质量和准确性。",
+      "jobRequirements": "1. 本科及以上学历，学前教育、心理学、物理学类、天文学、地理科学、生物科学等相关专业； 2. 具有较强的市场敏感性、产品思维和解决问题的能力，能够从用户的需求出发，规划和设计有趣、有效的选题内容； 3. 具有创意和想象力，能够把知识点以儿童能接受的方式编排、呈现； 4. 具有较强的责任心和抗压能力，能够承受一定的工作压力，保证工作的质量和进度； 5. 具有良好的学习能力和创新能力，能够不断学习和提升自己的创作能力，为产品的创新提供支持； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 根据3~10岁儿童用户心理及需求，规划和设计有趣、有效的选题内容，包括音频剧本、图书出版物等产品； 2. 能够将想法形成可执行的策划方案，包括市场分析、产品定位、内容规划等； 3. 独立跟进策划内容，负责音频剧本、图书出版物等产品的编写和制作，确保产品的质量和准确性。\n1. 本科及以上学历，学前教育、心理学、物理学类、天文学、地理科学、生物科学等相关专业； 2. 具有较强的市场敏感性、产品思维和解决问题的能力，能够从用户的需求出发，规划和设计有趣、有效的选题内容； 3. 具有创意和想象力，能够把知识点以儿童能接受的方式编排、呈现； 4. 具有较强的责任心和抗压能力，能够承受一定的工作压力，保证工作的质量和进度； 5. 具有良好的学习能力和创新能力，能够不断学习和提升自己的创作能力，为产品的创新提供支持； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，学前教育、心理学、物理学类、天文学、地理科学、生物科学等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品运营"
+      ],
+      "skills": [
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=567875dd-22a3-4ef5-bc66-958d46756421",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,11 +189,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，英语专业八级或雅思；7.0分或托福100分（三者有其一即可），英语语言文学专业优先；4. 英语国家留学，英语文学专业或儿童文学优先",
         "hardRestriction": false
       },
       "language": {
@@ -83,10 +202,69 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责把控英语市场的儿童剧本创作，包括故事情节、角色设定、场景描述等； 2. 参与选题开发和立项工作，对市场需求进行分析和研究； 3. 负责稿件的编辑及校审工作，确保剧本的质量和准确性； 4. 负责项目制作跟进及工作衔接，确保剧本的顺利实现。",
+      "jobRequirements": "1. 本科及以上学历，英语专业八级或雅思7.0分或托福100分（三者有其一即可），英语语言文学专业优先； 2. 中英文功底扎实，文笔流畅，知识面宽，喜欢从事文字编辑、选题策划工作； 3. 重度外语内容阅读阅片量（绘本，故事，动画，欧美电影电视剧）；对儿童内容有一定积累且有自己想法优先； 4. 英语国家留学，英语文学专业或儿童文学优先。或对英语语言文化及英语系国家文化，生活习惯非常了解优先（母语者更佳）； 5. 团队配合能力、沟通能力佳，学习能力强； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 负责把控英语市场的儿童剧本创作，包括故事情节、角色设定、场景描述等； 2. 参与选题开发和立项工作，对市场需求进行分析和研究； 3. 负责稿件的编辑及校审工作，确保剧本的质量和准确性； 4. 负责项目制作跟进及工作衔接，确保剧本的顺利实现。\n1. 本科及以上学历，英语专业八级或雅思7.0分或托福100分（三者有其一即可），英语语言文学专业优先； 2. 中英文功底扎实，文笔流畅，知识面宽，喜欢从事文字编辑、选题策划工作； 3. 重度外语内容阅读阅片量（绘本，故事，动画，欧美电影电视剧）；对儿童内容有一定积累且有自己想法优先； 4. 英语国家留学，英语文学专业或儿童文学优先。或对英语语言文化及英语系国家文化，生活习惯非常了解优先（母语者更佳）； 5. 团队配合能力、沟通能力佳，学习能力强； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，英语专业八级或雅思",
+          "7.0分或托福100分（三者有其一即可），英语语言文学专业优先",
+          "4. 英语国家留学，英语文学专业或儿童文学优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品运营"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=9a736b7a-aef4-4b6f-ba3e-c427c4d85be9",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -99,7 +277,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -112,10 +290,64 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责0-6岁儿童原创故事、动画的前期策划创意，负责撰写梗概大纲； 2. 独立创作具体剧本、歌词； 3. 跟进动画、音乐团队制作，反馈意见解决问题； 4. 搜索资料、调研分析同类儿童教育产品。",
+      "jobRequirements": "1. 本科及以上学历，海外学前教育、文字类等相关专业； 2. 喜欢码字，文字功底优秀，有镜头感，擅长各种写作风格； 3. 热爱动画，有丰富的动画观影经验； 4. 喜欢孩子，熟悉儿童心理，有儿童故事/动画创作经验者优先； 5. 想象力丰富，思维敏捷，有好奇心，善于学习； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 负责0-6岁儿童原创故事、动画的前期策划创意，负责撰写梗概大纲； 2. 独立创作具体剧本、歌词； 3. 跟进动画、音乐团队制作，反馈意见解决问题； 4. 搜索资料、调研分析同类儿童教育产品。\n1. 本科及以上学历，海外学前教育、文字类等相关专业； 2. 喜欢码字，文字功底优秀，有镜头感，擅长各种写作风格； 3. 热爱动画，有丰富的动画观影经验； 4. 喜欢孩子，熟悉儿童心理，有儿童故事/动画创作经验者优先； 5. 想象力丰富，思维敏捷，有好奇心，善于学习； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品运营"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "内容"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=e5dec3b0-1c15-48d5-8c3c-22346a12f549",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,7 +360,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -141,10 +373,65 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 撰写儿童益智类互动产品策划方案，包括游戏规则、关卡设计、剧情和角色设定等； 2. 跟进策划方案落地执行，协调内部资源，确保产品的质量和开发进度； 3. 根据市场需求和竞品情况，优化产品策划方案； 4. 参与产品测试和用户反馈分析，对产品进行持续优化和改进。",
+      "jobRequirements": "1. 本科及以上学历，产品设计、数字媒体技术、学前教育等相关专业优先； 2. 热爱幼儿教育和互动产品，对益智类互动产品有好奇心，了解儿童心理和认知发展规律； 3. 具有清晰的思路和丰富的想象力、创造力，能够独立撰写优秀的产品策划方案； 4. 具有良好的沟通协调能力，能够与团队成员密切配合，共同完成产品开发任务； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 撰写儿童益智类互动产品策划方案，包括游戏规则、关卡设计、剧情和角色设定等； 2. 跟进策划方案落地执行，协调内部资源，确保产品的质量和开发进度； 3. 根据市场需求和竞品情况，优化产品策划方案； 4. 参与产品测试和用户反馈分析，对产品进行持续优化和改进。\n1. 本科及以上学历，产品设计、数字媒体技术、学前教育等相关专业优先； 2. 热爱幼儿教育和互动产品，对益智类互动产品有好奇心，了解儿童心理和认知发展规律； 3. 具有清晰的思路和丰富的想象力、创造力，能够独立撰写优秀的产品策划方案； 4. 具有良好的沟通协调能力，能够与团队成员密切配合，共同完成产品开发任务； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "产品运营"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 撰写儿童益智类互动产品策划方案，包括游戏规则、关卡设计、剧情和角色设定等； "
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=3916ad28-0c92-45c5-9ec0-23449f593a23",
-      "lastVerified": "2025-08-26",
+      "publishedAt": "2025-08-26",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -157,7 +444,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -170,10 +457,64 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 根据公司战略及产品进度进行市场资源规划，获取平台资源，根据数据进行活动反馈分析，并提交相关活动数据报告及整改、优化建议； 2. 负责市场商务拓展，制定阶段性内外部资源合作策略，拓展平台包括应用平台、有声平台、硬件设备等； 3. 了解行业动向，及时、准确地研究、监控、分析竞争对手运营动态，并提出相应对策； 4. 配合公司运营中其他工作需求。",
+      "jobRequirements": "1. 本科及以上学历，管理学等相关专业； 2. 熟悉市场动态和规则，对移动互联网产品运营、活动策划及渠道拉新等有一定了解，熟悉并掌握市场动态及规则； 3. 思维活跃，有创造力，对新鲜事物有敏锐的嗅觉优先； 4. 具有较强的商务拓展及人际沟通能力，能够接受出差； 5. 具备AI应用思维，能通过工具赋能实现工作提效。",
+      "JD": "1. 根据公司战略及产品进度进行市场资源规划，获取平台资源，根据数据进行活动反馈分析，并提交相关活动数据报告及整改、优化建议； 2. 负责市场商务拓展，制定阶段性内外部资源合作策略，拓展平台包括应用平台、有声平台、硬件设备等； 3. 了解行业动向，及时、准确地研究、监控、分析竞争对手运营动态，并提出相应对策； 4. 配合公司运营中其他工作需求。\n1. 本科及以上学历，管理学等相关专业； 2. 熟悉市场动态和规则，对移动互联网产品运营、活动策划及渠道拉新等有一定了解，熟悉并掌握市场动态及规则； 3. 思维活跃，有创造力，对新鲜事物有敏锐的嗅觉优先； 4. 具有较强的商务拓展及人际沟通能力，能够接受出差； 5. 具备AI应用思维，能通过工具赋能实现工作提效。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=05bc279d-fd80-4dcb-88c7-f540c7c1d62c",
-      "lastVerified": "2026-02-10",
+      "publishedAt": "2026-02-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -186,7 +527,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -196,13 +537,68 @@
       "language": {
         "raw": "西班牙语",
         "english": false,
-        "minorLanguageRequired": false
+        "minorLanguageRequired": true
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责儿童视频产品的西班牙语版本的本地化制作； 2. 负责拉美区视频渠道运营和拓展。",
+      "jobRequirements": "1. 本科及以上学历，西班牙语听说读写熟练； 2. 喜欢学习新事物，熟悉互联网，具有一定的互联网相关工作经验优先； 3. 了解拉美当地风土人情，具有当地生活学习经验或西语方面工作经历者优先。",
+      "JD": "1. 负责儿童视频产品的西班牙语版本的本地化制作； 2. 负责拉美区视频渠道运营和拓展。\n1. 本科及以上学历，西班牙语听说读写熟练； 2. 喜欢学习新事物，熟悉互联网，具有一定的互联网相关工作经验优先； 3. 了解拉美当地风土人情，具有当地生活学习经验或西语方面工作经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=7f6efbdd-996d-4c21-a2a4-99e0b4405739",
-      "lastVerified": "2026-09-03",
+      "publishedAt": "2026-09-03",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,7 +611,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -228,10 +624,67 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：市场分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责童书内容策划工作； 2. 独立完成书稿的策划创作、通读、通校、编辑加工及文案撰写，确保书稿质量； 3. 能够将想法形成可执行的策划方案，包括市场分析、产品定位、内容规划等。",
+      "jobRequirements": "1. 本科及以上学历，儿童文学、历史学、汉语言文学、新闻学、戏剧与影视文学、学前教育学等相关专业； 2. 热爱童书，具备丰富的童书阅读经历，拥有独到的见解和创意； 3. 具备较好的文字创作能力，能够深入理解内容并作出准确判断； 4. 具有创意和想象力，能够把知识点以儿童能接受的方式创作且呈现； 5. 具有较强的责任心和抗压能力，确保工作的质量和进度； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 负责童书内容策划工作； 2. 独立完成书稿的策划创作、通读、通校、编辑加工及文案撰写，确保书稿质量； 3. 能够将想法形成可执行的策划方案，包括市场分析、产品定位、内容规划等。\n1. 本科及以上学历，儿童文学、历史学、汉语言文学、新闻学、戏剧与影视文学、学前教育学等相关专业； 2. 热爱童书，具备丰富的童书阅读经历，拥有独到的见解和创意； 3. 具备较好的文字创作能力，能够深入理解内容并作出准确判断； 4. 具有创意和想象力，能够把知识点以儿童能接受的方式创作且呈现； 5. 具有较强的责任心和抗压能力，确保工作的质量和进度； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "市场分析",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=b2d6960f-88ae-4c69-951b-99b1de456dd4",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,7 +697,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -257,10 +710,65 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责儿童音频故事内容体验研究，包括案前调研、demo体验，同时分析用户对IP认知印象、情感倾向及价值认同等； 2. 参与故事适龄化、人声后期设计效果等专项研究，结合用户反馈与数据，输出可执行的优化建议，并协助团队沉淀研究案例库与方法论； 3. 挖掘家长和孩子在不同使用场景下的真实需求及付费动机等。",
+      "jobRequirements": "1. 本科及以上学历，心理学、社会学、人机交互等相关专业； 2. 熟悉用户研究方法（可用性测试/焦点小组等），熟练使用数据分析工具； 3. 具备优秀的跨团队沟通能力与结构化报告撰写能力； 4. 对儿童认知发展有研究，有教育类产品经验者优先； 5. 具备AI应用思维，能通过工具赋能实现工作提效。",
+      "JD": "1. 负责儿童音频故事内容体验研究，包括案前调研、demo体验，同时分析用户对IP认知印象、情感倾向及价值认同等； 2. 参与故事适龄化、人声后期设计效果等专项研究，结合用户反馈与数据，输出可执行的优化建议，并协助团队沉淀研究案例库与方法论； 3. 挖掘家长和孩子在不同使用场景下的真实需求及付费动机等。\n1. 本科及以上学历，心理学、社会学、人机交互等相关专业； 2. 熟悉用户研究方法（可用性测试/焦点小组等），熟练使用数据分析工具； 3. 具备优秀的跨团队沟通能力与结构化报告撰写能力； 4. 对儿童认知发展有研究，有教育类产品经验者优先； 5. 具备AI应用思维，能通过工具赋能实现工作提效。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责儿童音频故事内容体验研究，包括案前调研、demo体验，同时分析用户对IP"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=93544f4f-9265-4a84-87d1-d8a49cf774f6",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -273,11 +781,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，电子商务、市场营销等相关专业背景优先",
         "hardRestriction": false
       },
       "language": {
@@ -286,10 +794,71 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责儿童产品（如绘本/点读笔/APP等）用户支持工作； 2. 处理售前、售中及售后用户咨询，解答疑问，提供专业、详尽的购物指引与服务； 3. 统计并整理用户的常见需求，反馈给项目组，维护品牌形象，提高用户满意度。",
+      "jobRequirements": "1. 本科及以上学历，电子商务、市场营销等相关专业背景优先； 2. 有用户服务相关经验优先，熟练掌握Excel等办公软件，打字速度60字/分钟以上； 3. 积极主动，善于沟通，善于倾听用户需求，具备良好的服务意识与抗压能力，保持耐心与热情； 4. 了解AI辅助工具，能够运用AI技术提升效率及问题解决能力； 5. 能够适应岗位的快节奏工作，可接受早晚排班，至少实习3个月及以上，可长期实习者优先，实习表现优秀者可发放校招offer。",
+      "JD": "1. 负责儿童产品（如绘本/点读笔/APP等）用户支持工作； 2. 处理售前、售中及售后用户咨询，解答疑问，提供专业、详尽的购物指引与服务； 3. 统计并整理用户的常见需求，反馈给项目组，维护品牌形象，提高用户满意度。\n1. 本科及以上学历，电子商务、市场营销等相关专业背景优先； 2. 有用户服务相关经验优先，熟练掌握Excel等办公软件，打字速度60字/分钟以上； 3. 积极主动，善于沟通，善于倾听用户需求，具备良好的服务意识与抗压能力，保持耐心与热情； 4. 了解AI辅助工具，能够运用AI技术提升效率及问题解决能力； 5. 能够适应岗位的快节奏工作，可接受早晚排班，至少实习3个月及以上，可长期实习者优先，实习表现优秀者可发放校招offer。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，电子商务、市场营销等相关专业背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=d9bcc435-6c41-44a0-97cc-07f440112d52",
-      "lastVerified": "2025-02-25",
+      "publishedAt": "2025-02-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -302,7 +871,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -315,10 +884,62 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 审阅音频稿件，精准识别并规避知识性谬误、舆情隐患及不适合儿童年龄阶段的内容，提出建设性修改建议，确保内容的高质量与适宜性； 2. 对接外部专家团队，结合项目定位、故事化要求，将专业知识转化为对儿童友好的内容； 3. 为儿童音频剧本项目提供全链条支持，包括前期创意激发、后期制作中的细节审核，确保每个环节的准确推进； 4. 搜集信息，填充完善团队内部知识库、案例库。",
+      "jobRequirements": "1. 本科及以上学历，学前教育、心理学专业； 2. 了解儿童发展特征，对不同年龄段儿童教育技巧有所研究； 3. 对儿童文学有一定的鉴赏水平，大量阅读过儿童绘本故事，对儿童故事语言、情节、节奏有细腻的感受和独到的见解； 4. 文字功底好、专业知识扎实，能协助编剧，将故事情节、语言、知识点调整得更符合儿童喜好； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。 6. 工作严谨，踏实敬业，规划能力强，沟通能力强，执行能力强。",
+      "JD": "1. 审阅音频稿件，精准识别并规避知识性谬误、舆情隐患及不适合儿童年龄阶段的内容，提出建设性修改建议，确保内容的高质量与适宜性； 2. 对接外部专家团队，结合项目定位、故事化要求，将专业知识转化为对儿童友好的内容； 3. 为儿童音频剧本项目提供全链条支持，包括前期创意激发、后期制作中的细节审核，确保每个环节的准确推进； 4. 搜集信息，填充完善团队内部知识库、案例库。\n1. 本科及以上学历，学前教育、心理学专业； 2. 了解儿童发展特征，对不同年龄段儿童教育技巧有所研究； 3. 对儿童文学有一定的鉴赏水平，大量阅读过儿童绘本故事，对儿童故事语言、情节、节奏有细腻的感受和独到的见解； 4. 文字功底好、专业知识扎实，能协助编剧，将故事情节、语言、知识点调整得更符合儿童喜好； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。 6. 工作严谨，踏实敬业，规划能力强，沟通能力强，执行能力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=21c76dc8-cdd8-436d-be8d-0fa8c816b9ff",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -331,11 +952,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，英语听说读写熟练，对不同口音有感知，美式发音优先",
         "hardRestriction": false
       },
       "language": {
@@ -344,10 +965,70 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 根据现有剧本设计人声及后期需求，表达给外包制作音频成品故事； 2. 独立完成项目跟进及中间组内外交流合作问题； 3. 主要负责项目稿件本地化设计及人声后期设计审核流程，逐步参与制作前后期设计规划； 4. 独立顺畅与国内外外包团队沟通； 5. 机动完成与工作相关的其他临时任务。",
+      "jobRequirements": "1. 本科及以上学历，英语听说读写熟练，对不同口音有感知，美式发音优先； 2. 了解英美风土人情，具有当地生活学习经验或英语方面工作经历者优先； 3. 能准确get到项目需求并高效与外包沟通，把控外包质量； 4. 对幼教类产品感兴趣、有儿童类产品配音经验者或英文配音功底优先； 5. 有想法、爱尝试、有脑洞，愿意学习研究，随时冒出新奇好玩的想法； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 根据现有剧本设计人声及后期需求，表达给外包制作音频成品故事； 2. 独立完成项目跟进及中间组内外交流合作问题； 3. 主要负责项目稿件本地化设计及人声后期设计审核流程，逐步参与制作前后期设计规划； 4. 独立顺畅与国内外外包团队沟通； 5. 机动完成与工作相关的其他临时任务。\n1. 本科及以上学历，英语听说读写熟练，对不同口音有感知，美式发音优先； 2. 了解英美风土人情，具有当地生活学习经验或英语方面工作经历者优先； 3. 能准确get到项目需求并高效与外包沟通，把控外包质量； 4. 对幼教类产品感兴趣、有儿童类产品配音经验者或英文配音功底优先； 5. 有想法、爱尝试、有脑洞，愿意学习研究，随时冒出新奇好玩的想法； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，英语听说读写熟练，对不同口音有感知，美式发音优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "项目"
+      ],
+      "preferenceTags": [
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 根据现有剧本设计人声及后期需求，表达给外包制作音频成品故事； 2. 独立完成"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=ec940617-11f7-4a64-85ce-166c0b7f133a",
-      "lastVerified": "2026-05-07",
+      "publishedAt": "2026-05-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -360,23 +1041,89 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "3. 熟悉阿拉伯文化和社会背景，具备中文至阿拉伯语的翻译经验和良好的文字功底，了解中东地区儿童文化和教育环境",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语、阿拉伯语",
         "english": true,
-        "minorLanguageRequired": false
+        "minorLanguageRequired": true
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责对产品进行阿拉伯语的翻译、审核、校对工作，确保语言表达流畅自然，翻译准确、质量高； 2. 配合完成产品相关功能的上线及日常运营工作； 3. 对海外互联网儿童内容有一定的了解，针对用户需求，对内容资源进行价值包装和文案撰写； 4. 参与产品数据的日常监测跟踪；对海外用户的使用体验和反馈进行收集分析，并及时提出有效的产品优化建议； 5. 与合作伙伴进行沟通协调，解决翻译和策划方面的问题。",
+      "jobRequirements": "1. 本科及以上学历，阿拉伯语专业； 2. 熟练掌握阿拉伯语读写能力，具备出色的翻译技巧； 3. 熟悉阿拉伯文化和社会背景，具备中文至阿拉伯语的翻译经验和良好的文字功底，了解中东地区儿童文化和教育环境； 4. 具备良好的沟通和协调能力，能够与团队成员和合作伙伴进行有效的沟通； 5. 具备海外学习生活经历，英语CET-6级以上，有CATTI阿拉伯语证书者优先。",
+      "JD": "1. 负责对产品进行阿拉伯语的翻译、审核、校对工作，确保语言表达流畅自然，翻译准确、质量高； 2. 配合完成产品相关功能的上线及日常运营工作； 3. 对海外互联网儿童内容有一定的了解，针对用户需求，对内容资源进行价值包装和文案撰写； 4. 参与产品数据的日常监测跟踪；对海外用户的使用体验和反馈进行收集分析，并及时提出有效的产品优化建议； 5. 与合作伙伴进行沟通协调，解决翻译和策划方面的问题。\n1. 本科及以上学历，阿拉伯语专业； 2. 熟练掌握阿拉伯语读写能力，具备出色的翻译技巧； 3. 熟悉阿拉伯文化和社会背景，具备中文至阿拉伯语的翻译经验和良好的文字功底，了解中东地区儿童文化和教育环境； 4. 具备良好的沟通和协调能力，能够与团队成员和合作伙伴进行有效的沟通； 5. 具备海外学习生活经历，英语CET-6级以上，有CATTI阿拉伯语证书者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3. 熟悉阿拉伯文化和社会背景，具备中文至阿拉伯语的翻译经验和良好的文字功底，了解中东地区儿童文化和教育环境"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=ed2a2e75-6081-46ac-80c8-16c458316650",
-      "lastVerified": "2024-05-31",
+      "publishedAt": "2024-05-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -389,7 +1136,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -402,10 +1149,61 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 根据指定主题，产出儿童原创音频故事剧本，确保剧本符合儿童喜好以及趣味性； 2. 负责将已通过稿件转化为录音稿，确保录音稿符合剧本要求； 3. 参与音频制作流程，对成品进行确认，并提出建设性优化意见，确保音频故事更加生动、吸引人。",
+      "jobRequirements": "1. 本科及以上学历，戏剧与影视文学、学前教育、新闻学、汉语言文学、广播电视编导等相关专业； 2. 喜欢码字，文字功底优秀，有持续练笔习惯； 3. 熟悉儿童心理，喜欢儿童产品（绘本、动画、音频）； 4. 善于学习、思维敏捷、有创意、有想法； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 根据指定主题，产出儿童原创音频故事剧本，确保剧本符合儿童喜好以及趣味性； 2. 负责将已通过稿件转化为录音稿，确保录音稿符合剧本要求； 3. 参与音频制作流程，对成品进行确认，并提出建设性优化意见，确保音频故事更加生动、吸引人。\n1. 本科及以上学历，戏剧与影视文学、学前教育、新闻学、汉语言文学、广播电视编导等相关专业； 2. 喜欢码字，文字功底优秀，有持续练笔习惯； 3. 熟悉儿童心理，喜欢儿童产品（绘本、动画、音频）； 4. 善于学习、思维敏捷、有创意、有想法； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=8028722d-1ed1-44e3-bbf7-b0fd012a85fd",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -418,12 +1216,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 本科及以上学历，计算机相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -431,10 +1229,65 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 协同策划、美术沟通确定开发需求，明确技术实现方案，并完成开发； 2. 负责手机客户端核心业务的开发，实现客户端的相关算法与逻辑； 3. 对产品性能优化、资源管理、内存管理有一定的理解和实践； 4. 阅读原有代码，完成程序改造和维护以及国际化的相关适配。",
+      "jobRequirements": "1. 本科及以上学历，计算机相关专业； 2. 有较强的团队协作能力、沟通能力以及责任心； 3. 有良好的代码规范，有严谨的逻辑思维能力，善于阅读代码，自学能力强； 4. 熟悉c++/lua/java/C#等开发语言，有游戏客户端开发经验优先。",
+      "JD": "1. 协同策划、美术沟通确定开发需求，明确技术实现方案，并完成开发； 2. 负责手机客户端核心业务的开发，实现客户端的相关算法与逻辑； 3. 对产品性能优化、资源管理、内存管理有一定的理解和实践； 4. 阅读原有代码，完成程序改造和维护以及国际化的相关适配。\n1. 本科及以上学历，计算机相关专业； 2. 有较强的团队协作能力、沟通能力以及责任心； 3. 有良好的代码规范，有严谨的逻辑思维能力，善于阅读代码，自学能力强； 4. 熟悉c++/lua/java/C#等开发语言，有游戏客户端开发经验优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，计算机相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=43fdebf7-80d3-440d-9cd6-758595e3667f",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -447,7 +1300,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -460,10 +1313,64 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 设计点读模式、优化功能模式，优化标准流程，提升点读品质； 2. 对书籍进行二次创作，通过声音突出强化图书的（剧情/角色）特色，拓展阅读体验； 3. 撰写童书图文的声音点读脚本，设计点读游戏，为图书添加点读互动功能； 4. 输出圈码方案，与圈码人员沟通，并负责图书圈码测试； 5. 审核校对负责项目所需的点读音频文件、圈码打样文件，并反馈相关意见，确认项目品质。",
+      "jobRequirements": "1. 本科及以上学历，汉语言文学，戏剧与影视，学前教育等相关专业优先； 2. 热爱绘本、热爱阅读，热爱儿童，了解儿童心理阅读喜好； 3. 喜欢图书出版工作，工作认真负责，有上进心优先； 4. 具有较强的学习能力和创新能力，能够不断学习和提升自己的创作能力； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 设计点读模式、优化功能模式，优化标准流程，提升点读品质； 2. 对书籍进行二次创作，通过声音突出强化图书的（剧情/角色）特色，拓展阅读体验； 3. 撰写童书图文的声音点读脚本，设计点读游戏，为图书添加点读互动功能； 4. 输出圈码方案，与圈码人员沟通，并负责图书圈码测试； 5. 审核校对负责项目所需的点读音频文件、圈码打样文件，并反馈相关意见，确认项目品质。\n1. 本科及以上学历，汉语言文学，戏剧与影视，学前教育等相关专业优先； 2. 热爱绘本、热爱阅读，热爱儿童，了解儿童心理阅读喜好； 3. 喜欢图书出版工作，工作认真负责，有上进心优先； 4. 具有较强的学习能力和创新能力，能够不断学习和提升自己的创作能力； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1. 设计点读模式、优化功能模式，优化标准流程，提升点读品质； 2. 对书籍进行二"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=8deca0f2-bf4c-4a95-b2e6-6366fd83ee71",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -476,7 +1383,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -489,10 +1396,62 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 根据剧本内容分析配音角色的性格、心理以及思想感情，完成项目的要求和目标； 2. 根据剧本完成配音的角色选角，指导配音员在表演中达到最佳效果； 3. 做好配音公司/配音员的管理和后期的对接工作，保障内容创作流程的顺利完成； 4. 协调沟通各制作相关环节，完成各剧本配音工作，对产出质量负责。",
+      "jobRequirements": "1. 本科及以上学历，戏剧影视导演、电影学、表演学等相关专业； 2. 热爱配音，并有长期相对专业的配音经验，音色宽度大，有想法和脑洞，有棚内导演能力优先； 3. 普通话标准流利，具备优秀的表达能力、执行能力、协调和统筹管理能力； 4. 具有全局观和良好的心理素质，拥有高度的责任心，能主动思考推动工作的进行； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 根据剧本内容分析配音角色的性格、心理以及思想感情，完成项目的要求和目标； 2. 根据剧本完成配音的角色选角，指导配音员在表演中达到最佳效果； 3. 做好配音公司/配音员的管理和后期的对接工作，保障内容创作流程的顺利完成； 4. 协调沟通各制作相关环节，完成各剧本配音工作，对产出质量负责。\n1. 本科及以上学历，戏剧影视导演、电影学、表演学等相关专业； 2. 热爱配音，并有长期相对专业的配音经验，音色宽度大，有想法和脑洞，有棚内导演能力优先； 3. 普通话标准流利，具备优秀的表达能力、执行能力、协调和统筹管理能力； 4. 具有全局观和良好的心理素质，拥有高度的责任心，能主动思考推动工作的进行； 5. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=d59c0ab9-a5d3-4935-90dd-e36b9a51bd96",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -505,7 +1464,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -518,10 +1477,61 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责设计儿童绘本项目中的插画，精准呈现故事情节、角色设定； 2. 与编辑团队协作，理解绘本故事的主题和情节，绘制连续性的插画页面，确保证画面的连贯性和叙事性； 3. 根据项目需求及反馈意见进行修改和调整，并且积极提出更有建设性的意见。",
+      "jobRequirements": "1. 本科及以上学历，美术相关专业； 2. 具备扎实的美术基础，对色彩和构图有敏锐的感知力，擅长手绘以及儿童绘本插画风格； 3. 熟练运用 PS、SAI、AI 等软件进行插画创作，熟悉 AIGC 辅助工具； 4. 热爱儿童绘本创作，有耐心和责任心，注重细节； 5. 具有良好的团队合作精神，能够接受并融合他人的创意和意见。 *投递时请在【附件】处上传个人作品集",
+      "JD": "1. 负责设计儿童绘本项目中的插画，精准呈现故事情节、角色设定； 2. 与编辑团队协作，理解绘本故事的主题和情节，绘制连续性的插画页面，确保证画面的连贯性和叙事性； 3. 根据项目需求及反馈意见进行修改和调整，并且积极提出更有建设性的意见。\n1. 本科及以上学历，美术相关专业； 2. 具备扎实的美术基础，对色彩和构图有敏锐的感知力，擅长手绘以及儿童绘本插画风格； 3. 熟练运用 PS、SAI、AI 等软件进行插画创作，熟悉 AIGC 辅助工具； 4. 热爱儿童绘本创作，有耐心和责任心，注重细节； 5. 具有良好的团队合作精神，能够接受并融合他人的创意和意见。 *投递时请在【附件】处上传个人作品集",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=c11799c6-d542-4fc1-8032-ba692b56bac7",
-      "lastVerified": "2026-04-08",
+      "publishedAt": "2026-04-08",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -534,7 +1544,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -547,10 +1557,61 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责设计互动 APP 或动画产品里的场景、角色、道具； 2. 与策划、程序等环节协同工作，协助拟定设计方案，确保设计理念的准确传达和实现； 3. 学习和适应公司项目风格，提升个人的原画制作能力和审美水平。",
+      "jobRequirements": "1. 本科及以上学历，美术相关专业； 2. 具备扎实的美术基础，擅长制作儿童、Q版、立绘卡通风格； 3. 熟悉 PS、AN、SAI 等软件，熟悉 AIGC 辅助工具； 4. 有良好的团队合作精神，沟通能力强，责任心强，能够承受一定的工作压力。 *投递时请在【附件】处上传个人作品集",
+      "JD": "1. 负责设计互动 APP 或动画产品里的场景、角色、道具； 2. 与策划、程序等环节协同工作，协助拟定设计方案，确保设计理念的准确传达和实现； 3. 学习和适应公司项目风格，提升个人的原画制作能力和审美水平。\n1. 本科及以上学历，美术相关专业； 2. 具备扎实的美术基础，擅长制作儿童、Q版、立绘卡通风格； 3. 熟悉 PS、AN、SAI 等软件，熟悉 AIGC 辅助工具； 4. 有良好的团队合作精神，沟通能力强，责任心强，能够承受一定的工作压力。 *投递时请在【附件】处上传个人作品集",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=5f329b2c-9b7c-4721-9bfd-1c83b16d315e",
-      "lastVerified": "2026-04-07",
+      "publishedAt": "2026-04-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -563,7 +1624,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -576,10 +1637,68 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责根据产品内容，制作在各大平台宣发的美术包装资源，如封面、配图等； 2. 结合产品调性，设计统一且具有冲击力的视觉包装，提升品牌辨识度； 3. 与策划、市场、研发等部门紧密配合，精准理解需求，平衡美术质量与项目目标； 4. 跟踪国内外设计趋势，对市场有敏锐的感知能力，承接海外产品包装项目。",
+      "jobRequirements": "1. 本科及以上学历，美术相关专业，有美宣、原画项目经历优先； 2. 具备较好的IP设计、配图、画面处理能力，了解儿童用户，能结合用户审美，精准表现内容并落地呈现画面； 3. 熟练掌握 PS、SAI、CSP、AN 等相关软件，熟悉 AIGC 辅助工具； 4. 有良好的沟通能力和责任心，能够与团队协作，具有团队精神。 *投递时请在【附件】处上传个人作品集",
+      "JD": "1. 负责根据产品内容，制作在各大平台宣发的美术包装资源，如封面、配图等； 2. 结合产品调性，设计统一且具有冲击力的视觉包装，提升品牌辨识度； 3. 与策划、市场、研发等部门紧密配合，精准理解需求，平衡美术质量与项目目标； 4. 跟踪国内外设计趋势，对市场有敏锐的感知能力，承接海外产品包装项目。\n1. 本科及以上学历，美术相关专业，有美宣、原画项目经历优先； 2. 具备较好的IP设计、配图、画面处理能力，了解儿童用户，能结合用户审美，精准表现内容并落地呈现画面； 3. 熟练掌握 PS、SAI、CSP、AN 等相关软件，熟悉 AIGC 辅助工具； 4. 有良好的沟通能力和责任心，能够与团队协作，具有团队精神。 *投递时请在【附件】处上传个人作品集",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=a9026c76-f914-47a8-b60a-7453c4077968",
-      "lastVerified": "2026-04-03",
+      "publishedAt": "2026-04-03",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -592,12 +1711,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 本科及以上学历，中文、广告、市场营销等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -605,10 +1724,72 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责撰写产品宣传文案，包括产品 slogan、简介、详情页文案等，以提升产品认知度和转化率； 2. 负责撰写产品宣传视频的脚本，确保视频内容准确传达产品价值； 3. 参与策划产品营销活动方案，并推动方案落地执行，达成活动营销目标； 4. 构思创意广告，将产品卖点转化为用户语言，提升产品转化； 5. 与运营、设计、产品等多个部门协作，确保项目内容按时完成。",
+      "jobRequirements": "1. 本科及以上学历，中文、广告、市场营销等相关专业； 2. 文字功底扎实，需提交商业文案、视频脚本或活动策划案等作品集； 3. 能撰写视频脚本，掌握图片、视频处理软件的基础使用方法； 4. 具备基本的营销思维，能对项目进行复盘总结； 5. 具备良好的沟通协调能力，能主动推进跨部门协作，确保项目进度； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "JD": "1. 负责撰写产品宣传文案，包括产品 slogan、简介、详情页文案等，以提升产品认知度和转化率； 2. 负责撰写产品宣传视频的脚本，确保视频内容准确传达产品价值； 3. 参与策划产品营销活动方案，并推动方案落地执行，达成活动营销目标； 4. 构思创意广告，将产品卖点转化为用户语言，提升产品转化； 5. 与运营、设计、产品等多个部门协作，确保项目内容按时完成。\n1. 本科及以上学历，中文、广告、市场营销等相关专业； 2. 文字功底扎实，需提交商业文案、视频脚本或活动策划案等作品集； 3. 能撰写视频脚本，掌握图片、视频处理软件的基础使用方法； 4. 具备基本的营销思维，能对项目进行复盘总结； 5. 具备良好的沟通协调能力，能主动推进跨部门协作，确保项目进度； 6. 熟练使用主流AIGC工具辅助内容创作，对AI赋能内容生产有独立见解与实践经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，中文、广告、市场营销等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=ffb574f4-032b-47c3-9eec-7471f3a63a89",
-      "lastVerified": "2026-01-28",
+      "publishedAt": "2026-01-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -621,7 +1802,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -634,10 +1815,61 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 根据产品需求和设计要求，设计和制作符合儿童用户喜好和使用习惯的音效素材； 2. 负责产品音效素材的生产、混音、播放规则设计、测试等制作流程，与产品策划、研发等密切协作，确保音效与产品的整体表现形式相符； 3. 参与用户反馈问题的收集和分析，对音效进行调优，提升用户体验。",
+      "jobRequirements": "1. 本科及以上学历，声音设计、录音艺术、数字媒体技术等音乐相关专业； 2. 有产品音效设计相关经验者优先； 3. 能够熟练使用各类主流的音乐宿主软件，如Cubase、Logic等； 4. 对音效设计有浓厚的兴趣和热情，具备良好的审美能力和听觉辨识能力，且有良好的沟通协作、逻辑思维能力； 5. 熟悉AIGC在音频领域的常见应用，提升效率与作品表现力。",
+      "JD": "1. 根据产品需求和设计要求，设计和制作符合儿童用户喜好和使用习惯的音效素材； 2. 负责产品音效素材的生产、混音、播放规则设计、测试等制作流程，与产品策划、研发等密切协作，确保音效与产品的整体表现形式相符； 3. 参与用户反馈问题的收集和分析，对音效进行调优，提升用户体验。\n1. 本科及以上学历，声音设计、录音艺术、数字媒体技术等音乐相关专业； 2. 有产品音效设计相关经验者优先； 3. 能够熟练使用各类主流的音乐宿主软件，如Cubase、Logic等； 4. 对音效设计有浓厚的兴趣和热情，具备良好的审美能力和听觉辨识能力，且有良好的沟通协作、逻辑思维能力； 5. 熟悉AIGC在音频领域的常见应用，提升效率与作品表现力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=25cd253a-1930-4d44-9057-bc849e8a39dc",
-      "lastVerified": "2026-01-26",
+      "publishedAt": "2026-01-26",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -650,7 +1882,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -663,10 +1895,64 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责童书产品的平面设计、制作、绘图，含各类出版品、产品包装、文宣品如DM、海报等； 2. 参与童书视觉资料整理、图片处理及排版执行，协助印前文件检查与输出； 3. 在指导下完成相关设计任务并逐步独立承担项目。",
+      "jobRequirements": "1. 本科及以上学历，视觉传达设计、平面设计等相关专业，有扎实的平面设计基础，了解基本印刷知识与文件输出规范，有书籍、品牌设计项目经验优先； 2. 熟练使用 Photoshop、Illustrator、Indesign 等软件； 3. 学习能力强，能接受指导与反馈，做事细致认真，具备团队协作意识。 *投递时请在【附件】处上传个人作品集",
+      "JD": "1. 负责童书产品的平面设计、制作、绘图，含各类出版品、产品包装、文宣品如DM、海报等； 2. 参与童书视觉资料整理、图片处理及排版执行，协助印前文件检查与输出； 3. 在指导下完成相关设计任务并逐步独立承担项目。\n1. 本科及以上学历，视觉传达设计、平面设计等相关专业，有扎实的平面设计基础，了解基本印刷知识与文件输出规范，有书籍、品牌设计项目经验优先； 2. 熟练使用 Photoshop、Illustrator、Indesign 等软件； 3. 学习能力强，能接受指导与反馈，做事细致认真，具备团队协作意识。 *投递时请在【附件】处上传个人作品集",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=415ff669-0cc2-4a8e-abdb-43b3e0ae31ff",
-      "lastVerified": "2025-08-22",
+      "publishedAt": "2025-08-22",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -679,7 +1965,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -692,10 +1978,61 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责制作互动 APP 产品中的 Q 版角色特效、场景特效等； 2. 与建模、动画等环节协同工作，确保特效风格与整体美术风格一致； 3. 优化特效性能，在保证视觉效果的前提下，提高特效在产品中的运行效率； 4. 参与特效的创意构思和设计，根据产品需求提出创新的特效表现方案。",
+      "jobRequirements": "1. 本科及以上学历，美术相关专业，在校期间有特效制作项目经验优先； 2. 具备扎实的美术基础，对色彩、光影、动态有良好的理解和把握能力； 3. 熟悉特效制作软件，熟悉 AIGC 辅助工具； 4. 有良好的团队合作精神，沟通能力强，责任心强，能够承受一定的工作压力。 *投递时请在【附件】处上传个人作品集",
+      "JD": "1. 负责制作互动 APP 产品中的 Q 版角色特效、场景特效等； 2. 与建模、动画等环节协同工作，确保特效风格与整体美术风格一致； 3. 优化特效性能，在保证视觉效果的前提下，提高特效在产品中的运行效率； 4. 参与特效的创意构思和设计，根据产品需求提出创新的特效表现方案。\n1. 本科及以上学历，美术相关专业，在校期间有特效制作项目经验优先； 2. 具备扎实的美术基础，对色彩、光影、动态有良好的理解和把握能力； 3. 熟悉特效制作软件，熟悉 AIGC 辅助工具； 4. 有良好的团队合作精神，沟通能力强，责任心强，能够承受一定的工作压力。 *投递时请在【附件】处上传个人作品集",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=f7a4f0d7-f253-40e2-ae3b-66d3307d2eb1",
-      "lastVerified": "2025-08-22",
+      "publishedAt": "2025-08-22",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -708,12 +2045,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 本科及以上学历，计算机相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -721,10 +2058,68 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 根据产品需求进行设计、编码，实现业务功能； 2. 配合公司产品按时完成开发工作计划； 3. 负责对项目进行实施维护； 4. 参与项目技术文档的编写。",
+      "jobRequirements": "1. 本科及以上学历，计算机相关专业； 2. 熟悉Javascript语言及基本原理，了解Nodejs、NPM等常见的前端开发框架优先； 3. 热爱编程，基础扎实，对数据结构和算法设计有较为深刻的理解，对鸿蒙客户端开发有浓厚的兴趣； 4. 责任心强，有较强的自我驱动力及良好的沟通能力与团队协作能力； 5. 具备AI工具应用和优化意识，能够使用AI工具辅助提升日常开发/测试效率。",
+      "JD": "1. 根据产品需求进行设计、编码，实现业务功能； 2. 配合公司产品按时完成开发工作计划； 3. 负责对项目进行实施维护； 4. 参与项目技术文档的编写。\n1. 本科及以上学历，计算机相关专业； 2. 熟悉Javascript语言及基本原理，了解Nodejs、NPM等常见的前端开发框架优先； 3. 热爱编程，基础扎实，对数据结构和算法设计有较为深刻的理解，对鸿蒙客户端开发有浓厚的兴趣； 4. 责任心强，有较强的自我驱动力及良好的沟通能力与团队协作能力； 5. 具备AI工具应用和优化意识，能够使用AI工具辅助提升日常开发/测试效率。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，计算机相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=18ffbfc3-da2d-41d1-9648-ab18a23fc5cb",
-      "lastVerified": "2024-12-02",
+      "publishedAt": "2024-12-02",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -737,7 +2132,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -750,10 +2145,62 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责儿童音频故事的后期策划与导演工作，包括剧本解读、音乐音效设计、成品审核、修改反馈及质量验收等工作； 2. 能从故事内容出发，判断作品的后期设计方向，并转化为具体的声音设计思路； 3. 判断成品中的音乐、音效、声音节奏是否贴合剧情情绪，给出明确、可执行的修改建议； 4. 根据不同年龄段儿童的偏好把控内容，协调内外部团队推动修改落地并保障最终成品质量符合需求； 5. 使用音频宿主软件对项目中的重点情节进行声音设计。",
+      "jobRequirements": "1. 本科及以上学历，作曲、音乐制作、戏剧导演等音乐相关专业； 2. 有音频后期制作经验者优先； 3. 能够熟练使用各类主流的音乐宿主软件，如Cubase、Nuendo、Reaper等； 4. 具备较好的剧本理解能力、声音审美能力、对音乐情绪、音效氛围、声音节奏有较好的感受力和判断力； 5. 热爱动漫、影视、广播剧、有声剧、儿童内容； 6. 熟悉AIGC在音频领域的常见应用，提升效率与作品表现力。",
+      "JD": "1. 负责儿童音频故事的后期策划与导演工作，包括剧本解读、音乐音效设计、成品审核、修改反馈及质量验收等工作； 2. 能从故事内容出发，判断作品的后期设计方向，并转化为具体的声音设计思路； 3. 判断成品中的音乐、音效、声音节奏是否贴合剧情情绪，给出明确、可执行的修改建议； 4. 根据不同年龄段儿童的偏好把控内容，协调内外部团队推动修改落地并保障最终成品质量符合需求； 5. 使用音频宿主软件对项目中的重点情节进行声音设计。\n1. 本科及以上学历，作曲、音乐制作、戏剧导演等音乐相关专业； 2. 有音频后期制作经验者优先； 3. 能够熟练使用各类主流的音乐宿主软件，如Cubase、Nuendo、Reaper等； 4. 具备较好的剧本理解能力、声音审美能力、对音乐情绪、音效氛围、声音节奏有较好的感受力和判断力； 5. 热爱动漫、影视、广播剧、有声剧、儿童内容； 6. 熟悉AIGC在音频领域的常见应用，提升效率与作品表现力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=b86507e9-802a-477a-9950-c4b6aaca54d2",
-      "lastVerified": "2024-08-23",
+      "publishedAt": "2024-08-23",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -766,7 +2213,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -779,10 +2226,61 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责儿童产品的音乐设计； 2. 根据画面情绪、剧情节奏进行点对点配乐，提升内容感染力； 3. 负责声音录制等相关工作。",
+      "jobRequirements": "1. 本科及以上学历，作曲、音乐制作等音乐相关专业； 2. 有一定的键盘演奏水平，有管弦、电声乐器演奏经验优先； 3. 能够熟练使用各类主流的音乐宿主软件，如Cubase、Logic pro等； 4. 掌握配器法、和声学等作曲相关技能，学习能力强，编曲功底扎实； 5. 热爱音乐创作，具备良好的沟通能力、执行力、和责任心； 6. 熟悉AIGC在音频领域的常见应用，提升效率与作品表现力。",
+      "JD": "1. 负责儿童产品的音乐设计； 2. 根据画面情绪、剧情节奏进行点对点配乐，提升内容感染力； 3. 负责声音录制等相关工作。\n1. 本科及以上学历，作曲、音乐制作等音乐相关专业； 2. 有一定的键盘演奏水平，有管弦、电声乐器演奏经验优先； 3. 能够熟练使用各类主流的音乐宿主软件，如Cubase、Logic pro等； 4. 掌握配器法、和声学等作曲相关技能，学习能力强，编曲功底扎实； 5. 热爱音乐创作，具备良好的沟通能力、执行力、和责任心； 6. 熟悉AIGC在音频领域的常见应用，提升效率与作品表现力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=eed4f781-42a2-4998-9edd-a784bb2687c2",
-      "lastVerified": "2024-08-02",
+      "publishedAt": "2024-08-02",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -795,7 +2293,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -808,10 +2306,63 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 配合项目团队，完成动画、视频素材的后期剪辑、调色、配乐、字幕添加，合成输出，包装等工作，贴合项目整体风格； 2. 根据反馈优化后期效果，保障后期制作可落地、按时交付。",
+      "jobRequirements": "1. 本科及以上学历，影视后期、数字媒体、动画等相关专业，有视频后期项目经验优先； 2. 熟练 PR、AE 等后期制作软件基础操作，了解剪辑、调色、配乐基础技巧，熟悉 AIGC 辅助工具； 3. 认真细致、责任心强，执行力出色，有时间观念，能配合团队节奏，保证后期交付时效； 4. 具备良好的沟通协调能力和团队协作意识，热爱后期制作领域，学习主动性强，乐于接受反馈并优化作品。 *投递时请在【附件】处上传个人作品集",
+      "JD": "1. 配合项目团队，完成动画、视频素材的后期剪辑、调色、配乐、字幕添加，合成输出，包装等工作，贴合项目整体风格； 2. 根据反馈优化后期效果，保障后期制作可落地、按时交付。\n1. 本科及以上学历，影视后期、数字媒体、动画等相关专业，有视频后期项目经验优先； 2. 熟练 PR、AE 等后期制作软件基础操作，了解剪辑、调色、配乐基础技巧，熟悉 AIGC 辅助工具； 3. 认真细致、责任心强，执行力出色，有时间观念，能配合团队节奏，保证后期交付时效； 4. 具备良好的沟通协调能力和团队协作意识，热爱后期制作领域，学习主动性强，乐于接受反馈并优化作品。 *投递时请在【附件】处上传个人作品集",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babybus.zhiye.com/campus/detail?jobAdId=884499ee-6acf-47fa-8162-fcf35c48efdd",
-      "lastVerified": "2024-08-02",
+      "publishedAt": "2024-08-02",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

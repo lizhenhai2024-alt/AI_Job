@@ -16,8 +16,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "序号 岗位类别 岗位名称 需求专业 1 研究开发类 性能仿真岗 车辆工程、机械工程、力学、材料等相关专业 2 花纹设计岗 产品设计、工业设计等相关专业 3 结构设计岗 机械、车辆、力学等相关专业 4 配方开发岗 高分子、材料、化学等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -25,10 +25,68 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
+      "jobDescription": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
       "JD": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "序号 岗位类别 岗位名称 需求专业 1 研究开发类 性能仿真岗 车辆工程、机械工程、力学、材料等相关专业 2 花纹设计岗 产品设计、工业设计等相关专业 3 结构设计岗 机械、车辆、力学等相关专业 4 配方开发岗 高分子、材料、化学等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理",
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR",
+        "市场",
+        "销售"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "北京语言大学就业信息网",
       "officialURL": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2094738841867558913",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "secondary",
       "deadline": ""
     }

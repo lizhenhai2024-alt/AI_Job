@@ -12,11 +12,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上，国贸/暖通等工科相关专业，小语种优先(葡/日/韩/西/俄/法)",
         "hardRestriction": false
       },
       "language": {
@@ -25,10 +25,73 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "岗位方向：家用空调 1、协助部门各项经营指标达成； 2、客户整套订单流程跟进； 3、跨部门沟通协调； 4、维护新老客户客情关系。",
+      "jobRequirements": "1、本科及以上，国贸/暖通等工科相关专业，小语种优先(葡/日/韩/西/俄/法)； 2、接受公司企业文化； 3、具备肯苦，抗压能力； 4、能用英语进行日常交流。",
+      "JD": "岗位方向：家用空调 1、协助部门各项经营指标达成； 2、客户整套订单流程跟进； 3、跨部门沟通协调； 4、维护新老客户客情关系。\n1、本科及以上，国贸/暖通等工科相关专业，小语种优先(葡/日/韩/西/俄/法)； 2、接受公司企业文化； 3、具备肯苦，抗压能力； 4、能用英语进行日常交流。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上，国贸/暖通等工科相关专业，小语种优先(葡/日/韩/西/俄/法)"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [
+        "英语",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3e4913db-8e1e-4acd-acce-b5319f44e233",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -45,8 +108,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、具有工科知识背景(电力电子、自动化、通信、电气等)、工作积极主动，具有较强的责任心，肯苦、细致",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -54,10 +117,77 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、需求管理：需求解析、澄清、变更，下发，确保及时率、准确率； 2、技术营销：宣讲、试点、植入推广技术方案，提升产品转单； 3、产品策划：参与市场年度、月度规划； 4、项目管理：参与市场项目计划编制、推进、异常预警；客户互动中技术问题推进解决。",
+      "jobRequirements": "1、具有工科知识背景(电力电子、自动化、通信、电气等)、工作积极主动，具有较强的责任心，肯苦、细致； 2、熟悉电力相关知识和技能； 3、良好的英语口语沟通能力； 4、具有较强组织、跨部门沟通、协调能力。",
+      "JD": "1、需求管理：需求解析、澄清、变更，下发，确保及时率、准确率； 2、技术营销：宣讲、试点、植入推广技术方案，提升产品转单； 3、产品策划：参与市场年度、月度规划； 4、项目管理：参与市场项目计划编制、推进、异常预警；客户互动中技术问题推进解决。\n1、具有工科知识背景(电力电子、自动化、通信、电气等)、工作积极主动，具有较强的责任心，肯苦、细致； 2、熟悉电力相关知识和技能； 3、良好的英语口语沟通能力； 4、具有较强组织、跨部门沟通、协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、具有工科知识背景(电力电子、自动化、通信、电气等)、工作积极主动，具有较强的责任心，肯苦、细致"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=b703c883-13c9-4b05-99c4-18541c037d96",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,7 +200,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -83,10 +213,75 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责海外各大区市场标准、客户需求的收集、分析、提炼与输出，为产品规划及销售策略提供依据； 2、负责大区竞品信息收集、竞品规划确认以及对标资料的整理与提炼，定期输出竞品分析报告； 3、负责大区技术资料的提供与更新，主导新品在海外市场的推广与培训工作； 4、负责海外广交会、行业峰会等大型展会的技术支持，协助提供产品推广资料及现场技术答疑； 5、负责海外市场售后问题的收集与反馈，推动内部品质改善，提升客户满意度； 6、负责大区样机需求的审核确认，确保送样产品符合客户要求，提升样机转单率； 7、负责海外大区产品全生命周期的管理，跟踪新品销量表现及转化情况，推动老品退市； 8、负责海外其他临时性技术支持工作，保障业务顺畅推进。",
+      "jobRequirements": "1、制冷、暖通、热能与动力工程等相关专业，本科及以上学历，熟悉空调运行原理； 2、熟练运用Office办公软件（Excel、PPT、Word等），具备较强的数据分析与报告撰写能力； 3、具备良好的英语听、说、读、写能力，能够以英语作为工作语言。",
+      "JD": "1、负责海外各大区市场标准、客户需求的收集、分析、提炼与输出，为产品规划及销售策略提供依据； 2、负责大区竞品信息收集、竞品规划确认以及对标资料的整理与提炼，定期输出竞品分析报告； 3、负责大区技术资料的提供与更新，主导新品在海外市场的推广与培训工作； 4、负责海外广交会、行业峰会等大型展会的技术支持，协助提供产品推广资料及现场技术答疑； 5、负责海外市场售后问题的收集与反馈，推动内部品质改善，提升客户满意度； 6、负责大区样机需求的审核确认，确保送样产品符合客户要求，提升样机转单率； 7、负责海外大区产品全生命周期的管理，跟踪新品销量表现及转化情况，推动老品退市； 8、负责海外其他临时性技术支持工作，保障业务顺畅推进。\n1、制冷、暖通、热能与动力工程等相关专业，本科及以上学历，熟悉空调运行原理； 2、熟练运用Office办公软件（Excel、PPT、Word等），具备较强的数据分析与报告撰写能力； 3、具备良好的英语听、说、读、写能力，能够以英语作为工作语言。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=fae0ff6a-02d5-47ae-9eba-ff73a15e05ec",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -103,7 +298,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科，英语四级及以上优先；2、供应链管理、物流管理、工业工程、暖通工程、机械工程、电气工程等专业，校内成绩班级前50%优先",
         "hardRestriction": false
       },
       "language": {
@@ -112,10 +307,68 @@
         "minorLanguageRequired": false
       },
       "location": "江西省·南昌市、安徽省·马鞍山市、河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、引优劣汰，全力跟进资源提升项目，落实降本工作； 2、组织供方送样，打破独家供货布局，每月组织供应商对账、付款、备货等工作； 3、年度供应商资源产能评估，并根据价格、产能和质量分配供货比例； 4、负责和供方签订合作协议等相关合同，保障生产，规避风险； 5、协助解决品质问题，确保交付生产； 6、协助处理物料认证等相关工作，协助证书归档(环保认证、CB、TUV、CCC自我声明等)。",
+      "jobRequirements": "1、本科，英语四级及以上优先； 2、供应链管理、物流管理、工业工程、暖通工程、机械工程、电气工程等专业，校内成绩班级前50%优先； 3、接受出差(≥90天/年)； 4、沟通能力好，有过学生干部经历、校园项目竞赛等社会实践优先； 5、熟练应用EXCEL、CAD等办公软件。",
+      "JD": "1、引优劣汰，全力跟进资源提升项目，落实降本工作； 2、组织供方送样，打破独家供货布局，每月组织供应商对账、付款、备货等工作； 3、年度供应商资源产能评估，并根据价格、产能和质量分配供货比例； 4、负责和供方签订合作协议等相关合同，保障生产，规避风险； 5、协助解决品质问题，确保交付生产； 6、协助处理物料认证等相关工作，协助证书归档(环保认证、CB、TUV、CCC自我声明等)。\n1、本科，英语四级及以上优先； 2、供应链管理、物流管理、工业工程、暖通工程、机械工程、电气工程等专业，校内成绩班级前50%优先； 3、接受出差(≥90天/年)； 4、沟通能力好，有过学生干部经历、校园项目竞赛等社会实践优先； 5、熟练应用EXCEL、CAD等办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科，英语四级及以上优先",
+          "2、供应链管理、物流管理、工业工程、暖通工程、机械工程、电气工程等专业，校内成绩班级前50%优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=2dfa0d5d-733d-48c9-8d0e-4e254d53b77d",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -132,7 +385,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、市场营销/国贸/语言类相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -141,10 +394,71 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、以年度预算为主线，协助监控阶段性的拓客达成情况，并协助制定解决方案； 2、借助海关数据、出差搜集的市场信息等，为公司经营提供市场分析； 3、负责业务工作合规性稽查，并执行相应的考核制度； 4、负责过程指标达成管理（指报通闭环、区域业务会议、出差等）。",
+      "jobRequirements": "1、市场营销/国贸/语言类相关专业优先； 2、一本及以上； 3、英语六级及以上，口语流利优先； 4、做事认真细心，有责任心，擅长数据处理 5、非外派岗位，常住地宁波。",
+      "JD": "1、以年度预算为主线，协助监控阶段性的拓客达成情况，并协助制定解决方案； 2、借助海关数据、出差搜集的市场信息等，为公司经营提供市场分析； 3、负责业务工作合规性稽查，并执行相应的考核制度； 4、负责过程指标达成管理（指报通闭环、区域业务会议、出差等）。\n1、市场营销/国贸/语言类相关专业优先； 2、一本及以上； 3、英语六级及以上，口语流利优先； 4、做事认真细心，有责任心，擅长数据处理 5、非外派岗位，常住地宁波。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、市场营销/国贸/语言类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=42f65564-c6d0-4c0d-990c-af7f462b19b3",
-      "lastVerified": "2026-09-16",
+      "publishedAt": "2026-09-16",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -170,10 +484,67 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责中心拓展项目，广辟业务渠道； 2、总部思想传递，中心问题暴露及闭环 ； 3、跟进闭环中心未达指标，助力完成销售目标； 4、收集竞品产品及政策信息，并提出对应方案； 5、其他工程项目、招投标相关事项。",
+      "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "JD": "1、负责中心拓展项目，广辟业务渠道； 2、总部思想传递，中心问题暴露及闭环 ； 3、跟进闭环中心未达指标，助力完成销售目标； 4、收集竞品产品及政策信息，并提出对应方案； 5、其他工程项目、招投标相关事项。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ef5c457b-6a41-45b3-bee1-cdbfd41bd1e3",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -186,11 +557,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、人力资源、工商管理、行政管理等相关专业，本科及以上学历，英语流利，小语种优先",
         "hardRestriction": false
       },
       "language": {
@@ -199,10 +570,63 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "岗位方向：绩效、招聘、人事、激励等 1、负责招聘工作的开展，包括但不限于职位发布、简历筛选、面试安排等； 2、负责员工关系维护，包括员工信息管理、考勤统计、离职处理等； 3、负责薪酬福利处理，包括薪资核算发放、绩效考核等； 4、协同负责培训体系的搭建和实施，包括培训计划制定、培训课程安排、培训效果评估等。",
+      "jobRequirements": "1、人力资源、工商管理、行政管理等相关专业，本科及以上学历，英语流利，小语种优先； 2、想往人力资源方向发展； 3、具备良好的沟通和组织协调能力，具备团队合作精神； 4、熟练掌握Office办公软件。",
+      "JD": "岗位方向：绩效、招聘、人事、激励等 1、负责招聘工作的开展，包括但不限于职位发布、简历筛选、面试安排等； 2、负责员工关系维护，包括员工信息管理、考勤统计、离职处理等； 3、负责薪酬福利处理，包括薪资核算发放、绩效考核等； 4、协同负责培训体系的搭建和实施，包括培训计划制定、培训课程安排、培训效果评估等。\n1、人力资源、工商管理、行政管理等相关专业，本科及以上学历，英语流利，小语种优先； 2、想往人力资源方向发展； 3、具备良好的沟通和组织协调能力，具备团队合作精神； 4、熟练掌握Office办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、人力资源、工商管理、行政管理等相关专业，本科及以上学历，英语流利，小语种优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=01cee303-2dd7-4a7d-8956-ba27b9b2b070",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,12 +639,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、人力资源、工商管理、行政管理等相关专业，本科学历，英语流利",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -228,10 +652,63 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "岗位方向：绩效、招聘、人事、激励等 1、负责招聘工作的开展，包括但不限于职位发布、简历筛选、面试安排等； 2、负责员工关系维护，包括员工信息管理、考勤统计、离职处理等； 3、负责薪酬福利处理，包括薪资核算发放、绩效考核等； 4、协同负责培训体系的搭建和实施，包括培训计划制定、培训课程安排、培训效果评估等。",
+      "jobRequirements": "1、人力资源、工商管理、行政管理等相关专业，本科学历，英语流利； 2、想往人力资源方向发展； 3、具备良好的沟通和组织协调能力，具备团队合作精神； 4、熟练掌握Office办公软件。",
+      "JD": "岗位方向：绩效、招聘、人事、激励等 1、负责招聘工作的开展，包括但不限于职位发布、简历筛选、面试安排等； 2、负责员工关系维护，包括员工信息管理、考勤统计、离职处理等； 3、负责薪酬福利处理，包括薪资核算发放、绩效考核等； 4、协同负责培训体系的搭建和实施，包括培训计划制定、培训课程安排、培训效果评估等。\n1、人力资源、工商管理、行政管理等相关专业，本科学历，英语流利； 2、想往人力资源方向发展； 3、具备良好的沟通和组织协调能力，具备团队合作精神； 4、熟练掌握Office办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、人力资源、工商管理、行政管理等相关专业，本科学历，英语流利"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=29dbf157-da1b-4f69-af56-180e67d6a0ba",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -248,8 +725,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、具有工科知识背景(电力电子、自动化、通信等)、工作积极主动，具有较强的责任心，肯苦、细致",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -257,10 +734,73 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、与电力局采购、技术无障碍沟通； 2、前置沟通电力局获取产品需求，市场产品趋势，竞品信息； 3、完成产品本地认证，产品入围等工作； 4、完成项目招投标工作。",
+      "jobRequirements": "1、具有工科知识背景(电力电子、自动化、通信等)、工作积极主动，具有较强的责任心，肯苦、细致； 2、熟悉电力相关知识和技能； 3、良好的英语口语沟通能力； 4、具有较强组织、跨部门沟通、协调能力； 5、有意愿从事技术培养后转营销。",
+      "JD": "1、与电力局采购、技术无障碍沟通； 2、前置沟通电力局获取产品需求，市场产品趋势，竞品信息； 3、完成产品本地认证，产品入围等工作； 4、完成项目招投标工作。\n1、具有工科知识背景(电力电子、自动化、通信等)、工作积极主动，具有较强的责任心，肯苦、细致； 2、熟悉电力相关知识和技能； 3、良好的英语口语沟通能力； 4、具有较强组织、跨部门沟通、协调能力； 5、有意愿从事技术培养后转营销。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、具有工科知识背景(电力电子、自动化、通信等)、工作积极主动，具有较强的责任心，肯苦、细致"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=90ab83f5-269b-4003-8016-5d77012a3d56",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -286,10 +826,62 @@
         "minorLanguageRequired": false
       },
       "location": "全国",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.市场开拓与客群挖掘； 2.订单跟进、落地及售后全过程闭环； 3.业绩复盘与客情维护。",
+      "jobRequirements": "1.本科应届生，四级及以上优先； 2.外向善沟通，有营销经历优先（推广/地推/创业/拓客）； 3.肯苦，能长期出差，服从公司全国派遣； 4.业务素养高，强执行力，快速掌握全流程工作。",
+      "JD": "1.市场开拓与客群挖掘； 2.订单跟进、落地及售后全过程闭环； 3.业绩复盘与客情维护。\n1.本科应届生，四级及以上优先； 2.外向善沟通，有营销经历优先（推广/地推/创业/拓客）； 3.肯苦，能长期出差，服从公司全国派遣； 4.业务素养高，强执行力，快速掌握全流程工作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=e4ab3520-68d7-4ae3-9b76-ecc6167779bd",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -315,10 +907,68 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、商用空调方向，负责大区市场标准、客户需求的收集、分析、提炼； 2、负责大区竞品信息收集、竞品规划确定以及对标资料管理提炼； 3、负责大区立项下发及进度跟进，确保按时接单； 4、负责大区技术资料提供、新品推广工作； 5、负责大区售后问题反馈，对内暴露问题，促进品质改善； 6、负责大区样机需求确认，确保送样合格，提升样机转单率； 7、负责大区产品生命周期的管理，跟进新品销量、新品转化； 8、负责海外广交会、峰会技术支持工作，协助提供产品推广资料； 9、负责海外其他临时性工作； 10、有技术经验跟单、市场客户开拓。",
+      "jobRequirements": "1、制冷/暖通等专业，懂空调相关运行原理、产品开发、产品推广等知识； 2、良好的经营分析能力； 3、具有良好的沟通能力，执行能力； 4、熟练运动OFFICE办公软件； 5、具备良好的英语口头和书面交流能力。",
+      "JD": "1、商用空调方向，负责大区市场标准、客户需求的收集、分析、提炼； 2、负责大区竞品信息收集、竞品规划确定以及对标资料管理提炼； 3、负责大区立项下发及进度跟进，确保按时接单； 4、负责大区技术资料提供、新品推广工作； 5、负责大区售后问题反馈，对内暴露问题，促进品质改善； 6、负责大区样机需求确认，确保送样合格，提升样机转单率； 7、负责大区产品生命周期的管理，跟进新品销量、新品转化； 8、负责海外广交会、峰会技术支持工作，协助提供产品推广资料； 9、负责海外其他临时性工作； 10、有技术经验跟单、市场客户开拓。\n1、制冷/暖通等专业，懂空调相关运行原理、产品开发、产品推广等知识； 2、良好的经营分析能力； 3、具有良好的沟通能力，执行能力； 4、熟练运动OFFICE办公软件； 5、具备良好的英语口头和书面交流能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ac2307e8-56ad-4295-a336-cacf353f4cb6",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -331,7 +981,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -344,10 +994,68 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、外部质量信息搜集、跟闭； 2、海外安装维修技术指引编制下发，协助开展培训工作； 3、海外新品安装、维修可操作性评审。",
+      "jobRequirements": "1、制冷、暖通、热能与动力工程等相关专业，本科及以上学历，熟悉空调运行原理； 2、熟练运用Office办公软件（Excel、PPT、Word等），具备较强的数据分析与报告撰写能力。",
+      "JD": "1、外部质量信息搜集、跟闭； 2、海外安装维修技术指引编制下发，协助开展培训工作； 3、海外新品安装、维修可操作性评审。\n1、制冷、暖通、热能与动力工程等相关专业，本科及以上学历，熟悉空调运行原理； 2、熟练运用Office办公软件（Excel、PPT、Word等），具备较强的数据分析与报告撰写能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=db8baf57-cb80-4d14-a8ad-d159a714febb",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -373,10 +1081,66 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。",
+      "jobRequirements": "1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "JD": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。\n1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7ed6d6cb-4397-4fd8-876f-314b7df49af9",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -389,12 +1153,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "2、会计学、财务管理学、审计学专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -402,10 +1166,67 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、会计核算：核对各系统凭证生成准确，总账等凭证手工入账； 2、月末关账：月末核对账务，并进行结账工作，编制财务报表； 3、数据分析：财务数据、经营数据进行统计分析，异常数据上报。",
+      "jobRequirements": "1、本科学历； 2、会计学、财务管理学、审计学专业； 3、熟悉EXCEL、WORD、PPT等办公软件。",
+      "JD": "1、会计核算：核对各系统凭证生成准确，总账等凭证手工入账； 2、月末关账：月末核对账务，并进行结账工作，编制财务报表； 3、数据分析：财务数据、经营数据进行统计分析，异常数据上报。\n1、本科学历； 2、会计学、财务管理学、审计学专业； 3、熟悉EXCEL、WORD、PPT等办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、会计学、财务管理学、审计学专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=57effa1b-9e05-40ea-b3ce-db19817c582a",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -418,11 +1239,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科及以上学历，机械/电子类工科专业优先，掌握基础专业知识",
         "hardRestriction": false
       },
       "language": {
@@ -431,10 +1252,67 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "包括但不限于供应商开发、采购、海外供应链管理 供应商开发专员： 1、寻源准入：制定月度供引引计划，通过寻源渠道，导入优质供方，并入潜供 2、供方赋能：运用三新、自动化、工艺改善等动作，对供方针对性赋能，创造价值 3、指标管理：根据数据进行前置管控、周通排，统筹推进各项指标达成 采购专员： 1、根据计划需求下单，跟单，入库，确保生产正常进行 2、对供货中出现问题协调解决，保障物料供应顺畅 3、评估供应商产能，对产能缺口制定应对措施，确保资源的正常的供应 4、完成上级领导交付的各项工作任务",
+      "jobRequirements": "1、本科及以上学历，机械/电子类工科专业优先，掌握基础专业知识； 2、具备良好的沟通表达能力和谈判意识，性格踏实细致； 3、熟悉办公软件操作，具备基础的数据整理与分析能力； 4、对制造业供应链或采购流程有兴趣，愿意从基层岗位成长； 5、有相关实习经历（如采购助理、供应链支持等）者优先，可接受出差。",
+      "JD": "包括但不限于供应商开发、采购、海外供应链管理 供应商开发专员： 1、寻源准入：制定月度供引引计划，通过寻源渠道，导入优质供方，并入潜供 2、供方赋能：运用三新、自动化、工艺改善等动作，对供方针对性赋能，创造价值 3、指标管理：根据数据进行前置管控、周通排，统筹推进各项指标达成 采购专员： 1、根据计划需求下单，跟单，入库，确保生产正常进行 2、对供货中出现问题协调解决，保障物料供应顺畅 3、评估供应商产能，对产能缺口制定应对措施，确保资源的正常的供应 4、完成上级领导交付的各项工作任务\n1、本科及以上学历，机械/电子类工科专业优先，掌握基础专业知识； 2、具备良好的沟通表达能力和谈判意识，性格踏实细致； 3、熟悉办公软件操作，具备基础的数据整理与分析能力； 4、对制造业供应链或采购流程有兴趣，愿意从基层岗位成长； 5、有相关实习经历（如采购助理、供应链支持等）者优先，可接受出差。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械/电子类工科专业优先，掌握基础专业知识"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8ec2cfd3-e2a5-4014-918c-840889d35916",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -460,10 +1338,67 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责追踪海外订舱及发货事宜，规范业务订舱流程，避免发货异常，降低发货成本； 2、负责各大区订舱发货任务，确保货物顺利出运； 3、负责船期、舱单、费用确认并解决发货过程中出现的异常情况，完成发货目标； 4、负责跟踪日常发货计划安排及车辆准时到厂装箱，同时解决提装箱过程的异常情况； 5、掌握船舶动态，根据实际情况安排拖卡、报关等相关事宜，控制额外费用； 6、配合物流中心成品部各仓库，保证旺季发货资源，按制度考核通报等。",
+      "jobRequirements": "1、物流运输相关专业优先； 2、一本及以上； 3、英语四级及以上，六级优先； 4、做事认真细心，有责任心。",
+      "JD": "1、负责追踪海外订舱及发货事宜，规范业务订舱流程，避免发货异常，降低发货成本； 2、负责各大区订舱发货任务，确保货物顺利出运； 3、负责船期、舱单、费用确认并解决发货过程中出现的异常情况，完成发货目标； 4、负责跟踪日常发货计划安排及车辆准时到厂装箱，同时解决提装箱过程的异常情况； 5、掌握船舶动态，根据实际情况安排拖卡、报关等相关事宜，控制额外费用； 6、配合物流中心成品部各仓库，保证旺季发货资源，按制度考核通报等。\n1、物流运输相关专业优先； 2、一本及以上； 3、英语四级及以上，六级优先； 4、做事认真细心，有责任心。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=b0ea494b-4f7d-4a3f-b082-a47b5c9162e5",
-      "lastVerified": "2026-09-14",
+      "publishedAt": "2026-09-14",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -489,10 +1424,72 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "电商直播方向： 1、直播运营 2、付费投流 3、后台中控 4、短视频剪辑 电商设计方向： 1、负责产品与店铺视觉设计 2、负责营销活动视觉设计 3、跨部门协同（通路、直播、客服等） 电商P端业务方向： 1、日常客户维护及赋能 2、代销订单审核及异常处理 3、跨部门协同（计划、财务、产品等） 电商业务方向： 1、店铺运营 2、销售指标监控及业绩达成 3、跨部门协同（客服、直播、内容等）",
+      "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、具有良好的个人品行、心理素质及逻辑思维能力，抗压能力强； 3、能够熟练运用word、excel等办公软件处理各项工作事务。",
+      "JD": "电商直播方向： 1、直播运营 2、付费投流 3、后台中控 4、短视频剪辑 电商设计方向： 1、负责产品与店铺视觉设计 2、负责营销活动视觉设计 3、跨部门协同（通路、直播、客服等） 电商P端业务方向： 1、日常客户维护及赋能 2、代销订单审核及异常处理 3、跨部门协同（计划、财务、产品等） 电商业务方向： 1、店铺运营 2、销售指标监控及业绩达成 3、跨部门协同（客服、直播、内容等）\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、具有良好的个人品行、心理素质及逻辑思维能力，抗压能力强； 3、能够熟练运用word、excel等办公软件处理各项工作事务。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "电商",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=61ce8c75-1cf1-4dee-bced-746617a5ea1b",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -518,10 +1515,66 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。",
+      "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "JD": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=f41af41f-00e0-433f-a1dc-d66a7d415f2d",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -534,11 +1587,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科及以上，暖通、电控、机械等相关专业优先考虑",
         "hardRestriction": false
       },
       "language": {
@@ -547,10 +1600,71 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责区域市场标准、客户需求的收集、分析、提炼； 2、负责区域竞品信息收集、竞品规划确定以及对标资料管理提炼； 3、负责区域立项下发及进度跟进，确保按时接单； 4、负责区域技术资料提供、新品推广工作。",
+      "jobRequirements": "1、本科及以上，暖通、电控、机械等相关专业优先考虑； 2、接受公司企业文化； 3、具备肯苦，抗压能力； 4、能用英语进行日常交流。",
+      "JD": "1、负责区域市场标准、客户需求的收集、分析、提炼； 2、负责区域竞品信息收集、竞品规划确定以及对标资料管理提炼； 3、负责区域立项下发及进度跟进，确保按时接单； 4、负责区域技术资料提供、新品推广工作。\n1、本科及以上，暖通、电控、机械等相关专业优先考虑； 2、接受公司企业文化； 3、具备肯苦，抗压能力； 4、能用英语进行日常交流。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上，暖通、电控、机械等相关专业优先考虑"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=30a315e1-0c54-474f-aa0e-c6eb481bd823",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -567,7 +1681,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、市场营销/国贸/语言类相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -576,10 +1690,70 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助各销司业绩指标通报及监管预警，定期分析数据并提出改进建议； 2、协助各销司巡店稽查，业务工具使用规范，提升经营效率； 3、协助销司区域分销商年度拓客规模、质量等各项指标达成； 4、协助区域市场信息调研，做好区域业务赋能； 5、协助过程指标达成管理（指报通闭环、区域业务会议、出差等）。",
+      "jobRequirements": "1、市场营销/国贸/语言类相关专业优先； 2、一本及以上； 3、英语六级及以上，口语流利优先； 4、做事认真细心，有责任心，擅长数据处理。",
+      "JD": "1、协助各销司业绩指标通报及监管预警，定期分析数据并提出改进建议； 2、协助各销司巡店稽查，业务工具使用规范，提升经营效率； 3、协助销司区域分销商年度拓客规模、质量等各项指标达成； 4、协助区域市场信息调研，做好区域业务赋能； 5、协助过程指标达成管理（指报通闭环、区域业务会议、出差等）。\n1、市场营销/国贸/语言类相关专业优先； 2、一本及以上； 3、英语六级及以上，口语流利优先； 4、做事认真细心，有责任心，擅长数据处理。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、市场营销/国贸/语言类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=af25a199-d740-4670-9b58-95a781a365c0",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -592,11 +1766,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、法学类相关专业，通过司法考试者优先，本科及以上学历",
         "hardRestriction": false
       },
       "language": {
@@ -605,10 +1779,69 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、处理法务工作； 2、处理相关纠纷、诉讼； 3、处理相关合同审核； 4、提供法律咨询，风险防控； 5、跨部门协同、上传下达； 6、部门内部体系建设、激励绩效规划监控等。",
+      "jobRequirements": "1、法学类相关专业，通过司法考试者优先，本科及以上学历； 2、专业知识扎实，工作积极主动，具有较强的责任心； 3、熟练运用EXCEL、PPT等办公软件； 4、逻辑思维清晰、责任心强，抗压能力强，有良好的团队合作意识； 5、具有较强的沟通协调和文字表达能力。",
+      "JD": "1、处理法务工作； 2、处理相关纠纷、诉讼； 3、处理相关合同审核； 4、提供法律咨询，风险防控； 5、跨部门协同、上传下达； 6、部门内部体系建设、激励绩效规划监控等。\n1、法学类相关专业，通过司法考试者优先，本科及以上学历； 2、专业知识扎实，工作积极主动，具有较强的责任心； 3、熟练运用EXCEL、PPT等办公软件； 4、逻辑思维清晰、责任心强，抗压能力强，有良好的团队合作意识； 5、具有较强的沟通协调和文字表达能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、法学类相关专业，通过司法考试者优先，本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同",
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "PPT"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=0d4fbb5a-df38-4a85-a9ef-b09cb926930c",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -634,10 +1867,66 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。",
+      "jobRequirements": "1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "JD": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。\n1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=547e8560-5806-402c-98f2-13e0edb9434d",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -663,10 +1952,66 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。",
+      "jobRequirements": "1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "JD": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。\n1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=b2654081-c103-40f5-8240-52e7e56333c6",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -692,10 +2037,66 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。",
+      "jobRequirements": "1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "JD": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。\n1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7547ded4-e522-4531-8d3a-fa630be36d17",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -712,8 +2113,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电子信息/通信工程/电气工程/电子/通讯/自动化等专业，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -721,10 +2122,69 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "包括但不限于产品测试、制程品质、海外品质等，如 1、产品测试：按计划完成测试任务并出具测试报告； 2、标准制定：定期新增、修订检测规程，促进测试标准化； 3、问题闭环：产品缺陷的上报、确认、跟踪、闭环，确保产品质量； 4、需求评审：协助研发人员进行需求分析和讨论； 5、工具提效：编写、应用自动化方案，提高测试效率； 6、其它例行、临时性及领导安排的工作、事务。",
+      "jobRequirements": "1、电子信息/通信工程/电气工程/电子/通讯/自动化等专业，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、熟悉电路图、电子器件，接受海外出差",
+      "JD": "包括但不限于产品测试、制程品质、海外品质等，如 1、产品测试：按计划完成测试任务并出具测试报告； 2、标准制定：定期新增、修订检测规程，促进测试标准化； 3、问题闭环：产品缺陷的上报、确认、跟踪、闭环，确保产品质量； 4、需求评审：协助研发人员进行需求分析和讨论； 5、工具提效：编写、应用自动化方案，提高测试效率； 6、其它例行、临时性及领导安排的工作、事务。\n1、电子信息/通信工程/电气工程/电子/通讯/自动化等专业，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、熟悉电路图、电子器件，接受海外出差",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电子信息/通信工程/电气工程/电子/通讯/自动化等专业，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=f3b844a1-6c70-4ae1-bab7-d4ae5164daef",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -737,12 +2197,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "2、本科及以上学历，电气、机械专业（对强电有一定了解）",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -750,10 +2210,69 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "配电产品制程品质管控、故障分析、标准、规范、体系改善，具体工作内容包括但不限于： 1、负责制程日常异常数据、问题分析推进 2、负责制程品质保证体系完善、指标体系搭建、业务流程评审、内控风险管理； 3、负责制程售后破题组指标、异常客诉破题推进； 4、负责制程检测自动化规划及立项跟进；",
+      "jobRequirements": "1、专业知识扎实，工作积极主动，有较强的责任心，具备较强的抗压能力和执行力； 2、本科及以上学历，电气、机械专业（对强电有一定了解）； 3、英语CET4及以上，熟练掌握Excel。",
+      "JD": "配电产品制程品质管控、故障分析、标准、规范、体系改善，具体工作内容包括但不限于： 1、负责制程日常异常数据、问题分析推进 2、负责制程品质保证体系完善、指标体系搭建、业务流程评审、内控风险管理； 3、负责制程售后破题组指标、异常客诉破题推进； 4、负责制程检测自动化规划及立项跟进；\n1、专业知识扎实，工作积极主动，有较强的责任心，具备较强的抗压能力和执行力； 2、本科及以上学历，电气、机械专业（对强电有一定了解）； 3、英语CET4及以上，熟练掌握Excel。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、本科及以上学历，电气、机械专业（对强电有一定了解）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8ed4dc64-dd54-42f0-8d68-8af511129118",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -770,7 +2289,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、市场营销/国贸/语言类相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -779,10 +2298,70 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "拓巡方向： 1、协助各销司业绩指标通报及监管预警，定期分析数据并提出改进建议； 2、协助各销司巡店稽查，业务工具使用规范，提升经营效率； 3、协助销司区域分销商年度拓客规模、质量等各项指标达成； 4、协助区域市场信息调研，做好区域业务赋能； 5、协助过程指标达成管理（指报通闭环、区域业务会议、出差等）。 拓司方向： 负责海外销司调研，销司筹开统筹",
+      "jobRequirements": "1、市场营销/国贸/语言类相关专业优先； 2、一本及以上； 3、英语六级及以上，口语流利优先； 4、做事认真细心，有责任心，擅长数据处理。",
+      "JD": "拓巡方向： 1、协助各销司业绩指标通报及监管预警，定期分析数据并提出改进建议； 2、协助各销司巡店稽查，业务工具使用规范，提升经营效率； 3、协助销司区域分销商年度拓客规模、质量等各项指标达成； 4、协助区域市场信息调研，做好区域业务赋能； 5、协助过程指标达成管理（指报通闭环、区域业务会议、出差等）。 拓司方向： 负责海外销司调研，销司筹开统筹\n1、市场营销/国贸/语言类相关专业优先； 2、一本及以上； 3、英语六级及以上，口语流利优先； 4、做事认真细心，有责任心，擅长数据处理。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、市场营销/国贸/语言类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=af25a199-d740-4670-9b58-95a781a365c0",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -795,12 +2374,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、硕士及以上学历，控制工程、电力电子、电气工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -808,10 +2387,64 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、算法实现与优化：负责电力电子、电机控制等领域的实时信号处理算法（如PWM调制、锁相环PLL、矢量控制、FFT变换等）的C/汇编代码实现与优化 2、软件架构设计：设计DSP软件整体架构，包括任务调度、中断管理、内存分配等，确保高实时性与稳定性 3、软硬件协同调试：与硬件工程师配合，完成底层驱动开发、外设配置、信号采集与反馈，解决时序、噪声、干扰等问题。 4、仿真与验证：使用MATLAB/Simulink、PSCAD、Saber等工具进行算法建模与仿真，验证控制策略的可行性 5、性能调优：针对高精度ADC采样、PWM生成、实时数据抓取等关键指标进行优化，提升系统动态响应与精度 6、文档与测试：编写设计文档、测试用例，参与产品全生命周期开发，保障量产可靠性",
+      "jobRequirements": "1、硕士及以上学历，控制工程、电力电子、电气工程等相关专业 2、掌握数字信号处理（DSP）理论、经典/现代控制理论等，能独立推导算法公式，并转化为高效代码 3、需看懂电路原理图，理解ADC/DAC、PWM、通信接口（SPI/CAN/SCI） 的电气特性。能配合硬件进行信号完整性、噪声抑制、时序匹配等调试。 4、汇编语言与底层优化能力 5、仿真与建模能力。熟练使用MATLAB/Simulink进行算法仿真，验证控制策略。能搭建半实物仿真平台（如dSPACE、RT-LAB）进行硬件在环测试。 6、有电子设计大赛、电力电子项目、电机控制竞赛经验者优先。",
+      "JD": "1、算法实现与优化：负责电力电子、电机控制等领域的实时信号处理算法（如PWM调制、锁相环PLL、矢量控制、FFT变换等）的C/汇编代码实现与优化 2、软件架构设计：设计DSP软件整体架构，包括任务调度、中断管理、内存分配等，确保高实时性与稳定性 3、软硬件协同调试：与硬件工程师配合，完成底层驱动开发、外设配置、信号采集与反馈，解决时序、噪声、干扰等问题。 4、仿真与验证：使用MATLAB/Simulink、PSCAD、Saber等工具进行算法建模与仿真，验证控制策略的可行性 5、性能调优：针对高精度ADC采样、PWM生成、实时数据抓取等关键指标进行优化，提升系统动态响应与精度 6、文档与测试：编写设计文档、测试用例，参与产品全生命周期开发，保障量产可靠性\n1、硕士及以上学历，控制工程、电力电子、电气工程等相关专业 2、掌握数字信号处理（DSP）理论、经典/现代控制理论等，能独立推导算法公式，并转化为高效代码 3、需看懂电路原理图，理解ADC/DAC、PWM、通信接口（SPI/CAN/SCI） 的电气特性。能配合硬件进行信号完整性、噪声抑制、时序匹配等调试。 4、汇编语言与底层优化能力 5、仿真与建模能力。熟练使用MATLAB/Simulink进行算法仿真，验证控制策略。能搭建半实物仿真平台（如dSPACE、RT-LAB）进行硬件在环测试。 6、有电子设计大赛、电力电子项目、电机控制竞赛经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，控制工程、电力电子、电气工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3696d86a-d790-4cea-90a4-7874df99b524",
-      "lastVerified": "2026-09-11",
+      "publishedAt": "2026-09-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -828,7 +2461,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程、控制科学等专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -837,10 +2470,65 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、高频控制算法实现：负责SST核心控制策略（如双闭环控制、模型预测控制MPC、滑模控制等）的C/C++实现，处理kHz~MHz级的高频开关频率 2、多电平拓扑控制：针对模块化多电平（MMC）或级联H桥拓扑，编写子模块均压、环流抑制、故障穿越等复杂逻辑。 3、实时通信与协同：实现SST与电网、储能系统、BMS（电池管理系统）的高速通信（如光纤以太网、CAN FD、EtherCAT），确保微秒级同步 4、保护与故障诊断：设计过流、过压、短路等保护逻辑，实现毫秒级故障隔离与重构策略 5、仿真与验证：使用MATLAB/Simulink搭建SST模型，进行HIL（硬件在环）测试，验证控制算法的实时性与稳定性 6、电磁兼容（EMC）优化：配合硬件团队优化软件开关时序，降低高频开关带来的电磁干扰。",
+      "jobRequirements": "1、硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程、控制科学等专业优先 2、精通C/C++，具备实时操作系统（RTOS）（如VxWorks、FreeRTOS、RT-Linux）开发经验 3、深入理解电力电子拓扑：熟悉AC-DC-DC变换器、双向DC-DC、AC-AC变换器等SST核心电路 4、控制理论：掌握PID、状态空间平均法、模型预测控制（MPC），能处理非线性、强耦合系统 5、硬件平台：熟悉DSP（如TI C2000系列）、FPGA（用于高速逻辑控制）或ARM+DSP异构架构开发 6、工具链：熟练使用MATLAB/Simulink（代码生成）、PSIM、PLECS、Git、JTAG调试器。 7、有高压直流输电（HVDC）、柔性直流电网、微电网、储能变流器（PCS）项目经验；熟悉IEC 61850等电力通信协议优先",
+      "JD": "1、高频控制算法实现：负责SST核心控制策略（如双闭环控制、模型预测控制MPC、滑模控制等）的C/C++实现，处理kHz~MHz级的高频开关频率 2、多电平拓扑控制：针对模块化多电平（MMC）或级联H桥拓扑，编写子模块均压、环流抑制、故障穿越等复杂逻辑。 3、实时通信与协同：实现SST与电网、储能系统、BMS（电池管理系统）的高速通信（如光纤以太网、CAN FD、EtherCAT），确保微秒级同步 4、保护与故障诊断：设计过流、过压、短路等保护逻辑，实现毫秒级故障隔离与重构策略 5、仿真与验证：使用MATLAB/Simulink搭建SST模型，进行HIL（硬件在环）测试，验证控制算法的实时性与稳定性 6、电磁兼容（EMC）优化：配合硬件团队优化软件开关时序，降低高频开关带来的电磁干扰。\n1、硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程、控制科学等专业优先 2、精通C/C++，具备实时操作系统（RTOS）（如VxWorks、FreeRTOS、RT-Linux）开发经验 3、深入理解电力电子拓扑：熟悉AC-DC-DC变换器、双向DC-DC、AC-AC变换器等SST核心电路 4、控制理论：掌握PID、状态空间平均法、模型预测控制（MPC），能处理非线性、强耦合系统 5、硬件平台：熟悉DSP（如TI C2000系列）、FPGA（用于高速逻辑控制）或ARM+DSP异构架构开发 6、工具链：熟练使用MATLAB/Simulink（代码生成）、PSIM、PLECS、Git、JTAG调试器。 7、有高压直流输电（HVDC）、柔性直流电网、微电网、储能变流器（PCS）项目经验；熟悉IEC 61850等电力通信协议优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程、控制科学等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "问题根因"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=05f78bb4-6d1f-4e79-97c3-077a2f3bc18c",
-      "lastVerified": "2026-09-11",
+      "publishedAt": "2026-09-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -857,7 +2545,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、学历专业：硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程等专业",
         "hardRestriction": false
       },
       "language": {
@@ -866,10 +2554,63 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、拓扑选型与电路设计： ①设计AC-DC-DC多级变换拓扑（如级联H桥、模块化多电平MMC），处理10kV~35kV高压输入与400V/750V低压输出。 ②设计高频隔离变压器（中频变压器，1kHz~100kHz），解决传统工频变压器体积大、重量重的问题。 2、功率器件选型与驱动： ①选型SiC（碳化硅）或GaN（氮化镓）等宽禁带器件，设计低寄生电感的功率回路，优化dv/dt与di/dt应力。 ②设计高压隔离驱动电路（如光耦、磁隔离），确保kV级高压下的信号传输安全。 3、磁性元件设计：设计高频磁芯（如纳米晶、非晶合金），优化磁通密度、损耗、温升，解决高频下的集肤效应与邻近效应 4、热管理与结构布局：设计液冷/风冷散热系统，确保100kW~MW级功率下的器件结温<125℃。进行PCB布局（Layout），优化高压爬电距离、安规间距，降低EMI/EMC干扰。 5、测试与验证：搭建HIL（硬件在环）或实物测试平台，进行短路、过载、温升、绝缘耐压测试。配合软件团队进行控制-硬件协同调试，解决振荡、环流、均压问题。",
+      "jobRequirements": "1、学历专业：硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程等专业 2、精通AC-DC-DC变换器、双向DC-DC、多电平拓扑，熟悉SPWM/SVPWM调制原理 3、深入理解IGBT、SiC MOSFET、GaN的特性、栅极驱动、保护电路（如RCD吸收、有源钳位） 4、磁性设计：掌握高频变压器设计（磁芯材料、绕组结构、漏感控制），熟练使用FEMM、Ansys Maxwell等仿真工具 5、安规与EMC：熟悉IEC 61850、GB/T 34120等标准，掌握高压绝缘设计、爬电距离、EMC滤波设计 6、工具链：熟练使用Altium Designer/Cadence（PCB设计）、PSIM/PLECS（电路仿真）、MATLAB/Simulink（系统建模）。 7、有高压直流输电（HVDC）、柔性直流电网、储能变流器（PCS）、轨道交通牵引供电项目经验；熟悉SiC/GaN应用案例优先",
+      "JD": "1、拓扑选型与电路设计： ①设计AC-DC-DC多级变换拓扑（如级联H桥、模块化多电平MMC），处理10kV~35kV高压输入与400V/750V低压输出。 ②设计高频隔离变压器（中频变压器，1kHz~100kHz），解决传统工频变压器体积大、重量重的问题。 2、功率器件选型与驱动： ①选型SiC（碳化硅）或GaN（氮化镓）等宽禁带器件，设计低寄生电感的功率回路，优化dv/dt与di/dt应力。 ②设计高压隔离驱动电路（如光耦、磁隔离），确保kV级高压下的信号传输安全。 3、磁性元件设计：设计高频磁芯（如纳米晶、非晶合金），优化磁通密度、损耗、温升，解决高频下的集肤效应与邻近效应 4、热管理与结构布局：设计液冷/风冷散热系统，确保100kW~MW级功率下的器件结温<125℃。进行PCB布局（Layout），优化高压爬电距离、安规间距，降低EMI/EMC干扰。 5、测试与验证：搭建HIL（硬件在环）或实物测试平台，进行短路、过载、温升、绝缘耐压测试。配合软件团队进行控制-硬件协同调试，解决振荡、环流、均压问题。\n1、学历专业：硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程等专业 2、精通AC-DC-DC变换器、双向DC-DC、多电平拓扑，熟悉SPWM/SVPWM调制原理 3、深入理解IGBT、SiC MOSFET、GaN的特性、栅极驱动、保护电路（如RCD吸收、有源钳位） 4、磁性设计：掌握高频变压器设计（磁芯材料、绕组结构、漏感控制），熟练使用FEMM、Ansys Maxwell等仿真工具 5、安规与EMC：熟悉IEC 61850、GB/T 34120等标准，掌握高压绝缘设计、爬电距离、EMC滤波设计 6、工具链：熟练使用Altium Designer/Cadence（PCB设计）、PSIM/PLECS（电路仿真）、MATLAB/Simulink（系统建模）。 7、有高压直流输电（HVDC）、柔性直流电网、储能变流器（PCS）、轨道交通牵引供电项目经验；熟悉SiC/GaN应用案例优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、学历专业：硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程等专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3b75f825-e4b4-4f6a-b4a1-4f799d2b8d2e",
-      "lastVerified": "2026-09-11",
+      "publishedAt": "2026-09-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -882,12 +2623,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、流体机械、动力工程及工程热物理、航空宇航、能源动力工程等相关专业；4、本科及以上学历、英语六级并通过口语测试",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -895,10 +2636,68 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责空调内、外机风机、风道CFD仿真、设计、优化等工作； 2、负责空调产品的风量、流场、凝露等仿真分析，并参与相关方案制定； 3、负责空调降噪、提效、提风量等相关新结构、新技术的研发与推广； 4、负责进行业前沿仿真技术、风机风道技术研究，，提升团队技术能力； 5、负责空调产品开发过程及售后流体噪声相关问题的分析与解决； 6、负责专利申报、协同完成专利风险排查、规避方案设计等工作。",
+      "jobRequirements": "1、流体机械、动力工程及工程热物理、航空宇航、能源动力工程等相关专业； 2、熟悉贯流、轴流、离心、斜流至少其中一类风叶风道原理及设计要点； 3、掌握Fluent、Fluent meshing等流体仿真、网格软件； 4、本科及以上学历、英语六级并通过口语测试； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "JD": "1、负责空调内、外机风机、风道CFD仿真、设计、优化等工作； 2、负责空调产品的风量、流场、凝露等仿真分析，并参与相关方案制定； 3、负责空调降噪、提效、提风量等相关新结构、新技术的研发与推广； 4、负责进行业前沿仿真技术、风机风道技术研究，，提升团队技术能力； 5、负责空调产品开发过程及售后流体噪声相关问题的分析与解决； 6、负责专利申报、协同完成专利风险排查、规避方案设计等工作。\n1、流体机械、动力工程及工程热物理、航空宇航、能源动力工程等相关专业； 2、熟悉贯流、轴流、离心、斜流至少其中一类风叶风道原理及设计要点； 3、掌握Fluent、Fluent meshing等流体仿真、网格软件； 4、本科及以上学历、英语六级并通过口语测试； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、流体机械、动力工程及工程热物理、航空宇航、能源动力工程等相关专业",
+          "4、本科及以上学历、英语六级并通过口语测试"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=cbc97ec0-3cc5-4fc4-a222-3f8419afeb9c",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -911,12 +2710,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、微电子 、电路与系统 、自动化、电磁环境与工程等相关专业；5、本科及以上学历、英语六级并通过口语测试",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -924,10 +2723,69 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责空调控制器仿真平台研究搭建； 2、负责空调电控系统仿真方案制定、仿真计划编制，搭建电控仿真模型； 3、开展控制电路、EMC仿真验证； 4、 定位电控系统电路设计或EMC设计缺陷，输出优化方案； 5、对标实验测试数据，修正仿真模型，提升模型精度与可信度； 6、编写仿真报告、测试文档，搭建仿真数据库与标准化流程，沉淀仿真技术规范。",
+      "jobRequirements": "1、微电子 、电路与系统 、自动化、电磁环境与工程等相关专业； 2、熟悉半导体器件和电路拓扑，创建仿真模型； 3、精通EDA工具(AD/Cadence/PADS/Allegro)仿真软件(ANSYS/Cadence/ADS)； 4、可进行SI/PI/EMC分析； 5、本科及以上学历、英语六级并通过口语测试； 6、可接受出差； 7、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "JD": "1、负责空调控制器仿真平台研究搭建； 2、负责空调电控系统仿真方案制定、仿真计划编制，搭建电控仿真模型； 3、开展控制电路、EMC仿真验证； 4、 定位电控系统电路设计或EMC设计缺陷，输出优化方案； 5、对标实验测试数据，修正仿真模型，提升模型精度与可信度； 6、编写仿真报告、测试文档，搭建仿真数据库与标准化流程，沉淀仿真技术规范。\n1、微电子 、电路与系统 、自动化、电磁环境与工程等相关专业； 2、熟悉半导体器件和电路拓扑，创建仿真模型； 3、精通EDA工具(AD/Cadence/PADS/Allegro)仿真软件(ANSYS/Cadence/ADS)； 4、可进行SI/PI/EMC分析； 5、本科及以上学历、英语六级并通过口语测试； 6、可接受出差； 7、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、微电子 、电路与系统 、自动化、电磁环境与工程等相关专业",
+          "5、本科及以上学历、英语六级并通过口语测试"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=0eb9931b-56b6-4bd4-a23f-3fbb2e313a15",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -940,12 +2798,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、物联网工程、计算机科学与技术(侧重于高级软件编程、算法)等相关专业；5、本科及以上学历、英语六级并通过口语测试,具备扎实的数学基础，精通线性代数、概率论、微积分、控制理论等，熟练运用数学工具进行算法推导优化",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -953,10 +2811,73 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责智能空调核心算法研发与落地，包括AI温控、舒适节能算法、变频控制优化、人体感知、环境自适应调节等算法设计与实现； 2、基于空调运行数据、传感器数据、环境数据开展数据处理、特征工程、模型训练与验证，构建温度/湿度/能耗/负荷预测、故障诊断与预警模型； 3、与嵌入式、硬件、结构、测试及产品团队协同，完成算法联调、场景验证与问题排查，支撑空调产品智能化迭代； 4、制定算法测试与评估标准，通过实验室与场景测试持续优化制冷制热效率、节能效果与用户舒适度； 5、跟踪智能空调与暖通领域前沿AI技术，开展技术预研与专利创新，提升产品智能化竞争力。",
+      "jobRequirements": "1、物联网工程、计算机科学与技术(侧重于高级软件编程、算法)等相关专业； 2、熟悉PID控制、自适应控制、模型预测控制、节能优化等空调控制算法； 3、熟练掌握Trae、Pycharm、Labellmg等工具软件，会进行蒸馏模型的私有化部署； 4、精通至少一种特征提取方法（CNN、Transformer等），熟悉数据采集、清洗、标注，了解数据库、数据湖、文件系统； 5、本科及以上学历、英语六级并通过口语测试,具备扎实的数学基础，精通线性代数、概率论、微积分、控制理论等，熟练运用数学工具进行算法推导优化； 6、可接受出差； 7、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "JD": "1、负责智能空调核心算法研发与落地，包括AI温控、舒适节能算法、变频控制优化、人体感知、环境自适应调节等算法设计与实现； 2、基于空调运行数据、传感器数据、环境数据开展数据处理、特征工程、模型训练与验证，构建温度/湿度/能耗/负荷预测、故障诊断与预警模型； 3、与嵌入式、硬件、结构、测试及产品团队协同，完成算法联调、场景验证与问题排查，支撑空调产品智能化迭代； 4、制定算法测试与评估标准，通过实验室与场景测试持续优化制冷制热效率、节能效果与用户舒适度； 5、跟踪智能空调与暖通领域前沿AI技术，开展技术预研与专利创新，提升产品智能化竞争力。\n1、物联网工程、计算机科学与技术(侧重于高级软件编程、算法)等相关专业； 2、熟悉PID控制、自适应控制、模型预测控制、节能优化等空调控制算法； 3、熟练掌握Trae、Pycharm、Labellmg等工具软件，会进行蒸馏模型的私有化部署； 4、精通至少一种特征提取方法（CNN、Transformer等），熟悉数据采集、清洗、标注，了解数据库、数据湖、文件系统； 5、本科及以上学历、英语六级并通过口语测试,具备扎实的数学基础，精通线性代数、概率论、微积分、控制理论等，熟练运用数学工具进行算法推导优化； 6、可接受出差； 7、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、物联网工程、计算机科学与技术(侧重于高级软件编程、算法)等相关专业",
+          "5、本科及以上学历、英语六级并通过口语测试,具备扎实的数学基础，精通线性代数、概率论、微积分、控制理论等，熟练运用数学工具进行算法推导优化"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "问题根因",
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=64d662f1-bded-4682-9290-440311032d49",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -969,12 +2890,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、流动力工程及工程热物理、制冷与低温工程、能源动力工程、建筑环境与能源应用工程(侧重于低温与制冷、暖通)等相关专业；4、本科及以上学历、英语六级并通过口语测试",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -982,10 +2903,69 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责空调系统关键部件(压缩机、换热器、电子膨胀阀等)的选型设计，性能匹配计算，提出部件优化设计方案； 2、基于仿真工具搭建热泵/空调系统仿真平台，完成系统性能预测、能效优化及控制策略验证； 3、负责系统仿真模型校准、数据库维护、仿真流程标准化，提升仿真精度与研发效率； 4、参与团队相关项目研发，负责项目开发前端系统设计方案原理性验证； 5、与电控、结构、测试、算法团队协同，完成系统联调、问题排查与量产支撑工作。",
+      "jobRequirements": "1、流动力工程及工程热物理、制冷与低温工程、能源动力工程、建筑环境与能源应用工程(侧重于低温与制冷、暖通)等相关专业； 2、掌握ANSYS/Coil Designer/Coolpack/AMEsim等软件（至少其中之一）； 3、熟悉蒸汽压缩制冷循环/逆卡诺循环等基本原理； 4、本科及以上学历、英语六级并通过口语测试； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "JD": "1、负责空调系统关键部件(压缩机、换热器、电子膨胀阀等)的选型设计，性能匹配计算，提出部件优化设计方案； 2、基于仿真工具搭建热泵/空调系统仿真平台，完成系统性能预测、能效优化及控制策略验证； 3、负责系统仿真模型校准、数据库维护、仿真流程标准化，提升仿真精度与研发效率； 4、参与团队相关项目研发，负责项目开发前端系统设计方案原理性验证； 5、与电控、结构、测试、算法团队协同，完成系统联调、问题排查与量产支撑工作。\n1、流动力工程及工程热物理、制冷与低温工程、能源动力工程、建筑环境与能源应用工程(侧重于低温与制冷、暖通)等相关专业； 2、掌握ANSYS/Coil Designer/Coolpack/AMEsim等软件（至少其中之一）； 3、熟悉蒸汽压缩制冷循环/逆卡诺循环等基本原理； 4、本科及以上学历、英语六级并通过口语测试； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、流动力工程及工程热物理、制冷与低温工程、能源动力工程、建筑环境与能源应用工程(侧重于低温与制冷、暖通)等相关专业",
+          "4、本科及以上学历、英语六级并通过口语测试"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=115606ee-03b9-4178-8f12-71ed30ff28e8",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1002,8 +2982,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电气工程、控制、电力电子、计算机等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1011,10 +2991,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品需求解读、软件方案设计，代码实现，白盒测试，代码审核； 2、负责测试跟踪并及时解决软件问题； 3、负责车间、现场反馈问题分析，提供解决方案； 4、对产品软件的质量与可靠性负责；",
+      "jobRequirements": "1、电气工程、控制、电力电子、计算机等相关专业； 2、具有较强的学习能力和创新意识，工作态度积极，有较强的团队合作精神； 3、熟悉单片机汇编语言、C语言编程； 4、熟悉主流单片机等仿真环境调试与应用； 5、熟悉相关电路的设计仿真软件。",
+      "JD": "1、负责产品需求解读、软件方案设计，代码实现，白盒测试，代码审核； 2、负责测试跟踪并及时解决软件问题； 3、负责车间、现场反馈问题分析，提供解决方案； 4、对产品软件的质量与可靠性负责；\n1、电气工程、控制、电力电子、计算机等相关专业； 2、具有较强的学习能力和创新意识，工作态度积极，有较强的团队合作精神； 3、熟悉单片机汇编语言、C语言编程； 4、熟悉主流单片机等仿真环境调试与应用； 5、熟悉相关电路的设计仿真软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电气工程、控制、电力电子、计算机等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8f889aab-c715-4cfb-af07-0a20a5106b93",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1040,10 +3073,61 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品硬件平台规划，技术开发，原理设计参数计算，PCB绘制审核，白盒测试； 2、负责物料通用化，选型新增，BOM归档，设计资料编写，测试模板整理； 3、负责送样计划推进，协同相关部门在指定时间内完成； 4、负责问题分析，提供解决方案，形成硬件技术规范及技术沉淀；",
+      "jobRequirements": "1、熟悉行业相关的电子元器件，有较强的模拟电路、数字电路理论基础； 2、参加过全国电子设计竞赛优先； 3、具备扎实的模拟电路及数字电路的设计及分析能力； 4、具备嵌入式单片机开发经验和电力行业硬件开发经验； 5、掌握开关电源设计基本技能； 6、熟练PROTELL、A/D等绘图软件以及EMC设计规则。",
+      "JD": "1、负责产品硬件平台规划，技术开发，原理设计参数计算，PCB绘制审核，白盒测试； 2、负责物料通用化，选型新增，BOM归档，设计资料编写，测试模板整理； 3、负责送样计划推进，协同相关部门在指定时间内完成； 4、负责问题分析，提供解决方案，形成硬件技术规范及技术沉淀；\n1、熟悉行业相关的电子元器件，有较强的模拟电路、数字电路理论基础； 2、参加过全国电子设计竞赛优先； 3、具备扎实的模拟电路及数字电路的设计及分析能力； 4、具备嵌入式单片机开发经验和电力行业硬件开发经验； 5、掌握开关电源设计基本技能； 6、熟练PROTELL、A/D等绘图软件以及EMC设计规则。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=4ba82d16-5ea5-4818-8aad-e21e9b059f08",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1056,7 +3140,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -1069,10 +3153,70 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责市场推广、媒体运营、终端促销、媒体宣传等后台支持工作； 2、负责对产品培训等工作落地执行； 3、负责展会跟进，如广交会等； 4、完成例行工作及各项指标通报，及其他临时性工作。",
+      "jobRequirements": "1、本科及以上，中英双语，小语种以日语优先； 2、接受公司企业文化，具备肯苦，抗压能力； 3、视觉/传播/营销类相关专业。",
+      "JD": "1、负责市场推广、媒体运营、终端促销、媒体宣传等后台支持工作； 2、负责对产品培训等工作落地执行； 3、负责展会跟进，如广交会等； 4、完成例行工作及各项指标通报，及其他临时性工作。\n1、本科及以上，中英双语，小语种以日语优先； 2、接受公司企业文化，具备肯苦，抗压能力； 3、视觉/传播/营销类相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3052ef68-8347-43ea-bda2-b895c881f024",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1098,10 +3242,63 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市、安徽省·马鞍山市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、班组工艺技术改进、文件工艺标准及规程的正确、合理及完整性； 2、分厂工艺流程培训及关键岗位管理； 3、监督和稽查分厂班组日常工艺执行情况，并及时提供纠正措施。",
+      "jobRequirements": "1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "JD": "1、班组工艺技术改进、文件工艺标准及规程的正确、合理及完整性； 2、分厂工艺流程培训及关键岗位管理； 3、监督和稽查分厂班组日常工艺执行情况，并及时提供纠正措施。\n1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ad04d8c7-3b5f-46a0-969a-a9d50861dda5",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1118,8 +3315,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、机械自动化/电气及其自动化/机电一体化等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -1127,10 +3324,63 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、设备管理(维修、系统维护)； 2、设备自动化技术支持，减少故障率，降低运维成本。",
+      "jobRequirements": "1、机械自动化/电气及其自动化/机电一体化等相关专业； 2、良好的沟通、协同能力； 3、熟练掌握各类Office办公软件，英语四级及以上优先。",
+      "JD": "1、设备管理(维修、系统维护)； 2、设备自动化技术支持，减少故障率，降低运维成本。\n1、机械自动化/电气及其自动化/机电一体化等相关专业； 2、良好的沟通、协同能力； 3、熟练掌握各类Office办公软件，英语四级及以上优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、机械自动化/电气及其自动化/机电一体化等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3b7b6988-bb45-4fb8-9a96-2937ff99f782",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1147,8 +3397,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、财务专业，英语流利，小语种更优，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -1156,10 +3406,71 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、基础核算 ①按要求及时关账，协助、出具各项财务报表 ②管理银行账户，负责开销户、授信额度对接等，按时登记银行日记账、审核各项付款单据 ③国内合并报表基础数据提供，系统填报 2、现金流管控 整理并输出月底现金流量表，并提交当月及后三月预测，月度监控、预警现金流指标达成；管控资金往来 3、预算管控 参与，并协助财经编制年度预算(损益表、现金流、周转)的编制、过程经营分析、预警 4、完成财经及总部安排的其他相关工作",
+      "jobRequirements": "1、财务专业，英语流利，小语种更优，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力； 4、有国际证书更优； 5、有强烈的外派意愿，肯吃苦耐劳，预计外派周期3年。",
+      "JD": "1、基础核算 ①按要求及时关账，协助、出具各项财务报表 ②管理银行账户，负责开销户、授信额度对接等，按时登记银行日记账、审核各项付款单据 ③国内合并报表基础数据提供，系统填报 2、现金流管控 整理并输出月底现金流量表，并提交当月及后三月预测，月度监控、预警现金流指标达成；管控资金往来 3、预算管控 参与，并协助财经编制年度预算(损益表、现金流、周转)的编制、过程经营分析、预警 4、完成财经及总部安排的其他相关工作\n1、财务专业，英语流利，小语种更优，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力； 4、有国际证书更优； 5、有强烈的外派意愿，肯吃苦耐劳，预计外派周期3年。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、财务专业，英语流利，小语种更优，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "长期驻外"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=21a87458-de79-4002-8012-1db513189347",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1185,10 +3496,65 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、制程质量监督，参与制程不良问题整改； 2、市场客诉管理； 3、零件质量管理、电控失效分析/电子制程质量管理。",
+      "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "JD": "1、制程质量监督，参与制程不良问题整改； 2、市场客诉管理； 3、零件质量管理、电控失效分析/电子制程质量管理。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3f6c5ec2-3114-4214-b0e7-6aa9ff6575b6",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1201,12 +3567,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1214,10 +3580,68 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责控制器开发相关工作的有序开展、沟通协调、项目周期及品质管控； 2、负责控制器硬件方案设计，原理图及PCB设计，技术资料的整理及编制； 3、负责控制器样机试制、可靠性试验、安规EMC试验的跟踪及调试； 4、负责电子器件的选型及确认，设计规范及检验规范的制定和完善； 5、负责控制器及电子器件认证资料的提交与维护； 6、负责控制器选配库的完善、配置方案及临时方案的维护，订单BOM的校验； 7、负责技术提升，与生产部门提效的配合； 8、负责开发过程中技术沉淀及专利的撰写； 9、负责售后走访，数据分析，品质整改方案的确定及实施； 10、负责电控物料、方案通用化的实施及整合，确保物料指标达成。",
+      "jobRequirements": "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业； 3、熟练使用CREO、CAD等专业软件； 3、熟悉电子元器件、单片机、芯片应用原理等专业知识； 4、本科及以上学历； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "JD": "1、负责控制器开发相关工作的有序开展、沟通协调、项目周期及品质管控； 2、负责控制器硬件方案设计，原理图及PCB设计，技术资料的整理及编制； 3、负责控制器样机试制、可靠性试验、安规EMC试验的跟踪及调试； 4、负责电子器件的选型及确认，设计规范及检验规范的制定和完善； 5、负责控制器及电子器件认证资料的提交与维护； 6、负责控制器选配库的完善、配置方案及临时方案的维护，订单BOM的校验； 7、负责技术提升，与生产部门提效的配合； 8、负责开发过程中技术沉淀及专利的撰写； 9、负责售后走访，数据分析，品质整改方案的确定及实施； 10、负责电控物料、方案通用化的实施及整合，确保物料指标达成。\n1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业； 3、熟练使用CREO、CAD等专业软件； 3、熟悉电子元器件、单片机、芯片应用原理等专业知识； 4、本科及以上学历； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=6d2c213f-914a-4db5-9fbd-acf7b77e2538",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1230,11 +3654,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科及以上学历，电子电气、自动化类相关专业优先，",
         "hardRestriction": false
       },
       "language": {
@@ -1243,10 +3667,68 @@
         "minorLanguageRequired": false
       },
       "location": "全国",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、学习并掌握公司的产品知识、销售技巧和市场动态，为客户提供专业的销售服务； 2、负责完善辖区内渠道销售体系； 3、负责推进各项指标的达成； 4、负责管辖区域内非电市场重点客户的开拓和维护； 5、负责管辖区域内市场突发事件应对，销售风险管控。",
+      "jobRequirements": "1、本科及以上学历，电子电气、自动化类相关专业优先， 2、具备良好的沟通能力、表达能力和团队合作精神。 3、具有较强的学习能力和适应能力，能够快速掌握新知识和新技能。 4、具有较强的责任心和执行力，能够按时完成工作任务。 5、具有一定的抗压能力，适应公司文化，能够在高强度的工作环境下保持良好的心态。",
+      "JD": "1、学习并掌握公司的产品知识、销售技巧和市场动态，为客户提供专业的销售服务； 2、负责完善辖区内渠道销售体系； 3、负责推进各项指标的达成； 4、负责管辖区域内非电市场重点客户的开拓和维护； 5、负责管辖区域内市场突发事件应对，销售风险管控。\n1、本科及以上学历，电子电气、自动化类相关专业优先， 2、具备良好的沟通能力、表达能力和团队合作精神。 3、具有较强的学习能力和适应能力，能够快速掌握新知识和新技能。 4、具有较强的责任心和执行力，能够按时完成工作任务。 5、具有一定的抗压能力，适应公司文化，能够在高强度的工作环境下保持良好的心态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子电气、自动化类相关专业优先，"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "纯销售",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=4f66ddaa-94dc-4e2b-813e-0c13eebf5842",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1272,10 +3754,64 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、当地语言与电力局采购、技术无障碍沟通； 2、前置沟通电力局获取产品需求，市场产品趋势，竞品信息； 3、完成项目招投标工作； 4、参与市场项目计划编制、推进、异常预警。",
+      "jobRequirements": "1、葡语、西班牙语、阿拉伯、俄语等小语种专业优先开率； 2、英语六级及以上，口语熟练； 3、有较强的沟通能力、人际敏感性，对销售工作感兴趣； 4、有销售、市场相关实习经验优先。",
+      "JD": "1、当地语言与电力局采购、技术无障碍沟通； 2、前置沟通电力局获取产品需求，市场产品趋势，竞品信息； 3、完成项目招投标工作； 4、参与市场项目计划编制、推进、异常预警。\n1、葡语、西班牙语、阿拉伯、俄语等小语种专业优先开率； 2、英语六级及以上，口语熟练； 3、有较强的沟通能力、人际敏感性，对销售工作感兴趣； 4、有销售、市场相关实习经验优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=2bfd4973-0d32-408b-afa0-38e248f134b6",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1301,10 +3837,66 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1 、商机管理：负责线索和商机的录入、转化、评审、立项的跟进和规范管理； 2、 指标监控：负责线索和商机指标达成监控、预警； 3 、样机管理：样机计划对接评审、发布及下单、寄送和反馈审批，库存盘点； 4 、验厂验货：负责外部客户验厂、验货的资料准备及内部协同等工作； 5 、管理通报：负责立项异常、商机规范、立项和送样指标的统计和通报；",
+      "jobRequirements": "1、工作积极主动，具有较强的责任心，肯苦、细致； 2、熟悉业务流程，对营销有基本思路、方法； 3、有较好的语言沟通能力；良好的团队意识； 4、具有较强组织、跨部门沟通、协调能力。",
+      "JD": "1 、商机管理：负责线索和商机的录入、转化、评审、立项的跟进和规范管理； 2、 指标监控：负责线索和商机指标达成监控、预警； 3 、样机管理：样机计划对接评审、发布及下单、寄送和反馈审批，库存盘点； 4 、验厂验货：负责外部客户验厂、验货的资料准备及内部协同等工作； 5 、管理通报：负责立项异常、商机规范、立项和送样指标的统计和通报；\n1、工作积极主动，具有较强的责任心，肯苦、细致； 2、熟悉业务流程，对营销有基本思路、方法； 3、有较好的语言沟通能力；良好的团队意识； 4、具有较强组织、跨部门沟通、协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8c608e01-9ad0-487c-a1d6-613f42ef86c9",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1321,8 +3913,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、财务等相关专业，英语流利，小语种(葡语/西语)更优",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语",
@@ -1330,10 +3922,69 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、基础核算 ①按要求及时关账，协助、出具各项财务报表 ②管理银行账户，负责开销户、授信额度对接等，按时登记银行日记账、审核各项付款单据 ③国内合并报表基础数据提供，系统填报 ⑤核算降本数据，过程目标跟进和监控，偏差分析 2、现金流管控 整理并输出月底现金流量表，并提交当月及后三月预测，月度监控、预警现金流指标达成；管控资金往来 3、预算管控 参与，并协助财经编制年度预算(损益表、现金流、周转)的编制、过程经营分析、预警 4、协助处理基地财务核算、报表及合规管理工作",
+      "jobRequirements": "1、财务等相关专业，英语流利，小语种(葡语/西语)更优； 2、有国际证书更优； 3、有强烈的外派意愿优先，肯吃苦耐劳； 4、外派周期3年。",
+      "JD": "1、基础核算 ①按要求及时关账，协助、出具各项财务报表 ②管理银行账户，负责开销户、授信额度对接等，按时登记银行日记账、审核各项付款单据 ③国内合并报表基础数据提供，系统填报 ⑤核算降本数据，过程目标跟进和监控，偏差分析 2、现金流管控 整理并输出月底现金流量表，并提交当月及后三月预测，月度监控、预警现金流指标达成；管控资金往来 3、预算管控 参与，并协助财经编制年度预算(损益表、现金流、周转)的编制、过程经营分析、预警 4、协助处理基地财务核算、报表及合规管理工作\n1、财务等相关专业，英语流利，小语种(葡语/西语)更优； 2、有国际证书更优； 3、有强烈的外派意愿优先，肯吃苦耐劳； 4、外派周期3年。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、财务等相关专业，英语流利，小语种(葡语/西语)更优"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "长期驻外"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7da3a254-2fa7-4822-a7d0-f9631ace4e88",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1359,10 +4010,61 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品电气设计，完成电气设计过程中的图纸和技术文件； 2、负责日常订单电气设计和和非标订单的优化设计，提升产品毛利； 3、指导生产部门电气技术操作，协助解决生产过程中的产品电气技术问题； 4、负责参与生产现场异常问题处理。",
+      "jobRequirements": "1、专业知识、技能扎实，工作积极主动，具有较强的责任心、耐心、细致； 2、能够熟练应用Autocad及Solidrworks制图软件及办公软件； 3、熟悉电路原理，电气基础，电力系统知识； 4、具有较强的沟通协调表达能力以及良好的团队合作意识。",
+      "JD": "1、负责产品电气设计，完成电气设计过程中的图纸和技术文件； 2、负责日常订单电气设计和和非标订单的优化设计，提升产品毛利； 3、指导生产部门电气技术操作，协助解决生产过程中的产品电气技术问题； 4、负责参与生产现场异常问题处理。\n1、专业知识、技能扎实，工作积极主动，具有较强的责任心、耐心、细致； 2、能够熟练应用Autocad及Solidrworks制图软件及办公软件； 3、熟悉电路原理，电气基础，电力系统知识； 4、具有较强的沟通协调表达能力以及良好的团队合作意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=e20fb6df-25af-41f9-98dc-22f9c84342b6",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1379,8 +4081,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、机电、电气、机械相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1388,10 +4090,67 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责项目结构设计、降低差错成本，提高产品质量； 2、负责订单结构图纸设计，校对他人图纸； 3、负责制定技术标准、订货规范、协助输出检验标准，细化品质底线； 4、负责售前项目协议技术交接，加强与电气设计人员的沟通，确定方案可行性； 5、负责参与生产现场异常问题处理。",
+      "jobRequirements": "1、机电、电气、机械相关专业； 2、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 3、能够熟练运用CAD、Creo等软件处理各项工作事务； 4、人际沟通、协调能力强、执行力强，良好的团队合作意识。",
+      "JD": "1、负责项目结构设计、降低差错成本，提高产品质量； 2、负责订单结构图纸设计，校对他人图纸； 3、负责制定技术标准、订货规范、协助输出检验标准，细化品质底线； 4、负责售前项目协议技术交接，加强与电气设计人员的沟通，确定方案可行性； 5、负责参与生产现场异常问题处理。\n1、机电、电气、机械相关专业； 2、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 3、能够熟练运用CAD、Creo等软件处理各项工作事务； 4、人际沟通、协调能力强、执行力强，良好的团队合作意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、机电、电气、机械相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=a367a73d-fa32-4fb9-b66c-8236f59e7991",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1408,8 +4167,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、制冷与低温工程、能源动力工程、建筑环境与能源应用工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1417,10 +4176,63 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助暖通方案设计与核算 2、跟进暖通设备安装与调试 3、整理暖通工程技术资料",
+      "jobRequirements": "1、制冷与低温工程、能源动力工程、建筑环境与能源应用工程等相关专业； 2、掌握Icepak、Fluent、6SigmaRoom、CREO、AutoCAD等软件（至少其中之一）； 3、熟悉设备选型、负荷计算，理解压差控制与过滤消杀等基本原理； 4、具备极强的抗压能力和现场问题解决能力。",
+      "JD": "1、协助暖通方案设计与核算 2、跟进暖通设备安装与调试 3、整理暖通工程技术资料\n1、制冷与低温工程、能源动力工程、建筑环境与能源应用工程等相关专业； 2、掌握Icepak、Fluent、6SigmaRoom、CREO、AutoCAD等软件（至少其中之一）； 3、熟悉设备选型、负荷计算，理解压差控制与过滤消杀等基本原理； 4、具备极强的抗压能力和现场问题解决能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、制冷与低温工程、能源动力工程、建筑环境与能源应用工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=1898a939-863c-40d1-a9d7-37e8a6155df4",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1437,7 +4249,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、流体机械、旋转机械、力学、振动力学、固体力学、结构力学等专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1446,10 +4258,61 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责产品开发过程中的固体分析，提供仿真技术支持，提出优化设计方案，撰写仿真报告； 2.协助工程设计人员对仿真结果和试验结果进行讨论、分析，提出解决或优化设计方案； 3.整理分析流程，将基础分析过程、参数、方法标准化； 4.对优化方案进行测试验证。",
+      "jobRequirements": "1、流体机械、旋转机械、力学、振动力学、固体力学、结构力学等专业优先； 2、熟练掌握Ansys、Fluent、Creo、Solidworks、Hyper-Mesh、LS-dyna、Moldflow、UG等软件； 3、熟练使用office办公软件。",
+      "JD": "1.负责产品开发过程中的固体分析，提供仿真技术支持，提出优化设计方案，撰写仿真报告； 2.协助工程设计人员对仿真结果和试验结果进行讨论、分析，提出解决或优化设计方案； 3.整理分析流程，将基础分析过程、参数、方法标准化； 4.对优化方案进行测试验证。\n1、流体机械、旋转机械、力学、振动力学、固体力学、结构力学等专业优先； 2、熟练掌握Ansys、Fluent、Creo、Solidworks、Hyper-Mesh、LS-dyna、Moldflow、UG等软件； 3、熟练使用office办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、流体机械、旋转机械、力学、振动力学、固体力学、结构力学等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=97645abf-10b6-4bcf-83b0-f7ea73c3173d",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1466,8 +4329,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、热能工程、工程热物理、流体机械及工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1475,10 +4338,61 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "针对箱式变电站、干式变压器成套设备，做热仿真、流体散热仿真，兼顾部分多物理场耦合，支撑产品研发设计，解决温升超标、散热不良问题。 主要工作职责： 1. 热‑流体仿真建模与计算 2. 散热方案仿真迭代优化 3. 配合电气结构开展多物理场协同仿真 5. 输出仿真报告与设计输入 6. 仿真库积累与标准梳理 7. 参与新产品研发全过程",
+      "jobRequirements": "1、热能工程、工程热物理、流体机械及工程等相关专业; 2、掌握CAD、Solidworks等工具; 3、良好的学习能力和执行力。",
+      "JD": "针对箱式变电站、干式变压器成套设备，做热仿真、流体散热仿真，兼顾部分多物理场耦合，支撑产品研发设计，解决温升超标、散热不良问题。 主要工作职责： 1. 热‑流体仿真建模与计算 2. 散热方案仿真迭代优化 3. 配合电气结构开展多物理场协同仿真 5. 输出仿真报告与设计输入 6. 仿真库积累与标准梳理 7. 参与新产品研发全过程\n1、热能工程、工程热物理、流体机械及工程等相关专业; 2、掌握CAD、Solidworks等工具; 3、良好的学习能力和执行力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、热能工程、工程热物理、流体机械及工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=db85061d-c251-440b-b43b-7285d5deacc0",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1491,12 +4405,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、机械设计及自动化、车联工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1504,10 +4418,67 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品结构开发设计工作； 2、负责新品零部件拆分、零部件方案设计与方案一页纸编制； 3、负责产品结构模块化、标准化、通用化推进等工作； 4、负责产品结构方案技术支持、修订相关标准、专利申报、技术沉淀等。",
+      "jobRequirements": "1、机械设计及自动化、车联工程等相关专业； 2、具备系统性的产品结构设计理念和一定的结构、模具等相关知识； 3、熟练使用CREO、CAD等专业软件； 4、本科及以上学历； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "JD": "1、负责产品结构开发设计工作； 2、负责新品零部件拆分、零部件方案设计与方案一页纸编制； 3、负责产品结构模块化、标准化、通用化推进等工作； 4、负责产品结构方案技术支持、修订相关标准、专利申报、技术沉淀等。\n1、机械设计及自动化、车联工程等相关专业； 2、具备系统性的产品结构设计理念和一定的结构、模具等相关知识； 3、熟练使用CREO、CAD等专业软件； 4、本科及以上学历； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、机械设计及自动化、车联工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=cbe34ecd-559a-4182-acd5-1d1c0cb98701",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1520,12 +4491,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、制冷与低温工程、能源与动力工程、建筑环境与能源工程、供热燃气通风及空调等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1533,10 +4504,67 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品系统开发设计工作； 2、负责新品开发系统调试、样机制作、零部件设计与确认、图纸及BOM编制； 3、负责产品系统的维护及质量整改； 4、负责产品生产、售后技术支持； 5、编制控制器功能规格书，完善修订相关技术标准、专利申报。",
+      "jobRequirements": "1、制冷与低温工程、能源与动力工程、建筑环境与能源工程、供热燃气通风及空调等相关专业； 2、具备系统性的产品系统设计理念和一定的系统等相关知识； 3、熟练使用CAD、PRO-E等专业软件； 4、本科及以上学历； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "JD": "1、负责产品系统开发设计工作； 2、负责新品开发系统调试、样机制作、零部件设计与确认、图纸及BOM编制； 3、负责产品系统的维护及质量整改； 4、负责产品生产、售后技术支持； 5、编制控制器功能规格书，完善修订相关技术标准、专利申报。\n1、制冷与低温工程、能源与动力工程、建筑环境与能源工程、供热燃气通风及空调等相关专业； 2、具备系统性的产品系统设计理念和一定的系统等相关知识； 3、熟练使用CAD、PRO-E等专业软件； 4、本科及以上学历； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、制冷与低温工程、能源与动力工程、建筑环境与能源工程、供热燃气通风及空调等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=fd6f4d99-062e-414a-97c8-b1dc9ced80c8",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1549,12 +4577,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1562,10 +4590,65 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责空调软件方案制定、软件编程及实施； 2、协助硬件、电器、系统人员，保证项目进度和质量； 3、解决项目过程中遇到的技术瓶颈和问题； 4、负责新功能研究、验证及实施； 5、负责软件通用化实施； 7、软件模块化设计、算法研究； 8、负责软件更改类的控制器评审工作； 9、软件模块化设计、算法研究； 10、负责软件更改类的控制器评审工作。",
+      "jobRequirements": "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业； 2、熟练使用CAD、AD、IAR、KEIL等专业软件； 3、熟悉电子元器件、单片机、芯片应用原理等专业知识； 4、本科及以上学历； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "JD": "1、负责空调软件方案制定、软件编程及实施； 2、协助硬件、电器、系统人员，保证项目进度和质量； 3、解决项目过程中遇到的技术瓶颈和问题； 4、负责新功能研究、验证及实施； 5、负责软件通用化实施； 7、软件模块化设计、算法研究； 8、负责软件更改类的控制器评审工作； 9、软件模块化设计、算法研究； 10、负责软件更改类的控制器评审工作。\n1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业； 2、熟练使用CAD、AD、IAR、KEIL等专业软件； 3、熟悉电子元器件、单片机、芯片应用原理等专业知识； 4、本科及以上学历； 5、可接受出差； 6、具备良好的沟通协调能力、团队合作意识，能够与团队高效协同推进项目。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=d9f15c11-e48c-4de1-bd4b-db968b767455",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1591,10 +4674,61 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责新品电气开发； 2、负责电气原理图及走线图绘制； 3、负责样机试制、可靠性试验、安规验的跟踪及调试； 4、负责电气器件的选型及确认，设计规范及检验规范的制定和完善； 5、负责电子器件认证资料的提交与维护。",
+      "jobRequirements": "1、熟练掌握IDEA、VSCode等软件 2、熟练使用office办公软件",
+      "JD": "1、负责新品电气开发； 2、负责电气原理图及走线图绘制； 3、负责样机试制、可靠性试验、安规验的跟踪及调试； 4、负责电气器件的选型及确认，设计规范及检验规范的制定和完善； 5、负责电子器件认证资料的提交与维护。\n1、熟练掌握IDEA、VSCode等软件 2、熟练使用office办公软件",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=5ce10c2f-f30c-439f-9f80-077197953833",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1620,10 +4754,59 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责新品外观方案设计和协助开发跟进； 2、负责新品外观手板外发及跟进验收； 3、负责新品外观专利申请，把控手板质量，并提供工艺指导； 4、负责行业发展趋势分析。",
+      "jobRequirements": "1、工业设计、产品设计、视觉传达、平面设计等相关专业； 2、有较好的产品外观设计相关专业基础； 3、熟练产品设计手绘、草图； 4、熟练使用Creo/Proe、犀牛、Photoshop、CorelDRAW/AdobeIllustrator、等软件。",
+      "JD": "1、负责新品外观方案设计和协助开发跟进； 2、负责新品外观手板外发及跟进验收； 3、负责新品外观专利申请，把控手板质量，并提供工艺指导； 4、负责行业发展趋势分析。\n1、工业设计、产品设计、视觉传达、平面设计等相关专业； 2、有较好的产品外观设计相关专业基础； 3、熟练产品设计手绘、草图； 4、熟练使用Creo/Proe、犀牛、Photoshop、CorelDRAW/AdobeIllustrator、等软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=a6790524-7d26-40e3-9a90-c1e2553a73ee",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1640,8 +4823,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "2、有较好的机械、制冷等相关工科专业基础",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1649,10 +4832,61 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品认证申请、取证、获证后等阶段规范性管理，管控认证风险； 2、负责新老品产品认证，委外检测的申请，资料初审、提交，及时取证； 3、负责老品技术更改、新增供方、供方资料变更等日常、年度变更备案； 4、负责技术更改、零件证书收集、样品确认、可接单等开发过程认证把关。",
+      "jobRequirements": "1、熟悉空调基本原理、产品认证相关知识，了解相关政策、法规； 2、有较好的机械、制冷等相关工科专业基础； 3、熟练使用CAD、PRO-E等软件。",
+      "JD": "1、负责产品认证申请、取证、获证后等阶段规范性管理，管控认证风险； 2、负责新老品产品认证，委外检测的申请，资料初审、提交，及时取证； 3、负责老品技术更改、新增供方、供方资料变更等日常、年度变更备案； 4、负责技术更改、零件证书收集、样品确认、可接单等开发过程认证把关。\n1、熟悉空调基本原理、产品认证相关知识，了解相关政策、法规； 2、有较好的机械、制冷等相关工科专业基础； 3、熟练使用CAD、PRO-E等软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、有较好的机械、制冷等相关工科专业基础"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=86ccb0af-3db3-477f-88e5-8d3602f7b1da",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1669,8 +4903,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电气工程及其自动化、电机与电器等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1678,10 +4912,61 @@
         "minorLanguageRequired": false
       },
       "location": "安徽省·芜湖市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责电机设计、电磁仿真； 2、负责电机产品优化、降本。",
+      "jobRequirements": "1、电气工程及其自动化、电机与电器等相关专业； 2、熟练掌握电机电磁设计理论； 3、熟练使用电机电磁设计仿真软件。",
+      "JD": "1、负责电机设计、电磁仿真； 2、负责电机产品优化、降本。\n1、电气工程及其自动化、电机与电器等相关专业； 2、熟练掌握电机电磁设计理论； 3、熟练使用电机电磁设计仿真软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电气工程及其自动化、电机与电器等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=628566c5-4fe0-4230-b709-4a069533b886",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1698,8 +4983,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、机械设计制造及自动化等相关专业，具有质量控制管理的清晰思路与意识、坚持的原则底线",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1707,10 +4992,63 @@
         "minorLanguageRequired": false
       },
       "location": "安徽省·芜湖市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "具体工作内容包括并不限于： 1、处理异常品质问题，追踪问题根因，采取有效的措施进行改进，预防再发； 2、制定和实施持续改进计划，不断提升产品质量和质量管理水平。",
+      "jobRequirements": "1、机械设计制造及自动化等相关专业，具有质量控制管理的清晰思路与意识、坚持的原则底线； 2、较强的、判断与决策能力、人际沟通能力、计划与执行能力； 3、熟练使用OFFICE、IE等办公软件。",
+      "JD": "具体工作内容包括并不限于： 1、处理异常品质问题，追踪问题根因，采取有效的措施进行改进，预防再发； 2、制定和实施持续改进计划，不断提升产品质量和质量管理水平。\n1、机械设计制造及自动化等相关专业，具有质量控制管理的清晰思路与意识、坚持的原则底线； 2、较强的、判断与决策能力、人际沟通能力、计划与执行能力； 3、熟练使用OFFICE、IE等办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、机械设计制造及自动化等相关专业，具有质量控制管理的清晰思路与意识、坚持的原则底线"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ab29abf1-4aed-4554-8a03-b21825bb8b01",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1727,8 +5065,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "2、机械设计制造及自动化等相关专业，掌握机械设计专业课程知识",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1736,10 +5074,63 @@
         "minorLanguageRequired": false
       },
       "location": "安徽省·芜湖市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "具体工作内容包括并不限于： 1、工艺文件编制及维护； 2、产品制造技术支持； 3、工艺纪律督查； 4、新工艺开发。",
+      "jobRequirements": "1、熟练使用CAD等二维、三维画图软件； 2、机械设计制造及自动化等相关专业，掌握机械设计专业课程知识。",
+      "JD": "具体工作内容包括并不限于： 1、工艺文件编制及维护； 2、产品制造技术支持； 3、工艺纪律督查； 4、新工艺开发。\n1、熟练使用CAD等二维、三维画图软件； 2、机械设计制造及自动化等相关专业，掌握机械设计专业课程知识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、机械设计制造及自动化等相关专业，掌握机械设计专业课程知识"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=34df1bb2-c945-4157-bdbb-fa2b1f6dca48",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1756,8 +5147,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电子电气、自动化等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1765,10 +5156,66 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "包括但不限于国内售前、售后、报价等工作 1、客户需求方案解析、方案提供； 2、解决用户现场的质量问题，解答用户提出技术疑问； 3、跟踪产品质量情况解决落实技术服务工作，增强工作效率减少重复质量问题； 4、收集产品的相关信息,了解用户需求和期望，传达给相关部门，提高产品质量。",
+      "jobRequirements": "1、电子电气、自动化等相关专业； 2、强烈的敬业精神与责任感、工作原则性强； 3、人际沟通、协调能力强、执行力强，良好的团队合作意识； 4、能适应长期出差。",
+      "JD": "包括但不限于国内售前、售后、报价等工作 1、客户需求方案解析、方案提供； 2、解决用户现场的质量问题，解答用户提出技术疑问； 3、跟踪产品质量情况解决落实技术服务工作，增强工作效率减少重复质量问题； 4、收集产品的相关信息,了解用户需求和期望，传达给相关部门，提高产品质量。\n1、电子电气、自动化等相关专业； 2、强烈的敬业精神与责任感、工作原则性强； 3、人际沟通、协调能力强、执行力强，良好的团队合作意识； 4、能适应长期出差。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电子电气、自动化等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8f7e8c31-0ca9-464f-b67d-31903f91b52a",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1785,7 +5232,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、电子、自动化、电气等电类专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1794,10 +5241,63 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "一、工艺工程师 1、产品导入：负责工艺方案策划（工艺路线、工装治具、工艺指导文件） 2、新品评审：负责新产品的可生产性评审（PCB、结构件、样机和小批试产等评审） 3、资料审核：负责新产品研发资料审核（BOM、调试说明、资料完整性等） 4、过程跟踪：负责新品、小批的工艺指导与过程跟踪（处理过程中所有异常） 5、产前导入：负责协调相应的测试设备，工装及生产软件，并对其进行初步验证 6、新品培训：负责新品的产前培训、对接（对特殊要求、关键工艺点进行宣贯）； 7、订单审核：负责所有订单的定牌审核，生产方案制作； 8、工艺技改：负责产品工艺优化工作； 9、异常处理：负责制程返工方案的制定 二、设备工程师 1、投资评审，负责工厂新增设备的合理性评估 2、技案编写：负责新投设备的技案对接及编写 3、验收评审：负责新投设备的安调与验收工作 4、设备管理：负责TPM管理",
+      "jobRequirements": "1、电子、自动化、电气等电类专业优先； 2、做事细心，有责任心，熟练掌握电脑技能； 3、理解电路设计、电气原理，熟练运用AD、CAD等软件； 4、沟通能力强，需多部门协同(制造、品质、研发、销售等)。",
+      "JD": "一、工艺工程师 1、产品导入：负责工艺方案策划（工艺路线、工装治具、工艺指导文件） 2、新品评审：负责新产品的可生产性评审（PCB、结构件、样机和小批试产等评审） 3、资料审核：负责新产品研发资料审核（BOM、调试说明、资料完整性等） 4、过程跟踪：负责新品、小批的工艺指导与过程跟踪（处理过程中所有异常） 5、产前导入：负责协调相应的测试设备，工装及生产软件，并对其进行初步验证 6、新品培训：负责新品的产前培训、对接（对特殊要求、关键工艺点进行宣贯）； 7、订单审核：负责所有订单的定牌审核，生产方案制作； 8、工艺技改：负责产品工艺优化工作； 9、异常处理：负责制程返工方案的制定 二、设备工程师 1、投资评审，负责工厂新增设备的合理性评估 2、技案编写：负责新投设备的技案对接及编写 3、验收评审：负责新投设备的安调与验收工作 4、设备管理：负责TPM管理\n1、电子、自动化、电气等电类专业优先； 2、做事细心，有责任心，熟练掌握电脑技能； 3、理解电路设计、电气原理，熟练运用AD、CAD等软件； 4、沟通能力强，需多部门协同(制造、品质、研发、销售等)。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电子、自动化、电气等电类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=af29e8f6-c6bb-4d9e-93bc-974143116f97",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1810,11 +5310,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科及以上学历，机械、电气等相关工科专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1823,10 +5323,65 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助制定并执行工厂生产计划，确保交付目标达成； 2、参与精益生产、成本控制及现场管理优化； 3、推动安全生产、质量管理及团队建设； 4、轮岗学习各制造环节，快速成长为综合管理人才。",
+      "jobRequirements": "1、本科及以上学历，机械、电气等相关工科专业优先 2、具备较强的学习能力、责任心和抗压能力 3、有学生干部、项目实践或制造相关实习经历者优先 4、愿意从基层做起，接受轮岗及异地工作安排",
+      "JD": "1、协助制定并执行工厂生产计划，确保交付目标达成； 2、参与精益生产、成本控制及现场管理优化； 3、推动安全生产、质量管理及团队建设； 4、轮岗学习各制造环节，快速成长为综合管理人才。\n1、本科及以上学历，机械、电气等相关工科专业优先 2、具备较强的学习能力、责任心和抗压能力 3、有学生干部、项目实践或制造相关实习经历者优先 4、愿意从基层做起，接受轮岗及异地工作安排",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械、电气等相关工科专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=1218058f-fc0e-45f1-a595-70e7d222c2f1",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1843,8 +5398,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、计算机科学与技术、软件工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1852,10 +5407,63 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助完成项目代码编写、配合完成基础功能模块的开发落地 2、负责日常系统功能测试、bug排查与记录，整理开发文档、测试报告等相关资料 3、配合团队完成项目迭代、需求对接及系统维护工作",
+      "jobRequirements": "1、计算机科学与技术、软件工程等相关专业 2、掌握至少一门主流开发语言(JAVA\\PYTHON) 3、良好的学习能力和执行力",
+      "JD": "1、协助完成项目代码编写、配合完成基础功能模块的开发落地 2、负责日常系统功能测试、bug排查与记录，整理开发文档、测试报告等相关资料 3、配合团队完成项目迭代、需求对接及系统维护工作\n1、计算机科学与技术、软件工程等相关专业 2、掌握至少一门主流开发语言(JAVA\\PYTHON) 3、良好的学习能力和执行力",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、计算机科学与技术、软件工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=bde86255-3272-460a-9d47-0aae3c3449c1",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1881,10 +5489,64 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、参与需求讨论和概要设计，负责系统功能模块细节设计和编码实现； 2、负责内部测试及联调，按模块负责制保障所负责模块的品质； 3、参与项目设计文档、产品手册等相关文档编写，辅助项目经理完成项目周边工作； 4、与其它部门对接，提供技术支持；",
+      "jobRequirements": "1、掌握基本的Java编码技能，具备基础的软件工程思想； 2、熟悉MySQL、MongoDB等主流数据库，能编写常用脚本； 3、 熟悉掌握SSM技术框架应用，有微服务技术应用经历者优先； 4、有良好的沟通表达能力，有较强的团队协作意识。",
+      "JD": "1、参与需求讨论和概要设计，负责系统功能模块细节设计和编码实现； 2、负责内部测试及联调，按模块负责制保障所负责模块的品质； 3、参与项目设计文档、产品手册等相关文档编写，辅助项目经理完成项目周边工作； 4、与其它部门对接，提供技术支持；\n1、掌握基本的Java编码技能，具备基础的软件工程思想； 2、熟悉MySQL、MongoDB等主流数据库，能编写常用脚本； 3、 熟悉掌握SSM技术框架应用，有微服务技术应用经历者优先； 4、有良好的沟通表达能力，有较强的团队协作意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=4aebfe9c-71fc-4b60-b170-3a9e3d5dd12a",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1910,10 +5572,61 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.借助各种线上、线下宣传渠道，扩大奥克斯在校园的影响力； 2.协助联络学校领导，与学校和相关专业院系建立良好的合作关系； 3.及时反馈校园动态，解答同学疑问； 4.协助宣讲会及面试工作； 5.推荐身边优秀的同学加入奥克斯。",
+      "jobRequirements": "1. 27届/28届在校大学生 ，担任校就业助理优先； 2. 做事认真，对人热情，亲和友善、耐心细致； 3. 熟悉校园环境，对本校市场需求有一定了解，对招募宣传工作有自己的思考和想法； 4. 担任过班级、社团、团委干部，或组织管理过大型校园活动优先； 5、拥有良好的沟通能力、执行力。",
+      "JD": "1.借助各种线上、线下宣传渠道，扩大奥克斯在校园的影响力； 2.协助联络学校领导，与学校和相关专业院系建立良好的合作关系； 3.及时反馈校园动态，解答同学疑问； 4.协助宣讲会及面试工作； 5.推荐身边优秀的同学加入奥克斯。\n1. 27届/28届在校大学生 ，担任校就业助理优先； 2. 做事认真，对人热情，亲和友善、耐心细致； 3. 熟悉校园环境，对本校市场需求有一定了解，对招募宣传工作有自己的思考和想法； 4. 担任过班级、社团、团委干部，或组织管理过大型校园活动优先； 5、拥有良好的沟通能力、执行力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7fd352eb-d149-4c45-9145-4bf00f8f70ee",
-      "lastVerified": "2026-08-18",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1930,7 +5643,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、财务、会计等相关专业优先，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致",
         "hardRestriction": false
       },
       "language": {
@@ -1939,10 +5652,65 @@
         "minorLanguageRequired": false
       },
       "location": "浙江省·宁波市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、审计部门体系类工作，如人力、财务等部门对接； 2、参与并完成专项审计工作； 3、协助调查落实投诉问题； 4、协助搭建审计规范体系； 5、其他临时性工作。",
+      "jobRequirements": "1、财务、会计等相关专业优先，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "JD": "1、审计部门体系类工作，如人力、财务等部门对接； 2、参与并完成专项审计工作； 3、协助调查落实投诉问题； 4、协助搭建审计规范体系； 5、其他临时性工作。\n1、财务、会计等相关专业优先，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、财务、会计等相关专业优先，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=dd0eb8e7-9481-4263-97f9-92866949a222",
-      "lastVerified": "2026-08-25",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

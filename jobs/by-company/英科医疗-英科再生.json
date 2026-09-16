@@ -12,11 +12,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，专业不限；市场营销、统计学、数学等相关专业优先；",
         "hardRestriction": false
       },
       "language": {
@@ -25,10 +25,67 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 销售计划管控：协助制定、拆解并跟进销售计划，监控销售数据与业务进展，确保业务目标有序推进； 2. 数据分析赋能：负责销售数据与市场信息的收集整理与深度分析，输出可视化报表及业务分析报告，为业务决策提供数据支撑； 3. 流程效率优化：梳理销售全流程痛点，迭代运营策略与管理制度，推动业务流程、系统工具优化升级，提升团队执行效率与规范化水平； 4. 资源协同统筹：统筹协调销售及各业务部门资源，跟进备货与各类项目落地，保障业务顺畅推进； 5. 团队赋能风控：响应销售业务诉求，组织培训开展业务赋能；监督规范业务合规流程，保障业务合规高效运行。",
+      "jobRequirements": "1. 本科及以上学历，专业不限；市场营销、统计学、数学等相关专业优先； 2. 善于沟通，服务意识良好，具备一定的跨部门协调与问题解决能力； 3. 学习能力突出，具备基础数据分析能力，思维逻辑清晰，工作细致严谨，责任心强。",
+      "JD": "1. 销售计划管控：协助制定、拆解并跟进销售计划，监控销售数据与业务进展，确保业务目标有序推进； 2. 数据分析赋能：负责销售数据与市场信息的收集整理与深度分析，输出可视化报表及业务分析报告，为业务决策提供数据支撑； 3. 流程效率优化：梳理销售全流程痛点，迭代运营策略与管理制度，推动业务流程、系统工具优化升级，提升团队执行效率与规范化水平； 4. 资源协同统筹：统筹协调销售及各业务部门资源，跟进备货与各类项目落地，保障业务顺畅推进； 5. 团队赋能风控：响应销售业务诉求，组织培训开展业务赋能；监督规范业务合规流程，保障业务合规高效运行。\n1. 本科及以上学历，专业不限；市场营销、统计学、数学等相关专业优先； 2. 善于沟通，服务意识良好，具备一定的跨部门协调与问题解决能力； 3. 学习能力突出，具备基础数据分析能力，思维逻辑清晰，工作细致严谨，责任心强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，专业不限；市场营销、统计学、数学等相关专业优先；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332805187356938/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,12 +98,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历， 物流管理、国际贸易、交通运输、理工类专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -54,10 +111,71 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。识别关键词：Excel、PPT。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 运输协调：协调出口运输，与货代及船公司高效对接； 2. 通关保障：处理报关及单证制作，确保顺利通关； 3. 订单跟进：跟进出口订单全过程，统筹单证、物流及相关对接； 4. 数据统计：负责出口数据统计及相关支持性工作。",
+      "jobRequirements": "1.本科及以上学历， 物流管理、国际贸易、交通运输、理工类专业； 2. 熟练使用Excel、Word、PPT等办公软件； 3. 工作积极主动，具备优秀的公文与数据处理能力、对外沟通能力及应急处理能力。",
+      "JD": "1. 运输协调：协调出口运输，与货代及船公司高效对接； 2. 通关保障：处理报关及单证制作，确保顺利通关； 3. 订单跟进：跟进出口订单全过程，统筹单证、物流及相关对接； 4. 数据统计：负责出口数据统计及相关支持性工作。\n1.本科及以上学历， 物流管理、国际贸易、交通运输、理工类专业； 2. 熟练使用Excel、Word、PPT等办公软件； 3. 工作积极主动，具备优秀的公文与数据处理能力、对外沟通能力及应急处理能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历， 物流管理、国际贸易、交通运输、理工类专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "物流"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673331641541265715/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,11 +188,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、大学本科及以上学历，专业不限，英语熟练运用",
         "hardRestriction": false
       },
       "language": {
@@ -83,10 +201,70 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：英语、市场分析。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、负责英语区供应商的开发和维护，接待客人来访，赴海外拜访供应商； 2、采购物料的质量跟踪； 3、负责英语区的原料价格收集，进行市场分析",
+      "jobRequirements": "1、大学本科及以上学历，专业不限，英语熟练运用； 2、较好的团队合作精神及执行力。",
+      "JD": "1、负责英语区供应商的开发和维护，接待客人来访，赴海外拜访供应商； 2、采购物料的质量跟踪； 3、负责英语区的原料价格收集，进行市场分析\n1、大学本科及以上学历，专业不限，英语熟练运用； 2、较好的团队合作精神及执行力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、大学本科及以上学历，专业不限，英语熟练运用"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673331641540675891/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -99,7 +277,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -112,10 +290,77 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 海外市场拓展：依托公司资源与自主渠道开发新客户，按目标市场制定拓展计划，达成销售指标； 2. 客户关系经营：负责国内外客户接待、跟进与维护，建立长期稳定的合作关系； 3. 订单与回款管理：跟进订单执行与货款回收，监控应收账款，保障资金及时回笼； 4. 市场洞察：收集行业动态与竞品信息，为业务决策与产品优化提供支撑； 5. 展会与产品联动：参与国际展会策划与客户转化，联动研发推动新产品开发与推广。",
+      "jobRequirements": "1.全日制本科及以上学历，国贸、理工类专业优先； 2.英语口语流利，可与客户无障碍沟通；掌握西班牙语、阿拉伯语等小语种者优先； 3.具备良好的沟通表达能力及逻辑思维能力； 4.热爱销售工作，具备敬业精神与团队合作意识； 5.能适应海外出差（非驻外工作），抗压能力强。",
+      "JD": "1. 海外市场拓展：依托公司资源与自主渠道开发新客户，按目标市场制定拓展计划，达成销售指标； 2. 客户关系经营：负责国内外客户接待、跟进与维护，建立长期稳定的合作关系； 3. 订单与回款管理：跟进订单执行与货款回收，监控应收账款，保障资金及时回笼； 4. 市场洞察：收集行业动态与竞品信息，为业务决策与产品优化提供支撑； 5. 展会与产品联动：参与国际展会策划与客户转化，联动研发推动新产品开发与推广。\n1.全日制本科及以上学历，国贸、理工类专业优先； 2.英语口语流利，可与客户无障碍沟通；掌握西班牙语、阿拉伯语等小语种者优先； 3.具备良好的沟通表达能力及逻辑思维能力； 4.热爱销售工作，具备敬业精神与团队合作意识； 5.能适应海外出差（非驻外工作），抗压能力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户",
+        "洞察"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339612388051263/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,7 +373,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -141,10 +386,77 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 海外市场拓展：依托公司资源与自主渠道开发新客户，按目标市场制定拓展计划，达成销售指标； 2. 客户关系经营：负责国内外客户接待、跟进与维护，建立长期稳定的合作关系； 3. 订单与回款管理：跟进订单执行与货款回收，监控应收账款，保障资金及时回笼； 4. 市场洞察：收集行业动态与竞品信息，为业务决策与产品优化提供支撑； 5. 展会与产品联动：参与国际展会策划与客户转化，联动研发推动新产品开发与推广。",
+      "jobRequirements": "1.全日制本科及以上学历，国贸、理工类专业优先； 2.英语口语流利，可与客户无障碍沟通；掌握西班牙语、阿拉伯语等小语种者优先； 3.具备良好的沟通表达能力及逻辑思维能力； 4.热爱销售工作，具备敬业精神与团队合作意识； 5.能适应海外出差（非驻外工作），抗压能力强。",
+      "JD": "1. 海外市场拓展：依托公司资源与自主渠道开发新客户，按目标市场制定拓展计划，达成销售指标； 2. 客户关系经营：负责国内外客户接待、跟进与维护，建立长期稳定的合作关系； 3. 订单与回款管理：跟进订单执行与货款回收，监控应收账款，保障资金及时回笼； 4. 市场洞察：收集行业动态与竞品信息，为业务决策与产品优化提供支撑； 5. 展会与产品联动：参与国际展会策划与客户转化，联动研发推动新产品开发与推广。\n1.全日制本科及以上学历，国贸、理工类专业优先； 2.英语口语流利，可与客户无障碍沟通；掌握西班牙语、阿拉伯语等小语种者优先； 3.具备良好的沟通表达能力及逻辑思维能力； 4.热爱销售工作，具备敬业精神与团队合作意识； 5.能适应海外出差（非驻外工作），抗压能力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户",
+        "洞察"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339612384069924/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -157,11 +469,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、统招全日制本科及以上学历，专业不限， 人力资源、理工类、或有人力实习经历者优先考虑",
         "hardRestriction": false
       },
       "language": {
@@ -170,10 +482,65 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 招聘规划：收集各部门人力需求，协助制定招聘计划与方案； 2. 招聘执行：负责需求分析、简历筛选、面试邀约、面试及 Offer 谈判等全流程招聘； 3. 渠道建设：开拓并维护多元招聘渠道，高效获取人才； 4. 模块支持：承接人力资源六大模块基础性工作。",
+      "jobRequirements": "1、统招全日制本科及以上学历，专业不限， 人力资源、理工类、或有人力实习经历者优先考虑； 2、性格开朗外向、积极主动、目标感强、抗压力强； 3、具备良好的敬业精神和团队协作精神； 4、熟练掌握各种办公软件的使用技能。",
+      "JD": "1. 招聘规划：收集各部门人力需求，协助制定招聘计划与方案； 2. 招聘执行：负责需求分析、简历筛选、面试邀约、面试及 Offer 谈判等全流程招聘； 3. 渠道建设：开拓并维护多元招聘渠道，高效获取人才； 4. 模块支持：承接人力资源六大模块基础性工作。\n1、统招全日制本科及以上学历，专业不限， 人力资源、理工类、或有人力实习经历者优先考虑； 2、性格开朗外向、积极主动、目标感强、抗压力强； 3、具备良好的敬业精神和团队协作精神； 4、熟练掌握各种办公软件的使用技能。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、统招全日制本科及以上学历，专业不限， 人力资源、理工类、或有人力实习经历者优先考虑"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339241564391722/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -186,11 +553,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1.本科及以上学历，专业不限，理工类专业优先；2.机械、电气、自动化、化学化工、工业工程、物流等相关理工科专业均可",
         "hardRestriction": false
       },
       "language": {
@@ -199,10 +566,67 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 现场管理：负责规章制度、生产现场、5S、设备及安全等日常管理； 2. 人力统筹：全面协调生产部门人力管理与生产活动； 3. 产能规划：开展产能分析，评估资源配置与生产能力，确保计划合理； 4. 计划执行：下达生产任务，监督作业进度，跟进需求与产值目标按时达成； 5. 持续改进：及时响应生产异常并提出改进建议，参与效率提升与质量改善项目； 6. 设备与规范：监督现场规范操作，落实 5S，组织设备管理与折旧、报损、报废等事宜。",
+      "jobRequirements": "1.本科及以上学历，专业不限，理工类专业优先； 2.机械、电气、自动化、化学化工、工业工程、物流等相关理工科专业均可。",
+      "JD": "1. 现场管理：负责规章制度、生产现场、5S、设备及安全等日常管理； 2. 人力统筹：全面协调生产部门人力管理与生产活动； 3. 产能规划：开展产能分析，评估资源配置与生产能力，确保计划合理； 4. 计划执行：下达生产任务，监督作业进度，跟进需求与产值目标按时达成； 5. 持续改进：及时响应生产异常并提出改进建议，参与效率提升与质量改善项目； 6. 设备与规范：监督现场规范操作，落实 5S，组织设备管理与折旧、报损、报废等事宜。\n1.本科及以上学历，专业不限，理工类专业优先； 2.机械、电气、自动化、化学化工、工业工程、物流等相关理工科专业均可。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，专业不限，理工类专业优先",
+          "2.机械、电气、自动化、化学化工、工业工程、物流等相关理工科专业均可"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "物流"
+      ],
+      "preferenceTags": [
+        "专业不限"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339619765127487/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,7 +639,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -228,10 +652,63 @@
         "minorLanguageRequired": false
       },
       "location": "清化市",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、作为管培生进入岗位实习和培训，实习结束根据专业和个人需求转正进入正式岗位； 2、提供系统培训及专人培养，作为营销、生产、管理、技术等岗位人才储备； 3、转正后进入各岗位，享有正式员工待遇及培训。",
+      "jobRequirements": "1、本科及以上学历，越南语口语优秀； 2、学习能力强，专业知识扎实， 有实践经验者优； 3、较强的沟通协调能力，良好的团队合作精神； 4、勇于接受挑战和承受工作压力。",
+      "JD": "1、作为管培生进入岗位实习和培训，实习结束根据专业和个人需求转正进入正式岗位； 2、提供系统培训及专人培养，作为营销、生产、管理、技术等岗位人才储备； 3、转正后进入各岗位，享有正式员工待遇及培训。\n1、本科及以上学历，越南语口语优秀； 2、学习能力强，专业知识扎实， 有实践经验者优； 3、较强的沟通协调能力，良好的团队合作精神； 4、勇于接受挑战和承受工作压力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7681111178458581286/detail",
-      "lastVerified": "2026-09-03",
+      "publishedAt": "2026-09-03",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,11 +721,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，专业不限",
         "hardRestriction": false
       },
       "language": {
@@ -257,10 +734,80 @@
         "minorLanguageRequired": false
       },
       "location": "清化市",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 海外市场拓展：依托公司资源与自主渠道开发海外新客户，拓展目标市场； 2. 客户关系经营：深耕新老客户客情维护，做好来访接待与日常沟通跟进，搭建长期稳定的合作关系； 3. 订单全链跟进：严格执行公司业务流程，联动各业务部门高效协同，全程跟进订单落地； 4. 市场洞察分析：收集调研行业动态及客户诉求，为销售策略优化、产品迭代升级提供有效支撑； 5. 专业能力精进：积极参与公司产品知识、业务技能等专项培训，持续夯实专业能力，提升市场开拓与商务销售综合素养。",
+      "jobRequirements": "1. 本科及以上学历，专业不限； 2. 英语口语流利，可与海外客户无障碍沟通；掌握西班牙语、阿拉伯语、俄语等可做加分项； 3. 具备良好的沟通表达能力及逻辑思维能力； 4. 热爱销售工作，目标感与抗压能力强，具备良好的敬业精神与团队协作意识； 5. 能适应海外出差（短期参展/商务出差，非长期驻外）工作安排。",
+      "JD": "1. 海外市场拓展：依托公司资源与自主渠道开发海外新客户，拓展目标市场； 2. 客户关系经营：深耕新老客户客情维护，做好来访接待与日常沟通跟进，搭建长期稳定的合作关系； 3. 订单全链跟进：严格执行公司业务流程，联动各业务部门高效协同，全程跟进订单落地； 4. 市场洞察分析：收集调研行业动态及客户诉求，为销售策略优化、产品迭代升级提供有效支撑； 5. 专业能力精进：积极参与公司产品知识、业务技能等专项培训，持续夯实专业能力，提升市场开拓与商务销售综合素养。\n1. 本科及以上学历，专业不限； 2. 英语口语流利，可与海外客户无障碍沟通；掌握西班牙语、阿拉伯语、俄语等可做加分项； 3. 具备良好的沟通表达能力及逻辑思维能力； 4. 热爱销售工作，目标感与抗压能力强，具备良好的敬业精神与团队协作意识； 5. 能适应海外出差（短期参展/商务出差，非长期驻外）工作安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户",
+        "洞察",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "长期驻外",
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7674160451273885979/detail",
-      "lastVerified": "2026-08-15",
+      "publishedAt": "2026-08-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -273,11 +820,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -286,10 +833,69 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 供应商开发与管理：负责新供应商的开发、资质审核及现场考察，不断引进优质合格的供应商；定期组织供应商评估与考核，及时淘汰不符合要求的供应商； 2. 采购执行：根据生产计划及部门需求，落实采购流程，确保物料及时到位；监控物料库存动态，协同相关部门处理供应异常，保障生产连续稳定； 3. 成本管理：收集并分析市场行情，掌握原材料价格动态；通过优化品类管理、供应商管理和采购策略，实现总成本的优化与控制； 4. 流程优化与信息化：引入信息化管理工具，持续优化采购及供应链流程，提升整体运作效率。",
+      "jobRequirements": "1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类等相关专业优先； 2. 具备良好的沟通协调能力与问题解决能力； 3. 具备成本意识和较强的责任心，具有良好的职业道德； 4. 抗压能力强，可接受出差安排。",
+      "JD": "1. 供应商开发与管理：负责新供应商的开发、资质审核及现场考察，不断引进优质合格的供应商；定期组织供应商评估与考核，及时淘汰不符合要求的供应商； 2. 采购执行：根据生产计划及部门需求，落实采购流程，确保物料及时到位；监控物料库存动态，协同相关部门处理供应异常，保障生产连续稳定； 3. 成本管理：收集并分析市场行情，掌握原材料价格动态；通过优化品类管理、供应商管理和采购策略，实现总成本的优化与控制； 4. 流程优化与信息化：引入信息化管理工具，持续优化采购及供应链流程，提升整体运作效率。\n1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类等相关专业优先； 2. 具备良好的沟通协调能力与问题解决能力； 3. 具备成本意识和较强的责任心，具有良好的职业道德； 4. 抗压能力强，可接受出差安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332820764592435/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -302,11 +908,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，专业不限，有人力资源相关实习经验者优先",
         "hardRestriction": false
       },
       "language": {
@@ -315,10 +921,66 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 核心模块实战：负责人力资源管理体系单个或多个核心模块工作，涵盖招聘、培训、绩效、薪酬、劳动关系等； 2. 重点项目建设：深度参与人力资源制度优化、业务部门人才梯队建设、数字化升级等重点项目，跟进项目落地与流程迭代，持续完善公司人力资源管理体系； 3. 组织业务赋能：深度对接所支持的业务部门，挖掘业务端人才与管理痛点，响应人力需求，输出支持方案，做好人才供给与业务赋能，助力业务团队稳定发展与组织效能提升。",
+      "jobRequirements": "1. 本科及以上学历，专业不限，有人力资源相关实习经验者优先； 2. 性格开朗外向、积极主动、目标感与抗压能力强； 3. 具备良好的敬业精神与团队协作意识。",
+      "JD": "1. 核心模块实战：负责人力资源管理体系单个或多个核心模块工作，涵盖招聘、培训、绩效、薪酬、劳动关系等； 2. 重点项目建设：深度参与人力资源制度优化、业务部门人才梯队建设、数字化升级等重点项目，跟进项目落地与流程迭代，持续完善公司人力资源管理体系； 3. 组织业务赋能：深度对接所支持的业务部门，挖掘业务端人才与管理痛点，响应人力需求，输出支持方案，做好人才供给与业务赋能，助力业务团队稳定发展与组织效能提升。\n1. 本科及以上学历，专业不限，有人力资源相关实习经验者优先； 2. 性格开朗外向、积极主动、目标感与抗压能力强； 3. 具备良好的敬业精神与团队协作意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，专业不限，有人力资源相关实习经验者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332820748716298/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -331,11 +993,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，不限专业，理工科专业优先考虑",
         "hardRestriction": false
       },
       "language": {
@@ -344,10 +1006,63 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 现场管理：负责生产车间的规章制度建设与管理、生产现场、5S 、生产设备、生产安全管理等工作； 2. 生产人员统筹：协调生产部门的人员管理、团队排班及各项生产作业活动； 3. 生产进度管控：跟踪生产进度、产品订单需求、全流程生产工况、产值达成情况，保障按期保质完成生产目标； 4. 生产异常优化：实时监控生产运行状态，快速响应生产异常，追踪问题根源、分析原因并提出合理化改善建议； 5. 产效品质提升：参与制定生产效率提升、产品质量优化的专项改善计划，跟进方案落地执行与效果复盘改善；",
+      "jobRequirements": "1. 本科及以上学历，不限专业，理工科专业优先考虑； 2. 具备较强的吃苦耐劳精神和执行力； 3. 有较强的学习能力，抗压能力强，组织协调能力强，有责任心。",
+      "JD": "1. 现场管理：负责生产车间的规章制度建设与管理、生产现场、5S 、生产设备、生产安全管理等工作； 2. 生产人员统筹：协调生产部门的人员管理、团队排班及各项生产作业活动； 3. 生产进度管控：跟踪生产进度、产品订单需求、全流程生产工况、产值达成情况，保障按期保质完成生产目标； 4. 生产异常优化：实时监控生产运行状态，快速响应生产异常，追踪问题根源、分析原因并提出合理化改善建议； 5. 产效品质提升：参与制定生产效率提升、产品质量优化的专项改善计划，跟进方案落地执行与效果复盘改善；\n1. 本科及以上学历，不限专业，理工科专业优先考虑； 2. 具备较强的吃苦耐劳精神和执行力； 3. 有较强的学习能力，抗压能力强，组织协调能力强，有责任心。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，不限专业，理工科专业优先考虑"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332807414778163/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -373,10 +1088,70 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：SEO。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 海外社媒运营：制定并实施 LinkedIn、TikTok 等海外自媒体推广策略，统筹内容策划、选题与出稿； 2. 付费广告投放：负责 Google、Bing 等搜索引擎广告账户管理与投放，分析效果并持续优化，提升 ROI； 3. SEO 优化：研究搜索引擎算法与排名机制，提升官网关键词自然排名，获取品牌流量； 4. 数据监测：分析搜索引擎抓取与收录情况，监测关键词排名，输出改进建议。",
+      "jobRequirements": "1. 海外社媒运营：制定并实施 LinkedIn、TikTok 等海外自媒体推广策略，统筹内容策划、选题与出稿； 2. 付费广告投放：负责 Google、Bing 等搜索引擎广告账户管理与投放，分析效果并持续优化，提升 ROI； 3. SEO 优化：研究搜索引擎算法与排名机制，提升官网关键词自然排名，获取品牌流量； 4. 数据监测：分析搜索引擎抓取与收录情况，监测关键词排名，输出改进建议。",
+      "JD": "1. 海外社媒运营：制定并实施 LinkedIn、TikTok 等海外自媒体推广策略，统筹内容策划、选题与出稿； 2. 付费广告投放：负责 Google、Bing 等搜索引擎广告账户管理与投放，分析效果并持续优化，提升 ROI； 3. SEO 优化：研究搜索引擎算法与排名机制，提升官网关键词自然排名，获取品牌流量； 4. 数据监测：分析搜索引擎抓取与收录情况，监测关键词排名，输出改进建议。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销"
+      ],
+      "skills": [
+        "SEO"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "数据",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332805186767114/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -389,11 +1164,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，专业不限",
         "hardRestriction": false
       },
       "language": {
@@ -402,10 +1177,80 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 海外市场拓展：依托公司资源与自主渠道开发海外新客户，拓展目标市场； 2. 客户关系经营：深耕新老客户客情维护，做好来访接待与日常沟通跟进，搭建长期稳定的合作关系； 3. 订单全链跟进：严格执行公司业务流程，联动各业务部门高效协同，全程跟进订单落地； 4. 市场洞察分析：收集调研行业动态及客户诉求，为销售策略优化、产品迭代升级提供有效支撑； 5. 专业能力精进：积极参与公司产品知识、业务技能等专项培训，持续夯实专业能力，提升市场开拓与商务销售综合素养。",
+      "jobRequirements": "1. 本科及以上学历，专业不限； 2. 英语口语流利，可与海外客户无障碍沟通；掌握西班牙语、阿拉伯语、俄语等可做加分项； 3. 具备良好的沟通表达能力及逻辑思维能力； 4. 热爱销售工作，目标感与抗压能力强，具备良好的敬业精神与团队协作意识； 5. 能适应海外出差（短期参展/商务出差，非长期驻外）工作安排。",
+      "JD": "1. 海外市场拓展：依托公司资源与自主渠道开发海外新客户，拓展目标市场； 2. 客户关系经营：深耕新老客户客情维护，做好来访接待与日常沟通跟进，搭建长期稳定的合作关系； 3. 订单全链跟进：严格执行公司业务流程，联动各业务部门高效协同，全程跟进订单落地； 4. 市场洞察分析：收集调研行业动态及客户诉求，为销售策略优化、产品迭代升级提供有效支撑； 5. 专业能力精进：积极参与公司产品知识、业务技能等专项培训，持续夯实专业能力，提升市场开拓与商务销售综合素养。\n1. 本科及以上学历，专业不限； 2. 英语口语流利，可与海外客户无障碍沟通；掌握西班牙语、阿拉伯语、俄语等可做加分项； 3. 具备良好的沟通表达能力及逻辑思维能力； 4. 热爱销售工作，目标感与抗压能力强，具备良好的敬业精神与团队协作意识； 5. 能适应海外出差（短期参展/商务出差，非长期驻外）工作安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户",
+        "洞察",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "长期驻外",
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332796635695370/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -418,11 +1263,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，物流供应链、仓储管理、理工科专业应届生优先",
         "hardRestriction": false
       },
       "language": {
@@ -431,10 +1276,70 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 全流程作业管控：学习并负责原材料、辅料、半成品、成品的入库验收、上架存储、领料出库、复核发货等全流程仓储作业； 2. 库存账务管理：负责仓储日常单据核对、录入与归档，维护仓储系统数据； 3. 库房现场管理：落实库房5S管理、物料分区管理； 4. 异常管控：参与日常及月度库存盘点工作，梳理盘点差异，分析库存异常原因，跟进问题整改； 5. 跨部门协同：对接生产、采购、物流、品质等部门，保障生产与出货顺畅；",
+      "jobRequirements": "1. 本科及以上学历，物流供应链、仓储管理、理工科专业应届生优先； 2. 熟练使用Office办公软件，具备基本的数据统计能力，逻辑清晰、对数字敏感； 4. 做事踏实严谨、责任心强，执行力与抗压能力良好； 5. 具备良好的沟通协调与团队协作能力。",
+      "JD": "1. 全流程作业管控：学习并负责原材料、辅料、半成品、成品的入库验收、上架存储、领料出库、复核发货等全流程仓储作业； 2. 库存账务管理：负责仓储日常单据核对、录入与归档，维护仓储系统数据； 3. 库房现场管理：落实库房5S管理、物料分区管理； 4. 异常管控：参与日常及月度库存盘点工作，梳理盘点差异，分析库存异常原因，跟进问题整改； 5. 跨部门协同：对接生产、采购、物流、品质等部门，保障生产与出货顺畅；\n1. 本科及以上学历，物流供应链、仓储管理、理工科专业应届生优先； 2. 熟练使用Office办公软件，具备基本的数据统计能力，逻辑清晰、对数字敏感； 4. 做事踏实严谨、责任心强，执行力与抗压能力良好； 5. 具备良好的沟通协调与团队协作能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，物流供应链、仓储管理、理工科专业应届生优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332784002107694/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -447,12 +1352,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.硕士及以上学历，化学工程与工艺、高分子材料相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -460,10 +1365,66 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 战略支撑：参与材料研发战略制定，为新材料新配方提供技术支持； 2. 配方研发：负责高分子材料及原料的研究与分析， 建立产品技术规范、原材料规范、测试方法和其它技术资料； 3. 改进创新：关注行业标准与技术动态，提出产品改进方案； 4. 应用验证：在生产中的应用验证与性能测试，解决材料技术问题； 5. 数据与降本：编制完善材料工艺文件与技术数据，推动原材料降本与性能优化项目。",
+      "jobRequirements": "1.硕士及以上学历，化学工程与工艺、高分子材料相关专业； 2.熟悉高分子材料合成与配方设计； 3.具备良好的数据分析与问题解决能力； 4.工作认真细致，责任心强，具备团队合作精神； 5.熟练使用办公软件及相关实验检测设备。",
+      "JD": "1. 战略支撑：参与材料研发战略制定，为新材料新配方提供技术支持； 2. 配方研发：负责高分子材料及原料的研究与分析， 建立产品技术规范、原材料规范、测试方法和其它技术资料； 3. 改进创新：关注行业标准与技术动态，提出产品改进方案； 4. 应用验证：在生产中的应用验证与性能测试，解决材料技术问题； 5. 数据与降本：编制完善材料工艺文件与技术数据，推动原材料降本与性能优化项目。\n1.硕士及以上学历，化学工程与工艺、高分子材料相关专业； 2.熟悉高分子材料合成与配方设计； 3.具备良好的数据分析与问题解决能力； 4.工作认真细致，责任心强，具备团队合作精神； 5.熟练使用办公软件及相关实验检测设备。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.硕士及以上学历，化学工程与工艺、高分子材料相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339619768944939/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -476,11 +1437,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1.全日制本科及以上学历，专业不限，市场营销、理工类专业优，立志投身销售行业",
         "hardRestriction": false
       },
       "language": {
@@ -489,10 +1450,70 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 客户开发：主动挖掘潜在客户，建立并维护长期合作关系，深度洞察客户需求； 2. 区域经营：调研负责区域市场，制定并优化销售策略，驱动业务持续增长； 3. 目标达成：按月完成销售指标，持续提升业绩水平； 4. 协同与回款：收集客户反馈并与工厂高效协作，跟进回款进度，保障客户满意与资金回收； 5. 能力提升：参加产品与业务培训，持续精进专业能力与销售技巧。",
+      "jobRequirements": "1.全日制本科及以上学历，专业不限，市场营销、理工类专业优，立志投身销售行业； 2.具备良好的沟通协调能力与学习能力，性格积极开朗； 3.抗压能力强，富有团队协作精神； 4.能适应出差工作安排。",
+      "JD": "1. 客户开发：主动挖掘潜在客户，建立并维护长期合作关系，深度洞察客户需求； 2. 区域经营：调研负责区域市场，制定并优化销售策略，驱动业务持续增长； 3. 目标达成：按月完成销售指标，持续提升业绩水平； 4. 协同与回款：收集客户反馈并与工厂高效协作，跟进回款进度，保障客户满意与资金回收； 5. 能力提升：参加产品与业务培训，持续精进专业能力与销售技巧。\n1.全日制本科及以上学历，专业不限，市场营销、理工类专业优，立志投身销售行业； 2.具备良好的沟通协调能力与学习能力，性格积极开朗； 3.抗压能力强，富有团队协作精神； 4.能适应出差工作安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.全日制本科及以上学历，专业不限，市场营销、理工类专业优，立志投身销售行业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "客户",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339612386986303/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -505,7 +1526,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -518,10 +1539,64 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "\"1. 创意设计：独立完成视觉、品牌、产业园展厅及包装等平面创作，精准传递品牌诉求； 2. 需求对接：联动各部门承接平面物料需求，落实集团设计方向； 3. 成本把控：依托行业经验在设计制作环节有效控制成本； 4. 品质与风格：驾驭多元设计风格，对创意、进度、品质与效率负责。\"",
+      "jobRequirements": "\"1、统招全日制本科及以上学历、视觉传达设计、平面设计、产品设计、手绘/插画/动画、媒体艺术设计等专业均可考虑； 2、精通PS、AI等制图软件，具有扎实的美术基础、丰富的视觉传达设计经验、较强的创意视觉表现力，责任感强； 3、较强的创意策划能力，思维敏捷理解力强擅于把握业务核心诉求，并具备一定的沟通能力； 4、对文案及策略有较强理解力，作品富有创意，色彩把握及整体构成有良好运用能力。\"",
+      "JD": "\"1. 创意设计：独立完成视觉、品牌、产业园展厅及包装等平面创作，精准传递品牌诉求； 2. 需求对接：联动各部门承接平面物料需求，落实集团设计方向； 3. 成本把控：依托行业经验在设计制作环节有效控制成本； 4. 品质与风格：驾驭多元设计风格，对创意、进度、品质与效率负责。\"\n\"1、统招全日制本科及以上学历、视觉传达设计、平面设计、产品设计、手绘/插画/动画、媒体艺术设计等专业均可考虑； 2、精通PS、AI等制图软件，具有扎实的美术基础、丰富的视觉传达设计经验、较强的创意视觉表现力，责任感强； 3、较强的创意策划能力，思维敏捷理解力强擅于把握业务核心诉求，并具备一定的沟通能力； 4、对文案及策略有较强理解力，作品富有创意，色彩把握及整体构成有良好运用能力。\"",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339612383660324/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -534,11 +1609,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，专业不限；市场营销、统计学、数据分析等相关专业优先，对产品运营、数据驱动决策有兴趣",
         "hardRestriction": false
       },
       "language": {
@@ -547,10 +1622,71 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 产品信息管理：负责现有产品整合梳理，包括产品SKU、条码等信息的拓展与整理；维护并更新产品成本及价格信息； 2. 跨部门协同与供应商对接： 协调销售、市场、生产、采购等部门，保障产品销售全流程顺利推进；协同采购部多维度对接供应商，提升产品市场竞争力； 3. 新品开发与上市支持： 定期收集汇总市场信息及行业动态，提报新品开发方向；协助新产品开发项目，参与上市定价与渠道策略制定；跟进新品市场反馈，提出优化改进方案； 4. 数据分析与知识管理： 分析产品销售数据，协助制定产品销售策略；整理竞品市场信息，搭建产品知识管理体系并组织产品培训。",
+      "jobRequirements": "1. 本科及以上学历，专业不限；市场营销、统计学、数据分析等相关专业优先，对产品运营、数据驱动决策有兴趣； 2. 具备扎实的数据处理能力，了解基础数据分析逻辑，能独立整理和解读销售数据报表； 3. 具备良好的跨部门协作能力，责任心强且工作主动； 4. 学习能力强，逻辑清晰，具备市场洞察力和数据敏感度； 5. 有市场调研、数据整理、竞品分析等相关实习或校园项目经历者加分。",
+      "JD": "1. 产品信息管理：负责现有产品整合梳理，包括产品SKU、条码等信息的拓展与整理；维护并更新产品成本及价格信息； 2. 跨部门协同与供应商对接： 协调销售、市场、生产、采购等部门，保障产品销售全流程顺利推进；协同采购部多维度对接供应商，提升产品市场竞争力； 3. 新品开发与上市支持： 定期收集汇总市场信息及行业动态，提报新品开发方向；协助新产品开发项目，参与上市定价与渠道策略制定；跟进新品市场反馈，提出优化改进方案； 4. 数据分析与知识管理： 分析产品销售数据，协助制定产品销售策略；整理竞品市场信息，搭建产品知识管理体系并组织产品培训。\n1. 本科及以上学历，专业不限；市场营销、统计学、数据分析等相关专业优先，对产品运营、数据驱动决策有兴趣； 2. 具备扎实的数据处理能力，了解基础数据分析逻辑，能独立整理和解读销售数据报表； 3. 具备良好的跨部门协作能力，责任心强且工作主动； 4. 学习能力强，逻辑清晰，具备市场洞察力和数据敏感度； 5. 有市场调研、数据整理、竞品分析等相关实习或校园项目经历者加分。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，专业不限",
+          "市场营销、统计学、数据分析等相关专业优先，对产品运营、数据驱动决策有兴趣"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332807415367987/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -563,11 +1699,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，专业不限；数学、统计学、工业工程、物流管理、管理科学与工程、供应链管理、理工类相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -576,10 +1712,73 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。识别关键词：Excel、数据分析。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 生产计划制定与下达：根据销售订单、库存情况、物料齐套情况及车间产能，编制生产计划并下达到相关车间，协调落实各阶段排产安排，保障生产工作有序推进； 2. 生产进度跟踪与异常协调：跟踪生产计划执行情况，及时掌握订单进度、产线负荷、完工情况及异常问题，协调生产、采购、仓储、质量等相关部门，推动问题及时解决，保障订单按期交付； 3. 生产资源统筹协调：结合生产需求，协调人力、设备、物料、产线等资源，提升资源利用效率，减少停线、缺料、排产冲突等问题； 4. 计划数据分析与报表维护：负责生产计划相关数据统计、报表整理和进度分析，及时输出生产进度、计划达成、订单交付等数据，为生产安排和管理决策提供支持； 5. 计划流程优化与标准化建设：参与生产计划流程优化、排产规则梳理、系统数据维护及跨部门协同机制建设，推动计划管理更加标准化、数据化、系统化。",
+      "jobRequirements": "1. 本科及以上学历，专业不限；数学、统计学、工业工程、物流管理、管理科学与工程、供应链管理、理工类相关专业优先； 2. 具备较强的学习能力和逻辑思维能力，能够快速理解生产流程、产品结构和计划规则； 3. 具备良好的数据分析能力，熟练使用 Excel 等办公软件，能够进行数据整理、分析和报表输出； 4. 具备较强的沟通协调能力，能够与销售、生产、采购、仓储、质量等部门协同推进工作； 5. 工作严谨细致，责任心强，执行力强，具备较好的抗压能力和问题解决能力。",
+      "JD": "1. 生产计划制定与下达：根据销售订单、库存情况、物料齐套情况及车间产能，编制生产计划并下达到相关车间，协调落实各阶段排产安排，保障生产工作有序推进； 2. 生产进度跟踪与异常协调：跟踪生产计划执行情况，及时掌握订单进度、产线负荷、完工情况及异常问题，协调生产、采购、仓储、质量等相关部门，推动问题及时解决，保障订单按期交付； 3. 生产资源统筹协调：结合生产需求，协调人力、设备、物料、产线等资源，提升资源利用效率，减少停线、缺料、排产冲突等问题； 4. 计划数据分析与报表维护：负责生产计划相关数据统计、报表整理和进度分析，及时输出生产进度、计划达成、订单交付等数据，为生产安排和管理决策提供支持； 5. 计划流程优化与标准化建设：参与生产计划流程优化、排产规则梳理、系统数据维护及跨部门协同机制建设，推动计划管理更加标准化、数据化、系统化。\n1. 本科及以上学历，专业不限；数学、统计学、工业工程、物流管理、管理科学与工程、供应链管理、理工类相关专业优先； 2. 具备较强的学习能力和逻辑思维能力，能够快速理解生产流程、产品结构和计划规则； 3. 具备良好的数据分析能力，熟练使用 Excel 等办公软件，能够进行数据整理、分析和报表输出； 4. 具备较强的沟通协调能力，能够与销售、生产、采购、仓储、质量等部门协同推进工作； 5. 工作严谨细致，责任心强，执行力强，具备较好的抗压能力和问题解决能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，专业不限",
+          "数学、统计学、工业工程、物流管理、管理科学与工程、供应链管理、理工类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332784001517870/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -592,11 +1791,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -605,10 +1804,61 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "\"1. 设计调试：协助完成电气设备的设计、开发与调试； 2. 维护管理：参与制定并实施设备维护计划； 3. 技术攻关：协助解决生产中的电气技术问题，保障设备正常运行； 4. 文档与评估：参与撰写设备操作与维护手册，协助设备性能评估与改进。\"",
+      "jobRequirements": "\"1. 具备良好的职业道德与责任心，工作细致认真； 2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先； 3. 熟练使用相关办公软件。\"",
+      "JD": "\"1. 设计调试：协助完成电气设备的设计、开发与调试； 2. 维护管理：参与制定并实施设备维护计划； 3. 技术攻关：协助解决生产中的电气技术问题，保障设备正常运行； 4. 文档与评估：参与撰写设备操作与维护手册，协助设备性能评估与改进。\"\n\"1. 具备良好的职业道德与责任心，工作细致认真； 2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先； 3. 熟练使用相关办公软件。\"",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339619766012223/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -621,11 +1871,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -634,10 +1884,69 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 供应商管理：开发、资质审核与考察新供应商，定期评估考核并动态淘汰，构建优质供应网络； 2. 采购执行：依据生产计划与部门需求落实采购，监控库存动态，协同处理供应异常； 3. 成本控制：研判市场行情与原材料价格，通过品类、供应商与策略优化实现总成本最优； 4. 流程与信息化：引入信息化工具，持续优化采购与供应链流程，提升运作效率。",
+      "jobRequirements": "1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类相关专业优先； 2. 具备良好的沟通协调能力与问题解决能力； 3. 具备成本意识和较强的责任心，具有良好的职业道德； 4. 吃苦耐劳，抗压能力强，可接受出差安排。",
+      "JD": "1. 供应商管理：开发、资质审核与考察新供应商，定期评估考核并动态淘汰，构建优质供应网络； 2. 采购执行：依据生产计划与部门需求落实采购，监控库存动态，协同处理供应异常； 3. 成本控制：研判市场行情与原材料价格，通过品类、供应商与策略优化实现总成本最优； 4. 流程与信息化：引入信息化工具，持续优化采购与供应链流程，提升运作效率。\n1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类相关专业优先； 2. 具备良好的沟通协调能力与问题解决能力； 3. 具备成本意识和较强的责任心，具有良好的职业道德； 4. 吃苦耐劳，抗压能力强，可接受出差安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339619765651775/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -650,12 +1959,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，财务、会计等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -663,10 +1972,63 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 账务处理：审核单据与发票，处理固定资产、在建工程及高新技术企业申报等账务事项； 2. 资金与银行：办理存取款、报销、网银录入，以及银行融资与政府手续经办； 3. 应收与税务：审核订单、发货单与单价，处理货款查询、开票、账期，以及对外报表与税务事项。",
+      "jobRequirements": "1.本科及以上学历，财务、会计等相关专业； 2.学习能力强，专业知识扎实，有实践经验者优先； 3.较强的沟通协调能力，良好的团队合作精神。",
+      "JD": "1. 账务处理：审核单据与发票，处理固定资产、在建工程及高新技术企业申报等账务事项； 2. 资金与银行：办理存取款、报销、网银录入，以及银行融资与政府手续经办； 3. 应收与税务：审核订单、发货单与单价，处理货款查询、开票、账期，以及对外报表与税务事项。\n1.本科及以上学历，财务、会计等相关专业； 2.学习能力强，专业知识扎实，有实践经验者优先； 3.较强的沟通协调能力，良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，财务、会计等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339241564752170/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -679,7 +2041,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -692,10 +2054,66 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、负责执行公司新画面的开发，根据计划积极完成设计工作任务； 2、根据销售部反馈的产品流行趋势、客户要求，研发设计产品，以满足市场与客户要求； 3、负责与设计开发有关的新理念、新技术、新工艺、新材料等情报资料的收集、整理、归档。 员工福利： 上市公司平台，五星级公寓、免费班车、员工餐厅！ 节假日福利满满，年度体检，年度海外游！ 入职即有导师一对一带教辅导，股权激励助力您成为企业合伙人！",
+      "jobRequirements": "1、全日制统招本科及以上学历，有美术基础； 2、能够独立应用数位板完成电脑绘图、有自主研发设计思维，能够理解客户反馈需求、懂得分解产品。",
+      "JD": "1、负责执行公司新画面的开发，根据计划积极完成设计工作任务； 2、根据销售部反馈的产品流行趋势、客户要求，研发设计产品，以满足市场与客户要求； 3、负责与设计开发有关的新理念、新技术、新工艺、新材料等情报资料的收集、整理、归档。 员工福利： 上市公司平台，五星级公寓、免费班车、员工餐厅！ 节假日福利满满，年度体检，年度海外游！ 入职即有导师一对一带教辅导，股权激励助力您成为企业合伙人！\n1、全日制统招本科及以上学历，有美术基础； 2、能够独立应用数位板完成电脑绘图、有自主研发设计思维，能够理解客户反馈需求、懂得分解产品。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332813114886451/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -708,7 +2126,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -721,10 +2139,64 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。识别关键词：文案。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 创意设计：独立完成视觉、品牌、产业园展厅及包装等平面创作，精准传递品牌诉求； 2. 需求对接：联动各部门承接平面物料需求，落实集团设计方向； 3. 成本把控：依托行业经验在设计制作环节有效控制成本； 4. 品质与风格：驾驭多元设计风格，对创意、进度、品质与效率负责。",
+      "jobRequirements": "1、统招全日制本科及以上学历、视觉传达设计、平面设计、产品设计、手绘/插画/动画、媒体艺术设计等专业均可考虑； 2、精通PS、AI等制图软件，具有扎实的美术基础、丰富的视觉传达设计经验、较强的创意视觉表现力，责任感强； 3、较强的创意策划能力，思维敏捷理解力强擅于把握业务核心诉求，并具备一定的沟通能力； 4、对文案及策略有较强理解力，作品富有创意，色彩把握及整体构成有良好运用能力。",
+      "JD": "1. 创意设计：独立完成视觉、品牌、产业园展厅及包装等平面创作，精准传递品牌诉求； 2. 需求对接：联动各部门承接平面物料需求，落实集团设计方向； 3. 成本把控：依托行业经验在设计制作环节有效控制成本； 4. 品质与风格：驾驭多元设计风格，对创意、进度、品质与效率负责。\n1、统招全日制本科及以上学历、视觉传达设计、平面设计、产品设计、手绘/插画/动画、媒体艺术设计等专业均可考虑； 2、精通PS、AI等制图软件，具有扎实的美术基础、丰富的视觉传达设计经验、较强的创意视觉表现力，责任感强； 3、较强的创意策划能力，思维敏捷理解力强擅于把握业务核心诉求，并具备一定的沟通能力； 4、对文案及策略有较强理解力，作品富有创意，色彩把握及整体构成有良好运用能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332809948039433/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -737,11 +2209,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业",
         "hardRestriction": false
       },
       "language": {
@@ -750,10 +2222,69 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1.主动开发潜在客户，建立并维护长期稳定的合作关系，深入挖掘客户需求； 2.对所负责的区域市场进行调研与分析，制定并优化销售策略，推动业务持续增长； 3.按月完成公司下达的销售目标，并持续提升业绩水平； 4.及时收集并反馈客户意见，与工厂保持高效沟通与协作，保障客户满意度； 5.跟进回款进度，确保应收账款及时回收； 6.按公司安排参加产品及业务培训，不断提升专业能力与销售技巧。",
+      "jobRequirements": "1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业； 2.具备良好的沟通协调能力与学习能力，性格积极开朗； 3.抗压能力强，富有团队协作精神； 4.能适应出差工作安排。",
+      "JD": "1.主动开发潜在客户，建立并维护长期稳定的合作关系，深入挖掘客户需求； 2.对所负责的区域市场进行调研与分析，制定并优化销售策略，推动业务持续增长； 3.按月完成公司下达的销售目标，并持续提升业绩水平； 4.及时收集并反馈客户意见，与工厂保持高效沟通与协作，保障客户满意度； 5.跟进回款进度，确保应收账款及时回收； 6.按公司安排参加产品及业务培训，不断提升专业能力与销售技巧。\n1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业； 2.具备良好的沟通协调能力与学习能力，性格积极开朗； 3.抗压能力强，富有团队协作精神； 4.能适应出差工作安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332801844332838/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -766,11 +2297,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业",
         "hardRestriction": false
       },
       "language": {
@@ -779,10 +2310,69 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1.主动开发潜在客户，建立并维护长期稳定的合作关系，深入挖掘客户需求； 2.对所负责的区域塑料原料市场进行调研与分析，制定并优化销售策略，推动业务持续增长； 3.按月完成公司下达的销售目标，并持续提升业绩水平； 4.及时收集并反馈客户意见，与工厂保持高效沟通与协作，保障客户满意度； 5.跟进回款进度，确保应收账款及时回收； 6.按公司安排参加产品及业务培训，不断提升专业能力与销售技巧。",
+      "jobRequirements": "1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业； 2.具备良好的沟通协调能力与学习能力，性格积极开朗； 3.抗压能力强，富有团队协作精神； 4.能适应出差工作安排。",
+      "JD": "1.主动开发潜在客户，建立并维护长期稳定的合作关系，深入挖掘客户需求； 2.对所负责的区域塑料原料市场进行调研与分析，制定并优化销售策略，推动业务持续增长； 3.按月完成公司下达的销售目标，并持续提升业绩水平； 4.及时收集并反馈客户意见，与工厂保持高效沟通与协作，保障客户满意度； 5.跟进回款进度，确保应收账款及时回收； 6.按公司安排参加产品及业务培训，不断提升专业能力与销售技巧。\n1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业； 2.具备良好的沟通协调能力与学习能力，性格积极开朗； 3.抗压能力强，富有团队协作精神； 4.能适应出差工作安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332801798883635/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -795,11 +2385,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，专业不限",
         "hardRestriction": false
       },
       "language": {
@@ -808,10 +2398,69 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：营销类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 国内市场拓展：依托公司资源与自主渠道开发国内新客户，拓展目标市场； 2. 客户关系经营：深耕新老客户客情维护，做好来访接待与日常沟通跟进，搭建长期稳定的合作关系； 3. 订单全链跟进：严格执行公司业务流程，联动各业务部门高效协同，全程跟进订单落地； 4. 市场洞察分析：收集调研行业动态及客户诉求，为销售策略优化、产品迭代升级提供有效支撑； 5. 专业能力精进：积极参与公司产品知识、业务技能等专项培训，持续夯实专业能力，提升市场开拓与商务销售综合素养。",
+      "jobRequirements": "1. 本科及以上学历，专业不限； 2. 具备良好的沟通表达能力及逻辑思维能力； 3. 热爱销售工作，目标感与抗压能力强，具备良好的敬业精神与团队协作意识； 4. 能适应国内出差工作安排。",
+      "JD": "1. 国内市场拓展：依托公司资源与自主渠道开发国内新客户，拓展目标市场； 2. 客户关系经营：深耕新老客户客情维护，做好来访接待与日常沟通跟进，搭建长期稳定的合作关系； 3. 订单全链跟进：严格执行公司业务流程，联动各业务部门高效协同，全程跟进订单落地； 4. 市场洞察分析：收集调研行业动态及客户诉求，为销售策略优化、产品迭代升级提供有效支撑； 5. 专业能力精进：积极参与公司产品知识、业务技能等专项培训，持续夯实专业能力，提升市场开拓与商务销售综合素养。\n1. 本科及以上学历，专业不限； 2. 具备良好的沟通表达能力及逻辑思维能力； 3. 热爱销售工作，目标感与抗压能力强，具备良好的敬业精神与团队协作意识； 4. 能适应国内出差工作安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "客户",
+        "洞察",
+        "商务"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332801798048051/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -824,12 +2473,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.硕士及以上学历，化学工程与工艺、高分子材料等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -837,10 +2486,66 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 战略支撑：参与材料研发战略制定，为新材料新配方提供技术支持； 2. 配方研发：研究高分子材料及原料的研究与分析，提升性能与稳定性； 3. 改进创新：关注行业标准与技术动态，提出产品改进方案； 4. 应用验证：负责新材料在实际工作中的验证与性能测试，解决材料技术问题； 5. 数据与降本：编制完善材料工艺文件与技术数据，推动原材料降本与性能优化项目。",
+      "jobRequirements": "1.硕士及以上学历，化学工程与工艺、高分子材料等相关专业； 2.熟悉高分子材料合成与配方设计； 3.具备良好的数据分析与问题解决能力； 4.工作认真细致，责任心强，具备团队合作精神； 5.熟练使用办公软件及相关实验检测设备。",
+      "JD": "1. 战略支撑：参与材料研发战略制定，为新材料新配方提供技术支持； 2. 配方研发：研究高分子材料及原料的研究与分析，提升性能与稳定性； 3. 改进创新：关注行业标准与技术动态，提出产品改进方案； 4. 应用验证：负责新材料在实际工作中的验证与性能测试，解决材料技术问题； 5. 数据与降本：编制完善材料工艺文件与技术数据，推动原材料降本与性能优化项目。\n1.硕士及以上学历，化学工程与工艺、高分子材料等相关专业； 2.熟悉高分子材料合成与配方设计； 3.具备良好的数据分析与问题解决能力； 4.工作认真细致，责任心强，具备团队合作精神； 5.熟练使用办公软件及相关实验检测设备。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.硕士及以上学历，化学工程与工艺、高分子材料等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332793188141338/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -853,11 +2558,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，质量管理、化工、生物、材料等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -866,10 +2571,66 @@
         "minorLanguageRequired": false
       },
       "location": "清化市",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 体系搭建：学习质量体系标准，协助体系文件梳理、修订，维护程序文件、记录表单； 2. 内外审核：协助内部审核、客户审核、第三方审核的前期准备工作，整理审核资料，跟进不符合项整改闭环； 3. 体系合规监督：跟踪体系记录的合规性，检查各部门体系执行落地情况，收集整改资料，形成跟进台账； 4. 体系宣导培训：开展体系相关培训，宣导体系制度要求，完成体系资料整理、台账更新；",
+      "jobRequirements": "1. 本科及以上学历，质量管理、化工、生物、材料等相关专业优先； 2. 做事严谨细心，文档整理能力强，逻辑思维好，擅长资料梳理、台账维护； 3. 熟练使用 Office，具备较好书面表达，有较强原则性，沟通协调能力良好。",
+      "JD": "1. 体系搭建：学习质量体系标准，协助体系文件梳理、修订，维护程序文件、记录表单； 2. 内外审核：协助内部审核、客户审核、第三方审核的前期准备工作，整理审核资料，跟进不符合项整改闭环； 3. 体系合规监督：跟踪体系记录的合规性，检查各部门体系执行落地情况，收集整改资料，形成跟进台账； 4. 体系宣导培训：开展体系相关培训，宣导体系制度要求，完成体系资料整理、台账更新；\n1. 本科及以上学历，质量管理、化工、生物、材料等相关专业优先； 2. 做事严谨细心，文档整理能力强，逻辑思维好，擅长资料梳理、台账维护； 3. 熟练使用 Office，具备较好书面表达，有较强原则性，沟通协调能力良好。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，质量管理、化工、生物、材料等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7674179231094802742/detail",
-      "lastVerified": "2026-08-15",
+      "publishedAt": "2026-08-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -882,11 +2643,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，材料、化工、生物医学工程、质量管理、机械、高分子等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -895,10 +2656,69 @@
         "minorLanguageRequired": false
       },
       "location": "清化市",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 全流程品质管控：原物料、过程、出货全流程品质管控，学习检验标准、异常判定、抽样检测流程，产现场质量问题； 2. 质量数据：开展品质数据统计，整理不良报表，参与质量异常复盘，配合输出改善跟进记录，跟踪整改落地情况； 3. 现场对接：对接生产、工艺岗位，反馈现场质量缺陷，协助跟进纠正预防措施，参与内部质量培训、质量宣导工作； 4. 客诉处理：配合完成客户质量反馈处理，整理相关资料，协助完成内部品质专项改善项目；",
+      "jobRequirements": "1. 本科及以上学历，材料、化工、生物医学工程、质量管理、机械、高分子等相关专业优先； 2. 具备基础数据统计能力，会office基础操作，逻辑清晰，善于发现问题； 3. 沟通协作良好，做事严谨细致，有较强执行力。",
+      "JD": "1. 全流程品质管控：原物料、过程、出货全流程品质管控，学习检验标准、异常判定、抽样检测流程，产现场质量问题； 2. 质量数据：开展品质数据统计，整理不良报表，参与质量异常复盘，配合输出改善跟进记录，跟踪整改落地情况； 3. 现场对接：对接生产、工艺岗位，反馈现场质量缺陷，协助跟进纠正预防措施，参与内部质量培训、质量宣导工作； 4. 客诉处理：配合完成客户质量反馈处理，整理相关资料，协助完成内部品质专项改善项目；\n1. 本科及以上学历，材料、化工、生物医学工程、质量管理、机械、高分子等相关专业优先； 2. 具备基础数据统计能力，会office基础操作，逻辑清晰，善于发现问题； 3. 沟通协作良好，做事严谨细致，有较强执行力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，材料、化工、生物医学工程、质量管理、机械、高分子等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7674174798163380522/detail",
-      "lastVerified": "2026-08-15",
+      "publishedAt": "2026-08-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -911,11 +2731,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，不限专业，理工科专业优先考虑",
         "hardRestriction": false
       },
       "language": {
@@ -924,10 +2744,63 @@
         "minorLanguageRequired": false
       },
       "location": "清化市",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 现场管理：负责生产车间的规章制度建设与管理、生产现场、5S 、生产设备、生产安全管理等工作； 2. 生产人员统筹：协调生产部门的人员管理、团队排班及各项生产作业活动； 3. 生产进度管控：跟踪生产进度、产品订单需求、全流程生产工况、产值达成情况，保障按期保质完成生产目标； 4. 生产异常优化：实时监控生产运行状态，快速响应生产异常，追踪问题根源、分析原因并提出合理化改善建议； 5. 产效品质提升：参与制定生产效率提升、产品质量优化的专项改善计划，跟进方案落地执行与效果复盘改善；",
+      "jobRequirements": "1. 本科及以上学历，不限专业，理工科专业优先考虑； 2. 具备较强的吃苦耐劳精神和执行力； 3. 有较强的学习能力，抗压能力强，组织协调能力强，有责任心。",
+      "JD": "1. 现场管理：负责生产车间的规章制度建设与管理、生产现场、5S 、生产设备、生产安全管理等工作； 2. 生产人员统筹：协调生产部门的人员管理、团队排班及各项生产作业活动； 3. 生产进度管控：跟踪生产进度、产品订单需求、全流程生产工况、产值达成情况，保障按期保质完成生产目标； 4. 生产异常优化：实时监控生产运行状态，快速响应生产异常，追踪问题根源、分析原因并提出合理化改善建议； 5. 产效品质提升：参与制定生产效率提升、产品质量优化的专项改善计划，跟进方案落地执行与效果复盘改善；\n1. 本科及以上学历，不限专业，理工科专业优先考虑； 2. 具备较强的吃苦耐劳精神和执行力； 3. 有较强的学习能力，抗压能力强，组织协调能力强，有责任心。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，不限专业，理工科专业优先考虑"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7674171301204019482/detail",
-      "lastVerified": "2026-08-15",
+      "publishedAt": "2026-08-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -940,11 +2813,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，机械、自动化、电气、热能等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -953,10 +2826,61 @@
         "minorLanguageRequired": false
       },
       "location": "清化市",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 运行管控与安全规范：负责各类生产装备（含机械、电气、锅炉等）的日常运行管理，制定并完善安全操作规程，杜绝隐患、保障合规稳定； 2. 检修维护与故障处置：主导装备检修保养计划落地，处理设备故障，及时调整设备缺陷，减少停机影响； 3. 运维成本管理：统筹备件请购、月度检修及费用计划，统计临时施工费用，把控运维成本； 4. 培训与资料管理：开展运维技能培训、测评，整理运维台账、档案，确保资料可追溯。",
+      "jobRequirements": "1. 本科及以上学历，机械、自动化、电气、热能等相关专业优先； 2. 责任心强、细致严谨，具备良好的执行力和团队协作能力； 3. 熟练使用办公软件，熟悉CAD软件、三维造型软件（Inventor、solidworks）者优先。",
+      "JD": "1. 运行管控与安全规范：负责各类生产装备（含机械、电气、锅炉等）的日常运行管理，制定并完善安全操作规程，杜绝隐患、保障合规稳定； 2. 检修维护与故障处置：主导装备检修保养计划落地，处理设备故障，及时调整设备缺陷，减少停机影响； 3. 运维成本管理：统筹备件请购、月度检修及费用计划，统计临时施工费用，把控运维成本； 4. 培训与资料管理：开展运维技能培训、测评，整理运维台账、档案，确保资料可追溯。\n1. 本科及以上学历，机械、自动化、电气、热能等相关专业优先； 2. 责任心强、细致严谨，具备良好的执行力和团队协作能力； 3. 熟练使用办公软件，熟悉CAD软件、三维造型软件（Inventor、solidworks）者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，机械、自动化、电气、热能等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7674170561447004422/detail",
-      "lastVerified": "2026-08-15",
+      "publishedAt": "2026-08-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -973,7 +2897,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 211及以上学历，计算机科学与技术、软件工程、信息技术、数据科学、数学等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -982,10 +2906,67 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 算法设计：设计和实现高效的算法，解决现有系统存在的问题，提供解决方案； 2. 算法开发：设计和开发智能化的软件系统和工具，提高公司的信息化水平和竞争力；参与团队项目开发，保证代码质量和项目进度； 3. 需求挖掘：协助团队进行大规模数据挖掘和分析，提供关键洞察和解决方案。",
+      "jobRequirements": "1. 211及以上学历，计算机科学与技术、软件工程、信息技术、数据科学、数学等相关专业优先； 2. 熟悉至少一种主流开发语言（如Java、C#、Python等）； 3. 具备扎实的计算机科学基础和算法设计能力； 4. 有良好的逻辑思维能力和问题解决能力； 5. 要求有AI技术或工具相关实习或项目经验。",
+      "JD": "1. 算法设计：设计和实现高效的算法，解决现有系统存在的问题，提供解决方案； 2. 算法开发：设计和开发智能化的软件系统和工具，提高公司的信息化水平和竞争力；参与团队项目开发，保证代码质量和项目进度； 3. 需求挖掘：协助团队进行大规模数据挖掘和分析，提供关键洞察和解决方案。\n1. 211及以上学历，计算机科学与技术、软件工程、信息技术、数据科学、数学等相关专业优先； 2. 熟悉至少一种主流开发语言（如Java、C#、Python等）； 3. 具备扎实的计算机科学基础和算法设计能力； 4. 有良好的逻辑思维能力和问题解决能力； 5. 要求有AI技术或工具相关实习或项目经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 211及以上学历，计算机科学与技术、软件工程、信息技术、数据科学、数学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332829544483118/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1002,7 +2983,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1011,10 +2992,68 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。识别关键词：SQL。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. AI需求调研：分析现有业务中的技术难题，通过AI技术和工具解决和优化； 2. Agent开发：设计和开发智能化的软件系统和工具，提高公司的信息化水平和竞争力；参与团队项目开发，保证代码质量和项目进度； 3. 行业学习：积极参加技术交流和分享会议，不断提升个人和团队的技术能力。",
+      "jobRequirements": "1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先； 2. 具备数据处理能力，熟悉 SQL、Pandas、NumPy 等工具，能处理结构化 / 非结构化数据（如文本、图像、音频）； 3. 了解模型部署相关技术者优先； 4. 要求有AI技术或工具相关实习或项目经验。",
+      "JD": "1. AI需求调研：分析现有业务中的技术难题，通过AI技术和工具解决和优化； 2. Agent开发：设计和开发智能化的软件系统和工具，提高公司的信息化水平和竞争力；参与团队项目开发，保证代码质量和项目进度； 3. 行业学习：积极参加技术交流和分享会议，不断提升个人和团队的技术能力。\n1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先； 2. 具备数据处理能力，熟悉 SQL、Pandas、NumPy 等工具，能处理结构化 / 非结构化数据（如文本、图像、音频）； 3. 了解模型部署相关技术者优先； 4. 要求有AI技术或工具相关实习或项目经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332829543614766/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1027,12 +3066,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 本科及以上学历，计算机类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1040,10 +3079,67 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 设备管理：负责IT办公设备的维护，解决故障、管理台账、培训用户使用等； 2. 机房管理：负责IT机房数据中心设施的维护，检查机房环境、解决设备异常等； 3. 系统管理：负责网络系统、安全系统及服务器虚拟化的管理维护，确保功能可靠运行； 4. 项目推进：针对业务场景合理设计智能化方案，负责IT硬件、弱电项目的管理和推进； 5. 信息化落地支持：协助完成公司信息化项目的上线推广落地及后期技术支持。",
+      "jobRequirements": "1. 本科及以上学历，计算机类相关专业; 2. 具备IT硬件及网络维护的基础技能，有相关实习或项目经验者优先； 3. 有良好的团队协作意识，积极主动，坚韧抗压； 4. 对IT技术有浓厚兴趣，具备主动学习意识和较强的学习能力； 5. 具备华为、H3C或Cisco等网络认证者优先。",
+      "JD": "1. 设备管理：负责IT办公设备的维护，解决故障、管理台账、培训用户使用等； 2. 机房管理：负责IT机房数据中心设施的维护，检查机房环境、解决设备异常等； 3. 系统管理：负责网络系统、安全系统及服务器虚拟化的管理维护，确保功能可靠运行； 4. 项目推进：针对业务场景合理设计智能化方案，负责IT硬件、弱电项目的管理和推进； 5. 信息化落地支持：协助完成公司信息化项目的上线推广落地及后期技术支持。\n1. 本科及以上学历，计算机类相关专业; 2. 具备IT硬件及网络维护的基础技能，有相关实习或项目经验者优先； 3. 有良好的团队协作意识，积极主动，坚韧抗压； 4. 对IT技术有浓厚兴趣，具备主动学习意识和较强的学习能力； 5. 具备华为、H3C或Cisco等网络认证者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，计算机类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332827026491675/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1056,11 +3152,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，计算机、软件工程、人工智能、信息技术、数学等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1069,10 +3165,70 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。识别关键词：SQL。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 公司数字化系统开发 ①参与公司数字化系统（覆盖生产、销售、供应链、财务等业务场景）的需求分析、方案设计、开发测试及持续迭代； ②负责基于Java的业务模块、后台服务及系统接口开发，参与数据库设计、系统集成及核心业务逻辑实现。 2. 系统集成与业务协同 负责ERP、MES、TMS、CRM、OA等系统的数据打通与业务集成，理解真实业务流程，通过技术手段解决业务问题。 3. 系统优化与问题解决 持续优化代码结构、系统性能和运行稳定性，参与问题排查与修复，提升系统的可维护性和运行效率。 4. AI探索与应用 ①研发提效：积极使用ChatGPT、Claude、Codex、Cursor、GitHub Copilot等AI工具辅助需求分析、方案设计、开发测试、问题排查及技术文档编写，提高研发效率和质量； ②业务创新：参与大模型、AI Agent、RAG、知识库、智能分析等技术在业务场景中的落地应用，探索AI与现有系统的深度融合。 5. 技术成长与团队共建 积极参与代码评审、技术分享与方案讨论，保持对前沿技术（尤其是AI领域）的敏感度，与团队共同成长。",
+      "jobRequirements": "1. 本科及以上学历，计算机、软件工程、人工智能、信息技术、数学等相关专业优先； 2. 具备良好的计算机基础，熟悉至少一种主流开发语言（如Java、C#、Python等），具备良好的编码能力；了解数据库设计与基本SQL语句； 3. 逻辑思维清晰，学习能力强，面对陌生问题能主动学习分析并寻找解决方案；热爱技术，对新技术保持好奇心，具备良好的沟通能力和团队协作意识； 4. 有相关实习或项目经验者优先；对AI编程与应用开发有浓厚兴趣，主动使用过 ChatGPT、Claude、Codex、Cursor、GitHub Copilot等AI工具者优先；了解大模型API、Prompt、AI Agent、RAG、知识库等概念者优先。",
+      "JD": "1. 公司数字化系统开发 ①参与公司数字化系统（覆盖生产、销售、供应链、财务等业务场景）的需求分析、方案设计、开发测试及持续迭代； ②负责基于Java的业务模块、后台服务及系统接口开发，参与数据库设计、系统集成及核心业务逻辑实现。 2. 系统集成与业务协同 负责ERP、MES、TMS、CRM、OA等系统的数据打通与业务集成，理解真实业务流程，通过技术手段解决业务问题。 3. 系统优化与问题解决 持续优化代码结构、系统性能和运行稳定性，参与问题排查与修复，提升系统的可维护性和运行效率。 4. AI探索与应用 ①研发提效：积极使用ChatGPT、Claude、Codex、Cursor、GitHub Copilot等AI工具辅助需求分析、方案设计、开发测试、问题排查及技术文档编写，提高研发效率和质量； ②业务创新：参与大模型、AI Agent、RAG、知识库、智能分析等技术在业务场景中的落地应用，探索AI与现有系统的深度融合。 5. 技术成长与团队共建 积极参与代码评审、技术分享与方案讨论，保持对前沿技术（尤其是AI领域）的敏感度，与团队共同成长。\n1. 本科及以上学历，计算机、软件工程、人工智能、信息技术、数学等相关专业优先； 2. 具备良好的计算机基础，熟悉至少一种主流开发语言（如Java、C#、Python等），具备良好的编码能力；了解数据库设计与基本SQL语句； 3. 逻辑思维清晰，学习能力强，面对陌生问题能主动学习分析并寻找解决方案；热爱技术，对新技术保持好奇心，具备良好的沟通能力和团队协作意识； 4. 有相关实习或项目经验者优先；对AI编程与应用开发有浓厚兴趣，主动使用过 ChatGPT、Claude、Codex、Cursor、GitHub Copilot等AI工具者优先；了解大模型API、Prompt、AI Agent、RAG、知识库等概念者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，计算机、软件工程、人工智能、信息技术、数学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332824951326985/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1085,11 +3241,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历， 专业不限，熟练操作Office办公软件",
         "hardRestriction": false
       },
       "language": {
@@ -1098,10 +3254,63 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 负责公司行政事务及日常来访接待； 2. 管理公司固定资产，确保账物一致； 3. 负责办公用品的采购、发放及库存管理； 4. 协助策划与组织公司活动； 5. 完成上级交办的其他行政事务。",
+      "jobRequirements": "1. 本科及以上学历， 专业不限，熟练操作Office办公软件； 2. 熟悉日常行政工作，如会议、公文、建档、事务管理工作； 3. 良好沟通能力，能够独立处理、协调、开展工作； 4. 具有高度的责任感、团队合作及保密意识； 5. 具备良好的沟通协调能力及服务意识。",
+      "JD": "1. 负责公司行政事务及日常来访接待； 2. 管理公司固定资产，确保账物一致； 3. 负责办公用品的采购、发放及库存管理； 4. 协助策划与组织公司活动； 5. 完成上级交办的其他行政事务。\n1. 本科及以上学历， 专业不限，熟练操作Office办公软件； 2. 熟悉日常行政工作，如会议、公文、建档、事务管理工作； 3. 良好沟通能力，能够独立处理、协调、开展工作； 4. 具有高度的责任感、团队合作及保密意识； 5. 具备良好的沟通协调能力及服务意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历， 专业不限，熟练操作Office办公软件"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332820785793290/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1114,7 +3323,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -1127,10 +3336,59 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 作业优化：设计与优化作业方法，运用 ECRS（取消、合并、重排、简化）降低工时、提升效率； 2. 流程改善：对制造流程与工艺进行持续改善； 3. 标准化建设：规划生产车间可视化管理，制定标准作业指导书； 4. 布局与赋能：主导生产区域布局设计，定期开展 IE 基础知识培训。",
+      "jobRequirements": "1. 本科及以上学历，工业工程、精益生产等理工类相关专业； 2. 熟悉制造工艺路线及关键工艺参数控制方法； 3. 掌握方法研究与作业测定的基本技能，具备敬业精神、改善意识、创新能力、学习能力及良好的沟通能力。",
+      "JD": "1. 作业优化：设计与优化作业方法，运用 ECRS（取消、合并、重排、简化）降低工时、提升效率； 2. 流程改善：对制造流程与工艺进行持续改善； 3. 标准化建设：规划生产车间可视化管理，制定标准作业指导书； 4. 布局与赋能：主导生产区域布局设计，定期开展 IE 基础知识培训。\n1. 本科及以上学历，工业工程、精益生产等理工类相关专业； 2. 熟悉制造工艺路线及关键工艺参数控制方法； 3. 掌握方法研究与作业测定的基本技能，具备敬业精神、改善意识、创新能力、学习能力及良好的沟通能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332820765706547/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1143,12 +3401,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 案件处置：处理公司涉及的各类民商事法律事务，包括但不限于合同纠纷、劳动争议等，提供专业、务实且有针对性的法律解决方案；1. 本科及以上学历，法学等相关专业，通过国家统一法律职业资格考试",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1156,10 +3414,69 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 案件处置：处理公司涉及的各类民商事法律事务，包括但不限于合同纠纷、劳动争议等，提供专业、务实且有针对性的法律解决方案； 2. 合同管理：负责合同的起草、审核与修订，确保条款合法合规、内容严谨并最大限度保障公司利益，跟踪合同履行过程，及时处理违约及争议事项； 3. 法律咨询：响应公司内部日常法律咨询需求，为各业务部门提供准确、高效的法律意见与支持； 4. 法务赋能：持续跟踪民商法领域法律法规、司法政策及典型判例的更新与变化，定期组织内部培训，提升团队和业务部门法律风险识别与应对能力。",
+      "jobRequirements": "1. 本科及以上学历，法学等相关专业，通过国家统一法律职业资格考试； 2. 熟悉民商法相关法律法规，有一定的实务操作经验； 3. 具备良好的法律分析和写作能力，能够独立撰写法律文书； 4. 工作细致认真，责任心强，具备良好的抗压能力、沟通协调能力及团队协作意识，有良好的职业道德和保密意识。",
+      "JD": "1. 案件处置：处理公司涉及的各类民商事法律事务，包括但不限于合同纠纷、劳动争议等，提供专业、务实且有针对性的法律解决方案； 2. 合同管理：负责合同的起草、审核与修订，确保条款合法合规、内容严谨并最大限度保障公司利益，跟踪合同履行过程，及时处理违约及争议事项； 3. 法律咨询：响应公司内部日常法律咨询需求，为各业务部门提供准确、高效的法律意见与支持； 4. 法务赋能：持续跟踪民商法领域法律法规、司法政策及典型判例的更新与变化，定期组织内部培训，提升团队和业务部门法律风险识别与应对能力。\n1. 本科及以上学历，法学等相关专业，通过国家统一法律职业资格考试； 2. 熟悉民商法相关法律法规，有一定的实务操作经验； 3. 具备良好的法律分析和写作能力，能够独立撰写法律文书； 4. 工作细致认真，责任心强，具备良好的抗压能力、沟通协调能力及团队协作意识，有良好的职业道德和保密意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 案件处置：处理公司涉及的各类民商事法律事务，包括但不限于合同纠纷、劳动争议等，提供专业、务实且有针对性的法律解决方案",
+          "1. 本科及以上学历，法学等相关专业，通过国家统一法律职业资格考试"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同",
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332813135251750/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1172,7 +3489,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -1185,10 +3502,63 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：生产类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 安环制度搭建：建立、修订及落地公司安全生产、环境保护、职业健康管理制度与操作规程，规范车间安环标准化作业流程； 2. 现场安全管控：负责生产车间日常安全巡检、隐患排查建立隐患台账，跟踪整改闭环； 3. 环保运维合规：跟进工厂废水、废气、固废、噪声等环保设施日常运行管理，确保生产环保合规达标； 4. 安全培训宣导：协助开展新员工安全教育、日常安全宣导及安全文化活动，提升全员安全意识； 5. 应急管理处置：参与公司应急预案编制、应急演练组织与实施，处理生产现场突发安全、环保异常事件，做好事件记录、复盘与改善； 6. 合规检查对接：配合政府安监、环保部门检查、第三方审核工作，整理审核资料，落实不符合项整改，保障企业合规运营；",
+      "jobRequirements": "1. 本科及以上学历，安全工程、环境工程、环境科学等相关专业优先； 2. 做事原则性强、严谨细致、责任心高，具备较强风险识别能力、问题排查能力和执行力； 3. 沟通协调能力良好，敢于现场管理、监督纠偏。",
+      "JD": "1. 安环制度搭建：建立、修订及落地公司安全生产、环境保护、职业健康管理制度与操作规程，规范车间安环标准化作业流程； 2. 现场安全管控：负责生产车间日常安全巡检、隐患排查建立隐患台账，跟踪整改闭环； 3. 环保运维合规：跟进工厂废水、废气、固废、噪声等环保设施日常运行管理，确保生产环保合规达标； 4. 安全培训宣导：协助开展新员工安全教育、日常安全宣导及安全文化活动，提升全员安全意识； 5. 应急管理处置：参与公司应急预案编制、应急演练组织与实施，处理生产现场突发安全、环保异常事件，做好事件记录、复盘与改善； 6. 合规检查对接：配合政府安监、环保部门检查、第三方审核工作，整理审核资料，落实不符合项整改，保障企业合规运营；\n1. 本科及以上学历，安全工程、环境工程、环境科学等相关专业优先； 2. 做事原则性强、严谨细致、责任心高，具备较强风险识别能力、问题排查能力和执行力； 3. 沟通协调能力良好，敢于现场管理、监督纠偏。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332807413975347/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1201,11 +3571,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，机械、自动化、电气、流体力学、工程力学、热能等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1214,10 +3584,67 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 装备研发设计：核心推进自动化装备落地，参与生产装备研发与改进，涵盖机械结构、电控系统、流体/热工仿真等设计、验证与优化； 2. 仿真与优化：核心保障研发质量，开展振动、流场、温度场等仿真分析，基于结果优化设备、开发新结构； 3. 技术文件与调试：核心规范研发流程，编制设计图纸、技术文件，负责设备选型、调试及技术改造，解决研发与生产中的技术问题； 4. 技术引进应用：核心提升研发技术，引进推广新工艺新技术，推进工业机器人、机器视觉、AI等智能化技术开发； 5. 跨部门协同：核心推动研发落地，协同工艺、生产等部门，完成装备改进验证与研发升级。",
+      "jobRequirements": "1. 本科及以上学历，机械、自动化、电气、流体力学、工程力学、热能等相关专业优先； 2. 核心具备研发实操能力，熟练掌握CAD、三维建模软件，熟悉PLC控制、仿真软件（Fluent/ANSYS等）者优先； 3. 有非标自动化、仿真分析及工程落地经验，或在校参与相关研发项目者优先； 4. 责任心强、严谨细致，有创新意识、沟通能力及团队协作能力，抗压性强。",
+      "JD": "1. 装备研发设计：核心推进自动化装备落地，参与生产装备研发与改进，涵盖机械结构、电控系统、流体/热工仿真等设计、验证与优化； 2. 仿真与优化：核心保障研发质量，开展振动、流场、温度场等仿真分析，基于结果优化设备、开发新结构； 3. 技术文件与调试：核心规范研发流程，编制设计图纸、技术文件，负责设备选型、调试及技术改造，解决研发与生产中的技术问题； 4. 技术引进应用：核心提升研发技术，引进推广新工艺新技术，推进工业机器人、机器视觉、AI等智能化技术开发； 5. 跨部门协同：核心推动研发落地，协同工艺、生产等部门，完成装备改进验证与研发升级。\n1. 本科及以上学历，机械、自动化、电气、流体力学、工程力学、热能等相关专业优先； 2. 核心具备研发实操能力，熟练掌握CAD、三维建模软件，熟悉PLC控制、仿真软件（Fluent/ANSYS等）者优先； 3. 有非标自动化、仿真分析及工程落地经验，或在校参与相关研发项目者优先； 4. 责任心强、严谨细致，有创新意识、沟通能力及团队协作能力，抗压性强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，机械、自动化、电气、流体力学、工程力学、热能等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332796635040010/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1230,12 +3657,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.硕士及以上学历，机械工程、自动化、机电一体化等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1243,10 +3670,65 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 装备研发设计：参与公司生产装备研发和改进方案设计，提升生产效率和自动化水平； 2. 生产线优化：负责生产线机械结构、传动系统、自动化控制的设计和优化； 3. 新技术引进：研究和引进适用于公司产品项目的新型装备和工艺技术； 4. 技术文件编制：编制装备设计图纸、技术文件和使用维护手册； 5. 设备选型调试：参与设备选型、安装调试和技术改造，解决生产中的设备技术问题； 6. 跨部门验证：协同工艺、生产等部门进行装备改进验证； 7. 其他相关工作：完成上级交办的其他相关工作。",
+      "jobRequirements": "1.硕士及以上学历，机械工程、自动化、机电一体化等相关专业； 2.熟悉机械原理、自动化控制或生产装备设计，掌握CAD及三维建模软件； 3.具备良好的技术问题分析与解决能力； 4.责任心强，工作细致，有创新意识和团队精神； 5.具备手套生产装备相关经验者优先。",
+      "JD": "1. 装备研发设计：参与公司生产装备研发和改进方案设计，提升生产效率和自动化水平； 2. 生产线优化：负责生产线机械结构、传动系统、自动化控制的设计和优化； 3. 新技术引进：研究和引进适用于公司产品项目的新型装备和工艺技术； 4. 技术文件编制：编制装备设计图纸、技术文件和使用维护手册； 5. 设备选型调试：参与设备选型、安装调试和技术改造，解决生产中的设备技术问题； 6. 跨部门验证：协同工艺、生产等部门进行装备改进验证； 7. 其他相关工作：完成上级交办的其他相关工作。\n1.硕士及以上学历，机械工程、自动化、机电一体化等相关专业； 2.熟悉机械原理、自动化控制或生产装备设计，掌握CAD及三维建模软件； 3.具备良好的技术问题分析与解决能力； 4.责任心强，工作细致，有创新意识和团队精神； 5.具备手套生产装备相关经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.硕士及以上学历，机械工程、自动化、机电一体化等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332793212815643/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1259,11 +3741,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科及以上学历，机械设计制造及其自动化、机械工程、机电一体化等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1272,10 +3754,63 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 运行管理：负责设备运行与能源设备管理； 2. 维修维护：负责设备维修、维护及台账档案管理； 3. 技改提升：对设备缺陷及时技术改造或调整，保障良好运转； 4. 升级改造：对机械设备升级改造以提高机械效率； 5. 临时任务：完成上级交办的其他任务。",
+      "jobRequirements": "1、本科及以上学历，机械设计制造及其自动化、机械工程、机电一体化等相关专业优先； 2、有较强的独立设计思维和能力，熟悉机械原理，机械基础知识扎实； 3、熟悉能使用CAD软件，有三维造型软件如Inventor或solidworks等经验者优先； 4、认真负责，严谨细致，有良好的创新精神和团队精神。",
+      "JD": "1. 运行管理：负责设备运行与能源设备管理； 2. 维修维护：负责设备维修、维护及台账档案管理； 3. 技改提升：对设备缺陷及时技术改造或调整，保障良好运转； 4. 升级改造：对机械设备升级改造以提高机械效率； 5. 临时任务：完成上级交办的其他任务。\n1、本科及以上学历，机械设计制造及其自动化、机械工程、机电一体化等相关专业优先； 2、有较强的独立设计思维和能力，熟悉机械原理，机械基础知识扎实； 3、熟悉能使用CAD软件，有三维造型软件如Inventor或solidworks等经验者优先； 4、认真负责，严谨细致，有良好的创新精神和团队精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械设计制造及其自动化、机械工程、机电一体化等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332793187141914/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1288,11 +3823,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1301,10 +3836,61 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 设计调试：协助完成电气设备的设计、开发与调试； 2. 维护管理：参与制定并实施设备维护计划； 3. 技术攻关：协助解决生产中的电气技术问题，保障设备正常运行； 4. 文档与评估：参与撰写设备操作与维护手册，协助设备性能评估与改进。",
+      "jobRequirements": "1. 具备良好的职业道德与责任心，工作细致认真； 2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先； 3. 熟练使用相关办公软件。",
+      "JD": "1. 设计调试：协助完成电气设备的设计、开发与调试； 2. 维护管理：参与制定并实施设备维护计划； 3. 技术攻关：协助解决生产中的电气技术问题，保障设备正常运行； 4. 文档与评估：参与撰写设备操作与维护手册，协助设备性能评估与改进。\n1. 具备良好的职业道德与责任心，工作细致认真； 2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先； 3. 熟练使用相关办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332788087507210/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1317,12 +3903,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "2、本科及以上学历，自动化、电气、仪表、测控、机械等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1330,10 +3916,64 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 技术文件：协助编制审核自动化系统招投标技术文件与协议； 2. 现场管理：负责现场专业技术管理、质量监督、检查与验收； 3. 项目实施：参与自动化项目方案设计、供应商选择与实施； 4. 系统保障：保障 DCS、PLC、阀门、仪表等正常运行，及时处理异常； 5. 计划与数据：编制设备检修、技改计划并组织验收试运，收集运行数据支撑方案优化与项目发掘。",
+      "jobRequirements": "1、吃苦耐劳，工作认真细致，责任心强； 2、本科及以上学历，自动化、电气、仪表、测控、机械等相关专业 3、具有一定的组织、技术管理和协调能力，能及时协调解决运行中出现的问题； 4、熟练操作相关办公软件。",
+      "JD": "1. 技术文件：协助编制审核自动化系统招投标技术文件与协议； 2. 现场管理：负责现场专业技术管理、质量监督、检查与验收； 3. 项目实施：参与自动化项目方案设计、供应商选择与实施； 4. 系统保障：保障 DCS、PLC、阀门、仪表等正常运行，及时处理异常； 5. 计划与数据：编制设备检修、技改计划并组织验收试运，收集运行数据支撑方案优化与项目发掘。\n1、吃苦耐劳，工作认真细致，责任心强； 2、本科及以上学历，自动化、电气、仪表、测控、机械等相关专业 3、具有一定的组织、技术管理和协调能力，能及时协调解决运行中出现的问题； 4、熟练操作相关办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、本科及以上学历，自动化、电气、仪表、测控、机械等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332788086917386/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1346,12 +3986,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，化学、高分子材料化学等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1359,10 +3999,63 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 工艺研发：负责生产工艺研发与优化，提升效率与质量； 2. 文件与指导：编制优化工艺文件，传达工艺要求并指导一线，推动新品工艺量产； 3. 现场支持：深入现场技术指导，及时解决工艺问题； 4. 设备协同：参与生产设备选型与维护； 5. 跨部门协作：联动研发、生产、质量、设备解决技术难题，提升产品合格率； 6. 技术前瞻：跟踪新工艺新技术与行业趋势，提供创新思路。",
+      "jobRequirements": "1、本科及以上学历，化学、高分子材料化学等相关专业； 2、有制造业工艺技术员工作经验者优先； 3、具备良好的沟通能力和团队协作精神，具备较强的学习能力和自我驱动力； 4、具备良好的逻辑思维能力，熟练运用数据统计工具，具备数据统计和分析能力；",
+      "JD": "1. 工艺研发：负责生产工艺研发与优化，提升效率与质量； 2. 文件与指导：编制优化工艺文件，传达工艺要求并指导一线，推动新品工艺量产； 3. 现场支持：深入现场技术指导，及时解决工艺问题； 4. 设备协同：参与生产设备选型与维护； 5. 跨部门协作：联动研发、生产、质量、设备解决技术难题，提升产品合格率； 6. 技术前瞻：跟踪新工艺新技术与行业趋势，提供创新思路。\n1、本科及以上学历，化学、高分子材料化学等相关专业； 2、有制造业工艺技术员工作经验者优先； 3、具备良好的沟通能力和团队协作精神，具备较强的学习能力和自我驱动力； 4、具备良好的逻辑思维能力，熟练运用数据统计工具，具备数据统计和分析能力；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，化学、高分子材料化学等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332784002713902/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1375,11 +4068,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，会计学、财务管理、金融学、审计学等相关专业优先；2. 专业基础扎实，熟悉会计法规及最新会计准则，掌握企业财务管理相关专业知识与实操技能",
         "hardRestriction": false
       },
       "language": {
@@ -1388,10 +4081,67 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 核心模块实战：负责公司财务体系单个或多个核心模块工作，涵盖财务管理、财务分析、会计核算、成本管理、税务管理、资金管理、风险管理等； 2. 重点项目建设：深度参与财务流程优化、数字化升级、预算编制、经营分析等重点项目，跟进项目落地与流程迭代，持续优化财务工作体系； 3. 业财融合赋能：对接内外部合作部门，跟进业务财务数据，挖掘经营痛点、协调解决业务财务问题，助力业务提效与公司财务数字化转型。",
+      "jobRequirements": "1. 本科及以上学历，会计学、财务管理、金融学、审计学等相关专业优先； 2. 专业基础扎实，熟悉会计法规及最新会计准则，掌握企业财务管理相关专业知识与实操技能； 3. 逻辑思维清晰，对数据敏感，做事严谨细致、责任心与原则性强； 4. 较强的沟通协调能力，良好的团队合作精神； 5. 有财务相关岗位实习经验、有ACCA/CIA/税务师/CFA/CPA证书者优先。",
+      "JD": "1. 核心模块实战：负责公司财务体系单个或多个核心模块工作，涵盖财务管理、财务分析、会计核算、成本管理、税务管理、资金管理、风险管理等； 2. 重点项目建设：深度参与财务流程优化、数字化升级、预算编制、经营分析等重点项目，跟进项目落地与流程迭代，持续优化财务工作体系； 3. 业财融合赋能：对接内外部合作部门，跟进业务财务数据，挖掘经营痛点、协调解决业务财务问题，助力业务提效与公司财务数字化转型。\n1. 本科及以上学历，会计学、财务管理、金融学、审计学等相关专业优先； 2. 专业基础扎实，熟悉会计法规及最新会计准则，掌握企业财务管理相关专业知识与实操技能； 3. 逻辑思维清晰，对数据敏感，做事严谨细致、责任心与原则性强； 4. 较强的沟通协调能力，良好的团队合作精神； 5. 有财务相关岗位实习经验、有ACCA/CIA/税务师/CFA/CPA证书者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，会计学、财务管理、金融学、审计学等相关专业优先",
+          "2. 专业基础扎实，熟悉会计法规及最新会计准则，掌握企业财务管理相关专业知识与实操技能"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673331288674552127/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1404,11 +4154,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1417,10 +4167,68 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。识别关键词：SQL。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "\"1. 公司数字化系统实施：负责公司ERP、MES、APS、SRM、CRM、OA、HCM等系统的实施推广、管理维护、需求优化等工作； 2. 需求分析与方案落地：从业务部门视角出发，进行信息化需求挖掘、调研整理、方案设计、落地执行、实施推广等工作； 3. AI探索与应用：主动学习并运用AI工具辅助需求落地，并对业务部门进行AI工具培训，赋能团队提升工作效率； 4. 数字化转型：参与公司数字化转型项目，推进公司数字化转型； 5. 数据库使用/管理：负责公司数据库的管理、性能优化等工作；熟练运用SQL语句进行报表编写输出。\"",
+      "jobRequirements": "\"1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先； 2. 熟悉SQL/ORACLE/MYSQL数据库，掌握增删改查、存储过程、触发器、链接数据库、语句调优、备份及恢复、数据库效率问题的定位与解决； 3. 目标与结果导向，具备较强的沟通能力、问题分析能力、项目推动能力；工作细致耐心，具备良好的服务意识与团队合作精神；保持持续学习，对新技术和AI应用保持关注与热情； 4. 有相关制造业项目实施经验者优先；有AI Agent创建或使用AI工具落地业务需求的实际经验者优先。\"",
+      "JD": "\"1. 公司数字化系统实施：负责公司ERP、MES、APS、SRM、CRM、OA、HCM等系统的实施推广、管理维护、需求优化等工作； 2. 需求分析与方案落地：从业务部门视角出发，进行信息化需求挖掘、调研整理、方案设计、落地执行、实施推广等工作； 3. AI探索与应用：主动学习并运用AI工具辅助需求落地，并对业务部门进行AI工具培训，赋能团队提升工作效率； 4. 数字化转型：参与公司数字化转型项目，推进公司数字化转型； 5. 数据库使用/管理：负责公司数据库的管理、性能优化等工作；熟练运用SQL语句进行报表编写输出。\"\n\"1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先； 2. 熟悉SQL/ORACLE/MYSQL数据库，掌握增删改查、存储过程、触发器、链接数据库、语句调优、备份及恢复、数据库效率问题的定位与解决； 3. 目标与结果导向，具备较强的沟通能力、问题分析能力、项目推动能力；工作细致耐心，具备良好的服务意识与团队合作精神；保持持续学习，对新技术和AI应用保持关注与热情； 4. 有相关制造业项目实施经验者优先；有AI Agent创建或使用AI工具落地业务需求的实际经验者优先。\"",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673339612383103268/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1433,11 +4241,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1446,10 +4254,68 @@
         "minorLanguageRequired": false
       },
       "location": "淄博",
-      "JD": "英科医疗/英科再生官方校园招聘岗位；职类：职能类。识别关键词：SQL。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 公司数字化系统实施：负责公司ERP、MES、APS、SRM、CRM、OA、HCM等系统的实施推广、管理维护、需求优化等工作； 2. 需求分析与方案落地：从业务部门视角出发，进行信息化需求挖掘、调研整理、方案设计、落地执行、实施推广等工作； 3. AI探索与应用：主动学习并运用AI工具辅助需求落地，并对业务部门进行AI工具培训，赋能团队提升工作效率； 4. 数字化转型：参与公司数字化转型项目，推进公司数字化转型； 5. 数据库使用/管理：负责公司数据库的管理、性能优化等工作；熟练运用SQL语句进行报表编写输出。",
+      "jobRequirements": "1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先； 2. 熟悉SQL/ORACLE/MYSQL数据库，掌握增删改查、存储过程、触发器、链接数据库、语句调优、备份及恢复、数据库效率问题的定位与解决； 3. 目标与结果导向，具备较强的沟通能力、问题分析能力、项目推动能力；工作细致耐心，具备良好的服务意识与团队合作精神；保持持续学习，对新技术和AI应用保持关注与热情； 4. 有相关制造业项目实施经验者优先；有AI Agent创建或使用AI工具落地业务需求的实际经验者优先。",
+      "JD": "1. 公司数字化系统实施：负责公司ERP、MES、APS、SRM、CRM、OA、HCM等系统的实施推广、管理维护、需求优化等工作； 2. 需求分析与方案落地：从业务部门视角出发，进行信息化需求挖掘、调研整理、方案设计、落地执行、实施推广等工作； 3. AI探索与应用：主动学习并运用AI工具辅助需求落地，并对业务部门进行AI工具培训，赋能团队提升工作效率； 4. 数字化转型：参与公司数字化转型项目，推进公司数字化转型； 5. 数据库使用/管理：负责公司数据库的管理、性能优化等工作；熟练运用SQL语句进行报表编写输出。\n1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先； 2. 熟悉SQL/ORACLE/MYSQL数据库，掌握增删改查、存储过程、触发器、链接数据库、语句调优、备份及恢复、数据库效率问题的定位与解决； 3. 目标与结果导向，具备较强的沟通能力、问题分析能力、项目推动能力；工作细致耐心，具备良好的服务意识与团队合作精神；保持持续学习，对新技术和AI应用保持关注与热情； 4. 有相关制造业项目实施经验者优先；有AI Agent创建或使用AI工具落地业务需求的实际经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332824950212873/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

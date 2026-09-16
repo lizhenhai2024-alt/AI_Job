@@ -12,12 +12,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -25,10 +25,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 根据部门的整体销售目标，负责区域内的销售目标任务； 2. 负责跟进订单相关的业务，维护好客户关系，提升客户的满意度； 3. 拓展客户渠道，建立客户及合作伙伴生态，牵引推动业务； 4. 负责区域内市场信息的收集和竞争对手的分析，对市场动态的变化有敏锐的洞察力。",
+      "jobRequirements": "1.本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业； 2. 应届生或2年以上销售工作经验，有J业务或有相关资源优先考虑； 3. 具备良好的沟通技巧，工作严谨、敬业、责任心强，能承受一定的压力，具有团队合作精神和服务意识； 4. 有较强的市场分析判断能力和敏锐的观察力。",
+      "JD": "1. 根据部门的整体销售目标，负责区域内的销售目标任务； 2. 负责跟进订单相关的业务，维护好客户关系，提升客户的满意度； 3. 拓展客户渠道，建立客户及合作伙伴生态，牵引推动业务； 4. 负责区域内市场信息的收集和竞争对手的分析，对市场动态的变化有敏锐的洞察力。\n1.本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业； 2. 应届生或2年以上销售工作经验，有J业务或有相关资源优先考虑； 3. 具备良好的沟通技巧，工作严谨、敬业、责任心强，能承受一定的压力，具有团队合作精神和服务意识； 4. 有较强的市场分析判断能力和敏锐的观察力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 根据部门的整体销售目标，负责区域内的销售目标任务； 2. 负责跟进订单相关的"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：市场分析。投"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=322b223e-5b19-4700-9d60-c59f44312f60",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,12 +97,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 本科及以上学历，大学英语四级或以上，计算机、通信、电子、自动化相关专业，具备扎实的C/C++编程基础，熟悉Linux内核态驱动开发",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -54,10 +110,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责IPC/STB/TV芯片视频编解码器驱动方案设计、实现和维护等； 2. 负责客户项目需求分析实现、问题分析定位处理等。",
+      "jobRequirements": "1. 本科及以上学历，大学英语四级或以上，计算机、通信、电子、自动化相关专业，具备扎实的C/C++编程基础，熟悉Linux内核态驱动开发； 2. 至少熟悉一种视频编解码码标准（H264、HEVC、VVC、AVS、AVS2）和一种图像编解码标准（MJPEG、JPEG、PNG）； 3. 具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。",
+      "JD": "1. 负责IPC/STB/TV芯片视频编解码器驱动方案设计、实现和维护等； 2. 负责客户项目需求分析实现、问题分析定位处理等。\n1. 本科及以上学历，大学英语四级或以上，计算机、通信、电子、自动化相关专业，具备扎实的C/C++编程基础，熟悉Linux内核态驱动开发； 2. 至少熟悉一种视频编解码码标准（H264、HEVC、VVC、AVS、AVS2）和一种图像编解码标准（MJPEG、JPEG、PNG）； 3. 具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，大学英语四级或以上，计算机、通信、电子、自动化相关专业，具备扎实的C/C++编程基础，熟悉Linux内核态驱动开发"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责IPC/STB/TV芯片视频编解码器驱动方案设计、实现和维护等； 2. "
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=6cdaf3a9-048f-44c4-961e-651a9afd1585",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,12 +182,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 电子/微电子/通信等相关专业本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -83,10 +195,63 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 完成SOC芯片DFT设计的架构制定、实现及验证(包括MBIST, Scan, Boundary Scan, JTAG, IP Test, STA等)； 2. 完成DFT pattern的生成、验证等； 3. 支持ATE工程师调试、解决芯片测试过程中的问题； 4. 研究SOC/IP先进的DFT设计架构和方法学，开发新的DFT流程。",
+      "jobRequirements": "1. 电子/微电子/通信等相关专业本科及以上学历； 2. 了解IC逻辑设计流程，具备扎实的可测性设计相关理论知识； 3. 有良好的英语阅读和书面沟通能力。",
+      "JD": "1. 完成SOC芯片DFT设计的架构制定、实现及验证(包括MBIST, Scan, Boundary Scan, JTAG, IP Test, STA等)； 2. 完成DFT pattern的生成、验证等； 3. 支持ATE工程师调试、解决芯片测试过程中的问题； 4. 研究SOC/IP先进的DFT设计架构和方法学，开发新的DFT流程。\n1. 电子/微电子/通信等相关专业本科及以上学历； 2. 了解IC逻辑设计流程，具备扎实的可测性设计相关理论知识； 3. 有良好的英语阅读和书面沟通能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 电子/微电子/通信等相关专业本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 完成SOC芯片DFT设计的架构制定、实现及验证(包括MBIST, Scan,"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=e3af0f07-8f83-42f2-b586-a3c994b8d4da",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -99,12 +264,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电子/微电子/通信等相关专业，硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -112,10 +277,63 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟树生成、静态时序分析、物理验证、电源网络分析和低功耗设计检查等； 2、解决设计中的时序/拥塞/电压降/电迁移等问题； 3、有机会接触多种不同的设计、参与顶层相关工作，比如全芯片的布局规划以及物理模块划分、Singoff工作等； 4、解决模块的时序/拥塞/电压降电迁移等问题； 5、研究先进工艺特点，开发新的物理设计流程。",
+      "jobRequirements": "1、电子/微电子/通信等相关专业，硕士及以上学历； 2、了解芯片设计实现流程； 3、熟悉集体管电路结构者优先，熟悉数字后端自动布局布线流程者优先，有物理设计相关经验者优先； 4、熟悉Cadence /Synopsys PR工具的使用者优先； 5、熟悉Verilog语言，熟悉Makefile/Tcl/Perl等脚本语言开发者优先； 6、有良好的英语阅读和书面沟通能力，具备认真细致、积极主动的工作态度和良好的团队合作能力。",
+      "JD": "1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟树生成、静态时序分析、物理验证、电源网络分析和低功耗设计检查等； 2、解决设计中的时序/拥塞/电压降/电迁移等问题； 3、有机会接触多种不同的设计、参与顶层相关工作，比如全芯片的布局规划以及物理模块划分、Singoff工作等； 4、解决模块的时序/拥塞/电压降电迁移等问题； 5、研究先进工艺特点，开发新的物理设计流程。\n1、电子/微电子/通信等相关专业，硕士及以上学历； 2、了解芯片设计实现流程； 3、熟悉集体管电路结构者优先，熟悉数字后端自动布局布线流程者优先，有物理设计相关经验者优先； 4、熟悉Cadence /Synopsys PR工具的使用者优先； 5、熟悉Verilog语言，熟悉Makefile/Tcl/Perl等脚本语言开发者优先； 6、有良好的英语阅读和书面沟通能力，具备认真细致、积极主动的工作态度和良好的团队合作能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电子/微电子/通信等相关专业，硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=1facb7c2-ca3b-4b06-8d8d-5eec0a9f1674",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,12 +346,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电子/微电子/通信等相关专业，硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -141,10 +359,63 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟树生成、静态时序分析、物理验证、电源网络分析和低功耗设计检查等； 2、解决设计中的时序/拥塞/电压降/电迁移等问题； 3、有机会接触多种不同的设计、参与顶层相关工作，比如全芯片的布局规划以及物理模块划分、Singoff工作等； 4、解决模块的时序/拥塞/电压降电迁移等问题； 5、研究先进工艺特点，开发新的物理设计流程。",
+      "jobRequirements": "1、电子/微电子/通信等相关专业，硕士及以上学历； 2、了解芯片设计实现流程； 3、熟悉集体管电路结构者优先，熟悉数字后端自动布局布线流程者优先，有物理设计相关经验者优先； 4、熟悉Cadence /Synopsys PR工具的使用者优先； 5、熟悉Verilog语言，熟悉Makefile/Tcl/Perl等脚本语言开发者优先； 6、有良好的英语阅读和书面沟通能力，具备认真细致、积极主动的工作态度和良好的团队合作能力。",
+      "JD": "1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟树生成、静态时序分析、物理验证、电源网络分析和低功耗设计检查等； 2、解决设计中的时序/拥塞/电压降/电迁移等问题； 3、有机会接触多种不同的设计、参与顶层相关工作，比如全芯片的布局规划以及物理模块划分、Singoff工作等； 4、解决模块的时序/拥塞/电压降电迁移等问题； 5、研究先进工艺特点，开发新的物理设计流程。\n1、电子/微电子/通信等相关专业，硕士及以上学历； 2、了解芯片设计实现流程； 3、熟悉集体管电路结构者优先，熟悉数字后端自动布局布线流程者优先，有物理设计相关经验者优先； 4、熟悉Cadence /Synopsys PR工具的使用者优先； 5、熟悉Verilog语言，熟悉Makefile/Tcl/Perl等脚本语言开发者优先； 6、有良好的英语阅读和书面沟通能力，具备认真细致、积极主动的工作态度和良好的团队合作能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电子/微电子/通信等相关专业，硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=871cb4bc-d070-4764-8219-8a891a34648e",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -157,12 +428,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.电子、计算机、通信等相关专业，大学本科及以上学历，有设计公司相关背景，或者晶圆厂可靠性相关背景",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -170,10 +441,67 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.项目可靠性测试方案制定和跟踪，保证产品各种可靠性指数满足新产品导入需求； 2.芯片可靠性实验HTOL/HAST/THB硬件制作、调试；芯片/板级可靠性实验后ATE回测，回测数据分析； 3.失效及竞品分析，能按时完成RMA各种失效分析。",
+      "jobRequirements": "1.电子、计算机、通信等相关专业，大学本科及以上学历，有设计公司相关背景，或者晶圆厂可靠性相关背景； 2.熟悉芯片可靠性验证流程，失效分析手段、ATE测试操作及数据分析等； 3.熟练使用数据分析软件及办公软件； 4.具备较强的责任心、亲和力、创新意识、服务意识和团队合作意识。",
+      "JD": "1.项目可靠性测试方案制定和跟踪，保证产品各种可靠性指数满足新产品导入需求； 2.芯片可靠性实验HTOL/HAST/THB硬件制作、调试；芯片/板级可靠性实验后ATE回测，回测数据分析； 3.失效及竞品分析，能按时完成RMA各种失效分析。\n1.电子、计算机、通信等相关专业，大学本科及以上学历，有设计公司相关背景，或者晶圆厂可靠性相关背景； 2.熟悉芯片可靠性验证流程，失效分析手段、ATE测试操作及数据分析等； 3.熟练使用数据分析软件及办公软件； 4.具备较强的责任心、亲和力、创新意识、服务意识和团队合作意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.电子、计算机、通信等相关专业，大学本科及以上学历，有设计公司相关背景，或者晶圆厂可靠性相关背景"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.项目可靠性测试方案制定和跟踪，保证产品各种可靠性指数满足新产品导入需求； 2."
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=0e33080a-c4dc-4590-8ce9-ad9eacf3bf0d",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -199,10 +527,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "现场宣讲前：提前几天张贴海报、发折页。 线上推广：在相关专业毕业生群里推广校招信息。 宣讲当天：发折页、搬运物料、收集简历，配合现场执行。",
+      "jobRequirements": "1、2027届校招相关专业毕业生。 2、积极主动配合、有责任心。",
+      "JD": "现场宣讲前：提前几天张贴海报、发折页。 线上推广：在相关专业毕业生群里推广校招信息。 宣讲当天：发折页、搬运物料、收集简历，配合现场执行。\n1、2027届校招相关专业毕业生。 2、积极主动配合、有责任心。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=983016ce-1417-4681-964d-777469df0cc3",
-      "lastVerified": "2026-09-11",
+      "publishedAt": "2026-09-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,12 +592,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -228,10 +605,63 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责 SoC/子系统级的验证用例撰写、调试与回归验证，覆盖功能验证、随机激励生成、断言检查等场景； 2.深入分析设计规格，制定验证策略和分解测试点，进行充分性验证，收集覆盖率，确保功能完备性与稳定性； 3.持续跟踪并解决仿真过程中的异常行为，定位 RTL 设计缺陷，协助设计工程师修复 bug，优化验证效率与仿真性能； 4.维护自动化验证流程（Makefile / Python 脚本），推动验证环境标准化与复用，提升团队整体交付质量。",
+      "jobRequirements": "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历； 2.熟练掌握 SystemVerilog 语言，深入理解面向对象编程（OOP）思想；熟悉 UVM 验证方法学，能够独立搭建 Testbench 核心组件； 3.具备较强的动手实践能力，有 UVM 验证项目经验者优先（IP 验证、课程设计、竞赛或实习经历）； 4.熟悉常用 EDA 仿真工具（VCS / Verdi / QuestaSim / Xcelium 至少一种），掌握 Linux 开发环境，了解 Shell / Makefile / Python 等脚本语言； 5.具备较强的学习能力和问题分析能力，工作严谨踏实，有良好的团队合作精神与沟通能力，执行力强。",
+      "JD": "1.负责 SoC/子系统级的验证用例撰写、调试与回归验证，覆盖功能验证、随机激励生成、断言检查等场景； 2.深入分析设计规格，制定验证策略和分解测试点，进行充分性验证，收集覆盖率，确保功能完备性与稳定性； 3.持续跟踪并解决仿真过程中的异常行为，定位 RTL 设计缺陷，协助设计工程师修复 bug，优化验证效率与仿真性能； 4.维护自动化验证流程（Makefile / Python 脚本），推动验证环境标准化与复用，提升团队整体交付质量。\n1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历； 2.熟练掌握 SystemVerilog 语言，深入理解面向对象编程（OOP）思想；熟悉 UVM 验证方法学，能够独立搭建 Testbench 核心组件； 3.具备较强的动手实践能力，有 UVM 验证项目经验者优先（IP 验证、课程设计、竞赛或实习经历）； 4.熟悉常用 EDA 仿真工具（VCS / Verdi / QuestaSim / Xcelium 至少一种），掌握 Linux 开发环境，了解 Shell / Makefile / Python 等脚本语言； 5.具备较强的学习能力和问题分析能力，工作严谨踏实，有良好的团队合作精神与沟通能力，执行力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责 SoC/子系统级的验证用例撰写、调试与回归验证，覆盖功能验证、随机激励生"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=afe1d9a5-9594-449c-9501-836c8e606591",
-      "lastVerified": "2026-09-08",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,12 +674,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 电子通信、微电子学与固体电子学相关专业，本科及以上",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -257,10 +687,61 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责MEM选型及生成、SUB/TOP 综合，形式验证和静态时序分析，跟进后端反馈时序问题维护SDC质量； 2. 和SOC/IP/DFT/PR等团队紧密合作，全芯片SDC集成，包括phy/io/dft等相关约束； 3. 芯片级timing eco以及timing signoff验收, 产生SDF并协助验证团队进行后仿工作； 4.维护syn/formal/sta相关流程,脚本自动化，检查各个阶段输出质量。",
+      "jobRequirements": "1. 电子通信、微电子学与固体电子学相关专业，本科及以上； 2. 精通Verilog语言，掌握综合流程和方法，全芯片综合策略； 3. 熟悉Shell/TCL/Perl程序； 4. 理解signoff相关设置及约束脚本实现； 5. 认同公司文化，能够自我激励，并具备团队合作精神； 6. 良好的口语及书面表达能力。",
+      "JD": "1. 负责MEM选型及生成、SUB/TOP 综合，形式验证和静态时序分析，跟进后端反馈时序问题维护SDC质量； 2. 和SOC/IP/DFT/PR等团队紧密合作，全芯片SDC集成，包括phy/io/dft等相关约束； 3. 芯片级timing eco以及timing signoff验收, 产生SDF并协助验证团队进行后仿工作； 4.维护syn/formal/sta相关流程,脚本自动化，检查各个阶段输出质量。\n1. 电子通信、微电子学与固体电子学相关专业，本科及以上； 2. 精通Verilog语言，掌握综合流程和方法，全芯片综合策略； 3. 熟悉Shell/TCL/Perl程序； 4. 理解signoff相关设置及约束脚本实现； 5. 认同公司文化，能够自我激励，并具备团队合作精神； 6. 良好的口语及书面表达能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 电子通信、微电子学与固体电子学相关专业，本科及以上"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责MEM选型及生成、SUB/TOP 综合，形式验证和静态时序分析，跟进后端"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=3df85cb0-1762-4afc-a38d-58cd7054e685",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -274,11 +755,11 @@
       "education": {
         "raw": "",
         "min": "",
-        "masterRequired": false
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 计算机、软件、电子等相关专业毕业生，硕士学历以上",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -286,10 +767,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责 AI 计算机视觉图像方向的核心算法研发与迭代，包括但不限于图像分类、目标检测、图像分割、图像生成及多模态视觉任务，持续提升算法在复杂场景下的 SOTA 表现。 2.负责前沿视觉大模型（如 ViT、Swin Transformer、DeiT 等）的预训练、微调及在端侧/云侧的落地应用，解决 Transformer 在实际业务中的精度与效率平衡问题。 3.负责深度学习模型的轻量化与部署优化，重点研究并落地 PTQ（训练后量化）算法，结合 QAT（量化感知训练）、剪枝等技术，在极小精度损失的前提下大幅降低模型推理延迟和内存/功耗占用。 4.与工程团队紧密配合，将算法模型高效部署至 NPU 硬件平台。",
+      "jobRequirements": "1. 计算机、软件、电子等相关专业毕业生，硕士学历以上； 2. 熟练掌握 Transformer 和 CNN 技术理论，有扎实的 pytorch 开发经验； 3. 有 3D GS、stereo/mono depth、SLAM 等相关科研和开发经验者优先； 4. 有高水平 AI 方向论文发表者优先； 5. 有 kaggle challenge 或同级别比赛名次获得者优先。",
+      "JD": "1.负责 AI 计算机视觉图像方向的核心算法研发与迭代，包括但不限于图像分类、目标检测、图像分割、图像生成及多模态视觉任务，持续提升算法在复杂场景下的 SOTA 表现。 2.负责前沿视觉大模型（如 ViT、Swin Transformer、DeiT 等）的预训练、微调及在端侧/云侧的落地应用，解决 Transformer 在实际业务中的精度与效率平衡问题。 3.负责深度学习模型的轻量化与部署优化，重点研究并落地 PTQ（训练后量化）算法，结合 QAT（量化感知训练）、剪枝等技术，在极小精度损失的前提下大幅降低模型推理延迟和内存/功耗占用。 4.与工程团队紧密配合，将算法模型高效部署至 NPU 硬件平台。\n1. 计算机、软件、电子等相关专业毕业生，硕士学历以上； 2. 熟练掌握 Transformer 和 CNN 技术理论，有扎实的 pytorch 开发经验； 3. 有 3D GS、stereo/mono depth、SLAM 等相关科研和开发经验者优先； 4. 有高水平 AI 方向论文发表者优先； 5. 有 kaggle challenge 或同级别比赛名次获得者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 计算机、软件、电子等相关专业毕业生，硕士学历以上"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.负责 AI 计算机视觉图像方向的核心算法研发与迭代，包括但不限于图像分类、目标"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=f8496681-aded-48cd-9a41-02807882697d",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -302,12 +836,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 计算机、电子、自动化、光学等相关专业，硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "法语",
@@ -315,10 +849,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责传统ISP、AIISP领域画质增强相关算法研发，包括但不限于图像2DNR/3DNR、超分、去雾、色彩还原、ToneMapping等算法模块 2. 负责AIISP算法模型训练、量化和端侧部署，提供有画质竞争力的端侧AIISP模块 3. 负责ISP算法Cmodel开发、与软件及芯片设计团队协同完成算法优化及部署落地 4. 负责算法文档、专利、论文等交付文档撰写",
+      "jobRequirements": "1. 计算机、电子、自动化、光学等相关专业，硕士及以上学历 2. 扎实的数字图像处理基础，熟悉常见图像降噪、锐化、对比度增强、颜色还原等领域算法原理 3. 具备良好的编程能力，熟练掌握C/Python/Matlab编程技能，熟悉Pytorch等深度学习框架 4. 有Low-Level图像增强/画质优化相关项目经验者优先 5. 认真负责，主动沟通意识强，对图像画质增强算法有浓厚兴趣",
+      "JD": "1. 负责传统ISP、AIISP领域画质增强相关算法研发，包括但不限于图像2DNR/3DNR、超分、去雾、色彩还原、ToneMapping等算法模块 2. 负责AIISP算法模型训练、量化和端侧部署，提供有画质竞争力的端侧AIISP模块 3. 负责ISP算法Cmodel开发、与软件及芯片设计团队协同完成算法优化及部署落地 4. 负责算法文档、专利、论文等交付文档撰写\n1. 计算机、电子、自动化、光学等相关专业，硕士及以上学历 2. 扎实的数字图像处理基础，熟悉常见图像降噪、锐化、对比度增强、颜色还原等领域算法原理 3. 具备良好的编程能力，熟练掌握C/Python/Matlab编程技能，熟悉Pytorch等深度学习框架 4. 有Low-Level图像增强/画质优化相关项目经验者优先 5. 认真负责，主动沟通意识强，对图像画质增强算法有浓厚兴趣",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 计算机、电子、自动化、光学等相关专业，硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1. 负责传统ISP、AIISP领域画质增强相关算法研发，包括但不限于图像2DNR"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=9af3da02-dd66-47b8-bb20-b79c787b1c2e",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -331,12 +920,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -344,10 +933,63 @@
         "minorLanguageRequired": false
       },
       "location": "杭州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责 SoC/子系统级的验证用例撰写、调试与回归验证，覆盖功能验证、随机激励生成、断言检查等场景； 2.深入分析设计规格，制定验证策略和分解测试点，进行充分性验证，收集覆盖率，确保功能完备性与稳定性； 3.持续跟踪并解决仿真过程中的异常行为，定位 RTL 设计缺陷，协助设计工程师修复 bug，优化验证效率与仿真性能； 4.维护自动化验证流程（Makefile / Python 脚本），推动验证环境标准化与复用，提升团队整体交付质量。",
+      "jobRequirements": "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历； 2.熟练掌握 SystemVerilog 语言，深入理解面向对象编程（OOP）思想；熟悉 UVM 验证方法学，能够独立搭建 Testbench 核心组件； 3.具备较强的动手实践能力，有 UVM 验证项目经验者优先（IP 验证、课程设计、竞赛或实习经历）； 4.熟悉常用 EDA 仿真工具（VCS / Verdi / QuestaSim / Xcelium 至少一种），掌握 Linux 开发环境，了解 Shell / Makefile / Python 等脚本语言； 5.具备较强的学习能力和问题分析能力，工作严谨踏实，有良好的团队合作精神与沟通能力，执行力强。",
+      "JD": "1.负责 SoC/子系统级的验证用例撰写、调试与回归验证，覆盖功能验证、随机激励生成、断言检查等场景； 2.深入分析设计规格，制定验证策略和分解测试点，进行充分性验证，收集覆盖率，确保功能完备性与稳定性； 3.持续跟踪并解决仿真过程中的异常行为，定位 RTL 设计缺陷，协助设计工程师修复 bug，优化验证效率与仿真性能； 4.维护自动化验证流程（Makefile / Python 脚本），推动验证环境标准化与复用，提升团队整体交付质量。\n1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历； 2.熟练掌握 SystemVerilog 语言，深入理解面向对象编程（OOP）思想；熟悉 UVM 验证方法学，能够独立搭建 Testbench 核心组件； 3.具备较强的动手实践能力，有 UVM 验证项目经验者优先（IP 验证、课程设计、竞赛或实习经历）； 4.熟悉常用 EDA 仿真工具（VCS / Verdi / QuestaSim / Xcelium 至少一种），掌握 Linux 开发环境，了解 Shell / Makefile / Python 等脚本语言； 5.具备较强的学习能力和问题分析能力，工作严谨踏实，有良好的团队合作精神与沟通能力，执行力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责 SoC/子系统级的验证用例撰写、调试与回归验证，覆盖功能验证、随机激励生"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=7748fb36-684a-4ff3-bf12-87c473d22099",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -360,12 +1002,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -373,10 +1015,61 @@
         "minorLanguageRequired": false
       },
       "location": "杭州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.根据设计需求，完成模块规格分解和设计文档撰写 2.完成RTL代码设计和验证相关工作。",
+      "jobRequirements": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业 2.System Verilog和UVM，有验证环境搭建经验者优先 3.熟悉Verilog和典型的数字电路设计，有DDR相关经验者优先 3.熟悉Perl或者Python者优先 4.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心",
+      "JD": "1.根据设计需求，完成模块规格分解和设计文档撰写 2.完成RTL代码设计和验证相关工作。\n1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业 2.System Verilog和UVM，有验证环境搭建经验者优先 3.熟悉Verilog和典型的数字电路设计，有DDR相关经验者优先 3.熟悉Perl或者Python者优先 4.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.根据设计需求，完成模块规格分解和设计文档撰写 2.完成RTL代码设计和验证相关"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=90d919dd-81b6-4568-8dc1-07e2992130d2",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -389,12 +1082,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -402,10 +1095,61 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.根据芯片规格、应用场景、验证需求等，结合FPGA资源情况，制定FPGA版本设计方案，包括时钟方案、mem替换、跨FPGA互联、模拟IP替换等。 2.使用verilog开发原型验证相关的数字模块，如跨FPGA互联方案、FPGA数字phy（替换模拟phy）等。 3.完成ASIC到FPGA原型平台的RTL代码移植和集成，包括编程、仿真、综合、布线、时序分析等，交付FPGA原型验证环境。 4.配合验证工程师完成FPGA版本的硬件调试，定位验证过程中存在功能、性能、时序等问题。",
+      "jobRequirements": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础； 2.有linux开发或芯片验证经验优先; 3.具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。",
+      "JD": "1.根据芯片规格、应用场景、验证需求等，结合FPGA资源情况，制定FPGA版本设计方案，包括时钟方案、mem替换、跨FPGA互联、模拟IP替换等。 2.使用verilog开发原型验证相关的数字模块，如跨FPGA互联方案、FPGA数字phy（替换模拟phy）等。 3.完成ASIC到FPGA原型平台的RTL代码移植和集成，包括编程、仿真、综合、布线、时序分析等，交付FPGA原型验证环境。 4.配合验证工程师完成FPGA版本的硬件调试，定位验证过程中存在功能、性能、时序等问题。\n1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础； 2.有linux开发或芯片验证经验优先; 3.具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.根据芯片规格、应用场景、验证需求等，结合FPGA资源情况，制定FPGA版本设计"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=728d1994-960d-4ba4-baca-cb7bb3b2d6a6",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -418,12 +1162,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -431,10 +1175,61 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.根据芯片规格、设计方案、应用场景等，制定芯片验证策略和验证方案，分解测试点，设计测试用例。 2.基于FPGA验证平台，在linux下，使用C语言开发模块驱动，编写、调试、执行测试用例，定位验证过程中存在芯片和软件问题。 3.完成验证报告，并对芯片验证质量负责，确保无Bug遗留到样片。",
+      "jobRequirements": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础； 2.有linux开发或芯片验证经验优先; 3.具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。",
+      "JD": "1.根据芯片规格、设计方案、应用场景等，制定芯片验证策略和验证方案，分解测试点，设计测试用例。 2.基于FPGA验证平台，在linux下，使用C语言开发模块驱动，编写、调试、执行测试用例，定位验证过程中存在芯片和软件问题。 3.完成验证报告，并对芯片验证质量负责，确保无Bug遗留到样片。\n1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础； 2.有linux开发或芯片验证经验优先; 3.具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.根据芯片规格、设计方案、应用场景等，制定芯片验证策略和验证方案，分解测试点，设"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=7ed98e3d-2631-4f9c-b138-ecf0b1b8b5c1",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -447,12 +1242,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，集成电路、计算机、通信等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -460,10 +1255,61 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.承担AI编译器的开发工作，包括算子变换、算子融合、内存复用、指令并行优化等方面，以最大化利用NPU资源，降低总线访问延迟； 2.承担算子库的开发工作，编写多种高性能AI算子，隐藏内存访问，排布指令流水线； 3.承担硬件指令集的编译和开发，完成FPGA的验证工作。",
+      "jobRequirements": "1.本科及以上学历，集成电路、计算机、通信等相关专业； 2.熟悉AI相关知识，理解其硬件架构者优先； 3.熟悉C\\C++或者Python者优先； 4.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心。",
+      "JD": "1.承担AI编译器的开发工作，包括算子变换、算子融合、内存复用、指令并行优化等方面，以最大化利用NPU资源，降低总线访问延迟； 2.承担算子库的开发工作，编写多种高性能AI算子，隐藏内存访问，排布指令流水线； 3.承担硬件指令集的编译和开发，完成FPGA的验证工作。\n1.本科及以上学历，集成电路、计算机、通信等相关专业； 2.熟悉AI相关知识，理解其硬件架构者优先； 3.熟悉C\\C++或者Python者优先； 4.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，集成电路、计算机、通信等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.承担AI编译器的开发工作，包括算子变换、算子融合、内存复用、指令并行优化等方面"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=1f6e669e-f60c-467b-bedb-94d1e90b9f15",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -476,12 +1322,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、电子/微电子/通信等相关专业，硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -489,10 +1335,63 @@
         "minorLanguageRequired": false
       },
       "location": "成都",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟树生成、静态时序分析、物理验证、电源网络分析和低功耗设计检查等； 2、解决设计中的时序/拥塞/电压降/电迁移等问题； 3、有机会接触多种不同的设计、参与顶层相关工作，比如全芯片的布局规划以及物理模块划分、Singoff工作等； 4、解决模块的时序/拥塞/电压降电迁移等问题； 5、研究先进工艺特点，开发新的物理设计流程。",
+      "jobRequirements": "1、电子/微电子/通信等相关专业，硕士及以上学历； 2、了解芯片设计实现流程； 3、熟悉集体管电路结构者优先，熟悉数字后端自动布局布线流程者优先，有物理设计相关经验者优先； 4、熟悉Cadence /Synopsys PR工具的使用者优先； 5、熟悉Verilog语言，熟悉Makefile/Tcl/Perl等脚本语言开发者优先； 6、有良好的英语阅读和书面沟通能力，具备认真细致、积极主动的工作态度和良好的团队合作能力。",
+      "JD": "1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟树生成、静态时序分析、物理验证、电源网络分析和低功耗设计检查等； 2、解决设计中的时序/拥塞/电压降/电迁移等问题； 3、有机会接触多种不同的设计、参与顶层相关工作，比如全芯片的布局规划以及物理模块划分、Singoff工作等； 4、解决模块的时序/拥塞/电压降电迁移等问题； 5、研究先进工艺特点，开发新的物理设计流程。\n1、电子/微电子/通信等相关专业，硕士及以上学历； 2、了解芯片设计实现流程； 3、熟悉集体管电路结构者优先，熟悉数字后端自动布局布线流程者优先，有物理设计相关经验者优先； 4、熟悉Cadence /Synopsys PR工具的使用者优先； 5、熟悉Verilog语言，熟悉Makefile/Tcl/Perl等脚本语言开发者优先； 6、有良好的英语阅读和书面沟通能力，具备认真细致、积极主动的工作态度和良好的团队合作能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、电子/微电子/通信等相关专业，硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责从Netlist到GDSII的物理设计全流程，包括布局布线、电源规划、时钟"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=119d3162-b480-4f4a-a16e-932eee81c6a7",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -505,12 +1404,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 电磁场/微波/射频/模拟电路/通信类专业，本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -518,10 +1417,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 运用电磁场建模工具进行频域以及时域仿真分析，保障芯片设计的电性能满足要求 2. 为芯片和系统提供信号完整性/电源完整性/EMC解决方案 3. 有复杂SOC的SIPI设计经验（高速，大功耗，DDR5,LPDDR5,PCIE5以及chiplet接口协议等） 4. 配合项目组完成关键IP的选型，为IP性能把关 5. 为内部设计团队制定SIPI相关标准和交付流程",
+      "jobRequirements": "1. 电磁场/微波/射频/模拟电路/通信类专业，本科及以上学历; 2. 具备电磁算法理论知识； 3. 熟练使用SI/PI仿真工具的优先; 4. 熟悉VB等编程语言的优先。",
+      "JD": "1. 运用电磁场建模工具进行频域以及时域仿真分析，保障芯片设计的电性能满足要求 2. 为芯片和系统提供信号完整性/电源完整性/EMC解决方案 3. 有复杂SOC的SIPI设计经验（高速，大功耗，DDR5,LPDDR5,PCIE5以及chiplet接口协议等） 4. 配合项目组完成关键IP的选型，为IP性能把关 5. 为内部设计团队制定SIPI相关标准和交付流程\n1. 电磁场/微波/射频/模拟电路/通信类专业，本科及以上学历; 2. 具备电磁算法理论知识； 3. 熟练使用SI/PI仿真工具的优先; 4. 熟悉VB等编程语言的优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 电磁场/微波/射频/模拟电路/通信类专业，本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 运用电磁场建模工具进行频域以及时域仿真分析，保障芯片设计的电性能满足要求 2"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=afc11b25-ff78-4afe-8847-f1985bc2514d",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -534,12 +1486,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 电子通信、微电子学与固体电子学相关专业，本科及以上",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -547,10 +1499,61 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责MEM选型及生成、SUB/TOP 综合，形式验证和静态时序分析，跟进后端反馈时序问题维护SDC质量； 2. 和SOC/IP/DFT/PR等团队紧密合作，全芯片SDC集成，包括phy/io/dft等相关约束； 3. 芯片级timing eco以及timing signoff验收, 产生SDF并协助验证团队进行后仿工作； 4.维护syn/formal/sta相关流程,脚本自动化，检查各个阶段输出质量。",
+      "jobRequirements": "1. 电子通信、微电子学与固体电子学相关专业，本科及以上； 2. 精通Verilog语言，掌握综合流程和方法，全芯片综合策略； 3. 熟悉Shell/TCL/Perl程序； 4. 理解signoff相关设置及约束脚本实现； 5. 认同公司文化，能够自我激励，并具备团队合作精神； 6. 良好的口语及书面表达能力。",
+      "JD": "1. 负责MEM选型及生成、SUB/TOP 综合，形式验证和静态时序分析，跟进后端反馈时序问题维护SDC质量； 2. 和SOC/IP/DFT/PR等团队紧密合作，全芯片SDC集成，包括phy/io/dft等相关约束； 3. 芯片级timing eco以及timing signoff验收, 产生SDF并协助验证团队进行后仿工作； 4.维护syn/formal/sta相关流程,脚本自动化，检查各个阶段输出质量。\n1. 电子通信、微电子学与固体电子学相关专业，本科及以上； 2. 精通Verilog语言，掌握综合流程和方法，全芯片综合策略； 3. 熟悉Shell/TCL/Perl程序； 4. 理解signoff相关设置及约束脚本实现； 5. 认同公司文化，能够自我激励，并具备团队合作精神； 6. 良好的口语及书面表达能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 电子通信、微电子学与固体电子学相关专业，本科及以上"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责MEM选型及生成、SUB/TOP 综合，形式验证和静态时序分析，跟进后端"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=e3b8c31a-5507-4b29-a99b-28af690f38ad",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -563,12 +1566,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 微电子、半导体、电子工程、通信等专业本科以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -576,10 +1579,61 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 独立或者带队完成模拟IP版图工作； 2. 协助数字后端的TOP整合相关工作。",
+      "jobRequirements": "1. 微电子、半导体、电子工程、通信等专业本科以上学历； 2. 熟悉版图基础知识，对于寄生、噪声、隔离、匹配等基本概念有清楚认识； 3. 能根据需要修改calibre rule，有pcell、skill等脚本修改经验者优先； 4. 熟悉Virtuoso和Calibre；熟悉DRC，LVS，ANT、LPE等检查； 5. 熟练掌握模拟版图设计流程及注意事项；有数模混合的top经验者优先； 6. 了解ESD、Latchup及工艺原理；熟悉纳米级CMOS工艺者优先 7. 有LNA/PLL/ADC/DAC等模块或射频顶层版图经验者优先。",
+      "JD": "1. 独立或者带队完成模拟IP版图工作； 2. 协助数字后端的TOP整合相关工作。\n1. 微电子、半导体、电子工程、通信等专业本科以上学历； 2. 熟悉版图基础知识，对于寄生、噪声、隔离、匹配等基本概念有清楚认识； 3. 能根据需要修改calibre rule，有pcell、skill等脚本修改经验者优先； 4. 熟悉Virtuoso和Calibre；熟悉DRC，LVS，ANT、LPE等检查； 5. 熟练掌握模拟版图设计流程及注意事项；有数模混合的top经验者优先； 6. 了解ESD、Latchup及工艺原理；熟悉纳米级CMOS工艺者优先 7. 有LNA/PLL/ADC/DAC等模块或射频顶层版图经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 微电子、半导体、电子工程、通信等专业本科以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 独立或者带队完成模拟IP版图工作； 2. 协助数字后端的TOP整合相关工作。"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-20K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 20000,
+        "annualMin": 120000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–2万/月",
+        "annualDisplay": "12万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-20K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "10K-20K 元/月",
+      "monthlySalary": "1万–2万/月",
+      "annualSalary": "12万–24万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=0db10ed1-50b2-4daa-9295-a19f66f47adc",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -592,12 +1646,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -605,10 +1659,63 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIPI、ADC/DAC等模拟电路设计与仿真； 2. 独立完成或指导版图设计与验证,确保版图设计符合电路设计要求； 3. 配合测试工程师完成芯片测试验证工作； 4. 文档撰写、专利申请等。",
+      "jobRequirements": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历； 2. 熟悉PMU、PLL、ADC/DAC、MIPI、USB PHY、HDMI、Ethernet等其中任一电路设计，有实际项目经验者佳； 3. 熟练使用模拟IC相关EDA仿真工具； 4. 具有纳米CMOS工艺低功耗设计经验或对器件模型精通者优先考虑； 5. 熟悉接口IP的一致性测试； 6. 具备良好沟通能力和团队合作意识，文档编写能力。",
+      "JD": "1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIPI、ADC/DAC等模拟电路设计与仿真； 2. 独立完成或指导版图设计与验证,确保版图设计符合电路设计要求； 3. 配合测试工程师完成芯片测试验证工作； 4. 文档撰写、专利申请等。\n1. 微电子、半导体、电子工程、通信等专业硕士及以上学历； 2. 熟悉PMU、PLL、ADC/DAC、MIPI、USB PHY、HDMI、Ethernet等其中任一电路设计，有实际项目经验者佳； 3. 熟练使用模拟IC相关EDA仿真工具； 4. 具有纳米CMOS工艺低功耗设计经验或对器件模型精通者优先考虑； 5. 熟悉接口IP的一致性测试； 6. 具备良好沟通能力和团队合作意识，文档编写能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIP"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=059d5a2d-02d8-4051-b55a-0900ee52651e",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -634,10 +1741,61 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.设计DDR PHY中的高速模拟电路（如DDR I/O、PLL、DLL、均衡器EQ）； 2.优化接收端（RX）与发送端（TX）的SI/PI性能； 3.指导版图设计，确保匹配性（八边形法则）及抗ESD能力。",
+      "jobRequirements": "1.硕士学历，模拟IC设计方向，精通Cadence、Virtuoso/Spectre。 2.深入理解高速电路设计，有过DDR PHY项目经验者优先 3.沟通学习能力强，工作细致。",
+      "JD": "1.设计DDR PHY中的高速模拟电路（如DDR I/O、PLL、DLL、均衡器EQ）； 2.优化接收端（RX）与发送端（TX）的SI/PI性能； 3.指导版图设计，确保匹配性（八边形法则）及抗ESD能力。\n1.硕士学历，模拟IC设计方向，精通Cadence、Virtuoso/Spectre。 2.深入理解高速电路设计，有过DDR PHY项目经验者优先 3.沟通学习能力强，工作细致。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.设计DDR PHY中的高速模拟电路（如DDR I/O、PLL、DLL、均衡器E"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=5b4c971a-6ffd-4bea-bc59-47a8c84dd43b",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -663,10 +1821,59 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.搭建DDR PHY的UVM验证平台，开发测试用例覆盖协议特性（如Training、BIST）。 2.执行门级仿真（Gate-level Sim）及功耗感知验证（PAV）。 3.分析覆盖率（功能/代码），主导Debug跨时钟域问题。 4.支持硅后测试向量生成及失效分析。",
+      "jobRequirements": "1.硕士，数字IC设计方向；精通Verilog/SystemVerilog； 2.对DDR协议（JEDEC标准）及PHY架构（如DQ/DQS路径、ZQ校准）有一定了解者； 3.沟通学习能力强，工作细致。",
+      "JD": "1.搭建DDR PHY的UVM验证平台，开发测试用例覆盖协议特性（如Training、BIST）。 2.执行门级仿真（Gate-level Sim）及功耗感知验证（PAV）。 3.分析覆盖率（功能/代码），主导Debug跨时钟域问题。 4.支持硅后测试向量生成及失效分析。\n1.硕士，数字IC设计方向；精通Verilog/SystemVerilog； 2.对DDR协议（JEDEC标准）及PHY架构（如DQ/DQS路径、ZQ校准）有一定了解者； 3.沟通学习能力强，工作细致。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.搭建DDR PHY的UVM验证平台，开发测试用例覆盖协议特性（如Trainin"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=5ef78af9-23f2-4725-a18d-ee08ec43d66c",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -692,10 +1899,59 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责高速接口 IP数字部分RTL设计，如USB/MIPI/PCIE/HDMI等； 2.协同验证团队制定测试计划，支持FPGA原型验证及硅后调试； 3.编写技术文档（Design Spec、CDC报告等）。",
+      "jobRequirements": "1.硕士，数字IC设计方向，精通Verilog/SystemVerilog； 2.对高速接口协议及PHY架构有一定了解者； 3.沟通学习能力强，工作细致。",
+      "JD": "1.负责高速接口 IP数字部分RTL设计，如USB/MIPI/PCIE/HDMI等； 2.协同验证团队制定测试计划，支持FPGA原型验证及硅后调试； 3.编写技术文档（Design Spec、CDC报告等）。\n1.硕士，数字IC设计方向，精通Verilog/SystemVerilog； 2.对高速接口协议及PHY架构有一定了解者； 3.沟通学习能力强，工作细致。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责高速接口 IP数字部分RTL设计，如USB/MIPI/PCIE/HDMI等"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=bce08b6e-5f27-46ec-823c-240c2338da43",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -721,10 +1977,59 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责DDR PHY IP的RTL设计，包括的时序路径优化、时钟网络设计； 2.实现DDR物理层与控制器的接口集成，解决时序收敛问题； 3.协同验证团队制定测试计划，支持FPGA原型验证及硅后调试； 4.编写技术文档（Design Spec、CDC报告等）。",
+      "jobRequirements": "1.硕士，数字IC设计方向；精通Verilog/SystemVerilog； 2.对DDR协议（JEDEC标准）及PHY架构（如DQ/DQS路径、ZQ校准）有一定了解者； 3.沟通学习能力强，工作细致。",
+      "JD": "1.负责DDR PHY IP的RTL设计，包括的时序路径优化、时钟网络设计； 2.实现DDR物理层与控制器的接口集成，解决时序收敛问题； 3.协同验证团队制定测试计划，支持FPGA原型验证及硅后调试； 4.编写技术文档（Design Spec、CDC报告等）。\n1.硕士，数字IC设计方向；精通Verilog/SystemVerilog； 2.对DDR协议（JEDEC标准）及PHY架构（如DQ/DQS路径、ZQ校准）有一定了解者； 3.沟通学习能力强，工作细致。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责DDR PHY IP的RTL设计，包括的时序路径优化、时钟网络设计； 2."
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=51e6b817-e154-4780-8404-37fffa3b01b1",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -741,8 +2046,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.微电子、通信工程或电子信息工程专业硕士以及以上学历，英语4级及以上",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -750,10 +2055,63 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·青岛市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.完成前端设计的缺陷的定位和解决以及模块功能收敛； 2.所负责模块的VIP验证和定位； 3.配合后端完成所设计IP的Timing收敛。",
+      "jobRequirements": "1.微电子、通信工程或电子信息工程专业硕士以及以上学历，英语4级及以上； 2.较好的数字电路和Verilog HDL编程基础； 3.较强的逻辑思维和独立分析能力。",
+      "JD": "1.完成前端设计的缺陷的定位和解决以及模块功能收敛； 2.所负责模块的VIP验证和定位； 3.配合后端完成所设计IP的Timing收敛。\n1.微电子、通信工程或电子信息工程专业硕士以及以上学历，英语4级及以上； 2.较好的数字电路和Verilog HDL编程基础； 3.较强的逻辑思维和独立分析能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.微电子、通信工程或电子信息工程专业硕士以及以上学历，英语4级及以上"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.完成前端设计的缺陷的定位和解决以及模块功能收敛； 2.所负责模块的VIP验证和"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=6fdb748d-9a4f-44da-931c-fb81ccea4f65",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -766,12 +2124,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "4. 硕士及以上学历，计算机/电子信息/通信工程/软件工程类",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -779,10 +2137,67 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 测试（CP\\FT）方案制定：与研发一起制定测试Spec、TestFlow。 2. 测试相关硬件设计与制作：socket、Loadboard、Probecard等。 3. 测试程序开发： CP、FT等测试程序开发、调试。 4. correlation：工程阶段测试数据收集、分析，与研发进行交叉验证等工作。 5. 量产测试优化、维护：完善测试方法，提高测试覆盖率，提高测试效率，改进测试方案降低测试成本。",
+      "jobRequirements": "1. 理解数字、模拟、射频芯片测试理论，有射频项目开发经验者优先。 2. 熟悉C、C++、VB、Perl等编程语言。 3. 熟悉PCB设计及制造，有PCB高速信号设计经验的优先。 4. 硕士及以上学历，计算机/电子信息/通信工程/软件工程类。",
+      "JD": "1. 测试（CP\\FT）方案制定：与研发一起制定测试Spec、TestFlow。 2. 测试相关硬件设计与制作：socket、Loadboard、Probecard等。 3. 测试程序开发： CP、FT等测试程序开发、调试。 4. correlation：工程阶段测试数据收集、分析，与研发进行交叉验证等工作。 5. 量产测试优化、维护：完善测试方法，提高测试覆盖率，提高测试效率，改进测试方案降低测试成本。\n1. 理解数字、模拟、射频芯片测试理论，有射频项目开发经验者优先。 2. 熟悉C、C++、VB、Perl等编程语言。 3. 熟悉PCB设计及制造，有PCB高速信号设计经验的优先。 4. 硕士及以上学历，计算机/电子信息/通信工程/软件工程类。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "4. 硕士及以上学历，计算机/电子信息/通信工程/软件工程类"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 测试（CP\\FT）方案制定：与研发一起制定测试Spec、TestFlow。 "
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=dc28f97d-e6b3-4b60-b686-f038775da131",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -795,12 +2210,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -808,10 +2223,67 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责软件开发、部署、维护及测试； 2.负责硬件部署、维护及调试； 3.负责技术文档的编写； 4.根据开发进度和任务分配，完成相应模块开发、编程任务。",
+      "jobRequirements": "1. 本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业； 2. 应届生或2年以上有技术开发工作经验优先考虑； 3. 了解C#语言，有Windows Form应用程序开发经验； 4. 了解.Net Core、C、C++语言；SQL Server、MySql、SQLite数据库，能熟练应用SQL语法； 5. 了解QT5，有国产麒麟操作系统上视频监控类应用程序开发经验； 6 .具备团队合作精神，具备良好的文书编写能力。",
+      "JD": "1.负责软件开发、部署、维护及测试； 2.负责硬件部署、维护及调试； 3.负责技术文档的编写； 4.根据开发进度和任务分配，完成相应模块开发、编程任务。\n1. 本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业； 2. 应届生或2年以上有技术开发工作经验优先考虑； 3. 了解C#语言，有Windows Form应用程序开发经验； 4. 了解.Net Core、C、C++语言；SQL Server、MySql、SQLite数据库，能熟练应用SQL语法； 5. 了解QT5，有国产麒麟操作系统上视频监控类应用程序开发经验； 6 .具备团队合作精神，具备良好的文书编写能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责软件开发、部署、维护及测试； 2.负责硬件部署、维护及调试； 3.负责技术"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：SQL。投递"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=1cf427b6-2b0e-4dad-8cf4-340705c7266e",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -824,12 +2296,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.学历背景：计算机、通信、电气自动化、电子技术等相关专业，本科学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -837,10 +2309,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责原材料、生产过程样品和成品检验; 2.负责来料产品检验和检验过程问题的报告，并做好相关检验记录； 3.负责品质问题的改善的追溯和标识隔离； 4.负责产品质量信息，进行统计和分析质量问题； 5.负责测量仪器的维护保养和管控； 6.协助上级完成其他工作。",
+      "jobRequirements": "1.学历背景：计算机、通信、电气自动化、电子技术等相关专业，本科学历。 2. 工作经验：具有检验工作实习经验，有弱电行业经验的优先。 3.基本技能和素质 ①熟悉了解计算机或安防监控行业基础知识； ②动手能力强，且具有较强的服务意识和沟通能力； ③工作认真负责，在工作中出现的异常现象能认真检查，分析原因，提出解决措施，保证质量要求； ④熟悉使用万用表、示波器等电子测试仪器。 4.个性特征 ①性格温和，有耐心， 主动积极，乐观，乐于助人； ②忠诚守信，工作严谨、敬业、责任心强，具有团队合作精神。",
+      "JD": "1.负责原材料、生产过程样品和成品检验; 2.负责来料产品检验和检验过程问题的报告，并做好相关检验记录； 3.负责品质问题的改善的追溯和标识隔离； 4.负责产品质量信息，进行统计和分析质量问题； 5.负责测量仪器的维护保养和管控； 6.协助上级完成其他工作。\n1.学历背景：计算机、通信、电气自动化、电子技术等相关专业，本科学历。 2. 工作经验：具有检验工作实习经验，有弱电行业经验的优先。 3.基本技能和素质 ①熟悉了解计算机或安防监控行业基础知识； ②动手能力强，且具有较强的服务意识和沟通能力； ③工作认真负责，在工作中出现的异常现象能认真检查，分析原因，提出解决措施，保证质量要求； ④熟悉使用万用表、示波器等电子测试仪器。 4.个性特征 ①性格温和，有耐心， 主动积极，乐观，乐于助人； ②忠诚守信，工作严谨、敬业、责任心强，具有团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.学历背景：计算机、通信、电气自动化、电子技术等相关专业，本科学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责原材料、生产过程样品和成品检验; 2.负责来料产品检验和检验过程问题的报告"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=76a8a524-2a65-4f25-8d85-643f6b522788",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -857,8 +2382,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.计算机、通信、电子信息、通信工程、软件工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -866,10 +2391,66 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·济南市/青岛市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.承担AI工具链的开发工作，包括算子变换/算子融合/内存复用/指令并行优化等方面，以最大化利用NPU资源，降低总线访问延迟。 2.承担算子库的开发工作，编写多种高性能AI算子，隐藏内存访问，排布指令流水线。 3.承担硬件指令集的定义和设计，协助逻辑部门，完成ISA的原型设计和验证工作。",
+      "jobRequirements": "1.计算机、通信、电子信息、通信工程、软件工程等相关专业； 2.熟悉C/C++语言（任一），掌握一门脚本语言，理解数据结构、编译原理和操作系统相关知识； 3.对AI算法有了解，接触过Tensorflow、Pytorch等深度学习平台，从事过AI算法训练、部署等开发任务。 4.从事过CUDA、Vector相关编程工作会是加分项。 5.具备较强的动手实践能力，有参与过嵌入式项目者优先； 6.具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。善于沟通协作，执行力强；",
+      "JD": "1.承担AI工具链的开发工作，包括算子变换/算子融合/内存复用/指令并行优化等方面，以最大化利用NPU资源，降低总线访问延迟。 2.承担算子库的开发工作，编写多种高性能AI算子，隐藏内存访问，排布指令流水线。 3.承担硬件指令集的定义和设计，协助逻辑部门，完成ISA的原型设计和验证工作。\n1.计算机、通信、电子信息、通信工程、软件工程等相关专业； 2.熟悉C/C++语言（任一），掌握一门脚本语言，理解数据结构、编译原理和操作系统相关知识； 3.对AI算法有了解，接触过Tensorflow、Pytorch等深度学习平台，从事过AI算法训练、部署等开发任务。 4.从事过CUDA、Vector相关编程工作会是加分项。 5.具备较强的动手实践能力，有参与过嵌入式项目者优先； 6.具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。善于沟通协作，执行力强；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.计算机、通信、电子信息、通信工程、软件工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.承担AI工具链的开发工作，包括算子变换/算子融合/内存复用/指令并行优化等方面"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-15K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 15000,
+        "annualMin": 96000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.5万/月",
+        "annualDisplay": "9.6万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-15K 元/月",
+      "monthlySalary": "8k–1.5万/月",
+      "annualSalary": "9.6万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=e682c6e4-8953-4eb9-adac-09004d5390a7",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -882,12 +2463,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -895,10 +2476,61 @@
         "minorLanguageRequired": false
       },
       "location": "成都",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.独立负责NPU算法模块级验证工作 2.根据设计规格，制定验证计划及搭建验证环境 3.根据架构和设计文档的要求，提取验证特性 4.根据模块级验证出口标准进行验证交付",
+      "jobRequirements": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业 2.熟悉AI相关知识，理解其硬件架构者优先 3.熟悉System Verilog和UVM，有验证环境搭建经验者优先 4.熟悉Perl或者Python者优先 5.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心",
+      "JD": "1.独立负责NPU算法模块级验证工作 2.根据设计规格，制定验证计划及搭建验证环境 3.根据架构和设计文档的要求，提取验证特性 4.根据模块级验证出口标准进行验证交付\n1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业 2.熟悉AI相关知识，理解其硬件架构者优先 3.熟悉System Verilog和UVM，有验证环境搭建经验者优先 4.熟悉Perl或者Python者优先 5.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.独立负责NPU算法模块级验证工作 2.根据设计规格，制定验证计划及搭建验证环境"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=5effa4ee-54a1-4c1f-b7e0-bd19e21c51f0",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -911,12 +2543,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -924,10 +2556,61 @@
         "minorLanguageRequired": false
       },
       "location": "成都",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.独立负责ISP算法模块设计和UT验证工作 2.根据算法和集成要求提炼模块规格，制定开发计划 3.按照PPA要求输出详细设计方案，按照代码规范完成代码，按照模块级设计出口标准进行设计交付 4.输出验证方案，搭建UT验证环境，提取验证特性，按照模块级验证出口标准进行验证交付",
+      "jobRequirements": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业 2.熟悉ISP相关知识，熟悉视频图像处理基本通路 3.熟悉AXI、APB总线接口，对PPA有深入理解和实践者优先 4.熟悉System Verilog和UVM，有验证环境搭建经验者优先 5.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心",
+      "JD": "1.独立负责ISP算法模块设计和UT验证工作 2.根据算法和集成要求提炼模块规格，制定开发计划 3.按照PPA要求输出详细设计方案，按照代码规范完成代码，按照模块级设计出口标准进行设计交付 4.输出验证方案，搭建UT验证环境，提取验证特性，按照模块级验证出口标准进行验证交付\n1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业 2.熟悉ISP相关知识，熟悉视频图像处理基本通路 3.熟悉AXI、APB总线接口，对PPA有深入理解和实践者优先 4.熟悉System Verilog和UVM，有验证环境搭建经验者优先 5.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.独立负责ISP算法模块设计和UT验证工作 2.根据算法和集成要求提炼模块规格，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=4028487e-000f-4dd5-ba76-9a362aa6aea8",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -940,12 +2623,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息、自动化、电气工程及其自动化等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -953,10 +2636,67 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·青岛市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责display后处理相关驱动模块的开发，依据需求规格与硬件架构，完成设计文档编写与编码自测等， 主要包括视频输出（VO）、视频后处理子系统（VPPS）、AI前处理（AIPP）、图形显示（GFBG）、图像质量（PQ）等驱动模块，以及DRM显示驱动； 2.负责驱动模块的FPGA自测和回片冒烟测试，以及日常版本自测，确保软件质量； 3.负责display后处理相关的PQ软算法（如HDR、NR、ACM、DCI、SHARPEN、DEI、FMD等）集成与验证工作； 4.负责点屏工作（如MIPI-DSI、I8080、SPI、LVDS、BT、LCD等屏幕）； 5.负责display后处理相关驱动模块维护，及时解决客户问题。",
+      "jobRequirements": "1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息、自动化、电气工程及其自动化等相关专业; 2.具备扎实的C/C++编程功底，熟悉数据结构与算法，对操作系统原理及计算机体系结构有深入理解； 3.了解嵌入式驱动开发或 Linux/RTOS驱动开发，有相关项目经验者优先； 4.了解MIPI-DSI、I8080、SPI、LVDS、BT、LCD等媒体接口及其协议； 5.对视频处理算法熟悉，如HDR、NR、ACM、DCI、SHARPEN、DEI、FMD等; 3.了解display后处理图形和视频显示驱动开发或DRM显示适配等，有相关经验者优先; 4.了解主流系统（如Android、open harmony、Ubuntu等）的媒体架构者优先； 5.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心，对嵌入式驱动开发及对显示技术等有浓厚兴趣；",
+      "JD": "1.负责display后处理相关驱动模块的开发，依据需求规格与硬件架构，完成设计文档编写与编码自测等， 主要包括视频输出（VO）、视频后处理子系统（VPPS）、AI前处理（AIPP）、图形显示（GFBG）、图像质量（PQ）等驱动模块，以及DRM显示驱动； 2.负责驱动模块的FPGA自测和回片冒烟测试，以及日常版本自测，确保软件质量； 3.负责display后处理相关的PQ软算法（如HDR、NR、ACM、DCI、SHARPEN、DEI、FMD等）集成与验证工作； 4.负责点屏工作（如MIPI-DSI、I8080、SPI、LVDS、BT、LCD等屏幕）； 5.负责display后处理相关驱动模块维护，及时解决客户问题。\n1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息、自动化、电气工程及其自动化等相关专业; 2.具备扎实的C/C++编程功底，熟悉数据结构与算法，对操作系统原理及计算机体系结构有深入理解； 3.了解嵌入式驱动开发或 Linux/RTOS驱动开发，有相关项目经验者优先； 4.了解MIPI-DSI、I8080、SPI、LVDS、BT、LCD等媒体接口及其协议； 5.对视频处理算法熟悉，如HDR、NR、ACM、DCI、SHARPEN、DEI、FMD等; 3.了解display后处理图形和视频显示驱动开发或DRM显示适配等，有相关经验者优先; 4.了解主流系统（如Android、open harmony、Ubuntu等）的媒体架构者优先； 5.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心，对嵌入式驱动开发及对显示技术等有浓厚兴趣；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息、自动化、电气工程及其自动化等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.负责display后处理相关驱动模块的开发，依据需求规格与硬件架构，完成设计文"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-15K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 15000,
+        "annualMin": 96000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.5万/月",
+        "annualDisplay": "9.6万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-15K 元/月",
+      "monthlySalary": "8k–1.5万/月",
+      "annualSalary": "9.6万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=c3a5f13b-53bb-4d0a-bd64-4c42b6cb831c",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -969,12 +2709,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息等相关专业，应届毕业生",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -982,10 +2722,65 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·青岛市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责 HDMI、DisplayPort (DP)、MIPI 等高速显示接口的驱动软件开发与维护； 2.参与高速接口协议分析，根据芯片架构和设计规格完成驱动功能设计文档编写； 3.负责接口驱动代码的编码、调试与自测，配合硬件团队完成联调验证； 4.参与驱动在嵌入式系统/Linux/RTOS 等平台上的集成与适配； 5.协助解决高速接口信号完整性、时序及兼容性相关问题。",
+      "jobRequirements": "1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息等相关专业，应届毕业生； 2.了解 HDMI、DP、MIPI（DSI/CSI）、LVDS等高速接口协议之一者优先； 3.熟悉 C/C++ 编程语言，有嵌入式驱动开发或 Linux 内核驱动相关项目经验者优先； 4.了解数字电路与计算机体系结构，能阅读原理图及硬件设计文档者优先； 5.熟悉 Python、Shell 等脚本语言，有自动化测试或调试工具开发经验者优先； 6.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心，对显示与高速接口技术有浓厚兴趣。",
+      "JD": "1.负责 HDMI、DisplayPort (DP)、MIPI 等高速显示接口的驱动软件开发与维护； 2.参与高速接口协议分析，根据芯片架构和设计规格完成驱动功能设计文档编写； 3.负责接口驱动代码的编码、调试与自测，配合硬件团队完成联调验证； 4.参与驱动在嵌入式系统/Linux/RTOS 等平台上的集成与适配； 5.协助解决高速接口信号完整性、时序及兼容性相关问题。\n1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息等相关专业，应届毕业生； 2.了解 HDMI、DP、MIPI（DSI/CSI）、LVDS等高速接口协议之一者优先； 3.熟悉 C/C++ 编程语言，有嵌入式驱动开发或 Linux 内核驱动相关项目经验者优先； 4.了解数字电路与计算机体系结构，能阅读原理图及硬件设计文档者优先； 5.熟悉 Python、Shell 等脚本语言，有自动化测试或调试工具开发经验者优先； 6.具有良好的团队合作精神，能独立思考和解决问题，有责任心和上进心，对显示与高速接口技术有浓厚兴趣。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息等相关专业，应届毕业生"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责 HDMI、DisplayPort (DP)、MIPI 等高速显示接口的驱"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-15K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 15000,
+        "annualMin": 96000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.5万/月",
+        "annualDisplay": "9.6万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-15K 元/月",
+      "monthlySalary": "8k–1.5万/月",
+      "annualSalary": "9.6万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=7c951aac-f2c0-4176-b863-090fda5a3930",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -998,12 +2793,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.计算机科学、微电子、电子信息、自动化等相关专业，本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1011,10 +2806,66 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·青岛市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.图形硬件IP协同与验证：与芯片数字设计团队紧密对接，参与GPU、TDE/HWC等2D/3D图形加速硬件IP的架构定义，提供软件侧需求，并协同完成硬件功能与性能的验证。 2.多平台图形框架开发：负责Android、鸿蒙（OpenHarmony）、Linux等操作系统下的图形框架业务支持。深入参与Android（HWUI、SurfaceFlinger、Surface、Window等）、鸿蒙（图形子系统、HDF显示驱动框架等）及Linux（DRM/KMS、Wayland/X11等）的Framework及Native层定制化开发与性能优化。 3.底层驱动与SDK研发：负责图形设备驱动程序的开发、移植与调优，并参与图形SDK工具链的建设，为上层应用提供稳定高效的底层接口支持。 4.图形API协议栈实现：基于OpenGL ES、Vulkan、OpenCL等主流图形渲染与异步计算API协议，进行底层协议栈的开发、适配与渲染性能调优。 5.轻量级图形库开发与适配：负责Skia、LVGL、Qt、AWTK等轻量级图形库的开发、裁剪与跨平台适配，为嵌入式设备及多平台UI框架提供高效的底层图形渲染支持。 6.需求分析与技术攻关：承接并分析来自内外部客户的图形图像相关需求。",
+      "jobRequirements": "1.计算机科学、微电子、电子信息、自动化等相关专业，本科及以上学历。 2.具备扎实的C/C++编程功底，熟悉数据结构与算法，对操作系统原理及计算机体系结构有深入理解。 3.对计算机图形学有兴趣，了解图形渲染管线，了解OpenGL ES、Vulkan或OpenCL等至少一种图形/计算API规范。 4.了解Android、Linux或鸿蒙（OpenHarmony）系统架构，对底层驱动开发、Framework层（如SurfaceFlinger、HWUI等）有一定认知者优先。 5.有过轻量级图形库（lvgl,qt,awtk）开发或使用经验者优先。",
+      "JD": "1.图形硬件IP协同与验证：与芯片数字设计团队紧密对接，参与GPU、TDE/HWC等2D/3D图形加速硬件IP的架构定义，提供软件侧需求，并协同完成硬件功能与性能的验证。 2.多平台图形框架开发：负责Android、鸿蒙（OpenHarmony）、Linux等操作系统下的图形框架业务支持。深入参与Android（HWUI、SurfaceFlinger、Surface、Window等）、鸿蒙（图形子系统、HDF显示驱动框架等）及Linux（DRM/KMS、Wayland/X11等）的Framework及Native层定制化开发与性能优化。 3.底层驱动与SDK研发：负责图形设备驱动程序的开发、移植与调优，并参与图形SDK工具链的建设，为上层应用提供稳定高效的底层接口支持。 4.图形API协议栈实现：基于OpenGL ES、Vulkan、OpenCL等主流图形渲染与异步计算API协议，进行底层协议栈的开发、适配与渲染性能调优。 5.轻量级图形库开发与适配：负责Skia、LVGL、Qt、AWTK等轻量级图形库的开发、裁剪与跨平台适配，为嵌入式设备及多平台UI框架提供高效的底层图形渲染支持。 6.需求分析与技术攻关：承接并分析来自内外部客户的图形图像相关需求。\n1.计算机科学、微电子、电子信息、自动化等相关专业，本科及以上学历。 2.具备扎实的C/C++编程功底，熟悉数据结构与算法，对操作系统原理及计算机体系结构有深入理解。 3.对计算机图形学有兴趣，了解图形渲染管线，了解OpenGL ES、Vulkan或OpenCL等至少一种图形/计算API规范。 4.了解Android、Linux或鸿蒙（OpenHarmony）系统架构，对底层驱动开发、Framework层（如SurfaceFlinger、HWUI等）有一定认知者优先。 5.有过轻量级图形库（lvgl,qt,awtk）开发或使用经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.计算机科学、微电子、电子信息、自动化等相关专业，本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.图形硬件IP协同与验证：与芯片数字设计团队紧密对接，参与GPU、TDE/HWC"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-15K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 15000,
+        "annualMin": 96000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.5万/月",
+        "annualDisplay": "9.6万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-15K 元/月",
+      "monthlySalary": "8k–1.5万/月",
+      "annualSalary": "9.6万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=1feccb88-55cf-4d0d-b597-a2106cac54f3",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1040,10 +2891,63 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·青岛市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责SOC芯片音频子系统软件架构设计、开发维护，包括音频底层驱动、用户态SDK等； 2. 负责音频编解码、语音算法引擎开发维护，性能优化等； 3. 负责芯片回片后数字/模拟音频逻辑功能及指标验证； 4. 负责客户项目需求分析实现、问题定位解决。",
+      "jobRequirements": "1. 扎实掌握C语言，掌握linux驱动/应用开发能力； 3.了解嵌入式驱动开发或 Linux/RTOS驱动开发，有相关项目经验者优先； 4.了解常见音频编解码协议和语音算法基本原理； 5.具有良好的团队合作精神，能独立思考和解决问题，有责任心，对音频软件技术有浓厚兴趣。",
+      "JD": "1. 负责SOC芯片音频子系统软件架构设计、开发维护，包括音频底层驱动、用户态SDK等； 2. 负责音频编解码、语音算法引擎开发维护，性能优化等； 3. 负责芯片回片后数字/模拟音频逻辑功能及指标验证； 4. 负责客户项目需求分析实现、问题定位解决。\n1. 扎实掌握C语言，掌握linux驱动/应用开发能力； 3.了解嵌入式驱动开发或 Linux/RTOS驱动开发，有相关项目经验者优先； 4.了解常见音频编解码协议和语音算法基本原理； 5.具有良好的团队合作精神，能独立思考和解决问题，有责任心，对音频软件技术有浓厚兴趣。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1. 负责SOC芯片音频子系统软件架构设计、开发维护，包括音频底层驱动、用户态SD"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-15K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 15000,
+        "annualMin": 96000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.5万/月",
+        "annualDisplay": "9.6万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-15K 元/月",
+      "monthlySalary": "8k–1.5万/月",
+      "annualSalary": "9.6万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=f5bc24eb-76ce-4c2d-8630-71e7064e35ed",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1056,12 +2960,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1069,10 +2973,66 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·青岛市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责嵌入式系统相关功能及场景的中间件及应用开发、集成与验证，参与NPU方案集成，基于NPU驱动做上层推理方案设计与开发； 2.与团队充分合作，熟悉版本迭代开发流程，进行模块定义、设计和开发新功能； 3.参与模块方案设计、测试用例编写、评审等。",
+      "jobRequirements": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业； 2.了解Transformer、CNN、RNN等深度学习网络结构，熟悉Android NNAPI、TensorRT、ONNX Runtime等推理架构，有CV、语音模型推理实习经验优先； 3.熟悉常用CV模型（如yolo、resnet、unet、mobilenet等），了解模型精度与量化原理，了解常用流媒体数据排布格式（YUV、RGB）； 4.具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。",
+      "JD": "1.负责嵌入式系统相关功能及场景的中间件及应用开发、集成与验证，参与NPU方案集成，基于NPU驱动做上层推理方案设计与开发； 2.与团队充分合作，熟悉版本迭代开发流程，进行模块定义、设计和开发新功能； 3.参与模块方案设计、测试用例编写、评审等。\n1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业； 2.了解Transformer、CNN、RNN等深度学习网络结构，熟悉Android NNAPI、TensorRT、ONNX Runtime等推理架构，有CV、语音模型推理实习经验优先； 3.熟悉常用CV模型（如yolo、resnet、unet、mobilenet等），了解模型精度与量化原理，了解常用流媒体数据排布格式（YUV、RGB）； 4.具备较强的学习和问题分析能力，工作态度严谨踏实，有较强的责任心，有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.负责嵌入式系统相关功能及场景的中间件及应用开发、集成与验证，参与NPU方案集成"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-15K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 15000,
+        "annualMin": 96000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.5万/月",
+        "annualDisplay": "9.6万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-15K 元/月",
+      "monthlySalary": "8k–1.5万/月",
+      "annualSalary": "9.6万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=8e85ceae-3e96-4e6d-af75-b3f70479f9a8",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1085,12 +3045,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1098,10 +3058,63 @@
         "minorLanguageRequired": false
       },
       "location": "成都",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIPI、ADC/DAC等模拟电路设计与仿真； 2. 独立完成或指导版图设计与验证,确保版图设计符合电路设计要求； 3. 配合测试工程师完成芯片测试验证工作； 4. 文档撰写、专利申请等。",
+      "jobRequirements": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历； 2. 熟悉PMU、PLL、ADC/DAC、MIPI、USB PHY、HDMI、Ethernet等其中任一电路设计，有实际项目经验者佳； 3. 熟练使用模拟IC相关EDA仿真工具； 4. 具有纳米CMOS工艺低功耗设计经验或对器件模型精通者优先考虑； 5. 熟悉接口IP的一致性测试； 6. 具备良好沟通能力和团队合作意识，文档编写能力。",
+      "JD": "1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIPI、ADC/DAC等模拟电路设计与仿真； 2. 独立完成或指导版图设计与验证,确保版图设计符合电路设计要求； 3. 配合测试工程师完成芯片测试验证工作； 4. 文档撰写、专利申请等。\n1. 微电子、半导体、电子工程、通信等专业硕士及以上学历； 2. 熟悉PMU、PLL、ADC/DAC、MIPI、USB PHY、HDMI、Ethernet等其中任一电路设计，有实际项目经验者佳； 3. 熟练使用模拟IC相关EDA仿真工具； 4. 具有纳米CMOS工艺低功耗设计经验或对器件模型精通者优先考虑； 5. 熟悉接口IP的一致性测试； 6. 具备良好沟通能力和团队合作意识，文档编写能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIP"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=2156d65a-cc62-4f8c-b3f1-316947105c49",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1114,12 +3127,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -1127,10 +3140,63 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·青岛市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIPI、ADC/DAC等模拟电路设计与仿真； 2. 独立完成或指导版图设计与验证,确保版图设计符合电路设计要求； 3. 配合测试工程师完成芯片测试验证工作； 4. 文档撰写、专利申请等。",
+      "jobRequirements": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历； 2. 熟悉PMU、PLL、ADC/DAC、MIPI、USB PHY、HDMI、Ethernet等其中任一电路设计，有实际项目经验者佳； 3. 熟练使用模拟IC相关EDA仿真工具； 4. 具有纳米CMOS工艺低功耗设计经验或对器件模型精通者优先考虑； 5. 熟悉接口IP的一致性测试； 6. 具备良好沟通能力和团队合作意识，文档编写能力。",
+      "JD": "1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIPI、ADC/DAC等模拟电路设计与仿真； 2. 独立完成或指导版图设计与验证,确保版图设计符合电路设计要求； 3. 配合测试工程师完成芯片测试验证工作； 4. 文档撰写、专利申请等。\n1. 微电子、半导体、电子工程、通信等专业硕士及以上学历； 2. 熟悉PMU、PLL、ADC/DAC、MIPI、USB PHY、HDMI、Ethernet等其中任一电路设计，有实际项目经验者佳； 3. 熟练使用模拟IC相关EDA仿真工具； 4. 具有纳米CMOS工艺低功耗设计经验或对器件模型精通者优先考虑； 5. 熟悉接口IP的一致性测试； 6. 具备良好沟通能力和团队合作意识，文档编写能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责PMU、PLL、DCDC、LDO、Serdes、USB、HDMI、MIP"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://goke1.zhiye.com/campus/detail?jobAdId=7f789362-f6cb-4239-91a5-a594adbcab83",
-      "lastVerified": "2026-08-06",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

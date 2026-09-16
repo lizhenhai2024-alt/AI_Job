@@ -12,11 +12,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，新闻传播、公共关系、市场营销、英语、国际关系等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -25,10 +25,79 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；识别关键词：英语。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、参与公司海外品牌传播及公关项目的规划与执行，支持重点市场品牌影响力建设及传播目标达成； 2、协助开展海外媒体关系管理、传播资源拓展及日常沟通，支持公司重点业务和品牌项目传播； 3、参与新闻稿、媒体沟通材料、品牌内容及传播方案的策划与撰写，提升传播内容质量与影响力； 4、开展行业研究、市场洞察及传播效果分析，为品牌传播策略优化提供支持； 5、与市场、产品及区域团队协作，推动跨部门传播项目落地，并支持海外舆情监测及声誉管理相关工作。",
+      "jobRequirements": "1、2027届本科及以上学历，新闻传播、公共关系、市场营销、英语、国际关系等相关专业优先； 2、英语听说读写能力优秀，能够作为工作语言进行书面及日常沟通； 3、对海外市场、国际传播、品牌营销或科技行业有浓厚兴趣； 4、具备优秀的信息搜集、分析及内容撰写能力，逻辑清晰，表达准确； 5、具备良好的跨文化沟通能力和团队协作意识； 6、学习能力强，责任心强，能够适应多任务及快节奏工作环境； 7、有硬件科技公司、出海企业等相关实习经历者优先。",
+      "JD": "1、参与公司海外品牌传播及公关项目的规划与执行，支持重点市场品牌影响力建设及传播目标达成； 2、协助开展海外媒体关系管理、传播资源拓展及日常沟通，支持公司重点业务和品牌项目传播； 3、参与新闻稿、媒体沟通材料、品牌内容及传播方案的策划与撰写，提升传播内容质量与影响力； 4、开展行业研究、市场洞察及传播效果分析，为品牌传播策略优化提供支持； 5、与市场、产品及区域团队协作，推动跨部门传播项目落地，并支持海外舆情监测及声誉管理相关工作。\n1、2027届本科及以上学历，新闻传播、公共关系、市场营销、英语、国际关系等相关专业优先； 2、英语听说读写能力优秀，能够作为工作语言进行书面及日常沟通； 3、对海外市场、国际传播、品牌营销或科技行业有浓厚兴趣； 4、具备优秀的信息搜集、分析及内容撰写能力，逻辑清晰，表达准确； 5、具备良好的跨文化沟通能力和团队协作意识； 6、学习能力强，责任心强，能够适应多任务及快节奏工作环境； 7、有硬件科技公司、出海企业等相关实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，新闻传播、公共关系、市场营销、英语、国际关系等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "项目",
+        "市场",
+        "跨文化",
+        "营销",
+        "品牌",
+        "洞察"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7664506693116692774/detail",
-      "lastVerified": "2026-07-20",
+      "publishedAt": "2026-07-20",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -45,7 +114,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届及以后毕业的高校在校生，市场营销、新闻传播、中文等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -54,10 +123,72 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；识别关键词：文案。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、策划与执行校园招聘活动：参与宣讲会、招聘会等线下活动的全流程策划与执行； 2、负责活动全周期内容策划和宣发，擅长多种形式内容输出与制作； 3、负责雇主品牌新媒体账号的日常运营，完成内容发布、用户互动、数据监测，结合热点优化内容方向，提升账号传播力； 4、负责宣传物料的设计制作，运用 AIGC、设计软件，创造出优质内容或爆款视频。",
+      "jobRequirements": "1、2027届及以后毕业的高校在校生，市场营销、新闻传播、中文等相关专业优先； 2、网感突出，有优秀的文案创作与内容策划能力，有自媒体、公众号、小红书等平台运营经验者优先； 3、具备AIGC创作能力，熟练使用AI创作工具，会使用图片编辑软件和视频剪辑软件者优先； 4、细心耐心，逻辑清晰，具备优秀的数据统筹与成果展示能力，能独立完成数据整理与报告输出； 5、有校园活动宣传、内容创作、赛事运营相关经历者优先，投递请附上过往作品集（文案、设计、运营数据成果均可，作品集为核心评估项）。",
+      "JD": "1、策划与执行校园招聘活动：参与宣讲会、招聘会等线下活动的全流程策划与执行； 2、负责活动全周期内容策划和宣发，擅长多种形式内容输出与制作； 3、负责雇主品牌新媒体账号的日常运营，完成内容发布、用户互动、数据监测，结合热点优化内容方向，提升账号传播力； 4、负责宣传物料的设计制作，运用 AIGC、设计软件，创造出优质内容或爆款视频。\n1、2027届及以后毕业的高校在校生，市场营销、新闻传播、中文等相关专业优先； 2、网感突出，有优秀的文案创作与内容策划能力，有自媒体、公众号、小红书等平台运营经验者优先； 3、具备AIGC创作能力，熟练使用AI创作工具，会使用图片编辑软件和视频剪辑软件者优先； 4、细心耐心，逻辑清晰，具备优秀的数据统筹与成果展示能力，能独立完成数据整理与报告输出； 5、有校园活动宣传、内容创作、赛事运营相关经历者优先，投递请附上过往作品集（文案、设计、运营数据成果均可，作品集为核心评估项）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届及以后毕业的高校在校生，市场营销、新闻传播、中文等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7663789547784587583/detail",
-      "lastVerified": "2026-07-18",
+      "publishedAt": "2026-07-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,11 +201,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027 届本科及以上,计算机、数据、金融等专业优先,逻辑与系统思维扎实",
         "hardRestriction": false
       },
       "language": {
@@ -83,10 +214,74 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；识别关键词：SQL、电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "【岗位亮点】 影石 Insta360 的电商业务覆盖全球多区域/站点及主流平台，丰富且复杂的业务场景将为你提供充分的产品实践机会；你不只写 PRD，还能用 Claude Code / Codex 亲手把产品想法做成可交互原型，最低成本验证再落地——在真实业务里成长为能独立负责模块的产品经理。 1、深入电商一线运营的真实业务场景，围绕商品、库存、价格、促销、履约、对账及经营分析等核心环节，梳理业务流程与运行逻辑，识别重复、低效、易出错的关键环节，明确问题影响和潜在提效机会； 2、负责电商中台产品核心功能优化迭代，围绕库存运营、价格管理、商品管理等自动化业务需求，将业务问题转化为产品方案，输出结构清晰、可执行性强的PRD文档，参与从问题洞察、产品设计、PRD文档交付，原型验证到运用AI编程工具（Claude Code / Codex）开发上线迭代的完整过程； 3、设计电商业务上下游系统数据与中台系统打通 & 业务数据对Agent开放的管理机制； 4、协同电商运营，将运营经验/知识工程化并形成Skill，实现部分电商日常运营工作Agent化，促进一线运营人力释放以及运营效率和业务数据精度的提升。",
+      "jobRequirements": "1、2027 届本科及以上,计算机、数据、金融等专业优先,逻辑与系统思维扎实。 2、对电商业务有感觉，能把业务场景抽象成产品方案。 3、有产品 sense，能把复杂问题结构化；对交互体验有基本理解。 4、熟练 SQL / Python，理解 API、数据库等基础概念。 5、会用 Claude Code / Codex，有实际 AI 项目经历者优先。 6、学习快、沟通好、执行力强，有长期主义与创业心态。",
+      "JD": "【岗位亮点】 影石 Insta360 的电商业务覆盖全球多区域/站点及主流平台，丰富且复杂的业务场景将为你提供充分的产品实践机会；你不只写 PRD，还能用 Claude Code / Codex 亲手把产品想法做成可交互原型，最低成本验证再落地——在真实业务里成长为能独立负责模块的产品经理。 1、深入电商一线运营的真实业务场景，围绕商品、库存、价格、促销、履约、对账及经营分析等核心环节，梳理业务流程与运行逻辑，识别重复、低效、易出错的关键环节，明确问题影响和潜在提效机会； 2、负责电商中台产品核心功能优化迭代，围绕库存运营、价格管理、商品管理等自动化业务需求，将业务问题转化为产品方案，输出结构清晰、可执行性强的PRD文档，参与从问题洞察、产品设计、PRD文档交付，原型验证到运用AI编程工具（Claude Code / Codex）开发上线迭代的完整过程； 3、设计电商业务上下游系统数据与中台系统打通 & 业务数据对Agent开放的管理机制； 4、协同电商运营，将运营经验/知识工程化并形成Skill，实现部分电商日常运营工作Agent化，促进一线运营人力释放以及运营效率和业务数据精度的提升。\n1、2027 届本科及以上,计算机、数据、金融等专业优先,逻辑与系统思维扎实。 2、对电商业务有感觉，能把业务场景抽象成产品方案。 3、有产品 sense，能把复杂问题结构化；对交互体验有基本理解。 4、熟练 SQL / Python，理解 API、数据库等基础概念。 5、会用 Claude Code / Codex，有实际 AI 项目经历者优先。 6、学习快、沟通好、执行力强，有长期主义与创业心态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届本科及以上,计算机、数据、金融等专业优先,逻辑与系统思维扎实"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7684114646487927046/detail",
-      "lastVerified": "2026-09-11",
+      "publishedAt": "2026-09-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -99,7 +294,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -112,10 +307,72 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；识别关键词：电商。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "作为影石的包装结构创意设计师，希望你是能打破「包装即容器」传统认知的革新者——既有艺术家的大胆构想，能创造令人惊喜愉悦的开箱体验，又深谙电子快消品的货架思维与商业落地法则： 1. 你拥有将产品定位与用户场景，转化为可成型、可量产的结构语言的能力； 2. 在材料工艺与结构形式不断更新时，你能够第一时间主动捕捉、研究并转化为创意方案； 3. 你认同我们\"帮助人们更好地记录和分享生活\"的使命，并会把这份热爱藏进每一次开箱的第一秒。 你的日常工作将涵盖以下部分： 1. 你将开发功能性、保护性与美学兼备的创新型包装结构，为影石 Insta360 全球新品建立差异化的开箱体验； 2. 你将探索不同形式的包装结构与多感官体验相结合的创意方案——触感（肌理/温感材质）、嗅觉（微胶囊香氛技术）、听觉（开启声效设计），把一次开箱做成一段可被记住的过程； 3. 你将主导从结构概念、手工样、白样验证到量产打样的全过程，独立完成结构提案，并在成本、跌落防护、装配效率与视觉表现之间找到最优解； 4. 你将与工业设计、视觉设计、产品与供应链深度协同，推动结构方案在真实工艺条件下完整落地； 5. 你将持续追踪全球包装结构、材料工艺与可持续方向的前沿动态，结合品牌调性进行前瞻性结构研究，为产品体验注入持续创新的可能。",
+      "jobRequirements": "【必需项】 1. 国内外知名院校包装工程、包装设计相关专业，本科及以上学历，2027 届毕业生； 2. 我们希望你能提前实习，并在毕业后正式到岗（时间无法满足要求的同学请谨慎投递）； 3. 具备扎实的结构展开与刀模图能力，熟悉纸张、瓦楞、EPE/EVA、模具成型等常见材料工艺，能独立完成手工样制作； 4. 理解商业设计的目的和价值，关注营销设计与消费电子行业动态，具备货架与电商双场景的思考习惯； 5. 积极主动，拥有强大的沟通能力，善于在跨团队协作中清晰表达与推进创意； 6. 作品集能体现从结构概念到落地验证的完整思考，而非仅有效果图。 【加分项】 1. 熟悉硬件类产品或影像类产品，理解精密器材对防护与装配的特殊要求； 2. 有可持续包装、减材设计或降本结构优化的实践经验； 3. 掌握三维建模与结构模拟能力，或有 AI 工具辅助结构发散的实践； 4. 热爱户外运动，尤其是摩托车/自行车/生活旅拍/滑雪等领域，对垂直场景有深入理解和见解。 岗位亮点 1. 操盘全球旗舰新品：你的结构方案将随影石 Insta360 全球旗舰新品出海，被世界各地的用户亲手打开； 2. 站在业务最前沿：直接对接工业设计、产品与供应链核心团队，让你的创意从源头影响产品的呈现方式； 3. 从图纸到量产的完整闭环：你不止画结构——手工样、白样、打样、量产每一步你都在场，一年内即可积累完整的落地经验； 4. 敢做实验的创新预算：多感官技术、新材料、非常规结构，只要说得清价值，我们支持你先做出来再看； 5. 清晰的成长路径：完善的设计师成长体系，让每一步进阶都有明确的方向与支撑； 6. 坦诚扁平的团队：年轻、敢想敢为的团队氛围，扁平坦诚的沟通文化，好的想法永远有被看见和落地的机会。",
+      "JD": "作为影石的包装结构创意设计师，希望你是能打破「包装即容器」传统认知的革新者——既有艺术家的大胆构想，能创造令人惊喜愉悦的开箱体验，又深谙电子快消品的货架思维与商业落地法则： 1. 你拥有将产品定位与用户场景，转化为可成型、可量产的结构语言的能力； 2. 在材料工艺与结构形式不断更新时，你能够第一时间主动捕捉、研究并转化为创意方案； 3. 你认同我们\"帮助人们更好地记录和分享生活\"的使命，并会把这份热爱藏进每一次开箱的第一秒。 你的日常工作将涵盖以下部分： 1. 你将开发功能性、保护性与美学兼备的创新型包装结构，为影石 Insta360 全球新品建立差异化的开箱体验； 2. 你将探索不同形式的包装结构与多感官体验相结合的创意方案——触感（肌理/温感材质）、嗅觉（微胶囊香氛技术）、听觉（开启声效设计），把一次开箱做成一段可被记住的过程； 3. 你将主导从结构概念、手工样、白样验证到量产打样的全过程，独立完成结构提案，并在成本、跌落防护、装配效率与视觉表现之间找到最优解； 4. 你将与工业设计、视觉设计、产品与供应链深度协同，推动结构方案在真实工艺条件下完整落地； 5. 你将持续追踪全球包装结构、材料工艺与可持续方向的前沿动态，结合品牌调性进行前瞻性结构研究，为产品体验注入持续创新的可能。\n【必需项】 1. 国内外知名院校包装工程、包装设计相关专业，本科及以上学历，2027 届毕业生； 2. 我们希望你能提前实习，并在毕业后正式到岗（时间无法满足要求的同学请谨慎投递）； 3. 具备扎实的结构展开与刀模图能力，熟悉纸张、瓦楞、EPE/EVA、模具成型等常见材料工艺，能独立完成手工样制作； 4. 理解商业设计的目的和价值，关注营销设计与消费电子行业动态，具备货架与电商双场景的思考习惯； 5. 积极主动，拥有强大的沟通能力，善于在跨团队协作中清晰表达与推进创意； 6. 作品集能体现从结构概念到落地验证的完整思考，而非仅有效果图。 【加分项】 1. 熟悉硬件类产品或影像类产品，理解精密器材对防护与装配的特殊要求； 2. 有可持续包装、减材设计或降本结构优化的实践经验； 3. 掌握三维建模与结构模拟能力，或有 AI 工具辅助结构发散的实践； 4. 热爱户外运动，尤其是摩托车/自行车/生活旅拍/滑雪等领域，对垂直场景有深入理解和见解。 岗位亮点 1. 操盘全球旗舰新品：你的结构方案将随影石 Insta360 全球旗舰新品出海，被世界各地的用户亲手打开； 2. 站在业务最前沿：直接对接工业设计、产品与供应链核心团队，让你的创意从源头影响产品的呈现方式； 3. 从图纸到量产的完整闭环：你不止画结构——手工样、白样、打样、量产每一步你都在场，一年内即可积累完整的落地经验； 4. 敢做实验的创新预算：多感官技术、新材料、非常规结构，只要说得清价值，我们支持你先做出来再看； 5. 清晰的成长路径：完善的设计师成长体系，让每一步进阶都有明确的方向与支撑； 6. 坦诚扁平的团队：年轻、敢想敢为的团队氛围，扁平坦诚的沟通文化，好的想法永远有被看见和落地的机会。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "电商",
+        "用户",
+        "营销",
+        "品牌",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7681519388365572358/detail",
-      "lastVerified": "2026-09-04",
+      "publishedAt": "2026-09-04",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,7 +385,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -141,10 +398,69 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；识别关键词：数据分析。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "我们正在寻找一位兼具创新视野与数据思维的体验设计师，专注于提升新品发布全周期的用户体验。你将参与官网产品页、上市推文、包装等设计工作，助力打造具有行业竞争力的用户体验。 1、协助开展用户研究和数据分析工作，并完成产品体验方案的交付； 2、与跨部门团队紧密合作，推动体验设计方案的落地与执行； 3、持续关注全球体验设计趋势，结合前沿技术探索设计创新边界； 4、主动发现项目中的问题，优化交互设计流程，提升设计一致性与工作成效。",
+      "jobRequirements": "1、本科及以上学历，交互、体验设计相关专业，2027 届应届毕业生； 2、具备扎实的体验设计理论基础，对用户体验有深刻的理解和敏锐度； 3、能够熟练使用主流设计工具，对新兴设计趋势和工具保持关注与学习热情； 4、有完整项目经历或实习经验（实习经历不限行业），能展示体现独立思考与执行能力的交互设计作品； 5、具有优秀的沟通协作与抗压能力；具备长期与公司共同发展的意愿，持续进步。喜欢迎接创新，有好玩的生活概念。",
+      "JD": "我们正在寻找一位兼具创新视野与数据思维的体验设计师，专注于提升新品发布全周期的用户体验。你将参与官网产品页、上市推文、包装等设计工作，助力打造具有行业竞争力的用户体验。 1、协助开展用户研究和数据分析工作，并完成产品体验方案的交付； 2、与跨部门团队紧密合作，推动体验设计方案的落地与执行； 3、持续关注全球体验设计趋势，结合前沿技术探索设计创新边界； 4、主动发现项目中的问题，优化交互设计流程，提升设计一致性与工作成效。\n1、本科及以上学历，交互、体验设计相关专业，2027 届应届毕业生； 2、具备扎实的体验设计理论基础，对用户体验有深刻的理解和敏锐度； 3、能够熟练使用主流设计工具，对新兴设计趋势和工具保持关注与学习热情； 4、有完整项目经历或实习经验（实习经历不限行业），能展示体现独立思考与执行能力的交互设计作品； 5、具有优秀的沟通协作与抗压能力；具备长期与公司共同发展的意愿，持续进步。喜欢迎接创新，有好玩的生活概念。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7673503996564769060/detail",
-      "lastVerified": "2026-08-13",
+      "publishedAt": "2026-08-13",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -157,11 +473,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027 届毕业（本科及以上），专业不限，逻辑、数据与产品 sense 优先",
         "hardRestriction": false
       },
       "language": {
@@ -170,10 +486,70 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、需求洞察与方案设计：基于用户行为与业务数据，发现增长/体验/转化机会，输出可评审的 PRD、交互流程与规则定义； 2、平台能力建设：参与社区分享、积分券激励、资源位触达、商城下单等中台能力的设计，让运营可自助配置、业务可复用； 3、跨团队推进落地：与研发、测试、设计、算法、运营、业务等多方协作，把需求推进到上线，对结果负责； 4、数据驱动迭代：定义埋点与指标，跟踪转化漏斗与 AB 实验结果，持续优化； 5、快节奏交付：在双周版本列车的节奏下，完成需求拆解、排期对齐与版本交付。",
+      "jobRequirements": "1、2027 届毕业（本科及以上），专业不限，逻辑、数据与产品 sense 优先； 2、有产品/运营/数据相关实习、课程项目、竞赛或独立作品经历者优先； 3、数据敏感，具备基础数据分析能力（会 SQL / 数据看板 / AB 实验概念者加分）； 4、强用户同理心与体验审美，能把模糊问题拆成清晰、可落地的方案； 5、良好的文档与表达能力（会用 Figma/Axure 等出原型者加分）。",
+      "JD": "1、需求洞察与方案设计：基于用户行为与业务数据，发现增长/体验/转化机会，输出可评审的 PRD、交互流程与规则定义； 2、平台能力建设：参与社区分享、积分券激励、资源位触达、商城下单等中台能力的设计，让运营可自助配置、业务可复用； 3、跨团队推进落地：与研发、测试、设计、算法、运营、业务等多方协作，把需求推进到上线，对结果负责； 4、数据驱动迭代：定义埋点与指标，跟踪转化漏斗与 AB 实验结果，持续优化； 5、快节奏交付：在双周版本列车的节奏下，完成需求拆解、排期对齐与版本交付。\n1、2027 届毕业（本科及以上），专业不限，逻辑、数据与产品 sense 优先； 2、有产品/运营/数据相关实习、课程项目、竞赛或独立作品经历者优先； 3、数据敏感，具备基础数据分析能力（会 SQL / 数据看板 / AB 实验概念者加分）； 4、强用户同理心与体验审美，能把模糊问题拆成清晰、可落地的方案； 5、良好的文档与表达能力（会用 Figma/Axure 等出原型者加分）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届毕业（本科及以上），专业不限，逻辑、数据与产品 sense 优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7657120794551585087/detail",
-      "lastVerified": "2026-06-30",
+      "publishedAt": "2026-06-30",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -186,12 +562,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 学历专业：2027届全日制统招本科及以上学历，计算机、软件工程、信息管理等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -199,10 +575,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1. 系统运维与支持：协助财务电子档案、TMS、OA等业务系统的日常运维支持，学习并参与用户权限管理、问题咨询响应、基础数据处理及需求跟进等工作。 2. 需求分析与学习：在实际业务问题处理中学习业务需求调研与分析的方法，协助撰写业务需求报告，参与业务流程信息化方案设计。 3. 流程与项目参与：有机会参与财务、销售、供应链等业务部门的流程优化与系统支持项目，在实战中理解业务与系统如何结合。 4. 系统监控与问题协助：学习业务系统性能监控与异常处理流程，培养系统化问题排查思维。 5. 文档与培训实践：参与用户操作手册、系统知识库的编写与更新，辅助开展系统功能培训，提升表达与赋能能力。",
+      "jobRequirements": "1. 学历专业：2027届全日制统招本科及以上学历，计算机、软件工程、信息管理等相关专业。 2. 工具与技能：熟练使用Office办公软件，了解或愿意学习Visio、Xmind等工具，具备良好的逻辑思维与文档撰写意愿。 3. 核心素质：具备强烈的学习意愿和快速学习能力，乐于与人沟通，有服务意识、责任心和团队协作精神。 4. 加分项：在校期间有系统使用、需求分析、流程设计相关项目/实习经历者优先。 岗位亮点和吸引点： 接触和了解多种业务； 接触和学习多个平台系统运维技能。",
+      "JD": "1. 系统运维与支持：协助财务电子档案、TMS、OA等业务系统的日常运维支持，学习并参与用户权限管理、问题咨询响应、基础数据处理及需求跟进等工作。 2. 需求分析与学习：在实际业务问题处理中学习业务需求调研与分析的方法，协助撰写业务需求报告，参与业务流程信息化方案设计。 3. 流程与项目参与：有机会参与财务、销售、供应链等业务部门的流程优化与系统支持项目，在实战中理解业务与系统如何结合。 4. 系统监控与问题协助：学习业务系统性能监控与异常处理流程，培养系统化问题排查思维。 5. 文档与培训实践：参与用户操作手册、系统知识库的编写与更新，辅助开展系统功能培训，提升表达与赋能能力。\n1. 学历专业：2027届全日制统招本科及以上学历，计算机、软件工程、信息管理等相关专业。 2. 工具与技能：熟练使用Office办公软件，了解或愿意学习Visio、Xmind等工具，具备良好的逻辑思维与文档撰写意愿。 3. 核心素质：具备强烈的学习意愿和快速学习能力，乐于与人沟通，有服务意识、责任心和团队协作精神。 4. 加分项：在校期间有系统使用、需求分析、流程设计相关项目/实习经历者优先。 岗位亮点和吸引点： 接触和了解多种业务； 接触和学习多个平台系统运维技能。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 学历专业：2027届全日制统招本科及以上学历，计算机、软件工程、信息管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7664509710175553802/detail",
-      "lastVerified": "2026-07-20",
+      "publishedAt": "2026-07-20",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -219,8 +651,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届毕业生，计算机科学、软件工程或相关专业的本科或硕士学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -228,10 +660,64 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、参与移动应用（iOS/Android/ KMP）的设计、开发与维护，确保应用的高性能、高质量和稳定性； 2、在资深开发工程师的指导下，完成功能模块的编码、优化及相关开发任务； 3、配合UI/UX设计团队，实现界面美观、交互流畅，保障用户体验的一致性； 4、协助进行应用测试、Bug排查与修复，参与性能调优及持续改进工作； 5、主动学习和掌握移动端开发的新技术、新工具，不断提升开发效率和业务能力； 6、积极与团队成员沟通协作，参与技术讨论与代码评审，推动项目顺利交付。",
+      "jobRequirements": "1、27届毕业生，计算机科学、软件工程或相关专业的本科或硕士学历； 2、具备Java/Kotlin或Swift/Objective-C中至少一种开发语言的实践经历，有移动端项目经验者优先； 3、了解Android或iOS开发框架及相关工具（如Android Studio/Xcode），有跨平台开发经验（如Flutter/React Native）可作为加分项； 4、理解基本的设计模式和应用架构，具备一定的软件工程基础知识； 5、对移动应用开发有浓厚兴趣，乐于钻研新技术，具备较强的学习能力和主动性； 6、具有良好的逻辑思维能力、问题分析与解决能力； 7、具备团队合作意识，沟通顺畅，责任心强。",
+      "JD": "1、参与移动应用（iOS/Android/ KMP）的设计、开发与维护，确保应用的高性能、高质量和稳定性； 2、在资深开发工程师的指导下，完成功能模块的编码、优化及相关开发任务； 3、配合UI/UX设计团队，实现界面美观、交互流畅，保障用户体验的一致性； 4、协助进行应用测试、Bug排查与修复，参与性能调优及持续改进工作； 5、主动学习和掌握移动端开发的新技术、新工具，不断提升开发效率和业务能力； 6、积极与团队成员沟通协作，参与技术讨论与代码评审，推动项目顺利交付。\n1、27届毕业生，计算机科学、软件工程或相关专业的本科或硕士学历； 2、具备Java/Kotlin或Swift/Objective-C中至少一种开发语言的实践经历，有移动端项目经验者优先； 3、了解Android或iOS开发框架及相关工具（如Android Studio/Xcode），有跨平台开发经验（如Flutter/React Native）可作为加分项； 4、理解基本的设计模式和应用架构，具备一定的软件工程基础知识； 5、对移动应用开发有浓厚兴趣，乐于钻研新技术，具备较强的学习能力和主动性； 6、具有良好的逻辑思维能力、问题分析与解决能力； 7、具备团队合作意识，沟通顺畅，责任心强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届毕业生，计算机科学、软件工程或相关专业的本科或硕士学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7663454329102485786/detail",
-      "lastVerified": "2026-07-17",
+      "publishedAt": "2026-07-17",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,7 +730,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -257,10 +743,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "我们正在寻找一位具有创新思维与卓越审美的视觉设计师，专注于塑造公司新品发布的视觉表现。你将通过打造符合品牌调性并具有市场竞争力的视觉设计方案，助力公司新品在市场上脱颖而出。 岗位职责 1、通过独立的视觉创意设计，完成产品视觉方案的交付 2、与跨部门团队紧密合作，推动视觉设计方案的落地与执行 3、持续跟进全球设计趋势，结合 AIGC 技术推动设计创新 4、梳理并优化视觉设计规范，提升设计效率与一致性，确保高品质交付",
+      "jobRequirements": "1、本科及以上学历，视觉设计相关专业，2027 届应届毕业生 2、扎实的视觉设计理论基础，具备良好的审美能力和创意表达能力 3、能够熟练使用主流设计工具和软件，对新兴设计趋势和 AIGC 工具保持关注与学习热情 4、有完整项目经历或实习经验（实习经历不限行业），能展示独立完成的设计作品 5、具备长期与公司共同发展的意愿，持续进步。喜欢迎接创新，有好玩的生活概念。",
+      "JD": "我们正在寻找一位具有创新思维与卓越审美的视觉设计师，专注于塑造公司新品发布的视觉表现。你将通过打造符合品牌调性并具有市场竞争力的视觉设计方案，助力公司新品在市场上脱颖而出。 岗位职责 1、通过独立的视觉创意设计，完成产品视觉方案的交付 2、与跨部门团队紧密合作，推动视觉设计方案的落地与执行 3、持续跟进全球设计趋势，结合 AIGC 技术推动设计创新 4、梳理并优化视觉设计规范，提升设计效率与一致性，确保高品质交付\n1、本科及以上学历，视觉设计相关专业，2027 届应届毕业生 2、扎实的视觉设计理论基础，具备良好的审美能力和创意表达能力 3、能够熟练使用主流设计工具和软件，对新兴设计趋势和 AIGC 工具保持关注与学习热情 4、有完整项目经历或实习经验（实习经历不限行业），能展示独立完成的设计作品 5、具备长期与公司共同发展的意愿，持续进步。喜欢迎接创新，有好玩的生活概念。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7663428883978438931/detail",
-      "lastVerified": "2026-07-17",
+      "publishedAt": "2026-07-17",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -273,12 +814,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -286,10 +827,64 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、在大型系统级代码库上开发：系统服务、跨进程通信、硬件抽象层接口、采集管线、buffer 管理、多路流、硬件编解码等等； 2、跟驱动、算法团队协作，把算法接进系统管线，调到量产质量； 3、用系统级追踪工具定位真机上的性能和稳定性问题，提出解决方案并落地； 4、入职配导师，有现成的系统学习路线。",
+      "jobRequirements": "1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业； 2、操作系统、计算机组成、数据结构与算法基本功扎实； 3、熟练 C/C++，在 Linux 下真实写过、调过程序； 4、熟练或了解 Java/Kotlin； 5、对底层有兴趣：折腾过开发板、给开源项目提过 PR、写过驱动或小工具、研究过某个系统机制； 6、遇到不懂的黑盒会拆开看，不绕着走。 【加分项】（有一条就是亮点，都没有也可以投） 1、读过或改过 Linux 内核或其他大型开源系统的源码；了解 V4L2、相机框架、跨进程通信机制任意一个； 2、做过图像、音视频、图形相关项目（ISP / 编解码 / OpenGL / Vulkan）； 3、做过软硬件结合的项目：机器人、无人机、智能硬件比赛； 4、有技术博客、GitHub 作品或开源贡献。",
+      "JD": "1、在大型系统级代码库上开发：系统服务、跨进程通信、硬件抽象层接口、采集管线、buffer 管理、多路流、硬件编解码等等； 2、跟驱动、算法团队协作，把算法接进系统管线，调到量产质量； 3、用系统级追踪工具定位真机上的性能和稳定性问题，提出解决方案并落地； 4、入职配导师，有现成的系统学习路线。\n1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业； 2、操作系统、计算机组成、数据结构与算法基本功扎实； 3、熟练 C/C++，在 Linux 下真实写过、调过程序； 4、熟练或了解 Java/Kotlin； 5、对底层有兴趣：折腾过开发板、给开源项目提过 PR、写过驱动或小工具、研究过某个系统机制； 6、遇到不懂的黑盒会拆开看，不绕着走。 【加分项】（有一条就是亮点，都没有也可以投） 1、读过或改过 Linux 内核或其他大型开源系统的源码；了解 V4L2、相机框架、跨进程通信机制任意一个； 2、做过图像、音视频、图形相关项目（ISP / 编解码 / OpenGL / Vulkan）； 3、做过软硬件结合的项目：机器人、无人机、智能硬件比赛； 4、有技术博客、GitHub 作品或开源贡献。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7663403516372142342/detail",
-      "lastVerified": "2026-07-17",
+      "publishedAt": "2026-07-17",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -302,12 +897,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -315,10 +910,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "影石Insta360官方校园招聘岗位；投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "1、参与智能影像硬件的系统软件开发，覆盖从设备启动到影像采集的整条链路。 2、参与 Android 系统层开发，涉及系统服务、跨进程通信、硬件抽象层、系统应用等方向。 3、持续优化系统的启动速度、运行稳定性、性能与功耗表现。 4、与驱动、算法团队协作，把算法能力接入系统，调到量产可用的质量。 5、用系统级追踪工具在真机上定位性能与稳定性问题，提出方案并落地验证。 6、深度参与产品从原型验证到量产交付的完整研发周期。",
+      "jobRequirements": "1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业。 2、操作系统、计算机组成、数据结构与算法基本功扎实，理解进程管理、内存管理、并发编程等核心概念。 3、熟练 C/C++，在 Linux 下真实写过、调过程序。熟练或了解 Java/Kotlin。 4、能读英文技术文档和源码，对技术有好奇心有热情。 【加分项】（有一条就是亮点，一条都没有也欢迎投） 1、读过或改过 Linux 内核、AOSP 或其它大型开源系统的源码。 2、了解 Android 系统机制、相机成像链路、音视频编解码其中任意一个。 3、做过图像、音视频、图形相关的项目。 4、做过软硬结合的项目：开发板、机器人、无人机、智能硬件/软件/数学竞赛 。 5、有技术博客、GitHub 作品或开源贡献。 【关于成长】 没有系统层开发经验不影响投递，我们更看重基础和学习能力。入职后配资深工程师一对一带教",
+      "JD": "1、参与智能影像硬件的系统软件开发，覆盖从设备启动到影像采集的整条链路。 2、参与 Android 系统层开发，涉及系统服务、跨进程通信、硬件抽象层、系统应用等方向。 3、持续优化系统的启动速度、运行稳定性、性能与功耗表现。 4、与驱动、算法团队协作，把算法能力接入系统，调到量产可用的质量。 5、用系统级追踪工具在真机上定位性能与稳定性问题，提出方案并落地验证。 6、深度参与产品从原型验证到量产交付的完整研发周期。\n1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业。 2、操作系统、计算机组成、数据结构与算法基本功扎实，理解进程管理、内存管理、并发编程等核心概念。 3、熟练 C/C++，在 Linux 下真实写过、调过程序。熟练或了解 Java/Kotlin。 4、能读英文技术文档和源码，对技术有好奇心有热情。 【加分项】（有一条就是亮点，一条都没有也欢迎投） 1、读过或改过 Linux 内核、AOSP 或其它大型开源系统的源码。 2、了解 Android 系统机制、相机成像链路、音视频编解码其中任意一个。 3、做过图像、音视频、图形相关的项目。 4、做过软硬结合的项目：开发板、机器人、无人机、智能硬件/软件/数学竞赛 。 5、有技术博客、GitHub 作品或开源贡献。 【关于成长】 没有系统层开发经验不影响投递，我们更看重基础和学习能力。入职后配资深工程师一对一带教",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "影石Insta360官方飞书招聘",
       "officialURL": "https://arashivision.jobs.feishu.cn/campus/m/position/7657129264933079332/detail",
-      "lastVerified": "2026-06-30",
+      "publishedAt": "2026-06-30",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

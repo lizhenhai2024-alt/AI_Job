@@ -12,11 +12,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3、市场营销、广告学、新媒体、数字化、体育营销等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -25,10 +25,69 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位（伊利）；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "jobDescription": "工作职责： 通过参与市场调研、产品开发与优化、品牌全周期管理等实践，系统培养为具备品牌运营、战略规划、市场洞察与产品管理能力的市场领域核心专业人才 任职要求： 1、硕士及以上学历，2027届毕业生； 2、CET6及以上/雅思6.0及以上/托福60分及以上； 3、市场营销、广告学、新媒体、数字化、体育营销等相关专业优先。",
+      "jobRequirements": "工作职责： 通过参与市场调研、产品开发与优化、品牌全周期管理等实践，系统培养为具备品牌运营、战略规划、市场洞察与产品管理能力的市场领域核心专业人才 任职要求： 1、硕士及以上学历，2027届毕业生； 2、CET6及以上/雅思6.0及以上/托福60分及以上； 3、市场营销、广告学、新媒体、数字化、体育营销等相关专业优先。 简历接收周期：2026-09-14~2027-06-30",
+      "JD": "工作职责： 通过参与市场调研、产品开发与优化、品牌全周期管理等实践，系统培养为具备品牌运营、战略规划、市场洞察与产品管理能力的市场领域核心专业人才 任职要求： 1、硕士及以上学历，2027届毕业生； 2、CET6及以上/雅思6.0及以上/托福60分及以上； 3、市场营销、广告学、新媒体、数字化、体育营销等相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3、市场营销、广告学、新媒体、数字化、体育营销等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-06-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10-15k/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10-15k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
+      },
+      "salary": "10-15k/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "lastVerified": "2026-09-14",
+      "publishedAt": "2026-09-14",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-06-30"
     },
@@ -41,7 +100,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -54,10 +113,64 @@
         "minorLanguageRequired": false
       },
       "location": "成都",
-      "JD": "公司官方 HotJob 校招岗位（伊利）；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "jobDescription": "基于公司未来的战略及业务发展需求，通过全线生产操作历练、全球高端设备控制历练、全维度管理素质赋能等途径，3-5年培养成为生产领域经理，5-8年培养成为生产工厂副总经理级管理人员。",
+      "jobRequirements": "1、2027届本科及以上学历；通过大学英语四级（425分以上）； 2、食品、微生物、化学、机械、电气自动化、计算机、信息系统、安全工程等相关专业； 3、有志于从事生产管理工作； 4、积极进取、有创造力、热爱学习、行动力强； 5、有学生会、社团组织管理工作经验优先。 简历接收周期：2026-09-15~2027-06-30",
+      "JD": "基于公司未来的战略及业务发展需求，通过全线生产操作历练、全球高端设备控制历练、全维度管理素质赋能等途径，3-5年培养成为生产领域经理，5-8年培养成为生产工厂副总经理级管理人员。\n1、2027届本科及以上学历；通过大学英语四级（425分以上）； 2、食品、微生物、化学、机械、电气自动化、计算机、信息系统、安全工程等相关专业； 3、有志于从事生产管理工作； 4、积极进取、有创造力、热爱学习、行动力强； 5、有学生会、社团组织管理工作经验优先。 简历接收周期：2026-09-15~2027-06-30",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-09-15"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7K-7K",
+        "monthlyMin": 7000,
+        "monthlyMax": 7000,
+        "annualMin": 84000,
+        "annualMax": 84000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "7k/月",
+        "annualDisplay": "8.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7K-7K 公司官方 HotJob 校招岗位（伊利）；已读取完整职"
+      },
+      "salary": "7K-7K",
+      "monthlySalary": "7k/月",
+      "annualSalary": "8.4万/年（按12薪推算）",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "lastVerified": "2026-09-15",
+      "publishedAt": "2026-09-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-09-15"
     },
@@ -70,8 +183,8 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
         "raw": "",
@@ -83,10 +196,64 @@
         "minorLanguageRequired": false
       },
       "location": "黄冈市-黄州区",
-      "JD": "公司官方 HotJob 校招岗位（伊利）；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "jobDescription": "基于公司未来的战略及业务发展需求，通过全线生产操作历练、全球高端设备控制历练、全维度管理素质赋能等途径，3-5年培养成为生产领域经理，5-8年培养成为生产工厂副总经理级管理人员。",
+      "jobRequirements": "1、2027届硕士研究生及以上学历； 2、食品、微生物、化学、机械、电气自动化、计算机、信息系统等相关专业； 3、通过大学英语四级（425分以上）； 4、有志于从事生产管理工作； 5、积极进取、有创造力、热爱学习、行动力强； 6、有学生会、社团组织管理工作经验优先。 简历接收周期：2026-09-14~2027-06-30",
+      "JD": "基于公司未来的战略及业务发展需求，通过全线生产操作历练、全球高端设备控制历练、全维度管理素质赋能等途径，3-5年培养成为生产领域经理，5-8年培养成为生产工厂副总经理级管理人员。\n1、2027届硕士研究生及以上学历； 2、食品、微生物、化学、机械、电气自动化、计算机、信息系统等相关专业； 3、通过大学英语四级（425分以上）； 4、有志于从事生产管理工作； 5、积极进取、有创造力、热爱学习、行动力强； 6、有学生会、社团组织管理工作经验优先。 简历接收周期：2026-09-14~2027-06-30",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2029-09-16"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10-15k/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10-15k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
+      },
+      "salary": "10-15k/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "lastVerified": "2026-09-14",
+      "publishedAt": "2026-09-14",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2029-09-16"
     },
@@ -99,7 +266,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -112,10 +279,62 @@
         "minorLanguageRequired": false
       },
       "location": "呼和浩特市",
-      "JD": "公司官方 HotJob 校招岗位（伊利）；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "jobDescription": "1、负责各类会议、活动的全流程策划与落地实施，包括现场管控、流程设计及效果评估，保障活动品质与成效。 2、负责行政基础管理相关工作，完善行政管理制度与体系建设，高效处理各项日常行政事务。 3、协助开展党团建设、工会活动及相关综合性工作，做好内部协调与外事对接。",
+      "jobRequirements": "1、2026 届、2027届本科及以上学历毕业生 2、专业不限，文科类相关专业优先 3、语言表达能力好，擅长对内对外沟通；做事导向清晰，可高效统筹资源、协调多方推进工作；沟通亲和力强，主动开展人际交流 工作地点：呼和浩特，可接受工作地点全国统筹调配 简历接收周期：2026-07-04~2026-09-30",
+      "JD": "1、负责各类会议、活动的全流程策划与落地实施，包括现场管控、流程设计及效果评估，保障活动品质与成效。 2、负责行政基础管理相关工作，完善行政管理制度与体系建设，高效处理各项日常行政事务。 3、协助开展党团建设、工会活动及相关综合性工作，做好内部协调与外事对接。\n1、2026 届、2027届本科及以上学历毕业生 2、专业不限，文科类相关专业优先 3、语言表达能力好，擅长对内对外沟通；做事导向清晰，可高效统筹资源、协调多方推进工作；沟通亲和力强，主动开展人际交流 工作地点：呼和浩特，可接受工作地点全国统筹调配 简历接收周期：2026-07-04~2026-09-30",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2029-09-16"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "沟通"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6.5K-7K",
+        "monthlyMin": 6500,
+        "monthlyMax": 7000,
+        "annualMin": 78000,
+        "annualMax": 84000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6.5k–7k/月",
+        "annualDisplay": "7.8万–8.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6.5K-7K 公司官方 HotJob 校招岗位（伊利）；已读取完整职"
+      },
+      "salary": "6.5K-7K",
+      "monthlySalary": "6.5k–7k/月",
+      "annualSalary": "7.8万–8.4万/年（按12薪推算）",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "lastVerified": "2026-07-20",
+      "publishedAt": "2026-07-20",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2029-09-16"
     }

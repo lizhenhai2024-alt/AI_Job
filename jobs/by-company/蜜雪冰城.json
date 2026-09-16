@@ -12,12 +12,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "市场营销等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -25,10 +25,66 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责区域行业市场信息调研与分析，发掘区域化营销元素，为差异化品牌营销策略提供依据； 2、负责结合各区域特点，策划差异化营销方案及品牌营销活动，并推动方案向下传递与执行； 3、负责品牌营销策略目标拆解，统筹活动资源，协调各区域推进品牌营销活动落地； 4、负责品牌营销活动效果跟踪与复盘，持续优化活动方案，沉淀区域化营销方法论。",
+      "jobRequirements": "1、2027届本科及以上学历，市场营销等相关专业; 2、具备良好的业务理解能力与逻辑思维; 3、出色的沟通表达与协调能力，能适应跨部门协作，有项目实践或社团组织经验者优先; 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责区域行业市场信息调研与分析，发掘区域化营销元素，为差异化品牌营销策略提供依据； 2、负责结合各区域特点，策划差异化营销方案及品牌营销活动，并推动方案向下传递与执行； 3、负责品牌营销策略目标拆解，统筹活动资源，协调各区域推进品牌营销活动落地； 4、负责品牌营销活动效果跟踪与复盘，持续优化活动方案，沉淀区域化营销方法论。\n1、2027届本科及以上学历，市场营销等相关专业; 2、具备良好的业务理解能力与逻辑思维; 3、出色的沟通表达与协调能力，能适应跨部门协作，有项目实践或社团组织经验者优先; 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "市场营销等相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=db7f58a9-158e-4971-a971-ff005ef24141",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,11 +97,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，专业不限，人力资源相关专业优先，具备英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -54,10 +110,68 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、系统参与公司人力资源的业务流程； 2、深入参与或负责人力资源职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3、与协同部门保持有效沟通，推动最新策略落地，为组织发展提供支持。",
+      "jobRequirements": "1、2027届本科及以上学历，专业不限，人力资源相关专业优先，具备英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、系统参与公司人力资源的业务流程； 2、深入参与或负责人力资源职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3、与协同部门保持有效沟通，推动最新策略落地，为组织发展提供支持。\n1、2027届本科及以上学历，专业不限，人力资源相关专业优先，具备英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，专业不限，人力资源相关专业优先，具备英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语、项目管"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=9958fcbf-6ee4-4217-829b-37142ea7b240",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,11 +184,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2、深入参与或负责财务职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验；1、2027届本科及以上学历，财会相关专业，具备英语或西班牙语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -83,10 +197,69 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、系统参与公司财务职能某一个或几个领域的业务流程； 2、深入参与或负责财务职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3、与协同部门保持有效沟通，推动最新策略落地，为组织发展提供支持。",
+      "jobRequirements": "1、2027届本科及以上学历，财会相关专业，具备英语或西班牙语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、系统参与公司财务职能某一个或几个领域的业务流程； 2、深入参与或负责财务职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3、与协同部门保持有效沟通，推动最新策略落地，为组织发展提供支持。\n1、2027届本科及以上学历，财会相关专业，具备英语或西班牙语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、深入参与或负责财务职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验",
+          "1、2027届本科及以上学历，财会相关专业，具备英语或西班牙语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语、项目管"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=146ce5b1-dbc5-4406-b232-650561507d9e",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -99,11 +272,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，法学相关专业，具备俄语或西班牙语或英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -112,10 +285,68 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、系统参与公司法务的相关业务流程； 2、深入参与或负责法务职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3、与协同部门保持有效沟通，推动最新策略落地，为组织发展提供支持。",
+      "jobRequirements": "1、2027届本科及以上学历，法学相关专业，具备俄语或西班牙语或英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、系统参与公司法务的相关业务流程； 2、深入参与或负责法务职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3、与协同部门保持有效沟通，推动最新策略落地，为组织发展提供支持。\n1、2027届本科及以上学历，法学相关专业，具备俄语或西班牙语或英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，法学相关专业，具备俄语或西班牙语或英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语、项目管"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=c1a4ecbc-ff7d-40c3-ab0b-0b0a226a5dc9",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,7 +359,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -141,10 +372,64 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.全链路业务实操：深入供应链一线，参与产品研发打样、原料采购跟进、生产过程品控巡检、仓储出入库及效期盘点等业务，建立贯通“研发、采购、品控、仓储”全链条的整体业务认知； 2.跨环节协同与问题跟进：围绕原料供应、现场质量把控、仓储温控及效期管理等跨部门场景，协助开展上下游信息对接，跟踪并协助反馈现场业务异常； 3.业务分析与项目执行：参与各环节运营数据的梳理与现场业务调研，做好基础支持；定岗后结合具体专业方向，深入参与具体业务项目的推进与执行落地。",
+      "jobRequirements": "1.2027届本科及以上学历应届毕业生；食品科学与工程、食品质量与安全、食品营养与健康、生物工程（食品方向）等食品相关专业； 2.学习能力强，能够快速理解陌生业务并将知识迁移应用，具备较强的适应能力和成长潜力； 3.逻辑清晰，具备问题分析和解决能力，能够从业务现象中识别关键问题，并推动解决方案落地； 4.责任心强、主动性高，具备较好的沟通协作能力，面对挑战能保持积极心态。 5.本岗位实行专属培养计划，提供全流程业务实践与多方向发展通道。",
+      "JD": "1.全链路业务实操：深入供应链一线，参与产品研发打样、原料采购跟进、生产过程品控巡检、仓储出入库及效期盘点等业务，建立贯通“研发、采购、品控、仓储”全链条的整体业务认知； 2.跨环节协同与问题跟进：围绕原料供应、现场质量把控、仓储温控及效期管理等跨部门场景，协助开展上下游信息对接，跟踪并协助反馈现场业务异常； 3.业务分析与项目执行：参与各环节运营数据的梳理与现场业务调研，做好基础支持；定岗后结合具体专业方向，深入参与具体业务项目的推进与执行落地。\n1.2027届本科及以上学历应届毕业生；食品科学与工程、食品质量与安全、食品营养与健康、生物工程（食品方向）等食品相关专业； 2.学习能力强，能够快速理解陌生业务并将知识迁移应用，具备较强的适应能力和成长潜力； 3.逻辑清晰，具备问题分析和解决能力，能够从业务现象中识别关键问题，并推动解决方案落地； 4.责任心强、主动性高，具备较好的沟通协作能力，面对挑战能保持积极心态。 5.本岗位实行专属培养计划，提供全流程业务实践与多方向发展通道。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=c689b043-5e22-4527-a451-28211c2f0926",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -157,11 +442,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，供应链相关专业，具备英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -170,10 +455,72 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、系统参与物流仓储供应链相关业务条线，包括但不限于仓储物流、物流调度、运营支持、客诉服务等方向； 2、参与业务规划管理及相关工作流程的优化； 3、从基展一线起步，逐步深入参与业务模块的具体项目工作，通过实际项目提升专业能力和个人经验，持续推动业务改善提升。",
+      "jobRequirements": "1、2027届本科及以上学历，供应链相关专业，具备英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、系统参与物流仓储供应链相关业务条线，包括但不限于仓储物流、物流调度、运营支持、客诉服务等方向； 2、参与业务规划管理及相关工作流程的优化； 3、从基展一线起步，逐步深入参与业务模块的具体项目工作，通过实际项目提升专业能力和个人经验，持续推动业务改善提升。\n1、2027届本科及以上学历，供应链相关专业，具备英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，供应链相关专业，具备英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=3e05ece9-db1a-4d41-a898-521de27aaf0d",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -186,11 +533,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届应届本科及以上毕业生，具备良好语言能力，英语或其他语种可作为工作语言者优先",
         "hardRestriction": false
       },
       "language": {
@@ -199,10 +546,70 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、各个岗位方向的海外人才储备； 2、根据集团海外业务发展，在国内外开展岗位相关海外业务，根据市场发展，制定当地切实可行的业务实施方案。",
+      "jobRequirements": "1、2027届应届本科及以上毕业生，具备良好语言能力，英语或其他语种可作为工作语言者优先； 2、善于沟通、协调，注重团队合作，认同蜜雪文化，热爱茶饮事业； 3、具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、各个岗位方向的海外人才储备； 2、根据集团海外业务发展，在国内外开展岗位相关海外业务，根据市场发展，制定当地切实可行的业务实施方案。\n1、2027届应届本科及以上毕业生，具备良好语言能力，英语或其他语种可作为工作语言者优先； 2、善于沟通、协调，注重团队合作，认同蜜雪文化，热爱茶饮事业； 3、具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届应届本科及以上毕业生，具备良好语言能力，英语或其他语种可作为工作语言者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=521a532f-379b-43a3-b0c3-d32fb35a1d0a",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,11 +622,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027 届本科及以上学历,专业不限,计算机、信息管理、经管类优先",
         "hardRestriction": false
       },
       "language": {
@@ -228,10 +635,70 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责集团自研供应链系统的产品规划与设计(覆盖采购、仓储、物流、供应商协同等业务场景),完成需求调研、业务分析与可行性评估; 2、负责输出 PRD、原型图与需求文档,协同设计、研发、测试完成产品交付,跟进迭代节奏与质量; 3、负责产品上线后的业务数据跟踪与用户反馈收集,持续优化产品体验,提升供应链整体运营效率。",
+      "jobRequirements": "1、2027 届本科及以上学历,专业不限,计算机、信息管理、经管类优先; 2、具备较强的逻辑思维与需求分析能力,能清晰拆解复杂业务场景并输出产品方案; 3、具备良好的文档撰写与沟通表达能力,有产品实习、供应链/电商相关项目经验者优先; 4、高度团队意识,认同蜜雪企业文化,对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责集团自研供应链系统的产品规划与设计(覆盖采购、仓储、物流、供应商协同等业务场景),完成需求调研、业务分析与可行性评估; 2、负责输出 PRD、原型图与需求文档,协同设计、研发、测试完成产品交付,跟进迭代节奏与质量; 3、负责产品上线后的业务数据跟踪与用户反馈收集,持续优化产品体验,提升供应链整体运营效率。\n1、2027 届本科及以上学历,专业不限,计算机、信息管理、经管类优先; 2、具备较强的逻辑思维与需求分析能力,能清晰拆解复杂业务场景并输出产品方案; 3、具备良好的文档撰写与沟通表达能力,有产品实习、供应链/电商相关项目经验者优先; 4、高度团队意识,认同蜜雪企业文化,对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届本科及以上学历,专业不限,计算机、信息管理、经管类优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "用户",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：电商。投递前"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=12178050-5215-43e3-9500-87554a9b8b8f",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,12 +711,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027 届本科及以上学历,计算机、统计学、数学等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -257,10 +724,68 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、参与企业级数据仓库建设,负责数据模型设计、ETL 开发与数据质量保障,覆盖从数据接入到服务输出的全链路; 2、负责经营分析类 BI 报表与看板的开发维护,承接业务部门数据需求,输出高质量数据分析结果; 3、参与数据治理体系建设,推动数据标准、数据口径统一与数据资产沉淀。",
+      "jobRequirements": "1、2027 届本科及以上学历,计算机、统计学、数学等相关专业; 2、扎实的 SQL 功底,熟悉数据仓库建模理论,了解 Hive、Spark、Flink 等大数据组件或一种主流 BI 工具; 3、数据敏感度高,逻辑思维严谨,具备较强的问题分析与数据可视化表达能力,有数据类竞赛或实习经验者优先; 4、高度团队意识、认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、参与企业级数据仓库建设,负责数据模型设计、ETL 开发与数据质量保障,覆盖从数据接入到服务输出的全链路; 2、负责经营分析类 BI 报表与看板的开发维护,承接业务部门数据需求,输出高质量数据分析结果; 3、参与数据治理体系建设,推动数据标准、数据口径统一与数据资产沉淀。\n1、2027 届本科及以上学历,计算机、统计学、数学等相关专业; 2、扎实的 SQL 功底,熟悉数据仓库建模理论,了解 Hive、Spark、Flink 等大数据组件或一种主流 BI 工具; 3、数据敏感度高,逻辑思维严谨,具备较强的问题分析与数据可视化表达能力,有数据类竞赛或实习经验者优先; 4、高度团队意识、认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届本科及以上学历,计算机、统计学、数学等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：数据分析、S"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=f71f265b-9ba5-4ca5-ae7e-d88ceb0f45c6",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -273,11 +798,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，工程造价、工程管理、土木工程等相关专业，具备英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -286,10 +811,65 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助处理公司日常工程造价工作，参与投资估算、概预算、工程量清单、招标控制价及结算文件的研究、编制、审阅及复核，确保符合成本与合规要求； 2、负责与造价咨询、施工、监理及供应商等沟通联络，协助处理工程变更、签证、索赔及内部成本审查与整改； 3、协助筹备招投标、合同评审及项目成本会议，负责议程拟定、资料准备、会议记录及决议跟进； 4、协助研究工程造价政策、定额及材料价格问题，完成部门交办的其他工作。",
+      "jobRequirements": "1、2027届本科及以上学历，工程造价、工程管理、土木工程等相关专业，具备英语能力优先； 2、有门店工程、成本控制相关实习经历者优先； 3、出色的沟通表达与协调能力，具有商务谈判、招投标或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、协助处理公司日常工程造价工作，参与投资估算、概预算、工程量清单、招标控制价及结算文件的研究、编制、审阅及复核，确保符合成本与合规要求； 2、负责与造价咨询、施工、监理及供应商等沟通联络，协助处理工程变更、签证、索赔及内部成本审查与整改； 3、协助筹备招投标、合同评审及项目成本会议，负责议程拟定、资料准备、会议记录及决议跟进； 4、协助研究工程造价政策、定额及材料价格问题，完成部门交办的其他工作。\n1、2027届本科及以上学历，工程造价、工程管理、土木工程等相关专业，具备英语能力优先； 2、有门店工程、成本控制相关实习经历者优先； 3、出色的沟通表达与协调能力，具有商务谈判、招投标或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，工程造价、工程管理、土木工程等相关专业，具备英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=56856b84-0b12-44e7-bedb-dc68d83d2ac9",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -302,11 +882,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，财会相关专业，具备英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -315,10 +895,70 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助策划和执行业绩发布会、投资者日、路演等活动，负责日程协调、资料准备及参会邀约； 2、协助定期报告（年报/半年报/季报）及临时公告的信息收集、数据整理和内容校对； 3、跟踪行业动态，收集可比公司财务及业务数据，撰写分析简报，维护行业数据库； 4、协助接听热线、回复IR邮箱，维护投资者关系档案，参与编制路演材料和Q&A手册。",
+      "jobRequirements": "1、2027届本科及以上学历，财会相关专业，具备英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、协助策划和执行业绩发布会、投资者日、路演等活动，负责日程协调、资料准备及参会邀约； 2、协助定期报告（年报/半年报/季报）及临时公告的信息收集、数据整理和内容校对； 3、跟踪行业动态，收集可比公司财务及业务数据，撰写分析简报，维护行业数据库； 4、协助接听热线、回复IR邮箱，维护投资者关系档案，参与编制路演材料和Q&A手册。\n1、2027届本科及以上学历，财会相关专业，具备英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，财会相关专业，具备英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=85e46529-0448-492d-b724-a1a5b5b2e8b6",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -331,11 +971,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，环境设计、室内设计、建筑学、艺术设计等相关专业，具备英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -344,10 +984,66 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助处理公司日常空间设计工作，参与门店方案、效果图、施工图及设计标准的研究、编制、审阅及复核，确保符合品牌与落地要求； 2、负责与加盟商、工程、采购、供应商及设计机构沟通联络，协助处理现场勘测、设计交底、图纸变更及验收整改； 3、协助筹备新店设计及项目会议，负责议程拟定、资料准备、会议记录及决议跟进； 4、协助研究空间设计趋势、新材料新工艺及成本优化问题，完成部门交办的其他工作。",
+      "jobRequirements": "1、2027届本科及以上学历，环境设计、室内设计、建筑学、艺术设计等相关专业，具备英语能力优先； 2、有门店空间设计、落地跟进相关实习经历者优先； 3、出色的审美、沟通表达与协调能力，具有方案汇报、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、协助处理公司日常空间设计工作，参与门店方案、效果图、施工图及设计标准的研究、编制、审阅及复核，确保符合品牌与落地要求； 2、负责与加盟商、工程、采购、供应商及设计机构沟通联络，协助处理现场勘测、设计交底、图纸变更及验收整改； 3、协助筹备新店设计及项目会议，负责议程拟定、资料准备、会议记录及决议跟进； 4、协助研究空间设计趋势、新材料新工艺及成本优化问题，完成部门交办的其他工作。\n1、2027届本科及以上学历，环境设计、室内设计、建筑学、艺术设计等相关专业，具备英语能力优先； 2、有门店空间设计、落地跟进相关实习经历者优先； 3、出色的审美、沟通表达与协调能力，具有方案汇报、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，环境设计、室内设计、建筑学、艺术设计等相关专业，具备英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=4dc1b905-89bb-4aa1-9fa3-259139206ba3",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -360,11 +1056,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，供应链管理、物流管理、采购管理、材料科学与工程、食品科学与工程、工商管理等相关专业，具备英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -373,10 +1069,68 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "工作职责 1、协助处理公司日常材料招采工作，参与供应商、采购合同、招标文件及比价议价资料的研究、编制、审阅及复核，确保符合合规与成本要求； 2、负责与供应商及研发、品控、门店、工程等部门沟通联络，协助处理订单交付、质量异常、对账结算及内部审查整改； 3、协助筹备招采会议、供应商评审及合同谈判，负责议程拟定、资料准备、会议记录及决议跟进； 4、协助研究材料市场行情、供应链合规及采购策略问题，完成部门交办的其他工作。",
+      "jobRequirements": "1、2027届本科及以上学历，供应链管理、物流管理、采购管理、材料科学与工程、食品科学与工程、工商管理等相关专业，具备英语能力优先； 2、有食品原料、包材、设备或工程材料采购相关实习经历者优先； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "工作职责 1、协助处理公司日常材料招采工作，参与供应商、采购合同、招标文件及比价议价资料的研究、编制、审阅及复核，确保符合合规与成本要求； 2、负责与供应商及研发、品控、门店、工程等部门沟通联络，协助处理订单交付、质量异常、对账结算及内部审查整改； 3、协助筹备招采会议、供应商评审及合同谈判，负责议程拟定、资料准备、会议记录及决议跟进； 4、协助研究材料市场行情、供应链合规及采购策略问题，完成部门交办的其他工作。\n1、2027届本科及以上学历，供应链管理、物流管理、采购管理、材料科学与工程、食品科学与工程、工商管理等相关专业，具备英语能力优先； 2、有食品原料、包材、设备或工程材料采购相关实习经历者优先； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，供应链管理、物流管理、采购管理、材料科学与工程、食品科学与工程、工商管理等相关专业，具备英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=2afc87c6-e74a-4aff-8e7a-bad4b3a77e8e",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -389,11 +1143,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，法律相关专业，具备英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -402,10 +1156,63 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助处理公司日常信息披露工作，参与公告文件的研究、编制、审阅及复核，确保符合境内外合规要求； 2、负责与监管部门及中介机构的沟通联络，协助处理监管问询及内部合规审查与整改； 3、协助筹备董事会、监事会及股东会，负责议程拟定、资料准备、会议记录及决议跟进； 4、协助研究证券合规相关法律问题，完成部门交办的其他工作。",
+      "jobRequirements": "1、2027届本科及以上学历，法律相关专业，具备英语能力优先； 2、知名律所相关实习经历（有港股合规、IPO、公司治理相关实习经历者优先）； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、协助处理公司日常信息披露工作，参与公告文件的研究、编制、审阅及复核，确保符合境内外合规要求； 2、负责与监管部门及中介机构的沟通联络，协助处理监管问询及内部合规审查与整改； 3、协助筹备董事会、监事会及股东会，负责议程拟定、资料准备、会议记录及决议跟进； 4、协助研究证券合规相关法律问题，完成部门交办的其他工作。\n1、2027届本科及以上学历，法律相关专业，具备英语能力优先； 2、知名律所相关实习经历（有港股合规、IPO、公司治理相关实习经历者优先）； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，法律相关专业，具备英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=5b38dc06-8dc8-4d64-ba63-6a4c3a95e052",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -414,11 +1221,12 @@
       "company": "蜜雪冰城",
       "title": "2027届校招-信息安全方向(J13403)",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -431,10 +1239,61 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责对公司网络、服务器、应用系统等安全监控、巡检与日志分析； 2、对漏洞进行分析、复现，并跟踪、协调相关部门完成漏洞修复与整改闭环。 3、协助推进公司信息安全管理制度、流程和规范的落地执行。",
+      "jobRequirements": "1、2026届本科及以上学历，信息安全相关专业； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具备相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责对公司网络、服务器、应用系统等安全监控、巡检与日志分析； 2、对漏洞进行分析、复现，并跟踪、协调相关部门完成漏洞修复与整改闭环。 3、协助推进公司信息安全管理制度、流程和规范的落地执行。\n1、2026届本科及以上学历，信息安全相关专业； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具备相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=60148cbe-d12c-407d-b7d3-2cec5e41caa1",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -447,12 +1306,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027届本科及以上学历，计算机、软件工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -460,10 +1319,71 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、参与集团 B 端自研业务系统(供应链、门店运营、加盟管理等)后端模块的设计与开发,完成接口开发、功能联调与上线交付; 2、参与系统性能优化与线上问题排查,保障多组织、多门店复杂业务场景下的系统稳定性; 3、参与代码评审与技术方案讨论,沉淀开发规范,持续提升代码质量。",
+      "jobRequirements": "1、2027届本科及以上学历，计算机、软件工程等相关专业； 2、掌握 Java 或一种主流开发语言,熟悉 Spring 等常用框架,有扎实的数据结构与算法基础； 3、了解 MySQL、Redis、消息队列等常用中间件,有实际项目或实习经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、参与集团 B 端自研业务系统(供应链、门店运营、加盟管理等)后端模块的设计与开发,完成接口开发、功能联调与上线交付; 2、参与系统性能优化与线上问题排查,保障多组织、多门店复杂业务场景下的系统稳定性; 3、参与代码评审与技术方案讨论,沉淀开发规范,持续提升代码质量。\n1、2027届本科及以上学历，计算机、软件工程等相关专业； 2、掌握 Java 或一种主流开发语言,熟悉 Spring 等常用框架,有扎实的数据结构与算法基础； 3、了解 MySQL、Redis、消息队列等常用中间件,有实际项目或实习经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，计算机、软件工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：SQL。投递"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=c02f260c-5bc4-47a1-92c6-e12ce5f9b7df",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -476,12 +1396,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027届本科及以上学历，广告、视觉传达相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -489,10 +1409,69 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、根据品牌营销活动完成线上/线下运营、宣发等相关设计工作，包括但不限于活动主视觉、H5、海报、长图文、广告Banner等内容的创意设计； 2、根据蜜雪实际业务开展需要，进行门店的空间设计相关工作，包括但不限于效果图设计、方案设计绘制、项目跟进与问题解决等； 3、通过参与品牌视觉设计、门店空间设计等相关项目提升专业能力和个人经验，沉淀设计方法与经验，协助搭建运营设计体系规范等。",
+      "jobRequirements": "1、2027届本科及以上学历，广告、视觉传达相关专业； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、根据品牌营销活动完成线上/线下运营、宣发等相关设计工作，包括但不限于活动主视觉、H5、海报、长图文、广告Banner等内容的创意设计； 2、根据蜜雪实际业务开展需要，进行门店的空间设计相关工作，包括但不限于效果图设计、方案设计绘制、项目跟进与问题解决等； 3、通过参与品牌视觉设计、门店空间设计等相关项目提升专业能力和个人经验，沉淀设计方法与经验，协助搭建运营设计体系规范等。\n1、2027届本科及以上学历，广告、视觉传达相关专业； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，广告、视觉传达相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=53560e00-a707-4209-9108-fe1cd7a7518d",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -505,12 +1484,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027届本科及以上学历，新闻传播、汉语言文学等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -518,10 +1497,66 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、品牌传播支持：拓展与维护媒体关系，学习各类媒体平台规则，参与制定品牌传播策略，提升品牌社会影响力； 2、内容创作与平台运维：参与企业新媒体平台及宣传窗口的日常运维，协助撰写品牌公文、新闻稿、宣传材料等，确保内容准确性与一致性； 3、舆情分析：收集、整理品牌相关舆情与资讯，协助输出分析报告，为团队决策提供基础支持。",
+      "jobRequirements": "1、2027届本科及以上学历，新闻传播、汉语言文学等相关专业； 2、具备良好的文字功底和学习能力，具备较强的沟通能力、抗压能力和团队协作意识，有责任心和保密意识； 3、对品牌公关工作有热情，愿意深入行业学习，具备快速成长潜力。 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、品牌传播支持：拓展与维护媒体关系，学习各类媒体平台规则，参与制定品牌传播策略，提升品牌社会影响力； 2、内容创作与平台运维：参与企业新媒体平台及宣传窗口的日常运维，协助撰写品牌公文、新闻稿、宣传材料等，确保内容准确性与一致性； 3、舆情分析：收集、整理品牌相关舆情与资讯，协助输出分析报告，为团队决策提供基础支持。\n1、2027届本科及以上学历，新闻传播、汉语言文学等相关专业； 2、具备良好的文字功底和学习能力，具备较强的沟通能力、抗压能力和团队协作意识，有责任心和保密意识； 3、对品牌公关工作有热情，愿意深入行业学习，具备快速成长潜力。 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，新闻传播、汉语言文学等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=e9cbde3f-5b10-40c2-b4be-85a3949cc55c",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -534,11 +1569,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2、工商管理、教育学等经管类专业优先考虑",
         "hardRestriction": false
       },
       "language": {
@@ -547,10 +1582,66 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、熟悉门店运营情况，进行店面标准化辅导与推广； 2、负责开展各类加盟商培训与考核； 3、实时更新培训资料及业务流程； 4、做好合作客户的客情关系维护，准确了解客户需求，不断提升合作层次。",
+      "jobRequirements": "1、2027届本科及以上毕业生； 2、工商管理、教育学等经管类专业优先考虑； 3、具备创新思维与一定的抗压能力及成就他人的意识； 4、善于沟通、协调，注重团队合作，认同蜜雪文化，热爱饮品事业。",
+      "JD": "1、熟悉门店运营情况，进行店面标准化辅导与推广； 2、负责开展各类加盟商培训与考核； 3、实时更新培训资料及业务流程； 4、做好合作客户的客情关系维护，准确了解客户需求，不断提升合作层次。\n1、2027届本科及以上毕业生； 2、工商管理、教育学等经管类专业优先考虑； 3、具备创新思维与一定的抗压能力及成就他人的意识； 4、善于沟通、协调，注重团队合作，认同蜜雪文化，热爱饮品事业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、工商管理、教育学等经管类专业优先考虑"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=f9143543-a02f-45cf-9d88-9d12877dc01f",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -563,12 +1654,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027届本科及以上学历，机械工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -576,10 +1667,63 @@
         "minorLanguageRequired": false
       },
       "location": "重庆",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责工厂榨汁生产线全套设备的日常巡检、保养、故障排查与维修，制定并执行设备维保计划，降低设备故障率，保障生产线连续稳定生产； 2、负责榨汁设备开机调试、参数校准与工艺优化，提升出汁率、降低原料损耗，改善成品果汁品质； 3、负责榨汁设备技改与全生命周期管理，推进节能、降噪、防堵塞改造及改造后测试验收，规范一线作业，并管控备件、维修及改造成本； 4、负责食品生产安全规范执行与跨部门协作，定期排查设备电路、密封、卫生死角隐患，做好设备清洁消杀管控。",
+      "jobRequirements": "1、2027届本科及以上学历，机械工程等相关专业; 2、具备良好的业务理解能力与逻辑思维; 3、出色的沟通表达与协调能力，能适应跨部门协作，有项目实践或社团组织经验者优先; 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责工厂榨汁生产线全套设备的日常巡检、保养、故障排查与维修，制定并执行设备维保计划，降低设备故障率，保障生产线连续稳定生产； 2、负责榨汁设备开机调试、参数校准与工艺优化，提升出汁率、降低原料损耗，改善成品果汁品质； 3、负责榨汁设备技改与全生命周期管理，推进节能、降噪、防堵塞改造及改造后测试验收，规范一线作业，并管控备件、维修及改造成本； 4、负责食品生产安全规范执行与跨部门协作，定期排查设备电路、密封、卫生死角隐患，做好设备清洁消杀管控。\n1、2027届本科及以上学历，机械工程等相关专业; 2、具备良好的业务理解能力与逻辑思维; 3、出色的沟通表达与协调能力，能适应跨部门协作，有项目实践或社团组织经验者优先; 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，机械工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=978f028c-0e3f-45e7-84d4-6370c8d67e6e",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -592,7 +1736,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -605,10 +1749,63 @@
         "minorLanguageRequired": false
       },
       "location": "重庆",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责水果的采购工作 2、与供应商建立并维护良好的合作关系，确保采购原料的质量和供应 3、根据公司需求制定采购计划，并进行成本控制 4、参与香水柠檬产区的采购业务，带动农户和业主增收",
+      "jobRequirements": "1、2027届本科及以上学历，农学、植保、供应链管理相关专业； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责水果的采购工作 2、与供应商建立并维护良好的合作关系，确保采购原料的质量和供应 3、根据公司需求制定采购计划，并进行成本控制 4、参与香水柠檬产区的采购业务，带动农户和业主增收\n1、2027届本科及以上学历，农学、植保、供应链管理相关专业； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=b0a054e9-dc75-489b-8788-21003842286c",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -621,7 +1818,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -634,10 +1831,61 @@
         "minorLanguageRequired": false
       },
       "location": "重庆",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责原料果到货验收、抽样检查及质量异常判定与处理，跟进不合格品处置及产地/供应商反馈闭环。 2、负责成品出厂前抽检、留样及结果判定，按标准处理不合格品，确保出厂产品质量合规。 3、负责鲜果果园日常农事监管及质量结果验证，覆盖田间种植、植保、采摘等关键环节，推动问题整改。 4、负责代加工厂货品质量及制程能力辅导，开展现场检查、问题分析与改善跟踪；负责岗位及生产车间标准化建设，编制管理制度、操作手册、SOP等文件并推动培训执行。",
+      "jobRequirements": "1、2027届本科及以上学历，食品、农学、园艺等相关专业优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责原料果到货验收、抽样检查及质量异常判定与处理，跟进不合格品处置及产地/供应商反馈闭环。 2、负责成品出厂前抽检、留样及结果判定，按标准处理不合格品，确保出厂产品质量合规。 3、负责鲜果果园日常农事监管及质量结果验证，覆盖田间种植、植保、采摘等关键环节，推动问题整改。 4、负责代加工厂货品质量及制程能力辅导，开展现场检查、问题分析与改善跟踪；负责岗位及生产车间标准化建设，编制管理制度、操作手册、SOP等文件并推动培训执行。\n1、2027届本科及以上学历，食品、农学、园艺等相关专业优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=c4f1ceb9-d002-4339-a19c-45486c662a0a",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -650,11 +1898,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2、工商管理、播音主持等经管类专业优先考虑",
         "hardRestriction": false
       },
       "language": {
@@ -663,10 +1911,68 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、系统参与公司招商运营业务，根据每月新增客户目标，通过接听/外呼电话给客户进行项目讲解，解答客户疑问，引导优质客户填写面谈申请表单，提高客户咨询满意率； 2、对外部市场动态进行洞察，协助制定业务工作规划； 3、做好合作客户的客情关系维护，准确了解客户需求，不断提升合作层次。",
+      "jobRequirements": "1、2027届本科及以上毕业生； 2、工商管理、播音主持等经管类专业优先考虑； 3、具备创新思维与一定的抗压能力及商务谈判能力； 4、善于沟通、协调，注重团队合作，认同蜜雪文化，热爱饮品事业。",
+      "JD": "1、系统参与公司招商运营业务，根据每月新增客户目标，通过接听/外呼电话给客户进行项目讲解，解答客户疑问，引导优质客户填写面谈申请表单，提高客户咨询满意率； 2、对外部市场动态进行洞察，协助制定业务工作规划； 3、做好合作客户的客情关系维护，准确了解客户需求，不断提升合作层次。\n1、2027届本科及以上毕业生； 2、工商管理、播音主持等经管类专业优先考虑； 3、具备创新思维与一定的抗压能力及商务谈判能力； 4、善于沟通、协调，注重团队合作，认同蜜雪文化，热爱饮品事业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、工商管理、播音主持等经管类专业优先考虑"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=24b7ff03-6a9c-4b07-b747-8f5dc77f9689",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -679,11 +1985,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，食品、农学、市场营销等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -692,10 +1998,73 @@
         "minorLanguageRequired": false
       },
       "location": "重庆",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责采购、销售订单的编辑制作及执行跟进，与供应商、客户保持邮件往来，跟踪到港放柜并催促，及时处理售后问题； 2、负责国际物流单证跟进、审核与归纳整理，办理进口配额申请及税费交付，对接仓储、物流、货代完成收发货及清关事务； 3、负责采购、销售台账建立与信息整理，进行货款校验、催收及付款跟进，确保账务准确与资金及时回笼； 4、负责供应商、客户、仓储、物流、货代等内外部沟通协调，及时处理订单执行、物流清关及售后异常，保障业务高效顺畅运转。",
+      "jobRequirements": "1、2027届本科及以上学历，食品、农学、市场营销等相关专业优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责采购、销售订单的编辑制作及执行跟进，与供应商、客户保持邮件往来，跟踪到港放柜并催促，及时处理售后问题； 2、负责国际物流单证跟进、审核与归纳整理，办理进口配额申请及税费交付，对接仓储、物流、货代完成收发货及清关事务； 3、负责采购、销售台账建立与信息整理，进行货款校验、催收及付款跟进，确保账务准确与资金及时回笼； 4、负责供应商、客户、仓储、物流、货代等内外部沟通协调，及时处理订单执行、物流清关及售后异常，保障业务高效顺畅运转。\n1、2027届本科及以上学历，食品、农学、市场营销等相关专业优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，食品、农学、市场营销等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "物流执行",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=eef25552-78db-41db-a749-6689ba69015f",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -708,11 +2077,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届本科及以上学历，财会/审计相关专业，具备英语能力优先",
         "hardRestriction": false
       },
       "language": {
@@ -721,10 +2090,68 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、系统参与公司审计、内控、监察等业务流程； 2、深入参与或负责审计相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3、与协同部门保持有效沟通，推动最新策略落地，为组织发展提供支持。",
+      "jobRequirements": "1、2027届本科及以上学历，财会/审计相关专业，具备英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、系统参与公司审计、内控、监察等业务流程； 2、深入参与或负责审计相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3、与协同部门保持有效沟通，推动最新策略落地，为组织发展提供支持。\n1、2027届本科及以上学历，财会/审计相关专业，具备英语能力优先； 2、思维活跃，具备较强的学习能力和抗压能力，乐于接受挑战； 3、出色的沟通表达与协调能力，具有商务谈判、演讲辩论或相关实践经验者优先； 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，财会/审计相关专业，具备英语能力优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：英语、项目管"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=eb9679b6-cfee-4671-ba7a-e9a4e9cc5491",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -737,12 +2164,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027 届本科及以上学历,信息管理、计算机等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -750,10 +2177,66 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责集团外采系统(ERP、人力资源、财务、供应链等职能提效系统)的需求对接与实施上线,完成系统配置、数据准备与功能验证; 2、负责系统操作培训与推广落地,输出操作手册并解答用户问题,推动职能中心高效使用; 3、负责系统运行问题跟踪与厂商协同,对接业务部门与技术团队,推动问题闭环与外采系统持续优化。",
+      "jobRequirements": "1、2027 届本科及以上学历,信息管理、计算机等相关专业; 2、具备良好的业务理解能力与逻辑思维,能快速理解职能业务流程并转化为系统方案; 3、出色的沟通表达与协调能力,能适应跨部门协作,有项目实践或社团组织经验者优先; 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责集团外采系统(ERP、人力资源、财务、供应链等职能提效系统)的需求对接与实施上线,完成系统配置、数据准备与功能验证; 2、负责系统操作培训与推广落地,输出操作手册并解答用户问题,推动职能中心高效使用; 3、负责系统运行问题跟踪与厂商协同,对接业务部门与技术团队,推动问题闭环与外采系统持续优化。\n1、2027 届本科及以上学历,信息管理、计算机等相关专业; 2、具备良好的业务理解能力与逻辑思维,能快速理解职能业务流程并转化为系统方案; 3、出色的沟通表达与协调能力,能适应跨部门协作,有项目实践或社团组织经验者优先; 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届本科及以上学历,信息管理、计算机等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=428a316e-18c0-4299-a872-c8d68ae4918e",
-      "lastVerified": "2026-09-10",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

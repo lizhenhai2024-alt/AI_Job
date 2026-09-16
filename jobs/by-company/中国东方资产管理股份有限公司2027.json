@@ -12,11 +12,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -25,10 +25,62 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "总部管培生由中国东方总部统一招录，入职后分配至经营单位锻炼培养2年，通过在经营单位深入开展实践锻炼，打造高度认同公司企业文化、具备复合能力、明晰职业发展路径的管理型人才。管培生在锻炼期结束后，返回总部分配工作部门，部门分配情况将根据公司业务发展需求、员工个人工作成绩以及在经营单位的锻炼表现确定。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "总部管培生由中国东方总部统一招录，入职后分配至经营单位锻炼培养2年，通过在经营单位深入开展实践锻炼，打造高度认同公司企业文化、具备复合能力、明晰职业发展路径的管理型人才。管培生在锻炼期结束后，返回总部分配工作部门，部门分配情况将根据公司业务发展需求、员工个人工作成绩以及在经营单位的锻炼表现确定。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=8603a990-7db9-46a1-bd91-967320db1ac6",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -41,11 +93,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -54,10 +106,67 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=11f9b2f0-5a78-45e1-94aa-bb9c988b356e",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -70,11 +179,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -83,10 +192,67 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=5f2b6f14-9467-4382-ba69-fc6c10294c35",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -99,11 +265,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -112,10 +278,67 @@
         "minorLanguageRequired": false
       },
       "location": "杭州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=423cd5b8-8af7-43c0-a390-c353aba8f91b",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -128,11 +351,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -141,10 +364,67 @@
         "minorLanguageRequired": false
       },
       "location": "武汉",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=a143e531-4aef-4d5d-b28b-c9b4f5e01e43",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -157,11 +437,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -170,10 +450,67 @@
         "minorLanguageRequired": false
       },
       "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=886b5157-e2ce-4c1b-b51d-547847c983b7",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -186,11 +523,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -199,10 +536,67 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=80993e40-8c9b-4395-bb21-d1346dba7c3d",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -215,11 +609,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -228,10 +622,67 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=d829a75d-3263-4ace-bf82-308f1f26a08c",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -244,11 +695,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -257,10 +708,67 @@
         "minorLanguageRequired": false
       },
       "location": "天津",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=3c33c07f-186b-4d43-a9ca-101024414fe6",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -273,11 +781,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -286,10 +794,67 @@
         "minorLanguageRequired": false
       },
       "location": "河北省·石家庄市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=b6d8ca1d-8abc-4343-bd14-f4657ca54447",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -302,11 +867,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -315,10 +880,67 @@
         "minorLanguageRequired": false
       },
       "location": "山西省·太原市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=8798c404-aaf2-4cae-8bc8-598a810015ed",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -331,11 +953,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -344,10 +966,67 @@
         "minorLanguageRequired": false
       },
       "location": "辽宁省·大连市/沈阳市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=d6c41485-6c0d-4728-9e16-666c5dc29df4",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -360,11 +1039,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -373,10 +1052,67 @@
         "minorLanguageRequired": false
       },
       "location": "吉林省·长春市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=55eba8c9-7175-44a6-927d-121a4aaaad3d",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -389,11 +1125,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -402,10 +1138,67 @@
         "minorLanguageRequired": false
       },
       "location": "黑龙江省·哈尔滨市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=ed626e7b-7a55-475c-8ab1-7bd64cfeac06",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -418,11 +1211,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -431,10 +1224,67 @@
         "minorLanguageRequired": false
       },
       "location": "南京",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=3c357ff0-eace-4612-8f4b-f70fbc05f493",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -447,11 +1297,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -460,10 +1310,67 @@
         "minorLanguageRequired": false
       },
       "location": "安徽省·合肥市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=a28c7494-5bcf-47db-9460-f6f9ca12ae10",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -476,11 +1383,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -489,10 +1396,67 @@
         "minorLanguageRequired": false
       },
       "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=3080e20e-e734-43c8-a03e-de1e2237abc1",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -505,11 +1469,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -518,10 +1482,67 @@
         "minorLanguageRequired": false
       },
       "location": "江西省·南昌市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=d45b282b-c9df-4b05-8b02-de0b8f029a41",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -534,11 +1555,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -547,10 +1568,67 @@
         "minorLanguageRequired": false
       },
       "location": "山东省·青岛市/济南市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=185c3829-06e6-4546-a8d8-fdf99a9df2a2",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -563,11 +1641,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -576,10 +1654,67 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=b318143b-4724-4f3f-adc5-b109786df42d",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -592,11 +1727,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -605,10 +1740,67 @@
         "minorLanguageRequired": false
       },
       "location": "广西壮族自治区·南宁市、贵州省·贵阳市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=abda2f25-59d9-4dfe-ac08-cf9b2b96f8f3",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -621,11 +1813,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -634,10 +1826,67 @@
         "minorLanguageRequired": false
       },
       "location": "海南省·海口市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=e2e1ee85-594c-47d5-ac42-0cd9c063a72c",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -650,11 +1899,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -663,10 +1912,67 @@
         "minorLanguageRequired": false
       },
       "location": "重庆",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=834cb09d-bdc5-4b02-ad9a-075e6b6cbd39",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -679,11 +1985,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -692,10 +1998,67 @@
         "minorLanguageRequired": false
       },
       "location": "成都",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=e5ed77ec-ecd9-4769-995e-1682c23bb1fa",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -708,11 +2071,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -721,10 +2084,67 @@
         "minorLanguageRequired": false
       },
       "location": "西安",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=ab247bf7-bf69-4905-b07c-25ff142f5a4a",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -737,11 +2157,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -750,10 +2170,67 @@
         "minorLanguageRequired": false
       },
       "location": "甘肃省·兰州市、新疆维吾尔自治区·乌鲁木齐市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力； 5.工作地点需服从公司统一安排。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=0b7966af-feb0-4f36-a511-1ad8b6796837",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     },
@@ -766,11 +2243,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先",
         "hardRestriction": false
       },
       "language": {
@@ -779,10 +2256,67 @@
         "minorLanguageRequired": false
       },
       "location": "云南省·昆明市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。",
+      "jobRequirements": "1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "JD": "1.负责开拓分公司主营业务，开展金融、非金融不良资产项目的尽调估值、方案撰写、交易执行等工作； 2.创新运用各类手段及产品组合，围绕不良资产和服务实体经济，积极拓展市场化债转股、问题企业救助重整等业务； 3.做好各类项目的客户管理、市场开拓、业务渠道建设等工作； 4.做好投后管理、处置等工作，有效防范和控制风险； 5.做好项目资料的整理和归档，做好业务平台系统的管理和维护，及时录入和更新业务数据； 6.完成领导交办的其他工作。\n1.2027年应届高校毕业生； 2.硕士研究生及以上学历，特别优秀者可放宽至大学本科； 3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先； 4.政治素质过硬，文字功底扎实，具备良好的沟通表达和组织协调能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.理工类、法律类、经济金融类、管理类等相关专业，具有理工类或理工类与经济金融类复合专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://coamc.zhiye.com/campus/detail?jobAdId=6f2b036c-2582-4fbc-9b50-5b55c2a7a7ae",
-      "lastVerified": "2026-08-07",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-18"
     }

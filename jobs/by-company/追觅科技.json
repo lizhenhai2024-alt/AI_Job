@@ -12,12 +12,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "2.学历要求:本科及以上学历,英语听说读写能力熟练",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -25,10 +25,69 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "TTS达人运营的岗位主要是通过与达人短视频及直播合作,利用他们的影响力和创作能力,为 TTS小店带来更多流量和销售转化,并提升品牌知名度和市场竞争力: 岗位职责 1.业绩目标:根据小店业绩指标,承担达人带货销额、ROAS等相关指标; 2.达人招募及筛选:寻找和挖掘TT上有潜力的达人,对达人的粉丝数量/p内容质量/互动率等进行评估和筛选,确保产品与达人带货的匹配度和产出; 3.达人合作与治谈:与筛选出的达人进行沟通及治谈,确定双方合作模式: 4.达人管理及孵化:为合作达人提供相关指导,帮助达人了解产品信息、推佳广策略及内容创作要求;对达人进行分层管理,根据达人的表现进行评估,及时解决合作中出现的问题; 5.内容创意指导:根据品牌及产品需求,与达人共同策划推广内容及产品内容创意脚本,对达 人的内容进行审核和指导,提升内容爆款概率及带货效率; 6.营销活动策划:独立策划达人campaign活动,并与达人联动,负责跟踪campaign的执行及效果; 7.市场洞察:通过市场趋势及达人合作反馈,对市场热点趋势选品具备相关洞察力",
+      "jobRequirements": "1.工作经验:有过TTS1年以上运营工作经验或北美社媒等相关经验; 2.学历要求:本科及以上学历,英语听说读写能力熟练; 3.技能要求:需具备良好的沟通能力、协调能力和团队协作能力; 4.职业素养:需要具备高度的责任心、敬业精神和服务意识,能承受一定的工作压力;",
+      "JD": "TTS达人运营的岗位主要是通过与达人短视频及直播合作,利用他们的影响力和创作能力,为 TTS小店带来更多流量和销售转化,并提升品牌知名度和市场竞争力: 岗位职责 1.业绩目标:根据小店业绩指标,承担达人带货销额、ROAS等相关指标; 2.达人招募及筛选:寻找和挖掘TT上有潜力的达人,对达人的粉丝数量/p内容质量/互动率等进行评估和筛选,确保产品与达人带货的匹配度和产出; 3.达人合作与治谈:与筛选出的达人进行沟通及治谈,确定双方合作模式: 4.达人管理及孵化:为合作达人提供相关指导,帮助达人了解产品信息、推佳广策略及内容创作要求;对达人进行分层管理,根据达人的表现进行评估,及时解决合作中出现的问题; 5.内容创意指导:根据品牌及产品需求,与达人共同策划推广内容及产品内容创意脚本,对达 人的内容进行审核和指导,提升内容爆款概率及带货效率; 6.营销活动策划:独立策划达人campaign活动,并与达人联动,负责跟踪campaign的执行及效果; 7.市场洞察:通过市场趋势及达人合作反馈,对市场热点趋势选品具备相关洞察力\n1.工作经验:有过TTS1年以上运营工作经验或北美社媒等相关经验; 2.学历要求:本科及以上学历,英语听说读写能力熟练; 3.技能要求:需具备良好的沟通能力、协调能力和团队协作能力; 4.职业素养:需要具备高度的责任心、敬业精神和服务意识,能承受一定的工作压力;",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.学历要求:本科及以上学历,英语听说读写能力熟练"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-15K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 15000,
+        "annualMin": 96000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.5万/月",
+        "annualDisplay": "9.6万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-15K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "8K-15K 元/月",
+      "monthlySalary": "8k–1.5万/月",
+      "annualSalary": "9.6万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=e7b8ca9b-e80a-4f7f-8da8-31f6da4e69de",
-      "lastVerified": "2025-11-11",
+      "publishedAt": "2025-11-11",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,12 +100,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科以上学历，电子、通信或计算机类专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -54,10 +113,71 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、根据产品功能，测试计划制定、测试执行、缺陷管理、测试报告编写全流程管理； 2、数据分析，从数据中提取有效信息，识别趋势、异常和根本原因； 3、设计、开发和优化测试流程，理解DFT原则，与多部门进行沟通技术方案； 4、密切关注测试技术、自动化技术、传感器技术、数据分析技术动态； 5、审核制造工艺，评估风险点，负责工艺稳定性和良率提升工作； 6、负责项目计划制定、进度跟踪、资源协调、风险管理工作。",
+      "jobRequirements": "1、本科以上学历，电子、通信或计算机类专业； 2、能够快速了解产品原理及性能，熟悉电子元器件的特性； 3、了解产品在线测试的工作原理与标准，能够操作测试设备及调试； 4、能够设计、开发和优化测试流程，理解DFT原则； 5、有精益生产和成本意识，技术敏锐度和前瞻性； 6、具有沟通协调能力，具有项目管理能力。",
+      "JD": "1、根据产品功能，测试计划制定、测试执行、缺陷管理、测试报告编写全流程管理； 2、数据分析，从数据中提取有效信息，识别趋势、异常和根本原因； 3、设计、开发和优化测试流程，理解DFT原则，与多部门进行沟通技术方案； 4、密切关注测试技术、自动化技术、传感器技术、数据分析技术动态； 5、审核制造工艺，评估风险点，负责工艺稳定性和良率提升工作； 6、负责项目计划制定、进度跟踪、资源协调、风险管理工作。\n1、本科以上学历，电子、通信或计算机类专业； 2、能够快速了解产品原理及性能，熟悉电子元器件的特性； 3、了解产品在线测试的工作原理与标准，能够操作测试设备及调试； 4、能够设计、开发和优化测试流程，理解DFT原则； 5、有精益生产和成本意识，技术敏锐度和前瞻性； 6、具有沟通协调能力，具有项目管理能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科以上学历，电子、通信或计算机类专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=c3d72cd1-acea-431a-8a51-d1394afaf913",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,7 +190,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -83,10 +203,64 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.全面理解和分析市场需求，并根据不同行业产品的特点，进行CMF设计方案的制定和实施； 2.对产品的材质、工艺、表面处理等进行深入研究，提供专业的设计建议和解决方案，并定期优化并完善CMF资源库； 3.以创新设计的视角，提供创新的产品表面处理定义及产品色彩和工艺设计，并完成手板打样； 4.执行外观签样及后期CMF效果跟进。",
+      "jobRequirements": "1.统招本科以上学历，工业设计，平面设计以及软织物类设计相关专业优先； 2.跨行业设计及教育背景，如工业设计、绘画、汽车设计、服装设计、首饰设计、平面设计、UI设计等； 3.能够与团队成员和供应商进行有效的沟通和协作，具有优秀的项目管理及组织能力； 4.拥有开阔的视野，对时尚潮流及流行变化具有敏锐的洞察及独到的见解。",
+      "JD": "1.全面理解和分析市场需求，并根据不同行业产品的特点，进行CMF设计方案的制定和实施； 2.对产品的材质、工艺、表面处理等进行深入研究，提供专业的设计建议和解决方案，并定期优化并完善CMF资源库； 3.以创新设计的视角，提供创新的产品表面处理定义及产品色彩和工艺设计，并完成手板打样； 4.执行外观签样及后期CMF效果跟进。\n1.统招本科以上学历，工业设计，平面设计以及软织物类设计相关专业优先； 2.跨行业设计及教育背景，如工业设计、绘画、汽车设计、服装设计、首饰设计、平面设计、UI设计等； 3.能够与团队成员和供应商进行有效的沟通和协作，具有优秀的项目管理及组织能力； 4.拥有开阔的视野，对时尚潮流及流行变化具有敏锐的洞察及独到的见解。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=9a37ef7d-1d6b-43b6-86a1-930cbf016923",
-      "lastVerified": "2026-03-16",
+      "publishedAt": "2026-03-16",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -99,12 +273,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，计算机、软件工程、通信电子等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -112,10 +286,68 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责电控类零件开发及项目管理工作，及其周边零件开发之间的横向沟通及相关协同问题解决 2、负责项目问题的追踪和风险管理，领导PDT小组完成零件设计、开发、验证，确保按时按质交付 3、依据产品需求及电子电气架构给出可行的实现方案，和内部团队一起设计车身内外饰电控方案，产品涵盖智能灯光控制、智能表面及开关类、座椅控制、主动尾翼、电动开合系统等设计和选型 4、评审供应商技术方案、变更方案的可行性及风险并给出客观定量评价，从供应商需求管理到系统测试过程进行监控及技术评审，确保研发过程风险可控，交付符合技术方案的产品 5、管理供应商开发技术问题解决满足项目时间节点要求，负责对主机厂测试及售后问题进行分析与定位 6、负责新技术的预研，储备及规划等相关工作。\"",
+      "jobRequirements": "1、本科及以上学历，计算机、软件工程、通信电子等相关专业 2、汽车电子产品开发相关实习经验，熟悉主流的嵌入式操作系统和软件开发流程 4、对主流控制器的设计方案（CAN、LIN、ETH、私有协议、架构方案）有一定了解 5、对功能安全、信息安全方案设计及开发有一定了解 6、熟悉车身域、电机、灯类控制相关的产品设计及开发 7、沟通能力强，能持续学习，具有良好的合作意识和创业精神",
+      "JD": "1、负责电控类零件开发及项目管理工作，及其周边零件开发之间的横向沟通及相关协同问题解决 2、负责项目问题的追踪和风险管理，领导PDT小组完成零件设计、开发、验证，确保按时按质交付 3、依据产品需求及电子电气架构给出可行的实现方案，和内部团队一起设计车身内外饰电控方案，产品涵盖智能灯光控制、智能表面及开关类、座椅控制、主动尾翼、电动开合系统等设计和选型 4、评审供应商技术方案、变更方案的可行性及风险并给出客观定量评价，从供应商需求管理到系统测试过程进行监控及技术评审，确保研发过程风险可控，交付符合技术方案的产品 5、管理供应商开发技术问题解决满足项目时间节点要求，负责对主机厂测试及售后问题进行分析与定位 6、负责新技术的预研，储备及规划等相关工作。\"\n1、本科及以上学历，计算机、软件工程、通信电子等相关专业 2、汽车电子产品开发相关实习经验，熟悉主流的嵌入式操作系统和软件开发流程 4、对主流控制器的设计方案（CAN、LIN、ETH、私有协议、架构方案）有一定了解 5、对功能安全、信息安全方案设计及开发有一定了解 6、熟悉车身域、电机、灯类控制相关的产品设计及开发 7、沟通能力强，能持续学习，具有良好的合作意识和创业精神",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，计算机、软件工程、通信电子等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-30K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 30000,
+        "annualMin": 300000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3万/月",
+        "annualDisplay": "30万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-30K 元/月 公司官方北森校招岗位；识别关键词：项目管理。投"
+      },
+      "salary": "25K-30K 元/月",
+      "monthlySalary": "2.5万–3万/月",
+      "annualSalary": "30万–36万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=9d72cd9c-c06d-448b-a31b-f540b4f51cbe",
-      "lastVerified": "2025-10-24",
+      "publishedAt": "2025-10-24",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,12 +360,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，数学、统计学、商业分析、信息化系统、工业工程、供应链管理、物流管理等相关专业，有供应链相关实习或工作经验是加分项",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -141,10 +373,69 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责对接供应链PMC部门的数据支持工作，处理各部门的数据需求及分析工作； 2、分析理解业务需求/痛点,设计数据产品，通过数据处理工具、BI工具等提升对业务现状的感知力，提高决策效率； 3、负责各业务板块的指标体系搭建，推进数据化运营机制的建立，持续挖掘优化改善点并协同相关团队落地解决方案； 4、与大数据、IT部门合作，推进数据结构与标识的业务逻辑化，并结合业务需求，提出相关系统及平台的规划建议。",
+      "jobRequirements": "1、本科及以上学历，数学、统计学、商业分析、信息化系统、工业工程、供应链管理、物流管理等相关专业，有供应链相关实习或工作经验是加分项； 2、逻辑清晰、思维敏捷、有创造力，具有良好的分析、总结和沟通表达能力； 3、积极主动、善于沟通、责任心强,，优秀的跨团队协作能力； 4、具备较强数据处理能力和数据产品设计能力，包括但不限于Excel/VBA、Power Query、SQL、Python等； 5、熟悉BI工具，如Tableau、PowerBl、FineReport等； 6、了解数据库及供应链相关信息化系统，如ERP、SRM、SCM、WMS、MES、APS、OMS等。",
+      "JD": "1、负责对接供应链PMC部门的数据支持工作，处理各部门的数据需求及分析工作； 2、分析理解业务需求/痛点,设计数据产品，通过数据处理工具、BI工具等提升对业务现状的感知力，提高决策效率； 3、负责各业务板块的指标体系搭建，推进数据化运营机制的建立，持续挖掘优化改善点并协同相关团队落地解决方案； 4、与大数据、IT部门合作，推进数据结构与标识的业务逻辑化，并结合业务需求，提出相关系统及平台的规划建议。\n1、本科及以上学历，数学、统计学、商业分析、信息化系统、工业工程、供应链管理、物流管理等相关专业，有供应链相关实习或工作经验是加分项； 2、逻辑清晰、思维敏捷、有创造力，具有良好的分析、总结和沟通表达能力； 3、积极主动、善于沟通、责任心强,，优秀的跨团队协作能力； 4、具备较强数据处理能力和数据产品设计能力，包括但不限于Excel/VBA、Power Query、SQL、Python等； 5、熟悉BI工具，如Tableau、PowerBl、FineReport等； 6、了解数据库及供应链相关信息化系统，如ERP、SRM、SCM、WMS、MES、APS、OMS等。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，数学、统计学、商业分析、信息化系统、工业工程、供应链管理、物流管理等相关专业，有供应链相关实习或工作经验是加分项"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=5ecf77b9-cd9b-40a0-ad61-92fc34ca3e30",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -157,11 +448,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 学历与专业:本科及以上学历人，力资源管理、工商管理、心理学等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -170,10 +461,71 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 招聘全流程管理：主导招聘全流程，包括需求对接（与业务部门明确岗位要求、画人才画像）、渠道拓展与维护（猎头、招聘网站、内推等）、简历筛选、面试组织(协调面试官、安排流程)、offer谈判与发放，确保招聘任务高效完成。 2. 招聘体系搭建与优化：建立并持续优化公司招聘制度、流程与工具（如面试评估表、人才库），分析招聘数据（到岗率、招聘周期、渠道效能等），提出优化方案，提升招聘质量与效率。 3. 人才库与渠道管理：搭建并维护公司核心岗位人才储备库，主动挖掘被动候选人；拓展并维护优质招聘渠道，评估各渠道效果，合理分配招聘资源。 4. 雇主品牌建设：协助开展雇主品牌推广活动（如校园招聘、行业招聘会、线上雇主品牌宣传等），提升公司在人才市场的吸引力。 5. 跨部门协作与支持：与业务部门保持密切沟通，及时同步招聘进度，反馈人才市场动态；联动HR其他模块（如员工关系、培训），保障新员工顺利入职与融入。",
+      "jobRequirements": "1. 学历与专业:本科及以上学历人，力资源管理、工商管理、心理学等相关专业优先； 2. 工作经验：具备招聘相关工作经验，熟悉招聘全流程，有对应行业（如互联网、制造业、快消等）招聘经验者优先，具备搭建招聘体系、统筹多部门招聘需求的能力，有中高端岗位招聘（如管理岗、核心技术岗）经验者优先； 3. 核心能力： - 招聘专业能力：精通各类招聘渠道的运作逻辑，具备优秀的简历筛选、识人辨人及谈判能力，能精准匹配岗位与候选人； - 沟通协调能力：善于与业务部门、候选人、外部渠道高效沟通，具备良好的跨部门协作与冲突解决能力； - 目标与结果导向：能承受招聘压力，合理规划工作，确保在规定时间内完成招聘指标，保障人才供应； - 数据思维：具备基础数据分析能力，能通过招聘数据发现问题并提出优化措施； - 素质要求：熟悉国家及地方劳动人事相关法律法规，具备高度责任心、抗压能力与服务意识，原则性强且有良好的职业素养。",
+      "JD": "1. 招聘全流程管理：主导招聘全流程，包括需求对接（与业务部门明确岗位要求、画人才画像）、渠道拓展与维护（猎头、招聘网站、内推等）、简历筛选、面试组织(协调面试官、安排流程)、offer谈判与发放，确保招聘任务高效完成。 2. 招聘体系搭建与优化：建立并持续优化公司招聘制度、流程与工具（如面试评估表、人才库），分析招聘数据（到岗率、招聘周期、渠道效能等），提出优化方案，提升招聘质量与效率。 3. 人才库与渠道管理：搭建并维护公司核心岗位人才储备库，主动挖掘被动候选人；拓展并维护优质招聘渠道，评估各渠道效果，合理分配招聘资源。 4. 雇主品牌建设：协助开展雇主品牌推广活动（如校园招聘、行业招聘会、线上雇主品牌宣传等），提升公司在人才市场的吸引力。 5. 跨部门协作与支持：与业务部门保持密切沟通，及时同步招聘进度，反馈人才市场动态；联动HR其他模块（如员工关系、培训），保障新员工顺利入职与融入。\n1. 学历与专业:本科及以上学历人，力资源管理、工商管理、心理学等相关专业优先； 2. 工作经验：具备招聘相关工作经验，熟悉招聘全流程，有对应行业（如互联网、制造业、快消等）招聘经验者优先，具备搭建招聘体系、统筹多部门招聘需求的能力，有中高端岗位招聘（如管理岗、核心技术岗）经验者优先； 3. 核心能力： - 招聘专业能力：精通各类招聘渠道的运作逻辑，具备优秀的简历筛选、识人辨人及谈判能力，能精准匹配岗位与候选人； - 沟通协调能力：善于与业务部门、候选人、外部渠道高效沟通，具备良好的跨部门协作与冲突解决能力； - 目标与结果导向：能承受招聘压力，合理规划工作，确保在规定时间内完成招聘指标，保障人才供应； - 数据思维：具备基础数据分析能力，能通过招聘数据发现问题并提出优化措施； - 素质要求：熟悉国家及地方劳动人事相关法律法规，具备高度责任心、抗压能力与服务意识，原则性强且有良好的职业素养。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 学历与专业:本科及以上学历人，力资源管理、工商管理、心理学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=9edd65d8-5f89-45d5-bf1d-4770888a11d5",
-      "lastVerified": "2026-03-17",
+      "publishedAt": "2026-03-17",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -186,12 +538,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、学历背景：本科及以上学历，计算机科学、信息技术、数学或相关专业，有互联网实习经历加分",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -199,10 +551,67 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、数据处理与分析 （1）利用华为云大数据平台工具(如Hadoop、Spark等)进行大规模数据的存储、处理和分析； （2）完成数据的采集、清洗、转换和加载(ETL)工作，确保数据质量与一致性； （3）熟练使用可视化工具，可根据业务需求，设计和开发高效的数据处理流程，支持实时和离线数据分析。 2、项目开发与交付 （1）参与基于华为云大数据平台和帆软BI的项目开发，负责需求分分析、技术选型、架构设计和代码实现，要求有接口开发能力； （2）与业务团队紧密合作，理解业务需求，提供数据支持和解决方案； （3）编写技术文档，包括项目设计文档、用户手册和运维手册，确保项目交付的完整性和可维护性。 3、大数据平台运维与优化 （1）负责华为云大数据平台的日常运维工作，包括集群部署、配置管理、性能监控与调优，确保平台稳定运行； （2）定期对平台进行性能评估与优化，提升集群资源利用率和数据处理效率； （3）解决平台运行过程中出现的各种技术问题，保障业务连续性。",
+      "jobRequirements": "1、学历背景：本科及以上学历，计算机科学、信息技术、数学或相关专业，有互联网实习经历加分； 2、技术技能： （1）熟练使用可视化工具：有看板搭建经验，熟悉Fineroport平台的功能和使用方法加分； （2）大数据技术栈：精通Hadoop、Spark、Hive、HBase等大数据技术，具备实际项目开发经验； （3）编程语言：熟练掌握Java、Python等编程语言，具备良好的编程能力和代码规范； （4）华为云大数据平台：熟练掌握华为云大数据平台的架构设计、部署和运维，具备丰富的集群管理经验； （5）数据处理能力：具备扎实的数据结构和算法基础，能够高效处理大规模数据。",
+      "JD": "1、数据处理与分析 （1）利用华为云大数据平台工具(如Hadoop、Spark等)进行大规模数据的存储、处理和分析； （2）完成数据的采集、清洗、转换和加载(ETL)工作，确保数据质量与一致性； （3）熟练使用可视化工具，可根据业务需求，设计和开发高效的数据处理流程，支持实时和离线数据分析。 2、项目开发与交付 （1）参与基于华为云大数据平台和帆软BI的项目开发，负责需求分分析、技术选型、架构设计和代码实现，要求有接口开发能力； （2）与业务团队紧密合作，理解业务需求，提供数据支持和解决方案； （3）编写技术文档，包括项目设计文档、用户手册和运维手册，确保项目交付的完整性和可维护性。 3、大数据平台运维与优化 （1）负责华为云大数据平台的日常运维工作，包括集群部署、配置管理、性能监控与调优，确保平台稳定运行； （2）定期对平台进行性能评估与优化，提升集群资源利用率和数据处理效率； （3）解决平台运行过程中出现的各种技术问题，保障业务连续性。\n1、学历背景：本科及以上学历，计算机科学、信息技术、数学或相关专业，有互联网实习经历加分； 2、技术技能： （1）熟练使用可视化工具：有看板搭建经验，熟悉Fineroport平台的功能和使用方法加分； （2）大数据技术栈：精通Hadoop、Spark、Hive、HBase等大数据技术，具备实际项目开发经验； （3）编程语言：熟练掌握Java、Python等编程语言，具备良好的编程能力和代码规范； （4）华为云大数据平台：熟练掌握华为云大数据平台的架构设计、部署和运维，具备丰富的集群管理经验； （5）数据处理能力：具备扎实的数据结构和算法基础，能够高效处理大规模数据。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、学历背景：本科及以上学历，计算机科学、信息技术、数学或相关专业，有互联网实习经历加分"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=a424196f-ffd5-4ffd-85ba-bb046ccc620b",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,12 +624,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，机械工程、模具设计与制造等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -228,10 +637,65 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；识别关键词：PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、手板阶段---参与手板检讨，提供开模可行性方案给研发； 2、DFM阶段---拟定DFM计划，组织DFM检讨，跟进推动研发完善产品结构，确保开模可行性； 3、模具设计阶段---拟定模具设计计划，组织模具图评审，制作模具评审报告PPT； 4、加工阶段---跟进模具加工进度，模具加工质量； 5、试模阶段---统筹试模过程，跟进试模进度、试模状态、组织供应商试模问题检讨； 6、修改模阶段---修改模方案审核，跟进修改模进度质量； 7、模具验收阶段---组织供应商模具验收工作； 8、大货阶段---跟进大货修。",
+      "jobRequirements": "1、本科及以上学历，机械工程、模具设计与制造等相关专业； 2、熟练使用CAD、UG、Pro/E等模具设计软件，具备较强的模具设计能力； 3、熟悉模具加工工艺，具备一定的模具制造和维修技能； 4、具备良好的沟通协调能力和团队合作精神，能够承受工作压力； 5、有责任心，工作细致认真，具备较强的学习能力和创新意识。",
+      "JD": "1、手板阶段---参与手板检讨，提供开模可行性方案给研发； 2、DFM阶段---拟定DFM计划，组织DFM检讨，跟进推动研发完善产品结构，确保开模可行性； 3、模具设计阶段---拟定模具设计计划，组织模具图评审，制作模具评审报告PPT； 4、加工阶段---跟进模具加工进度，模具加工质量； 5、试模阶段---统筹试模过程，跟进试模进度、试模状态、组织供应商试模问题检讨； 6、修改模阶段---修改模方案审核，跟进修改模进度质量； 7、模具验收阶段---组织供应商模具验收工作； 8、大货阶段---跟进大货修。\n1、本科及以上学历，机械工程、模具设计与制造等相关专业； 2、熟练使用CAD、UG、Pro/E等模具设计软件，具备较强的模具设计能力； 3、熟悉模具加工工艺，具备一定的模具制造和维修技能； 4、具备良好的沟通协调能力和团队合作精神，能够承受工作压力； 5、有责任心，工作细致认真，具备较强的学习能力和创新意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械工程、模具设计与制造等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "PPT"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=da32afa3-5927-4f91-8831-53c049c63aba",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,8 +708,8 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
         "raw": "",
@@ -257,10 +721,64 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、传感器调试、多传感器标定算法软件开发； 2、图像、深度估计、点云处理算法软件开发； 3、感知融合算法软件开发。",
+      "jobRequirements": "1、CS/EE 硕士及以上优先； 2、熟悉成像、深度成像相关技术，包括：摄像头、IR成像、ToF、结构光、线结构光等； 3、熟悉多视角几何，具备多传感器标定、融合经验； 4、熟悉数字图像处理算法，包括：滤波/边缘增强、图像特征提取、形态学处理等； 5、熟悉点云处理算法，包括：体素滤波、点云聚类等； 6、具备感知器件后融合算法开发经验，熟悉概率栅格、KF/EKF/PF等常用技术； 7、C++ /Python 编程熟练； 8、英语读写、交流无障碍； 9、具备坚实学术、动手能力，具备独立分析和解决问题的能力，对挑战性问题充满激情，良好的沟通能力和团队合作能力。 其他加分项： 1、具备ISP/IQ 经验； 2、了解SfM、3D重建相关算法； 3、对AI/CNN 目标检测、深度提取算法有了解。",
+      "JD": "1、传感器调试、多传感器标定算法软件开发； 2、图像、深度估计、点云处理算法软件开发； 3、感知融合算法软件开发。\n1、CS/EE 硕士及以上优先； 2、熟悉成像、深度成像相关技术，包括：摄像头、IR成像、ToF、结构光、线结构光等； 3、熟悉多视角几何，具备多传感器标定、融合经验； 4、熟悉数字图像处理算法，包括：滤波/边缘增强、图像特征提取、形态学处理等； 5、熟悉点云处理算法，包括：体素滤波、点云聚类等； 6、具备感知器件后融合算法开发经验，熟悉概率栅格、KF/EKF/PF等常用技术； 7、C++ /Python 编程熟练； 8、英语读写、交流无障碍； 9、具备坚实学术、动手能力，具备独立分析和解决问题的能力，对挑战性问题充满激情，良好的沟通能力和团队合作能力。 其他加分项： 1、具备ISP/IQ 经验； 2、了解SfM、3D重建相关算法； 3、对AI/CNN 目标检测、深度提取算法有了解。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=7adfb423-95bf-4ffd-aefb-e85b74f5e422",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -273,12 +791,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、法学硕士及以上学历，通过国家司法考试，有律师执业资格者优先；3、熟悉国内外各类法律法规，具备扎实的法律专业知识，尤其是合同法、公司法、知识产权法、劳动法等",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -286,10 +804,70 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、为公司业务和管理层提供法律咨询，解答海外法律疑难问题，并提出法律建议； 2、起草、审核和修改各类商业合同、协议，确保合同的合法合规性，维护公司权益； 3、制定并更新企业合规体系，确保公司在国内外运营中遵守相关法律法规和行业标准； 4、处理公司在国内/外发生的法律纠纷，提出处理方案并落实，代表公司进行谈判和诉讼； 5、定期组织公司内部的法律知识和安全管理培训，提高员工的法律意识和安全防范意识； 6、监督公司各项业务活动的合法合规性，防范法律风险，提出整改措施； 7、跟踪国内/外法律法规及行业政策的变化和发展，及时向管理层汇报，并提出应对措施； 8、支持公司国际业务拓展，处理涉及国际业务的法律事务和跨国法律纠纷。",
+      "jobRequirements": "1、法学硕士及以上学历，通过国家司法考试，有律师执业资格者优先； 2、具备一定的法律实习经验，有跨国企业法律事务或国际法务实习工作经验者优先； 3、熟悉国内外各类法律法规，具备扎实的法律专业知识，尤其是合同法、公司法、知识产权法、劳动法等； 4、具备优秀的法律文书撰写能力，能够独立起草、审核合同和法律文件； 5、良好的分析判断能力和逻辑思维能力，能够快速识别和解决法律问题；优秀的沟通协调能力谈判技巧，能够有效地处理内外部法律事务； 6、高度的责任心和职业道德，工作严谨细致，保密意识强。",
+      "JD": "1、为公司业务和管理层提供法律咨询，解答海外法律疑难问题，并提出法律建议； 2、起草、审核和修改各类商业合同、协议，确保合同的合法合规性，维护公司权益； 3、制定并更新企业合规体系，确保公司在国内外运营中遵守相关法律法规和行业标准； 4、处理公司在国内/外发生的法律纠纷，提出处理方案并落实，代表公司进行谈判和诉讼； 5、定期组织公司内部的法律知识和安全管理培训，提高员工的法律意识和安全防范意识； 6、监督公司各项业务活动的合法合规性，防范法律风险，提出整改措施； 7、跟踪国内/外法律法规及行业政策的变化和发展，及时向管理层汇报，并提出应对措施； 8、支持公司国际业务拓展，处理涉及国际业务的法律事务和跨国法律纠纷。\n1、法学硕士及以上学历，通过国家司法考试，有律师执业资格者优先； 2、具备一定的法律实习经验，有跨国企业法律事务或国际法务实习工作经验者优先； 3、熟悉国内外各类法律法规，具备扎实的法律专业知识，尤其是合同法、公司法、知识产权法、劳动法等； 4、具备优秀的法律文书撰写能力，能够独立起草、审核合同和法律文件； 5、良好的分析判断能力和逻辑思维能力，能够快速识别和解决法律问题；优秀的沟通协调能力谈判技巧，能够有效地处理内外部法律事务； 6、高度的责任心和职业道德，工作严谨细致，保密意识强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、法学硕士及以上学历，通过国家司法考试，有律师执业资格者优先",
+          "3、熟悉国内外各类法律法规，具备扎实的法律专业知识，尤其是合同法、公司法、知识产权法、劳动法等"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "运营"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=6010d4e6-6cc9-4bf5-8433-5cde82971ad6",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -302,12 +880,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、学历：本科及以上，机械设计、自动化相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -315,10 +893,63 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、根据产品设计需求，提出整体系统性的自动设备解决方案； 2、对整体方案进行系统性分析，包括成本、质量、周期及风险； 3、对供应商的方案进行技术评审并提出改善建议； 4、负责定制机械产品范围，负责监督结构件制造品质； 5、协助指导现场工程师完成整个设备的调试，架线生产异常处理等工作。",
+      "jobRequirements": "1、学历：本科及以上，机械设计、自动化相关专业； 2、精通设计制造、各种机械结构及传动、机械制造工艺及气动、液压等应用； 3、熟练运用结构开发工具； 4、具有较强的学习能力和创新能力，并不断总结经验，形成文字性工艺文件，用于生产指导。",
+      "JD": "1、根据产品设计需求，提出整体系统性的自动设备解决方案； 2、对整体方案进行系统性分析，包括成本、质量、周期及风险； 3、对供应商的方案进行技术评审并提出改善建议； 4、负责定制机械产品范围，负责监督结构件制造品质； 5、协助指导现场工程师完成整个设备的调试，架线生产异常处理等工作。\n1、学历：本科及以上，机械设计、自动化相关专业； 2、精通设计制造、各种机械结构及传动、机械制造工艺及气动、液压等应用； 3、熟练运用结构开发工具； 4、具有较强的学习能力和创新能力，并不断总结经验，形成文字性工艺文件，用于生产指导。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、学历：本科及以上，机械设计、自动化相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=d4681112-b52b-4437-8133-b1ea9bf7ebd9",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -331,12 +962,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上相关学历，电子信息工程等相关专业，可以看懂电路图，熟悉电子元器件的特性",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -344,10 +975,63 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责新产品开发阶段的电子组件和线路的可制造性，试产阶段的问题点评估和改善； 2、根据产品功能，制定测试计划和方案，验收测试工装，制程能力分析和输出制程规格； 3、测试半成品/成品封样； 4、直通率的改善和提升，主导制造端内部工程变更FCN； 5、负责产品量产和售后中异常的分析和改善； 6、配合新材料及新程序导入,进行降本改善； 7、PCBA板测试软件版本的管控。",
+      "jobRequirements": "1、本科及以上相关学历，电子信息工程等相关专业，可以看懂电路图，熟悉电子元器件的特性； 2、熟练使用cadence软件、示波器等相关设备； 3、熟练运用品质手法(七大手法、8D、PFMEA等)进行产品改善，有很强的失效分析及可靠性分析能力； 4、了解CAN、RS232/485、TCP/IP等基础的通讯协议； 5、具有独立带项目并成功导入的经验，工作积极主动，较强的动手调试能力，有较强的产品质量控制意识； 6、要求具备责任心和探索精神，具备良好的团队协作能力和沟通能力。",
+      "JD": "1、负责新产品开发阶段的电子组件和线路的可制造性，试产阶段的问题点评估和改善； 2、根据产品功能，制定测试计划和方案，验收测试工装，制程能力分析和输出制程规格； 3、测试半成品/成品封样； 4、直通率的改善和提升，主导制造端内部工程变更FCN； 5、负责产品量产和售后中异常的分析和改善； 6、配合新材料及新程序导入,进行降本改善； 7、PCBA板测试软件版本的管控。\n1、本科及以上相关学历，电子信息工程等相关专业，可以看懂电路图，熟悉电子元器件的特性； 2、熟练使用cadence软件、示波器等相关设备； 3、熟练运用品质手法(七大手法、8D、PFMEA等)进行产品改善，有很强的失效分析及可靠性分析能力； 4、了解CAN、RS232/485、TCP/IP等基础的通讯协议； 5、具有独立带项目并成功导入的经验，工作积极主动，较强的动手调试能力，有较强的产品质量控制意识； 6、要求具备责任心和探索精神，具备良好的团队协作能力和沟通能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上相关学历，电子信息工程等相关专业，可以看懂电路图，熟悉电子元器件的特性"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=d0cc98d0-c27c-4fa3-8aa8-f20b37a41c34",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -373,10 +1057,59 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品结构工艺设计、开发和评估，试产阶段的装配问题点评估和改善； 2、负责产品工艺技术标准的确定、维护与更新； 3、工程变更的评估和管理； 4、参与产品检验标准的制定（公差、间隙、段差及其他参数）； 5、售后客诉异常的分析改善，提出有效的改善对策，降低客诉。",
+      "jobRequirements": "1、有结构工艺相关经验，熟悉使用设计软件，Proc Creo,CAD等； 2、了解工艺设计和工艺开发，对产品结构优化有一定的经验。",
+      "JD": "1、负责产品结构工艺设计、开发和评估，试产阶段的装配问题点评估和改善； 2、负责产品工艺技术标准的确定、维护与更新； 3、工程变更的评估和管理； 4、参与产品检验标准的制定（公差、间隙、段差及其他参数）； 5、售后客诉异常的分析改善，提出有效的改善对策，降低客诉。\n1、有结构工艺相关经验，熟悉使用设计软件，Proc Creo,CAD等； 2、了解工艺设计和工艺开发，对产品结构优化有一定的经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=6b65d233-0216-466e-8b40-86122500174c",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -402,10 +1135,63 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助工程师进行采购活动，确保物资及时供应； 2、参与采购流程的优化，提升工作效率； 3、与供应商保持良好沟通，确保采购质量和供应的稳定性。",
+      "jobRequirements": "1、具备良好的沟通协调能力，能够高效执行采购任务； 2、具有团队合作精神，能够与团队成员共同推进项目； 3、对工作细致认真，有责任心，能够在快节奏环境中保持高效率。",
+      "JD": "1、协助工程师进行采购活动，确保物资及时供应； 2、参与采购流程的优化，提升工作效率； 3、与供应商保持良好沟通，确保采购质量和供应的稳定性。\n1、具备良好的沟通协调能力，能够高效执行采购任务； 2、具有团队合作精神，能够与团队成员共同推进项目； 3、对工作细致认真，有责任心，能够在快节奏环境中保持高效率。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=961509a7-203f-495a-84e1-299c2252e5f3",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -418,12 +1204,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，机械工程类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -431,10 +1217,70 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、技术研究与趋势分析 （1）持续跟踪扫地机器人结构领域的全球最新技术发展动态，包括新材料、新制造工艺、新型结构设计等； （2）研究分析行业内竞争对手的产品结构特点、优势和劣势，以及市场上新兴扫地机器人品牌的结构创新之处； （3）定期撰写结构技术趋势报告，为公司的研发战略提供数据支持和决策依据。 2、前瞻性结构设计 （1）根据对技术趋势的研究，主导扫地机器人的前瞻性结构设计项目。探索创新的结构方案，以提升扫地机器人的清洁效率、越障能力、灵活性和耐用性等关键性能指标； （2）运用先进的设计工具（如CAD、CAE等）进行结构建模、仿真和优化，确保设计方案在理论上的可行性和先进性； （3）与跨部门团队（包括电子工程师、软件工程师、算法工程师等）紧密合作，确保结构设计与其他系统的兼容性和协同性。 3、概念验证与原型制作 （1）负责将前瞻性的结构设计概念转化为实际的物理原型，通过3D打印、快速成型等技术制作模型，进行概念验证； （2）在原型制作过程中，解决出现的各种结构相关问题，如装配困难、零部件干涉等，并对设计进行迭代优化； （3）对原型进行性能测试和评估，收集数据并与设计目标进行对比分析，提出改进建议。 4、技术指导与知识分享 （1）为公司内部的结构设计团队提供技术指导和培训，分享最新的结构设计理念、方法和工具，提升团队整体的技术水平； （2）参与公司内部的技术交流活动，与其他专家和工程师共同探讨扫地机器人结构设计中的难题和解决方案，促进知识的传播和创新思维的激发。 5、标准制定与知识产权 （1）参与制定公司内部的扫地机器人结构设计标准和规范，确保设计的一致性和高质量； （2）关注知识产权保护，对具有创新性的结构设计及时进行专利申请，保护公司的技术成果。",
+      "jobRequirements": "1、本科及以上学历，机械工程类相关专业； 2、有全局意识和系统思考，创新预研能力； 3、有机器人设计经验者优先； 4、动手和学习能力强，善于解决问题，喜欢有挑战性的设计任务，有较强的产品热情； 5、熟练掌握Creo三维建模和工程制图，了解模具，熟悉产品制造工艺及常用材料特性。",
+      "JD": "1、技术研究与趋势分析 （1）持续跟踪扫地机器人结构领域的全球最新技术发展动态，包括新材料、新制造工艺、新型结构设计等； （2）研究分析行业内竞争对手的产品结构特点、优势和劣势，以及市场上新兴扫地机器人品牌的结构创新之处； （3）定期撰写结构技术趋势报告，为公司的研发战略提供数据支持和决策依据。 2、前瞻性结构设计 （1）根据对技术趋势的研究，主导扫地机器人的前瞻性结构设计项目。探索创新的结构方案，以提升扫地机器人的清洁效率、越障能力、灵活性和耐用性等关键性能指标； （2）运用先进的设计工具（如CAD、CAE等）进行结构建模、仿真和优化，确保设计方案在理论上的可行性和先进性； （3）与跨部门团队（包括电子工程师、软件工程师、算法工程师等）紧密合作，确保结构设计与其他系统的兼容性和协同性。 3、概念验证与原型制作 （1）负责将前瞻性的结构设计概念转化为实际的物理原型，通过3D打印、快速成型等技术制作模型，进行概念验证； （2）在原型制作过程中，解决出现的各种结构相关问题，如装配困难、零部件干涉等，并对设计进行迭代优化； （3）对原型进行性能测试和评估，收集数据并与设计目标进行对比分析，提出改进建议。 4、技术指导与知识分享 （1）为公司内部的结构设计团队提供技术指导和培训，分享最新的结构设计理念、方法和工具，提升团队整体的技术水平； （2）参与公司内部的技术交流活动，与其他专家和工程师共同探讨扫地机器人结构设计中的难题和解决方案，促进知识的传播和创新思维的激发。 5、标准制定与知识产权 （1）参与制定公司内部的扫地机器人结构设计标准和规范，确保设计的一致性和高质量； （2）关注知识产权保护，对具有创新性的结构设计及时进行专利申请，保护公司的技术成果。\n1、本科及以上学历，机械工程类相关专业； 2、有全局意识和系统思考，创新预研能力； 3、有机器人设计经验者优先； 4、动手和学习能力强，善于解决问题，喜欢有挑战性的设计任务，有较强的产品热情； 5、熟练掌握Creo三维建模和工程制图，了解模具，熟悉产品制造工艺及常用材料特性。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械工程类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=3599c5ab-28ec-4aa9-b1b8-26e4b53c4168",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -447,12 +1293,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，机械工程类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -460,10 +1306,63 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、平台规划：包括扫地机平台的规划、设计、拓展、迭代，确保产品竞争力持续的领先； 2、架构设计：新平台探索，结构方案的堆叠设计，方案实施； 3、技术攻关： 组织疑难问题攻关，提供平台化的解决方案和选型决策 ； 4、风险把控：发现各类问题（不仅仅是技术），通过论证、决策、沟通、验证等方式解决隐患； 5、互动协同：与产品、市场、用研、预研、开发等各职能模块充分互动、拉通形成书面性的文档和结论； 6、流程标准：标准化、归一化工作。",
+      "jobRequirements": "1、本科及以上学历，机械工程类相关专业； 2、有全局意识和系统思考能力； 3、以工程思维全面理解业务需求，提出恰当可行的整体解决方案； 4、动手和学习能力强，善于解决问题，喜欢有挑战性的设计任务，有较强的产品热情； 5、熟练掌握Creo三维建模和工程制图，了解模具，熟悉产品制造工艺及常用材料特性。",
+      "JD": "1、平台规划：包括扫地机平台的规划、设计、拓展、迭代，确保产品竞争力持续的领先； 2、架构设计：新平台探索，结构方案的堆叠设计，方案实施； 3、技术攻关： 组织疑难问题攻关，提供平台化的解决方案和选型决策 ； 4、风险把控：发现各类问题（不仅仅是技术），通过论证、决策、沟通、验证等方式解决隐患； 5、互动协同：与产品、市场、用研、预研、开发等各职能模块充分互动、拉通形成书面性的文档和结论； 6、流程标准：标准化、归一化工作。\n1、本科及以上学历，机械工程类相关专业； 2、有全局意识和系统思考能力； 3、以工程思维全面理解业务需求，提出恰当可行的整体解决方案； 4、动手和学习能力强，善于解决问题，喜欢有挑战性的设计任务，有较强的产品热情； 5、熟练掌握Creo三维建模和工程制图，了解模具，熟悉产品制造工艺及常用材料特性。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械工程类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=1daef0a5-5300-432a-9b8e-655d70180f03",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -476,7 +1375,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -489,10 +1388,68 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责全新整机方案评估验证，单技术点评估论证、新传感器的应用研究、自研传感器的设计等； 2、完成技术方案的可行性评估，协作完成关键功能的方案设计、硬件详细计划、成本评估、推进功能验证、可制造性、风险识别、专利排查与布局等； 3、完成硬件部分设计工作，如单板的详细设计、器件选型、原理图设计、BOM编制 、协助设计PCB layout、后期测试； 4、完成技术可行性评估文档整理，支持研究项目转量产； 5、市场竞品或新技术点拆解研究，新技术新方案状态跟进； 6、新技术点收集与研究，关键技术点攻关； 7、新方案的设计以及验证。",
+      "jobRequirements": "1、电子类相关专业，统招本科及以上学历； 2、对新技术感兴趣，有良好的科学素养，有自制力，抗压力，有能动性，有刨根究底研究精神； 3、独立的单板硬件设计能力， 熟悉STM32等单片机的各种接口电路应用电路； 4、熟练使用常用调试测试设备，有独立进行问题分析、定位以及解决能力； 5、较强的团队沟通能力、责任心、上进心、良好的学习能力。",
+      "JD": "1、负责全新整机方案评估验证，单技术点评估论证、新传感器的应用研究、自研传感器的设计等； 2、完成技术方案的可行性评估，协作完成关键功能的方案设计、硬件详细计划、成本评估、推进功能验证、可制造性、风险识别、专利排查与布局等； 3、完成硬件部分设计工作，如单板的详细设计、器件选型、原理图设计、BOM编制 、协助设计PCB layout、后期测试； 4、完成技术可行性评估文档整理，支持研究项目转量产； 5、市场竞品或新技术点拆解研究，新技术新方案状态跟进； 6、新技术点收集与研究，关键技术点攻关； 7、新方案的设计以及验证。\n1、电子类相关专业，统招本科及以上学历； 2、对新技术感兴趣，有良好的科学素养，有自制力，抗压力，有能动性，有刨根究底研究精神； 3、独立的单板硬件设计能力， 熟悉STM32等单片机的各种接口电路应用电路； 4、熟练使用常用调试测试设备，有独立进行问题分析、定位以及解决能力； 5、较强的团队沟通能力、责任心、上进心、良好的学习能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=12339ea2-c16e-440e-8cc3-a26cc140b55c",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -505,7 +1462,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -518,10 +1475,63 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、完成单板的详细设计，原理图设计，BOM编制 ，协助设计PCB layout； 2、负责每个阶段硬件单板的调试与测试 ，参与板级、整机测试、产品的可靠性测试、EMC测试及协助产品认证相关工作； 3、完成其它硬件相关工作，试产以及生产的支持工作，生产测试等遇到的问题点； 4、参与硬件降成本、兼容替代、备料等工作，解决产品硬件相关供应链问题。",
+      "jobRequirements": "1、电子类相关专业，统招本科及以上学历； 2、有电子产品开发经验，或者电子竞赛或者电子小制作经验； 3、熟练使用常用设备，有独立进行问题分析、定位以及解决能力； 4、有兴趣、责任心、目标导向、自我驱动。",
+      "JD": "1、完成单板的详细设计，原理图设计，BOM编制 ，协助设计PCB layout； 2、负责每个阶段硬件单板的调试与测试 ，参与板级、整机测试、产品的可靠性测试、EMC测试及协助产品认证相关工作； 3、完成其它硬件相关工作，试产以及生产的支持工作，生产测试等遇到的问题点； 4、参与硬件降成本、兼容替代、备料等工作，解决产品硬件相关供应链问题。\n1、电子类相关专业，统招本科及以上学历； 2、有电子产品开发经验，或者电子竞赛或者电子小制作经验； 3、熟练使用常用设备，有独立进行问题分析、定位以及解决能力； 4、有兴趣、责任心、目标导向、自我驱动。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=0a7246f8-ed57-4e29-b942-ad3cfd8ff397",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -547,10 +1557,61 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "负责以下某一方向的SLAM算法开发： 1、负责2D激光SLAM系统在室内环境中的竞争力优化与新特性开发，提高导航与建图体验； 2、负责RGBD-SLAM算法或者3D激光SLAM系统的机器人算法开发研究； 3、负责视觉SLAM或者VIO等核心算法开发； 4、负责SLAM系统的后端优化算法模块。",
+      "jobRequirements": "满足以下至少1~2点或者有相关基础： 1、熟悉Cartographer，栅格建图与定位原理，有基于LOAM系列或RGBD-SLAM等算法框架开发的经验； 2、掌握图像视觉特征处理算法，熟悉多视图几何，熟悉ORB-SLAM框架系统或SfM视觉重建基础原理； 3、熟悉IMU/轮式码盘/RTK等传感器，了解EKF等滤波算法、熟悉常见的VIO系统如VINS或MSCKF等； 4、掌握Linux与C/C++语言，熟悉ROS、CMake等工具； 5、数学能力优秀，掌握BundleAdjustment与PoseGraph等问题建模与凸优化求解算法，熟悉Ceres、G2O或GTSAM等开源库。",
+      "JD": "负责以下某一方向的SLAM算法开发： 1、负责2D激光SLAM系统在室内环境中的竞争力优化与新特性开发，提高导航与建图体验； 2、负责RGBD-SLAM算法或者3D激光SLAM系统的机器人算法开发研究； 3、负责视觉SLAM或者VIO等核心算法开发； 4、负责SLAM系统的后端优化算法模块。\n满足以下至少1~2点或者有相关基础： 1、熟悉Cartographer，栅格建图与定位原理，有基于LOAM系列或RGBD-SLAM等算法框架开发的经验； 2、掌握图像视觉特征处理算法，熟悉多视图几何，熟悉ORB-SLAM框架系统或SfM视觉重建基础原理； 3、熟悉IMU/轮式码盘/RTK等传感器，了解EKF等滤波算法、熟悉常见的VIO系统如VINS或MSCKF等； 4、掌握Linux与C/C++语言，熟悉ROS、CMake等工具； 5、数学能力优秀，掌握BundleAdjustment与PoseGraph等问题建模与凸优化求解算法，熟悉Ceres、G2O或GTSAM等开源库。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=0dfb75b8-523f-4078-b132-f72e293110a1",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -563,12 +1624,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、自动化、电子、计算机、数学、物理学等相关专业本科学历以上",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -576,10 +1637,63 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、承担家用机器人产品中行为决策、运动规划、语义地图构建等相关业务组件的设计、实现和测试； 2、调研规划决策领域知识，跟进业界和学界的进展，研发决策规划相关算法，进行平台算法组件的开发； 3、依据业务需求，设计算法指标和场景数据，并依据指标和场景数据评判算法效果； 4、遵循系统工程和软件工程实践，依照开发流程进行团队协作，提高研发效率和质量。",
+      "jobRequirements": "1、自动化、电子、计算机、数学、物理学等相关专业本科学历以上； 2、熟悉C/C++，具有良好的编程能力； 3、良好的数学、算法和逻辑能力，熟悉计算复杂度分析、机器人建模和不确定性建模； 4、熟悉现代软件工程（容器化，CI/CD，软件架构、敏捷）； 5、具有良好的技术热情和团队协作能力； 6、熟悉下列领域其中一个： a.控制理论 b.数据结构和算法 c.路径生成算法 d.决策树、状态机",
+      "JD": "1、承担家用机器人产品中行为决策、运动规划、语义地图构建等相关业务组件的设计、实现和测试； 2、调研规划决策领域知识，跟进业界和学界的进展，研发决策规划相关算法，进行平台算法组件的开发； 3、依据业务需求，设计算法指标和场景数据，并依据指标和场景数据评判算法效果； 4、遵循系统工程和软件工程实践，依照开发流程进行团队协作，提高研发效率和质量。\n1、自动化、电子、计算机、数学、物理学等相关专业本科学历以上； 2、熟悉C/C++，具有良好的编程能力； 3、良好的数学、算法和逻辑能力，熟悉计算复杂度分析、机器人建模和不确定性建模； 4、熟悉现代软件工程（容器化，CI/CD，软件架构、敏捷）； 5、具有良好的技术热情和团队协作能力； 6、熟悉下列领域其中一个： a.控制理论 b.数据结构和算法 c.路径生成算法 d.决策树、状态机",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、自动化、电子、计算机、数学、物理学等相关专业本科学历以上"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=83c18e67-e912-49db-8ebb-7cf2dfa5f93f",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -592,12 +1706,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.人机交互、视觉传达、工业设计、心理学、计算机等相关专业，本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -605,10 +1719,64 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责追觅吸尘器硬件端UI及交互设计工作，能根据产品需求清晰输出交互文档，把控人机交互体验质量，不断优化产品易用性；​ 2.负责App/Web/小程序等多平台的交互及视觉设计工作，包括需求沟通、设计策略推导、到方案落地等全流程工作；​ 3.与团队一起构思创意及落地策略，输出设计方案，并协同各职级设计师共同推进体验优化，把控最终设计质量；​ 4.汇集前瞻的产品/功能/技术等信息，主动探索创新方案，发掘设计机会点并制定方案来增长业务。",
+      "jobRequirements": "1.人机交互、视觉传达、工业设计、心理学、计算机等相关专业，本科及以上学历；​ 2.有HMI设计经历，具备UI动效设计能力，擅长3D视觉设计加分，八大美院毕业生加分​ 3.具备优秀的个人审美与极强的视觉表现力，同时熟悉交互及用研知识，具有从分析-设计-验证的闭环设计思维；​ 4.熟悉人工智能类硬件，喜欢探索新材料、新工艺；​ 5.有较强的跨团队沟通协调能力和推动能力，逻辑思维严谨清晰；​ 6.具有较强的学习能力和钻研能力。",
+      "JD": "1.负责追觅吸尘器硬件端UI及交互设计工作，能根据产品需求清晰输出交互文档，把控人机交互体验质量，不断优化产品易用性；​ 2.负责App/Web/小程序等多平台的交互及视觉设计工作，包括需求沟通、设计策略推导、到方案落地等全流程工作；​ 3.与团队一起构思创意及落地策略，输出设计方案，并协同各职级设计师共同推进体验优化，把控最终设计质量；​ 4.汇集前瞻的产品/功能/技术等信息，主动探索创新方案，发掘设计机会点并制定方案来增长业务。\n1.人机交互、视觉传达、工业设计、心理学、计算机等相关专业，本科及以上学历；​ 2.有HMI设计经历，具备UI动效设计能力，擅长3D视觉设计加分，八大美院毕业生加分​ 3.具备优秀的个人审美与极强的视觉表现力，同时熟悉交互及用研知识，具有从分析-设计-验证的闭环设计思维；​ 4.熟悉人工智能类硬件，喜欢探索新材料、新工艺；​ 5.有较强的跨团队沟通协调能力和推动能力，逻辑思维严谨清晰；​ 6.具有较强的学习能力和钻研能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.人机交互、视觉传达、工业设计、心理学、计算机等相关专业，本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-03-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=928774b9-0f2c-4bcb-82d9-58d87a62c534",
-      "lastVerified": "2026-03-16",
+      "publishedAt": "2026-03-16",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-03-31"
     },
@@ -621,7 +1789,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -634,10 +1802,66 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责公司手持清洁类产品的工业设计项目； 2.独立完成设计研究、方案构思、草图绘制、效果图制作、原型制作等全流程工作； 3.与团队成员、产品经理、工程师等进行紧密合作，确保设计方案得以实现； 4.对设计趋势进行跟踪研究，为公司产品提供符合市场需求的设计方案； 5.负责设计项目的质量把关，对设计成果进行评估和优化。",
+      "jobRequirements": "1.本科及以上学历，工业设计、产品设计或相关领域专业毕业； 2.具备优秀的设计审美，追求极致； 3.具备AI驱动设计能力者优先； 4.了解产品开发流程，熟悉结构设计、工艺、材料等方面的知识； 5.具有良好的产品思维、用户思维、商业思维。",
+      "JD": "1.负责公司手持清洁类产品的工业设计项目； 2.独立完成设计研究、方案构思、草图绘制、效果图制作、原型制作等全流程工作； 3.与团队成员、产品经理、工程师等进行紧密合作，确保设计方案得以实现； 4.对设计趋势进行跟踪研究，为公司产品提供符合市场需求的设计方案； 5.负责设计项目的质量把关，对设计成果进行评估和优化。\n1.本科及以上学历，工业设计、产品设计或相关领域专业毕业； 2.具备优秀的设计审美，追求极致； 3.具备AI驱动设计能力者优先； 4.了解产品开发流程，熟悉结构设计、工艺、材料等方面的知识； 5.具有良好的产品思维、用户思维、商业思维。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-03-01"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=cb4e9b4f-dbdf-4bcb-8354-8ea189118ca4",
-      "lastVerified": "2026-03-16",
+      "publishedAt": "2026-03-16",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-03-01"
     },
@@ -663,10 +1887,59 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "/",
+      "jobRequirements": "/",
+      "JD": "/",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-30K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 30000,
+        "annualMin": 180000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–3万/月",
+        "annualDisplay": "18万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-30K 元/月",
+      "monthlySalary": "1.5万–3万/月",
+      "annualSalary": "18万–36万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=7d01646c-2182-492f-8fa0-4f2999f9904d",
-      "lastVerified": "2026-03-10",
+      "publishedAt": "2026-03-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -679,7 +1952,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -692,10 +1965,64 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "追觅科技中国区岗位投递入口： 【销售支持类】营销、GTM、客户体验 【渠道销售类】天猫、京东、抖音、设计 【职能平台类】财务BP、法务、HRBP",
+      "jobRequirements": "1. 全日制本科及以上 2. 有相关实习经验优先 3. 有大型企业实习经历优先 4. 毕业三年内亦可投递",
+      "JD": "追觅科技中国区岗位投递入口： 【销售支持类】营销、GTM、客户体验 【渠道销售类】天猫、京东、抖音、设计 【职能平台类】财务BP、法务、HRBP\n1. 全日制本科及以上 2. 有相关实习经验优先 3. 有大型企业实习经历优先 4. 毕业三年内亦可投递",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-15K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "10K-15K 元/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=289d6cd3-9cbc-451f-9c4d-cdbeec5f7647",
-      "lastVerified": "2025-12-09",
+      "publishedAt": "2025-12-09",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -708,12 +2035,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、全日制本科及以上学历，汽车、发动机或机械自动化等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -721,10 +2048,65 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责底盘系统的设计和开发,包括底盘结构、悬挂系统、制动系统等的设计和验证; 2.根据产品需求和市场需求,制定底盘系统的技术方案,确定关键技术和参数; 3.使用CAD、CAE等工具进行底盘系统的设计和仿真分析,完成设计结构和布局: 4.配合其他部门进行底盘系统的集成和测试,解决工艺、制造和装配中的问题; 5.跟踪底盘系统的技术发展趋势,了解行业最新技术和标准,提出技术改进和创新的建议: 6.参与底盘系统的故障分析和问题解决,提供技术支持和解决方案；",
+      "jobRequirements": "1、全日制本科及以上学历，汽车、发动机或机械自动化等相关专业； 2、有汽车底盘或动力工作实习者优先； 3、熟悉汽车底盘构造，理解汽车理论知识； 4、熟练使用Catia、CAD、office等相关软件； 5、能吃苦耐劳，具有较强的组织、协调、沟通能力，富有团队精神。",
+      "JD": "1.负责底盘系统的设计和开发,包括底盘结构、悬挂系统、制动系统等的设计和验证; 2.根据产品需求和市场需求,制定底盘系统的技术方案,确定关键技术和参数; 3.使用CAD、CAE等工具进行底盘系统的设计和仿真分析,完成设计结构和布局: 4.配合其他部门进行底盘系统的集成和测试,解决工艺、制造和装配中的问题; 5.跟踪底盘系统的技术发展趋势,了解行业最新技术和标准,提出技术改进和创新的建议: 6.参与底盘系统的故障分析和问题解决,提供技术支持和解决方案；\n1、全日制本科及以上学历，汽车、发动机或机械自动化等相关专业； 2、有汽车底盘或动力工作实习者优先； 3、熟悉汽车底盘构造，理解汽车理论知识； 4、熟练使用Catia、CAD、office等相关软件； 5、能吃苦耐劳，具有较强的组织、协调、沟通能力，富有团队精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、全日制本科及以上学历，汽车、发动机或机械自动化等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=6a04b6aa-6864-441e-aca1-23055cb5baa3",
-      "lastVerified": "2025-10-24",
+      "publishedAt": "2025-10-24",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -737,12 +2119,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，电子工程、光学工程或相关专业背景",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -750,10 +2132,63 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.参与产品整体方案制定，能够根据客户需求，完成各项任务输入分析，输出设计要求和评价标准； 2.在布局设计时，根据ECE, GB 或SAE的要求，分析车灯功能的光学可行性； 3.负责车灯远近光配光设计光学相关分析和设计工作，完成三维设计、光学设计、点亮模拟等软件等工作，并编制相关技术文件,形成报告； 4.组织设计过程中的光学评审，并根据反馈优化点灯效果； 5.根据产品设计中特点研讨并提交相关专利及资料； 6.负责产品的光学性能测试和评价工作，并根据测试结果进行整改优化。",
+      "jobRequirements": "1、本科及以上学历，电子工程、光学工程或相关专业背景； 2、背光/照明设计实习经验，熟悉各类照明技术和设计原理； 3、熟悉光学元件常用的材料及工艺，根据设计要求能制定合适的方案，并有评估产品成本及方案可行性的能力； 4、掌握各种透镜、微透镜、散光板、反光杯等用于LED照明的光学元件的设计方法；了解LED照明灯具，熟悉各种照明标准和配光设计方法； 5、 熟悉光学软件，例如ASAP, Lucidshape, SPEOS, LightTools, Code V, ZEMAX或其他软件； 6、沟通能力强，能持续学习，具有良好的合作意识和创业精神。",
+      "JD": "1.参与产品整体方案制定，能够根据客户需求，完成各项任务输入分析，输出设计要求和评价标准； 2.在布局设计时，根据ECE, GB 或SAE的要求，分析车灯功能的光学可行性； 3.负责车灯远近光配光设计光学相关分析和设计工作，完成三维设计、光学设计、点亮模拟等软件等工作，并编制相关技术文件,形成报告； 4.组织设计过程中的光学评审，并根据反馈优化点灯效果； 5.根据产品设计中特点研讨并提交相关专利及资料； 6.负责产品的光学性能测试和评价工作，并根据测试结果进行整改优化。\n1、本科及以上学历，电子工程、光学工程或相关专业背景； 2、背光/照明设计实习经验，熟悉各类照明技术和设计原理； 3、熟悉光学元件常用的材料及工艺，根据设计要求能制定合适的方案，并有评估产品成本及方案可行性的能力； 4、掌握各种透镜、微透镜、散光板、反光杯等用于LED照明的光学元件的设计方法；了解LED照明灯具，熟悉各种照明标准和配光设计方法； 5、 熟悉光学软件，例如ASAP, Lucidshape, SPEOS, LightTools, Code V, ZEMAX或其他软件； 6、沟通能力强，能持续学习，具有良好的合作意识和创业精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子工程、光学工程或相关专业背景"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-30K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 30000,
+        "annualMin": 300000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3万/月",
+        "annualDisplay": "30万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-30K 元/月",
+      "monthlySalary": "2.5万–3万/月",
+      "annualSalary": "30万–36万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=a8d66986-5d45-4ad7-9467-9904d4c52298",
-      "lastVerified": "2025-10-24",
+      "publishedAt": "2025-10-24",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -766,12 +2201,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 本科及以上学历，车辆工程、自动化、控制工程、机器人、计算机等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -779,10 +2214,66 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责车辆纵向/横向/垂向控制算法的研发与优化，包括但不限于ACC、AEB、LKA、TJA、VMC等模块； 2. 基于车辆动力学模型与传感器数据，设计并实现智能化控制策略（如MPC、LQR、强化学习、自适应控制等）； 3. 参与能量管理算法开发（如HEV/BEV的扭矩分配、制动能量回收优化）； 4. 构建数据驱动的控制算法评估与迭代体系，支持实车测试与仿真闭环； 5. 与嵌入式软件团队协作，完成算法的模型转换、代码生成与车规级部署（符合ASPICE/ISO 26262）； 6. 跟踪前沿控制理论与智能算法发展趋势，推动创新技术落地。",
+      "jobRequirements": "1. 本科及以上学历，车辆工程、自动化、控制工程、机器人、计算机等相关专业； 2. 熟悉经典控制理论（PID、LQR、MPC）与现代控制方法，有实际车辆控制系统开发经验； 3. 熟练掌握C/C++/Python/Matlab/Simulink，具备模型开发与代码生成经验； 4. 熟悉车辆动力学建模、状态估计与参数辨识方法； 5. 有自动驾驶或智能驾驶控制算法实习经验者优先；",
+      "JD": "1. 负责车辆纵向/横向/垂向控制算法的研发与优化，包括但不限于ACC、AEB、LKA、TJA、VMC等模块； 2. 基于车辆动力学模型与传感器数据，设计并实现智能化控制策略（如MPC、LQR、强化学习、自适应控制等）； 3. 参与能量管理算法开发（如HEV/BEV的扭矩分配、制动能量回收优化）； 4. 构建数据驱动的控制算法评估与迭代体系，支持实车测试与仿真闭环； 5. 与嵌入式软件团队协作，完成算法的模型转换、代码生成与车规级部署（符合ASPICE/ISO 26262）； 6. 跟踪前沿控制理论与智能算法发展趋势，推动创新技术落地。\n1. 本科及以上学历，车辆工程、自动化、控制工程、机器人、计算机等相关专业； 2. 熟悉经典控制理论（PID、LQR、MPC）与现代控制方法，有实际车辆控制系统开发经验； 3. 熟练掌握C/C++/Python/Matlab/Simulink，具备模型开发与代码生成经验； 4. 熟悉车辆动力学建模、状态估计与参数辨识方法； 5. 有自动驾驶或智能驾驶控制算法实习经验者优先；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，车辆工程、自动化、控制工程、机器人、计算机等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-30K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 30000,
+        "annualMin": 300000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3万/月",
+        "annualDisplay": "30万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-30K 元/月",
+      "monthlySalary": "2.5万–3万/月",
+      "annualSalary": "30万–36万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=829b0500-040e-4459-b1a7-2c85b8ff7c7c",
-      "lastVerified": "2025-10-24",
+      "publishedAt": "2025-10-24",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -799,8 +2290,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.电化学/材料/化学/物理化学或相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -808,10 +2299,66 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责协助对接整车系统动力性能需求,完成电芯性能匹配; 2.参与电芯开发设计过程,从设计角度评估电芯物料选型、技术指标、性能,对电芯供应商进行技术评审,管控电芯开发 进度及开发交付质量; 3.评估电芯测试评价标准与测试流程,收集分析电芯测试数据,支持BMS策略及整包热管理系统开发; 4.跟进并解决整包及整车测试中电芯相关的问题; 5.协助整车进行市场需求研究,将市场需求分解为电芯产品的技术要求; 6.负责对相关竞品的电芯产品信息收集和对标分析。",
+      "jobRequirements": "1.电化学/材料/化学/物理化学或相关专业; 2.5新能源整车厂电芯DRE相关实习经验,有动力电芯企业电芯设计开发实习经验优先; 3.精通锂离子电芯设计、材料和工艺技术发展趋势,了解电芯安全及可靠性、失效分析与仿真方法; 4.掌握常用的电化学测试方法,了解动力电池的相关测试标准和测试方法; 5.有较强的战略思维能力、决策能力、计划与组织能力。有团队合作精神,语言表达与沟通能力强、熟练撰写技术报告。",
+      "JD": "1.负责协助对接整车系统动力性能需求,完成电芯性能匹配; 2.参与电芯开发设计过程,从设计角度评估电芯物料选型、技术指标、性能,对电芯供应商进行技术评审,管控电芯开发 进度及开发交付质量; 3.评估电芯测试评价标准与测试流程,收集分析电芯测试数据,支持BMS策略及整包热管理系统开发; 4.跟进并解决整包及整车测试中电芯相关的问题; 5.协助整车进行市场需求研究,将市场需求分解为电芯产品的技术要求; 6.负责对相关竞品的电芯产品信息收集和对标分析。\n1.电化学/材料/化学/物理化学或相关专业; 2.5新能源整车厂电芯DRE相关实习经验,有动力电芯企业电芯设计开发实习经验优先; 3.精通锂离子电芯设计、材料和工艺技术发展趋势,了解电芯安全及可靠性、失效分析与仿真方法; 4.掌握常用的电化学测试方法,了解动力电池的相关测试标准和测试方法; 5.有较强的战略思维能力、决策能力、计划与组织能力。有团队合作精神,语言表达与沟通能力强、熟练撰写技术报告。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.电化学/材料/化学/物理化学或相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=fdfe66f9-a84b-4a77-a700-a77dc9fde1b1",
-      "lastVerified": "2025-10-23",
+      "publishedAt": "2025-10-23",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -824,12 +2371,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、双一流高校本科及以上学历，电子信息、电气自动化、计算机科学与技术、人工智能等相关专业或研究方向",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -837,10 +2384,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "工作职责 1、负责基于视觉的深度学习算法的开发和优化； 2、负责前沿技术(如多模态大模型、VLA/VLN等)的预研和落地产品技术的开发； 3、负责扫地机感知和控制模块的技术开发、优化和迭代。",
+      "jobRequirements": "任职资格 1、双一流高校本科及以上学历，电子信息、电气自动化、计算机科学与技术、人工智能等相关专业或研究方向； 2、良好的计算机基础、较强的算法实现能力； 3、熟悉PyTorch等常用深度学习框架，并能够进行深度学习模型转ONNX部署； 4、较强的分析问题和解决问题的能力，快速无障碍阅读相关领域英文文献； 5、具备主动学习能力，及时跟进理解相关领域前沿技术；良好的沟通和团队合作精神； 6、有RoboMaster、RoboCon视觉组工作经验且竞赛成绩优秀者优先； 7、具备完整项目经验者优先。",
+      "JD": "工作职责 1、负责基于视觉的深度学习算法的开发和优化； 2、负责前沿技术(如多模态大模型、VLA/VLN等)的预研和落地产品技术的开发； 3、负责扫地机感知和控制模块的技术开发、优化和迭代。\n任职资格 1、双一流高校本科及以上学历，电子信息、电气自动化、计算机科学与技术、人工智能等相关专业或研究方向； 2、良好的计算机基础、较强的算法实现能力； 3、熟悉PyTorch等常用深度学习框架，并能够进行深度学习模型转ONNX部署； 4、较强的分析问题和解决问题的能力，快速无障碍阅读相关领域英文文献； 5、具备主动学习能力，及时跟进理解相关领域前沿技术；良好的沟通和团队合作精神； 6、有RoboMaster、RoboCon视觉组工作经验且竞赛成绩优秀者优先； 7、具备完整项目经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、双一流高校本科及以上学历，电子信息、电气自动化、计算机科学与技术、人工智能等相关专业或研究方向"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=be419115-2abb-4c87-ac6a-ed162cc87434",
-      "lastVerified": "2025-06-30",
+      "publishedAt": "2025-06-30",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -853,12 +2455,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，机械相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -866,10 +2468,64 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、参与洗地机主体结构及各功能模块结构设计，负责洗地机功能及性能开发，完成产品从设计到量产的整个过程； 2、参与洗地机技术调研、技术分析、技术储备等研发工作，参与洗地机技术发展路线图及产品开发路线图制定及执行； 3、按流程及开发计划完成技术文件编制及设计工作，如：产品图纸，零部件图纸，BOM编制等。完成产品文件，如：技术规格书、特殊特性清单、包装、名牌、说明书、成本核算、投资回报率等； 4、负责现有产品全生命周期维护工作，如：质量改善、降本、效率提升、衍生品等事项； 5、对制造、品质、采购、供方等模块提供日常技术支持；",
+      "jobRequirements": "1、本科及以上学历，机械相关专业； 2、熟练运用UG/Proe/Solidworks等任一种开发软件，熟悉塑料件、钣金件成型工艺及模具制作 3、有责任感和事业心，有较好的创新能力者优先； 4、具备CFD/CAE仿真能力者优先；",
+      "JD": "1、参与洗地机主体结构及各功能模块结构设计，负责洗地机功能及性能开发，完成产品从设计到量产的整个过程； 2、参与洗地机技术调研、技术分析、技术储备等研发工作，参与洗地机技术发展路线图及产品开发路线图制定及执行； 3、按流程及开发计划完成技术文件编制及设计工作，如：产品图纸，零部件图纸，BOM编制等。完成产品文件，如：技术规格书、特殊特性清单、包装、名牌、说明书、成本核算、投资回报率等； 4、负责现有产品全生命周期维护工作，如：质量改善、降本、效率提升、衍生品等事项； 5、对制造、品质、采购、供方等模块提供日常技术支持；\n1、本科及以上学历，机械相关专业； 2、熟练运用UG/Proe/Solidworks等任一种开发软件，熟悉塑料件、钣金件成型工艺及模具制作 3、有责任感和事业心，有较好的创新能力者优先； 4、具备CFD/CAE仿真能力者优先；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "12K-25K 元/月",
+        "monthlyMin": 12000,
+        "monthlyMax": 25000,
+        "annualMin": 144000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.2万–2.5万/月",
+        "annualDisplay": "14.4万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "12K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "12K-25K 元/月",
+      "monthlySalary": "1.2万–2.5万/月",
+      "annualSalary": "14.4万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=50fb1d1c-bec2-4d8c-a9b1-b1341d431f45",
-      "lastVerified": "2025-03-04",
+      "publishedAt": "2025-03-04",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -882,12 +2538,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，机械工程、机械设计制造及其自动化、材料成型及控制工程等相关专业；3、具备扎实的机械原理、材料力学、工程材料等专业知识",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -895,10 +2551,66 @@
         "minorLanguageRequired": false
       },
       "location": "苏州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助资深结构设计师完成产品的结构设计工作，包括但不限于零部件的设计、装配结构的优化等。 2、参与项目团队的设计讨论，提出创新性的结构设计方案和改进建议。 3、负责结构设计相关的技术文件编制，如设计图纸、BOM 清单等。 4、对产品结构进行性能分析和仿真，确保设计满足强度、刚度、稳定性等要求。 5、配合制造部门，解决生产过程中的结构相关技术问题，提供技术支持。 6、跟踪行业内最新的结构设计技术和发展趋势，不断学习和提升自身专业能力。",
+      "jobRequirements": "1、本科及以上学历，机械工程、机械设计制造及其自动化、材料成型及控制工程等相关专业。 2、熟练使用至少一种结构设计软件如：Solidworks、Ug NX、PROE/CREO等（后续要用PROE）。 3、具备扎实的机械原理、材料力学、工程材料等专业知识。 4、有良好的创新思维和团队合作精神，责任心强，具备较强的学习能力。 5、在校期间有相关结构设计项目经验者优先。",
+      "JD": "1、协助资深结构设计师完成产品的结构设计工作，包括但不限于零部件的设计、装配结构的优化等。 2、参与项目团队的设计讨论，提出创新性的结构设计方案和改进建议。 3、负责结构设计相关的技术文件编制，如设计图纸、BOM 清单等。 4、对产品结构进行性能分析和仿真，确保设计满足强度、刚度、稳定性等要求。 5、配合制造部门，解决生产过程中的结构相关技术问题，提供技术支持。 6、跟踪行业内最新的结构设计技术和发展趋势，不断学习和提升自身专业能力。\n1、本科及以上学历，机械工程、机械设计制造及其自动化、材料成型及控制工程等相关专业。 2、熟练使用至少一种结构设计软件如：Solidworks、Ug NX、PROE/CREO等（后续要用PROE）。 3、具备扎实的机械原理、材料力学、工程材料等专业知识。 4、有良好的创新思维和团队合作精神，责任心强，具备较强的学习能力。 5、在校期间有相关结构设计项目经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械工程、机械设计制造及其自动化、材料成型及控制工程等相关专业",
+          "3、具备扎实的机械原理、材料力学、工程材料等专业知识"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "10",
+        "min": 10,
+        "max": 10,
+        "scope": "job",
+        "display": "10人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10 10 1、协助资深结构设计师完成产品的结构设计工作，包括但不限于零部件的设计、装配结构"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=4a0e018f-74f4-492c-8482-d934904a07a5",
-      "lastVerified": "2025-02-20",
+      "publishedAt": "2025-02-20",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -924,10 +2636,59 @@
         "minorLanguageRequired": false
       },
       "location": "国外",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "见JD",
+      "jobRequirements": "见JD",
+      "JD": "见JD",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 见JD 见JD 公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=4c4a5eb1-f210-489d-b80e-87f66ebc524c",
-      "lastVerified": "2026-03-18",
+      "publishedAt": "2026-03-18",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -940,12 +2701,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "（1）本科以上学历，机械设计相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -953,10 +2714,65 @@
         "minorLanguageRequired": false
       },
       "location": "江苏省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（1）协助工程师绘制以及整理产品零部件2D图纸； （2）熟悉产品零部件材料以及材料特性，并整理产品明细BOM清单； （3）协助工程师ECN变更，依据ECN变更BOM、图纸、并发行到技术办； （4）整理工程变更资料以及推进变更进度流程； （5）负责部门PDM系统中变更数据整理与标准化； （6）协助工程师跟进测试验证进度以及相关资料整理；",
+      "jobRequirements": "（1）本科以上学历，机械设计相关专业； （2）熟练使用 Pro/E 、AUTOCAD、 Creo、等设计软件以及Office办公软件； （3）熟悉PDM系统，计算机操作熟练，精通常用办公软件； （4）有良好的语言表达能力、动手能力强、协调能力以及求实进取，能积极改进有精益求精的工作精神； （5）性格开朗，做事细心，有耐心，有责任心，工作积极主动；\"",
+      "JD": "（1）协助工程师绘制以及整理产品零部件2D图纸； （2）熟悉产品零部件材料以及材料特性，并整理产品明细BOM清单； （3）协助工程师ECN变更，依据ECN变更BOM、图纸、并发行到技术办； （4）整理工程变更资料以及推进变更进度流程； （5）负责部门PDM系统中变更数据整理与标准化； （6）协助工程师跟进测试验证进度以及相关资料整理；\n（1）本科以上学历，机械设计相关专业； （2）熟练使用 Pro/E 、AUTOCAD、 Creo、等设计软件以及Office办公软件； （3）熟悉PDM系统，计算机操作熟练，精通常用办公软件； （4）有良好的语言表达能力、动手能力强、协调能力以及求实进取，能积极改进有精益求精的工作精神； （5）性格开朗，做事细心，有耐心，有责任心，工作积极主动；\"",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "（1）本科以上学历，机械设计相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-15K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "10K-15K 元/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=c220c971-6458-4282-b583-79fbcaf7b68d",
-      "lastVerified": "2025-02-28",
+      "publishedAt": "2025-02-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -969,12 +2785,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、计算机、软件或相关专业，本科及以上学历，具备一定的编程基础",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -982,10 +2798,63 @@
         "minorLanguageRequired": false
       },
       "location": "江苏省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、参与产品的测试活动，包括测试需求分析、测试方案设计、测试用例设计和测试结果分析，测试用例执行,涵盖软件功能测试和专项测试如性能测试、可靠性测试、安全测试、自动化测试等; 2、参与部门自动化的设计与实现; 3、参与制定和落实测试策略和计划、输出测试用例，识别质量风险，制定改进措施并落地。 4、参与对需求、UI、概要设计、详细设计的评审。根据需求、UI、概要设计、详细设计编写测试用例(功能、性能、可靠性、易用性等)。 5、根据测试计划搭建和维护测试环境。执行测试工作，提交测试报告。 6、对测试中发现的问题进行初步分析，帮助开发定位问题，推动问题解决。对测试结果进行总结与统计分析，对测试进行跟踪，并提出反馈意见。",
+      "jobRequirements": "1、计算机、软件或相关专业，本科及以上学历，具备一定的编程基础 2、掌握一定软件测试理论和方法，了解用例设计的常用方法，具备一定的测试设计和测试分析能力。 3、工作认真踏实、有责任感。具有良好的自学能力、沟通能力、团队精神及强烈的自我驱动力。乐于接受新鲜事物，能够接受工作中的挑战，乐于从事软件测试工作。 4、熟悉常用的测试工具和技术，如JMeter、Selenium等 5、具有较强的逻辑思考能力及一定的抗压能力\"",
+      "JD": "1、参与产品的测试活动，包括测试需求分析、测试方案设计、测试用例设计和测试结果分析，测试用例执行,涵盖软件功能测试和专项测试如性能测试、可靠性测试、安全测试、自动化测试等; 2、参与部门自动化的设计与实现; 3、参与制定和落实测试策略和计划、输出测试用例，识别质量风险，制定改进措施并落地。 4、参与对需求、UI、概要设计、详细设计的评审。根据需求、UI、概要设计、详细设计编写测试用例(功能、性能、可靠性、易用性等)。 5、根据测试计划搭建和维护测试环境。执行测试工作，提交测试报告。 6、对测试中发现的问题进行初步分析，帮助开发定位问题，推动问题解决。对测试结果进行总结与统计分析，对测试进行跟踪，并提出反馈意见。\n1、计算机、软件或相关专业，本科及以上学历，具备一定的编程基础 2、掌握一定软件测试理论和方法，了解用例设计的常用方法，具备一定的测试设计和测试分析能力。 3、工作认真踏实、有责任感。具有良好的自学能力、沟通能力、团队精神及强烈的自我驱动力。乐于接受新鲜事物，能够接受工作中的挑战，乐于从事软件测试工作。 4、熟悉常用的测试工具和技术，如JMeter、Selenium等 5、具有较强的逻辑思考能力及一定的抗压能力\"",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、计算机、软件或相关专业，本科及以上学历，具备一定的编程基础"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-15K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "10K-15K 元/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://dreame.zhiye.com/campus/detail?jobAdId=b6236ac7-ec76-459d-8c46-50b5d6ddc7e0",
-      "lastVerified": "2025-02-28",
+      "publishedAt": "2025-02-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

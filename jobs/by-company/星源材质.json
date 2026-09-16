@@ -16,8 +16,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、机械化/人力/材料/数理统计（数据分析）/自动化控制相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -25,9 +25,65 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "发布于 2026-08-31 全职 全职 | 技术族 技术族 | 瑞典 美国 瑞典 美国 岗位职责：负责生产设备操作、工艺执行、生产异常处理及产品质量控制，确保生产安全、高效运行。岗位要求：1、机械化/人力/材料/数理统计（数据分析）/自动化控制相关专业2、英语6级或同等级英语水平，口语良好。学习能力强，适应能力强，善于沟通 岗位职责： 负责生产设备操作、工艺执行、生产异常处理及产品质量控制，确保生产安全、高效运行。 岗位要求： 1、机械化/人力/材料/数理统计（数据分析）/自动化控制相关专业 2、英语6级或同等级英语水平，口语良好。学习能力强，适应能力强，善于沟通 立即投递",
+      "jobRequirements": "",
+      "JD": "发布于 2026-08-31 全职 全职 | 技术族 技术族 | 瑞典 美国 瑞典 美国 岗位职责：负责生产设备操作、工艺执行、生产异常处理及产品质量控制，确保生产安全、高效运行。岗位要求：1、机械化/人力/材料/数理统计（数据分析）/自动化控制相关专业2、英语6级或同等级英语水平，口语良好。学习能力强，适应能力强，善于沟通 岗位职责： 负责生产设备操作、工艺执行、生产异常处理及产品质量控制，确保生产安全、高效运行。 岗位要求： 1、机械化/人力/材料/数理统计（数据分析）/自动化控制相关专业 2、英语6级或同等级英语水平，口语良好。学习能力强，适应能力强，善于沟通 立即投递",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、机械化/人力/材料/数理统计（数据分析）/自动化控制相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/fe07dcd9-76d2-472e-bec1-2ca324bf9900",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -45,8 +101,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "能力要求：专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺专业（前沿）：电化学相关专业、固态电解质相关、材料学语言：英语CET-6 岗位职责： 技术开发：根据市场导向及客户需求，开发新技术及相对应的技术平台；能力要求： 专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺 专业（前沿）：电化学相关专业、固态电解质相关、材料学 语言：英语CET-6 立即投递",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -54,9 +110,68 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "发布于 2026-08-31 全职 全职 | 技术族 技术族 | 广东·深圳市 江苏·常州市 广东·深圳市 江苏·常州市 岗位职责：技术开发：根据市场导向及客户需求，开发新技术及相对应的技术平台；包括但不限于现有产品技术升级、成本优化，新原料、工艺、配方、供应商开发，产品技术标准、工艺参数、工艺流程固化等；产品开发：组织打样及产品验证；包括但不限于打样、过程跟进、品质管控、数据整理分析、过程报告撰写，跟进客户反馈并持续改进等；基础研究：根据市场情况，技术及产品开发情况，及时进行相关资料及信息的查阅，并进行基础研究层面的验证；技术储备：根据行业新材料研究发展趋势，聚焦锂电池隔膜领域，选择高性价比的产品，进行可行性研究分析，协助或制定产品预研规划并组织实施；信息收集：及时收集前沿技术、同行技术发展情况及市场反馈和政策变化情况，深入分析，协助或制定技术开发规划并组织实施；技术支持：为客户、营销、产品管理部及生产等相关部门提供相应的技术和产品服务支持。能力要求：专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺专业（前沿）：电化学相关专业、固态电解质相关、材料学语言：英语CET-6 岗位职责： 技术开发：根据市场导向及客户需求，开发新技术及相对应的技术平台；包括但不限于现有产品技术升级、成本优化，新原料、工艺、配方、供应商开发，产品技术标准、工艺参数、工艺流程固化等； 产品开发：组织打样及产品验证；包括但不限于打样、过程跟进、品质管控、数据整理分析、过程报告撰写，跟进客户反馈并持续改进等； 基础研究：根据市场情况，技术及产品开发情况，及时进行相关资料及信息的查阅，并进行基础研究层面的验证； 技术储备：根据行业新材料研究发展趋势，聚焦锂电池隔膜领域，选择高性价比的产品，进行可行性研究分析，协助或制定产品预研规划并组织实施； 信息收集：及时收集前沿技术、同行技术发展情况及市场反馈和政策变化情况，深入分析，协助或制定技术开发规划并组织实施； 技术支持：为客户、营销、产品管理部及生产等相关部门提供相应的技术和产品服务支持。 能力要求： 专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺 专业（前沿）：电化学相关专业、固态电解质相关、材料学 语言：英语CET-6 立即投递",
+      "jobRequirements": "",
+      "JD": "发布于 2026-08-31 全职 全职 | 技术族 技术族 | 广东·深圳市 江苏·常州市 广东·深圳市 江苏·常州市 岗位职责：技术开发：根据市场导向及客户需求，开发新技术及相对应的技术平台；包括但不限于现有产品技术升级、成本优化，新原料、工艺、配方、供应商开发，产品技术标准、工艺参数、工艺流程固化等；产品开发：组织打样及产品验证；包括但不限于打样、过程跟进、品质管控、数据整理分析、过程报告撰写，跟进客户反馈并持续改进等；基础研究：根据市场情况，技术及产品开发情况，及时进行相关资料及信息的查阅，并进行基础研究层面的验证；技术储备：根据行业新材料研究发展趋势，聚焦锂电池隔膜领域，选择高性价比的产品，进行可行性研究分析，协助或制定产品预研规划并组织实施；信息收集：及时收集前沿技术、同行技术发展情况及市场反馈和政策变化情况，深入分析，协助或制定技术开发规划并组织实施；技术支持：为客户、营销、产品管理部及生产等相关部门提供相应的技术和产品服务支持。能力要求：专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺专业（前沿）：电化学相关专业、固态电解质相关、材料学语言：英语CET-6 岗位职责： 技术开发：根据市场导向及客户需求，开发新技术及相对应的技术平台；包括但不限于现有产品技术升级、成本优化，新原料、工艺、配方、供应商开发，产品技术标准、工艺参数、工艺流程固化等； 产品开发：组织打样及产品验证；包括但不限于打样、过程跟进、品质管控、数据整理分析、过程报告撰写，跟进客户反馈并持续改进等； 基础研究：根据市场情况，技术及产品开发情况，及时进行相关资料及信息的查阅，并进行基础研究层面的验证； 技术储备：根据行业新材料研究发展趋势，聚焦锂电池隔膜领域，选择高性价比的产品，进行可行性研究分析，协助或制定产品预研规划并组织实施； 信息收集：及时收集前沿技术、同行技术发展情况及市场反馈和政策变化情况，深入分析，协助或制定技术开发规划并组织实施； 技术支持：为客户、营销、产品管理部及生产等相关部门提供相应的技术和产品服务支持。 能力要求： 专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺 专业（前沿）：电化学相关专业、固态电解质相关、材料学 语言：英语CET-6 立即投递",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "能力要求：专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺专业（前沿）：电化学相关专业、固态电解质相关、材料学语言：英语CET-6 岗位职责： 技术开发：根据市场导向及客户需求，开发新技术及相对应的技术平台",
+          "能力要求： 专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺 专业（前沿）：电化学相关专业、固态电解质相关、材料学 语言：英语CET-6 立即投递"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/e59dac57-a9d3-4eb7-bcbd-8c9784dcc70d",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -83,10 +198,61 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 职能族 马来西亚槟城 瑞典 Eskilstuna 美国北卡罗莱纳州",
+      "jobRequirements": "",
+      "JD": "虚拟部门 职能族 马来西亚槟城 瑞典 Eskilstuna 美国北卡罗莱纳州",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/083c6037-5623-4a64-ad81-bebd0d737643",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -112,10 +278,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 技术族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jobRequirements": "",
+      "JD": "虚拟部门 技术族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/25e4f11f-86e6-492e-a62b-f93717793b62",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -141,10 +356,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 职能族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jobRequirements": "",
+      "JD": "虚拟部门 职能族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/2e99cd81-67c4-4384-bd18-a6c8a4ec0f78",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -170,10 +434,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 职能族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jobRequirements": "",
+      "JD": "虚拟部门 职能族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/6e542f97-8fec-4f40-9e61-b4f1bc1021cf",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -199,10 +512,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "深圳总部 技术族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jobRequirements": "",
+      "JD": "深圳总部 技术族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/89c64c23-6398-43f7-989b-82b953719975",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -228,10 +590,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 职能族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jobRequirements": "",
+      "JD": "虚拟部门 职能族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/b9ed5eab-2415-4533-b835-e08979052fcd",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -257,10 +668,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 技术族 瑞典 Eskilstuna 马田街道田园路5号深圳市星源材质股份有限公司2号楼 马来西亚槟城 经开区常青路999号 和兴东路69号 徐海路南侧星源材质（佛山）新材料科技有限公司 城西大道128号 美国北卡罗莱纳州 经开区兴东路888号",
+      "jobRequirements": "",
+      "JD": "虚拟部门 技术族 瑞典 Eskilstuna 马田街道田园路5号深圳市星源材质股份有限公司2号楼 马来西亚槟城 经开区常青路999号 和兴东路69号 徐海路南侧星源材质（佛山）新材料科技有限公司 城西大道128号 美国北卡罗莱纳州 经开区兴东路888号",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/de27fee2-9a71-4084-b1e9-7c2459885610",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -286,10 +746,59 @@
         "minorLanguageRequired": false
       },
       "location": "佛山",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 技术族 徐海路南侧星源材质（佛山）新材料科技有限公司 美国北卡罗莱纳州 城西大道128号 经开区兴东路888号 和兴东路69号 瑞典 Eskilstuna 经开区常青路999号",
+      "jobRequirements": "",
+      "JD": "虚拟部门 技术族 徐海路南侧星源材质（佛山）新材料科技有限公司 美国北卡罗莱纳州 城西大道128号 经开区兴东路888号 和兴东路69号 瑞典 Eskilstuna 经开区常青路999号",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/d7ace37a-535c-4c34-b693-59e45ab74f90",
-      "lastVerified": "2026-09-08",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -315,10 +824,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 职能族 和兴东路69号",
+      "jobRequirements": "",
+      "JD": "虚拟部门 职能族 和兴东路69号",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/0b2c6945-ac83-482f-a685-b0b7d11c34db",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -344,10 +902,59 @@
         "minorLanguageRequired": false
       },
       "location": "佛山",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 技术族 美国北卡罗莱纳州 徐海路南侧星源材质（佛山）新材料科技有限公司 经开区兴东路888号 马来西亚槟城 和兴东路69号 经开区常青路999号",
+      "jobRequirements": "",
+      "JD": "虚拟部门 技术族 美国北卡罗莱纳州 徐海路南侧星源材质（佛山）新材料科技有限公司 经开区兴东路888号 马来西亚槟城 和兴东路69号 经开区常青路999号",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/6502040b-297c-4b74-aaf2-b3897e210630",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -373,10 +980,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 技术族 美国北卡罗莱纳州",
+      "jobRequirements": "",
+      "JD": "虚拟部门 技术族 美国北卡罗莱纳州",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/6e10eda0-6f17-497b-9bfb-874cecd7b262",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -402,10 +1058,61 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 营销族 马来西亚槟城 瑞典 Eskilstuna 美国北卡罗莱纳州 首尔市江南区",
+      "jobRequirements": "",
+      "JD": "虚拟部门 营销族 马来西亚槟城 瑞典 Eskilstuna 美国北卡罗莱纳州 首尔市江南区",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/8cea7c96-5686-43a7-a6dd-6a3844e792f5",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -431,10 +1138,59 @@
         "minorLanguageRequired": false
       },
       "location": "佛山",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 技术族 马来西亚槟城 经开区常青路999号 美国北卡罗莱纳州 经开区兴东路888号 徐海路南侧星源材质（佛山）新材料科技有限公司 和兴东路69号 瑞典 Eskilstuna 城西大道128号",
+      "jobRequirements": "",
+      "JD": "虚拟部门 技术族 马来西亚槟城 经开区常青路999号 美国北卡罗莱纳州 经开区兴东路888号 徐海路南侧星源材质（佛山）新材料科技有限公司 和兴东路69号 瑞典 Eskilstuna 城西大道128号",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/a2e8db5a-7694-4a3b-8d01-55f0e9eb9813",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -460,10 +1216,59 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 职能族 美国北卡罗莱纳州 瑞典 Eskilstuna 马来西亚槟城",
+      "jobRequirements": "",
+      "JD": "虚拟部门 职能族 美国北卡罗莱纳州 瑞典 Eskilstuna 马来西亚槟城",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/c3a19871-799a-40c6-b2f8-65a9b207ef11",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -489,10 +1294,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "虚拟部门 职能族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jobRequirements": "",
+      "JD": "虚拟部门 职能族 马田街道田园路5号深圳市星源材质股份有限公司2号楼",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/senior798/102358#/job/09bebb90-37a2-49a9-83c8-5f41ad0388d0",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

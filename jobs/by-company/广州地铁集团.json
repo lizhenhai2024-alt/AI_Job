@@ -8,16 +8,17 @@
       "company": "广州地铁集团有限公司",
       "title": "小语种翻译",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 外国语言文学、翻译、西语、俄语、日语、韩语、葡语",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语、日语、西班牙语、葡萄牙语、俄语、韩语",
@@ -25,10 +26,75 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.支持公司海外业务的口译与笔译工作，保障国际沟通的顺畅与准确。 2.完成各类商务文件（合同、技术文档、投标材料等）的笔译、校对，并对内容进行本地化翻译。 3.在商务会议、客户拜访等场合担任现场翻译，协助开展公司与交流单位的跨文化沟通。 4.构建和维护小语种术语库，提升团队翻译效率与质量。",
+      "jobRequirements": "任职资格： （一）硕士研究生及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 外国语言文学、翻译、西语、俄语、日语、韩语、葡语。",
+      "JD": "1.支持公司海外业务的口译与笔译工作，保障国际沟通的顺畅与准确。 2.完成各类商务文件（合同、技术文档、投标材料等）的笔译、校对，并对内容进行本地化翻译。 3.在商务会议、客户拜访等场合担任现场翻译，协助开展公司与交流单位的跨文化沟通。 4.构建和维护小语种术语库，提升团队翻译效率与质量。\n任职资格： （一）硕士研究生及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 外国语言文学、翻译、西语、俄语、日语、韩语、葡语。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 外国语言文学、翻译、西语、俄语、日语、韩语、葡语"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "翻译/本地化",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "跨文化",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=3b11a36e-7bd9-4187-b5f8-74e6fba584dc",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -37,16 +103,17 @@
       "company": "广州地铁集团有限公司",
       "title": "市场经营",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 市场营销、工商管理类、管理科学与工程类、旅游管理类、新闻传播学类、经济学类、金融学类、城市规划、设计、建筑学等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -54,10 +121,70 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "一、地产营销管理方向 1.统筹项目整体销售与市场推广工作，包括：制定年度、季度、月度销售计划及营销方案并落地执行；负责案场运营、销售渠道拓展与客户管理；统筹项目佣金核算、结算及回款工作；同时对接合作单位，开展合作业绩考核与日常管理。 2.负责营销团队搭建，统筹人员招聘、培训、日常管理及绩效考核工作。落实公司管理制度与企业文化建设工作，规范团队工作标准，提升团队整体业务能力与执行力，保障营销工作高效有序开展。 二、资源招商策划方向 1.负责公司商业项目全链条工作的开展，包括项目前期策划、招商、营运、安全、营销宣传等工作； 2.提出商业项目策划建议，包括制定业态规划、品牌策略及租金体系。 3.负责商业项目招商管理，包括客户接洽、合作谈判及合同签订； 4.拓展管辖区域商业资源品牌，开拓招商渠道，组织招商洽谈。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 市场营销、工商管理类、管理科学与工程类、旅游管理类、新闻传播学类、经济学类、金融学类、城市规划、设计、建筑学等相关专业。",
+      "JD": "一、地产营销管理方向 1.统筹项目整体销售与市场推广工作，包括：制定年度、季度、月度销售计划及营销方案并落地执行；负责案场运营、销售渠道拓展与客户管理；统筹项目佣金核算、结算及回款工作；同时对接合作单位，开展合作业绩考核与日常管理。 2.负责营销团队搭建，统筹人员招聘、培训、日常管理及绩效考核工作。落实公司管理制度与企业文化建设工作，规范团队工作标准，提升团队整体业务能力与执行力，保障营销工作高效有序开展。 二、资源招商策划方向 1.负责公司商业项目全链条工作的开展，包括项目前期策划、招商、营运、安全、营销宣传等工作； 2.提出商业项目策划建议，包括制定业态规划、品牌策略及租金体系。 3.负责商业项目招商管理，包括客户接洽、合作谈判及合同签订； 4.拓展管辖区域商业资源品牌，开拓招商渠道，组织招商洽谈。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 市场营销、工商管理类、管理科学与工程类、旅游管理类、新闻传播学类、经济学类、金融学类、城市规划、设计、建筑学等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 市场营销、工商管理类、管理科学与工程类、旅游管理类、新闻传播学类、经济学类、金融学类、城市规划、设计、建筑学等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "营销",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=41bf6fd6-208f-46f0-9d29-332c3913674b",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -66,16 +193,17 @@
       "company": "广州地铁集团有限公司",
       "title": "企管法务-战略投资方向",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 经济学类、金融学类、工商管理类等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -83,10 +211,69 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.协助组织公司发展战略规划编制，跟踪战略规划实施情况，整理分析执行数据；负责协助收集公司年度经营计划及重点工作进展，督办落实情况；协助开展组织绩效考核与对标管理工作；配合开展组织评估及组织管理模式创新。 2.收集宏观政策、行业及市场信息，协助撰写研究报告；辅助筛选投资机会，准备项目立项基础材料；跟踪投资项目进程，参与尽调、投后管理与信息整理报送；参与投资企业管理，开展投资企业的合规性管控、经营风险分析等工作。协助制订投资企业管理规则及管控策略。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 经济学类、金融学类、工商管理类等相关专业。",
+      "JD": "1.协助组织公司发展战略规划编制，跟踪战略规划实施情况，整理分析执行数据；负责协助收集公司年度经营计划及重点工作进展，督办落实情况；协助开展组织绩效考核与对标管理工作；配合开展组织评估及组织管理模式创新。 2.收集宏观政策、行业及市场信息，协助撰写研究报告；辅助筛选投资机会，准备项目立项基础材料；跟踪投资项目进程，参与尽调、投后管理与信息整理报送；参与投资企业管理，开展投资企业的合规性管控、经营风险分析等工作。协助制订投资企业管理规则及管控策略。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 经济学类、金融学类、工商管理类等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 经济学类、金融学类、工商管理类等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=daf16808-d0f8-4d18-a96a-493671b941c6",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -99,12 +286,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "硕士",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 机电类、通信类、计算机、电气化类相关专业方向",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -112,10 +299,66 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "进入集团国研中心博士后工作站，参与集团科研项目，开展专业科研工作，涵盖三个专业方向： 1.机电类专业方向，涉及轨道交通设施设备的智能化控制、健康及寿命管理等方面； 2.电气化类专业方向，涉及轨道交通供变电，具体包括轨道交通领域变电站、接触网、车辆牵引等环节电气工程； 3.计算机类专业方向，涉及轨道交通数字化与智能化，具体包括城市轨道交通运营管理、智能维护维修、智能控制等。",
+      "jobRequirements": "任职资格： （一）博士研究生学历，有志于从事轨道交通行业，博士毕业不超过3年的优秀毕业生； （二）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （三）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （四）符合我司任职回避相关管理要求。 所需专业： 机电类、通信类、计算机、电气化类相关专业方向。",
+      "JD": "进入集团国研中心博士后工作站，参与集团科研项目，开展专业科研工作，涵盖三个专业方向： 1.机电类专业方向，涉及轨道交通设施设备的智能化控制、健康及寿命管理等方面； 2.电气化类专业方向，涉及轨道交通供变电，具体包括轨道交通领域变电站、接触网、车辆牵引等环节电气工程； 3.计算机类专业方向，涉及轨道交通数字化与智能化，具体包括城市轨道交通运营管理、智能维护维修、智能控制等。\n任职资格： （一）博士研究生学历，有志于从事轨道交通行业，博士毕业不超过3年的优秀毕业生； （二）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （三）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （四）符合我司任职回避相关管理要求。 所需专业： 机电类、通信类、计算机、电气化类相关专业方向。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 机电类、通信类、计算机、电气化类相关专业方向"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=d4f9d382-5fac-4942-8de5-a70a8ab6802f",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,12 +371,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "硕士",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 控制科学与工程、建筑学、土木工程、电子信息、电气类",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -141,10 +384,68 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "进入设计院博士后工作站，从事科研及技术合作项目相关工作，涵盖三个专业方向： 1、智能建造、土木工程、结构工程方向：主持或参与过智能建造、隧道工程、基坑工程、监测预警等相关重大、重点科研或工程应用项目。从事智能建造、可变径盾构关键技术、隧道韧性提升关键技术、隧道/基坑智能监测预警、隧道病害整治等方面的研究与开发。 2、人工智能、算法方向：独立或作为核心成员开发过深度学习等算法并在实际场景（工业、工程、物联网等）中部署应用；在计算机、机器学习等相关顶级会议/期刊发表论文；主导过算法落地项目（如缺陷检测、时序预测、决策优化等）。从事人工智能、深度算法、数字建筑、系统开发以及智能装备研制等方面的研究与开发。 3、电气工程（柔性直流供电、牵引供电方向）：有柔性直流供电、轨道交通牵引供电等科研类项目经历优先，有电气类产品研发经历优先，会电气类仿真计算软件优先。主要负责中城协先导示范工程“城市轨道交通车网协同关键系统装备研制及示范应用”项目的科研工作。",
+      "jobRequirements": "任职资格： （一）博士研究生学历，有志于从事轨道交通行业，博士毕业不超过3年的优秀毕业生； （二）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （三）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （四）符合我司任职回避相关管理要求。 所需专业： 控制科学与工程、建筑学、土木工程、电子信息、电气类。",
+      "JD": "进入设计院博士后工作站，从事科研及技术合作项目相关工作，涵盖三个专业方向： 1、智能建造、土木工程、结构工程方向：主持或参与过智能建造、隧道工程、基坑工程、监测预警等相关重大、重点科研或工程应用项目。从事智能建造、可变径盾构关键技术、隧道韧性提升关键技术、隧道/基坑智能监测预警、隧道病害整治等方面的研究与开发。 2、人工智能、算法方向：独立或作为核心成员开发过深度学习等算法并在实际场景（工业、工程、物联网等）中部署应用；在计算机、机器学习等相关顶级会议/期刊发表论文；主导过算法落地项目（如缺陷检测、时序预测、决策优化等）。从事人工智能、深度算法、数字建筑、系统开发以及智能装备研制等方面的研究与开发。 3、电气工程（柔性直流供电、牵引供电方向）：有柔性直流供电、轨道交通牵引供电等科研类项目经历优先，有电气类产品研发经历优先，会电气类仿真计算软件优先。主要负责中城协先导示范工程“城市轨道交通车网协同关键系统装备研制及示范应用”项目的科研工作。\n任职资格： （一）博士研究生学历，有志于从事轨道交通行业，博士毕业不超过3年的优秀毕业生； （二）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （三）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （四）符合我司任职回避相关管理要求。 所需专业： 控制科学与工程、建筑学、土木工程、电子信息、电气类。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 控制科学与工程、建筑学、土木工程、电子信息、电气类"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=e7266693-6e44-4432-b810-530ed54f620c",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -153,16 +454,17 @@
       "company": "广州地铁集团有限公司",
       "title": "系统研发",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 电子信息、计算机科学与技术",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -170,10 +472,67 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、参与工程建设数字化、地铁运维数字化、综合能源管理等软件的设计开发、迭代优化与维护工作； 2、参与产品需求对接、技术方案设计、代码编写、单元测试及bug修复； 3、配合团队完成项目落地、版本更新及技术文档撰写，保障对外交付项目稳定运行。",
+      "jobRequirements": "任职资格： （一）硕士研究生及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 电子信息、计算机科学与技术。",
+      "JD": "1、参与工程建设数字化、地铁运维数字化、综合能源管理等软件的设计开发、迭代优化与维护工作； 2、参与产品需求对接、技术方案设计、代码编写、单元测试及bug修复； 3、配合团队完成项目落地、版本更新及技术文档撰写，保障对外交付项目稳定运行。\n任职资格： （一）硕士研究生及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 电子信息、计算机科学与技术。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 电子信息、计算机科学与技术"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=1152d011-bb21-4dea-8ed8-dcb09b9eea73",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -182,12 +541,13 @@
       "company": "广州地铁集团有限公司",
       "title": "TOD规划、方案设计师（海外）",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
         "raw": "",
@@ -199,10 +559,66 @@
         "minorLanguageRequired": false
       },
       "location": "香港",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "一、TOD规划（海外）方向： 1、开展海外TOD开发规划系统性研究； 2、独立完成线路与站点优化方案及控制要求制定、项目总体定位与综合策略研究、沿线TOD开发规划编制、综合效益分析及核心方案设计等全流程工作，输出可落地的专项研究报告。 二、方案设计（海外）方向： 1、全面开展海外TOD方案设计系统性研究； 2、带领团队进行海外项目的方案设计，独立完成项目总体定位与综合策略研究、方案创作、建筑设计等全流程工作。",
+      "jobRequirements": "任职资格： （一）硕士研究生及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 建筑学、城乡规划。",
+      "JD": "一、TOD规划（海外）方向： 1、开展海外TOD开发规划系统性研究； 2、独立完成线路与站点优化方案及控制要求制定、项目总体定位与综合策略研究、沿线TOD开发规划编制、综合效益分析及核心方案设计等全流程工作，输出可落地的专项研究报告。 二、方案设计（海外）方向： 1、全面开展海外TOD方案设计系统性研究； 2、带领团队进行海外项目的方案设计，独立完成项目总体定位与综合策略研究、方案创作、建筑设计等全流程工作。\n任职资格： （一）硕士研究生及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 建筑学、城乡规划。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=bff8d3b4-c489-4041-800d-e1215f40dd0d",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -211,16 +627,17 @@
       "company": "广州地铁集团有限公司",
       "title": "企管法务-人力方向",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 工商管理类、数学类、统计学类、公共管理类、应用心理学等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -228,10 +645,63 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "协助公司人力资源管理政策和流程的制定、实施和优化，匹配公司人力资源管理战略开展员工选育留用等工作，提高员工满意度和人员效率，支撑业务目标达成。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 工商管理类、数学类、统计学类、公共管理类、应用心理学等相关专业。",
+      "JD": "协助公司人力资源管理政策和流程的制定、实施和优化，匹配公司人力资源管理战略开展员工选育留用等工作，提高员工满意度和人员效率，支撑业务目标达成。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 工商管理类、数学类、统计学类、公共管理类、应用心理学等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 工商管理类、数学类、统计学类、公共管理类、应用心理学等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=4e556196-6dcc-4f63-9717-f874180e06f0",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -240,16 +710,17 @@
       "company": "广州地铁集团有限公司",
       "title": "企管法务-法务方向",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 法学类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -257,10 +728,65 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责建立健全公司合同、风险、内控、合规管理体系，制定并优化相关管理制度及流程，编制管理工作报告，确保管理体系有效运行； 2.组织对公司合同项目的检查与监督，保障项目合规推进；负责日常经营中的法务支持，包括合同文件审核、函件处理、诉讼案件处置及经营决策法律咨询； 3.参与公司业务风险管理，负责外聘律所对接与服务管理，组织开展合同培训及普法宣传等工作。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 法学类相关专业。",
+      "JD": "1.负责建立健全公司合同、风险、内控、合规管理体系，制定并优化相关管理制度及流程，编制管理工作报告，确保管理体系有效运行； 2.组织对公司合同项目的检查与监督，保障项目合规推进；负责日常经营中的法务支持，包括合同文件审核、函件处理、诉讼案件处置及经营决策法律咨询； 3.参与公司业务风险管理，负责外聘律所对接与服务管理，组织开展合同培训及普法宣传等工作。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 法学类相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 法学类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=a292b678-7282-453e-823c-cef1cba42a95",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -269,16 +795,17 @@
       "company": "广州地铁集团有限公司",
       "title": "检测工程师",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 交通运输工程、机械设计制造及其自动化、机械工程、车辆工程、轨道工程、材料科学与工程、无损检测等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -286,10 +813,66 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "一、减振降噪方向 1、负责地铁及相关设施设备的振动噪音检测项目，运用专业技术和设备，制定检测方案，确保检测工作科学、规范、高效开展； 2、对检测数据进行深入分析、处理和解读，建立振动噪音相关模型，为项目提供准确、可靠的分析报告与解决方案； 3、关注行业前沿技术和标准动态，参与公司内部技术研发和创新工作，推动检测技术的优化与升级，提升公司在振动噪音检测领域的核心竞争力； 二、失效分析方向 1、参与轨道交通领域（如车辆零部件、轨道设施、供电系统等）材料及产品的失效分析工作，包括故障排查、原因诊断、机理研究等； 2、协助完成检测实验方案设计，操作各类检测设备（如显微镜、光谱仪、力学试验机等），记录并分析实验数据； 3、整理失效分析报告，提出针对性改进建议，为产品质量提升和安全运行提供技术支持； 4、参与实验室质量管理体系维护，确保检测流程符合行业标准及公司规范； 5、跟踪行业内失效分析技术发展动态，参与技术研发及创新项目，提升团队专业能力。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 交通运输工程、机械设计制造及其自动化、机械工程、车辆工程、轨道工程、材料科学与工程、无损检测等相关专业。",
+      "JD": "一、减振降噪方向 1、负责地铁及相关设施设备的振动噪音检测项目，运用专业技术和设备，制定检测方案，确保检测工作科学、规范、高效开展； 2、对检测数据进行深入分析、处理和解读，建立振动噪音相关模型，为项目提供准确、可靠的分析报告与解决方案； 3、关注行业前沿技术和标准动态，参与公司内部技术研发和创新工作，推动检测技术的优化与升级，提升公司在振动噪音检测领域的核心竞争力； 二、失效分析方向 1、参与轨道交通领域（如车辆零部件、轨道设施、供电系统等）材料及产品的失效分析工作，包括故障排查、原因诊断、机理研究等； 2、协助完成检测实验方案设计，操作各类检测设备（如显微镜、光谱仪、力学试验机等），记录并分析实验数据； 3、整理失效分析报告，提出针对性改进建议，为产品质量提升和安全运行提供技术支持； 4、参与实验室质量管理体系维护，确保检测流程符合行业标准及公司规范； 5、跟踪行业内失效分析技术发展动态，参与技术研发及创新项目，提升团队专业能力。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 交通运输工程、机械设计制造及其自动化、机械工程、车辆工程、轨道工程、材料科学与工程、无损检测等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 交通运输工程、机械设计制造及其自动化、机械工程、车辆工程、轨道工程、材料科学与工程、无损检测等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=561c72e5-4a1a-4d36-8db5-d1c3875ade66",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -298,11 +881,12 @@
       "company": "广州地铁集团有限公司",
       "title": "房地产设计-27届秋招",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -315,10 +899,63 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "分室内设计与景观设计两个方向： 1.负责确定项目室内/景观设计方案，完成室内/景观施工图设计及审核工作； 2.负责施工图交底、现场配合、验收及其他后期服务工作； 3.监控设计变更及执行，跟踪现场实施效果，确保设计落地； 4.参与设计单位考察、选择及设计任务书的编写； 5.负责与各业务部门的工作协调与沟通。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 室内设计、环境设计、环境艺术设计、建筑学、艺术设计、装饰设计、风景园林、城市设计等相关专业。",
+      "JD": "分室内设计与景观设计两个方向： 1.负责确定项目室内/景观设计方案，完成室内/景观施工图设计及审核工作； 2.负责施工图交底、现场配合、验收及其他后期服务工作； 3.监控设计变更及执行，跟踪现场实施效果，确保设计落地； 4.参与设计单位考察、选择及设计任务书的编写； 5.负责与各业务部门的工作协调与沟通。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 室内设计、环境设计、环境艺术设计、建筑学、艺术设计、装饰设计、风景园林、城市设计等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=c5e16f3e-e206-459f-b599-b0ac02fef394",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -327,11 +964,12 @@
       "company": "广州地铁集团有限公司",
       "title": "工建技术",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -344,10 +982,65 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.从事工建技术管理工作，负责轨道、桥隧、隧道、涵洞等基础设施的维护，土建结构健康监测、重大病害加固纠偏、轨道结构调整、设备故障处置、智慧运维系统运用分析，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 铁道工程相关专业。",
+      "JD": "1.从事工建技术管理工作，负责轨道、桥隧、隧道、涵洞等基础设施的维护，土建结构健康监测、重大病害加固纠偏、轨道结构调整、设备故障处置、智慧运维系统运用分析，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 铁道工程相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=6a5dad7b-518d-4b69-8244-20692d4036cf",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -356,16 +1049,17 @@
       "company": "广州地铁集团有限公司",
       "title": "车站设备技术/机电技术",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 机械类、电气类、自动化类、电子信息类、控制科学与工程、计算机类、供热、供燃气、通风及空调工程、暖通、工业工程、建筑环境与能源应用工程、给排水科学与工程、储能科学与工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -373,10 +1067,67 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.从事机电和车站设备技术日常管理工作，确保各项工作制度化、规范化和标准化地进行，保证所管辖的设备高质量运行。具体包括：对监控消防、门梯、通风空调、低压、给排水、自动检售票等设备系统的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 机械类、电气类、自动化类、电子信息类、控制科学与工程、计算机类、供热、供燃气、通风及空调工程、暖通、工业工程、建筑环境与能源应用工程、给排水科学与工程、储能科学与工程等相关专业。",
+      "JD": "1.从事机电和车站设备技术日常管理工作，确保各项工作制度化、规范化和标准化地进行，保证所管辖的设备高质量运行。具体包括：对监控消防、门梯、通风空调、低压、给排水、自动检售票等设备系统的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 机械类、电气类、自动化类、电子信息类、控制科学与工程、计算机类、供热、供燃气、通风及空调工程、暖通、工业工程、建筑环境与能源应用工程、给排水科学与工程、储能科学与工程等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 机械类、电气类、自动化类、电子信息类、控制科学与工程、计算机类、供热、供燃气、通风及空调工程、暖通、工业工程、建筑环境与能源应用工程、给排水科学与工程、储能科学与工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=8b32cff1-bd3f-4d3d-a6ef-3eaee8640ed2",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -385,16 +1136,17 @@
       "company": "广州地铁集团有限公司",
       "title": "供电技术",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 电气类、自动化类、储能科学与工程等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -402,10 +1154,67 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.从事供电技术日常管理工作，确保各项工作制度化、规范化和标准化地进行，保证所管辖的设备高质量运行。具体包括：对接触网系统、变电系统、电力及远动系统的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 电气类、自动化类、储能科学与工程等相关专业。",
+      "JD": "1.从事供电技术日常管理工作，确保各项工作制度化、规范化和标准化地进行，保证所管辖的设备高质量运行。具体包括：对接触网系统、变电系统、电力及远动系统的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 电气类、自动化类、储能科学与工程等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 电气类、自动化类、储能科学与工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=78985b8d-5ece-45af-a5b8-1da7035ecf80",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -414,16 +1223,17 @@
       "company": "广州地铁集团有限公司",
       "title": "机务技术-27届秋招",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 机械类、电气类、电子信息类、自动化类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -431,10 +1241,63 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "统筹城际动车组司机管理、车载安全装备运用、风险隐患闭环、应急处置全流程管理，对机务运用行车安全负直接管理责任，对接调度、设备、车站等部门协同作业，保障城际公交化安全有序开行，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 注：入司后，在走上管理岗位前必须考取动车组J7驾驶证。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 机械类、电气类、电子信息类、自动化类相关专业。",
+      "JD": "统筹城际动车组司机管理、车载安全装备运用、风险隐患闭环、应急处置全流程管理，对机务运用行车安全负直接管理责任，对接调度、设备、车站等部门协同作业，保障城际公交化安全有序开行，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 注：入司后，在走上管理岗位前必须考取动车组J7驾驶证。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 机械类、电气类、电子信息类、自动化类相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 机械类、电气类、电子信息类、自动化类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=7b147df2-b3ea-4f60-accc-9a25441f989d",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -443,16 +1306,17 @@
       "company": "广州地铁集团有限公司",
       "title": "车辆技术-27届秋招",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 车辆工程、机械类、电气类、材料类、能源动力类、理论与应用力学、交通运输类（车辆、控制、电气等相关方向）等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -460,10 +1324,67 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.从事车辆技术日常管理工作，确保各项工作制度化、规范化和标准化地进行，保证所管辖的设备高质量运行。具体包括：对城际动车组、市域电客车、工程车技术设备的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 车辆工程、机械类、电气类、材料类、能源动力类、理论与应用力学、交通运输类（车辆、控制、电气等相关方向）等相关专业。",
+      "JD": "1.从事车辆技术日常管理工作，确保各项工作制度化、规范化和标准化地进行，保证所管辖的设备高质量运行。具体包括：对城际动车组、市域电客车、工程车技术设备的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 车辆工程、机械类、电气类、材料类、能源动力类、理论与应用力学、交通运输类（车辆、控制、电气等相关方向）等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 车辆工程、机械类、电气类、材料类、能源动力类、理论与应用力学、交通运输类（车辆、控制、电气等相关方向）等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=42c7cde1-1cec-4c1e-a162-688f14e5512b",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -472,16 +1393,17 @@
       "company": "广州地铁集团有限公司",
       "title": "通信技术",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 电子信息类、通信工程、计算机、集成电路等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -489,10 +1411,67 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.从事通信技术日常管理工作，确保各项工作制度化、规范化和标准化地进行，保证所管辖的通信设备高质量运行。具体包括：对通信专业设备包括闭路电视、票务监控、广播、时钟系统及安防系统设备的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 电子信息类、通信工程、计算机、集成电路等相关专业。",
+      "JD": "1.从事通信技术日常管理工作，确保各项工作制度化、规范化和标准化地进行，保证所管辖的通信设备高质量运行。具体包括：对通信专业设备包括闭路电视、票务监控、广播、时钟系统及安防系统设备的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 电子信息类、通信工程、计算机、集成电路等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 电子信息类、通信工程、计算机、集成电路等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=4a273abf-3d6a-494a-9883-cc1ad1f5c917",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -501,16 +1480,17 @@
       "company": "广州地铁集团有限公司",
       "title": "信号技术",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 自动化类、控制科学与工程、电子信息工程、轨道交通信号与控制、交通信息工程及控制、交通运输（信号方向）等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -518,10 +1498,67 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责所辖信号专业设备的日常技术管理工作，确保各项工作制度化、规范化和标准化地进行，确保设备高质量运行。具体包括：对车载、无线、ATS及相关子专业（联锁、智能运维设备等）信号设备的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 自动化类、控制科学与工程、电子信息工程、轨道交通信号与控制、交通信息工程及控制、交通运输（信号方向）等相关专业。",
+      "JD": "1.负责所辖信号专业设备的日常技术管理工作，确保各项工作制度化、规范化和标准化地进行，确保设备高质量运行。具体包括：对车载、无线、ATS及相关子专业（联锁、智能运维设备等）信号设备的故障分析处理、日常维护维修、设备升级改造提供技术指导与质量（安全）监督；编写和修订技术规范。协助生产管理，负责所在分部的日常作业管理、施工协调配合、技能培训、教材编写等，并根据实际业务需要在必要情况下对夜间作业提供技术支持。 2.参与本专业内重大科研技改、技术攻关，研究、创新、引进、应用新技术；参与重大技术问题决策；编制审核各类项目技术方案。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 自动化类、控制科学与工程、电子信息工程、轨道交通信号与控制、交通信息工程及控制、交通运输（信号方向）等相关专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 自动化类、控制科学与工程、电子信息工程、轨道交通信号与控制、交通信息工程及控制、交通运输（信号方向）等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=7a046f02-7e88-46e5-ab7a-3d66078a40be",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -530,11 +1567,12 @@
       "company": "广州地铁集团有限公司",
       "title": "运输技术",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -547,10 +1585,63 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责该专业方向技术、生产、安全、质量管理及相关新线筹备工作，确保所辖城际、地铁车站、线路列车的生产运作安全有序，为乘客提供优质服务。具体包括：研究、创新、引进、应用新技术，为业务发展提供技术支持；协助处理客运组织等各项日常工作或突发事件，建立和完善各项工作的管理标准并开展技术指导；通过与相关外部单位有效的沟通联系确保各项业务合作畅顺；协助开展团队建设、分工管理，以及培训与演练计划的制定、实施和评估工作，根据实际业务需要在必要情况下对夜间作业和演练提供技术支持。 2.岗位发展方向主要分为运输策划、调度管理、站务管理、机务乘务管理等多个专业方向，其中站务管理方向培养期结束后先聘用至值班站长岗位作储备培养（视同助理岗位工作经验），后结合人员成熟度和组织需要聘用至三级副站长或相关助理岗位。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 交通运输、交通运输规划与管理、智慧运输等、大数据相关专业",
+      "JD": "1.负责该专业方向技术、生产、安全、质量管理及相关新线筹备工作，确保所辖城际、地铁车站、线路列车的生产运作安全有序，为乘客提供优质服务。具体包括：研究、创新、引进、应用新技术，为业务发展提供技术支持；协助处理客运组织等各项日常工作或突发事件，建立和完善各项工作的管理标准并开展技术指导；通过与相关外部单位有效的沟通联系确保各项业务合作畅顺；协助开展团队建设、分工管理，以及培训与演练计划的制定、实施和评估工作，根据实际业务需要在必要情况下对夜间作业和演练提供技术支持。 2.岗位发展方向主要分为运输策划、调度管理、站务管理、机务乘务管理等多个专业方向，其中站务管理方向培养期结束后先聘用至值班站长岗位作储备培养（视同助理岗位工作经验），后结合人员成熟度和组织需要聘用至三级副站长或相关助理岗位。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 交通运输、交通运输规划与管理、智慧运输等、大数据相关专业",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=fa527ccb-8c6e-4fc9-b197-ba3090adb19a",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -559,16 +1650,17 @@
       "company": "广州地铁集团有限公司",
       "title": "财务审计",
       "graduationYear": [
+        "2026",
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "所需专业： 经济学类、金融、税务、会计、财务管理等专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -576,10 +1668,66 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "负责经营数据分析、财务数据统计与分析挖掘、资产管理、税务管理、预算管理、合同支付管理等财务工作。",
+      "jobRequirements": "任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 经济学类、金融、税务、会计、财务管理等专业。",
+      "JD": "负责经营数据分析、财务数据统计与分析挖掘、资产管理、税务管理、预算管理、合同支付管理等财务工作。\n任职资格： （一）大学本科及以上学历，有志于从事轨道交通行业的2027届优秀毕业生； （二）2027年7月份能顺利毕业并获得毕业证及学位证；境外及港澳台地区高校毕业生需于2026年8月至2027年7月期间获得毕业证及学位证； （三）符合岗位所需专业要求。英语达到国家四级（425分以上）及以上或其它语种等级达到相当于国家英语四级及以上； （四）身体健康，无重大疾病和精神病史，听力、辨色力正常，符合我司体检标准，综合素质良好； （五）符合我司任职回避相关管理要求。 所需专业： 经济学类、金融、税务、会计、财务管理等专业。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "所需专业： 经济学类、金融、税务、会计、财务管理等专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://gzmetro.zhiye.com/campus/detail?jobAdId=d9c0683e-eb42-4956-803f-59ce55545cf4",
-      "lastVerified": "2026-08-28",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

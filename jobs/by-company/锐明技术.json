@@ -12,12 +12,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "全日制本科及以上学历，供应链、工业工程、物流、统计学等专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -25,10 +25,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、接收客户订单、统筹评审并制定交货计划, 交期承诺等工作，协调处理交付异常，控制和管理好交付计划进度； 2、协助研发项目管理部、工程部在新项目投产前的工作跟进，确保新项目顺利投产、进入量产。",
+      "jobRequirements": "1、全日制本科及以上学历，供应链、工业工程、物流、统计学等专业； 2、英语6级及以上要求，口语流利； 3、良好的沟通协调及问题解决能力； 4、执行力强、具有系统思维及规划能力。",
+      "JD": "1、接收客户订单、统筹评审并制定交货计划, 交期承诺等工作，协调处理交付异常，控制和管理好交付计划进度； 2、协助研发项目管理部、工程部在新项目投产前的工作跟进，确保新项目顺利投产、进入量产。\n1、全日制本科及以上学历，供应链、工业工程、物流、统计学等专业； 2、英语6级及以上要求，口语流利； 3、良好的沟通协调及问题解决能力； 4、执行力强、具有系统思维及规划能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制本科及以上学历，供应链、工业工程、物流、统计学等专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、接收客户订单、统筹评审并制定交货计划, 交期承诺等工作，协调处理交付异常，控制"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9K-13K 元/月",
+        "monthlyMin": 9000,
+        "monthlyMax": 13000,
+        "annualMin": 108000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9k–1.3万/月",
+        "annualDisplay": "10.8万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9K-13K 元/月 公司官方北森校招岗位；识别关键词：英语、项目管"
+      },
+      "salary": "9K-13K 元/月",
+      "monthlySalary": "9k–1.3万/月",
+      "annualSalary": "10.8万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=cb6d2e7d-ca95-4964-8191-e1bfac5fd960",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,12 +97,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历，硕士优先；市场营销、国际商务、传播学专业，或具备理工科（通信、电子、车辆工程等）与商科复合背景者优先；",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语",
@@ -54,10 +110,75 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、内容运营、市场分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.市场洞察与调研： 协助开展商用车联网及智能交通行业的全球市场调研，追踪行业趋势、竞品动态与客户诉求；参与细分市场分析，为车载AI及软硬件产品的全球化市场定位提供数据洞察； 2.营销内容与产品推广： 深度参与新产品线上市（GTM）推广计划；协助策划并制作高质量的B2B营销物料，包括但不限于产品白皮书、解决方案手册、成功案例（Case Study）、宣传视频及海内外官方社媒内容运营； 3.销售赋能与跨界协同： 与产品研发团队密切配合，将晦涩的技术语言转化为直击客户痛点的市场语言；协助赋能全球一线销售团队，提供销售工具包（Sales Kit）、市场数据及产品培训支持； 4.市场活动筹备与执行： 参与策划并落地国内外大型行业展会、线上研讨会（Webinar）及新产品发布会；协助跟进市场活动的执行细节与资源统筹，追踪并优化营销活动的投资回报率（ROI）。",
+      "jobRequirements": "1.本科及以上学历，硕士优先；市场营销、国际商务、传播学专业，或具备理工科（通信、电子、车辆工程等）与商科复合背景者优先； 2.具备出色的中英文双语表达与跨文化沟通能力，英语可作为工作语言（通过CET-6/雅思/托福等优先）；掌握第二外语（如西语、葡语等）者是重要加分项； 3. 具备优秀的商业文案撰写能力、逻辑思维；",
+      "JD": "1.市场洞察与调研： 协助开展商用车联网及智能交通行业的全球市场调研，追踪行业趋势、竞品动态与客户诉求；参与细分市场分析，为车载AI及软硬件产品的全球化市场定位提供数据洞察； 2.营销内容与产品推广： 深度参与新产品线上市（GTM）推广计划；协助策划并制作高质量的B2B营销物料，包括但不限于产品白皮书、解决方案手册、成功案例（Case Study）、宣传视频及海内外官方社媒内容运营； 3.销售赋能与跨界协同： 与产品研发团队密切配合，将晦涩的技术语言转化为直击客户痛点的市场语言；协助赋能全球一线销售团队，提供销售工具包（Sales Kit）、市场数据及产品培训支持； 4.市场活动筹备与执行： 参与策划并落地国内外大型行业展会、线上研讨会（Webinar）及新产品发布会；协助跟进市场活动的执行细节与资源统筹，追踪并优化营销活动的投资回报率（ROI）。\n1.本科及以上学历，硕士优先；市场营销、国际商务、传播学专业，或具备理工科（通信、电子、车辆工程等）与商科复合背景者优先； 2.具备出色的中英文双语表达与跨文化沟通能力，英语可作为工作语言（通过CET-6/雅思/托福等优先）；掌握第二外语（如西语、葡语等）者是重要加分项； 3. 具备优秀的商业文案撰写能力、逻辑思维；",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，硕士优先；市场营销、国际商务、传播学专业，或具备理工科（通信、电子、车辆工程等）与商科复合背景者优先；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "内容运营",
+        "市场分析",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "数据",
+        "跨文化",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.市场洞察与调研： 协助开展商用车联网及智能交通行业的全球市场调研，追踪行业趋势"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-22K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 22000,
+        "annualMin": 180000,
+        "annualMax": 264000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.2万/月",
+        "annualDisplay": "18万–26.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-22K 元/月 公司官方北森校招岗位；识别关键词：英语、内容运"
+      },
+      "salary": "15K-22K 元/月",
+      "monthlySalary": "1.5万–2.2万/月",
+      "annualSalary": "18万–26.4万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=9731420e-f6cf-4fdf-a215-4785f5711cf6",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,11 +191,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上，具有良好的英语听说写能力；；汽车制造和电子设计相关理工科专业优先；；Bachelor's degree or above, with excellent English listening, speaking, and writing skills;；Priority to automotive manufacturing and electronic design related science and engineering majors;",
         "hardRestriction": false
       },
       "language": {
@@ -83,10 +204,72 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、根据公司客户开拓方向，指定具体客户开发维护计划，并按照计划执行和修正偏差； 2、根据公司产品规划方向，学习了解，并按照方向协同产品经理进行业务开发； 3、紧跟客户需求，过去相关项目信息和机会获取； 4、熟悉公司报价和客户议价规则，管控客户价格； 5、定期对回款进行评估，特别是回款风险管理。 1. Develop and execute customer development and maintenance plans according to the company's customer development direction; 2. Learn and understand the company's product planning direction, and collaborate with product managers for business development; 3. Keep up with customer needs and obtain relevant project information and opportunities; 4. Familiarize with the company's pricing and customer negotiation rules, and manage customer prices; 5. Regularly assess accounts receivable, especially accounts receivable risk management.\"",
+      "jobRequirements": "1、本科及以上，具有良好的英语听说写能力； 2、熟练相关办公软件； 3、良好的沟通能力； 4、汽车制造和电子设计相关理工科专业优先； 5、吃苦耐劳，能适应长期出差和驻点 1. Bachelor's degree or above, with excellent English listening, speaking, and writing skills; 2. Proficient in relevant office software; 3. Good communication skills; 4. Priority to automotive manufacturing and electronic design related science and engineering majors; 5. Hardworking and able to adapt to long-term business trips and on-site work.\"",
+      "JD": "1、根据公司客户开拓方向，指定具体客户开发维护计划，并按照计划执行和修正偏差； 2、根据公司产品规划方向，学习了解，并按照方向协同产品经理进行业务开发； 3、紧跟客户需求，过去相关项目信息和机会获取； 4、熟悉公司报价和客户议价规则，管控客户价格； 5、定期对回款进行评估，特别是回款风险管理。 1. Develop and execute customer development and maintenance plans according to the company's customer development direction; 2. Learn and understand the company's product planning direction, and collaborate with product managers for business development; 3. Keep up with customer needs and obtain relevant project information and opportunities; 4. Familiarize with the company's pricing and customer negotiation rules, and manage customer prices; 5. Regularly assess accounts receivable, especially accounts receivable risk management.\"\n1、本科及以上，具有良好的英语听说写能力； 2、熟练相关办公软件； 3、良好的沟通能力； 4、汽车制造和电子设计相关理工科专业优先； 5、吃苦耐劳，能适应长期出差和驻点 1. Bachelor's degree or above, with excellent English listening, speaking, and writing skills; 2. Proficient in relevant office software; 3. Good communication skills; 4. Priority to automotive manufacturing and electronic design related science and engineering majors; 5. Hardworking and able to adapt to long-term business trips and on-site work.\"",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上，具有良好的英语听说写能力；",
+          "汽车制造和电子设计相关理工科专业优先；",
+          "Bachelor's degree or above, with excellent English listening, speaking, and writing skills;",
+          "Priority to automotive manufacturing and electronic design related science and engineering majors;"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、根据公司客户开拓方向，指定具体客户开发维护计划，并按照计划执行和修正偏差； 2"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "13K-18K 元/月",
+        "monthlyMin": 13000,
+        "monthlyMax": 18000,
+        "annualMin": 156000,
+        "annualMax": 216000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.3万–1.8万/月",
+        "annualDisplay": "15.6万–21.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "13K-18K 元/月 公司官方北森校招岗位；识别关键词：英语、Exc"
+      },
+      "salary": "13K-18K 元/月",
+      "monthlySalary": "1.3万–1.8万/月",
+      "annualSalary": "15.6万–21.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=2182da2d-678f-4d66-9fc0-1fffef407920",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -103,7 +286,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科或以上学历，计算机硬件、软件、通信等理工科专业优先，小语种专业优先；Bachelor's degree or above, priority to Science & Engineering majors such as computer hardware, software, and communications, and language specialty majors",
         "hardRestriction": false
       },
       "language": {
@@ -112,10 +295,75 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、配合销售人员做售前产品技术讲解、产品演示及技术要点答疑； 2、为当地客户提供专业服务，处理在产品使用过程中出现的异常情况，排查问题并解决； 3、收集并汇总客户需求、售后技术反馈数据并及时反馈相关负责人，协助完善产品体系。 1. Assist sales personnel in pre-sales product technical presentations, demonstrations, and answering technical queries; 2. Provide professional services to local customers, handle abnormal situations in the product usage process, troubleshoot and solve problems; 3. Collect and summarize customer requirements, after-sales technical feedback data and promptly feedback to the responsible persons to help improve the product system.\"",
+      "jobRequirements": "1、本科或以上学历，计算机硬件、软件、通信等理工科专业优先，小语种专业优先； 2、英语听、说、读、写能力佳； 3、工作主动积极性强，沟通能力强，能适应长期海外出差； 4、在华留学生、海外留学生或交换生经验优先考虑； 5、掌握其中一门第二外语（德、意、法、西、土耳其）优先考虑。 1. Bachelor's degree or above, priority to Science & Engineering majors such as computer hardware, software, and communications, and language specialty majors; 2. Excellent English listening, speaking, reading, and writing abilities; 3. Highly proactive and strong communication skills, able to adapt to long-term overseas business trips; 4. Overseas study or exchange experience is preferred; 5. Proficiency in a second foreign language (German, Italian, French, Spanish, Polish, Turkish) is preferred.\"",
+      "JD": "1、配合销售人员做售前产品技术讲解、产品演示及技术要点答疑； 2、为当地客户提供专业服务，处理在产品使用过程中出现的异常情况，排查问题并解决； 3、收集并汇总客户需求、售后技术反馈数据并及时反馈相关负责人，协助完善产品体系。 1. Assist sales personnel in pre-sales product technical presentations, demonstrations, and answering technical queries; 2. Provide professional services to local customers, handle abnormal situations in the product usage process, troubleshoot and solve problems; 3. Collect and summarize customer requirements, after-sales technical feedback data and promptly feedback to the responsible persons to help improve the product system.\"\n1、本科或以上学历，计算机硬件、软件、通信等理工科专业优先，小语种专业优先； 2、英语听、说、读、写能力佳； 3、工作主动积极性强，沟通能力强，能适应长期海外出差； 4、在华留学生、海外留学生或交换生经验优先考虑； 5、掌握其中一门第二外语（德、意、法、西、土耳其）优先考虑。 1. Bachelor's degree or above, priority to Science & Engineering majors such as computer hardware, software, and communications, and language specialty majors; 2. Excellent English listening, speaking, reading, and writing abilities; 3. Highly proactive and strong communication skills, able to adapt to long-term overseas business trips; 4. Overseas study or exchange experience is preferred; 5. Proficiency in a second foreign language (German, Italian, French, Spanish, Polish, Turkish) is preferred.\"",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科或以上学历，计算机硬件、软件、通信等理工科专业优先，小语种专业优先",
+          "Bachelor's degree or above, priority to Science & Engineering majors such as computer hardware, software, and communications, and language specialty majors"
+        ],
+        "eligibilityClauses": [
+          "在华留学生、海外留学生或交换生经验优先考虑",
+          "Overseas study or exchange experience is preferred"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "8",
+        "min": 8,
+        "max": 8,
+        "scope": "job",
+        "display": "8人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8 8 1、配合销售人员做售前产品技术讲解、产品演示及技术要点答疑； 2、为当地客户提供专"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "13K-18K 元/月",
+        "monthlyMin": 13000,
+        "monthlyMax": 18000,
+        "annualMin": 156000,
+        "annualMax": 216000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.3万–1.8万/月",
+        "annualDisplay": "15.6万–21.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "13K-18K 元/月 公司官方北森校招岗位；识别关键词：英语、Exc"
+      },
+      "salary": "13K-18K 元/月",
+      "monthlySalary": "1.3万–1.8万/月",
+      "annualSalary": "15.6万–21.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=4b191abb-139b-4497-b30f-09d9a228dfff",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -128,12 +376,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "全日制本科学历，材料类、工艺类、物流、供应链管理类专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -141,10 +389,64 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、了解物料的性能、质量、成本，参与供应商合作谈判，协助签订商务合同； 2、协助采购员进行采购订单下达、追踪订单生产、订单出货、到货反馈等全流程工作； 3、协助采购员处理日常的数据整理与分析工作。\"",
+      "jobRequirements": "1、全日制本科学历，材料类、工艺类、物流、供应链管理类专业； 2、沟通协调能力强，有一定抗压能力； 3、具备一定的谈判能力。",
+      "JD": "1、了解物料的性能、质量、成本，参与供应商合作谈判，协助签订商务合同； 2、协助采购员进行采购订单下达、追踪订单生产、订单出货、到货反馈等全流程工作； 3、协助采购员处理日常的数据整理与分析工作。\"\n1、全日制本科学历，材料类、工艺类、物流、供应链管理类专业； 2、沟通协调能力强，有一定抗压能力； 3、具备一定的谈判能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制本科学历，材料类、工艺类、物流、供应链管理类专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、了解物料的性能、质量、成本，参与供应商合作谈判，协助签订商务合同； 2、协助采"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9K-14K 元/月",
+        "monthlyMin": 9000,
+        "monthlyMax": 14000,
+        "annualMin": 108000,
+        "annualMax": 168000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9k–1.4万/月",
+        "annualDisplay": "10.8万–16.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9K-14K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "9K-14K 元/月",
+      "monthlySalary": "9k–1.4万/月",
+      "annualSalary": "10.8万–16.8万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=ec62b6e3-2818-4d21-9c67-af420a2d43b0",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -157,12 +459,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历，会计学、财务管理、审计、金融等相关专业；",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -170,10 +472,69 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.账务处理与审核： 在资深导师的指导下，学习并协助海外子公司的日常单据审核与全盘账务处理，逐步独立负责相关账务模块； 2.报表与财务分析： 参与编制海外子公司财务报表，协助收集和整理数据，学习撰写财务分析与经营分析报告； 3.预算管理： 协助参与海外子公司年度预算的编制工作，跟进并记录日常预算执行与滚动预测情况； 4.审计与税务合规： 配合团队应对外部审计工作，协助准备年度审计报告及当地纳税申报所需的各项资料； 5.跨国项目与协同： 参与跨部门及跨国财务专项项目，完成上级或导师安排的其他相关事项。",
+      "jobRequirements": "1.本科及以上学历，会计学、财务管理、审计、金融等相关专业； 2.语言能力： 具备优秀的英语听说读写能力，能将英语作为工作语言（通过CET-6/雅思/托福等优先），能与外籍团队进行顺畅的跨文化沟通； 3.专业技能： 具备扎实的会计及财务基础知识；在校期间有Oracle等ERP系统操作实习经验者优先；对国际财务报告准则（IFRS）或海外税法有一定了解者优先； 4.学习敏锐度高，逻辑思维清晰，具备较强的数据敏感度；",
+      "JD": "1.账务处理与审核： 在资深导师的指导下，学习并协助海外子公司的日常单据审核与全盘账务处理，逐步独立负责相关账务模块； 2.报表与财务分析： 参与编制海外子公司财务报表，协助收集和整理数据，学习撰写财务分析与经营分析报告； 3.预算管理： 协助参与海外子公司年度预算的编制工作，跟进并记录日常预算执行与滚动预测情况； 4.审计与税务合规： 配合团队应对外部审计工作，协助准备年度审计报告及当地纳税申报所需的各项资料； 5.跨国项目与协同： 参与跨部门及跨国财务专项项目，完成上级或导师安排的其他相关事项。\n1.本科及以上学历，会计学、财务管理、审计、金融等相关专业； 2.语言能力： 具备优秀的英语听说读写能力，能将英语作为工作语言（通过CET-6/雅思/托福等优先），能与外籍团队进行顺畅的跨文化沟通； 3.专业技能： 具备扎实的会计及财务基础知识；在校期间有Oracle等ERP系统操作实习经验者优先；对国际财务报告准则（IFRS）或海外税法有一定了解者优先； 4.学习敏锐度高，逻辑思维清晰，具备较强的数据敏感度；",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，会计学、财务管理、审计、金融等相关专业；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "数据",
+        "跨文化"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.账务处理与审核： 在资深导师的指导下，学习并协助海外子公司的日常单据审核与全盘"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9K-14K 元/月",
+        "monthlyMin": 9000,
+        "monthlyMax": 14000,
+        "annualMin": 108000,
+        "annualMax": 168000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9k–1.4万/月",
+        "annualDisplay": "10.8万–16.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9K-14K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "9K-14K 元/月",
+      "monthlySalary": "9k–1.4万/月",
+      "annualSalary": "10.8万–16.8万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=d654a872-e822-4238-b6ba-a239364c3f70",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -186,11 +547,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "计算机、电子信息工程、通信工程、车辆工程、自动化等理工科相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -199,10 +560,68 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.产品设计与文档输出： 根据产品演进路线及用户需求，协助完成产品需求规格书（PRD）的撰写；参与产品的原型设计与交互规划； 1.参与新品验证测试：输出产品新品验证测试文档，保障测试用例核心主路径覆盖率 100%，关键缺陷跟进解决； 3.跨部门协同与研发跟进： 作为产品的核心枢纽，主动与软硬件研发、算法、测试及业务线团队保持高频沟通，拉通项目进度，确保产品开发严格贴合产品规划与市场需求的变化； 4.生命周期管理： 参与新产品上市（GTM）的准备工作，跟踪产品发布后的市场表现与使用情况，持续收集问题并推动产品的迭代优化。",
+      "jobRequirements": "1.本科及以上学历；计算机、电子信息工程、通信工程、车辆工程、自动化等理工科相关专业优先； 2.工具与专业技能： 熟练使用各种AI工具；熟练使用各类办公及项目管理软件，掌握Visio、Xmind、Axure等流程图及原型绘制工具者优先（有完整的产品分析报告或会议纪要作品可作为加分项）； 3.沟通与协作能力： 具备出色的同理心和主动沟通意识，能够快速理解客户诉求，并能与跨专业团队（研发、销售、客户）顺畅对接，建立高效的合作关系；",
+      "JD": "1.产品设计与文档输出： 根据产品演进路线及用户需求，协助完成产品需求规格书（PRD）的撰写；参与产品的原型设计与交互规划； 1.参与新品验证测试：输出产品新品验证测试文档，保障测试用例核心主路径覆盖率 100%，关键缺陷跟进解决； 3.跨部门协同与研发跟进： 作为产品的核心枢纽，主动与软硬件研发、算法、测试及业务线团队保持高频沟通，拉通项目进度，确保产品开发严格贴合产品规划与市场需求的变化； 4.生命周期管理： 参与新产品上市（GTM）的准备工作，跟踪产品发布后的市场表现与使用情况，持续收集问题并推动产品的迭代优化。\n1.本科及以上学历；计算机、电子信息工程、通信工程、车辆工程、自动化等理工科相关专业优先； 2.工具与专业技能： 熟练使用各种AI工具；熟练使用各类办公及项目管理软件，掌握Visio、Xmind、Axure等流程图及原型绘制工具者优先（有完整的产品分析报告或会议纪要作品可作为加分项）； 3.沟通与协作能力： 具备出色的同理心和主动沟通意识，能够快速理解客户诉求，并能与跨专业团队（研发、销售、客户）顺畅对接，建立高效的合作关系；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "计算机、电子信息工程、通信工程、车辆工程、自动化等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.产品设计与文档输出： 根据产品演进路线及用户需求，协助完成产品需求规格书（PR"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-22K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 22000,
+        "annualMin": 180000,
+        "annualMax": 264000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.2万/月",
+        "annualDisplay": "18万–26.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-22K 元/月 公司官方北森校招岗位；识别关键词：项目管理。投"
+      },
+      "salary": "15K-22K 元/月",
+      "monthlySalary": "1.5万–2.2万/月",
+      "annualSalary": "18万–26.4万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=7fe34ec6-5d43-4f04-b9f4-e37bd6b1bab3",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -215,7 +634,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -228,10 +647,75 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 负责数字营销渠道及 Salesforce CRM 中营销线索的管理、分类、质量评估和流转，持续优化 Lead Scoring / Lead Grading / Lead Qualification 机制； 2. 建立并维护 Leads → MQL → SQL → Opportunity / Account 营销漏斗监测体系，分析不同渠道、Campaign、内容及营销活动的转化贡献，并逐步完善 Marketing Attribution； 3. 搭建和维护 Marketing Dashboard，定期输出 Lead Quality、Conversion Rate、Channel Performance 等关键指标及优化建议； 4. 负责 Salesforce Pardot / Marketing Cloud Account Engagement 日常运营，包括 Email Campaign、Audience Segmentation、Automation Rules、Lead Nurturing Workflow 和 A/B Testing； 5. 参与公司对外 AI Agent 的运营与持续优化，维护产品、解决方案、FAQ 等知识库，优化 Prompt、内容准确性及用户体验； 6. 参与 Salesforce CRM、Pardot、BI、AI Agent 等 MarTech Stack 的运营、数据治理、流程设计与系统协同； 7. 持续识别 Marketing 中可自动化和标准化的流程，与 Marketing、Sales、IT 等团队协作推动系统集成、数据互通及效率提升。",
+      "jobRequirements": "1. 本科及以上学历有相关 Marketing Operations / CRM / Marketing Automation / Digital Marketing / Marketing Analytics 等经验优先； 2. 理解 B2B Marketing 与 Sales Funnel，能够建立 Lead Qualification 与 Lead Nurturing 基本逻辑； 3. 熟悉 Salesforce CRM，具备 Pardot / Marketing Cloud Account Engagement 或类似平台经验优先； 4. 具备较强的数据分析和业务理解能力，能够从 Funnel Data 中发现问题并形成可执行建议，而非仅制作报表； 5. 熟练使用 Excel，有 Power BI / Tableau 等工具经验优先； 6. 具备较强流程意识、系统思维、细节准确性及跨部门协作能力； 7. 对 MarTech、Automation、AI Agent 及 B2B Marketing Technology 持续保持学习兴趣； 8. 具备良好的英文读写能力，能够适应国际化业务环境。",
+      "JD": "1. 负责数字营销渠道及 Salesforce CRM 中营销线索的管理、分类、质量评估和流转，持续优化 Lead Scoring / Lead Grading / Lead Qualification 机制； 2. 建立并维护 Leads → MQL → SQL → Opportunity / Account 营销漏斗监测体系，分析不同渠道、Campaign、内容及营销活动的转化贡献，并逐步完善 Marketing Attribution； 3. 搭建和维护 Marketing Dashboard，定期输出 Lead Quality、Conversion Rate、Channel Performance 等关键指标及优化建议； 4. 负责 Salesforce Pardot / Marketing Cloud Account Engagement 日常运营，包括 Email Campaign、Audience Segmentation、Automation Rules、Lead Nurturing Workflow 和 A/B Testing； 5. 参与公司对外 AI Agent 的运营与持续优化，维护产品、解决方案、FAQ 等知识库，优化 Prompt、内容准确性及用户体验； 6. 参与 Salesforce CRM、Pardot、BI、AI Agent 等 MarTech Stack 的运营、数据治理、流程设计与系统协同； 7. 持续识别 Marketing 中可自动化和标准化的流程，与 Marketing、Sales、IT 等团队协作推动系统集成、数据互通及效率提升。\n1. 本科及以上学历有相关 Marketing Operations / CRM / Marketing Automation / Digital Marketing / Marketing Analytics 等经验优先； 2. 理解 B2B Marketing 与 Sales Funnel，能够建立 Lead Qualification 与 Lead Nurturing 基本逻辑； 3. 熟悉 Salesforce CRM，具备 Pardot / Marketing Cloud Account Engagement 或类似平台经验优先； 4. 具备较强的数据分析和业务理解能力，能够从 Funnel Data 中发现问题并形成可执行建议，而非仅制作报表； 5. 熟练使用 Excel，有 Power BI / Tableau 等工具经验优先； 6. 具备较强流程意识、系统思维、细节准确性及跨部门协作能力； 7. 对 MarTech、Automation、AI Agent 及 B2B Marketing Technology 持续保持学习兴趣； 8. 具备良好的英文读写能力，能够适应国际化业务环境。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责数字营销渠道及 Salesforce CRM 中营销线索的管理、分类、质"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "13K-18K 元/月",
+        "monthlyMin": 13000,
+        "monthlyMax": 18000,
+        "annualMin": 156000,
+        "annualMax": 216000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.3万–1.8万/月",
+        "annualDisplay": "15.6万–21.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "13K-18K 元/月 公司官方北森校招岗位；识别关键词：Excel、"
+      },
+      "salary": "13K-18K 元/月",
+      "monthlySalary": "1.3万–1.8万/月",
+      "annualSalary": "15.6万–21.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=abf5e769-b29b-4274-a349-fdbbac048328",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,12 +728,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，车辆工程/自动化/计算机/电子信息等相关专业，同时具备深厚的控制理论、机器学习、计算机视觉基础",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -257,10 +741,70 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责全栈车载算法测试体系建设： ●主导构建覆盖ADAS（AEBS//ACC/LCC/LKA/等）到L4级的多层级测试验证体系。 ●设计感知融合、预测决策、规划控制、定位建图等核心算法模块的测试方案。 2、测试工具链开发：开发CAPL/Python自动化测试脚本，构建CI/CD持续集成测试体系。 3、实车测试与验证： ●制定封闭场地、开放道路的实车测试方案，覆盖NCAP/C-NCAP/Euro-NCAP等标准测试场景。 ●执行极限工况、恶劣天气、复杂交通场景的算法鲁棒性验证。 ●运用RTK-GPS/IMU等高精度设备进行算法性能的定量评估。",
+      "jobRequirements": "1、本科及以上学历，车辆工程/自动化/计算机/电子信息等相关专业，同时具备深厚的控制理论、机器学习、计算机视觉基础。 2、熟练掌握CANoe/CANalyzer/TS-Master 等测试工具，具备总线仿真与故障注入能力。 3、精通Python/C++/MATLAB编程之一，熟悉ROS/DDS等中间件开发。 4、熟悉车载通信协议（CAN/CAN-FD/FlexRay/车载以太网/SOME/IP）及诊断协议（UDS/OBD）。 5、了解行业认知：GB/T、ISO、SAE等自动驾驶相关标准与法规要求。 6、语言要求：能进行日常的英语交流。 7、其他要求：具备优秀的问题分析能力和跨部门沟通协作能力。",
+      "JD": "1、负责全栈车载算法测试体系建设： ●主导构建覆盖ADAS（AEBS//ACC/LCC/LKA/等）到L4级的多层级测试验证体系。 ●设计感知融合、预测决策、规划控制、定位建图等核心算法模块的测试方案。 2、测试工具链开发：开发CAPL/Python自动化测试脚本，构建CI/CD持续集成测试体系。 3、实车测试与验证： ●制定封闭场地、开放道路的实车测试方案，覆盖NCAP/C-NCAP/Euro-NCAP等标准测试场景。 ●执行极限工况、恶劣天气、复杂交通场景的算法鲁棒性验证。 ●运用RTK-GPS/IMU等高精度设备进行算法性能的定量评估。\n1、本科及以上学历，车辆工程/自动化/计算机/电子信息等相关专业，同时具备深厚的控制理论、机器学习、计算机视觉基础。 2、熟练掌握CANoe/CANalyzer/TS-Master 等测试工具，具备总线仿真与故障注入能力。 3、精通Python/C++/MATLAB编程之一，熟悉ROS/DDS等中间件开发。 4、熟悉车载通信协议（CAN/CAN-FD/FlexRay/车载以太网/SOME/IP）及诊断协议（UDS/OBD）。 5、了解行业认知：GB/T、ISO、SAE等自动驾驶相关标准与法规要求。 6、语言要求：能进行日常的英语交流。 7、其他要求：具备优秀的问题分析能力和跨部门沟通协作能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，车辆工程/自动化/计算机/电子信息等相关专业，同时具备深厚的控制理论、机器学习、计算机视觉基础"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、负责全栈车载算法测试体系建设： ●主导构建覆盖ADAS（AEBS//ACC/L"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7K-13K 元/月",
+        "monthlyMin": 7000,
+        "monthlyMax": 13000,
+        "annualMin": 84000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "7k–1.3万/月",
+        "annualDisplay": "8.4万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7K-13K 元/月 公司官方北森校招岗位；识别关键词：英语、跨部门"
+      },
+      "salary": "7K-13K 元/月",
+      "monthlySalary": "7k–1.3万/月",
+      "annualSalary": "8.4万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=0e9fc7a8-d6e7-4c46-9286-3ad79d28d7a5",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -273,12 +817,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -286,10 +830,73 @@
         "minorLanguageRequired": false
       },
       "location": "东莞",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品生产过程质量检验与监控，制定检验标准与管控计划，确保产品质量符合规格要求； 2、分析质量异常产生原因，主导8D报告编写，提出并实施改善方案，跟踪闭环效果； 3、收集和分析质量数据，参与质量改进项目，运用QC七大手法推动产品质量持续提升； 4、协助供应商质量管理，参与来料异常处理与供应商改善追踪； 5、配合客户审核与体系稽核，维护质量管理体系文件。",
+      "jobRequirements": "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业； 2、英语口语流利，可作为工作语言； 3、掌握基本的质量管理理论和统计工具者优先； 4、逻辑思维清晰，性格开朗，具备较强的数据分析能力和跨部门沟通协调能力。 5、可接受出差越南。",
+      "JD": "1、负责产品生产过程质量检验与监控，制定检验标准与管控计划，确保产品质量符合规格要求； 2、分析质量异常产生原因，主导8D报告编写，提出并实施改善方案，跟踪闭环效果； 3、收集和分析质量数据，参与质量改进项目，运用QC七大手法推动产品质量持续提升； 4、协助供应商质量管理，参与来料异常处理与供应商改善追踪； 5、配合客户审核与体系稽核，维护质量管理体系文件。\n1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业； 2、英语口语流利，可作为工作语言； 3、掌握基本的质量管理理论和统计工具者优先； 4、逻辑思维清晰，性格开朗，具备较强的数据分析能力和跨部门沟通协调能力。 5、可接受出差越南。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责产品生产过程质量检验与监控，制定检验标准与管控计划，确保产品质量符合规格要"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9K-13K 元/月",
+        "monthlyMin": 9000,
+        "monthlyMax": 13000,
+        "annualMin": 108000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9k–1.3万/月",
+        "annualDisplay": "10.8万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9K-13K 元/月 公司官方北森校招岗位；识别关键词：英语、数据分"
+      },
+      "salary": "9K-13K 元/月",
+      "monthlySalary": "9k–1.3万/月",
+      "annualSalary": "10.8万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=25b7045a-8c31-401e-bb8d-92f075a39047",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -306,7 +913,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科或以上学历，计算机硬件、软件、通信等理工科专业优先，小语种专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -315,10 +922,71 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、配合销售人员做售前产品技术讲解、产品演示及技术要点答疑； 2、为当地客户提供专业服务，处理在产品使用过程中出现的异常情况，排查问题并解决； 3、收集并汇总客户需求、售后技术反馈数据并及时反馈相关负责人，协助完善产品体系。",
+      "jobRequirements": "1、本科或以上学历，计算机硬件、软件、通信等理工科专业优先，小语种专业优先； 2、英语听、说、读、写能力佳； 3、工作主动积极性强，沟通能力强，能适应长期海外出差；",
+      "JD": "1、配合销售人员做售前产品技术讲解、产品演示及技术要点答疑； 2、为当地客户提供专业服务，处理在产品使用过程中出现的异常情况，排查问题并解决； 3、收集并汇总客户需求、售后技术反馈数据并及时反馈相关负责人，协助完善产品体系。\n1、本科或以上学历，计算机硬件、软件、通信等理工科专业优先，小语种专业优先； 2、英语听、说、读、写能力佳； 3、工作主动积极性强，沟通能力强，能适应长期海外出差；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科或以上学历，计算机硬件、软件、通信等理工科专业优先，小语种专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、配合销售人员做售前产品技术讲解、产品演示及技术要点答疑； 2、为当地客户提供专"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-15K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-15K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "10K-15K 元/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=035673d0-ef33-43dc-8278-c499d579c509",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -331,7 +999,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -344,10 +1012,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责传统ISP或AI-ISP算法的研究、开发与效果调试 2、负责ISP或图像增强相关领域的前沿技术的跟踪与探索 3、负责ISP功能开发，实现项目组对于图像功能的需求 4、负责图像技术的应用和图像策略的优化",
+      "jobRequirements": "1、全日制本科及以上学历； 2、熟练掌握C/C++、Python等语言、扎实的图像处理理论基础 3、良好的团队合作精神、乐于接受挑战 4、较好的英语阅读能力； 5、获得国家计算机等级证书、奖学金或曾参加各类编程竞赛并获奖者优先。",
+      "JD": "1、负责传统ISP或AI-ISP算法的研究、开发与效果调试 2、负责ISP或图像增强相关领域的前沿技术的跟踪与探索 3、负责ISP功能开发，实现项目组对于图像功能的需求 4、负责图像技术的应用和图像策略的优化\n1、全日制本科及以上学历； 2、熟练掌握C/C++、Python等语言、扎实的图像处理理论基础 3、良好的团队合作精神、乐于接受挑战 4、较好的英语阅读能力； 5、获得国家计算机等级证书、奖学金或曾参加各类编程竞赛并获奖者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、负责传统ISP或AI-ISP算法的研究、开发与效果调试 2、负责ISP或图像增"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=f2055f16-f8f3-4ab5-851d-92c25530288c",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -360,7 +1081,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -373,10 +1094,68 @@
         "minorLanguageRequired": false
       },
       "location": "东莞",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责仓储日常运营管理，包括物料收发、盘点、库位规划与库存准确性管控； 2、协助建立和优化仓储管理流程与制度，推进WMS系统应用与数据维护； 3、负责物流配送计划执行，协调内外部物流资源，保障生产物料准时配送至产线； 4、参与库存周转率优化项目，分析库存结构，推动呆滞物料清理与库存降本； 5、配合采购、计划、生产等部门，完成物料异常协调与供应链应急响应。",
+      "jobRequirements": "1、本科及以上学历，物流供应链类相关专业； 2、熟悉仓储物流管理基本理论，了解ERP/WMS系统操作优先； 3、具备较强的数据分析能力和沟通协调能力，责任心强，能适应制造企业工作环境。",
+      "JD": "1、负责仓储日常运营管理，包括物料收发、盘点、库位规划与库存准确性管控； 2、协助建立和优化仓储管理流程与制度，推进WMS系统应用与数据维护； 3、负责物流配送计划执行，协调内外部物流资源，保障生产物料准时配送至产线； 4、参与库存周转率优化项目，分析库存结构，推动呆滞物料清理与库存降本； 5、配合采购、计划、生产等部门，完成物料异常协调与供应链应急响应。\n1、本科及以上学历，物流供应链类相关专业； 2、熟悉仓储物流管理基本理论，了解ERP/WMS系统操作优先； 3、具备较强的数据分析能力和沟通协调能力，责任心强，能适应制造企业工作环境。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责仓储日常运营管理，包括物料收发、盘点、库位规划与库存准确性管控； 2、协助"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-13K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 13000,
+        "annualMin": 96000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.3万/月",
+        "annualDisplay": "9.6万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-13K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "8K-13K 元/月",
+      "monthlySalary": "8k–1.3万/月",
+      "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=81b69674-1594-4ef1-8338-d2260dd310db",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -389,12 +1168,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "硕士及以上学历，计算机、人工智能、数据科学等相关专业，应届毕业生。",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -402,10 +1181,66 @@
         "minorLanguageRequired": false
       },
       "location": "香港",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.参与建设自动驾驶数据闭环的核心竞争力，覆盖数据采集回传、自动标注、难例挖掘、数据集管理等全链路，打造完整、高效的数据闭环能力体系。 2.探索并落地大模型技术在数据闭环各环节的应用，例如基于大模型的自动标注、语义检索/数据搜索等，提升标注效率与数据利用效率。 3.设计难例挖掘（Hard Case Mining）策略，从海量数据中筛选高价值训练样本，反哺算法迭代。 4.负责数据集版本管理，保障训练数据的可追溯性与一致性。 5.支撑跨点数据闭环团队的统一数据规范与工具链建设。",
+      "jobRequirements": "1.硕士及以上学历，计算机、人工智能、数据科学等相关专业，应届毕业生。 2.具备扎实的算法基础（机器学习/深度学习相关），有算法相关课程项目、竞赛或实习经历者优先。 3.关注大模型在数据工程场景的应用，如基于大模型的自动标注、语义检索/搜索等，有相关项目或实习经历者优先。 4.熟悉数据标注流程与工具，有自动标注/半自动标注相关项目或实习经历者优先。 5.了解数据版本管理工具（如 DVC）及大规模数据处理框架者优先。 6.具备良好的数据分析能力，能够设计难例挖掘策略。 7.具备跨团队、跨地域协作意识，能适应香港与内地团队协同的工作模式。",
+      "JD": "1.参与建设自动驾驶数据闭环的核心竞争力，覆盖数据采集回传、自动标注、难例挖掘、数据集管理等全链路，打造完整、高效的数据闭环能力体系。 2.探索并落地大模型技术在数据闭环各环节的应用，例如基于大模型的自动标注、语义检索/数据搜索等，提升标注效率与数据利用效率。 3.设计难例挖掘（Hard Case Mining）策略，从海量数据中筛选高价值训练样本，反哺算法迭代。 4.负责数据集版本管理，保障训练数据的可追溯性与一致性。 5.支撑跨点数据闭环团队的统一数据规范与工具链建设。\n1.硕士及以上学历，计算机、人工智能、数据科学等相关专业，应届毕业生。 2.具备扎实的算法基础（机器学习/深度学习相关），有算法相关课程项目、竞赛或实习经历者优先。 3.关注大模型在数据工程场景的应用，如基于大模型的自动标注、语义检索/搜索等，有相关项目或实习经历者优先。 4.熟悉数据标注流程与工具，有自动标注/半自动标注相关项目或实习经历者优先。 5.了解数据版本管理工具（如 DVC）及大规模数据处理框架者优先。 6.具备良好的数据分析能力，能够设计难例挖掘策略。 7.具备跨团队、跨地域协作意识，能适应香港与内地团队协同的工作模式。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，计算机、人工智能、数据科学等相关专业，应届毕业生。"
+        ],
+        "eligibilityClauses": [
+          "应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.参与建设自动驾驶数据闭环的核心竞争力，覆盖数据采集回传、自动标注、难例挖掘、数"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-38K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 38000,
+        "annualMin": 300000,
+        "annualMax": 456000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3.8万/月",
+        "annualDisplay": "30万–45.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-38K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "25K-38K 元/月",
+      "monthlySalary": "2.5万–3.8万/月",
+      "annualSalary": "30万–45.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=886e805b-cc89-4e0d-90f5-3cc8d55b3e80",
-      "lastVerified": "2026-09-15",
+      "publishedAt": "2026-09-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -418,12 +1253,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "硕士及以上学历，计算机、人工智能、自动化等相关专业，应届毕业生。",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -431,10 +1266,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.跟踪 VLA（Vision-Language-Action）与世界模型领域的前沿研究进展，评估其在 L4 自动驾驶场景下的可行性。 2.参与 OneModel VLA 相关的训练/微调实验，探索多模态大模型在自动驾驶决策中的应用。 3.探索世界模型的后训练（post-training）范式，包括自监督预测、场景生成等方向。 与感知、规控团队保持技术同步，评估预研成果向现有 主线技术栈迁移的可能性。",
+      "jobRequirements": "1.硕士及以上学历，计算机、人工智能、自动化等相关专业，应届毕业生。 2.具备扎实的深度学习基础，熟悉 Transformer、扩散模型等前沿架构。 3.有大模型训练/微调相关经验（实验室科研、实习或相关竞赛项目均可，LLM、VLM 或 VLA 方向优先），熟悉主流训练框架（PyTorch、DeepSpeed 等）。 4.关注世界模型、具身智能等前沿方向，有相关论文阅读或复现经验。 5.具备独立跟踪、复现前沿论文的能力，能快速产出预研结论。 6.有自动驾驶或机器人相关科研、实习或竞赛经历者优先。 7.具备强烈的自驱力与好奇心，能够独立跟踪前沿方向、快速验证想法，并持续产出高质量的阶段性成果。",
+      "JD": "1.跟踪 VLA（Vision-Language-Action）与世界模型领域的前沿研究进展，评估其在 L4 自动驾驶场景下的可行性。 2.参与 OneModel VLA 相关的训练/微调实验，探索多模态大模型在自动驾驶决策中的应用。 3.探索世界模型的后训练（post-training）范式，包括自监督预测、场景生成等方向。 与感知、规控团队保持技术同步，评估预研成果向现有 主线技术栈迁移的可能性。\n1.硕士及以上学历，计算机、人工智能、自动化等相关专业，应届毕业生。 2.具备扎实的深度学习基础，熟悉 Transformer、扩散模型等前沿架构。 3.有大模型训练/微调相关经验（实验室科研、实习或相关竞赛项目均可，LLM、VLM 或 VLA 方向优先），熟悉主流训练框架（PyTorch、DeepSpeed 等）。 4.关注世界模型、具身智能等前沿方向，有相关论文阅读或复现经验。 5.具备独立跟踪、复现前沿论文的能力，能快速产出预研结论。 6.有自动驾驶或机器人相关科研、实习或竞赛经历者优先。 7.具备强烈的自驱力与好奇心，能够独立跟踪前沿方向、快速验证想法，并持续产出高质量的阶段性成果。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，计算机、人工智能、自动化等相关专业，应届毕业生。"
+        ],
+        "eligibilityClauses": [
+          "硕士及以上学历，计算机、人工智能、自动化等相关专业，应届毕业生。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.跟踪 VLA（Vision-Language-Action）与世界模型领域的前"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-34K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 34000,
+        "annualMin": 300000,
+        "annualMax": 408000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3.4万/月",
+        "annualDisplay": "30万–40.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-34K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-34K 元/月",
+      "monthlySalary": "2.5万–3.4万/月",
+      "annualSalary": "30万–40.8万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=a0757bbd-2583-46fc-b0c8-bf775afd1302",
-      "lastVerified": "2026-09-15",
+      "publishedAt": "2026-09-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -447,12 +1335,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "硕士及以上学历，自动化、计算机、车辆工程、软件工程等相关专业，应届毕业生。",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -460,10 +1348,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责搭建和维护公交示范点的仿真测试平台，支撑 L4 自动驾驶算法的闭环验证。 2.建设分主题的仿真场景库（公交路口、行人、红绿灯等城市开放道路场景），支持感知、规控算法的回归测试。 3.设计并落地自动化回归测试流程，缩短算法迭代周期，提升验证效率。 4.参与数字孪生场景建模，基于 3D 高斯溅射（3D Gaussian Splatting）等三维重建技术，将真实道路环境高保真复原为仿真场景，用于虚拟仿真验证。 5.跟踪 SIL/HIL 仿真工具链的发展，评估并引入符合项目需求的新能力（对应资源规划中新增的 HIL 仿真投入）。 6.配合感知、规控、定位等算法团队，输出仿真测试报告，支撑算法上车前的验证闭环。",
+      "jobRequirements": "1.硕士及以上学历，自动化、计算机、车辆工程、软件工程等相关专业，应届毕业生。 2.熟悉至少一种仿真平台（如 CARLA、LGSVL、PanoSim、51Sim-One 等），有相关课程项目、竞赛或实习经历者优先。 3.具备扎实的编程能力（Python/C++），熟悉自动化测试框架搭建。 4.了解 3D 高斯溅射（3D Gaussian Splatting）等三维场景重建技术者优先，能够将其应用于真实道路场景到仿真场景的高保真复原。 5.了解自动驾驶感知/规控算法的基本原理，能够针对性设计测试场景。 6.有公交等城市开放道路场景仿真相关项目、竞赛或实习经历者优先。 7.良好的学习能力与跨团队沟通协作能力，能快速适应示范点项目的实际工作节奏。",
+      "JD": "1.负责搭建和维护公交示范点的仿真测试平台，支撑 L4 自动驾驶算法的闭环验证。 2.建设分主题的仿真场景库（公交路口、行人、红绿灯等城市开放道路场景），支持感知、规控算法的回归测试。 3.设计并落地自动化回归测试流程，缩短算法迭代周期，提升验证效率。 4.参与数字孪生场景建模，基于 3D 高斯溅射（3D Gaussian Splatting）等三维重建技术，将真实道路环境高保真复原为仿真场景，用于虚拟仿真验证。 5.跟踪 SIL/HIL 仿真工具链的发展，评估并引入符合项目需求的新能力（对应资源规划中新增的 HIL 仿真投入）。 6.配合感知、规控、定位等算法团队，输出仿真测试报告，支撑算法上车前的验证闭环。\n1.硕士及以上学历，自动化、计算机、车辆工程、软件工程等相关专业，应届毕业生。 2.熟悉至少一种仿真平台（如 CARLA、LGSVL、PanoSim、51Sim-One 等），有相关课程项目、竞赛或实习经历者优先。 3.具备扎实的编程能力（Python/C++），熟悉自动化测试框架搭建。 4.了解 3D 高斯溅射（3D Gaussian Splatting）等三维场景重建技术者优先，能够将其应用于真实道路场景到仿真场景的高保真复原。 5.了解自动驾驶感知/规控算法的基本原理，能够针对性设计测试场景。 6.有公交等城市开放道路场景仿真相关项目、竞赛或实习经历者优先。 7.良好的学习能力与跨团队沟通协作能力，能快速适应示范点项目的实际工作节奏。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，自动化、计算机、车辆工程、软件工程等相关专业，应届毕业生。"
+        ],
+        "eligibilityClauses": [
+          "应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责搭建和维护公交示范点的仿真测试平台，支撑 L4 自动驾驶算法的闭环验证。 "
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-34K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 34000,
+        "annualMin": 300000,
+        "annualMax": 408000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3.4万/月",
+        "annualDisplay": "30万–40.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-34K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-34K 元/月",
+      "monthlySalary": "2.5万–3.4万/月",
+      "annualSalary": "30万–40.8万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=4e66194f-9f28-4eee-89b1-56a534d99f9c",
-      "lastVerified": "2026-09-15",
+      "publishedAt": "2026-09-15",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -489,10 +1430,72 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 持续追踪全球重点市场的行业趋势、政策法规、竞争格局、客户需求及新兴商业模式； 2. 对潜在新市场、新场景及商业机会进行专项研究，完成 Market Sizing、竞争分析、客户研究及 Opportunity Assessment； 3. 定期输出 Global Market Intelligence / Opportunity Radar，为集团海外业务、GTM及重点市场决策提供前置情报； 4. 为全球 Campaign、行业内容、管理层材料及重点 GTM 项目提供研究和数据支持； 5. 持续跟踪各区域法规、行业标准及政策变化，对海外对外内容进行事实性、数据来源、法规及高风险表述的基础合规审核； 6. 建立并持续维护全球行业、竞品、法规及商业机会情报数据库。",
+      "jobRequirements": "1. 海外本科及硕士学历，商业分析相关专业； 2. 具备突出 Research、Quantitative Analysis 和 Structured Problem Solving 能力； 3. 能够从复杂、分散的信息中快速识别关键变量，并形成清晰的商业判断，而非简单的信息整理； 4. 对全球商业、科技、政策法规及新兴市场保持高度敏感和好奇心； 5. 英文书面表达及商业研究能力优秀； 6. 具备较高职业严谨度，对数据真实性、引用来源和内容风险高度敏感； 7. 能够在较短时间内完成陌生市场或行业的独立研究，并形成管理层可直接使用的结论。",
+      "JD": "1. 持续追踪全球重点市场的行业趋势、政策法规、竞争格局、客户需求及新兴商业模式； 2. 对潜在新市场、新场景及商业机会进行专项研究，完成 Market Sizing、竞争分析、客户研究及 Opportunity Assessment； 3. 定期输出 Global Market Intelligence / Opportunity Radar，为集团海外业务、GTM及重点市场决策提供前置情报； 4. 为全球 Campaign、行业内容、管理层材料及重点 GTM 项目提供研究和数据支持； 5. 持续跟踪各区域法规、行业标准及政策变化，对海外对外内容进行事实性、数据来源、法规及高风险表述的基础合规审核； 6. 建立并持续维护全球行业、竞品、法规及商业机会情报数据库。\n1. 海外本科及硕士学历，商业分析相关专业； 2. 具备突出 Research、Quantitative Analysis 和 Structured Problem Solving 能力； 3. 能够从复杂、分散的信息中快速识别关键变量，并形成清晰的商业判断，而非简单的信息整理； 4. 对全球商业、科技、政策法规及新兴市场保持高度敏感和好奇心； 5. 英文书面表达及商业研究能力优秀； 6. 具备较高职业严谨度，对数据真实性、引用来源和内容风险高度敏感； 7. 能够在较短时间内完成陌生市场或行业的独立研究，并形成管理层可直接使用的结论。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "项目",
+        "市场",
+        "数据",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 持续追踪全球重点市场的行业趋势、政策法规、竞争格局、客户需求及新兴商业模式；"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "13K-18K 元/月",
+        "monthlyMin": 13000,
+        "monthlyMax": 18000,
+        "annualMin": 156000,
+        "annualMax": 216000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.3万–1.8万/月",
+        "annualDisplay": "15.6万–21.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "13K-18K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "13K-18K 元/月",
+      "monthlySalary": "1.3万–1.8万/月",
+      "annualSalary": "15.6万–21.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=5e0fa5ed-bd0e-42bb-aae9-d26f184ebc20",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -505,7 +1508,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -518,10 +1521,76 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1. 参与全球新品发布及重点 Go-to-Market Campaign，协助完成核心信息、Value Proposition、内容结构、Launch Planning 及区域本地化； 2. 参与全球官网、LinkedIn、YouTube、行业媒体等渠道的 Content Strategy 与内容体系建设； 3. 将复杂的产品功能、技术能力、行业方案及客户案例转化为清晰、专业、适用于全球市场的 B2B Content； 4. 参与 Webinar、Landing Page、Customer Case、Thought Leadership、Product Content、Sales Enablement Content 等项目； 5. 参与从 Content → Traffic → Leads → Sales Follow-up的增长链路建设，并结合项目数据持续优化内容与 Campaign； 6. 与产品、销售、战区、设计、视频等团队协同推进 Global Marketing Project； 7. 逐步承担独立项目 Ownership，负责部分全球 Campaign、Webinar、Content Program 或区域营销项目。",
+      "jobRequirements": "1. 海外高水平院校本科及以上学历，Marketing / Business / Management / Communication 等相关专业优先； 2. 具备 Marketing 相关实习经历，能够理解基础 Marketing、Brand、Content 或 GTM 逻辑； 3. 具备较强 Structured Thinking、信息整合和文字表达能力，能够将复杂信息转化为清晰传播逻辑； 4. 具备良好的英文阅读、写作、Presentation 与跨文化沟通能力； 5. 对 Global Business、Technology、B2B Marketing 和海外市场保持较强好奇心； 6. 具备较强 Ownership、学习能力及执行力，能够独立推进任务并对 Deadline 和交付质量负责； 7. 具备基础 Content Sense 与国际化审美判断，能够合理使用 AI 与数字化工具提升工作效率。",
+      "JD": "1. 参与全球新品发布及重点 Go-to-Market Campaign，协助完成核心信息、Value Proposition、内容结构、Launch Planning 及区域本地化； 2. 参与全球官网、LinkedIn、YouTube、行业媒体等渠道的 Content Strategy 与内容体系建设； 3. 将复杂的产品功能、技术能力、行业方案及客户案例转化为清晰、专业、适用于全球市场的 B2B Content； 4. 参与 Webinar、Landing Page、Customer Case、Thought Leadership、Product Content、Sales Enablement Content 等项目； 5. 参与从 Content → Traffic → Leads → Sales Follow-up的增长链路建设，并结合项目数据持续优化内容与 Campaign； 6. 与产品、销售、战区、设计、视频等团队协同推进 Global Marketing Project； 7. 逐步承担独立项目 Ownership，负责部分全球 Campaign、Webinar、Content Program 或区域营销项目。\n1. 海外高水平院校本科及以上学历，Marketing / Business / Management / Communication 等相关专业优先； 2. 具备 Marketing 相关实习经历，能够理解基础 Marketing、Brand、Content 或 GTM 逻辑； 3. 具备较强 Structured Thinking、信息整合和文字表达能力，能够将复杂信息转化为清晰传播逻辑； 4. 具备良好的英文阅读、写作、Presentation 与跨文化沟通能力； 5. 对 Global Business、Technology、B2B Marketing 和海外市场保持较强好奇心； 6. 具备较强 Ownership、学习能力及执行力，能够独立推进任务并对 Deadline 和交付质量负责； 7. 具备基础 Content Sense 与国际化审美判断，能够合理使用 AI 与数字化工具提升工作效率。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "翻译/本地化",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "项目",
+        "市场",
+        "数据",
+        "跨文化",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 参与全球新品发布及重点 Go-to-Market Campaign，协助完成"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "13K-18K 元/月",
+        "monthlyMin": 13000,
+        "monthlyMax": 18000,
+        "annualMin": 156000,
+        "annualMax": 216000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.3万–1.8万/月",
+        "annualDisplay": "15.6万–21.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "13K-18K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "13K-18K 元/月",
+      "monthlySalary": "1.3万–1.8万/月",
+      "annualSalary": "15.6万–21.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=c0ebc844-98cd-4840-83dc-6003d7a3424f",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -534,12 +1603,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，电子、自动化、机械等理工类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -547,10 +1616,64 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、分析系统设计需求，完成硬件总体方案设计以及器件选型； 2、根据硬件设计方案，完成硬件单板原理图、PCB设计以及单板的调试； 3、完成产品转试产以及转量产相关工作； 4、负责产品硬件质量改进提升理，包括但不限于返还件的分析、问题跟踪处理，复盘总结。",
+      "jobRequirements": "1、本科及以上学历，电子、自动化、机械等理工类相关专业； 2、能看懂硬件原理图、扎实的硬件开发基础； 3、具备良好的学习能力、沟通能力和团队协作精神；对技术有非常强烈的热情，动手能力强。",
+      "JD": "1、分析系统设计需求，完成硬件总体方案设计以及器件选型； 2、根据硬件设计方案，完成硬件单板原理图、PCB设计以及单板的调试； 3、完成产品转试产以及转量产相关工作； 4、负责产品硬件质量改进提升理，包括但不限于返还件的分析、问题跟踪处理，复盘总结。\n1、本科及以上学历，电子、自动化、机械等理工类相关专业； 2、能看懂硬件原理图、扎实的硬件开发基础； 3、具备良好的学习能力、沟通能力和团队协作精神；对技术有非常强烈的热情，动手能力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子、自动化、机械等理工类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "质量技术",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、分析系统设计需求，完成硬件总体方案设计以及器件选型； 2、根据硬件设计方案，完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-22K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 22000,
+        "annualMin": 180000,
+        "annualMax": 264000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.2万/月",
+        "annualDisplay": "18万–26.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-22K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-22K 元/月",
+      "monthlySalary": "1.5万–2.2万/月",
+      "annualSalary": "18万–26.4万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=51ad8417-1e25-4542-8ecb-d3ce9b78a2a1",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -563,12 +1686,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "大专",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、学历专业：大专及以上学历，电子工程、自动化及计算机相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -576,10 +1699,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、根据项目要求，制定并推进单板测试计划，测试用例编写、执行，实现问题闭环。 2、制定车载电子产品的单板测试标准和规范，异常场景测试用例和执行 3、把控项目全程硬件测试及问题解决进度，收集并向相关领域反馈阶段性测试报告，推动问题及时合理解决与回归验证。 4、参与硬件产品需求评审，编写测试用例，执行单元测试并编写阶段性测试报告。 5、与硬件团队、驱动开发团队等相关团队沟通，推进工作，按时汇报测试进度。 6、改进硬件测试流程，优化测试工具及方案，提升测试效率和质量",
+      "jobRequirements": "1、学历专业：大专及以上学历，电子工程、自动化及计算机相关专业。 2、专业知识：掌握硬件测试理论、电源和时序测试要求、测试流程和方法。 3、设备操作：熟悉示波器，网络分析仪，频谱仪等硬件测试设备使用。 4、能力要求：能够理解硬件电路设计，并阅读芯片手册，掌握硬件测试要求，具备建立新物料硬件测试用例及标准的能力，有良好的学习分析和问题总结能力，具备良好的团队合作精神和协调沟通能力 。",
+      "JD": "1、根据项目要求，制定并推进单板测试计划，测试用例编写、执行，实现问题闭环。 2、制定车载电子产品的单板测试标准和规范，异常场景测试用例和执行 3、把控项目全程硬件测试及问题解决进度，收集并向相关领域反馈阶段性测试报告，推动问题及时合理解决与回归验证。 4、参与硬件产品需求评审，编写测试用例，执行单元测试并编写阶段性测试报告。 5、与硬件团队、驱动开发团队等相关团队沟通，推进工作，按时汇报测试进度。 6、改进硬件测试流程，优化测试工具及方案，提升测试效率和质量\n1、学历专业：大专及以上学历，电子工程、自动化及计算机相关专业。 2、专业知识：掌握硬件测试理论、电源和时序测试要求、测试流程和方法。 3、设备操作：熟悉示波器，网络分析仪，频谱仪等硬件测试设备使用。 4、能力要求：能够理解硬件电路设计，并阅读芯片手册，掌握硬件测试要求，具备建立新物料硬件测试用例及标准的能力，有良好的学习分析和问题总结能力，具备良好的团队合作精神和协调沟通能力 。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、学历专业：大专及以上学历，电子工程、自动化及计算机相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、根据项目要求，制定并推进单板测试计划，测试用例编写、执行，实现问题闭环。 2、"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-13K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 13000,
+        "annualMin": 96000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.3万/月",
+        "annualDisplay": "9.6万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-13K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-13K 元/月",
+      "monthlySalary": "8k–1.3万/月",
+      "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=6eaa9a3e-6bab-4f17-80b2-63ef6e85ce06",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -592,12 +1768,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、计算机、电子和数理等相关专业高年级本科生以及硕博研究生",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -605,10 +1781,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助算法工程师进行前沿技术研发工作； 2、参与ADAS、DSM、AEB等目标检测、跟踪和识别项目技术研发； 3、从事神经网络模型量化、压缩剪枝等技术研发； 4、使用前沿算法库，并实现相应算法研究；",
+      "jobRequirements": "1、计算机、电子和数理等相关专业高年级本科生以及硕博研究生； 2、熟悉计算机视觉相关知识，有较强算法实现能力； 3、了解机器学习和深度学习相关理论知识； 4、熟悉至少一种深度学习框架或通用仓库（Pytorch，MMCV，Huggingface等）； 5、对一类以上的视觉处理算法有基本了解，如：运动跟踪，物体分割、多任务，目标检测，人脸识别等； 6、在CCF会议与期刊发表过高质量论文（CVPR、IJCAI、ECCV、ICCV、MM等）优先； 7、有个人技术博客或GitHub有独立工程优先。",
+      "JD": "1、协助算法工程师进行前沿技术研发工作； 2、参与ADAS、DSM、AEB等目标检测、跟踪和识别项目技术研发； 3、从事神经网络模型量化、压缩剪枝等技术研发； 4、使用前沿算法库，并实现相应算法研究；\n1、计算机、电子和数理等相关专业高年级本科生以及硕博研究生； 2、熟悉计算机视觉相关知识，有较强算法实现能力； 3、了解机器学习和深度学习相关理论知识； 4、熟悉至少一种深度学习框架或通用仓库（Pytorch，MMCV，Huggingface等）； 5、对一类以上的视觉处理算法有基本了解，如：运动跟踪，物体分割、多任务，目标检测，人脸识别等； 6、在CCF会议与期刊发表过高质量论文（CVPR、IJCAI、ECCV、ICCV、MM等）优先； 7、有个人技术博客或GitHub有独立工程优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、计算机、电子和数理等相关专业高年级本科生以及硕博研究生"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、协助算法工程师进行前沿技术研发工作； 2、参与ADAS、DSM、AEB等目标检"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-35K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 35000,
+        "annualMin": 300000,
+        "annualMax": 420000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3.5万/月",
+        "annualDisplay": "30万–42万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-35K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-35K 元/月",
+      "monthlySalary": "2.5万–3.5万/月",
+      "annualSalary": "30万–42万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=d8304955-6846-45c8-919a-10b869297885",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -621,12 +1852,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.计算机科学、车辆工程、自动化、人工智能等相关专业硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -634,10 +1865,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责L4级自动驾驶系统决策规划核心算法的开发与优化； 2.解决复杂场景下的决策规划挑战； 3.主导决策规划算法的仿真验证与实车测试； 4.编写算法设计文档、测试报告及安全分析文档",
+      "jobRequirements": "1.计算机科学、车辆工程、自动化、人工智能等相关专业硕士及以上学历； 2.熟悉传统的规划或者轨迹生成算法，例如A*、Hybird A*、RRT等； 3.熟悉常见的规划算法，例如Lattice Planner， EM Planner等，有路径/速度分层规划、轨迹联合规划、非线性优化等经验； 4.熟悉基于学习的决策规划算法，有研究经历与实际动手的经验； 5.熟悉C/C++/Python编程，有ROS/ROS2开发经验，熟悉Apollo或Autoware等自动驾驶开源框架",
+      "JD": "1.负责L4级自动驾驶系统决策规划核心算法的开发与优化； 2.解决复杂场景下的决策规划挑战； 3.主导决策规划算法的仿真验证与实车测试； 4.编写算法设计文档、测试报告及安全分析文档\n1.计算机科学、车辆工程、自动化、人工智能等相关专业硕士及以上学历； 2.熟悉传统的规划或者轨迹生成算法，例如A*、Hybird A*、RRT等； 3.熟悉常见的规划算法，例如Lattice Planner， EM Planner等，有路径/速度分层规划、轨迹联合规划、非线性优化等经验； 4.熟悉基于学习的决策规划算法，有研究经历与实际动手的经验； 5.熟悉C/C++/Python编程，有ROS/ROS2开发经验，熟悉Apollo或Autoware等自动驾驶开源框架",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.计算机科学、车辆工程、自动化、人工智能等相关专业硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责L4级自动驾驶系统决策规划核心算法的开发与优化； 2.解决复杂场景下的决策"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-35K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 35000,
+        "annualMin": 300000,
+        "annualMax": 420000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3.5万/月",
+        "annualDisplay": "30万–42万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-35K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-35K 元/月",
+      "monthlySalary": "2.5万–3.5万/月",
+      "annualSalary": "30万–42万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=d5b63e7a-33c6-4ca5-9306-94bde3f90abb",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -650,12 +1934,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
+        "min": "硕士",
+        "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.计算机科学、车辆工程、自动化、人工智能等相关专业硕士及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -663,10 +1947,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.负责L4级自动驾驶系统决策规划核心算法的开发与优化； 2.解决复杂场景下的决策规划挑战； 3.主导决策规划算法的仿真验证与实车测试； 4.编写算法设计文档、测试报告及安全分析文档",
+      "jobRequirements": "1.计算机科学、车辆工程、自动化、人工智能等相关专业硕士及以上学历； 2.熟悉传统的规划或者轨迹生成算法，例如A*、Hybird A*、RRT等； 3.熟悉常见的规划算法，例如Lattice Planner， EM Planner等，有路径/速度分层规划、轨迹联合规划、非线性优化等经验； 4.熟悉基于学习的决策规划算法，有研究经历与实际动手的经验； 5.熟悉C/C++/Python编程，有ROS/ROS2开发经验，熟悉Apollo或Autoware等自动驾驶开源框架",
+      "JD": "1.负责L4级自动驾驶系统决策规划核心算法的开发与优化； 2.解决复杂场景下的决策规划挑战； 3.主导决策规划算法的仿真验证与实车测试； 4.编写算法设计文档、测试报告及安全分析文档\n1.计算机科学、车辆工程、自动化、人工智能等相关专业硕士及以上学历； 2.熟悉传统的规划或者轨迹生成算法，例如A*、Hybird A*、RRT等； 3.熟悉常见的规划算法，例如Lattice Planner， EM Planner等，有路径/速度分层规划、轨迹联合规划、非线性优化等经验； 4.熟悉基于学习的决策规划算法，有研究经历与实际动手的经验； 5.熟悉C/C++/Python编程，有ROS/ROS2开发经验，熟悉Apollo或Autoware等自动驾驶开源框架",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.计算机科学、车辆工程、自动化、人工智能等相关专业硕士及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.负责L4级自动驾驶系统决策规划核心算法的开发与优化； 2.解决复杂场景下的决策"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-35K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 35000,
+        "annualMin": 300000,
+        "annualMax": 420000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3.5万/月",
+        "annualDisplay": "30万–42万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-35K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-35K 元/月",
+      "monthlySalary": "2.5万–3.5万/月",
+      "annualSalary": "30万–42万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=95568382-4370-49cc-9477-b7f5abb2cb08",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -679,12 +2016,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，计算机相关专业，有一定工作经验",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -692,10 +2029,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、 辅助驾驶算法工程落地，包括但不限于应用软件模块（感知、决策、控制、规划）开发和集成、部署调优。 2、负责智能驾驶研发工具的开发和调试。",
+      "jobRequirements": "1、本科及以上学历，计算机相关专业，有一定工作经验。 2、编程基本功扎实，熟练掌握C/C++软件开发语言以及常用数据结构和算法，对Python有一定了解。 3、能在Linux系统上熟练开发和调试，熟悉交叉编译，具备良好的代码规范和文档书写能力。 4、热爱智能驾驶行业，有智能驾驶软件开发经验优先。 5、思维敏捷，具有良好的问题分析与解决能力。 6、具有良好的团队精神、沟通能力，以及较强的求知欲和学习能力。",
+      "JD": "1、 辅助驾驶算法工程落地，包括但不限于应用软件模块（感知、决策、控制、规划）开发和集成、部署调优。 2、负责智能驾驶研发工具的开发和调试。\n1、本科及以上学历，计算机相关专业，有一定工作经验。 2、编程基本功扎实，熟练掌握C/C++软件开发语言以及常用数据结构和算法，对Python有一定了解。 3、能在Linux系统上熟练开发和调试，熟悉交叉编译，具备良好的代码规范和文档书写能力。 4、热爱智能驾驶行业，有智能驾驶软件开发经验优先。 5、思维敏捷，具有良好的问题分析与解决能力。 6、具有良好的团队精神、沟通能力，以及较强的求知欲和学习能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，计算机相关专业，有一定工作经验"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、 辅助驾驶算法工程落地，包括但不限于应用软件模块（感知、决策、控制、规划）开发"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-35K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 35000,
+        "annualMin": 300000,
+        "annualMax": 420000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3.5万/月",
+        "annualDisplay": "30万–42万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-35K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-35K 元/月",
+      "monthlySalary": "2.5万–3.5万/月",
+      "annualSalary": "30万–42万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=32096579-606a-4971-8ed1-c9d56710f49d",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -708,12 +2100,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1.教育背景：计算机、软件工程、通信工程、电子工程、自动化、物联网或相关专业的本科及以上学历；2.专业知识：具备扎实的软件工程知识，了解车载系统和嵌入式软件的特点",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -721,10 +2113,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.软件测试：负责车载摄像头软件的测试工作，确保软件的质量满足公司和行业标准。 2.测试用例设计：根据软件需求设计详细的测试用例，包括功能测试、性能测试、压力测试等。 3.缺陷管理：发现软件中的缺陷并进行记录，跟踪缺陷的修复情况，直至问题闭环。 4.自动化测试：编写自动化测试脚本，提高测试效率和准确性。 5.回归测试：在新版本软件发布前进行回归测试，确保之前通过的功能未受到影响。 6.测试报告：撰写测试报告，总结测试结果，为软件的进一步优化提供建议。 7.与开发团队协作：与开发团队紧密合作，确保软件开发过程中的质量控制。",
+      "jobRequirements": "1.教育背景：计算机、软件工程、通信工程、电子工程、自动化、物联网或相关专业的本科及以上学历。 2.专业知识：具备扎实的软件工程知识，了解车载系统和嵌入式软件的特点。 3.技能要求：熟练掌握至少一种编程语言（如Python、Java等），具备自动化测试框架的开发和使用经验优先。 4.经验要求：有相关的实习经历或项目经验，尤其是在车载系统或摄像头软件测试方面的经验尤佳。 5.其他要求：良好的沟通能力，能够在快节奏的环境中独立工作，同时也能够团队合作。",
+      "JD": "1.软件测试：负责车载摄像头软件的测试工作，确保软件的质量满足公司和行业标准。 2.测试用例设计：根据软件需求设计详细的测试用例，包括功能测试、性能测试、压力测试等。 3.缺陷管理：发现软件中的缺陷并进行记录，跟踪缺陷的修复情况，直至问题闭环。 4.自动化测试：编写自动化测试脚本，提高测试效率和准确性。 5.回归测试：在新版本软件发布前进行回归测试，确保之前通过的功能未受到影响。 6.测试报告：撰写测试报告，总结测试结果，为软件的进一步优化提供建议。 7.与开发团队协作：与开发团队紧密合作，确保软件开发过程中的质量控制。\n1.教育背景：计算机、软件工程、通信工程、电子工程、自动化、物联网或相关专业的本科及以上学历。 2.专业知识：具备扎实的软件工程知识，了解车载系统和嵌入式软件的特点。 3.技能要求：熟练掌握至少一种编程语言（如Python、Java等），具备自动化测试框架的开发和使用经验优先。 4.经验要求：有相关的实习经历或项目经验，尤其是在车载系统或摄像头软件测试方面的经验尤佳。 5.其他要求：良好的沟通能力，能够在快节奏的环境中独立工作，同时也能够团队合作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.教育背景：计算机、软件工程、通信工程、电子工程、自动化、物联网或相关专业的本科及以上学历",
+          "2.专业知识：具备扎实的软件工程知识，了解车载系统和嵌入式软件的特点"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.软件测试：负责车载摄像头软件的测试工作，确保软件的质量满足公司和行业标准。 2"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7K-13K 元/月",
+        "monthlyMin": 7000,
+        "monthlyMax": 13000,
+        "annualMin": 84000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "7k–1.3万/月",
+        "annualDisplay": "8.4万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7K-13K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "7K-13K 元/月",
+      "monthlySalary": "7k–1.3万/月",
+      "annualSalary": "8.4万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=5e6227ac-0d4b-4f85-a9af-ebfd9fc7fb02",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -737,12 +2185,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -750,10 +2198,69 @@
         "minorLanguageRequired": false
       },
       "location": "东莞",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品及客退品故障分析，主导维修技术培训与日常指导； 2、快速响应总装现场异常，针对工艺与装配问题制定改善方案，并跟踪闭环； 3、深挖元件失效根因，协同工艺、研发与供应链部门落实改善对策； 4、编写典型分析报告，沉淀失效案例库（FMEA），为产品设计迭代提供决策依据。",
+      "jobRequirements": "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业； 2、英语口语流利，可作为工作语言； 3、具备较强的动手能力和逻辑分析能力，能适应制造车间工作环境； 4、具有良好的沟通协调能力和团队协作精神，抗压能力强。",
+      "JD": "1、负责产品及客退品故障分析，主导维修技术培训与日常指导； 2、快速响应总装现场异常，针对工艺与装配问题制定改善方案，并跟踪闭环； 3、深挖元件失效根因，协同工艺、研发与供应链部门落实改善对策； 4、编写典型分析报告，沉淀失效案例库（FMEA），为产品设计迭代提供决策依据。\n1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业； 2、英语口语流利，可作为工作语言； 3、具备较强的动手能力和逻辑分析能力，能适应制造车间工作环境； 4、具有良好的沟通协调能力和团队协作精神，抗压能力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责产品及客退品故障分析，主导维修技术培训与日常指导； 2、快速响应总装现场异"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-13K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 13000,
+        "annualMin": 96000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.3万/月",
+        "annualDisplay": "9.6万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-13K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "8K-13K 元/月",
+      "monthlySalary": "8k–1.3万/月",
+      "annualSalary": "9.6万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=3b576013-3088-4ece-8fb5-a767c97bc17b",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -766,12 +2273,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -779,10 +2286,68 @@
         "minorLanguageRequired": false
       },
       "location": "东莞",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责组装产线工艺维护与优化，编制可视化SOP，维护BOM变更，协助DFM可制造性评审； 2、产线实操支持，掌握组装产线核心工序参数监控与首件检验，确保生产过程稳定； 3、问题分析与改善，分析TOP3装配缺陷，执行DOE基础实验优化工艺参数； 4、参与新产品导入（NPI），协助制定组装工艺流程、标准工时与产能规划； 5、推动低成本微改善项目，持续提升产线效率与产品质量。",
+      "jobRequirements": "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业； 2、英语口语流利，可作为工作语言； 3、动手能力强、数据敏感，能适应车间环境； 4、具备良好的沟通协调能力与团队合作精神。 5、可接受出差越南。",
+      "JD": "1、负责组装产线工艺维护与优化，编制可视化SOP，维护BOM变更，协助DFM可制造性评审； 2、产线实操支持，掌握组装产线核心工序参数监控与首件检验，确保生产过程稳定； 3、问题分析与改善，分析TOP3装配缺陷，执行DOE基础实验优化工艺参数； 4、参与新产品导入（NPI），协助制定组装工艺流程、标准工时与产能规划； 5、推动低成本微改善项目，持续提升产线效率与产品质量。\n1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业； 2、英语口语流利，可作为工作语言； 3、动手能力强、数据敏感，能适应车间环境； 4、具备良好的沟通协调能力与团队合作精神。 5、可接受出差越南。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子信息类、机械类、自动化类、计算机类、化工材料类、安全工程类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责组装产线工艺维护与优化，编制可视化SOP，维护BOM变更，协助DFM可制造"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9K-13K 元/月",
+        "monthlyMin": 9000,
+        "monthlyMax": 13000,
+        "annualMin": 108000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9k–1.3万/月",
+        "annualDisplay": "10.8万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9K-13K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "9K-13K 元/月",
+      "monthlySalary": "9k–1.3万/月",
+      "annualSalary": "10.8万–15.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=97c47aac-a8a0-433e-ad00-459f3baeb00b",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -795,12 +2360,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1. 计算机科学与技术、电子工程、自动化、人工智能、应用数学、车辆工程等相关专业，本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -808,10 +2373,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "\"1. 研发用于自动驾驶的计算机视觉感知算法，包括但不限于：目标检测、分割，属性理解，深度估计，3D点云检测，模型压缩量化，知识蒸馏等任务，成果将直接用于自动驾驶场景中。 2. 研究多传感器系统在数据级、特征级、决策级的融合算法。 3. 负责探索深度学习前沿算法发展，结合超大模型、多模态学习、无监督学习等先进工具，不断优化迭代，保持感知产品在相关领域的先进性和竞争力。\"",
+      "jobRequirements": "\"1. 计算机科学与技术、电子工程、自动化、人工智能、应用数学、车辆工程等相关专业，本科及以上学历。 2. 熟悉机器学习与深度学习的基本理论，对深度学习研究某一领域有一定了解。要求至少熟练掌握PyTorch、TensorFlow、Caffe等框架中的一种。 3. 具备极强的自主探索、解决问题的能力和精神，针对研究过程中遇到的实际问题能够自主寻找解决方案。 4. Coding能力强，有良好的C++/Python编码习惯，能够快速设计并执行实验、验证想法。 5. 有Object Detection、Semantic Segmentation、深度估计、BEV感知等相关知识和经验者优先。\"",
+      "JD": "\"1. 研发用于自动驾驶的计算机视觉感知算法，包括但不限于：目标检测、分割，属性理解，深度估计，3D点云检测，模型压缩量化，知识蒸馏等任务，成果将直接用于自动驾驶场景中。 2. 研究多传感器系统在数据级、特征级、决策级的融合算法。 3. 负责探索深度学习前沿算法发展，结合超大模型、多模态学习、无监督学习等先进工具，不断优化迭代，保持感知产品在相关领域的先进性和竞争力。\"\n\"1. 计算机科学与技术、电子工程、自动化、人工智能、应用数学、车辆工程等相关专业，本科及以上学历。 2. 熟悉机器学习与深度学习的基本理论，对深度学习研究某一领域有一定了解。要求至少熟练掌握PyTorch、TensorFlow、Caffe等框架中的一种。 3. 具备极强的自主探索、解决问题的能力和精神，针对研究过程中遇到的实际问题能够自主寻找解决方案。 4. Coding能力强，有良好的C++/Python编码习惯，能够快速设计并执行实验、验证想法。 5. 有Object Detection、Semantic Segmentation、深度估计、BEV感知等相关知识和经验者优先。\"",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 计算机科学与技术、电子工程、自动化、人工智能、应用数学、车辆工程等相关专业，本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 \"1. 研发用于自动驾驶的计算机视觉感知算法，包括但不限于：目标检测、分割，属性理"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "25K-34K 元/月",
+        "monthlyMin": 25000,
+        "monthlyMax": 34000,
+        "annualMin": 300000,
+        "annualMax": 408000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2.5万–3.4万/月",
+        "annualDisplay": "30万–40.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "25K-34K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "25K-34K 元/月",
+      "monthlySalary": "2.5万–3.4万/月",
+      "annualSalary": "30万–40.8万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=0d528c54-b3b4-405a-9d27-5fc715434a85",
-      "lastVerified": "2026-08-31",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -824,7 +2444,7 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -837,10 +2457,66 @@
         "minorLanguageRequired": false
       },
       "location": "重庆",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责嵌入式软件开发及设计工作； 2、进行软件代码的维护和改进工作； 3、协助解决在测试过程中发现的问题，编写与工作相关文档。",
+      "jobRequirements": "1、全日制本科及以上学历，英文六级优先； 2、熟悉linux环境编程； 3、掌握C，C++语言，有相关项目开发经验优先； 4、热爱编程、基础扎实、理解算法和数据结构相关知识； 5、获得国家计算机等级证书、奖学金或曾参加各类编程竞赛并获奖者优先。",
+      "JD": "1、负责嵌入式软件开发及设计工作； 2、进行软件代码的维护和改进工作； 3、协助解决在测试过程中发现的问题，编写与工作相关文档。\n1、全日制本科及以上学历，英文六级优先； 2、熟悉linux环境编程； 3、掌握C，C++语言，有相关项目开发经验优先； 4、热爱编程、基础扎实、理解算法和数据结构相关知识； 5、获得国家计算机等级证书、奖学金或曾参加各类编程竞赛并获奖者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、负责嵌入式软件开发及设计工作； 2、进行软件代码的维护和改进工作； 3、协助解"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "11K-22K 元/月",
+        "monthlyMin": 11000,
+        "monthlyMax": 22000,
+        "annualMin": 132000,
+        "annualMax": 264000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.1万–2.2万/月",
+        "annualDisplay": "13.2万–26.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "11K-22K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "11K-22K 元/月",
+      "monthlySalary": "1.1万–2.2万/月",
+      "annualSalary": "13.2万–26.4万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=6485dbe5-dfd2-4678-b2e0-56095a8115b1",
-      "lastVerified": "2026-03-10",
+      "publishedAt": "2026-03-10",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -853,11 +2529,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科及以上学历，电子信息、自动化、计算机、通信工程、机电等理工类专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -866,10 +2542,66 @@
         "minorLanguageRequired": false
       },
       "location": "河南省·郑州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、培训、指导产品安装，管理实施过程，排查现场问题，完成样车的试装；制定质量管控方案，监控现场安装质量；主导完成项目验收工作； 2、总结安装运维方法和推广工作，学习新产品的实际安装工艺并内部推广；输出安装过程中常见问题并整理FAQ，并提出合理化建议； 3、收集产品在安装交付层面的可服务性需求，定期整理汇总；承担新产品开发过程中的交付代表职能； 4、整理并输出所负责产品或者项目的交付套件；定期更新维护所负责产品的安装交付资料； 5、编制所负责项目的运维实施方案，制定现场运维人员管理制度；协调解决运维现场处理不了的问题，定期提炼共性问题；维持和运维客户； 6、根据车型，制定标准化安装方案和交付套件；根据现场情况，制定安装计划； 7、承担对外包运维商的培训工作；跟进外包运维商具体工作完成结果，协调解决外包运维商执行过程中遇到的问题； 8、协助指导相关统计工作的开展、对运维合同提供建议；",
+      "jobRequirements": "1、本科及以上学历，电子信息、自动化、计算机、通信工程、机电等理工类专业优先； 2、具备项目实施、技术支持、售后服务、设备调试等相关经验； 3、具备较强动手能力，能够独立完成设备安装、调试及故障处理工作； 4、具备较强抗压能力和环境适应能力 5、熟悉网络、硬件设备安装调试及基础故障处理。",
+      "JD": "1、培训、指导产品安装，管理实施过程，排查现场问题，完成样车的试装；制定质量管控方案，监控现场安装质量；主导完成项目验收工作； 2、总结安装运维方法和推广工作，学习新产品的实际安装工艺并内部推广；输出安装过程中常见问题并整理FAQ，并提出合理化建议； 3、收集产品在安装交付层面的可服务性需求，定期整理汇总；承担新产品开发过程中的交付代表职能； 4、整理并输出所负责产品或者项目的交付套件；定期更新维护所负责产品的安装交付资料； 5、编制所负责项目的运维实施方案，制定现场运维人员管理制度；协调解决运维现场处理不了的问题，定期提炼共性问题；维持和运维客户； 6、根据车型，制定标准化安装方案和交付套件；根据现场情况，制定安装计划； 7、承担对外包运维商的培训工作；跟进外包运维商具体工作完成结果，协调解决外包运维商执行过程中遇到的问题； 8、协助指导相关统计工作的开展、对运维合同提供建议；\n1、本科及以上学历，电子信息、自动化、计算机、通信工程、机电等理工类专业优先； 2、具备项目实施、技术支持、售后服务、设备调试等相关经验； 3、具备较强动手能力，能够独立完成设备安装、调试及故障处理工作； 4、具备较强抗压能力和环境适应能力 5、熟悉网络、硬件设备安装调试及基础故障处理。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子信息、自动化、计算机、通信工程、机电等理工类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、培训、指导产品安装，管理实施过程，排查现场问题，完成样车的试装；制定质量管控方"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7K-12K 元/月",
+        "monthlyMin": 7000,
+        "monthlyMax": 12000,
+        "annualMin": 84000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "7k–1.2万/月",
+        "annualDisplay": "8.4万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7K-12K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "7K-12K 元/月",
+      "monthlySalary": "7k–1.2万/月",
+      "annualSalary": "8.4万–14.4万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=995bf3d3-2574-400b-a4a2-d412d64285c3",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -886,7 +2618,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "【我们在寻找怎样的你？】 年级与专业：本科或研究生在校生（计算机、通信、机械、电子等理工科专业优先）",
         "hardRestriction": false
       },
       "language": {
@@ -895,10 +2627,64 @@
         "minorLanguageRequired": false
       },
       "location": "全国",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "【你的角色与职责】 线上渠道“拓荒者”： 负责校园BBS、微信/QQ社群、公众号等校内传播渠道的开发与日常运营，敏锐挖掘并整合校园信息资源。 线下活动“主理人”： 深度参与宣讲会、双选会等校招活动的落地。统筹前期筹备、现场协调及后期跟进，精准投放海报、展架等宣传物料。 品牌生态“建设者”： 主动建立并维护与校园社团、学生会及就业办的良好关系，玩转社团资源，助力锐明技术雇主品牌在校园内的强势破圈。",
+      "jobRequirements": "【我们在寻找怎样的你？】 年级与专业：本科或研究生在校生（计算机、通信、机械、电子等理工科专业优先）。 性格特质：真诚靠谱，热情开朗，具备出色的沟通表达与组织协调能力，能hold住各种沟通场景。 经验加分：自带“校园红人”属性，有学生干部、社团负责人或校园大使/代理经验者优先。 资源王者：熟悉校园传播玩法，手握丰富的校园渠道、社群资源或实验室人脉的同学，你就是我们要找的“天选之子”！ 【你将获得什么？ / 专属福利掉落】 丰厚回报，搞钱成长两不误： 具有竞争力的基础运营补贴 + 上不封顶的“伯乐内推奖金”。你的每一份人脉与努力，我们都用真金白银来兑现。 校招绿卡，快人一步斩获Offer： 表现优异的大使将直接解锁锐明技术校招“直通卡”（免去简历筛选，直通面试/终面），提前锁定心仪Offer！ 职场赋能，资深导师带你飞： 资深校招HR为你提供专属求职辅导、简历精修与面试通关秘籍，帮你完成从校园到职场的华丽转身。 专属周边，惊喜福利送不停： 享专属校园大使大礼包！",
+      "JD": "【你的角色与职责】 线上渠道“拓荒者”： 负责校园BBS、微信/QQ社群、公众号等校内传播渠道的开发与日常运营，敏锐挖掘并整合校园信息资源。 线下活动“主理人”： 深度参与宣讲会、双选会等校招活动的落地。统筹前期筹备、现场协调及后期跟进，精准投放海报、展架等宣传物料。 品牌生态“建设者”： 主动建立并维护与校园社团、学生会及就业办的良好关系，玩转社团资源，助力锐明技术雇主品牌在校园内的强势破圈。\n【我们在寻找怎样的你？】 年级与专业：本科或研究生在校生（计算机、通信、机械、电子等理工科专业优先）。 性格特质：真诚靠谱，热情开朗，具备出色的沟通表达与组织协调能力，能hold住各种沟通场景。 经验加分：自带“校园红人”属性，有学生干部、社团负责人或校园大使/代理经验者优先。 资源王者：熟悉校园传播玩法，手握丰富的校园渠道、社群资源或实验室人脉的同学，你就是我们要找的“天选之子”！ 【你将获得什么？ / 专属福利掉落】 丰厚回报，搞钱成长两不误： 具有竞争力的基础运营补贴 + 上不封顶的“伯乐内推奖金”。你的每一份人脉与努力，我们都用真金白银来兑现。 校招绿卡，快人一步斩获Offer： 表现优异的大使将直接解锁锐明技术校招“直通卡”（免去简历筛选，直通面试/终面），提前锁定心仪Offer！ 职场赋能，资深导师带你飞： 资深校招HR为你提供专属求职辅导、简历精修与面试通关秘籍，帮你完成从校园到职场的华丽转身。 专属周边，惊喜福利送不停： 享专属校园大使大礼包！",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "【我们在寻找怎样的你？】 年级与专业：本科或研究生在校生（计算机、通信、机械、电子等理工科专业优先）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=7f9ad5c9-14b4-4d6c-a8bd-db3c2afef3b3",
-      "lastVerified": "2026-08-20",
+      "publishedAt": "2026-08-20",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -911,12 +2697,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、全日制本科学历，计算机类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -924,10 +2710,71 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1.主导与业务部门一起优化业务流程，设计系统解决方案，与技术团队、协同团队进行新需求的开发沟通、测试和上线。 2.跟进业务部门与IT系统对接需求，并设计相应的接口解决方案。 3.对新业务进行业务分析，系统方案设计，以及数据切换等上线工作。 4.信息系统的日常运维与实施。 5.负责相关IT项目的实施和管理。",
+      "jobRequirements": "1、全日制本科学历，计算机类相关专业； 2、沟通协调能力强，有一定抗压能力； 3、具有良好的英语听说写能力，良好的文案能力； 4、有PMP证书、英语口语流利者优先。",
+      "JD": "1.主导与业务部门一起优化业务流程，设计系统解决方案，与技术团队、协同团队进行新需求的开发沟通、测试和上线。 2.跟进业务部门与IT系统对接需求，并设计相应的接口解决方案。 3.对新业务进行业务分析，系统方案设计，以及数据切换等上线工作。 4.信息系统的日常运维与实施。 5.负责相关IT项目的实施和管理。\n1、全日制本科学历，计算机类相关专业； 2、沟通协调能力强，有一定抗压能力； 3、具有良好的英语听说写能力，良好的文案能力； 4、有PMP证书、英语口语流利者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、全日制本科学历，计算机类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.主导与业务部门一起优化业务流程，设计系统解决方案，与技术团队、协同团队进行新需"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9K-14K 元/月",
+        "monthlyMin": 9000,
+        "monthlyMax": 14000,
+        "annualMin": 108000,
+        "annualMax": 168000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9k–1.4万/月",
+        "annualDisplay": "10.8万–16.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9K-14K 元/月 公司官方北森校招岗位；识别关键词：英语、文案。"
+      },
+      "salary": "9K-14K 元/月",
+      "monthlySalary": "9k–1.4万/月",
+      "annualSalary": "10.8万–16.8万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=10e01d9d-2bef-4910-a0e2-4d6b06962117",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

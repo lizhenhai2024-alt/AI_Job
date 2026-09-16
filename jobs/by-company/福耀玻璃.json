@@ -16,8 +16,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "：专业要求为外语类、国贸类、机械类、材料类等",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -25,10 +25,70 @@
         "minorLanguageRequired": false
       },
       "location": "福清",
+      "jobDescription": "岗位职责：负责产品订单下达、跟踪、发运；负责日常客户服务，并跟进量产客户交付、回款、库存及部门报表统计分析。岗位要求：专业要求为外语类、国贸类、机械类、材料类等；学历要求本科及以上。",
+      "jobRequirements": "",
       "JD": "岗位职责：负责产品订单下达、跟踪、发运；负责日常客户服务，并跟进量产客户交付、回款、库存及部门报表统计分析。岗位要求：专业要求为外语类、国贸类、机械类、材料类等；学历要求本科及以上。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "：专业要求为外语类、国贸类、机械类、材料类等"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-03-01"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "客户",
+        "供应链",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "福耀集团官方校园招聘（官网核验）",
       "officialURL": "https://job.fuyaogroup.com/",
-      "lastVerified": "2026-09-02",
+      "publishedAt": "2026-09-02",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-03-01"
     },
@@ -45,8 +105,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "：专业要求为外语类、国贸类、机械类、材料类等",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -54,10 +114,70 @@
         "minorLanguageRequired": false
       },
       "location": "合肥",
+      "jobDescription": "岗位职责：负责产品订单下达、跟踪、发运；负责日常客户服务，并跟进量产客户交付、回款、库存及部门报表统计分析。岗位要求：专业要求为外语类、国贸类、机械类、材料类等；学历要求本科及以上。",
+      "jobRequirements": "",
       "JD": "岗位职责：负责产品订单下达、跟踪、发运；负责日常客户服务，并跟进量产客户交付、回款、库存及部门报表统计分析。岗位要求：专业要求为外语类、国贸类、机械类、材料类等；学历要求本科及以上。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "：专业要求为外语类、国贸类、机械类、材料类等"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-03-01"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "客户",
+        "供应链",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "福耀集团官方校园招聘（官网核验）",
       "officialURL": "https://job.fuyaogroup.com/",
-      "lastVerified": "2026-09-02",
+      "publishedAt": "2026-09-02",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-03-01"
     }

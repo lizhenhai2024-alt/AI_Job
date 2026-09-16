@@ -25,10 +25,61 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "PJM",
+      "jobRequirements": "",
+      "JD": "PJM",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/18df28a7-7c1b-4618-b7f9-fe7999ace90f",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -54,9 +105,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/380d0bb3-69a7-4c35-8081-5039e0be2e0c",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -83,9 +191,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/d9885a55-bba0-4ac2-aae1-9970cb152b1f",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -112,9 +277,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/4fdec3c3-d09e-49af-84cb-ffeb6cf9a3b7",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -141,9 +363,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/58a86a9d-0a18-43a9-86d1-71984b2d431c",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -170,9 +449,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/312d6859-8476-476e-b16f-255510820eb0",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -199,9 +535,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/f4056f11-5f14-41a4-b190-e36831990a36",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -228,9 +621,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/e0571e44-8618-4aff-a7ed-6a09612760cd",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -257,9 +707,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/d9064a42-6120-45d8-8ec5-7a7b99968ea7",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -286,9 +793,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/4f2e0991-977e-4286-bd29-b3e11a23cbef",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -315,9 +879,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/9c808aa1-0add-48d3-a629-567a19fd9d57",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -344,9 +965,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/bffb01d8-9feb-4b8b-8d51-195bb3ca113b",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -373,9 +1051,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/e817e4da-4918-4e6c-a1ad-7ce612c7de37",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -402,9 +1137,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/73dbc6b6-059a-48b2-9c1d-170157d16d41",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -431,9 +1223,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/8057d1f1-4dec-4fdb-a51b-8ec4e682950a",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -460,9 +1309,66 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jobRequirements": "",
+      "JD": "（27届秋招）算法工程师-搜广推方向-北京 全职 全职 急 （27届秋招）信息安全工程师-深圳 全职 全职 急 （27届秋招）产品经理-深圳 全职 全职 急 （27届秋招）算法工程师-搜广推方向-上海 全职 全职 急 （27届秋招）研发工程师-北京 全职 全职 急 （27届秋招）研发工程师-深圳 全职 全职 急 （27届秋招）SRE（运维）工程师-深圳 全职 全职 （27届秋招）ABS 资金项目管理 全职 全职 （27届秋招）GRC 自动化合规工程师-深圳 全职 全职 （27届秋招）AI 基础设施研发工程师-北京 全职 全职 （27届秋招）人力资源专员- 北京 全职 全职 （27届秋招）项目经理(PJM)-北京 全职 全职 （27届秋招）算法工程师-AI应用方向-上海 全职 全职 （27届秋招）算法工程师-AI应用方向-北京 全职 全职 （27届秋招）项目经理(PJM)-上海 全职 全职 （27届秋招）Android开发工程师-北京 全职 全职 （27届秋招）算法工程师-AIGC基模方向-北京 全职 全职 （27届秋招）算法工程师-搜广推方向-深圳 全职 全职 （27届秋招）算法工程师-风控方向-深圳 全职 全职 （27届秋招）大数据开发工程师-深圳 全职 全职 （27届秋招）iOS开发工程师-北京 全职 全职 （27届秋招）SRE（运维）工程师-北京 全职 全职 （27届秋招）研发工程师-上海 全职 全职 （27届秋招）算法工程师-风控方向-上海 全职 全职 （27届秋招）审计合规工程师-深圳 全职 全职 （27届秋招）大数据开发工程师-北京 全职 全职 （27届秋招）AI 训练/推理框架工程师-北京 全职 全职 （27届秋招）Agent开发工程师-深圳 全职 全职 （27届秋招）技术产品经理(TPM)-北京 全职 全职 （27届秋招）AI数据运营工程师-上海 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/22113ef8-036d-457d-8afe-fdd092b383ba",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -489,10 +1395,63 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "PM 光启未来中心 (深圳市南山区高新南四道88号)",
+      "jobRequirements": "",
+      "JD": "PM 光启未来中心 (深圳市南山区高新南四道88号)",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/bef9202d-32ec-4e7e-9d2f-98fabe99f5de",
-      "lastVerified": "2026-09-08",
+      "publishedAt": "2026-09-08",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -518,10 +1477,59 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "职能类",
+      "jobRequirements": "",
+      "JD": "职能类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/1a38130f-9639-4dac-b9d6-68f3ec894452",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -547,10 +1555,62 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "Data Operation",
+      "jobRequirements": "",
+      "JD": "Data Operation",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/04f4b340-ff59-4457-bdf1-38916610c96c",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -576,9 +1636,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/e6dd652e-a6a0-4ea3-adce-9c8f056796ff",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -605,9 +1721,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/5a50b4c5-32ef-4737-8365-53ace2d82708",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -634,9 +1806,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/dbdba03f-1470-4cc9-8034-09f69f6f18e7",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -663,9 +1891,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/470f87e4-9775-4620-b930-880ac7099fa5",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -692,9 +1976,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/3f85e819-9fb0-48a9-af59-71dcdcaf6a17",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -721,9 +2061,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/99f4d3aa-d743-4528-909c-8af2b388a1f3",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -750,9 +2146,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/88753f0c-5aa7-461a-a8ca-892d518e182f",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -779,9 +2231,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/971541a6-5d63-4171-9ec7-4d01e019191c",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -808,9 +2316,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/87303f37-af6c-42bd-9f83-e48a84058dc2",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -837,9 +2401,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/e183e323-5c39-45ba-a329-857d75d3e828",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -866,9 +2486,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/892fcaec-e120-42e8-80e7-658e4b04de7f",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -895,9 +2571,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/1c3b4e24-eee2-46a7-988f-1c7e96e5cb91",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -924,9 +2656,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/6039b3fe-8ad6-4dcd-b19a-92fd8eb9d4e1",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -953,9 +2741,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/50685a7c-c963-498b-9484-c35b0e32282b",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -982,9 +2826,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/e2e39bff-a6fe-4d93-8a54-07f1f77b54b1",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1011,9 +2911,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/6a9df2f1-3cb5-4bc0-9f6d-129a03cc4143",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1040,9 +2996,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/9d669df0-4afc-45a0-a6a9-a3917a045e69",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1069,9 +3081,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/fe553fe0-7dd0-4b59-9ce5-7ff434b0935a",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1098,9 +3166,65 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jobRequirements": "",
+      "JD": "全职 全职 （27届秋招）人力资源专员- 深圳 全职 全职 （27届秋招）大数据开发工程师-上海 全职 全职 （27届秋招）策略产品经理-深圳 全职 全职 （27届秋招）产品设计-深圳 全职 全职 （27届秋招）产品经理-上海 全职 全职 （27届秋招）数据分析-上海 全职 全职 （27届秋招）算法工程师-AIGC基模方向-深圳 全职 全职 （27届秋招）数据科学工程师 / 数据挖掘 - 深圳 全职 全职 （27届秋招）支付产品设计师 - 深圳 全职 全职 （27届秋招）风控策略分析师 - 上海 全职 全职 （27届秋招）数字银行产品经理 - 深圳 全职 全职 （27届秋招）支付产品经理 - 深圳 全职 全职 （27届秋招）数字商品产品经理 - 深圳 全职 全职 （27届秋招）跨境金融业务策略与运营 - 深圳 全职 全职 （27届秋招）风控模型工程师 - 上海 全职 全职 （27届秋招）信贷产品经理 - 深圳 全职 全职 （27届秋招）保险产品经理 - 深圳 全职 全职 （27届秋招）风控产品经理 - 深圳 全职 全职",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/90222502-a1d2-44cc-a377-163fefbc6be0",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1127,10 +3251,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "PM",
+      "jobRequirements": "",
+      "JD": "PM",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/0de98726-0a7a-4e47-be8c-0daaf500ed52",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1156,10 +3329,59 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "Algo",
+      "jobRequirements": "",
+      "JD": "Algo",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/22e75101-8b9c-47c9-b842-760f9074df6c",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1185,10 +3407,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "BE",
+      "jobRequirements": "",
+      "JD": "BE",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/51f83ff9-79b0-4a45-9c19-10ff38f7ad34",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1214,10 +3485,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "SRE",
+      "jobRequirements": "",
+      "JD": "SRE",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/b7d77b3d-0a13-402d-b8bf-cecc513882dd",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1243,10 +3563,59 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "BE",
+      "jobRequirements": "",
+      "JD": "BE",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/beeaa957-f225-4034-9f02-9bb62ffea074",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1272,10 +3641,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "Security",
+      "jobRequirements": "",
+      "JD": "Security",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/c2ddea0c-0bf4-4d56-9b28-2082c65fabd6",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1301,10 +3719,59 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "Algo",
+      "jobRequirements": "",
+      "JD": "Algo",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/d71a9c82-13ed-4265-bbd3-98c1c399361b",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1330,10 +3797,61 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "BE",
+      "jobRequirements": "",
+      "JD": "BE",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/0a78a233-598a-408c-81c1-77481f270ef3",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1359,10 +3877,61 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "DE",
+      "jobRequirements": "",
+      "JD": "DE",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/20e03055-b15d-4c8c-b93d-8823f922b65c",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1388,10 +3957,59 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "Algo",
+      "jobRequirements": "",
+      "JD": "Algo",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/20fb391f-4013-4cd5-b5d7-7a147f0044a0",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1417,10 +4035,59 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "BE",
+      "jobRequirements": "",
+      "JD": "BE",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shopee/2962#/job/217e586f-ffd7-480e-8331-46f64accd677",
-      "lastVerified": "2026-09-07",
+      "publishedAt": "2026-09-07",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     }

@@ -12,12 +12,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "电子商务、市场营销、工商管理等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -25,10 +25,69 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "岗位职责： 1、负责电商平台家电产品策略、定价策略制定，根据平台活动差异玩法制定价格策略，分析及研究行业及竞品价格情况，及时调整价格策略以应对市场。 2、负责各电商平台家电产品活动排期、推广落实：包括平台日常活动排期，制定我司产品排期，根据平台活动匹配推广资源，促进流量引入；根据销售进度调整活动时间，协调增加资源位以保证目标达成。 3、负责平台客情关系的维护、渠道日常对接与资源争取等工作。",
+      "jobRequirements": "1、27届本科及以上学历应届毕业生，电子商务、市场营销、工商管理等相关专业； 2、对市场营销、电子商务有深刻理解者优先； 3、自信、外向、目标感强、积极主动、独立坚韧，沟通表达能力强。",
+      "JD": "岗位职责： 1、负责电商平台家电产品策略、定价策略制定，根据平台活动差异玩法制定价格策略，分析及研究行业及竞品价格情况，及时调整价格策略以应对市场。 2、负责各电商平台家电产品活动排期、推广落实：包括平台日常活动排期，制定我司产品排期，根据平台活动匹配推广资源，促进流量引入；根据销售进度调整活动时间，协调增加资源位以保证目标达成。 3、负责平台客情关系的维护、渠道日常对接与资源争取等工作。\n1、27届本科及以上学历应届毕业生，电子商务、市场营销、工商管理等相关专业； 2、对市场营销、电子商务有深刻理解者优先； 3、自信、外向、目标感强、积极主动、独立坚韧，沟通表达能力强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "电子商务、市场营销、工商管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "27届本科及以上学历应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "电商运营",
+        "市场"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "电商",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 岗位职责： 1、负责电商平台家电产品策略、定价策略制定，根据平台活动差异玩法制定价"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-12W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 10000,
+        "annualMin": 70000,
+        "annualMax": 120000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–1万/月（估算）",
+        "annualDisplay": "7万–12万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-12W 元/年 公司官方北森校招岗位；识别关键词：电商。投递前请打开官"
+      },
+      "salary": "7W-12W 元/年",
+      "monthlySalary": "5.8k–1万/月（估算）",
+      "annualSalary": "7万–12万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=2983a739-ba9e-42ef-a2b1-5ab7a4308b9f",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -41,11 +100,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、27届本科及以上学历应届毕业生，电商运营、市场营销、工商管理等专业优先考虑",
         "hardRestriction": false
       },
       "language": {
@@ -54,10 +113,72 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责电商平台的店铺直播工作，增加品牌曝光度，提高粉丝活跃度及粉丝粘性; 2、负责直播中活跃气氛，介绍产品信息，引导顾客下单购买达成销售目标; 3、直播内容策划，配合平台及店铺营销活动进行脚本设计，把控直播节奏; 4、能够迅速熟悉产品性能、挖掘卖点，吸引粉丝持续关注店铺; 5、直播数据复盘，通过数据分析持续优化直播技巧及直播玩法，提升直播整体质量。",
+      "jobRequirements": "1、27届本科及以上学历应届毕业生，电商运营、市场营销、工商管理等专业优先考虑。 2、形象气质好，具有亲和力，普通话标准，个性开朗表达能力强，能接受岗位排班要求。",
+      "JD": "1、负责电商平台的店铺直播工作，增加品牌曝光度，提高粉丝活跃度及粉丝粘性; 2、负责直播中活跃气氛，介绍产品信息，引导顾客下单购买达成销售目标; 3、直播内容策划，配合平台及店铺营销活动进行脚本设计，把控直播节奏; 4、能够迅速熟悉产品性能、挖掘卖点，吸引粉丝持续关注店铺; 5、直播数据复盘，通过数据分析持续优化直播技巧及直播玩法，提升直播整体质量。\n1、27届本科及以上学历应届毕业生，电商运营、市场营销、工商管理等专业优先考虑。 2、形象气质好，具有亲和力，普通话标准，个性开朗表达能力强，能接受岗位排班要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上学历应届毕业生，电商运营、市场营销、工商管理等专业优先考虑"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "电商",
+        "数据",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "10",
+        "min": 10,
+        "max": 10,
+        "scope": "job",
+        "display": "10人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10 10 1、负责电商平台的店铺直播工作，增加品牌曝光度，提高粉丝活跃度及粉丝粘性; 2、"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-12W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 10000,
+        "annualMin": 70000,
+        "annualMax": 120000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–1万/月（估算）",
+        "annualDisplay": "7万–12万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-12W 元/年 公司官方北森校招岗位；识别关键词：数据分析、电商。投递"
+      },
+      "salary": "7W-12W 元/年",
+      "monthlySalary": "5.8k–1万/月（估算）",
+      "annualSalary": "7万–12万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=3d1b74b4-1511-42d5-bb97-05d4e893a315",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -70,11 +191,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、2027届全日制本科及以上学历，专业不限，英语水平优秀（CET6或同等水平及以上）优先，具备小语种（相关等级证书或同等水平以上）优先",
         "hardRestriction": false
       },
       "language": {
@@ -83,10 +204,73 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "岗位职责： 1、负责所在海外区域市场客户订单的洽谈，订单下达； 2、负责日常跟进所负责的外销客户订单的生产，发货，单证制作等业务流程； 3、负责海外客户日常沟通、客户售后服务协助，客户关系维护； 4、负责海外客户来访准备和接待工作； 5、协助区域负责人实施有建设性的营销策略，拓展市场和客户。",
+      "jobRequirements": "1、2027届全日制本科及以上学历，专业不限，英语水平优秀（CET6或同等水平及以上）优先，具备小语种（相关等级证书或同等水平以上）优先； 2、对市场营销有深刻理解者优先； 3、自信、外向、目标感强、积极主动、独立坚韧，沟通表达能力强。",
+      "JD": "岗位职责： 1、负责所在海外区域市场客户订单的洽谈，订单下达； 2、负责日常跟进所负责的外销客户订单的生产，发货，单证制作等业务流程； 3、负责海外客户日常沟通、客户售后服务协助，客户关系维护； 4、负责海外客户来访准备和接待工作； 5、协助区域负责人实施有建设性的营销策略，拓展市场和客户。\n1、2027届全日制本科及以上学历，专业不限，英语水平优秀（CET6或同等水平及以上）优先，具备小语种（相关等级证书或同等水平以上）优先； 2、对市场营销有深刻理解者优先； 3、自信、外向、目标感强、积极主动、独立坚韧，沟通表达能力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届全日制本科及以上学历，专业不限，英语水平优秀（CET6或同等水平及以上）优先，具备小语种（相关等级证书或同等水平以上）优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-12-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "30",
+        "min": 30,
+        "max": 30,
+        "scope": "job",
+        "display": "30人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "30 30 岗位职责： 1、负责所在海外区域市场客户订单的洽谈，订单下达； 2、负责日常跟进"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-12W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 10000,
+        "annualMin": 70000,
+        "annualMax": 120000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–1万/月（估算）",
+        "annualDisplay": "7万–12万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-12W 元/年 公司官方北森校招岗位；识别关键词：英语。投递前请打开官"
+      },
+      "salary": "7W-12W 元/年",
+      "monthlySalary": "5.8k–1万/月（估算）",
+      "annualSalary": "7万–12万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=3a717c90-d1e1-4782-89e6-2677d79362b3",
-      "lastVerified": "2026-09-01",
+      "publishedAt": "2026-09-01",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-12-31"
     },
@@ -99,12 +283,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上学历应届毕业生，机械设计及制造相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -112,10 +296,66 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "岗位职责： 1、根据企划项目,完成新品外观件、功能件等设计开发工作，完成产品开发工作； 2、负责产品平台相关部件的结构设计以及改善； 3、负责产品零部件标准化、模块化设计； 4、协助生产部门进行产品的试产，批产跟踪。",
+      "jobRequirements": "1、27届本科及以上学历应届毕业生，机械设计及制造相关专业； 2、熟练使用一种或以上的三维设计软件和OFFICEL办公软件； 3、综合素质：踏实、诚恳、积极主动、独立坚韧；有设计创新性思维。",
+      "JD": "岗位职责： 1、根据企划项目,完成新品外观件、功能件等设计开发工作，完成产品开发工作； 2、负责产品平台相关部件的结构设计以及改善； 3、负责产品零部件标准化、模块化设计； 4、协助生产部门进行产品的试产，批产跟踪。\n1、27届本科及以上学历应届毕业生，机械设计及制造相关专业； 2、熟练使用一种或以上的三维设计软件和OFFICEL办公软件； 3、综合素质：踏实、诚恳、积极主动、独立坚韧；有设计创新性思维。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上学历应届毕业生，机械设计及制造相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-12-31"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "30",
+        "min": 30,
+        "max": 30,
+        "scope": "job",
+        "display": "30人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "30 30 岗位职责： 1、根据企划项目,完成新品外观件、功能件等设计开发工作，完成产品开发"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=30e1f38c-d822-4bf6-85d8-980cbb8ebe2f",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-12-31"
     },
@@ -128,12 +368,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上应届毕业生，电子信息、通讯工程、电子信息科学与技术、电子科学与技术等工科专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -141,10 +381,62 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责新产品硬件/软件设计及评审，含电路设计、嵌入式编程等。 2、完成产品调试及相关测试。",
+      "jobRequirements": "1、27届本科及以上应届毕业生，电子信息、通讯工程、电子信息科学与技术、电子科学与技术等工科专业； 2、了解或熟悉使用编程语言优先考虑； 3、综合素质：踏实、诚恳、积极主动、独立坚韧；",
+      "JD": "1、负责新产品硬件/软件设计及评审，含电路设计、嵌入式编程等。 2、完成产品调试及相关测试。\n1、27届本科及以上应届毕业生，电子信息、通讯工程、电子信息科学与技术、电子科学与技术等工科专业； 2、了解或熟悉使用编程语言优先考虑； 3、综合素质：踏实、诚恳、积极主动、独立坚韧；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上应届毕业生，电子信息、通讯工程、电子信息科学与技术、电子科学与技术等工科专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-12-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "20",
+        "min": 20,
+        "max": 20,
+        "scope": "job",
+        "display": "20人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20 20 1、负责新产品硬件/软件设计及评审，含电路设计、嵌入式编程等。 2、完成产品调试"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=8b812279-6e95-4d34-8519-0d76cc544644",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-12-31"
     },
@@ -157,12 +449,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、2027届本科及以上学历应届毕业生，电子、机械、测控仪器、制冷等相关工科类专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -170,10 +462,62 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责产品电控/整机安规/性能/认证等模块的可靠性、兼容性及稳定性测试； 2、对相关部门提供测试帮助，及时提供测试结果和问题； 3、负责测试设备的维护及工作环境的清洁整理工作。",
+      "jobRequirements": "1、2027届本科及以上学历应届毕业生，电子、机械、测控仪器、制冷等相关工科类专业。 2、具较强的责任心和主动性，细心细致，动手操作能力强。 3、沟通表达良好，有良好的团队合作精神。",
+      "JD": "1、负责产品电控/整机安规/性能/认证等模块的可靠性、兼容性及稳定性测试； 2、对相关部门提供测试帮助，及时提供测试结果和问题； 3、负责测试设备的维护及工作环境的清洁整理工作。\n1、2027届本科及以上学历应届毕业生，电子、机械、测控仪器、制冷等相关工科类专业。 2、具较强的责任心和主动性，细心细致，动手操作能力强。 3、沟通表达良好，有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历应届毕业生，电子、机械、测控仪器、制冷等相关工科类专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-12-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "20",
+        "min": 20,
+        "max": 20,
+        "scope": "job",
+        "display": "20人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20 20 1、负责产品电控/整机安规/性能/认证等模块的可靠性、兼容性及稳定性测试； 2、"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=cf2b8e19-7e6a-40c1-9d2d-07e567b0fc75",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-12-31"
     },
@@ -186,12 +530,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上学历应届生，电子、电磁波与电磁场等相关工科类专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -199,10 +543,62 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "对微波炉磁控管进行性能、功能、耐用性等进行测试及改良。",
+      "jobRequirements": "1、27届本科及以上学历应届生，电子、电磁波与电磁场等相关工科类专业。 2、做事认真细致，肯钻研。 3、具较强的责任心和主动性，有良好的团队合作精神。",
+      "JD": "对微波炉磁控管进行性能、功能、耐用性等进行测试及改良。\n1、27届本科及以上学历应届生，电子、电磁波与电磁场等相关工科类专业。 2、做事认真细致，肯钻研。 3、具较强的责任心和主动性，有良好的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上学历应届生，电子、电磁波与电磁场等相关工科类专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-12-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 对微波炉磁控管进行性能、功能、耐用性等进行测试及改良。 1、27届本科及以上学历应"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=d032a650-d67a-4286-931d-e1ecc1ce9ae6",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-12-31"
     },
@@ -215,12 +611,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上应届毕业生，会计学、财务管理等财务类专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -228,10 +624,63 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、负责家电生产全流程账务核算，涵盖采购、生产、销售环节，精准核算成本、收入及往来款项，确保账实相符。 2、按时编制财务报表，完成纳税申报，配合内外部审计，保障财务合规。 3、跟踪应收账款回款，审核付款申请，管控库存盘点与成本差异，防范财务风险。 4、归档财务资料，为业务部门提供数据支持，完成上级交办的其他财务工作。",
+      "jobRequirements": "1、27届本科及以上应届毕业生，会计学、财务管理等财务类专业。 2、熟练操作office办公软件。 3、有较强的责任感和事业心，有很强的原则性和保密意识。 4、有良好的沟通能力和逻辑条理性。",
+      "JD": "1、负责家电生产全流程账务核算，涵盖采购、生产、销售环节，精准核算成本、收入及往来款项，确保账实相符。 2、按时编制财务报表，完成纳税申报，配合内外部审计，保障财务合规。 3、跟踪应收账款回款，审核付款申请，管控库存盘点与成本差异，防范财务风险。 4、归档财务资料，为业务部门提供数据支持，完成上级交办的其他财务工作。\n1、27届本科及以上应届毕业生，会计学、财务管理等财务类专业。 2、熟练操作office办公软件。 3、有较强的责任感和事业心，有很强的原则性和保密意识。 4、有良好的沟通能力和逻辑条理性。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上应届毕业生，会计学、财务管理等财务类专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、负责家电生产全流程账务核算，涵盖采购、生产、销售环节，精准核算成本、收入及往来"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=0cae6f86-c792-4873-ac8f-daa86207ffbf",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -244,12 +693,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上学历应届毕业生，物流管理、供应链管理、材料等相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -257,10 +706,67 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、依照采购计划进行采购物品的比价、议价、询价、确定供应商； 2、按照项目时间节点、轻重缓急程度下单采购，及时跟进发货、物流、到货情况； 3、维护公司与供应商之间的关系，控制项目成本； 4、及时掌握材料市场价格动态，积极开拓材料渠道，确保采购材料具备价格优势且满足要求。",
+      "jobRequirements": "1、27届本科及以上学历应届毕业生，物流管理、供应链管理、材料等相关专业； 2、数理清晰，具有较强的语言沟通能力。 3、有成本意识，抗压能力强。",
+      "JD": "1、依照采购计划进行采购物品的比价、议价、询价、确定供应商； 2、按照项目时间节点、轻重缓急程度下单采购，及时跟进发货、物流、到货情况； 3、维护公司与供应商之间的关系，控制项目成本； 4、及时掌握材料市场价格动态，积极开拓材料渠道，确保采购材料具备价格优势且满足要求。\n1、27届本科及以上学历应届毕业生，物流管理、供应链管理、材料等相关专业； 2、数理清晰，具有较强的语言沟通能力。 3、有成本意识，抗压能力强。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上学历应届毕业生，物流管理、供应链管理、材料等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、依照采购计划进行采购物品的比价、议价、询价、确定供应商； 2、按照项目时间节点"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=963223e2-fdd9-48e9-b790-38e6eeaa13e6",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -273,12 +779,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上学历应届毕业生，机械、材料等工科类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -286,10 +792,63 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、新产品的生产过程工艺流程文件设计，包括：制定工艺流程、工艺布局，制定流程图、控制计划、PFMEA、作业指导书、产能、人员配置、工时分析等工艺文件； 2、研究优化现有的工艺、过程，减少消除生产过程中的各种浪费，降低成本 ； 3、按照规定的方法保存、更新工艺文件、静态数据表等； 4、及时解决生产中遇到的问题和其它部门提出的技术支持、优化要求； 5、对员工进行工艺操作培训，巡查监督工艺纪律的执行；",
+      "jobRequirements": "1、27届本科及以上学历应届毕业生，机械、材料等工科类相关专业； 2、综合素质要求：服从性良好、踏实、诚恳、积极主动、独立坚韧；",
+      "JD": "1、新产品的生产过程工艺流程文件设计，包括：制定工艺流程、工艺布局，制定流程图、控制计划、PFMEA、作业指导书、产能、人员配置、工时分析等工艺文件； 2、研究优化现有的工艺、过程，减少消除生产过程中的各种浪费，降低成本 ； 3、按照规定的方法保存、更新工艺文件、静态数据表等； 4、及时解决生产中遇到的问题和其它部门提出的技术支持、优化要求； 5、对员工进行工艺操作培训，巡查监督工艺纪律的执行；\n1、27届本科及以上学历应届毕业生，机械、材料等工科类相关专业； 2、综合素质要求：服从性良好、踏实、诚恳、积极主动、独立坚韧；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上学历应届毕业生，机械、材料等工科类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、新产品的生产过程工艺流程文件设计，包括：制定工艺流程、工艺布局，制定流程图、控"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=f5390a68-bed9-4d8a-96a6-6792b9832a45",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -302,12 +861,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上学历应届毕业生，工科类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -315,10 +874,62 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、进行产品质量、质量管理体系及系统可靠性设计、研究和控制; 2、组织实施质量监督检查; 3、进行质量的检查、检验、分析、把控; 4、进行产品认证、生产许可证、体系认证、质量检验机构和实验室考核等合格评定管理； 5、调节质量纠纷，组织对重大质量事故调查分析; 6、研究开发检验技术、检验方法、检验仪器设备; 7、制定质量技术法规并监督实施;",
+      "jobRequirements": "1、27届本科及以上学历应届毕业生，工科类相关专业； 2、综合素质要求：踏实、诚恳、积极主动、独立坚韧；",
+      "JD": "1、进行产品质量、质量管理体系及系统可靠性设计、研究和控制; 2、组织实施质量监督检查; 3、进行质量的检查、检验、分析、把控; 4、进行产品认证、生产许可证、体系认证、质量检验机构和实验室考核等合格评定管理； 5、调节质量纠纷，组织对重大质量事故调查分析; 6、研究开发检验技术、检验方法、检验仪器设备; 7、制定质量技术法规并监督实施;\n1、27届本科及以上学历应届毕业生，工科类相关专业； 2、综合素质要求：踏实、诚恳、积极主动、独立坚韧；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上学历应届毕业生，工科类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-12-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、进行产品质量、质量管理体系及系统可靠性设计、研究和控制; 2、组织实施质量监督"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=a8048a83-dd19-409d-b592-ba4fd6b508b3",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-12-31"
     },
@@ -331,12 +942,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上学历应届毕业生，工科类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -344,10 +955,62 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、协助部门、车间主任进行生产管理、质量管理、安全管理，生产作业分析，优化生产流程，提高工作效率，降低人工成本； 2、协助部门、车间主任对生产工艺进行改进，根据排产计划对人、机、物进行合理分配，分析、处理生产线平衡问题并提出解决方案； 3、协助车间安全生产管理、现场5S管理。 说明：先在车间内部基层岗位进行轮岗再定岗。",
+      "jobRequirements": "1、27届本科及以上学历应届毕业生，工科类相关专业。 2、综合素质要求：务实、吃苦、具备良好的思维逻辑。",
+      "JD": "1、协助部门、车间主任进行生产管理、质量管理、安全管理，生产作业分析，优化生产流程，提高工作效率，降低人工成本； 2、协助部门、车间主任对生产工艺进行改进，根据排产计划对人、机、物进行合理分配，分析、处理生产线平衡问题并提出解决方案； 3、协助车间安全生产管理、现场5S管理。 说明：先在车间内部基层岗位进行轮岗再定岗。\n1、27届本科及以上学历应届毕业生，工科类相关专业。 2、综合素质要求：务实、吃苦、具备良好的思维逻辑。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上学历应届毕业生，工科类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-12-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、协助部门、车间主任进行生产管理、质量管理、安全管理，生产作业分析，优化生产流程"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=56efda56-1b81-45c3-8750-eb81f9f8ef18",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-12-31"
     },
@@ -360,12 +1023,12 @@
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "1、27届本科及以上学历应届毕业生，机械设计等工科类相关专业",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -373,10 +1036,62 @@
         "minorLanguageRequired": false
       },
       "location": "广东省",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobDescription": "1、设计工艺和工位器具，处理制造中出现的问题，参加验证并及时修改设计。 2、根据生产情况和需要不断改进工艺装备的工位器具。 3、设计工厂物料搬运器具与设备。 4、根据工装图纸及工艺文件编制材料定额的全套文件并及时修定。 5、每年规划产线排布以及产线技术升级改造。",
+      "jobRequirements": "1、27届本科及以上学历应届毕业生，机械设计等工科类相关专业； 2、综合素质要求：踏实、诚恳、积极主动、独立坚韧；有设计创新性思维。",
+      "JD": "1、设计工艺和工位器具，处理制造中出现的问题，参加验证并及时修改设计。 2、根据生产情况和需要不断改进工艺装备的工位器具。 3、设计工厂物料搬运器具与设备。 4、根据工装图纸及工艺文件编制材料定额的全套文件并及时修定。 5、每年规划产线排布以及产线技术升级改造。\n1、27届本科及以上学历应届毕业生，机械设计等工科类相关专业； 2、综合素质要求：踏实、诚恳、积极主动、独立坚韧；有设计创新性思维。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、27届本科及以上学历应届毕业生，机械设计等工科类相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-12-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、设计工艺和工位器具，处理制造中出现的问题，参加验证并及时修改设计。 2、根据生"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7W-10W 元/年",
+        "monthlyMin": 5833,
+        "monthlyMax": 8333,
+        "annualMin": 70000,
+        "annualMax": 100000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "5.8k–8.3k/月（估算）",
+        "annualDisplay": "7万–10万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7W-10W 元/年 公司官方北森校招岗位；投递前请打开官方职位页确认完整职"
+      },
+      "salary": "7W-10W 元/年",
+      "monthlySalary": "5.8k–8.3k/月（估算）",
+      "annualSalary": "7万–10万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://galanz.zhiye.com/campus/detail?jobAdId=58e36a2e-d7ad-43a7-8810-9b05260c6b56",
-      "lastVerified": "2026-08-27",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-12-31"
     }
