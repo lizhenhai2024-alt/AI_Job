@@ -16412,6 +16412,28 @@ export const companyRequests = [
     "analysis": "湖大就业公众号"
   },
   {
+    "id": "intake-05714f8389ac",
+    "name": "韶音",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "项目管理",
+      "产品运营",
+      "供应链协同",
+      "国际化职能"
+    ],
+    "note": "CareerPilot新增公司；请由AI_Job抓取2027届合适岗位并刷新live-jobs。",
+    "requestedAt": "2026-09-16T02:24:28Z",
+    "updatedAt": "2026-09-16T02:24:38.447Z",
+    "issueNumber": 106,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/106",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "sourceAlreadyExists": false,
+    "analysis": "未提供官方招聘链接；页面探针：未提供官方招聘链接"
+  },
+  {
     "id": "intake-06e1dc44445d",
     "name": "拼多多",
     "careerUrl": "",
