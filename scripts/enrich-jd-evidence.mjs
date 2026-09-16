@@ -18,10 +18,14 @@
  *   node scripts/enrich-jd-evidence.mjs --report   # 只统计待抽数量，不调模型、不需要 key
  *
  * 环境变量：
- *   OPENCODE_ZEN_API_KEY / OPENCODE_API_KEY   凭据（二者取一）
- *   JD_EVIDENCE_PRESET        预设名，默认 mimo-2.5（见 llm-evidence.mjs MODEL_PRESETS）
- *   JD_EVIDENCE_MAX_CALLS     单次运行最多调用次数，默认 300（免费层有速率限制）
+ *   JD_EVIDENCE_API_KEY       凭据。兼容 DEEPSEEK_API_KEY / OPENCODE_ZEN_API_KEY / OPENCODE_API_KEY
+ *   JD_EVIDENCE_PRESET        预设名，默认 deepseek（见 llm-evidence.mjs MODEL_PRESETS）
+ *   JD_EVIDENCE_MAX_CALLS     单次运行最多调用次数，默认 300
  *   JD_EVIDENCE_CONCURRENCY   并发，默认 4
+ *
+ * 实测成本（deepseek/deepseek-flash，2026-09）：¥0.0120/条、约 15s/条（推理模型，
+ * reasoning_tokens 占输出大头）。10403 条候选全量回填约 ¥125、顺序跑约 44 小时，
+ * 按并发 4 / 每轮 300 条计约 11 小时 —— 分批回填是常态，不是异常。
  */
 
 import fs from 'node:fs/promises';
@@ -37,7 +41,11 @@ const REPORT_ONLY = process.argv.includes('--report');
 const MAX_CALLS = Number(process.env.JD_EVIDENCE_MAX_CALLS || 300);
 const CONCURRENCY = Math.max(1, Number(process.env.JD_EVIDENCE_CONCURRENCY || 4));
 const PRESET = process.env.JD_EVIDENCE_PRESET || 'mimo-2.5';
-const apiKey = process.env.OPENCODE_ZEN_API_KEY || process.env.OPENCODE_API_KEY || '';
+const apiKey = process.env.JD_EVIDENCE_API_KEY
+  || process.env.DEEPSEEK_API_KEY
+  || process.env.OPENCODE_ZEN_API_KEY
+  || process.env.OPENCODE_API_KEY
+  || '';
 
 async function readJson(file, fallback) {
   try {
@@ -91,7 +99,7 @@ if (REPORT_ONLY) {
 }
 
 if (!apiKey) {
-  console.log('[jd-evidence] 未设置 OPENCODE_ZEN_API_KEY / OPENCODE_API_KEY，跳过（正则抽取结果原样保留）');
+  console.log('[jd-evidence] 未设置 JD_EVIDENCE_API_KEY（或 DEEPSEEK_API_KEY / OPENCODE_ZEN_API_KEY），跳过（正则抽取结果原样保留）');
   process.exit(0);
 }
 
@@ -123,12 +131,16 @@ await runWithConcurrency(batch.map((job) => async () => {
 console.log(`[jd-evidence] 抽取成功=${ok} 失败(已保留原值)=${failed}`);
 
 // ---- 落盘：只在真有产出时改文件；meta 原样不动（stats 归 enrich-job-compensation） ----
+// 一次都没成功就不写缓存 —— 否则全失败的一轮会在仓库里留下一个空 {} 文件，
+// 而对 TRACKED_PATHS 来说那是一次无意义的改动。
 if (ok > 0) {
   await fs.writeFile(livePath, asModule(jobs, meta), 'utf8');
   console.log(`[jd-evidence] 已写回 ${path.relative(root, livePath)}`);
+  await fs.writeFile(cachePath, `${JSON.stringify(cache.toJSON(), null, 1)}\n`, 'utf8');
+  console.log(`[jd-evidence] 缓存 ${Object.keys(cache.toJSON()).length} 条 → ${path.relative(root, cachePath)}`);
+} else {
+  console.log('[jd-evidence] 本轮无成功抽取，不改动任何文件');
 }
-await fs.writeFile(cachePath, `${JSON.stringify(cache.toJSON(), null, 1)}\n`, 'utf8');
-console.log(`[jd-evidence] 缓存 ${cache.toJSON() ? Object.keys(cache.toJSON()).length : 0} 条 → ${path.relative(root, cachePath)}`);
 
 // 抽取失败不构成管线失败：调用方回退正则，是设计内的降级路径。
 process.exit(0);
