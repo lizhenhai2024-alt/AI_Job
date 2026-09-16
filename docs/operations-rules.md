@@ -207,3 +207,22 @@
   2. 刷新完成后**必须回读 live-jobs.js 验证目标渠道岗位数**（filter 按 source 统计 > 0），不能只看 provider 日志的 kept 数或脚本退出码。
   3. 失败渠道（unhealthySources）在下次刷新前要确认是否为偶发；若连续两次失败则排查反爬/接口变更。
 - **检查点**：刷新后按 source 统计入库数；unhealthy 渠道数不超过 3 且目标渠道不在其中。
+## R-OPS-014：并发刷新管线必须有 task 级超时兜底；慢响应平台抓取要带时间预算
+
+- **场景**：2026-09-16 完整刷新时 zhaopin 单 task 报 "task timeout after 600000ms"（kept=928 已抓到但 fn() 在 10 分钟未 settle）；更早一次刷新整管线 "Detected unsettled top-level await" exit 13——某 provider 的 Promise 永不 settle 时 Promise.all(workers) 永不返回，整个刷新直接失败。
+- **根因**：并发刷新（MAX_CONCURRENCY=3）下，智联等平台对并发请求响应极慢/限流（单请求可挂数十秒）；fetchText 的 15s AbortController 对某些 TCP 层挂起不生效；runWithConcurrency 无 task 级超时。
+- **规则**：
+  1. runWithConcurrency 每个 task 必须带超时兜底（withTimeout，10 分钟）——超时记 rejected，不拖垮其他 task。
+  2. 慢响应平台（智联/反爬严格平台）的 discoverJobs 必须带**整体时间预算**（如 8 分钟）超预算提前返回已发现部分 + 请求间隔（250ms）降限流。
+  3. 刷新失败后必须区分"provider 失败"与"管线挂起"：挂起是结构性问题（超时兜底缺失），失败是渠道问题（重试/时间预算）。
+- **检查点**：unhealthySources 中不应含"已加时间预算"的慢平台；刷新日志无 "unsettled top-level await"。
+
+## R-OPS-015：薪资归一化必须覆盖中文金额单位（万/千），不能用"数字>=1000"猜单位
+
+- **场景**：智联列表页薪资 "1-1.8万" 被 normalizeSalary 输出为 "1-1.8k"（实为 10-18k）；"7000-9000元" 正常输出 "7-9k"。"数字>=1000" 的单位推断对"万"单位失效（1<1000）。
+- **根因**：正则捕获单位时丢弃了"万/千"信息，仅按数值大小猜测元/千。
+- **规则**：
+  1. 薪资/金额归一化正则必须**捕获并消费单位**（万→×10000，千→×1000），不允许按数值大小猜测。
+  2. 归一化后必须抽查代表性样本（外资/高薪岗）验证格式（如 SGS "1-1.8万"→"10-20k"），不能只看总量覆盖。
+  3. 跨渠道统一薪资展示格式（X-Yk），入库前归一，避免源格式混杂。
+- **检查点**：live-jobs 中 source=智联招聘 的 salary 无 "1-1.8k" 类错误；测试含 "1-1.8万"→"10-18k" 用例。
