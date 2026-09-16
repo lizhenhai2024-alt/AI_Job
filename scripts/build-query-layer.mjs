@@ -54,7 +54,10 @@ function normalizeLanguage(job, text) {
   const raw = Array.isArray(job.languages) ? job.languages.join('、') : String(job.language ?? job.languages ?? '');
   const t = `${raw}\n${text}`;
   const english = /英语|英文|CET[- ]?[46]|TEM[- ]?[48]|IELTS|TOEFL/i.test(t);
-  const minorLanguageRequired = /(?:日语|韩语|德语|法语|西班牙语|葡萄牙语|俄语|阿拉伯语|意大利语|泰语|越南语|印尼语|马来语).{0,12}(?:必须|必需|要求|熟练|流利|工作语言)/.test(t)
+  const minorLanguage = '(?:日语|韩语|德语|法语|西班牙语|葡萄牙语|俄语|阿拉伯语|意大利语|泰语|越南语|印尼语|马来语)';
+  const required = '(?:必须|必需|要求|熟练|流利|工作语言)';
+  const minorLanguageRequired = (new RegExp(`${minorLanguage}.{0,12}${required}`).test(t)
+    || new RegExp(`${required}.{0,12}${minorLanguage}`).test(t))
     && !/(?:小语种|第二外语).{0,10}(?:优先|加分)/.test(t);
   return { raw, english, minorLanguageRequired };
 }
@@ -89,35 +92,42 @@ export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString
     byCompany.get(key).push(toQueryJob(job));
   }
 
-  const companyOutput = path.join(outputRoot, 'by-company');
-  const indexOutput = path.join(outputRoot, 'index');
-  await fs.rm(companyOutput, { recursive: true, force: true });
-  await fs.mkdir(companyOutput, { recursive: true });
-  await fs.mkdir(indexOutput, { recursive: true });
+  const outCompanyDir = path.join(outputRoot, 'by-company');
+  const outIndexDir = path.join(outputRoot, 'index');
+  await fs.rm(outCompanyDir, { recursive: true, force: true });
+  await fs.mkdir(outCompanyDir, { recursive: true });
+  await fs.mkdir(outIndexDir, { recursive: true });
 
-  const used = new Set();
   const companies = [];
-  for (const [company, companyJobs] of [...byCompany].sort(([a], [b]) => a.localeCompare(b, 'zh-CN'))) {
+  const used = new Set();
+  for (const [company, companyJobs] of [...byCompany.entries()].sort((a, b) => a[0].localeCompare(b[0], 'zh-CN'))) {
     let slug = slugifyCompany(company);
     if (used.has(slug)) {
-      let n = 2;
-      while (used.has(`${slug}-${n}`)) n++;
-      slug = `${slug}-${n}`;
+      let i = 2;
+      while (used.has(`${slug}-${i}`)) i += 1;
+      slug = `${slug}-${i}`;
     }
     used.add(slug);
-    const payload = { schemaVersion: 1, company, updatedAt, count: companyJobs.length, jobs: companyJobs };
-    await fs.writeFile(path.join(companyOutput, `${slug}.json`), `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
-    companies.push({ company, slug, count: companyJobs.length, path: `jobs/by-company/${slug}.json` });
+    const file = `${slug}.json`;
+    const payload = { company, count: companyJobs.length, updatedAt, jobs: companyJobs };
+    await fs.writeFile(path.join(outCompanyDir, file), `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
+    companies.push({ company, slug, file: `jobs/by-company/${file}`, count: companyJobs.length });
   }
 
-  const manifest = { schemaVersion: 1, updatedAt, totalJobs: jobs.length, totalCompanies: companies.length, companies };
-  await fs.writeFile(path.join(indexOutput, 'companies.json'), `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
+  const manifest = {
+    schemaVersion: 1,
+    updatedAt,
+    totalJobs: companies.reduce((sum, item) => sum + item.count, 0),
+    totalCompanies: companies.length,
+    companies
+  };
+  await fs.writeFile(path.join(outIndexDir, 'companies.json'), `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
   return manifest;
 }
 
 async function main() {
   const mod = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
-  const jobs = Array.isArray(mod.liveJobs) ? mod.liveJobs : [];
+  const jobs = mod.liveJobs || mod.default || [];
   const updatedAt = mod.discoveryMeta?.updatedAt || new Date().toISOString();
   const manifest = await buildQueryLayer(jobs, { updatedAt });
   console.log(`[query-layer] DONE jobs=${manifest.totalJobs} companies=${manifest.totalCompanies}`);
