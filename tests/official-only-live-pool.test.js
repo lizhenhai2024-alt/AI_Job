@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
-import { keepOfficialJobs, isTrustedUniversityOfficialBacked } from '../scripts/filter-official-live-jobs.mjs';
+import { keepOfficialJobs, isCategoryHeadingCompany, isTrustedUniversityOfficialBacked } from '../scripts/filter-official-live-jobs.mjs';
 
 test('keepOfficialJobs removes unverified university/Nowcoder secondary records', () => {
   const jobs = [
@@ -24,6 +24,12 @@ test('trusted university record requires 2027 cohort plus explicit company caree
   };
   assert.equal(isTrustedUniversityOfficialBacked(trusted), true);
   assert.deepEqual(keepOfficialJobs([trusted]).map((x) => x.id), ['hnu-byd']);
+});
+
+test('numbered section headings are rejected even when tagged official', () => {
+  const pseudo = { id: 'pseudo', sourceType: 'official', company: '1.研发类单位' };
+  assert.equal(isCategoryHeadingCompany(pseudo.company), true);
+  assert.equal(keepOfficialJobs([pseudo]).length, 0);
 });
 
 test('scoped refresh bridges university discoveries before production filtering and rejects untrusted secondary rows', async () => {
