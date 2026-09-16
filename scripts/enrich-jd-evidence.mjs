@@ -10,8 +10,12 @@
  *   - 放在 compensation 之前：让 enrich-job-compensation 保持“最后写入者”和
  *     stats 不变量的所有者（它用 {...job} 展开，jdEvidence 会被保留）。
  *
- * 惰性：没有 JD_EVIDENCE_API_KEY 时直接退出 0，什么都不改。
- * 所以接进管线是安全的 —— 拿不到 key 的机器/CI 上它就是空操作。
+ * 惰性：没有 JD_EVIDENCE_API_KEY 时不调模型、直接退出 0，刷新不受影响。
+ * 但**缓存回灌仍然会做**：把已付费的证据写回岗位不需要密钥，所以拿不到 key 的
+ * 机器/CI 上它依然能把证据从缓存里补回来（见下方"缓存命中时必须写回"那段）。
+ *
+ * 缓存是已付费事实的持久载体，不是"跳过清单"：刷新会重建整个岗位池，
+ * jdEvidence 不随之带过来，靠的就是这一轮回灌把它贴回去。
  *
  * 用法：
  *   node scripts/enrich-jd-evidence.mjs            # 抽取（需 key）
@@ -35,7 +39,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { extractWithLlm, cacheKey, createFileCache, resolvePreset, hasJdBody, MIN_JD_BODY_CHARS } from './job-discovery/llm-evidence.mjs';
-import { resolveJdEvidence } from './job-discovery/policy.mjs';
+import { resolveJdEvidence, isLlmEvidence } from './job-discovery/policy.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const livePath = path.join(root, 'src/data/live-jobs.js');
@@ -83,20 +87,36 @@ const { model } = resolvePreset({ preset: PRESET });
 const cache = createFileCache(await readJson(cachePath, {}));
 
 // ---- 选择候选：有正文、且缓存里还没有这一份 ----
+//
+// 缓存命中时必须**把证据写回岗位**，不能只跳过。
+// 刷新（refresh-jobs.mjs）从抓取结果重建整个池子，旧池只在不健康源时才保留，
+// 所以上一轮的 jdEvidence 不会自己跟过来。若此处只是 continue，一轮刷新之后
+// 已付费的证据就没了，而缓存键（id:JD哈希:模型）仍然命中，于是永远补不回来——
+// 缓存从"省钱的备忘录"变成"阻止恢复的墓碑"。
+// 回灌不调模型、不需要密钥，所以放在 apiKey 判断之前。
+let restored = 0;
 const pending = [];
 let thin = 0;
 let strong = 0;
 let cached = 0;
 for (const job of jobs) {
   if (!hasJdBody(job)) { thin++; continue; }
+  const hit = cache.get(cacheKey(job, model));
+  if (hit) {
+    cached++;
+    if (!isLlmEvidence(job.jdEvidence)) {
+      job.jdEvidence = { ...hit, source: `llm:${model}` };
+      restored++;
+    }
+    continue;
+  }
   // 正则已经抽到专业原文的岗位，LLM 的增量主要体现在措辞而非有无，
   // 而 dataQuality 只判断"有无证据"。默认跳过它们，成本从 ¥62 降到 ¥24。
   if (ONLY_WEAK && resolveJdEvidence(job).majorClauses.length > 0) { strong++; continue; }
-  if (cache.get(cacheKey(job, model))) { cached++; continue; }
   pending.push(job);
 }
 
-console.log(`[jd-evidence] preset=${PRESET} model=${model} jobs=${jobs.length} 太薄跳过=${thin} 正则已覆盖=${ONLY_WEAK ? strong : 0}(跳过) 已缓存=${cached} 待抽=${pending.length}`);
+console.log(`[jd-evidence] preset=${PRESET} model=${model} jobs=${jobs.length} 太薄跳过=${thin} 正则已覆盖=${ONLY_WEAK ? strong : 0}(跳过) 缓存命中=${cached}(回灌=${restored}) 待抽=${pending.length}`);
 
 if (REPORT_ONLY) {
   const willCall = Math.min(pending.length, MAX_CALLS);
@@ -105,7 +125,14 @@ if (REPORT_ONLY) {
 }
 
 if (!apiKey) {
-  console.log('[jd-evidence] 未设置 JD_EVIDENCE_API_KEY（或 DEEPSEEK_API_KEY），跳过（正则抽取结果原样保留）');
+  // 没有密钥也要把回灌落盘：那批证据是上一轮已经付过钱的，补回岗位不需要调模型。
+  // 只回灌不落盘 = 这一轮的劳动随进程一起消失，下一轮再从零重来。
+  if (restored > 0) {
+    await fs.writeFile(livePath, asModule(jobs, meta), 'utf8');
+    console.log(`[jd-evidence] 未设置密钥，但缓存回灌 ${restored} 条已写回 ${path.relative(root, livePath)}`);
+  } else {
+    console.log('[jd-evidence] 未设置 JD_EVIDENCE_API_KEY（或 DEEPSEEK_API_KEY），跳过（正则抽取结果原样保留）');
+  }
   process.exit(0);
 }
 
@@ -137,13 +164,17 @@ await runWithConcurrency(batch.map((job) => async () => {
 console.log(`[jd-evidence] 抽取成功=${ok} 失败(已保留原值)=${failed}`);
 
 // ---- 落盘：只在真有产出时改文件；meta 原样不动（stats 归 enrich-job-compensation） ----
-// 一次都没成功就不写缓存 —— 否则全失败的一轮会在仓库里留下一个空 {} 文件，
-// 而对 TRACKED_PATHS 来说那是一次无意义的改动。
-if (ok > 0) {
+// 回灌也算产出：没有新调用、但岗位对象被刷新抹掉后由缓存补回来了，必须落盘，
+// 否则这一轮的回灌只在内存里生效，下一次刷新又丢。
+// 一次都没成功（且没有回灌）就不写缓存 —— 否则全失败的一轮会在仓库里留下一个
+// 空 {} 文件，而对 TRACKED_PATHS 来说那是一次无意义的改动。
+if (ok > 0 || restored > 0) {
   await fs.writeFile(livePath, asModule(jobs, meta), 'utf8');
-  console.log(`[jd-evidence] 已写回 ${path.relative(root, livePath)}`);
-  await fs.writeFile(cachePath, `${JSON.stringify(cache.toJSON(), null, 1)}\n`, 'utf8');
-  console.log(`[jd-evidence] 缓存 ${Object.keys(cache.toJSON()).length} 条 → ${path.relative(root, cachePath)}`);
+  console.log(`[jd-evidence] 已写回 ${path.relative(root, livePath)}（新抽取 ${ok}，缓存回灌 ${restored}）`);
+  if (ok > 0) {
+    await fs.writeFile(cachePath, `${JSON.stringify(cache.toJSON(), null, 1)}\n`, 'utf8');
+    console.log(`[jd-evidence] 缓存 ${Object.keys(cache.toJSON()).length} 条 → ${path.relative(root, cachePath)}`);
+  }
 } else {
   console.log('[jd-evidence] 本轮无成功抽取，不改动任何文件');
 }
