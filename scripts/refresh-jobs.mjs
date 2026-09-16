@@ -47,17 +47,31 @@ const SUPPORTED_PROVIDERS = [
   'successfactors'
 ];
 
-async function runWithConcurrency(tasks, maxConcurrency = MAX_CONCURRENCY) {
+async function runWithConcurrency(tasks, maxConcurrency = MAX_CONCURRENCY, taskTimeoutMs = 10 * 60 * 1000) {
   const results = new Array(tasks.length);
   let index = 0;
+
+  // 单个 task 超时兜底：防止某个 provider 的 Promise 永不 settle 拖垮整个刷新管线
+  // （2026-09-16 实测 liepin/zhaopin 单独跑正常，但并发刷新时整管线挂起，Node 报 unsettled top-level await）
+  function withTimeout(promise, ms, label) {
+    return new Promise((resolve, reject) => {
+      const timer = setTimeout(() => reject(new Error(`task timeout after ${ms}ms: ${label}`)), ms);
+      promise.then(
+        (v) => { clearTimeout(timer); resolve(v); },
+        (e) => { clearTimeout(timer); reject(e); }
+      );
+    });
+  }
 
   async function worker() {
     while (index < tasks.length) {
       const currentIndex = index++;
       const task = tasks[currentIndex];
       try {
-        results[currentIndex] = { status: 'fulfilled', value: await task.fn() };
+        const value = await withTimeout(task.fn(), taskTimeoutMs, task.name || `task#${currentIndex}`);
+        results[currentIndex] = { status: 'fulfilled', value };
       } catch (error) {
+        console.warn(`[job-refresh] task ${task.name || currentIndex} failed/timeout: ${error.message}`);
         results[currentIndex] = { status: 'rejected', reason: error };
       }
     }
