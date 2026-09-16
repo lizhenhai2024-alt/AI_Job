@@ -33,6 +33,25 @@ test('hard master and required minor-language gates are machine-readable', () =>
   assert.equal(q.language.minorLanguageRequired, true);
 });
 
+test('English alternatives do not become hard minor-language gates', () => {
+  for (const description of [
+    '英语或德语，可作为工作语言',
+    '英语/日语可作为工作语言',
+    '英语、法语任一可作为工作语言',
+    '英语、日语、德语均可作为工作语言',
+    '德语优先，英语可作为工作语言'
+  ]) {
+    const q = toQueryJob({ company: '示例', title: '岗位', description });
+    assert.equal(q.language.minorLanguageRequired, false, description);
+  }
+
+  const bothRequired = toQueryJob({ company: '示例', title: '岗位', description: '要求英语和德语熟练' });
+  assert.equal(bothRequired.language.minorLanguageRequired, true);
+
+  const explicitGerman = toQueryJob({ company: '示例', title: '岗位', description: '德语必须，英语或法语优先' });
+  assert.equal(explicitGerman.language.minorLanguageRequired, true);
+});
+
 test('related major is required unless the JD explicitly marks it preferred', () => {
   const required = toQueryJob({ company: '示例', title: '岗位A', major: '国际贸易相关专业' });
   const preferred = toQueryJob({ company: '示例', title: '岗位B', major: '国际贸易相关专业优先' });
