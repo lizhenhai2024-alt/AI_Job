@@ -1,0 +1,59 @@
+name: Repair pseudo-company sources
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/repair-pseudo-company-sources.yml'
+      - 'scripts/repair-pseudo-company-sources.mjs'
+
+concurrency:
+  group: repair-pseudo-company-sources-main
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Repair pseudo-company sources
+        run: node scripts/repair-pseudo-company-sources.mjs
+      - name: Verify repair
+        shell: bash
+        run: |
+          node - <<'NODE'
+          const fs=require('fs');
+          const x=JSON.parse(fs.readFileSync('config/official-sources.json','utf8'));
+          const rows=Object.values(x).flatMap(v=>Array.isArray(v)?v:[]);
+          const pseudo=rows.filter(i=>/^\d+[.、．-]?(?:研发|制造|营销|职能|事业|服务|金融|技术|生产|销售|管理|水平事业)(?:类)?单位$/u.test(String(i.company||'').normalize('NFKC').replace(/\s+/g,'')));
+          if(pseudo.length) throw new Error(`pseudo-company sources remain: ${pseudo.map(x=>x.company).join(', ')}`);
+          const df=rows.find(i=>/\/dfmc\/164438(?:\b|\/|#|\?)/i.test(String(i.url||i.baseUrl||'')));
+          if(!df || df.company!=='东风汽车集团有限公司') throw new Error('Dongfeng source not repaired');
+          console.log('PASS: Dongfeng source repaired and no pseudo-company source remains');
+          NODE
+      - name: Commit repaired source config
+        shell: bash
+        run: |
+          if [ -z "$(git status --porcelain -- config/official-sources.json)" ]; then
+            echo "Source config already clean."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/official-sources.json
+          git commit -m "fix: repair Dongfeng official source identity"
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
+            git rebase origin/main
+          fi
+          git push
