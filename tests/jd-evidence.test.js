@@ -104,7 +104,7 @@ test('legacy candidateFit is migrated verbatim when no full text survives', () =
 // 富化阶段产出的证据必须活过下一轮刷新，否则每次都被正则覆盖回去，等于白花钱。
 test('LLM evidence survives the next refresh cycle', () => {
   const llm = {
-    source: 'llm:mimo-v2.5-free',
+    source: 'llm:deepseek-flash',
     majorClauses: ['本科及以上学历，英语或国际贸易专业优先'],
     eligibilityClauses: ['招聘对象：2027届'],
     businessDuties: ['国际业务'],
@@ -117,7 +117,7 @@ test('LLM evidence survives the next refresh cycle', () => {
 
 test('isLlmEvidence recognises every llm source form only', () => {
   assert.equal(isLlmEvidence({ source: 'llm' }), true);
-  assert.equal(isLlmEvidence({ source: 'llm:mimo-v2.5-free' }), true);
+  assert.equal(isLlmEvidence({ source: 'llm:deepseek-flash' }), true);
   assert.equal(isLlmEvidence({ source: 'llm:deepseek-v4-flash-free' }), true);
   assert.equal(isLlmEvidence({ source: 'regex-v1' }), false);
   assert.equal(isLlmEvidence({ source: 'legacy-candidateFit' }), false);

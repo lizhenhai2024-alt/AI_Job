@@ -58,7 +58,7 @@ test('extracts verbatim JD quotes through the OpenAI-compatible endpoint', async
   const [call] = fetchImpl.calls;
   assert.equal(call.url, `${DEFAULT_BASE_URL}/chat/completions`);
   assert.equal(call.body.model, DEFAULT_MODEL);
-  assert.equal(call.body.response_format.type, 'json_schema');
+  assert.equal(call.body.response_format.type, 'json_object');
 });
 
 test('rejects clauses that are not verbatim JD text', async () => {
@@ -147,19 +147,24 @@ test('validator output shape matches the regex extractor exactly', () => {
   );
 });
 
-// 供给方无关：DeepSeek 配置必须原样可用，换模型只改一个参数。
-test('presets let the same code run MiMo or DeepSeek without touching opencode.json', () => {
-  assert.equal(resolvePreset({}).model, DEFAULT_MODEL);
-  assert.equal(resolvePreset({ preset: 'deepseek' }).model, 'deepseek-flash');
-  assert.equal(resolvePreset({ preset: 'deepseek' }).baseUrl, 'https://api.deepseek.com');
-  assert.equal(resolvePreset({ preset: 'mimo-2.5' }).model, 'mimo-v2.5-free');
+// 供给方无关：换模型只改一个参数。
+test('the deepseek preset carries base url, model and response format', () => {
+  const p = resolvePreset({ preset: 'deepseek' });
+  assert.equal(p.model, 'deepseek-flash');
+  assert.equal(p.baseUrl, 'https://api.deepseek.com');
+  assert.equal(p.responseFormat, 'json_object');
   // 显式参数优先级最高
-  assert.equal(resolvePreset({ preset: 'mimo-2.5', model: 'custom' }).model, 'custom');
+  assert.equal(resolvePreset({ preset: 'deepseek', model: 'custom' }).model, 'custom');
   assert.throws(() => resolvePreset({ preset: 'nope' }), /未知预设/);
-  assert.deepEqual(Object.keys(MODEL_PRESETS).sort(), ['deepseek', 'mimo-2.5']);
+  assert.deepEqual(Object.keys(MODEL_PRESETS), ['deepseek']);
 });
 
-test('switching preset actually changes the model sent on the wire', async () => {
+test('the default is the deepseek preset, not a hardcoded provider', () => {
+  assert.equal(resolvePreset({}).model, DEFAULT_MODEL);
+  assert.equal(resolvePreset({}).model, MODEL_PRESETS.deepseek.model);
+});
+
+test('preset actually changes the request sent on the wire', async () => {
   const fetchImpl = mockFetch(okPayload({
     majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: []
   }));
@@ -168,18 +173,32 @@ test('switching preset actually changes the model sent on the wire', async () =>
 });
 
 test('cache does not leak evidence across models', () => {
-  assert.notEqual(cacheKey(JOB, 'mimo-v2.5-free'), cacheKey(JOB, 'deepseek-flash'));
+  assert.notEqual(cacheKey(JOB, 'deepseek-flash'), cacheKey(JOB, 'deepseek-v4-pro'));
 });
 
 // DeepSeek 只支持 json_object，且要求 prompt 里出现 "json" 字样。
 test('response_format is taken from the preset', async () => {
-  const schema = mockFetch(okPayload({ majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: [] }));
-  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl: schema, preset: 'mimo-2.5', retries: 0 });
-  assert.equal(schema.calls[0].body.response_format.type, 'json_schema');
+  const fetchImpl = mockFetch(okPayload({ majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: [] }));
+  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, preset: 'deepseek', retries: 0 });
+  assert.deepEqual(fetchImpl.calls[0].body.response_format, { type: 'json_object' });
+});
 
-  const object = mockFetch(okPayload({ majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: [] }));
-  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl: object, preset: 'deepseek', retries: 0 });
-  assert.deepEqual(object.calls[0].body.response_format, { type: 'json_object' });
+// reasoning_effort:'none' 是关键成本开关：带推理时输出 token 多 42 倍、慢 21 倍。
+test('the reasoning switch is sent on every request', async () => {
+  const fetchImpl = mockFetch(okPayload({ majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: [] }));
+  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, preset: 'deepseek', retries: 0 });
+  assert.equal(fetchImpl.calls[0].body.reasoning_effort, 'none');
+  // 也适用于格式回退那一次，否则回退会把成本打回去
+  const fallback = mockFetch({ error: 'json_schema unavailable' }, { status: 400 });
+  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl: fallback, preset: 'deepseek', retries: 0, responseFormat: 'json_schema' });
+  assert.equal(fallback.calls.length, 2, '回退那次也要发出去');
+  assert.equal(fallback.calls.at(-1).body.reasoning_effort, 'none');
+});
+
+test('extraBody can be overridden per call', async () => {
+  const fetchImpl = mockFetch(okPayload({ majorClauses: [], eligibilityClauses: [], technicalDuties: [], businessDuties: [] }));
+  await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, preset: 'deepseek', extraBody: { reasoning_effort: 'low' }, retries: 0 });
+  assert.equal(fetchImpl.calls[0].body.reasoning_effort, 'low');
 });
 
 test('an unsupported response_format falls back to json_object instead of losing the job', async () => {
@@ -194,7 +213,8 @@ test('an unsupported response_format falls back to json_object instead of losing
       majorClauses: ['本科及以上学历，英语或国际贸易专业优先'], eligibilityClauses: [], technicalDuties: [], businessDuties: []
     }) };
   };
-  const ev = await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, retries: 0 });
+  // 默认已是 json_object，必须显式要求 json_schema 才能走到回退分支
+  const ev = await extractWithLlm(JOB, { apiKey: 'k', fetchImpl, responseFormat: 'json_schema', retries: 0 });
   assert.ok(ev, '格式被拒后必须回退，而不是返回 null');
   assert.equal(ev.source, 'llm');
   assert.equal(call, 2, '恰好两次调用：一次 json_schema 被拒，一次 json_object 成功');

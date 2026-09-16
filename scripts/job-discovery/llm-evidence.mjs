@@ -1,33 +1,34 @@
 /**
- * JD 事实抽取 —— LLM 抽取器（OpenCode Zen，OpenAI 兼容 Chat Completions）。
+ * JD 事实抽取 —— LLM 抽取器（OpenAI 兼容 Chat Completions）。
  *
  * 契约 docs/job-intelligence-contract-v1.md §4：上游只定义事实，评价在下游算。
  * 本模块产出与 policy.mjs 的 extractJdEvidence 完全同形，下游 campus-job-board 无感。
  *
  * 三条设计约束（都写进了 validateEvidence）：
- *   1. 只能引用，不能断言 —— 专业/资格类字段必须是 JD 原文子串，不是原文的直接丢弃。
+ *   1. 只能引用，不能断言 —— 专业/资格类字段必须是 JD 原文子串，不是原文的丢弃整份输出；
+ *      职责类别是软过滤，闭集外的丢弃但不连累其余字段。
  *   2. 职责类别受闭集约束 —— 与 TECH_DUTY_LABELS / BUSINESS_DUTY_LABELS 同源，
  *      不引入第二份词表。
  *   3. 失败即降级 —— 任何异常都返回 null，由调用方回退到正则抽取，绝不让刷新管线挂掉。
  *
- * 端点事实（2026-09 检索所得，接入前请照官方文档核对）：
- *   base https://opencode.ai/zen/v1   model mimo-v2.5-free
- *   auth Bearer（OPENCODE_ZEN_API_KEY）  上下文 200K / 输出上限 32K
- *   免费层是 best-effort：促销可能到期、model ID 可能变、有速率限制。
+ * 当前供给方：DeepSeek 直连（见 MODEL_PRESETS）。实测事实（2026-09）：
+ *   /models 返回 deepseek-flash 与 deepseek-v4-pro；base https://api.deepseek.com
+ *   auth Bearer（JD_EVIDENCE_API_KEY）  只支持 response_format=json_object
+ *   默认关推理（reasoning_effort:'none'），否则输出 token 多 42 倍、慢 21 倍
+ *
+ * 已弃用：OpenCode Zen 免费层要求其客户端 session ID，外部调用一律 400
+ *   「OpenCode's free tier can only be used in OpenCode」——实测确认不可用。
  */
 
 import crypto from 'node:crypto';
 import { TECH_DUTY_LABELS, BUSINESS_DUTY_LABELS } from './policy.mjs';
 
-export const DEFAULT_BASE_URL = 'https://opencode.ai/zen/v1';
-export const DEFAULT_MODEL = 'mimo-v2.5-free';
+export const DEFAULT_BASE_URL = 'https://api.deepseek.com';
+export const DEFAULT_MODEL = 'deepseek-flash';
 export const MAX_JD_CHARS = 6000;
 
 /**
- * 预设。本模块与供给方无关：baseUrl / model / apiKey 全部是调用参数。
- *
- * 不会读取也不会修改 ~/.config/opencode/opencode.json —— 现有 DeepSeek 配置原样保留，
- * 这里只是把凭据显式传进来。
+ * 预设。本模块与供给方无关：baseUrl / model / apiKey / extraBody 全部是调用参数。
  *
  * 换模型：extractWithLlm(job, { preset: 'deepseek', apiKey })。
  *
@@ -36,17 +37,26 @@ export const MAX_JD_CHARS = 6000;
  *   - json_object：只保证返回合法 JSON。DeepSeek 只支持这个，
  *     且要求 prompt 里出现 "json" 字样（SYSTEM_PROMPT 结尾的「只返回 JSON。」满足）。
  * 给错的后果是整批 400 —— 实测过。所以宁可显式声明，也不猜。
+ *
+ * extraBody 里的 reasoning_effort:'none' 是关键的成本开关，实测（deepseek-flash，
+ * 同一批 10 条岗位、同样 10/10 通过率）：
+ *   关推理  874ms/条  输出  89 token  ¥0.0060/条
+ *   带推理 18453ms/条  输出 3780 token  ¥0.0150/条
+ * 即快 21 倍、便宜 2.5 倍。deepseek-flash 默认是推理模型，不显式关掉，
+ * reasoning_tokens 会占输出 80–99%。
+ * 注：reasoning_effort:'low' 仍会推理（只是略少），只有 'none' 真正关闭；
+ * thinking:{type:'disabled'} 同样有效。
  */
 export const MODEL_PRESETS = {
-  // OpenCode Zen 免费层要求一个只有其客户端会发的 session ID，
-  // 外部脚本调用一律 400「can only be used in OpenCode」。保留此预设仅作记录。
-  'mimo-2.5': { baseUrl: DEFAULT_BASE_URL, model: 'mimo-v2.5-free', responseFormat: 'json_schema' },
-  // 实测可用：/models 返回 deepseek-flash 与 deepseek-v4-pro。
-  // deepseek-flash 是推理模型（reasoning_tokens 常占输出大头），延迟约 0.2–3s/条。
-  deepseek: { baseUrl: 'https://api.deepseek.com', model: 'deepseek-flash', responseFormat: 'json_object' }
+  deepseek: {
+    baseUrl: DEFAULT_BASE_URL,
+    model: DEFAULT_MODEL,
+    responseFormat: 'json_object',
+    extraBody: { reasoning_effort: 'none' }
+  }
 };
 
-export const DEFAULT_RESPONSE_FORMAT = 'json_schema';
+export const DEFAULT_RESPONSE_FORMAT = 'json_object';
 
 export function resolvePreset(options = {}) {
   const preset = options.preset ? MODEL_PRESETS[options.preset] : null;
@@ -54,7 +64,8 @@ export function resolvePreset(options = {}) {
   return {
     baseUrl: options.baseUrl || preset?.baseUrl || DEFAULT_BASE_URL,
     model: options.model || preset?.model || DEFAULT_MODEL,
-    responseFormat: options.responseFormat || preset?.responseFormat || DEFAULT_RESPONSE_FORMAT
+    responseFormat: options.responseFormat || preset?.responseFormat || DEFAULT_RESPONSE_FORMAT,
+    extraBody: { ...(preset?.extraBody || {}), ...(options.extraBody || {}) }
   };
 }
 
@@ -177,6 +188,7 @@ async function callZen(job, options) {
   const {
     apiKey, baseUrl = DEFAULT_BASE_URL, model = DEFAULT_MODEL,
     responseFormat = DEFAULT_RESPONSE_FORMAT,
+    extraBody = {},
     fetchImpl = globalThis.fetch, timeoutMs = 60000
   } = options;
   const controller = new AbortController();
@@ -190,6 +202,7 @@ async function callZen(job, options) {
         model,
         temperature: 0,
         response_format: responseFormatBody(responseFormat),
+        ...extraBody,
         messages: [
           { role: 'system', content: SYSTEM_PROMPT },
           { role: 'user', content: jobTextOf(job) }
@@ -228,7 +241,7 @@ export async function extractWithLlm(job = {}, options = {}) {
   const { apiKey, cache, onError, retries = 1 } = options;
   if (!apiKey) return null;
 
-  const { baseUrl, model, responseFormat } = resolvePreset(options);
+  const { baseUrl, model, responseFormat, extraBody } = resolvePreset(options);
   const key = cacheKey(job, model);
   const cached = cache?.get?.(key);
   if (cached) return cached;
@@ -242,7 +255,7 @@ export async function extractWithLlm(job = {}, options = {}) {
 
   for (let attempt = 0; attempt <= retries; attempt += 1) {
     for (let i = 0; i < formats.length; i += 1) {
-      const result = await callZen(job, { ...options, baseUrl, model, responseFormat: formats[i] });
+      const result = await callZen(job, { ...options, baseUrl, model, extraBody, responseFormat: formats[i] });
       if (result.raw) {
         const evidence = validateEvidence(result.raw, jdText);
         if (evidence) {

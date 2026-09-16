@@ -10,7 +10,7 @@
  *   - 放在 compensation 之前：让 enrich-job-compensation 保持“最后写入者”和
  *     stats 不变量的所有者（它用 {...job} 展开，jdEvidence 会被保留）。
  *
- * 惰性：没有 OPENCODE_ZEN_API_KEY 时直接退出 0，什么都不改。
+ * 惰性：没有 JD_EVIDENCE_API_KEY 时直接退出 0，什么都不改。
  * 所以接进管线是安全的 —— 拿不到 key 的机器/CI 上它就是空操作。
  *
  * 用法：
@@ -18,34 +18,36 @@
  *   node scripts/enrich-jd-evidence.mjs --report   # 只统计待抽数量，不调模型、不需要 key
  *
  * 环境变量：
- *   JD_EVIDENCE_API_KEY       凭据。兼容 DEEPSEEK_API_KEY / OPENCODE_ZEN_API_KEY / OPENCODE_API_KEY
+ *   JD_EVIDENCE_API_KEY       凭据。兼容 DEEPSEEK_API_KEY
  *   JD_EVIDENCE_PRESET        预设名，默认 deepseek（见 llm-evidence.mjs MODEL_PRESETS）
- *   JD_EVIDENCE_MAX_CALLS     单次运行最多调用次数，默认 300
+ *   JD_EVIDENCE_MAX_CALLS     单次运行最多调用次数，默认 3000
  *   JD_EVIDENCE_CONCURRENCY   并发，默认 4
+ *   JD_EVIDENCE_ONLY_WEAK     默认开启。只对本仓库正则抽不到专业原文的岗位调用
+ *                             （实测占 37.9%）。设为 0 则对所有有正文的岗位跑一遍。
  *
- * 实测成本（deepseek/deepseek-flash，2026-09）：¥0.0120/条、约 15s/条（推理模型，
- * reasoning_tokens 占输出大头）。10403 条候选全量回填约 ¥125、顺序跑约 44 小时，
- * 按并发 4 / 每轮 300 条计约 11 小时 —— 分批回填是常态，不是异常。
+ * 成本（deepseek/deepseek-flash + reasoning_effort:none，2026-09 实测）：
+ *   ¥0.0060/条、约 0.87s/条。
+ *   全量 10403 条 ≈ ¥62；只补弱岗位 3938 条 ≈ ¥24。
+ *   开了推理的话是 ¥0.0150/条、18s/条 —— 所以 reasoning_effort:'none' 是关键开关。
  */
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { extractWithLlm, cacheKey, createFileCache, resolvePreset, hasJdBody, MIN_JD_BODY_CHARS } from './job-discovery/llm-evidence.mjs';
+import { resolveJdEvidence } from './job-discovery/policy.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const livePath = path.join(root, 'src/data/live-jobs.js');
 const cachePath = path.join(root, 'src/data/jd-evidence-cache.json');
 
 const REPORT_ONLY = process.argv.includes('--report');
-const MAX_CALLS = Number(process.env.JD_EVIDENCE_MAX_CALLS || 300);
+const MAX_CALLS = Number(process.env.JD_EVIDENCE_MAX_CALLS || 3000);
 const CONCURRENCY = Math.max(1, Number(process.env.JD_EVIDENCE_CONCURRENCY || 4));
-const PRESET = process.env.JD_EVIDENCE_PRESET || 'mimo-2.5';
-const apiKey = process.env.JD_EVIDENCE_API_KEY
-  || process.env.DEEPSEEK_API_KEY
-  || process.env.OPENCODE_ZEN_API_KEY
-  || process.env.OPENCODE_API_KEY
-  || '';
+const PRESET = process.env.JD_EVIDENCE_PRESET || 'deepseek';
+const apiKey = process.env.JD_EVIDENCE_API_KEY || process.env.DEEPSEEK_API_KEY || '';
+// 默认只补"正则抽不到"的岗位：那批是 LLM 真正能带来增量的部分。
+const ONLY_WEAK = process.env.JD_EVIDENCE_ONLY_WEAK !== '0';
 
 async function readJson(file, fallback) {
   try {
@@ -83,14 +85,18 @@ const cache = createFileCache(await readJson(cachePath, {}));
 // ---- 选择候选：有正文、且缓存里还没有这一份 ----
 const pending = [];
 let thin = 0;
+let strong = 0;
 let cached = 0;
 for (const job of jobs) {
   if (!hasJdBody(job)) { thin++; continue; }
+  // 正则已经抽到专业原文的岗位，LLM 的增量主要体现在措辞而非有无，
+  // 而 dataQuality 只判断"有无证据"。默认跳过它们，成本从 ¥62 降到 ¥24。
+  if (ONLY_WEAK && resolveJdEvidence(job).majorClauses.length > 0) { strong++; continue; }
   if (cache.get(cacheKey(job, model))) { cached++; continue; }
   pending.push(job);
 }
 
-console.log(`[jd-evidence] preset=${PRESET} model=${model} jobs=${jobs.length} 正文>=${MIN_JD_BODY_CHARS}字=${jobs.length - thin} 太薄跳过=${thin} 已缓存=${cached} 待抽=${pending.length}`);
+console.log(`[jd-evidence] preset=${PRESET} model=${model} jobs=${jobs.length} 太薄跳过=${thin} 正则已覆盖=${ONLY_WEAK ? strong : 0}(跳过) 已缓存=${cached} 待抽=${pending.length}`);
 
 if (REPORT_ONLY) {
   const willCall = Math.min(pending.length, MAX_CALLS);
@@ -99,7 +105,7 @@ if (REPORT_ONLY) {
 }
 
 if (!apiKey) {
-  console.log('[jd-evidence] 未设置 JD_EVIDENCE_API_KEY（或 DEEPSEEK_API_KEY / OPENCODE_ZEN_API_KEY），跳过（正则抽取结果原样保留）');
+  console.log('[jd-evidence] 未设置 JD_EVIDENCE_API_KEY（或 DEEPSEEK_API_KEY），跳过（正则抽取结果原样保留）');
   process.exit(0);
 }
 
