@@ -53,7 +53,7 @@ jobs:
       - name: Refresh jobs
         run: npm run refresh:jobs
         env:
-          # JD Evidence：Gemini Free Tier 多模型优先，DeepSeek 只做付费兜底。
+          # JD Evidence：Gemini Free Tier 多模型优先，DeepSeek Flash（非推理）只做付费兜底。
           # OpenCode Zen free 在 headless API 实测返回 MissingSessionID，当前不进入生产顺序。
           OPENCODE_ZEN_API_KEY: ${{ secrets.OPENCODE_ZEN_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -61,13 +61,16 @@ jobs:
           JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25,deepseek
-          # 单轮最多处理 1500 个待增强岗位。三个 Gemini 免费模型都失败时，
+          # 单轮最多处理 1500 个完整 JD。三个 Gemini 免费模型都失败时，
           # DeepSeek 最多兜底 200 条，避免免费层故障时把整批流量切到付费 API。
           JD_EVIDENCE_MAX_CALLS: 1500
           JD_EVIDENCE_PAID_MAX_CALLS: 200
           JD_EVIDENCE_CONCURRENCY: 4
-          # 默认只补“本仓库正则抽不到专业原文”的岗位。
-          JD_EVIDENCE_ONLY_WEAK: 1
+          # 仅分析“岗位说明 + 任职要求”都完整的 JD；完整 JD 全部做 AI 事实分析。
+          JD_EVIDENCE_COMPLETE_ONLY: 1
+          JD_EVIDENCE_MIN_SECTION_CHARS: 40
+          JD_EVIDENCE_MIN_TOTAL_CHARS: 120
+          JD_EVIDENCE_ONLY_WEAK: 0
       - name: Report JD evidence coverage
         run: node scripts/report-jd-evidence-coverage.mjs
         env:
