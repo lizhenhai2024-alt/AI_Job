@@ -65,6 +65,14 @@ jobs:
           JD_EVIDENCE_ONLY_WEAK: 1
           # 换抽取模型只改这一行（见 scripts/job-discovery/llm-evidence.mjs 的 MODEL_PRESETS）
           JD_EVIDENCE_PRESET: deepseek
+      # 未配置 secret 时上面那步会静默跳过（设计内的降级路径），于是「配了 LLM 增强
+      # 的管线」可以整月绿色通过却什么都没做。这里把覆盖率显式报告出来：
+      # 未启用 → ::warning::（不中断刷新）；已配置却零产出 → ::error::（真故障）。
+      # 只把「是否配置」这个布尔交给本步，密钥本身不进出。
+      - name: Report JD evidence coverage
+        run: node scripts/report-jd-evidence-coverage.mjs
+        env:
+          JD_EVIDENCE_KEY_CONFIGURED: ${{ secrets.JD_EVIDENCE_API_KEY != '' }}
       - name: Verify job intelligence enrichment
         run: node scripts/check-compensation.mjs
       - name: Rebuild source registry
