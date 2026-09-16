@@ -54,14 +54,15 @@ jobs:
         env:
           # 管线第 4.5 步（enrich-jd-evidence）用这个 key 调 LLM 抽取 JD 事实。
           # 未配置 secret 时求值为空字符串，该步骤自行跳过并返回 0，刷新不受影响。
-          # 换成 DeepSeek 直连：OpenCode Zen 免费层要求其客户端的 session ID，
-          # 外部调用一律 400「can only be used in OpenCode」，实测不可用。
           JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
-          # 单轮调用上限 + 并发。实测 deepseek-flash 约 15s/条、¥0.012/条，
-          # 300 条 / 并发 4 ≈ 19 分钟，压在 25 分钟超时之内。
+          # 单轮调用上限 + 并发。实测 deepseek-flash + 关推理约 0.87s/条、¥0.0060/条，
+          # 1500 条 / 并发 4 ≈ 5.5 分钟（CI 超时 25 分钟），单轮花费约 ¥9。
           # 回填完后每轮只处理新增/变更岗位（缓存按 JD 哈希跳过）。
-          JD_EVIDENCE_MAX_CALLS: 300
+          JD_EVIDENCE_MAX_CALLS: 1500
           JD_EVIDENCE_CONCURRENCY: 4
+          # 默认只补"本仓库正则抽不到专业原文"的岗位（实测 37.9%）。
+          # 设为 0 会对所有有正文的岗位跑一遍，成本约 2.6 倍。
+          JD_EVIDENCE_ONLY_WEAK: 1
           # 换抽取模型只改这一行（见 scripts/job-discovery/llm-evidence.mjs 的 MODEL_PRESETS）
           JD_EVIDENCE_PRESET: deepseek
       - name: Verify job intelligence enrichment
