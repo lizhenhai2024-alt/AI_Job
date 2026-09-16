@@ -1,7 +1,7 @@
 {
   "company": "荣耀",
   "count": 101,
-  "updatedAt": "2026-09-16T14:12:37.871Z",
+  "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
       "id": "hotjob-fdd2d46caf1f",
@@ -198,8 +198,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "计算机、软件工程、电子、数据分析相关专业方向背景；",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -211,12 +211,11 @@
       "jobRequirements": "1、计算机、软件工程、电子、数据分析相关专业方向背景； 2、能精准把握市场和用户需求，具备极强的数据、逻辑分析能力和执行力，以及一定的跨团队协作能力和项目管理能力，能够清晰拆解业务目标和路标并落地； 3、具有一定的营销管理知识，熟练掌握用户分析、研究方法，了解消费类产品或互联网行业商业模式设计，掌握一定产品需求管理和产品设计方法； 4、具备较强的沟通和自我驱动能力，应对挑战与压力，站在多赢的角度寻求最优的解决方案； 5、在大厂实习或有以下产品经历者优先考虑： （1）有参与过从0到1产品功能孵化，从1到N产品功能拓展并成功上线经验优先； （2）有较多用户体验，特别是功能和交互设计方面的经验； （3）有办公效率、智慧出行、智慧生活、相机图库、设备连接等项目相关经验者优先。",
       "JD": "1、负责荣耀手机、APP、全场景等某产品特性的演进和设计，版本路标规划，根据市场洞察制定产品目标、里程碑和协同资源，对用户诉求、新技术、国内外竞品进行分析研究，定义突破行业水平的产品方案； 2、高效组织团队协作，包括交互、设计、开发、运营等支持完成里程碑目标，并对版本的产品目标、研发成本、项目进度、体验质量进行管理；推动市场、渠道、品牌等部门深度合作，协同放大口碑效应； 3、行业分析，市场洞察，多维度评估需求实现的效果，关注用户反馈，根据新的需求场景定义，改进产品体验，确保产品竞争力，寻求新的商业机会，支持部门达成商业目标。\n1、计算机、软件工程、电子、数据分析相关专业方向背景； 2、能精准把握市场和用户需求，具备极强的数据、逻辑分析能力和执行力，以及一定的跨团队协作能力和项目管理能力，能够清晰拆解业务目标和路标并落地； 3、具有一定的营销管理知识，熟练掌握用户分析、研究方法，了解消费类产品或互联网行业商业模式设计，掌握一定产品需求管理和产品设计方法； 4、具备较强的沟通和自我驱动能力，应对挑战与压力，站在多赢的角度寻求最优的解决方案； 5、在大厂实习或有以下产品经历者优先考虑： （1）有参与过从0到1产品功能孵化，从1到N产品功能拓展并成功上线经验优先； （2）有较多用户体验，特别是功能和交互设计方面的经验； （3）有办公效率、智慧出行、智慧生活、相机图库、设备连接等项目相关经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "计算机、软件工程、电子、数据分析相关专业方向背景；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -361,6 +360,96 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54768cc6f624f42eb39&recruitType=1",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-52d7398734e0",
+      "company": "荣耀",
+      "title": "用户体验测试工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责OS业务的用户场景体验测试，通过VOC分析、用户验证、竞品横评等验证手段，提升OS业务场景用户满意度； 2、能够结合业务特点，开展用户调研，了解用户使用业务的行为特点，进行用户体验相关测试设计，对版本进行用户验证，并输出体验测试报告； 3、推动部门间协作，与周边团队配合，识别技术方案风险、用户体验风险，制定业务测试策略； 4、细分领域包含：安全体验测试、互联体验测试、媒体体验测试、办公体验测试、UX体验测试、人机交互体验测试、性能流畅体验测试。",
+      "jobRequirements": "1、通信工程、自动化、电子信息、计算机网络等软件工程相关专业背景；社会学、心理学、数据科学与大数据技术、统计学等对用户行为特征进行研究的人文工程和数据相关领域专业背景； 2、具备用户洞察能力，了解定量、定性分析方法；具备总结概括能力，能够从数据中提炼总结关键信息以及结论；理解用户能力，具备用户思维，能够从用户视角思考问题； 3、具备良好的表达和沟通能力及团队协作能力，具有良好的项目管理能力，能基于客户需求开展方案验证及交付。",
+      "JD": "1、负责OS业务的用户场景体验测试，通过VOC分析、用户验证、竞品横评等验证手段，提升OS业务场景用户满意度； 2、能够结合业务特点，开展用户调研，了解用户使用业务的行为特点，进行用户体验相关测试设计，对版本进行用户验证，并输出体验测试报告； 3、推动部门间协作，与周边团队配合，识别技术方案风险、用户体验风险，制定业务测试策略； 4、细分领域包含：安全体验测试、互联体验测试、媒体体验测试、办公体验测试、UX体验测试、人机交互体验测试、性能流畅体验测试。\n1、通信工程、自动化、电子信息、计算机网络等软件工程相关专业背景；社会学、心理学、数据科学与大数据技术、统计学等对用户行为特征进行研究的人文工程和数据相关领域专业背景； 2、具备用户洞察能力，了解定量、定性分析方法；具备总结概括能力，能够从数据中提炼总结关键信息以及结论；理解用户能力，具备用户思维，能够从用户视角思考问题； 3、具备良好的表达和沟通能力及团队协作能力，具有良好的项目管理能力，能基于客户需求开展方案验证及交付。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-08-18"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "客户",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5451ad6db7cf8056b83&recruitType=1",
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
@@ -729,96 +818,6 @@
       "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-52d7398734e0",
-      "company": "荣耀",
-      "title": "用户体验测试工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、负责OS业务的用户场景体验测试，通过VOC分析、用户验证、竞品横评等验证手段，提升OS业务场景用户满意度； 2、能够结合业务特点，开展用户调研，了解用户使用业务的行为特点，进行用户体验相关测试设计，对版本进行用户验证，并输出体验测试报告； 3、推动部门间协作，与周边团队配合，识别技术方案风险、用户体验风险，制定业务测试策略； 4、细分领域包含：安全体验测试、互联体验测试、媒体体验测试、办公体验测试、UX体验测试、人机交互体验测试、性能流畅体验测试。",
-      "jobRequirements": "1、通信工程、自动化、电子信息、计算机网络等软件工程相关专业背景；社会学、心理学、数据科学与大数据技术、统计学等对用户行为特征进行研究的人文工程和数据相关领域专业背景； 2、具备用户洞察能力，了解定量、定性分析方法；具备总结概括能力，能够从数据中提炼总结关键信息以及结论；理解用户能力，具备用户思维，能够从用户视角思考问题； 3、具备良好的表达和沟通能力及团队协作能力，具有良好的项目管理能力，能基于客户需求开展方案验证及交付。",
-      "JD": "1、负责OS业务的用户场景体验测试，通过VOC分析、用户验证、竞品横评等验证手段，提升OS业务场景用户满意度； 2、能够结合业务特点，开展用户调研，了解用户使用业务的行为特点，进行用户体验相关测试设计，对版本进行用户验证，并输出体验测试报告； 3、推动部门间协作，与周边团队配合，识别技术方案风险、用户体验风险，制定业务测试策略； 4、细分领域包含：安全体验测试、互联体验测试、媒体体验测试、办公体验测试、UX体验测试、人机交互体验测试、性能流畅体验测试。\n1、通信工程、自动化、电子信息、计算机网络等软件工程相关专业背景；社会学、心理学、数据科学与大数据技术、统计学等对用户行为特征进行研究的人文工程和数据相关领域专业背景； 2、具备用户洞察能力，了解定量、定性分析方法；具备总结概括能力，能够从数据中提炼总结关键信息以及结论；理解用户能力，具备用户思维，能够从用户视角思考问题； 3、具备良好的表达和沟通能力及团队协作能力，具有良好的项目管理能力，能基于客户需求开展方案验证及交付。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
-        ],
-        "technicalDuties": [
-          "技术评估"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据",
-        "客户",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5451ad6db7cf8056b83&recruitType=1",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
       "id": "hotjob-116deba80e50",
       "company": "荣耀",
       "title": "服务解决方案管培生",
@@ -938,7 +937,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -993,7 +992,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-70d724d3300d",
@@ -1165,7 +1164,7 @@
       "publishedAt": "2026-09-15",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-234227aa2c91",
@@ -1462,7 +1461,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1514,7 +1513,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-52a1c011a7d9",
@@ -1546,7 +1545,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1601,7 +1600,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-8f2eba29a703",
@@ -1633,7 +1632,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1689,7 +1688,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-a160c425ea21",
@@ -1779,6 +1778,184 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-08-19"
+    },
+    {
+      "id": "hotjob-4621f19042af",
+      "company": "荣耀",
+      "title": "互联网算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责荣耀互联网全场景（应用市场/游戏中心/信息流等）搜索/广告/推荐/策略算法的设计、开发与优化工作； 2、负责推荐全链路各个环节的模型&特征优化工作，包括召回、粗排、CTR、CVR、LTV等； 3、负责全链路广告的出价策略，排序策略，流量策略，成本控制等策略的持续优化工作； 4、基于业务理解和数据分析，持续挖掘优化方向并完成调研落地，驱动算法效果持续提升。",
+      "jobRequirements": "1、计算机、机器学习、应用数据、人工智能、运筹优化以及电子信息相关专业领域； 2、熟悉主流搜索推荐广告算法模型，关注前沿算法研究进展； 3、在高水平国际会议发布过相关论文，或者有高水平竞赛获奖经历者优先。",
+      "JD": "1、负责荣耀互联网全场景（应用市场/游戏中心/信息流等）搜索/广告/推荐/策略算法的设计、开发与优化工作； 2、负责推荐全链路各个环节的模型&特征优化工作，包括召回、粗排、CTR、CVR、LTV等； 3、负责全链路广告的出价策略，排序策略，流量策略，成本控制等策略的持续优化工作； 4、基于业务理解和数据分析，持续挖掘优化方向并完成调研落地，驱动算法效果持续提升。\n1、计算机、机器学习、应用数据、人工智能、运筹优化以及电子信息相关专业领域； 2、熟悉主流搜索推荐广告算法模型，关注前沿算法研究进展； 3、在高水平国际会议发布过相关论文，或者有高水平竞赛获奖经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-24"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54668cc6f624f42eb36&recruitType=1",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-24"
+    },
+    {
+      "id": "hotjob-564d8ccfc5cb",
+      "company": "荣耀",
+      "title": "互联网商业拓展经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "负责荣耀互联网业务商务拓展工作，包括： 1、拓展伙伴与荣耀合作机会，管理与伙伴的商业洽谈，构建荣耀全球商业合作生态关系； 2、管理荣耀合作伙伴在全球范围内的选择和认证，维护行业生态以及合作伙伴的日常连接； 3、分析行业趋势、生态价值链，识别、发掘商业合作机会； 4、洞察和评估关键要素，输入合作方向和机会建议，支持业务部门的商业需求； 5、项目有序、合规执行与管理，达成预期目标。",
+      "jobRequirements": "1、责任心与自我驱动，态度积极主动，问题解决能力和结果导向； 2、沟通协作和团队合作，项目执行及管理能力，调动各方资源达成目标； 3、硕士及以上学历，英语好或海外留学经历优先； 4、具备基本的销售和营销知识，了解基本的互联网商业模式，有过厂商或互联网行业实习经验者优先； 5、本岗位有少量涉及游戏领域的商业合作方向，热爱游戏或对游戏行业感兴趣者优先。",
+      "JD": "负责荣耀互联网业务商务拓展工作，包括： 1、拓展伙伴与荣耀合作机会，管理与伙伴的商业洽谈，构建荣耀全球商业合作生态关系； 2、管理荣耀合作伙伴在全球范围内的选择和认证，维护行业生态以及合作伙伴的日常连接； 3、分析行业趋势、生态价值链，识别、发掘商业合作机会； 4、洞察和评估关键要素，输入合作方向和机会建议，支持业务部门的商业需求； 5、项目有序、合规执行与管理，达成预期目标。\n1、责任心与自我驱动，态度积极主动，问题解决能力和结果导向； 2、沟通协作和团队合作，项目执行及管理能力，调动各方资源达成目标； 3、硕士及以上学历，英语好或海外留学经历优先； 4、具备基本的销售和营销知识，了解基本的互联网商业模式，有过厂商或互联网行业实习经验者优先； 5、本岗位有少量涉及游戏领域的商业合作方向，热爱游戏或对游戏行业感兴趣者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-08-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "营销",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5491ad6db7cf8056b91&recruitType=1",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
     },
     {
       "id": "hotjob-da6a1681c91c",
@@ -2449,7 +2626,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "开发实现"
@@ -2509,7 +2686,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-e0b46a6cb307",
@@ -2541,7 +2718,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -2597,7 +2774,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-0157550c2bf7",
@@ -2770,184 +2947,6 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83b3ce1ad6db7cf805641c&recruitType=1",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-4621f19042af",
-      "company": "荣耀",
-      "title": "互联网算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、负责荣耀互联网全场景（应用市场/游戏中心/信息流等）搜索/广告/推荐/策略算法的设计、开发与优化工作； 2、负责推荐全链路各个环节的模型&特征优化工作，包括召回、粗排、CTR、CVR、LTV等； 3、负责全链路广告的出价策略，排序策略，流量策略，成本控制等策略的持续优化工作； 4、基于业务理解和数据分析，持续挖掘优化方向并完成调研落地，驱动算法效果持续提升。",
-      "jobRequirements": "1、计算机、机器学习、应用数据、人工智能、运筹优化以及电子信息相关专业领域； 2、熟悉主流搜索推荐广告算法模型，关注前沿算法研究进展； 3、在高水平国际会议发布过相关论文，或者有高水平竞赛获奖经历者优先。",
-      "JD": "1、负责荣耀互联网全场景（应用市场/游戏中心/信息流等）搜索/广告/推荐/策略算法的设计、开发与优化工作； 2、负责推荐全链路各个环节的模型&特征优化工作，包括召回、粗排、CTR、CVR、LTV等； 3、负责全链路广告的出价策略，排序策略，流量策略，成本控制等策略的持续优化工作； 4、基于业务理解和数据分析，持续挖掘优化方向并完成调研落地，驱动算法效果持续提升。\n1、计算机、机器学习、应用数据、人工智能、运筹优化以及电子信息相关专业领域； 2、熟悉主流搜索推荐广告算法模型，关注前沿算法研究进展； 3、在高水平国际会议发布过相关论文，或者有高水平竞赛获奖经历者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-22"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "数据",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54668cc6f624f42eb36&recruitType=1",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-22"
-    },
-    {
-      "id": "hotjob-564d8ccfc5cb",
-      "company": "荣耀",
-      "title": "互联网商业拓展经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "负责荣耀互联网业务商务拓展工作，包括： 1、拓展伙伴与荣耀合作机会，管理与伙伴的商业洽谈，构建荣耀全球商业合作生态关系； 2、管理荣耀合作伙伴在全球范围内的选择和认证，维护行业生态以及合作伙伴的日常连接； 3、分析行业趋势、生态价值链，识别、发掘商业合作机会； 4、洞察和评估关键要素，输入合作方向和机会建议，支持业务部门的商业需求； 5、项目有序、合规执行与管理，达成预期目标。",
-      "jobRequirements": "1、责任心与自我驱动，态度积极主动，问题解决能力和结果导向； 2、沟通协作和团队合作，项目执行及管理能力，调动各方资源达成目标； 3、硕士及以上学历，英语好或海外留学经历优先； 4、具备基本的销售和营销知识，了解基本的互联网商业模式，有过厂商或互联网行业实习经验者优先； 5、本岗位有少量涉及游戏领域的商业合作方向，热爱游戏或对游戏行业感兴趣者优先。",
-      "JD": "负责荣耀互联网业务商务拓展工作，包括： 1、拓展伙伴与荣耀合作机会，管理与伙伴的商业洽谈，构建荣耀全球商业合作生态关系； 2、管理荣耀合作伙伴在全球范围内的选择和认证，维护行业生态以及合作伙伴的日常连接； 3、分析行业趋势、生态价值链，识别、发掘商业合作机会； 4、洞察和评估关键要素，输入合作方向和机会建议，支持业务部门的商业需求； 5、项目有序、合规执行与管理，达成预期目标。\n1、责任心与自我驱动，态度积极主动，问题解决能力和结果导向； 2、沟通协作和团队合作，项目执行及管理能力，调动各方资源达成目标； 3、硕士及以上学历，英语好或海外留学经历优先； 4、具备基本的销售和营销知识，了解基本的互联网商业模式，有过厂商或互联网行业实习经验者优先； 5、本岗位有少量涉及游戏领域的商业合作方向，热爱游戏或对游戏行业感兴趣者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目",
-        "营销",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5491ad6db7cf8056b91&recruitType=1",
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
@@ -3400,7 +3399,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -3449,7 +3448,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-761aab220a2e",
@@ -3481,7 +3480,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -3532,7 +3531,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-1497a1cd3ea3",
@@ -3564,7 +3563,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法",
@@ -3617,7 +3616,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-3dd5679e515e",
@@ -3649,7 +3648,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -3696,7 +3695,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-84c702741ffa",
@@ -3898,7 +3897,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -3951,7 +3950,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-4366e5933bbf",
@@ -3983,7 +3982,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -4032,7 +4031,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-bf9c0295ca09",
@@ -4145,7 +4144,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -4196,7 +4195,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-c01bcd44361e",
@@ -4228,7 +4227,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -4278,7 +4277,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-42f388f61f09",
@@ -4310,7 +4309,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -4360,7 +4359,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-182f7443cfc5",
@@ -4392,7 +4391,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "开发实现"
@@ -4445,7 +4444,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-6890ec7164b0",
@@ -4637,7 +4636,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法",
@@ -4689,7 +4688,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-f3c41bb4fc06",
@@ -4721,7 +4720,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "结构/原理"
@@ -4774,7 +4773,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-1c7a1b78a590",
@@ -4806,7 +4805,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -4853,7 +4852,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-62f729d1b346",
@@ -4969,7 +4968,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5018,7 +5017,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-80e9018e3196",
@@ -5050,7 +5049,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -5103,7 +5102,7 @@
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-93b23ceb555f",
@@ -5135,7 +5134,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -5186,7 +5185,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-4207096e551d",
@@ -5348,6 +5347,179 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5331ad6db7cf8056b48&recruitType=1",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-07caaaf19576",
+      "company": "荣耀",
+      "title": "大数据开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "从事的岗位方向包括： 1、深度参与从数据采集、数据接入、数据处理到数据统计和服务的完整大数据解决方案； 2、持续优化和改进大数据平台，设计和构建业务复杂、高并发、海量的数据分析和处理系统； 3、探索云服务化实现的前沿技术，并负责大数据服务的架构设计、开发、测试及运维； 4、负责消费电子产品的人群画像构建、人群行为分析、人群行为趋势预测，通过数据结果分析、解决现有产品研究痛点或提出未来产品潜在机会点； 5、负责组织内相关数据看板的建设，根据业务中的关键流程或关键指标进行数据分析，提出具有落地项目的分析结论，撰写数据报告，推动业务数据化运营； 6、产品故障数据的AI建模和分析，寻找单故障发生范式，以及故障之间隐形联合特征，构建故障KPI大数据质量度量体系，促进产品质量改进； 7、负责周边业务团队的专题分析需求、数据挖掘、建模及算法支撑服务，负责跨团队协作的数据专项建设，分析和理解多业务诉求，对产品规划和设计给出建设性/正向意见。",
+      "jobRequirements": "1、计算机、软件相关专业； 2、精通Java软件开发，有软件开发项目经验，并至少熟练掌握以下语言中的一种：C/C++/Go/Python/PHP/Shell等编程语言及脚本语言； 3、熟悉大数据相关开源软件，有应用大数据组件解决问题的实战经验或开源社区代码贡献者优先； 4、具备团队意识，与他人合作良好，最好具有团队协作的经验。",
+      "JD": "从事的岗位方向包括： 1、深度参与从数据采集、数据接入、数据处理到数据统计和服务的完整大数据解决方案； 2、持续优化和改进大数据平台，设计和构建业务复杂、高并发、海量的数据分析和处理系统； 3、探索云服务化实现的前沿技术，并负责大数据服务的架构设计、开发、测试及运维； 4、负责消费电子产品的人群画像构建、人群行为分析、人群行为趋势预测，通过数据结果分析、解决现有产品研究痛点或提出未来产品潜在机会点； 5、负责组织内相关数据看板的建设，根据业务中的关键流程或关键指标进行数据分析，提出具有落地项目的分析结论，撰写数据报告，推动业务数据化运营； 6、产品故障数据的AI建模和分析，寻找单故障发生范式，以及故障之间隐形联合特征，构建故障KPI大数据质量度量体系，促进产品质量改进； 7、负责周边业务团队的专题分析需求、数据挖掘、建模及算法支撑服务，负责跨团队协作的数据专项建设，分析和理解多业务诉求，对产品规划和设计给出建设性/正向意见。\n1、计算机、软件相关专业； 2、精通Java软件开发，有软件开发项目经验，并至少熟练掌握以下语言中的一种：C/C++/Go/Python/PHP/Shell等编程语言及脚本语言； 3、熟悉大数据相关开源软件，有应用大数据组件解决问题的实战经验或开源社区代码贡献者优先； 4、具备团队意识，与他人合作良好，最好具有团队协作的经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-08-18"
+        ],
+        "technicalDuties": [
+          "质量技术",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54543154813049f22a6&recruitType=1",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-accbafbf0442",
+      "company": "荣耀",
+      "title": "多模态算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、多模态大模型理解和生成、图文信息提取、屏幕理解等的行业应用等领域近期算法的跟踪、实现、最佳实践流程标准化； 2、与研发团队密切合作，将多模态理解和生成技术应用于实际项目，满足前沿创新目标或者业务目标。",
+      "jobRequirements": "1、计算机科学、电子工程、人工智能、统计学等相关领域专业； 2、具备良好的数学基础，熟悉至少一种深度学习框架，并有一定编程实践经验； 3、对多模态领域有一定的了解，包括文本、图像、语音等多模态数据处理经验； 4、具备良好的学术背景和文献阅读能力，有相关竞赛获奖经历或发表相关学术论文更佳。",
+      "JD": "1、多模态大模型理解和生成、图文信息提取、屏幕理解等的行业应用等领域近期算法的跟踪、实现、最佳实践流程标准化； 2、与研发团队密切合作，将多模态理解和生成技术应用于实际项目，满足前沿创新目标或者业务目标。\n1、计算机科学、电子工程、人工智能、统计学等相关领域专业； 2、具备良好的数学基础，熟悉至少一种深度学习框架，并有一定编程实践经验； 3、对多模态领域有一定的了解，包括文本、图像、语音等多模态数据处理经验； 4、具备良好的学术背景和文献阅读能力，有相关竞赛获奖经历或发表相关学术论文更佳。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-08-18"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54643154813049f22a8&recruitType=1",
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
@@ -5561,7 +5733,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -5614,7 +5786,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-d858546263ee",
@@ -5985,7 +6157,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "质量技术",
@@ -6039,7 +6211,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-df195f31f79f",
@@ -6071,7 +6243,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "开发实现"
@@ -6123,7 +6295,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-aed2db7a7062",
@@ -6238,7 +6410,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "结构/原理",
@@ -6290,7 +6462,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-fbafd7de2bac",
@@ -6322,7 +6494,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "结构/原理"
@@ -6374,7 +6546,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-cf98ee18b0b9",
@@ -6406,7 +6578,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "开发实现"
@@ -6458,7 +6630,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-7860c782fe90",
@@ -6490,7 +6662,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "结构/原理"
@@ -6542,7 +6714,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-e6b623d6ba87",
@@ -7158,7 +7330,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -7209,7 +7381,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-d145fe5225a6",
@@ -7241,7 +7413,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -7290,7 +7462,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-2a74d468fdca",
@@ -7322,7 +7494,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "开发实现"
@@ -7373,7 +7545,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-f8c6628556d0",
@@ -7405,7 +7577,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法",
@@ -7457,7 +7629,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-4adf5784dbdb",
@@ -7489,7 +7661,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -7546,7 +7718,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-cf50a3d35c8e",
@@ -7578,7 +7750,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -7629,7 +7801,7 @@
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-dde4ac7116cb",
@@ -7810,9 +7982,9 @@
       "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-07caaaf19576",
+      "id": "hotjob-be65b25e3e20",
       "company": "荣耀",
-      "title": "大数据开发工程师",
+      "title": "高速与高频信号完整性工程师",
       "graduationYear": [
         "2027"
       ],
@@ -7830,34 +8002,26 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "南京",
-      "jobDescription": "从事的岗位方向包括： 1、深度参与从数据采集、数据接入、数据处理到数据统计和服务的完整大数据解决方案； 2、持续优化和改进大数据平台，设计和构建业务复杂、高并发、海量的数据分析和处理系统； 3、探索云服务化实现的前沿技术，并负责大数据服务的架构设计、开发、测试及运维； 4、负责消费电子产品的人群画像构建、人群行为分析、人群行为趋势预测，通过数据结果分析、解决现有产品研究痛点或提出未来产品潜在机会点； 5、负责组织内相关数据看板的建设，根据业务中的关键流程或关键指标进行数据分析，提出具有落地项目的分析结论，撰写数据报告，推动业务数据化运营； 6、产品故障数据的AI建模和分析，寻找单故障发生范式，以及故障之间隐形联合特征，构建故障KPI大数据质量度量体系，促进产品质量改进； 7、负责周边业务团队的专题分析需求、数据挖掘、建模及算法支撑服务，负责跨团队协作的数据专项建设，分析和理解多业务诉求，对产品规划和设计给出建设性/正向意见。",
-      "jobRequirements": "1、计算机、软件相关专业； 2、精通Java软件开发，有软件开发项目经验，并至少熟练掌握以下语言中的一种：C/C++/Go/Python/PHP/Shell等编程语言及脚本语言； 3、熟悉大数据相关开源软件，有应用大数据组件解决问题的实战经验或开源社区代码贡献者优先； 4、具备团队意识，与他人合作良好，最好具有团队协作的经验。",
-      "JD": "从事的岗位方向包括： 1、深度参与从数据采集、数据接入、数据处理到数据统计和服务的完整大数据解决方案； 2、持续优化和改进大数据平台，设计和构建业务复杂、高并发、海量的数据分析和处理系统； 3、探索云服务化实现的前沿技术，并负责大数据服务的架构设计、开发、测试及运维； 4、负责消费电子产品的人群画像构建、人群行为分析、人群行为趋势预测，通过数据结果分析、解决现有产品研究痛点或提出未来产品潜在机会点； 5、负责组织内相关数据看板的建设，根据业务中的关键流程或关键指标进行数据分析，提出具有落地项目的分析结论，撰写数据报告，推动业务数据化运营； 6、产品故障数据的AI建模和分析，寻找单故障发生范式，以及故障之间隐形联合特征，构建故障KPI大数据质量度量体系，促进产品质量改进； 7、负责周边业务团队的专题分析需求、数据挖掘、建模及算法支撑服务，负责跨团队协作的数据专项建设，分析和理解多业务诉求，对产品规划和设计给出建设性/正向意见。\n1、计算机、软件相关专业； 2、精通Java软件开发，有软件开发项目经验，并至少熟练掌握以下语言中的一种：C/C++/Go/Python/PHP/Shell等编程语言及脚本语言； 3、熟悉大数据相关开源软件，有应用大数据组件解决问题的实战经验或开源社区代码贡献者优先； 4、具备团队意识，与他人合作良好，最好具有团队协作的经验。",
+      "location": "西安",
+      "jobDescription": "1、基于终端产品板级硬件互连、信号和电源完整性技术发展趋势，参与新技术规划及开发； 2、负责终端产品的信号和电源完整性方案设计工作，为产品提供有竞争力的整机电性能解决方案，指导PCB/FPC设计； 3、负责板级PCB/FPC互连方案设计、仿真优化工作，保证PCB硬件设计方案的可实现性、可生产性，为产品提供高密、可靠的硬件互连架构竞争力。",
+      "jobRequirements": "1、电子、通信、控制、自动化、电磁场与微波等相关专业； 2、具有良好的模拟电路、数字电路、电磁场与微波、信号处理的基础； 3、具有良好的团队协作及沟通能力。",
+      "JD": "1、基于终端产品板级硬件互连、信号和电源完整性技术发展趋势，参与新技术规划及开发； 2、负责终端产品的信号和电源完整性方案设计工作，为产品提供有竞争力的整机电性能解决方案，指导PCB/FPC设计； 3、负责板级PCB/FPC互连方案设计、仿真优化工作，保证PCB硬件设计方案的可实现性、可生产性，为产品提供高密、可靠的硬件互连架构竞争力。\n1、电子、通信、控制、自动化、电磁场与微波等相关专业； 2、具有良好的模拟电路、数字电路、电磁场与微波、信号处理的基础； 3、具有良好的团队协作及沟通能力。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2027-08-18"
+          "投递截止：2026-09-24"
         ],
-        "technicalDuties": [
-          "质量技术",
-          "开发实现"
-        ],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
         "其他"
       ],
-      "skills": [
-        "数据分析"
-      ],
+      "skills": [],
       "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据",
-        "分析"
+        "沟通"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -7892,16 +8056,16 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54543154813049f22a6&recruitType=1",
-      "publishedAt": "2026-08-18",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a85584c4315481304a20b00&recruitType=1",
+      "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2027-08-18"
+      "deadline": "2026-09-24"
     },
     {
-      "id": "hotjob-accbafbf0442",
+      "id": "hotjob-862e1ad837be",
       "company": "荣耀",
-      "title": "多模态算法工程师",
+      "title": "大模型系统研发工程师",
       "graduationYear": [
         "2027"
       ],
@@ -7919,10 +8083,10 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "深圳",
-      "jobDescription": "1、多模态大模型理解和生成、图文信息提取、屏幕理解等的行业应用等领域近期算法的跟踪、实现、最佳实践流程标准化； 2、与研发团队密切合作，将多模态理解和生成技术应用于实际项目，满足前沿创新目标或者业务目标。",
-      "jobRequirements": "1、计算机科学、电子工程、人工智能、统计学等相关领域专业； 2、具备良好的数学基础，熟悉至少一种深度学习框架，并有一定编程实践经验； 3、对多模态领域有一定的了解，包括文本、图像、语音等多模态数据处理经验； 4、具备良好的学术背景和文献阅读能力，有相关竞赛获奖经历或发表相关学术论文更佳。",
-      "JD": "1、多模态大模型理解和生成、图文信息提取、屏幕理解等的行业应用等领域近期算法的跟踪、实现、最佳实践流程标准化； 2、与研发团队密切合作，将多模态理解和生成技术应用于实际项目，满足前沿创新目标或者业务目标。\n1、计算机科学、电子工程、人工智能、统计学等相关领域专业； 2、具备良好的数学基础，熟悉至少一种深度学习框架，并有一定编程实践经验； 3、对多模态领域有一定的了解，包括文本、图像、语音等多模态数据处理经验； 4、具备良好的学术背景和文献阅读能力，有相关竞赛获奖经历或发表相关学术论文更佳。",
+      "location": "南京",
+      "jobDescription": "1、Infra 优化：负责大模型训练 / 推理在 GPU / NPU 等硬件上的性能优化与基础库设计，深入分布式训练、推理引擎（vLLM / SGLang 等）与高性能算子（CUDA / Triton）； 2、推理服务：设计开发大模型推理系统，落地 KV Cache、连续批处理、量化、长上下文等技术，平衡吞吐、时延与成本； 3、Agent 工程：参与 Agent 框架与运行时设计，支持工具调用、规划、多智能体协作，落地 MCP / A2A 等协议； 4、训练后与评测：参与 SFT / DPO / RLVR 等训练后流程工程化，建设评测体系（evaluation harness）； 5、技术前瞻：跟踪业界 SOTA，对标并创新，将前沿成果转化为工程实践。",
+      "jobRequirements": "1、计算机、软件工程、人工智能、机器学习等相关专业； 2、扎实的编程功底：精通 C++ / Rust / Python 至少一门，熟悉数据结构与算法；有 CUDA / Triton 经验者优先； 3、了解大模型训练 / 推理全链路，熟悉 PyTorch、vLLM、SGLang、DeepSpeed 等框架者优先； 加分项：高水平论文 / 竞赛获奖；开源大模型项目贡献；推理优化 / Agent / 评测方向有实习或项目经历。",
+      "JD": "1、Infra 优化：负责大模型训练 / 推理在 GPU / NPU 等硬件上的性能优化与基础库设计，深入分布式训练、推理引擎（vLLM / SGLang 等）与高性能算子（CUDA / Triton）； 2、推理服务：设计开发大模型推理系统，落地 KV Cache、连续批处理、量化、长上下文等技术，平衡吞吐、时延与成本； 3、Agent 工程：参与 Agent 框架与运行时设计，支持工具调用、规划、多智能体协作，落地 MCP / A2A 等协议； 4、训练后与评测：参与 SFT / DPO / RLVR 等训练后流程工程化，建设评测体系（evaluation harness）； 5、技术前瞻：跟踪业界 SOTA，对标并创新，将前沿成果转化为工程实践。\n1、计算机、软件工程、人工智能、机器学习等相关专业； 2、扎实的编程功底：精通 C++ / Rust / Python 至少一门，熟悉数据结构与算法；有 CUDA / Triton 经验者优先； 3、了解大模型训练 / 推理全链路，熟悉 PyTorch、vLLM、SGLang、DeepSpeed 等框架者优先； 加分项：高水平论文 / 竞赛获奖；开源大模型项目贡献；推理优化 / Agent / 评测方向有实习或项目经历。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -7976,22 +8140,22 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54643154813049f22a8&recruitType=1",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54443154813049f229e&recruitType=1",
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-be65b25e3e20",
+      "id": "hotjob-eaedea24fc93",
       "company": "荣耀",
-      "title": "高速与高频信号完整性工程师",
+      "title": "互联网应用软件开发工程师",
       "graduationYear": [
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -8003,18 +8167,20 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "西安",
-      "jobDescription": "1、基于终端产品板级硬件互连、信号和电源完整性技术发展趋势，参与新技术规划及开发； 2、负责终端产品的信号和电源完整性方案设计工作，为产品提供有竞争力的整机电性能解决方案，指导PCB/FPC设计； 3、负责板级PCB/FPC互连方案设计、仿真优化工作，保证PCB硬件设计方案的可实现性、可生产性，为产品提供高密、可靠的硬件互连架构竞争力。",
-      "jobRequirements": "1、电子、通信、控制、自动化、电磁场与微波等相关专业； 2、具有良好的模拟电路、数字电路、电磁场与微波、信号处理的基础； 3、具有良好的团队协作及沟通能力。",
-      "JD": "1、基于终端产品板级硬件互连、信号和电源完整性技术发展趋势，参与新技术规划及开发； 2、负责终端产品的信号和电源完整性方案设计工作，为产品提供有竞争力的整机电性能解决方案，指导PCB/FPC设计； 3、负责板级PCB/FPC互连方案设计、仿真优化工作，保证PCB硬件设计方案的可实现性、可生产性，为产品提供高密、可靠的硬件互连架构竞争力。\n1、电子、通信、控制、自动化、电磁场与微波等相关专业； 2、具有良好的模拟电路、数字电路、电磁场与微波、信号处理的基础； 3、具有良好的团队协作及沟通能力。",
+      "location": "南京",
+      "jobDescription": "1、您可以创作极致用户体验的应用APP，以最快的速度看到您贡献的代码被成千上万人使用； 2、您可以接触到业内先进的开发模式与开发工具，与前辈们进行平等的沟通交流，快速成长。",
+      "jobRequirements": "1、计算机、通信、软件工程等相关专业本科及以上学历； 2、对终端产品软件开发充满激情； 3、热爱编程，基础扎实，熟悉掌握Java/C/C++编程语言，有良好的编程习惯。",
+      "JD": "1、您可以创作极致用户体验的应用APP，以最快的速度看到您贡献的代码被成千上万人使用； 2、您可以接触到业内先进的开发模式与开发工具，与前辈们进行平等的沟通交流，快速成长。\n1、计算机、通信、软件工程等相关专业本科及以上学历； 2、对终端产品软件开发充满激情； 3、热爱编程，基础扎实，熟悉掌握Java/C/C++编程语言，有良好的编程习惯。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-22"
+          "投递截止：2026-09-24"
         ],
-        "technicalDuties": [],
+        "technicalDuties": [
+          "开发实现"
+        ],
         "businessDuties": []
       },
       "roleFamily": [
@@ -8022,6 +8188,7 @@
       ],
       "skills": [],
       "experienceKeywords": [
+        "用户",
         "沟通"
       ],
       "preferenceTags": [],
@@ -8057,11 +8224,95 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a85584c4315481304a20b00&recruitType=1",
-      "publishedAt": "2026-08-19",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54443154813049f22a1&recruitType=1",
+      "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-22"
+      "deadline": "2026-09-24"
+    },
+    {
+      "id": "hotjob-2a823d13a7db",
+      "company": "荣耀",
+      "title": "语音算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "1、参与语音相关核心算法的研发与优化，包括但不限于：语音理解、语音交互、语音识别、语音合成、语音唤醒、声纹识别等； 2、跟踪前沿语音技术动态，将最新算法（如端到端模型、大模型语音方案、端侧模型优化）落地到算法工程中，构建行业最前沿的语音用户体验； 3、针对业务场景（如智能助手、会议转写、实时通信、端侧唤醒等）进行数据清洗、模型训练、调参、端侧加速等，并把研发模型落地到业务中； 4、协同工程团队完成算法在云端或嵌入式设备上的部署，优化推理性能（延迟、吞吐、内存占用）； 5、建立语音评测体系，以用户体验为目标，持续提升算法指标和用户体验。",
+      "jobRequirements": "1、计算机、信号处理、软件工程、人工智能等相关专业； 2、扎实的编程能力，熟练掌握Python或者C/C++，有良好的代码风格； 3、深入理解数字信号/语音/图像/文本或多模态算法； 4、熟悉主流深度学习框架（PyTorch等），能独立完成模型的设计、训练、调优； 5、具备英文文献阅读能力，能快速复现论文算法。 加分项： 1、在 Interspeech、ICASSP及AAAI、CVPR、ICLR等语音或相关领域发表过论文； 2、有模型量化、剪枝、知识蒸馏等端侧模型优化经验； 3、熟悉语音识别工具包或语音合成工具包（包括但不限于Kaldi、WeNet、ESPnet-TTS）。",
+      "JD": "1、参与语音相关核心算法的研发与优化，包括但不限于：语音理解、语音交互、语音识别、语音合成、语音唤醒、声纹识别等； 2、跟踪前沿语音技术动态，将最新算法（如端到端模型、大模型语音方案、端侧模型优化）落地到算法工程中，构建行业最前沿的语音用户体验； 3、针对业务场景（如智能助手、会议转写、实时通信、端侧唤醒等）进行数据清洗、模型训练、调参、端侧加速等，并把研发模型落地到业务中； 4、协同工程团队完成算法在云端或嵌入式设备上的部署，优化推理性能（延迟、吞吐、内存占用）； 5、建立语音评测体系，以用户体验为目标，持续提升算法指标和用户体验。\n1、计算机、信号处理、软件工程、人工智能等相关专业； 2、扎实的编程能力，熟练掌握Python或者C/C++，有良好的代码风格； 3、深入理解数字信号/语音/图像/文本或多模态算法； 4、熟悉主流深度学习框架（PyTorch等），能独立完成模型的设计、训练、调优； 5、具备英文文献阅读能力，能快速复现论文算法。 加分项： 1、在 Interspeech、ICASSP及AAAI、CVPR、ICLR等语音或相关领域发表过论文； 2、有模型量化、剪枝、知识蒸馏等端侧模型优化经验； 3、熟悉语音识别工具包或语音合成工具包（包括但不限于Kaldi、WeNet、ESPnet-TTS）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-08-18"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54743154813049f22aa&recruitType=1",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
     },
     {
       "id": "hotjob-65a58cac0d71",
@@ -8405,258 +8656,6 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53468cc6f624f42eb09&recruitType=1",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-862e1ad837be",
-      "company": "荣耀",
-      "title": "大模型系统研发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "南京",
-      "jobDescription": "1、Infra 优化：负责大模型训练 / 推理在 GPU / NPU 等硬件上的性能优化与基础库设计，深入分布式训练、推理引擎（vLLM / SGLang 等）与高性能算子（CUDA / Triton）； 2、推理服务：设计开发大模型推理系统，落地 KV Cache、连续批处理、量化、长上下文等技术，平衡吞吐、时延与成本； 3、Agent 工程：参与 Agent 框架与运行时设计，支持工具调用、规划、多智能体协作，落地 MCP / A2A 等协议； 4、训练后与评测：参与 SFT / DPO / RLVR 等训练后流程工程化，建设评测体系（evaluation harness）； 5、技术前瞻：跟踪业界 SOTA，对标并创新，将前沿成果转化为工程实践。",
-      "jobRequirements": "1、计算机、软件工程、人工智能、机器学习等相关专业； 2、扎实的编程功底：精通 C++ / Rust / Python 至少一门，熟悉数据结构与算法；有 CUDA / Triton 经验者优先； 3、了解大模型训练 / 推理全链路，熟悉 PyTorch、vLLM、SGLang、DeepSpeed 等框架者优先； 加分项：高水平论文 / 竞赛获奖；开源大模型项目贡献；推理优化 / Agent / 评测方向有实习或项目经历。",
-      "JD": "1、Infra 优化：负责大模型训练 / 推理在 GPU / NPU 等硬件上的性能优化与基础库设计，深入分布式训练、推理引擎（vLLM / SGLang 等）与高性能算子（CUDA / Triton）； 2、推理服务：设计开发大模型推理系统，落地 KV Cache、连续批处理、量化、长上下文等技术，平衡吞吐、时延与成本； 3、Agent 工程：参与 Agent 框架与运行时设计，支持工具调用、规划、多智能体协作，落地 MCP / A2A 等协议； 4、训练后与评测：参与 SFT / DPO / RLVR 等训练后流程工程化，建设评测体系（evaluation harness）； 5、技术前瞻：跟踪业界 SOTA，对标并创新，将前沿成果转化为工程实践。\n1、计算机、软件工程、人工智能、机器学习等相关专业； 2、扎实的编程功底：精通 C++ / Rust / Python 至少一门，熟悉数据结构与算法；有 CUDA / Triton 经验者优先； 3、了解大模型训练 / 推理全链路，熟悉 PyTorch、vLLM、SGLang、DeepSpeed 等框架者优先； 加分项：高水平论文 / 竞赛获奖；开源大模型项目贡献；推理优化 / Agent / 评测方向有实习或项目经历。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54443154813049f229e&recruitType=1",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-eaedea24fc93",
-      "company": "荣耀",
-      "title": "互联网应用软件开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "南京",
-      "jobDescription": "1、您可以创作极致用户体验的应用APP，以最快的速度看到您贡献的代码被成千上万人使用； 2、您可以接触到业内先进的开发模式与开发工具，与前辈们进行平等的沟通交流，快速成长。",
-      "jobRequirements": "1、计算机、通信、软件工程等相关专业本科及以上学历； 2、对终端产品软件开发充满激情； 3、热爱编程，基础扎实，熟悉掌握Java/C/C++编程语言，有良好的编程习惯。",
-      "JD": "1、您可以创作极致用户体验的应用APP，以最快的速度看到您贡献的代码被成千上万人使用； 2、您可以接触到业内先进的开发模式与开发工具，与前辈们进行平等的沟通交流，快速成长。\n1、计算机、通信、软件工程等相关专业本科及以上学历； 2、对终端产品软件开发充满激情； 3、热爱编程，基础扎实，熟悉掌握Java/C/C++编程语言，有良好的编程习惯。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-22"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "用户",
-        "沟通"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54443154813049f22a1&recruitType=1",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-22"
-    },
-    {
-      "id": "hotjob-2a823d13a7db",
-      "company": "荣耀",
-      "title": "语音算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "南京",
-      "jobDescription": "1、参与语音相关核心算法的研发与优化，包括但不限于：语音理解、语音交互、语音识别、语音合成、语音唤醒、声纹识别等； 2、跟踪前沿语音技术动态，将最新算法（如端到端模型、大模型语音方案、端侧模型优化）落地到算法工程中，构建行业最前沿的语音用户体验； 3、针对业务场景（如智能助手、会议转写、实时通信、端侧唤醒等）进行数据清洗、模型训练、调参、端侧加速等，并把研发模型落地到业务中； 4、协同工程团队完成算法在云端或嵌入式设备上的部署，优化推理性能（延迟、吞吐、内存占用）； 5、建立语音评测体系，以用户体验为目标，持续提升算法指标和用户体验。",
-      "jobRequirements": "1、计算机、信号处理、软件工程、人工智能等相关专业； 2、扎实的编程能力，熟练掌握Python或者C/C++，有良好的代码风格； 3、深入理解数字信号/语音/图像/文本或多模态算法； 4、熟悉主流深度学习框架（PyTorch等），能独立完成模型的设计、训练、调优； 5、具备英文文献阅读能力，能快速复现论文算法。 加分项： 1、在 Interspeech、ICASSP及AAAI、CVPR、ICLR等语音或相关领域发表过论文； 2、有模型量化、剪枝、知识蒸馏等端侧模型优化经验； 3、熟悉语音识别工具包或语音合成工具包（包括但不限于Kaldi、WeNet、ESPnet-TTS）。",
-      "JD": "1、参与语音相关核心算法的研发与优化，包括但不限于：语音理解、语音交互、语音识别、语音合成、语音唤醒、声纹识别等； 2、跟踪前沿语音技术动态，将最新算法（如端到端模型、大模型语音方案、端侧模型优化）落地到算法工程中，构建行业最前沿的语音用户体验； 3、针对业务场景（如智能助手、会议转写、实时通信、端侧唤醒等）进行数据清洗、模型训练、调参、端侧加速等，并把研发模型落地到业务中； 4、协同工程团队完成算法在云端或嵌入式设备上的部署，优化推理性能（延迟、吞吐、内存占用）； 5、建立语音评测体系，以用户体验为目标，持续提升算法指标和用户体验。\n1、计算机、信号处理、软件工程、人工智能等相关专业； 2、扎实的编程能力，熟练掌握Python或者C/C++，有良好的代码风格； 3、深入理解数字信号/语音/图像/文本或多模态算法； 4、熟悉主流深度学习框架（PyTorch等），能独立完成模型的设计、训练、调优； 5、具备英文文献阅读能力，能快速复现论文算法。 加分项： 1、在 Interspeech、ICASSP及AAAI、CVPR、ICLR等语音或相关领域发表过论文； 2、有模型量化、剪枝、知识蒸馏等端侧模型优化经验； 3、熟悉语音识别工具包或语音合成工具包（包括但不限于Kaldi、WeNet、ESPnet-TTS）。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54743154813049f22aa&recruitType=1",
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",

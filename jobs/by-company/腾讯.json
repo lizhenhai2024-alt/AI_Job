@@ -1,7 +1,7 @@
 {
   "company": "腾讯",
   "count": 106,
-  "updatedAt": "2026-09-16T14:12:37.871Z",
+  "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
       "id": "tencent-ccda7553f831",
@@ -3672,6 +3672,90 @@
       "deadline": ""
     },
     {
+      "id": "tencent-0020ca176748",
+      "company": "腾讯",
+      "title": "AI应用工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "腾讯 2027 校园招聘岗位（职类：技术）；BG：CDG CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
+      "jobRequirements": "",
+      "JD": "腾讯 2027 校园招聘岗位（职类：技术）；BG：CDG CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "腾讯校招官网join.qq.com 2027校园招聘",
+      "officialURL": "https://join.qq.com/post_detail.html?postid=1282707395466077185",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "tencent-c6c2e3809b5b",
       "company": "腾讯",
       "title": "AI算法工程",
@@ -5093,6 +5177,87 @@
       "deadline": ""
     },
     {
+      "id": "tencent-4149dc9d1517",
+      "company": "腾讯",
+      "title": "3D角色设计",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "腾讯 2027 校园招聘岗位（职类：设计）；BG：IEG。投递前请打开官方职位页确认最新状态。",
+      "jobRequirements": "",
+      "JD": "腾讯 2027 校园招聘岗位（职类：设计）；BG：IEG。投递前请打开官方职位页确认最新状态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "腾讯校招官网join.qq.com 2027校园招聘",
+      "officialURL": "https://join.qq.com/post_detail.html?postid=1282707425254024192",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "tencent-c546a6f00e4c",
       "company": "腾讯",
       "title": "动画",
@@ -6005,95 +6170,6 @@
       "annualSalary": "未披露",
       "source": "腾讯校招官网join.qq.com 2027校园招聘",
       "officialURL": "https://join.qq.com/post_detail.html?postid=1283126531220382720",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "tencent-10455a6a2db6",
-      "company": "腾讯",
-      "title": "AI安全技术工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、专业不限，有技术洞察力，对安全技术有狂热的追求，对AI安全等新技术有热忱，有意愿在安全领域长期保持专注和投入；4、对数据库、操作系统、网络原理等计算机学科基础知识有较好储备",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "腾讯 2027 校园招聘岗位（职类：技术）；BG：CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "腾讯 2027 校园招聘岗位（职类：技术）；BG：CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、专业不限，有技术洞察力，对安全技术有狂热的追求，对AI安全等新技术有热忱，有意愿在安全领域长期保持专注和投入",
-          "4、对数据库、操作系统、网络原理等计算机学科基础知识有较好储备"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "用户",
-        "数据",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "腾讯校招官网join.qq.com 2027校园招聘",
-      "officialURL": "https://join.qq.com/post_detail.html?postid=1283126696601756672",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -8745,9 +8821,9 @@
       "deadline": ""
     },
     {
-      "id": "tencent-0020ca176748",
+      "id": "tencent-10455a6a2db6",
       "company": "腾讯",
-      "title": "AI应用工程师",
+      "title": "AI安全技术工程师",
       "graduationYear": [
         "2027"
       ],
@@ -8757,7 +8833,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、专业不限，有技术洞察力，对安全技术有狂热的追求，对AI安全等新技术有热忱，有意愿在安全领域长期保持专注和投入；4、对数据库、操作系统、网络原理等计算机学科基础知识有较好储备",
         "hardRestriction": false
       },
       "language": {
@@ -8766,17 +8842,19 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "jobDescription": "腾讯 2027 校园招聘岗位（职类：技术）；BG：CDG CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "腾讯 2027 校园招聘岗位（职类：技术）；BG：CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
       "jobRequirements": "",
-      "JD": "腾讯 2027 校园招聘岗位（职类：技术）；BG：CDG CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
+      "JD": "腾讯 2027 校园招聘岗位（职类：技术）；BG：CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
       "jdEvidence": {
         "source": "regex-v1",
-        "majorClauses": [],
+        "majorClauses": [
+          "1、专业不限，有技术洞察力，对安全技术有狂热的追求，对AI安全等新技术有热忱，有意愿在安全领域长期保持专注和投入",
+          "4、对数据库、操作系统、网络原理等计算机学科基础知识有较好储备"
+        ],
         "eligibilityClauses": [
           "招聘对象：2027届"
         ],
         "technicalDuties": [
-          "技术评估",
           "开发实现"
         ],
         "businessDuties": []
@@ -8786,8 +8864,11 @@
       ],
       "skills": [],
       "experienceKeywords": [
+        "运营",
         "内容",
-        "用户"
+        "用户",
+        "数据",
+        "洞察"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -8822,88 +8903,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "腾讯校招官网join.qq.com 2027校园招聘",
-      "officialURL": "https://join.qq.com/post_detail.html?postid=1282707395466077185",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "tencent-4149dc9d1517",
-      "company": "腾讯",
-      "title": "3D角色设计",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "腾讯 2027 校园招聘岗位（职类：设计）；BG：IEG。投递前请打开官方职位页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "腾讯 2027 校园招聘岗位（职类：设计）；BG：IEG。投递前请打开官方职位页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "腾讯校招官网join.qq.com 2027校园招聘",
-      "officialURL": "https://join.qq.com/post_detail.html?postid=1282707425254024192",
+      "officialURL": "https://join.qq.com/post_detail.html?postid=1283126696601756672",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

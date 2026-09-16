@@ -8,8 +8,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://hr.4399om.com/weixin/?r=job/agent&type=2&isOpen=0&jobTableType=1&code=sxq8b",
     "reason": "已发现公司官方招聘入口，但当前站点 hr.4399om.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-16T14:11:16.406Z",
-    "nextCheckAfter": "2026-09-17T14:11:16.411Z"
+    "lastCheckedAt": "2026-09-16T18:41:30.748Z",
+    "nextCheckAfter": "2026-09-17T18:41:30.751Z"
   },
   {
     "name": "阿里巴巴",
@@ -1202,7 +1202,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-16T18:11:51.481Z",
+  "updatedAt": "2026-09-16T18:41:30.748Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

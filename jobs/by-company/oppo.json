@@ -1,7 +1,7 @@
 {
   "company": "OPPO",
   "count": 117,
-  "updatedAt": "2026-09-16T14:12:37.871Z",
+  "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
       "id": "oppo-6d4e654c521f",
@@ -766,10 +766,11 @@
       "jobRequirements": "1.Preferable have experience working in Content Operations, Product Management, Product Operations, or equivalent role. 2.Proficient in English Language, both verbal and written (Chinese is a plus). 3.Passionate in internet Business (understanding internet market is a plus). 4.Possess a strong logical and critical thinking ability. 5.Demonstrated exceptional competency in analytical skills, including the ability to interpret data and draw insights, perform insightful analysis, and communicate the 6.findings of data analysis to team and/or related stakeholders. Able to work in team and/or independently. 7.Be creative, detailed-oriented, fast learner, and highly-motivated with excellent personal attitude. 8.Has excellent writing skills is a plus and knowledgeable in online trends. 9.Willing to work from office in Sudirman, Jakarta area.",
       "JD": "考虑岗位性质及履职要求，本岗位目前仅面向非中国大陆籍候选人开放. Due to the nature of this role, this position is currently only open to non-Chinese Mainland candidates. 1.Planning, configure, maintain, monitoring and managing all contents in OPPO internet services. 2.Monitor and analyze product performance metrics, providing insights and actionable recommendations to improve product functionality and user experience. 3.Prepare and present detailed product reports and performance metrics to senior management. 4.Research and analyze various trends on the market, include user's behavior and provide insights to the internal team. 5.Provide operational support for in-app events, including dissemination of functionalities through documentation. 6.Report and monitor any problem encountered inside the internet platforms. 7.Design for marketing media of our online platform, particularly in the creation of banners and other collaterals to be uploaded to the application.\n1.Preferable have experience working in Content Operations, Product Management, Product Operations, or equivalent role. 2.Proficient in English Language, both verbal and written (Chinese is a plus). 3.Passionate in internet Business (understanding internet market is a plus). 4.Possess a strong logical and critical thinking ability. 5.Demonstrated exceptional competency in analytical skills, including the ability to interpret data and draw insights, perform insightful analysis, and communicate the 6.findings of data analysis to team and/or related stakeholders. Able to work in team and/or independently. 7.Be creative, detailed-oriented, fast learner, and highly-motivated with excellent personal attitude. 8.Has excellent writing skills is a plus and knowledgeable in online trends. 9.Willing to work from office in Sudirman, Jakarta area.",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "考虑岗位性质及履职要求，本岗位目前仅面向非中国大陆籍候选人开放.",
+          "Due to the nature of this role, this position is currently only open to non-Chinese Mainland candidates."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -835,7 +836,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "3.专业不限，广告/传媒/市场营销专业优先",
+        "raw": "本科及以上学历，综合素质扎实；；专业不限，广告/传媒/市场营销专业优先；",
         "hardRestriction": false
       },
       "language": {
@@ -848,13 +849,12 @@
       "jobRequirements": "1.本科及以上学历，综合素质扎实； 2.具有优秀的学习能力、逻辑分析能力和文字组织表达能力； 3.专业不限，广告/传媒/市场营销专业优先； 4.性格外向，善于沟通，善于思考，反应能力强，吃苦耐劳； 5.懂AI功能设计，理解AI能力的边界和可能性，能设计出以AI为核心功能或增强功能的产品/方案。了解行业最新AI产品、技术发展，了解AI的最佳实践。",
       "JD": "在这里，你将获得互联网广告行业最具挑战的机会，你将洞悉互联网公司最本质的存在价值，你将获得企业商业逻辑、广告变现、客户运营策略等宝贵经验，你将加入一个充满激情和战斗力，大胆启用新人的团队，可以快速成长。你需要以市场敏锐度、客户运营及服务、体系化的渠道管理为工具，承担起移动互联网用户增长和终端媒体平台商业化的运营枢纽职责，具体工作方向包括： 1.直面移动互联网用户增长的营销需求，负责各类移动应用及其所在行业的投放运营，保障广告客户达成投放效果，提升行业健康度和客户满意度； 2.全面了解、深入洞察各个移动互联网子行业，规划行业运营方案，探索新的商业模式，支持行业销售的客户提案、产品推广、渠道赋能等工作，推进平台和业务线的产品拓展，提升新产品的客户覆盖度和留存； 3.通过严谨的数据分析和链路分析，结合市场调研和行业需求洞察，推动内部产品优化，打造行业营销解决方案和标杆案例。\n1.本科及以上学历，综合素质扎实； 2.具有优秀的学习能力、逻辑分析能力和文字组织表达能力； 3.专业不限，广告/传媒/市场营销专业优先； 4.性格外向，善于沟通，善于思考，反应能力强，吃苦耐劳； 5.懂AI功能设计，理解AI能力的边界和可能性，能设计出以AI为核心功能或增强功能的产品/方案。了解行业最新AI产品、技术发展，了解AI的最佳实践。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "3.专业不限，广告/传媒/市场营销专业优先"
+          "本科及以上学历，综合素质扎实；",
+          "专业不限，广告/传媒/市场营销专业优先；"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -925,7 +925,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1.有一定的代码学习基础，计算机、软件工程、电子信息、通信工程等相关专业优先",
+        "raw": "计算机、软件工程、电子信息、通信工程等相关专业优先；学历要求：本科及以上",
         "hardRestriction": false
       },
       "language": {
@@ -938,13 +938,12 @@
       "jobRequirements": "1.有一定的代码学习基础，计算机、软件工程、电子信息、通信工程等相关专业优先； 2.综合素质扎实，具有优秀的学习能力、数据分析能力、逻辑分析能力和文字组织表达能力； 3.热爱互联网产品，对使用过的互联网产品有独到见解； 4.在校期间，有互联网相关实习经验或活动策划经验优先。 5. 懂AI功能设计，理解AI能力的边界和可能性，能设计出以AI为核心功能或增强功能的产品/方案。了解行业最新AI产品、技术发展，了解AI的最佳实践。 学历要求：本科及以上",
       "JD": "在这里，你将获得亿级用户的产品运营机会，你将接触行业最先进最顶尖的技术，你将拥有最简单轻松的工作关系。你需要洞察行业发展趋势，掌握行业最新技术，深入挖掘用户生活方式和场景，分析用户潜在需求和痛点，打造高用户价值的手机产品。 方向：从事OPPO软件商店、游戏中心、广告等官方互联网产品及业务的相关运营工作，为OPPO手机用户提供优质的运营服务。\n1.有一定的代码学习基础，计算机、软件工程、电子信息、通信工程等相关专业优先； 2.综合素质扎实，具有优秀的学习能力、数据分析能力、逻辑分析能力和文字组织表达能力； 3.热爱互联网产品，对使用过的互联网产品有独到见解； 4.在校期间，有互联网相关实习经验或活动策划经验优先。 5. 懂AI功能设计，理解AI能力的边界和可能性，能设计出以AI为核心功能或增强功能的产品/方案。了解行业最新AI产品、技术发展，了解AI的最佳实践。 学历要求：本科及以上",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1.有一定的代码学习基础，计算机、软件工程、电子信息、通信工程等相关专业优先"
+          "计算机、软件工程、电子信息、通信工程等相关专业优先",
+          "学历要求：本科及以上"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -1025,11 +1024,9 @@
       "jobRequirements": "1、手游重度爱好者，至少深度体验3款以上不同类型的游戏，并对该类型游戏有自己的见解； 2、并有意愿在游戏行业发展； 3、有强烈的责任心和团队协作能力，思维逻辑清晰； 4、熟悉word、PPT、excel等基础办公软件。 5、懂AI功能设计，理解AI能力的边界和可能性，能设计出以AI为核心功能或增强功能的产品/方案。了解行业最新AI产品、技术发展，了解AI的最佳实践。",
       "JD": "岗位职责： 1.从事联运平台的游戏运营工作，负责重点游戏从预约-测试-首发-稳定等全生命周期的运营。根据游戏玩法特色、用户属性等，策划有效的运营策略并落地，对游戏目标达成结果负责； 2.关注游戏行业信息与数据，并定期对大盘游戏数据进行分析，根据分析结论更新运营策略，整理出行之有效的方法论，保证平台分发游戏的效果； 3.洞察游戏用户诉求，利用软硬件优势，挖掘新能力、新机会，提高游戏用户服务质量； 4.配合内部各协同团队，完成产品、运营相关功能的优化和提升，提升对内工作效率和对开发者、对用户的服务质量。\n1、手游重度爱好者，至少深度体验3款以上不同类型的游戏，并对该类型游戏有自己的见解； 2、并有意愿在游戏行业发展； 3、有强烈的责任心和团队协作能力，思维逻辑清晰； 4、熟悉word、PPT、excel等基础办公软件。 5、懂AI功能设计，理解AI能力的边界和可能性，能设计出以AI为核心功能或增强功能的产品/方案。了解行业最新AI产品、技术发展，了解AI的最佳实践。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

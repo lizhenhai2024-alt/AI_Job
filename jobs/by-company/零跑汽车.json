@@ -1,7 +1,7 @@
 {
   "company": "零跑汽车",
   "count": 293,
-  "updatedAt": "2026-09-16T14:12:37.871Z",
+  "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
       "id": "beisen-19efcc995d31",
@@ -274,7 +274,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，计算机/软件工程/自动化/电气等相关专业",
+        "raw": "本科及以上学历，计算机/软件工程/自动化/电气等相关专业；",
         "hardRestriction": true
       },
       "language": {
@@ -287,13 +287,11 @@
       "jobRequirements": "1、本科及以上学历，计算机/软件工程/自动化/电气等相关专业； 2、熟练使用主流数据库、熟悉Java、‌Python‌等开发语言及OPC UA、MODBUS等工业集成协议、熟练使用ETL工具； 3、沟通和逻辑思维能力强，对智能制造感兴趣，抗压能力强，文档编写能力强；",
       "JD": "1、负责承接整车及零部件MES工厂导入实施，包含现场联调测试、用户培训、数据维护等 2、负责承接整车及零部件MES系统运维工作，解决用户日常工作中遇到的问题 3、参与承接整车及零部件MES运营数据进行追踪和分析，制定优化方案并推动产品持续迭代\n1、本科及以上学历，计算机/软件工程/自动化/电气等相关专业； 2、熟练使用主流数据库、熟悉Java、‌Python‌等开发语言及OPC UA、MODBUS等工业集成协议、熟练使用ETL工具； 3、沟通和逻辑思维能力强，对智能制造感兴趣，抗压能力强，文档编写能力强；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，计算机/软件工程/自动化/电气等相关专业"
+          "本科及以上学历，计算机/软件工程/自动化/电气等相关专业；"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

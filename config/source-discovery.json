@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T18:11:51.481Z",
+  "updatedAt": "2026-09-16T18:41:30.748Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -1354,8 +1354,8 @@
         "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118868.html",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-16T14:11:16.406Z",
-      "nextCheckAfter": "2026-09-17T14:11:16.411Z"
+      "lastCheckedAt": "2026-09-16T18:41:30.748Z",
+      "nextCheckAfter": "2026-09-17T18:41:30.751Z"
     },
     "宁德时代新能源": {
       "name": "宁德时代新能源科技股份有限公司",
@@ -2123,10 +2123,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 7,
+    "candidates": 1,
     "sourcesAdded": 0,
     "sourcesRepaired": 0,
-    "queued": 4,
-    "updatedAt": "2026-09-16T14:11:16.406Z"
+    "queued": 1,
+    "updatedAt": "2026-09-16T18:41:30.748Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "company": "小米",
   "count": 756,
-  "updatedAt": "2026-09-16T14:12:37.871Z",
+  "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670934761405548846",
@@ -6457,8 +6457,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "社会工作、社会学、公共管理、非营利组织管理、新闻学或相关专业的本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -6470,11 +6470,11 @@
       "jobRequirements": "1、社会工作、社会学、公共管理、非营利组织管理、新闻学或相关专业的本科及以上学历； 2、对公益事业充满热情，工作认真、踏实、细心，积极进取，心态乐观； 3、擅长活动策划，具有优秀的活动组织与协调能力； 4、文字功底良好，写作能力突出； 5、责任心强，具备优秀的沟通能力和团队合作精神，能够接受不定期出差。",
       "JD": "1、支持基金会公益项目的执行与评估； 2、与合作方保持密切沟通与联络，支持受益人群的运营和维护工作； 3、协助基金会日常行政及党建工作，负责公文处理、会议记录及党支部工作等； 4、协助档案管理及信息公开工作； 5、支持团队日常事务。\n1、社会工作、社会学、公共管理、非营利组织管理、新闻学或相关专业的本科及以上学历； 2、对公益事业充满热情，工作认真、踏实、细心，积极进取，心态乐观； 3、擅长活动策划，具有优秀的活动组织与协调能力； 4、文字功底良好，写作能力突出； 5、责任心强，具备优秀的沟通能力和团队合作精神，能够接受不定期出差。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "社会工作、社会学、公共管理、非营利组织管理、新闻学或相关专业的本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6539,7 +6539,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1. 本科及以上学历，理工科专业，对软件工程有一定程度的了解",
+        "raw": "本科及以上学历，理工科专业，对软件工程有一定程度的了解。；有光学方面背景经验优先。",
         "hardRestriction": true
       },
       "language": {
@@ -6552,13 +6552,12 @@
       "jobRequirements": "1. 本科及以上学历，理工科专业，对软件工程有一定程度的了解。 2. 具有较强的英文读写能力，有口语交流能力者佳。 3. 良好的语言表达能力及沟通能力，强烈的责任心与学习能力。 4. 有在校项目管理组织经验者佳。 5. 有光学方面背景经验优先。",
       "JD": "1. 负责手机相机项目开发进度、风险及流程管控； 2. 根据相机开发文档进行需求拆解、任务量化，组织和制定开发计划文档； 3. 即时反馈阶段性项目成果，对项目进行全程跟踪，确保项目按计划落地； 4. 负责相机项目问题管理和风险管理； 5. 通过周报及项目日常汇报及时反馈项目状态，并组织相关的项目沟通会议。\n1. 本科及以上学历，理工科专业，对软件工程有一定程度的了解。 2. 具有较强的英文读写能力，有口语交流能力者佳。 3. 良好的语言表达能力及沟通能力，强烈的责任心与学习能力。 4. 有在校项目管理组织经验者佳。 5. 有光学方面背景经验优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1. 本科及以上学历，理工科专业，对软件工程有一定程度的了解"
+          "本科及以上学历，理工科专业，对软件工程有一定程度的了解。",
+          "有光学方面背景经验优先。"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6624,7 +6623,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1. 本科及以上,机械设计、机械工程、车辆工程、力学等相关专业",
+        "raw": "本科及以上,机械设计、机械工程、车辆工程、力学等相关专业",
         "hardRestriction": true
       },
       "language": {
@@ -6637,19 +6636,13 @@
       "jobRequirements": "1. 本科及以上,机械设计、机械工程、车辆工程、力学等相关专业 2. 掌握理论力学、材料力学、机械设计、制图公差、塑胶 / 钣金基础材料工艺 3. 熟练使用 Creo/UG/SolidWorks 任一三维软件,会 CAD 二维出图；懂仿真、模流优先 4. 有课程设计、机械竞赛、结构相关实习或整机设计项目经验优先 5. 逻辑清晰,细心严谨,具备基础工程思维,良好跨部门沟通与学习能力 6.通过英语四级,能阅读英文图纸资料；有专利、竞赛奖项加分",
       "JD": "1. 承接手机/平板配件产品的结构设计与交付,包括：NUDD识别、疑难问题分析及改进、试产节点追踪、量产及EWP分析、以及售后问题改善等； 2. 负责配件产品结构开发流程及精细化管理流程优化（包括设计、项目管理、项目计划、质量管理、风险管理等） 3. 参与产品、ID及CMF评估,提出专业意见,确保方案可行性,对产品竞争力负责； 4. 配合部门开展配件结构平台建设相关工作（包括项目复盘、专利申请、专项工作开展以及设计规范的修正和讨论等）\n1. 本科及以上,机械设计、机械工程、车辆工程、力学等相关专业 2. 掌握理论力学、材料力学、机械设计、制图公差、塑胶 / 钣金基础材料工艺 3. 熟练使用 Creo/UG/SolidWorks 任一三维软件,会 CAD 二维出图；懂仿真、模流优先 4. 有课程设计、机械竞赛、结构相关实习或整机设计项目经验优先 5. 逻辑清晰,细心严谨,具备基础工程思维,良好跨部门沟通与学习能力 6.通过英语四级,能阅读英文图纸资料；有专利、竞赛奖项加分",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1. 本科及以上,机械设计、机械工程、车辆工程、力学等相关专业"
+          "本科及以上,机械设计、机械工程、车辆工程、力学等相关专业"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "结构/原理"
-        ],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -6715,7 +6708,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、金融学、管理学、会计学、电子商务、法律、计算机等专业，本科及以上，态度积极主动，有责任心，善于发现问题并能独立解决问题",
+        "raw": "金融学、管理学、会计学、电子商务、法律、计算机等专业，本科及以上",
         "hardRestriction": true
       },
       "language": {
@@ -6728,13 +6721,11 @@
       "jobRequirements": "任职要求： 1、金融学、管理学、会计学、电子商务、法律、计算机等专业，本科及以上，态度积极主动，有责任心，善于发现问题并能独立解决问题； 2、思路清晰，条理分明，善于理清复杂流程； 3、反应敏捷、具有较好的沟通和谈判能力及协调能力，团队协作精神，具有亲和力； 4、具备一定的分析及判断能力，能熟练应用word、excel、PPT等办公软件。",
       "JD": "岗位描述： 1、负责商洽合作对象及业务相关协议，寻找业务机会，负责组织推动机构和产品上线； 2、负责开展与合作伙伴客户关系管理； 3、协助进行商务日常工作的管理，及配合团队做好支持工作； 4、完善部门规章制度和各项操作流程与规范； 5、具有良好的沟通能力，能和小米各部门一起合作，完成各项目的快速推进。\n任职要求： 1、金融学、管理学、会计学、电子商务、法律、计算机等专业，本科及以上，态度积极主动，有责任心，善于发现问题并能独立解决问题； 2、思路清晰，条理分明，善于理清复杂流程； 3、反应敏捷、具有较好的沟通和谈判能力及协调能力，团队协作精神，具有亲和力； 4、具备一定的分析及判断能力，能熟练应用word、excel、PPT等办公软件。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、金融学、管理学、会计学、电子商务、法律、计算机等专业，本科及以上，态度积极主动，有责任心，善于发现问题并能独立解决问题"
+          "金融学、管理学、会计学、电子商务、法律、计算机等专业，本科及以上"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6804,7 +6795,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限",
+        "raw": "市场营销、广告、新闻传播等相关专业优先，专业不限",
         "hardRestriction": false
       },
       "language": {
@@ -6817,12 +6808,12 @@
       "jobRequirements": "1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限； 2、对家电、科技产品和消费电子有兴趣，愿意主动研究产品和技术； 3、有较好的用户洞察和内容敏感度，能从用户视角发现有价值、有意思的传播点； 4、具备良好的文案和策划能力，有校园媒体、新媒体运营、广告营销、内容创作等相关实践经验优先； 5、思维活跃，有创意，对微博、抖音、小红书等社交平台和热点内容敏感； 6、具备良好的沟通协作和执行能力，责任心强，能够推动事情落地； 7、熟悉AI工具，有使用AI辅助调研、策划、内容创作等经验者优先。",
       "JD": "1、挖掘产品与技术亮点，将专业技术转化为用户易理解、有传播力的内容； 2、新品上市、技术传播、产品种草等项目的内容策划与创意落地； 3、微博、抖音、小红书等新媒体平台的选题策划与内容运营，结合热点持续打造优质内容； 4、策划米粉活动等用户运营项目，通过用户互动与反馈，持续优化产品传播； 5、关注家电行业、用户需求及内容趋势，持续探索新的营销内容和传播方式。\n1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限； 2、对家电、科技产品和消费电子有兴趣，愿意主动研究产品和技术； 3、有较好的用户洞察和内容敏感度，能从用户视角发现有价值、有意思的传播点； 4、具备良好的文案和策划能力，有校园媒体、新媒体运营、广告营销、内容创作等相关实践经验优先； 5、思维活跃，有创意，对微博、抖音、小红书等社交平台和热点内容敏感； 6、具备良好的沟通协作和执行能力，责任心强，能够推动事情落地； 7、熟悉AI工具，有使用AI辅助调研、策划、内容创作等经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限"
+          "市场营销、广告、新闻传播等相关专业优先，专业不限"
         ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届本科及以上学历"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -6896,7 +6887,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，英语可以作为工作语言",
+        "raw": "本科及以上学历，英语可以作为工作语言",
         "hardRestriction": true
       },
       "language": {
@@ -6909,13 +6900,11 @@
       "jobRequirements": "1、本科及以上学历，英语可以作为工作语言 2、有电子通讯、数码3C、互联网行业实习经历优先，商务拓展、销售、项目管理、战略分析等实习经验可作为加分项，参与校园社团活动可以作为加分项 3、沟通表达能力、自我驱动力和责任心强，逻辑思维清晰 4、工作积极、主动、热情，学习和社交能力强，具备良好的团队协作精神",
       "JD": "1. 战略合作：独立负责海外KA/战略合作伙伴关系维护及新业务拓展，对公司业务战略进行有效的承接和分解，识别新的合作机会，支持业务规模与收入增长 2. 商务谈判：主导商务条款的谈判、合同拟定与签署流程，把控合同风险并保障公司利益最大化 3. 项目管理：对手机及生态产品、业务操盘、销售规划有深入了解，负责核心项目从计划制定、资源协调、执行落地到复盘的全过程管理，推动解决跨团队沟通与协作中的痛点 4. 行业调研：进行市场和行业调研与分析，关注行业发展和竞品动态，定期输出商务策略\n1、本科及以上学历，英语可以作为工作语言 2、有电子通讯、数码3C、互联网行业实习经历优先，商务拓展、销售、项目管理、战略分析等实习经验可作为加分项，参与校园社团活动可以作为加分项 3、沟通表达能力、自我驱动力和责任心强，逻辑思维清晰 4、工作积极、主动、热情，学习和社交能力强，具备良好的团队协作精神",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，英语可以作为工作语言"
+          "本科及以上学历，英语可以作为工作语言"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6987,7 +6976,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，电子工程，质量管理，项目管理，统计学（大数据分析方向）等相关专业",
+        "raw": "本科及以上学历，电子工程，质量管理，项目管理，统计学（大数据分析方向）等相关专业",
         "hardRestriction": true
       },
       "language": {
@@ -7000,13 +6989,11 @@
       "jobRequirements": "1、本科及以上学历，电子工程，质量管理，项目管理，统计学（大数据分析方向）等相关专业； 2、逻辑思维能力强； 3、有较强团队合作精神，有钻研专业精神，上进心强，具备较强的沟通组织协调能力和统筹能力； 4、对数据有敏感性，善于发现和总结问题； 5、有设计/视频/宣发活动经验优先。",
       "JD": "岗位描述: 1、负责服务部门重点质量专项管理，对接服务质量成熟度提升和行业质量奖项目工作，日常监控业务质量指标、梳理业务质量管理薄弱项目，分析推动业务提升； 2、与集团各级质量部门对接，承接质量目标，对内协同质量管理，站在运营质量角度对业务流程进行事前预防、事中管理、事后复盘的全流程闭环管理，保障业务运营安全； 3、建立服务业务的质量文化体系，通过企业的质量状态进行质量文化传播的策划/执行/落地； 4、完善服务质量相关制度，对接质量委的日常运营工作，并推动制度的落地执行； 5、完成服务运营的其他临时项目工作\n1、本科及以上学历，电子工程，质量管理，项目管理，统计学（大数据分析方向）等相关专业； 2、逻辑思维能力强； 3、有较强团队合作精神，有钻研专业精神，上进心强，具备较强的沟通组织协调能力和统筹能力； 4、对数据有敏感性，善于发现和总结问题； 5、有设计/视频/宣发活动经验优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，电子工程，质量管理，项目管理，统计学（大数据分析方向）等相关专业"
+          "本科及以上学历，电子工程，质量管理，项目管理，统计学（大数据分析方向）等相关专业"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7075,8 +7062,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语、泰语",
@@ -7088,15 +7075,13 @@
       "jobRequirements": "任职要求： 1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和抗压性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力。",
       "JD": "岗位描述： 1、准确把握客户需求，挖掘用户兴奋点，将产品方案落地，包括但不限于方案策划、文案撰写、页面跟进、图片设计、效果跟踪等； ⁣2、协助制定小米产品的运营方案、推广策略、销售规划，完成流量及销售目标； ⁣3、综合内容、市场、销售部门的反馈，高效的输出运营策划方案、产品文案； ⁣4、对竞品进行监控总结，并进行有效分析，不断提出改善策略和创意，并做出竞品分析报告； 5、协助策划活动方案，关注平台及市场动向，快速调整运营策略，利用活动提高用户活跃度、拉新量； 6、挖掘运营数据、用户数据，进行多维度分析，提供消费需求导向，提高用户留存与复购。\n任职要求： 1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和抗压性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "电商运营"
@@ -7170,8 +7155,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -7183,15 +7168,13 @@
       "jobRequirements": "任职要求： 1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和抗压性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力。",
       "JD": "岗位描述： 1、准确把握客户需求，挖掘用户兴奋点，将产品方案落地，包括但不限于方案策划、文案撰写、页面跟进、图片设计、效果跟踪等； ⁣2、协助制定小米产品的运营方案、推广策略、销售规划，完成流量及销售目标； ⁣3、综合内容、市场、销售部门的反馈，高效的输出运营策划方案、产品文案； ⁣4、对竞品进行监控总结，并进行有效分析，不断提出改善策略和创意，并做出竞品分析报告； 5、协助策划活动方案，关注平台及市场动向，快速调整运营策略，利用活动提高用户活跃度、拉新量； 6、挖掘运营数据、用户数据，进行多维度分析，提供消费需求导向，提高用户留存与复购。\n任职要求： 1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和抗压性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "电商运营"
@@ -7265,7 +7248,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科以上学历，新闻传播、国际商务、国际贸易、市场营销、企业管理等相关专业",
+        "raw": "本科以上学历，新闻传播、国际商务、国际贸易、市场营销、企业管理等相关专业",
         "hardRestriction": true
       },
       "language": {
@@ -7278,13 +7261,11 @@
       "jobRequirements": "1、本科以上学历，新闻传播、国际商务、国际贸易、市场营销、企业管理等相关专业； 2、熟悉使用OFFICE软件； 3、沟通能力强，积极主动，有责任心且超强执行力。 4、英语和西班牙语可以作为工作语言。",
       "JD": "1、负责生态链产品策划、宣传、推广，包括进行市场资料准备、数据统计、市场可行性分析； 2、市场建设，包括公司品牌及产品推广活动的执行策划及评估，媒体开拓及维护； 3、拉通产品、市场、销售、站内外渠道或部门，形成完整营销投放链路； 4、能整合和拓展站内外媒介资源，满足品牌联合、跨界、IP等营销需求。\n1、本科以上学历，新闻传播、国际商务、国际贸易、市场营销、企业管理等相关专业； 2、熟悉使用OFFICE软件； 3、沟通能力强，积极主动，有责任心且超强执行力。 4、英语和西班牙语可以作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科以上学历，新闻传播、国际商务、国际贸易、市场营销、企业管理等相关专业"
+          "本科以上学历，新闻传播、国际商务、国际贸易、市场营销、企业管理等相关专业"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7357,8 +7338,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历；",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -7370,15 +7351,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、外向、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，英语可作为工作语言。",
       "JD": "电商广告投放专员 负责TikTok/Shopee等电商平台的小米官方旗舰店的广告投放，根据店铺产品、直播节奏、营销果冻、完成计划搭建、人群定向、素材投放、出价设置等全流程投放工作，覆盖直播引流、短视频带货、单品转化等投放场景，并实时监控并调整广告投放数据，包括曝光、点击、转化率、ROI等核心指标，及时关停低效计划，放量优质计划，规避流量异常、成本飙升、跑量缓慢等情况，保障店铺销售 Responsible for running paid advertising for the official Xiaomi flagship store on TikTok, Shopee, and other e-commerce platforms. Based on store products, live-stream cadence, and marketing plans, complete the full process of campaign setup, audience targeting, creative deployment, and bidding. Cover traffic acquisition for live streams, short-video sales, and single-product conversion scenarios. Monitor and optimize ad performance in real time, including impressions, clicks, conversion rate, ROI, and other key metrics; promptly pause underperforming campaigns, scale up high-performing ones, and avoid issues such as traffic anomalies, rising costs, and slow delivery to ensure store sales performance.\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、外向、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，英语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "电商运营"
@@ -7446,7 +7425,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1. 本科及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等相关专业",
+        "raw": "本科及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等相关专业",
         "hardRestriction": true
       },
       "language": {
@@ -7459,16 +7438,12 @@
       "jobRequirements": "1. 本科及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等相关专业； 2. 逻辑清晰，沟通表达与组织协调能力强，有责任心和推进力； 3. 了解软件开发流程与项目管理基本方法（瀑布、敏捷）； 4. 有项目管理 / 产品 / 研发方向实习，或学生会、社团、竞赛团队组织管理经历者优先。",
       "JD": "1. 参与小米智能汽车操作系统的研发项目管理，跟进车型项目软件功能从需求到交付的全流程； 2. 主导功能开发任务拆解与计划制定，跟踪项目进度与交付质量； 3. 协调产品、研发、测试等多方团队，组织项目信息同步，推动关键问题闭环； 4. 识别与管控项目风险，保障车型交付节点达成； 复盘沉淀项目经验与流程规范，支撑多车型并行开发； 5. 关注智能汽车行业趋势，参与产品创新探索； 6. 在资深项目经理带教下，系统学习汽车软件开发流程与跨部门协作方法。\n1. 本科及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等相关专业； 2. 逻辑清晰，沟通表达与组织协调能力强，有责任心和推进力； 3. 了解软件开发流程与项目管理基本方法（瀑布、敏捷）； 4. 有项目管理 / 产品 / 研发方向实习，或学生会、社团、竞赛团队组织管理经历者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1. 本科及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等相关专业"
+          "本科及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等相关专业"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -7533,8 +7508,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -7546,15 +7521,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力； 3、英语可作为工作语言优先； 4、熟练使用office办公软件，良好的数据敏感性； 5、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 6、有良好的服务意识，愿意从事售后服务工作。",
       "JD": "1、内部协调公司各个部门，外部协调公司与客户和外包商之间的关系； 2、客户关系维护：运营商及销售渠道客户日常业务对接，对客户的问题进行推动处理； 3、政策落地：负责各产品（手机、家电、生态链）售后服务业务落地效果信息收集、整理、反馈与解决进度追踪； 4、协调、组织、分析、改进和跟进客户满意度调查，协助制定客户回访计划和客户关怀政策； 5、跟踪、监测和分析项目服务质量，进行总结和汇报，并根据情况调整质量控制措施和指标。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力； 3、英语可作为工作语言优先； 4、熟练使用office办公软件，良好的数据敏感性； 5、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 6、有良好的服务意识，愿意从事售后服务工作。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "业务运营"
@@ -7621,8 +7594,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历；",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -7634,15 +7607,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、外向、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，英语可作为工作语言。",
       "JD": "电商达人运营专员 负责TikTok/Shopee等电商平台达人的挖掘、筛选、建联与储备，独立完成达人合作洽谈，包含坑位费、CPS佣金、专场/混场合作模式等谈判，拟定双方合作方案，统筹寄养、脚本对接、内容审核、但其确认、直播陪跑等全流程工作，保障达人种草、短视频和直播带货活动顺利落地，并跟踪达人合作数据，总结问题与亮点，迭代达人筛选标准、合作模式及内容推广策略，持续提升达人带货投入产出比。esponsible for sourcing, screening, onboarding, and maintaining a talent pool of creators on e-commerce platforms such as TikTok and Shopee. Independently handle partnership negotiations with creators, including placement fees, CPS commissions, and single-campaign / multi-creator collaboration models. Develop cooperation proposals for both sides and coordinate the full workflow, including sample dispatch, script coordination, content review, schedule confirmation, and live-stream support. Ensure creator seeding, short-video, and live-commerce campaigns are successfully executed. Track collaboration data, summarize issues and wins, and continuously refine creator selection standards, partnership models, and content promotion strategies to improve ROI.\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、外向、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，英语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "电商运营"
@@ -7710,7 +7681,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，市场营销、工商管理、汽车工程、经济学等相关专业优先",
+        "raw": "本科及以上学历，市场营销、工商管理、汽车工程、经济学等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -7723,13 +7694,11 @@
       "jobRequirements": "1、本科及以上学历，市场营销、工商管理、汽车工程、经济学等相关专业优先； 2、对汽车行业有基本认知，有汽车行业实习经验者优先； 3、熟练使用 Excel、PPT 等办公软件，具备基本的数据分析能力； 4、沟通表达能力强，具备良好的跨部门协作意识； 5、能适应短期出差，有较强的执行力和自驱力； 6、责任心强，工作细致，具备良好的文档撰写能力。",
       "JD": "1、协助制定经销商/服务网点的拓展规划，参与新网点选址调研与可行性分析； 2、跟进网络建店流程，协调内部审批、施工进度及验收节点； 3、收集并分析区域内竞品网络布局、市场容量及经销商经营数据； 4、维护经销商关系，定期走访网点，了解运营痛点并反馈至相关部门； 5、协助完成网络政策文件、商务合同等文档的起草与归档； 6、完成领导交办的其他网络发展相关工作。\n1、本科及以上学历，市场营销、工商管理、汽车工程、经济学等相关专业优先； 2、对汽车行业有基本认知，有汽车行业实习经验者优先； 3、熟练使用 Excel、PPT 等办公软件，具备基本的数据分析能力； 4、沟通表达能力强，具备良好的跨部门协作意识； 5、能适应短期出差，有较强的执行力和自驱力； 6、责任心强，工作细致，具备良好的文档撰写能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，市场营销、工商管理、汽车工程、经济学等相关专业优先"
+          "本科及以上学历，市场营销、工商管理、汽车工程、经济学等相关专业优先"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7801,7 +7770,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，人力资源管理、心理学、工商管理、汉语言文学、新闻学等专业优先",
+        "raw": "本科及以上学历，人力资源管理、心理学、工商管理、汉语言文学、新闻学等专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -7814,17 +7783,13 @@
       "jobRequirements": "1、本科及以上学历，人力资源管理、心理学、工商管理、汉语言文学、新闻学等专业优先； 2、熟悉人力资源六大模块（招聘、培训、绩效、薪酬、员工关系、职业规划）的基础内容，具备扎实的理论基础； 3、熟练掌握Office等办公软件，具备一定的数据分析及统计能力； 4、具备良好的沟通协调能力和人际交往能力，性格开朗，执行力强； 5、有相关人力资源实习经验者优先，了解招聘流程、绩效管理或薪酬福利体系者优先； 6、对人力资源管理工作有浓厚兴趣，愿意在人力资源领域长期发展，具备较强的学习能力和自我驱动力。",
       "JD": "1、员工关系管理： 负责员工入职、离职、调动等流程手续，维护良好的员工关系，提升员工满意度； 2、培训与发展： 协助制定培训计划，组织并实施新员工入职培训、在职培训等，提升员工能力，促进职业发展； 3、绩效管理： 参与制定绩效评价体系，收集、整理绩效数据，协助进行绩效评估和反馈，推动绩效改进； 4、薪酬福利管理： 协助进行薪酬福利政策的制定、执行与调整，确保薪酬福利体系的公平性和激励性； 5、数据分析与报告： 运用数据分析工具，对招聘、绩效、培训等相关数据进行统计分析，为管理层提供决策支持。\n1、本科及以上学历，人力资源管理、心理学、工商管理、汉语言文学、新闻学等专业优先； 2、熟悉人力资源六大模块（招聘、培训、绩效、薪酬、员工关系、职业规划）的基础内容，具备扎实的理论基础； 3、熟练掌握Office等办公软件，具备一定的数据分析及统计能力； 4、具备良好的沟通协调能力和人际交往能力，性格开朗，执行力强； 5、有相关人力资源实习经验者优先，了解招聘流程、绩效管理或薪酬福利体系者优先； 6、对人力资源管理工作有浓厚兴趣，愿意在人力资源领域长期发展，具备较强的学习能力和自我驱动力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，人力资源管理、心理学、工商管理、汉语言文学、新闻学等专业优先"
+          "本科及以上学历，人力资源管理、心理学、工商管理、汉语言文学、新闻学等专业优先"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "HR"
@@ -7889,7 +7854,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，数据分析、人力资源管理、理工类专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -7902,11 +7867,11 @@
       "jobRequirements": "1、本科及以上学历，数据分析、人力资源管理、理工类专业优先； 2、数字敏感度高、数据处理能力强，熟练使用Excel等工具； 3、学习能力强，有好奇心。",
       "JD": "1、负责薪酬数据及人工成本分析，协同团队编制分析报告，通过数据洞察，为业务方提供管理决策支持； 2、深度参与集团各类薪酬项目，协助推动薪酬相关体系迭代、政策更新等，确保薪酬策略的科学性和可持续性； 3、市场动态及行业趋势追踪，为公司薪酬策略提供前沿、多维度视角支持。\n1、本科及以上学历，数据分析、人力资源管理、理工类专业优先； 2、数字敏感度高、数据处理能力强，熟练使用Excel等工具； 3、学习能力强，有好奇心。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，数据分析、人力资源管理、理工类专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7976,8 +7941,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历，有良好的英文听说读写能力，同时有小语种语言经验优先；Bachelor's degree or above, with good English proficiency in listening, speaking, reading, and writing. Experience with minor language skills is preferred.",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -7989,11 +7954,12 @@
       "jobRequirements": "1、本科及以上学历，有良好的英文听说读写能力，同时有小语种语言经验优先； 2、对招聘工作有浓厚兴趣，愿意从基础岗位开始，逐步学习和发展； 3、具备良好的沟通能力和人际交往能力，能够与候选人建立良好关系； 4、具备较强的学习能力和团队合作精神，能够迅速适应公司文化和工作环境； 5、熟练使用办公软件，如Word、Excel、PowerPoint等； 6、有责任心，能够承受一定的工作压力，具备解决问题的能力。 你可获得： 1、海外工作平台：作为海外招聘专员，您将置身于一个国际化的工作平台，有机会与来自不同国家和地区的员工共事，体验多元文化的碰撞与融合，也将获得宝贵的海外工作机会； 2、大牛人脉积累：作为招聘专员，您将有机会行业内部专业的人才，并与之对话，持续扩充自己的人脉资源； 3、人力资源工作领域的多面手：作为招聘专员，你将接触人力多领域的知识，为你深入学习人力资源专业支持和行业知识创造可能。 Requirements for the Position: 1. Bachelor's degree or above, with good English proficiency in listening, speaking, reading, and writing. Experience with minor language skills is preferred. 2. Have a strong interest in recruitment work and be willing to start from a basic position, gradually learning and developing. 3. Possess excellent communication and interpersonal skills to establish good relationships with candidates. 4. Have strong learning abilities and teamwork spirit, able to quickly adapt to the company culture and work environment. 5. Proficient in using office software, such as Word, Excel, PowerPoint, etc. 6. Have a sense of responsibility, able to withstand a certain level of work pressure, and possess problem-solving abilities.",
       "JD": "1、深入理解公司与部门的业务模式及业务规划，结合业务需求及市场情况，协助制定和执行招聘计划； 2、负责招聘全流程的把控与提效包括但不限于：梳理招聘需求，明确人才画像，利用不同渠道访寻人选，人选的筛选与面试，专业的人选评价与定薪定级，offer谈判与背调入职跟进等； 3、沉淀和更新行业与人才洞察，行业情报等工作。如mapping，行业研究等insight，并与业务部门就人才招聘中的问题与挑战进行探讨拉齐，以保证双方或多方的期望统一，分清主次达成目标； 4、根据工作目标的需要，协调各方面资源，调动各方面的积极性，以解决目标实现过程中的各种问题； 5、根据现状与未来业务需要，分析管理团队现状与需求，识别发展与保留人才，搭建可持续发展的人才梯队。 Main Responsibilities: 1. Thoroughly understand the business model and planning of the company and department, and assist in formulating and executing recruitment plans based on business needs and market conditions; 2. Be responsible for controlling and improving the efficiency of the entire recruitment process, including but not limited to sorting out recruitment needs, clarifying talent profiles, searching for candidates through different channels, screening and interviewing candidates, conducting professional candidate evaluations and salary and level determination, negotiating offers, conducting background checks, and following up on employee entry; 3. Accumulate and update industry and talent insights, such as mapping and industry research, and discuss with the business department on issues and challenges in talent recruitment to ensure the alignment of expectations among multiple parties, prioritize tasks, and achieve goals; 4. Coordinate resources and mobilize enthusiasm from various aspects to solve various problems in the process of achieving work goals; 5. Analyze the current status and future business needs of the management team, identify talent for development and retention, and establish a sustainable talent pipeline.\n1、本科及以上学历，有良好的英文听说读写能力，同时有小语种语言经验优先； 2、对招聘工作有浓厚兴趣，愿意从基础岗位开始，逐步学习和发展； 3、具备良好的沟通能力和人际交往能力，能够与候选人建立良好关系； 4、具备较强的学习能力和团队合作精神，能够迅速适应公司文化和工作环境； 5、熟练使用办公软件，如Word、Excel、PowerPoint等； 6、有责任心，能够承受一定的工作压力，具备解决问题的能力。 你可获得： 1、海外工作平台：作为海外招聘专员，您将置身于一个国际化的工作平台，有机会与来自不同国家和地区的员工共事，体验多元文化的碰撞与融合，也将获得宝贵的海外工作机会； 2、大牛人脉积累：作为招聘专员，您将有机会行业内部专业的人才，并与之对话，持续扩充自己的人脉资源； 3、人力资源工作领域的多面手：作为招聘专员，你将接触人力多领域的知识，为你深入学习人力资源专业支持和行业知识创造可能。 Requirements for the Position: 1. Bachelor's degree or above, with good English proficiency in listening, speaking, reading, and writing. Experience with minor language skills is preferred. 2. Have a strong interest in recruitment work and be willing to start from a basic position, gradually learning and developing. 3. Possess excellent communication and interpersonal skills to establish good relationships with candidates. 4. Have strong learning abilities and teamwork spirit, able to quickly adapt to the company culture and work environment. 5. Proficient in using office software, such as Word, Excel, PowerPoint, etc. 6. Have a sense of responsibility, able to withstand a certain level of work pressure, and possess problem-solving abilities.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，有良好的英文听说读写能力，同时有小语种语言经验优先",
+          "Bachelor's degree or above, with good English proficiency in listening, speaking, reading, and writing. Experience with minor language skills is preferred."
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8063,7 +8029,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1.本科及以上学历，机械、车辆工程等相关专业",
+        "raw": "本科及以上学历，机械、车辆工程等相关专业",
         "hardRestriction": true
       },
       "language": {
@@ -8076,13 +8042,11 @@
       "jobRequirements": "1.本科及以上学历，机械、车辆工程等相关专业； 2.较强的沟通、学习能力； 3.可以接受夜班，乐观向上、积极主动。",
       "JD": "1.负责本工段的安全、质量、交货期、成本等工作目标的达成； 2.负责本工段人员管理及培训； 3.通过改进改善降低成本，提高工作效率； 4.对本工段工艺、设备、线边器具、5S等进行管控； 5.负责本区域质量、成本、安全等问题推进和改善； 6.负责调动员工、班组长的主管能动性，维护团队凝聚力。\n1.本科及以上学历，机械、车辆工程等相关专业； 2.较强的沟通、学习能力； 3.可以接受夜班，乐观向上、积极主动。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1.本科及以上学历，机械、车辆工程等相关专业"
+          "本科及以上学历，机械、车辆工程等相关专业"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8146,7 +8110,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，物流管理、供应链管理、国际经济与贸易、工业工程、交通运输等相关专业优先",
+        "raw": "本科及以上学历，物流管理、供应链管理、国际经济与贸易、工业工程、交通运输等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -8159,20 +8123,13 @@
       "jobRequirements": "1、本科及以上学历，物流管理、供应链管理、国际经济与贸易、工业工程、交通运输等相关专业优先； 2、具备较好的数据分析能力，熟练掌握 Excel（VLOOKUP、数据透视表等），会使用 Python/SQL、FlexSim 仿真或 CAD 绘图软件者加分； 3、具备良好的英语（或第二外语）听说读写能力，能作为日常工作语言者优先； 4、熟悉国际贸易术语（Incoterms）、基础关务常识或多式联运基本流程者优先； 5、逻辑清晰，对物流与供应链抱有浓厚兴趣，具备较强的跨部门沟通协作能力与自驱学习能力。对数据敏感，具备良好的问题发现与根因分析意识。",
       "JD": "1、协助零部件入厂运输规划，参与门到门方案设计及路径管理，协调资源保障新项目顺利推进； 2、统筹物流运输成本分析与管控； 3、跨部门协同并推进创新物流模式导入，统筹物流优化项目，实现降本增效，达成运输成本目标； 4、协助开展零部件产业集群与供应链资源排摸，梳理供应商出货地、地理分布及配套成熟度； 5、分析不同出货地的运输路线、时效及综合运费成本，为物流供应链策略提供数据支撑； 6、推动入厂物流管理系统功能需求的优化，持续完善入厂物流标准规范。\n1、本科及以上学历，物流管理、供应链管理、国际经济与贸易、工业工程、交通运输等相关专业优先； 2、具备较好的数据分析能力，熟练掌握 Excel（VLOOKUP、数据透视表等），会使用 Python/SQL、FlexSim 仿真或 CAD 绘图软件者加分； 3、具备良好的英语（或第二外语）听说读写能力，能作为日常工作语言者优先； 4、熟悉国际贸易术语（Incoterms）、基础关务常识或多式联运基本流程者优先； 5、逻辑清晰，对物流与供应链抱有浓厚兴趣，具备较强的跨部门沟通协作能力与自驱学习能力。对数据敏感，具备良好的问题发现与根因分析意识。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，物流管理、供应链管理、国际经济与贸易、工业工程、交通运输等相关专业优先"
+          "本科及以上学历，物流管理、供应链管理、国际经济与贸易、工业工程、交通运输等相关专业优先"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "问题根因"
-        ],
-        "businessDuties": [
-          "跨文化沟通",
-          "物流执行"
-        ]
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -8245,8 +8202,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1. 本科及以上学历,计算机、软件工程、电子信息、项目管理等相关专业",
-        "hardRestriction": true
+        "raw": "本科及以上学历,计算机、软件工程、电子信息、项目管理等相关专业；对汽车软件研发管理有志向者优先。",
+        "hardRestriction": false
       },
       "language": {
         "raw": "",
@@ -8258,13 +8215,11 @@
       "jobRequirements": "1. 本科及以上学历,计算机、软件工程、电子信息、项目管理等相关专业；对汽车软件研发管理有志向者优先。 2. 具备软件项目管理基础知识,理解需求、开发、测试、版本及交付。 3. 具备项目规划和任务拆解意识,能够制定里程碑及版本计划。 4. 了解敏捷研发、Jira、Gerrit、CI/CD、缺陷管理者优先。 5. 具备良好积极的沟通推动能力,能对接跨部门、多领域的角色。 6. 有结构化思考、数据分析和文档输出能力,认同结果导向,有自驱学习的意愿。 7. 有使用AI工具codex、claudecode等的经验或意愿,乐于探索自动化和AI提升计划、分析、汇报与协同效率。",
       "JD": "1. 负责控制器基础软件研发项目全生命周期管理,围绕产品线、平台、车型和项目,建立从需求、计划、任务、版本、代码、缺陷到交付的闭环管理机制。 2. 组织需求分析,跟进推动需求交付,明确负责人、交付时间、目标分支和验收标准。 3. 负责版本交付,跟踪需求任务、缺陷、代码、评审、测试、准出状态,组织版本冻结、提测和释放 4. 负责项目风险、问题和变更管理,推动跨模块问题及时定位并闭环解决。 5. 协调上下游团队,推动方案评审、计划对齐、联调测试与节点交付,支撑量产项目按期、高质量落地。 6. 参与研发管理平台建设、参与研发流程改善优化。\n1. 本科及以上学历,计算机、软件工程、电子信息、项目管理等相关专业；对汽车软件研发管理有志向者优先。 2. 具备软件项目管理基础知识,理解需求、开发、测试、版本及交付。 3. 具备项目规划和任务拆解意识,能够制定里程碑及版本计划。 4. 了解敏捷研发、Jira、Gerrit、CI/CD、缺陷管理者优先。 5. 具备良好积极的沟通推动能力,能对接跨部门、多领域的角色。 6. 有结构化思考、数据分析和文档输出能力,认同结果导向,有自驱学习的意愿。 7. 有使用AI工具codex、claudecode等的经验或意愿,乐于探索自动化和AI提升计划、分析、汇报与协同效率。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1. 本科及以上学历,计算机、软件工程、电子信息、项目管理等相关专业"
+          "本科及以上学历,计算机、软件工程、电子信息、项目管理等相关专业；对汽车软件研发管理有志向者优先。"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8332,7 +8287,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、可以使用俄语作为工作语言，市场营销专业",
+        "raw": "市场营销专业",
         "hardRestriction": true
       },
       "language": {
@@ -8345,13 +8300,11 @@
       "jobRequirements": "任职要求： 1、可以使用俄语作为工作语言，市场营销专业； 2、具备较强的人际沟通、协调和团队合作精神； 3、工作积极主动，责任心强，具备一定的自驱力； 4、吃苦耐劳，有一定的抗压能力和韧性。",
       "JD": "岗位描述： 1、产品策划、宣传、推广，包括进行市场资料准备、数据统计、市场可行性分析； 2、市场建设，包括公司品牌及产品推广活动的执行策划及评估，媒体开拓及维护； 3、跟踪、整理市场信息，为销售做好全面的支持工作。\n任职要求： 1、可以使用俄语作为工作语言，市场营销专业； 2、具备较强的人际沟通、协调和团队合作精神； 3、工作积极主动，责任心强，具备一定的自驱力； 4、吃苦耐劳，有一定的抗压能力和韧性。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、可以使用俄语作为工作语言，市场营销专业"
+          "市场营销专业"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8421,7 +8374,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，统计、商业分析、计算机专业优先",
+        "raw": "本科及以上学历，统计、商业分析、计算机专业优先；",
         "hardRestriction": false
       },
       "language": {
@@ -8434,17 +8387,13 @@
       "jobRequirements": "1、本科及以上学历，统计、商业分析、计算机专业优先； 2、具备数据分析经验，销售分析、行业研究相关尤佳； 3、技能要求：精通EXCEL，熟练使用SQL读取数据，有数据可视化平台Power BI、Tableau等操作经验，优秀的数据可视化设计能力； 4、语言要求：英语可作为工作语言。",
       "JD": "1、负责管理国际销售业务相关，端到端国际业务数据体系搭建及维护，全流程销售数据的治理及标准化 2、业务达成及业务合规相关监控 3、考核政策制定及管理 4、国际部数字化专项的数据分析及业务应用\n1、本科及以上学历，统计、商业分析、计算机专业优先； 2、具备数据分析经验，销售分析、行业研究相关尤佳； 3、技能要求：精通EXCEL，熟练使用SQL读取数据，有数据可视化平台Power BI、Tableau等操作经验，优秀的数据可视化设计能力； 4、语言要求：英语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，统计、商业分析、计算机专业优先"
+          "本科及以上学历，统计、商业分析、计算机专业优先；"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "国际业务"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -8514,7 +8463,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，计算机、软件工程、质量等相关专业",
+        "raw": "本科及以上学历，计算机、软件工程、质量等相关专业",
         "hardRestriction": true
       },
       "language": {
@@ -8527,17 +8476,12 @@
       "jobRequirements": "1、本科及以上学历，计算机、软件工程、质量等相关专业； 2、了解质量管理、软件开发流程，有项目管理、数据分析或运营相关经验的优先； 3、较强的沟通组织协调能力（熟练使用英语书写和对话）和统筹能力； 4、对数据有敏感性，善于发现和总结问题； 5、主动性强，良好的沟通能力，有责任感，认同小米文化。依据工作需求能够经常出差或同意外派。",
       "JD": "1、负责跟进质量问题的闭环管理，分析是否找到根因，改善导入节点是否准确执行，改进效果是否得到验证等； 2、负责和跟进质量问题的复盘管理，针对重大问题，在问题有解决方案后，及时拉通相关部门进行复盘，总结经验并形成沉淀； 3、新品前置：通过IPMS和IPD机制握手，品质内容前置，在产品上市前拉通风险应对方案，弱化已知风险；提前进行历史案例库的排查，规避已知问题风险； 4、改善专项：跟进国际质量专项，与产品线质量一起开展改善，提升产品基础质量和体验。\n1、本科及以上学历，计算机、软件工程、质量等相关专业； 2、了解质量管理、软件开发流程，有项目管理、数据分析或运营相关经验的优先； 3、较强的沟通组织协调能力（熟练使用英语书写和对话）和统筹能力； 4、对数据有敏感性，善于发现和总结问题； 5、主动性强，良好的沟通能力，有责任感，认同小米文化。依据工作需求能够经常出差或同意外派。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，计算机、软件工程、质量等相关专业"
+          "本科及以上学历，计算机、软件工程、质量等相关专业"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "质量技术",
-          "开发实现"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -8609,8 +8553,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "英语",
@@ -8622,15 +8566,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力； 3、英语可作为工作语言优先； 4、熟练使用office办公软件，良好的数据敏感性； 5、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 6、有良好的服务意识，愿意从事售后服务工作。",
       "JD": "1、内部协调公司各个部门，外部协调公司与客户和外包商之间的关系； 2、客户关系维护：运营商及销售渠道客户日常业务对接，对客户的问题进行推动处理； 3、政策落地：负责各产品（手机、家电、生态链）售后服务业务落地效果信息收集、整理、反馈与解决进度追踪； 4、协调、组织、分析、改进和跟进客户满意度调查，协助制定客户回访计划和客户关怀政策； 5、跟踪、监测和分析项目服务质量，进行总结和汇报，并根据情况调整质量控制措施和指标。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力； 3、英语可作为工作语言优先； 4、熟练使用office办公软件，良好的数据敏感性； 5、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 6、有良好的服务意识，愿意从事售后服务工作。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "业务运营"
@@ -8697,8 +8639,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历；",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -8710,15 +8652,13 @@
       "jobRequirements": "1、本科及以上学历； 2、优秀的客户服务意识，有同理心，有责任心； 3、熟练使用EXCEL、PPT等办公软件； 4、有一定的数据分析能力，了解并使用常见的数据分析工具； 5、学习能力强，有很好的沟通协调能力",
       "JD": "1、负责坏品备件业务基础数据的整理与分析； 2、参与备件运营项目，负责推动相关项目工作的落地实施； 3、接收来自合作伙伴和周边部门反馈的异常问题反馈，及时协调资源处理完成； 4、参与合作伙伴的考核，结算，数据管理 5、包含手机，3C消费电子，生态链大件，大家电等产品的坏品回退和处理\n1、本科及以上学历； 2、优秀的客户服务意识，有同理心，有责任心； 3、熟练使用EXCEL、PPT等办公软件； 4、有一定的数据分析能力，了解并使用常见的数据分析工具； 5、学习能力强，有很好的沟通协调能力",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -8787,7 +8727,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，市场营销、国际贸易、工商管理、数据分析等相关专业优先",
+        "raw": "本科及以上学历，市场营销、国际贸易、工商管理、数据分析等相关专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -8800,18 +8740,13 @@
       "jobRequirements": "1、本科及以上学历，市场营销、国际贸易、工商管理、数据分析等相关专业优先； 2、英语听说读写流利； 3、熟练使用Office办公软件（Excel/PowerPoint），具备良好的数据敏感性，能独立完成数据整理与分析； 4、自驱力强，目标导向，能在快节奏环境中高效推进工作； 5、思维敏捷，学习能力强，善于从复杂信息中提炼关键洞察； 6、沟通协调能力佳，具备跨文化团队协作意识；",
       "JD": "1、品类运营落地：负责小米手机/平板/可穿戴等品类在海外零售渠道的运营方案策划与执行，包括但不限于零售新品策略、促销方案设计、物料规划与效果追踪； 2、目标拆解与跟进：协助制定各区域/国家的零售品类销售目标，跟踪达成进度，输出阶段性复盘报告，推动目标达成； 3、竞品监控与分析：持续跟踪海外市场竞品动态（产品、定价、渠道策略），输出竞品分析报告，提出针对性的品类策略建议； 4、数据驱动决策：挖掘零售运营数据、用户行为数据，进行多维度分析，输出消费需求洞察，为品类规划和推广策略提供数据支撑； 5、跨部门协同：整合GTM、市场、销售、等多部门反馈，高效输出运营策划方案与产品文案，推动项目闭环落地； 6、活动策划与执行：协助策划海外零售促销活动（新品首发、节日大促等），关注市场动向，快速调整零售运营策略，提升用户活跃度与转化率。\n1、本科及以上学历，市场营销、国际贸易、工商管理、数据分析等相关专业优先； 2、英语听说读写流利； 3、熟练使用Office办公软件（Excel/PowerPoint），具备良好的数据敏感性，能独立完成数据整理与分析； 4、自驱力强，目标导向，能在快节奏环境中高效推进工作； 5、思维敏捷，学习能力强，善于从复杂信息中提炼关键洞察； 6、沟通协调能力佳，具备跨文化团队协作意识；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1、本科及以上学历，市场营销、国际贸易、工商管理、数据分析等相关专业优先"
+          "本科及以上学历，市场营销、国际贸易、工商管理、数据分析等相关专业优先"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通",
-          "国际业务"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -8888,8 +8823,8 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false
+        "raw": "本科及以上学历",
+        "hardRestriction": true
       },
       "language": {
         "raw": "",
@@ -8901,11 +8836,11 @@
       "jobRequirements": "任职要求： 1、本科及以上学历； 2、优秀的客户服务意识，有同理心，有责任心； 3、熟练使用EXCEL、PPT等办公软件； 4、有一定的数据分析能力，了解并使用常见的数据分析工具； 5、学习能力强，善于思考，有独立处理问题的能力。",
       "JD": "岗位描述： 1、负责备件业务基础数据的整理与分析； 2、参与备件运营项目，负责推动相关项目工作的落地实施； 3、接收来自客户的备件需求，并负责跟进，及时处理完成； 4、负责维护并更新业务系统里的配置和数据； 5、参与备件业务流程与系统的优化，负责撰写相关的文档通知； 6、完成运营经理安排的其他备件运营相关工作。\n任职要求： 1、本科及以上学历； 2、优秀的客户服务意识，有同理心，有责任心； 3、熟练使用EXCEL、PPT等办公软件； 4、有一定的数据分析能力，了解并使用常见的数据分析工具； 5、学习能力强，善于思考，有独立处理问题的能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8976,7 +8911,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1.本科及以上学历，计算机科学、人工智能、机器人工程或相关专业",
+        "raw": "本科及以上学历，计算机科学、人工智能、机器人工程或相关专业",
         "hardRestriction": true
       },
       "language": {
@@ -8989,16 +8924,12 @@
       "jobRequirements": "1.本科及以上学历，计算机科学、人工智能、机器人工程或相关专业； 2.对自动驾驶技术和数据闭环系统（数据采集、处理、标注、训练等）有深入理解和实践经验； 3.有跨部门（算法、工具链、工程）协同经验，成功交付过复杂数据系统项目； 4.了解自动驾驶端到端数据标注、模型训练者优先。",
       "JD": "1. 深入理解感知、规控、VLM/VLA 等算法需求，以车端功能交付为目标，判断并共识需求优先级； 2. 掌握数据生产-应用的全流程，包括但不限于数采/trigger-挖掘-标注-训练-评测等环节，通过业务目标驱动数据高效高质交付，并能在交付过程中持续优化流程，促进算法高效迭代； 3. 协调跨部门团队合作，包括工程师、数据科学家和运营团队，建立有效的合作机制，保障数据项目高效推进。\n1.本科及以上学历，计算机科学、人工智能、机器人工程或相关专业； 2.对自动驾驶技术和数据闭环系统（数据采集、处理、标注、训练等）有深入理解和实践经验； 3.有跨部门（算法、工具链、工程）协同经验，成功交付过复杂数据系统项目； 4.了解自动驾驶端到端数据标注、模型训练者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1.本科及以上学历，计算机科学、人工智能、机器人工程或相关专业"
+          "本科及以上学历，计算机科学、人工智能、机器人工程或相关专业"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [

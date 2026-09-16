@@ -1,7 +1,7 @@
 {
   "company": "创维集团",
   "count": 135,
-  "updatedAt": "2026-09-16T14:12:37.871Z",
+  "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
       "id": "hotjob-450bb2d6c2ee",
@@ -87,7 +87,7 @@
       "publishedAt": "2026-07-31",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-616e7693ce58",
@@ -186,7 +186,7 @@
       "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-b54fddc65560",
@@ -290,7 +290,7 @@
       "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-8592a6d90641",
@@ -386,7 +386,7 @@
       "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-987ef54ca521",
@@ -488,7 +488,7 @@
       "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-f5d752c7ebca",
@@ -677,7 +677,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-73185160bc55",
@@ -776,7 +776,7 @@
       "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-2a10f85cce48",
@@ -1066,7 +1066,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "专业不限，市场营销等商科专业优先",
         "hardRestriction": false
       },
       "language": {
@@ -1079,11 +1079,12 @@
       "jobRequirements": "1、本科及以上应届毕业生，专业不限，市场营销等商科专业优先。 2、有京东、天猫、抖音等国内主流平台或Tik Tok、亚马逊等海外渠道实习或校园商业实践经历者更佳。 3、具备出色沟通与数据分析能力，能快速学习产品知识和行业动态；抗压性强，目标感明确，愿深耕营销领域。 4、性格主动热情，易于与客户、同事建立友好关系，迅速融入团队。",
       "JD": "【可选方向】：国内/海外 1、营销实践与技能成长： 掌握主流平台（京东、天猫、抖音、Tik Tok、亚马逊等）运营逻辑，参与平台日常运营、内容搭建、活动执行及流量推广相关工作，积累营销实战经验。 2、客户服务与关系建立： 负责客户精细化运营，通过平台运营动作、营销内容触达及用户互动，提升客户活跃度、复购率与品牌认可度。 3、市场与落地执行： 分析市场趋势、用户需求及竞品动态，协助策划并执行平台日常活动、店铺促销等营销活动；跟踪店铺销售数据、流量数据及活动效果，及时反馈运营问题并协助优化运营方案。 4、团队协作与能力提升： 与产品、运营等部门协同业务；定期整理数据，输出工作总结；积极参与团队经验分享，快速提升沟通、谈判与问题解决能力。\n1、本科及以上应届毕业生，专业不限，市场营销等商科专业优先。 2、有京东、天猫、抖音等国内主流平台或Tik Tok、亚马逊等海外渠道实习或校园商业实践经历者更佳。 3、具备出色沟通与数据分析能力，能快速学习产品知识和行业动态；抗压性强，目标感明确，愿深耕营销领域。 4、性格主动热情，易于与客户、同事建立友好关系，迅速融入团队。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业不限，市场营销等商科专业优先"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-07-31"
+          "本科及以上应届毕业生"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1162,7 +1163,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "全日制本科及以上学历，理工类专业优先。",
         "hardRestriction": false
       },
       "language": {
@@ -1175,12 +1176,11 @@
       "jobRequirements": "1、全日制本科及以上学历，理工类专业优先。 2、沟通表达能力强，有亲和力，具备高情商沟通与情绪管理能力。 3、对数据敏感，能熟练使用Excel进行基础数据分析与统计。 4、具备组织协调能力，有学生会/社团/班干部等团队管理经验者优先。 5、逻辑清晰，善于在复杂信息中提炼关键问题并提出解决方案。",
       "JD": "岗位定位： 本岗位为公司呼叫中心条线的核心人才储备岗，旨在培养具备客服团队管理、服务流程优化与用户体验提升能力的客服经理。未来独立负责客服团队的运营管理与服务品质提升，走用户运营管理型发展路径。 岗位职责： 1、运营管理：负责呼叫中心日常运营指标的监控与管理，包括排班管理、服务水平保障等，确保KPI达标。 2、服务质量提升：通过质检、录音复盘、客户回访等方式，持续优化客服团队的沟通质量与问题解决率。 3、投诉处理与危机应对：升级投诉的跟进处理，协调相关部门解决客户疑难问题，维护品牌口碑。 4、流程与话术优化：参与客服话术标准、投诉处理流程、服务规范的制定与迭代，提升服务效率与客户体验。 5、团队管理与赋能：协助开展客服团队的培训带教、绩效考核与日常管理工作。\n1、全日制本科及以上学历，理工类专业优先。 2、沟通表达能力强，有亲和力，具备高情商沟通与情绪管理能力。 3、对数据敏感，能熟练使用Excel进行基础数据分析与统计。 4、具备组织协调能力，有学生会/社团/班干部等团队管理经验者优先。 5、逻辑清晰，善于在复杂信息中提炼关键问题并提出解决方案。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-23"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制本科及以上学历，理工类专业优先。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -1237,7 +1237,7 @@
       "publishedAt": "2026-07-31",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-ddff64629dcf",
@@ -1252,7 +1252,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，专业不限",
         "hardRestriction": false
       },
       "language": {
@@ -1265,11 +1265,12 @@
       "jobRequirements": "1、27届应届毕业生，本科及以上学历，专业不限; 2、学生干部优先，学生会、社团负责人或骨干成员优先，中共党员优先; 3、有营销相关履历，沟通能力强，思维清晰敏捷，逻辑分析能力较强； 4、工作责任感强，有团队协作意识，考虑问题全面细致; 5、英语四级及以上。",
       "JD": "1、产品运营：以公司彩电产品为核心，围绕差异化科技卖点制定推广策略;持续运营产品，通过优质的产品为消费者提供持续性的使用价值; 2、品牌运营：围绕品牌定位，制定有利于品牌提升的各项策略及执行方案，宣传品牌主张及品牌价值，维护公司口碑，提升创维品牌知名度; 3、渠道运营：对接并维护渠道关系（线上/线下/O2O），通过高质量运营实现公司与渠道之间的共赢;管控现有客户，赋能一线员工，利用优质的产品与客户实现双赢协同，不断开拓市场，扩大品牌影响力; 4、用户运营：以用户为中心，挖掘用户需求，为用户提供全链路、细致化的服务;构建私域流量池，通过精细化的运营持续提升粉丝活跃度及转化率； 5、营销创新：顺应市场趋势，结合营销专业知识，创新活动玩法、促销方案、营销推广方案、产品企划方案等，持续探索新兴渠道（例如兴趣电商、直播、O2O、前置渠道等）。\n1、27届应届毕业生，本科及以上学历，专业不限; 2、学生干部优先，学生会、社团负责人或骨干成员优先，中共党员优先; 3、有营销相关履历，沟通能力强，思维清晰敏捷，逻辑分析能力较强； 4、工作责任感强，有团队协作意识，考虑问题全面细致; 5、英语四级及以上。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，专业不限"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "27届应届毕业生，本科及以上学历，专业不限"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1329,7 +1330,7 @@
       "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-a34919b43ba5",
@@ -1994,7 +1995,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -2061,7 +2062,7 @@
       "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-766617afdf8f",
@@ -2557,7 +2558,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -2612,7 +2613,7 @@
       "publishedAt": "2026-07-31",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-059ae0adb32a",
@@ -3662,7 +3663,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-82a3333f3771",
@@ -4201,7 +4202,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-d4762224236a",
@@ -4291,7 +4292,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-f933fbce305c",
@@ -4384,7 +4385,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-0234b9abb6bd",
@@ -4480,7 +4481,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-14f338a526b8",
@@ -4568,7 +4569,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-b8e76851e659",
@@ -4655,7 +4656,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-6f3746f9ccb5",
@@ -4742,7 +4743,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-b81666c4c9b4",
@@ -5747,7 +5748,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -5803,7 +5804,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-9a1d150c100b",
@@ -5835,7 +5836,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -5890,7 +5891,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-3b5e0b247118",
@@ -5922,7 +5923,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5979,7 +5980,7 @@
       "publishedAt": "2026-08-04",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-3164e3e4ff7d",
@@ -6011,7 +6012,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -6068,7 +6069,7 @@
       "publishedAt": "2026-08-04",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-b864994f453e",
@@ -6364,7 +6365,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -6423,7 +6424,7 @@
       "publishedAt": "2026-07-31",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-edb17d7f7d09",
@@ -7024,7 +7025,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-e6c0a6f1102a",
@@ -7107,7 +7108,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-1df21f44b5ff",
@@ -7191,7 +7192,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-aae3e54fe2df",
@@ -7279,7 +7280,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-9587b8978ee8",
@@ -7644,7 +7645,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "模型/算法"
@@ -7701,7 +7702,7 @@
       "publishedAt": "2026-09-11",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-c79f69890f06",
@@ -8257,7 +8258,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -8318,7 +8319,7 @@
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-7d430b3b28a3",
@@ -8350,7 +8351,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -8407,7 +8408,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-a8a9a6fc3245",
@@ -8439,7 +8440,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -8499,7 +8500,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-53c279fc8127",
@@ -8531,7 +8532,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -8592,7 +8593,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-6f0fd9a73883",
@@ -8624,7 +8625,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -8673,7 +8674,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-f036df35edb4",
@@ -8705,7 +8706,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "结构/原理"
@@ -8756,7 +8757,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-93fa3fdb2e3a",
@@ -8788,7 +8789,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -8838,7 +8839,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-3e0eedb1008c",
@@ -8870,7 +8871,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -8922,7 +8923,7 @@
       "publishedAt": "2026-08-04",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-06ab5375c282",
@@ -9615,7 +9616,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -9665,7 +9666,7 @@
       "publishedAt": "2026-07-31",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-a757afc444fa",
@@ -10495,7 +10496,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-4c74fbe4068b",
@@ -10577,7 +10578,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-75dcfb5ddf3f",
@@ -10657,7 +10658,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-5b1943c82ee6",
@@ -10737,7 +10738,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-112f2388ebf7",
@@ -10818,7 +10819,7 @@
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-d6f1dc8faa5a",
@@ -11280,7 +11281,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -11332,7 +11333,7 @@
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-5748bbb7010d",
@@ -11364,7 +11365,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [
           "质量技术"
@@ -11418,7 +11419,7 @@
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-eda14ce12b96",
@@ -11450,7 +11451,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -11506,7 +11507,7 @@
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-9f51b59da43e",
@@ -11538,7 +11539,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": [
@@ -11595,7 +11596,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-ba29eaf133cd",
@@ -11627,7 +11628,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -11679,7 +11680,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-f32c157edeb2",
@@ -11711,7 +11712,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-09-23"
+          "投递截止：2026-09-24"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -11761,7 +11762,7 @@
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23"
+      "deadline": "2026-09-24"
     },
     {
       "id": "hotjob-27beb515c327",

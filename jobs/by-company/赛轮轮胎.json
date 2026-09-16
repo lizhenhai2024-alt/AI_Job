@@ -1,7 +1,7 @@
 {
   "company": "赛轮轮胎",
   "count": 89,
-  "updatedAt": "2026-09-16T14:12:37.871Z",
+  "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
       "id": "beisen-ccaee1161b20",
@@ -296,7 +296,7 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "1.硕士及以上学历，英语口语流利可作为工作语言",
+        "raw": "硕士及以上学历",
         "hardRestriction": true
       },
       "language": {
@@ -309,17 +309,13 @@
       "jobRequirements": "1.硕士及以上学历，英语口语流利可作为工作语言； 2.具备较强的跨文化沟通能力与谈判协作能力； 3.责任心强，抗压能力好，有自驱力，能适应频繁出差（含国内及海外）； 4.熟练使用Excel、PPT、Word等办公软件。对AI软件应用具有探索精神。",
       "JD": "1、负责与全球战略大客户的对接沟通，建立并维护合作关系，跟进业务落地 2、协调客户需求与内部资源，推动商务合作达成 3、跟踪行业及大客户经营动态，定期输出分析与建议 4、完成集团或Leader交办的其他工作\n1.硕士及以上学历，英语口语流利可作为工作语言； 2.具备较强的跨文化沟通能力与谈判协作能力； 3.责任心强，抗压能力好，有自驱力，能适应频繁出差（含国内及海外）； 4.熟练使用Excel、PPT、Word等办公软件。对AI软件应用具有探索精神。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "1.硕士及以上学历，英语口语流利可作为工作语言"
+          "硕士及以上学历"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
