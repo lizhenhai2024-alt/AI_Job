@@ -7,24 +7,18 @@ import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { cacheKey, resolvePreset } from '../scripts/job-discovery/llm-evidence.mjs';
 
-// 这个文件钉住的是「已付费的 LLM 证据能不能活过一轮刷新」。
-//
-// 背景：refresh-jobs.mjs 从抓取结果重建整个岗位池（旧池只在不健康源时才保留），
-// 所以上一轮的 jdEvidence 不会自己跟过来。缓存键是 id:JD哈希:模型，对同一个岗位
-// 依然命中——如果命中时只是 continue 跳过，证据就永远补不回来：
-// 缓存从"省钱的备忘录"变成"阻止恢复的墓碑"。
-//
-// 测试方式：复制一份 scripts/ 到临时目录（enrich 以自身位置推导 root），
-// 造一个"刷新刚抹掉证据"的岗位池，跑真实的 enrich 脚本。
+// 这个文件钉住的是「已经抽取的 LLM 证据能不能活过一轮刷新」。
+// 多 Provider 后 source 会带 preset + model，例如 llm:deepseek:deepseek-flash，
+// 但缓存键仍按 id:JD哈希:model，确保同一模型同一 JD 可稳定恢复。
 
 const SCRIPTS = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../scripts');
 const MODEL = resolvePreset({ preset: 'deepseek' }).model;
+const SOURCE = `llm:deepseek:${MODEL}`;
 
 // 注意：这段 JD 刻意不含「XX专业/学历」这类词。否则正则能抽出 majorClauses，
 // 岗位会被 ONLY_WEAK 判为「已覆盖」而跳过，测不到缓存回灌这条路径。
 const WEAK_JD = '岗位职责：负责跟进客户需求与渠道维护，整理市场反馈并输出周报；'
   + '协助团队完成日常运营支持工作。任职资格：沟通表达清晰，能适应快节奏协作，对数据敏感，做事细致。';
-// 反过来，这段含专业限定，正则抽得到，用来验证原有的省钱行为没被改坏。
 const STRONG_JD = '岗位职责：负责海外市场推广与国际客户沟通，跟进国际业务落地与渠道维护，'
   + '整理投放数据并输出复盘结论，协助团队完成年度市场目标。'
   + '任职资格：本科及以上学历，英语或国际贸易专业优先，具备良好的跨文化沟通能力。';
@@ -41,7 +35,6 @@ function job(id, extra = {}) {
   };
 }
 
-// 造一个临时仓库：scripts/ 是真实代码的副本，src/data/ 是夹具。
 function fixture(liveJobs, cache) {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'jd-enrich-'));
   fs.cpSync(SCRIPTS, path.join(root, 'scripts'), { recursive: true });
@@ -58,7 +51,16 @@ function run(root, env = {}) {
   return spawnSync(process.execPath, [path.join(root, 'scripts/enrich-jd-evidence.mjs')], {
     encoding: 'utf8',
     cwd: root,
-    env: { ...process.env, JD_EVIDENCE_API_KEY: '', DEEPSEEK_API_KEY: '', ...env }
+    env: {
+      ...process.env,
+      OPENCODE_ZEN_API_KEY: '',
+      GEMINI_API_KEY: '',
+      JD_EVIDENCE_API_KEY: '',
+      DEEPSEEK_API_KEY: '',
+      // 缓存夹具是 DeepSeek 模型，测试时收窄到这个 Provider，避免未来免费 Provider 模型变化干扰。
+      JD_EVIDENCE_PROVIDER_ORDER: 'deepseek',
+      ...env
+    }
   });
 }
 
@@ -76,16 +78,16 @@ const EVIDENCE = {
 };
 
 test('刷新抹掉证据后，缓存命中应把证据写回岗位（无需密钥）', () => {
-  const lost = job('j1');                       // 刷新后的岗位：没有任何 jdEvidence
+  const lost = job('j1');
   const root = fixture([lost], { [cacheKey(lost, MODEL)]: EVIDENCE });
 
-  const r = run(root);                          // 故意不给密钥
+  const r = run(root);
   assert.equal(r.status, 0);
   assert.match(r.stdout, /缓存命中=1\(回灌=1\)/);
 
   const [after] = readJobs(root);
   assert.ok(after.jdEvidence, '证据必须被回灌');
-  assert.equal(after.jdEvidence.source, `llm:${MODEL}`, '来源应标记为 LLM');
+  assert.equal(after.jdEvidence.source, SOURCE, '来源应同时标记 Provider 与模型');
   assert.deepEqual(after.jdEvidence.majorClauses, EVIDENCE.majorClauses, '事实内容应逐字保留');
 });
 
@@ -94,11 +96,11 @@ test('回灌要落盘，否则下一轮刷新又丢', () => {
   const root = fixture([lost], { [cacheKey(lost, MODEL)]: EVIDENCE });
   run(root);
   const text = fs.readFileSync(path.join(root, 'src/data/live-jobs.js'), 'utf8');
-  assert.match(text, /llm:deepseek-flash/);
+  assert.match(text, /llm:deepseek:deepseek-flash/);
 });
 
 test('已有 LLM 证据的岗位不重复回灌（幂等）', () => {
-  const already = job('j1', { jdEvidence: { ...EVIDENCE, source: `llm:${MODEL}` } });
+  const already = job('j1', { jdEvidence: { ...EVIDENCE, source: SOURCE } });
   const root = fixture([already], { [cacheKey(already, MODEL)]: EVIDENCE });
   const r = run(root);
   assert.match(r.stdout, /缓存命中=1\(回灌=0\)/);
@@ -106,7 +108,6 @@ test('已有 LLM 证据的岗位不重复回灌（幂等）', () => {
 
 test('换了模型则缓存不命中，岗位留待重抽', () => {
   const lost = job('j1');
-  // 用另一个模型的键写缓存，当前模型不应命中
   const root = fixture([lost], { [cacheKey(lost, 'some-other-model')]: EVIDENCE });
   const r = run(root);
   assert.match(r.stdout, /缓存命中=0\(回灌=0\)/);
@@ -127,7 +128,7 @@ test('正则已覆盖且无缓存时，仍按 ONLY_WEAK 跳过（不改变原有
 test('无新抽取且无回灌时不动任何文件', () => {
   const root = fixture([job('j1')], {});
   const before = fs.readFileSync(path.join(root, 'src/data/live-jobs.js'), 'utf8');
-  const r = run(root, { JD_EVIDENCE_API_KEY: 'sk-test' });   // 有待抽才会走到落盘判断
+  const r = run(root, { JD_EVIDENCE_API_KEY: 'sk-test' });
   assert.match(r.stdout, /本轮无成功抽取，不改动任何文件/);
   assert.equal(fs.readFileSync(path.join(root, 'src/data/live-jobs.js'), 'utf8'), before);
 });
