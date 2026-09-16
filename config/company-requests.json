@@ -21568,5 +21568,39 @@
     "sourceRegistered": true,
     "sourceAlreadyExists": true,
     "analysis": "识别为北森；2027 届证据和标准 API 探针均通过（岗位 137）；官方链接可访问"
+  },
+  {
+    "id": "intake-14b14f62a823",
+    "name": "深圳市韶音科技有限公司",
+    "careerUrl": "https://campus.shokz.com.cn/",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 用户询问补充：Shokz 韶音科技（深圳出海消费电子，全球开放式耳机出货第一），2027届校招进行中（深圳/香港/新加坡，营销管培生外籍留学生专项），校招系统疑似北森(待验证接入)",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
   }
 ]
