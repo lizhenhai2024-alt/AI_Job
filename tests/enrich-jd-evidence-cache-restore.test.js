@@ -17,10 +17,14 @@ const SOURCE = `llm:deepseek:${MODEL}`;
 
 // 注意：这段 JD 刻意不含「XX专业/学历」这类词。否则正则能抽出 majorClauses，
 // 岗位会被 ONLY_WEAK 判为「已覆盖」而跳过，测不到缓存回灌这条路径。
+// 同时职责和要求都必须达到当前 complete-JD 契约（单段 >=40，总计 >=120），
+// 否则测试只会命中“JD不完整跳过”，根本测不到缓存语义。
 const WEAK_JD = '岗位职责：负责跟进客户需求与渠道维护，整理市场反馈并输出周报；'
-  + '协助团队完成日常运营支持工作。任职资格：沟通表达清晰，能适应快节奏协作，对数据敏感，做事细致。';
+  + '协助团队完成日常运营支持、活动执行、数据整理与跨团队信息同步，跟踪事项进度并形成复盘记录。';
+const WEAK_REQ = '任职要求：沟通表达清晰，能适应快节奏协作，对数据敏感，做事细致有责任心，'
+  + '具备较强学习能力、团队协作意识和问题跟进能力，能够按节点完成任务。';
 const STRONG_JD = '岗位职责：负责海外市场推广与国际客户沟通，跟进国际业务落地与渠道维护，'
-  + '整理投放数据并输出复盘结论，协助团队完成年度市场目标。'
+  + '整理投放数据并输出复盘结论，协助团队完成年度市场目标并持续跟踪项目执行效果。'
   + '任职资格：本科及以上学历，英语或国际贸易专业优先，具备良好的跨文化沟通能力。';
 
 function job(id, extra = {}) {
@@ -30,7 +34,7 @@ function job(id, extra = {}) {
     title: '市场运营专员',
     city: '深圳',
     jobDescription: WEAK_JD,
-    jobRequirements: '做事细致，有责任心。',
+    jobRequirements: WEAK_REQ,
     ...extra
   };
 }
@@ -111,18 +115,18 @@ test('换了模型则缓存不命中，岗位留待重抽', () => {
   const root = fixture([lost], { [cacheKey(lost, 'some-other-model')]: EVIDENCE });
   const r = run(root);
   assert.match(r.stdout, /缓存命中=0\(回灌=0\)/);
-  assert.match(r.stdout, /待抽=1/, '换模型后必须重抽，不能复用别的模型产出的证据');
+  assert.match(r.stdout, /待AI分析=1/, '换模型后必须重抽，不能复用别的模型产出的证据');
 });
 
-test('正则已覆盖且无缓存时，仍按 ONLY_WEAK 跳过（不改变原有省钱行为）', () => {
+test('正则已覆盖且无缓存时，ONLY_WEAK 模式继续跳过（不改变省钱行为）', () => {
   const strong = job('j1', {
     jobDescription: STRONG_JD,
     jdEvidence: { source: 'regex', majorClauses: ['英语或国际贸易专业优先'], eligibilityClauses: [], businessDuties: [], technicalDuties: [] }
   });
   const root = fixture([strong], {});
-  const r = run(root);
+  const r = run(root, { JD_EVIDENCE_ONLY_WEAK: '1' });
   assert.match(r.stdout, /正则已覆盖=1\(跳过\)/);
-  assert.match(r.stdout, /待抽=0/);
+  assert.match(r.stdout, /待AI分析=0/);
 });
 
 test('无新抽取且无回灌时不动任何文件', () => {
