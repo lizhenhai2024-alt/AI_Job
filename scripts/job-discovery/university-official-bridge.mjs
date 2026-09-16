@@ -65,7 +65,7 @@ export function sourceFromUniversityJob(job = {}) {
   if (provider === 'hotjob') {
     const tenant = url.match(/\/SU([a-f0-9]{24})\//i)?.[1] || '';
     if (!tenant) return { provider, source: null, state: 'needs_adapter', reason: 'HotJob入口缺少tenant' };
-    const schoolUrl = `https://wecruit.hotjob.cn/SU${tenant}/pb/school.html`;
+    const schoolUrl = `https://wecruit.hotjob.cn/SU${tenant}/mc/index`;
     return {
       provider,
       source: { company: job.company, baseUrl: 'https://wecruit.hotjob.cn', tenant, url: schoolUrl, graduationYear: '2027', projectEvidence: '2027', pageSize: 100, maxPages: 100, maxDetails: 120, listConcurrency: 6, detailConcurrency: 5, monitoringNote: `高校就业网自动发现：${job.universitySource?.school || '高校'}` },

@@ -246,7 +246,7 @@ async function validateCandidate(company, candidate) {
     const tenant = finalUrl.match(/\/SU([a-f0-9]{24})\//i)?.[1] || '';
     if (!tenant) return { state: 'needs_adapter', provider, url: finalUrl, reason: '识别为 HotJob，但无法提取 tenant' };
     if (!cohortEvidence(evidenceText)) return { state: 'no_2027_evidence', provider, url: finalUrl, reason: '识别为 HotJob，但页面没有明确2027校招证据' };
-    const schoolUrl = `https://wecruit.hotjob.cn/SU${tenant}/pb/school.html`;
+    const schoolUrl = `https://wecruit.hotjob.cn/SU${tenant}/mc/index`;
     return {
       state: 'source_registered', provider, url: schoolUrl,
       source: { company: company.name, baseUrl: 'https://wecruit.hotjob.cn', tenant, url: schoolUrl, graduationYear: '2027', projectEvidence: '2027', pageSize: 100, maxPages: 100, maxDetails: 120, listConcurrency: 6, detailConcurrency: 5 },

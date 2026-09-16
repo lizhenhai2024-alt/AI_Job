@@ -20,6 +20,8 @@
 | R-OPS-008 | 多 Agent 共享工作目录时，禁止 git reset/checkout/restore 他人改动 | 并行 Agent 因 reset 把对方未提交补丁抹掉/ 把对方改动 staged 混入自己 commit |
 | R-OPS-010 | 快照保留岗位(`_snapshotRetained`)在 dedupe 时永远不得压过本轮新抓岗位 | 新抓字段(deadline/headCount/UUID)被旧快照覆盖丢失；publishedAt 为空或相同时旧岗位胜出 |
 | R-OPS-009 | 外部 API 字段增强前必须同源实测；UUID 统计正则必须带 `(?:&|$)` 锚定 | 用 `\d+` 统计 UUID 开头数字误报；不实测就改字段导致重抓 |
+| R-HOTJOB-001 | HotJob 详情 URL 必须用 `mc/detail?postId=X&recruitType=1`（`pb/posDetail.html` 已废弃） | 看板点开岗位链接空白/卡死（828 条系统性坏链） |
+| R-OPS-016 | HotJob API 响应 state 双形态判定（顶层或 data 内嵌） | `payload?.state` 单判定误报 no_jd/抓取失败 |
 
 ---
 
@@ -158,6 +160,7 @@
 | 09-16 | 取消金融/教育/茶饮排除 → 6 个北森源恢复采集（人寿/太平/新东方/人保/泰康/蜜雪） | R-OPS-004 / 用户政策变更 |
 | 09-16 | 并行 Organizer git 操作回退 MainAgent 的 beisen/moka/桥接补丁 → 提炼 R-OPS-008 | R-OPS-008 |
 | 09-16 | 北森 EndTime 截止日期采集 + HeadCount 标准化（623/3507 条），UUID 统计正则锚定修正 | R-BEISEN-002 / R-OPS-009 |
+| 09-16 | 创维岗位链接错误 → 定位 HotJob `pb/posDetail.html` 全库废弃路由（828 条系统性坏链）→ 迁移 `mc/detail` | R-HOTJOB-001 / R-OPS-016 |
 
 ## R-OPS-010：快照保留岗位永远不压过本轮新抓岗位
 
@@ -226,3 +229,25 @@
   2. 归一化后必须抽查代表性样本（外资/高薪岗）验证格式（如 SGS "1-1.8万"→"10-20k"），不能只看总量覆盖。
   3. 跨渠道统一薪资展示格式（X-Yk），入库前归一，避免源格式混杂。
 - **检查点**：live-jobs 中 source=智联招聘 的 salary 无 "1-1.8k" 类错误；测试含 "1-1.8万"→"10-18k" 用例。
+
+## R-HOTJOB-001：HotJob 详情 URL 必须用 `mc/detail`（`pb/posDetail.html` 已废弃）
+
+- **场景**：2026-09-16 用户反馈创维集团岗位链接错误；排查发现全库 828 条 HotJob 岗位 sourceUrl 全部为 `pb/posDetail.html` 废弃路由——`pb/posList.html` 404、`pb/school.html` 跳转"官网不存在"、`pb/posDetail.html` 打开卡"正在加载中..."（React SPA 空壳），岗位数据本身全部有效（828 条 postId 逐条 API 验证通过）。
+- **根因**：HotJob 平台改版（`pb/` 前缀 → `mc/` 前缀）未做重定向；`hotjob.mjs` `parseHotjobDetail()` 生成 sourceUrl 仍硬编码 `pb/posDetail.html?postId=...&postType=campus` → **每次刷新都重新生成坏链**。
+- **规则**：
+  1. 详情 URL 一律 `{base}/{tenant}/mc/detail?postId={postId}&recruitType={recruitType}`（recruitType：campus=1/society=2/intern=12/overseas=13）；**禁止**生成 `pb/` 前缀路由。
+  2. 详情 API `POST {base}/wecruit/positionInfo/listPositionDetail/{tenant}?iSaJAx=isAjax&request_locale=zh_CN&t={ts}`，body **只传 postId**（附加 recruitType → parameter error）；tenant **保持 URL 原样大小写**（全大写 → state=500）。
+  3. 源入口 URL（`source.url`/`schoolUrl` 默认值）用 `mc/index` 或 `mc/position/campus`，不用 `pb/school.html`。
+  4. 平台级路由/字段变更后，先实测新旧路由与 API 响应，再改生成代码；改后跑 `npm run check`（R-HOTJOB-001 全量扫描 `mc/detail` 以外 hotjob 详情 URL 即报错）。
+- **检查点**：`docs/hotjob-url-rules.md`（含 API 细节、hztp 例外、平台侧 bug 提示、排查速查表）。
+
+## R-OPS-016：HotJob API 响应 state 双形态判定（顶层或 data 内嵌）
+
+- **场景**：HotJob 详情 API 响应结构因请求环境而异：node fetch（无 cookie/XHR header）返回 `{"data":{...,"state":"200"}}`（state 在 **data 内**）；浏览器环境返回 `{"data":{...},"state":"200"}`（state 在**顶层**）。仅判 `payload?.state` 时，node 环境取到 undefined → 误判失败/抛错。
+- **根因**：判定代码只取顶层 `payload.state`，未覆盖 data 内嵌形态；两种形态页面 JS 与抓取脚本都可能遇到。
+- **规则**：
+  1. state 判定必须双兼容：`String(payload?.state ?? payload?.data?.state) === '200'`；同时校验 `payload.data.postName`（或对应业务字段）存在作为岗位有效证据。
+  2. 位置：`hotjob.mjs` `postForm()`、`fetch-jd-batch.mjs`/`fetch-jd-batch-retry.mjs` `fetchHotjob()`。
+  3. 排查时先 `curl/node fetch` 实测当前响应结构，再改判定，禁止凭历史经验单形态写死。
+- **检查点**：node 环境跑 HotJob 详情抓取无 `state=undefined` 类报错；`npm run check` 全绿。
+

@@ -158,7 +158,7 @@ async function providerDetection(careerUrl, html = '', inspectedOk = false) {
     const tenant = careerUrl.match(/\/SU([a-f0-9]{24})\//i)?.[1] || '';
     if (!tenant) return { provider: 'hotjob', source: null, reason: '识别为 HotJob，但无法提取 tenant' };
     if (!cohortEvidence(html)) return { provider: 'hotjob', source: null, reason: '识别为 HotJob，但页面未找到明确 2027 届证据' };
-    const schoolUrl = `https://wecruit.hotjob.cn/SU${tenant}/pb/school.html`;
+    const schoolUrl = `https://wecruit.hotjob.cn/SU${tenant}/mc/index`;
     return {
       provider: 'hotjob',
       source: {

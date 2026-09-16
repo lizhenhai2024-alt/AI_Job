@@ -72,7 +72,7 @@ async function postHotjob(action, source, data) {
       accept: 'application/json, text/plain, */*',
       'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
       'user-agent': 'Mozilla/5.0',
-      referer: `${base}/${key}/pb/school.html`,
+      referer: `${base}/${key}/mc/index`,
       origin: base
     },
     body: new URLSearchParams(data).toString()

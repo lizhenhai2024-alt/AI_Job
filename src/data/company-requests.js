@@ -763,7 +763,7 @@ export const companyRequests = [
   {
     "id": "intake-d1f603f8d354",
     "name": "立讯精密",
-    "careerUrl": "https://wecruit.hotjob.cn/SU601778b25d83dc072073230a/pb/school.html",
+    "careerUrl": "https://wecruit.hotjob.cn/SU601778b25d83dc072073230a/mc/index",
     "focus": [
       "国际业务",
       "海外营销",

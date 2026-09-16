@@ -39,7 +39,7 @@ test('normalizes Deloitte Campus 2027 HotJob detail with official provenance', (
   assert.equal(job.graduationYear, '2027');
   assert.equal(job.city, '上海');
   assert.equal(job.sourceType, 'official');
-  assert.match(job.sourceUrl, /posDetail\.html\?postId=p1&postType=campus/);
+  assert.match(job.sourceUrl, /mc\/detail\?postId=p1&recruitType=1/);
   assert.match(job.verification, /Campus 2027/);
   assert.ok(job.languages.includes('英语'));
   assert.ok(job.roleFamily.includes('咨询'));

@@ -36,7 +36,7 @@ function baseOf(source = {}) {
 
 function pageUrl(source = {}) {
   const base = baseOf(source);
-  return source.url || `${base}/${tenantKey(source)}/pb/school.html`;
+  return source.url || `${base}/${tenantKey(source)}/mc/index`;
 }
 
 function apiUrl(source = {}, action = 'listPosition') {
@@ -66,7 +66,7 @@ async function postForm(fetcher, source, action, data) {
   let payload;
   try { payload = JSON.parse(raw); }
   catch { throw new Error(`HotJob non-JSON ${action} response for ${source.company}`); }
-  if (String(payload?.state) !== '200') throw new Error(payload?.msg || `HotJob ${action} state=${payload?.state} for ${source.company}`);
+  const hotjobState = String(payload?.state ?? payload?.data?.state ?? ''); if (hotjobState !== '200') throw new Error(payload?.msg || `HotJob ${action} state=${hotjobState} for ${source.company}`);
   return payload.data || {};
 }
 
@@ -146,7 +146,7 @@ export function parseHotjobDetail(source, row = {}, detail = {}, now = new Date(
   ].filter(Boolean);
   const riskTags = detectRisks(jobText);
   const base = baseOf(source);
-  const sourceUrl = `${base}/${tenantKey(source)}/pb/posDetail.html?postId=${encodeURIComponent(postId)}&postType=campus`;
+  const sourceUrl = `${base}/${tenantKey(source)}/mc/detail?postId=${encodeURIComponent(postId)}&recruitType=1`;
   const publishedAt = normalizeDate(detail.publishDate || detail.publishFirstDate || row.publishDate || row.publishFirstDate);
   const deadline = normalizeDate(detail.endDate || row.endDate);
   const salary = clean(detail.salaryStr || detail.salary || '');
