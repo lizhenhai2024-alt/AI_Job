@@ -23,7 +23,8 @@ permissions:
 jobs:
   analyze:
     runs-on: ubuntu-latest
-    # AI API限流属于增强层故障，不再占用/阻塞核心岗位刷新窗口。
+    # AI evidence is an enhancement layer. Production now uses Gemini Free Tier
+    # only; CareerPilot performs the downstream ChatGPT/OpenAI selected-pool audit.
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
@@ -36,21 +37,19 @@ jobs:
         run: node scripts/enrich-jd-evidence.mjs
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-          JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25,deepseek
+          JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25
           JD_EVIDENCE_COMPLETE_ONLY: 1
           JD_EVIDENCE_MIN_SECTION_CHARS: 40
           JD_EVIDENCE_MIN_TOTAL_CHARS: 120
           JD_EVIDENCE_ONLY_WEAK: 0
           JD_EVIDENCE_MAX_CALLS: 1500
-          JD_EVIDENCE_PAID_MAX_CALLS: 200
+          JD_EVIDENCE_PAID_MAX_CALLS: 0
           JD_EVIDENCE_CONCURRENCY: 4
       - name: Report coverage
         run: node scripts/report-jd-evidence-coverage.mjs
         env:
           GEMINI_KEY_CONFIGURED: ${{ secrets.GEMINI_API_KEY != '' }}
-          DEEPSEEK_KEY_CONFIGURED: ${{ secrets.JD_EVIDENCE_API_KEY != '' || secrets.DEEPSEEK_API_KEY != '' }}
+          DEEPSEEK_KEY_CONFIGURED: 'false'
       - name: Commit AI evidence
         shell: bash
         run: |
