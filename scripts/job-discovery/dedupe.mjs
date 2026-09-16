@@ -62,7 +62,9 @@ export function dedupePreferOfficial(jobs = []) {
   const map = new Map();
   for (const job of jobs) {
     if (!job?.id) continue;
-    const key = jobDedupeKey(job);
+    // Moka 源岗位是"同标题族多投递方向"结构（如韶音品牌营销管培生=多语种多个唯一jobId），
+    // 按 title 合并会压没不同投递机会，故 Moka 岗位以唯一 id 为 key 保留全部方向。
+    const key = String(job.id || '').startsWith('moka-') ? `moka:${job.id}` : jobDedupeKey(job);
     const prev = map.get(key);
     if (!prev) {
       map.set(key, { ...job });
