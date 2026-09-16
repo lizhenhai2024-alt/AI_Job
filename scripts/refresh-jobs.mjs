@@ -3,6 +3,7 @@ import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { searchNowcoderJobs } from './job-discovery/nowcoder.mjs';
 import { searchLiepinCampus } from './job-discovery/liepin.mjs';
+import { searchZhaopinJobs } from './job-discovery/zhaopin.mjs';
 import { searchMokaJobs } from './job-discovery/moka.mjs';
 import { searchBeisenJobs } from './job-discovery/beisen.mjs';
 import { searchFeishuJobs } from './job-discovery/feishu.mjs';
@@ -40,7 +41,7 @@ const sourceHealthPath = path.join(root, 'src/data/source-health.js');
 
 const MAX_CONCURRENCY = 3;
 const SUPPORTED_PROVIDERS = [
-  'nowcoder', 'liepin', 'moka', 'beisen', 'feishu', 'hotjob', 'anker', 'ecoflow',
+  'nowcoder', 'liepin', 'zhaopin', 'moka', 'beisen', 'feishu', 'hotjob', 'anker', 'ecoflow',
   'alibaba', 'tencent', 'bytedance', 'meituan', 'pinduoduo', 'kuaishou',
   'xiaohongshu', 'ctrip', 'oppo', 'topband', 'job51', 'phenom', 'avature',
   'successfactors'
@@ -135,7 +136,7 @@ function dedupePreferOfficial(jobs = []) {
 }
 
 function sourceConfigured(provider) {
-  if (provider === 'nowcoder' || provider === 'liepin') return true;
+  if (provider === 'nowcoder' || provider === 'liepin' || provider === 'zhaopin') return true;
   const value = officialSources?.[provider];
   return Array.isArray(value) ? value.length > 0 : Boolean(value);
 }
@@ -288,6 +289,7 @@ const parallelTasks = [];
 
 addParallelTask(parallelTasks, 'nowcoder', () => searchNowcoderJobs(config));
 addParallelTask(parallelTasks, 'liepin', () => searchLiepinCampus(config));
+addParallelTask(parallelTasks, 'zhaopin', () => searchZhaopinJobs(config));
 addParallelTask(parallelTasks, 'beisen', () => searchBeisenJobs(config, normalizedSources('beisen')));
 addParallelTask(parallelTasks, 'feishu', () => searchFeishuJobs(config, normalizedSources('feishu')));
 addParallelTask(parallelTasks, 'hotjob', () => searchHotjobJobs(config, normalizedSources('hotjob')));
