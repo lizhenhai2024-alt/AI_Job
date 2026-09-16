@@ -58,11 +58,32 @@ function normalizeLanguage(job, text) {
   const raw = Array.isArray(job.languages) ? job.languages.join('、') : String(job.language ?? job.languages ?? '');
   const t = `${raw}\n${text}`;
   const english = /英语|英文|CET[- ]?[46]|TEM[- ]?[48]|IELTS|TOEFL/i.test(t);
-  const minorLanguage = '(?:日语|韩语|德语|法语|西班牙语|葡萄牙语|俄语|阿拉伯语|意大利语|泰语|越南语|印尼语|马来语)';
+  const minorLanguages = ['日语', '韩语', '德语', '法语', '西班牙语', '葡萄牙语', '俄语', '阿拉伯语', '意大利语', '泰语', '越南语', '印尼语', '马来语'];
   const hardRequirement = '(?:必须|必需|要求|需|熟练|流利|精通|工作语言)';
-  const preferredOnly = new RegExp(`${minorLanguage}.{0,12}(?:优先|加分|preferred)`, 'i');
-  const requiredPattern = new RegExp(`(?:${hardRequirement}.{0,12}${minorLanguage}|${minorLanguage}.{0,12}${hardRequirement})`);
-  const minorLanguageRequired = requiredPattern.test(t) && !preferredOnly.test(t);
+  const clauses = t.split(/[\n。；;，,]+/).map((item) => item.trim()).filter(Boolean);
+
+  let minorLanguageRequired = false;
+  for (const language of minorLanguages) {
+    for (const clause of clauses) {
+      if (!clause.includes(language)) continue;
+      const requiredPattern = new RegExp(`(?:${hardRequirement}.{0,12}${language}|${language}.{0,12}${hardRequirement})`);
+      if (!requiredPattern.test(clause)) continue;
+
+      const preferredOnly = new RegExp(`${language}.{0,12}(?:优先|加分|preferred)`, 'i');
+      if (preferredOnly.test(clause)) continue;
+
+      const explicitMust = new RegExp(`(?:(?:必须|必需).{0,6}${language}|${language}.{0,6}(?:必须|必需))`).test(clause);
+      const directEnglishAlternative = new RegExp(`(?:(?:英语|英文).{0,6}(?:或|\\/).{0,6}${language}|${language}.{0,6}(?:或|\\/).{0,6}(?:英语|英文))`).test(clause);
+      const englishAnyOfList = /英语|英文/.test(clause)
+        && /(?:任一|任选(?:其一)?|之一|均可)/.test(clause)
+        && clause.includes(language);
+      if (!explicitMust && (directEnglishAlternative || englishAnyOfList)) continue;
+
+      minorLanguageRequired = true;
+      break;
+    }
+    if (minorLanguageRequired) break;
+  }
   return { raw, english, minorLanguageRequired };
 }
 
