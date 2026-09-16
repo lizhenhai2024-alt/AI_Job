@@ -67,6 +67,28 @@ if (numericBeisenDetail.length) {
       .join(' | ')}`
   );
 }
+// HotJob（hotjob.cn）详情 URL 规则 R-HOTJOB-001：pb/ 前缀路由已废弃（pb/posDetail.html 404/SPA 空壳），
+// 必须使用 mc/detail?postId=X&recruitType=1（recruitType: campus=1）；hztp 形态（/wt/ 路径、CompyiliPageindex_campus）除外。
+// 详见 docs/hotjob-url-rules.md
+const deprecatedHotjobDetail = [];
+const hotjobHostRx = /(?:^\.)?hotjob\.cn|career\.honor\.com|hr\.sensetime\.com/i;
+for (const job of liveJobs) {
+  const urls = [job.sourceUrl, ...(Array.isArray(job.sourceEvidence) ? job.sourceEvidence.map((e) => e?.url) : [])].filter(Boolean);
+  for (const url of urls) {
+    if (hotjobHostRx.test(url) && /\/pb\/(?:posDetail|posList|school)\.html/i.test(url)) {
+      deprecatedHotjobDetail.push({ id: job.id, company: job.company, url });
+    }
+  }
+}
+if (deprecatedHotjobDetail.length) {
+  throw new Error(
+    `R-HOTJOB-001 violation: ${deprecatedHotjobDetail.length} HotJob job URL(s) use deprecated /pb/ route; first: ${deprecatedHotjobDetail
+      .slice(0, 3)
+      .map((b) => `${b.company} ${b.url}`)
+      .join(' | ')}`
+  );
+}
+
 
 const config = JSON.parse(fs.readFileSync(path.join(root, 'config/search-profile.json'), 'utf8'));
 if (config.graduationYear !== '2027' || !config.roleKeywords?.length || !config.keywords?.length) {
