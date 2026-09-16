@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { sourceFromUniversityJob } from './university-official-bridge.mjs';
+import { isExcludedCompany, repairExcludedOfficialSources, sourceFromUniversityJob } from './university-official-bridge.mjs';
 import { keepProductionJobs, isTrustedUniversityOfficialBacked } from '../filter-official-live-jobs.mjs';
 
 test('BYD university discovery is retained and queued for custom adapter', () => {
@@ -47,4 +47,28 @@ test('known ATS discovered by university can auto-register', () => {
   assert.equal(bridge.state, 'source_registered');
   assert.equal(bridge.provider, 'moka');
   assert.equal(bridge.source.graduationYear, '2027');
+});
+
+test('numbered section headings cannot register official sources', () => {
+  const pseudo = {
+    company: '1.研发类单位',
+    graduationYear: '2027',
+    sourceChannel: 'university',
+    officialCareerUrl: 'https://app.mokahr.com/m/campus-recruitment/dfmc/164438#/home',
+    universitySource: { school: '南开大学' }
+  };
+  assert.equal(isExcludedCompany(pseudo.company), true);
+  assert.equal(sourceFromUniversityJob(pseudo), null);
+});
+
+test('known polluted Dongfeng source is repaired to the actual company', () => {
+  const config = {
+    moka: [{
+      company: '1.研发类单位',
+      url: 'https://app.mokahr.com/m/campus-recruitment/dfmc/164438#/home',
+      graduationYear: '2027'
+    }]
+  };
+  assert.equal(repairExcludedOfficialSources(config), 1);
+  assert.equal(config.moka[0].company, '东风汽车集团有限公司');
 });
