@@ -11,10 +11,11 @@ test('default profile is grounded in resume evidence', () => {
   }
 });
 
-test('engineer is not a blanket exclusion after duty-based reasoning upgrade', () => {
-  assert.equal(defaultProfile.exclusions.includes('工程师'), false);
-  assert.ok(defaultProfile.exclusions.includes('实施'));
-  assert.ok(defaultProfile.exclusions.includes('实习'));
+test('discovery profile never hard-excludes candidate roles', () => {
+  assert.deepEqual(defaultProfile.exclusions, [], 'AI_Job discovery layer must not pre-hide roles before CareerPilot Eligibility/JD analysis');
+  for (const formerlyFiltered of ['工程师', '实施', '实习', '销售', '驻外']) {
+    assert.equal(defaultProfile.exclusions.includes(formerlyFiltered), false, `${formerlyFiltered} must be evaluated downstream, not hidden by discovery profile`);
+  }
 });
 
 test('real experience evidence is structured and traceable', () => {

@@ -1,4 +1,4 @@
-const MOVED_MESSAGE = 'AI_Job no longer builds candidate-fit shortlists. Final ranking and application priority belong to campus-job-board.';
+const MOVED_MESSAGE = 'AI_Job no longer builds candidate-fit shortlists. Final Eligibility, Match, Capability, Career Fit, competition intensity, Offer reachability, Company Top-3 and application priority belong to CareerPilot. campus-job-board only publishes the risk-intelligence contract.';
 
 /** Compatibility fence for stale callers. */
 export function buildDailyShortlist() {
