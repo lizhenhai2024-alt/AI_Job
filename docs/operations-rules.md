@@ -178,3 +178,32 @@
   2. `parseBeisenRow` 的 `deadline: normalizeDate(row.EndTime)`，`headCount: Number(row.HeadCount) > 0 ? Number(row.HeadCount) : ''`；`normalizeDate` 必须过滤哨兵值（`0001-01-01`、`2222-02-02` 及 `year<2000 || year>2100`）→ 返回空串表示未设截止。
   3. 实测确认：有效 `EndTime` 形如 `2027-06-30T00:00:00`（截止日期）；哨兵值 `endInt=0` 且 EndTime 为 `0001-01-01` 或 `2222-02-02`。
 - **检查点**：刷新后统计 `liveJobs.filter(j => j.deadline).length` 应 >0（beisen 覆盖约 600+ 条）；`j.headCount` 数字字段应被 `src/core/headcount.js` 的 structuredHeadcount 消费。
+## R-OPS-011：聚合平台接入——SSR 占位内容识别，岗位公司以详情页为准
+
+- **场景**：接入猎聘校园（campus.liepin.com）时，15 个项目页均返回相同 25 个 lptjob 链接——这些是全网热门校招岗位占位（common-hot-links-content），**不是当前项目的专属岗位**；信立泰 9 条"项目岗位"实际也来自公共热门位（岗位真实、公司正确，但与项目无关）。若用项目页公司名做岗位归属，会把无关岗位错挂到富冶/浙商等公司。
+- **根因**：猎聘项目详情页 SSR 只有 meta 描述（项目名）+ 公共热门链接区，无项目专属岗位列表；岗位列表为前端 JS 动态加载，SSR 层无法区分"专属岗位"与"热门推荐位"。
+- **规则**：
+  1. 聚合平台接入时，先对 2-3 个目标页面做**页面语义层探测**（同页多个链接块是否共享/占位），识别"专属内容"与"公共推荐位"，**不得把占位内容当作目标内容抓取**。
+  2. 岗位的 company/城市/薪资等字段**一律以岗位详情页自身为准**（如猎聘 title 页"【城市 岗位】-公司名"），项目页公司名仅作发现线索，不得用于岗位归属。
+  3. 占位热门岗位若确为有效校招岗位（真实详情页），可入库，但**不得声称与某项目/公司关联**；报告与描述中标注来源为平台热门位。
+- **检查点**：入库岗位公司名与岗位详情页 title 一致；同一项目页不产生重复岗位；README/报告不出现"X 公司项目岗位"字样（除非验证过专属列表）。
+
+## R-OPS-012：校验规则必须随数据渠道形态演进（渠道差异化）
+
+- **场景**：接入猎聘后 npm run check 失败——live job provenance/cohort validation failed：check.mjs 要求**所有** live 岗位 graduationYear === '2027'，而猎聘岗位页面用"应届 本科"而非"2027届"字样，graduationYear 为空。
+- **根因**：校验规则写死于"全库都是官网直采且标届次"的旧形态；新增 secondary 聚合渠道后数据形态变化，规则未同步。
+- **规则**：
+  1. 渠道差异化：**primary（官网直采）必须 2027 届**；**secondary（聚合渠道）允许 graduationYear 为空**（页面"应届"不标届次），但所有岗位都必须有 sourceUrl + verification。
+  2. 新增数据渠道后，**先跑 npm run check 观察校验是否与新形态冲突**，冲突时修改校验规则而非放宽数据质量（sourceUrl/verification 仍强制）。
+  3. 二次渠道岗位的届次字段为空时，靠岗位标题/描述中的"2027届/27届"关键词自动标注，不做无依据兜底。
+- **检查点**：npm run check 全绿；primary 岗位 graduationYear 仍 100% 为 '2027'。
+
+## R-OPS-013：平台级抓取必须带重试；刷新失败后验证"入库"而非退出码
+
+- **场景**：首次完整刷新中 liepin 报 fetch failed（单独跑同一 URL 正常）——完整刷新 22 个 provider 并发时偶发网络失败；脚本 exit=0 但猎聘 0 条入库。
+- **根因**：并发抓取下单次 fetch 偶发连接失败；fetchText 无重试；刷新脚本对 provider 级失败仅记录不重试。
+- **规则**：
+  1. 所有平台级抓取函数（fetchText 等）**必须带重试**（至少 1 次 + 指数退避 800ms 起），防止并发/限流偶发失败。
+  2. 刷新完成后**必须回读 live-jobs.js 验证目标渠道岗位数**（filter 按 source 统计 > 0），不能只看 provider 日志的 kept 数或脚本退出码。
+  3. 失败渠道（unhealthySources）在下次刷新前要确认是否为偶发；若连续两次失败则排查反爬/接口变更。
+- **检查点**：刷新后按 source 统计入库数；unhealthy 渠道数不超过 3 且目标渠道不在其中。
