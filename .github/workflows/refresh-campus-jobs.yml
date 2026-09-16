@@ -57,7 +57,9 @@ jobs:
           # OpenCode Zen free 在 headless API 实测返回 MissingSessionID，当前不进入生产顺序。
           OPENCODE_ZEN_API_KEY: ${{ secrets.OPENCODE_ZEN_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # 推荐 Secret 名 JD_EVIDENCE_API_KEY；同时兼容 DEEPSEEK_API_KEY。
           JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25,deepseek
           # 单轮最多处理 1500 个待增强岗位。三个 Gemini 免费模型都失败时，
           # DeepSeek 最多兜底 200 条，避免免费层故障时把整批流量切到付费 API。
@@ -72,7 +74,7 @@ jobs:
           # 只传“是否配置”的布尔值，不把 Secret 交给统计步骤。
           OPENCODE_ZEN_KEY_CONFIGURED: ${{ secrets.OPENCODE_ZEN_API_KEY != '' }}
           GEMINI_KEY_CONFIGURED: ${{ secrets.GEMINI_API_KEY != '' }}
-          DEEPSEEK_KEY_CONFIGURED: ${{ secrets.JD_EVIDENCE_API_KEY != '' }}
+          DEEPSEEK_KEY_CONFIGURED: ${{ secrets.JD_EVIDENCE_API_KEY != '' || secrets.DEEPSEEK_API_KEY != '' }}
       - name: Verify job intelligence enrichment
         run: node scripts/check-compensation.mjs
       - name: Rebuild source registry
