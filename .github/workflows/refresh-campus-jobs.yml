@@ -2,9 +2,9 @@ name: Refresh campus jobs
 
 on:
   schedule:
-    - cron: '0 22 * * *'      # 06:00 Asia/Shanghai
-    - cron: '0 9 * * *'       # 17:00 Asia/Shanghai
-    - cron: '30 14 * * *'     # 22:30 Asia/Shanghai，补抓晚间高校新增
+    - cron: '0 22 * * *'
+    - cron: '0 9 * * *'
+    - cron: '30 14 * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -13,6 +13,7 @@ on:
       - 'scripts/job-discovery/**'
       - 'scripts/refresh-jobs.mjs'
       - 'scripts/refresh-jobs-scoped.mjs'
+      - 'scripts/build-query-layer.mjs'
       - 'scripts/filter-official-live-jobs.mjs'
       - 'scripts/enrich-job-compensation.mjs'
       - 'scripts/check-compensation.mjs'
@@ -50,23 +51,17 @@ jobs:
         run: |
           npm install --no-audit --no-fund
           npx playwright install --with-deps chromium
-      - name: Refresh jobs
+      - name: Refresh jobs and query layer
         run: npm run refresh:jobs
         env:
-          # JD Evidence：Gemini Free Tier 多模型优先，DeepSeek Flash（非推理）只做付费兜底。
-          # OpenCode Zen free 在 headless API 实测返回 MissingSessionID，当前不进入生产顺序。
           OPENCODE_ZEN_API_KEY: ${{ secrets.OPENCODE_ZEN_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          # 推荐 Secret 名 JD_EVIDENCE_API_KEY；同时兼容 DEEPSEEK_API_KEY。
           JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25,deepseek
-          # 单轮最多处理 1500 个完整 JD。三个 Gemini 免费模型都失败时，
-          # DeepSeek 最多兜底 200 条，避免免费层故障时把整批流量切到付费 API。
           JD_EVIDENCE_MAX_CALLS: 1500
           JD_EVIDENCE_PAID_MAX_CALLS: 200
           JD_EVIDENCE_CONCURRENCY: 4
-          # 仅分析“岗位说明 + 任职要求”都完整的 JD；完整 JD 全部做 AI 事实分析。
           JD_EVIDENCE_COMPLETE_ONLY: 1
           JD_EVIDENCE_MIN_SECTION_CHARS: 40
           JD_EVIDENCE_MIN_TOTAL_CHARS: 120
@@ -74,7 +69,6 @@ jobs:
       - name: Report JD evidence coverage
         run: node scripts/report-jd-evidence-coverage.mjs
         env:
-          # 只传“是否配置”的布尔值，不把 Secret 交给统计步骤。
           OPENCODE_ZEN_KEY_CONFIGURED: ${{ secrets.OPENCODE_ZEN_API_KEY != '' }}
           GEMINI_KEY_CONFIGURED: ${{ secrets.GEMINI_API_KEY != '' }}
           DEEPSEEK_KEY_CONFIGURED: ${{ secrets.JD_EVIDENCE_API_KEY != '' || secrets.DEEPSEEK_API_KEY != '' }}
@@ -88,7 +82,12 @@ jobs:
         run: npm run build:source-discovery
       - name: Validate
         run: npm run check
-      - name: Commit refreshed job pool and source health
+      - name: Verify query layer manifest
+        shell: bash
+        run: |
+          test -s jobs/index/companies.json
+          node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('jobs/index/companies.json')); if(!x.totalJobs || !x.totalCompanies || x.companies.length!==x.totalCompanies) process.exit(1); console.log('query-layer', x.totalJobs, x.totalCompanies)"
+      - name: Commit refreshed job pool, source health and query layer
         shell: bash
         run: |
           TRACKED_PATHS=(
@@ -102,6 +101,8 @@ jobs:
             config/source-discovery.json
             config/company-requests.json
             package-lock.json
+            jobs/index/companies.json
+            jobs/by-company
           )
           ACTIVE_PATHS=()
           for path in "${TRACKED_PATHS[@]}"; do
@@ -111,14 +112,14 @@ jobs:
           done
 
           if git diff --quiet -- "${ACTIVE_PATHS[@]}"; then
-            echo "No job/source-health/source-bridge data changes."
+            echo "No job/source-health/query-layer data changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- "${ACTIVE_PATHS[@]}"
-          git commit -m "data: refresh 2027 campus jobs and university source bridge"
+          git commit -m "data: refresh 2027 campus jobs and query layer"
 
           git fetch origin main
           if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
@@ -126,7 +127,7 @@ jobs:
             echo "main advanced while refresh was running:"
             echo "$changed_paths"
 
-            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|scripts/enrich-jd-evidence\.mjs|scripts/report-jd-evidence-coverage\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js|src/data/jd-evidence-cache\.json)$'; then
+            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/build-query-layer\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|scripts/enrich-jd-evidence\.mjs|scripts/report-jd-evidence-coverage\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js|src/data/jd-evidence-cache\.json|jobs/)'; then
               echo "Refresh inputs or generated data changed on newer main; skip stale data push."
               echo "A newer refresh run should own the next snapshot."
               exit 0
