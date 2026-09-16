@@ -1,0 +1,24 @@
+name: Smoke test JD evidence providers
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Smoke test configured providers
+        run: node scripts/smoke-jd-evidence-providers.mjs
+        env:
+          OPENCODE_ZEN_API_KEY: ${{ secrets.OPENCODE_ZEN_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
+          JD_EVIDENCE_PROVIDER_ORDER: zen-free,gemini-free,deepseek
