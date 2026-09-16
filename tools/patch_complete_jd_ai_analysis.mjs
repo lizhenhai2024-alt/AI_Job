@@ -21,11 +21,6 @@ patch('scripts/enrich-jd-evidence.mjs', [
    "console.log(`[jd-evidence] jobs=${jobs.length} 完整JD=${complete} JD不完整跳过=${incomplete} 太薄跳过=${thin} 正则已覆盖=${ONLY_WEAK ? strong : 0}(跳过) 缓存命中=${cached}(回灌=${restored}) 待AI分析=${pending.length}`);\n"]
 ]);
 
-patch('.github/workflows/refresh-campus-jobs.yml', [
-  ["          JD_EVIDENCE_MAX_CALLS: 1500\n          JD_EVIDENCE_PAID_MAX_CALLS: 200\n          JD_EVIDENCE_CONCURRENCY: 4\n          # 默认只补“本仓库正则抽不到专业原文”的岗位。\n          JD_EVIDENCE_ONLY_WEAK: 1\n",
-   "          JD_EVIDENCE_MAX_CALLS: 1500\n          JD_EVIDENCE_PAID_MAX_CALLS: 200\n          JD_EVIDENCE_CONCURRENCY: 4\n          # 只把职责说明 + 任职要求都完整的 JD 送给 AI；完整 JD 不再只补弱证据，全部做事实分析。\n          JD_EVIDENCE_COMPLETE_ONLY: 1\n          JD_EVIDENCE_MIN_SECTION_CHARS: 40\n          JD_EVIDENCE_MIN_TOTAL_CHARS: 120\n          JD_EVIDENCE_ONLY_WEAK: 0\n"]
-]);
-
 patch('scripts/report-jd-evidence-coverage.mjs', [
   ["let llm = 0;\nlet regexOnly = 0;\nlet noEvidence = 0;\n",
    "let llm = 0;\nlet regexOnly = 0;\nlet noEvidence = 0;\nlet completeJd = 0;\nlet completeJdLlm = 0;\nconst normLen = (v) => String(v || '').replace(/\\s+/g, '').length;\nconst isCompleteJd = (job) => {\n  const d = normLen(job.jobDescription), r = normLen(job.jobRequirements);\n  return d >= 40 && r >= 40 && d + r >= 120;\n};\n"],
