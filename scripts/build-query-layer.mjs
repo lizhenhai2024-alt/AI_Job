@@ -89,11 +89,14 @@ export function toQueryJob(job) {
 
 export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString(), outputRoot = outRoot } = {}) {
   const byCompany = new Map();
+  const queryJobs = [];
   for (const job of jobs || []) {
     if (!job?.company || !job?.title || isCategoryHeadingCompany(job.company)) continue;
     const key = String(job.company).trim();
+    const queryJob = toQueryJob(job);
+    queryJobs.push(queryJob);
     if (!byCompany.has(key)) byCompany.set(key, []);
-    byCompany.get(key).push(toQueryJob(job));
+    byCompany.get(key).push(queryJob);
   }
 
   const outCompanyDir = path.join(outputRoot, 'by-company');
@@ -121,11 +124,18 @@ export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString
   const manifest = {
     schemaVersion: 1,
     updatedAt,
-    totalJobs: companies.reduce((sum, item) => sum + item.count, 0),
+    totalJobs: queryJobs.length,
     totalCompanies: companies.length,
     companies
   };
+  const aggregate = {
+    schemaVersion: 1,
+    updatedAt,
+    totalJobs: queryJobs.length,
+    jobs: queryJobs
+  };
   await fs.writeFile(path.join(outIndexDir, 'companies.json'), `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
+  await fs.writeFile(path.join(outIndexDir, 'jobs.json'), `${JSON.stringify(aggregate)}\n`, 'utf8');
   return manifest;
 }
 
