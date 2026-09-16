@@ -22,9 +22,49 @@ export function isCategoryHeadingCompany(value = '') {
 }
 
 function textOf(job) {
-  return [job.title, job.description, job.requirements, job.major, job.education, job.degree,
-    ...(Array.isArray(job.skills) ? job.skills : []), ...(Array.isArray(job.languages) ? job.languages : [])]
-    .filter(Boolean).join('\n');
+  return [
+    job.title,
+    job.jobDescription,
+    job.jobRequirements,
+    job.description,
+    job.requirements,
+    job.jd,
+    job.major,
+    job.education,
+    job.degree,
+    ...(Array.isArray(job.skills) ? job.skills : []),
+    ...(Array.isArray(job.languages) ? job.languages : [])
+  ].filter(Boolean).join('\n');
+}
+
+function compact(value = '') {
+  return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+function uniqueTextParts(parts = []) {
+  const out = [];
+  const normalized = [];
+  for (const raw of parts) {
+    const text = String(raw || '').trim();
+    if (!text) continue;
+    const norm = compact(text);
+    if (!norm) continue;
+    if (normalized.some((x) => x === norm || x.includes(norm) || norm.includes(x))) continue;
+    normalized.push(norm);
+    out.push(text);
+  }
+  return out;
+}
+
+function fullJdOf(job) {
+  const description = String(job.jobDescription || job.description || job.jd || '').trim();
+  const requirements = String(job.jobRequirements || job.requirements || '').trim();
+  const parts = uniqueTextParts([description, requirements]);
+  return {
+    jobDescription: description,
+    jobRequirements: requirements,
+    JD: parts.join('\n')
+  };
 }
 
 function normalizeGraduationYear(job, text) {
@@ -43,14 +83,17 @@ function normalizeEducation(job, text) {
   if (/(?:大专|专科)(?:及以上|以上)/.test(t)) min = '大专';
   else if (/(?:本科|学士)(?:及以上|以上)|本科生|本科学历/.test(t)) min = '本科';
   else if (/(?:硕士|研究生)(?:及以上|以上)|硕士生|研究生学历/.test(t)) min = '硕士';
-  else if (/(?:博士)(?:及以上|以上)|博士生/.test(t)) min = '博士';
+  else if (/(?:博士)(?:及以上|以上)|博士生|博士学历/.test(t)) min = '博士';
   return { raw, min, masterRequired };
 }
 
 function normalizeMajor(job) {
-  const raw = String(job.major ?? job.majors ?? job.majorRequirement ?? '').trim();
+  const evidence = job?.jdEvidence && Array.isArray(job.jdEvidence.majorClauses)
+    ? job.jdEvidence.majorClauses.filter(Boolean).join('；')
+    : '';
+  const raw = String(job.major ?? job.majors ?? job.majorRequirement ?? evidence ?? '').trim();
   const open = /专业不限|不限专业|不限学科|专业不作限制/.test(raw);
-  const preferred = /(?:专业|专业背景|学科|方向).{0,12}(?:优先|优先考虑)|(?:优先|优先考虑)\s*$/.test(raw);
+  const preferred = /(?:专业|专业背景|学科|方向).{0,18}(?:优先|优先考虑)|(?:优先|优先考虑)\s*$/.test(raw);
   return { raw, hardRestriction: Boolean(raw && !open && !preferred) };
 }
 
@@ -87,8 +130,17 @@ function normalizeLanguage(job, text) {
   return { raw, english, minorLanguageRequired };
 }
 
+function safeObject(value) {
+  return value && typeof value === 'object' && !Array.isArray(value) ? value : {};
+}
+
+function safeArray(value) {
+  return Array.isArray(value) ? value : [];
+}
+
 export function toQueryJob(job) {
   const text = textOf(job);
+  const jd = fullJdOf(job);
   const sourceUrl = job.officialURL || job.officialUrl || job.applyUrl || job.sourceUrl || job.url || '';
   return {
     id: job.id || '',
@@ -99,10 +151,31 @@ export function toQueryJob(job) {
     major: normalizeMajor(job),
     language: normalizeLanguage(job, text),
     location: job.location || job.city || job.locations || '',
-    JD: job.description || job.jd || job.requirements || '',
+
+    // Query Layer必须保留完整JD两段，不能再用 description || requirements 丢掉半份JD。
+    jobDescription: jd.jobDescription,
+    jobRequirements: jd.jobRequirements,
+    JD: jd.JD,
+
+    // 只透传AI_Job的事实证据；不包含任何候选人匹配结论。
+    jdEvidence: safeObject(job.jdEvidence),
+    roleFamily: safeArray(job.roleFamily),
+    skills: safeArray(job.skills),
+    experienceKeywords: safeArray(job.experienceKeywords),
+    preferenceTags: safeArray(job.preferenceTags),
+    riskTags: safeArray(job.riskTags),
+
+    // 结构化事实一并保留，供下游做真实Offer可达性/信息可信度判断。
+    headcount: safeObject(job.headcount),
+    compensation: safeObject(job.compensation),
+    salary: job.salary || '',
+    monthlySalary: job.monthlySalary || '',
+    annualSalary: job.annualSalary || '',
+
     source: job.source || job.sourceType || '',
     officialURL: sourceUrl,
-    lastVerified: job.lastVerified || job.verifiedAt || job.publishedAt || '',
+    publishedAt: job.publishedAt || job.publishDate || '',
+    lastVerified: job.lastVerified || job.verifiedAt || '',
     sourceType: job.sourceType || '',
     deadline: job.deadline || ''
   };
