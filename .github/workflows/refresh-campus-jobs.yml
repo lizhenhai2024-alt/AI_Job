@@ -86,15 +86,35 @@ jobs:
       - name: Commit refreshed job pool and source health
         shell: bash
         run: |
-          TRACKED_PATHS="src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js src/data/company-requests.js src/data/source-discovery.js src/data/jd-evidence-cache.json config/official-sources.json config/source-discovery.json config/company-requests.json package-lock.json"
-          if git diff --quiet -- $TRACKED_PATHS; then
+          # jd-evidence-cache.json 是可选产物：未配置 LLM secret 时它可能根本不存在。
+          # 只把“当前存在”或“曾被 git 跟踪”的路径交给 git，避免 pathspec 直接终止整次刷新。
+          TRACKED_PATHS=(
+            src/data/live-jobs.js
+            src/data/source-health.js
+            src/data/source-registry.js
+            src/data/company-requests.js
+            src/data/source-discovery.js
+            src/data/jd-evidence-cache.json
+            config/official-sources.json
+            config/source-discovery.json
+            config/company-requests.json
+            package-lock.json
+          )
+          ACTIVE_PATHS=()
+          for path in "${TRACKED_PATHS[@]}"; do
+            if [ -e "$path" ] || git ls-files --error-unmatch "$path" >/dev/null 2>&1; then
+              ACTIVE_PATHS+=("$path")
+            fi
+          done
+
+          if git diff --quiet -- "${ACTIVE_PATHS[@]}"; then
             echo "No job/source-health/source-bridge data changes."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add $TRACKED_PATHS
+          git add -- "${ACTIVE_PATHS[@]}"
           git commit -m "data: refresh 2027 campus jobs and university source bridge"
 
           git fetch origin main
