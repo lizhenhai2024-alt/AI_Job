@@ -118,7 +118,17 @@ export function intelligenceCompleteness(job = {}) {
 }
 
 export function languageRequirementSignal(job = {}) {
-  const text = [job.title, job.description, job._searchText, ...(job.languages || []), ...(job.candidateFit?.hardRequirements || [])].filter(Boolean).join(' ');
+  // 只吃事实字段。原先附加的 candidateFit.hardRequirements 是上游判定标签
+  // （如「小语种为硬要求」），按契约 §4 不再由 AI_Job 产出；语言线索本身
+  // 就在 _searchText / jdEvidence 的原文里，无需再靠判定标签注入关键词。
+  const text = [
+    job.title,
+    job.description,
+    job._searchText,
+    ...(job.languages || []),
+    ...(job.jdEvidence?.majorClauses || []),
+    ...(job.jdEvidence?.eligibilityClauses || [])
+  ].filter(Boolean).join(' ');
   if (!MINOR_LANGUAGE_RX.test(text)) return { level: 'none', label: '未识别小语种硬要求线索' };
   return MANDATORY_RX.test(text)
     ? { level: 'warning', label: '识别到小语种硬要求线索，交由最终看板判定' }

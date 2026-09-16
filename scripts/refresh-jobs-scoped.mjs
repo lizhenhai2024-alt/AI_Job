@@ -66,6 +66,11 @@ try {
   if (exitCode === 0) {
     exitCode = await runScript('scripts/filter-official-live-jobs.mjs');
   }
+  // 4.5) JD 事实富化（可选）：没有 OPENCODE_ZEN_API_KEY 时该脚本自己跳过并返回 0。
+  //      放在 filter 之后（只为存活岗位调用）、compensation 之前（让后者保持最后写入者）。
+  if (exitCode === 0) {
+    exitCode = await runScript('scripts/enrich-jd-evidence.mjs');
+  }
   if (exitCode === 0) {
     exitCode = await runScript('scripts/enrich-job-compensation.mjs');
   }

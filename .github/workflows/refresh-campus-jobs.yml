@@ -23,6 +23,8 @@ on:
       - 'config/university-sources.json'
       - 'config/source-discovery.json'
       - 'config/company-requests.json'
+      - 'scripts/enrich-jd-evidence.mjs'
+      - 'src/data/jd-evidence-cache.json'
       - 'package.json'
 
 concurrency:
@@ -49,6 +51,19 @@ jobs:
           npx playwright install --with-deps chromium
       - name: Refresh jobs
         run: npm run refresh:jobs
+        env:
+          # 管线第 4.5 步（enrich-jd-evidence）用这个 key 调 LLM 抽取 JD 事实。
+          # 未配置 secret 时求值为空字符串，该步骤自行跳过并返回 0，刷新不受影响。
+          # 换成 DeepSeek 直连：OpenCode Zen 免费层要求其客户端的 session ID，
+          # 外部调用一律 400「can only be used in OpenCode」，实测不可用。
+          JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
+          # 单轮调用上限 + 并发。实测 deepseek-flash 约 15s/条、¥0.012/条，
+          # 300 条 / 并发 4 ≈ 19 分钟，压在 25 分钟超时之内。
+          # 回填完后每轮只处理新增/变更岗位（缓存按 JD 哈希跳过）。
+          JD_EVIDENCE_MAX_CALLS: 300
+          JD_EVIDENCE_CONCURRENCY: 4
+          # 换抽取模型只改这一行（见 scripts/job-discovery/llm-evidence.mjs 的 MODEL_PRESETS）
+          JD_EVIDENCE_PRESET: deepseek
       - name: Verify job intelligence enrichment
         run: node scripts/check-compensation.mjs
       - name: Rebuild source registry
@@ -62,7 +77,7 @@ jobs:
       - name: Commit refreshed job pool and source health
         shell: bash
         run: |
-          TRACKED_PATHS="src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js src/data/company-requests.js src/data/source-discovery.js config/official-sources.json config/source-discovery.json config/company-requests.json package-lock.json"
+          TRACKED_PATHS="src/data/live-jobs.js src/data/source-health.js src/data/source-registry.js src/data/company-requests.js src/data/source-discovery.js src/data/jd-evidence-cache.json config/official-sources.json config/source-discovery.json config/company-requests.json package-lock.json"
           if git diff --quiet -- $TRACKED_PATHS; then
             echo "No job/source-health/source-bridge data changes."
             exit 0
@@ -79,7 +94,7 @@ jobs:
             echo "main advanced while refresh was running:"
             echo "$changed_paths"
 
-            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js)$'; then
+            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|scripts/enrich-jd-evidence\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js|src/data/jd-evidence-cache\.json)$'; then
               echo "Refresh inputs or generated data changed on newer main; skip stale data push."
               echo "A newer refresh run should own the next snapshot."
               exit 0

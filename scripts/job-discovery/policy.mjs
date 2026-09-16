@@ -282,6 +282,110 @@ export function analyzeCandidateFit(job = {}) {
   };
 }
 
+/**
+ * 补齐 JD 正文来源。
+ *
+ * _searchText 只在适配器抓取时写入，快照保留捞回来的历史岗位没有它，
+ * 而 rawTextOf 只认 title / _searchText / description。缺了就退化成
+ * 只读适配器摘要（「XX官方校园招聘岗位；职类：…」），抽取质量骤降。
+ * 这里用落库的 jobDescription / jobRequirements 兜底重建。
+ */
+function withTextSource(job = {}) {
+  if (job._searchText) return job;
+  const rebuilt = [job.jobDescription, job.jobRequirements, job.description]
+    .filter(Boolean)
+    .join('\n');
+  return rebuilt ? { ...job, _searchText: rebuilt } : job;
+}
+
+/**
+ * 岗位事实抽取（不含任何适配判定）。
+ *
+ * 契约 docs/job-intelligence-contract-v1.md §4：事实只在上游定义一次，评价可在下游
+ * 按使用场景计算。这里只回答「JD 里写了什么」，不回答「对某个人是否合适」：
+ *   - majorClauses / eligibilityClauses：JD 原文片段
+ *   - technicalDuties / businessDuties：职责类别标注（与 roleFamily / skills 同类的事实标注）
+ *
+ * 被排除在外的属于判定，归下游 campus-job-board：
+ *   verdict / label / penalty / bonus / warnings / strengths / hardRequirements / decisionSteps
+ *
+ * source 标明抽取器版本。若将来把抽取换成 LLM，只要字段形状不变，下游契约无需改动。
+ */
+/**
+ * 职责标签的闭集，供下游（含 LLM 抽取器）复用，避免出现第二份词表。
+ * 与上面的 TECH_DUTY_RULES / BUSINESS_DUTY_RULES 同源。
+ */
+export const TECH_DUTY_LABELS = TECH_DUTY_RULES.map(([label]) => label);
+export const BUSINESS_DUTY_LABELS = BUSINESS_DUTY_RULES.map(([label]) => label);
+
+export function extractJdEvidence(job = {}) {
+  const readable = withTextSource(job);
+  const major = analyzeMajorOrientation(readable);
+  const responsibility = analyzeResponsibilityOrientation(readable);
+  return {
+    source: 'regex-v1',
+    majorClauses: [...new Set(major.evidence || [])],
+    eligibilityClauses: [...new Set(detectEligibilityEvidence(readable))],
+    technicalDuties: [...(responsibility.technical || [])],
+    businessDuties: [...(responsibility.business || [])]
+  };
+}
+
+/**
+ * 老数据迁移：把 candidateFit 里的原文引用搬进 jdEvidence。
+ *
+ * 为什么需要：_searchText 是唯一存过 JD 全文的字段，而它写盘时被剥掉，
+ * 落库的 jobDescription / jobRequirements 对一部分记录是空的或残缺的
+ * （高校渠道尤其明显）。对这些记录，candidateFit 里的原文引用是**不可复现**的，
+ * 重算只会得到比它更差的结果，所以只能原样搬运并标明来源。
+ */
+function migrateLegacyEvidence(job = {}) {
+  const f = job.candidateFit;
+  if (!f) return null;
+  const migrated = {
+    source: 'legacy-candidateFit',
+    majorClauses: arrOf(f.major && f.major.evidence),
+    eligibilityClauses: arrOf(f.eligibilityEvidence),
+    businessDuties: arrOf(f.responsibility && f.responsibility.business),
+    technicalDuties: arrOf(f.responsibility && f.responsibility.technical)
+  };
+  const total = migrated.majorClauses.length + migrated.eligibilityClauses.length
+    + migrated.businessDuties.length + migrated.technicalDuties.length;
+  return total ? migrated : null;
+}
+
+function arrOf(v) {
+  return Array.isArray(v) ? v.filter(Boolean).map(String) : [];
+}
+
+function hasFactualContent(e) {
+  return Boolean(e) && (
+    arrOf(e.majorClauses).length + arrOf(e.eligibilityClauses).length
+    + arrOf(e.businessDuties).length + arrOf(e.technicalDuties).length
+  ) > 0;
+}
+
+/**
+ * 决定一条岗位记录该带什么 jdEvidence。优先级：
+ *   1. 有 _searchText —— 新鲜抓取，全文权威，重算
+ *   2. 已带 jdEvidence —— 历史保留岗位没有全文，重算只会更差，原样保留
+ *   3. 只有 candidateFit —— 老数据一次性迁移
+ *   4. 兜底 —— 用落库的 JD 字段尽力抽取
+ */
+export function resolveJdEvidence(job = {}) {
+  // LLM 产出的证据优先保留：重算会把它降级回正则。
+  // 内容变了也不要紧 —— 下一轮富化阶段会按 JD 哈希命中缓存缺失并重抽。
+  if (isLlmEvidence(job.jdEvidence)) return job.jdEvidence;
+  if (job._searchText) return extractJdEvidence(job);
+  if (hasFactualContent(job.jdEvidence)) return job.jdEvidence;
+  return migrateLegacyEvidence(job) || extractJdEvidence(job);
+}
+
+/** LLM 抽取器产出的证据（source 形如 'llm' 或 'llm:mimo-v2.5-free'）。 */
+export function isLlmEvidence(evidence) {
+  return Boolean(evidence) && String(evidence.source || '').startsWith('llm');
+}
+
 export function jobPolicyReasons(job = {}) {
   const reasons = [];
   if (isInternshipJob(job)) reasons.push('实习岗位');

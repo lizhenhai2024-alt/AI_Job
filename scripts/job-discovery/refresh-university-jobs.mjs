@@ -9,6 +9,7 @@ import { isLikelyOfficialCareerUrl } from './source-candidates.mjs';
 import { enrichProvenanceFields } from '../../src/core/source-provenance.js';
 import { curateDiscoveredJobs } from './granularity.mjs';
 import { evaluateSourceHealth } from './source-health.mjs';
+import { resolveJdEvidence } from './policy.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const profile = JSON.parse(await fs.readFile(path.join(root, 'config/search-profile.json'), 'utf8'));
@@ -21,9 +22,10 @@ async function loadModule(filePath) {
 }
 
 function cleanForStorage(job) {
-  const { _searchText, _category, _subject, _sourceJobId, _recruitType, closed, excludeFromLiveBoard, candidateFit, ...clean } = job;
+  const { _searchText, _category, _subject, _sourceJobId, _recruitType, closed, excludeFromLiveBoard, candidateFit, jdEvidence, ...clean } = job;
   if (Array.isArray(clean.riskTags)) clean.riskTags = clean.riskTags.filter((tag) => !String(tag).startsWith('适配风险：'));
-  return clean;
+  // 传原始 job：resolveJdEvidence 需要 _searchText 与 candidateFit 来决定重算/保留/迁移。
+  return { ...clean, jdEvidence: resolveJdEvidence(job) };
 }
 
 export function extractOfficialCareerUrl(text = '', sourceUrl = '') {
