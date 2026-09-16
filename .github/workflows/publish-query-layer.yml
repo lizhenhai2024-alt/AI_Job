@@ -1,0 +1,75 @@
+name: Publish query layer
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish-query-layer.yml'
+      - 'scripts/build-query-layer.mjs'
+      - 'src/data/live-jobs.js'
+      - 'package.json'
+
+concurrency:
+  group: publish-query-layer-main
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 20
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Test query layer
+        run: node --test tests/query-layer.test.mjs
+      - name: Build query layer from current live jobs
+        run: node scripts/build-query-layer.mjs
+      - name: Verify query layer manifest
+        shell: bash
+        run: |
+          test -s jobs/index/companies.json
+          node - <<'NODE'
+          const fs = require('fs');
+          const x = JSON.parse(fs.readFileSync('jobs/index/companies.json', 'utf8'));
+          if (!x.totalJobs || !x.totalCompanies || !Array.isArray(x.companies) || x.companies.length !== x.totalCompanies) {
+            throw new Error('invalid query layer manifest');
+          }
+          if (x.totalJobs < 100 || x.totalCompanies < 10) {
+            throw new Error(`query layer unexpectedly small: jobs=${x.totalJobs} companies=${x.totalCompanies}`);
+          }
+          console.log(`query-layer jobs=${x.totalJobs} companies=${x.totalCompanies}`);
+          NODE
+      - name: Commit query layer
+        shell: bash
+        run: |
+          if git diff --quiet -- jobs/index/companies.json jobs/by-company; then
+            echo "Query layer already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- jobs/index/companies.json jobs/by-company
+          git commit -m "data: publish lightweight company query layer"
+
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
+            changed_paths="$(git diff --name-only "$GITHUB_SHA"..origin/main)"
+            echo "main advanced while query layer was building:"
+            echo "$changed_paths"
+            if echo "$changed_paths" | grep -Eq '^(scripts/build-query-layer\.mjs|src/data/live-jobs\.js|package\.json|jobs/)'; then
+              echo "Query-layer inputs changed on newer main; skip stale push."
+              exit 0
+            fi
+            git rebase origin/main
+          fi
+
+          git push
