@@ -53,13 +53,14 @@ jobs:
       - name: Refresh jobs
         run: npm run refresh:jobs
         env:
-          # JD Evidence 多 Provider：免费优先，DeepSeek 只做付费兜底。
+          # JD Evidence：Gemini Free Tier 多模型优先，DeepSeek 只做付费兜底。
+          # OpenCode Zen free 在 headless API 实测返回 MissingSessionID，当前不进入生产顺序。
           OPENCODE_ZEN_API_KEY: ${{ secrets.OPENCODE_ZEN_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
-          JD_EVIDENCE_PROVIDER_ORDER: zen-free,gemini-free,deepseek
-          # 单轮最多处理 1500 个待增强岗位。免费 Provider 失败时，DeepSeek 最多兜底 200 条，
-          # 避免 Zen/Gemini 故障时把整批流量意外切到付费 API。
+          JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25,deepseek
+          # 单轮最多处理 1500 个待增强岗位。三个 Gemini 免费模型都失败时，
+          # DeepSeek 最多兜底 200 条，避免免费层故障时把整批流量切到付费 API。
           JD_EVIDENCE_MAX_CALLS: 1500
           JD_EVIDENCE_PAID_MAX_CALLS: 200
           JD_EVIDENCE_CONCURRENCY: 4
