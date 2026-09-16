@@ -46,6 +46,8 @@ test('normalizeSalary converts 元-based ranges to k', () => {
   assert.equal(normalizeSalary('7000-9000元'), '7-9k');
   assert.equal(normalizeSalary('15-20K'), '15-20k');
   assert.equal(normalizeSalary('8000-12000元'), '8-12k');
+  assert.equal(normalizeSalary('1-1.8万'), '10-18k');
+  assert.equal(normalizeSalary('2.5-3万'), '25-30k');
 });
 
 test('shouldKeepZhaopin keeps campus roles and drops non-campus / internships', () => {
