@@ -126,37 +126,49 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
     for (const source of sources) {
       let portalDiscovered = 0, portalKept = 0, portalErrors = 0, portalCohort = 0, portalTitle = 0;
       try {
-        await page.goto(mokaJobsUrl(source.url), { waitUntil: 'domcontentloaded', timeout: timeoutMs });
-        await page.waitForTimeout(2500);
-        for (let i = 0; i < 4; i++) {
-          await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-          await page.waitForTimeout(500);
+        // 分页遍历：Moka 列表默认每页约30条，遍历 page=1..N 直到空页（韶音187条=7页）
+        const pageCards = new Map();
+        for (let pg = 1; pg <= 12; pg++) {
+          const jobsUrl = mokaJobsUrl(source.url);
+          const sep = jobsUrl.includes('?') ? '&' : '?';
+          await page.goto(pg === 1 ? jobsUrl : `${jobsUrl}${sep}page=${pg}`, { waitUntil: 'domcontentloaded', timeout: timeoutMs });
+          await page.waitForTimeout(1800);
+          let prevCount = -1;
+          let stableRounds = 0;
+          for (let i = 0; i < 12; i++) {
+            await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+            await page.waitForTimeout(350);
+            const count = await page.evaluate(() => document.querySelectorAll('a[href*="#/job/"], a[href*="/job/"]').length);
+            if (count === prevCount) stableRounds++;
+            else stableRounds = 0;
+            prevCount = count;
+            if (stableRounds >= 2 && i >= 2) break;
+          }
+          const html = await page.content();
+          const turboData = await page.evaluate(() => {
+            try {
+              const d = window.TurboApply && window.TurboApply.data;
+              if (!d || !Array.isArray(d.jobs)) return null;
+              return { jobs: d.jobs };
+            } catch { return null; }
+          });
+          const initCards = cardsFromInitData(turboData || parseMokaInitData(html), source);
+          const domCards = await page.evaluate(() => {
+            const anchors = [...document.querySelectorAll('a[href*="#/job/"], a[href*="/job/"]')];
+            return anchors.map((a) => {
+              const box = a.closest('li, article, [class*="job"], [class*="position"], [class*="card"]') || a.parentElement || a;
+              return { href: a.href, text: (box.innerText || a.innerText || a.textContent || '').trim() };
+            }).filter((x) => x.href && x.text);
+          });
+          const pgCards = [...initCards, ...domCards];
+          let added = 0;
+          for (const card of pgCards) {
+            const key = String(card.href).split('#')[1] || card.href;
+            if (!pageCards.has(key)) { pageCards.set(key, card); added++; }
+          }
+          if (added === 0) break; // 空页或重复页停止
         }
-        scannedPortals++;
-
-        const html = await page.content();
-        const turboData = await page.evaluate(() => {
-          try {
-            const d = window.TurboApply && window.TurboApply.data;
-            if (!d || !Array.isArray(d.jobs)) return null;
-            return { jobs: d.jobs };
-          } catch { return null; }
-        });
-        const initCards = cardsFromInitData(turboData || parseMokaInitData(html), source);
-        ssrJobs += initCards.length;
-
-        const domCards = await page.evaluate(() => {
-          const anchors = [...document.querySelectorAll('a[href*="#/job/"], a[href*="/job/"]')];
-          return anchors.map((a) => {
-            const box = a.closest('li, article, [class*="job"], [class*="position"], [class*="card"]') || a.parentElement || a;
-            return { href: a.href, text: (box.innerText || a.innerText || a.textContent || '').trim() };
-          }).filter((x) => x.href && x.text);
-        });
-        domJobs += domCards.length;
-
-        const cardMap = new Map();
-        for (const card of [...initCards, ...domCards]) if (!cardMap.has(card.href)) cardMap.set(card.href, card);
-        const cards = [...cardMap.values()];
+        const cards = [...pageCards.values()];
         discoveredUrls += cards.length;
         portalDiscovered += cards.length;
 
@@ -183,6 +195,7 @@ export async function searchMokaJobs(profile, sources = [], { chromium, timeoutM
       perPortal[source.company] = { discoveredUrls: portalDiscovered, keptJobs: portalKept, errors: portalErrors, cohortRejected: portalCohort, titleRejected: portalTitle };
     }
   } finally { await browser.close(); }
-  const kept = dedupeJobs(jobs);
+  // Moka 岗位按唯一 URL(id) 去重：同标题多卡片（如品牌营销管培生多语种方向）是不同投递机会，不可按 title 合并
+  const kept = [...new Map(jobs.map((j) => [j.id || j.sourceUrl, j])).values()];
   return { jobs: kept, stats: { portals: sources.length, scannedPortals, discoveredUrls, keptJobs: kept.length, errors, ssrJobs, domJobs, cohortRejected, titleRejected, perPortal } };
 }
