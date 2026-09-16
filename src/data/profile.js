@@ -1,3 +1,7 @@
+// Candidate-profile metadata is retained only for UI/context compatibility.
+// AI_Job is the discovery/intelligence layer and must not use candidate-side
+// exclusions to suppress jobs. Final Eligibility and preference decisions live
+// in CareerPilot.
 export const defaultProfile = {
   graduationYear: '2027',
   targetRoles: [
@@ -23,7 +27,10 @@ export const defaultProfile = {
     '资料整理', '信息整理', '双语', '展会', '活动', '交付',
     '国际业务', '海外业务', '贸易运营', '商务', '供应链', '物流', '客户沟通', '运营'
   ],
-  exclusions: ['实习', 'Intern', '实施', '必须理工科', '纯销售', '长期驻外'],
+  // Compatibility key only. Keep empty so stale callers cannot hide business
+  // implementation/delivery roles, hard-STEM roles, sales roles or overseas roles
+  // before CareerPilot has evaluated the actual JD and hard gates.
+  exclusions: [],
   workPreference: ['国际业务', '出海', '跨文化'],
   experienceEvidence: [
     {
