@@ -385,7 +385,14 @@ const liveBoardCandidates = candidateJobs
   .map((job) => enrichProvenanceFields(job));
 
 const deduped = dedupeById(dedupePreferOfficial([...liveBoardCandidates, ...retainedSourceJobs]));
-const finalJobs = deduped
+// moka 保底：moka 源岗位是"同标题族多投递方向"结构，任何中间去重都不得压没唯一投递方向。
+// 若最终岗位中某 moka 岗位缺失（被 title 合并等），按 id 从抓取结果补回。
+const mokaGuardJobs = (sourceResults.find((r) => r.name === 'moka')?.jobs || []);
+const mokaGuardMap = new Map(mokaGuardJobs.map((j) => [j.id, j]));
+for (const job of deduped) if (mokaGuardMap.has(job.id)) mokaGuardMap.delete(job.id);
+console.log('[moka-guard] 抓取=' + mokaGuardJobs.length + ' 终审前=' + deduped.length + ' 保底补回=' + mokaGuardMap.size);
+const finalJobsPre = [...deduped, ...mokaGuardMap.values()];
+const finalJobs = finalJobsPre
   .filter((job) => !isClosed('', job.deadline))
   .sort(
     (a, b) =>

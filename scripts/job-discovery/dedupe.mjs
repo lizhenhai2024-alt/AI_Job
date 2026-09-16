@@ -60,6 +60,12 @@ export function jobDedupeKey(job = {}) {
 
 export function dedupePreferOfficial(jobs = []) {
   const map = new Map();
+  if (jobs.some((j) => /韶音/.test(String(j.company || '')))) {
+    const shokz = jobs.filter((j) => /韶音/.test(String(j.company || '')));
+    const pref = {};
+    for (const j of shokz) { const p = String(j.id || 'NULL').slice(0, 6); pref[p] = (pref[p] || 0) + 1; }
+    console.log('[dedupe-trace] 韶音输入=' + shokz.length + ' id前缀=' + JSON.stringify(pref));
+  }
   for (const job of jobs) {
     if (!job?.id) continue;
     // Moka 源岗位是"同标题族多投递方向"结构（如韶音品牌营销管培生=多语种多个唯一jobId），
