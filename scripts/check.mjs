@@ -81,22 +81,28 @@ const expectEqual = (label, actual, expected) => {
 };
 expectEqual('discoveryMeta.totalJobs', discoveryMeta.totalJobs, liveJobs.length);
 expectEqual('discoveryMeta.totalCompanies', discoveryMeta.totalCompanies, liveCompanies.size);
-expectEqual('discoveryMeta.stats.totalJobs', discoveryMeta.stats?.totalJobs, liveJobs.length);
-expectEqual('discoveryMeta.stats.companies', discoveryMeta.stats?.companies, liveCompanies.size);
-expectEqual('discoveryMeta.stats.compensation.totalJobs', discoveryMeta.stats?.compensation?.totalJobs, liveJobs.length);
-expectEqual('discoveryMeta.stats.languages.totalJobs', discoveryMeta.stats?.languages?.totalJobs, liveJobs.length);
-expectEqual('discoveryMeta.stats.headcount.totalJobs', discoveryMeta.stats?.headcount?.totalJobs, liveJobs.length);
-expectEqual('discoveryMeta.stats.publication.totalJobs', discoveryMeta.stats?.publication?.totalJobs, liveJobs.length);
-expectEqual(
-  'discoveryMeta.stats.sourcePolicy.official',
-  discoveryMeta.stats?.sourcePolicy?.official,
-  liveJobs.filter((job) => job.sourceType === 'official').length
-);
-expectEqual(
-  'discoveryMeta.stats.sourcePolicy.universityOfficialBacked',
-  discoveryMeta.stats?.sourcePolicy?.universityOfficialBacked,
-  liveJobs.filter(isTrustedUniversityOfficialBacked).length
-);
+// stats 由管线的「最后写入者」（enrich-job-compensation）重算后写入。已提交的数据可能
+// 产生于那个写入者之前，此时根本没有 stats —— 没有可校验的对象，不等于不一致。
+// 一旦出现，其中每个 totalJobs 都必须等于数组长度（这正是本段要抓的：曾经有数据
+// 声称 1811/1801，而数组只有 1443/1433，没有任何地方校验过）。
+if (discoveryMeta.stats) {
+  expectEqual('discoveryMeta.stats.totalJobs', discoveryMeta.stats.totalJobs, liveJobs.length);
+  expectEqual('discoveryMeta.stats.companies', discoveryMeta.stats.companies, liveCompanies.size);
+  expectEqual('discoveryMeta.stats.compensation.totalJobs', discoveryMeta.stats.compensation?.totalJobs, liveJobs.length);
+  expectEqual('discoveryMeta.stats.languages.totalJobs', discoveryMeta.stats.languages?.totalJobs, liveJobs.length);
+  expectEqual('discoveryMeta.stats.headcount.totalJobs', discoveryMeta.stats.headcount?.totalJobs, liveJobs.length);
+  expectEqual('discoveryMeta.stats.publication.totalJobs', discoveryMeta.stats.publication?.totalJobs, liveJobs.length);
+  expectEqual(
+    'discoveryMeta.stats.sourcePolicy.official',
+    discoveryMeta.stats.sourcePolicy?.official,
+    liveJobs.filter((job) => job.sourceType === 'official').length
+  );
+  expectEqual(
+    'discoveryMeta.stats.sourcePolicy.universityOfficialBacked',
+    discoveryMeta.stats.sourcePolicy?.universityOfficialBacked,
+    liveJobs.filter(isTrustedUniversityOfficialBacked).length
+  );
+}
 const updatedAtMs = Date.parse(String(discoveryMeta.updatedAt || ''));
 if (!Number.isFinite(updatedAtMs)) {
   metaMismatches.push(`discoveryMeta.updatedAt: ${JSON.stringify(discoveryMeta.updatedAt)} (not a parseable timestamp)`);
