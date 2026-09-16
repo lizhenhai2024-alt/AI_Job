@@ -57,35 +57,53 @@ function decodeHtml(s = '') {
     .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ');
 }
 
-// 薪资归一化：7000-9000元 → 7-9k；15-20K → 15-20k
+// 薪资归一化：7000-9000元 → 7-9k；1-1.8万 → 10-18k；15-20K → 15-20k
 export function normalizeSalary(raw = '') {
   const s = String(raw).trim();
-  const m = s.match(/([\d.]+)\s*[-—~～至到]\s*([\d.]+)\s*(?:万|k|K|千)?(?:元)?/);
+  const m = s.match(/([\d.]+)\s*[-—~～至到]\s*([\d.]+)\s*(万|千|k|K)?(?:元)?/);
   if (m) {
-    const a = Number(m[1]);
-    const b = Number(m[2]);
+    let a = Number(m[1]);
+    let b = Number(m[2]);
+    const unit = m[3] || '';
+    if (unit.includes('万')) {
+      a *= 10000;
+      b *= 10000;
+    } else if (unit.includes('千')) {
+      a *= 1000;
+      b *= 1000;
+    }
     if (a >= 1000) return `${Math.round(a / 1000)}-${Math.round(b / 1000)}k`;
-    if (a >= 100) return `${Math.round(a / 100)}-${Math.round(b / 100)}k`; // 100-200元/天 不适用（实习），此处忽略
     return `${a}-${b}k`;
   }
-  const single = s.match(/([\d.]+)\s*(?:万|k|K|千|元)?/);
+  const single = s.match(/([\d.]+)\s*(万|千|k|K|元)?/);
   if (single) {
-    const v = Number(single[1]);
+    let v = Number(single[1]);
+    const unit = single[2] || '';
+    if (unit.includes('万')) v *= 10000;
+    else if (unit.includes('千')) v *= 1000;
     if (v >= 1000) return `${Math.round(v / 1000)}k`;
     if (v >= 10) return `${v}k`;
   }
   return s;
 }
 
-// 抓取全部岗位：关键词 × 前 N 页
-export async function discoverJobs({ fetcher = fetchText, maxPages = 3 } = {}) {
+// 抓取全部岗位：关键词 × 前 N 页；带整体时间预算（并发刷新时智联响应慢，超预算提前返回已发现部分）
+export async function discoverJobs({ fetcher = fetchText, maxPages = 3, timeBudgetMs = 8 * 60 * 1000 } = {}) {
   const out = [];
   const seen = new Set();
+  const deadline = Date.now() + timeBudgetMs;
+  let exhausted = false;
   for (const kw of KEYWORDS) {
+    if (exhausted) break;
     for (let p = 1; p <= maxPages; p++) {
+      if (Date.now() > deadline) {
+        exhausted = true;
+        console.warn('[zhaopin] time budget exceeded, returning partial results');
+        break;
+      }
       const url = `https://sou.zhaopin.com/?kw=${kw}&p=${p}`;
       try {
-        const html = await fetcher(url, { userAgent: UA });
+        const html = await fetcher(url, { userAgent: UA, timeoutMs: 12000, retries: 1 });
         const jobs = parseListPage(html);
         if (jobs.length === 0) break; // 翻页到空
         for (const j of jobs) {
@@ -97,6 +115,8 @@ export async function discoverJobs({ fetcher = fetchText, maxPages = 3 } = {}) {
         console.warn(`[zhaopin] ${url} failed: ${error.message}`);
         break;
       }
+      // 请求间隔，降低并发限流概率
+      await new Promise((r) => setTimeout(r, 250));
     }
   }
   return out;
