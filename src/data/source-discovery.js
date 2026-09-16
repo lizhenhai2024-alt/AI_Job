@@ -85,8 +85,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://jobs-startimes.ourats.com/req/campus",
     "reason": "已发现公司官方招聘入口，但当前站点 jobs-startimes.ourats.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
-    "nextCheckAfter": "2026-09-17T00:53:33.781Z"
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
+    "nextCheckAfter": "2026-09-17T01:07:54.133Z"
   },
   {
     "name": "比亚迪股份有限公司",
@@ -602,7 +602,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://sailuntire.zhiye.com/campus/jobs",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
     "nextCheckAfter": ""
   },
   {
@@ -657,7 +657,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://shantui.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
     "nextCheckAfter": ""
   },
   {
@@ -855,8 +855,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
-    "nextCheckAfter": "2026-09-17T00:53:33.783Z"
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
+    "nextCheckAfter": "2026-09-17T01:07:54.136Z"
   },
   {
     "name": "招商银行股份有限公司长沙分行",
@@ -866,8 +866,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
-    "nextCheckAfter": "2026-09-17T00:53:33.783Z"
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
+    "nextCheckAfter": "2026-09-17T01:07:54.135Z"
   },
   {
     "name": "致欧家居",
@@ -910,7 +910,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://ccccltd.zhiye.com/custom/fxzzw?c2=26&fname=luqiaogc&hideMenu=1",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
     "nextCheckAfter": ""
   },
   {
@@ -1169,7 +1169,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-16T00:53:33.780Z",
+  "updatedAt": "2026-09-16T01:07:54.132Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
