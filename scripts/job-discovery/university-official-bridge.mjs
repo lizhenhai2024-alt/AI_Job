@@ -26,9 +26,43 @@ function sourceExists(config, company) {
   return Object.values(config || {}).some((value) => (Array.isArray(value) ? value : value ? [value] : []).some((item) => sameCompany(item?.company, company)));
 }
 
+export function isExcludedCompany(name) {
+  const n = String(name || '').normalize('NFKC').replace(/\s+/g, '').trim();
+  return /^\d+[.、．-]?(?:研发|制造|营销|职能|事业|服务|金融|技术|生产|销售|管理|水平事业)(?:类)?单位$/u.test(n);
+}
+
+function sourceUrlOf(source = {}) {
+  return String(source.url || source.baseUrl || source.schoolUrl || '').trim();
+}
+
+export function repairExcludedOfficialSources(config = {}) {
+  let changed = 0;
+  for (const [provider, value] of Object.entries(config)) {
+    if (!Array.isArray(value)) continue;
+    const next = [];
+    for (const item of value) {
+      if (!isExcludedCompany(item?.company)) {
+        next.push(item);
+        continue;
+      }
+      const url = sourceUrlOf(item);
+      if (/\/dfmc\/164438(?:\b|\/|#|\?)/i.test(url)) {
+        next.push({
+          ...item,
+          company: '东风汽车集团有限公司',
+          monitoringNote: `${item.monitoringNote || ''}；已根据东风汽车集团2027届官方校招入口纠正伪公司章节标题`.replace(/^；/, '')
+        });
+      }
+      changed += 1;
+    }
+    config[provider] = next;
+  }
+  return changed;
+}
+
 export function sourceFromUniversityJob(job = {}) {
   const url = String(job.officialCareerUrl || '').trim();
-  if (!url || job.sourceChannel !== 'university' || String(job.graduationYear || '') !== '2027') return null;
+  if (!url || job.sourceChannel !== 'university' || String(job.graduationYear || '') !== '2027' || isExcludedCompany(job.company)) return null;
   let parsed;
   try { parsed = new URL(url); } catch { return null; }
   const provider = sourceProviderFromUrl(url);
@@ -76,11 +110,6 @@ export function sourceFromUniversityJob(job = {}) {
   return { provider: '', source: null, state: 'needs_adapter', reason: `已发现公司官方招聘入口，但当前站点 ${parsed.hostname} 尚无自动抓取适配器` };
 }
 
-function isExcludedCompany(name) {
-  const n = String(name || '').trim();
-  return /^\d+\./.test(n);
-}
-
 function upsertRequest(requests, job, bridge, now) {
   const key = canonicalCompanyKey(job.company);
   const index = requests.findIndex((item) => canonicalCompanyKey(item?.name) === key);
@@ -107,14 +136,24 @@ async function main() {
   const jobs = Array.isArray(liveModule.liveJobs) ? liveModule.liveJobs : [];
   const sources = JSON.parse(await fs.readFile(sourcesPath, 'utf8'));
   const audit = JSON.parse(await fs.readFile(auditPath, 'utf8'));
-  const requests = JSON.parse(await fs.readFile(requestsPath, 'utf8'));
+  let requests = JSON.parse(await fs.readFile(requestsPath, 'utf8'));
   const now = new Date().toISOString();
+  const sourcesRepaired = repairExcludedOfficialSources(sources);
+  requests = requests.filter((item) => !isExcludedCompany(item?.name));
+  audit.companies ||= {};
+  for (const [key, entry] of Object.entries(audit.companies)) {
+    if (isExcludedCompany(entry?.name || key)) delete audit.companies[key];
+  }
+
   const candidates = jobs.filter((job) => job?.sourceChannel === 'university' && job?.graduationYear === '2027' && job?.officialCareerUrl);
   let sourcesAdded = 0;
   let queued = 0;
 
-  audit.companies ||= {};
   for (const job of candidates) {
+    if (isExcludedCompany(job.company)) {
+      console.log(`[university-official-bridge] skip excluded company before registration: ${job.company}`);
+      continue;
+    }
     const bridge = sourceFromUniversityJob(job);
     if (!bridge) continue;
     const key = canonicalCompanyKey(job.company);
@@ -128,10 +167,6 @@ async function main() {
     const effective = registered || sourceExists(sources, job.company)
       ? { ...bridge, state: 'source_registered', reason: registered ? bridge.reason : `${bridge.reason}；等价官方源已存在` }
       : bridge;
-    if (isExcludedCompany(job.company, requests, key)) {
-      console.log(`[university-official-bridge] skip excluded company: ${job.company}`);
-      continue;
-    }
     if (effective.state !== 'source_registered') queued++;
     upsertRequest(requests, job, effective, now);
     audit.companies[key] = {
@@ -150,11 +185,11 @@ async function main() {
 
   requests.sort((a, b) => String(b.updatedAt || '').localeCompare(String(a.updatedAt || '')));
   audit.updatedAt = now;
-  audit.lastUniversityBridge = { candidates: candidates.length, sourcesAdded, queued, updatedAt: now };
-  if (sourcesAdded) await fs.writeFile(sourcesPath, `${JSON.stringify(sources, null, 2)}\n`, 'utf8');
+  audit.lastUniversityBridge = { candidates: candidates.length, sourcesAdded, sourcesRepaired, queued, updatedAt: now };
+  if (sourcesAdded || sourcesRepaired) await fs.writeFile(sourcesPath, `${JSON.stringify(sources, null, 2)}\n`, 'utf8');
   await fs.writeFile(requestsPath, `${JSON.stringify(requests, null, 2)}\n`, 'utf8');
   await fs.writeFile(auditPath, `${JSON.stringify(audit, null, 2)}\n`, 'utf8');
-  console.log(`[university-official-bridge] candidates=${candidates.length} sourcesAdded=${sourcesAdded} queued=${queued}`);
+  console.log(`[university-official-bridge] candidates=${candidates.length} sourcesAdded=${sourcesAdded} sourcesRepaired=${sourcesRepaired} queued=${queued}`);
 }
 
 const invokedAsScript = process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
