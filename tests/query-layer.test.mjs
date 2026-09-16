@@ -33,6 +33,13 @@ test('hard master and required minor-language gates are machine-readable', () =>
   assert.equal(q.language.minorLanguageRequired, true);
 });
 
+test('related major is required unless the JD explicitly marks it preferred', () => {
+  const required = toQueryJob({ company: '示例', title: '岗位A', major: '国际贸易相关专业' });
+  const preferred = toQueryJob({ company: '示例', title: '岗位B', major: '国际贸易相关专业优先' });
+  assert.equal(required.major.hardRestriction, true);
+  assert.equal(preferred.major.hardRestriction, false);
+});
+
 test('buildQueryLayer writes company shards and manifest', async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'ai-job-query-'));
   const manifest = await buildQueryLayer([
