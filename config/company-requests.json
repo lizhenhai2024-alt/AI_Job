@@ -16411,6 +16411,28 @@
     "analysis": "湖大就业公众号"
   },
   {
+    "id": "intake-06e1dc44445d",
+    "name": "拼多多",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "项目管理",
+      "产品运营",
+      "供应链协同",
+      "国际化职能"
+    ],
+    "note": "CareerPilot新增公司；请由AI_Job抓取2027届合适岗位并刷新live-jobs。",
+    "requestedAt": "2026-09-16T02:23:40Z",
+    "updatedAt": "2026-09-16T02:23:54.373Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "未提供官方招聘链接；页面探针：未提供官方招聘链接",
+    "issueNumber": 105,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/105",
+    "sourceAlreadyExists": false
+  },
+  {
     "id": "auto-4a8f55731de0",
     "name": "北京四达时代国际投资有限公司",
     "careerUrl": "https://jobs-startimes.ourats.com/req/campus",
@@ -18373,25 +18395,6 @@
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届秋招8/17网申开启、10/31截止；"
-  },
-  {
-    "id": "intake-06e1dc44445d",
-    "name": "拼多多(Pinduoduo)",
-    "careerUrl": "",
-    "focus": [
-      "国际业务",
-      "海外营销",
-      "品牌市场",
-      "运营",
-      "HR"
-    ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届校招/云弧计划进行中；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
-    "requestedAt": "2026-09-15T08:00:00Z",
-    "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "官方种子已核验，待探针适配",
-    "provider": "",
-    "sourceRegistered": false,
-    "analysis": "2027届校招/云弧计划进行中；"
   },
   {
     "id": "intake-bc73cbb19713",
