@@ -11024,5 +11024,10550 @@ export const companyRequests = [
         "实施"
       ]
     }
+  },
+  {
+    "id": "intake-2eeaa7656fa5",
+    "name": "东莞道元自动化技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-1b62c038c0fc",
+    "name": "万华化学集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-61ee38d72bdf",
+    "name": "中国电建集团贵阳勘测设计研究院有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-e2d4bbd8a781",
+    "name": "珠海格力电器股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-89e83bdc4539",
+    "name": "深圳市德明利技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-1b132c532371",
+    "name": "上海普利特复合材料股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-cbafef348bd2",
+    "name": "深圳市中电电力技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-46021332910c",
+    "name": "襄阳达安汽车检测中心有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-66fb84e17310",
+    "name": "盈峰环境科技集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-c176a382dd71",
+    "name": "深圳市英威腾电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-b2f7d69cfe2b",
+    "name": "深圳拓邦股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘、湖大就业公众号"
+  },
+  {
+    "id": "intake-e83255e1d98c",
+    "name": "中建八局第二建设有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-d41eab841377",
+    "name": "湖南湘江关西涂料有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-21d35e0e25c8",
+    "name": "中国汽车工程研究院股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-fe2ff7865120",
+    "name": "杭州禾迈电力电子股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-e2d0fbecbae6",
+    "name": "深南电路股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-96fb910ccfea",
+    "name": "中国葛洲坝集团路桥工程有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-f5e14c9d612a",
+    "name": "佛山市海天调味食品股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-aa719cc923fd",
+    "name": "中铁高新工业股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-d98f4943425c",
+    "name": "中国建筑第八工程局有限公司上海分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-3465820c9134",
+    "name": "中伟新材料股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-1e0635e2a95f",
+    "name": "国电南京自动化股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业公众号"
+  },
+  {
+    "id": "intake-c07c2863fa39",
+    "name": "广州博冠信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-9d7f9de8c386",
+    "name": "深圳市鹏新旭技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘、湖大就业公众号"
+  },
+  {
+    "id": "intake-516a7e292d19",
+    "name": "中铁四局集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-73a20bfbce22",
+    "name": "江麓机电集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-a9ffb13ba5c9",
+    "name": "深圳威迈斯新能源（集团）股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-f4ae63a28928",
+    "name": "深圳方正微电子有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-8ee6755f2ed8",
+    "name": "浙江天宇药业股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-20b55956cefb",
+    "name": "茂佳科技（广东）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-60e637c6c231",
+    "name": "中核四0四有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1b5531e4e80c",
+    "name": "进芯科技（湖南）股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-015ca430cd9b",
+    "name": "中电科芯片技术（集团）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0ecbaa5eb7b0",
+    "name": "浙江吉利控股集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ea5c7464f13e",
+    "name": "中建港航局集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-936ddc93eb4b",
+    "name": "湖南未来教育科技集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ca6aaa103dd5",
+    "name": "中国航空工业集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-625694aecb79",
+    "name": "中车资阳机车有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-8c0a7591aa5b",
+    "name": "中国建筑第八工程局有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-62f9d49b2432",
+    "name": "海南电网有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-9ad9defc3720",
+    "name": "天津泰达建设集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-17df0394ae01",
+    "name": "中国邮政储蓄银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-7dfeb0d24090",
+    "name": "深圳市新凯来技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-ef06bce0dd1b",
+    "name": "广州增芯科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1cf018bc7493",
+    "name": "桂林市啄木鸟医疗器械有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-6f39fa1baa1a",
+    "name": "中国航发贵州黎阳航空动力有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-41af4ae60ca6",
+    "name": "深圳市盛弘电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-581ba5b58d3c",
+    "name": "中电科航空电子有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-cdc1b69a2ad9",
+    "name": "中冶南方（武汉）自动化有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7be69c38e13a",
+    "name": "深圳市共济科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-39899916a868",
+    "name": "中国电力工程顾问集团东北电力设计院有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-8f2c7624a7d5",
+    "name": "湖南建设投资集团有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b62780619493",
+    "name": "中国电器科学研究院股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-d962b6ae3c63",
+    "name": "深圳市新产业生物医学工程股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2f9e2c645ea9",
+    "name": "烟台九目化学股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-c28bf9d3d70d",
+    "name": "广州智光电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-d846931daac1",
+    "name": "超聚变数字技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-6922a62b29f5",
+    "name": "珠海豹趣科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-323f9798c1ab",
+    "name": "广东奥马冰箱有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-8cf2193a5044",
+    "name": "烽火通信科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-cdcf747cf2c9",
+    "name": "上能电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-470b5f157deb",
+    "name": "湖南三湘银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-2a1a1ba33e78",
+    "name": "广州天赐高新材料股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-c59ab5902fb5",
+    "name": "中国五环工程有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-3bc077507161",
+    "name": "陕西汉德车桥有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-0cb23bef32ca",
+    "name": "中能建建筑集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-cbb8fe98a9cc",
+    "name": "广东中远海运重工有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-beb0aaef5482",
+    "name": "厦门士兰集科微电子有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-83b0e812ffb6",
+    "name": "广东银禧科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-91e73dece27d",
+    "name": "中国核能电力股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-25eec8b2b975",
+    "name": "广州兴森快捷电路科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-abf1441cfce3",
+    "name": "深圳顺络电子股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-d3ca607aed03",
+    "name": "上海华力集成电路制造有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-0663374f6153",
+    "name": "湖南宏工智能科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-85738c89b6d9",
+    "name": "中电投广西核电有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-442ccb120b74",
+    "name": "国机金刚石（河南）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-6242789645cf",
+    "name": "益丰大药房连锁股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c8d07b9e114e",
+    "name": "中冶京诚工程技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ec1d56f6b07a",
+    "name": "苏州苏纳光电股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-973eb76fba12",
+    "name": "深圳市大族智能控制科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会、湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3f2b440f40b2",
+    "name": "晶易医药科技股份公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-681133c5fe82",
+    "name": "中车南京浦镇车辆有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-6b79364dcee1",
+    "name": "中铁广州工程局集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-4c3d3aa1fb03",
+    "name": "湖南省工业设备安装有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-f8846ada527a",
+    "name": "长沙指色网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-73400c4a5c49",
+    "name": "湖北久之洋红外系统股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-3a6ced1382fc",
+    "name": "航天江南集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-f2878f0b9197",
+    "name": "上海我们方田科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-a99280a734f9",
+    "name": "悍高集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网宣讲会"
+  },
+  {
+    "id": "intake-b6e928f60a49",
+    "name": "深圳市吉泰科驱动技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e05cb5978c53",
+    "name": "广州城建开发工程造价咨询有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0fffd16d37c0",
+    "name": "湖州盛世华骏新型材料股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ac0f9a133058",
+    "name": "广州市天河区晓晓星火教育培训中心有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-83f508f5d671",
+    "name": "新疆众和股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b65d896b5920",
+    "name": "深圳达实智能股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3bf82eb59553",
+    "name": "北京趣拿软件科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-994002e52576",
+    "name": "北京领世瑞丰教育科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-32450796b8aa",
+    "name": "湖南顺丰速运有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6ed6c60de7be",
+    "name": "河南空天新材料研究院有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d5c7218ff044",
+    "name": "东莞市啊呜科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0912c7972738",
+    "name": "北京学而思教育科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-688bc1bdb0ef",
+    "name": "北京龙智工程咨询有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-57179985a4bb",
+    "name": "湖南省百年未来教育科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d4c5bef6b6f1",
+    "name": "深圳市美好创亿医疗科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ee4107d47af8",
+    "name": "招银网络科技（杭州）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-bc076255c7df",
+    "name": "北京亚控科技发展有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-cb3e23b1958b",
+    "name": "四川英杰新能源有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-98539494f90f",
+    "name": "普联技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7c02f40d9446",
+    "name": "珠海华发华序投资有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2a231dd97744",
+    "name": "山东艾诺智能仪器有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-01696ca30aec",
+    "name": "阿里云计算有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7efb472ce0f6",
+    "name": "星宸科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f713fc825d71",
+    "name": "纳恩博（北京）科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-fffe2489713c",
+    "name": "中国建筑第二工程局有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-348bf7ce3f4c",
+    "name": "深圳市雨禾伟业实业有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-305bd482cc2d",
+    "name": "辽宁博远教学科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1d2ec2b673f4",
+    "name": "辽阳博远教育咨询有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3f5f36f0ccdc",
+    "name": "郑州轻研合金科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ad8feafff5a4",
+    "name": "上海数禾信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c7f6f3f79dbe",
+    "name": "华诺星空技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ed12744f2ff0",
+    "name": "中国人民财产保险",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6b79fd39f442",
+    "name": "广州凡岛网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ae3be626bcd0",
+    "name": "武汉博硕汇信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a2ce76b9d692",
+    "name": "先临三维科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-12d464f90ae7",
+    "name": "北京小马智行科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-992798adb079",
+    "name": "深圳市一德建设有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4445c97774a4",
+    "name": "镇江市新东方教育培训有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-bf6b8aeb753f",
+    "name": "西安葡萄城信息技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-41ca941664bd",
+    "name": "菜鸟网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-be3a5c0bba47",
+    "name": "晓禾科技（武汉）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-01b15e3cba7e",
+    "name": "惠州市蓝微电子有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0d1539c32b6c",
+    "name": "中建六局建设发展有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e1615fca3a88",
+    "name": "长沙与鹿同行品牌管理有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1eae14ffd776",
+    "name": "江苏知原药业股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-863af867dc54",
+    "name": "四方继保（武汉）软件有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f0e9e1915be5",
+    "name": "深圳思考量信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9af5244ffeda",
+    "name": "广州安居冠寓商业运营管理有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6d54b5697d85",
+    "name": "光宝新创科技（北京）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-eeefee6cc690",
+    "name": "青岛宏巨汽车供应链有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f49f5b777356",
+    "name": "锐拓（北京）国际文化交流有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5c6753951ea8",
+    "name": "北京雅欣理仪科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-73480a292213",
+    "name": "杭州玩心不止网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3f7452f7e469",
+    "name": "北京掌上先机网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9fdabea831d6",
+    "name": "怀化辰鹏科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-cf39b37e6240",
+    "name": "北京平行线根源教育科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b6d99647bcba",
+    "name": "百威（中国）销售有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-876873c0c513",
+    "name": "湖南神锋电子科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5e80fde06086",
+    "name": "杭州逻辑比特科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b95d7ea13155",
+    "name": "北京承达创建装饰工程有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1de266a101da",
+    "name": "河南省安装集团有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-90644925775c",
+    "name": "卡特彼勒（中国）投资有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-87ea34be4604",
+    "name": "江苏云意电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-72d2abfcbbe0",
+    "name": "成都天府软件园有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6f52bb4bd51b",
+    "name": "中电科数字技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f53dbf8a4a92",
+    "name": "上海孛璞半导体技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-28c6df3a4e40",
+    "name": "上海交通建设总承包有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-355b69c8646e",
+    "name": "郑州宇通集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0a436cf5ebf9",
+    "name": "北京蓝箭鸿擎科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-653d6aa68356",
+    "name": "广东拓疆联科信息技术服务有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a104a8b788ec",
+    "name": "四川英杰电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-df388814ee8e",
+    "name": "天津汽车模具股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2853b5224978",
+    "name": "广东星辉天拓互动娱乐有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f1799d148fdb",
+    "name": "广东云云律师事务所",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-31fed65ee661",
+    "name": "浙江朝晖过滤技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-de63e639d09d",
+    "name": "中信证券",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-eec8ab73a7b3",
+    "name": "芯屏半导体（深圳）有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-527ca82d9590",
+    "name": "桂林长海发展有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f776cf3a6405",
+    "name": "杉杉商业集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-43025b875917",
+    "name": "蚌埠依爱消防电子有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a8a84d062457",
+    "name": "天津凯发电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-94432612379a",
+    "name": "中国建筑第八工程局有限公司西南分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ca443796ba46",
+    "name": "杨凌美畅新材料股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2e9cbbb0adc7",
+    "name": "嘉士伯（中国）啤酒工贸有限公司广州分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c62960ebcd18",
+    "name": "石家庄通合电子科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-aeeb1564f800",
+    "name": "厦门厦钨新能源材料股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-76841ab9e7fd",
+    "name": "山东东明石化集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a11d3253f952",
+    "name": "深圳市卓众科技教育有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4cb470f1321c",
+    "name": "北京安捷智合科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-939a2cfa4f4a",
+    "name": "北京城建七建设工程有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a6f4355129a3",
+    "name": "杭州乐刻网络技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-aba5e0098fef",
+    "name": "北京煜邦电力技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-34b8b501e510",
+    "name": "上海精测半导体技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2c7685ab794a",
+    "name": "湖南埃普特医疗器械有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-dce2bd6bb3d4",
+    "name": "江苏海四达电源有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-fa835b3a3fb3",
+    "name": "西安图为电气技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1c634b3c01fd",
+    "name": "宁波乐恩数字科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-cc61beedf292",
+    "name": "中国电建集团西北勘测设计研究院有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e732fcebcb80",
+    "name": "浙江锐鹰传感技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-618e1ebd7708",
+    "name": "苏州清陶新能源科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-98553d31f8fc",
+    "name": "中国机械科学研究总院集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-de97b74644df",
+    "name": "中研博硕信息科技（湖北）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-59e88829684b",
+    "name": "中智安徽经济技术合作有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-de87af1cf498",
+    "name": "厦门慧联鸿疆科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-81b3b13a4e3d",
+    "name": "彩讯科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6023ff775556",
+    "name": "深圳博海新材料技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6ba4163cbe97",
+    "name": "永芯科技（北京）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0b4376a1c525",
+    "name": "济南奥图自动化股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-67270fee7b44",
+    "name": "广州希音国际进出口有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4e21b0e48f28",
+    "name": "中交武汉港湾工程设计研究院有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9188e0160d6a",
+    "name": "杭州曦诺未来科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-dc4a52d550b4",
+    "name": "通标标准技术服务有限公司广州分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2bb81b43732f",
+    "name": "中电云计算技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e9edb7bce81d",
+    "name": "长沙浩鲸云软件有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4f9c5804a273",
+    "name": "森特士兴集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e6ad4f582a1b",
+    "name": "北京跃瀚科技有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3cbacadc90b5",
+    "name": "浙江保融科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-626f972a46d4",
+    "name": "苏州智加科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a214335290c3",
+    "name": "广州海格通信集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e5c3146c476c",
+    "name": "深圳市正浩创新科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-69b2909e8f3d",
+    "name": "星钥半导体（武汉）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6b01198b999f",
+    "name": "武汉市逍源信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4525fc4551c5",
+    "name": "金蝶软件（中国）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-bfc9de0f8757",
+    "name": "成都奕成集成电路有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-083c8a660f5a",
+    "name": "北京网聘信息技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ce827d3779ff",
+    "name": "上海甄汇信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e3f377f3ca63",
+    "name": "深圳市比克动力电池有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a9a40c53b81f",
+    "name": "广州期货交易所",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-89266bc2af28",
+    "name": "长沙燕山科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d506aeff8e4f",
+    "name": "广东溢达纺织有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-96bac923c61e",
+    "name": "广州市卓越里程教育科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-89391d5f69fc",
+    "name": "中移九天人工智能科技（北京）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3aef03e50637",
+    "name": "星猿哲科技（上海）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5303dc568f2a",
+    "name": "天隼实验室",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1d108895d2ef",
+    "name": "中研博硕英才信息咨询（武汉）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b4306839bf6f",
+    "name": "新风天域（天津）投资有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f3abe77921aa",
+    "name": "广州通则康威科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e9c1dd3ffd90",
+    "name": "平安科技（深圳）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f66dcf745e66",
+    "name": "广州德擎光学科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-42a945824282",
+    "name": "北京农村商业银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-84c1396504a5",
+    "name": "合肥芯碁微电子装备股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c5b3629aee8b",
+    "name": "深圳古瑞瓦特新能源有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f09b1a0e5eaf",
+    "name": "新石器慧通科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3c5bfa0f824c",
+    "name": "中冶南方都市环保工程技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-30e016f74f23",
+    "name": "中国航发中传机械有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b2a59d0db1d8",
+    "name": "西安中科微精光子科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e3a7a8737040",
+    "name": "游酷盛世科技（北京）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0d8f7781e08a",
+    "name": "浙江宁银消费金融股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-238788621ea1",
+    "name": "青岛青橙智联科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f613cb003e03",
+    "name": "武汉鑫威源电子科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a0f7f2df0b8b",
+    "name": "中证信用增进股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e653e2e26360",
+    "name": "新紫光集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-bded0f799f35",
+    "name": "中国农业银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-325413a4ee7a",
+    "name": "泉意光罩光电科技（济南）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b6cd780d3c7e",
+    "name": "深圳市卓尔摄影器材有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4e0f426a5fd0",
+    "name": "中机国际工程设计研究院有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d7c6665fb0bb",
+    "name": "浙江零跑科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c332dbf89614",
+    "name": "工银金融资产投资有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7987e4d5660e",
+    "name": "珠海市奥美伦精细化工有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8246a77db707",
+    "name": "广州银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c5a2af033a6c",
+    "name": "薯能生巧科技（上海）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2846f0d7c904",
+    "name": "武汉虹信技术服务有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-336da8534d91",
+    "name": "维达力科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f4bffbc4c869",
+    "name": "贵州磷化（集团）有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2644a5a8dda7",
+    "name": "长沙易招招网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6bf39386617b",
+    "name": "中铁十二局集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d0942c0dd25e",
+    "name": "深圳市昊一源科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f37fc2ce625c",
+    "name": "厦门钨业股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f6aa2b9e2b35",
+    "name": "恒丰银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-166619e87957",
+    "name": "宁夏塞尚乳业有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-eaede952a468",
+    "name": "广东省广新控股集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8b23bf3da6a6",
+    "name": "中建长江建设投资有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1e03423b845c",
+    "name": "神华工程技术有限公司安徽分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-fc2378fa0df4",
+    "name": "湖南宇晶机器股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-894896a22cae",
+    "name": "科华数据股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0967bde559bd",
+    "name": "广东捷盟智能装备股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b988b20a6a82",
+    "name": "基准方中建筑设计股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c41603e9309e",
+    "name": "深圳市航嘉驰源电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6d59fc76e57f",
+    "name": "爱迪特（秦皇岛）科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-db2dc3d0ccee",
+    "name": "湖南省迈德威视科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-453d8188b0d4",
+    "name": "深圳齐心集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9a755885d3ff",
+    "name": "中国邮政集团",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4f394172f738",
+    "name": "中移互联网有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-afa94c302a72",
+    "name": "深圳雷特网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-af744df33b76",
+    "name": "广东保伦电子股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e1f6bbb1a05b",
+    "name": "同圆设计集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7fddcfc992a0",
+    "name": "广东立达金属科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ed56f908ef10",
+    "name": "儒拉玛特自动化技术（苏州）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-aabdcfd8920c",
+    "name": "北京科锐国际人力资源股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-95811c81d840",
+    "name": "新毅东科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6339fc956306",
+    "name": "航天南湖电子信息技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-bc7a9f09d48e",
+    "name": "东莞市南城乐思文化传播有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2d047e46ce61",
+    "name": "上饶银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-00ee5bfd3802",
+    "name": "北京沈博绝丽文化发展有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-136751c8aae9",
+    "name": "通威股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7d8abab1afdb",
+    "name": "长江存储科技有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-fcd34fd5e55f",
+    "name": "养生堂有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1db1728dae1a",
+    "name": "湖南潭州新能源有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-689a51f88645",
+    "name": "万达商业管理集团",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c7d4f5253dcb",
+    "name": "中邮消费金融有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2c6e57cb7199",
+    "name": "中建壹品投资发展有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-21f4d8145f41",
+    "name": "中交城市投资控股有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3796d44eb07a",
+    "name": "三棵树涂料股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6e92c10d5b01",
+    "name": "延锋国际汽车技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ac81c54756bd",
+    "name": "长电科技管理有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0b1f2cd24da4",
+    "name": "武汉市少年志教育咨询发展有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-65c30761e7d9",
+    "name": "广东和胜工业铝材股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-bb529b93dcf3",
+    "name": "华陆工程科技有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b8c21acd937e",
+    "name": "三角轮胎股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8e7f8e6e4b12",
+    "name": "华峰华锦有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a3c680099d8d",
+    "name": "一汽—大众汽车有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2a8af3ca5769",
+    "name": "重庆市华翌智能装备有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6e8b23feab27",
+    "name": "苏州时代新安能源科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d5c56e0d40e5",
+    "name": "深圳市拉普拉斯能源技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-35227798a719",
+    "name": "广西玉柴机器股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-18c45e941f08",
+    "name": "青岛乾程科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c0f611b62ed2",
+    "name": "国能浙能宁东发电有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ab4ddbdfcd65",
+    "name": "英特工程仿真技术（大连）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8d76be1b11c7",
+    "name": "维谛技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6eaade0a7fd8",
+    "name": "重庆赛豆科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0ad630ab7137",
+    "name": "河北建设投资集团有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-fb4a02e086e8",
+    "name": "中建珠江海外发展有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f6f6ab08810f",
+    "name": "深圳麦科田生物医疗技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-96eb71e43725",
+    "name": "中国电建集团重庆工程有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8463cf7b9910",
+    "name": "中移（苏州）软件技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e696b8134d45",
+    "name": "中移动信息技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9d2f742c9e58",
+    "name": "圣湘生物科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9b5b6d063ca7",
+    "name": "深圳联友科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a45fd76c0ac5",
+    "name": "武汉锐科光纤激光技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8ab775c7f3b2",
+    "name": "中国太平洋保险",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-e23bfbcbedf8",
+    "name": "招商蛇口（长沙）房地产有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1dbed7119fb4",
+    "name": "英特仿真科技（深圳）有限公司西安分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d10412168e53",
+    "name": "中电信量子信息科技集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-acd8c0cc80b9",
+    "name": "上海兆芯集成电路股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e0dbc21af379",
+    "name": "安徽长飞先进半导体有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0ab6cf381886",
+    "name": "中国—东盟信息港股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ecdd7e9fe2b2",
+    "name": "公诚管理咨询有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e2667e9d5dba",
+    "name": "中国电力工程顾问集团西北电力设计院有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-675e91aacc43",
+    "name": "长沙景嘉微电子股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ec4a21e56aa5",
+    "name": "中证股转科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d6f35682facd",
+    "name": "上海东方芯港集成电路有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-fc3a1b97a821",
+    "name": "深圳市锐尔觅移动通信有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-dbe1f0a7a047",
+    "name": "维沃移动通信（深圳）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8496482bffd4",
+    "name": "深圳市默贝克驱动技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9210bd37d367",
+    "name": "湖南北云科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-feff624646a6",
+    "name": "格力钛新能源股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a0ebf1c68eda",
+    "name": "北京泓睿国际贸易有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4c8a568a5520",
+    "name": "广州白云国际机场股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-de3b1dd81cde",
+    "name": "华天科技（昆山）电子有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3bef21935064",
+    "name": "深圳市联洲国际技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-574d6a34a22f",
+    "name": "正大食品企业（上海）有限公司湖南分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-70c4df84ebc2",
+    "name": "北京自如住房租赁有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-72867d3b10e3",
+    "name": "无锡信捷电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c8871a4bb126",
+    "name": "佛山市青松科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6507db249c76",
+    "name": "佛山通识教育咨询有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-bb3235d31053",
+    "name": "白云电气集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ead220dc7d51",
+    "name": "拉扎斯网络科技（上海）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-eac9b2c96419",
+    "name": "合肥我们方田教育科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b1ed0fe768de",
+    "name": "中建八局轨道交通建设有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c02e185a6236",
+    "name": "上海魔飞企业管理咨询有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7236de732c0e",
+    "name": "大连商品交易所",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f993a08d9d05",
+    "name": "深圳市帝迈生物技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7a7b988091ec",
+    "name": "中国恩菲工程技术有限公司长沙分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-743b6529e25d",
+    "name": "深圳市大疆创新科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d0749768c4f3",
+    "name": "深圳晓猴教育科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6d5dd653ddd8",
+    "name": "上海艾为电子技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-cb97194c8d03",
+    "name": "南宁城市建设投资集团有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-377e51ca69a0",
+    "name": "中电建新能源集团股份有限公司华中分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9a60f1ef636c",
+    "name": "宏图锦程人力资源信息（沈阳市）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5da412e1ac4a",
+    "name": "武汉联特科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-69b80e43a4ae",
+    "name": "上海能良电子科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1303afb0c5a0",
+    "name": "成都汉度科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e0c1613392a9",
+    "name": "校招互联（北京）信息技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-12c210040b3f",
+    "name": "杰华特微电子股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4a4c94fc69b4",
+    "name": "福建省晋华集成电路有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e272d5b12d27",
+    "name": "中科芯集成电路有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-66bc9587f7f6",
+    "name": "湖南邵虹特种玻璃股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-20c668dcea27",
+    "name": "山东泰开电力电子有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-eb84931fedd6",
+    "name": "北京外企德科人力资源服务上海有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2a0c684fba27",
+    "name": "湖南赋达机电贸易有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b3516e03a2fa",
+    "name": "苏州能讯高能半导体有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-46f809ded907",
+    "name": "深圳市赛诺杰科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8500d6746b22",
+    "name": "北京雄伟光大投资管理有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0149e360d345",
+    "name": "瑞霆狗（深圳）信息技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-526fbdd8cb1b",
+    "name": "上海寻梦信息技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-66132da223e0",
+    "name": "岩超聚能（上海）科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d859e8e3968b",
+    "name": "西安中研网人力资源服务有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-27ef7c2ad6d1",
+    "name": "广东领益智造股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a2415a004dd9",
+    "name": "焦作新东方培训学校有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-72c362c38fca",
+    "name": "深圳市远拓时代科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9a2903f50c2c",
+    "name": "横琴小翼飞机技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-732726aae311",
+    "name": "广东南粤银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c36639b15986",
+    "name": "深圳市卓驭科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e5c636797b53",
+    "name": "中地国际工程有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-20909d951158",
+    "name": "南京途善久文化传播有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b6fa8cd8f229",
+    "name": "远景能源有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8427ac8e1cd5",
+    "name": "广州市百果园网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7bd37499c1bc",
+    "name": "晟通科技集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-765be144bf87",
+    "name": "广州远见文化旅游管理有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-005ef9036551",
+    "name": "深圳市纵维立方科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-694c60d8eea0",
+    "name": "湖南财信金融控股集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-54314aba2051",
+    "name": "赛乐（常州）医疗科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a23079b6ae42",
+    "name": "学术桥（北京）教育科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8f279d6f58cb",
+    "name": "成都芯源系统有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-29267ae0512f",
+    "name": "珠海泰芯半导体有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-73e450d598a8",
+    "name": "深圳市亿道信息股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d0637f99ebf4",
+    "name": "深圳市富兰瓦时技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-08a2a8928794",
+    "name": "西安知象光电科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-699b16e1542c",
+    "name": "无锡众星微系统技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a6681b6480d7",
+    "name": "中国建筑第五工程局有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e16a3415cecc",
+    "name": "武汉启云方科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a348f4fd9edf",
+    "name": "深圳虾皮信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b21188c06f4d",
+    "name": "青岛森麒麟轮胎股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-43ebea5a50fb",
+    "name": "苏州弘远电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-47f45b0867ba",
+    "name": "斐意特（北京）管理咨询有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-32edc77c8eeb",
+    "name": "利欧集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-32bc55109c06",
+    "name": "芯联集成电路制造股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3adbc9bd44bb",
+    "name": "拓维信息系统股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1b6389fa0222",
+    "name": "广州旭之源科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-36de7e0f7cc0",
+    "name": "深圳市豪恩声学股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6cddfc179b35",
+    "name": "江西旭昇电子股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5d9159a2ef9f",
+    "name": "广东中大管理咨询集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d89285af712b",
+    "name": "苏州纳芯微电子股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2773dbdc1f8d",
+    "name": "格科微电子（上海）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c09f71f5b31d",
+    "name": "全国中小企业股份转让系统有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d4975ec862cc",
+    "name": "珠海冠宇电池股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e6ed441aee4c",
+    "name": "北京三快在线科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ab44e13ee754",
+    "name": "安徽皖仪科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a3ce90c95759",
+    "name": "浙江交工集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ff692f9e4792",
+    "name": "重庆慧达天街商业管理有限公司济南分公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4992fc77ff18",
+    "name": "北京长亭未来科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7c8e1cc07e2e",
+    "name": "广西奕安泰药业有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-00fb5831610f",
+    "name": "南京因克斯智能科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d3a07ffc29f2",
+    "name": "东风商用车有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-91bcec3b0d7d",
+    "name": "深圳市金证科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1ba27f6271b0",
+    "name": "中船凌久电子（武汉）有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-496c762b7726",
+    "name": "湖南航天捷诚电子装备有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b02b35da5f68",
+    "name": "广州视源电子科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-b52020d9f230",
+    "name": "福建星网锐捷通讯股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-fc69b037a188",
+    "name": "博众精工科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业公众号"
+  },
+  {
+    "id": "intake-4154bf4854a9",
+    "name": "上海思格数字技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d9712faea523",
+    "name": "浙江荣盛控股集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5d8a87e84e53",
+    "name": "西安诺瓦星云科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-05d2fa3b32c4",
+    "name": "成都心田花开心语教育管理有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1a35cf42bde6",
+    "name": "深圳市鼎阳科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业公众号"
+  },
+  {
+    "id": "intake-a127d5dc659a",
+    "name": "湖南省通信产业服务有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d703eb12ef62",
+    "name": "南方基金",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c30c4d3eba65",
+    "name": "西安西电电力电容器有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9d9f339d4501",
+    "name": "吉利百矿集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-decf2bc37679",
+    "name": "深圳安时达技术服务有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7a4265ea4cf9",
+    "name": "树根互联股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b8605ff9f618",
+    "name": "广州光锥元信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-00f23607fd17",
+    "name": "深圳市金岷江智能装备有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e4e5d9f6e7bb",
+    "name": "广州诗悦网络科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f15630c4e7f4",
+    "name": "厦门宏发电声股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-2c699da80b37",
+    "name": "浙江晶盛机电股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6419b5ef90eb",
+    "name": "猛士科技（襄阳）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-124caa295bf5",
+    "name": "曙光信息产业股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-12a6c8ce56b4",
+    "name": "江苏运满满信息科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-7086d1267efe",
+    "name": "中铁九局集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-315c2591e253",
+    "name": "桂林福达股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3296eaf2ffac",
+    "name": "广州库洛科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8c1cdcc22f61",
+    "name": "苏州科达科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-234b6dcfb06a",
+    "name": "广州市绵虹电子科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-83bc45a5448d",
+    "name": "北京润科通用技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a91958e48fff",
+    "name": "江西都昌金鼎钨钼矿业有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4f48b2eec0c1",
+    "name": "普冉半导体（上海）股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-052ef96964f4",
+    "name": "申万宏源证券",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c1641bfa093a",
+    "name": "徽商银行",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-479fa0a1a871",
+    "name": "湖南迈曦软件有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5614922f4f6a",
+    "name": "深圳英集芯科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-bc49197193fa",
+    "name": "博时基金",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-09637015be0c",
+    "name": "上海龙旗科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-936bb410b6c7",
+    "name": "光典信息发展有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5d58eeadd1d3",
+    "name": "广东三石园科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-1dc3b15bac1c",
+    "name": "深圳开立生物医疗科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ac5e07a215ce",
+    "name": "雅砻江流域水电开发有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d6b03502acb0",
+    "name": "深圳市永联科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-c96b8763fe98",
+    "name": "粤芯半导体技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-728a015062aa",
+    "name": "深圳市杉川机器人有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-d60d30619928",
+    "name": "浙江广润通信有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9dd76def30f6",
+    "name": "深圳市东正光学技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6b6fc17e9c29",
+    "name": "星环信息科技（上海）股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9f65af35b3ae",
+    "name": "邯郸制药股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-72dbb88dd17f",
+    "name": "会通新材料股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f12e550fe3be",
+    "name": "深圳市威兆半导体股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-54eee769d196",
+    "name": "深圳中电港技术股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b295ebd59a6a",
+    "name": "青山控股集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-741d82e51c03",
+    "name": "湖南同有飞骥科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-76c88dde5f27",
+    "name": "中铁二十四局集团桥梁建设有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9c26379c10e2",
+    "name": "远景动力技术（江苏）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-de90b76109c9",
+    "name": "宁德厦钨新能源材料有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f0243e26181c",
+    "name": "福建恒安集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a0614710eb5b",
+    "name": "中铁大桥科学研究院有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8bf453375fab",
+    "name": "湖南军信环保股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-32a62226f93d",
+    "name": "中铁国际集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-04a3b473bb65",
+    "name": "湖南中科电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-42d702205f6d",
+    "name": "博罗县园洲镇乐优学教育培训中心有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e80223149a0d",
+    "name": "深圳市巨烽显示科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-940b1db748e3",
+    "name": "赣州澳克泰工具技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-3a2d63f47127",
+    "name": "安徽容知日新科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9a41f2fb4229",
+    "name": "厦门厦杏摩托有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6a7537add248",
+    "name": "中建铁路投资建设集团华中建工有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-e3c1a81e61cd",
+    "name": "中国航发南方工业有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业公众号"
+  },
+  {
+    "id": "intake-35925f4e506b",
+    "name": "渠梁电子有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b4d9bc398e62",
+    "name": "上海冬新信息技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-35a6d49d9212",
+    "name": "广州融捷能源科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ad13e284d7de",
+    "name": "广州鹏冉汽车科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4e2b9875cdbd",
+    "name": "厦门中达集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-4f582057bd47",
+    "name": "上海集成电路研发中心有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b9cea829e10d",
+    "name": "重庆锦斐科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b01b5c37a5b4",
+    "name": "广西顺丰速运有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-93508e850cb5",
+    "name": "百联集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-55fa11c2aecb",
+    "name": "湖北省电力规划设计研究院有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-f2123b751a0f",
+    "name": "上海姚品国际商贸有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-a8a6dfe464dc",
+    "name": "易思维（杭州）科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-9acfabd65061",
+    "name": "中建八局第四建设有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业公众号"
+  },
+  {
+    "id": "intake-84960f7891ba",
+    "name": "齐鲁制药集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-44caae5a63ec",
+    "name": "四川中久数创科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-b98b77688c2a",
+    "name": "北京发那科机电有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-5ea18d87384e",
+    "name": "深圳市广联智通科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘、湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-a3ae84eee42f",
+    "name": "和天（湖南）国际工程管理有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ff991ceda2f5",
+    "name": "北方集成电路技术创新中心（北京）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-ec799bad68c9",
+    "name": "深圳市澳威企业管理咨询有限责任公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-fed611d13628",
+    "name": "潍柴雷沃智慧农业科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6400a2d728b8",
+    "name": "深圳市经纬开物仪器有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-8820e3c3245f",
+    "name": "贝壳找房（北京）科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-6e0e40e8e593",
+    "name": "深圳市昇维旭技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-cd27d8f65cd8",
+    "name": "瑞晟微电子（苏州）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-45b6e71ef314",
+    "name": "圣邦微电子（北京）股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网在线招聘"
+  },
+  {
+    "id": "intake-0e969dc8289e",
+    "name": "深圳锐特机电技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-f44229b96245",
+    "name": "北京众行互动数字文化传媒有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-5b840615eb5a",
+    "name": "柳州宝钢汽车钢材部件有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-49efc7a42bd3",
+    "name": "湖南竞跃电子有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-7dc2f7a2548f",
+    "name": "珠海英搏尔电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-9eb6386a35dd",
+    "name": "方大集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-836e4b31120b",
+    "name": "中铁十一局集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-f2f241059642",
+    "name": "广东风华高新科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-afeda636437c",
+    "name": "广州毅昌科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-5aa253c41142",
+    "name": "一重集团大连核电石化有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-7fb8b690e216",
+    "name": "国核湛江核电有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-8e13d88e2c26",
+    "name": "王力安防科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-e1fe5b43d875",
+    "name": "皓星智能装备（东莞）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-1a5e02ea896e",
+    "name": "湖南金拱门食品有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-7649057740a8",
+    "name": "衡阳华菱钢管有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-fd24cac8abb3",
+    "name": "上海器外文化科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-0eeb2cd40456",
+    "name": "南兴装备股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-98209e22173f",
+    "name": "上海谊众药业股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-66df293c7f7f",
+    "name": "浙江康盈半导体科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-a0de63c29a8c",
+    "name": "中南升云科技（湖南）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-5f1842c44935",
+    "name": "人本股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业网双选会(2026-09-13)"
+  },
+  {
+    "id": "intake-b7f7fc52c86f",
+    "name": "中国葛洲坝集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-454f94ffe13e",
+    "name": "网易游戏（互娱）",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-90d20108b281",
+    "name": "广东大冶摩托车技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-1e8890c94c3a",
+    "name": "海四达电源",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-4aef31731c7f",
+    "name": "长江精工钢结构（集团）股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-74b10cfa1ac5",
+    "name": "金龙联合汽车工业（苏州）有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-43ee3c8cf6f4",
+    "name": "陕汽控股",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-f75b3d87e5db",
+    "name": "中铁五局集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-49b36ee86324",
+    "name": "深圳麦格米特电气股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-659943a277ee",
+    "name": "湖南丽臣实业股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-3ec468c90dce",
+    "name": "景嘉微",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-964c6bd90d2c",
+    "name": "中铁二十四局集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-e4585f81fe43",
+    "name": "中国建筑第四工程局有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-df7ad57d1a40",
+    "name": "中国船舶集团有限公司",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
+  },
+  {
+    "id": "intake-2bcdf35ecdbb",
+    "name": "啄木鸟医疗",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "HR"
+    ],
+    "note": "2026-09-16湖大就业网/公众号招聘发现",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "湖大就业公众号"
   }
 ];
