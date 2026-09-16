@@ -10174,5 +10174,855 @@ export const companyRequests = [
     "sourceRegistered": true,
     "sourceAlreadyExists": true,
     "analysis": "识别为北森；2027 届证据和标准 API 探针均通过（岗位 137）；官方链接可访问"
+  },
+  {
+    "id": "intake-4e2b33a665af",
+    "name": "FUNPLUS",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-023348d8820b",
+    "name": "北京车之家信息技术有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-f79167f5358e",
+    "name": "兆易创新科技集团股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-ffb61180e5f4",
+    "name": "锐捷网络股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-269ef3988ed3",
+    "name": "金山世游",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-ae24836b9f1e",
+    "name": "深圳信立泰药业股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-af60d78eca50",
+    "name": "波克",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-85a575b82150",
+    "name": "北森",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-5c014c07ea56",
+    "name": "九方云",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-8546ebb7f7b6",
+    "name": "众安保险",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-6afc264b95fb",
+    "name": "思必驰",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-3276c68c2d97",
+    "name": "尚诚消费",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-0ee3ea50ffd8",
+    "name": "字跳网络",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-25fa117e1ada",
+    "name": "亿通国际",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-94938e6854df",
+    "name": "途游游戏",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-7679115ba5e0",
+    "name": "四三九九",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-b995478fca54",
+    "name": "深圳市优博讯科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-fa940aabe04d",
+    "name": "精智达",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-d7419bdadc34",
+    "name": "汇纳科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-6b08f594851b",
+    "name": "广州合明软件科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-e1751c621992",
+    "name": "成都派沃特科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-a8eebbdfe1ad",
+    "name": "壁仞科技",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-9c21b5f260a7",
+    "name": "北京经纬恒润科技股份有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-7d622136c50b",
+    "name": "英雄游戏",
+    "careerUrl": "",
+    "focus": [
+      "国际业务",
+      "海外营销",
+      "品牌市场",
+      "运营",
+      "项目管理"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
+  },
+  {
+    "id": "intake-7f2c391c955f",
+    "name": "佗道医疗科技有限公司",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "运营",
+      "品牌市场",
+      "项目管理",
+      "HR"
+    ],
+    "note": "2026-09-16 聚合渠道清单外候选回补（猎聘校园/牛客公开职位）",
+    "requestedAt": "2026-09-16T08:00:00Z",
+    "updatedAt": "2026-09-16T08:00:00Z",
+    "status": "待核验校招入口",
+    "provider": "pending",
+    "sourceRegistered": false,
+    "analysis": {
+      "targetCities": [
+        "深圳",
+        "广州",
+        "上海",
+        "武汉",
+        "长沙",
+        "北京",
+        "杭州",
+        "苏州"
+      ],
+      "cohort": "2027",
+      "excludedRoles": [
+        "实施"
+      ]
+    }
   }
 ];
