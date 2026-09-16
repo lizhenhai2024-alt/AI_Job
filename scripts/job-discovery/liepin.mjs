@@ -3,20 +3,29 @@ import { decodeHtml, htmlToText, classifyRole, detectSkills, detectRisks, extrac
 
 const DEFAULT_UA = 'AI-Job/0.2 (+https://github.com/lizhenhai2024-alt/AI_Job; public-campus-job-indexer)';
 
-export async function fetchText(url, { timeoutMs = 15000, userAgent = DEFAULT_UA } = {}) {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), timeoutMs);
-  try {
-    const res = await fetch(url, {
-      signal: controller.signal,
-      redirect: 'follow',
-      headers: { 'user-agent': userAgent, accept: 'text/html,application/xhtml+xml,text/plain;q=0.9,*/*;q=0.8' }
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText} for ${url}`);
-    return await res.text();
-  } finally {
-    clearTimeout(timer);
+export async function fetchText(url, { timeoutMs = 15000, userAgent = DEFAULT_UA, retries = 1 } = {}) {
+  let lastError;
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), timeoutMs);
+    try {
+      const res = await fetch(url, {
+        signal: controller.signal,
+        redirect: 'follow',
+        headers: { 'user-agent': userAgent, accept: 'text/html,application/xhtml+xml,text/plain;q=0.9,*/*;q=0.8' }
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText} for ${url}`);
+      return await res.text();
+    } catch (error) {
+      lastError = error;
+      if (attempt < retries) {
+        await new Promise((r) => setTimeout(r, 800 * (attempt + 1)));
+      }
+    } finally {
+      clearTimeout(timer);
+    }
   }
+  throw lastError;
 }
 
 const PROJECT_RX = /href="(https:\/\/www\.liepin\.com\/campus\/project-detail\/(\d+)\/)"[\s\S]*?<div class="company-title ellipsis-1">([^<]+)<\/div>/gi;
