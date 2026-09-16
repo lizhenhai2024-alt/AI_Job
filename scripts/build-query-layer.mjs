@@ -42,11 +42,10 @@ function normalizeEducation(job, text) {
   return { raw, min, masterRequired };
 }
 
-function normalizeMajor(job, text) {
+function normalizeMajor(job) {
   const raw = String(job.major ?? job.majors ?? job.majorRequirement ?? '').trim();
-  const t = `${raw}\n${text}`;
-  const open = /专业不限|不限专业|不限学科|专业不作限制/.test(t);
-  const preferred = /优先|相关专业/.test(t);
+  const open = /专业不限|不限专业|不限学科|专业不作限制/.test(raw);
+  const preferred = /(?:专业|专业背景|学科|方向).{0,12}(?:优先|优先考虑)|(?:优先|优先考虑)\s*$/.test(raw);
   return { raw, hardRestriction: Boolean(raw && !open && !preferred) };
 }
 
@@ -71,7 +70,7 @@ export function toQueryJob(job) {
     title: job.title || '',
     graduationYear: normalizeGraduationYear(job, text),
     education: normalizeEducation(job, text),
-    major: normalizeMajor(job, text),
+    major: normalizeMajor(job),
     language: normalizeLanguage(job, text),
     location: job.location || job.city || job.locations || '',
     JD: job.description || job.jd || job.requirements || '',
