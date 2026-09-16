@@ -81,11 +81,19 @@ jobs:
         run: npm run build:source-discovery
       - name: Validate
         run: npm run check
-      - name: Verify query layer manifest
+      - name: Verify complete query layer
         shell: bash
         run: |
           test -s jobs/index/companies.json
-          node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('jobs/index/companies.json')); if(!x.totalJobs || !x.totalCompanies || x.companies.length!==x.totalCompanies) process.exit(1); console.log('query-layer', x.totalJobs, x.totalCompanies)"
+          test -s jobs/index/jobs.json
+          node - <<'NODE'
+          const fs=require('fs');
+          const companies=JSON.parse(fs.readFileSync('jobs/index/companies.json','utf8'));
+          const jobs=JSON.parse(fs.readFileSync('jobs/index/jobs.json','utf8'));
+          if(!companies.totalJobs || !companies.totalCompanies || companies.companies.length!==companies.totalCompanies) throw new Error('invalid companies manifest');
+          if(!Array.isArray(jobs.jobs) || jobs.totalJobs!==jobs.jobs.length || jobs.totalJobs!==companies.totalJobs) throw new Error('aggregate query index mismatch');
+          console.log('query-layer', jobs.totalJobs, companies.totalCompanies);
+          NODE
       - name: Commit refreshed job pool, source health and query layer
         shell: bash
         run: |
@@ -101,6 +109,7 @@ jobs:
             config/company-requests.json
             package-lock.json
             jobs/index/companies.json
+            jobs/index/jobs.json
             jobs/by-company
           )
           ACTIVE_PATHS=()
