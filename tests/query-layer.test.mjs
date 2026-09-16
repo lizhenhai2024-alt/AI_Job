@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import { buildQueryLayer, slugifyCompany, toQueryJob } from '../scripts/build-query-layer.mjs';
+import { buildQueryLayer, isCategoryHeadingCompany, slugifyCompany, toQueryJob } from '../scripts/build-query-layer.mjs';
 
 test('slugifyCompany produces stable lightweight filenames', () => {
   assert.equal(slugifyCompany('Hisense 海信集团'), 'hisense-海信');
@@ -40,12 +40,19 @@ test('related major is required unless the JD explicitly marks it preferred', ()
   assert.equal(preferred.major.hardRestriction, false);
 });
 
+test('numbered section headings are not companies', () => {
+  assert.equal(isCategoryHeadingCompany('1.研发类单位'), true);
+  assert.equal(isCategoryHeadingCompany('2制造类单位'), true);
+  assert.equal(isCategoryHeadingCompany('东风汽车集团有限公司'), false);
+});
+
 test('buildQueryLayer writes company shards and manifest', async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'ai-job-query-'));
   const manifest = await buildQueryLayer([
     { id: '1', company: '海信', title: '岗位A' },
     { id: '2', company: '海信', title: '岗位B' },
-    { id: '3', company: 'OPPO', title: '岗位C' }
+    { id: '3', company: 'OPPO', title: '岗位C' },
+    { id: '4', company: '1.研发类单位', title: '不应进入索引' }
   ], { outputRoot: dir, updatedAt: '2026-09-16T00:00:00.000Z' });
   assert.equal(manifest.totalJobs, 3);
   assert.equal(manifest.totalCompanies, 2);
@@ -53,4 +60,5 @@ test('buildQueryLayer writes company shards and manifest', async () => {
   assert.equal(hisense.count, 2);
   const index = JSON.parse(await fs.readFile(path.join(dir, 'index', 'companies.json'), 'utf8'));
   assert.equal(index.companies.length, 2);
+  assert.equal(index.companies.some((item) => item.company === '1.研发类单位'), false);
 });
