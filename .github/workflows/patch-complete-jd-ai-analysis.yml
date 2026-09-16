@@ -1,0 +1,42 @@
+name: Patch complete JD AI analysis
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/patch-complete-jd-ai-analysis.yml'
+      - 'tools/patch_complete_jd_ai_analysis.mjs'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Apply complete-JD policy
+        run: node tools/patch_complete_jd_ai_analysis.mjs
+      - name: Syntax check
+        run: |
+          node --check scripts/enrich-jd-evidence.mjs
+          node --check scripts/report-jd-evidence-coverage.mjs
+      - name: Run provider tests
+        run: node --test tests/jd-evidence-provider-chain.test.js
+      - name: Cleanup one-off patch files
+        run: |
+          rm -f tools/patch_complete_jd_ai_analysis.mjs
+          rm -f .github/workflows/patch-complete-jd-ai-analysis.yml
+      - name: Commit policy
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add scripts/enrich-jd-evidence.mjs scripts/report-jd-evidence-coverage.mjs docs/jd-evidence-providers.md .github/workflows/refresh-campus-jobs.yml tools/patch_complete_jd_ai_analysis.mjs .github/workflows/patch-complete-jd-ai-analysis.yml
+          git commit -m 'feat(jd-evidence): analyze complete JDs with AI'
+          git push
