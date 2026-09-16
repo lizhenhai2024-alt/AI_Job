@@ -50,7 +50,7 @@ jobs:
       - name: Commit query layer
         shell: bash
         run: |
-          if git diff --quiet -- jobs/index/companies.json jobs/by-company; then
+          if [ -z "$(git status --porcelain -- jobs/index/companies.json jobs/by-company)" ]; then
             echo "Query layer already up to date."
             exit 0
           fi
