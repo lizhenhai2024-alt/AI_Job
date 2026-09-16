@@ -1,12 +1,12 @@
 {
   "company": "货拉拉",
   "count": 36,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
     {
-      "id": "moka-8bb4ba7ee9ef",
+      "id": "moka-f463563a3eef",
       "company": "货拉拉",
-      "title": "数据产品经理",
+      "title": "运营培训生（西语）",
       "graduationYear": [
         "2027"
       ],
@@ -20,22 +20,22 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "",
-        "english": false,
+        "raw": "英语、西班牙语、葡萄牙语、泰语、印尼语",
+        "english": true,
         "minorLanguageRequired": false
       },
-      "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr#/job/00954e82-cab9-4568-875d-76855733aa5a",
-      "lastVerified": "2026-09-16",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/358df91b-3ac7-4b52-922c-0c6b2c48bcaa",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "moka-41c64266dd44",
+      "id": "moka-40eae9853c3a",
       "company": "货拉拉",
-      "title": "测试工程师（服务端）",
+      "title": "运营专员",
       "graduationYear": [
         "2027"
       ],
@@ -53,18 +53,18 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr#/job/5df56e3b-4543-4ef4-8522-489ad69a51fe",
-      "lastVerified": "2026-09-08",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/3a3a824c-7c23-4d58-8164-9d3d69c0f6b6",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "moka-07b60c7b3d30",
+      "id": "moka-4ca8ee3d4a99",
       "company": "货拉拉",
-      "title": "应用安全-安全开发工程师",
+      "title": "内容安全运营",
       "graduationYear": [
         "2027"
       ],
@@ -82,11 +82,69 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr#/job/9a5bb7bb-3704-4de9-9efb-b5c1663f63ce",
-      "lastVerified": "2026-09-01",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/771b7b5a-1fab-4ca1-af3c-b53e5b34dd7c",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-1306e9505fb4",
+      "company": "货拉拉",
+      "title": "项目管理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/b52bdd30-978b-4537-ad69-b5cc3d749512",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-a295c3322a07",
+      "company": "货拉拉",
+      "title": "信息安全运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/6e774072-ac04-427c-89b3-21597af8066d",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -116,6 +174,151 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr#/job/0a25484b-c0ce-4a02-8c27-abaab9d42299",
       "lastVerified": "2026-07-30",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-5dc1bf5c8e57",
+      "company": "货拉拉",
+      "title": "数据分析师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/9c2d992c-6173-420c-93fb-19540c7fd9b8",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-0b3c76e8b1e6",
+      "company": "货拉拉",
+      "title": "后端开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/4091da7b-73b2-444a-951e-b0dc32b2db7c",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-75f8d4069ee7",
+      "company": "货拉拉",
+      "title": "测试工程师（用户端）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/9a9e3ebe-c0a3-42e3-b562-ae526e8662b5",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-9e307a084bbd",
+      "company": "货拉拉",
+      "title": "后端工程师-稳定性",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/1dc504c5-811c-44bf-b035-0afb77e72a47",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-a23c9e0089b1",
+      "company": "货拉拉",
+      "title": "算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/29255b28-2abc-4420-ac3a-80d489f23999",
+      "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
     },
@@ -207,64 +410,6 @@
       "deadline": ""
     },
     {
-      "id": "moka-f463563a3eef",
-      "company": "货拉拉",
-      "title": "运营培训生（西语）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：英语、市场分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/358df91b-3ac7-4b52-922c-0c6b2c48bcaa",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-40eae9853c3a",
-      "company": "货拉拉",
-      "title": "运营专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/3a3a824c-7c23-4d58-8164-9d3d69c0f6b6",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "moka-672179676df8",
       "company": "货拉拉",
       "title": "算法工程师",
@@ -289,35 +434,6 @@
       "JD": "公司官方 Moka 校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/ef914f00-35b1-4a24-97ab-7e912581dd58",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-4ca8ee3d4a99",
-      "company": "货拉拉",
-      "title": "内容安全运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/771b7b5a-1fab-4ca1-af3c-b53e5b34dd7c",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -381,35 +497,6 @@
       "deadline": ""
     },
     {
-      "id": "moka-0b3c76e8b1e6",
-      "company": "货拉拉",
-      "title": "后端开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/4091da7b-73b2-444a-951e-b0dc32b2db7c",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "moka-ce4c38e21e03",
       "company": "货拉拉",
       "title": "后端工程师",
@@ -434,93 +521,6 @@
       "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/e8c51022-c430-4175-9b67-186ddcfee835",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-a295c3322a07",
-      "company": "货拉拉",
-      "title": "信息安全运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/6e774072-ac04-427c-89b3-21597af8066d",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-1306e9505fb4",
-      "company": "货拉拉",
-      "title": "项目管理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/b52bdd30-978b-4537-ad69-b5cc3d749512",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-75f8d4069ee7",
-      "company": "货拉拉",
-      "title": "测试工程师（用户端）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/9a9e3ebe-c0a3-42e3-b562-ae526e8662b5",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -584,151 +584,6 @@
       "deadline": ""
     },
     {
-      "id": "moka-9e307a084bbd",
-      "company": "货拉拉",
-      "title": "后端工程师-稳定性",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/1dc504c5-811c-44bf-b035-0afb77e72a47",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-223151ee1913",
-      "company": "货拉拉",
-      "title": "助理客户端工程师-iOS",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/19db4935-7fbd-42b2-bbe6-efc8be47925b",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-5dc1bf5c8e57",
-      "company": "货拉拉",
-      "title": "数据分析师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：英语、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/9c2d992c-6173-420c-93fb-19540c7fd9b8",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-e6d883915fd0",
-      "company": "货拉拉",
-      "title": "智能座舱工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/d6bfb15f-7681-4f2d-82cc-1179f95eb284",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-587923f366eb",
-      "company": "货拉拉",
-      "title": "底盘电控工程师（域控）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/05f05f1d-10ba-4646-8fe0-0000b6284b92",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "moka-aee178731724",
       "company": "货拉拉",
       "title": "物流管理工程师",
@@ -753,93 +608,6 @@
       "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/8f3884b0-46bc-48a4-a4b9-d62713a82489",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-3ab107019998",
-      "company": "货拉拉",
-      "title": "试验工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/c1e3b54a-40db-4073-8730-78e3d2bbabbe",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-ee17859ddd5a",
-      "company": "货拉拉",
-      "title": "车载电源系统工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/d7176184-ea9f-4d41-9575-6eb0000c1b6a",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-2bc4834644d6",
-      "company": "货拉拉",
-      "title": "汽车软件测试工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/bf6cb393-ee75-46d6-a161-b8eca1f3c3ba",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -990,9 +758,9 @@
       "deadline": ""
     },
     {
-      "id": "moka-a23c9e0089b1",
+      "id": "moka-07b60c7b3d30",
       "company": "货拉拉",
-      "title": "算法工程师",
+      "title": "应用安全-安全开发工程师",
       "graduationYear": [
         "2027"
       ],
@@ -1006,14 +774,188 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
-        "english": true,
+        "raw": "",
+        "english": false,
         "minorLanguageRequired": false
       },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "北京",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/29255b28-2abc-4420-ac3a-80d489f23999",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr#/job/9a5bb7bb-3704-4de9-9efb-b5c1663f63ce",
+      "lastVerified": "2026-09-01",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-223151ee1913",
+      "company": "货拉拉",
+      "title": "助理客户端工程师-iOS",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/19db4935-7fbd-42b2-bbe6-efc8be47925b",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-e6d883915fd0",
+      "company": "货拉拉",
+      "title": "智能座舱工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/d6bfb15f-7681-4f2d-82cc-1179f95eb284",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-587923f366eb",
+      "company": "货拉拉",
+      "title": "底盘电控工程师（域控）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/05f05f1d-10ba-4646-8fe0-0000b6284b92",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-3ab107019998",
+      "company": "货拉拉",
+      "title": "试验工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/c1e3b54a-40db-4073-8730-78e3d2bbabbe",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-ee17859ddd5a",
+      "company": "货拉拉",
+      "title": "车载电源系统工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/d7176184-ea9f-4d41-9575-6eb0000c1b6a",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-2bc4834644d6",
+      "company": "货拉拉",
+      "title": "汽车软件测试工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/bf6cb393-ee75-46d6-a161-b8eca1f3c3ba",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1044,6 +986,64 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/8573fa95-acf1-4b4c-8461-459d2501a6ba",
       "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-8bb4ba7ee9ef",
+      "company": "货拉拉",
+      "title": "数据产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr#/job/00954e82-cab9-4568-875d-76855733aa5a",
+      "lastVerified": "2026-09-16",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-41c64266dd44",
+      "company": "货拉拉",
+      "title": "测试工程师（服务端）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr#/job/5df56e3b-4543-4ef4-8522-489ad69a51fe",
+      "lastVerified": "2026-09-08",
       "sourceType": "official",
       "deadline": ""
     }

@@ -1,8 +1,37 @@
 {
   "company": "国贸股份",
   "count": 5,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
+    {
+      "id": "beisen-375dc4e100ea",
+      "company": "国贸股份",
+      "title": "贸易运营岗(J13647)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://itg.zhiye.com/gmkgxzxq?jobId=311179886&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus",
+      "lastVerified": "2026-09-01",
+      "sourceType": "official",
+      "deadline": ""
+    },
     {
       "id": "beisen-afe5cfafb8fe",
       "company": "国贸股份",
@@ -57,35 +86,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://itg.zhiye.com/gmkgxzxq?jobId=311179884&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus",
-      "lastVerified": "2026-09-01",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-375dc4e100ea",
-      "company": "国贸股份",
-      "title": "贸易运营岗(J13647)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://itg.zhiye.com/gmkgxzxq?jobId=311179886&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus",
       "lastVerified": "2026-09-01",
       "sourceType": "official",
       "deadline": ""

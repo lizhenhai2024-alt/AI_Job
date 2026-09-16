@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T06:34:22.425Z",
+  "updatedAt": "2026-09-16T12:40:14.452Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -883,8 +883,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2098223691345870850",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-16T03:03:01.614Z",
-      "nextCheckAfter": "2026-09-17T03:03:01.616Z"
+      "lastCheckedAt": "2026-09-16T12:40:14.452Z",
+      "nextCheckAfter": "2026-09-17T12:40:14.457Z"
     },
     "武汉新芯集成电路": {
       "name": "武汉新芯集成电路股份有限公司",
@@ -913,8 +913,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096883184623599618",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-16T03:03:01.614Z",
-      "nextCheckAfter": "2026-09-17T03:03:01.618Z"
+      "lastCheckedAt": "2026-09-16T12:40:14.452Z",
+      "nextCheckAfter": "2026-09-17T12:40:14.459Z"
     },
     "中建八局土木公司": {
       "name": "中建八局土木公司",
@@ -931,21 +931,6 @@
       "lastCheckedAt": "2026-09-15T10:55:22.106Z",
       "nextCheckAfter": "2026-09-16T10:55:22.109Z"
     },
-    "1研发类单位": {
-      "name": "1.研发类单位",
-      "status": "高校自动发现",
-      "state": "source_registered",
-      "provider": "moka",
-      "officialUrl": "https://app.mokahr.com/m/campus-recruitment/dfmc/164438#/home",
-      "reason": "高校详情页明确给出Moka校园招聘入口",
-      "universityEvidence": {
-        "school": "南开大学",
-        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118819.html",
-        "graduationYear": "2027"
-      },
-      "lastCheckedAt": "2026-09-15T10:55:22.106Z",
-      "nextCheckAfter": ""
-    },
     "招商银行沈阳分行": {
       "name": "招商银行股份有限公司沈阳分行",
       "status": "高校自动发现",
@@ -958,8 +943,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-16T03:03:01.614Z",
-      "nextCheckAfter": "2026-09-17T03:03:01.619Z"
+      "lastCheckedAt": "2026-09-16T12:40:14.452Z",
+      "nextCheckAfter": "2026-09-17T12:40:14.463Z"
     },
     "广州地铁": {
       "name": "广州地铁集团有限公司",
@@ -1732,7 +1717,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2094738841867558913",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-16T03:03:01.614Z",
+      "lastCheckedAt": "2026-09-16T12:40:14.452Z",
       "nextCheckAfter": ""
     },
     "路桥": {
@@ -1747,7 +1732,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2097336433965187074",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-16T03:03:01.614Z",
+      "lastCheckedAt": "2026-09-16T12:40:14.452Z",
       "nextCheckAfter": ""
     },
     "山推工程机械": {
@@ -1762,7 +1747,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095333599614771202",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-16T03:03:01.614Z",
+      "lastCheckedAt": "2026-09-16T12:40:14.452Z",
       "nextCheckAfter": ""
     },
     "北方华创": {
@@ -2138,9 +2123,10 @@
     "forceRetry": true
   },
   "lastUniversityBridge": {
-    "candidates": 8,
+    "candidates": 6,
     "sourcesAdded": 0,
-    "queued": 4,
-    "updatedAt": "2026-09-16T03:03:01.614Z"
+    "sourcesRepaired": 0,
+    "queued": 3,
+    "updatedAt": "2026-09-16T12:40:14.452Z"
   }
 }

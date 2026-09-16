@@ -1,8 +1,66 @@
 {
   "company": "新能安",
   "count": 68,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
+    {
+      "id": "hotjob-ee30acde4525",
+      "company": "新能安",
+      "title": "27届秋招 人力资源专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a96ad86829af219b7d71972&recruitType=1",
+      "lastVerified": "2026-09-01",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-205e63654aad",
+      "company": "新能安",
+      "title": "27届秋招 产品线管理会计师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b931ad6db7cf800c692&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
     {
       "id": "hotjob-4b89b2501546",
       "company": "新能安",
@@ -33,9 +91,9 @@
       "deadline": "2026-09-23"
     },
     {
-      "id": "hotjob-1acd3c9a69c7",
+      "id": "hotjob-0be7eec61583",
       "company": "新能安",
-      "title": "27届秋招 电芯产品开发工程师",
+      "title": "27届秋招 PCBA工艺工程师",
       "graduationYear": [
         "2027"
       ],
@@ -56,15 +114,15 @@
       "location": "厦门",
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d202d68cc6f624f3cfadc&recruitType=1",
-      "lastVerified": "2026-09-01",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b921ad6db7cf800c68f&recruitType=1",
+      "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": "2026-09-23"
     },
     {
-      "id": "hotjob-4cc9777b1873",
+      "id": "hotjob-9c2a67814f8d",
       "company": "新能安",
-      "title": "27届秋招 电力电子算法资深工程师",
+      "title": "27届秋招 IE工程师",
       "graduationYear": [
         "2027"
       ],
@@ -85,8 +143,124 @@
       "location": "厦门",
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8f1ad6db7cf800c684&recruitType=1",
-      "lastVerified": "2026-09-01",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9443154813049a76c3&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-dbbef16b89f1",
+      "company": "新能安",
+      "title": "27届秋招 智能制造主管",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8e68cc6f624f3dc3b0&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-71d846de6e81",
+      "company": "新能安",
+      "title": "27届秋招 产品开发工程师（无人机）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b981ad6db7cf800c6a4&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-7987b84bcc0e",
+      "company": "新能安",
+      "title": "27届秋招 机械设计工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b961ad6db7cf800c69c&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-0ac5a2f17d14",
+      "company": "新能安",
+      "title": "27届秋招 前沿技术开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9868cc6f624f3dc3cf&recruitType=1",
+      "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": "2027-08-13"
     },
@@ -115,6 +289,122 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8c68cc6f624f3dc3a9&recruitType=1",
+      "lastVerified": "2026-09-01",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-97163527b50e",
+      "company": "新能安",
+      "title": "27届秋招 客户项目工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b941ad6db7cf800c698&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-afff2a59464d",
+      "company": "新能安",
+      "title": "27届秋招 合同履约专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8e43154813049a76b0&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-e5caa266fa2a",
+      "company": "新能安",
+      "title": "27届秋招 极片开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9643154813049a76ca&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-1acd3c9a69c7",
+      "company": "新能安",
+      "title": "27届秋招 电芯产品开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d202d68cc6f624f3cfadc&recruitType=1",
       "lastVerified": "2026-09-01",
       "sourceType": "official",
       "deadline": "2026-09-23"
@@ -178,93 +468,6 @@
       "deadline": "2027-08-13"
     },
     {
-      "id": "hotjob-dcaa09e8a706",
-      "company": "新能安",
-      "title": "27届秋招 电气设计工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b961ad6db7cf800c69e&recruitType=1",
-      "lastVerified": "2026-09-01",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-ee30acde4525",
-      "company": "新能安",
-      "title": "27届秋招 人力资源专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a96ad86829af219b7d71972&recruitType=1",
-      "lastVerified": "2026-09-01",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-7b12e86a2d1a",
-      "company": "新能安",
-      "title": "27届秋招 工艺开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9568cc6f624f3dc3c8&recruitType=1",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": "2027-08-27"
-    },
-    {
       "id": "hotjob-5e709bb7c6fa",
       "company": "新能安",
       "title": "27届秋招 工艺数字化工程师",
@@ -323,9 +526,38 @@
       "deadline": "2027-08-13"
     },
     {
-      "id": "hotjob-71d846de6e81",
+      "id": "hotjob-9b8a38bea55c",
       "company": "新能安",
-      "title": "27届秋招 产品开发工程师（无人机）",
+      "title": "27届秋招 产品开发工程师（电动工具）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、日语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9943154813049a76d6&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-dfee11cf6b28",
+      "company": "新能安",
+      "title": "27届秋招 BMS算法工程师",
       "graduationYear": [
         "2027"
       ],
@@ -346,7 +578,761 @@
       "location": "厦门",
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b981ad6db7cf800c6a4&recruitType=1",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9143154813049a76b6&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-08d8b4fce105",
+      "company": "新能安",
+      "title": "27届秋招 测试工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9343154813049a76be&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-ebb1602272eb",
+      "company": "新能安",
+      "title": "27届秋招 出纳专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9368cc6f624f3dc3c1&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-3058595b4ba9",
+      "company": "新能安",
+      "title": "27届秋招 资金助理会计师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9368cc6f624f3dc3c3&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-fb384e57431e",
+      "company": "新能安",
+      "title": "27届秋招 储能交付工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b941ad6db7cf800c694&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-052f9ac3b99b",
+      "company": "新能安",
+      "title": "27届秋招 储能客户代表",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b941ad6db7cf800c696&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-c4c736fecd79",
+      "company": "新能安",
+      "title": "27届秋招 微型车客户代表",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、日语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9543154813049a76c5&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-63d22924c9aa",
+      "company": "新能安",
+      "title": "27届秋招 采购专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8d1ad6db7cf800c67c&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-6589705c88cc",
+      "company": "新能安",
+      "title": "27届秋招 电池可靠性研发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9a1ad6db7cf800c6a8&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-5d586b725cae",
+      "company": "新能安",
+      "title": "27届秋招 电池开发验证工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8968cc6f624f3dc3a0&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-2112729997ee",
+      "company": "新能安",
+      "title": "27届秋招 系统测试工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8b43154813049a76a4&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-f5096140c351",
+      "company": "新能安",
+      "title": "27届秋招 客户满意工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8b1ad6db7cf800c674&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-6f7a6a9056de",
+      "company": "新能安",
+      "title": "27届秋招 制程质量工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8b1ad6db7cf800c676&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-09f05bc9d954",
+      "company": "新能安",
+      "title": "27届秋招 先期质量工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8c68cc6f624f3dc3a7&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-aaf5ea7f32f1",
+      "company": "新能安",
+      "title": "27届秋招 负极材料研发资深工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9843154813049a76d4&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-f6f1a67a981c",
+      "company": "新能安",
+      "title": "27届秋招 产品标准与认证工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9943154813049a76d8&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-bb6f6e39b829",
+      "company": "新能安",
+      "title": "27届秋招 AI智能系统软件工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d8ff91ad6db7cf800c2bb&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-c2667e8b9761",
+      "company": "新能安",
+      "title": "27届秋招 AIDC解决方案售前技术工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d8ff943154813049a6d28&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-4cc9777b1873",
+      "company": "新能安",
+      "title": "27届秋招 电力电子算法资深工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8f1ad6db7cf800c684&recruitType=1",
+      "lastVerified": "2026-09-01",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-dcaa09e8a706",
+      "company": "新能安",
+      "title": "27届秋招 电气设计工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b961ad6db7cf800c69e&recruitType=1",
+      "lastVerified": "2026-09-01",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-7b12e86a2d1a",
+      "company": "新能安",
+      "title": "27届秋招 工艺开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9568cc6f624f3dc3c8&recruitType=1",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": "2027-08-27"
+    },
+    {
+      "id": "hotjob-f475e1839cb5",
+      "company": "新能安",
+      "title": "27届秋招 储能电气研发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9068cc6f624f3dc3b6&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-9a93f85f95bf",
+      "company": "新能安",
+      "title": "27届秋招 电气线束工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b901ad6db7cf800c688&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-9d8f4bfa7638",
+      "company": "新能安",
+      "title": "27届秋招 硬件开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b901ad6db7cf800c686&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-95f2c5653d4d",
+      "company": "新能安",
+      "title": "27届秋招 IoT后端开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9143154813049a76ba&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-ded03275f4f3",
+      "company": "新能安",
+      "title": "27届秋招 IoT前端开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9143154813049a76b8&recruitType=1",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": "2027-08-13"
+    },
+    {
+      "id": "hotjob-21b265f30330",
+      "company": "新能安",
+      "title": "27届秋招 EMS算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9143154813049a76b4&recruitType=1",
       "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": "2027-08-13"
@@ -526,64 +1512,6 @@
       "deadline": "2026-09-23"
     },
     {
-      "id": "hotjob-0be7eec61583",
-      "company": "新能安",
-      "title": "27届秋招 PCBA工艺工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b921ad6db7cf800c68f&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-08d8b4fce105",
-      "company": "新能安",
-      "title": "27届秋招 测试工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9343154813049a76be&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
       "id": "hotjob-201dc70911f6",
       "company": "新能安",
       "title": "27届秋招 机械设备改善工程师",
@@ -608,325 +1536,6 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9343154813049a76c0&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-205e63654aad",
-      "company": "新能安",
-      "title": "27届秋招 产品线管理会计师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b931ad6db7cf800c692&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-ebb1602272eb",
-      "company": "新能安",
-      "title": "27届秋招 出纳专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9368cc6f624f3dc3c1&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-3058595b4ba9",
-      "company": "新能安",
-      "title": "27届秋招 资金助理会计师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9368cc6f624f3dc3c3&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-9c2a67814f8d",
-      "company": "新能安",
-      "title": "27届秋招 IE工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9443154813049a76c3&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-fb384e57431e",
-      "company": "新能安",
-      "title": "27届秋招 储能交付工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b941ad6db7cf800c694&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-052f9ac3b99b",
-      "company": "新能安",
-      "title": "27届秋招 储能客户代表",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b941ad6db7cf800c696&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-97163527b50e",
-      "company": "新能安",
-      "title": "27届秋招 客户项目工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b941ad6db7cf800c698&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-c4c736fecd79",
-      "company": "新能安",
-      "title": "27届秋招 微型车客户代表",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9543154813049a76c5&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-63d22924c9aa",
-      "company": "新能安",
-      "title": "27届秋招 采购专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8d1ad6db7cf800c67c&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-afff2a59464d",
-      "company": "新能安",
-      "title": "27届秋招 合同履约专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8e43154813049a76b0&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-dbbef16b89f1",
-      "company": "新能安",
-      "title": "27届秋招 智能制造主管",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8e68cc6f624f3dc3b0&recruitType=1",
       "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": "2026-09-23"
@@ -985,64 +1594,6 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9a43154813049a76de&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-6589705c88cc",
-      "company": "新能安",
-      "title": "27届秋招 电池可靠性研发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9a1ad6db7cf800c6a8&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-5d586b725cae",
-      "company": "新能安",
-      "title": "27届秋招 电池开发验证工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8968cc6f624f3dc3a0&recruitType=1",
       "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": "2026-09-23"
@@ -1135,35 +1686,6 @@
       "deadline": "2026-09-23"
     },
     {
-      "id": "hotjob-2112729997ee",
-      "company": "新能安",
-      "title": "27届秋招 系统测试工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8b43154813049a76a4&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
       "id": "hotjob-ad0a2db7bf53",
       "company": "新能安",
       "title": "27届秋招 电池建模与仿真资深工程师",
@@ -1191,93 +1713,6 @@
       "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-f5096140c351",
-      "company": "新能安",
-      "title": "27届秋招 客户满意工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8b1ad6db7cf800c674&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-6f7a6a9056de",
-      "company": "新能安",
-      "title": "27届秋招 制程质量工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8b1ad6db7cf800c676&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-09f05bc9d954",
-      "company": "新能安",
-      "title": "27届秋招 先期质量工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b8c68cc6f624f3dc3a7&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
     },
     {
       "id": "hotjob-4e62217a81d6",
@@ -1391,64 +1826,6 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9568cc6f624f3dc3c6&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-e5caa266fa2a",
-      "company": "新能安",
-      "title": "27届秋招 极片开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9643154813049a76ca&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-7987b84bcc0e",
-      "company": "新能安",
-      "title": "27届秋招 机械设计工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b961ad6db7cf800c69c&recruitType=1",
       "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": "2027-08-13"
@@ -1570,64 +1947,6 @@
       "deadline": "2027-08-13"
     },
     {
-      "id": "hotjob-0ac5a2f17d14",
-      "company": "新能安",
-      "title": "27届秋招 前沿技术开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9868cc6f624f3dc3cf&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-aaf5ea7f32f1",
-      "company": "新能安",
-      "title": "27届秋招 负极材料研发资深工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9843154813049a76d4&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
       "id": "hotjob-33afea1a4e91",
       "company": "新能安",
       "title": "27届秋招 储能系统研发工程师",
@@ -1644,7 +1963,7 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "",
+        "raw": "西班牙语",
         "english": false,
         "minorLanguageRequired": false
       },
@@ -1652,325 +1971,6 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9968cc6f624f3dc3d1&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-f6f1a67a981c",
-      "company": "新能安",
-      "title": "27届秋招 产品标准与认证工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9943154813049a76d8&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-bb6f6e39b829",
-      "company": "新能安",
-      "title": "27届秋招 AI智能系统软件工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d8ff91ad6db7cf800c2bb&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-c2667e8b9761",
-      "company": "新能安",
-      "title": "27届秋招 AIDC解决方案售前技术工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d8ff943154813049a6d28&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-9b8a38bea55c",
-      "company": "新能安",
-      "title": "27届秋招 产品开发工程师（电动工具）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语、日语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9943154813049a76d6&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-dfee11cf6b28",
-      "company": "新能安",
-      "title": "27届秋招 BMS算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9143154813049a76b6&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-f475e1839cb5",
-      "company": "新能安",
-      "title": "27届秋招 储能电气研发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9068cc6f624f3dc3b6&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-9a93f85f95bf",
-      "company": "新能安",
-      "title": "27届秋招 电气线束工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b901ad6db7cf800c688&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-9d8f4bfa7638",
-      "company": "新能安",
-      "title": "27届秋招 硬件开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b901ad6db7cf800c686&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-95f2c5653d4d",
-      "company": "新能安",
-      "title": "27届秋招 IoT后端开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9143154813049a76ba&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-ded03275f4f3",
-      "company": "新能安",
-      "title": "27届秋招 IoT前端开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9143154813049a76b8&recruitType=1",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": "2027-08-13"
-    },
-    {
-      "id": "hotjob-21b265f30330",
-      "company": "新能安",
-      "title": "27届秋招 EMS算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "厦门",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/mc/detail?postId=6a7d9b9143154813049a76b4&recruitType=1",
       "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": "2027-08-13"

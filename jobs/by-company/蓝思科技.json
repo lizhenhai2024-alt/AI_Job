@@ -1,8 +1,37 @@
 {
   "company": "蓝思科技",
   "count": 45,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
+    {
+      "id": "beisen-c9fd07c51504",
+      "company": "蓝思科技",
+      "title": "QE工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=583a199e-c778-40ca-b420-69ae26208474",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
     {
       "id": "beisen-3e9b6f0af9e7",
       "company": "蓝思科技",
@@ -28,354 +57,6 @@
       "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=2ecdc6ab-babe-4d88-82d2-da9dc3acd537",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-99066b04c18c",
-      "company": "蓝思科技",
-      "title": "信息安全工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=bdb8f4bd-86aa-4bee-952f-8c39d0f652a5",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-63e9b07b575a",
-      "company": "蓝思科技",
-      "title": "PC/MC工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=607a63be-629e-426c-82ca-41e1cfbf207f",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-fd29a59469a0",
-      "company": "蓝思科技",
-      "title": "成本会计",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=a9e282ed-189c-4c3a-b8fd-b848bdc3fa74",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-b5a2543e1c7d",
-      "company": "蓝思科技",
-      "title": "安环专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=8a5cde66-e7dd-41b3-8df0-8c8f86eada5b",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-9d98be9ad9f8",
-      "company": "蓝思科技",
-      "title": "采购专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b0f1b94a-712c-4aa8-9fb7-3991754dc6c4",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-24877b6f2be7",
-      "company": "蓝思科技",
-      "title": "材料开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=9ca8e2a4-b631-4b95-b31d-351aac117b05",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-6c0955911c08",
-      "company": "蓝思科技",
-      "title": "光学工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=03edb925-fe0f-48f0-8f93-dcf6ea155944",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-e90224169da2",
-      "company": "蓝思科技",
-      "title": "软件工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b00976ae-be71-4c7b-b84f-28c98d1ffc8b",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-3241daf3d912",
-      "company": "蓝思科技",
-      "title": "研发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=976542c1-a57c-44f3-a36f-b4b1ce6913ab",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-a9ec6d5166a2",
-      "company": "蓝思科技",
-      "title": "AI工业模型工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b1817cfa-7d96-4423-bc43-f6c44bed68c2",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-9488da9891b5",
-      "company": "蓝思科技",
-      "title": "硬件工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b8bdf20c-0452-4eb6-bdd1-3fe0d2e2982b",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-ef6d7507e83a",
-      "company": "蓝思科技",
-      "title": "算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=54da4f8d-1a78-4a6d-b03d-ae4d061ac077",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
@@ -439,9 +120,9 @@
       "deadline": ""
     },
     {
-      "id": "beisen-7dd064229498",
+      "id": "beisen-fb153fa92e59",
       "company": "蓝思科技",
-      "title": "EPM工程师",
+      "title": "项目工程师",
       "graduationYear": [
         "2027"
       ],
@@ -455,22 +136,22 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
+        "raw": "英语、日语、韩语、越南语",
         "english": true,
         "minorLanguageRequired": false
       },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "越南",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=68811e1e-3d6f-4e6e-81e8-7bae7f8305ff",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=49039cf2-a5e9-43be-b7ce-ece7e5807448",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "beisen-51cca61026d2",
+      "id": "beisen-9d98be9ad9f8",
       "company": "蓝思科技",
-      "title": "PM-国内业务",
+      "title": "采购专员",
       "graduationYear": [
         "2027"
       ],
@@ -484,14 +165,14 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "",
-        "english": false,
+        "raw": "英语、日语",
+        "english": true,
         "minorLanguageRequired": false
       },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=caeaadd3-2f30-40a0-ae14-2f407fa4636c",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b0f1b94a-712c-4aa8-9fb7-3991754dc6c4",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
@@ -526,64 +207,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-21622a68e216",
-      "company": "蓝思科技",
-      "title": "生技助工",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=dc505a92-46e2-43e8-a116-6284d2c927e7",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-c9fd07c51504",
-      "company": "蓝思科技",
-      "title": "QE工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=583a199e-c778-40ca-b420-69ae26208474",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-71280cdee084",
       "company": "蓝思科技",
       "title": "RQE工程师",
@@ -608,6 +231,151 @@
       "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=84ccc109-bee6-4f79-bd93-60815194a54d",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-fd29a59469a0",
+      "company": "蓝思科技",
+      "title": "成本会计",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=a9e282ed-189c-4c3a-b8fd-b848bdc3fa74",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-6c0955911c08",
+      "company": "蓝思科技",
+      "title": "光学工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=03edb925-fe0f-48f0-8f93-dcf6ea155944",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-3241daf3d912",
+      "company": "蓝思科技",
+      "title": "研发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=976542c1-a57c-44f3-a36f-b4b1ce6913ab",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ef6d7507e83a",
+      "company": "蓝思科技",
+      "title": "算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=54da4f8d-1a78-4a6d-b03d-ae4d061ac077",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7dd064229498",
+      "company": "蓝思科技",
+      "title": "EPM工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、日语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=68811e1e-3d6f-4e6e-81e8-7bae7f8305ff",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
@@ -671,6 +439,441 @@
       "deadline": ""
     },
     {
+      "id": "beisen-7203812bab3a",
+      "company": "蓝思科技",
+      "title": "工艺工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=8ba42bc4-887b-4d15-9030-4cddb2e8a38b",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-6a9ea51e346c",
+      "company": "蓝思科技",
+      "title": "品质经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=e901d112-45f9-4106-8607-8e376a6e7bb6",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2c76c2f92210",
+      "company": "蓝思科技",
+      "title": "材料开发高级工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=cc8dc22c-7aeb-4e99-bdff-243fd496d035",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b3ebe1b2814b",
+      "company": "蓝思科技",
+      "title": "光学设计高级工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=3881d71e-b247-486f-8471-f35b1f0677cc",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-3f66ffdde0d8",
+      "company": "蓝思科技",
+      "title": "运控算法高级工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=a6a30a88-ef9b-4bb2-baf9-0d288f72271f",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2c948c3a918a",
+      "company": "蓝思科技",
+      "title": "光学材料高级工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=2fe88563-f56a-4db5-88cd-1337b2fad096",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-99066b04c18c",
+      "company": "蓝思科技",
+      "title": "信息安全工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=bdb8f4bd-86aa-4bee-952f-8c39d0f652a5",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-63e9b07b575a",
+      "company": "蓝思科技",
+      "title": "PC/MC工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=607a63be-629e-426c-82ca-41e1cfbf207f",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b5a2543e1c7d",
+      "company": "蓝思科技",
+      "title": "安环专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=8a5cde66-e7dd-41b3-8df0-8c8f86eada5b",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-24877b6f2be7",
+      "company": "蓝思科技",
+      "title": "材料开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=9ca8e2a4-b631-4b95-b31d-351aac117b05",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e90224169da2",
+      "company": "蓝思科技",
+      "title": "软件工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b00976ae-be71-4c7b-b84f-28c98d1ffc8b",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a9ec6d5166a2",
+      "company": "蓝思科技",
+      "title": "AI工业模型工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b1817cfa-7d96-4423-bc43-f6c44bed68c2",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9488da9891b5",
+      "company": "蓝思科技",
+      "title": "硬件工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b8bdf20c-0452-4eb6-bdd1-3fe0d2e2982b",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-51cca61026d2",
+      "company": "蓝思科技",
+      "title": "PM-国内业务",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=caeaadd3-2f30-40a0-ae14-2f407fa4636c",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-21622a68e216",
+      "company": "蓝思科技",
+      "title": "生技助工",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=dc505a92-46e2-43e8-a116-6284d2c927e7",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-8c30007e5cb0",
       "company": "蓝思科技",
       "title": "QE助理工程师",
@@ -695,35 +898,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=75e0035f-bbb8-4687-a5f5-2be4b9628525",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-5306609f4b6f",
-      "company": "蓝思科技",
-      "title": "QE工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "越南",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=03cf2ba0-75df-4bf7-b812-d89a306b56f9",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
@@ -774,7 +948,7 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
+        "raw": "英语、越南语",
         "english": true,
         "minorLanguageRequired": false
       },
@@ -803,7 +977,7 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
+        "raw": "英语、越南语",
         "english": true,
         "minorLanguageRequired": false
       },
@@ -811,35 +985,6 @@
       "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=6d12f8bf-e946-4320-a6c0-46d418329a0c",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-fb153fa92e59",
-      "company": "蓝思科技",
-      "title": "项目工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "越南",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=49039cf2-a5e9-43be-b7ce-ece7e5807448",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
@@ -898,35 +1043,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b7f00b78-9ee1-4c20-98c2-e6798ee8edf2",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-7203812bab3a",
-      "company": "蓝思科技",
-      "title": "工艺工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=8ba42bc4-887b-4d15-9030-4cddb2e8a38b",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
@@ -1106,122 +1222,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-6a9ea51e346c",
-      "company": "蓝思科技",
-      "title": "品质经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=e901d112-45f9-4106-8607-8e376a6e7bb6",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-2c76c2f92210",
-      "company": "蓝思科技",
-      "title": "材料开发高级工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=cc8dc22c-7aeb-4e99-bdff-243fd496d035",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-b3ebe1b2814b",
-      "company": "蓝思科技",
-      "title": "光学设计高级工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=3881d71e-b247-486f-8471-f35b1f0677cc",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-3f66ffdde0d8",
-      "company": "蓝思科技",
-      "title": "运控算法高级工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=a6a30a88-ef9b-4bb2-baf9-0d288f72271f",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-e8361f6a8095",
       "company": "蓝思科技",
       "title": "VLA算法高级工程师",
@@ -1251,35 +1251,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-2c948c3a918a",
-      "company": "蓝思科技",
-      "title": "光学材料高级工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=2fe88563-f56a-4db5-88cd-1337b2fad096",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-ea4fac0de378",
       "company": "蓝思科技",
       "title": "AI工业模型高级工程师",
@@ -1304,6 +1275,35 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=51c223f5-f076-4d66-8cc8-bb91e09b1b3d",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-5306609f4b6f",
+      "company": "蓝思科技",
+      "title": "QE工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、越南语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "越南",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=03cf2ba0-75df-4bf7-b812-d89a306b56f9",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""

@@ -1,8 +1,878 @@
 {
   "company": "蒙牛",
   "count": 119,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
+    {
+      "id": "beisen-2e516434951d",
+      "company": "蒙牛",
+      "title": "市场未来星（品牌管理方向-国际化）(J67644)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=8cb4b2a3-fc87-4f16-acfc-582526955845",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d0357d32aa6a",
+      "company": "蒙牛",
+      "title": "市场未来星（消费者运营方向）(J67647)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、SQL、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=44c851c1-bbdc-4343-8f05-fd1c43aa19bb",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-52cc404ef232",
+      "company": "蒙牛",
+      "title": "市场未来星（国际化-品牌方向）(J67922)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c32c1b82-c9d4-4734-b46d-5eca9836afb0",
+      "lastVerified": "2026-09-08",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-303cf5a854fa",
+      "company": "蒙牛",
+      "title": "人力资源未来星（国际化）(J67656)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、跨部门沟通、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=86ccbcda-0354-4dc3-a208-102c96cff8ea",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-fa02443911e1",
+      "company": "蒙牛",
+      "title": "人力资源未来星（国际化）(J67657)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、跨部门沟通、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=e328cfd1-8f71-41ab-bcd8-a8781678bf7c",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ac45f1b0d92c",
+      "company": "蒙牛",
+      "title": "战略未来星（国际化）(J67920)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、PPT、PowerBI。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=d22fd77d-c46a-496f-be03-cf510f7911f5",
+      "lastVerified": "2026-09-08",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7a2c19f435e7",
+      "company": "蒙牛",
+      "title": "供应链未来星(J67585)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=69d6448e-f0ff-437d-aea5-5dbde8324715",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a760b23c4e5d",
+      "company": "蒙牛",
+      "title": "市场未来星（品牌方向）(J67601)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c045457a-b70a-401d-b1ca-fc995b5e1b81",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-13bd293adf13",
+      "company": "蒙牛",
+      "title": "人力资源未来星（国际化）(J67631)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c784fea1-e7d2-4ac7-8e80-ac14f5c0b2c3",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-cde924459a83",
+      "company": "蒙牛",
+      "title": "财务未来星(J67632)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9b0a92a8-2a97-422b-bc7d-581ba5ce5834",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-8cdb3adc577f",
+      "company": "蒙牛",
+      "title": "供应链未来星(J67634)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=1320d30d-8f7f-438b-b9a8-166d8fc98cd2",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-5901426270d0",
+      "company": "蒙牛",
+      "title": "研发未来星（国际化）(J67640)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ce9136cd-0290-481b-b818-a76d5aa30c74",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d35d9dc2c922",
+      "company": "蒙牛",
+      "title": "市场未来星(J67607)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=7c9079ad-6c66-46df-885a-77149f92580b",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-91231e7ee8c9",
+      "company": "蒙牛",
+      "title": "人力资源未来星（国际化）(J67654)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=8abeaa22-5021-42fc-8438-641fee25a7ed",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1bbace22feb4",
+      "company": "蒙牛",
+      "title": "人力资源未来星（国际化）(J67658)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=e7ecb819-3f0d-4619-8bc2-fdd54e7032c0",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e3a9345ccda5",
+      "company": "蒙牛",
+      "title": "人力资源未来星（国际化）(J67921)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6539d015-0bd0-48ca-aef2-cb0df5bc06dc",
+      "lastVerified": "2026-09-08",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7b9d0b8e8935",
+      "company": "蒙牛",
+      "title": "市场未来星（品牌方向）(J67591)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=09d741cc-7c8e-42ed-bca2-1aa55b0e3b1f",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7a9ece86b5d1",
+      "company": "蒙牛",
+      "title": "供应链未来星（运营方向）(J67603)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c74bbcc3-66b3-4bc1-bea8-3ba098675bc5",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9c8d3457273d",
+      "company": "蒙牛",
+      "title": "供应链未来星(J67636)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ce0710af-1062-444f-b1da-a29a8973d755",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-80c87bd70d1b",
+      "company": "蒙牛",
+      "title": "市场未来星（消费者体验方向）(J67646)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=e96059ca-8406-4a37-aa45-20f0bab33df9",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b09e4527e9b1",
+      "company": "蒙牛",
+      "title": "人力资源未来星（国际化）(J67655)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=523688e7-54da-4b7d-9f92-8cfce2391256",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0872c9f56c24",
+      "company": "蒙牛",
+      "title": "财务未来星（国际化）(J67919)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3a8694ed-e6d8-4c69-bc16-e7c8fc8ba337",
+      "lastVerified": "2026-09-08",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a2a9ff96be7f",
+      "company": "蒙牛",
+      "title": "战略未来星(J67593)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、PowerBI。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=2f449f6e-06b3-4541-8d50-c9dcada18f9a",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d10984a1bc00",
+      "company": "蒙牛",
+      "title": "供应链未来星（计划方向）(J67602)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9c17052b-3510-4a0d-9ba0-5006bb59bf7f",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7a846f07ef75",
+      "company": "蒙牛",
+      "title": "供应链未来星(J67635)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=dd553fea-39e6-465c-8b8c-c63721d78e97",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-00c207e8da50",
+      "company": "蒙牛",
+      "title": "供应链未来星(J67637)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=1c9e8906-b6b1-4988-8571-a363b1f562d8",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7def4894358a",
+      "company": "蒙牛",
+      "title": "研发未来星(J67638)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：项目管理、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5437e026-fcda-4fbe-b158-1871ef4bc097",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-336b1b5edb5d",
+      "company": "蒙牛",
+      "title": "市场未来星(J67605)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9a4a35a1-b784-4bf8-9c3d-766161113e83",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-58f4ddc8fa95",
+      "company": "蒙牛",
+      "title": "战略未来星（国际化）(J67643)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5e617d9c-844d-4b62-bbed-3bb74add509b",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-432798550b5b",
+      "company": "蒙牛",
+      "title": "市场未来星（长期IP资源管理方向-国际化）(J67645)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b8706452-19c1-4f24-8c48-c334ba69f5d3",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
     {
       "id": "beisen-1cfc95b74595",
       "company": "蒙牛",
@@ -62,122 +932,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-52cc404ef232",
-      "company": "蒙牛",
-      "title": "市场未来星（国际化-品牌方向）(J67922)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c32c1b82-c9d4-4734-b46d-5eca9836afb0",
-      "lastVerified": "2026-09-08",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-e3a9345ccda5",
-      "company": "蒙牛",
-      "title": "人力资源未来星（国际化）(J67921)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6539d015-0bd0-48ca-aef2-cb0df5bc06dc",
-      "lastVerified": "2026-09-08",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-ac45f1b0d92c",
-      "company": "蒙牛",
-      "title": "战略未来星（国际化）(J67920)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、PPT、PowerBI。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=d22fd77d-c46a-496f-be03-cf510f7911f5",
-      "lastVerified": "2026-09-08",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-0872c9f56c24",
-      "company": "蒙牛",
-      "title": "财务未来星（国际化）(J67919)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3a8694ed-e6d8-4c69-bc16-e7c8fc8ba337",
-      "lastVerified": "2026-09-08",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-bb1c0038ae67",
       "company": "蒙牛",
       "title": "销售未来星（国际化）(J67918)",
@@ -207,9 +961,9 @@
       "deadline": ""
     },
     {
-      "id": "beisen-e0df2e43e34f",
+      "id": "beisen-e99f0b96d4ac",
       "company": "蒙牛",
-      "title": "星动力-城市经理岗(J67549)",
+      "title": "人力资源未来星(J67592)",
       "graduationYear": [
         "2027"
       ],
@@ -227,18 +981,76 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "辽宁省·大连市",
+      "location": "北京",
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b315220d-58bc-451c-bf3a-635a02604657",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a18d4257-9c72-4418-afe6-d80217a83489",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "beisen-708151fc35c3",
+      "id": "beisen-3042e3af62ae",
       "company": "蒙牛",
-      "title": "星动力-城市经理岗(J67550)",
+      "title": "供应链未来星(J67599)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=da0d0487-c865-4532-9395-8d3d1b56d212",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-29655c8f74e3",
+      "company": "蒙牛",
+      "title": "销售未来星（电商方向）(J67604)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b145cc36-8081-4fb4-a61f-a27f88b189a7",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-11988701ece8",
+      "company": "蒙牛",
+      "title": "供应链未来星(J67625)",
       "graduationYear": [
         "2027"
       ],
@@ -256,10 +1068,880 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "辽宁省·沈阳市",
+      "location": "北京",
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3e3894a9-9708-483b-a098-23b0155f4838",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=4a1c80b7-61ef-4410-a3a5-320a8d349fce",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b287cb563342",
+      "company": "蒙牛",
+      "title": "市场未来星(J67627)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=fa4ef842-2e05-435b-8d5b-929324900b2e",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0efdbe4c20f5",
+      "company": "蒙牛",
+      "title": "市场未来星(J67628)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b1a2e9c2-fad6-46c7-b61c-e65d0e0661ed",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a911a5e6a97f",
+      "company": "蒙牛",
+      "title": "研发未来星（国际化）(J67642)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=70b04ea5-6997-48bf-9d0c-6662146b0114",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ada46e96a6bf",
+      "company": "蒙牛",
+      "title": "市场未来星(J67606)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3158507d-d6af-4eb3-a70e-eda3cac0c62d",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-00ad99f5fdfa",
+      "company": "蒙牛",
+      "title": "销售未来星(J67608)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=12e8e9a7-a788-47a8-b3d8-a942fb50379d",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a532edbd2cfd",
+      "company": "蒙牛",
+      "title": "数智化未来星 （数据方向-国际化）(J67648)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3e802638-7955-4671-b1d6-3d48bafc34c3",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-13ae84cecaef",
+      "company": "蒙牛",
+      "title": "数智化未来星 （流程方向）(J67651)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=d70e075e-d032-4627-aeee-1b939188534e",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b5c44b3ac0cf",
+      "company": "蒙牛",
+      "title": "财务未来星(J67594)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=f15e3da9-b6a8-4522-81ad-ea3bce374b8b",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-6fc6e368a3b8",
+      "company": "蒙牛",
+      "title": "财务未来星(J67617)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3f55527e-3ad8-4ffd-bec0-44cefed7cb32",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-70a7b3b3ddee",
+      "company": "蒙牛",
+      "title": "财务未来星(J67618)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5d251464-ff92-4b8f-a400-f8c0f1675d2d",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-55e22ded45a7",
+      "company": "蒙牛",
+      "title": "销售未来星（国际化）(J67652)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5583033b-2990-4666-9c29-37863a7f70ae",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-cf52be76c62d",
+      "company": "蒙牛",
+      "title": "销售未来星(J67653)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3a9fb9ca-e82f-43e9-8894-f6c4fba6d39e",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-bf3597d4d25d",
+      "company": "蒙牛",
+      "title": "法务未来星（国际化）(J67659)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=17ba5eda-ac93-45c1-8aa1-d524c12ddacf",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-3becd3fc007e",
+      "company": "蒙牛",
+      "title": "法务未来星（国际化）(J67660)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c6fca488-8e1e-415a-a5f2-ecc3b5793ef0",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-225ac065aafd",
+      "company": "蒙牛",
+      "title": "财务未来星（国际化）(J67661)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=d1578b76-5b30-4845-b934-1ed6b310442d",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-91889e590267",
+      "company": "蒙牛",
+      "title": "财务未来星（国际化）(J67664)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=91221c30-0187-42ab-b720-6a7bbc84df5e",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7d7a58a9c502",
+      "company": "蒙牛",
+      "title": "财务未来星（国际化）(J67665)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=109e3160-d2cf-4864-9936-58bc01bdf40d",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0cbcee2a6ec1",
+      "company": "蒙牛",
+      "title": "销售星动力(J67531)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6731f716-c023-4c43-89cc-087b8912bed2",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-cd1c80338a8d",
+      "company": "蒙牛",
+      "title": "星动力-生产运营(J67571)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a2246714-28d1-455d-bcac-818277188b76",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-3943dcba7b0b",
+      "company": "蒙牛",
+      "title": "数智化未来星(J67588)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=11e04a69-60e4-4ade-a1fc-ad2ab67e4718",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-731ff01f56b4",
+      "company": "蒙牛",
+      "title": "研发未来星（法规方向）(J67583)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9fa257b0-06c9-456d-8e14-0ff6902bb6dc",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0ac4b2f0506b",
+      "company": "蒙牛",
+      "title": "财务未来星(J67595)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=4bfdef9e-665c-44f8-a767-9c6a4574d858",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-45fc991263c4",
+      "company": "蒙牛",
+      "title": "销售未来星(J67596)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=444f3000-5e67-4d6d-a919-f546067121f0",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e5fdf3b3fd3c",
+      "company": "蒙牛",
+      "title": "研发未来星(J67620)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ae8c404d-e84a-44c9-8a66-7aa2bf587c89",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-421922e26d6e",
+      "company": "蒙牛",
+      "title": "研发未来星(J67622)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=da936392-a044-4b66-b8d0-dc0b5c7d7065",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ac1e55137eb3",
+      "company": "蒙牛",
+      "title": "安全质量未来星(J67633)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ce5b4212-0dc2-4640-b0d5-be6df0b1e57b",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-8d00f1802780",
+      "company": "蒙牛",
+      "title": "研发未来星(J67639)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=0b747707-3b3e-4435-805b-bf7cb5d4167b",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d3226587bc94",
+      "company": "蒙牛",
+      "title": "研发未来星(J67641)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=27312f62-4db5-4924-bfed-b4b114eb953b",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-860c654e2dd1",
+      "company": "蒙牛",
+      "title": "财务未来星（国际化）(J67662)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=76662669-3992-472c-b7be-a13cd81bcc64",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0320978c2848",
+      "company": "蒙牛",
+      "title": "财务未来星（国际化）(J67663)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=57aca78c-46aa-47d1-b5b0-3ab18e25b911",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -468,35 +2150,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-0cbcee2a6ec1",
-      "company": "蒙牛",
-      "title": "销售星动力(J67531)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6731f716-c023-4c43-89cc-087b8912bed2",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-1ac680921cb2",
       "company": "蒙牛",
       "title": "销售星动力(J67530)",
@@ -521,93 +2174,6 @@
       "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a7123171-efba-4f07-b3dd-34c828091466",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-cd1c80338a8d",
-      "company": "蒙牛",
-      "title": "星动力-生产运营(J67571)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a2246714-28d1-455d-bcac-818277188b76",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d13dd67309c7",
-      "company": "蒙牛",
-      "title": "星动力-质量管理(J67572)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5226aa7d-d5e9-4ac9-a90f-4f15d0889d49",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-25d3e80aaaf8",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗(J67556)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "南京",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ac92a194-b506-4f20-90cf-fe980ae00bdd",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -671,151 +2237,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-4f1c7e10f3be",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗（安康）(J67559)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "陕西省·安康市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=952d0e0a-45b5-4ad0-8100-22c519d97c1d",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-040f7c29201b",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗（呼和浩特）(J67560)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6489651c-38c8-4379-a1ee-475e5ec17e79",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-68a4619d974a",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗（银川）(J67561)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "宁夏回族自治区·银川市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a96fa411-d3b5-4455-8ecc-fb097f8f41e6",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-4321e7937041",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗(J67562)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "湖北省·荆州市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=edf09e2b-f6ec-49b1-b089-ff57283fe386",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-b89410b65c42",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗(J67563)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "湖南省·岳阳市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b2f39364-4036-468b-a12f-521c3176c3f0",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-348829f3d650",
       "company": "蒙牛",
       "title": "星动力-新场景拓展岗(J67564)",
@@ -840,93 +2261,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=0b68ec0e-6456-4f87-b88c-fd3a28f91a01",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d31d377403e4",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗(J67566)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "河南省·周口市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=54e2cba3-78d5-4a17-ab70-9ef60a0543d5",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-777a732f02d6",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗(J67565)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·日照市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=167d66dd-d567-44c8-b0e3-8a8e10751007",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-fd5438883046",
-      "company": "蒙牛",
-      "title": "星动力-城市经理岗(J67567)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=4d9f2004-369b-4cc6-8a92-c3c33c3af592",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -985,64 +2319,6 @@
       "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5d7721ca-8ec0-466d-99eb-50babeccaa10",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-3943dcba7b0b",
-      "company": "蒙牛",
-      "title": "数智化未来星(J67588)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=11e04a69-60e4-4ade-a1fc-ad2ab67e4718",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-7b9d0b8e8935",
-      "company": "蒙牛",
-      "title": "市场未来星（品牌方向）(J67591)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=09d741cc-7c8e-42ed-bca2-1aa55b0e3b1f",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -1193,35 +2469,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-731ff01f56b4",
-      "company": "蒙牛",
-      "title": "研发未来星（法规方向）(J67583)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9fa257b0-06c9-456d-8e14-0ff6902bb6dc",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-4cc3c4aae176",
       "company": "蒙牛",
       "title": "研发未来星（产品开发方向）(J67584)",
@@ -1246,122 +2493,6 @@
       "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=334ea43d-606f-4c21-b66f-a74bd6012517",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-e99f0b96d4ac",
-      "company": "蒙牛",
-      "title": "人力资源未来星(J67592)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a18d4257-9c72-4418-afe6-d80217a83489",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-0ac4b2f0506b",
-      "company": "蒙牛",
-      "title": "财务未来星(J67595)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=4bfdef9e-665c-44f8-a767-9c6a4574d858",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-b5c44b3ac0cf",
-      "company": "蒙牛",
-      "title": "财务未来星(J67594)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=f15e3da9-b6a8-4522-81ad-ea3bce374b8b",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-a2a9ff96be7f",
-      "company": "蒙牛",
-      "title": "战略未来星(J67593)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、PowerBI。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=2f449f6e-06b3-4541-8d50-c9dcada18f9a",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -1420,93 +2551,6 @@
       "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9d7aec78-f33a-4a87-97ec-ae68be545402",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-7a2c19f435e7",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67585)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=69d6448e-f0ff-437d-aea5-5dbde8324715",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-3042e3af62ae",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67599)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=da0d0487-c865-4532-9395-8d3d1b56d212",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-45fc991263c4",
-      "company": "蒙牛",
-      "title": "销售未来星(J67596)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=444f3000-5e67-4d6d-a919-f546067121f0",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -1599,122 +2643,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-a760b23c4e5d",
-      "company": "蒙牛",
-      "title": "市场未来星（品牌方向）(J67601)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c045457a-b70a-401d-b1ca-fc995b5e1b81",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-7a9ece86b5d1",
-      "company": "蒙牛",
-      "title": "供应链未来星（运营方向）(J67603)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c74bbcc3-66b3-4bc1-bea8-3ba098675bc5",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d10984a1bc00",
-      "company": "蒙牛",
-      "title": "供应链未来星（计划方向）(J67602)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9c17052b-3510-4a0d-9ba0-5006bb59bf7f",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-29655c8f74e3",
-      "company": "蒙牛",
-      "title": "销售未来星（电商方向）(J67604)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b145cc36-8081-4fb4-a61f-a27f88b189a7",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-259efe421d50",
       "company": "蒙牛",
       "title": "研发未来星(J67619)",
@@ -1739,35 +2667,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=42a8a4f7-cbfb-4b19-a94d-e94f1deafde3",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-e5fdf3b3fd3c",
-      "company": "蒙牛",
-      "title": "研发未来星(J67620)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ae8c404d-e84a-44c9-8a66-7aa2bf587c89",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -1802,35 +2701,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-421922e26d6e",
-      "company": "蒙牛",
-      "title": "研发未来星(J67622)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=da936392-a044-4b66-b8d0-dc0b5c7d7065",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-e897fb652f8c",
       "company": "蒙牛",
       "title": "销售未来星(J67624)",
@@ -1855,93 +2725,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=75a52db1-3e2f-42aa-93c1-f33ba97a75d1",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-11988701ece8",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67625)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=4a1c80b7-61ef-4410-a3a5-320a8d349fce",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-b287cb563342",
-      "company": "蒙牛",
-      "title": "市场未来星(J67627)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、文案。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=fa4ef842-2e05-435b-8d5b-929324900b2e",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-0efdbe4c20f5",
-      "company": "蒙牛",
-      "title": "市场未来星(J67628)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b1a2e9c2-fad6-46c7-b61c-e65d0e0661ed",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -2005,180 +2788,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-13bd293adf13",
-      "company": "蒙牛",
-      "title": "人力资源未来星（国际化）(J67631)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c784fea1-e7d2-4ac7-8e80-ac14f5c0b2c3",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-cde924459a83",
-      "company": "蒙牛",
-      "title": "财务未来星(J67632)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、市场分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9b0a92a8-2a97-422b-bc7d-581ba5ce5834",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-ac1e55137eb3",
-      "company": "蒙牛",
-      "title": "安全质量未来星(J67633)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ce5b4212-0dc2-4640-b0d5-be6df0b1e57b",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-8cdb3adc577f",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67634)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=1320d30d-8f7f-438b-b9a8-166d8fc98cd2",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-6fc6e368a3b8",
-      "company": "蒙牛",
-      "title": "财务未来星(J67617)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3f55527e-3ad8-4ffd-bec0-44cefed7cb32",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-70a7b3b3ddee",
-      "company": "蒙牛",
-      "title": "财务未来星(J67618)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5d251464-ff92-4b8f-a400-f8c0f1675d2d",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-43df7551d4d8",
       "company": "蒙牛",
       "title": "数智化未来星(J67610)",
@@ -2203,35 +2812,6 @@
       "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3b26b1ae-2cf5-42ab-bc8e-71129c558ebc",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-7a846f07ef75",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67635)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=dd553fea-39e6-465c-8b8c-c63721d78e97",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -2324,64 +2904,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-9c8d3457273d",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67636)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ce0710af-1062-444f-b1da-a29a8973d755",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-00c207e8da50",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67637)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=1c9e8906-b6b1-4988-8571-a363b1f562d8",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-2478c6dffdaa",
       "company": "蒙牛",
       "title": "安全质量未来星(J67609)",
@@ -2469,151 +2991,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-7def4894358a",
-      "company": "蒙牛",
-      "title": "研发未来星(J67638)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：项目管理、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5437e026-fcda-4fbe-b158-1871ef4bc097",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-8d00f1802780",
-      "company": "蒙牛",
-      "title": "研发未来星(J67639)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=0b747707-3b3e-4435-805b-bf7cb5d4167b",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-5901426270d0",
-      "company": "蒙牛",
-      "title": "研发未来星（国际化）(J67640)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ce9136cd-0290-481b-b818-a76d5aa30c74",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d3226587bc94",
-      "company": "蒙牛",
-      "title": "研发未来星(J67641)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=27312f62-4db5-4924-bfed-b4b114eb953b",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-a911a5e6a97f",
-      "company": "蒙牛",
-      "title": "研发未来星（国际化）(J67642)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=70b04ea5-6997-48bf-9d0c-6662146b0114",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-9fe45c1418a2",
       "company": "蒙牛",
       "title": "技术与工程未来星(J67611)",
@@ -2638,267 +3015,6 @@
       "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=73f3b392-07ff-4d23-86d9-44dfbd0848c1",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-336b1b5edb5d",
-      "company": "蒙牛",
-      "title": "市场未来星(J67605)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=9a4a35a1-b784-4bf8-9c3d-766161113e83",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-ada46e96a6bf",
-      "company": "蒙牛",
-      "title": "市场未来星(J67606)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3158507d-d6af-4eb3-a70e-eda3cac0c62d",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d35d9dc2c922",
-      "company": "蒙牛",
-      "title": "市场未来星(J67607)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=7c9079ad-6c66-46df-885a-77149f92580b",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-58f4ddc8fa95",
-      "company": "蒙牛",
-      "title": "战略未来星（国际化）(J67643)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5e617d9c-844d-4b62-bbed-3bb74add509b",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-00ad99f5fdfa",
-      "company": "蒙牛",
-      "title": "销售未来星(J67608)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=12e8e9a7-a788-47a8-b3d8-a942fb50379d",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-432798550b5b",
-      "company": "蒙牛",
-      "title": "市场未来星（长期IP资源管理方向-国际化）(J67645)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b8706452-19c1-4f24-8c48-c334ba69f5d3",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-2e516434951d",
-      "company": "蒙牛",
-      "title": "市场未来星（品牌管理方向-国际化）(J67644)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=8cb4b2a3-fc87-4f16-acfc-582526955845",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d0357d32aa6a",
-      "company": "蒙牛",
-      "title": "市场未来星（消费者运营方向）(J67647)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、SQL、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=44c851c1-bbdc-4343-8f05-fd1c43aa19bb",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-80c87bd70d1b",
-      "company": "蒙牛",
-      "title": "市场未来星（消费者体验方向）(J67646)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=e96059ca-8406-4a37-aa45-20f0bab33df9",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
@@ -2933,35 +3049,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-a532edbd2cfd",
-      "company": "蒙牛",
-      "title": "数智化未来星 （数据方向-国际化）(J67648)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3e802638-7955-4671-b1d6-3d48bafc34c3",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-18c9f7318b58",
       "company": "蒙牛",
       "title": "数智化未来星 （AI方向）(J67650)",
@@ -2991,9 +3078,9 @@
       "deadline": ""
     },
     {
-      "id": "beisen-13ae84cecaef",
+      "id": "beisen-e0df2e43e34f",
       "company": "蒙牛",
-      "title": "数智化未来星 （流程方向）(J67651)",
+      "title": "星动力-城市经理岗(J67549)",
       "graduationYear": [
         "2027"
       ],
@@ -3011,18 +3098,18 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "辽宁省·大连市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=d70e075e-d032-4627-aeee-1b939188534e",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b315220d-58bc-451c-bf3a-635a02604657",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "beisen-55e22ded45a7",
+      "id": "beisen-708151fc35c3",
       "company": "蒙牛",
-      "title": "销售未来星（国际化）(J67652)",
+      "title": "星动力-城市经理岗(J67550)",
       "graduationYear": [
         "2027"
       ],
@@ -3036,22 +3123,22 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
-        "english": true,
+        "raw": "",
+        "english": false,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "辽宁省·沈阳市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5583033b-2990-4666-9c29-37863a7f70ae",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3e3894a9-9708-483b-a098-23b0155f4838",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "beisen-cf52be76c62d",
+      "id": "beisen-d13dd67309c7",
       "company": "蒙牛",
-      "title": "销售未来星(J67653)",
+      "title": "星动力-质量管理(J67572)",
       "graduationYear": [
         "2027"
       ],
@@ -3065,283 +3152,22 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=3a9fb9ca-e82f-43e9-8894-f6c4fba6d39e",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-303cf5a854fa",
-      "company": "蒙牛",
-      "title": "人力资源未来星（国际化）(J67656)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
         "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、跨部门沟通、文案。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=86ccbcda-0354-4dc3-a208-102c96cff8ea",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-b09e4527e9b1",
-      "company": "蒙牛",
-      "title": "人力资源未来星（国际化）(J67655)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=523688e7-54da-4b7d-9f92-8cfce2391256",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-91231e7ee8c9",
-      "company": "蒙牛",
-      "title": "人力资源未来星（国际化）(J67654)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=8abeaa22-5021-42fc-8438-641fee25a7ed",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-1bbace22feb4",
-      "company": "蒙牛",
-      "title": "人力资源未来星（国际化）(J67658)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=e7ecb819-3f0d-4619-8bc2-fdd54e7032c0",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-fa02443911e1",
-      "company": "蒙牛",
-      "title": "人力资源未来星（国际化）(J67657)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、数据分析、跨部门沟通、文案。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=e328cfd1-8f71-41ab-bcd8-a8781678bf7c",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-bf3597d4d25d",
-      "company": "蒙牛",
-      "title": "法务未来星（国际化）(J67659)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=17ba5eda-ac93-45c1-8aa1-d524c12ddacf",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-3becd3fc007e",
-      "company": "蒙牛",
-      "title": "法务未来星（国际化）(J67660)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c6fca488-8e1e-415a-a5f2-ecc3b5793ef0",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-225ac065aafd",
-      "company": "蒙牛",
-      "title": "财务未来星（国际化）(J67661)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=d1578b76-5b30-4845-b934-1ed6b310442d",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-860c654e2dd1",
-      "company": "蒙牛",
-      "title": "财务未来星（国际化）(J67662)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
+        "english": false,
         "minorLanguageRequired": false
       },
       "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=76662669-3992-472c-b7be-a13cd81bcc64",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5226aa7d-d5e9-4ac9-a90f-4f15d0889d49",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "beisen-0320978c2848",
+      "id": "beisen-25d3e80aaaf8",
       "company": "蒙牛",
-      "title": "财务未来星（国际化）(J67663)",
+      "title": "星动力-城市经理岗(J67556)",
       "graduationYear": [
         "2027"
       ],
@@ -3355,22 +3181,80 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
-        "english": true,
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=ac92a194-b506-4f20-90cf-fe980ae00bdd",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-4f1c7e10f3be",
+      "company": "蒙牛",
+      "title": "星动力-城市经理岗（安康）(J67559)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "陕西省·安康市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=952d0e0a-45b5-4ad0-8100-22c519d97c1d",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-040f7c29201b",
+      "company": "蒙牛",
+      "title": "星动力-城市经理岗（呼和浩特）(J67560)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
         "minorLanguageRequired": false
       },
       "location": "内蒙古自治区·呼和浩特市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=57aca78c-46aa-47d1-b5b0-3ab18e25b911",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6489651c-38c8-4379-a1ee-475e5ec17e79",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "beisen-91889e590267",
+      "id": "beisen-68a4619d974a",
       "company": "蒙牛",
-      "title": "财务未来星（国际化）(J67664)",
+      "title": "星动力-城市经理岗（银川）(J67561)",
       "graduationYear": [
         "2027"
       ],
@@ -3384,22 +3268,22 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
-        "english": true,
+        "raw": "",
+        "english": false,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "宁夏回族自治区·银川市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=91221c30-0187-42ab-b720-6a7bbc84df5e",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a96fa411-d3b5-4455-8ecc-fb097f8f41e6",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""
     },
     {
-      "id": "beisen-7d7a58a9c502",
+      "id": "beisen-4321e7937041",
       "company": "蒙牛",
-      "title": "财务未来星（国际化）(J67665)",
+      "title": "星动力-城市经理岗(J67562)",
       "graduationYear": [
         "2027"
       ],
@@ -3413,14 +3297,130 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
-        "english": true,
+        "raw": "",
+        "english": false,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "location": "湖北省·荆州市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=109e3160-d2cf-4864-9936-58bc01bdf40d",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=edf09e2b-f6ec-49b1-b089-ff57283fe386",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b89410b65c42",
+      "company": "蒙牛",
+      "title": "星动力-城市经理岗(J67563)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "湖南省·岳阳市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=b2f39364-4036-468b-a12f-521c3176c3f0",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d31d377403e4",
+      "company": "蒙牛",
+      "title": "星动力-城市经理岗(J67566)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "河南省·周口市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=54e2cba3-78d5-4a17-ab70-9ef60a0543d5",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-777a732f02d6",
+      "company": "蒙牛",
+      "title": "星动力-城市经理岗(J67565)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·日照市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=167d66dd-d567-44c8-b0e3-8a8e10751007",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-fd5438883046",
+      "company": "蒙牛",
+      "title": "星动力-城市经理岗(J67567)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=4d9f2004-369b-4cc6-8a92-c3c33c3af592",
       "lastVerified": "2026-08-27",
       "sourceType": "official",
       "deadline": ""

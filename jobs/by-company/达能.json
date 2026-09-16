@@ -1,37 +1,8 @@
 {
   "company": "达能",
   "count": 4,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
-    {
-      "id": "moka-6583d3262bb9",
-      "company": "达能",
-      "title": "营运管培生-区域质量-达能中国饮料-邛崃",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/danone/170511?locale=zh-CN#/job/5bf36198-6f7d-426a-ada4-7ec5d581513a",
-      "lastVerified": "2026-09-10",
-      "sourceType": "official",
-      "deadline": ""
-    },
     {
       "id": "moka-8cf8d6b2c8b0",
       "company": "达能",
@@ -58,6 +29,35 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/danone/170511?locale=zh-CN#/job/2b412755-0e76-41eb-bb7a-7ad8d0644edc",
       "lastVerified": "2026-09-06",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-9c5728a2c10c",
+      "company": "达能",
+      "title": "市场营销管培生-达能中国",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/danone/170511?locale=zh-CN#/job/41d7477b-6d4f-4a0c-b782-0fa9ce0a0e4c",
+      "lastVerified": "2026-08-31",
       "sourceType": "official",
       "deadline": ""
     },
@@ -91,9 +91,9 @@
       "deadline": ""
     },
     {
-      "id": "moka-9c5728a2c10c",
+      "id": "moka-6583d3262bb9",
       "company": "达能",
-      "title": "市场营销管培生-达能中国",
+      "title": "营运管培生-区域质量-达能中国饮料-邛崃",
       "graduationYear": [
         "2027"
       ],
@@ -114,8 +114,8 @@
       "location": "待核",
       "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/danone/170511?locale=zh-CN#/job/41d7477b-6d4f-4a0c-b782-0fa9ce0a0e4c",
-      "lastVerified": "2026-08-31",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/danone/170511?locale=zh-CN#/job/5bf36198-6f7d-426a-ada4-7ec5d581513a",
+      "lastVerified": "2026-09-10",
       "sourceType": "official",
       "deadline": ""
     }

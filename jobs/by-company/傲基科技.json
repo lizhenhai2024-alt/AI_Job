@@ -1,7 +1,7 @@
 {
   "company": "傲基科技",
   "count": 12,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
     {
       "id": "beisen-2db82314175d",
@@ -33,6 +33,35 @@
       "deadline": ""
     },
     {
+      "id": "beisen-61f1cd9766cd",
+      "company": "傲基科技",
+      "title": "27校招-平台运营岗",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=fbb1c67f-55ad-41f5-b542-bbe414a939dd",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-3580e2a237c9",
       "company": "傲基科技",
       "title": "27校招-管培生（品牌/视觉方向）",
@@ -57,93 +86,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=f49eaec6-fa6b-4301-a9bc-5139e49affb0",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-2a010452f0cd",
-      "company": "傲基科技",
-      "title": "27校招-管培生（产品开发方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=84b73cda-c864-4490-a6e4-24538149976a",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-a3fec3b3fc42",
-      "company": "傲基科技",
-      "title": "27校招-AI产品助理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=1bb45fdb-ba09-4dc3-878e-7076aa018a14",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-54c44a0e6694",
-      "company": "傲基科技",
-      "title": "27校招-营销专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：PPT、文案。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=b1f3e2c3-8ecc-4c52-89da-cb3c0bf08a1a",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
@@ -207,6 +149,151 @@
       "deadline": ""
     },
     {
+      "id": "beisen-2a010452f0cd",
+      "company": "傲基科技",
+      "title": "27校招-管培生（产品开发方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=84b73cda-c864-4490-a6e4-24538149976a",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-54c44a0e6694",
+      "company": "傲基科技",
+      "title": "27校招-营销专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；识别关键词：PPT、文案。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=b1f3e2c3-8ecc-4c52-89da-cb3c0bf08a1a",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-6e592d256076",
+      "company": "傲基科技",
+      "title": "27校招-数据分析岗",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=fe921033-a304-4052-9642-9ead08373429",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-8f3a7cbf569f",
+      "company": "傲基科技",
+      "title": "27校招-品质工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=a50b655e-d0dd-4ad4-90bb-b5f5e623d439",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a3fec3b3fc42",
+      "company": "傲基科技",
+      "title": "27校招-AI产品助理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=1bb45fdb-ba09-4dc3-878e-7076aa018a14",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-7a69e9bc4bef",
       "company": "傲基科技",
       "title": "27校招-家具设计师",
@@ -260,93 +347,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=83141a9a-039a-4307-b2ab-066f8cf686ed",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-8f3a7cbf569f",
-      "company": "傲基科技",
-      "title": "27校招-品质工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=a50b655e-d0dd-4ad4-90bb-b5f5e623d439",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-6e592d256076",
-      "company": "傲基科技",
-      "title": "27校招-数据分析岗",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=fe921033-a304-4052-9642-9ead08373429",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-61f1cd9766cd",
-      "company": "傲基科技",
-      "title": "27校招-平台运营岗",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=fbb1c67f-55ad-41f5-b542-bbe414a939dd",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""

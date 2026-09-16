@@ -1,211 +1,8 @@
 {
   "company": "扬腾创新",
   "count": 17,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
-    {
-      "id": "beisen-699123c665cb",
-      "company": "扬腾创新",
-      "title": "战略项目管理校招生 (J13060)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=efd8f42e-5c1a-4424-bbfa-97eed6b0e5a4",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-53d25896dcf6",
-      "company": "扬腾创新",
-      "title": "后端开发工程师(J13030)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=8fc780c2-38b5-48fa-be43-23cb68cf9a51",
-      "lastVerified": "2026-08-20",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d05e1486ba8d",
-      "company": "扬腾创新",
-      "title": "测试开发工程师(J13031)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "JD": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=e46008b0-92b0-4efc-949d-32ea51c514fc",
-      "lastVerified": "2026-08-20",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-090f2efc53a7",
-      "company": "扬腾创新",
-      "title": "AI应用工程师（FDE）(J13032)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=9cf9f807-a1b4-4cd9-86d0-3b10b63dd50d",
-      "lastVerified": "2026-08-20",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d42fba51c381",
-      "company": "扬腾创新",
-      "title": "大数据开发工程师(J13033)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "JD": "公司官方北森校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=3e51ee6d-bfa3-4b85-8c6c-9fffc49b7c0c",
-      "lastVerified": "2026-08-20",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d0bb1dc3c4cd",
-      "company": "扬腾创新",
-      "title": "产品经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=be21848f-2f53-4789-9a17-9780a159d4d0",
-      "lastVerified": "2026-08-20",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-84fc66700434",
-      "company": "扬腾创新",
-      "title": "算法工程师(J13035)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=47098366-b2fe-46ae-98ac-4ccc56dad142",
-      "lastVerified": "2026-08-20",
-      "sourceType": "official",
-      "deadline": ""
-    },
     {
       "id": "beisen-24a901bca58f",
       "company": "扬腾创新",
@@ -223,7 +20,7 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
+        "raw": "英语、德语、法语、西班牙语、葡萄牙语",
         "english": true,
         "minorLanguageRequired": false
       },
@@ -232,6 +29,93 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=c6e6a583-3867-4788-9202-9546c1c212c8",
       "lastVerified": "2026-08-19",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0b23c3eeab4c",
+      "company": "扬腾创新",
+      "title": "跨境电商运营校招生（eBay）(J13003)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、德语、法语、西班牙语、葡萄牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=782e34c5-af2c-4aa2-bf2b-3af3dbe8be59",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-8c35bf5ffe89",
+      "company": "扬腾创新",
+      "title": "全球供应链管理校招生 (J13006)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=4351d2fd-1821-4f76-ada8-c38d9063be2e",
+      "lastVerified": "2026-08-13",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-144e21aea9ca",
+      "company": "扬腾创新",
+      "title": "跨境电商运营校招生（增长业务）(J13011)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、德语、法语、西班牙语、葡萄牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=f5a05a81-9b65-4432-9ff1-cf720d608963",
+      "lastVerified": "2026-08-13",
       "sourceType": "official",
       "deadline": ""
     },
@@ -252,7 +136,7 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
+        "raw": "英语、德语、法语、西班牙语、葡萄牙语",
         "english": true,
         "minorLanguageRequired": false
       },
@@ -281,7 +165,7 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "英语",
+        "raw": "英语、德语、法语、西班牙语、葡萄牙语",
         "english": true,
         "minorLanguageRequired": false
       },
@@ -290,6 +174,35 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=8cde4fd0-54ec-4646-be7a-28d161487bcd",
       "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-699123c665cb",
+      "company": "扬腾创新",
+      "title": "战略项目管理校招生 (J13060)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=efd8f42e-5c1a-4424-bbfa-97eed6b0e5a4",
+      "lastVerified": "2026-09-14",
       "sourceType": "official",
       "deadline": ""
     },
@@ -352,93 +265,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-0b23c3eeab4c",
-      "company": "扬腾创新",
-      "title": "跨境电商运营校招生（eBay）(J13003)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=782e34c5-af2c-4aa2-bf2b-3af3dbe8be59",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-8c35bf5ffe89",
-      "company": "扬腾创新",
-      "title": "全球供应链管理校招生 (J13006)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=4351d2fd-1821-4f76-ada8-c38d9063be2e",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-144e21aea9ca",
-      "company": "扬腾创新",
-      "title": "跨境电商运营校招生（增长业务）(J13011)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "福建省·福州市",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=f5a05a81-9b65-4432-9ff1-cf720d608963",
-      "lastVerified": "2026-08-13",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-989ed611bcb3",
       "company": "扬腾创新",
       "title": "战略管理（创新业务）校招生",
@@ -464,6 +290,180 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=f0e0b02e-56b3-40a6-b2b5-280e5108711b",
       "lastVerified": "2026-07-31",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-84fc66700434",
+      "company": "扬腾创新",
+      "title": "算法工程师(J13035)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=47098366-b2fe-46ae-98ac-4ccc56dad142",
+      "lastVerified": "2026-08-20",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-53d25896dcf6",
+      "company": "扬腾创新",
+      "title": "后端开发工程师(J13030)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、SQL、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=8fc780c2-38b5-48fa-be43-23cb68cf9a51",
+      "lastVerified": "2026-08-20",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d05e1486ba8d",
+      "company": "扬腾创新",
+      "title": "测试开发工程师(J13031)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "JD": "公司官方北森校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=e46008b0-92b0-4efc-949d-32ea51c514fc",
+      "lastVerified": "2026-08-20",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d0bb1dc3c4cd",
+      "company": "扬腾创新",
+      "title": "产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=be21848f-2f53-4789-9a17-9780a159d4d0",
+      "lastVerified": "2026-08-20",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-090f2efc53a7",
+      "company": "扬腾创新",
+      "title": "AI应用工程师（FDE）(J13032)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=9cf9f807-a1b4-4cd9-86d0-3b10b63dd50d",
+      "lastVerified": "2026-08-20",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d42fba51c381",
+      "company": "扬腾创新",
+      "title": "大数据开发工程师(J13033)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "JD": "公司官方北森校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=3e51ee6d-bfa3-4b85-8c6c-9fffc49b7c0c",
+      "lastVerified": "2026-08-20",
       "sourceType": "official",
       "deadline": ""
     },

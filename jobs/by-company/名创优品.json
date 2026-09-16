@@ -1,66 +1,8 @@
 {
   "company": "名创优品",
   "count": 30,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
-    {
-      "id": "beisen-bcaa27e55c5b",
-      "company": "名创优品",
-      "title": "海外运营创优生（西语-欧洲、拉美等区域）(J17270)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "国外",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=33194134-a08c-40e5-9467-7da558f612a4",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-ae8a818f2c5b",
-      "company": "名创优品",
-      "title": "海外运营创优生（德语-欧洲区域）(J17271)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "国外",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=83dd41db-d42a-414e-9969-cad9ac3edc86",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
     {
       "id": "beisen-23168e210002",
       "company": "名创优品",
@@ -120,6 +62,383 @@
       "deadline": ""
     },
     {
+      "id": "beisen-64d3358b49e0",
+      "company": "名创优品",
+      "title": "IP项目创优生(J17232)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=1d391e17-df10-42bd-91dc-a60d2972af8f",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-bbacb5f6567b",
+      "company": "名创优品",
+      "title": "项目管理创优生(J17241)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=355fefa0-61d2-42f6-a44d-453fef6733e3",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f3e271ed3ab4",
+      "company": "名创优品",
+      "title": "TOP TOY门店运营管理培训生(J17165)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=d37d3b2f-2a99-4449-865f-6ff6c896af2b",
+      "lastVerified": "2026-08-26",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-bcaa27e55c5b",
+      "company": "名创优品",
+      "title": "海外运营创优生（西语-欧洲、拉美等区域）(J17270)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "西班牙语",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "国外",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=33194134-a08c-40e5-9467-7da558f612a4",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ae8a818f2c5b",
+      "company": "名创优品",
+      "title": "海外运营创优生（德语-欧洲区域）(J17271)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "德语",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "国外",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=83dd41db-d42a-414e-9969-cad9ac3edc86",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-6dcde2a56f4a",
+      "company": "名创优品",
+      "title": "海外商品创优生（英语-北美、东南亚）(J17242)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=d1f0a99e-885c-440c-93f5-2e472e65e65d",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f26fbd74ad52",
+      "company": "名创优品",
+      "title": "商品运营创优生(J17234)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=d4a03f96-d106-47fd-be28-4178b2eadada",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b7de874a4fec",
+      "company": "名创优品",
+      "title": "财务创优生(J17235)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=66117ada-8b49-4d1f-9291-5dff485d6a3e",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c1d02431bb68",
+      "company": "名创优品",
+      "title": "工程管理创优生(J17240)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=689f2c0b-06e6-4aa6-98e5-c5f2135f430a",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-061583624721",
+      "company": "名创优品",
+      "title": "商品计划创优生(J17230)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=2ffcb477-52b7-4d88-ade1-65b1caaae8cb",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f2e3d3189b7d",
+      "company": "名创优品",
+      "title": "国家计划创优生(J17231)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=28e6f784-3773-406d-b0c0-1a11acf9cdd8",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-75c5e27ffbad",
+      "company": "名创优品",
+      "title": "海外采购创优生(J17233)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=1f818a8e-175a-497c-842b-da023cfa4b30",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-aeca84a86d73",
+      "company": "名创优品",
+      "title": "财务创优生(J14091)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=af205ec2-5fcb-443c-972b-be9b2e5412e8",
+      "lastVerified": "2026-08-28",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-eb09da84503b",
       "company": "名创优品",
       "title": "运营创优生（国内）(J17223)",
@@ -149,35 +468,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-91165b79a266",
-      "company": "名创优品",
-      "title": "审察创优生(J17225)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=da90c4ba-fd2d-4045-ac6a-cf803b2bfca2",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-cef82e978457",
       "company": "名创优品",
       "title": "风控创优生(J17224)",
@@ -202,6 +492,122 @@
       "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=30b6a65d-ce27-491f-8d27-83bb513d30fc",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-593d356c4e6c",
+      "company": "名创优品",
+      "title": "国家商品创优生(J17229)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、法语、西班牙语、意大利语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=d2f5763a-7ee2-4d86-b4f0-ba778295bbeb",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-6c69d4fa1ea3",
+      "company": "名创优品",
+      "title": "AI解决方案创优生(J17256)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=b336d5cd-5a95-45f2-ac23-bc3159c86a42",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-295868e160cb",
+      "company": "名创优品",
+      "title": "黑马工程 The Dark Horse Program",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=3e5052cb-9178-4c3e-8d9a-0eaf95fbef29",
+      "lastVerified": "2026-08-27",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-91165b79a266",
+      "company": "名创优品",
+      "title": "审察创优生(J17225)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=da90c4ba-fd2d-4045-ac6a-cf803b2bfca2",
       "lastVerified": "2026-09-09",
       "sourceType": "official",
       "deadline": ""
@@ -265,35 +671,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-593d356c4e6c",
-      "company": "名创优品",
-      "title": "国家商品创优生(J17229)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=d2f5763a-7ee2-4d86-b4f0-ba778295bbeb",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-8c55faf7abc7",
       "company": "名创优品",
       "title": "买手创优生(J17228)",
@@ -318,180 +695,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=7fa288f1-8307-4c79-8687-0205d70bca98",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-061583624721",
-      "company": "名创优品",
-      "title": "商品计划创优生(J17230)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=2ffcb477-52b7-4d88-ade1-65b1caaae8cb",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-64d3358b49e0",
-      "company": "名创优品",
-      "title": "IP项目创优生(J17232)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、PPT、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=1d391e17-df10-42bd-91dc-a60d2972af8f",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-f2e3d3189b7d",
-      "company": "名创优品",
-      "title": "国家计划创优生(J17231)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=28e6f784-3773-406d-b0c0-1a11acf9cdd8",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-f26fbd74ad52",
-      "company": "名创优品",
-      "title": "商品运营创优生(J17234)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=d4a03f96-d106-47fd-be28-4178b2eadada",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-75c5e27ffbad",
-      "company": "名创优品",
-      "title": "海外采购创优生(J17233)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=1f818a8e-175a-497c-842b-da023cfa4b30",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-b7de874a4fec",
-      "company": "名创优品",
-      "title": "财务创优生(J17235)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=66117ada-8b49-4d1f-9291-5dff485d6a3e",
       "lastVerified": "2026-09-09",
       "sourceType": "official",
       "deadline": ""
@@ -555,35 +758,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-c1d02431bb68",
-      "company": "名创优品",
-      "title": "工程管理创优生(J17240)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=689f2c0b-06e6-4aa6-98e5-c5f2135f430a",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-696195afb1d7",
       "company": "名创优品",
       "title": "空间设计创优生(J17239)",
@@ -608,64 +782,6 @@
       "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方北森校招官网",
       "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=46d981a3-cb51-4401-849a-36757dbc3d06",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-6dcde2a56f4a",
-      "company": "名创优品",
-      "title": "海外商品创优生（英语-北美、东南亚）(J17242)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=d1f0a99e-885c-440c-93f5-2e472e65e65d",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-bbacb5f6567b",
-      "company": "名创优品",
-      "title": "项目管理创优生(J17241)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT、项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=355fefa0-61d2-42f6-a44d-453fef6733e3",
       "lastVerified": "2026-09-09",
       "sourceType": "official",
       "deadline": ""
@@ -754,122 +870,6 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=3bdd734a-6c98-4f45-b046-5096ebc57338",
       "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-6c69d4fa1ea3",
-      "company": "名创优品",
-      "title": "AI解决方案创优生(J17256)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：数据分析、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=b336d5cd-5a95-45f2-ac23-bc3159c86a42",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-aeca84a86d73",
-      "company": "名创优品",
-      "title": "财务创优生(J14091)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、SQL。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=af205ec2-5fcb-443c-972b-be9b2e5412e8",
-      "lastVerified": "2026-08-28",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-295868e160cb",
-      "company": "名创优品",
-      "title": "黑马工程 The Dark Horse Program",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=3e5052cb-9178-4c3e-8d9a-0eaf95fbef29",
-      "lastVerified": "2026-08-27",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-f3e271ed3ab4",
-      "company": "名创优品",
-      "title": "TOP TOY门店运营管理培训生(J17165)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://miniso.zhiye.com/campus/detail?jobAdId=d37d3b2f-2a99-4449-865f-6ff6c896af2b",
-      "lastVerified": "2026-08-26",
       "sourceType": "official",
       "deadline": ""
     }

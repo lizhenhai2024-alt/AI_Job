@@ -1,12 +1,128 @@
 {
-  "company": "奥克斯",
-  "count": 4,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "company": "奥克斯集团",
+  "count": 65,
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
     {
-      "id": "nowcoder-544f80be1344",
-      "company": "奥克斯",
-      "title": "【2027秋】空调-结构工程师(J16367)",
+      "id": "beisen-4d8521646a56",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-海外市场营销(家用空调方向)(J16390)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3e4913db-8e1e-4acd-acce-b5319f44e233",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-62c9aa3cd684",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-海外技术支持工程师(J16415)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、项目管理、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=b703c883-13c9-4b05-99c4-18541c037d96",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-07e5836aab5a",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-海外技术支持工程师(商用空调方向)(J16395)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=fae0ff6a-02d5-47ae-9eba-ff73a15e05ec",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b07c6913c603",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-供应链专员(J16377)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "江西省·南昌市、安徽省·马鞍山市、河南省·郑州市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=2dfa0d5d-733d-48c9-8d0e-4e254d53b77d",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7d3400d55e46",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-国内市场营销(商用空调方向)(J16389)",
       "graduationYear": [
         "2027"
       ],
@@ -24,18 +140,105 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "深圳",
-      "JD": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-      "source": "牛客公开职位",
-      "officialURL": "https://www.nowcoder.com/jobs/detail/466586?urlSource=sitemap",
-      "lastVerified": "2026-09-16",
-      "sourceType": "secondary",
-      "deadline": "2029-09-09"
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ef5c457b-6a41-45b3-bee1-cdbfd41bd1e3",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
-      "id": "nowcoder-976d7a9dbb69",
-      "company": "奥克斯",
-      "title": "【2027秋】电能-SST硬件工程师(J16427)",
+      "id": "beisen-7bc999bef314",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-人力资源管理(J16364)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=01cee303-2dd7-4a7d-8956-ba27b9b2b070",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2101ae46dd38",
+      "company": "奥克斯集团",
+      "title": "【2027秋】医疗-人力资源管理(J16407)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=29dbf157-da1b-4f69-af56-180e67d6a0ba",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d74a8ed3c4b0",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-海外技术营销工程师(J16416)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=90ab83f5-269b-4003-8016-5d77012a3d56",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7d5a273c6cd4",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-国内市场营销(家用空调方向)(J16386)",
       "graduationYear": [
         "2027"
       ],
@@ -53,17 +256,162 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "深圳",
-      "JD": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-      "source": "牛客公开职位",
-      "officialURL": "https://www.nowcoder.com/jobs/detail/467200?urlSource=sitemap",
-      "lastVerified": "2026-09-16",
-      "sourceType": "secondary",
-      "deadline": "2029-09-11"
+      "location": "全国",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=e4ab3520-68d7-4ae3-9b76-ecc6167779bd",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
-      "id": "nowcoder-c02522df861a",
-      "company": "奥克斯",
+      "id": "beisen-b2bd180d1a33",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-海外技术营销工程师(商用空调方向)(J16394)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ac2307e8-56ad-4295-a336-cacf353f4cb6",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1f3057d82063",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-售后技术支持工程师(J16397)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=db8baf57-cb80-4d14-a8ad-d159a714febb",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-4d458d65b7dd",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-物流专员(J16384)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7ed6d6cb-4397-4fd8-876f-314b7df49af9",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-3562600b2564",
+      "company": "奥克斯集团",
+      "title": "【2027秋】医疗-财务管理(J16406)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=57effa1b-9e05-40ea-b3ce-db19817c582a",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-81e715a52ba6",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-供应链专员(J16421)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8ec2cfd3-e2a5-4014-918c-840889d35916",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-53649912d8e2",
+      "company": "奥克斯集团",
       "title": "【2027秋】空调-海外后台管理(船务)(J16428)",
       "graduationYear": [
         "2027"
@@ -82,17 +430,307 @@
         "english": true,
         "minorLanguageRequired": false
       },
-      "location": "深圳",
-      "JD": "自动发现的 其他 类岗位；识别关键词：英语。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-      "source": "牛客公开职位",
-      "officialURL": "https://www.nowcoder.com/jobs/detail/467290?urlSource=sitemap",
-      "lastVerified": "2026-09-16",
-      "sourceType": "secondary",
-      "deadline": "2029-09-14"
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=b0ea494b-4f7d-4a3f-b082-a47b5c9162e5",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
-      "id": "nowcoder-ffc954ed367d",
-      "company": "奥克斯",
+      "id": "beisen-916cd6de8576",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-电商专员(J16387)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=61ce8c75-1cf1-4dee-bced-746617a5ea1b",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-aded21877953",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-国内技术营销工程师(J16388)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=f41af41f-00e0-433f-a1dc-d66a7d415f2d",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-675be18a58ad",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-海外技术支持工程师(家用空调方向)(J16391)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=30a315e1-0c54-474f-aa0e-c6eb481bd823",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-46a793ef7d64",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-海外后台管理(拓巡/拓司)(J16392)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=af25a199-d740-4670-9b58-95a781a365c0",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e2fc0f3a402e",
+      "company": "奥克斯集团",
+      "title": "【2027秋】法务专员(J16365)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、PPT。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=0d4fbb5a-df38-4a85-a9ef-b09cb926930c",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-6c06c91202b9",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-计划专员(J16380)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=547e8560-5806-402c-98f2-13e0edb9434d",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ceb9a6bb7cb1",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-IE工程师(J16381)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=b2654081-c103-40f5-8240-52e7e56333c6",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-758cc74557b9",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-自动化工程师(J16382)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel、数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7547ded4-e522-4531-8d3a-fa630be36d17",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-50c21700c8ba",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-品质工程师(弱电)(J16411)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=f3b844a1-6c70-4ae1-bab7-d4ae5164daef",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-73c107133088",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-品质工程师(强电)(J16412)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省",
+      "JD": "公司官方北森校招岗位；识别关键词：英语、Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8ed4dc64-dd54-42f0-8d68-8af511129118",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7041d7a773f2",
+      "company": "奥克斯集团",
       "title": "【2027秋】电能-DSP软件工程师(J16425)",
       "graduationYear": [
         "2027"
@@ -112,12 +750,1143 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "自动发现的 其他 类岗位。完整职责与要求请打开来源页面，并在投递前回公司校招官网核验。",
-      "source": "牛客公开职位",
-      "officialURL": "https://www.nowcoder.com/jobs/detail/467201?urlSource=sitemap",
-      "lastVerified": "2026-09-16",
-      "sourceType": "secondary",
-      "deadline": "2029-09-11"
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3696d86a-d790-4cea-90a4-7874df99b524",
+      "lastVerified": "2026-09-11",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7b217c93dd91",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-SST软件工程师(J16426)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=05f78bb4-6d1f-4e79-97c3-077a2f3bc18c",
+      "lastVerified": "2026-09-11",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-57cd33237856",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-SST硬件工程师(J16427)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3b75f825-e4b4-4f6a-b4a1-4f799d2b8d2e",
+      "lastVerified": "2026-09-11",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1163bce48b66",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-风机风道仿真工程师(J16374)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=cbc97ec0-3cc5-4fc4-a222-3f8419afeb9c",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-db3946950b07",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-电控仿真工程师(J16375)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=0eb9931b-56b6-4bd4-a23f-3fbb2e313a15",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-470adfde684d",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-算法工程师(J16376)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=64d662f1-bded-4682-9290-440311032d49",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b4172b27fc19",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-制冷系统仿真工程师(J16399)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=115606ee-03b9-4178-8f12-71ed30ff28e8",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9af815ac4e4a",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-嵌入式软件开发工程师(J16405)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8f889aab-c715-4cfb-af07-0a20a5106b93",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d5a14af809e1",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-硬件开发工程师(J16408)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=4ba82d16-5ea5-4818-8aad-e21e9b059f08",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2ad811d8a66b",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-海外后台管理(家用空调推广)(J16393)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "日语",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3052ef68-8347-43ea-bda2-b895c881f024",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d455ff3a0539",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-工艺工程师(J16379)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市、安徽省·马鞍山市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ad04d8c7-3b5f-46a0-969a-a9d50861dda5",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9b651b4eca61",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-设备工程师(J16383)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3b7b6988-bb45-4fb8-9a96-2937ff99f782",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a647f1ca1f37",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-财务管理(含外派储备)(J16385)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=21a87458-de79-4002-8012-1db513189347",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-141f8796eba3",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-品质工程师(J16398)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3f6c5ec2-3114-4214-b0e7-6aa9ff6575b6",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-39bfcecd201b",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-硬件工程师(J16369)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=6d2c213f-914a-4db5-9fbd-acf7b77e2538",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-4beb554bff54",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-国内技术营销工程师(J16414)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=4f66ddaa-94dc-4e2b-813e-0c13eebf5842",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-290dedca487d",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-外销业务员(J16417)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、西班牙语、葡萄牙语、俄语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=2bfd4973-0d32-408b-afa0-38e248f134b6",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0e4659526219",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-销售后台管理专员(J16418)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：跨部门沟通。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8c608e01-9ad0-487c-a1d6-613f42ef86c9",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-87a9901462bb",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-财务管理(含外派储备)(J16422)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、西班牙语、葡萄牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7da3a254-2fa7-4822-a7d0-f9631ace4e88",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-77c70aba5889",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-电气工程师(J16409)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=e20fb6df-25af-41f9-98dc-22f9c84342b6",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-70773120ac78",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-结构工程师(J16410)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=a367a73d-fa32-4fb9-b66c-8236f59e7991",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-609e63816aba",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-暖通工程师(J16424)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=1898a939-863c-40d1-a9d7-37e8a6155df4",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-81d7c383e663",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-固体振动仿真工程师(J16373)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=97645abf-10b6-4bcf-83b0-f7ea73c3173d",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e6ec822fd01a",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-热流体仿真工程师(J16423)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=db85061d-c251-440b-b43b-7285d5deacc0",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-5513ec726908",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-结构工程师(J16367)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=cbe34ecd-559a-4182-acd5-1d1c0cb98701",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e9aa406c5a58",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-制冷工程师(J16368)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=fd6f4d99-062e-414a-97c8-b1dc9ced80c8",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-61a36f9e3dc2",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-软件工程师(J16370)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=d9f15c11-e48c-4de1-bd4b-db968b767455",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-cdf692e589a9",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-电气工程师(J16371)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=5ce10c2f-f30c-439f-9f80-077197953833",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d26afc5084ea",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-工业设计工程师(J16372)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=a6790524-7d26-40e3-9a90-c1e2553a73ee",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2cc171a2034f",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-认证工程师(J16396)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=86ccb0af-3db3-477f-88e5-8d3602f7b1da",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f1f473c15559",
+      "company": "奥克斯集团",
+      "title": "【2027秋】压缩机-电机工程师(芜湖)(J16400)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "安徽省·芜湖市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=628566c5-4fe0-4230-b709-4a069533b886",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-3f2c2efee86b",
+      "company": "奥克斯集团",
+      "title": "【2027秋】压缩机-制程质量工程师(芜湖)(J16402)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "安徽省·芜湖市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ab29abf1-4aed-4554-8a03-b21825bb8b01",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7e38a95c091a",
+      "company": "奥克斯集团",
+      "title": "【2027秋】压缩机-工艺工程师(芜湖)(J16403)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "安徽省·芜湖市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=34df1bb2-c945-4157-bdbb-fa2b1f6dca48",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e64f17223b51",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-国内技术支持工程师(J16413)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=8f7e8c31-0ca9-464f-b67d-31903f91b52a",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2a7823a80785",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-设备、工艺工程师(J16419)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=af29e8f6-c6bb-4d9e-93bc-974143116f97",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e254a809eea6",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-制造厂长助理(J16420)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=1218058f-fc0e-45f1-a595-70e7d222c2f1",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-27fbd22e0f69",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-IT开发工程师(J16401)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=bde86255-3272-460a-9d47-0aae3c3449c1",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-83046e537a7a",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-JAVA开发工程师(J16404)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=4aebfe9c-71fc-4b60-b170-3a9e3d5dd12a",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e447d78b7f72",
+      "company": "奥克斯集团",
+      "title": "【2027届】校园大使(J16363)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=7fd352eb-d149-4c45-9145-4bf00f8f70ee",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0671b337ee0f",
+      "company": "奥克斯集团",
+      "title": "【2027秋】审计专员(J16366)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "JD": "公司官方北森校招岗位；识别关键词：Excel。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=dd0eb8e7-9481-4263-97f9-92866949a222",
+      "lastVerified": "2026-08-25",
+      "sourceType": "official",
+      "deadline": ""
     }
   ]
 }

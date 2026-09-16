@@ -1,12 +1,12 @@
 {
   "company": "荣耀",
   "count": 101,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
     {
-      "id": "hotjob-374d8f01a955",
+      "id": "hotjob-fdd2d46caf1f",
       "company": "荣耀",
-      "title": "机器人整机架构师",
+      "title": "营销创意管培生",
       "graduationYear": [
         "2027"
       ],
@@ -20,22 +20,51 @@
         "hardRestriction": false
       },
       "language": {
-        "raw": "",
-        "english": false,
+        "raw": "英语",
+        "english": true,
         "minorLanguageRequired": false
       },
-      "location": "上海",
+      "location": "全部地区",
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6aa8e6aef0cfabf2b4c08f13&recruitType=1",
-      "lastVerified": "2026-09-15",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53c43154813049f228e&recruitType=1",
+      "lastVerified": "2026-08-18",
       "sourceType": "official",
-      "deadline": "2027-09-15"
+      "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-1e355cb07375",
+      "id": "hotjob-506243d91dde",
       "company": "荣耀",
-      "title": "机器人ID设计师",
+      "title": "战略规划助理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54043154813049f2294&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-d074052c8a89",
+      "company": "荣耀",
+      "title": "互联网产品与运营经理",
       "graduationYear": [
         "2027"
       ],
@@ -53,13 +82,274 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "上海",
+      "location": "北京",
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6aa8e6af15a82a89c3f2b3f8&recruitType=1",
-      "lastVerified": "2026-09-15",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5481ad6db7cf8056b8a&recruitType=1",
+      "lastVerified": "2026-08-18",
       "sourceType": "official",
-      "deadline": "2027-09-15"
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-84b42631ba0c",
+      "company": "荣耀",
+      "title": "AI产品与运营经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54768cc6f624f42eb39&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-5f54e1836061",
+      "company": "荣耀",
+      "title": "财经专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54043154813049f2299&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-21a2c391178c",
+      "company": "荣耀",
+      "title": "产品规划工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5381ad6db7cf8056b58&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-fa854647a385",
+      "company": "荣耀",
+      "title": "供应链算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83b3ea43154813049f1585&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-7d4fe7f4696f",
+      "company": "荣耀",
+      "title": "供应链交付经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c66043154813049f2368&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-52d7398734e0",
+      "company": "荣耀",
+      "title": "用户体验测试工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5451ad6db7cf8056b83&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-116deba80e50",
+      "company": "荣耀",
+      "title": "服务解决方案管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "全部地区",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53a43154813049f2288&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-bd1e816a6070",
+      "company": "荣耀",
+      "title": "软件测试工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54543154813049f22a3&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2026-09-22"
+    },
+    {
+      "id": "hotjob-70d724d3300d",
+      "company": "荣耀",
+      "title": "AI产品营销经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54843154813049f22ae&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
     },
     {
       "id": "hotjob-09dc23ee8ca8",
@@ -91,93 +381,6 @@
       "deadline": "2026-09-23"
     },
     {
-      "id": "hotjob-124f9b16a2bb",
-      "company": "荣耀",
-      "title": "机器人仿真能力与仿真平台工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a87f6ff4315481304b96d64&recruitType=1",
-      "lastVerified": "2026-08-21",
-      "sourceType": "official",
-      "deadline": "2027-08-21"
-    },
-    {
-      "id": "hotjob-b3194b69b5fe",
-      "company": "荣耀",
-      "title": "存储器件技术工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a8558491ad6db7cf808766f&recruitType=1",
-      "lastVerified": "2026-08-19",
-      "sourceType": "official",
-      "deadline": "2027-08-19"
-    },
-    {
-      "id": "hotjob-17973258bd06",
-      "company": "荣耀",
-      "title": "认证准入工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a85584a4315481304a20afc&recruitType=1",
-      "lastVerified": "2026-08-19",
-      "sourceType": "official",
-      "deadline": "2027-08-19"
-    },
-    {
       "id": "hotjob-234227aa2c91",
       "company": "荣耀",
       "title": "用户体验设计工程师",
@@ -205,6 +408,35 @@
       "lastVerified": "2026-08-19",
       "sourceType": "official",
       "deadline": "2027-08-19"
+    },
+    {
+      "id": "hotjob-4821d42f7a35",
+      "company": "荣耀",
+      "title": "用户研究代表",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53943154813049f2283&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
     },
     {
       "id": "hotjob-ae44b0c65d16",
@@ -347,6 +579,528 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a8558474315481304a20af5&recruitType=1",
+      "lastVerified": "2026-08-19",
+      "sourceType": "official",
+      "deadline": "2027-08-19"
+    },
+    {
+      "id": "hotjob-da6a1681c91c",
+      "company": "荣耀",
+      "title": "销售解决方案培训生（小语种）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、西班牙语、俄语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "全部地区",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53943154813049f2281&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-7d7f30f8e7da",
+      "company": "荣耀",
+      "title": "销售解决方案培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "全部地区",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53b43154813049f228a&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-081472e8e47e",
+      "company": "荣耀",
+      "title": "AI软件开发工程师 （AI Coding / Agent方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53e1ad6db7cf8056b66&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-95a023c5b423",
+      "company": "荣耀",
+      "title": "AI数据工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5401ad6db7cf8056b6f&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-39f44fe37956",
+      "company": "荣耀",
+      "title": "AI评测工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54243154813049f229c&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-329aa6c34471",
+      "company": "荣耀",
+      "title": "AI应用开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5431ad6db7cf8056b7b&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-b9c1a84e8d01",
+      "company": "荣耀",
+      "title": "产品测试开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53868cc6f624f42eb15&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-e92e28e0c811",
+      "company": "荣耀",
+      "title": "通用软件开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53243154813049f2267&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-e0b46a6cb307",
+      "company": "荣耀",
+      "title": "解决方案测试工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53143154813049f2260&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2026-09-23"
+    },
+    {
+      "id": "hotjob-0157550c2bf7",
+      "company": "荣耀",
+      "title": "影像产品规划工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53143154813049f2262&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-62707b22f29f",
+      "company": "荣耀",
+      "title": "智能制造工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83b3ce1ad6db7cf805641c&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-4621f19042af",
+      "company": "荣耀",
+      "title": "互联网算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54668cc6f624f42eb36&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2026-09-22"
+    },
+    {
+      "id": "hotjob-564d8ccfc5cb",
+      "company": "荣耀",
+      "title": "互联网商业拓展经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5491ad6db7cf8056b91&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-374d8f01a955",
+      "company": "荣耀",
+      "title": "机器人整机架构师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6aa8e6aef0cfabf2b4c08f13&recruitType=1",
+      "lastVerified": "2026-09-15",
+      "sourceType": "official",
+      "deadline": "2027-09-15"
+    },
+    {
+      "id": "hotjob-1e355cb07375",
+      "company": "荣耀",
+      "title": "机器人ID设计师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6aa8e6af15a82a89c3f2b3f8&recruitType=1",
+      "lastVerified": "2026-09-15",
+      "sourceType": "official",
+      "deadline": "2027-09-15"
+    },
+    {
+      "id": "hotjob-124f9b16a2bb",
+      "company": "荣耀",
+      "title": "机器人仿真能力与仿真平台工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a87f6ff4315481304b96d64&recruitType=1",
+      "lastVerified": "2026-08-21",
+      "sourceType": "official",
+      "deadline": "2027-08-21"
+    },
+    {
+      "id": "hotjob-b3194b69b5fe",
+      "company": "荣耀",
+      "title": "存储器件技术工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a8558491ad6db7cf808766f&recruitType=1",
+      "lastVerified": "2026-08-19",
+      "sourceType": "official",
+      "deadline": "2027-08-19"
+    },
+    {
+      "id": "hotjob-17973258bd06",
+      "company": "荣耀",
+      "title": "认证准入工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a85584a4315481304a20afc&recruitType=1",
       "lastVerified": "2026-08-19",
       "sourceType": "official",
       "deadline": "2027-08-19"
@@ -961,64 +1715,6 @@
       "deadline": "2026-09-22"
     },
     {
-      "id": "hotjob-be65b25e3e20",
-      "company": "荣耀",
-      "title": "高速与高频信号完整性工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "西安",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a85584c4315481304a20b00&recruitType=1",
-      "lastVerified": "2026-08-19",
-      "sourceType": "official",
-      "deadline": "2026-09-22"
-    },
-    {
-      "id": "hotjob-116deba80e50",
-      "company": "荣耀",
-      "title": "服务解决方案管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "全部地区",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53a43154813049f2288&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
       "id": "hotjob-93b23ceb555f",
       "company": "荣耀",
       "title": "大模型算法工程师",
@@ -1106,93 +1802,6 @@
       "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-da6a1681c91c",
-      "company": "荣耀",
-      "title": "销售解决方案培训生（小语种）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "全部地区",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53943154813049f2281&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-7d7f30f8e7da",
-      "company": "荣耀",
-      "title": "销售解决方案培训生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "全部地区",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53b43154813049f228a&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-fdd2d46caf1f",
-      "company": "荣耀",
-      "title": "营销创意管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "全部地区",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53c43154813049f228e&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
       "id": "hotjob-4517950c48b0",
       "company": "荣耀",
       "title": "AI安全工程师",
@@ -1222,35 +1831,6 @@
       "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-081472e8e47e",
-      "company": "荣耀",
-      "title": "AI软件开发工程师 （AI Coding / Agent方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53e1ad6db7cf8056b66&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
       "id": "hotjob-eefe1de3b5b7",
       "company": "荣耀",
       "title": "AI算法工程师（大模型/搜索推荐方向）",
@@ -1275,93 +1855,6 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53e68cc6f624f42eb2d&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-95a023c5b423",
-      "company": "荣耀",
-      "title": "AI数据工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5401ad6db7cf8056b6f&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-506243d91dde",
-      "company": "荣耀",
-      "title": "战略规划助理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54043154813049f2294&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-5f54e1836061",
-      "company": "荣耀",
-      "title": "财经专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54043154813049f2299&recruitType=1",
       "lastVerified": "2026-08-18",
       "sourceType": "official",
       "deadline": "2027-08-18"
@@ -1425,64 +1918,6 @@
       "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-39f44fe37956",
-      "company": "荣耀",
-      "title": "AI评测工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54243154813049f229c&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-329aa6c34471",
-      "company": "荣耀",
-      "title": "AI应用开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5431ad6db7cf8056b7b&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
       "id": "hotjob-599985a6b557",
       "company": "荣耀",
       "title": "图形图像算法与框架开发工程师",
@@ -1507,122 +1942,6 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53768cc6f624f42eb12&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-b9c1a84e8d01",
-      "company": "荣耀",
-      "title": "产品测试开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53868cc6f624f42eb15&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-21a2c391178c",
-      "company": "荣耀",
-      "title": "产品规划工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5381ad6db7cf8056b58&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-65a58cac0d71",
-      "company": "荣耀",
-      "title": "AI硬件产品工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "西安",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5391ad6db7cf8056b5a&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-4821d42f7a35",
-      "company": "荣耀",
-      "title": "用户研究代表",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53943154813049f2283&recruitType=1",
       "lastVerified": "2026-08-18",
       "sourceType": "official",
       "deadline": "2027-08-18"
@@ -1684,35 +2003,6 @@
       "lastVerified": "2026-08-18",
       "sourceType": "official",
       "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-e92e28e0c811",
-      "company": "荣耀",
-      "title": "通用软件开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53243154813049f2267&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
     },
     {
       "id": "hotjob-7870436bbf78",
@@ -2121,64 +2411,6 @@
       "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-e0b46a6cb307",
-      "company": "荣耀",
-      "title": "解决方案测试工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53143154813049f2260&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-0157550c2bf7",
-      "company": "荣耀",
-      "title": "影像产品规划工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53143154813049f2262&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
       "id": "hotjob-000c1da61950",
       "company": "荣耀",
       "title": "AI多模融合感知算法工程师",
@@ -2208,64 +2440,6 @@
       "deadline": "2026-09-23"
     },
     {
-      "id": "hotjob-a09f7534ded6",
-      "company": "荣耀",
-      "title": "AI驱动软件开发工程师（AI Native）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "西安",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5321ad6db7cf8056b44&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-9adcb2fe450c",
-      "company": "荣耀",
-      "title": "AI应用软件开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "西安",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5331ad6db7cf8056b4a&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
       "id": "hotjob-d145fe5225a6",
       "company": "荣耀",
       "title": "UX设计与研究工程师",
@@ -2293,35 +2467,6 @@
       "lastVerified": "2026-08-18",
       "sourceType": "official",
       "deadline": "2026-09-23"
-    },
-    {
-      "id": "hotjob-a6bddd0d7149",
-      "company": "荣耀",
-      "title": "AI产品经理（交互设计方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "西安",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53468cc6f624f42eb09&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
     },
     {
       "id": "hotjob-2a74d468fdca",
@@ -2498,296 +2643,6 @@
       "deadline": "2027-08-18"
     },
     {
-      "id": "hotjob-fa854647a385",
-      "company": "荣耀",
-      "title": "供应链算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83b3ea43154813049f1585&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-62707b22f29f",
-      "company": "荣耀",
-      "title": "智能制造工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83b3ce1ad6db7cf805641c&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-7d4fe7f4696f",
-      "company": "荣耀",
-      "title": "供应链交付经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c66043154813049f2368&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-d074052c8a89",
-      "company": "荣耀",
-      "title": "互联网产品与运营经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5481ad6db7cf8056b8a&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-84b42631ba0c",
-      "company": "荣耀",
-      "title": "AI产品与运营经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54768cc6f624f42eb39&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-52d7398734e0",
-      "company": "荣耀",
-      "title": "用户体验测试工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5451ad6db7cf8056b83&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-bd1e816a6070",
-      "company": "荣耀",
-      "title": "软件测试工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54543154813049f22a3&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2026-09-22"
-    },
-    {
-      "id": "hotjob-70d724d3300d",
-      "company": "荣耀",
-      "title": "AI产品营销经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54843154813049f22ae&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
-      "id": "hotjob-4621f19042af",
-      "company": "荣耀",
-      "title": "互联网算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54668cc6f624f42eb36&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2026-09-22"
-    },
-    {
-      "id": "hotjob-564d8ccfc5cb",
-      "company": "荣耀",
-      "title": "互联网商业拓展经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5491ad6db7cf8056b91&recruitType=1",
-      "lastVerified": "2026-08-18",
-      "sourceType": "official",
-      "deadline": "2027-08-18"
-    },
-    {
       "id": "hotjob-07caaaf19576",
       "company": "荣耀",
       "title": "大数据开发工程师",
@@ -2841,6 +2696,151 @@
       "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c54643154813049f22a8&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-be65b25e3e20",
+      "company": "荣耀",
+      "title": "高速与高频信号完整性工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a85584c4315481304a20b00&recruitType=1",
+      "lastVerified": "2026-08-19",
+      "sourceType": "official",
+      "deadline": "2026-09-22"
+    },
+    {
+      "id": "hotjob-65a58cac0d71",
+      "company": "荣耀",
+      "title": "AI硬件产品工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5391ad6db7cf8056b5a&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-a09f7534ded6",
+      "company": "荣耀",
+      "title": "AI驱动软件开发工程师（AI Native）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5321ad6db7cf8056b44&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-9adcb2fe450c",
+      "company": "荣耀",
+      "title": "AI应用软件开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5331ad6db7cf8056b4a&recruitType=1",
+      "lastVerified": "2026-08-18",
+      "sourceType": "official",
+      "deadline": "2027-08-18"
+    },
+    {
+      "id": "hotjob-a6bddd0d7149",
+      "company": "荣耀",
+      "title": "AI产品经理（交互设计方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "JD": "公司官方 HotJob 校招岗位；已读取完整职位职责与任职要求并进入四步 JD 筛选。",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53468cc6f624f42eb09&recruitType=1",
       "lastVerified": "2026-08-18",
       "sourceType": "official",
       "deadline": "2027-08-18"

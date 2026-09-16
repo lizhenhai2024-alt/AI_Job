@@ -158,7 +158,7 @@ export const sourceRegistry = [
   },
   {
     "provider": "moka",
-    "company": "1.研发类单位"
+    "company": "东风汽车集团有限公司"
   },
   {
     "provider": "beisen",

@@ -1,12 +1,70 @@
 {
   "company": "小红书",
   "count": 150,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
     {
-      "id": "xiaohongshu-f48a9189a6d6",
+      "id": "xiaohongshu-55d48f7e9a7c",
       "company": "小红书",
-      "title": "【2027校招】小红书产品培训生（RPT）-商业产品",
+      "title": "【2027校招】rednote全球内容运营/Global Content Operations",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：英语、数据分析、内容运营。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22000",
+      "lastVerified": "2026-09-10",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-672eb0889f17",
+      "company": "小红书",
+      "title": "【2027校招】IT运营项目经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22034",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-8c2aa6a873a7",
+      "company": "小红书",
+      "title": "【2027校招】战略",
       "graduationYear": [
         "2027"
       ],
@@ -25,10 +83,503 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 产品。投递前请打开官方职位页确认最新状态与截止日期。",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22161",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22196",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-14353c5abe2e",
+      "company": "小红书",
+      "title": "【2027校招】Product Engineer产品工程师（AI与全栈方向）-跨境电商&交易平台",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22025",
+      "lastVerified": "2026-09-08",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-833f84221bc7",
+      "company": "小红书",
+      "title": "【2027校招】PMO",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。识别关键词：项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22031",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-c688ea1cd6df",
+      "company": "小红书",
+      "title": "【2027校招】Growth Builder-Creator & Community（base新加坡）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语、泰语、印尼语、马来语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "新加坡",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：英语、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22266",
+      "lastVerified": "2026-09-11",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-76bfc24e720f",
+      "company": "小红书",
+      "title": "【2027校招】用户研究",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22197",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-9b7c41af41fb",
+      "company": "小红书",
+      "title": "【2027校招】智算经营分析工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22052",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-149cff11d1d9",
+      "company": "小红书",
+      "title": "【2027校招】决策洞察分析师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 数据。识别关键词：Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22150",
+      "lastVerified": "2026-09-10",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-e5a472d7ba1a",
+      "company": "小红书",
+      "title": "【2027校招】Growth Builder-Product & Experimentation",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：英语、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22267",
+      "lastVerified": "2026-09-10",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-1fcbd6b89d0f",
+      "company": "小红书",
+      "title": "【2027校招】电商算法工程师-内容理解方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。识别关键词：数据分析、SQL、电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21003",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-cc26c0950b2d",
+      "company": "小红书",
+      "title": "【2027校招】公共品牌与公众沟通校招生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22160",
+      "lastVerified": "2026-09-04",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-7c1325cc5e9d",
+      "company": "小红书",
+      "title": "【2027校招】安全运营校招生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22159",
+      "lastVerified": "2026-09-03",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-d92f6f0b18c1",
+      "company": "小红书",
+      "title": "【2027校招】综合创意写作",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：文案。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22156",
       "lastVerified": "2026-09-16",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-4efa219a97fc",
+      "company": "小红书",
+      "title": "【2027校招】国际化搜索、推荐算法工程师 - rednote",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22458",
+      "lastVerified": "2026-09-15",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-8130653161f5",
+      "company": "小红书",
+      "title": "【2027校招】内容治理算法工程师-T&S",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。识别关键词：跨部门沟通。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22071",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-72c608a39bd2",
+      "company": "小红书",
+      "title": "【2027校招】规则运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22073",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-81eaf43b279a",
+      "company": "小红书",
+      "title": "【2027校招】内容增长策略算法工程师-内容增长方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22004",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-b940530f16f2",
+      "company": "小红书",
+      "title": "【2027校招】用户理解算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21270",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-877e9f73e667",
+      "company": "小红书",
+      "title": "【2027校招】智能标注策略工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22066",
+      "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""
     },
@@ -57,6 +608,963 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 产品。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22162",
+      "lastVerified": "2026-09-16",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-a35e5e952880",
+      "company": "小红书",
+      "title": "【2027校招】Agent/大模型算法工程师 - rednote",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21936",
+      "lastVerified": "2026-09-15",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-ab3276509a3c",
+      "company": "小红书",
+      "title": "【2027校招】小红书商业培训生 RED Business Trainee",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 商业。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21318",
+      "lastVerified": "2026-09-15",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-8f0845bf0f78",
+      "company": "小红书",
+      "title": "【2027校招】小红书产品经理培训生（RPT）--企业智能产品",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 产品。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22177",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-d9f1eaa8695d",
+      "company": "小红书",
+      "title": "【2027校招】AI数据分析工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 数据。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22149",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-fc6c62be5a8a",
+      "company": "小红书",
+      "title": "【2027校招】Product Engineer-产品工程师-社区内容方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22019",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-ad339dba722a",
+      "company": "小红书",
+      "title": "【2027校招】AI 应用开发工程师（大模型 AI 质效研发方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22063",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-8af8573c5780",
+      "company": "小红书",
+      "title": "【2027校招】流媒体网络传输开发工程师-多媒体技术",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 多媒体。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22425",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-146e4c98a30e",
+      "company": "小红书",
+      "title": "【2027校招】搜广推 × AI 应用工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 引擎架构。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22027",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-670a33bb2c08",
+      "company": "小红书",
+      "title": "【2027校招】Product Engineer-开发工程师-rednote国际化",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21998",
+      "lastVerified": "2026-09-14",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-9106282f7b5e",
+      "company": "小红书",
+      "title": "【2027 校招】全栈研发工程师（AIGC 营销与创作者工具方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22411",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-2547732019cd",
+      "company": "小红书",
+      "title": "【2027 校招】全栈研发工程师（AI 智能投放方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22407",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-5ecbd8ccc8e4",
+      "company": "小红书",
+      "title": "【2027校招】全栈研发工程师（广告投放平台方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22408",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-2e8ed4a9e155",
+      "company": "小红书",
+      "title": "【2027 校招】全栈研发工程师（灵犀 AI 数据洞察方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22410",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-6ac784153e76",
+      "company": "小红书",
+      "title": "【2027校招】终端管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22032",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-63460b559d6b",
+      "company": "小红书",
+      "title": "【2027校招】网络工程师-IT",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22033",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-7614eb921488",
+      "company": "小红书",
+      "title": "【2027校招】多模态数据库研发",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22037",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-d02b06e85a21",
+      "company": "小红书",
+      "title": "【2027校招】对象&文件存储研发",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22036",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-b012fea999d7",
+      "company": "小红书",
+      "title": "【2027校招】NoSQL&KVCache 分布式缓存数据库研发",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：SQL、电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22035",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-d159064a9985",
+      "company": "小红书",
+      "title": "【2027校招】多模态基础模型算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21008",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-8cb31024cebd",
+      "company": "小红书",
+      "title": "【2027校招】基础模型算法工程师-Post-training",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21005",
+      "lastVerified": "2026-09-12",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-e6b37fed66e7",
+      "company": "小红书",
+      "title": "【2027校招】AI Agent 工程师（大模型 AI 应用开发方向）-质效研发",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21966",
+      "lastVerified": "2026-09-10",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-8c62f91eb8d1",
+      "company": "小红书",
+      "title": "【2027校招】Agent/大模型算法工程师-rednote国际化",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21907",
+      "lastVerified": "2026-09-10",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-37ff8a695606",
+      "company": "小红书",
+      "title": "【2027校招】AI agent算法工程师（企业智能）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22001",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-bdd20dafc3e8",
+      "company": "小红书",
+      "title": "【2027校招】Product Engineer-产品工程师（AI 全栈方向）-国内电商",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22023",
+      "lastVerified": "2026-09-08",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-7a50747d5b16",
+      "company": "小红书",
+      "title": "【2027校招】NLP/多模态内容理解算法工程师-社区治理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21293",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-f610845c7f3a",
+      "company": "小红书",
+      "title": "【2027校招】推荐算法工程师-流量分发",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21693",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-a07221f1ca16",
+      "company": "小红书",
+      "title": "【2027校招】视觉与多模态算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。识别关键词：文案、电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21269",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-1c065f80dc7e",
+      "company": "小红书",
+      "title": "【2027校招】大模型算法工程师-内容理解方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21011",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-97800c9c063a",
+      "company": "小红书",
+      "title": "【2027校招】Product Engineer-产品工程师-媒体服务",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22015",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-0fe685214d7b",
+      "company": "小红书",
+      "title": "【2027校招】Product Engineer-产品工程师-直播业务",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22076",
+      "lastVerified": "2026-09-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-268f410c92ce",
+      "company": "小红书",
+      "title": "【2027校招】电商算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21006",
+      "lastVerified": "2026-09-04",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-32be576697d7",
+      "company": "小红书",
+      "title": "【2027校招】媒体网络研发工程师-CDN方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 多媒体。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22014",
+      "lastVerified": "2026-09-03",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "xiaohongshu-f48a9189a6d6",
+      "company": "小红书",
+      "title": "【2027校招】小红书产品培训生（RPT）-商业产品",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 产品。投递前请打开官方职位页确认最新状态与截止日期。",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22161",
       "lastVerified": "2026-09-16",
       "sourceType": "official",
       "deadline": ""
@@ -294,35 +1802,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-d92f6f0b18c1",
-      "company": "小红书",
-      "title": "【2027校招】综合创意写作",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：文案。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22156",
-      "lastVerified": "2026-09-16",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-043ed744842f",
       "company": "小红书",
       "title": "【2027校招】多媒体设计师",
@@ -551,93 +2030,6 @@
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=20734",
       "lastVerified": "2026-09-16",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-a35e5e952880",
-      "company": "小红书",
-      "title": "【2027校招】Agent/大模型算法工程师 - rednote",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21936",
-      "lastVerified": "2026-09-15",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-4efa219a97fc",
-      "company": "小红书",
-      "title": "【2027校招】国际化搜索、推荐算法工程师 - rednote",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22458",
-      "lastVerified": "2026-09-15",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-ab3276509a3c",
-      "company": "小红书",
-      "title": "【2027校招】小红书商业培训生 RED Business Trainee",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 商业。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21318",
-      "lastVerified": "2026-09-15",
       "sourceType": "official",
       "deadline": ""
     },
@@ -990,35 +2382,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-8f0845bf0f78",
-      "company": "小红书",
-      "title": "【2027校招】小红书产品经理培训生（RPT）--企业智能产品",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 产品。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22177",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-d34615721026",
       "company": "小红书",
       "title": "【2027校招】小红书产品经理培训生（RPT）--AI平台产品",
@@ -1043,35 +2406,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 产品。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22164",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-d9f1eaa8695d",
-      "company": "小红书",
-      "title": "【2027校招】AI数据分析工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 数据。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22149",
       "lastVerified": "2026-09-14",
       "sourceType": "official",
       "deadline": ""
@@ -1102,325 +2436,6 @@
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22198",
       "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-76bfc24e720f",
-      "company": "小红书",
-      "title": "【2027校招】用户研究",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。识别关键词：数据分析、电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22197",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-8c2aa6a873a7",
-      "company": "小红书",
-      "title": "【2027校招】战略",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。识别关键词：数据分析、项目管理、电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22196",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-fc6c62be5a8a",
-      "company": "小红书",
-      "title": "【2027校招】Product Engineer-产品工程师-社区内容方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22019",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-ad339dba722a",
-      "company": "小红书",
-      "title": "【2027校招】AI 应用开发工程师（大模型 AI 质效研发方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22063",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-8af8573c5780",
-      "company": "小红书",
-      "title": "【2027校招】流媒体网络传输开发工程师-多媒体技术",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 多媒体。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22425",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-146e4c98a30e",
-      "company": "小红书",
-      "title": "【2027校招】搜广推 × AI 应用工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 引擎架构。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22027",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-670a33bb2c08",
-      "company": "小红书",
-      "title": "【2027校招】Product Engineer-开发工程师-rednote国际化",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21998",
-      "lastVerified": "2026-09-14",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-9106282f7b5e",
-      "company": "小红书",
-      "title": "【2027 校招】全栈研发工程师（AIGC 营销与创作者工具方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22411",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-2547732019cd",
-      "company": "小红书",
-      "title": "【2027 校招】全栈研发工程师（AI 智能投放方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22407",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-5ecbd8ccc8e4",
-      "company": "小红书",
-      "title": "【2027校招】全栈研发工程师（广告投放平台方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22408",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-2e8ed4a9e155",
-      "company": "小红书",
-      "title": "【2027 校招】全栈研发工程师（灵犀 AI 数据洞察方向）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22410",
-      "lastVerified": "2026-09-12",
       "sourceType": "official",
       "deadline": ""
     },
@@ -1483,64 +2498,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-6ac784153e76",
-      "company": "小红书",
-      "title": "【2027校招】终端管理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22032",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-63460b559d6b",
-      "company": "小红书",
-      "title": "【2027校招】网络工程师-IT",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22033",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-9e18173bee32",
       "company": "小红书",
       "title": "【2027校招】智能平台开发",
@@ -1594,35 +2551,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22054",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-9b7c41af41fb",
-      "company": "小红书",
-      "title": "【2027校招】智算经营分析工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22052",
       "lastVerified": "2026-09-12",
       "sourceType": "official",
       "deadline": ""
@@ -1860,64 +2788,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-7614eb921488",
-      "company": "小红书",
-      "title": "【2027校招】多模态数据库研发",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22037",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-d02b06e85a21",
-      "company": "小红书",
-      "title": "【2027校招】对象&文件存储研发",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22036",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-1ea5e8b985fe",
       "company": "小红书",
       "title": "【2027校招】测试开发",
@@ -1942,151 +2812,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22046",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-b012fea999d7",
-      "company": "小红书",
-      "title": "【2027校招】NoSQL&KVCache 分布式缓存数据库研发",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 基础后端。识别关键词：SQL、电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22035",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-672eb0889f17",
-      "company": "小红书",
-      "title": "【2027校招】IT运营项目经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。识别关键词：英语。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22034",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-833f84221bc7",
-      "company": "小红书",
-      "title": "【2027校招】PMO",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。识别关键词：项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22031",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-d159064a9985",
-      "company": "小红书",
-      "title": "【2027校招】多模态基础模型算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21008",
-      "lastVerified": "2026-09-12",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-8cb31024cebd",
-      "company": "小红书",
-      "title": "【2027校招】基础模型算法工程师-Post-training",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21005",
       "lastVerified": "2026-09-12",
       "sourceType": "official",
       "deadline": ""
@@ -2145,35 +2870,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22026",
-      "lastVerified": "2026-09-11",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-c688ea1cd6df",
-      "company": "小红书",
-      "title": "【2027校招】Growth Builder-Creator & Community（base新加坡）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "新加坡",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：英语、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22266",
       "lastVerified": "2026-09-11",
       "sourceType": "official",
       "deadline": ""
@@ -2266,35 +2962,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-149cff11d1d9",
-      "company": "小红书",
-      "title": "【2027校招】决策洞察分析师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 数据。识别关键词：Excel、数据分析、SQL、电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22150",
-      "lastVerified": "2026-09-10",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-57cbaba45026",
       "company": "小红书",
       "title": "【2027校招】交互技术研究员/Agent 工程师",
@@ -2382,64 +3049,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-55d48f7e9a7c",
-      "company": "小红书",
-      "title": "【2027校招】rednote全球内容运营/Global Content Operations",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：英语、数据分析、内容运营。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22000",
-      "lastVerified": "2026-09-10",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-e5a472d7ba1a",
-      "company": "小红书",
-      "title": "【2027校招】Growth Builder-Product & Experimentation",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：英语、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22267",
-      "lastVerified": "2026-09-10",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-3576b2875f60",
       "company": "小红书",
       "title": "【2027校招】AI 应用开发工程师（大模型 AI 产品可靠性方向）-质效研发",
@@ -2464,35 +3073,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22064",
-      "lastVerified": "2026-09-10",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-e6b37fed66e7",
-      "company": "小红书",
-      "title": "【2027校招】AI Agent 工程师（大模型 AI 应用开发方向）-质效研发",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21966",
       "lastVerified": "2026-09-10",
       "sourceType": "official",
       "deadline": ""
@@ -2527,35 +3107,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-8c62f91eb8d1",
-      "company": "小红书",
-      "title": "【2027校招】Agent/大模型算法工程师-rednote国际化",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21907",
-      "lastVerified": "2026-09-10",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-6565b5fb1816",
       "company": "小红书",
       "title": "【2027校招】产品经理（Trust&Safety）-rednote国际化（base新加坡）",
@@ -2585,64 +3136,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-37ff8a695606",
-      "company": "小红书",
-      "title": "【2027校招】AI agent算法工程师（企业智能）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 大模型。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22001",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-14353c5abe2e",
-      "company": "小红书",
-      "title": "【2027校招】Product Engineer产品工程师（AI与全栈方向）-跨境电商&交易平台",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22025",
-      "lastVerified": "2026-09-08",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-ae834fecc9b6",
       "company": "小红书",
       "title": "【2027校招】Product Engineer-产品工程师（AI Coding 基建方向）-PE Infra",
@@ -2667,35 +3160,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22024",
-      "lastVerified": "2026-09-08",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-bdd20dafc3e8",
-      "company": "小红书",
-      "title": "【2027校招】Product Engineer-产品工程师（AI 全栈方向）-国内电商",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22023",
       "lastVerified": "2026-09-08",
       "sourceType": "official",
       "deadline": ""
@@ -2904,35 +3368,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-8130653161f5",
-      "company": "小红书",
-      "title": "【2027校招】内容治理算法工程师-T&S",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。识别关键词：跨部门沟通。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22071",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-41881e053425",
       "company": "小红书",
       "title": "【2027校招】NLP/多模态算法工程师-交易/商业化治理",
@@ -3049,93 +3484,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-72c608a39bd2",
-      "company": "小红书",
-      "title": "【2027校招】规则运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22073",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-7a50747d5b16",
-      "company": "小红书",
-      "title": "【2027校招】NLP/多模态内容理解算法工程师-社区治理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21293",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-81eaf43b279a",
-      "company": "小红书",
-      "title": "【2027校招】内容增长策略算法工程师-内容增长方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22004",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-af160f653a68",
       "company": "小红书",
       "title": "【2027校招】AI音频算法工程师",
@@ -3194,64 +3542,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-1fcbd6b89d0f",
-      "company": "小红书",
-      "title": "【2027校招】电商算法工程师-内容理解方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。识别关键词：数据分析、SQL、电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21003",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-b940530f16f2",
-      "company": "小红书",
-      "title": "【2027校招】用户理解算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21270",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-85951f1a035c",
       "company": "小红书",
       "title": "【2027校招】增长算法工程师-社区增长",
@@ -3276,93 +3566,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21010",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-f610845c7f3a",
-      "company": "小红书",
-      "title": "【2027校招】推荐算法工程师-流量分发",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21693",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-a07221f1ca16",
-      "company": "小红书",
-      "title": "【2027校招】视觉与多模态算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。识别关键词：文案、电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21269",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-1c065f80dc7e",
-      "company": "小红书",
-      "title": "【2027校招】大模型算法工程师-内容理解方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 视觉与多模态。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21011",
       "lastVerified": "2026-09-07",
       "sourceType": "official",
       "deadline": ""
@@ -3451,93 +3654,6 @@
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22002",
       "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-97800c9c063a",
-      "company": "小红书",
-      "title": "【2027校招】Product Engineer-产品工程师-媒体服务",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22015",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-0fe685214d7b",
-      "company": "小红书",
-      "title": "【2027校招】Product Engineer-产品工程师-直播业务",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 产品工程师。识别关键词：数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22076",
-      "lastVerified": "2026-09-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-cc26c0950b2d",
-      "company": "小红书",
-      "title": "【2027校招】公共品牌与公众沟通校招生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 职能。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22160",
-      "lastVerified": "2026-09-04",
       "sourceType": "official",
       "deadline": ""
     },
@@ -3832,35 +3948,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-268f410c92ce",
-      "company": "小红书",
-      "title": "【2027校招】电商算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：算法 / 搜索、推荐、广告。识别关键词：电商。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21006",
-      "lastVerified": "2026-09-04",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-440ea9472f3f",
       "company": "小红书",
       "title": "【2027校招】安全研发工程师",
@@ -3914,35 +4001,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 多媒体。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22016",
-      "lastVerified": "2026-09-03",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-32be576697d7",
-      "company": "小红书",
-      "title": "【2027校招】媒体网络研发工程师-CDN方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：研发 / 多媒体。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22014",
       "lastVerified": "2026-09-03",
       "sourceType": "official",
       "deadline": ""
@@ -4035,35 +4093,6 @@
       "deadline": ""
     },
     {
-      "id": "xiaohongshu-7c1325cc5e9d",
-      "company": "小红书",
-      "title": "【2027校招】安全运营校招生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22159",
-      "lastVerified": "2026-09-03",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "xiaohongshu-82385e2edd0e",
       "company": "小红书",
       "title": "【2027校招】公共事务校招生",
@@ -4146,35 +4175,6 @@
       "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 产品。投递前请打开官方职位页确认最新状态与截止日期。",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22065",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "xiaohongshu-877e9f73e667",
-      "company": "小红书",
-      "title": "【2027校招】智能标注策略工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "小红书官方 2027 校园招聘岗位；职类：非技术 / 运营。投递前请打开官方职位页确认最新状态与截止日期。",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22066",
       "lastVerified": "2026-09-02",
       "sourceType": "official",
       "deadline": ""

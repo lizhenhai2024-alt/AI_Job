@@ -1,501 +1,8 @@
 {
   "company": "中微半导体设备股份有限公司",
   "count": 180,
-  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "updatedAt": "2026-09-16T12:41:28.968Z",
   "jobs": [
-    {
-      "id": "moka-5034546984e2",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-研发技术支持工程师-薄膜沉积 TPS Engineer-ATF（成都）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "成都",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/ac053a81-39dd-4fac-87d9-d66c5c4152e0",
-      "lastVerified": "2026-09-10",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-cc78171f07a2",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-（资深）工艺研发工程师-薄膜沉积 Process Senior Engineer-ATF（成都）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "成都",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/3dbf1b78-e1ac-4477-a1f0-8d4384c9fd13",
-      "lastVerified": "2026-09-10",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-8842d17958df",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6d217b4b-8c00-4916-9e23-24c24864740f",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-6ab67cc780d6",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-工业工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/0c48d4c6-2e42-494c-9606-9dce1132d8eb",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-c42cff0787bd",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-生产计划工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/954a71f0-2253-4763-a9d9-d3ce05c41644",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-bc1369db3e26",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-质量工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/18de61d5-03c2-407a-a901-627fb8d14b03",
-      "lastVerified": "2026-09-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-ce5aa232de5c",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-工业工程师（成都）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "成都",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/cbf8fa2d-94e0-4a51-bd14-9e6a843c1d18",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-0fc943400475",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（成都）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "成都",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/2fa18ecb-0bdd-4624-a7a5-d790d9235235",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-bf0d53dccc81",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-生产计划工程师（成都）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "成都",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/0a32c4a2-8dd9-4edf-a6dd-6289f6037bee",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-320de3367132",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-EHS工程师（成都）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "成都",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1d349c91-ea74-4815-8574-63e635146cba",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-44d25a9a4526",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-质量工程师（成都）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "成都",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/47da4fe6-df85-44e0-9da8-08d97cc1f4f3",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-1ab0f85eb5a3",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-TGCM工程师（成都）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "成都",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/f89126ec-0951-41fe-8431-cc70211d7e28",
-      "lastVerified": "2026-09-02",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-3f3767efa15d",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-量检测应用工程师 Inspection Application Engineer",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/d46d896b-6b9c-4df0-b73f-dbc2648f960d",
-      "lastVerified": "2026-09-01",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-f2f2a481d78f",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-C++软件开发工程师 Software Engineer",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/c9e59360-f1e7-40a5-bd6c-b8a0349efa21",
-      "lastVerified": "2026-08-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-9313a5916f28",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-（资深）工艺研发工程师-薄膜沉积 Process Senior Engineer-ATF",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/390da6c4-2dc2-449d-83b5-8a363c4453b7",
-      "lastVerified": "2026-08-07",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-57049b75c1ff",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/9f038abd-5d0a-49b8-a383-6fcf746f5454",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-facf30653f69",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/cf03a046-de06-4c80-8f72-124631045842",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
     {
       "id": "moka-dd20b2a05feb",
       "company": "中微半导体设备股份有限公司",
@@ -526,35 +33,6 @@
       "deadline": ""
     },
     {
-      "id": "moka-4cd00bbba5da",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a57a85af-f2fc-4181-836e-70c575564353",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "moka-9f9c2c98767f",
       "company": "中微半导体设备股份有限公司",
       "title": "2027届-项目工程师-Project Engineer-Common Engineering Project Management",
@@ -579,1282 +57,6 @@
       "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/995dc688-7b37-43e3-91ed-2375a734e1b0",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-82a7e0f90f84",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-产品管理工程师-MOCVD GPM Engineer-MOCVD-南昌",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6f67e0f9-574a-4856-8f5c-516f916fef20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-60cf779ae16b",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/5923120f-e92b-4aa5-ae1b-ea9871e0a287",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-c6d2e17f93f1",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/debd84b4-f3ad-4a11-bbe3-0aabbfcb6063",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-ec175d678899",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6e89712a-4430-41ab-8914-fe18c74d2640",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-a68eeae71238",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/e2d1069b-6c28-4663-9228-5433aa88300c",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-7995b3f56e70",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/261356a3-6b76-4157-90a0-d217353eb734",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-1f5137964b8b",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/5d317596-0717-44c6-a821-07006ec3457f",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-fd80abb08201",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/26cd4718-6bb8-497a-95fd-1d1944fbc5b0",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-ca1f62f2fedd",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1d6bde79-5ac8-43fc-895d-f102897ac565",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-c6aeb90fca97",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1fad541d-40d2-4bd6-b9ea-23032e837337",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-3d5a1fc5e241",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/3f8a8e0d-2bff-4cd6-8cde-7bbd09a30225",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-4978478e96da",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/eac0b069-c828-486b-a3ed-a0e32dd64d03",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-e5ebeeb06a9c",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/3f2a6a14-f537-4e52-a742-946437271ff9",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-90afd6c559ea",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/e388e7a1-04f0-44ed-b09d-608b4ea885de",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-e5099dcb7de2",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-制造项目工程师（广州）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/17710a9f-d587-441d-9b9c-08437600c66d",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-16a0fceb5ba5",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/c44cda1c-a203-4000-9b0c-2cd802cba95e",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-35b31266e261",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/cd59a8ac-a251-43ed-8053-53cad55d8898",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-477df593f61e",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/84ba44c0-2502-4339-859e-d33d7370a942",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-31a0bcbce82f",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/36f2ddeb-850c-4df3-9207-a1db76205415",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-7ed619d4aa39",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/26d04628-fec3-4c91-9e22-ff5da348b7db",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-0fed90af67cc",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b06ea081-4a4e-4620-9b82-dd8cbfc1b1f4",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-4f15dee8de75",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/147ebec1-858b-4c0a-9dc5-176c4bf0c5d2",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-0a208ec56673",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a1f0ebfe-3230-47d9-a845-5386f4fada44",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-09073df85f73",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b6851df6-48d1-466b-ab98-dfa3cae8199a",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-a88599d55d68",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/fce523e6-a537-4571-a91e-fdf9c6841493",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-54a90e216e5e",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1f2add6c-c078-411d-9da8-d02e1717c79b",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-d88f8cc046fe",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/56bbc4f3-5c2c-4e51-90aa-8192996a8845",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-c655c539ddd2",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/0b4dca98-b14f-4e4e-bd48-a987a7b209d3",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-b4be57e3d087",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6649dd71-0da8-4df0-aeb8-d42bbf4016ee",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-b7f096e4d605",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a965e44c-a60a-4559-b0c2-1e9f2f530fab",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-f0b0a62b7e8f",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/d3730568-e923-4a38-bcfb-97fae880b297",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-2746bbf48251",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/14b4017e-323b-4044-afdb-7927f5d133d2",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-be2aa5018843",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a99af37f-169a-4d6b-9743-46cc6c5acc6e",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-754c1a9688c0",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6aaf4f33-8a57-49dc-a2a6-ed88e5d13d2c",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-df27b986d6f0",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/8dfa1c1d-6b95-42f2-83ff-84cc06d56c13",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-57d62ce1e9a3",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/0b0bac1d-8970-4ad9-b2fe-6e979016f2a9",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-cb8a809b58bd",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/03906dec-aca3-46eb-a6ed-0015a5fb32e4",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-7227404f57b8",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/e2e40d7e-0546-4a8d-8edb-78fa5a1907f1",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-c6708ada7c04",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/506bb4d8-9215-40eb-88fe-b6a2ea4d2498",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-22870573b604",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/570e04ce-55ea-4717-8c8b-302d428ea8fb",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-2822757a185e",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/bb14f660-9555-4bb1-88c0-6a6cdd138569",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-60184fe54058",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/8f940ff3-ed37-4aae-a8ea-47f98fbd14ae",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-75b21fe861ed",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/c8087b54-977f-4802-88e4-fbd741ae87fb",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-5a5650797546",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/06341835-f003-44a9-b05c-58add1fffd14",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -2701,847 +903,6 @@
       "deadline": ""
     },
     {
-      "id": "moka-6cc08095b8f2",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/01b6d9ff-6232-428c-9110-4a4121ef6b14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-ee54bc067919",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/00002035-6aa5-4049-8601-d0099f6987ee",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-b83cec778227",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/5a05a6d9-c14b-4db5-be08-e4f58853ea7d",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-c54b2350e48d",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/241ba558-e821-4dd9-8b7c-b063e41cb495",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-4e04d6c7a441",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/d4adc7ba-0a71-498c-97a2-4461ff9e7fee",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-b3f57475ac7c",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/848448e1-7c20-4ed3-af8d-ab74465fd268",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-a68ed47e4638",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/2f3242d3-c0b5-4f69-afb0-913d1027b366",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-e2d08720a845",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/06ad009c-35e6-45e5-873b-ba08be067589",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-0295c8d490bc",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b312a53e-eefb-43c2-81bc-f4df125528a0",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-0050d90c17ce",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/82fe38e3-029a-4836-b857-653a29547576",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-67ad20944baf",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a555b291-0995-4b75-9d12-0598b52ebde4",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-c93adfdf396b",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/8ffb0fbc-b01c-4117-b170-5400a630c232",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-d8cda1d5542e",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/8a02d7bb-be1b-459f-9a79-1f791f20ea25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-a8e2d1a6c48b",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/159325ba-cdec-46e5-9e67-01298b717cc1",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-f93009c3b8e0",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/27c29392-d8f4-43c6-bb9d-5b442efef1df",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-2bade76643c8",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/87be2290-1da6-40b9-8dee-11d0bd6b870c",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-de649b452001",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/e0c55e5d-b86c-4251-b740-f02f6a903e1f",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-74f5ed8cc26b",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/fed6982a-fce5-4328-88a5-65caacd887c3",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-cdb83f5fd9b7",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/387cbe3b-b380-4b95-bab7-5da6f584ec9a",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-99478654f386",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b540114b-3d46-4785-8994-50f520103a1a",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-2f76229d018b",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b7093c0b-c8df-4dca-85a2-9829c70600ea",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-6be5781f480f",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/4a942b1f-2555-4f35-9d4f-cba20c518060",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-abd3ce301e83",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/c3db486a-ca13-4db8-a1fb-571efebc0205",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-72dd702e6120",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/416b7c65-74d7-499f-b1e8-49ef8d309fdc",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-8fc1b9b27fa1",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1238f2e2-d54a-4772-ba3f-9a8c5f8f5c37",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-59b4c64a5f22",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6f2fc2b6-f1d5-4c52-a38e-1182320dfe92",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-a2a6cd5c3208",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1e0962db-ae24-474a-abc8-3dee5ccb13d5",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-74c9e2e722c1",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/f5829b8c-1bb2-4964-a69b-dae6a24fb1cc",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-9d06cf50663e",
-      "company": "中微半导体设备股份有限公司",
-      "title": "2027届-现场设备工程师（合肥）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/ec7d5e95-79df-4f6b-b9b9-29c2b7bc2a8e",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "moka-10db45aba48b",
       "company": "中微半导体设备股份有限公司",
       "title": "2027届-项目工程师-Project Engineer-Common Engineering Project Management",
@@ -4378,6 +1739,2239 @@
       "JD": "公司官方 Moka 校招岗位；识别关键词：项目管理。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/d8839b75-6a5a-4143-898b-75c286f10be6",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-57049b75c1ff",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/9f038abd-5d0a-49b8-a383-6fcf746f5454",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-60cf779ae16b",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/5923120f-e92b-4aa5-ae1b-ea9871e0a287",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c6d2e17f93f1",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/debd84b4-f3ad-4a11-bbe3-0aabbfcb6063",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-ec175d678899",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6e89712a-4430-41ab-8914-fe18c74d2640",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-a68eeae71238",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/e2d1069b-6c28-4663-9228-5433aa88300c",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-7995b3f56e70",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/261356a3-6b76-4157-90a0-d217353eb734",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-1f5137964b8b",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/5d317596-0717-44c6-a821-07006ec3457f",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-fd80abb08201",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/26cd4718-6bb8-497a-95fd-1d1944fbc5b0",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-ca1f62f2fedd",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1d6bde79-5ac8-43fc-895d-f102897ac565",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c6aeb90fca97",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1fad541d-40d2-4bd6-b9ea-23032e837337",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-3d5a1fc5e241",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/3f8a8e0d-2bff-4cd6-8cde-7bbd09a30225",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-4978478e96da",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/eac0b069-c828-486b-a3ed-a0e32dd64d03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-e5ebeeb06a9c",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/3f2a6a14-f537-4e52-a742-946437271ff9",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-90afd6c559ea",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/e388e7a1-04f0-44ed-b09d-608b4ea885de",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-e5099dcb7de2",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/17710a9f-d587-441d-9b9c-08437600c66d",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-8842d17958df",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6d217b4b-8c00-4916-9e23-24c24864740f",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-facf30653f69",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/cf03a046-de06-4c80-8f72-124631045842",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-4cd00bbba5da",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a57a85af-f2fc-4181-836e-70c575564353",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-82a7e0f90f84",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-产品管理工程师-MOCVD GPM Engineer-MOCVD-南昌",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6f67e0f9-574a-4856-8f5c-516f916fef20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-16a0fceb5ba5",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/c44cda1c-a203-4000-9b0c-2cd802cba95e",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-35b31266e261",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/cd59a8ac-a251-43ed-8053-53cad55d8898",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-477df593f61e",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/84ba44c0-2502-4339-859e-d33d7370a942",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-31a0bcbce82f",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/36f2ddeb-850c-4df3-9207-a1db76205415",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-7ed619d4aa39",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/26d04628-fec3-4c91-9e22-ff5da348b7db",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-0fed90af67cc",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b06ea081-4a4e-4620-9b82-dd8cbfc1b1f4",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-4f15dee8de75",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/147ebec1-858b-4c0a-9dc5-176c4bf0c5d2",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-0a208ec56673",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a1f0ebfe-3230-47d9-a845-5386f4fada44",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-09073df85f73",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b6851df6-48d1-466b-ab98-dfa3cae8199a",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-a88599d55d68",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/fce523e6-a537-4571-a91e-fdf9c6841493",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-54a90e216e5e",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1f2add6c-c078-411d-9da8-d02e1717c79b",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-d88f8cc046fe",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/56bbc4f3-5c2c-4e51-90aa-8192996a8845",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c655c539ddd2",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/0b4dca98-b14f-4e4e-bd48-a987a7b209d3",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-b4be57e3d087",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6649dd71-0da8-4df0-aeb8-d42bbf4016ee",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-b7f096e4d605",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a965e44c-a60a-4559-b0c2-1e9f2f530fab",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-f0b0a62b7e8f",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/d3730568-e923-4a38-bcfb-97fae880b297",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-2746bbf48251",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/14b4017e-323b-4044-afdb-7927f5d133d2",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-be2aa5018843",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a99af37f-169a-4d6b-9743-46cc6c5acc6e",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-754c1a9688c0",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6aaf4f33-8a57-49dc-a2a6-ed88e5d13d2c",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-df27b986d6f0",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/8dfa1c1d-6b95-42f2-83ff-84cc06d56c13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-57d62ce1e9a3",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/0b0bac1d-8970-4ad9-b2fe-6e979016f2a9",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-cb8a809b58bd",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/03906dec-aca3-46eb-a6ed-0015a5fb32e4",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-7227404f57b8",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/e2e40d7e-0546-4a8d-8edb-78fa5a1907f1",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c6708ada7c04",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/506bb4d8-9215-40eb-88fe-b6a2ea4d2498",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-22870573b604",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/570e04ce-55ea-4717-8c8b-302d428ea8fb",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-2822757a185e",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/bb14f660-9555-4bb1-88c0-6a6cdd138569",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-60184fe54058",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/8f940ff3-ed37-4aae-a8ea-47f98fbd14ae",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-75b21fe861ed",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/c8087b54-977f-4802-88e4-fbd741ae87fb",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-5a5650797546",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-资深研发工程师（中医理论方向）-芯汇康",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/06341835-f003-44a9-b05c-58add1fffd14",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-6cc08095b8f2",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/01b6d9ff-6232-428c-9110-4a4121ef6b14",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-ee54bc067919",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/00002035-6aa5-4049-8601-d0099f6987ee",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-b83cec778227",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/5a05a6d9-c14b-4db5-be08-e4f58853ea7d",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c54b2350e48d",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/241ba558-e821-4dd9-8b7c-b063e41cb495",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-4e04d6c7a441",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/d4adc7ba-0a71-498c-97a2-4461ff9e7fee",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-b3f57475ac7c",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/848448e1-7c20-4ed3-af8d-ab74465fd268",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-a68ed47e4638",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/2f3242d3-c0b5-4f69-afb0-913d1027b366",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-e2d08720a845",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/06ad009c-35e6-45e5-873b-ba08be067589",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-0295c8d490bc",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b312a53e-eefb-43c2-81bc-f4df125528a0",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-0050d90c17ce",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/82fe38e3-029a-4836-b857-653a29547576",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-67ad20944baf",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/a555b291-0995-4b75-9d12-0598b52ebde4",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c93adfdf396b",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/8ffb0fbc-b01c-4117-b170-5400a630c232",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-d8cda1d5542e",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/8a02d7bb-be1b-459f-9a79-1f791f20ea25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-a8e2d1a6c48b",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/159325ba-cdec-46e5-9e67-01298b717cc1",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-f93009c3b8e0",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/27c29392-d8f4-43c6-bb9d-5b442efef1df",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-2bade76643c8",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/87be2290-1da6-40b9-8dee-11d0bd6b870c",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-de649b452001",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/e0c55e5d-b86c-4251-b740-f02f6a903e1f",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-74f5ed8cc26b",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/fed6982a-fce5-4328-88a5-65caacd887c3",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-cdb83f5fd9b7",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/387cbe3b-b380-4b95-bab7-5da6f584ec9a",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-99478654f386",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b540114b-3d46-4785-8994-50f520103a1a",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-2f76229d018b",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/b7093c0b-c8df-4dca-85a2-9829c70600ea",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-6be5781f480f",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/4a942b1f-2555-4f35-9d4f-cba20c518060",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-abd3ce301e83",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/c3db486a-ca13-4db8-a1fb-571efebc0205",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-72dd702e6120",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/416b7c65-74d7-499f-b1e8-49ef8d309fdc",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-8fc1b9b27fa1",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1238f2e2-d54a-4772-ba3f-9a8c5f8f5c37",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-59b4c64a5f22",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/6f2fc2b6-f1d5-4c52-a38e-1182320dfe92",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-a2a6cd5c3208",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1e0962db-ae24-474a-abc8-3dee5ccb13d5",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-74c9e2e722c1",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/f5829b8c-1bb2-4964-a69b-dae6a24fb1cc",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-9d06cf50663e",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-现场设备工程师（合肥）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/ec7d5e95-79df-4f6b-b9b9-29c2b7bc2a8e",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -5220,6 +4814,412 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/d66383f6-c413-4019-8d52-7ab3479fbf49",
       "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-6ab67cc780d6",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-工业工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/0c48d4c6-2e42-494c-9606-9dce1132d8eb",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c42cff0787bd",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-生产计划工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/954a71f0-2253-4763-a9d9-d3ce05c41644",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-bc1369db3e26",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-质量工程师（广州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/18de61d5-03c2-407a-a901-627fb8d14b03",
+      "lastVerified": "2026-09-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-0fc943400475",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-制造项目工程师（成都）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/2fa18ecb-0bdd-4624-a7a5-d790d9235235",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-5034546984e2",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-研发技术支持工程师-薄膜沉积 TPS Engineer-ATF（成都）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/ac053a81-39dd-4fac-87d9-d66c5c4152e0",
+      "lastVerified": "2026-09-10",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-cc78171f07a2",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-（资深）工艺研发工程师-薄膜沉积 Process Senior Engineer-ATF（成都）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/3dbf1b78-e1ac-4477-a1f0-8d4384c9fd13",
+      "lastVerified": "2026-09-10",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-ce5aa232de5c",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-工业工程师（成都）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/cbf8fa2d-94e0-4a51-bd14-9e6a843c1d18",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-bf0d53dccc81",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-生产计划工程师（成都）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/0a32c4a2-8dd9-4edf-a6dd-6289f6037bee",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-320de3367132",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-EHS工程师（成都）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/1d349c91-ea74-4815-8574-63e635146cba",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-44d25a9a4526",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-质量工程师（成都）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/47da4fe6-df85-44e0-9da8-08d97cc1f4f3",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-1ab0f85eb5a3",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-TGCM工程师（成都）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/f89126ec-0951-41fe-8431-cc70211d7e28",
+      "lastVerified": "2026-09-02",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-3f3767efa15d",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-量检测应用工程师 Inspection Application Engineer",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/d46d896b-6b9c-4df0-b73f-dbc2648f960d",
+      "lastVerified": "2026-09-01",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-f2f2a481d78f",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-C++软件开发工程师 Software Engineer",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/c9e59360-f1e7-40a5-bd6c-b8a0349efa21",
+      "lastVerified": "2026-08-07",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-9313a5916f28",
+      "company": "中微半导体设备股份有限公司",
+      "title": "2027届-（资深）工艺研发工程师-薄膜沉积 Process Senior Engineer-ATF",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus_apply/amec/4362#/job/390da6c4-2dc2-449d-83b5-8a363c4453b7",
+      "lastVerified": "2026-08-07",
       "sourceType": "official",
       "deadline": ""
     }
