@@ -381,7 +381,7 @@ export function resolveJdEvidence(job = {}) {
   return migrateLegacyEvidence(job) || extractJdEvidence(job);
 }
 
-/** LLM 抽取器产出的证据（source 形如 'llm' 或 'llm:mimo-v2.5-free'）。 */
+/** LLM 抽取器产出的证据（source 形如 'llm' 或 'llm:deepseek-flash'）。 */
 export function isLlmEvidence(evidence) {
   return Boolean(evidence) && String(evidence.source || '').startsWith('llm');
 }

@@ -19,8 +19,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://hr.4399om.com/weixin/?r=job/agent&type=2&isOpen=0&jobTableType=1&code=sxq8b",
     "reason": "已发现公司官方招聘入口，但当前站点 hr.4399om.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
-    "nextCheckAfter": "2026-09-16T23:38:27.829Z"
+    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
+    "nextCheckAfter": "2026-09-17T00:53:33.782Z"
   },
   {
     "name": "阿里巴巴",
@@ -85,8 +85,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://jobs-startimes.ourats.com/req/campus",
     "reason": "已发现公司官方招聘入口，但当前站点 jobs-startimes.ourats.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
-    "nextCheckAfter": "2026-09-16T23:38:27.830Z"
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
+    "nextCheckAfter": "2026-09-17T01:07:54.133Z"
   },
   {
     "name": "比亚迪股份有限公司",
@@ -602,7 +602,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://sailuntire.zhiye.com/campus/jobs",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
     "nextCheckAfter": ""
   },
   {
@@ -657,7 +657,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://shantui.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
     "nextCheckAfter": ""
   },
   {
@@ -855,8 +855,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
-    "nextCheckAfter": "2026-09-16T23:38:27.835Z"
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
+    "nextCheckAfter": "2026-09-17T01:07:54.136Z"
   },
   {
     "name": "招商银行股份有限公司长沙分行",
@@ -866,8 +866,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
-    "nextCheckAfter": "2026-09-16T23:38:27.831Z"
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
+    "nextCheckAfter": "2026-09-17T01:07:54.135Z"
   },
   {
     "name": "致欧家居",
@@ -899,7 +899,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://coamc.zhiye.com/campus",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
+    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
     "nextCheckAfter": ""
   },
   {
@@ -910,7 +910,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://ccccltd.zhiye.com/custom/fxzzw?c2=26&fname=luqiaogc&hideMenu=1",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
+    "lastCheckedAt": "2026-09-16T01:07:54.132Z",
     "nextCheckAfter": ""
   },
   {
@@ -921,8 +921,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.chinahr.com/pages/2027-boc",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.chinahr.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-15T23:38:27.814Z",
-    "nextCheckAfter": "2026-09-16T23:38:27.836Z"
+    "lastCheckedAt": "2026-09-16T00:53:33.780Z",
+    "nextCheckAfter": "2026-09-17T00:53:33.783Z"
   },
   {
     "name": "中建八局土木公司",
@@ -1169,7 +1169,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-15T23:38:27.814Z",
+  "updatedAt": "2026-09-16T01:07:54.132Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
