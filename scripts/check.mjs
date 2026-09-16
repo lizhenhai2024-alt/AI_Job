@@ -40,8 +40,13 @@ const ids = allJobs.map((job) => job.id);
 const duplicateIds = [...new Set(ids.filter((id, index) => ids.indexOf(id) !== index))];
 if (duplicateIds.length) throw new Error(`duplicate job ids detected: ${duplicateIds.slice(0, 20).join(', ')}`);
 if (allJobs.some((job) => !job.company || !job.title || !job.roleFamily?.length)) throw new Error('job schema validation failed');
-if (liveJobs.some((job) => job.graduationYear !== '2027' || !job.sourceUrl || !job.verification)) {
-  throw new Error('live job provenance/cohort validation failed');
+// 来源与届次校验：primary（官网直采）必须 2027 届；secondary（聚合渠道如牛客/猎聘）页面多用"应届"不标届次，
+// 允许 graduationYear 为空字符串，但 sourceUrl + verification 所有 live 岗位都必须具备
+if (liveJobs.some((job) => !job.sourceUrl || !job.verification || typeof job.graduationYear !== 'string')) {
+  throw new Error('live job provenance validation failed');
+}
+if (liveJobs.some((job) => job.sourceType !== 'secondary' && job.graduationYear !== '2027')) {
+  throw new Error('live job cohort validation failed: primary source must be 2027 cohort');
 }
 // 北森（zhiye.com）详情 URL 规则 R-BEISEN-001：jobAdId 必须是岗位 UUID，数字 JobAdId 会导致详情页"参数错误"
 // 详见 docs/beisen-url-rules.md

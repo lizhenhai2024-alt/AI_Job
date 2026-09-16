@@ -47,7 +47,7 @@ function projectsFromHtml(html) {
 // 从项目名（形如"富冶集团2027届校园招聘"）提取公司名：取"2027届|2026届|校园招聘|校招|秋招|春招|招聘"之前的主体
 export function companyFromProjectName(name = '') {
   const clean = decodeHtml(name).replace(/[\r\n]+/g, ' ').replace(/\s+/g, ' ').trim();
-  const m = clean.match(/^(.+?)(?:\d{4}届|校园招聘|校招|秋招|春招|招聘|管培生计划|全球校园招聘)/);
+  const m = clean.match(/^(.+?)(?:\d{1,4}届|校园招聘|校招|秋招|春招|招聘|管培生计划|全球校园招聘)/);
   if (!m) return clean || '待核公司';
   let company = m[1].replace(/[（(【\[].*?[)）\]】]?$/, '').trim();
   // 公司名后残留年份（如"中国太平保险集团2027秋季"）时截掉
