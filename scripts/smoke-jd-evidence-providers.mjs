@@ -1,7 +1,12 @@
 #!/usr/bin/env node
 /**
- * 手工 Provider smoke test：每个已配置 Provider 只发 1 条公开的合成 JD。
- * 用于配置 Secret 后先验证 Key / endpoint / model / JSON 输出兼容性，再跑全量 refresh。
+ * 手工 Provider smoke test：每个已配置 Provider/模型只发 1 条公开的合成 JD。
+ *
+ * 这是“生产链健康检查”，不是“所有模型必须同时健康”的考试：
+ * - 每个模型仍单独展示结果；
+ * - 只要链中至少一个 Provider 成功，workflow 整体通过；
+ * - 若只有付费 DeepSeek 成功，会明确 warning“免费层当前不可用”；
+ * - 所有已配置 Provider 都失败才退出 1。
  */
 import fs from 'node:fs/promises';
 import { extractWithLlm, resolveProviderChain } from './job-discovery/llm-evidence.mjs';
@@ -19,16 +24,26 @@ const JOB = {
 };
 
 const providers = resolveProviderChain(process.env);
-const summary = ['## JD Evidence Provider Smoke Test', '', '| Provider | Model | Cost class | Result |', '| --- | --- | --- | --- |'];
+const summary = [
+  '## JD Evidence Provider Smoke Test', '',
+  '| Provider | Model | Cost class | Result |',
+  '| --- | --- | --- | --- |'
+];
 
 if (!providers.length) {
   console.log('::warning::未配置任何 JD Evidence Provider Secret；没有执行外部 API smoke test');
   summary.push('| — | — | — | 未配置 Key |');
-  if (process.env.GITHUB_STEP_SUMMARY) await fs.appendFile(process.env.GITHUB_STEP_SUMMARY, `${summary.join('\n')}\n`, 'utf8');
+  if (process.env.GITHUB_STEP_SUMMARY) {
+    await fs.appendFile(process.env.GITHUB_STEP_SUMMARY, `${summary.join('\n')}\n`, 'utf8');
+  }
   process.exit(0);
 }
 
-let failed = 0;
+let success = 0;
+let freeSuccess = 0;
+let paidSuccess = 0;
+let failures = 0;
+
 for (const provider of providers) {
   const errors = [];
   const evidence = await extractWithLlm(JOB, {
@@ -37,17 +52,41 @@ for (const provider of providers) {
     retries: 0,
     onError: (message) => errors.push(message)
   });
+
   if (evidence) {
+    success++;
+    if (provider.costClass === 'paid') paidSuccess++; else freeSuccess++;
     console.log(`[smoke] ${provider.preset}/${provider.model}: OK`);
     summary.push(`| ${provider.preset} | ${provider.model} | ${provider.costClass} | ✅ OK |`);
   } else {
-    failed++;
-    const detail = errors.join(' ').slice(0, 220) || 'no valid evidence returned';
-    console.error(`::error::${provider.preset}/${provider.model} smoke test failed: ${detail}`);
-    summary.push(`| ${provider.preset} | ${provider.model} | ${provider.costClass} | ❌ ${detail.replace(/\|/g, '\\|')} |`);
+    failures++;
+    const detail = errors.join(' ').slice(0, 260) || 'no valid evidence returned';
+    console.warn(`::warning::${provider.preset}/${provider.model} smoke test failed: ${detail}`);
+    summary.push(`| ${provider.preset} | ${provider.model} | ${provider.costClass} | ⚠️ ${detail.replace(/\|/g, '\\|')} |`);
   }
 }
 
+summary.push('');
+if (success === 0) {
+  const message = `❌ 生产链不可用：${failures} 个已配置 Provider/模型全部失败。`;
+  summary.push(`> ${message}`);
+  console.error(`::error::${message}`);
+} else if (freeSuccess === 0 && paidSuccess > 0) {
+  const message = '⚠️ 生产链可用，但当前只有付费兜底成功；Gemini 免费层暂不可用。';
+  summary.push(`> ${message}`);
+  console.warn(`::warning::${message}`);
+} else if (failures > 0) {
+  const message = `✅ 生产链可用：免费层成功 ${freeSuccess} 个；另有 ${failures} 个模型当前不可用，自动降级正常。`;
+  summary.push(`> ${message}`);
+  console.log(message);
+} else {
+  const message = `✅ 生产链全部通过：成功 ${success} 个。`;
+  summary.push(`> ${message}`);
+  console.log(message);
+}
+
 summary.push('', '> 这里只发送仓库内合成的公开 JD 测试文本，不发送候选人简历或个人信息。');
-if (process.env.GITHUB_STEP_SUMMARY) await fs.appendFile(process.env.GITHUB_STEP_SUMMARY, `${summary.join('\n')}\n`, 'utf8');
-process.exit(failed ? 1 : 0);
+if (process.env.GITHUB_STEP_SUMMARY) {
+  await fs.appendFile(process.env.GITHUB_STEP_SUMMARY, `${summary.join('\n')}\n`, 'utf8');
+}
+process.exit(success > 0 ? 0 : 1);
