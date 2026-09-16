@@ -16,11 +16,15 @@ import { TECH_DUTY_LABELS, BUSINESS_DUTY_LABELS } from './policy.mjs';
 export const DEFAULT_BASE_URL = 'https://api.deepseek.com';
 export const DEFAULT_MODEL = 'deepseek-flash';
 export const MAX_JD_CHARS = 6000;
-export const DEFAULT_PROVIDER_ORDER = ['zen-free', 'gemini-free', 'deepseek'];
+
+// GitHub Actions / headless 默认不再走 Zen free：2026-09 实测 mimo-v2.5-free
+// 通过通用 API 会返回 MissingSessionID / “free tier can only be used in OpenCode”。
+// 保留 zen-free 预设，供未来官方开放 headless free-tier 或显式调试时使用。
+// Gemini 使用同一个 GEMINI_API_KEY 串 3 个免费层稳定模型，遇到 503/限流自动切换。
+export const DEFAULT_PROVIDER_ORDER = ['gemini-free', 'gemini-free-31', 'gemini-free-25', 'deepseek'];
 
 /**
  * 兼容旧调用方：MODEL_PRESETS 仍保留“单 Provider 时代”的 DeepSeek 预设集合。
- * 新多 Provider 路由使用 PROVIDER_PRESETS。这样旧代码/测试不会因增加免费 Provider 而漂移。
  */
 export const MODEL_PRESETS = {
   deepseek: {
@@ -36,14 +40,15 @@ export const MODEL_PRESETS = {
 
 /**
  * 多 Provider 预设：
- * - Zen free：不强制 response_format，靠 prompt + 本地严格校验，兼容面最大。
- * - Gemini：走官方 OpenAI compatibility 的 json_schema。
+ * - Zen free：保留但不进默认 headless 顺序；当前 free tier 需要 OpenCode session。
+ * - Gemini：官方 OpenAI compatibility；3.5/3.1/2.5 Flash-Lite 都有 Free Tier，
+ *   用同一 GEMINI_API_KEY 逐级兜底，优先高吞吐的 Flash-Lite。
  * - DeepSeek：付费兜底，保持 reasoning_effort:none 控成本。
  */
 export const PROVIDER_PRESETS = {
   'zen-free': {
     provider: 'opencode-zen',
-    costClass: 'free-model',
+    costClass: 'free-model-opencode-session',
     baseUrl: 'https://opencode.ai/zen/v1',
     model: 'mimo-v2.5-free',
     responseFormat: 'none',
@@ -54,7 +59,25 @@ export const PROVIDER_PRESETS = {
     provider: 'google-gemini',
     costClass: 'free-tier',
     baseUrl: 'https://generativelanguage.googleapis.com/v1beta/openai',
-    model: 'gemini-3.8-flash',
+    model: 'gemini-3.5-flash-lite',
+    responseFormat: 'json_schema',
+    timeoutMs: 15000,
+    extraBody: {}
+  },
+  'gemini-free-31': {
+    provider: 'google-gemini',
+    costClass: 'free-tier',
+    baseUrl: 'https://generativelanguage.googleapis.com/v1beta/openai',
+    model: 'gemini-3.1-flash-lite',
+    responseFormat: 'json_schema',
+    timeoutMs: 15000,
+    extraBody: {}
+  },
+  'gemini-free-25': {
+    provider: 'google-gemini',
+    costClass: 'free-tier',
+    baseUrl: 'https://generativelanguage.googleapis.com/v1beta/openai',
+    model: 'gemini-2.5-flash-lite',
     responseFormat: 'json_schema',
     timeoutMs: 15000,
     extraBody: {}
@@ -65,6 +88,8 @@ export const PROVIDER_PRESETS = {
 export const PROVIDER_SECRET_ENV = {
   'zen-free': 'OPENCODE_ZEN_API_KEY',
   'gemini-free': 'GEMINI_API_KEY',
+  'gemini-free-31': 'GEMINI_API_KEY',
+  'gemini-free-25': 'GEMINI_API_KEY',
   deepseek: 'JD_EVIDENCE_API_KEY'
 };
 
