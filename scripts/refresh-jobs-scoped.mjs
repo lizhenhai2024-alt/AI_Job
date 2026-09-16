@@ -12,6 +12,7 @@ const officialSourcesPath = path.join(root, 'config/official-sources.json');
 const original = await fs.readFile(profilePath, 'utf8');
 const profile = JSON.parse(original);
 const scoped = augmentSearchProfile(profile, companyRegistry);
+const SKIP_JD_EVIDENCE = process.env.SKIP_JD_EVIDENCE === '1';
 
 console.log(`[company-scope] companies=${scoped.companySearchMeta.total} main=${scoped.companySearchMeta.main} watch=${scoped.companySearchMeta.watch} official=${scoped.companySearchMeta.sourceManaged} pendingOfficial=${scoped.companySearchMeta.pendingOfficialSource}`);
 
@@ -66,11 +67,17 @@ try {
   if (exitCode === 0) {
     exitCode = await runScript('scripts/filter-official-live-jobs.mjs');
   }
-  // 4.5) JD 事实富化（可选）：没有 JD_EVIDENCE_API_KEY 时该脚本自己跳过并返回 0。
-  //      放在 filter 之后（只为存活岗位调用）、compensation 之前（让后者保持最后写入者）。
-  if (exitCode === 0) {
+
+  // 4.5) LLM JD 事实富化是“增强层”，不能再阻塞核心岗位快照持久化。
+  //      定时主刷新设置 SKIP_JD_EVIDENCE=1；完整 AI 富化由独立工作流承担。
+  //      本地/人工需要一体执行时仍可不设该变量，保留原行为。
+  if (exitCode === 0 && !SKIP_JD_EVIDENCE) {
     exitCode = await runScript('scripts/enrich-jd-evidence.mjs');
+  } else if (exitCode === 0) {
+    console.log('[jd-evidence] skipped in core refresh; independent evidence workflow owns LLM enrichment');
   }
+
+  // 5) 快速、确定性的语言/薪资/HC标准化仍属于核心快照的一部分。
   if (exitCode === 0) {
     exitCode = await runScript('scripts/enrich-job-compensation.mjs');
   }
