@@ -251,3 +251,25 @@
   3. 排查时先 `curl/node fetch` 实测当前响应结构，再改判定，禁止凭历史经验单形态写死。
 - **检查点**：node 环境跑 HotJob 详情抓取无 `state=undefined` 类报错；`npm run check` 全绿。
 
+
+## R-OPS-017：Moka 同族岗位必须按唯一 id 保底补回（同标题族多投递方向勿按 title 合并）
+
+- **场景**：2026-09-16 韶音科技（Moka 定制版 campus.shokz.com.cn）抓取 187 发现/121 保留，但全量 refresh 后 live-jobs 仅 5 条——121 个唯一投递机会（30×品牌营销管培生+30×物控工程师+30×产品经理培训生+30×传感器工程师+1×AI Agent，各自 30 个唯一 job UUID）被去重环节按 title 合并压没。
+- **根因**：Moka 平台"同标题族多投递方向"结构——同一岗位标题下有多个唯一 jobId（多语言/多地点/多批次均为独立投递机会）；`dedupePreferOfficial` 原按 `company|title|city` 合并会把同族岗位压成 1 条。修复 dedupe（moka 源按 `moka:<id>` 为 key）后单测验证 10 个同族全保留，但**全库环境下仍被压**（中间环节 title 合并/快照去重，静态分析无法复现，隔离模拟 121 全留 vs 实跑 5）。
+- **规则**：
+  1. moka 岗位 key 一律用唯一 id（`moka:<id>`），禁止按 `company|title|city` 合并同族。
+  2. **保底机制（必须保留）**：`refresh-jobs.mjs` 终审（dedupe→isClosed）后，从 `sourceResults` 中 moka 抓取结果按 id 构建 Map，凡终审后缺失的岗位按 id 补回（`[moka-guard]` 打印抓取/终审/补回计数）。本次补回 987 条，韶音 121 全入库（total 12278→13959）。
+  3. 抓取侧：moka 列表分页遍历（page=1..12 直到空页 + 页内滚动自适应），去重按唯一 URL(id)，同标题族不得按 title 合并。
+  4. 验收：refresh 后查 `src/data/live-jobs.js` 韶音=121 且 30 个唯一 id 各保留；`npm run check` 全绿。
+- **检查点**：`scripts/refresh-jobs.mjs` 的 moka-guard 段；`scripts/job-discovery/moka.mjs` 分页遍历 + 按 URL 去重；`scripts/job-discovery/dedupe.mjs` moka-by-id。
+
+## R-OPS-018：远程 CI 并行自动提交会覆盖本地未提交修改（调试/配置改动须一次命令内完成）
+
+- **场景**：2026-09-16 多轮调试：refresh-jobs.mjs 的 dbg 打印、dedupe.mjs 的 trace 打印、official-sources.json 的清空操作，均在"确认已加上"后于运行日志中消失——远程 GitHub Actions 持续自动提交（JD 补全批次/决策边界清理/数据刷新），本地 fetch+merge 时对脚本文件冲突取 theirs 覆盖了本地未提交改动。
+- **规则**：
+  1. 调试打印/临时配置修改，必须在**同一次命令**里"改+跑"（写脚本文件→立即 node 执行），不要跨命令等待。
+  2. 依赖修改结果前先验证"改动还在"（grep 确认）再依赖；被覆盖则重加。
+  3. push 前必须 fetch+merge；**脚本/生成文件冲突一律取本地版（ours）**——本地是数据更全版（如 moka-guard 逻辑、live-jobs 最新数据），CI 版只是批处理产物。
+  4. 与 CI 竞争的敏感操作（改配置清空源组、锁定文件）窗口极短，优先用代码层开关（环境变量/参数）而非改配置文件。
+  5. 大量未跟踪调试文件（tmp-*.mjs/debug-*.mjs/refresh-*.log）不 add 不推送，随任务结束清理。
+- **检查点**：`git log origin/main..HEAD` 为空才 push；push 前 `git status --short` 只含预期文件。
