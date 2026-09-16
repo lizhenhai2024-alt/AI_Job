@@ -61,9 +61,11 @@ export function parseXiaohongshuJob(source, row = {}, now = new Date()) {
     description: `小红书官方 2027 校园招聘岗位；${directionName ? `职类：${directionName} / ${subDirectionName}。` : ''}${skills.length ? `识别关键词：${skills.slice(0, 5).join('、')}。` : ''}投递前请打开官方职位页确认最新状态与截止日期。`,
     salary: '',
     status: '推荐',
-    discoveredAt: now.toISOString(),    jobDescription: row.description || '',
-    jobRequirements: row.requirement || '',
-
+    discoveredAt: now.toISOString(),
+    // The official position payload exposes the per-role JD in duty/qualification.
+    // Do not copy description/requirement aliases that may contain aggregate text.
+    jobDescription: duty,
+    jobRequirements: qualification,
     _searchText: jobText,
     _recruitStatus: clean(row.recruitStatus || '')
   };
