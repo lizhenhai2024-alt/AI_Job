@@ -13,6 +13,7 @@ on:
       - 'scripts/job-discovery/**'
       - 'scripts/refresh-jobs.mjs'
       - 'scripts/refresh-jobs-scoped.mjs'
+      - 'scripts/build-query-layer.mjs'
       - 'scripts/filter-official-live-jobs.mjs'
       - 'scripts/enrich-job-compensation.mjs'
       - 'scripts/check-compensation.mjs'
