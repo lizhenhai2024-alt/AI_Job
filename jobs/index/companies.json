@@ -1,0 +1,3908 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-16T06:53:02.136Z",
+  "totalJobs": 13959,
+  "totalCompanies": 650,
+  "companies": [
+    {
+      "company": "1.研发类单位",
+      "slug": "1-研发类单位",
+      "file": "jobs/by-company/1-研发类单位.json",
+      "count": 38
+    },
+    {
+      "company": "阿里巴巴",
+      "slug": "阿里巴巴",
+      "file": "jobs/by-company/阿里巴巴.json",
+      "count": 475
+    },
+    {
+      "company": "爱慕股份有限公司",
+      "slug": "爱慕股份",
+      "file": "jobs/by-company/爱慕股份.json",
+      "count": 5
+    },
+    {
+      "company": "爱维达电子",
+      "slug": "爱维达电子",
+      "file": "jobs/by-company/爱维达电子.json",
+      "count": 2
+    },
+    {
+      "company": "安仓国际物流(深圳)有限公司",
+      "slug": "安仓国际物流-深圳",
+      "file": "jobs/by-company/安仓国际物流-深圳.json",
+      "count": 1
+    },
+    {
+      "company": "安得智联科技有限公司",
+      "slug": "安得智联科技",
+      "file": "jobs/by-company/安得智联科技.json",
+      "count": 1
+    },
+    {
+      "company": "安徽国毅模具科技有限公司",
+      "slug": "安徽国毅模具科技",
+      "file": "jobs/by-company/安徽国毅模具科技.json",
+      "count": 1
+    },
+    {
+      "company": "安徽巨盒智能科技有限公司",
+      "slug": "安徽巨盒智能科技",
+      "file": "jobs/by-company/安徽巨盒智能科技.json",
+      "count": 1
+    },
+    {
+      "company": "安徽凯泽新材料有限公司",
+      "slug": "安徽凯泽新材料",
+      "file": "jobs/by-company/安徽凯泽新材料.json",
+      "count": 1
+    },
+    {
+      "company": "安徽中安润微科技有限公司",
+      "slug": "安徽中安润微科技",
+      "file": "jobs/by-company/安徽中安润微科技.json",
+      "count": 1
+    },
+    {
+      "company": "安克创新",
+      "slug": "安克创新",
+      "file": "jobs/by-company/安克创新.json",
+      "count": 177
+    },
+    {
+      "company": "安泰科技",
+      "slug": "安泰科技",
+      "file": "jobs/by-company/安泰科技.json",
+      "count": 1
+    },
+    {
+      "company": "昂立教育",
+      "slug": "昂立教育",
+      "file": "jobs/by-company/昂立教育.json",
+      "count": 2
+    },
+    {
+      "company": "傲基科技",
+      "slug": "傲基科技",
+      "file": "jobs/by-company/傲基科技.json",
+      "count": 12
+    },
+    {
+      "company": "奥科(武汉)生物科技有限公司",
+      "slug": "奥科-武汉-生物科技",
+      "file": "jobs/by-company/奥科-武汉-生物科技.json",
+      "count": 1
+    },
+    {
+      "company": "奥克斯",
+      "slug": "奥克斯",
+      "file": "jobs/by-company/奥克斯.json",
+      "count": 4
+    },
+    {
+      "company": "奥克斯集团",
+      "slug": "奥克斯-2",
+      "file": "jobs/by-company/奥克斯-2.json",
+      "count": 65
+    },
+    {
+      "company": "奥马冰箱",
+      "slug": "奥马冰箱",
+      "file": "jobs/by-company/奥马冰箱.json",
+      "count": 29
+    },
+    {
+      "company": "奥泰康",
+      "slug": "奥泰康",
+      "file": "jobs/by-company/奥泰康.json",
+      "count": 1
+    },
+    {
+      "company": "奥意建筑",
+      "slug": "奥意建筑",
+      "file": "jobs/by-company/奥意建筑.json",
+      "count": 1
+    },
+    {
+      "company": "白象食品",
+      "slug": "白象食品",
+      "file": "jobs/by-company/白象食品.json",
+      "count": 1
+    },
+    {
+      "company": "柏美智慧科技(上海)股份有限公司",
+      "slug": "柏美智慧科技-上海-股份",
+      "file": "jobs/by-company/柏美智慧科技-上海-股份.json",
+      "count": 6
+    },
+    {
+      "company": "宝宝巴士",
+      "slug": "宝宝巴士",
+      "file": "jobs/by-company/宝宝巴士.json",
+      "count": 28
+    },
+    {
+      "company": "宝洁",
+      "slug": "宝洁",
+      "file": "jobs/by-company/宝洁.json",
+      "count": 10
+    },
+    {
+      "company": "保诺生物科技(江苏)有限公司",
+      "slug": "保诺生物科技-江苏",
+      "file": "jobs/by-company/保诺生物科技-江苏.json",
+      "count": 1
+    },
+    {
+      "company": "保正(上海)供应链管理股份有限公司",
+      "slug": "保正-上海-供应链管理股份",
+      "file": "jobs/by-company/保正-上海-供应链管理股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京安泰保安服务有限公司",
+      "slug": "北京安泰保安服务",
+      "file": "jobs/by-company/北京安泰保安服务.json",
+      "count": 1
+    },
+    {
+      "company": "北京奥能恒业能源技术有限公司",
+      "slug": "北京奥能恒业能源技术",
+      "file": "jobs/by-company/北京奥能恒业能源技术.json",
+      "count": 1
+    },
+    {
+      "company": "北京八达岭精奥莱商业有限公司",
+      "slug": "北京八达岭精奥莱商业",
+      "file": "jobs/by-company/北京八达岭精奥莱商业.json",
+      "count": 1
+    },
+    {
+      "company": "北京佰地建院装饰工程设计有限公司",
+      "slug": "北京佰地建院装饰工程设计",
+      "file": "jobs/by-company/北京佰地建院装饰工程设计.json",
+      "count": 2
+    },
+    {
+      "company": "北京北城顺商贸有限公司",
+      "slug": "北京北城顺商贸",
+      "file": "jobs/by-company/北京北城顺商贸.json",
+      "count": 1
+    },
+    {
+      "company": "北京贝尔生物工程股份有限公司",
+      "slug": "北京贝尔生物工程股份",
+      "file": "jobs/by-company/北京贝尔生物工程股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京博科测试系统股份有限公司",
+      "slug": "北京博科测试系统股份",
+      "file": "jobs/by-company/北京博科测试系统股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京草桥实业总公司",
+      "slug": "北京草桥实业总",
+      "file": "jobs/by-company/北京草桥实业总.json",
+      "count": 1
+    },
+    {
+      "company": "北京超凡迅捷物流科技有限公司",
+      "slug": "北京超凡迅捷物流科技",
+      "file": "jobs/by-company/北京超凡迅捷物流科技.json",
+      "count": 1
+    },
+    {
+      "company": "北京车之家信息技术有限公司",
+      "slug": "北京车之家信息技术",
+      "file": "jobs/by-company/北京车之家信息技术.json",
+      "count": 16
+    },
+    {
+      "company": "北京城建勘测设计研究院有限责任公司",
+      "slug": "北京城建勘测设计研究院有限责任",
+      "file": "jobs/by-company/北京城建勘测设计研究院有限责任.json",
+      "count": 4
+    },
+    {
+      "company": "北京城建六建设集团有限公司",
+      "slug": "北京城建六建设集团",
+      "file": "jobs/by-company/北京城建六建设集团.json",
+      "count": 2
+    },
+    {
+      "company": "北京城建设计发展集团股份有限公司",
+      "slug": "北京城建设计发展集团股份",
+      "file": "jobs/by-company/北京城建设计发展集团股份.json",
+      "count": 3
+    },
+    {
+      "company": "北京创新永兴建设工程有限公司",
+      "slug": "北京创新永兴建设工程",
+      "file": "jobs/by-company/北京创新永兴建设工程.json",
+      "count": 1
+    },
+    {
+      "company": "北京电信规划设计院有限公司",
+      "slug": "北京电信规划设计院",
+      "file": "jobs/by-company/北京电信规划设计院.json",
+      "count": 3
+    },
+    {
+      "company": "北京电子信通科技有限责任公司",
+      "slug": "北京电子信通科技有限责任",
+      "file": "jobs/by-company/北京电子信通科技有限责任.json",
+      "count": 2
+    },
+    {
+      "company": "北京港源幕墙有限公司",
+      "slug": "北京港源幕墙",
+      "file": "jobs/by-company/北京港源幕墙.json",
+      "count": 1
+    },
+    {
+      "company": "北京高途云集教育科技有限公司",
+      "slug": "北京高途云集教育科技",
+      "file": "jobs/by-company/北京高途云集教育科技.json",
+      "count": 2
+    },
+    {
+      "company": "北京国冶锐诚工程技术有限公司",
+      "slug": "北京国冶锐诚工程技术",
+      "file": "jobs/by-company/北京国冶锐诚工程技术.json",
+      "count": 1
+    },
+    {
+      "company": "北京航宇天穹科技有限公司",
+      "slug": "北京航宇天穹科技",
+      "file": "jobs/by-company/北京航宇天穹科技.json",
+      "count": 1
+    },
+    {
+      "company": "北京厚德博泓技术咨询股份有限公司",
+      "slug": "北京厚德博泓技术咨询股份",
+      "file": "jobs/by-company/北京厚德博泓技术咨询股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京华微世纪",
+      "slug": "北京华微世纪",
+      "file": "jobs/by-company/北京华微世纪.json",
+      "count": 1
+    },
+    {
+      "company": "北京华职教育科技集团有限公司",
+      "slug": "北京华职教育科技集团",
+      "file": "jobs/by-company/北京华职教育科技集团.json",
+      "count": 1
+    },
+    {
+      "company": "北京佳宸弘生物技术有限公司",
+      "slug": "北京佳宸弘生物技术",
+      "file": "jobs/by-company/北京佳宸弘生物技术.json",
+      "count": 1
+    },
+    {
+      "company": "北京建工四建工程建设有限公司",
+      "slug": "北京建工四建工程建设",
+      "file": "jobs/by-company/北京建工四建工程建设.json",
+      "count": 1
+    },
+    {
+      "company": "北京江河幕墙系统工程有限公司",
+      "slug": "北京江河幕墙系统工程",
+      "file": "jobs/by-company/北京江河幕墙系统工程.json",
+      "count": 1
+    },
+    {
+      "company": "北京经纬恒润科技股份有限公司",
+      "slug": "北京经纬恒润科技股份",
+      "file": "jobs/by-company/北京经纬恒润科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京居然之家家居建材商业管理有限公司",
+      "slug": "北京居然之家家居建材商业管理",
+      "file": "jobs/by-company/北京居然之家家居建材商业管理.json",
+      "count": 1
+    },
+    {
+      "company": "北京开拓导控科技股份有限公司北京分公司",
+      "slug": "北京开拓导控科技股份有限公司北京分",
+      "file": "jobs/by-company/北京开拓导控科技股份有限公司北京分.json",
+      "count": 2
+    },
+    {
+      "company": "北京兰顿工程咨询有限公司",
+      "slug": "北京兰顿工程咨询",
+      "file": "jobs/by-company/北京兰顿工程咨询.json",
+      "count": 1
+    },
+    {
+      "company": "北京蓝天航空科技股份有限公司",
+      "slug": "北京蓝天航空科技股份",
+      "file": "jobs/by-company/北京蓝天航空科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京乐普诊断科技股份有限公司",
+      "slug": "北京乐普诊断科技股份",
+      "file": "jobs/by-company/北京乐普诊断科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京六合宁远医药科技股份有限公司",
+      "slug": "北京六合宁远医药科技股份",
+      "file": "jobs/by-company/北京六合宁远医药科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京陆道培血液病医院有限公司",
+      "slug": "北京陆道培血液病医院",
+      "file": "jobs/by-company/北京陆道培血液病医院.json",
+      "count": 2
+    },
+    {
+      "company": "北京铭洋嘉宝物业管理有限公司西城第一分公司",
+      "slug": "北京铭洋嘉宝物业管理有限公司西城第一分",
+      "file": "jobs/by-company/北京铭洋嘉宝物业管理有限公司西城第一分.json",
+      "count": 1
+    },
+    {
+      "company": "北京凝思软件股份有限公司",
+      "slug": "北京凝思软件股份",
+      "file": "jobs/by-company/北京凝思软件股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京鹏远新和国际物流有限公司",
+      "slug": "北京鹏远新和国际物流",
+      "file": "jobs/by-company/北京鹏远新和国际物流.json",
+      "count": 1
+    },
+    {
+      "company": "北京起重运输机械设计研究院有限公司",
+      "slug": "北京起重运输机械设计研究院",
+      "file": "jobs/by-company/北京起重运输机械设计研究院.json",
+      "count": 1
+    },
+    {
+      "company": "北京汽车股份有限公司",
+      "slug": "北京汽车股份",
+      "file": "jobs/by-company/北京汽车股份.json",
+      "count": 2
+    },
+    {
+      "company": "北京人寿保险股份有限公司",
+      "slug": "北京人寿保险股份",
+      "file": "jobs/by-company/北京人寿保险股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京瑞拓电子技术发展有限公司",
+      "slug": "北京瑞拓电子技术发展",
+      "file": "jobs/by-company/北京瑞拓电子技术发展.json",
+      "count": 1
+    },
+    {
+      "company": "北京盛初投资管理咨询有限公司",
+      "slug": "北京盛初投资管理咨询",
+      "file": "jobs/by-company/北京盛初投资管理咨询.json",
+      "count": 1
+    },
+    {
+      "company": "北京市海安停车管理有限责任公司",
+      "slug": "北京市海安停车管理有限责任",
+      "file": "jobs/by-company/北京市海安停车管理有限责任.json",
+      "count": 1
+    },
+    {
+      "company": "北京首开天宇设备设施运营管理有限公司",
+      "slug": "北京首开天宇设备设施运营管理",
+      "file": "jobs/by-company/北京首开天宇设备设施运营管理.json",
+      "count": 1
+    },
+    {
+      "company": "北京首农畜牧发展有限公司",
+      "slug": "北京首农畜牧发展",
+      "file": "jobs/by-company/北京首农畜牧发展.json",
+      "count": 1
+    },
+    {
+      "company": "北京水滴科技集团有限公司",
+      "slug": "北京水滴科技集团",
+      "file": "jobs/by-company/北京水滴科技集团.json",
+      "count": 3
+    },
+    {
+      "company": "北京天兵科技有限公司",
+      "slug": "北京天兵科技",
+      "file": "jobs/by-company/北京天兵科技.json",
+      "count": 13
+    },
+    {
+      "company": "北京通广龙电子科技有限公司",
+      "slug": "北京通广龙电子科技",
+      "file": "jobs/by-company/北京通广龙电子科技.json",
+      "count": 1
+    },
+    {
+      "company": "北京我爱我家房地产经纪有限公司",
+      "slug": "北京我爱我家房地产经纪",
+      "file": "jobs/by-company/北京我爱我家房地产经纪.json",
+      "count": 7
+    },
+    {
+      "company": "北京夏禾科技股份有限公司",
+      "slug": "北京夏禾科技股份",
+      "file": "jobs/by-company/北京夏禾科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京星链南天科技有限公司",
+      "slug": "北京星链南天科技",
+      "file": "jobs/by-company/北京星链南天科技.json",
+      "count": 1
+    },
+    {
+      "company": "北京雪迪龙科技股份有限公司",
+      "slug": "北京雪迪龙科技股份",
+      "file": "jobs/by-company/北京雪迪龙科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京巽收科技有限公司",
+      "slug": "北京巽收科技",
+      "file": "jobs/by-company/北京巽收科技.json",
+      "count": 1
+    },
+    {
+      "company": "北京亦盛精密半导体有限公司",
+      "slug": "北京亦盛精密半导体",
+      "file": "jobs/by-company/北京亦盛精密半导体.json",
+      "count": 1
+    },
+    {
+      "company": "北京易才博普奥管理顾问有限公司",
+      "slug": "北京易才博普奥管理顾问",
+      "file": "jobs/by-company/北京易才博普奥管理顾问.json",
+      "count": 1
+    },
+    {
+      "company": "北京易柯森特科技有限公司",
+      "slug": "北京易柯森特科技",
+      "file": "jobs/by-company/北京易柯森特科技.json",
+      "count": 1
+    },
+    {
+      "company": "北京猿力未来科技有限公司",
+      "slug": "北京猿力未来科技",
+      "file": "jobs/by-company/北京猿力未来科技.json",
+      "count": 1
+    },
+    {
+      "company": "北京跃瀚科技有限责任公司",
+      "slug": "北京跃瀚科技有限责任",
+      "file": "jobs/by-company/北京跃瀚科技有限责任.json",
+      "count": 2
+    },
+    {
+      "company": "北京云杉世界信息技术集团有限公司",
+      "slug": "北京云杉世界信息技术集团",
+      "file": "jobs/by-company/北京云杉世界信息技术集团.json",
+      "count": 3
+    },
+    {
+      "company": "北京指南针科技发展股份有限公司",
+      "slug": "北京指南针科技发展股份",
+      "file": "jobs/by-company/北京指南针科技发展股份.json",
+      "count": 1
+    },
+    {
+      "company": "北京中科核安科技有限公司",
+      "slug": "北京中科核安科技",
+      "file": "jobs/by-company/北京中科核安科技.json",
+      "count": 1
+    },
+    {
+      "company": "北京中软融鑫计算机系统工程有限公司",
+      "slug": "北京中软融鑫计算机系统工程",
+      "file": "jobs/by-company/北京中软融鑫计算机系统工程.json",
+      "count": 1
+    },
+    {
+      "company": "北京自如住房租赁有限公司",
+      "slug": "北京自如住房租赁",
+      "file": "jobs/by-company/北京自如住房租赁.json",
+      "count": 1
+    },
+    {
+      "company": "北汽汽车金融(杭州)有限公司",
+      "slug": "北汽汽车金融-杭州",
+      "file": "jobs/by-company/北汽汽车金融-杭州.json",
+      "count": 1
+    },
+    {
+      "company": "北森",
+      "slug": "北森",
+      "file": "jobs/by-company/北森.json",
+      "count": 7
+    },
+    {
+      "company": "本源万物(南京)环境设备有限公司",
+      "slug": "本源万物-南京-环境设备",
+      "file": "jobs/by-company/本源万物-南京-环境设备.json",
+      "count": 1
+    },
+    {
+      "company": "碧桂园生活服务集团股份有限公司",
+      "slug": "碧桂园生活服务集团股份",
+      "file": "jobs/by-company/碧桂园生活服务集团股份.json",
+      "count": 2
+    },
+    {
+      "company": "壁仞科技",
+      "slug": "壁仞科技",
+      "file": "jobs/by-company/壁仞科技.json",
+      "count": 1
+    },
+    {
+      "company": "波克",
+      "slug": "波克",
+      "file": "jobs/by-company/波克.json",
+      "count": 8
+    },
+    {
+      "company": "博迈科海洋工程股份有限公司",
+      "slug": "博迈科海洋工程股份",
+      "file": "jobs/by-company/博迈科海洋工程股份.json",
+      "count": 1
+    },
+    {
+      "company": "博岳通信",
+      "slug": "博岳通信",
+      "file": "jobs/by-company/博岳通信.json",
+      "count": 1
+    },
+    {
+      "company": "常熟市长发铝业有限公司",
+      "slug": "常熟市长发铝业",
+      "file": "jobs/by-company/常熟市长发铝业.json",
+      "count": 1
+    },
+    {
+      "company": "成都派沃特科技股份有限公司",
+      "slug": "成都派沃特科技股份",
+      "file": "jobs/by-company/成都派沃特科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "重庆泽泓垚宝科技有限公司",
+      "slug": "重庆泽泓垚宝科技",
+      "file": "jobs/by-company/重庆泽泓垚宝科技.json",
+      "count": 1
+    },
+    {
+      "company": "传音控股",
+      "slug": "传音控股",
+      "file": "jobs/by-company/传音控股.json",
+      "count": 201
+    },
+    {
+      "company": "创维集团",
+      "slug": "创维",
+      "file": "jobs/by-company/创维.json",
+      "count": 135
+    },
+    {
+      "company": "创远信科(上海)技术股份有限公司",
+      "slug": "创远信科-上海-技术股份",
+      "file": "jobs/by-company/创远信科-上海-技术股份.json",
+      "count": 1
+    },
+    {
+      "company": "翠微股份",
+      "slug": "翠微",
+      "file": "jobs/by-company/翠微.json",
+      "count": 1
+    },
+    {
+      "company": "达能",
+      "slug": "达能",
+      "file": "jobs/by-company/达能.json",
+      "count": 4
+    },
+    {
+      "company": "大连福佳大化石油化工有限公司",
+      "slug": "大连福佳大化石油化工",
+      "file": "jobs/by-company/大连福佳大化石油化工.json",
+      "count": 1
+    },
+    {
+      "company": "大族激光",
+      "slug": "大族激光",
+      "file": "jobs/by-company/大族激光.json",
+      "count": 10
+    },
+    {
+      "company": "道通期货有限公司",
+      "slug": "道通期货",
+      "file": "jobs/by-company/道通期货.json",
+      "count": 1
+    },
+    {
+      "company": "得力集团",
+      "slug": "得力",
+      "file": "jobs/by-company/得力.json",
+      "count": 38
+    },
+    {
+      "company": "得物App",
+      "slug": "得物app",
+      "file": "jobs/by-company/得物app.json",
+      "count": 165
+    },
+    {
+      "company": "德勤中国",
+      "slug": "德勤中国",
+      "file": "jobs/by-company/德勤中国.json",
+      "count": 124
+    },
+    {
+      "company": "德赛西威",
+      "slug": "德赛西威",
+      "file": "jobs/by-company/德赛西威.json",
+      "count": 105
+    },
+    {
+      "company": "德佑",
+      "slug": "德佑",
+      "file": "jobs/by-company/德佑.json",
+      "count": 15
+    },
+    {
+      "company": "电子工业出版社有限公司",
+      "slug": "电子工业出版社",
+      "file": "jobs/by-company/电子工业出版社.json",
+      "count": 1
+    },
+    {
+      "company": "东方电气启能(深圳)科技有限公司",
+      "slug": "东方电气启能-深圳-科技",
+      "file": "jobs/by-company/东方电气启能-深圳-科技.json",
+      "count": 1
+    },
+    {
+      "company": "东方汇理银行(中国)有限公司",
+      "slug": "东方汇理银行-中国",
+      "file": "jobs/by-company/东方汇理银行-中国.json",
+      "count": 1
+    },
+    {
+      "company": "东方晶源微电子科技(北京)股份有限公司",
+      "slug": "东方晶源微电子科技-北京-股份",
+      "file": "jobs/by-company/东方晶源微电子科技-北京-股份.json",
+      "count": 1
+    },
+    {
+      "company": "东鹏饮料",
+      "slug": "东鹏饮料",
+      "file": "jobs/by-company/东鹏饮料.json",
+      "count": 1
+    },
+    {
+      "company": "都创(上海)医药开发有限公司",
+      "slug": "都创-上海-医药开发",
+      "file": "jobs/by-company/都创-上海-医药开发.json",
+      "count": 1
+    },
+    {
+      "company": "多维联合集团",
+      "slug": "多维联合",
+      "file": "jobs/by-company/多维联合.json",
+      "count": 33
+    },
+    {
+      "company": "多益网络有限公司",
+      "slug": "多益网络",
+      "file": "jobs/by-company/多益网络.json",
+      "count": 4
+    },
+    {
+      "company": "恩斯迈电子（深圳）有限公司",
+      "slug": "恩斯迈电子-深圳",
+      "file": "jobs/by-company/恩斯迈电子-深圳.json",
+      "count": 2
+    },
+    {
+      "company": "方大集团",
+      "slug": "方大",
+      "file": "jobs/by-company/方大.json",
+      "count": 3
+    },
+    {
+      "company": "斐乐服饰有限公司",
+      "slug": "斐乐服饰",
+      "file": "jobs/by-company/斐乐服饰.json",
+      "count": 1
+    },
+    {
+      "company": "烽火通信",
+      "slug": "烽火通信",
+      "file": "jobs/by-company/烽火通信.json",
+      "count": 41
+    },
+    {
+      "company": "福建睿能科技股份有限公司",
+      "slug": "福建睿能科技股份",
+      "file": "jobs/by-company/福建睿能科技股份.json",
+      "count": 2
+    },
+    {
+      "company": "福建森达电气股份有限公司",
+      "slug": "福建森达电气股份",
+      "file": "jobs/by-company/福建森达电气股份.json",
+      "count": 1
+    },
+    {
+      "company": "福耀玻璃",
+      "slug": "福耀玻璃",
+      "file": "jobs/by-company/福耀玻璃.json",
+      "count": 2
+    },
+    {
+      "company": "甘肃泰康制药",
+      "slug": "甘肃泰康制药",
+      "file": "jobs/by-company/甘肃泰康制药.json",
+      "count": 1
+    },
+    {
+      "company": "高景太阳能股份有限公司",
+      "slug": "高景太阳能股份",
+      "file": "jobs/by-company/高景太阳能股份.json",
+      "count": 2
+    },
+    {
+      "company": "格兰仕",
+      "slug": "格兰仕",
+      "file": "jobs/by-company/格兰仕.json",
+      "count": 13
+    },
+    {
+      "company": "顾家家居",
+      "slug": "顾家家居",
+      "file": "jobs/by-company/顾家家居.json",
+      "count": 53
+    },
+    {
+      "company": "广电计量",
+      "slug": "广电计量",
+      "file": "jobs/by-company/广电计量.json",
+      "count": 1
+    },
+    {
+      "company": "广电运通",
+      "slug": "广电运通",
+      "file": "jobs/by-company/广电运通.json",
+      "count": 1
+    },
+    {
+      "company": "广东航旻建设工程集团有限公司",
+      "slug": "广东航旻建设工程集团",
+      "file": "jobs/by-company/广东航旻建设工程集团.json",
+      "count": 1
+    },
+    {
+      "company": "广东加福加德食品技术股份有限公司",
+      "slug": "广东加福加德食品技术股份",
+      "file": "jobs/by-company/广东加福加德食品技术股份.json",
+      "count": 1
+    },
+    {
+      "company": "广东康景物业服务有限公司上海分公司",
+      "slug": "广东康景物业服务有限公司上海分",
+      "file": "jobs/by-company/广东康景物业服务有限公司上海分.json",
+      "count": 1
+    },
+    {
+      "company": "广东科鑫能源科技有限公司",
+      "slug": "广东科鑫能源科技",
+      "file": "jobs/by-company/广东科鑫能源科技.json",
+      "count": 1
+    },
+    {
+      "company": "广东商达(广州)律师事务所",
+      "slug": "广东商达-广州-律师事务所",
+      "file": "jobs/by-company/广东商达-广州-律师事务所.json",
+      "count": 1
+    },
+    {
+      "company": "广东省冶金建筑设计研究院有限公司",
+      "slug": "广东省冶金建筑设计研究院",
+      "file": "jobs/by-company/广东省冶金建筑设计研究院.json",
+      "count": 1
+    },
+    {
+      "company": "广信通信",
+      "slug": "广信通信",
+      "file": "jobs/by-company/广信通信.json",
+      "count": 1
+    },
+    {
+      "company": "广州白云区状元教育培训中心有限公司",
+      "slug": "广州白云区状元教育培训中心",
+      "file": "jobs/by-company/广州白云区状元教育培训中心.json",
+      "count": 1
+    },
+    {
+      "company": "广州地铁集团有限公司",
+      "slug": "广州地铁集团",
+      "file": "jobs/by-company/广州地铁集团.json",
+      "count": 20
+    },
+    {
+      "company": "广州合明软件科技有限公司",
+      "slug": "广州合明软件科技",
+      "file": "jobs/by-company/广州合明软件科技.json",
+      "count": 1
+    },
+    {
+      "company": "广州慧谷新材料科技股份有限公司",
+      "slug": "广州慧谷新材料科技股份",
+      "file": "jobs/by-company/广州慧谷新材料科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "广州钧胜生物科技有限公司",
+      "slug": "广州钧胜生物科技",
+      "file": "jobs/by-company/广州钧胜生物科技.json",
+      "count": 1
+    },
+    {
+      "company": "广州楷盛信息技术有限公司",
+      "slug": "广州楷盛信息技术",
+      "file": "jobs/by-company/广州楷盛信息技术.json",
+      "count": 1
+    },
+    {
+      "company": "广州莱拉智慧科技有限公司",
+      "slug": "广州莱拉智慧科技",
+      "file": "jobs/by-company/广州莱拉智慧科技.json",
+      "count": 1
+    },
+    {
+      "company": "广州青年中医医疗有限公司",
+      "slug": "广州青年中医医疗",
+      "file": "jobs/by-company/广州青年中医医疗.json",
+      "count": 1
+    },
+    {
+      "company": "广州三环专利商标代理有限公司深圳分公司",
+      "slug": "广州三环专利商标代理有限公司深圳分",
+      "file": "jobs/by-company/广州三环专利商标代理有限公司深圳分.json",
+      "count": 1
+    },
+    {
+      "company": "广州市邦普电脑技术开发有限公司",
+      "slug": "广州市邦普电脑技术开发",
+      "file": "jobs/by-company/广州市邦普电脑技术开发.json",
+      "count": 1
+    },
+    {
+      "company": "广州市品高软件股份有限公司",
+      "slug": "广州市品高软件股份",
+      "file": "jobs/by-company/广州市品高软件股份.json",
+      "count": 1
+    },
+    {
+      "company": "广州数字科技集团有限公司",
+      "slug": "广州数字科技集团",
+      "file": "jobs/by-company/广州数字科技集团.json",
+      "count": 1
+    },
+    {
+      "company": "广州欣迪雅包装贸易有限公司",
+      "slug": "广州欣迪雅包装贸易",
+      "file": "jobs/by-company/广州欣迪雅包装贸易.json",
+      "count": 1
+    },
+    {
+      "company": "广州医药股份有限公司",
+      "slug": "广州医药股份",
+      "file": "jobs/by-company/广州医药股份.json",
+      "count": 1
+    },
+    {
+      "company": "广州知贤道远信息服务有限公司武汉分公司",
+      "slug": "广州知贤道远信息服务有限公司武汉分",
+      "file": "jobs/by-company/广州知贤道远信息服务有限公司武汉分.json",
+      "count": 2
+    },
+    {
+      "company": "广州中宇冷气科技发展有限公司",
+      "slug": "广州中宇冷气科技发展",
+      "file": "jobs/by-company/广州中宇冷气科技发展.json",
+      "count": 1
+    },
+    {
+      "company": "广州专聚化工有限公司",
+      "slug": "广州专聚化工",
+      "file": "jobs/by-company/广州专聚化工.json",
+      "count": 1
+    },
+    {
+      "company": "贵阳中车浦镇城市轨道交通装备服务有限公司",
+      "slug": "贵阳中车浦镇城市轨道交通装备服务",
+      "file": "jobs/by-company/贵阳中车浦镇城市轨道交通装备服务.json",
+      "count": 1
+    },
+    {
+      "company": "国科微电子股份有限公司",
+      "slug": "国科微电子股份",
+      "file": "jobs/by-company/国科微电子股份.json",
+      "count": 39
+    },
+    {
+      "company": "国贸股份",
+      "slug": "国贸",
+      "file": "jobs/by-company/国贸.json",
+      "count": 5
+    },
+    {
+      "company": "国投期货有限公司",
+      "slug": "国投期货",
+      "file": "jobs/by-company/国投期货.json",
+      "count": 3
+    },
+    {
+      "company": "海南矿业",
+      "slug": "海南矿业",
+      "file": "jobs/by-company/海南矿业.json",
+      "count": 2
+    },
+    {
+      "company": "海信",
+      "slug": "海信",
+      "file": "jobs/by-company/海信.json",
+      "count": 450
+    },
+    {
+      "company": "海信集团",
+      "slug": "海信-2",
+      "file": "jobs/by-company/海信-2.json",
+      "count": 3
+    },
+    {
+      "company": "杭州铂科电子股份有限公司",
+      "slug": "杭州铂科电子股份",
+      "file": "jobs/by-company/杭州铂科电子股份.json",
+      "count": 2
+    },
+    {
+      "company": "杭州国芯微电子股份有限公司",
+      "slug": "杭州国芯微电子股份",
+      "file": "jobs/by-company/杭州国芯微电子股份.json",
+      "count": 3
+    },
+    {
+      "company": "杭州海沙港信息科技有限公司",
+      "slug": "杭州海沙港信息科技",
+      "file": "jobs/by-company/杭州海沙港信息科技.json",
+      "count": 1
+    },
+    {
+      "company": "杭州海茵汇酒店有限公司",
+      "slug": "杭州海茵汇酒店",
+      "file": "jobs/by-company/杭州海茵汇酒店.json",
+      "count": 1
+    },
+    {
+      "company": "杭州今溪信息技术有限责任公司",
+      "slug": "杭州今溪信息技术有限责任",
+      "file": "jobs/by-company/杭州今溪信息技术有限责任.json",
+      "count": 1
+    },
+    {
+      "company": "杭州景杰生物科技股份有限公司",
+      "slug": "杭州景杰生物科技股份",
+      "file": "jobs/by-company/杭州景杰生物科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "杭州联合银行",
+      "slug": "杭州联合银行",
+      "file": "jobs/by-company/杭州联合银行.json",
+      "count": 1
+    },
+    {
+      "company": "杭州钱江制冷集团有限公司",
+      "slug": "杭州钱江制冷集团",
+      "file": "jobs/by-company/杭州钱江制冷集团.json",
+      "count": 1
+    },
+    {
+      "company": "杭州文津服饰有限公司",
+      "slug": "杭州文津服饰",
+      "file": "jobs/by-company/杭州文津服饰.json",
+      "count": 1
+    },
+    {
+      "company": "杭州西奥",
+      "slug": "杭州西奥",
+      "file": "jobs/by-company/杭州西奥.json",
+      "count": 1
+    },
+    {
+      "company": "杭州宇树科技股份有限公司",
+      "slug": "杭州宇树科技股份",
+      "file": "jobs/by-company/杭州宇树科技股份.json",
+      "count": 34
+    },
+    {
+      "company": "杭州兆华电子股份有限公司",
+      "slug": "杭州兆华电子股份",
+      "file": "jobs/by-company/杭州兆华电子股份.json",
+      "count": 1
+    },
+    {
+      "company": "航天电器",
+      "slug": "航天电器",
+      "file": "jobs/by-company/航天电器.json",
+      "count": 3
+    },
+    {
+      "company": "合肥非度信息技术有限公司",
+      "slug": "合肥非度信息技术",
+      "file": "jobs/by-company/合肥非度信息技术.json",
+      "count": 2
+    },
+    {
+      "company": "河北今麦郎饮品营销策划有限公司",
+      "slug": "河北今麦郎饮品营销策划",
+      "file": "jobs/by-company/河北今麦郎饮品营销策划.json",
+      "count": 1
+    },
+    {
+      "company": "河北沙城老窖酒业有限公司",
+      "slug": "河北沙城老窖酒业",
+      "file": "jobs/by-company/河北沙城老窖酒业.json",
+      "count": 1
+    },
+    {
+      "company": "河南惠宏建材有限责任公司",
+      "slug": "河南惠宏建材有限责任",
+      "file": "jobs/by-company/河南惠宏建材有限责任.json",
+      "count": 1
+    },
+    {
+      "company": "湖北东诚数智科技有限公司",
+      "slug": "湖北东诚数智科技",
+      "file": "jobs/by-company/湖北东诚数智科技.json",
+      "count": 2
+    },
+    {
+      "company": "湖北恒信德龙实业有限公司武汉摩尔城管理分公司",
+      "slug": "湖北恒信德龙实业有限公司武汉摩尔城管理分",
+      "file": "jobs/by-company/湖北恒信德龙实业有限公司武汉摩尔城管理分.json",
+      "count": 1
+    },
+    {
+      "company": "湖北丝宝护理用品有限公司",
+      "slug": "湖北丝宝护理用品",
+      "file": "jobs/by-company/湖北丝宝护理用品.json",
+      "count": 1
+    },
+    {
+      "company": "湖南艾科威半导体装备有限公司",
+      "slug": "湖南艾科威半导体装备",
+      "file": "jobs/by-company/湖南艾科威半导体装备.json",
+      "count": 1
+    },
+    {
+      "company": "湖南贝克特环保科技有限公司",
+      "slug": "湖南贝克特环保科技",
+      "file": "jobs/by-company/湖南贝克特环保科技.json",
+      "count": 1
+    },
+    {
+      "company": "湖南红太阳新能源科技有限公司",
+      "slug": "湖南红太阳新能源科技",
+      "file": "jobs/by-company/湖南红太阳新能源科技.json",
+      "count": 2
+    },
+    {
+      "company": "湖南华纳大药厂股份有限公司",
+      "slug": "湖南华纳大药厂股份",
+      "file": "jobs/by-company/湖南华纳大药厂股份.json",
+      "count": 4
+    },
+    {
+      "company": "湖南慧泽生物医药科技有限公司",
+      "slug": "湖南慧泽生物医药科技",
+      "file": "jobs/by-company/湖南慧泽生物医药科技.json",
+      "count": 1
+    },
+    {
+      "company": "湖南杰楚微半导体科技有限公司",
+      "slug": "湖南杰楚微半导体科技",
+      "file": "jobs/by-company/湖南杰楚微半导体科技.json",
+      "count": 1
+    },
+    {
+      "company": "湖南力通电力勘测设计咨询有限公司",
+      "slug": "湖南力通电力勘测设计咨询",
+      "file": "jobs/by-company/湖南力通电力勘测设计咨询.json",
+      "count": 2
+    },
+    {
+      "company": "湖南荣玖环保科技有限公司",
+      "slug": "湖南荣玖环保科技",
+      "file": "jobs/by-company/湖南荣玖环保科技.json",
+      "count": 1
+    },
+    {
+      "company": "湖南省金通建设有限公司",
+      "slug": "湖南省金通建设",
+      "file": "jobs/by-company/湖南省金通建设.json",
+      "count": 1
+    },
+    {
+      "company": "湖南省邮电规划设计院有限公司",
+      "slug": "湖南省邮电规划设计院",
+      "file": "jobs/by-company/湖南省邮电规划设计院.json",
+      "count": 2
+    },
+    {
+      "company": "湖南苏宁易购有限公司",
+      "slug": "湖南苏宁易购",
+      "file": "jobs/by-company/湖南苏宁易购.json",
+      "count": 1
+    },
+    {
+      "company": "湖南天创精工科技有限公司",
+      "slug": "湖南天创精工科技",
+      "file": "jobs/by-company/湖南天创精工科技.json",
+      "count": 1
+    },
+    {
+      "company": "湖南天雁机械有限责任公司",
+      "slug": "湖南天雁机械有限责任",
+      "file": "jobs/by-company/湖南天雁机械有限责任.json",
+      "count": 1
+    },
+    {
+      "company": "湖南携赢科技有限公司",
+      "slug": "湖南携赢科技",
+      "file": "jobs/by-company/湖南携赢科技.json",
+      "count": 1
+    },
+    {
+      "company": "湖南新奥能源发展有限公司",
+      "slug": "湖南新奥能源发展",
+      "file": "jobs/by-company/湖南新奥能源发展.json",
+      "count": 1
+    },
+    {
+      "company": "湖南新天电数科技有限公司",
+      "slug": "湖南新天电数科技",
+      "file": "jobs/by-company/湖南新天电数科技.json",
+      "count": 1
+    },
+    {
+      "company": "湖南云箭制导航空弹药研究开发有限公司",
+      "slug": "湖南云箭制导航空弹药研究开发",
+      "file": "jobs/by-company/湖南云箭制导航空弹药研究开发.json",
+      "count": 2
+    },
+    {
+      "company": "湖南中伟金能新材料有限责任公司",
+      "slug": "湖南中伟金能新材料有限责任",
+      "file": "jobs/by-company/湖南中伟金能新材料有限责任.json",
+      "count": 2
+    },
+    {
+      "company": "湖南中伟控股集团",
+      "slug": "湖南中伟控股",
+      "file": "jobs/by-company/湖南中伟控股.json",
+      "count": 4
+    },
+    {
+      "company": "华测检测认证集团股份有限公司",
+      "slug": "华测检测认证集团股份",
+      "file": "jobs/by-company/华测检测认证集团股份.json",
+      "count": 1
+    },
+    {
+      "company": "华勤技术",
+      "slug": "华勤技术",
+      "file": "jobs/by-company/华勤技术.json",
+      "count": 52
+    },
+    {
+      "company": "华为南京研究所",
+      "slug": "华为南京研究所",
+      "file": "jobs/by-company/华为南京研究所.json",
+      "count": 4
+    },
+    {
+      "company": "华为云",
+      "slug": "华为云",
+      "file": "jobs/by-company/华为云.json",
+      "count": 1
+    },
+    {
+      "company": "华为HUAWEI",
+      "slug": "华为huawei",
+      "file": "jobs/by-company/华为huawei.json",
+      "count": 15
+    },
+    {
+      "company": "华源电力有限公司",
+      "slug": "华源电力",
+      "file": "jobs/by-company/华源电力.json",
+      "count": 1
+    },
+    {
+      "company": "黄石巨颖机器人智能制造有限公司",
+      "slug": "黄石巨颖机器人智能制造",
+      "file": "jobs/by-company/黄石巨颖机器人智能制造.json",
+      "count": 2
+    },
+    {
+      "company": "恢弘集团有限公司",
+      "slug": "恢弘集团",
+      "file": "jobs/by-company/恢弘集团.json",
+      "count": 1
+    },
+    {
+      "company": "汇纳科技股份有限公司",
+      "slug": "汇纳科技股份",
+      "file": "jobs/by-company/汇纳科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "慧策（掌上先机）",
+      "slug": "慧策-掌上先机",
+      "file": "jobs/by-company/慧策-掌上先机.json",
+      "count": 1
+    },
+    {
+      "company": "慧策集团",
+      "slug": "慧策",
+      "file": "jobs/by-company/慧策.json",
+      "count": 25
+    },
+    {
+      "company": "货拉拉",
+      "slug": "货拉拉",
+      "file": "jobs/by-company/货拉拉.json",
+      "count": 36
+    },
+    {
+      "company": "基康技术股份有限公司",
+      "slug": "基康技术股份",
+      "file": "jobs/by-company/基康技术股份.json",
+      "count": 5
+    },
+    {
+      "company": "吉利汽车",
+      "slug": "吉利汽车",
+      "file": "jobs/by-company/吉利汽车.json",
+      "count": 295
+    },
+    {
+      "company": "吉祥航空",
+      "slug": "吉祥航空",
+      "file": "jobs/by-company/吉祥航空.json",
+      "count": 4
+    },
+    {
+      "company": "极兔速递",
+      "slug": "极兔速递",
+      "file": "jobs/by-company/极兔速递.json",
+      "count": 18
+    },
+    {
+      "company": "极致汇仪",
+      "slug": "极致汇仪",
+      "file": "jobs/by-company/极致汇仪.json",
+      "count": 1
+    },
+    {
+      "company": "济南橙丰汽车销售服务有限公司",
+      "slug": "济南橙丰汽车销售服务",
+      "file": "jobs/by-company/济南橙丰汽车销售服务.json",
+      "count": 1
+    },
+    {
+      "company": "建投华科投资股份有限公司",
+      "slug": "建投华科投资股份",
+      "file": "jobs/by-company/建投华科投资股份.json",
+      "count": 1
+    },
+    {
+      "company": "江苏滨斯达进出口有限公司",
+      "slug": "江苏滨斯达进出口",
+      "file": "jobs/by-company/江苏滨斯达进出口.json",
+      "count": 1
+    },
+    {
+      "company": "江苏国立联合工程有限公司",
+      "slug": "江苏国立联合工程",
+      "file": "jobs/by-company/江苏国立联合工程.json",
+      "count": 1
+    },
+    {
+      "company": "江苏恒瑞医药股份有限公司",
+      "slug": "江苏恒瑞医药股份",
+      "file": "jobs/by-company/江苏恒瑞医药股份.json",
+      "count": 3
+    },
+    {
+      "company": "江苏华鹰进出口贸易有限公司",
+      "slug": "江苏华鹰进出口贸易",
+      "file": "jobs/by-company/江苏华鹰进出口贸易.json",
+      "count": 1
+    },
+    {
+      "company": "江苏精研科技股份有限公司",
+      "slug": "江苏精研科技股份",
+      "file": "jobs/by-company/江苏精研科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "江苏森麦特国际贸易有限公司",
+      "slug": "江苏森麦特国际贸易",
+      "file": "jobs/by-company/江苏森麦特国际贸易.json",
+      "count": 1
+    },
+    {
+      "company": "江苏台合达环保设备有限公司",
+      "slug": "江苏台合达环保设备",
+      "file": "jobs/by-company/江苏台合达环保设备.json",
+      "count": 1
+    },
+    {
+      "company": "江苏天鹏电源有限公司",
+      "slug": "江苏天鹏电源",
+      "file": "jobs/by-company/江苏天鹏电源.json",
+      "count": 1
+    },
+    {
+      "company": "江苏同泽电子科技有限公司",
+      "slug": "江苏同泽电子科技",
+      "file": "jobs/by-company/江苏同泽电子科技.json",
+      "count": 1
+    },
+    {
+      "company": "江苏伟拓智能制造科技有限公司",
+      "slug": "江苏伟拓智能制造科技",
+      "file": "jobs/by-company/江苏伟拓智能制造科技.json",
+      "count": 1
+    },
+    {
+      "company": "江苏西宏生物医药有限公司",
+      "slug": "江苏西宏生物医药",
+      "file": "jobs/by-company/江苏西宏生物医药.json",
+      "count": 2
+    },
+    {
+      "company": "江泰保险经纪股份有限公司",
+      "slug": "江泰保险经纪股份",
+      "file": "jobs/by-company/江泰保险经纪股份.json",
+      "count": 1
+    },
+    {
+      "company": "江西山高制药有限公司",
+      "slug": "江西山高制药",
+      "file": "jobs/by-company/江西山高制药.json",
+      "count": 1
+    },
+    {
+      "company": "交控信号科技(北京)有限公司",
+      "slug": "交控信号科技-北京",
+      "file": "jobs/by-company/交控信号科技-北京.json",
+      "count": 3
+    },
+    {
+      "company": "捷通智慧科技股份有限公司",
+      "slug": "捷通智慧科技股份",
+      "file": "jobs/by-company/捷通智慧科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "金发科技",
+      "slug": "金发科技",
+      "file": "jobs/by-company/金发科技.json",
+      "count": 116
+    },
+    {
+      "company": "金风科技股份有限公司",
+      "slug": "金风科技股份",
+      "file": "jobs/by-company/金风科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "金山软件",
+      "slug": "金山软件",
+      "file": "jobs/by-company/金山软件.json",
+      "count": 29
+    },
+    {
+      "company": "金山世游",
+      "slug": "金山世游",
+      "file": "jobs/by-company/金山世游.json",
+      "count": 10
+    },
+    {
+      "company": "金师博睿(北京)教育科技有限公司",
+      "slug": "金师博睿-北京-教育科技",
+      "file": "jobs/by-company/金师博睿-北京-教育科技.json",
+      "count": 1
+    },
+    {
+      "company": "京东方",
+      "slug": "京东方",
+      "file": "jobs/by-company/京东方.json",
+      "count": 579
+    },
+    {
+      "company": "京新药业",
+      "slug": "京新药业",
+      "file": "jobs/by-company/京新药业.json",
+      "count": 1
+    },
+    {
+      "company": "经纬恒润",
+      "slug": "经纬恒润",
+      "file": "jobs/by-company/经纬恒润.json",
+      "count": 3
+    },
+    {
+      "company": "晶易医药科技股份公司",
+      "slug": "晶易医药科技股份",
+      "file": "jobs/by-company/晶易医药科技股份.json",
+      "count": 8
+    },
+    {
+      "company": "精工钢结构(上海)有限公司",
+      "slug": "精工钢结构-上海",
+      "file": "jobs/by-company/精工钢结构-上海.json",
+      "count": 1
+    },
+    {
+      "company": "精智达",
+      "slug": "精智达",
+      "file": "jobs/by-company/精智达.json",
+      "count": 2
+    },
+    {
+      "company": "鲸鱼武汉日化有限责任公司",
+      "slug": "鲸鱼武汉日化有限责任",
+      "file": "jobs/by-company/鲸鱼武汉日化有限责任.json",
+      "count": 1
+    },
+    {
+      "company": "九方云",
+      "slug": "九方云",
+      "file": "jobs/by-company/九方云.json",
+      "count": 4
+    },
+    {
+      "company": "卡斯柯信号有限公司（CASCO）",
+      "slug": "卡斯柯信号有限公司-casco",
+      "file": "jobs/by-company/卡斯柯信号有限公司-casco.json",
+      "count": 2
+    },
+    {
+      "company": "卡斯柯信号有限公司北京分公司",
+      "slug": "卡斯柯信号有限公司北京分",
+      "file": "jobs/by-company/卡斯柯信号有限公司北京分.json",
+      "count": 1
+    },
+    {
+      "company": "楷德电子工程设计有限公司",
+      "slug": "楷德电子工程设计",
+      "file": "jobs/by-company/楷德电子工程设计.json",
+      "count": 1
+    },
+    {
+      "company": "康立生医药",
+      "slug": "康立生医药",
+      "file": "jobs/by-company/康立生医药.json",
+      "count": 1
+    },
+    {
+      "company": "康龙化成",
+      "slug": "康龙化成",
+      "file": "jobs/by-company/康龙化成.json",
+      "count": 7
+    },
+    {
+      "company": "康龙化成(成都)临床研究服务有限公司",
+      "slug": "康龙化成-成都-临床研究服务",
+      "file": "jobs/by-company/康龙化成-成都-临床研究服务.json",
+      "count": 1
+    },
+    {
+      "company": "康哲药业",
+      "slug": "康哲药业",
+      "file": "jobs/by-company/康哲药业.json",
+      "count": 1
+    },
+    {
+      "company": "科大讯飞",
+      "slug": "科大讯飞",
+      "file": "jobs/by-company/科大讯飞.json",
+      "count": 138
+    },
+    {
+      "company": "科锐尔人力资源服务(苏州)有限公司",
+      "slug": "科锐尔人力资源服务-苏州",
+      "file": "jobs/by-company/科锐尔人力资源服务-苏州.json",
+      "count": 2
+    },
+    {
+      "company": "快手",
+      "slug": "快手",
+      "file": "jobs/by-company/快手.json",
+      "count": 271
+    },
+    {
+      "company": "昆山炬多智能设备有限公司",
+      "slug": "昆山炬多智能设备",
+      "file": "jobs/by-company/昆山炬多智能设备.json",
+      "count": 1
+    },
+    {
+      "company": "昆山协多利",
+      "slug": "昆山协多利",
+      "file": "jobs/by-company/昆山协多利.json",
+      "count": 2
+    },
+    {
+      "company": "昆山星十火培训中心有限公司",
+      "slug": "昆山星十火培训中心",
+      "file": "jobs/by-company/昆山星十火培训中心.json",
+      "count": 1
+    },
+    {
+      "company": "岚图汽车",
+      "slug": "岚图汽车",
+      "file": "jobs/by-company/岚图汽车.json",
+      "count": 53
+    },
+    {
+      "company": "蓝思科技",
+      "slug": "蓝思科技",
+      "file": "jobs/by-company/蓝思科技.json",
+      "count": 45
+    },
+    {
+      "company": "浪潮集团",
+      "slug": "浪潮",
+      "file": "jobs/by-company/浪潮.json",
+      "count": 1
+    },
+    {
+      "company": "乐享元游",
+      "slug": "乐享元游",
+      "file": "jobs/by-company/乐享元游.json",
+      "count": 13
+    },
+    {
+      "company": "黎耀智能科技有限公司",
+      "slug": "黎耀智能科技",
+      "file": "jobs/by-company/黎耀智能科技.json",
+      "count": 1
+    },
+    {
+      "company": "力鸿检验集团有限公司",
+      "slug": "力鸿检验集团",
+      "file": "jobs/by-company/力鸿检验集团.json",
+      "count": 1
+    },
+    {
+      "company": "立臻科技(昆山)有限公司",
+      "slug": "立臻科技-昆山",
+      "file": "jobs/by-company/立臻科技-昆山.json",
+      "count": 1
+    },
+    {
+      "company": "莉莉丝游戏",
+      "slug": "莉莉丝游戏",
+      "file": "jobs/by-company/莉莉丝游戏.json",
+      "count": 3
+    },
+    {
+      "company": "莲花华玮工程咨询有限公司",
+      "slug": "莲花华玮工程咨询",
+      "file": "jobs/by-company/莲花华玮工程咨询.json",
+      "count": 1
+    },
+    {
+      "company": "凌志软件",
+      "slug": "凌志软件",
+      "file": "jobs/by-company/凌志软件.json",
+      "count": 1
+    },
+    {
+      "company": "零跑汽车",
+      "slug": "零跑汽车",
+      "file": "jobs/by-company/零跑汽车.json",
+      "count": 293
+    },
+    {
+      "company": "领世培优",
+      "slug": "领世培优",
+      "file": "jobs/by-company/领世培优.json",
+      "count": 5
+    },
+    {
+      "company": "路安通智科技集团有限公司",
+      "slug": "路安通智科技集团",
+      "file": "jobs/by-company/路安通智科技集团.json",
+      "count": 1
+    },
+    {
+      "company": "绿盟科技",
+      "slug": "绿盟科技",
+      "file": "jobs/by-company/绿盟科技.json",
+      "count": 185
+    },
+    {
+      "company": "绿色动力环保集团股份有限公司",
+      "slug": "绿色动力环保集团股份",
+      "file": "jobs/by-company/绿色动力环保集团股份.json",
+      "count": 1
+    },
+    {
+      "company": "洛阳瑞昌环境工程有限公司",
+      "slug": "洛阳瑞昌环境工程",
+      "file": "jobs/by-company/洛阳瑞昌环境工程.json",
+      "count": 2
+    },
+    {
+      "company": "麦格米特",
+      "slug": "麦格米特",
+      "file": "jobs/by-company/麦格米特.json",
+      "count": 2
+    },
+    {
+      "company": "麦田房产",
+      "slug": "麦田房产",
+      "file": "jobs/by-company/麦田房产.json",
+      "count": 23
+    },
+    {
+      "company": "美格智能技术股份有限公司",
+      "slug": "美格智能技术股份",
+      "file": "jobs/by-company/美格智能技术股份.json",
+      "count": 1
+    },
+    {
+      "company": "美团",
+      "slug": "美团",
+      "file": "jobs/by-company/美团.json",
+      "count": 189
+    },
+    {
+      "company": "蒙牛",
+      "slug": "蒙牛",
+      "file": "jobs/by-company/蒙牛.json",
+      "count": 119
+    },
+    {
+      "company": "梦尔达科技(杭州)有限公司",
+      "slug": "梦尔达科技-杭州",
+      "file": "jobs/by-company/梦尔达科技-杭州.json",
+      "count": 1
+    },
+    {
+      "company": "蜜雪冰城",
+      "slug": "蜜雪冰城",
+      "file": "jobs/by-company/蜜雪冰城.json",
+      "count": 26
+    },
+    {
+      "company": "民生英才(北京)管理咨询有限责任公司",
+      "slug": "民生英才-北京-管理咨询有限责任",
+      "file": "jobs/by-company/民生英才-北京-管理咨询有限责任.json",
+      "count": 1
+    },
+    {
+      "company": "名创优品",
+      "slug": "名创优品",
+      "file": "jobs/by-company/名创优品.json",
+      "count": 30
+    },
+    {
+      "company": "鸣志电器",
+      "slug": "鸣志电器",
+      "file": "jobs/by-company/鸣志电器.json",
+      "count": 2
+    },
+    {
+      "company": "木屋烧烤",
+      "slug": "木屋烧烤",
+      "file": "jobs/by-company/木屋烧烤.json",
+      "count": 2
+    },
+    {
+      "company": "沐瞳科技",
+      "slug": "沐瞳科技",
+      "file": "jobs/by-company/沐瞳科技.json",
+      "count": 90
+    },
+    {
+      "company": "牧原食品集团股份有限公司",
+      "slug": "牧原食品集团股份",
+      "file": "jobs/by-company/牧原食品集团股份.json",
+      "count": 3
+    },
+    {
+      "company": "南京埃斯顿自动化",
+      "slug": "南京埃斯顿自动化",
+      "file": "jobs/by-company/南京埃斯顿自动化.json",
+      "count": 21
+    },
+    {
+      "company": "南京德盛有机硅材料有限公司",
+      "slug": "南京德盛有机硅材料",
+      "file": "jobs/by-company/南京德盛有机硅材料.json",
+      "count": 1
+    },
+    {
+      "company": "南京银行",
+      "slug": "南京银行",
+      "file": "jobs/by-company/南京银行.json",
+      "count": 13
+    },
+    {
+      "company": "南京中梦生物科技有限公司",
+      "slug": "南京中梦生物科技",
+      "file": "jobs/by-company/南京中梦生物科技.json",
+      "count": 1
+    },
+    {
+      "company": "宁波同泽国际物流有限公司",
+      "slug": "宁波同泽国际物流",
+      "file": "jobs/by-company/宁波同泽国际物流.json",
+      "count": 1
+    },
+    {
+      "company": "宁德时代新能源科技股份有限公司",
+      "slug": "宁德时代新能源科技股份",
+      "file": "jobs/by-company/宁德时代新能源科技股份.json",
+      "count": 360
+    },
+    {
+      "company": "宁德新能源科技有限公司",
+      "slug": "宁德新能源科技",
+      "file": "jobs/by-company/宁德新能源科技.json",
+      "count": 75
+    },
+    {
+      "company": "农夫山泉股份有限公司",
+      "slug": "农夫山泉股份",
+      "file": "jobs/by-company/农夫山泉股份.json",
+      "count": 1
+    },
+    {
+      "company": "噢易云计算",
+      "slug": "噢易云计算",
+      "file": "jobs/by-company/噢易云计算.json",
+      "count": 1
+    },
+    {
+      "company": "欧派家居集团",
+      "slug": "欧派家居",
+      "file": "jobs/by-company/欧派家居.json",
+      "count": 4
+    },
+    {
+      "company": "泡泡玛特",
+      "slug": "泡泡玛特",
+      "file": "jobs/by-company/泡泡玛特.json",
+      "count": 24
+    },
+    {
+      "company": "鹏盛会计师事务所(特殊普通合伙)",
+      "slug": "鹏盛会计师事务所-特殊普通合伙",
+      "file": "jobs/by-company/鹏盛会计师事务所-特殊普通合伙.json",
+      "count": 1
+    },
+    {
+      "company": "拼多多",
+      "slug": "拼多多",
+      "file": "jobs/by-company/拼多多.json",
+      "count": 37
+    },
+    {
+      "company": "拼多多集团-PDD",
+      "slug": "拼多多集团-pdd",
+      "file": "jobs/by-company/拼多多集团-pdd.json",
+      "count": 3
+    },
+    {
+      "company": "平安点创国际融资租赁有限公司",
+      "slug": "平安点创国际融资租赁",
+      "file": "jobs/by-company/平安点创国际融资租赁.json",
+      "count": 2
+    },
+    {
+      "company": "平安国际融资租赁有限公司",
+      "slug": "平安国际融资租赁",
+      "file": "jobs/by-company/平安国际融资租赁.json",
+      "count": 2
+    },
+    {
+      "company": "平安人寿上海分公司",
+      "slug": "平安人寿上海分",
+      "file": "jobs/by-company/平安人寿上海分.json",
+      "count": 1
+    },
+    {
+      "company": "平安证券",
+      "slug": "平安证券",
+      "file": "jobs/by-company/平安证券.json",
+      "count": 1
+    },
+    {
+      "company": "普渡机器人",
+      "slug": "普渡机器人",
+      "file": "jobs/by-company/普渡机器人.json",
+      "count": 92
+    },
+    {
+      "company": "青岛华瑞汽车零部件股份有限公司",
+      "slug": "青岛华瑞汽车零部件股份",
+      "file": "jobs/by-company/青岛华瑞汽车零部件股份.json",
+      "count": 1
+    },
+    {
+      "company": "青矩技术股份有限公司",
+      "slug": "青矩技术股份",
+      "file": "jobs/by-company/青矩技术股份.json",
+      "count": 2
+    },
+    {
+      "company": "清大国华环境集团股份有限公司",
+      "slug": "清大国华环境集团股份",
+      "file": "jobs/by-company/清大国华环境集团股份.json",
+      "count": 2
+    },
+    {
+      "company": "雀巢中国",
+      "slug": "雀巢中国",
+      "file": "jobs/by-company/雀巢中国.json",
+      "count": 35
+    },
+    {
+      "company": "日欣电(北京)自动化技术有限公司",
+      "slug": "日欣电-北京-自动化技术",
+      "file": "jobs/by-company/日欣电-北京-自动化技术.json",
+      "count": 1
+    },
+    {
+      "company": "荣耀",
+      "slug": "荣耀",
+      "file": "jobs/by-company/荣耀.json",
+      "count": 101
+    },
+    {
+      "company": "荣耀终端",
+      "slug": "荣耀终端",
+      "file": "jobs/by-company/荣耀终端.json",
+      "count": 1
+    },
+    {
+      "company": "软通动力信息技术(集团)股份有限公司",
+      "slug": "软通动力信息技术-集团-股份",
+      "file": "jobs/by-company/软通动力信息技术-集团-股份.json",
+      "count": 3
+    },
+    {
+      "company": "锐捷网络",
+      "slug": "锐捷网络",
+      "file": "jobs/by-company/锐捷网络.json",
+      "count": 74
+    },
+    {
+      "company": "锐捷网络股份有限公司",
+      "slug": "锐捷网络股份",
+      "file": "jobs/by-company/锐捷网络股份.json",
+      "count": 14
+    },
+    {
+      "company": "锐明技术",
+      "slug": "锐明技术",
+      "file": "jobs/by-company/锐明技术.json",
+      "count": 32
+    },
+    {
+      "company": "瑞普生物",
+      "slug": "瑞普生物",
+      "file": "jobs/by-company/瑞普生物.json",
+      "count": 1
+    },
+    {
+      "company": "润辉生物技术(威海)有限公司",
+      "slug": "润辉生物技术-威海",
+      "file": "jobs/by-company/润辉生物技术-威海.json",
+      "count": 1
+    },
+    {
+      "company": "赛轮集团",
+      "slug": "赛轮",
+      "file": "jobs/by-company/赛轮.json",
+      "count": 1
+    },
+    {
+      "company": "赛轮轮胎",
+      "slug": "赛轮轮胎",
+      "file": "jobs/by-company/赛轮轮胎.json",
+      "count": 88
+    },
+    {
+      "company": "三诺生物",
+      "slug": "三诺生物",
+      "file": "jobs/by-company/三诺生物.json",
+      "count": 5
+    },
+    {
+      "company": "三七互娱",
+      "slug": "三七互娱",
+      "file": "jobs/by-company/三七互娱.json",
+      "count": 24
+    },
+    {
+      "company": "三一集团",
+      "slug": "三一",
+      "file": "jobs/by-company/三一.json",
+      "count": 89
+    },
+    {
+      "company": "厦门久趣教育科技有限公司",
+      "slug": "厦门久趣教育科技",
+      "file": "jobs/by-company/厦门久趣教育科技.json",
+      "count": 1
+    },
+    {
+      "company": "厦门士兰集科微电子有限公司",
+      "slug": "厦门士兰集科微电子",
+      "file": "jobs/by-company/厦门士兰集科微电子.json",
+      "count": 2
+    },
+    {
+      "company": "厦门象屿",
+      "slug": "厦门象屿",
+      "file": "jobs/by-company/厦门象屿.json",
+      "count": 94
+    },
+    {
+      "company": "厦门象屿股份有限公司",
+      "slug": "厦门象屿股份",
+      "file": "jobs/by-company/厦门象屿股份.json",
+      "count": 1
+    },
+    {
+      "company": "山东滨州沃华生物工程有限公司",
+      "slug": "山东滨州沃华生物工程",
+      "file": "jobs/by-company/山东滨州沃华生物工程.json",
+      "count": 1
+    },
+    {
+      "company": "山东华廷电子科技有限公司",
+      "slug": "山东华廷电子科技",
+      "file": "jobs/by-company/山东华廷电子科技.json",
+      "count": 1
+    },
+    {
+      "company": "山东汇展美居建材有限公司",
+      "slug": "山东汇展美居建材",
+      "file": "jobs/by-company/山东汇展美居建材.json",
+      "count": 1
+    },
+    {
+      "company": "山东快驴科技发展股份有限公司",
+      "slug": "山东快驴科技发展股份",
+      "file": "jobs/by-company/山东快驴科技发展股份.json",
+      "count": 3
+    },
+    {
+      "company": "山东瑞鸿能源服务集团股份有限公司",
+      "slug": "山东瑞鸿能源服务集团股份",
+      "file": "jobs/by-company/山东瑞鸿能源服务集团股份.json",
+      "count": 2
+    },
+    {
+      "company": "山东天岳先进科技股份有限公司",
+      "slug": "山东天岳先进科技股份",
+      "file": "jobs/by-company/山东天岳先进科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "山东禧龙石油装备有限公司",
+      "slug": "山东禧龙石油装备",
+      "file": "jobs/by-company/山东禧龙石油装备.json",
+      "count": 1
+    },
+    {
+      "company": "山推工程机械股份有限公司",
+      "slug": "山推工程机械股份",
+      "file": "jobs/by-company/山推工程机械股份.json",
+      "count": 5
+    },
+    {
+      "company": "上海奥索斯自动化科技有限公司",
+      "slug": "上海奥索斯自动化科技",
+      "file": "jobs/by-company/上海奥索斯自动化科技.json",
+      "count": 2
+    },
+    {
+      "company": "上海博隆装备技术股份有限公司",
+      "slug": "上海博隆装备技术股份",
+      "file": "jobs/by-company/上海博隆装备技术股份.json",
+      "count": 1
+    },
+    {
+      "company": "上海畅涵信息技术有限公司",
+      "slug": "上海畅涵信息技术",
+      "file": "jobs/by-company/上海畅涵信息技术.json",
+      "count": 1
+    },
+    {
+      "company": "上海诚达机械有限公司",
+      "slug": "上海诚达机械",
+      "file": "jobs/by-company/上海诚达机械.json",
+      "count": 1
+    },
+    {
+      "company": "上海大树下商业管理有限公司",
+      "slug": "上海大树下商业管理",
+      "file": "jobs/by-company/上海大树下商业管理.json",
+      "count": 1
+    },
+    {
+      "company": "上海缔壹品牌管理有限公司",
+      "slug": "上海缔壹品牌管理",
+      "file": "jobs/by-company/上海缔壹品牌管理.json",
+      "count": 1
+    },
+    {
+      "company": "上海东欣软件工程有限公司",
+      "slug": "上海东欣软件工程",
+      "file": "jobs/by-company/上海东欣软件工程.json",
+      "count": 1
+    },
+    {
+      "company": "上海复宏汉霖生物技术股份有限公司",
+      "slug": "上海复宏汉霖生物技术股份",
+      "file": "jobs/by-company/上海复宏汉霖生物技术股份.json",
+      "count": 1
+    },
+    {
+      "company": "上海港机重工有限公司",
+      "slug": "上海港机重工",
+      "file": "jobs/by-company/上海港机重工.json",
+      "count": 1
+    },
+    {
+      "company": "上海公路桥梁(集团)有限公司",
+      "slug": "上海公路桥梁-集团",
+      "file": "jobs/by-company/上海公路桥梁-集团.json",
+      "count": 1
+    },
+    {
+      "company": "上海昊量光电设备有限公司",
+      "slug": "上海昊量光电设备",
+      "file": "jobs/by-company/上海昊量光电设备.json",
+      "count": 1
+    },
+    {
+      "company": "上海华为技术有限公司",
+      "slug": "上海华为技术",
+      "file": "jobs/by-company/上海华为技术.json",
+      "count": 5
+    },
+    {
+      "company": "上海汇众汽车制造有限公司",
+      "slug": "上海汇众汽车制造",
+      "file": "jobs/by-company/上海汇众汽车制造.json",
+      "count": 13
+    },
+    {
+      "company": "上海机电工程研究所",
+      "slug": "上海机电工程研究所",
+      "file": "jobs/by-company/上海机电工程研究所.json",
+      "count": 2
+    },
+    {
+      "company": "上海建科检验检测认证有限公司",
+      "slug": "上海建科检验检测认证",
+      "file": "jobs/by-company/上海建科检验检测认证.json",
+      "count": 1
+    },
+    {
+      "company": "上海杰艾企业管理咨询有限公司",
+      "slug": "上海杰艾企业管理咨询",
+      "file": "jobs/by-company/上海杰艾企业管理咨询.json",
+      "count": 1
+    },
+    {
+      "company": "上海康恒环境股份有限公司",
+      "slug": "上海康恒环境股份",
+      "file": "jobs/by-company/上海康恒环境股份.json",
+      "count": 2
+    },
+    {
+      "company": "上海蓝森宴会餐饮有限公司",
+      "slug": "上海蓝森宴会餐饮",
+      "file": "jobs/by-company/上海蓝森宴会餐饮.json",
+      "count": 1
+    },
+    {
+      "company": "上海伶机智能科技有限公司",
+      "slug": "上海伶机智能科技",
+      "file": "jobs/by-company/上海伶机智能科技.json",
+      "count": 1
+    },
+    {
+      "company": "上海藕荷信息科技有限公司",
+      "slug": "上海藕荷信息科技",
+      "file": "jobs/by-company/上海藕荷信息科技.json",
+      "count": 1
+    },
+    {
+      "company": "上海派盛财务咨询有限公司",
+      "slug": "上海派盛财务咨询",
+      "file": "jobs/by-company/上海派盛财务咨询.json",
+      "count": 1
+    },
+    {
+      "company": "上海蔚来汽车有限公司",
+      "slug": "上海蔚来汽车",
+      "file": "jobs/by-company/上海蔚来汽车.json",
+      "count": 1
+    },
+    {
+      "company": "上海新长宁(集团)有限公司",
+      "slug": "上海新长宁-集团",
+      "file": "jobs/by-company/上海新长宁-集团.json",
+      "count": 2
+    },
+    {
+      "company": "上海亿博机电设备有限公司",
+      "slug": "上海亿博机电设备",
+      "file": "jobs/by-company/上海亿博机电设备.json",
+      "count": 1
+    },
+    {
+      "company": "上海奕非凡实业有限公司",
+      "slug": "上海奕非凡实业",
+      "file": "jobs/by-company/上海奕非凡实业.json",
+      "count": 1
+    },
+    {
+      "company": "上海云晟研新生物科技股份有限公司",
+      "slug": "上海云晟研新生物科技股份",
+      "file": "jobs/by-company/上海云晟研新生物科技股份.json",
+      "count": 2
+    },
+    {
+      "company": "上海长升藤科技有限公司",
+      "slug": "上海长升藤科技",
+      "file": "jobs/by-company/上海长升藤科技.json",
+      "count": 1
+    },
+    {
+      "company": "上海中谷物流股份有限公司",
+      "slug": "上海中谷物流股份",
+      "file": "jobs/by-company/上海中谷物流股份.json",
+      "count": 1
+    },
+    {
+      "company": "上海众安电器塑料有限公司",
+      "slug": "上海众安电器塑料",
+      "file": "jobs/by-company/上海众安电器塑料.json",
+      "count": 1
+    },
+    {
+      "company": "上海卓成信息技术有限公司",
+      "slug": "上海卓成信息技术",
+      "file": "jobs/by-company/上海卓成信息技术.json",
+      "count": 1
+    },
+    {
+      "company": "上海紫途电子商务有限公司",
+      "slug": "上海紫途电子商务",
+      "file": "jobs/by-company/上海紫途电子商务.json",
+      "count": 3
+    },
+    {
+      "company": "尚诚消费",
+      "slug": "尚诚消费",
+      "file": "jobs/by-company/尚诚消费.json",
+      "count": 2
+    },
+    {
+      "company": "韶音科技",
+      "slug": "韶音科技",
+      "file": "jobs/by-company/韶音科技.json",
+      "count": 121
+    },
+    {
+      "company": "深城交科技集团股份有限公司",
+      "slug": "深城交科技集团股份",
+      "file": "jobs/by-company/深城交科技集团股份.json",
+      "count": 1
+    },
+    {
+      "company": "深圳博时特科技有限公司",
+      "slug": "深圳博时特科技",
+      "file": "jobs/by-company/深圳博时特科技.json",
+      "count": 8
+    },
+    {
+      "company": "深圳德勇国际物流有限公司",
+      "slug": "深圳德勇国际物流",
+      "file": "jobs/by-company/深圳德勇国际物流.json",
+      "count": 1
+    },
+    {
+      "company": "深圳方正微电子有限公司",
+      "slug": "深圳方正微电子",
+      "file": "jobs/by-company/深圳方正微电子.json",
+      "count": 2
+    },
+    {
+      "company": "深圳格瑞因新能源科技有限公司",
+      "slug": "深圳格瑞因新能源科技",
+      "file": "jobs/by-company/深圳格瑞因新能源科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳卡思科电子有限公司",
+      "slug": "深圳卡思科电子",
+      "file": "jobs/by-company/深圳卡思科电子.json",
+      "count": 1
+    },
+    {
+      "company": "深圳麦思美汽车电子股份有限公司",
+      "slug": "深圳麦思美汽车电子股份",
+      "file": "jobs/by-company/深圳麦思美汽车电子股份.json",
+      "count": 4
+    },
+    {
+      "company": "深圳品信检测科技有限公司",
+      "slug": "深圳品信检测科技",
+      "file": "jobs/by-company/深圳品信检测科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市驰安科技有限公司",
+      "slug": "深圳市驰安科技",
+      "file": "jobs/by-company/深圳市驰安科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市恒之光科技有限公司",
+      "slug": "深圳市恒之光科技",
+      "file": "jobs/by-company/深圳市恒之光科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市华电晨光智能科技有限公司",
+      "slug": "深圳市华电晨光智能科技",
+      "file": "jobs/by-company/深圳市华电晨光智能科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市华朗学校",
+      "slug": "深圳市华朗学校",
+      "file": "jobs/by-company/深圳市华朗学校.json",
+      "count": 2
+    },
+    {
+      "company": "深圳市汇川技术股份有限公司",
+      "slug": "深圳市汇川技术股份",
+      "file": "jobs/by-company/深圳市汇川技术股份.json",
+      "count": 14
+    },
+    {
+      "company": "深圳市极客派供应链科技有限公司",
+      "slug": "深圳市极客派供应链科技",
+      "file": "jobs/by-company/深圳市极客派供应链科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市建筑设计研究总院有限公司",
+      "slug": "深圳市建筑设计研究总院",
+      "file": "jobs/by-company/深圳市建筑设计研究总院.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市金岷江智能装备有限公司",
+      "slug": "深圳市金岷江智能装备",
+      "file": "jobs/by-company/深圳市金岷江智能装备.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市九行星科技有限公司",
+      "slug": "深圳市九行星科技",
+      "file": "jobs/by-company/深圳市九行星科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市玖治科技有限公司",
+      "slug": "深圳市玖治科技",
+      "file": "jobs/by-company/深圳市玖治科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市坤深慧科技有限公司",
+      "slug": "深圳市坤深慧科技",
+      "file": "jobs/by-company/深圳市坤深慧科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市朗坤科技股份有限公司",
+      "slug": "深圳市朗坤科技股份",
+      "file": "jobs/by-company/深圳市朗坤科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市乐有家控股集团有限公司",
+      "slug": "深圳市乐有家控股集团",
+      "file": "jobs/by-company/深圳市乐有家控股集团.json",
+      "count": 14
+    },
+    {
+      "company": "深圳市默贝克驱动技术有限公司",
+      "slug": "深圳市默贝克驱动技术",
+      "file": "jobs/by-company/深圳市默贝克驱动技术.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市鹏芯微集成电路制造有限公司",
+      "slug": "深圳市鹏芯微集成电路制造",
+      "file": "jobs/by-company/深圳市鹏芯微集成电路制造.json",
+      "count": 12
+    },
+    {
+      "company": "深圳市强流明照明有限公司",
+      "slug": "深圳市强流明照明",
+      "file": "jobs/by-company/深圳市强流明照明.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市融泽源资产评估土地房地产估价有限公司",
+      "slug": "深圳市融泽源资产评估土地房地产估价",
+      "file": "jobs/by-company/深圳市融泽源资产评估土地房地产估价.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市润迅数智科技有限公司",
+      "slug": "深圳市润迅数智科技",
+      "file": "jobs/by-company/深圳市润迅数智科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市升阳升人居环境服务有限公司",
+      "slug": "深圳市升阳升人居环境服务",
+      "file": "jobs/by-company/深圳市升阳升人居环境服务.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市天软科技开发有限公司",
+      "slug": "深圳市天软科技开发",
+      "file": "jobs/by-company/深圳市天软科技开发.json",
+      "count": 2
+    },
+    {
+      "company": "深圳市天域文化传媒有限公司",
+      "slug": "深圳市天域文化传媒",
+      "file": "jobs/by-company/深圳市天域文化传媒.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市新旗滨科技有限公司",
+      "slug": "深圳市新旗滨科技",
+      "file": "jobs/by-company/深圳市新旗滨科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市星河商置集团有限公司",
+      "slug": "深圳市星河商置集团",
+      "file": "jobs/by-company/深圳市星河商置集团.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市轩宇车鼎科技有限公司",
+      "slug": "深圳市轩宇车鼎科技",
+      "file": "jobs/by-company/深圳市轩宇车鼎科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市郑中设计股份有限公司",
+      "slug": "深圳市郑中设计股份",
+      "file": "jobs/by-company/深圳市郑中设计股份.json",
+      "count": 1
+    },
+    {
+      "company": "深圳市卓艺建设装饰工程股份有限公司",
+      "slug": "深圳市卓艺建设装饰工程股份",
+      "file": "jobs/by-company/深圳市卓艺建设装饰工程股份.json",
+      "count": 1
+    },
+    {
+      "company": "深圳新宙邦科技股份有限公司",
+      "slug": "深圳新宙邦科技股份",
+      "file": "jobs/by-company/深圳新宙邦科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "深圳信立泰药业股份有限公司",
+      "slug": "深圳信立泰药业股份",
+      "file": "jobs/by-company/深圳信立泰药业股份.json",
+      "count": 9
+    },
+    {
+      "company": "深圳志浩基业科技有限公司",
+      "slug": "深圳志浩基业科技",
+      "file": "jobs/by-company/深圳志浩基业科技.json",
+      "count": 1
+    },
+    {
+      "company": "深圳中安辰鸿技术有限公司",
+      "slug": "深圳中安辰鸿技术",
+      "file": "jobs/by-company/深圳中安辰鸿技术.json",
+      "count": 8
+    },
+    {
+      "company": "深圳中科飞测科技股份有限公司",
+      "slug": "深圳中科飞测科技股份",
+      "file": "jobs/by-company/深圳中科飞测科技股份.json",
+      "count": 5
+    },
+    {
+      "company": "神舟电脑",
+      "slug": "神舟电脑",
+      "file": "jobs/by-company/神舟电脑.json",
+      "count": 1
+    },
+    {
+      "company": "盛博国际贸易(江苏)有限公司",
+      "slug": "盛博国际贸易-江苏",
+      "file": "jobs/by-company/盛博国际贸易-江苏.json",
+      "count": 1
+    },
+    {
+      "company": "盛趣游戏",
+      "slug": "盛趣游戏",
+      "file": "jobs/by-company/盛趣游戏.json",
+      "count": 12
+    },
+    {
+      "company": "世源科技工程有限公司",
+      "slug": "世源科技工程",
+      "file": "jobs/by-company/世源科技工程.json",
+      "count": 1
+    },
+    {
+      "company": "首都信息发展股份有限公司",
+      "slug": "首都信息发展股份",
+      "file": "jobs/by-company/首都信息发展股份.json",
+      "count": 1
+    },
+    {
+      "company": "首都信息科技发展有限公司",
+      "slug": "首都信息科技发展",
+      "file": "jobs/by-company/首都信息科技发展.json",
+      "count": 1
+    },
+    {
+      "company": "首信云技术有限公司",
+      "slug": "首信云技术",
+      "file": "jobs/by-company/首信云技术.json",
+      "count": 1
+    },
+    {
+      "company": "水羊集团股份有限公司",
+      "slug": "水羊集团股份",
+      "file": "jobs/by-company/水羊集团股份.json",
+      "count": 11
+    },
+    {
+      "company": "水羊集团御泥坊",
+      "slug": "水羊集团御泥坊",
+      "file": "jobs/by-company/水羊集团御泥坊.json",
+      "count": 21
+    },
+    {
+      "company": "思必驰",
+      "slug": "思必驰",
+      "file": "jobs/by-company/思必驰.json",
+      "count": 2
+    },
+    {
+      "company": "思特奇",
+      "slug": "思特奇",
+      "file": "jobs/by-company/思特奇.json",
+      "count": 4
+    },
+    {
+      "company": "思源电气",
+      "slug": "思源电气",
+      "file": "jobs/by-company/思源电气.json",
+      "count": 3
+    },
+    {
+      "company": "四川远星橡胶有限责任公司",
+      "slug": "四川远星橡胶有限责任",
+      "file": "jobs/by-company/四川远星橡胶有限责任.json",
+      "count": 1
+    },
+    {
+      "company": "四三九九",
+      "slug": "四三九九",
+      "file": "jobs/by-company/四三九九.json",
+      "count": 1
+    },
+    {
+      "company": "松德刀具(浙江)股份有限公司",
+      "slug": "松德刀具-浙江-股份",
+      "file": "jobs/by-company/松德刀具-浙江-股份.json",
+      "count": 1
+    },
+    {
+      "company": "搜狐畅游",
+      "slug": "搜狐畅游",
+      "file": "jobs/by-company/搜狐畅游.json",
+      "count": 38
+    },
+    {
+      "company": "苏州德星云智能装备有限公司",
+      "slug": "苏州德星云智能装备",
+      "file": "jobs/by-company/苏州德星云智能装备.json",
+      "count": 1
+    },
+    {
+      "company": "苏州能讯高能半导体有限公司",
+      "slug": "苏州能讯高能半导体",
+      "file": "jobs/by-company/苏州能讯高能半导体.json",
+      "count": 3
+    },
+    {
+      "company": "苏州若晨自动化设备有限公司",
+      "slug": "苏州若晨自动化设备",
+      "file": "jobs/by-company/苏州若晨自动化设备.json",
+      "count": 1
+    },
+    {
+      "company": "苏州泰思特电子科技有限公司",
+      "slug": "苏州泰思特电子科技",
+      "file": "jobs/by-company/苏州泰思特电子科技.json",
+      "count": 1
+    },
+    {
+      "company": "苏州寻息科技股份有限公司",
+      "slug": "苏州寻息科技股份",
+      "file": "jobs/by-company/苏州寻息科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "苏州中材非金属矿工业设计研究院有限公司",
+      "slug": "苏州中材非金属矿工业设计研究院",
+      "file": "jobs/by-company/苏州中材非金属矿工业设计研究院.json",
+      "count": 1
+    },
+    {
+      "company": "拓邦股份",
+      "slug": "拓邦",
+      "file": "jobs/by-company/拓邦.json",
+      "count": 35
+    },
+    {
+      "company": "拓竹科技",
+      "slug": "拓竹科技",
+      "file": "jobs/by-company/拓竹科技.json",
+      "count": 103
+    },
+    {
+      "company": "太极计算机股份有限公司",
+      "slug": "太极计算机股份",
+      "file": "jobs/by-company/太极计算机股份.json",
+      "count": 1
+    },
+    {
+      "company": "泰格医药",
+      "slug": "泰格医药",
+      "file": "jobs/by-company/泰格医药.json",
+      "count": 3
+    },
+    {
+      "company": "泰康保险",
+      "slug": "泰康保险",
+      "file": "jobs/by-company/泰康保险.json",
+      "count": 377
+    },
+    {
+      "company": "泰康在线",
+      "slug": "泰康在线",
+      "file": "jobs/by-company/泰康在线.json",
+      "count": 6
+    },
+    {
+      "company": "泰康之家经营管理有限公司",
+      "slug": "泰康之家经营管理",
+      "file": "jobs/by-company/泰康之家经营管理.json",
+      "count": 3
+    },
+    {
+      "company": "探迹科技",
+      "slug": "探迹科技",
+      "file": "jobs/by-company/探迹科技.json",
+      "count": 1
+    },
+    {
+      "company": "唐山欣悦医药连锁有限公司",
+      "slug": "唐山欣悦医药连锁",
+      "file": "jobs/by-company/唐山欣悦医药连锁.json",
+      "count": 1
+    },
+    {
+      "company": "特朗思大宇宙",
+      "slug": "特朗思大宇宙",
+      "file": "jobs/by-company/特朗思大宇宙.json",
+      "count": 1
+    },
+    {
+      "company": "特斯拉中国",
+      "slug": "特斯拉中国",
+      "file": "jobs/by-company/特斯拉中国.json",
+      "count": 176
+    },
+    {
+      "company": "腾讯",
+      "slug": "腾讯",
+      "file": "jobs/by-company/腾讯.json",
+      "count": 106
+    },
+    {
+      "company": "天邦食品股份有限公司",
+      "slug": "天邦食品股份",
+      "file": "jobs/by-company/天邦食品股份.json",
+      "count": 1
+    },
+    {
+      "company": "天津阿科力国际贸易有限公司",
+      "slug": "天津阿科力国际贸易",
+      "file": "jobs/by-company/天津阿科力国际贸易.json",
+      "count": 1
+    },
+    {
+      "company": "天津霍元甲学校",
+      "slug": "天津霍元甲学校",
+      "file": "jobs/by-company/天津霍元甲学校.json",
+      "count": 1
+    },
+    {
+      "company": "天津朗誉机器人有限公司",
+      "slug": "天津朗誉机器人",
+      "file": "jobs/by-company/天津朗誉机器人.json",
+      "count": 1
+    },
+    {
+      "company": "天津市龙泰电力工程有限公司",
+      "slug": "天津市龙泰电力工程",
+      "file": "jobs/by-company/天津市龙泰电力工程.json",
+      "count": 1
+    },
+    {
+      "company": "天津众晶半导体材料有限公司",
+      "slug": "天津众晶半导体材料",
+      "file": "jobs/by-company/天津众晶半导体材料.json",
+      "count": 1
+    },
+    {
+      "company": "天职国际会计师事务所(特殊普通合伙)",
+      "slug": "天职国际会计师事务所-特殊普通合伙",
+      "file": "jobs/by-company/天职国际会计师事务所-特殊普通合伙.json",
+      "count": 2
+    },
+    {
+      "company": "通合科技",
+      "slug": "通合科技",
+      "file": "jobs/by-company/通合科技.json",
+      "count": 1
+    },
+    {
+      "company": "同方知网（北京）技术有限公司",
+      "slug": "同方知网-北京-技术",
+      "file": "jobs/by-company/同方知网-北京-技术.json",
+      "count": 1
+    },
+    {
+      "company": "图拉斯",
+      "slug": "图拉斯",
+      "file": "jobs/by-company/图拉斯.json",
+      "count": 14
+    },
+    {
+      "company": "途游游戏",
+      "slug": "途游游戏",
+      "file": "jobs/by-company/途游游戏.json",
+      "count": 1
+    },
+    {
+      "company": "佗道医疗科技有限公司",
+      "slug": "佗道医疗科技",
+      "file": "jobs/by-company/佗道医疗科技.json",
+      "count": 1
+    },
+    {
+      "company": "外语教学与研究出版社",
+      "slug": "外语教学与研究出版社",
+      "file": "jobs/by-company/外语教学与研究出版社.json",
+      "count": 3
+    },
+    {
+      "company": "完美世界",
+      "slug": "完美世界",
+      "file": "jobs/by-company/完美世界.json",
+      "count": 1
+    },
+    {
+      "company": "万达商业管理集团有限公司武汉分公司",
+      "slug": "万达商业管理集团有限公司武汉分",
+      "file": "jobs/by-company/万达商业管理集团有限公司武汉分.json",
+      "count": 1
+    },
+    {
+      "company": "万达信息",
+      "slug": "万达信息",
+      "file": "jobs/by-company/万达信息.json",
+      "count": 1
+    },
+    {
+      "company": "万国数据服务有限公司",
+      "slug": "万国数据服务",
+      "file": "jobs/by-company/万国数据服务.json",
+      "count": 6
+    },
+    {
+      "company": "万向集团",
+      "slug": "万向",
+      "file": "jobs/by-company/万向.json",
+      "count": 4
+    },
+    {
+      "company": "万兴科技",
+      "slug": "万兴科技",
+      "file": "jobs/by-company/万兴科技.json",
+      "count": 37
+    },
+    {
+      "company": "王老吉大健康",
+      "slug": "王老吉大健康",
+      "file": "jobs/by-company/王老吉大健康.json",
+      "count": 1
+    },
+    {
+      "company": "威讯联合半导体(北京)有限公司",
+      "slug": "威讯联合半导体-北京",
+      "file": "jobs/by-company/威讯联合半导体-北京.json",
+      "count": 2
+    },
+    {
+      "company": "微步在线",
+      "slug": "微步在线",
+      "file": "jobs/by-company/微步在线.json",
+      "count": 55
+    },
+    {
+      "company": "惟远能源技术股份有限公司",
+      "slug": "惟远能源技术股份",
+      "file": "jobs/by-company/惟远能源技术股份.json",
+      "count": 2
+    },
+    {
+      "company": "维港包装(广州)有限公司",
+      "slug": "维港包装-广州",
+      "file": "jobs/by-company/维港包装-广州.json",
+      "count": 1
+    },
+    {
+      "company": "维海德",
+      "slug": "维海德",
+      "file": "jobs/by-company/维海德.json",
+      "count": 5
+    },
+    {
+      "company": "位来小猎(宁波)信息技术有限公司",
+      "slug": "位来小猎-宁波-信息技术",
+      "file": "jobs/by-company/位来小猎-宁波-信息技术.json",
+      "count": 1
+    },
+    {
+      "company": "蔚来",
+      "slug": "蔚来",
+      "file": "jobs/by-company/蔚来.json",
+      "count": 454
+    },
+    {
+      "company": "文远知行",
+      "slug": "文远知行",
+      "file": "jobs/by-company/文远知行.json",
+      "count": 1
+    },
+    {
+      "company": "无锡中科光电技术有限公司",
+      "slug": "无锡中科光电技术",
+      "file": "jobs/by-company/无锡中科光电技术.json",
+      "count": 1
+    },
+    {
+      "company": "芜湖安得智联科技有限公司",
+      "slug": "芜湖安得智联科技",
+      "file": "jobs/by-company/芜湖安得智联科技.json",
+      "count": 1
+    },
+    {
+      "company": "武汉伯阳信息咨询有限公司",
+      "slug": "武汉伯阳信息咨询",
+      "file": "jobs/by-company/武汉伯阳信息咨询.json",
+      "count": 1
+    },
+    {
+      "company": "武汉顶津食品有限公司",
+      "slug": "武汉顶津食品",
+      "file": "jobs/by-company/武汉顶津食品.json",
+      "count": 1
+    },
+    {
+      "company": "武汉华康世纪洁净科技股份有限公司",
+      "slug": "武汉华康世纪洁净科技股份",
+      "file": "jobs/by-company/武汉华康世纪洁净科技股份.json",
+      "count": 3
+    },
+    {
+      "company": "武汉精测电子集团股份有限公司",
+      "slug": "武汉精测电子集团股份",
+      "file": "jobs/by-company/武汉精测电子集团股份.json",
+      "count": 1
+    },
+    {
+      "company": "武汉科诺生物",
+      "slug": "武汉科诺生物",
+      "file": "jobs/by-company/武汉科诺生物.json",
+      "count": 1
+    },
+    {
+      "company": "武汉启瑞药业",
+      "slug": "武汉启瑞药业",
+      "file": "jobs/by-company/武汉启瑞药业.json",
+      "count": 3
+    },
+    {
+      "company": "武汉起点人力资源股份有限公司",
+      "slug": "武汉起点人力资源股份",
+      "file": "jobs/by-company/武汉起点人力资源股份.json",
+      "count": 1
+    },
+    {
+      "company": "武汉屈臣氏广州分公司",
+      "slug": "武汉屈臣氏广州分",
+      "file": "jobs/by-company/武汉屈臣氏广州分.json",
+      "count": 1
+    },
+    {
+      "company": "武汉时代地智科技股份有限公司",
+      "slug": "武汉时代地智科技股份",
+      "file": "jobs/by-company/武汉时代地智科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "武汉市豪迈电力自动化技术有限责任公司",
+      "slug": "武汉市豪迈电力自动化技术有限责任",
+      "file": "jobs/by-company/武汉市豪迈电力自动化技术有限责任.json",
+      "count": 1
+    },
+    {
+      "company": "武汉市洪山区科翰培训学校",
+      "slug": "武汉市洪山区科翰培训学校",
+      "file": "jobs/by-company/武汉市洪山区科翰培训学校.json",
+      "count": 1
+    },
+    {
+      "company": "武汉市逍源信息科技有限公司",
+      "slug": "武汉市逍源信息科技",
+      "file": "jobs/by-company/武汉市逍源信息科技.json",
+      "count": 1
+    },
+    {
+      "company": "武汉招商局物业管理有限公司",
+      "slug": "武汉招商局物业管理",
+      "file": "jobs/by-company/武汉招商局物业管理.json",
+      "count": 1
+    },
+    {
+      "company": "西安海荣赛格电子市场有限公司",
+      "slug": "西安海荣赛格电子市场",
+      "file": "jobs/by-company/西安海荣赛格电子市场.json",
+      "count": 1
+    },
+    {
+      "company": "西安华为技术有限公司",
+      "slug": "西安华为技术",
+      "file": "jobs/by-company/西安华为技术.json",
+      "count": 3
+    },
+    {
+      "company": "西门子能源有限公司",
+      "slug": "西门子能源",
+      "file": "jobs/by-company/西门子能源.json",
+      "count": 1
+    },
+    {
+      "company": "西子清洁能源装备制造股份有限公司",
+      "slug": "西子清洁能源装备制造股份",
+      "file": "jobs/by-company/西子清洁能源装备制造股份.json",
+      "count": 1
+    },
+    {
+      "company": "悉地国际设计顾问(深圳)有限公司上海杨浦分公司",
+      "slug": "悉地国际设计顾问-深圳-有限公司上海杨浦分",
+      "file": "jobs/by-company/悉地国际设计顾问-深圳-有限公司上海杨浦分.json",
+      "count": 1
+    },
+    {
+      "company": "香雪制药",
+      "slug": "香雪制药",
+      "file": "jobs/by-company/香雪制药.json",
+      "count": 1
+    },
+    {
+      "company": "象道物流集团有限公司",
+      "slug": "象道物流集团",
+      "file": "jobs/by-company/象道物流集团.json",
+      "count": 1
+    },
+    {
+      "company": "象帝先计算技术(重庆)有限公司成都分公司",
+      "slug": "象帝先计算技术-重庆-有限公司成都分",
+      "file": "jobs/by-company/象帝先计算技术-重庆-有限公司成都分.json",
+      "count": 4
+    },
+    {
+      "company": "象屿地产集团有限公司",
+      "slug": "象屿地产集团",
+      "file": "jobs/by-company/象屿地产集团.json",
+      "count": 1
+    },
+    {
+      "company": "小红书",
+      "slug": "小红书",
+      "file": "jobs/by-company/小红书.json",
+      "count": 150
+    },
+    {
+      "company": "小华半导体有限公司",
+      "slug": "小华半导体",
+      "file": "jobs/by-company/小华半导体.json",
+      "count": 10
+    },
+    {
+      "company": "小米",
+      "slug": "小米",
+      "file": "jobs/by-company/小米.json",
+      "count": 755
+    },
+    {
+      "company": "小鹏汽车",
+      "slug": "小鹏汽车",
+      "file": "jobs/by-company/小鹏汽车.json",
+      "count": 428
+    },
+    {
+      "company": "携程集团",
+      "slug": "携程",
+      "file": "jobs/by-company/携程.json",
+      "count": 55
+    },
+    {
+      "company": "欣锐科技",
+      "slug": "欣锐科技",
+      "file": "jobs/by-company/欣锐科技.json",
+      "count": 21
+    },
+    {
+      "company": "新产业生物",
+      "slug": "新产业生物",
+      "file": "jobs/by-company/新产业生物.json",
+      "count": 19
+    },
+    {
+      "company": "新东方教育科技集团有限公司",
+      "slug": "新东方教育科技集团",
+      "file": "jobs/by-company/新东方教育科技集团.json",
+      "count": 14
+    },
+    {
+      "company": "新东方深圳学校",
+      "slug": "新东方深圳学校",
+      "file": "jobs/by-company/新东方深圳学校.json",
+      "count": 464
+    },
+    {
+      "company": "新华教育集团",
+      "slug": "新华教育",
+      "file": "jobs/by-company/新华教育.json",
+      "count": 1
+    },
+    {
+      "company": "新华三集团",
+      "slug": "新华三",
+      "file": "jobs/by-company/新华三.json",
+      "count": 79
+    },
+    {
+      "company": "新环境",
+      "slug": "新环境",
+      "file": "jobs/by-company/新环境.json",
+      "count": 1
+    },
+    {
+      "company": "新浪集团",
+      "slug": "新浪",
+      "file": "jobs/by-company/新浪.json",
+      "count": 19
+    },
+    {
+      "company": "新能安",
+      "slug": "新能安",
+      "file": "jobs/by-company/新能安.json",
+      "count": 68
+    },
+    {
+      "company": "新石器无人车",
+      "slug": "新石器无人车",
+      "file": "jobs/by-company/新石器无人车.json",
+      "count": 7
+    },
+    {
+      "company": "新芯股份",
+      "slug": "新芯",
+      "file": "jobs/by-company/新芯.json",
+      "count": 41
+    },
+    {
+      "company": "信立泰",
+      "slug": "信立泰",
+      "file": "jobs/by-company/信立泰.json",
+      "count": 1
+    },
+    {
+      "company": "信旅(上海)会展会务有限公司",
+      "slug": "信旅-上海-会展会务",
+      "file": "jobs/by-company/信旅-上海-会展会务.json",
+      "count": 1
+    },
+    {
+      "company": "星宸科技",
+      "slug": "星宸科技",
+      "file": "jobs/by-company/星宸科技.json",
+      "count": 1
+    },
+    {
+      "company": "星源材质",
+      "slug": "星源材质",
+      "file": "jobs/by-company/星源材质.json",
+      "count": 17
+    },
+    {
+      "company": "兴电国际",
+      "slug": "兴电国际",
+      "file": "jobs/by-company/兴电国际.json",
+      "count": 1
+    },
+    {
+      "company": "旭川化学(苏州)有限公司",
+      "slug": "旭川化学-苏州",
+      "file": "jobs/by-company/旭川化学-苏州.json",
+      "count": 1
+    },
+    {
+      "company": "旭东食品",
+      "slug": "旭东食品",
+      "file": "jobs/by-company/旭东食品.json",
+      "count": 1
+    },
+    {
+      "company": "扬腾创新",
+      "slug": "扬腾创新",
+      "file": "jobs/by-company/扬腾创新.json",
+      "count": 17
+    },
+    {
+      "company": "阳光保险集团",
+      "slug": "阳光保险",
+      "file": "jobs/by-company/阳光保险.json",
+      "count": 2
+    },
+    {
+      "company": "伊顿(中国)投资有限公司(EATON)",
+      "slug": "伊顿-中国-投资有限公司-eaton",
+      "file": "jobs/by-company/伊顿-中国-投资有限公司-eaton.json",
+      "count": 2
+    },
+    {
+      "company": "伊利",
+      "slug": "伊利",
+      "file": "jobs/by-company/伊利.json",
+      "count": 6
+    },
+    {
+      "company": "亿通国际",
+      "slug": "亿通国际",
+      "file": "jobs/by-company/亿通国际.json",
+      "count": 1
+    },
+    {
+      "company": "易思维",
+      "slug": "易思维",
+      "file": "jobs/by-company/易思维.json",
+      "count": 3
+    },
+    {
+      "company": "益阳万达广场商业管理有限公司",
+      "slug": "益阳万达广场商业管理",
+      "file": "jobs/by-company/益阳万达广场商业管理.json",
+      "count": 1
+    },
+    {
+      "company": "溢尔美(苏州)包装科技有限公司",
+      "slug": "溢尔美-苏州-包装科技",
+      "file": "jobs/by-company/溢尔美-苏州-包装科技.json",
+      "count": 1
+    },
+    {
+      "company": "银河航天",
+      "slug": "银河航天",
+      "file": "jobs/by-company/银河航天.json",
+      "count": 16
+    },
+    {
+      "company": "英创人才服务(上海)有限公司",
+      "slug": "英创人才服务-上海",
+      "file": "jobs/by-company/英创人才服务-上海.json",
+      "count": 3
+    },
+    {
+      "company": "英科医疗/英科再生",
+      "slug": "英科医疗-英科再生",
+      "file": "jobs/by-company/英科医疗-英科再生.json",
+      "count": 50
+    },
+    {
+      "company": "英雄游戏",
+      "slug": "英雄游戏",
+      "file": "jobs/by-company/英雄游戏.json",
+      "count": 1
+    },
+    {
+      "company": "影石Insta360",
+      "slug": "影石insta360",
+      "file": "jobs/by-company/影石insta360.json",
+      "count": 11
+    },
+    {
+      "company": "永安期货",
+      "slug": "永安期货",
+      "file": "jobs/by-company/永安期货.json",
+      "count": 1
+    },
+    {
+      "company": "优必选科技",
+      "slug": "优必选科技",
+      "file": "jobs/by-company/优必选科技.json",
+      "count": 71
+    },
+    {
+      "company": "优途人力资源(武汉)有限公司",
+      "slug": "优途人力资源-武汉",
+      "file": "jobs/by-company/优途人力资源-武汉.json",
+      "count": 1
+    },
+    {
+      "company": "优衣库",
+      "slug": "优衣库",
+      "file": "jobs/by-company/优衣库.json",
+      "count": 1
+    },
+    {
+      "company": "悠派才选(上海)人力资源有限公司",
+      "slug": "悠派才选-上海-人力资源",
+      "file": "jobs/by-company/悠派才选-上海-人力资源.json",
+      "count": 1
+    },
+    {
+      "company": "友达光电(昆山)有限公司",
+      "slug": "友达光电-昆山",
+      "file": "jobs/by-company/友达光电-昆山.json",
+      "count": 5
+    },
+    {
+      "company": "元气森林(北京)食品科技集团有限公司",
+      "slug": "元气森林-北京-食品科技集团",
+      "file": "jobs/by-company/元气森林-北京-食品科技集团.json",
+      "count": 4
+    },
+    {
+      "company": "张家港澳洋顺昌金属材料有限公司",
+      "slug": "张家港澳洋顺昌金属材料",
+      "file": "jobs/by-company/张家港澳洋顺昌金属材料.json",
+      "count": 1
+    },
+    {
+      "company": "长城电源技术有限公司",
+      "slug": "长城电源技术",
+      "file": "jobs/by-company/长城电源技术.json",
+      "count": 78
+    },
+    {
+      "company": "长沙麓山电子科技有限公司",
+      "slug": "长沙麓山电子科技",
+      "file": "jobs/by-company/长沙麓山电子科技.json",
+      "count": 1
+    },
+    {
+      "company": "长沙湘之辉医疗科技有限公司",
+      "slug": "长沙湘之辉医疗科技",
+      "file": "jobs/by-company/长沙湘之辉医疗科技.json",
+      "count": 1
+    },
+    {
+      "company": "招商证券股份有限公司广州番禺南华路证券营业部",
+      "slug": "招商证券股份有限公司广州番禺南华路证券营业部",
+      "file": "jobs/by-company/招商证券股份有限公司广州番禺南华路证券营业部.json",
+      "count": 1
+    },
+    {
+      "company": "兆易创新科技集团股份有限公司",
+      "slug": "兆易创新科技集团股份",
+      "file": "jobs/by-company/兆易创新科技集团股份.json",
+      "count": 12
+    },
+    {
+      "company": "浙江铖昌科技股份有限公司",
+      "slug": "浙江铖昌科技股份",
+      "file": "jobs/by-company/浙江铖昌科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "浙江江河建设有限公司",
+      "slug": "浙江江河建设",
+      "file": "jobs/by-company/浙江江河建设.json",
+      "count": 1
+    },
+    {
+      "company": "浙江江山变压器股份有限公司",
+      "slug": "浙江江山变压器股份",
+      "file": "jobs/by-company/浙江江山变压器股份.json",
+      "count": 1
+    },
+    {
+      "company": "浙江交工宏途交通建设有限公司",
+      "slug": "浙江交工宏途交通建设",
+      "file": "jobs/by-company/浙江交工宏途交通建设.json",
+      "count": 6
+    },
+    {
+      "company": "浙江交工路桥建设有限公司",
+      "slug": "浙江交工路桥建设",
+      "file": "jobs/by-company/浙江交工路桥建设.json",
+      "count": 4
+    },
+    {
+      "company": "浙江可胜技术股份有限公司",
+      "slug": "浙江可胜技术股份",
+      "file": "jobs/by-company/浙江可胜技术股份.json",
+      "count": 2
+    },
+    {
+      "company": "浙江民泰商业银行",
+      "slug": "浙江民泰商业银行",
+      "file": "jobs/by-company/浙江民泰商业银行.json",
+      "count": 1
+    },
+    {
+      "company": "浙江三建",
+      "slug": "浙江三建",
+      "file": "jobs/by-company/浙江三建.json",
+      "count": 3
+    },
+    {
+      "company": "浙江省天正设计工程有限公司",
+      "slug": "浙江省天正设计工程",
+      "file": "jobs/by-company/浙江省天正设计工程.json",
+      "count": 1
+    },
+    {
+      "company": "浙江浙大求是物业管理有限公司",
+      "slug": "浙江浙大求是物业管理",
+      "file": "jobs/by-company/浙江浙大求是物业管理.json",
+      "count": 1
+    },
+    {
+      "company": "甄尚(天津)文化传媒有限公司",
+      "slug": "甄尚-天津-文化传媒",
+      "file": "jobs/by-company/甄尚-天津-文化传媒.json",
+      "count": 1
+    },
+    {
+      "company": "正大侨商房地产开发有限公司",
+      "slug": "正大侨商房地产开发",
+      "file": "jobs/by-company/正大侨商房地产开发.json",
+      "count": 1
+    },
+    {
+      "company": "正丹股份",
+      "slug": "正丹",
+      "file": "jobs/by-company/正丹.json",
+      "count": 1
+    },
+    {
+      "company": "正浩创新EcoFlow",
+      "slug": "正浩创新ecoflow",
+      "file": "jobs/by-company/正浩创新ecoflow.json",
+      "count": 84
+    },
+    {
+      "company": "郑州绿业元农业科技有限公司",
+      "slug": "郑州绿业元农业科技",
+      "file": "jobs/by-company/郑州绿业元农业科技.json",
+      "count": 2
+    },
+    {
+      "company": "芷兰生态环境建设有限公司",
+      "slug": "芷兰生态环境建设",
+      "file": "jobs/by-company/芷兰生态环境建设.json",
+      "count": 1
+    },
+    {
+      "company": "致欧家居",
+      "slug": "致欧家居",
+      "file": "jobs/by-company/致欧家居.json",
+      "count": 24
+    },
+    {
+      "company": "智光电气",
+      "slug": "智光电气",
+      "file": "jobs/by-company/智光电气.json",
+      "count": 1
+    },
+    {
+      "company": "智联猎头",
+      "slug": "智联猎头",
+      "file": "jobs/by-company/智联猎头.json",
+      "count": 1
+    },
+    {
+      "company": "智谱AI",
+      "slug": "智谱ai",
+      "file": "jobs/by-company/智谱ai.json",
+      "count": 5
+    },
+    {
+      "company": "中安壹号消防科技(昆山)有限公司",
+      "slug": "中安壹号消防科技-昆山",
+      "file": "jobs/by-company/中安壹号消防科技-昆山.json",
+      "count": 1
+    },
+    {
+      "company": "中材锂膜(宁乡)有限公司",
+      "slug": "中材锂膜-宁乡",
+      "file": "jobs/by-company/中材锂膜-宁乡.json",
+      "count": 1
+    },
+    {
+      "company": "中车戚墅堰所",
+      "slug": "中车戚墅堰所",
+      "file": "jobs/by-company/中车戚墅堰所.json",
+      "count": 6
+    },
+    {
+      "company": "中船海丰航空科技有限公司",
+      "slug": "中船海丰航空科技",
+      "file": "jobs/by-company/中船海丰航空科技.json",
+      "count": 1
+    },
+    {
+      "company": "中地国际工程有限公司",
+      "slug": "中地国际工程",
+      "file": "jobs/by-company/中地国际工程.json",
+      "count": 5
+    },
+    {
+      "company": "中电科普天科技股份有限公司",
+      "slug": "中电科普天科技股份",
+      "file": "jobs/by-company/中电科普天科技股份.json",
+      "count": 2
+    },
+    {
+      "company": "中钢国际工程技术股份有限公司",
+      "slug": "中钢国际工程技术股份",
+      "file": "jobs/by-company/中钢国际工程技术股份.json",
+      "count": 1
+    },
+    {
+      "company": "中国大地财产保险股份有限公司",
+      "slug": "中国大地财产保险股份",
+      "file": "jobs/by-company/中国大地财产保险股份.json",
+      "count": 10
+    },
+    {
+      "company": "中国大地财产保险股份有限公司北京分公司",
+      "slug": "中国大地财产保险股份有限公司北京分",
+      "file": "jobs/by-company/中国大地财产保险股份有限公司北京分.json",
+      "count": 1
+    },
+    {
+      "company": "中国东方资产管理股份有限公司2027",
+      "slug": "中国东方资产管理股份有限公司2027",
+      "file": "jobs/by-company/中国东方资产管理股份有限公司2027.json",
+      "count": 27
+    },
+    {
+      "company": "中国二十二冶集团有限公司深圳分公司",
+      "slug": "中国二十二冶集团有限公司深圳分",
+      "file": "jobs/by-company/中国二十二冶集团有限公司深圳分.json",
+      "count": 1
+    },
+    {
+      "company": "中国钢研科技集团有限公司",
+      "slug": "中国钢研科技集团",
+      "file": "jobs/by-company/中国钢研科技集团.json",
+      "count": 2
+    },
+    {
+      "company": "中国化学工程第三建设有限公司",
+      "slug": "中国化学工程第三建设",
+      "file": "jobs/by-company/中国化学工程第三建设.json",
+      "count": 1
+    },
+    {
+      "company": "中国建筑第四工程局有限公司",
+      "slug": "中国建筑第四工程局",
+      "file": "jobs/by-company/中国建筑第四工程局.json",
+      "count": 1
+    },
+    {
+      "company": "中国科技产业投资管理有限公司",
+      "slug": "中国科技产业投资管理",
+      "file": "jobs/by-company/中国科技产业投资管理.json",
+      "count": 1
+    },
+    {
+      "company": "中国联合网络通信有限公司成都武侯区分公司",
+      "slug": "中国联合网络通信有限公司成都武侯区分",
+      "file": "jobs/by-company/中国联合网络通信有限公司成都武侯区分.json",
+      "count": 1
+    },
+    {
+      "company": "中国路桥",
+      "slug": "中国路桥",
+      "file": "jobs/by-company/中国路桥.json",
+      "count": 355
+    },
+    {
+      "company": "中国能源建设集团浙江火电建设有限公司",
+      "slug": "中国能源建设集团浙江火电建设",
+      "file": "jobs/by-company/中国能源建设集团浙江火电建设.json",
+      "count": 2
+    },
+    {
+      "company": "中国平安财产保险股份有限公司深圳分公司",
+      "slug": "中国平安财产保险股份有限公司深圳分",
+      "file": "jobs/by-company/中国平安财产保险股份有限公司深圳分.json",
+      "count": 1
+    },
+    {
+      "company": "中国平安人寿保险股份有限公司浙江分公司",
+      "slug": "中国平安人寿保险股份有限公司浙江分",
+      "file": "jobs/by-company/中国平安人寿保险股份有限公司浙江分.json",
+      "count": 3
+    },
+    {
+      "company": "中国汽研",
+      "slug": "中国汽研",
+      "file": "jobs/by-company/中国汽研.json",
+      "count": 2
+    },
+    {
+      "company": "中国人民保险集团",
+      "slug": "中国人民保险",
+      "file": "jobs/by-company/中国人民保险.json",
+      "count": 328
+    },
+    {
+      "company": "中国人民财产保险股份有限公司广州市分公司",
+      "slug": "中国人民财产保险股份有限公司广州市分",
+      "file": "jobs/by-company/中国人民财产保险股份有限公司广州市分.json",
+      "count": 2
+    },
+    {
+      "company": "中国人民人寿保险股份有限公司",
+      "slug": "中国人民人寿保险股份",
+      "file": "jobs/by-company/中国人民人寿保险股份.json",
+      "count": 9
+    },
+    {
+      "company": "中国人寿",
+      "slug": "中国人寿",
+      "file": "jobs/by-company/中国人寿.json",
+      "count": 533
+    },
+    {
+      "company": "中国人寿保险股份有限公司杭州市分公司",
+      "slug": "中国人寿保险股份有限公司杭州市分",
+      "file": "jobs/by-company/中国人寿保险股份有限公司杭州市分.json",
+      "count": 2
+    },
+    {
+      "company": "中国市政工程华北设计研究总院有限公司",
+      "slug": "中国市政工程华北设计研究总院",
+      "file": "jobs/by-company/中国市政工程华北设计研究总院.json",
+      "count": 1
+    },
+    {
+      "company": "中国市政工程西北设计研究院有限公司北京分公司",
+      "slug": "中国市政工程西北设计研究院有限公司北京分",
+      "file": "jobs/by-company/中国市政工程西北设计研究院有限公司北京分.json",
+      "count": 1
+    },
+    {
+      "company": "中国水利电力对外有限公司",
+      "slug": "中国水利电力对外",
+      "file": "jobs/by-company/中国水利电力对外.json",
+      "count": 2
+    },
+    {
+      "company": "中国太平保险集团",
+      "slug": "中国太平保险",
+      "file": "jobs/by-company/中国太平保险.json",
+      "count": 187
+    },
+    {
+      "company": "中国天楹股份有限公司",
+      "slug": "中国天楹股份",
+      "file": "jobs/by-company/中国天楹股份.json",
+      "count": 2
+    },
+    {
+      "company": "中国外运股份有限公司",
+      "slug": "中国外运股份",
+      "file": "jobs/by-company/中国外运股份.json",
+      "count": 2
+    },
+    {
+      "company": "中国一冶集团有限公司广东分公司",
+      "slug": "中国一冶集团有限公司广东分",
+      "file": "jobs/by-company/中国一冶集团有限公司广东分.json",
+      "count": 1
+    },
+    {
+      "company": "中国邮电器材集团有限公司广东分公司",
+      "slug": "中国邮电器材集团有限公司广东分",
+      "file": "jobs/by-company/中国邮电器材集团有限公司广东分.json",
+      "count": 1
+    },
+    {
+      "company": "中国有色金属建设股份有限公司",
+      "slug": "中国有色金属建设股份",
+      "file": "jobs/by-company/中国有色金属建设股份.json",
+      "count": 3
+    },
+    {
+      "company": "中国重型机械有限公司",
+      "slug": "中国重型机械",
+      "file": "jobs/by-company/中国重型机械.json",
+      "count": 2
+    },
+    {
+      "company": "中建八局南方分公司",
+      "slug": "中建八局南方分",
+      "file": "jobs/by-company/中建八局南方分.json",
+      "count": 1
+    },
+    {
+      "company": "中建环能科技股份有限公司",
+      "slug": "中建环能科技股份",
+      "file": "jobs/by-company/中建环能科技股份.json",
+      "count": 1
+    },
+    {
+      "company": "中建六局第八建设有限公司",
+      "slug": "中建六局第八建设",
+      "file": "jobs/by-company/中建六局第八建设.json",
+      "count": 1
+    },
+    {
+      "company": "中建三局集团建设发展有限公司",
+      "slug": "中建三局集团建设发展",
+      "file": "jobs/by-company/中建三局集团建设发展.json",
+      "count": 5
+    },
+    {
+      "company": "中建四局安装工程有限公司",
+      "slug": "中建四局安装工程",
+      "file": "jobs/by-company/中建四局安装工程.json",
+      "count": 2
+    },
+    {
+      "company": "中建四局建设投资有限公司",
+      "slug": "中建四局建设投资",
+      "file": "jobs/by-company/中建四局建设投资.json",
+      "count": 1
+    },
+    {
+      "company": "中建四局交通投资建设有限公司",
+      "slug": "中建四局交通投资建设",
+      "file": "jobs/by-company/中建四局交通投资建设.json",
+      "count": 1
+    },
+    {
+      "company": "中建新科建设发展有限公司",
+      "slug": "中建新科建设发展",
+      "file": "jobs/by-company/中建新科建设发展.json",
+      "count": 1
+    },
+    {
+      "company": "中交地产产业发展有限公司",
+      "slug": "中交地产产业发展",
+      "file": "jobs/by-company/中交地产产业发展.json",
+      "count": 1
+    },
+    {
+      "company": "中交二航局建筑工程有限公司",
+      "slug": "中交二航局建筑工程",
+      "file": "jobs/by-company/中交二航局建筑工程.json",
+      "count": 1
+    },
+    {
+      "company": "中交路桥建设有限公司华中分公司",
+      "slug": "中交路桥建设有限公司华中分",
+      "file": "jobs/by-company/中交路桥建设有限公司华中分.json",
+      "count": 6
+    },
+    {
+      "company": "中交综合规划设计院有限公司",
+      "slug": "中交综合规划设计院",
+      "file": "jobs/by-company/中交综合规划设计院.json",
+      "count": 1
+    },
+    {
+      "company": "中联国际工程管理有限公司",
+      "slug": "中联国际工程管理",
+      "file": "jobs/by-company/中联国际工程管理.json",
+      "count": 1
+    },
+    {
+      "company": "中联重科",
+      "slug": "中联重科",
+      "file": "jobs/by-company/中联重科.json",
+      "count": 1
+    },
+    {
+      "company": "中美联泰大都会人寿保险有限公司北京分公司",
+      "slug": "中美联泰大都会人寿保险有限公司北京分",
+      "file": "jobs/by-company/中美联泰大都会人寿保险有限公司北京分.json",
+      "count": 1
+    },
+    {
+      "company": "中微半导体设备股份有限公司",
+      "slug": "中微半导体设备股份",
+      "file": "jobs/by-company/中微半导体设备股份.json",
+      "count": 180
+    },
+    {
+      "company": "中芯国际集成电路制造(上海)有限公司",
+      "slug": "中芯国际集成电路制造-上海",
+      "file": "jobs/by-company/中芯国际集成电路制造-上海.json",
+      "count": 2
+    },
+    {
+      "company": "中信科移动",
+      "slug": "中信科移动",
+      "file": "jobs/by-company/中信科移动.json",
+      "count": 49
+    },
+    {
+      "company": "中兴通讯",
+      "slug": "中兴通讯",
+      "file": "jobs/by-company/中兴通讯.json",
+      "count": 59
+    },
+    {
+      "company": "中冶(上海)钢结构科技有限公司",
+      "slug": "中冶-上海-钢结构科技",
+      "file": "jobs/by-company/中冶-上海-钢结构科技.json",
+      "count": 1
+    },
+    {
+      "company": "中冶建筑研究总院有限公司",
+      "slug": "中冶建筑研究总院",
+      "file": "jobs/by-company/中冶建筑研究总院.json",
+      "count": 2
+    },
+    {
+      "company": "中证鹏元资信评估股份有限公司",
+      "slug": "中证鹏元资信评估股份",
+      "file": "jobs/by-company/中证鹏元资信评估股份.json",
+      "count": 1
+    },
+    {
+      "company": "中智经济技术合作股份有限公司",
+      "slug": "中智经济技术合作股份",
+      "file": "jobs/by-company/中智经济技术合作股份.json",
+      "count": 1
+    },
+    {
+      "company": "中资网络信息安全科技有限公司",
+      "slug": "中资网络信息安全科技",
+      "file": "jobs/by-company/中资网络信息安全科技.json",
+      "count": 3
+    },
+    {
+      "company": "仲利国际租赁",
+      "slug": "仲利国际租赁",
+      "file": "jobs/by-company/仲利国际租赁.json",
+      "count": 7
+    },
+    {
+      "company": "仲信国际融资租赁有限公司",
+      "slug": "仲信国际融资租赁",
+      "file": "jobs/by-company/仲信国际融资租赁.json",
+      "count": 1
+    },
+    {
+      "company": "众安保险",
+      "slug": "众安保险",
+      "file": "jobs/by-company/众安保险.json",
+      "count": 4
+    },
+    {
+      "company": "众业建设集团有限公司",
+      "slug": "众业建设集团",
+      "file": "jobs/by-company/众业建设集团.json",
+      "count": 1
+    },
+    {
+      "company": "洲明科技",
+      "slug": "洲明科技",
+      "file": "jobs/by-company/洲明科技.json",
+      "count": 25
+    },
+    {
+      "company": "追觅科技",
+      "slug": "追觅科技",
+      "file": "jobs/by-company/追觅科技.json",
+      "count": 34
+    },
+    {
+      "company": "卓邦环境",
+      "slug": "卓邦环境",
+      "file": "jobs/by-company/卓邦环境.json",
+      "count": 1
+    },
+    {
+      "company": "卓镭激光",
+      "slug": "卓镭激光",
+      "file": "jobs/by-company/卓镭激光.json",
+      "count": 2
+    },
+    {
+      "company": "卓越教育",
+      "slug": "卓越教育",
+      "file": "jobs/by-company/卓越教育.json",
+      "count": 1
+    },
+    {
+      "company": "字节跳动",
+      "slug": "字节跳动",
+      "file": "jobs/by-company/字节跳动.json",
+      "count": 240
+    },
+    {
+      "company": "字跳网络",
+      "slug": "字跳网络",
+      "file": "jobs/by-company/字跳网络.json",
+      "count": 1
+    },
+    {
+      "company": "Babycare",
+      "slug": "babycare",
+      "file": "jobs/by-company/babycare.json",
+      "count": 40
+    },
+    {
+      "company": "Decathlon",
+      "slug": "decathlon",
+      "file": "jobs/by-company/decathlon.json",
+      "count": 116
+    },
+    {
+      "company": "FUNPLUS",
+      "slug": "funplus",
+      "file": "jobs/by-company/funplus.json",
+      "count": 23
+    },
+    {
+      "company": "NVIDIA 英伟达",
+      "slug": "nvidia-英伟达",
+      "file": "jobs/by-company/nvidia-英伟达.json",
+      "count": 14
+    },
+    {
+      "company": "OPPO",
+      "slug": "oppo",
+      "file": "jobs/by-company/oppo.json",
+      "count": 117
+    },
+    {
+      "company": "SGS",
+      "slug": "sgs",
+      "file": "jobs/by-company/sgs.json",
+      "count": 9
+    },
+    {
+      "company": "SHEIN",
+      "slug": "shein",
+      "file": "jobs/by-company/shein.json",
+      "count": 47
+    },
+    {
+      "company": "Shopee",
+      "slug": "shopee",
+      "file": "jobs/by-company/shopee.json",
+      "count": 49
+    },
+    {
+      "company": "TCL华星光电",
+      "slug": "tcl华星光电",
+      "file": "jobs/by-company/tcl华星光电.json",
+      "count": 203
+    },
+    {
+      "company": "vivo",
+      "slug": "vivo",
+      "file": "jobs/by-company/vivo.json",
+      "count": 166
+    }
+  ]
+}
