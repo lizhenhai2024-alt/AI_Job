@@ -1,7 +1,7 @@
 {
   "company": "美团",
-  "count": 187,
-  "updatedAt": "2026-09-16T12:41:28.968Z",
+  "count": 188,
+  "updatedAt": "2026-09-16T14:12:37.871Z",
   "jobs": [
     {
       "id": "meituan-40620033afbf",
@@ -1106,35 +1106,6 @@
       "deadline": ""
     },
     {
-      "id": "meituan-ee7096db2ce0",
-      "company": "美团",
-      "title": "公共关系岗",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "美团官方校园招聘（应届生）岗位；职类：职能类。投递前请打开官方校招页确认最新状态。",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "lastVerified": "2026-08-17",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "meituan-25feb6a74c83",
       "company": "美团",
       "title": "法务岗",
@@ -1157,6 +1128,35 @@
       },
       "location": "北京",
       "JD": "美团官方校园招聘（应届生）岗位；职类：职能类。识别关键词：英语、数据分析。投递前请打开官方校招页确认最新状态。",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "lastVerified": "2026-08-17",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "meituan-ee7096db2ce0",
+      "company": "美团",
+      "title": "公共关系岗",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "美团官方校园招聘（应届生）岗位；职类：职能类。投递前请打开官方校招页确认最新状态。",
       "source": "美团官方2027校招官网",
       "officialURL": "https://zhaopin.meituan.com/web/campus",
       "lastVerified": "2026-08-17",
@@ -4267,35 +4267,6 @@
       "deadline": ""
     },
     {
-      "id": "meituan-49248f3020bc",
-      "company": "美团",
-      "title": "【LongCat大模型人才校招】基础模型 - 预训练",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "lastVerified": "2026-06-03",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "meituan-7c068e127e8f",
       "company": "美团",
       "title": "【LongCat大模型人才校招】基础模型 - 多模态",
@@ -4325,9 +4296,9 @@
       "deadline": ""
     },
     {
-      "id": "meituan-44155d374b08",
+      "id": "meituan-49248f3020bc",
       "company": "美团",
-      "title": "【LongCat大模型人才校招】大模型算法研究员-Search Agent方向",
+      "title": "【LongCat大模型人才校招】基础模型 - 预训练",
       "graduationYear": [
         "2027"
       ],
@@ -4383,9 +4354,67 @@
       "deadline": ""
     },
     {
+      "id": "meituan-44155d374b08",
+      "company": "美团",
+      "title": "【LongCat大模型人才校招】大模型算法研究员-Search Agent方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "lastVerified": "2026-06-03",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "meituan-e702375fb497",
       "company": "美团",
       "title": "【LongCat大模型人才校招】Agentic Coding算法研究员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "lastVerified": "2026-06-03",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "meituan-a2ef7d9b5207",
+      "company": "美团",
+      "title": "【LongCat大模型人才校招】基座评测与认知分析算法研究员-多模态与前沿交互研究",
       "graduationYear": [
         "2027"
       ],
@@ -4433,35 +4462,6 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "lastVerified": "2026-06-03",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "meituan-a2ef7d9b5207",
-      "company": "美团",
-      "title": "【LongCat大模型人才校招】基座评测与认知分析算法研究员-多模态与前沿交互研究",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
       "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
       "source": "美团官方2027校招官网",
       "officialURL": "https://zhaopin.meituan.com/web/campus",
@@ -4586,9 +4586,9 @@
       "deadline": ""
     },
     {
-      "id": "meituan-878dd93cdabf",
+      "id": "meituan-f589bdc92b7f",
       "company": "美团",
-      "title": "【LongCat大模型人才校招】语音大模型算法研究员",
+      "title": "【LongCat大模型人才校招】基础大模型 Post-training 算法研究员",
       "graduationYear": [
         "2027"
       ],
@@ -4618,6 +4618,35 @@
       "id": "meituan-aa696fba3436",
       "company": "美团",
       "title": "【LongCat大模型人才校招】大模型自进化与自动化研究智能体研究员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "lastVerified": "2026-06-03",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "meituan-878dd93cdabf",
+      "company": "美团",
+      "title": "【LongCat大模型人才校招】语音大模型算法研究员",
       "graduationYear": [
         "2027"
       ],
@@ -4905,35 +4934,6 @@
       "deadline": ""
     },
     {
-      "id": "meituan-a88992973f23",
-      "company": "美团",
-      "title": "【北斗】广告大模型算法工程师 -【大模型应用】",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "lastVerified": "2026-06-03",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "meituan-86198227a053",
       "company": "美团",
       "title": "【北斗】大模型广告系统算法工程师",
@@ -4955,6 +4955,35 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
+      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "lastVerified": "2026-06-03",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "meituan-a88992973f23",
+      "company": "美团",
+      "title": "【北斗】广告大模型算法工程师 -【大模型应用】",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
       "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
       "source": "美团官方2027校招官网",
       "officialURL": "https://zhaopin.meituan.com/web/campus",
@@ -5079,6 +5108,35 @@
       "deadline": ""
     },
     {
+      "id": "meituan-48c079949a26",
+      "company": "美团",
+      "title": "【北斗】大模型算法研究员（Agent/RL/推理）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "lastVerified": "2026-06-03",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "meituan-393a38822cb0",
       "company": "美团",
       "title": "【北斗】Agent 系统研发工程师",
@@ -5137,67 +5195,9 @@
       "deadline": ""
     },
     {
-      "id": "meituan-48c079949a26",
-      "company": "美团",
-      "title": "【北斗】大模型算法研究员（Agent/RL/推理）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "lastVerified": "2026-06-03",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "meituan-1e24737255d2",
       "company": "美团",
       "title": "【北斗】多模态大语言模型算法研究员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "lastVerified": "2026-06-03",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "meituan-3efb996e85bc",
-      "company": "美团",
-      "title": "【北斗】Agent构建算法研究员",
       "graduationYear": [
         "2027"
       ],
@@ -5253,9 +5253,9 @@
       "deadline": ""
     },
     {
-      "id": "meituan-520ed94da9c7",
+      "id": "meituan-3efb996e85bc",
       "company": "美团",
-      "title": "【北斗】数字人直播-Agent算法研究员",
+      "title": "【北斗】Agent构建算法研究员",
       "graduationYear": [
         "2027"
       ],
@@ -5285,6 +5285,35 @@
       "id": "meituan-80cb3abcd30a",
       "company": "美团",
       "title": "【北斗】多模态数字人算法研究员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "美团官方校园招聘（应届生）岗位；职类：技术类。投递前请打开官方校招页确认最新状态。",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "lastVerified": "2026-06-03",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "meituan-520ed94da9c7",
+      "company": "美团",
+      "title": "【北斗】数字人直播-Agent算法研究员",
       "graduationYear": [
         "2027"
       ],

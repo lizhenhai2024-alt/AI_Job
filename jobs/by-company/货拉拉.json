@@ -1,7 +1,7 @@
 {
   "company": "货拉拉",
-  "count": 36,
-  "updatedAt": "2026-09-16T12:41:28.968Z",
+  "count": 37,
+  "updatedAt": "2026-09-16T14:12:37.871Z",
   "jobs": [
     {
       "id": "moka-f463563a3eef",
@@ -579,6 +579,35 @@
       "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/28d4e2c1-652e-4499-ad5c-4488f89b370f",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-dee16d61c265",
+      "company": "货拉拉",
+      "title": "Java后端开发-大数据方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：SQL。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/huolalahr/98660#/job/d799ac1b-192b-4755-986d-3fef3e1286f7",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

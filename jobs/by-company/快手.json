@@ -1,7 +1,7 @@
 {
   "company": "快手",
   "count": 269,
-  "updatedAt": "2026-09-16T12:41:28.968Z",
+  "updatedAt": "2026-09-16T14:12:37.871Z",
   "jobs": [
     {
       "id": "kuaishou-12f8df8d0013",
@@ -1947,6 +1947,35 @@
       "deadline": ""
     },
     {
+      "id": "kuaishou-008fa5da84ce",
+      "company": "快手",
+      "title": "推荐算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "快手官方2027校园招聘岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=3b39da9ac54d40f3afaecca7644e23ff",
+      "lastVerified": "2026-08-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "kuaishou-f182b034cca3",
       "company": "快手",
       "title": "服务器运维工程师",
@@ -2145,35 +2174,6 @@
       "JD": "快手官方2027校园招聘岗位；识别关键词：数据分析。投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=57bd027d015244b288879586eac4c597",
-      "lastVerified": "2026-08-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "kuaishou-008fa5da84ce",
-      "company": "快手",
-      "title": "推荐算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "快手官方2027校园招聘岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=3b39da9ac54d40f3afaecca7644e23ff",
       "lastVerified": "2026-08-09",
       "sourceType": "official",
       "deadline": ""
@@ -4035,6 +4035,93 @@
       "deadline": ""
     },
     {
+      "id": "kuaishou-04cf123bde45",
+      "company": "快手",
+      "title": "音频/音乐AIGC算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=00ca3882e0ef4c88af3d221babd7108e",
+      "lastVerified": "2026-08-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "kuaishou-af7d939a11a7",
+      "company": "快手",
+      "title": "C++开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=d8300d4cfe1c497a8573b5603e00f24c",
+      "lastVerified": "2026-08-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "kuaishou-ce266c22a185",
+      "company": "快手",
+      "title": "大模型推理/训练引擎研发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=4302c2921c714c6b870a7f9f58312087",
+      "lastVerified": "2026-08-09",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "kuaishou-10f40055db42",
       "company": "快手",
       "title": "AI全栈开发工程师",
@@ -4291,35 +4378,6 @@
       "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=c90b586eff2742708e7cdab1d168eecd",
-      "lastVerified": "2026-08-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "kuaishou-af7d939a11a7",
-      "company": "快手",
-      "title": "C++开发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=d8300d4cfe1c497a8573b5603e00f24c",
       "lastVerified": "2026-08-09",
       "sourceType": "official",
       "deadline": ""
@@ -5108,35 +5166,6 @@
       "deadline": ""
     },
     {
-      "id": "kuaishou-04cf123bde45",
-      "company": "快手",
-      "title": "音频/音乐AIGC算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=00ca3882e0ef4c88af3d221babd7108e",
-      "lastVerified": "2026-08-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "kuaishou-f99c6bcd5753",
       "company": "快手",
       "title": "广告大模型算法工程师",
@@ -5335,35 +5364,6 @@
       "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=e5ede21fd6e546d4930bed8eb8c76d6c",
-      "lastVerified": "2026-08-09",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "kuaishou-ce266c22a185",
-      "company": "快手",
-      "title": "大模型推理/训练引擎研发工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=4302c2921c714c6b870a7f9f58312087",
       "lastVerified": "2026-08-09",
       "sourceType": "official",
       "deadline": ""
@@ -7312,35 +7312,6 @@
       "deadline": ""
     },
     {
-      "id": "kuaishou-6d8c3c8a684b",
-      "company": "快手",
-      "title": "【快Star】推荐大模型算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=a111c5cbb6654deda5b403a3faa0ff78",
-      "lastVerified": "2026-05-24",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "kuaishou-f27ea6c976da",
       "company": "快手",
       "title": "【快Star】推荐系统工程师",
@@ -7365,6 +7336,64 @@
       "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=234931940be0444498be22750ac1105d",
+      "lastVerified": "2026-05-24",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "kuaishou-24b908a0e747",
+      "company": "快手",
+      "title": "【快Star】广告算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=0601ae3e0f9f4d439d855652363a9aa6",
+      "lastVerified": "2026-05-24",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "kuaishou-6d8c3c8a684b",
+      "company": "快手",
+      "title": "【快Star】推荐大模型算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=a111c5cbb6654deda5b403a3faa0ff78",
       "lastVerified": "2026-05-24",
       "sourceType": "official",
       "deadline": ""
@@ -7423,35 +7452,6 @@
       "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=7c5b4d27825c4d038664ed2ba92810d4",
-      "lastVerified": "2026-05-24",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "kuaishou-24b908a0e747",
-      "company": "快手",
-      "title": "【快Star】广告算法工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "JD": "快手官方2027校园招聘岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=0601ae3e0f9f4d439d855652363a9aa6",
       "lastVerified": "2026-05-24",
       "sourceType": "official",
       "deadline": ""

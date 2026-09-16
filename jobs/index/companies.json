@@ -1,9 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T12:41:28.968Z",
-  "totalJobs": 12922,
-  "totalCompanies": 124,
+  "updatedAt": "2026-09-16T14:12:37.871Z",
+  "totalJobs": 12945,
+  "totalCompanies": 125,
   "companies": [
+    {
+      "company": "4399游戏",
+      "slug": "4399游戏",
+      "file": "jobs/by-company/4399游戏.json",
+      "count": 1
+    },
     {
       "company": "阿里巴巴",
       "slug": "阿里巴巴",
@@ -26,7 +32,7 @@
       "company": "奥克斯集团",
       "slug": "奥克斯",
       "file": "jobs/by-company/奥克斯.json",
-      "count": 65
+      "count": 67
     },
     {
       "company": "奥马冰箱",
@@ -158,7 +164,7 @@
       "company": "海信",
       "slug": "海信",
       "file": "jobs/by-company/海信.json",
-      "count": 450
+      "count": 451
     },
     {
       "company": "杭州宇树科技股份有限公司",
@@ -182,7 +188,7 @@
       "company": "货拉拉",
       "slug": "货拉拉",
       "file": "jobs/by-company/货拉拉.json",
-      "count": 36
+      "count": 37
     },
     {
       "company": "吉利汽车",
@@ -254,13 +260,13 @@
       "company": "绿盟科技",
       "slug": "绿盟科技",
       "file": "jobs/by-company/绿盟科技.json",
-      "count": 185
+      "count": 186
     },
     {
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 187
+      "count": 188
     },
     {
       "company": "蒙牛",
@@ -356,7 +362,7 @@
       "company": "赛轮轮胎",
       "slug": "赛轮轮胎",
       "file": "jobs/by-company/赛轮轮胎.json",
-      "count": 88
+      "count": 89
     },
     {
       "company": "三七互娱",
@@ -434,7 +440,7 @@
       "company": "泰康保险",
       "slug": "泰康保险",
       "file": "jobs/by-company/泰康保险.json",
-      "count": 377
+      "count": 381
     },
     {
       "company": "特斯拉中国",
@@ -476,13 +482,13 @@
       "company": "蔚来",
       "slug": "蔚来",
       "file": "jobs/by-company/蔚来.json",
-      "count": 455
+      "count": 459
     },
     {
       "company": "小红书",
       "slug": "小红书",
       "file": "jobs/by-company/小红书.json",
-      "count": 150
+      "count": 155
     },
     {
       "company": "小米",
@@ -650,7 +656,7 @@
       "company": "中国人民保险集团",
       "slug": "中国人民保险",
       "file": "jobs/by-company/中国人民保险.json",
-      "count": 328
+      "count": 329
     },
     {
       "company": "中国人寿",
@@ -662,7 +668,7 @@
       "company": "中国太平保险集团",
       "slug": "中国太平保险",
       "file": "jobs/by-company/中国太平保险.json",
-      "count": 187
+      "count": 188
     },
     {
       "company": "中微半导体设备股份有限公司",

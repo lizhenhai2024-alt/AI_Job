@@ -1,7 +1,7 @@
 {
   "company": "赛轮轮胎",
-  "count": 88,
-  "updatedAt": "2026-09-16T12:41:28.968Z",
+  "count": 89,
+  "updatedAt": "2026-09-16T14:12:37.871Z",
   "jobs": [
     {
       "id": "beisen-ccaee1161b20",
@@ -145,6 +145,35 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://sailuntire.zhiye.com/campus/detail?jobAdId=73238bf2-943a-49d9-b2ce-9031fd6f4b7e",
       "lastVerified": "2026-08-19",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a75043d4fa8e",
+      "company": "赛轮轮胎",
+      "title": "人力资源管理岗（东营工厂）(J16072)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·东营市",
+      "JD": "公司官方北森校招岗位；识别关键词：英语。投递前请打开官方职位页确认完整职责与截止日期。",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sailuntire.zhiye.com/campus/detail?jobAdId=80d351e0-9fa7-45ad-be81-9ea46a8c18ed",
+      "lastVerified": "2026-09-16",
       "sourceType": "official",
       "deadline": ""
     },
