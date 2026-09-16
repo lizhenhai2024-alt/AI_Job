@@ -24,6 +24,7 @@ on:
       - 'config/source-discovery.json'
       - 'config/company-requests.json'
       - 'scripts/enrich-jd-evidence.mjs'
+      - 'scripts/report-jd-evidence-coverage.mjs'
       - 'src/data/jd-evidence-cache.json'
       - 'package.json'
 
@@ -52,27 +53,28 @@ jobs:
       - name: Refresh jobs
         run: npm run refresh:jobs
         env:
-          # 管线第 4.5 步（enrich-jd-evidence）用这个 key 调 LLM 抽取 JD 事实。
-          # 未配置 secret 时求值为空字符串，该步骤自行跳过并返回 0，刷新不受影响。
+          # JD Evidence：Gemini Free Tier 多模型优先，DeepSeek 只做付费兜底。
+          # OpenCode Zen free 在 headless API 实测返回 MissingSessionID，当前不进入生产顺序。
+          OPENCODE_ZEN_API_KEY: ${{ secrets.OPENCODE_ZEN_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # 推荐 Secret 名 JD_EVIDENCE_API_KEY；同时兼容 DEEPSEEK_API_KEY。
           JD_EVIDENCE_API_KEY: ${{ secrets.JD_EVIDENCE_API_KEY }}
-          # 单轮调用上限 + 并发。实测 deepseek-flash + 关推理约 0.87s/条、¥0.0060/条，
-          # 1500 条 / 并发 4 ≈ 5.5 分钟（CI 超时 25 分钟），单轮花费约 ¥9。
-          # 回填完后每轮只处理新增/变更岗位（缓存按 JD 哈希跳过）。
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          JD_EVIDENCE_PROVIDER_ORDER: gemini-free,gemini-free-31,gemini-free-25,deepseek
+          # 单轮最多处理 1500 个待增强岗位。三个 Gemini 免费模型都失败时，
+          # DeepSeek 最多兜底 200 条，避免免费层故障时把整批流量切到付费 API。
           JD_EVIDENCE_MAX_CALLS: 1500
+          JD_EVIDENCE_PAID_MAX_CALLS: 200
           JD_EVIDENCE_CONCURRENCY: 4
-          # 默认只补"本仓库正则抽不到专业原文"的岗位（实测 37.9%）。
-          # 设为 0 会对所有有正文的岗位跑一遍，成本约 2.6 倍。
+          # 默认只补“本仓库正则抽不到专业原文”的岗位。
           JD_EVIDENCE_ONLY_WEAK: 1
-          # 换抽取模型只改这一行（见 scripts/job-discovery/llm-evidence.mjs 的 MODEL_PRESETS）
-          JD_EVIDENCE_PRESET: deepseek
-      # 未配置 secret 时上面那步会静默跳过（设计内的降级路径），于是「配了 LLM 增强
-      # 的管线」可以整月绿色通过却什么都没做。这里把覆盖率显式报告出来：
-      # 未启用 → ::warning::（不中断刷新）；已配置却零产出 → ::error::（真故障）。
-      # 只把「是否配置」这个布尔交给本步，密钥本身不进出。
       - name: Report JD evidence coverage
         run: node scripts/report-jd-evidence-coverage.mjs
         env:
-          JD_EVIDENCE_KEY_CONFIGURED: ${{ secrets.JD_EVIDENCE_API_KEY != '' }}
+          # 只传“是否配置”的布尔值，不把 Secret 交给统计步骤。
+          OPENCODE_ZEN_KEY_CONFIGURED: ${{ secrets.OPENCODE_ZEN_API_KEY != '' }}
+          GEMINI_KEY_CONFIGURED: ${{ secrets.GEMINI_API_KEY != '' }}
+          DEEPSEEK_KEY_CONFIGURED: ${{ secrets.JD_EVIDENCE_API_KEY != '' || secrets.DEEPSEEK_API_KEY != '' }}
       - name: Verify job intelligence enrichment
         run: node scripts/check-compensation.mjs
       - name: Rebuild source registry
@@ -86,8 +88,6 @@ jobs:
       - name: Commit refreshed job pool and source health
         shell: bash
         run: |
-          # jd-evidence-cache.json 是可选产物：未配置 LLM secret 时它可能根本不存在。
-          # 只把“当前存在”或“曾被 git 跟踪”的路径交给 git，避免 pathspec 直接终止整次刷新。
           TRACKED_PATHS=(
             src/data/live-jobs.js
             src/data/source-health.js
@@ -123,7 +123,7 @@ jobs:
             echo "main advanced while refresh was running:"
             echo "$changed_paths"
 
-            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|scripts/enrich-jd-evidence\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js|src/data/jd-evidence-cache\.json)$'; then
+            if echo "$changed_paths" | grep -Eq '^(.github/workflows/refresh-campus-jobs\.yml|scripts/job-discovery/|scripts/refresh-jobs\.mjs|scripts/refresh-jobs-scoped\.mjs|scripts/filter-official-live-jobs\.mjs|scripts/enrich-job-compensation\.mjs|scripts/enrich-jd-evidence\.mjs|scripts/report-jd-evidence-coverage\.mjs|src/core/compensation\.js|src/core/headcount\.js|config/search-profile\.json|config/official-sources\.json|config/university-sources\.json|config/source-discovery\.json|config/company-requests\.json|package\.json|src/data/live-jobs\.js|src/data/source-health\.js|src/data/jd-evidence-cache\.json)$'; then
               echo "Refresh inputs or generated data changed on newer main; skip stale data push."
               echo "A newer refresh run should own the next snapshot."
               exit 0

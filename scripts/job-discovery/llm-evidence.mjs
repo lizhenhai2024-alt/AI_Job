@@ -4,20 +4,10 @@
  * 契约 docs/job-intelligence-contract-v1.md §4：上游只定义事实，评价在下游算。
  * 本模块产出与 policy.mjs 的 extractJdEvidence 完全同形，下游 campus-job-board 无感。
  *
- * 三条设计约束（都写进了 validateEvidence）：
- *   1. 只能引用，不能断言 —— 专业/资格类字段必须是 JD 原文子串，不是原文的丢弃整份输出；
- *      职责类别是软过滤，闭集外的丢弃但不连累其余字段。
- *   2. 职责类别受闭集约束 —— 与 TECH_DUTY_LABELS / BUSINESS_DUTY_LABELS 同源，
- *      不引入第二份词表。
- *   3. 失败即降级 —— 任何异常都返回 null，由调用方回退到正则抽取，绝不让刷新管线挂掉。
- *
- * 当前供给方：DeepSeek 直连（见 MODEL_PRESETS）。实测事实（2026-09）：
- *   /models 返回 deepseek-flash 与 deepseek-v4-pro；base https://api.deepseek.com
- *   auth Bearer（JD_EVIDENCE_API_KEY）  只支持 response_format=json_object
- *   默认关推理（reasoning_effort:'none'），否则输出 token 多 42 倍、慢 21 倍
- *
- * 已弃用：OpenCode Zen 免费层要求其客户端 session ID，外部调用一律 400
- *   「OpenCode's free tier can only be used in OpenCode」——实测确认不可用。
+ * 三条设计约束：
+ *   1. 只能引用，不能断言 —— 专业/资格类字段必须是 JD 原文子串；职责类别受闭集约束。
+ *   2. Provider 只影响“从哪里抽”，不改变事实结构与校验标准。
+ *   3. 失败即降级 —— 单 Provider 失败返回 null，由调用方切下一个，最终回退正则。
  */
 
 import crypto from 'node:crypto';
@@ -27,51 +17,129 @@ export const DEFAULT_BASE_URL = 'https://api.deepseek.com';
 export const DEFAULT_MODEL = 'deepseek-flash';
 export const MAX_JD_CHARS = 6000;
 
+// GitHub Actions / headless 默认不再走 Zen free：2026-09 实测 mimo-v2.5-free
+// 通过通用 API 会返回 MissingSessionID / “free tier can only be used in OpenCode”。
+// 保留 zen-free 预设，供未来官方开放 headless free-tier 或显式调试时使用。
+// Gemini 使用同一个 GEMINI_API_KEY 串 3 个免费层稳定模型，遇到 503/限流自动切换。
+export const DEFAULT_PROVIDER_ORDER = ['gemini-free', 'gemini-free-31', 'gemini-free-25', 'deepseek'];
+
 /**
- * 预设。本模块与供给方无关：baseUrl / model / apiKey / extraBody 全部是调用参数。
- *
- * 换模型：extractWithLlm(job, { preset: 'deepseek', apiKey })。
- *
- * responseFormat 必须按端点能力给：
- *   - json_schema：结构化输出（OpenAI 及兼容端）
- *   - json_object：只保证返回合法 JSON。DeepSeek 只支持这个，
- *     且要求 prompt 里出现 "json" 字样（SYSTEM_PROMPT 结尾的「只返回 JSON。」满足）。
- * 给错的后果是整批 400 —— 实测过。所以宁可显式声明，也不猜。
- *
- * extraBody 里的 reasoning_effort:'none' 是关键的成本开关，实测（deepseek-flash，
- * 同一批 10 条岗位、同样 10/10 通过率）：
- *   关推理  874ms/条  输出  89 token  ¥0.0060/条
- *   带推理 18453ms/条  输出 3780 token  ¥0.0150/条
- * 即快 21 倍、便宜 2.5 倍。deepseek-flash 默认是推理模型，不显式关掉，
- * reasoning_tokens 会占输出 80–99%。
- * 注：reasoning_effort:'low' 仍会推理（只是略少），只有 'none' 真正关闭；
- * thinking:{type:'disabled'} 同样有效。
+ * 兼容旧调用方：MODEL_PRESETS 仍保留“单 Provider 时代”的 DeepSeek 预设集合。
  */
 export const MODEL_PRESETS = {
   deepseek: {
+    provider: 'deepseek',
+    costClass: 'paid',
     baseUrl: DEFAULT_BASE_URL,
     model: DEFAULT_MODEL,
     responseFormat: 'json_object',
+    timeoutMs: 20000,
     extraBody: { reasoning_effort: 'none' }
   }
+};
+
+/**
+ * 多 Provider 预设：
+ * - Zen free：保留但不进默认 headless 顺序；当前 free tier 需要 OpenCode session。
+ * - Gemini：官方 OpenAI compatibility；3.5/3.1/2.5 Flash-Lite 都有 Free Tier，
+ *   用同一 GEMINI_API_KEY 逐级兜底，优先高吞吐的 Flash-Lite。
+ * - DeepSeek：付费兜底，保持 reasoning_effort:none 控成本。
+ */
+export const PROVIDER_PRESETS = {
+  'zen-free': {
+    provider: 'opencode-zen',
+    costClass: 'free-model-opencode-session',
+    baseUrl: 'https://opencode.ai/zen/v1',
+    model: 'mimo-v2.5-free',
+    responseFormat: 'none',
+    timeoutMs: 12000,
+    extraBody: {}
+  },
+  'gemini-free': {
+    provider: 'google-gemini',
+    costClass: 'free-tier',
+    baseUrl: 'https://generativelanguage.googleapis.com/v1beta/openai',
+    model: 'gemini-3.5-flash-lite',
+    responseFormat: 'json_schema',
+    timeoutMs: 15000,
+    extraBody: {}
+  },
+  'gemini-free-31': {
+    provider: 'google-gemini',
+    costClass: 'free-tier',
+    baseUrl: 'https://generativelanguage.googleapis.com/v1beta/openai',
+    model: 'gemini-3.1-flash-lite',
+    responseFormat: 'json_schema',
+    timeoutMs: 15000,
+    extraBody: {}
+  },
+  'gemini-free-25': {
+    provider: 'google-gemini',
+    costClass: 'free-tier',
+    baseUrl: 'https://generativelanguage.googleapis.com/v1beta/openai',
+    model: 'gemini-2.5-flash-lite',
+    responseFormat: 'json_schema',
+    timeoutMs: 15000,
+    extraBody: {}
+  },
+  ...MODEL_PRESETS
+};
+
+export const PROVIDER_SECRET_ENV = {
+  'zen-free': 'OPENCODE_ZEN_API_KEY',
+  'gemini-free': 'GEMINI_API_KEY',
+  'gemini-free-31': 'GEMINI_API_KEY',
+  'gemini-free-25': 'GEMINI_API_KEY',
+  deepseek: 'JD_EVIDENCE_API_KEY'
 };
 
 export const DEFAULT_RESPONSE_FORMAT = 'json_object';
 
 export function resolvePreset(options = {}) {
-  const preset = options.preset ? MODEL_PRESETS[options.preset] : null;
+  const preset = options.preset ? PROVIDER_PRESETS[options.preset] : null;
   if (options.preset && !preset) throw new Error(`未知预设：${options.preset}`);
   return {
+    preset: options.preset || 'deepseek',
+    provider: options.provider || preset?.provider || 'deepseek',
+    costClass: options.costClass || preset?.costClass || 'paid',
     baseUrl: options.baseUrl || preset?.baseUrl || DEFAULT_BASE_URL,
     model: options.model || preset?.model || DEFAULT_MODEL,
     responseFormat: options.responseFormat || preset?.responseFormat || DEFAULT_RESPONSE_FORMAT,
+    timeoutMs: Number(options.timeoutMs || preset?.timeoutMs || 60000),
     extraBody: { ...(preset?.extraBody || {}), ...(options.extraBody || {}) }
   };
 }
 
+/** Provider 顺序只决定先尝试谁，不改变事实契约。 */
+export function resolveProviderOrder(env = process.env) {
+  const raw = String(env.JD_EVIDENCE_PROVIDER_ORDER || '').trim();
+  const requested = raw
+    ? raw.split(',').map((x) => x.trim()).filter(Boolean)
+    : (env.JD_EVIDENCE_PRESET ? [String(env.JD_EVIDENCE_PRESET).trim()] : DEFAULT_PROVIDER_ORDER);
+  const seen = new Set();
+  const order = [];
+  for (const name of requested) {
+    if (!PROVIDER_PRESETS[name] || seen.has(name)) continue;
+    seen.add(name);
+    order.push(name);
+  }
+  return order.length ? order : [...DEFAULT_PROVIDER_ORDER];
+}
+
+export function apiKeyForPreset(preset, env = process.env) {
+  if (preset === 'deepseek') return env.JD_EVIDENCE_API_KEY || env.DEEPSEEK_API_KEY || '';
+  const name = PROVIDER_SECRET_ENV[preset];
+  return name ? (env[name] || '') : '';
+}
+
+export function resolveProviderChain(env = process.env, { includeUnconfigured = false } = {}) {
+  return resolveProviderOrder(env)
+    .map((preset) => ({ preset, apiKey: apiKeyForPreset(preset, env), ...resolvePreset({ preset }) }))
+    .filter((item) => includeUnconfigured || Boolean(item.apiKey));
+}
+
 const EVIDENCE_KEYS = ['majorClauses', 'eligibilityClauses', 'technicalDuties', 'businessDuties'];
 
-/** 抽取指令。保持稳定（无时间戳/无每请求变量），便于端点侧前缀缓存命中。 */
 export const SYSTEM_PROMPT = `你是校招岗位 JD 的事实抽取器。只抽取 JD 里**明确写了**的内容，不做任何适配判断。
 
 规则：
@@ -101,14 +169,6 @@ function buildSchema() {
   };
 }
 
-/**
- * 送进模型、也用于引用校验的文本。
- *
- * 刻意**不含** job.description：在这个仓库里它始终是适配器生成的摘要
- * （「XX官方2027校园招聘岗位；识别关键词：Excel、数据分析」），不是 JD 原文。
- * 把它放进 prompt 会让 validateEvidence 的"必须是原文子串"形同虚设 ——
- * 模型可以合法地"引用"摘要里的话，而那不是岗位事实。
- */
 export function jobTextOf(job = {}) {
   return [job.title, job.jobDescription, job.jobRequirements]
     .filter(Boolean)
@@ -118,17 +178,12 @@ export function jobTextOf(job = {}) {
 
 const squash = (s) => String(s || '').replace(/\s+/g, '');
 
-/** JD 正文字数下限。低于此值的记录只有适配器摘要可读，抽取没有意义。 */
 export const MIN_JD_BODY_CHARS = 80;
 
 export function hasJdBody(job = {}, min = MIN_JD_BODY_CHARS) {
   return squash([job.jobDescription, job.jobRequirements].filter(Boolean).join('')).length >= min;
 }
 
-/**
- * 校验并规整模型输出。返回 null 表示这份输出不可用（调用方应降级）。
- * 关键：专业/资格类必须是 JD 原文子串；职责类必须落在闭集内。
- */
 export function validateEvidence(raw, jdText) {
   if (!raw || typeof raw !== 'object') return null;
   const haystack = squash(jdText);
@@ -142,16 +197,11 @@ export function validateEvidence(raw, jdText) {
     }
     return { values: [...new Set(out)] };
   };
-  // 职责标签是**软过滤**：闭集外的一律丢弃，但不作废整份输出。
-  // 实测 DeepSeek 在 json_object 模式下会把 JD 原文的职责短语（「FBA发货处理」
-  // 「商务谈判」）直接当标签返回，完全无视 prompt 里的闭集约束 —— 若按硬校验处理，
-  // 同一份输出里合法的专业/学历原文引用会被一起扔掉，成功率掉到 5/8。
   const inClosedSet = (value, allowed) => {
     const out = [];
     for (const item of Array.isArray(value) ? value : []) {
       const text = String(item || '').trim();
-      if (!text) continue;
-      if (!allowed.includes(text)) continue;
+      if (!text || !allowed.includes(text)) continue;
       out.push(text);
     }
     return { values: [...new Set(out)] };
@@ -175,16 +225,16 @@ export function validateEvidence(raw, jdText) {
 
 export function cacheKey(job = {}, model = '') {
   const digest = crypto.createHash('sha256').update(jobTextOf(job)).digest('hex').slice(0, 16);
-  // 带模型：换抽取模型后必须重抽，否则会复用另一个模型产出的证据。
   return `${job.id || '(no-id)'}:${digest}:${model}`;
 }
 
 function responseFormatBody(mode) {
+  if (!mode || mode === 'none') return null;
   if (mode === 'json_object') return { type: 'json_object' };
   return { type: 'json_schema', json_schema: buildSchema() };
 }
 
-async function callZen(job, options) {
+async function callCompatible(job, options) {
   const {
     apiKey, baseUrl = DEFAULT_BASE_URL, model = DEFAULT_MODEL,
     responseFormat = DEFAULT_RESPONSE_FORMAT,
@@ -194,26 +244,27 @@ async function callZen(job, options) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
-    const res = await fetchImpl(`${baseUrl}/chat/completions`, {
+    const format = responseFormatBody(responseFormat);
+    const body = {
+      model,
+      temperature: 0,
+      ...extraBody,
+      messages: [
+        { role: 'system', content: SYSTEM_PROMPT },
+        { role: 'user', content: jobTextOf(job) }
+      ]
+    };
+    if (format) body.response_format = format;
+
+    const res = await fetchImpl(`${String(baseUrl).replace(/\/$/, '')}/chat/completions`, {
       method: 'POST',
       headers: { 'content-type': 'application/json', authorization: `Bearer ${apiKey}` },
       signal: controller.signal,
-      body: JSON.stringify({
-        model,
-        temperature: 0,
-        response_format: responseFormatBody(responseFormat),
-        ...extraBody,
-        messages: [
-          { role: 'system', content: SYSTEM_PROMPT },
-          { role: 'user', content: jobTextOf(job) }
-        ]
-      })
+      body: JSON.stringify(body)
     });
     if (!res.ok) {
-      // 把响应体带回来：端点拒收 response_format 时报的是 400，
-      // 只说 "HTTP 400" 会让人完全看不出是格式不受支持。
       let detail = '';
-      try { detail = (await res.text()).slice(0, 200); } catch {}
+      try { detail = (await res.text()).slice(0, 300); } catch {}
       return { error: `HTTP ${res.status}${detail ? ` ${detail}` : ''}`, status: res.status, detail };
     }
     const payload = await res.json();
@@ -227,35 +278,31 @@ async function callZen(job, options) {
   }
 }
 
-/** 端点是否在拒绝 response_format（而非别的 400）。 */
 function looksLikeResponseFormatRejection(result) {
-  return result?.status === 400 && /response_format|json_schema|unavailable/i.test(result?.detail || '');
+  return result?.status === 400 && /response_format|json_schema|unavailable|structured output/i.test(result?.detail || '');
 }
 
-/**
- * 抽取一条岗位的 JD 事实。
- * 成功返回 { source:'llm', ... }；任何失败返回 null（调用方回退正则）。
- * 不抛异常。
- */
 export async function extractWithLlm(job = {}, options = {}) {
   const { apiKey, cache, onError, retries = 1 } = options;
   if (!apiKey) return null;
 
-  const { baseUrl, model, responseFormat, extraBody } = resolvePreset(options);
+  const { baseUrl, model, responseFormat, timeoutMs, extraBody } = resolvePreset(options);
   const key = cacheKey(job, model);
   const cached = cache?.get?.(key);
   if (cached) return cached;
 
   const jdText = jobTextOf(job);
-  if (!hasJdBody(job)) return null; // 只有适配器摘要，抽取没有意义
+  if (!hasJdBody(job)) return null;
 
-  // 格式回退：预设给错或端点变了，就在同一个 job 上退回 json_object 再试一次，
-  // 而不是把整批岗位都丢给正则。只在真的被拒时才多花一次调用。
-  const formats = responseFormat === 'json_object' ? ['json_object'] : ['json_schema', 'json_object'];
+  const formats = responseFormat === 'none'
+    ? ['none']
+    : (responseFormat === 'json_object' ? ['json_object'] : ['json_schema', 'json_object']);
 
   for (let attempt = 0; attempt <= retries; attempt += 1) {
     for (let i = 0; i < formats.length; i += 1) {
-      const result = await callZen(job, { ...options, baseUrl, model, extraBody, responseFormat: formats[i] });
+      const result = await callCompatible(job, {
+        ...options, baseUrl, model, timeoutMs, extraBody, responseFormat: formats[i]
+      });
       if (result.raw) {
         const evidence = validateEvidence(result.raw, jdText);
         if (evidence) {
@@ -263,7 +310,7 @@ export async function extractWithLlm(job = {}, options = {}) {
           return evidence;
         }
         onError?.(`校验未通过（第 ${attempt + 1} 次）`);
-        break; // 格式可用，是模型输出的问题 —— 换格式没用，交给下一次 attempt
+        break;
       }
       if (looksLikeResponseFormatRejection(result) && i < formats.length - 1) {
         onError?.(`${formats[i]} 不被支持，回退 ${formats[i + 1]}`);
@@ -276,7 +323,6 @@ export async function extractWithLlm(job = {}, options = {}) {
   return null;
 }
 
-/** 简易 JSON 文件缓存。调用方负责持久化，便于跨次刷新复用、避免重复计费。 */
 export function createFileCache(initial = {}) {
   const map = new Map(Object.entries(initial));
   return {
