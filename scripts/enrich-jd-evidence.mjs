@@ -14,7 +14,10 @@
  *   JD_EVIDENCE_MAX_CALLS        单轮最多处理的岗位数，默认 3000
  *   JD_EVIDENCE_PAID_MAX_CALLS   DeepSeek 等 paid Provider 单轮最多尝试数，默认 200
  *   JD_EVIDENCE_CONCURRENCY      并发，默认 4
- *   JD_EVIDENCE_ONLY_WEAK        默认 1，只补正则抽不到专业原文的岗位
+ *   JD_EVIDENCE_COMPLETE_ONLY    默认 1，只分析岗位说明+任职要求都完整的 JD
+ *   JD_EVIDENCE_MIN_SECTION_CHARS  单个职责/要求字段最少有效字符，默认 40
+ *   JD_EVIDENCE_MIN_TOTAL_CHARS    两字段合计最少有效字符，默认 120
+ *   JD_EVIDENCE_ONLY_WEAK        默认 0；0=完整 JD 全部做 AI 事实分析，1=只补弱证据
  *
  * 安全策略：
  *   - Provider 401/403/404：本轮立即熔断该 Provider，转下一个。
@@ -40,7 +43,20 @@ const REPORT_ONLY = process.argv.includes('--report');
 const MAX_CALLS = Math.max(0, Number(process.env.JD_EVIDENCE_MAX_CALLS || 3000));
 const PAID_MAX_CALLS = Math.max(0, Number(process.env.JD_EVIDENCE_PAID_MAX_CALLS || 200));
 const CONCURRENCY = Math.max(1, Number(process.env.JD_EVIDENCE_CONCURRENCY || 4));
-const ONLY_WEAK = process.env.JD_EVIDENCE_ONLY_WEAK !== '0';
+const COMPLETE_ONLY = process.env.JD_EVIDENCE_COMPLETE_ONLY !== '0';
+const MIN_SECTION_CHARS = Math.max(1, Number(process.env.JD_EVIDENCE_MIN_SECTION_CHARS || 40));
+const MIN_TOTAL_CHARS = Math.max(MIN_SECTION_CHARS * 2, Number(process.env.JD_EVIDENCE_MIN_TOTAL_CHARS || 120));
+const ONLY_WEAK = process.env.JD_EVIDENCE_ONLY_WEAK === '1';
+
+function contentLen(value) {
+  return String(value || '').replace(/\s+/g, '').length;
+}
+
+export function hasCompleteJdSections(job = {}) {
+  const desc = contentLen(job.jobDescription);
+  const req = contentLen(job.jobRequirements);
+  return desc >= MIN_SECTION_CHARS && req >= MIN_SECTION_CHARS && (desc + req) >= MIN_TOTAL_CHARS;
+}
 
 async function readJson(file, fallback) {
   try {
@@ -105,10 +121,14 @@ console.log(`[jd-evidence] provider-order=${allProviders.map((p) => p.preset).jo
 let restored = 0;
 const pending = [];
 let thin = 0;
+let incomplete = 0;
+let complete = 0;
 let strong = 0;
 let cached = 0;
 for (const job of jobs) {
   if (!hasJdBody(job)) { thin++; continue; }
+  if (COMPLETE_ONLY && !hasCompleteJdSections(job)) { incomplete++; continue; }
+  complete++;
 
   let cacheHit = null;
   let cacheProvider = null;
@@ -129,7 +149,7 @@ for (const job of jobs) {
   pending.push(job);
 }
 
-console.log(`[jd-evidence] jobs=${jobs.length} 太薄跳过=${thin} 正则已覆盖=${ONLY_WEAK ? strong : 0}(跳过) 缓存命中=${cached}(回灌=${restored}) 待抽=${pending.length}`);
+console.log(`[jd-evidence] jobs=${jobs.length} 完整JD=${complete} JD不完整跳过=${incomplete} 太薄跳过=${thin} 正则已覆盖=${ONLY_WEAK ? strong : 0}(跳过) 缓存命中=${cached}(回灌=${restored}) 待AI分析=${pending.length}`);
 
 if (REPORT_ONLY) {
   const willProcess = Math.min(pending.length, MAX_CALLS);

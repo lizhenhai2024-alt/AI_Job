@@ -41,6 +41,13 @@ const jobs = Array.isArray(liveModule.liveJobs) ? liveModule.liveJobs : [];
 let llm = 0;
 let regexOnly = 0;
 let noEvidence = 0;
+let completeJd = 0;
+let completeJdLlm = 0;
+const normLen = (v) => String(v || '').replace(/\s+/g, '').length;
+const isCompleteJd = (job) => {
+  const d = normLen(job.jobDescription), r = normLen(job.jobRequirements);
+  return d >= 40 && r >= 40 && d + r >= 120;
+};
 const providerCounts = { zen: 0, gemini: 0, deepseek: 0, legacy: 0, other: 0 };
 
 function providerBucket(source) {
@@ -53,8 +60,11 @@ function providerBucket(source) {
 }
 
 for (const job of jobs) {
+  const complete = isCompleteJd(job);
+  if (complete) completeJd++;
   if (isLlmEvidence(job.jdEvidence)) {
     llm++;
+    if (complete) completeJdLlm++;
     providerCounts[providerBucket(job.jdEvidence?.source)]++;
     continue;
   }
@@ -74,6 +84,8 @@ const lines = [
   '| 项 | 值 |',
   '| --- | --- |',
   `| 岗位总数 | ${jobs.length} |`,
+  `| 完整 JD（职责+要求） | ${completeJd} |`,
+  `| 完整 JD 已经 AI 分析 | ${completeJdLlm}（${completeJd ? ((completeJdLlm / completeJd) * 100).toFixed(1) : '0.0'}%） |`,
   `| LLM 抽取 | ${llm}（${pct.toFixed(1)}%） |`,
   `| 仅正则 | ${regexOnly} |`,
   `| 无任何证据 | ${noEvidence} |`,
