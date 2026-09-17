@@ -17,6 +17,9 @@ const byUniversityDir = path.join(root, 'jobs', 'by-university');
 export const ELITE_SEGMENTS = ['985', '211', '双一流'];
 export const SPECIALTY_SEGMENTS = ['外语外贸特色高校'];
 
+const GENERIC_RECRUITMENT_TITLE_RX = /校园招聘|校招|秋招|春招|招聘简章|招聘公告|招聘信息|招聘启事|招聘计划|招聘启动|招聘正式启动|宣讲会|空中宣讲|招聘专场/i;
+const CONCRETE_ROLE_TITLE_RX = /运营|市场|营销|品牌|内容|用户|销售|商务|BD|客户成功|项目|PMO|GTM|产品|采购|物流|供应链|人力|HRBP|招聘|翻译|本地化|管培|管理培训|经理|专员|顾问|助理|分析师|工程师/i;
+
 function envInt(name, fallback) {
   const value = Number(process.env[name] || fallback);
   return Number.isFinite(value) && value > 0 ? Math.floor(value) : fallback;
@@ -33,6 +36,33 @@ export function universityPoolType(source = {}) {
     elite: intersects(segments, ELITE_SEGMENTS),
     specialty: intersects(segments, SPECIALTY_SEGMENTS),
   };
+}
+
+export function classifyUniversityRecord(job = {}) {
+  const title = String(job.title || '').trim();
+  if (job.granularityStatus === 'needs_official_resolution') {
+    return {
+      recordType: 'merged_posting',
+      decisionEligible: false,
+      decisionHoldReason: '多岗位合并记录，需拆分到具体岗位后再进入自动决策',
+    };
+  }
+  if (GENERIC_RECRUITMENT_TITLE_RX.test(title)) {
+    const stripped = title
+      .replace(/20\d{2}\s*届|27\s*届/gi, ' ')
+      .replace(GENERIC_RECRUITMENT_TITLE_RX, ' ')
+      .replace(/[【】\[\]（）()｜|·—\-_:：]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (!CONCRETE_ROLE_TITLE_RX.test(stripped)) {
+      return {
+        recordType: 'recruitment_brief',
+        decisionEligible: false,
+        decisionHoldReason: '高校就业网招聘简章/公司级公告，不把整页多岗位内容当成一个岗位评分',
+      };
+    }
+  }
+  return { recordType: 'job', decisionEligible: true, decisionHoldReason: '' };
 }
 
 export function selectUniversityPoolSources(config = {}, {
@@ -57,14 +87,12 @@ export function selectUniversityPoolSources(config = {}, {
   return [...selected.values()];
 }
 
-function decorateUniversityQueryJob(job = {}) {
+function decorateUniversityQueryJob(job = {}, classification = classifyUniversityRecord(job)) {
   const source = job.universitySource || {};
   const segments = Array.isArray(source.segments) ? source.segments : [];
   const type = universityPoolType(source);
   const query = toQueryJob({
     ...job,
-    // 高校详情页通常是一整份招聘简章；把原始页面正文作为独立池的 JD 事实，
-    // 避免 generic description 把真实岗位内容覆盖掉。
     jobDescription: job._searchText || job.jobDescription || job.description || '',
   });
   return {
@@ -86,6 +114,9 @@ function decorateUniversityQueryJob(job = {}) {
     universitySegments: segments,
     universityElite: type.elite,
     universitySpecialty: type.specialty,
+    universityRecordType: classification.recordType,
+    decisionEligible: classification.decisionEligible,
+    decisionHoldReason: classification.decisionHoldReason,
   };
 }
 
@@ -136,17 +167,27 @@ export async function buildUniversityPool({
     maxSchools: sources.length,
   });
 
-  const curated = curateDiscoveredJobs(scan.jobs || [])
-    .filter((job) => !job.excludeFromLiveBoard)
-    .filter((job) => !isOutOfScopeProfessionalRole(job));
-  const jobs = dedupeQueryJobs(curated.map(decorateUniversityQueryJob));
-  const eliteJobs = jobs.filter((job) => job.universityElite);
-  const specialtyJobs = jobs.filter((job) => job.universitySpecialty);
+  const curated = curateDiscoveredJobs(scan.jobs || []).filter((job) => !job.excludeFromLiveBoard);
+  const decorated = [];
+  for (const job of curated) {
+    const classification = classifyUniversityRecord(job);
+    // 具体岗位才应用专业岗排除。公司级招聘简章保留作来源证据，避免因为其中某个
+    // 技术/财务岗位的专业要求把整份简章（以及其中可能存在的英语岗位）直接删掉。
+    if (classification.decisionEligible && isOutOfScopeProfessionalRole(job)) continue;
+    decorated.push(decorateUniversityQueryJob(job, classification));
+  }
+  const jobs = dedupeQueryJobs(decorated);
+  const decisionJobs = jobs.filter((job) => job.decisionEligible);
+  const briefs = jobs.filter((job) => !job.decisionEligible);
+  const eliteJobs = decisionJobs.filter((job) => job.universityElite);
+  const specialtyJobs = decisionJobs.filter((job) => job.universitySpecialty);
 
   return {
     sources,
     stats: scan.stats || {},
     jobs,
+    decisionJobs,
+    briefs,
     eliteJobs,
     specialtyJobs,
   };
@@ -165,12 +206,17 @@ async function writeOutputs(result, updatedAt) {
   );
   await fs.writeFile(
     path.join(indexDir, 'university-elite-jobs.json'),
-    `${JSON.stringify(payload(result.eliteJobs, updatedAt, '985-211-double-first-class', schoolNames), null, 2)}\n`,
+    `${JSON.stringify(payload(result.eliteJobs, updatedAt, '985-211-double-first-class-decision-eligible', schoolNames), null, 2)}\n`,
     'utf8',
   );
   await fs.writeFile(
     path.join(indexDir, 'university-specialty-jobs.json'),
-    `${JSON.stringify(payload(result.specialtyJobs, updatedAt, 'language-business-specialty', schoolNames), null, 2)}\n`,
+    `${JSON.stringify(payload(result.specialtyJobs, updatedAt, 'language-business-specialty-decision-eligible', schoolNames), null, 2)}\n`,
+    'utf8',
+  );
+  await fs.writeFile(
+    path.join(indexDir, 'university-briefs.json'),
+    `${JSON.stringify(payload(result.briefs, updatedAt, 'held-recruitment-briefs', schoolNames), null, 2)}\n`,
     'utf8',
   );
 
@@ -184,6 +230,7 @@ async function writeOutputs(result, updatedAt) {
   for (const [school, schoolJobs] of [...bySchool.entries()].sort((a, b) => a[0].localeCompare(b[0], 'zh-CN'))) {
     const slug = slugifyCompany(school);
     const file = `${slug}.json`;
+    const decisionCount = schoolJobs.filter((job) => job.decisionEligible).length;
     const body = {
       schemaVersion: 1,
       updatedAt,
@@ -191,10 +238,19 @@ async function writeOutputs(result, updatedAt) {
       school,
       segments: schoolJobs[0]?.universitySegments || [],
       totalJobs: schoolJobs.length,
+      decisionEligibleJobs: decisionCount,
+      heldBriefs: schoolJobs.length - decisionCount,
       jobs: schoolJobs,
     };
     await fs.writeFile(path.join(byUniversityDir, file), `${JSON.stringify(body, null, 2)}\n`, 'utf8');
-    manifest.push({ school, segments: body.segments, count: body.totalJobs, file: `jobs/by-university/${file}` });
+    manifest.push({
+      school,
+      segments: body.segments,
+      count: body.totalJobs,
+      decisionEligibleJobs: body.decisionEligibleJobs,
+      heldBriefs: body.heldBriefs,
+      file: `jobs/by-university/${file}`,
+    });
   }
   await fs.writeFile(
     path.join(indexDir, 'universities.json'),
@@ -218,7 +274,7 @@ async function main() {
   });
   const updatedAt = new Date().toISOString();
   await writeOutputs(result, updatedAt);
-  console.log(`[university-pool] schools=${result.sources.length} jobs=${result.jobs.length} elite=${result.eliteJobs.length} specialty=${result.specialtyJobs.length} listed=${result.stats.listed || 0} errors=${result.stats.errors || 0}`);
+  console.log(`[university-pool] schools=${result.sources.length} records=${result.jobs.length} decisionEligible=${result.decisionJobs.length} heldBriefs=${result.briefs.length} elite=${result.eliteJobs.length} specialty=${result.specialtyJobs.length} listed=${result.stats.listed || 0} errors=${result.stats.errors || 0}`);
 }
 
 const invokedAsScript = process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
