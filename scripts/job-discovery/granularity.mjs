@@ -1,5 +1,6 @@
 // Normalize scraped campus-recruitment records to the concrete job granularity verified from official sources.
 const ROLE_WORDS = /运营|销售|跟单|采购|物流|市场|营销|财务|会计|人力|招聘|计划|供应链|客服|商务|项目|产品|品牌|管培|经理|专员|工程师|管理/;
+const CONCRETE_TITLE_ROLE_RX = /运营|销售|跟单|采购|物流|市场|营销|财务|会计|人力|计划|供应链|客服|商务|项目|产品|品牌|管培|经理|专员|工程师/;
 const MAJOR_WORDS = /外语|国贸|国际经济与贸易|英语|翻译|小语种|机械|材料|经管|工商管理|市场营销|专业|学科|类/;
 const COHORT_WORDS = /20\d{2}\s*届|校招|应届/;
 const FUYAO_COMPANY = /福耀(?:集团|玻璃)?|福耀玻璃工业集团/;
@@ -50,7 +51,8 @@ export function isBundledRecruitmentBrief(job = {}) {
   const title = String(job.title || '').trim();
   if (!title || !GENERIC_CAMPAIGN_RX.test(title)) return false;
   // A title that already names a concrete role (e.g. “海外运营校园招聘”) is not a generic bundle.
-  if (ROLE_WORDS.test(title)) return false;
+  // Generic words such as “招聘/校园招聘” must never satisfy this condition by themselves.
+  if (CONCRETE_TITLE_ROLE_RX.test(title)) return false;
   const text = String(job._searchText || job.jobDescription || job.description || '');
   if (!/(?:岗位名称|招聘岗位|岗位职责|教育背景要求|岗位要求)/.test(text)) return false;
   return structuredRoleNames(job).length >= 2;
