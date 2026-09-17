@@ -2,120 +2,12 @@
   "schemaVersion": 1,
   "updatedAt": "2026-09-17T06:50:45.562Z",
   "sourcePool": "university-employment",
-  "pool": "language-business-specialty",
-  "scannedSchools": [
-    "北京外国语大学",
-    "对外经济贸易大学",
-    "上海外国语大学",
-    "南开大学",
-    "湖南大学",
-    "北京大学",
-    "复旦大学",
-    "华中科技大学",
-    "南京大学",
-    "清华大学",
-    "厦门大学",
-    "上海交通大学",
-    "武汉大学",
-    "浙江大学",
-    "中国人民大学",
-    "中山大学",
-    "重庆大学",
-    "哈尔滨工业大学",
-    "山东大学",
-    "四川大学",
-    "西安交通大学",
-    "上海财经大学",
-    "西南财经大学",
-    "中南财经政法大学",
-    "中央财经大学",
-    "北京航空航天大学",
-    "北京理工大学",
-    "东南大学",
-    "广东外语外贸大学",
-    "上海对外经贸大学",
-    "北京语言大学",
-    "北京第二外国语学院",
-    "四川外国语大学",
-    "西安外国语大学",
-    "天津外国语大学",
-    "大连外国语大学"
+  "school": "西安外国语大学",
+  "segments": [
+    "外语外贸特色高校"
   ],
-  "totalJobs": 2,
+  "totalJobs": 1,
   "jobs": [
-    {
-      "id": "university-63933d6036651f",
-      "company": "深圳菲亚兰德科技集团股份有限公司",
-      "title": "菲亚兰德集团2027届校园招聘",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "菲亚兰德集团2027届校园招聘\n菲亚兰德集团2027届校园招聘 \n -->\n 登录 \n 退出 \n 进入功能区 \n 安全退出 \n 学生 \n 雇主 \n 教师 \n 校友 \n 首页 \n 学生服务\n 招聘会 \n 招聘信息 \n 实习信息 \n 创业信息 \n 就业手续 \n 常见问题 \n 职业测评 \n 国际组织实习专栏 \n 下载中心 \n 在线咨询 \n 用人单位\n 注册账号 \n 发布信息 \n 使用手册 \n 预约宣讲会 \n 报名双选会 \n 生源信息 \n 联系方式\n 就业中心 \n 各部院系 \n 新闻公告\n 通知公告 \n 招聘会\n 留学生就业 \n 当前位置：\n 首页 >\n 学生服务 >\n 招聘信息 \n 菲亚兰德集团2027届校园招聘\n 发布时间：2026-09-04 \n 浏览次数： \n 单位名称： 深圳菲亚兰德科技集团股份有限公司\n 单位所在地： 广东省深圳市南山区\n 接收简历邮箱： Campus@fairlandgroup.com\n 特别提示： 同学们在应聘时，如遇到用人单位“收取押金、扣押证件、收取任何费用”等不规范招聘的情况，请立刻提高警惕，加强防范意识，并将该情况告知就业指导中心或学院就业专任教师。\n 单位简介\n-->\n 服务指南\n 工作时间：上午8:00-11:30 下午2:00-5:00（节假日除外）\n 毕业生办理就业手续可先查看“毕业生常见问题”了解相关信息\n 用人单位进行企业用户注册或发布招聘信息均需提供营业执照副本\n 联系我们\n 地址：北京市海淀区学院路15号北京语言大学综合楼B1126室\n 电话： \n 邮箱：jiuye@blcu.edu.cn\n 微信公众号\n COPYRIGHT © 2014-2018 北京语言大学-就业创业信息网 All Rights Reserved.",
-      "jobRequirements": "",
-      "JD": "菲亚兰德集团2027届校园招聘\n菲亚兰德集团2027届校园招聘 \n -->\n 登录 \n 退出 \n 进入功能区 \n 安全退出 \n 学生 \n 雇主 \n 教师 \n 校友 \n 首页 \n 学生服务\n 招聘会 \n 招聘信息 \n 实习信息 \n 创业信息 \n 就业手续 \n 常见问题 \n 职业测评 \n 国际组织实习专栏 \n 下载中心 \n 在线咨询 \n 用人单位\n 注册账号 \n 发布信息 \n 使用手册 \n 预约宣讲会 \n 报名双选会 \n 生源信息 \n 联系方式\n 就业中心 \n 各部院系 \n 新闻公告\n 通知公告 \n 招聘会\n 留学生就业 \n 当前位置：\n 首页 >\n 学生服务 >\n 招聘信息 \n 菲亚兰德集团2027届校园招聘\n 发布时间：2026-09-04 \n 浏览次数： \n 单位名称： 深圳菲亚兰德科技集团股份有限公司\n 单位所在地： 广东省深圳市南山区\n 接收简历邮箱： Campus@fairlandgroup.com\n 特别提示： 同学们在应聘时，如遇到用人单位“收取押金、扣押证件、收取任何费用”等不规范招聘的情况，请立刻提高警惕，加强防范意识，并将该情况告知就业指导中心或学院就业专任教师。\n 单位简介\n-->\n 服务指南\n 工作时间：上午8:00-11:30 下午2:00-5:00（节假日除外）\n 毕业生办理就业手续可先查看“毕业生常见问题”了解相关信息\n 用人单位进行企业用户注册或发布招聘信息均需提供营业执照副本\n 联系我们\n 地址：北京市海淀区学院路15号北京语言大学综合楼B1126室\n 电话： \n 邮箱：jiuye@blcu.edu.cn\n 微信公众号\n COPYRIGHT © 2014-2018 北京语言大学-就业创业信息网 All Rights Reserved.",
-      "jdEvidence": {},
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-09-04",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2095799503121203202",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "北京语言大学就业信息网",
-          "url": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2095799503121203202"
-        },
-        {
-          "label": "北京语言大学招聘列表",
-          "url": "https://jobs.blcu.edu.cn/"
-        }
-      ],
-      "universitySource": {
-        "school": "北京语言大学",
-        "segments": [
-          "外语外贸特色高校"
-        ],
-        "priority": 114
-      },
-      "universitySchool": "北京语言大学",
-      "universitySegments": [
-        "外语外贸特色高校"
-      ],
-      "universityElite": false,
-      "universitySpecialty": true
-    },
     {
       "id": "university-c1540f647014bf",
       "company": "国际关系学院举办",
