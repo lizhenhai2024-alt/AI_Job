@@ -19,7 +19,7 @@ export function isTrustedUniversityOfficialBacked(job = {}) {
     && Boolean(job?.universitySource?.school);
 }
 
-const PROFESSIONAL_TITLE_RX = /(?:软件|算法|前端|后端|客户端|服务端|全栈|嵌入式|固件|芯片|集成电路|IC|硬件|电子|电气|机械|结构|工艺|材料|仿真|CAE|控制|自动化|机器人|测试开发|研发工程师|开发工程师|技术工程师|运维工程师|网络工程师|安全工程师|数据库工程师|数据科学家|机器学习|深度学习|计算机视觉|NLP|自然语言|土木|建筑设计|化学研发|生物研发|医学|临床|药学|财务|会计|审计|税务|出纳|司库|资金管理|投融资|投资分析|证券|基金|精算|法务|律师|法律顾问|知识产权)(?:工程师|专员|顾问|分析师|经理|管培生|岗|方向)?|(?:software|algorithm|firmware|embedded|hardware|electrical|mechanical|structural|process|materials?|simulation|developer|engineer|machine learning|data scientist|accounting|accountant|audit|auditor|tax|treasury|investment analyst|actuarial|legal counsel|lawyer)\b/i;
+const PROFESSIONAL_TITLE_RX = /(?:软件|算法|前端|后端|客户端|服务端|全栈|嵌入式|固件|芯片|集成电路|IC|硬件|电子|电气|机械|结构|工艺|材料|仿真|CAE|控制|自动化|机器人|测试开发|测试工程师|研发工程师|开发工程师|技术工程师|数据工程师|产品工程师|质量工程师|制造工程师|工业工程师|设备工程师|NPI工程师|IE工程师|供应商质量工程师|解决方案工程师|售前技术|技术支持工程师|运维工程师|网络工程师|安全工程师|数据库工程师|数据科学家|机器学习|深度学习|计算机视觉|NLP|自然语言|土木|建筑设计|化学研发|生物研发|医学|临床|药学|财务|会计|审计|税务|出纳|司库|资金管理|成本会计|成本管理|财务BP|投融资|投资分析|证券|基金|量化|精算|法务|律师|法律顾问|合规专员|知识产权)(?:工程师|专员|顾问|分析师|经理|管培生|岗|方向)?|(?:software|algorithm|firmware|embedded|hardware|electrical|mechanical|structural|process|materials?|simulation|developer|engineer|machine learning|data scientist|accounting|accountant|audit|auditor|tax|treasury|investment analyst|actuarial|legal counsel|lawyer)\b/i;
 
 const PROFESSIONAL_MAJOR_RX = /(?:计算机|软件工程|人工智能|电子|通信|机械|自动化|电气|微电子|集成电路|材料|能源|动力|土木|建筑|化学|生物|医学|药学|临床|会计|财务管理|审计|税务|金融学|精算|法学|法律).{0,14}(?:专业|专业背景|学科|方向|背景)/i;
 const CANDIDATE_FRIENDLY_MAJOR_RX = /专业不限|不限专业|英语|外语|语言类|翻译|新闻|传播|广告|市场营销|国际商务|国际贸易|国贸|管理类|工商管理|人文|社科/i;
@@ -55,11 +55,15 @@ export function isOutOfScopeProfessionalRole(job = {}) {
   return hasHardOutOfScopeProfessionalMajor(job);
 }
 
+function hasTrustedProductionSource(job = {}) {
+  return job?.sourceType === 'official' || isTrustedUniversityOfficialBacked(job);
+}
+
 export function keepProductionJobs(jobs = []) {
   return (jobs || []).filter((job) => {
     if (isCategoryHeadingCompany(job?.company)) return false;
     if (isOutOfScopeProfessionalRole(job)) return false;
-    return job?.sourceType === 'official' || isTrustedUniversityOfficialBacked(job);
+    return hasTrustedProductionSource(job);
   });
 }
 
@@ -74,12 +78,11 @@ function asModule(jobs, meta) {
 async function main() {
   const mod = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
   const original = Array.isArray(mod.liveJobs) ? mod.liveJobs : [];
-  const excludedProfessional = original.filter(isOutOfScopeProfessionalRole).length;
   const kept = keepProductionJobs(original);
+  const excludedProfessional = original.filter((job) => !isCategoryHeadingCompany(job?.company) && isOutOfScopeProfessionalRole(job)).length;
+  const excludedOther = original.filter((job) => isCategoryHeadingCompany(job?.company) || (!isOutOfScopeProfessionalRole(job) && !hasTrustedProductionSource(job))).length;
   const officialCount = kept.filter((job) => job?.sourceType === 'official').length;
   const universityBacked = kept.filter(isTrustedUniversityOfficialBacked).length;
-  const excluded = original.length - kept.length;
-  const excludedOther = Math.max(0, excluded - excludedProfessional);
   const companies = new Set(kept.map((job) => job.company).filter(Boolean));
   const existingMeta = mod.discoveryMeta || {};
   const meta = {
