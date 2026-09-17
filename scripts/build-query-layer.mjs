@@ -1,12 +1,60 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
+import { companyRecruitment } from '../src/data/company-recruitment.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const livePath = path.join(root, 'src/data/live-jobs.js');
 const outRoot = path.join(root, 'jobs');
 const companyDir = path.join(outRoot, 'by-company');
 const indexDir = path.join(outRoot, 'index');
+
+// 公司校招招聘流程/笔试测评情报（src/data/company-recruitment.js，90家，检索日期2026-09-17）。
+// Query Layer 把公司级情报合并进每家公司的每个岗位，供 CareerPilot / campus-job-board 等下游消费。
+function normalizeCompanyKey(value = '') {
+  const head = String(value || '').split(/[（(]/)[0].trim();
+  return head.toLowerCase().normalize('NFKC')
+    .replace(/(?:股份有限公司|有限责任公司|股份|有限|集团|公司|控股)$/g, '')
+    .replace(/\s+/g, '');
+}
+
+// 个别公司名在查询层与研究名不一致时的显式映射：查询层名（归一化后）-> 研究名（归一化后）。
+const COMPANY_ALIASES = new Map([['4399游戏', '4399']]);
+
+const recruitmentByCompany = new Map();
+for (const item of companyRecruitment || []) {
+  if (!item?.company) continue;
+  recruitmentByCompany.set(normalizeCompanyKey(item.company), item);
+}
+for (const [alias, target] of COMPANY_ALIASES) {
+  const item = recruitmentByCompany.get(target);
+  if (item) recruitmentByCompany.set(alias, item);
+}
+
+function formatSource(source) {
+  if (!source) return '';
+  return [source.level, source.name, source.url, source.retrievalDate].filter(Boolean).join(' | ');
+}
+
+// 笔试/测评短值契约：'有' / '无' / '待核实'；未调研到则留空（下游显示「未披露」）。
+function normalizeAssessment(text = '') {
+  const t = String(text || '').trim();
+  if (!t) return '';
+  if (/^有/.test(t)) return '有';
+  if (/^无/.test(t)) return '无';
+  if (/待核实|待确认/.test(t)) return '待核实';
+  return t.slice(0, 20);
+}
+
+function applyCompanyRecruitment(queryJob) {
+  const item = recruitmentByCompany.get(normalizeCompanyKey(queryJob.company));
+  if (!item) return;
+  if (item.recruitmentProcess) queryJob.recruitmentProcess = String(item.recruitmentProcess);
+  if (item.processSource) queryJob.recruitmentProcessEvidence = formatSource(item.processSource);
+  const assessment = normalizeAssessment(item.writtenTest);
+  if (assessment) queryJob.hasAssessment = assessment;
+  if (item.testSource) queryJob.hasAssessmentEvidence = formatSource(item.testSource);
+}
 
 export function slugifyCompany(value = '') {
   return String(value).trim().toLowerCase()
@@ -197,6 +245,7 @@ export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString
     if (!job?.company || !job?.title || isCategoryHeadingCompany(job.company)) continue;
     const key = String(job.company).trim();
     const queryJob = toQueryJob(job);
+    applyCompanyRecruitment(queryJob);
     queryJobs.push(queryJob);
     if (!byCompany.has(key)) byCompany.set(key, []);
     byCompany.get(key).push(queryJob);
