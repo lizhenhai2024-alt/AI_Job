@@ -44,30 +44,35 @@ jobs:
           UNIVERSITY_SPECIALTY_MAX_SCHOOLS: 12
           UNIVERSITY_MAX_LINKS_PER_SCHOOL: 16
           UNIVERSITY_POOL_CONCURRENCY: 5
-      - name: Verify source labels
+      - name: Verify source labels and granularity gate
         shell: bash
         run: |
           set -euo pipefail
-          for f in jobs/index/university-jobs.json jobs/index/university-elite-jobs.json jobs/index/university-specialty-jobs.json jobs/index/universities.json; do
+          for f in jobs/index/university-jobs.json jobs/index/university-elite-jobs.json jobs/index/university-specialty-jobs.json jobs/index/university-briefs.json jobs/index/universities.json; do
             test -s "$f"
           done
           node - <<'NODE'
           const fs=require('fs');
           const all=JSON.parse(fs.readFileSync('jobs/index/university-jobs.json','utf8'));
           const elite=JSON.parse(fs.readFileSync('jobs/index/university-elite-jobs.json','utf8'));
+          const specialty=JSON.parse(fs.readFileSync('jobs/index/university-specialty-jobs.json','utf8'));
+          const briefs=JSON.parse(fs.readFileSync('jobs/index/university-briefs.json','utf8'));
           if(all.schemaVersion!==1 || !Array.isArray(all.jobs) || all.totalJobs!==all.jobs.length) throw new Error('invalid university pool');
           for(const [i,j] of all.jobs.entries()) {
             if(j.sourceChannel!=='university' || j.sourcePool!=='university-employment') throw new Error(`missing university source marker @${i}`);
             if(!j.universitySchool || !Array.isArray(j.universitySegments)) throw new Error(`missing university identity @${i}`);
+            if(typeof j.decisionEligible!=='boolean' || !j.universityRecordType) throw new Error(`missing university granularity marker @${i}`);
           }
-          if(elite.jobs.some(j=>!j.universityElite)) throw new Error('elite pool contains non-elite source');
-          console.log(`university-pool jobs=${all.totalJobs} elite=${elite.totalJobs}`);
+          if(elite.jobs.some(j=>!j.universityElite || !j.decisionEligible)) throw new Error('elite pool contains non-eligible/non-elite record');
+          if(specialty.jobs.some(j=>!j.universitySpecialty || !j.decisionEligible)) throw new Error('specialty pool contains non-eligible/non-specialty record');
+          if(briefs.jobs.some(j=>j.decisionEligible)) throw new Error('held briefs leaked into decision pool');
+          console.log(`university-pool records=${all.totalJobs} elite=${elite.totalJobs} specialty=${specialty.totalJobs} heldBriefs=${briefs.totalJobs}`);
           NODE
       - name: Commit refreshed university pool
         shell: bash
         run: |
           set -euo pipefail
-          git add jobs/index/university-jobs.json jobs/index/university-elite-jobs.json jobs/index/university-specialty-jobs.json jobs/index/universities.json jobs/by-university || true
+          git add jobs/index/university-jobs.json jobs/index/university-elite-jobs.json jobs/index/university-specialty-jobs.json jobs/index/university-briefs.json jobs/index/universities.json jobs/by-university || true
           if git diff --cached --quiet; then
             echo 'No university pool changes'
             exit 0
