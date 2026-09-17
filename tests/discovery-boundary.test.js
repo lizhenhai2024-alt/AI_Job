@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import { shouldKeep } from '../scripts/job-discovery/core.mjs';
+import { keepProductionJobs } from '../scripts/filter-official-live-jobs.mjs';
 
 const profile = { graduationYear: '2027', roleKeywords: ['运营'], keywords: ['英语'], targetCities: ['深圳'], strongExclude: ['软件工程师', '销售经理'], minRelevanceScore: 99 };
 const now = new Date('2026-09-16T00:00:00Z');
@@ -12,10 +13,26 @@ async function source(path) {
 
 test('discovery gate keeps active formal 2027 roles regardless of candidate fit', () => {
   assert.equal(shouldKeep({ graduationYear: '2027', title: '软件工程师', city: '北京' }, profile, now), true);
+  assert.equal(shouldKeep({ graduationYear: '2027', title: '算法工程师', city: '上海', requirement: '计算机相关专业' }, profile, now), true);
+  assert.equal(shouldKeep({ graduationYear: '2027', title: '财务分析', city: '深圳', requirement: '会计、财务相关专业' }, profile, now), true);
+  assert.equal(shouldKeep({ graduationYear: '2027', title: '审计助理', city: '广州', requirement: '审计或会计相关专业' }, profile, now), true);
   assert.equal(shouldKeep({ graduationYear: '2027', title: '销售经理', city: '成都' }, profile, now), true);
   assert.equal(shouldKeep({ graduationYear: '2026', title: '海外运营' }, profile, now), false);
   assert.equal(shouldKeep({ graduationYear: '2027', title: '海外运营实习生' }, profile, now), false);
   assert.equal(shouldKeep({ graduationYear: '2027', title: '海外运营', deadline: '2026-09-01' }, profile, now), false);
+});
+
+test('production source policy is company-official first, university-backed supplement, not university-only', () => {
+  const rows = keepProductionJobs([
+    { company: 'A', title: '官方岗位', graduationYear: '2027', sourceType: 'official' },
+    {
+      company: 'B', title: '高校桥接岗位', graduationYear: '2027', sourceType: 'secondary',
+      sourceChannel: 'university', officialCareerUrl: 'https://careers.example.com',
+      universitySource: { school: '示例大学' }
+    },
+    { company: 'C', title: '普通二手岗位', graduationYear: '2027', sourceType: 'secondary', sourceChannel: 'platform' }
+  ]);
+  assert.deepEqual(rows.map((x) => x.company), ['A', 'B']);
 });
 
 test('production refresh extracts job facts but never candidate-fit verdicts', async () => {
