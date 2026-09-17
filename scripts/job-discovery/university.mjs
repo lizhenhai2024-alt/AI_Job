@@ -133,8 +133,21 @@ function deadlineFromText(text = '') {
   return '';
 }
 
-function cityFromText(text = '') {
-  return CITY_NAMES.find((city) => String(text).includes(city)) || '待核';
+export function cityFromUniversityText(text = '') {
+  const raw = String(text || '');
+  const explicitPatterns = [
+    /(?:工作地点|工作地|工作城市|招聘地点|岗位地点|办公地点|工作地址|单位所在地|单位地址)[:：]?\s*([^\n。；;]{2,100})/gi,
+  ];
+  for (const rx of explicitPatterns) {
+    for (const match of raw.matchAll(rx)) {
+      const field = String(match[1] || '');
+      const city = CITY_NAMES.find((name) => field.includes(name));
+      if (city) return city;
+    }
+  }
+  // University pages often end with the school's own address. Never let that footer override employer facts.
+  const primary = raw.split(/\n(?:联系我们|服务指南|COPYRIGHT|版权所有)(?:\n|\s|$)/i)[0].slice(0, 12000);
+  return CITY_NAMES.find((city) => primary.includes(city)) || '待核';
 }
 
 function languageFromText(text = '') {
@@ -158,7 +171,7 @@ export function parseUniversityJobPage({ html, url, source, now = new Date() }) 
     company,
     title: heading,
     roleFamily,
-    city: cityFromText(cohortText),
+    city: cityFromUniversityText(cohortText),
     graduationYear: is2027(cohortText) ? '2027' : '',
     skills,
     languages: languageFromText(cohortText),
