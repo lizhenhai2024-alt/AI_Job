@@ -62,15 +62,24 @@ try {
     }
   }
 
-  // 4) 生产池保留公司官方岗位；高校记录只有在“明确2027 + 明确公司官网投递入口”时才受控保留。
+  // 4) 第一遍快速生产过滤：先剔除不可信来源和标题即可确定的明显专业岗，减少后续富化调用量。
   if (exitCode === 0) {
     exitCode = await runScript('scripts/filter-official-live-jobs.mjs');
   }
-  // 4.5) JD 事实富化（可选）：没有 JD_EVIDENCE_API_KEY 时该脚本自己跳过并返回 0。
-  //      放在 filter 之后（只为存活岗位调用）、compensation 之前（让后者保持最后写入者）。
+
+  // 5) JD 事实富化（可选）：补充 majorClauses / eligibilityClauses 等结构化原文证据。
   if (exitCode === 0) {
     exitCode = await runScript('scripts/enrich-jd-evidence.mjs');
   }
+
+  // 6) 富化后必须再跑一次最终范围过滤。
+  //    这样“项目管理工程师：理工科背景，化学/材料/汽车/机械等专业优先”这类
+  //    标题看似通用、但 JD 含硬性专业门槛的岗位不会因为首轮信息不完整而漏进生产池。
+  if (exitCode === 0) {
+    exitCode = await runScript('scripts/filter-official-live-jobs.mjs');
+  }
+
+  // 7) 薪资/HC/发布日期等事实富化保持最后写入，确保统计针对最终存活岗位池。
   if (exitCode === 0) {
     exitCode = await runScript('scripts/enrich-job-compensation.mjs');
   }

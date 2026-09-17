@@ -92,9 +92,18 @@ function normalizeMajor(job) {
     ? job.jdEvidence.majorClauses.filter(Boolean).join('；')
     : '';
   const raw = String(job.major ?? job.majors ?? job.majorRequirement ?? evidence ?? '').trim();
-  const open = /专业不限|不限专业|不限学科|专业不作限制/.test(raw);
-  const preferred = /(?:专业|专业背景|学科|方向).{0,18}(?:优先|优先考虑)|(?:优先|优先考虑)\s*$/.test(raw);
-  return { raw, hardRestriction: Boolean(raw && !open && !preferred) };
+  const openRx = /专业不限|不限专业|不限学科|专业不作限制|无专业限制|不限制专业/;
+  const preferredRx = /优先|优先考虑|加分|更佳|者佳|preferred|prefer/i;
+  const majorContextRx = /专业|专业背景|学科|方向|背景|理工科|理工类|工科|工科类|理科|STEM/;
+  const clauses = raw.split(/[\n\r。；;！!？?，,]+/).map((x) => x.trim()).filter(Boolean);
+  const hardClauses = clauses.filter((clause) => {
+    if (!majorContextRx.test(clause)) return false;
+    if (openRx.test(clause)) return false;
+    // “优先”只软化它所在的原子条件，不能软化前一个逗号前的硬门槛。
+    if (preferredRx.test(clause)) return false;
+    return true;
+  });
+  return { raw, hardRestriction: hardClauses.length > 0, hardClauses };
 }
 
 function normalizeLanguage(job, text) {

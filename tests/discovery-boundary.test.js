@@ -2,7 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import { shouldKeep } from '../scripts/job-discovery/core.mjs';
-import { keepProductionJobs, isOutOfScopeProfessionalRole } from '../scripts/filter-official-live-jobs.mjs';
+import { keepProductionJobs, isOutOfScopeProfessionalRole, hardOutOfScopeMajorClauses } from '../scripts/filter-official-live-jobs.mjs';
+import { toQueryJob } from '../scripts/build-query-layer.mjs';
 
 const profile = { graduationYear: '2027', roleKeywords: ['运营'], keywords: ['英语'], targetCities: ['深圳'], strongExclude: ['软件工程师', '销售经理'], minRelevanceScore: 99 };
 const now = new Date('2026-09-16T00:00:00Z');
@@ -18,6 +19,44 @@ test('discovery parser may see broad roles, but production scope filters profess
   assert.equal(isOutOfScopeProfessionalRole({ title: '审计助理', jobRequirements: '审计、会计相关专业' }), true);
   assert.equal(isOutOfScopeProfessionalRole({ title: '国际项目管理', jobRequirements: '本科及以上，专业不限，英语流利' }), false);
   assert.equal(isOutOfScopeProfessionalRole({ title: '海外市场', jobRequirements: '市场营销或英语专业优先' }), false);
+});
+
+test('CATL-style engineering PM clause keeps the base STEM requirement hard', () => {
+  const job = {
+    title: '项目管理工程师',
+    jobRequirements: '本科及以上学历；专业要求：理工科背景，化学、材料学、汽车、机械等相关专业优先；英语CET-4。'
+  };
+  assert.equal(isOutOfScopeProfessionalRole(job), true);
+  assert.deepEqual(hardOutOfScopeMajorClauses(job), ['专业要求：理工科背景']);
+
+  const query = toQueryJob({
+    ...job,
+    company: '宁德时代',
+    graduationYear: '2027',
+    sourceType: 'official',
+    jdEvidence: {
+      majorClauses: ['专业要求：理工科背景，化学、材料学、汽车、机械等相关专业优先']
+    }
+  });
+  assert.equal(query.major.hardRestriction, true);
+  assert.ok(query.major.hardClauses.some((x) => x.includes('理工科背景')));
+});
+
+test('soft STEM preference stays soft when there is no hard STEM base gate', () => {
+  const job = {
+    title: '项目管理专员',
+    jobRequirements: '本科及以上，理工科背景优先；英语或管理类专业亦可。'
+  };
+  assert.equal(isOutOfScopeProfessionalRole(job), false);
+  assert.deepEqual(hardOutOfScopeMajorClauses(job), []);
+});
+
+test('English ability does not cancel a hard STEM major gate', () => {
+  const job = {
+    title: '项目管理工程师',
+    jobRequirements: '理工科背景，英语听说读写熟练。'
+  };
+  assert.equal(isOutOfScopeProfessionalRole(job), true);
 });
 
 test('production source policy keeps company official first plus trusted university supplement, while dropping professional roles', () => {
