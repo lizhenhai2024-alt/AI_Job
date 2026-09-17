@@ -21,32 +21,52 @@ export function isTrustedUniversityOfficialBacked(job = {}) {
 
 const PROFESSIONAL_TITLE_RX = /(?:软件|算法|前端|后端|客户端|服务端|全栈|嵌入式|固件|芯片|集成电路|IC|硬件|电子|电气|机械|结构|工艺|材料|仿真|CAE|控制|自动化|机器人|测试开发|测试工程师|研发工程师|开发工程师|技术工程师|数据工程师|产品工程师|质量工程师|制造工程师|工业工程师|设备工程师|NPI工程师|IE工程师|供应商质量工程师|解决方案工程师|售前技术|技术支持工程师|运维工程师|网络工程师|安全工程师|数据库工程师|数据科学家|机器学习|深度学习|计算机视觉|NLP|自然语言|土木|建筑设计|化学研发|生物研发|医学|临床|药学|财务|会计|审计|税务|出纳|司库|资金管理|成本会计|成本管理|财务BP|投融资|投资分析|证券|基金|量化|精算|法务|律师|法律顾问|合规专员|知识产权)(?:工程师|专员|顾问|分析师|经理|管培生|岗|方向)?|(?:software|algorithm|firmware|embedded|hardware|electrical|mechanical|structural|process|materials?|simulation|developer|engineer|machine learning|data scientist|accounting|accountant|audit|auditor|tax|treasury|investment analyst|actuarial|legal counsel|lawyer)\b/i;
 
-const PROFESSIONAL_MAJOR_RX = /(?:计算机|软件工程|人工智能|电子|通信|机械|自动化|电气|微电子|集成电路|材料|能源|动力|土木|建筑|化学|生物|医学|药学|临床|会计|财务管理|审计|税务|金融学|精算|法学|法律).{0,14}(?:专业|专业背景|学科|方向|背景)/i;
-const CANDIDATE_FRIENDLY_MAJOR_RX = /专业不限|不限专业|英语|外语|语言类|翻译|新闻|传播|广告|市场营销|国际商务|国际贸易|国贸|管理类|工商管理|人文|社科/i;
-const SOFT_MAJOR_RX = /优先|加分|preferred|prefer/i;
+// “理工科背景，化学/材料/汽车/机械等相关专业优先”必须拆成两条条件：
+// “理工科背景”是硬门槛，后半句具体专业只是优先项。不能因为同一行出现“优先”就软化前面的硬门槛。
+const HARD_UMBRELLA_MAJOR_RX = /(?:理工科|理工类|工科|工科类|理科|理科类|STEM|工程类)(?:相关)?(?:专业|专业背景|背景|学科|方向)?/i;
+const SPECIFIC_PROFESSIONAL_MAJOR_RX = /(?:计算机|软件工程|人工智能|电子信息|电子科学|电子|通信|机械|车辆工程|汽车|自动化|电气|微电子|集成电路|材料|能源|动力|化工|化学|物理|数学|统计|数据科学|土木|建筑|生物|医学|药学|临床|会计|财务管理|审计|税务|金融学|精算|法学|法律|知识产权).{0,14}(?:专业|专业背景|学科|方向|背景)/i;
+const MAJOR_UNLIMITED_RX = /专业不限|不限专业|无专业限制|不限制专业|不限学科|专业不作限制/i;
+const SOFT_MAJOR_RX = /优先|加分|更佳|者佳|优先考虑|preferred|prefer/i;
+const FRIENDLY_MAJOR_ALT_RX = /(?:(?:英语|外语|语言类|翻译|新闻传播?|广告|市场营销|国际商务|国际贸易|国贸|管理类|工商管理|人文社科).{0,8}(?:专业|学科|方向)|(?:专业|学科|方向).{0,8}(?:英语|外语|语言类|翻译|新闻传播?|广告|市场营销|国际商务|国际贸易|国贸|管理类|工商管理|人文社科)|语言类|管理类专业)/i;
 
-function jobScopeText(job = {}) {
-  return [
-    job?.title,
-    job?.jobDescription,
-    job?.jobRequirements,
-    job?.description,
-    job?.requirements,
+function majorScopeText(job = {}) {
+  const evidence = Array.isArray(job?.jdEvidence?.majorClauses)
+    ? job.jdEvidence.majorClauses.filter(Boolean).join('\n')
+    : '';
+  const primary = [
+    evidence,
     job?.major,
-    job?._searchText
-  ].filter(Boolean).join('\n');
+    job?.majorRequirement,
+    job?.jobRequirements,
+    job?.requirements
+  ].filter(Boolean);
+  if (primary.length) return primary.join('\n');
+  // 某些来源没有独立 requirements 字段，只能从完整 JD 兜底。
+  return [job?.jobDescription, job?.description, job?._searchText].filter(Boolean).join('\n');
+}
+
+function hasProfessionalMajorSignal(clause = '') {
+  return HARD_UMBRELLA_MAJOR_RX.test(clause) || SPECIFIC_PROFESSIONAL_MAJOR_RX.test(clause);
+}
+
+export function hardOutOfScopeMajorClauses(job = {}) {
+  const text = majorScopeText(job);
+  if (!text) return [];
+  // 逗号通常分隔独立招聘条件；不切顿号“、”，避免拆散专业并列列表。
+  const clauses = text.split(/[\n\r。；;！!？?，,]+/).map((x) => x.trim()).filter(Boolean);
+  return clauses.filter((clause) => {
+    if (MAJOR_UNLIMITED_RX.test(clause)) return false;
+    if (!hasProfessionalMajorSignal(clause)) return false;
+    // “理工科优先”“机械专业优先”是软偏好，只软化当前原子条件。
+    if (SOFT_MAJOR_RX.test(clause)) return false;
+    // 同一原子条件明确把英语/语言/管理等作为可选专业时，不视为排他硬门槛。
+    if (FRIENDLY_MAJOR_ALT_RX.test(clause)) return false;
+    return true;
+  });
 }
 
 export function hasHardOutOfScopeProfessionalMajor(job = {}) {
-  const text = jobScopeText(job);
-  if (!text) return false;
-  const clauses = text.split(/[\n。；;]+/).map((x) => x.trim()).filter(Boolean);
-  return clauses.some((clause) => {
-    if (!PROFESSIONAL_MAJOR_RX.test(clause)) return false;
-    if (CANDIDATE_FRIENDLY_MAJOR_RX.test(clause)) return false;
-    if (SOFT_MAJOR_RX.test(clause)) return false;
-    return true;
-  });
+  return hardOutOfScopeMajorClauses(job).length > 0;
 }
 
 export function isOutOfScopeProfessionalRole(job = {}) {
@@ -102,7 +122,7 @@ async function main() {
         excludedOther
       }
     },
-    note: `${existingMeta.note || ''} 生产池默认公司 official；高校就业网仅作为“官方发布 + 明确2027届 + 明确公司官方招聘入口”的受控补漏来源。明显技术/财务等专业岗位以及硬性限定相关专业且不包含英语/语言/市场/管理等候选人友好专业的岗位不进入生产池；软性“相关专业优先”不据此误删。`.trim()
+    note: `${existingMeta.note || ''} 生产池默认公司 official；高校就业网仅作为“官方发布 + 明确2027届 + 明确公司官方招聘入口”的受控补漏来源。明显技术/财务等专业岗位以及硬性限定相关专业且不包含英语/语言/市场/管理等候选人友好专业的岗位不进入生产池；复合专业条件按逗号/分号拆分，后置“优先”只软化其所在条件，不得软化前置硬门槛。`.trim()
   };
 
   await fs.writeFile(livePath, asModule(kept, meta), 'utf8');
