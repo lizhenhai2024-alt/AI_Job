@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "本科学历，通信工程、电子信息工程、计算机科学与技术、电子科学与技术等通信、电子相关专业；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信工程、电子信息工程、计算机科学与技术、电子科学与技术等通信、电子相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -100,7 +103,10 @@
       },
       "major": {
         "raw": "本科及以上，通信工程、电子信息、市场营销、国际贸易等相关专业；有海外市场推广 / 营销策划经验，通信行业背景优先，非洲 / 东南亚 / 欧洲 / 拉美留学 / 常驻经历者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信工程、电子信息、市场营销、国际贸易等相关专业"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语",
@@ -198,7 +204,11 @@
       },
       "major": {
         "raw": "1、教育背景：本科及以上学历，市场营销、国际商务、电子信息、通信工程、计算机类等相关专业优先；2、专业技能：具备数据分析能力，能熟练运用相关工具分析市场数据，熟悉通信服务产品知识者更佳",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、教育背景：本科及以上学历",
+          "2、专业技能：具备数据分析能力"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -294,7 +304,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、通信、软件工程等电子信息大类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、软件工程等电子信息大类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -387,7 +400,10 @@
       },
       "major": {
         "raw": "1.物流管理、国际贸易等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.物流管理、国际贸易等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -477,7 +493,12 @@
       },
       "major": {
         "raw": "2. 专业要求：通信工程、电子信息工程、信息与通信工程、微电子、自动化、计算机科学与技术等电子通信、计算机相关专业；1. 专业基础扎实：熟练掌握移动通信基本原理，了解5G基本架构、5G关键技术、3GPP基础协议，熟悉通信网络基础、信号与系统、数字通信等专业核心知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 专业要求：通信工程、电子信息工程、信息与通信工程、微电子、自动化、计算机科学与技术等电子通信、计算机相关专业",
+          "1. 专业基础扎实：熟练掌握移动通信基本原理",
+          "熟悉通信网络基础、信号与系统、数字通信等专业核心知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -568,7 +589,10 @@
       },
       "major": {
         "raw": "1、通信、电子、计算机类相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、通信、电子、计算机类相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -655,7 +679,11 @@
       },
       "major": {
         "raw": "1.专业及学历要求：本科及以上学历，通信、计算机、电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业及学历要求：本科及以上学历",
+          "通信、计算机、电子等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -742,7 +770,8 @@
       },
       "major": {
         "raw": "1、通信工程、电磁场与微波技术等硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -827,7 +856,10 @@
       },
       "major": {
         "raw": "1、硕士及以上，通信、计算机、人工智能、大数据相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信、计算机、人工智能、大数据相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -911,7 +943,10 @@
       },
       "major": {
         "raw": "1、通信、信息、电子、计算机、人工智能专业硕士以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、通信、信息、电子、计算机、人工智能专业硕士以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -999,7 +1034,10 @@
       },
       "major": {
         "raw": "1、通信、信号处理、电子、雷达，计算机等相关专业博士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机等相关专业博士及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1083,7 +1121,10 @@
       },
       "major": {
         "raw": "1.专业及学历要求：通信相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业及学历要求：通信相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1172,7 +1213,10 @@
       },
       "major": {
         "raw": "1、专业及学历要求：通信或电子",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、专业及学历要求：通信或电子"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1259,7 +1303,8 @@
       },
       "major": {
         "raw": "1.全日制统招一本及以上学历，通信及工业工程专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1350,7 +1395,8 @@
       },
       "major": {
         "raw": "1. 全日制统招一本及以上学历，通信、自动化及电子相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1438,7 +1484,11 @@
       },
       "major": {
         "raw": "1. 专业基础 具备扎实的移动通信、卫星通信、网络架构及无线传播理论基础，熟悉6G/卫星/空天地网络演进方向与行业标准",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 专业基础 具备扎实的移动通信、卫星通信、网络架构及无线传播理论基础",
+          "熟悉6G/卫星/空天地网络演进方向与行业标准"
+        ]
       },
       "language": {
         "raw": "",
@@ -1525,7 +1575,10 @@
       },
       "major": {
         "raw": "1、全日制一类本科院校，本科及以上学历，电子/通信/机械/软件/微电子/材料等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子/通信/机械/软件/微电子/材料等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1610,7 +1663,10 @@
       },
       "major": {
         "raw": "1、硕士及以上，通信、电子、计算机、人工智能相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信、电子、计算机、人工智能相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1692,7 +1748,10 @@
       },
       "major": {
         "raw": "1、硕士及以上，通信与信息系统、电子信息、信号与信息处理、人工智能交叉专业，博士优先预研方向",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信与信息系统、电子信息、信号与信息处理、人工智能交叉专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1776,7 +1835,8 @@
       },
       "major": {
         "raw": "1. 通信与信息系统、信号与信息处理、通信工程、电子工程等本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1858,7 +1918,10 @@
       },
       "major": {
         "raw": "1. 通信工程、电磁场与微波技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 通信工程、电磁场与微波技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1938,7 +2001,10 @@
       },
       "major": {
         "raw": "1. 拥有电磁场与微波技术、通信、电子等相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 拥有电磁场与微波技术、通信、电子等相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -2020,7 +2086,10 @@
       },
       "major": {
         "raw": "1.本科以上学历、电气工程及其自动化、电力电子、自动化控制、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.本科以上学历、电气工程及其自动化、电力电子、自动化控制、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2104,7 +2173,10 @@
       },
       "major": {
         "raw": "1. 通信工程、电磁场与微波技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 通信工程、电磁场与微波技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2184,7 +2256,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2264,7 +2337,10 @@
       },
       "major": {
         "raw": "1、计算机/电子信息/通信工程相关专业本科及以上学历，有嵌入式软件开发经验优选",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机/电子信息/通信工程相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2348,7 +2424,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，通信工程、电子信息工程、计算机科学与技术、电子科学与技术、控制科学与工程、航空航天工程等相关理工科专业，具备航天电子、卫星载荷相关专业知识储备，2027届应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信工程、电子信息工程、计算机科学与技术、电子科学与技术、控制科学与工程、航空航天工程等相关理工科专业",
+          "具备航天电子、卫星载荷相关专业知识储备"
+        ]
       },
       "language": {
         "raw": "",
@@ -2435,7 +2515,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，电磁场与无线技术、通信工程、电子信息、自动化、计算机、可靠性工程等相关专业，2027届应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电磁场与无线技术、通信工程、电子信息、自动化、计算机、可靠性工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2523,7 +2606,10 @@
       },
       "major": {
         "raw": "1.通信、信息、电子工程、计算机专业均可，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.通信、信息、电子工程、计算机专业均可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2603,7 +2689,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2687,7 +2776,10 @@
       },
       "major": {
         "raw": "1、通信、计算机、电子信息工程、软件工程、自动化等专业方向",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、通信、计算机、电子信息工程、软件工程、自动化等专业方向"
+        ]
       },
       "language": {
         "raw": "",
@@ -2773,7 +2865,10 @@
       },
       "major": {
         "raw": "1、通信、信息、电子、计算机等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、通信、信息、电子、计算机等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2857,7 +2952,10 @@
       },
       "major": {
         "raw": "1、电磁场与微波、电磁场与无线技术、电波传播与天线、通信工程、电子科学与技术、电子信息工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电磁场与微波、电磁场与无线技术、电波传播与天线、通信工程、电子科学与技术、电子信息工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2941,7 +3039,10 @@
       },
       "major": {
         "raw": "1、电子、自动控制技术、计算机科学技术相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电子、自动控制技术、计算机科学技术相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3023,7 +3124,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3103,7 +3205,10 @@
       },
       "major": {
         "raw": "1、机械工程、机械制造及其自动化、材料加工、力学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械工程、机械制造及其自动化、材料加工、力学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3188,7 +3293,10 @@
       },
       "major": {
         "raw": "1.专业及学历要求：通信、电子、自动化类相关专业，本科学历及以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业及学历要求：通信、电子、自动化类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3270,7 +3378,10 @@
       },
       "major": {
         "raw": "1.专业及学历要求：通信、电子、计算机类相关专业，本科学历及以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业及学历要求：通信、电子、计算机类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3352,7 +3463,10 @@
       },
       "major": {
         "raw": "1.专业及学历要求：通信、电子、计算机类相关专业，本科学历及以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业及学历要求：通信、电子、计算机类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3432,7 +3546,11 @@
       },
       "major": {
         "raw": "1. 教育背景：本科及以上学历，通信、电子工程、人工智能、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 教育背景：本科及以上学历",
+          "通信、电子工程、人工智能、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3517,7 +3635,10 @@
       },
       "major": {
         "raw": "1、通信、信息、电子工程专业，硕士以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、通信、信息、电子工程专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3597,7 +3718,10 @@
       },
       "major": {
         "raw": "1、计算机相关专业，掌握计算机基础知识，熟悉计算机网络知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3677,7 +3801,10 @@
       },
       "major": {
         "raw": "1、计算机、⼈⼯智能、通信等相关专业硕⼠及以上学历，有LLM应⽤或智能体（Agent）开发经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、⼈⼯智能、通信等相关专业硕⼠及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -3762,7 +3889,10 @@
       },
       "major": {
         "raw": "1. 计算机科学与技术、软件工程、通信工程、电子信息工程等相关专业，硕士及以上学历优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学与技术、软件工程、通信工程、电子信息工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3845,7 +3975,10 @@
       },
       "major": {
         "raw": "2、航空航天、机械设计制造、质量管理、自动化，材料成型，工业工程、微电子学、可靠性工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工业工程、微电子学、可靠性工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3927,7 +4060,11 @@
       },
       "major": {
         "raw": "通信、电子、计算机、自动化等相关专业，硕士及以上学历；- 具备无线通信技术相关知识背景，具有AI在通信原型样机和商业产品开发部署经验优先考虑",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信、电子、计算机、自动化等相关专业",
+          "- 具备无线通信技术相关知识背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -4015,7 +4152,11 @@
       },
       "major": {
         "raw": "1.通信工程、电子工程、自动化等相关专业，硕士及以上学历；2.基本业务技能要求: -具备扎实的无线通信基础理论功底，熟练掌握移动通信原理、随机信号处理、数字信号处理、信道建模、信息论、编码调制、多天线技术等核心专业知识，深耕无线物理层技术领域",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.通信工程、电子工程、自动化等相关专业",
+          "熟练掌握移动通信原理、随机信号处理、数字信号处理、信道建模、信息论、编码调制、多天线技术等核心专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -4102,7 +4243,12 @@
       },
       "major": {
         "raw": "1. 教育背景：本科以上学历，通信工程、电子信息、计算机科学、人工智能等相关专业；2. 专业技术能力：通信理论扎实（熟悉5G架构及网优信令），对“AI+通信”及卫星互联网具备极强学习敏锐度",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 教育背景：本科以上学历",
+          "通信工程、电子信息、计算机科学、人工智能等相关专业",
+          "2. 专业技术能力：通信理论扎实（熟悉5G架构及网优信令）"
+        ]
       },
       "language": {
         "raw": "英语",

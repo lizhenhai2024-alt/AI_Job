@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "1、焊接、自动化、电力电子、电工等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、焊接、自动化、电力电子、电工等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -104,7 +107,10 @@
       },
       "major": {
         "raw": "1、电气电子类、自动控制、计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电气电子类、自动控制、计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -188,7 +194,10 @@
       },
       "major": {
         "raw": "1、本科及以上，机器人、自动化、机电、电气等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机器人、自动化、机电、电气等理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -276,7 +285,10 @@
       },
       "major": {
         "raw": "1.自动化、计算机科学与技术、人工智能、智能科学与技术、机器人工程相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.自动化、计算机科学与技术、人工智能、智能科学与技术、机器人工程相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -360,7 +372,10 @@
       },
       "major": {
         "raw": "1.电子信息工程、电子科学与技术、自动化、计算机科学与技术、软件工程相关专业，硕士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.电子信息工程、电子科学与技术、自动化、计算机科学与技术、软件工程相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -446,7 +461,10 @@
       },
       "major": {
         "raw": "1、机械电子、自动化、机器人控制、软件工程、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械电子、自动化、机器人控制、软件工程、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -533,7 +551,10 @@
       },
       "major": {
         "raw": "1、机械电子、软件工程、计算机、电气自动化、控制科学与工程、智能制造相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械电子、软件工程、计算机、电气自动化、控制科学与工程、智能制造相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -620,7 +641,10 @@
       },
       "major": {
         "raw": "1、机械电子、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械电子、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -704,7 +728,10 @@
       },
       "major": {
         "raw": "1、自动化（控制方向）、电气工程、控制工程、机器人控制等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、自动化（控制方向）、电气工程、控制工程、机器人控制等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -789,7 +816,10 @@
       },
       "major": {
         "raw": "1、自动化（控制方向）、电气工程、控制工程、机器人控制等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、自动化（控制方向）、电气工程、控制工程、机器人控制等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -874,7 +904,10 @@
       },
       "major": {
         "raw": "1、机械电子、自动化（控制方向）、机器人控制、数学专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械电子、自动化（控制方向）、机器人控制、数学专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -958,7 +991,10 @@
       },
       "major": {
         "raw": "1、计算机技术相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机技术相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1044,7 +1080,10 @@
       },
       "major": {
         "raw": "1. 硕士学历，机械电子、自动化、电力电子、电气工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械电子、自动化、电力电子、电气工程相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1126,7 +1165,10 @@
       },
       "major": {
         "raw": "1. 硕士学历，自动化、电气工程及其自动化、电机与电器相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "自动化、电气工程及其自动化、电机与电器相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1208,7 +1250,10 @@
       },
       "major": {
         "raw": "1. 硕士学历，机械设计、机械自动化、机器人等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计、机械自动化、机器人等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1292,7 +1337,10 @@
       },
       "major": {
         "raw": "1. 机器人学、计算机、人工智能、控制工程等相关专业博士",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 机器人学、计算机、人工智能、控制工程等相关专业博士"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1378,7 +1426,10 @@
       },
       "major": {
         "raw": "1. 机械电子、自动化（控制方向）、机器人控制、数学相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 机械电子、自动化（控制方向）、机器人控制、数学相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1464,7 +1515,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1546,7 +1598,10 @@
       },
       "major": {
         "raw": "1、机械设计制造、电气工程及其自动化、自动化、机电一体化、工业工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械设计制造、电气工程及其自动化、自动化、机电一体化、工业工程相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1628,7 +1683,10 @@
       },
       "major": {
         "raw": "1. 硕士学历，计算机科学、软件工程、电气工程及自动化、机器人工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程、电气工程及自动化、机器人工程相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1710,7 +1768,10 @@
       },
       "major": {
         "raw": "1. 计算机视觉、机器人、自动化、光学工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机视觉、机器人、自动化、光学工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",

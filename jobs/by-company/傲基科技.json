@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "本科及以上学历，电子商务、市场营销、国际贸易、数据分析等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -113,7 +114,8 @@
       },
       "major": {
         "raw": "商务英语、电子商务、国际贸易、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语",
@@ -208,7 +210,10 @@
       },
       "major": {
         "raw": "本科及以上学历，视觉传达、工业设计、数字媒体等相关专业；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "视觉传达、工业设计、数字媒体等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -294,7 +299,8 @@
       },
       "major": {
         "raw": "全日制本科应届毕业生，英语、商务英语、国际贸易、跨境电商、外语类相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -390,7 +396,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -477,7 +484,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -563,7 +571,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -657,7 +666,8 @@
       },
       "major": {
         "raw": "1、本科以上学历，数学、统计、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -746,7 +756,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -833,7 +844,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、人工智能、软件工程、交互设计、经管等相关专业优先，优秀者专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -921,7 +933,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1010,7 +1023,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

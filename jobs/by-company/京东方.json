@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "经管类、工业工程类、机械电子类等",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -106,7 +107,10 @@
       },
       "major": {
         "raw": "产业运营、产业研究、运营管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "产业运营、产业研究、运营管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -195,7 +199,8 @@
       },
       "major": {
         "raw": "专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -281,7 +286,10 @@
       },
       "major": {
         "raw": "工商管理、行政管理等管理类、理工类相关专业优先；财务管理，会计，税务等财会相关专业毕业；专业不限",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "税务等财会相关专业毕业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -373,7 +381,10 @@
       },
       "major": {
         "raw": "管理类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "管理类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -462,7 +473,10 @@
       },
       "major": {
         "raw": "管理类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "管理类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -551,7 +565,8 @@
       },
       "major": {
         "raw": "计算机、人工智能、软件工程、自动化、电子信息等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -636,7 +651,10 @@
       },
       "major": {
         "raw": "人力资源、心理学和管理学等相关专业；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人力资源、心理学和管理学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -723,7 +741,10 @@
       },
       "major": {
         "raw": "高分子材料、LED专业方向",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "高分子材料、LED专业方向"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -808,7 +829,8 @@
       },
       "major": {
         "raw": "专业不限；公共管理类,工商管理类，物业管理类优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -898,7 +920,10 @@
       },
       "major": {
         "raw": "机械设计、材料、光学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计、材料、光学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -984,7 +1009,10 @@
       },
       "major": {
         "raw": "自动化、测控、机械、电子、材料、物理等理工类相关专业；仪器仪表、电子信息工程、自动化、计算机科学与技术、机械工程、电子信息、微电子等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1078,7 +1106,8 @@
       },
       "major": {
         "raw": "专业不限，基础扎实，成绩优秀，无不及格科目",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1166,7 +1195,8 @@
       },
       "major": {
         "raw": "专业不限，基础扎实，成绩优秀，无不及格科目",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1254,7 +1284,10 @@
       },
       "major": {
         "raw": "人力资源、心理学和管理学等相关专业；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人力资源、心理学和管理学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1341,7 +1374,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1425,7 +1459,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1510,7 +1545,10 @@
       },
       "major": {
         "raw": "2、计算机、图形学、电子信息或光学工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机、图形学、电子信息或光学工程相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1598,7 +1636,10 @@
       },
       "major": {
         "raw": "2、专业要求：自动化、机械、电子、电气等相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、专业要求：自动化、机械、电子、电气等相关专业背景"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1682,7 +1723,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1766,7 +1808,11 @@
       },
       "major": {
         "raw": "2、无强制专业要求，理工科专业或工商管理为佳",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、无强制专业要求",
+          "理工科专业或工商管理为佳"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1854,7 +1900,11 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业；3、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
+          "3、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1939,7 +1989,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2024,7 +2075,10 @@
       },
       "major": {
         "raw": "2、机械设计、材料、光学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计、材料、光学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2113,7 +2167,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2203,7 +2260,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2288,7 +2346,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2372,7 +2431,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2455,7 +2515,10 @@
       },
       "major": {
         "raw": "2、药学、化学、医学、护理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、药学、化学、医学、护理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2541,7 +2604,10 @@
       },
       "major": {
         "raw": "2、机械电子工程类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械电子工程类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2630,7 +2696,11 @@
       },
       "major": {
         "raw": "2、工业工程、计算机科学与技术、软件工程、数学、统计学、数据科学、电子信息工程等相关专业；2、工业工程、计算机科学与技术、软件工程、数学、统计学、人工智能、数据科学、电子信息工程、自动化、控制工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、计算机科学与技术、软件工程、数学、统计学、数据科学、电子信息工程等相关专业",
+          "2、工业工程、计算机科学与技术、软件工程、数学、统计学、人工智能、数据科学、电子信息工程、自动化、控制工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2722,7 +2792,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2804,7 +2875,10 @@
       },
       "major": {
         "raw": "2、理工科（如机械、自动化、电子等）、管理类或英语相关专业均可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理工科（如机械、自动化、电子等）、管理类或英语相关专业均可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2890,7 +2964,10 @@
       },
       "major": {
         "raw": "2、理工科或英语相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理工科或英语相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2976,7 +3053,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，机械相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3067,7 +3147,10 @@
       },
       "major": {
         "raw": "2、材料物理类、光学工程类、材料类、高分子、化工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料物理类、光学工程类、材料类、高分子、化工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3156,7 +3239,11 @@
       },
       "major": {
         "raw": "2、工业工程、计算机科学与技术、软件工程、数学、统计学、数据科学、电子信息工程等相关专业；2、工业工程、计算机科学与技术、软件工程、数学、统计学、人工智能、数据科学、电子信息工程、自动化、控制工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、计算机科学与技术、软件工程、数学、统计学、数据科学、电子信息工程等相关专业",
+          "2、工业工程、计算机科学与技术、软件工程、数学、统计学、人工智能、数据科学、电子信息工程、自动化、控制工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3247,7 +3334,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3334,7 +3424,13 @@
       },
       "major": {
         "raw": "2、计算机/软件工程相关专业；3、专业基础扎实，成绩优秀，无不及格科目，熟悉计算机语言框架，了解开源框架；2、计算机科学与技术、软件开发、数学等相关专业；3、专业基础扎实，成绩优秀，无不及格科目，掌握系统语言、计算机开发语言工具优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机/软件工程相关专业",
+          "3、专业基础扎实",
+          "2、计算机科学与技术、软件开发、数学等相关专业",
+          "3、专业基础扎实"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3426,7 +3522,10 @@
       },
       "major": {
         "raw": "2、材料科学与工程、物理化学、化学工程、新能源科学与工程等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学与工程、物理化学、化学工程、新能源科学与工程等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3510,7 +3609,11 @@
       },
       "major": {
         "raw": "2、计算机科学、电子工程、自动化、数学等相关专业；2、计算机、数学、统计学、自动化、工业工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学、电子工程、自动化、数学等相关专业",
+          "2、计算机、数学、统计学、自动化、工业工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3600,7 +3703,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3688,7 +3794,10 @@
       },
       "major": {
         "raw": "2、生物信息学、计算生物学、计算机科学、统计学、生物医学工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、生物信息学、计算生物学、计算机科学、统计学、生物医学工程或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3780,7 +3889,10 @@
       },
       "major": {
         "raw": "2、材料科学（玻璃/陶瓷/高分子等）、微电子（封装等方向）、物理等理工类等相关专业；② 研究能力： （1）以第一作者发表过2篇以上SCI论文者优先（涉及材料表征、工艺优化或可靠性研究） （2）有跨学科研究经历者优先（如材料+电子/物理+化学等组合）",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学（玻璃/陶瓷/高分子等）、微电子（封装等方向）、物理等理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3866,7 +3978,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3949,7 +4062,11 @@
       },
       "major": {
         "raw": "2、软件工程、人工智能、计算机视觉、电子信息工程、机械、化学、物理、计算机等理工类专业；2、机械工程、机械设计制造及其自动化、机械工程及自动化、过程装备与控制工程、机械电子工程、机电一体化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、软件工程、人工智能、计算机视觉、电子信息工程、机械、化学、物理、计算机等理工类专业",
+          "2、机械工程、机械设计制造及其自动化、机械工程及自动化、过程装备与控制工程、机械电子工程、机电一体化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4038,7 +4155,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4124,7 +4242,10 @@
       },
       "major": {
         "raw": "2、电子信息、控制科学与工程，电气工程及其自动化，电力电子与电力传动等电子相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电力电子与电力传动等电子相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4215,7 +4336,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4297,7 +4419,10 @@
       },
       "major": {
         "raw": "2、材料科学与工程、物理化学、化学工程、新能源科学与工程等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学与工程、物理化学、化学工程、新能源科学与工程等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4381,7 +4506,10 @@
       },
       "major": {
         "raw": "2、高分子化学、化学工程、材料科学与工程、化学工程与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、高分子化学、化学工程、材料科学与工程、化学工程与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4466,7 +4594,10 @@
       },
       "major": {
         "raw": "2、电子信息、控制科学与工程，电气工程及其自动化，电力电子与电力传动等电子相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电力电子与电力传动等电子相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4553,7 +4684,8 @@
       },
       "major": {
         "raw": "2、会计、经济学、金融、工商管理类、法学类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4642,7 +4774,10 @@
       },
       "major": {
         "raw": "2、理工科或管理类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理工科或管理类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4729,7 +4864,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4811,7 +4947,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4893,7 +5030,10 @@
       },
       "major": {
         "raw": "2、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4982,7 +5122,10 @@
       },
       "major": {
         "raw": "5、英语通过CET-6或专业八级，能进行英文口笔译",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "5、英语通过CET-6或专业八级"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5067,7 +5210,11 @@
       },
       "major": {
         "raw": "2、计算机科学、电子工程、自动化、数学等相关专业；2、计算机、数学、统计学、自动化、工业工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学、电子工程、自动化、数学等相关专业",
+          "2、计算机、数学、统计学、自动化、工业工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5157,7 +5304,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5245,7 +5395,10 @@
       },
       "major": {
         "raw": "2、生物信息学、计算生物学、计算机科学、统计学、生物医学工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、生物信息学、计算生物学、计算机科学、统计学、生物医学工程或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5337,7 +5490,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5423,7 +5579,10 @@
       },
       "major": {
         "raw": "2、国际贸易、物流等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、国际贸易、物流等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5507,7 +5666,8 @@
       },
       "major": {
         "raw": "2、材料、化学、物理、电子、数学、统计学等理工科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5598,7 +5758,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5682,7 +5845,10 @@
       },
       "major": {
         "raw": "2、营销、国际贸易、工商管理、语言类优先，其他专业亦可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "其他专业亦可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5771,7 +5937,10 @@
       },
       "major": {
         "raw": "2、材料科学（玻璃/陶瓷/高分子等）、微电子（封装等方向）、物理等理工类等相关专业；② 研究能力： （1）以第一作者发表过2篇以上SCI论文者优先（涉及材料表征、工艺优化或可靠性研究） （2）有跨学科研究经历者优先（如材料+电子/物理+化学等组合）",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学（玻璃/陶瓷/高分子等）、微电子（封装等方向）、物理等理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5857,7 +6026,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5940,7 +6110,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6023,7 +6194,10 @@
       },
       "major": {
         "raw": "2、电子、物理、光电、机械、自动化、测控、计算机、电气、材料化学等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、物理、光电、机械、自动化、测控、计算机、电气、材料化学等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6107,7 +6281,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6191,7 +6368,10 @@
       },
       "major": {
         "raw": "1、专业背景：本科及以上应届生（985/211），计算机、人工智能、自动化、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、专业背景：本科及以上应届生（985/211）"
+        ]
       },
       "language": {
         "raw": "",
@@ -6282,7 +6462,10 @@
       },
       "major": {
         "raw": "2、工商管理管理、企业管理相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工商管理管理、企业管理相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6368,7 +6551,10 @@
       },
       "major": {
         "raw": "2、械设计制造，机械自动化，机电一体化等机械相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机电一体化等机械相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6455,7 +6641,10 @@
       },
       "major": {
         "raw": "2、光学、物理、光电子等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、光学、物理、光电子等理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6540,7 +6729,10 @@
       },
       "major": {
         "raw": "2、电子信息工程、电子科学与技术等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息工程、电子科学与技术等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6624,7 +6816,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6709,7 +6904,10 @@
       },
       "major": {
         "raw": "2、计算机、保密、电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机、保密、电子等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6793,7 +6991,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理、化学等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理、化学等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6875,7 +7076,10 @@
       },
       "major": {
         "raw": "2、光通信、光电子、电子工程、物理、电子科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、光通信、光电子、电子工程、物理、电子科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6964,7 +7168,10 @@
       },
       "major": {
         "raw": "2、光学工程、集成光电子学、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、光学工程、集成光电子学、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7048,7 +7255,11 @@
       },
       "major": {
         "raw": "2、负责材料制备、表征及性能测试实验的设计与实施，运用专业设备（如扫描电镜、DSC等）进行材料微观结构与性能分析；2、高分子化学、化学工程、材料科学与工程、化学工程与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "运用专业设备（如扫描电镜、DSC等）进行材料微观结构与性能分析",
+          "2、高分子化学、化学工程、材料科学与工程、化学工程与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7136,7 +7347,10 @@
       },
       "major": {
         "raw": "2、机器人、自动化、计算机或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机器人、自动化、计算机或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7224,7 +7438,10 @@
       },
       "major": {
         "raw": "2、计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7312,7 +7529,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7401,7 +7621,10 @@
       },
       "major": {
         "raw": "2、人工智能、计算机、图像信号处理、应用数学、电子、信息科学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、人工智能、计算机、图像信号处理、应用数学、电子、信息科学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7487,7 +7710,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7576,7 +7802,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7660,7 +7889,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、软件工程、物理学，电子科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7747,7 +7979,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7836,7 +8071,10 @@
       },
       "major": {
         "raw": "2、物理学、凝聚态物理、应用物理学、材料物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物理学、凝聚态物理、应用物理学、材料物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7922,7 +8160,10 @@
       },
       "major": {
         "raw": "2、材料类、电子类、自动化类、集成电路类、物理类、化学类等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料类、电子类、自动化类、集成电路类、物理类、化学类等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8011,7 +8252,10 @@
       },
       "major": {
         "raw": "2、电子信息、光学、物理、计算机、自动化、材料、能源、生物医学工程等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息、光学、物理、计算机、自动化、材料、能源、生物医学工程等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8101,7 +8345,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -8185,7 +8430,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -8267,7 +8513,11 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、计算机等相关专业，本科理工科，研究生法律相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、计算机等相关专业",
+          "本科理工科"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8357,7 +8607,11 @@
       },
       "major": {
         "raw": "2、 微电子与固体电子学、光学工程、光电信息科学与工程、材料科学与工程、电子科学与技术、集成电路工程、应用物理学等相关交叉学科专业；熟悉光通信原理、硅基光电子学或短距光互连架构 具备优秀的系统性思维和全局统筹能力，能够快速拆解复杂的交叉学科工程问题",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、 微电子与固体电子学、光学工程、光电信息科学与工程、材料科学与工程、电子科学与技术、集成电路工程、应用物理学等相关交叉学科专业",
+          "能够快速拆解复杂的交叉学科工程问题"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8448,7 +8702,10 @@
       },
       "major": {
         "raw": "2、有机光电子、材料、化学、高分子、物理、微电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、有机光电子、材料、化学、高分子、物理、微电子等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8534,7 +8791,10 @@
       },
       "major": {
         "raw": "2、微电子学与固体电子学，物理电子学，凝聚态物理，材料物理与化学等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "材料物理与化学等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8621,7 +8881,10 @@
       },
       "major": {
         "raw": "2、材料科学（玻璃/陶瓷/高分子等）、微电子（封装等方向）、物理等理工类等相关专业；② 研究能力： （1）以第一作者发表过2篇以上SCI论文者优先（涉及材料表征、工艺优化或可靠性研究） （2）有跨学科研究经历者优先（如材料+电子/物理+化学等组合）",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学（玻璃/陶瓷/高分子等）、微电子（封装等方向）、物理等理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8706,7 +8969,10 @@
       },
       "major": {
         "raw": "2、材料、化学、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、化学、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8792,7 +9058,10 @@
       },
       "major": {
         "raw": "2、材料（聚合物/粒子型材料）、流体力学、物理化学、化工（成膜或结晶工艺）等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料（聚合物/粒子型材料）、流体力学、物理化学、化工（成膜或结晶工艺）等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8876,7 +9145,10 @@
       },
       "major": {
         "raw": "2、电子、电子信息工程、数学、物理理论、机电、自动化、力学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、电子信息工程、数学、物理理论、机电、自动化、力学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8965,7 +9237,10 @@
       },
       "major": {
         "raw": "2、化学、材料、力学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、化学、材料、力学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9051,7 +9326,10 @@
       },
       "major": {
         "raw": "2、光通信、光电子、电子工程、物理、电子科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、光通信、光电子、电子工程、物理、电子科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9140,7 +9418,10 @@
       },
       "major": {
         "raw": "2、光学工程、集成光电子学、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、光学工程、集成光电子学、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9224,7 +9505,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9306,7 +9588,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9388,7 +9671,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9468,7 +9752,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9548,7 +9833,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9628,7 +9914,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9708,7 +9995,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9788,7 +10076,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9868,7 +10157,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9948,7 +10238,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10028,7 +10319,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10108,7 +10400,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10188,7 +10481,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10268,7 +10562,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10348,7 +10643,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10428,7 +10724,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10508,7 +10805,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10588,7 +10886,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10668,7 +10967,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10748,7 +11048,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10828,7 +11129,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10908,7 +11210,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10988,7 +11291,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11068,7 +11372,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11148,7 +11453,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11228,7 +11534,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11308,7 +11615,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11388,7 +11696,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11468,7 +11777,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11548,7 +11858,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11628,7 +11939,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11708,7 +12020,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11788,7 +12101,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11868,7 +12182,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -11948,7 +12263,10 @@
       },
       "major": {
         "raw": "2、国际贸易、物流等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、国际贸易、物流等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12032,7 +12350,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -12114,7 +12433,10 @@
       },
       "major": {
         "raw": "2、国际贸易、物流等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、国际贸易、物流等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12198,7 +12520,10 @@
       },
       "major": {
         "raw": "2、计算机视觉、机器视觉、模式识别、数字图像处理、空间交互技术、IP、研究嵌入式软件、Windows平台、安卓平台、图形学、图像处理、图像算法、系统设计等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机视觉、机器视觉、模式识别、数字图像处理、空间交互技术、IP、研究嵌入式软件、Windows平台、安卓平台、图形学、图像处理、图像算法、系统设计等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12284,7 +12609,10 @@
       },
       "major": {
         "raw": "2、材料、物理、化学、光学、高分子材料等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、物理、化学、光学、高分子材料等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12370,7 +12698,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12455,7 +12786,10 @@
       },
       "major": {
         "raw": "1、本科、硕士应届毕业生自动化、测控、机械、电子、材料、物理、光学等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、本科、硕士应届毕业生自动化、测控、机械、电子、材料、物理、光学等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12540,7 +12874,10 @@
       },
       "major": {
         "raw": "2、电子、机械、物理、光学、自动化等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、物理、光学、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12627,7 +12964,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12718,7 +13058,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -12798,7 +13139,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -12889,7 +13233,8 @@
       },
       "major": {
         "raw": "2、工商管理、行政管理等管理类、理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -12979,7 +13324,10 @@
       },
       "major": {
         "raw": "2、专业不限，电子、机械、物理、自动化、光学、数学、市场营销等相关专业",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、机械、物理、自动化、光学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13068,7 +13416,8 @@
       },
       "major": {
         "raw": "2、工商管理、行政管理等管理类、理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -13153,7 +13502,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -13233,7 +13583,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -13315,7 +13666,11 @@
       },
       "major": {
         "raw": "2、负责材料制备、表征及性能测试实验的设计与实施，运用专业设备（如扫描电镜、DSC等）进行材料微观结构与性能分析；2、高分子化学、化学工程、材料科学与工程、化学工程与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "运用专业设备（如扫描电镜、DSC等）进行材料微观结构与性能分析",
+          "2、高分子化学、化学工程、材料科学与工程、化学工程与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13403,7 +13758,10 @@
       },
       "major": {
         "raw": "2、控制工程、自动化、电气工程及其自动化、通信工程、微电子科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、控制工程、自动化、电气工程及其自动化、通信工程、微电子科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13492,7 +13850,10 @@
       },
       "major": {
         "raw": "2、电子信息工程、自动化、电气工程及其自动化、通信工程、微电子科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息工程、自动化、电气工程及其自动化、通信工程、微电子科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13578,7 +13939,10 @@
       },
       "major": {
         "raw": "2、自动化、电气工程及其自动化、测控技术、机电一体化等相关工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、电气工程及其自动化、测控技术、机电一体化等相关工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13665,7 +14029,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13747,7 +14114,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13839,7 +14209,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -13919,7 +14290,10 @@
       },
       "major": {
         "raw": "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -14001,7 +14375,10 @@
       },
       "major": {
         "raw": "2、营销、国际贸易、工商管理、语言类优先，其他专业亦可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "其他专业亦可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -14090,7 +14467,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14176,7 +14554,10 @@
       },
       "major": {
         "raw": "2、理工类、电气自动化及机械自动化类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理工类、电气自动化及机械自动化类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -14262,7 +14643,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、软件工程、自动化、控制工程、数学、统计学、数据科学、电子信息工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、软件工程、自动化、控制工程、数学、统计学、数据科学、电子信息工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -14351,7 +14735,10 @@
       },
       "major": {
         "raw": "2、电子/机械/材料/工业工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子/机械/材料/工业工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -14437,7 +14824,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14517,7 +14905,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14597,7 +14986,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14677,7 +15067,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14757,7 +15148,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14837,7 +15229,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14917,7 +15310,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14997,7 +15391,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15077,7 +15472,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15157,7 +15553,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15237,7 +15634,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15317,7 +15715,10 @@
       },
       "major": {
         "raw": "2、营销、国际贸易、工商管理、语言类优先，其他专业亦可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "其他专业亦可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -15406,7 +15807,8 @@
       },
       "major": {
         "raw": "2、理工类专业不限，政治、新闻传播等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15490,7 +15892,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15573,7 +15976,10 @@
       },
       "major": {
         "raw": "2、经济管理类、财务会计类、金融投资、法律或相关专业；2、具备一种（会计、律师、证券）专业资格或从业资格者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、经济管理类、财务会计类、金融投资、法律或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -15660,7 +16066,8 @@
       },
       "major": {
         "raw": "2、工商管理、行政管理等管理类、理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15747,7 +16154,10 @@
       },
       "major": {
         "raw": "2、细胞生物学、发育生物学、分子生物学、免疫学、生物化学等生物学相关专业或者药学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、细胞生物学、发育生物学、分子生物学、免疫学、生物化学等生物学相关专业或者药学相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -15831,7 +16241,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15914,7 +16325,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15994,7 +16406,8 @@
       },
       "major": {
         "raw": "2、临床医学、医技、生物工程学、药学、护理学、公共卫生、相关专业优先考虑，供应链管理、采购管理、工商管理、经济类、管理类接受简历",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -16082,7 +16495,10 @@
       },
       "major": {
         "raw": "2、计算机、网络工程、软件工程、电子信息、物联网工程、通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机、网络工程、软件工程、电子信息、物联网工程、通信等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16171,7 +16587,10 @@
       },
       "major": {
         "raw": "2、计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16259,7 +16678,10 @@
       },
       "major": {
         "raw": "2、理工科计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理工科计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16343,7 +16765,10 @@
       },
       "major": {
         "raw": "2、机器人、自动化、计算机或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机器人、自动化、计算机或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16431,7 +16856,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16515,7 +16943,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16604,7 +17035,10 @@
       },
       "major": {
         "raw": "2、人工智能、计算机、图像信号处理、应用数学、电子、信息科学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、人工智能、计算机、图像信号处理、应用数学、电子、信息科学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16690,7 +17124,10 @@
       },
       "major": {
         "raw": "2、计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16778,7 +17215,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16867,7 +17307,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、软件工程、数学、统计学、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16956,7 +17399,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、软件工程、物理学，电子科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17043,7 +17489,10 @@
       },
       "major": {
         "raw": "2、工业工程、计算机、电子信息、数学等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、计算机、电子信息、数学等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17131,7 +17580,10 @@
       },
       "major": {
         "raw": "2、电子类，软件类，数学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "数学相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17217,7 +17669,10 @@
       },
       "major": {
         "raw": "2、机械、自动化、材料、化学、物理、电子、光学、测控等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械、自动化、材料、化学、物理、电子、光学、测控等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17299,7 +17754,10 @@
       },
       "major": {
         "raw": "2、机械设计制造及其自动化、机械电子工程、机械工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计制造及其自动化、机械电子工程、机械工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17383,7 +17841,10 @@
       },
       "major": {
         "raw": "2、机械设计、机电一体化、精密仪器、机械工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计、机电一体化、精密仪器、机械工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17467,7 +17928,10 @@
       },
       "major": {
         "raw": "2、机械设计、电子、等理工相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计、电子、等理工相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17555,7 +18019,10 @@
       },
       "major": {
         "raw": "2、营销、国际贸易、工商管理、语言类优先，其他专业亦可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "其他专业亦可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17644,7 +18111,10 @@
       },
       "major": {
         "raw": "2、电子信息工程、电气工程及其自动化、微电子科学与工程、通信工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息工程、电气工程及其自动化、微电子科学与工程、通信工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17728,7 +18198,10 @@
       },
       "major": {
         "raw": "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17818,7 +18291,10 @@
       },
       "major": {
         "raw": "2、机械设计、电子、等理工相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计、电子、等理工相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17906,7 +18382,11 @@
       },
       "major": {
         "raw": "2、自动化、电气、测控、机械、电子、材料、物理等理工类相关专业；2、数学、市场营销、电子信息、计算机、物理、化学、机械、自动化等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、电气、测控、机械、电子、材料、物理等理工类相关专业",
+          "2、数学、市场营销、电子信息、计算机、物理、化学、机械、自动化等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17997,7 +18477,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -18083,7 +18564,10 @@
       },
       "major": {
         "raw": "2、市场营销、国际贸易、电子信息、计算机、物理、化学、机械、材料、数学等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、市场营销、国际贸易、电子信息、计算机、物理、化学、机械、材料、数学等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18176,7 +18660,10 @@
       },
       "major": {
         "raw": "2、机械工程/机械设计制造及自动化、材料成型及控制工程、材料科学与工程 、高分子材料相关学科",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械工程/机械设计制造及自动化、材料成型及控制工程、材料科学与工程 、高分子材料相关学科"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18262,7 +18749,8 @@
       },
       "major": {
         "raw": "2、市场营销、国际贸易、电子科学与技术、光信息科学与技术、物联网工程等相关专业者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -18355,7 +18843,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18441,7 +18932,10 @@
       },
       "major": {
         "raw": "2、集成电路、电子信息、通信工程、自动化、电气工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、集成电路、电子信息、通信工程、自动化、电气工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18525,7 +19019,10 @@
       },
       "major": {
         "raw": "2、电子信息工程、电子科学、集成电路、测控技术、自动化等硬件相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息工程、电子科学、集成电路、测控技术、自动化等硬件相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18611,7 +19108,10 @@
       },
       "major": {
         "raw": "2、计算机、电子、市场营销、技术管理、物理类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机、电子、市场营销、技术管理、物理类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18700,7 +19200,10 @@
       },
       "major": {
         "raw": "2、材料类、电子类、自动化类、集成电路类、物理类、化学类等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料类、电子类、自动化类、集成电路类、物理类、化学类等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18789,7 +19292,10 @@
       },
       "major": {
         "raw": "2、物理学、凝聚态物理、应用物理学、材料物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物理学、凝聚态物理、应用物理学、材料物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18875,7 +19381,10 @@
       },
       "major": {
         "raw": "2、电子信息、光学、物理、计算机、自动化、材料、能源、生物医学工程等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息、光学、物理、计算机、自动化、材料、能源、生物医学工程等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18965,7 +19474,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -19049,7 +19559,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -19131,7 +19642,11 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、计算机等相关专业，本科理工科，研究生法律相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、计算机等相关专业",
+          "本科理工科"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19221,7 +19736,10 @@
       },
       "major": {
         "raw": "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19308,7 +19826,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、软件工程、计算机图形学、自动化专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、软件工程、计算机图形学、自动化专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19393,7 +19914,10 @@
       },
       "major": {
         "raw": "2、机械类、自动化类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械类、自动化类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19480,7 +20004,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类、电子信息类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类、电子信息类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19562,7 +20089,10 @@
       },
       "major": {
         "raw": "2、理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19648,7 +20178,10 @@
       },
       "major": {
         "raw": "2、电子、物理、自动化、 微电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、物理、自动化、 微电子等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19730,7 +20263,10 @@
       },
       "major": {
         "raw": "2、理工科电路等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理工科电路等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19814,7 +20350,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19899,7 +20438,10 @@
       },
       "major": {
         "raw": "2、质量管理工程、工业工程、机械电子工程、电气工程及其自动化、测控技术与仪器、电子信息工程、光电信息科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、质量管理工程、工业工程、机械电子工程、电气工程及其自动化、测控技术与仪器、电子信息工程、光电信息科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -19987,7 +20529,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20072,7 +20617,10 @@
       },
       "major": {
         "raw": "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20162,7 +20710,10 @@
       },
       "major": {
         "raw": "2、自动化、通信、电子计算机、电子信息、物理等专业，具备软硬件电路设计等知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、通信、电子计算机、电子信息、物理等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20248,7 +20799,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -20332,7 +20884,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -20416,7 +20969,10 @@
       },
       "major": {
         "raw": "2、自动化，通信，电子技术相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子技术相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20500,7 +21056,10 @@
       },
       "major": {
         "raw": "2、集成电路设计与集成系统类、电子科学与技术类、电子信息类、电气工程类、自动化类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、集成电路设计与集成系统类、电子科学与技术类、电子信息类、电气工程类、自动化类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20585,7 +21144,10 @@
       },
       "major": {
         "raw": "2、电子、电气、自动化等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、电气、自动化等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20669,7 +21231,10 @@
       },
       "major": {
         "raw": "2、电子、凝聚态物理、自动化、光学、化学、机械、微电子、材料、自动化、光学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、凝聚态物理、自动化、光学、化学、机械、微电子、材料、自动化、光学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20753,7 +21318,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20837,7 +21405,10 @@
       },
       "major": {
         "raw": "2、电子、凝聚态物理、材料、自动化、光学、化学、等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、凝聚态物理、材料、自动化、光学、化学、等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20921,7 +21492,10 @@
       },
       "major": {
         "raw": "2、机械、自动化、电子信息、材料、光学、微电子、供应链管理、物流管理、工业工程等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械、自动化、电子信息、材料、光学、微电子、供应链管理、物流管理、工业工程等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21007,7 +21581,8 @@
       },
       "major": {
         "raw": "2、材料、化学、物理、电子、工业工程、数学、统计学等理工科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -21092,7 +21667,10 @@
       },
       "major": {
         "raw": "2、生产管理、工业工程、统计学、运营等管理类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、生产管理、工业工程、统计学、运营等管理类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21178,7 +21756,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -21258,7 +21837,10 @@
       },
       "major": {
         "raw": "2、材料，电子类，机械类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21340,7 +21922,10 @@
       },
       "major": {
         "raw": "2、物理、电子科学与技术、材料、机械、化工等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物理、电子科学与技术、材料、机械、化工等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21425,7 +22010,10 @@
       },
       "major": {
         "raw": "2、物理、电子科学与技术、材料、机械、化工等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物理、电子科学与技术、材料、机械、化工等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21512,7 +22100,11 @@
       },
       "major": {
         "raw": "2、 微电子与固体电子学、光学工程、光电信息科学与工程、材料科学与工程、电子科学与技术、集成电路工程、应用物理学等相关交叉学科专业；熟悉光通信原理、硅基光电子学或短距光互连架构 具备优秀的系统性思维和全局统筹能力，能够快速拆解复杂的交叉学科工程问题",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、 微电子与固体电子学、光学工程、光电信息科学与工程、材料科学与工程、电子科学与技术、集成电路工程、应用物理学等相关交叉学科专业",
+          "能够快速拆解复杂的交叉学科工程问题"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21603,7 +22195,10 @@
       },
       "major": {
         "raw": "2、材料、化学、物理、光电子等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、化学、物理、光电子等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21688,7 +22283,10 @@
       },
       "major": {
         "raw": "2、有机光电子、材料、化学、高分子、物理、微电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、有机光电子、材料、化学、高分子、物理、微电子等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21774,7 +22372,10 @@
       },
       "major": {
         "raw": "2、微电子学与固体电子学，物理电子学，凝聚态物理，材料物理与化学等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "材料物理与化学等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21861,7 +22462,11 @@
       },
       "major": {
         "raw": "2、材料、电子、化学、物理等相关专业；3、材料器件相关专业，有OLED相关经验 细心，严谨，能熟练处理和分析各种测试数据 具有独立思考，分析和解决问题的能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、电子、化学、物理等相关专业",
+          "3、材料器件相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21949,7 +22554,10 @@
       },
       "major": {
         "raw": "2、微电子类，材料物理类、光学工程类、材料类、高分子、化工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "材料物理类、光学工程类、材料类、高分子、化工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22037,7 +22645,10 @@
       },
       "major": {
         "raw": "2、电气、电子、机械、材料、自动化等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电气、电子、机械、材料、自动化等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22123,7 +22734,10 @@
       },
       "major": {
         "raw": "2、材料科学（玻璃/陶瓷/高分子等）、微电子（封装等方向）、物理等理工类等相关专业；② 研究能力： （1）以第一作者发表过2篇以上SCI论文者优先（涉及材料表征、工艺优化或可靠性研究） （2）有跨学科研究经历者优先（如材料+电子/物理+化学等组合）",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学（玻璃/陶瓷/高分子等）、微电子（封装等方向）、物理等理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22208,7 +22822,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -22290,7 +22905,10 @@
       },
       "major": {
         "raw": "2、材料、化学、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、化学、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22376,7 +22994,10 @@
       },
       "major": {
         "raw": "2、材料（聚合物/粒子型材料）、流体力学、物理化学、化工（成膜或结晶工艺）等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料（聚合物/粒子型材料）、流体力学、物理化学、化工（成膜或结晶工艺）等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22460,7 +23081,10 @@
       },
       "major": {
         "raw": "2、电子、电子信息工程、数学、物理理论、机电、自动化、力学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、电子信息工程、数学、物理理论、机电、自动化、力学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22549,7 +23173,10 @@
       },
       "major": {
         "raw": "2、化学、材料、力学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、化学、材料、力学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22635,7 +23262,10 @@
       },
       "major": {
         "raw": "2、物理、化学、材料、微电子学与固体电子学、集成电路工程、电子科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物理、化学、材料、微电子学与固体电子学、集成电路工程、电子科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22721,7 +23351,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -22805,7 +23436,10 @@
       },
       "major": {
         "raw": "2、计算机、软件工程、网络工程、物联网工程、通信工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机、软件工程、网络工程、物联网工程、通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22889,7 +23523,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -22971,7 +23606,10 @@
       },
       "major": {
         "raw": "2、机械类、机电一体化、热能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械类、机电一体化、热能等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -23057,7 +23695,10 @@
       },
       "major": {
         "raw": "2、电子类、通信、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子类、通信、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -23141,7 +23782,10 @@
       },
       "major": {
         "raw": "2、电子、自动化等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、自动化等理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -23225,7 +23869,10 @@
       },
       "major": {
         "raw": "2、计算机、软件开发等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机、软件开发等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -23309,7 +23956,10 @@
       },
       "major": {
         "raw": "2、国际贸易类、物流类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、国际贸易类、物流类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -23395,7 +24045,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23483,7 +24134,8 @@
       },
       "major": {
         "raw": "2、专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -23571,7 +24223,8 @@
       },
       "major": {
         "raw": "2、专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语、韩语",
@@ -23660,7 +24313,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、西班牙语",
@@ -23754,7 +24408,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -23843,7 +24498,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -23934,7 +24590,10 @@
       },
       "major": {
         "raw": "2、市场营销、工商管理、建筑学、设计学相关专业、英语等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、市场营销、工商管理、建筑学、设计学相关专业、英语等"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -24024,7 +24683,8 @@
       },
       "major": {
         "raw": "2、专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -24109,7 +24769,10 @@
       },
       "major": {
         "raw": "2、营销、国际贸易、工商管理、语言类优先，其他专业亦可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "其他专业亦可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -24199,7 +24862,8 @@
       },
       "major": {
         "raw": "2、市场营销、国际贸易、电子科学与技术、光信息科学与技术、物联网工程等相关专业者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -24292,7 +24956,8 @@
       },
       "major": {
         "raw": "计算机、人工智能、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24381,7 +25046,10 @@
       },
       "major": {
         "raw": "1、本科或以上，英语四级及以上，财务专业，熟悉ERP系统操作，熟练操作office,沟通协调能力强",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -24470,7 +25138,8 @@
       },
       "major": {
         "raw": "2、微电子、集成电路、电子信息、自动化、机器人、材料、产业经济、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -24564,7 +25233,10 @@
       },
       "major": {
         "raw": "2、国际贸易、物流等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、国际贸易、物流等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -24648,7 +25320,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -24739,7 +25414,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24821,7 +25499,10 @@
       },
       "major": {
         "raw": "2、法律相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、法律相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -24907,7 +25588,10 @@
       },
       "major": {
         "raw": "2、微电子、材料科学、电子工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、微电子、材料科学、电子工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -24989,7 +25673,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25074,7 +25761,11 @@
       },
       "major": {
         "raw": "2、电子、机械、物理、自动化、光学、通信、数学等相关专业；3、专业基础扎实，成绩优秀，无不及格科目，掌握系统语言、计算机开发语言工具优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、物理、自动化、光学、通信、数学等相关专业",
+          "3、专业基础扎实"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25159,7 +25850,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25245,7 +25939,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理、化学等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理、化学等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25327,7 +26024,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -25407,7 +26105,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -25490,7 +26189,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25575,7 +26277,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25660,7 +26365,10 @@
       },
       "major": {
         "raw": "2、微电子、材料科学、电子工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、微电子、材料科学、电子工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25742,7 +26450,10 @@
       },
       "major": {
         "raw": "2、化学、材料、微电子、集成电路、电子信息、物理学、光电信息工程等相关理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、化学、材料、微电子、集成电路、电子信息、物理学、光电信息工程等相关理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25824,7 +26535,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25909,7 +26623,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理、化学等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理、化学等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -25991,7 +26708,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26073,7 +26793,10 @@
       },
       "major": {
         "raw": "2、材料学、物理、化学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料学、物理、化学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26155,7 +26878,10 @@
       },
       "major": {
         "raw": "2、体学、材料科学与工程、凝聚态物理、无机非金属材料、物理、化学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、体学、材料科学与工程、凝聚态物理、无机非金属材料、物理、化学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26240,7 +26966,10 @@
       },
       "major": {
         "raw": "2、电气、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电气、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26325,7 +27054,10 @@
       },
       "major": {
         "raw": "2、水处理、机械、环境工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、水处理、机械、环境工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26407,7 +27139,10 @@
       },
       "major": {
         "raw": "2、材料科学与工程、物理化学、化学工程、新能源科学与工程等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学与工程、物理化学、化学工程、新能源科学与工程等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26491,7 +27226,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -26573,7 +27309,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -26653,7 +27390,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26737,7 +27477,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -26820,7 +27561,11 @@
       },
       "major": {
         "raw": "2、材料、电子、化学、物理等相关专业；3、材料器件相关专业，有OLED相关经验 细心，严谨，能熟练处理和分析各种测试数据 具有独立思考，分析和解决问题的能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、电子、化学、物理等相关专业",
+          "3、材料器件相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26908,7 +27653,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -26990,7 +27738,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -27070,7 +27819,8 @@
       },
       "major": {
         "raw": "2、理工类专业不限，政治、新闻传播等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -27154,7 +27904,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -27234,7 +27985,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -27320,7 +28074,10 @@
       },
       "major": {
         "raw": "2、计算机科学、电子工程、自动化、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学、电子工程、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -27408,7 +28165,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -27493,7 +28253,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -27578,7 +28341,10 @@
       },
       "major": {
         "raw": "2、工业工程、电子、机械电子工程、机电一体化、自动化、测控技术与仪器、智能科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、电子、机械电子工程、机电一体化、自动化、测控技术与仪器、智能科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -27663,7 +28429,10 @@
       },
       "major": {
         "raw": "2、材料、物理、机械、光学工程、电子技术、光电信息、集成电路、自动化、测控、智能科学与技术、计算机科学与技术、人工智能、大数据、软件工程、网络工程、智能科学与技术等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、物理、机械、光学工程、电子技术、光电信息、集成电路、自动化、测控、智能科学与技术、计算机科学与技术、人工智能、大数据、软件工程、网络工程、智能科学与技术等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -27749,7 +28518,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -27831,7 +28603,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -27922,7 +28697,8 @@
       },
       "major": {
         "raw": "2、材料、化学、物理、电子、工业工程、数学、统计学等理工科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -28007,7 +28783,8 @@
       },
       "major": {
         "raw": "2、理工类专业不限，政治、新闻传播等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -28091,7 +28868,10 @@
       },
       "major": {
         "raw": "2、电子、机械、物理、光学、自动化等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、物理、光学、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -28178,7 +28958,8 @@
       },
       "major": {
         "raw": "2、材料、化学、物理、电子、工业工程、数学、统计学等理工科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -28263,7 +29044,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -28354,7 +29138,10 @@
       },
       "major": {
         "raw": "2、材料，电子类，机械类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -28436,7 +29223,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -28521,7 +29311,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -28604,7 +29395,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -28686,7 +29478,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、智能科学与技术、计算机科学与技术、人工智能、大数据、软件工程、网络工程、智能科学与技术等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、智能科学与技术、计算机科学与技术、人工智能、大数据、软件工程、网络工程、智能科学与技术等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -28773,7 +29568,10 @@
       },
       "major": {
         "raw": "2、电子信息，电力电子，电气工程及其自动化，微电子等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "微电子等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -28857,7 +29655,10 @@
       },
       "major": {
         "raw": "2、电子、机械、化学、物理、光学、材料、自动化、计算机等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、化学、物理、光学、材料、自动化、计算机等理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -28942,7 +29743,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -29030,7 +29832,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -29112,7 +29915,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -29196,7 +30002,10 @@
       },
       "major": {
         "raw": "2、高分子化学、化学工程、材料科学与工程、化学工程与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、高分子化学、化学工程、材料科学与工程、化学工程与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -29280,7 +30089,10 @@
       },
       "major": {
         "raw": "2、机械类相关专业 熟悉五金和塑胶材料特性",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械类相关专业 熟悉五金和塑胶材料特性"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -29366,7 +30178,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -29450,7 +30265,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -29535,7 +30353,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -29623,7 +30442,10 @@
       },
       "major": {
         "raw": "2、理工科、工业工程、供应链、国贸等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理工科、工业工程、供应链、国贸等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -29707,7 +30529,11 @@
       },
       "major": {
         "raw": "2、机械设计、电子、等理工相关专业；2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计、电子、等理工相关专业",
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -29796,7 +30622,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -29880,7 +30709,8 @@
       },
       "major": {
         "raw": "2、市场营销、国际贸易、电子科学与技术、光信息科学与技术、物联网工程等相关专业者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -29973,7 +30803,10 @@
       },
       "major": {
         "raw": "2、化学、应用化学、分析化学、药物分析、材料分析等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、化学、应用化学、分析化学、药物分析、材料分析等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30061,7 +30894,10 @@
       },
       "major": {
         "raw": "2、材料科学与工程、物理化学、化学工程、新能源科学与工程等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学与工程、物理化学、化学工程、新能源科学与工程等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30145,7 +30981,10 @@
       },
       "major": {
         "raw": "2、电子信息、物理、化学、机械、材料等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息、物理、化学、机械、材料等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30233,7 +31072,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -30316,7 +31156,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30398,7 +31241,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30483,7 +31329,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30565,7 +31414,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -30650,7 +31500,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30738,7 +31591,10 @@
       },
       "major": {
         "raw": "2、电子、电气、自动化等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、电气、自动化等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30822,7 +31678,10 @@
       },
       "major": {
         "raw": "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30912,7 +31771,10 @@
       },
       "major": {
         "raw": "2、工业工程、电子、机械、自动化、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、电子、机械、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -30997,7 +31859,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -31079,7 +31944,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -31161,7 +32029,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -31244,7 +32113,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、软件工程、人工智能、计算机视觉、电子信息工程、机械、化学、物理、计算机、自动化、测控、材料等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、软件工程、人工智能、计算机视觉、电子信息工程、机械、化学、物理、计算机、自动化、测控、材料等理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -31330,7 +32202,10 @@
       },
       "major": {
         "raw": "2、电子信息、物联网、计算机、电气自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息、物联网、计算机、电气自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -31412,7 +32287,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -31504,7 +32382,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -31584,7 +32463,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -31666,7 +32548,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -31750,7 +32633,10 @@
       },
       "major": {
         "raw": "2、电气工程及其自动化、机械电子工程、机电一体化、自动化、暖通、给排水、气体、建筑、热能与动力工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电气工程及其自动化、机械电子工程、机电一体化、自动化、暖通、给排水、气体、建筑、热能与动力工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -31832,7 +32718,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -31912,7 +32799,10 @@
       },
       "major": {
         "raw": "2、物流管理类、管理工程学、工业工程等相关专业电子、机械、自动化、工业设计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物流管理类、管理工程学、工业工程等相关专业电子、机械、自动化、工业设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -31997,7 +32887,10 @@
       },
       "major": {
         "raw": "2、电子、工业工程、机械等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、工业工程、机械等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -32081,7 +32974,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -32168,7 +33062,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -32253,7 +33148,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -32338,7 +33234,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -32422,7 +33319,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -32504,7 +33402,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -32586,7 +33485,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -32668,7 +33568,10 @@
       },
       "major": {
         "raw": "2、机械、电子、材料、物理等工科专业等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械、电子、材料、物理等工科专业等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -32752,7 +33655,10 @@
       },
       "major": {
         "raw": "2、电子/机械/材料/工业工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子/机械/材料/工业工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -32837,7 +33743,11 @@
       },
       "major": {
         "raw": "2、工业工程，机械类，材料类，测控类，电子类，自动化，质量管理等工科专业；英语交流能力突出，且有意向往制造业扎根的可对专业适当放宽",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "质量管理等工科专业",
+          "且有意向往制造业扎根的可对专业适当放宽"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -32924,7 +33834,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -33006,7 +33919,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33088,7 +34002,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33168,7 +34083,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33250,7 +34166,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33330,7 +34247,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33410,7 +34328,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33490,7 +34409,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33570,7 +34490,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33650,7 +34571,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33730,7 +34652,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33810,7 +34733,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33890,7 +34814,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33970,7 +34895,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34052,7 +34980,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34134,7 +35065,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34222,7 +35156,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34310,7 +35247,10 @@
       },
       "major": {
         "raw": "2、电气自动化、机电一体化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电气自动化、机电一体化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34395,7 +35335,10 @@
       },
       "major": {
         "raw": "2、电子、自动化相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、自动化相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34479,7 +35422,10 @@
       },
       "major": {
         "raw": "2、机械、自动化、工业工程、物流管理，供应链管理，电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34565,7 +35511,10 @@
       },
       "major": {
         "raw": "2、自动化、机电一体化、机械设计及自动化、电气工程及自动化相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、机电一体化、机械设计及自动化、电气工程及自动化相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34649,7 +35598,10 @@
       },
       "major": {
         "raw": "2、电子、机械、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34731,7 +35683,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34813,7 +35768,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -34905,7 +35863,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -34985,7 +35944,10 @@
       },
       "major": {
         "raw": "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35067,7 +36029,10 @@
       },
       "major": {
         "raw": "2、物流管理类、管理工程学、工业工程等相关专业电子、机械、自动化、工业设计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物流管理类、管理工程学、工业工程等相关专业电子、机械、自动化、工业设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35152,7 +36117,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35234,7 +36202,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35316,7 +36287,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -35404,7 +36376,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35495,7 +36470,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -35579,7 +36555,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -35664,7 +36641,8 @@
       },
       "major": {
         "raw": "2、市场营销、国际贸易、电子科学与技术、光信息科学与技术、物联网工程等相关专业者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -35757,7 +36735,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35842,7 +36823,10 @@
       },
       "major": {
         "raw": "2、工业工程、电子、机械、自动化、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、电子、机械、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35927,7 +36911,10 @@
       },
       "major": {
         "raw": "2、自动化、机电一体化、机械设计及自动化、电气工程及自动化相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、机电一体化、机械设计及自动化、电气工程及自动化相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36011,7 +36998,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36093,7 +37083,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -36173,7 +37164,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36255,7 +37249,10 @@
       },
       "major": {
         "raw": "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36337,7 +37334,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36428,7 +37428,10 @@
       },
       "major": {
         "raw": "2、物理、电子、光学、机械、自动化、材料、化学、测控等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物理、电子、光学、机械、自动化、材料、化学、测控等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36513,7 +37516,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -36593,7 +37597,10 @@
       },
       "major": {
         "raw": "2、工业工程、数学、统计学、管理科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、数学、统计学、管理科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36678,7 +37685,8 @@
       },
       "major": {
         "raw": "2、理工类专业不限，工业工程专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -36763,7 +37771,10 @@
       },
       "major": {
         "raw": "2、自动化、机电一体化、机械设计及自动化、电气工程及自动化相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、机电一体化、机械设计及自动化、电气工程及自动化相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36849,7 +37860,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理、化学、计算机等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理、化学、计算机等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36933,7 +37947,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37025,7 +38042,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -37105,7 +38123,10 @@
       },
       "major": {
         "raw": "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37187,7 +38208,10 @@
       },
       "major": {
         "raw": "2、物流管理类、管理工程学、工业工程等相关专业电子、机械、自动化、工业设计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物流管理类、管理工程学、工业工程等相关专业电子、机械、自动化、工业设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37272,7 +38296,10 @@
       },
       "major": {
         "raw": "2、材料科学与工程、光学工程、光电信息工程、电子科学与技术、物理化学、微电子与固体电子学、凝聚态物理等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料科学与工程、光学工程、光电信息工程、电子科学与技术、物理化学、微电子与固体电子学、凝聚态物理等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37354,7 +38381,10 @@
       },
       "major": {
         "raw": "1、工业工程、电子、机械、自动化、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、工业工程、电子、机械、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37436,7 +38466,10 @@
       },
       "major": {
         "raw": "1、电子、光电信息、电子工程、机械工程、自动化工程等理工相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电子、光电信息、电子工程、机械工程、自动化工程等理工相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -37521,7 +38554,10 @@
       },
       "major": {
         "raw": "1、 工业工程、电子、机械、自动化、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、 工业工程、电子、机械、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37605,7 +38641,10 @@
       },
       "major": {
         "raw": "1、工业工程、电子、机械、自动化、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、工业工程、电子、机械、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37689,7 +38728,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37774,7 +38816,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37859,7 +38904,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -37939,7 +38985,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -38023,7 +39072,10 @@
       },
       "major": {
         "raw": "2、物理、化学、光学、高分子等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物理、化学、光学、高分子等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -38110,7 +39162,10 @@
       },
       "major": {
         "raw": "2、电子、机械、自动化、光电、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、自动化、光电、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -38194,7 +39249,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -38276,7 +39332,8 @@
       },
       "major": {
         "raw": "2、生物、医药、化学，或其他与分子生物学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -38358,7 +39415,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "韩语",
@@ -38440,7 +39498,10 @@
       },
       "major": {
         "raw": "人工智能、计算机、数据智能等相关工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人工智能、计算机、数据智能等相关工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -38528,7 +39589,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -38610,7 +39672,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -38695,7 +39760,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -38777,7 +39845,10 @@
       },
       "major": {
         "raw": "2、物流管理类、管理工程学、工业工程等相关专业电子、机械、自动化、工业设计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物流管理类、管理工程学、工业工程等相关专业电子、机械、自动化、工业设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -38862,7 +39933,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -38944,7 +40018,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39026,7 +40103,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39117,7 +40197,10 @@
       },
       "major": {
         "raw": "2、电子科学与技术、电气工程、电子信息工程、微电子、集成电路工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子科学与技术、电气工程、电子信息工程、微电子、集成电路工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39199,7 +40282,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39290,7 +40376,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -39378,7 +40465,10 @@
       },
       "major": {
         "raw": "2、电子、机械、物理、光学、自动化等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、物理、光学、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39465,7 +40555,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、管理、英语等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、管理、英语等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39550,7 +40643,10 @@
       },
       "major": {
         "raw": "2、自动化，机械，电气自动化，电力电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电力电子等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39634,7 +40730,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39719,7 +40818,10 @@
       },
       "major": {
         "raw": "2、自动化、机电一体化、机械设计及自动化、电气工程及自动化相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、机电一体化、机械设计及自动化、电气工程及自动化相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39803,7 +40905,10 @@
       },
       "major": {
         "raw": "2、电子、物理、光电、机械、自动化、测控、计算机、电气、材料化学等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、物理、光电、机械、自动化、测控、计算机、电气、材料化学等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39885,7 +40990,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业电子、机械、材料、物理、自动化、光学、化学、数学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39977,7 +41085,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -40057,7 +41166,10 @@
       },
       "major": {
         "raw": "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40139,7 +41251,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -40219,7 +41332,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -40299,7 +41413,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40390,7 +41507,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40481,7 +41601,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40566,7 +41689,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40657,7 +41783,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40748,7 +41877,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40833,7 +41965,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40918,7 +42053,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -41003,7 +42141,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41083,7 +42222,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41163,7 +42303,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41243,7 +42384,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41323,7 +42465,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41403,7 +42546,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41483,7 +42627,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41563,7 +42708,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41643,7 +42789,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41723,7 +42870,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41803,7 +42951,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41883,7 +43032,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -41963,7 +43113,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -42043,7 +43194,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -42123,7 +43275,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -42205,7 +43360,10 @@
       },
       "major": {
         "raw": "2、工业工程、物流管理类、统计学、安全科学与工程类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、物流管理类、统计学、安全科学与工程类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -42289,7 +43447,10 @@
       },
       "major": {
         "raw": "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、动力、暖通、电气、给排水、气体、建筑、热能与动力工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -42371,7 +43532,8 @@
       },
       "major": {
         "raw": "2、物理光学、电子类、材料、物理类、光学类等 理工科基础运用相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -42453,7 +43615,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -42539,7 +43704,10 @@
       },
       "major": {
         "raw": "2、光学类、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、光学类、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -42621,7 +43789,10 @@
       },
       "major": {
         "raw": "2、电子、物理类、光学类、机械类、自动化等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、物理类、光学类、机械类、自动化等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -42705,7 +43876,8 @@
       },
       "major": {
         "raw": "2、材料、化学、物理、电子、工业工程、数学、统计学等理工科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -42790,7 +43962,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、软件工程、数学、统计学、数据科学、电子信息工程、自动化、控制工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、软件工程、数学、统计学、数据科学、电子信息工程、自动化、控制工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -42877,7 +44052,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、软件工程、物理学，电子科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -42964,7 +44142,10 @@
       },
       "major": {
         "raw": "2、计算机科学与技术、人工智能、自然语言处理、应用数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学与技术、人工智能、自然语言处理、应用数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43051,7 +44232,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类、人工智能类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类、人工智能类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43138,7 +44322,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43220,7 +44407,10 @@
       },
       "major": {
         "raw": "2、工业工程、统计学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、统计学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43308,7 +44498,10 @@
       },
       "major": {
         "raw": "2、工业工程、物流管理类、统计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、工业工程、物流管理类、统计学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43392,7 +44585,10 @@
       },
       "major": {
         "raw": "2、自动化、测控、机械、电子、材料、物理等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、自动化、测控、机械、电子、材料、物理等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43474,7 +44670,10 @@
       },
       "major": {
         "raw": "2、动力、暖通、建筑、热能与动力工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、动力、暖通、建筑、热能与动力工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43556,7 +44755,10 @@
       },
       "major": {
         "raw": "2、计算机科学、电子工程、自动化、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机科学、电子工程、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43644,7 +44846,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43730,7 +44935,11 @@
       },
       "major": {
         "raw": "1、本科及以上应届生，车辆工程、电子信息、市场营销、机械等相关专业，对车载显示屏、汽车前装零部件行业有浓厚从业意愿，能长期深耕汽车座舱销售赛道；2、理工科电路等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆工程、电子信息、市场营销、机械等相关专业",
+          "2、理工科电路等相关专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -43822,7 +45031,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理、金融学、保险学、财政学、经济学等财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -43913,7 +45125,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -43996,7 +45209,10 @@
       },
       "major": {
         "raw": "2、机械设计、光电信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计、光电信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44080,7 +45296,10 @@
       },
       "major": {
         "raw": "2、机械设计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44166,7 +45385,10 @@
       },
       "major": {
         "raw": "2、理/工科等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、理/工科等相关专业"
+        ]
       },
       "language": {
         "raw": "英语、韩语",
@@ -44250,7 +45472,10 @@
       },
       "major": {
         "raw": "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44338,7 +45563,10 @@
       },
       "major": {
         "raw": "2、电气类、电气设计类、电气及其自动化类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电气类、电气设计类、电气及其自动化类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44422,7 +45650,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -44509,7 +45738,10 @@
       },
       "major": {
         "raw": "2、电子工程/会计/成本造价等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子工程/会计/成本造价等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44595,7 +45827,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，电子工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子工程相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44685,7 +45920,10 @@
       },
       "major": {
         "raw": "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子科学与技术、电子信息工程、微电子、集成电路工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44771,7 +46009,10 @@
       },
       "major": {
         "raw": "2、电子工程/自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子工程/自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44858,7 +46099,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、软件工程、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -44946,7 +46190,10 @@
       },
       "major": {
         "raw": "2、计算机、软件、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机、软件、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45035,7 +46282,10 @@
       },
       "major": {
         "raw": "2、电子、机械、物理、光学、自动化等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、物理、光学、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45122,7 +46372,10 @@
       },
       "major": {
         "raw": "2、电子、电气、自动化、微电子、集成电路等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、电气、自动化、微电子、集成电路等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45207,7 +46460,10 @@
       },
       "major": {
         "raw": "2、机械类、机械设计及其自动化类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械类、机械设计及其自动化类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45291,7 +46547,10 @@
       },
       "major": {
         "raw": "2、机械工程/机械设计制造及自动化、材料成型及控制工程、材料科学与工程、高分子材料、凝聚态物理、微电子、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械工程/机械设计制造及自动化、材料成型及控制工程、材料科学与工程、高分子材料、凝聚态物理、微电子、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45375,7 +46634,10 @@
       },
       "major": {
         "raw": "2、机械设计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45461,7 +46723,10 @@
       },
       "major": {
         "raw": "2、物理学、微电子与固体电子学、电子电路、化学、材料化学、光学、有机高分子及相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、物理学、微电子与固体电子学、电子电路、化学、材料化学、光学、有机高分子及相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45548,7 +46813,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -45631,7 +46897,10 @@
       },
       "major": {
         "raw": "2、材料、物理、化学、光学、高分子材料等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、物理、化学、光学、高分子材料等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45717,7 +46986,11 @@
       },
       "major": {
         "raw": "2、材料、电子、化学、物理等相关专业；3、材料器件相关专业，有OLED相关经验 细心，严谨，能熟练处理和分析各种测试数据 具有独立思考，分析和解决问题的能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、电子、化学、物理等相关专业",
+          "3、材料器件相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45805,7 +47078,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45887,7 +47163,10 @@
       },
       "major": {
         "raw": "2、电子类、机械类、材料类、物理类、化学类、光学类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子类、机械类、材料类、物理类、化学类、光学类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -45969,7 +47248,10 @@
       },
       "major": {
         "raw": "2、电子、机械、物理、光学、自动化等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、物理、光学、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46056,7 +47338,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46141,7 +47426,10 @@
       },
       "major": {
         "raw": "2、材料物理类、光学工程类、材料类、高分子、化工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料物理类、光学工程类、材料类、高分子、化工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46227,7 +47515,10 @@
       },
       "major": {
         "raw": "2、电子信息、微电子、集成电路等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息、微电子、集成电路等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46313,7 +47604,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46395,7 +47689,10 @@
       },
       "major": {
         "raw": "2、计算机视觉、机器视觉、模式识别、数字图像处理、空间交互技术、IP、研究嵌入式软件、Windows平台、安卓平台、图形学、图像处理、图像算法、系统设计等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机视觉、机器视觉、模式识别、数字图像处理、空间交互技术、IP、研究嵌入式软件、Windows平台、安卓平台、图形学、图像处理、图像算法、系统设计等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46479,7 +47776,10 @@
       },
       "major": {
         "raw": "2、材料、化学、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、材料、化学、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46565,7 +47865,10 @@
       },
       "major": {
         "raw": "2、电子、材料、物理、光学、化学等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、材料、物理、光学、化学等工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46647,7 +47950,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46729,7 +48035,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -46809,7 +48116,10 @@
       },
       "major": {
         "raw": "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、凝聚态物理、微电子、材料、自动化、光学、化学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -46891,7 +48201,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -46973,7 +48284,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -47055,7 +48369,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -47137,7 +48452,8 @@
       },
       "major": {
         "raw": "1、中文系或具有材料学、化学、工业工程、物流工程、物流管理等理工科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -47220,7 +48536,10 @@
       },
       "major": {
         "raw": "1、计算机科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -47303,7 +48622,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -47385,7 +48705,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -47467,7 +48790,8 @@
       },
       "major": {
         "raw": "2、不限专业，工业工程、统计类、数学类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -47555,7 +48879,10 @@
       },
       "major": {
         "raw": "1、 电子或自动化，计算机或人工智能or中文系专业皆可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机或人工智能or中文系专业皆可"
+        ]
       },
       "language": {
         "raw": "",
@@ -47638,7 +48965,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -47723,7 +49051,10 @@
       },
       "major": {
         "raw": "1、电子或自动化，计算机或人工智能or中文系专业皆可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机或人工智能or中文系专业皆可"
+        ]
       },
       "language": {
         "raw": "",
@@ -47803,7 +49134,10 @@
       },
       "major": {
         "raw": "1、电子或自动化，计算机或工业工程or中文系专业皆可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机或工业工程or中文系专业皆可"
+        ]
       },
       "language": {
         "raw": "",
@@ -47885,7 +49219,10 @@
       },
       "major": {
         "raw": "7、材料、电子、机械、自动化、光电、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "7、材料、电子、机械、自动化、光电、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -47967,7 +49304,10 @@
       },
       "major": {
         "raw": "自动化、机电一体化、机械设计及自动化、电气工程及自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "自动化、机电一体化、机械设计及自动化、电气工程及自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -48049,7 +49389,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -48133,7 +49474,8 @@
       },
       "major": {
         "raw": "1、本科以上学历，能熟练操作财务系统",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -48219,7 +49561,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、电子工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -48304,7 +49649,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -48386,7 +49732,10 @@
       },
       "major": {
         "raw": "2、电子、机械、材料、物理、自动化、光学、化学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子、机械、材料、物理、自动化、光学、化学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -48466,7 +49815,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -48555,7 +49907,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -48644,7 +49999,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -48733,7 +50091,10 @@
       },
       "major": {
         "raw": "2、计算机、软件开发等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机、软件开发等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -48819,7 +50180,10 @@
       },
       "major": {
         "raw": "2、电子信息、计算机、通信、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、电子信息、计算机、通信、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -48906,7 +50270,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -48992,7 +50359,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -49078,7 +50448,10 @@
       },
       "major": {
         "raw": "2、计算机类、软件类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、计算机类、软件类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",

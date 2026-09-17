@@ -18,7 +18,8 @@
       },
       "major": {
         "raw": "统招本科及以上学历，统计学、经济学、数据科学、大数据科学与技术等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -112,7 +113,8 @@
       },
       "major": {
         "raw": "面向国内外高校本科及以上，理工类专业优先，数据分析，大数据科学与技术等相关管业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -205,7 +207,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -299,7 +302,10 @@
       },
       "major": {
         "raw": "本科及以上学历，专业不限，计算机、经管、中文、建筑、新闻等各专业均可投递",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、经管、中文、建筑、新闻等各专业均可投递"
+        ]
       },
       "language": {
         "raw": "",
@@ -396,7 +402,10 @@
       },
       "major": {
         "raw": "统招本科及以上学历，计算机类、信息管理类、电商物流类、财会类、工业工程类、建筑/土木类等专业优先； 其他专业也可投递",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "其他专业也可投递"
+        ]
       },
       "language": {
         "raw": "",
@@ -488,7 +497,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -580,7 +590,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -675,7 +686,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -765,7 +777,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，专业不限，欢迎计算机类、建筑类、经管类、文学等各专业背景的优秀毕业生加入，应届或在校生（目前校招与实习均有hc）",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "欢迎计算机类、建筑类、经管类、文学等各专业背景的优秀毕业生加入"
+        ]
       },
       "language": {
         "raw": "",
@@ -862,7 +877,11 @@
       },
       "major": {
         "raw": "1、​​学历背景：​​ 应届毕业生，本科及以上学历，​​专业不限​​，我们欢迎多元化的背景和视角",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、​​学历背景：​​ 应届毕业生",
+          "我们欢迎多元化的背景和视角"
+        ]
       },
       "language": {
         "raw": "",
@@ -958,7 +977,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1050,7 +1070,11 @@
       },
       "major": {
         "raw": "1. 学历背景 本科及以上学历，计算机相关专业，应届毕业生或在校生均可投递",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历背景 本科及以上学历",
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1148,7 +1172,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1244,7 +1269,10 @@
       },
       "major": {
         "raw": "1、数学/统计类专业，对数据相关工作有充分的好奇心与钻研欲望，有一定数据分析基础，熟悉SQL、Python、R等统计软件优先，校招/实习均有hc",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、数学/统计类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1337,7 +1365,11 @@
       },
       "major": {
         "raw": "1.教育背景：应届生/在校生，硕士及以上学历，计算机、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.教育背景：应届生/在校生",
+          "计算机、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1432,7 +1464,11 @@
       },
       "major": {
         "raw": "1、教育背景：本科及以上学历，应届或在校生（目前校招与实习均有hc），计算机/电子/通信/大数据等相关专业优先，非相关专业有自主编程学习、项目实战经验者亦可",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、教育背景：本科及以上学历",
+          "非相关专业有自主编程学习、项目实战经验者亦可"
+        ]
       },
       "language": {
         "raw": "",
@@ -1531,7 +1567,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、大数据、统计等相关专业，校招/实习均有hc",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、大数据、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1629,7 +1668,11 @@
       },
       "major": {
         "raw": "1、教育背景：本科及以上学历，应届或在校生（目前校招与实习均有hc），计算机/电子/通信/大数据等相关专业优先，其他专业自学过也可",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、教育背景：本科及以上学历",
+          "其他专业自学过也可"
+        ]
       },
       "language": {
         "raw": "",
@@ -1724,7 +1767,8 @@
       },
       "major": {
         "raw": "1. 应届毕业生，本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1816,7 +1860,8 @@
       },
       "major": {
         "raw": "1、高校本科及以上学历，专业不限，原则上27岁以内",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1909,7 +1954,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机/电子/通信/大数据等相关专业优先，其他专业自学过也可，校招/实习均有hc",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "其他专业自学过也可"
+        ]
       },
       "language": {
         "raw": "",
@@ -2002,7 +2050,10 @@
       },
       "major": {
         "raw": "1. 应届毕业生，计算机相关专业背景，熟练掌握数据库SQL基础操作语句",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -2097,7 +2148,8 @@
       },
       "major": {
         "raw": "1、法学相关专业高校、法学相关专业优先，通过法律职业资格考试优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2192,7 +2244,11 @@
       },
       "major": {
         "raw": "1、教育背景：本科及以上学历，计算机科学或相关专业，应届或在校生（目前校招与实习均有hc）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、教育背景：本科及以上学历",
+          "计算机科学或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2285,7 +2341,10 @@
       },
       "major": {
         "raw": "1. 应届毕业生，计算机相关专业背景，熟练掌握数据库SQL基础操作语句",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业背景"
+        ]
       },
       "language": {
         "raw": "",

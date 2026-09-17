@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "本科及以上学历，电子商务、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -108,7 +109,8 @@
       },
       "major": {
         "raw": "本科及以上学历，电子商务、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -197,7 +199,8 @@
       },
       "major": {
         "raw": "本科及以上学历，电子商务、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -288,7 +291,10 @@
       },
       "major": {
         "raw": "本科及以上学历，市场营销、国际贸易、电子商务等相关专业，英语可作为工作语言",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、国际贸易、电子商务等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -383,7 +389,8 @@
       },
       "major": {
         "raw": "本科及以上学历，广告、中文、新闻学、传媒、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -469,7 +476,8 @@
       },
       "major": {
         "raw": "本科以上，计算机、信息管理、物流工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -561,7 +569,8 @@
       },
       "major": {
         "raw": "本科及以上学历，哲学/人力资源管理专业优先，形象气质佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -647,7 +656,8 @@
       },
       "major": {
         "raw": "本科及以上学历，市场营销、广告学、传播学、工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -737,7 +747,8 @@
       },
       "major": {
         "raw": "本科及以上学历，广告、中文、新闻学、传播学、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -827,7 +838,8 @@
       },
       "major": {
         "raw": "本科及以上学历，专业不限，市场营销、广告学、新闻学专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -917,7 +929,8 @@
       },
       "major": {
         "raw": "硕士及以上学历，服装设计/服装工程/纺织材料学专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1006,7 +1019,8 @@
       },
       "major": {
         "raw": "本科及以上学历，经营管理、统计类、电子商务、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1097,7 +1111,8 @@
       },
       "major": {
         "raw": "本科及以上学历，经营管理、统计类、电子商务、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1186,7 +1201,8 @@
       },
       "major": {
         "raw": "本科以上学历，计算机、统计学、数学、信息管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1282,7 +1298,8 @@
       },
       "major": {
         "raw": "本科及以上学历，美术、视觉传达，广告学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1370,7 +1387,8 @@
       },
       "major": {
         "raw": "本科及以上学历，经营管理、市场营销、统计学、心理学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1461,7 +1479,10 @@
       },
       "major": {
         "raw": "本科以上学历，计算机、人工智能、数学等相关专业，有 AI 产品设计与落地的实际项目经验者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1547,7 +1568,8 @@
       },
       "major": {
         "raw": "本科及以上学历，材料科学、高分子化学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1634,7 +1656,10 @@
       },
       "major": {
         "raw": "本科及以上学历，金融学、工商管理、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融学、工商管理、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1723,7 +1748,10 @@
       },
       "major": {
         "raw": "本科及以上学历，金融学、工商管理、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融学、工商管理、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1812,7 +1840,8 @@
       },
       "major": {
         "raw": "硕士及以上学历，市场营销、广告学、新闻学专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1901,7 +1930,8 @@
       },
       "major": {
         "raw": "硕士及以上学历，市场营销、广告学、新闻学专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1990,7 +2020,10 @@
       },
       "major": {
         "raw": "本科及以上学历，会计、审计、财务管理、经济学、金融等财经相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计、审计、财务管理、经济学、金融等财经相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2079,7 +2112,8 @@
       },
       "major": {
         "raw": "本科及以上学历，化学、应用化学、化工、药学、材料科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2168,7 +2202,8 @@
       },
       "major": {
         "raw": "本科及以上学历，材料工程、机械模具、化工原料等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2252,7 +2287,10 @@
       },
       "major": {
         "raw": "学历背景：本科及以上学历，工业设计、产品设计相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历背景：本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -2338,7 +2376,8 @@
       },
       "major": {
         "raw": "本科及以上学历，市场营销、工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2425,7 +2464,11 @@
       },
       "major": {
         "raw": "本科及以上学历，海外留学背景，市场营销、国际贸易、电子商务等相关专业，英语可作为工作语言",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "海外留学背景",
+          "市场营销、国际贸易、电子商务等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2519,7 +2562,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，法学、国际贸易、化学、毒理学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2612,7 +2656,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，市场营销、广告学、新闻学专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2704,7 +2749,8 @@
       },
       "major": {
         "raw": "1、本科以上学历，市场营销、广告学、新闻学专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2795,7 +2841,8 @@
       },
       "major": {
         "raw": "1、应届毕业生，本科及以上学历，计算机、信息管理、软件工程、财务管理、会计、供应链管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2883,7 +2930,8 @@
       },
       "major": {
         "raw": "1、本科学历及以上，市场营销、经济管理、金融等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2970,7 +3018,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3050,7 +3099,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械工程、电气工程专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3138,7 +3188,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，会计、审计、财务管理相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计、审计、财务管理相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3223,7 +3276,8 @@
       },
       "major": {
         "raw": "1、本科学历及以上，市场营销、经济管理、金融等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3310,7 +3364,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，市场营销、工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3399,7 +3454,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3484,7 +3540,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，工商管理、管理工程科学、金融管理、数学、统计学等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

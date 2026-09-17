@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "1.硕士研究生及以上学历，保险、金融、市场营销、工商管理、统计等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -112,7 +113,10 @@
       },
       "major": {
         "raw": "2.本科以上学历，人力资源管理、行政管理、经济、金融、保险、工商管理、教育学、心理学、计算机科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人力资源管理、行政管理、经济、金融、保险、工商管理、教育学、心理学、计算机科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -197,7 +201,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -283,7 +288,8 @@
       },
       "major": {
         "raw": "2.统计学、人工智能、农学、医学、法学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -367,7 +373,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -452,7 +459,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -536,7 +544,10 @@
       },
       "major": {
         "raw": "2.航海技术、轮机工程、船舶电子电气工程、船舶与海洋工程、海洋工程、交通运输、物流工程、材料科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.航海技术、轮机工程、船舶电子电气工程、船舶与海洋工程、海洋工程、交通运输、物流工程、材料科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -625,7 +636,10 @@
       },
       "major": {
         "raw": "3.管理类、经济类、金融、保险、文法类、人力资源管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.管理类、经济类、金融、保险、文法类、人力资源管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -707,7 +721,8 @@
       },
       "major": {
         "raw": "2.保险、管理、金融、经济专业背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -794,7 +809,10 @@
       },
       "major": {
         "raw": "2.经济、金融、医学、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、医学、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -882,7 +900,10 @@
       },
       "major": {
         "raw": "2.掌握金融保险行业基本逻辑，具备通信、计算机、医学、航空航天等理工类专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "具备通信、计算机、医学、航空航天等理工类专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -969,7 +990,10 @@
       },
       "major": {
         "raw": "2.法律相关专业，有国家法律职业资格证（A证）者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.法律相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1055,7 +1079,10 @@
       },
       "major": {
         "raw": "2.法律、纪检、马克思主义、保险、中文等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.法律、纪检、马克思主义、保险、中文等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1141,7 +1168,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1226,7 +1254,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1311,7 +1340,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险、电子商务等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1403,7 +1433,8 @@
       },
       "major": {
         "raw": "2.工程类、统计学、计算机、人工智能、集成电路、生物医药学等理工类专业优先.",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1483,7 +1514,10 @@
       },
       "major": {
         "raw": "人工智能、软件开发等计算机相关专业，硕士研究生及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人工智能、软件开发等计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1569,7 +1603,10 @@
       },
       "major": {
         "raw": "1. 硕士研究生及以上学历，金融工程、数学、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融工程、数学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1654,7 +1691,10 @@
       },
       "major": {
         "raw": "2.专业背景：计算机科学与技术、人工智能、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业背景：计算机科学与技术、人工智能、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1744,7 +1784,10 @@
       },
       "major": {
         "raw": "2.专业背景：精算、数学、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业背景：精算、数学、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1831,7 +1874,11 @@
       },
       "major": {
         "raw": "2.专业背景：会计、财务、税务、审计等相关专业；3.技能要求：①具备较强的财务会计、审计、税法、经济管理等专业基础知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业背景：会计、财务、税务、审计等相关专业",
+          "3.技能要求：①具备较强的财务会计、审计、税法、经济管理等专业基础知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -1918,7 +1965,10 @@
       },
       "major": {
         "raw": "2.专业背景：安全工程、消防工程、机械工程、电气工程、自动化、气象学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业背景：安全工程、消防工程、机械工程、电气工程、自动化、气象学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2005,7 +2055,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2092,7 +2143,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2172,7 +2224,10 @@
       },
       "major": {
         "raw": "1.金融类等相关专业，具备理工、科技、医学背景优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.金融类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2254,7 +2309,10 @@
       },
       "major": {
         "raw": "1.金融、经济、保险、信息科技等相关专业，具备理工、科技、医学背景优先；2.持有CFA、CPA、FRM、精算师等金融相关专业资格证书者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.金融、经济、保险、信息科技等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2338,7 +2396,8 @@
       },
       "major": {
         "raw": "2.安全工程、化工工程、电气工程、土木工程、计算机类、管理类、经济类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2425,7 +2484,10 @@
       },
       "major": {
         "raw": "1.本科以上学历，医学、风险管理、金融、统计、财会等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "医学、风险管理、金融、统计、财会等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2509,7 +2571,8 @@
       },
       "major": {
         "raw": "3.专业不限，金融、保险、管理、经济、理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2596,7 +2659,8 @@
       },
       "major": {
         "raw": "3.专业不限，金融、保险、管理、经济、理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2679,7 +2743,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2762,7 +2827,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2846,7 +2912,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2926,7 +2993,10 @@
       },
       "major": {
         "raw": "2.土木工程、建筑环境与能源应用工程、给排水科学与工程、工程管理、安全工程、消防工程、防灾减灾工程等土建安全类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.土木工程、建筑环境与能源应用工程、给排水科学与工程、工程管理、安全工程、消防工程、防灾减灾工程等土建安全类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3012,7 +3082,10 @@
       },
       "major": {
         "raw": "1.计算机类、人工智能类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机类、人工智能类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3094,7 +3167,10 @@
       },
       "major": {
         "raw": "金融保险、经济类等相关专业，具备理工、科技、医学背景优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融保险、经济类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3174,7 +3250,10 @@
       },
       "major": {
         "raw": "1.金融类等相关专业，具备理工、科技、医学背景优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.金融类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3257,7 +3336,10 @@
       },
       "major": {
         "raw": "经济学类等相关专业，具备理工、科技、医学背景优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "经济学类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3337,7 +3419,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3418,7 +3501,10 @@
       },
       "major": {
         "raw": "1.金融、经济、保险、法律等相关专业，具备理工、科技、医学背景优先；2.持有CFA、CPA、FRM、精算师等金融相关专业资格证书者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.金融、经济、保险、法律等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3506,7 +3592,10 @@
       },
       "major": {
         "raw": "1.金融、经济、保险、市场营销等相关专业，具备理工、科技、医学背景优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.金融、经济、保险、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3593,7 +3682,10 @@
       },
       "major": {
         "raw": "3.金融学类、经济学类、法学类、经济学、马克思主义理论类、会计学、财务管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.金融学类、经济学类、法学类、经济学、马克思主义理论类、会计学、财务管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3677,7 +3769,11 @@
       },
       "major": {
         "raw": "5.支撑各业务条线计算机与信息技术专业能力需求，跟踪前沿信息技术发展，参与公司科技赋能与数据能力建设规划；2.计算机科学与技术、软件工程、人工智能、信息与通信工程、电子信息、网络空间安全、电子科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "5.支撑各业务条线计算机与信息技术专业能力需求",
+          "2.计算机科学与技术、软件工程、人工智能、信息与通信工程、电子信息、网络空间安全、电子科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3765,7 +3861,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3847,7 +3944,10 @@
       },
       "major": {
         "raw": "2.计算机科学与技术、人工智能、电子科学与技术、材料科学与工程、生物医学工程、化学工程与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.计算机科学与技术、人工智能、电子科学与技术、材料科学与工程、生物医学工程、化学工程与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3932,7 +4032,10 @@
       },
       "major": {
         "raw": "2.航空宇航科学与技术、低空技术与工程、无人驾驶航空器系统工程、交通运输工程、控制科学与工程、信息与通信工程、计算机/人工智能（飞控算法）、测绘科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.航空宇航科学与技术、低空技术与工程、无人驾驶航空器系统工程、交通运输工程、控制科学与工程、信息与通信工程、计算机/人工智能（飞控算法）、测绘科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4017,7 +4120,10 @@
       },
       "major": {
         "raw": "2.车辆工程、动力工程及工程热物理、电气工程、交通运输工程、机械工程、计算机科学与技术、软件工程、电子信息、信息与通信工程、控制科学与工程、人工智能、仪器科学与技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.车辆工程、动力工程及工程热物理、电气工程、交通运输工程、机械工程、计算机科学与技术、软件工程、电子信息、信息与通信工程、控制科学与工程、人工智能、仪器科学与技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4101,7 +4207,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4187,7 +4294,8 @@
       },
       "major": {
         "raw": "2.行政管理、人力资源、财务、中文或思政类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4273,7 +4381,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4360,7 +4469,10 @@
       },
       "major": {
         "raw": "2.计算机科学与技术、软件工程、网络工程、信息安全、物联网工程、数据科学与大数据技术、数学与应用数学、电子信息工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.计算机科学与技术、软件工程、网络工程、信息安全、物联网工程、数据科学与大数据技术、数学与应用数学、电子信息工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4445,7 +4557,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4529,7 +4642,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4609,7 +4723,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4691,7 +4806,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4775,7 +4891,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4859,7 +4976,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4946,7 +5064,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5031,7 +5150,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5116,7 +5236,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5200,7 +5321,10 @@
       },
       "major": {
         "raw": "2.会计、财务及相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.会计、财务及相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5282,7 +5406,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5366,7 +5491,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5448,7 +5574,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5530,7 +5657,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5612,7 +5740,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5694,7 +5823,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5776,7 +5906,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5858,7 +5989,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5940,7 +6072,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6022,7 +6155,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6104,7 +6238,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6186,7 +6321,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6268,7 +6404,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6350,7 +6487,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6432,7 +6570,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6514,7 +6653,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6596,7 +6736,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6678,7 +6819,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6760,7 +6902,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6842,7 +6985,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6924,7 +7068,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，财务管理、会计、税务管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务管理、会计、税务管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7004,7 +7151,10 @@
       },
       "major": {
         "raw": "2.本科及以上学历，法律、金融、经济、工商管理、行政管理、文秘等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "法律、金融、经济、工商管理、行政管理、文秘等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7088,7 +7238,11 @@
       },
       "major": {
         "raw": "2. 会计学、财务管理、审计学、财政学、税收学等财务财会类相关专业；4. 熟悉企业财务核算、费用报销、总账处理基本流程，具备扎实的财务专业功底",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 会计学、财务管理、审计学、财政学、税收学等财务财会类相关专业",
+          "具备扎实的财务专业功底"
+        ]
       },
       "language": {
         "raw": "",
@@ -7173,7 +7327,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7265,7 +7420,8 @@
       },
       "major": {
         "raw": "2. 汉语言、马克思主义、行政管理、人力资源、法学、财务会计、经济金融、工商管理等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7354,7 +7510,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7446,7 +7603,8 @@
       },
       "major": {
         "raw": "2. 汉语言、马克思主义、行政管理、人力资源、法学、财务会计、经济金融、工商管理等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7535,7 +7693,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7627,7 +7786,8 @@
       },
       "major": {
         "raw": "2. 汉语言、马克思主义、行政管理、人力资源、法学、财务会计、经济金融、工商管理等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7716,7 +7876,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7808,7 +7969,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7900,7 +8062,8 @@
       },
       "major": {
         "raw": "2. 汉语言、马克思主义、行政管理、人力资源、法学、财务会计、经济金融、工商管理等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7989,7 +8152,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8081,7 +8245,10 @@
       },
       "major": {
         "raw": "2. 计算机科学与技术、软件工程、网络工程、数据科学、人工智能、信息管理与信息系统等计算机及理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 计算机科学与技术、软件工程、网络工程、数据科学、人工智能、信息管理与信息系统等计算机及理工类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8170,7 +8337,8 @@
       },
       "major": {
         "raw": "2. 汉语言、马克思主义、行政管理、人力资源、法学、财务会计、经济金融、工商管理等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8259,7 +8427,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8351,7 +8520,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8443,7 +8613,8 @@
       },
       "major": {
         "raw": "2. 市场营销、工商管理、金融保险、经济贸易、农林类、公共管理等相关专业优先，综合素质优秀者不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8535,7 +8706,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8618,7 +8790,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8700,7 +8873,8 @@
       },
       "major": {
         "raw": "2、医疗、法律专业优先，其他专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8784,7 +8958,10 @@
       },
       "major": {
         "raw": "2、石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片、材料等理工科专业，保险专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片、材料等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8866,7 +9043,8 @@
       },
       "major": {
         "raw": "保险学、汽车维修、车辆工程、机械工程、交通运输等汽车相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8951,7 +9129,10 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历（学位）（在国(境)外获得的学历或学位须经国家教育部学历学位认证中心认证），会计、财务管理、统计、经济等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计、财务管理、统计、经济等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9033,7 +9214,8 @@
       },
       "major": {
         "raw": "3.专业不限，金融、保险、管理、经济、理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9116,7 +9298,8 @@
       },
       "major": {
         "raw": "2.专业不限，金融、保险、管理、经济类、理工类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9196,7 +9379,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历，金融、经济、保险等专业优先，有良好的沟通、协调能力，无不良从业记录，无经商办企业情况，干部人事档案齐全",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9279,7 +9463,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历，经济、管理、金融、信息科技等相关专业优先，有良好的沟通、协调能力，无不良从业记录，无经商办企业情况，干部人事档案齐全",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9360,7 +9545,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历，经济、金融、保险等专业优先，有良好的沟通、协调能力，无不良从业记录，无经商办企业情况，干部人事档案齐全",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9444,7 +9630,8 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、营销、师范等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9528,7 +9715,8 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、营销、师范等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9612,7 +9800,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9695,7 +9884,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9778,7 +9968,10 @@
       },
       "major": {
         "raw": "2.专业要求：法学类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业要求：法学类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9863,7 +10056,10 @@
       },
       "major": {
         "raw": "2.专业要求：财务会计、财务管理、财税、精算及经济管理类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业要求：财务会计、财务管理、财税、精算及经济管理类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9947,7 +10143,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10030,7 +10227,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，保险、市场营销、金融、管理类及相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10114,7 +10312,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10197,7 +10396,8 @@
       },
       "major": {
         "raw": "2.软件开发、计算机技术等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10279,7 +10479,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10357,7 +10558,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10435,7 +10637,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10513,7 +10716,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10594,7 +10798,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10672,7 +10877,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10750,7 +10956,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10831,7 +11038,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10911,7 +11119,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10992,7 +11201,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11072,7 +11282,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11153,7 +11364,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11233,7 +11445,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11314,7 +11527,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11392,7 +11606,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11470,7 +11685,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11551,7 +11767,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11632,7 +11849,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11712,7 +11930,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11793,7 +12012,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11873,7 +12093,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11954,7 +12175,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12035,7 +12257,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12115,7 +12338,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12196,7 +12420,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12277,7 +12502,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12358,7 +12584,8 @@
       },
       "major": {
         "raw": "2.金融、保险、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12444,7 +12671,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、金融、保险、财务、管理、法律、计算机类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12527,7 +12755,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、金融、保险、财务、管理、法律、计算机类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12613,7 +12842,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、金融、保险、财务、管理、法律专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12699,7 +12929,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、金融、保险、财务、管理、法律专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12782,7 +13013,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、金融、保险、财务、管理、法律、计算机类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12865,7 +13097,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12950,7 +13185,8 @@
       },
       "major": {
         "raw": "2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13033,7 +13269,10 @@
       },
       "major": {
         "raw": "2.专业公共卫生与预防医学、流行病与卫生统计学、临床医学、护理学、康复医学与理疗学、药学、临床药学、药事管理、药物经济学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业公共卫生与预防医学、流行病与卫生统计学、临床医学、护理学、康复医学与理疗学、药学、临床药学、药事管理、药物经济学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13116,7 +13355,10 @@
       },
       "major": {
         "raw": "3.管理类、经济类、金融、保险、文法类、人力资源管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.管理类、经济类、金融、保险、文法类、人力资源管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13198,7 +13440,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13281,7 +13526,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13367,7 +13615,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13453,7 +13704,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、信息科技、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、信息科技、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13538,7 +13792,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、财务、会计、管理、信息科技等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、财务、会计、管理、信息科技等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13622,7 +13879,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13709,7 +13969,10 @@
       },
       "major": {
         "raw": "3.管理类、经济类、人文类、行政类、财务类、统计类、物业类、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.管理类、经济类、人文类、行政类、财务类、统计类、物业类、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13793,7 +14056,10 @@
       },
       "major": {
         "raw": "2.计算机、大模型、智能化应用等信息科技相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.计算机、大模型、智能化应用等信息科技相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13878,7 +14144,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13963,7 +14232,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14048,7 +14320,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14133,7 +14408,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14218,7 +14496,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14303,7 +14584,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14388,7 +14672,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14473,7 +14760,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14558,7 +14848,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14643,7 +14936,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14728,7 +15024,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14813,7 +15112,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14898,7 +15200,10 @@
       },
       "major": {
         "raw": "2.经济、金融、保险、管理、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济、金融、保险、管理、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14983,7 +15288,10 @@
       },
       "major": {
         "raw": "3.管理类、经济类、人文类、行政类、财务类、统计类、物业类、理工类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.管理类、经济类、人文类、行政类、财务类、统计类、物业类、理工类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15067,7 +15375,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15150,7 +15459,10 @@
       },
       "major": {
         "raw": "2.会计、财务、税务、审计、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.会计、财务、税务、审计、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15230,7 +15542,10 @@
       },
       "major": {
         "raw": "2.汽车维修、车辆工程、机械工程、交通运输、信息科技等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.汽车维修、车辆工程、机械工程、交通运输、信息科技等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15310,7 +15625,10 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历,汽车维修、车辆工程、机械工程、交通运输等相关专业等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "汽车维修、车辆工程、机械工程、交通运输等相关专业等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15393,7 +15711,10 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，制造类、电气类、交通运输类、机械工程、石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片、材料等理工科专业、法律、保险、经济、金融、管理、财",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "制造类、电气类、交通运输类、机械工程、石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片、材料等理工科专业、法律、保险、经济、金融、管理、财"
+        ]
       },
       "language": {
         "raw": "",
@@ -15478,7 +15799,10 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，医学类、医疗、法律等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "医学类、医疗、法律等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15560,7 +15884,8 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，专业不限，农学、保险学、经济类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15645,7 +15970,8 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15731,7 +16057,8 @@
       },
       "major": {
         "raw": "2.农学、金融学、保险学、人力资源管理、法学等专业等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15811,7 +16138,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15893,7 +16221,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15975,7 +16304,11 @@
       },
       "major": {
         "raw": "2.财务、会计、经济、金融类相关专业；3.具备初级及以上会计专业技术资格",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.财务、会计、经济、金融类相关专业",
+          "3.具备初级及以上会计专业技术资格"
+        ]
       },
       "language": {
         "raw": "",
@@ -16056,7 +16389,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16134,7 +16468,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16216,7 +16551,10 @@
       },
       "major": {
         "raw": "2.法律相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.法律相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16298,7 +16636,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16380,7 +16719,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16466,7 +16806,10 @@
       },
       "major": {
         "raw": "2.金融、保险、法学、文学、管理学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.金融、保险、法学、文学、管理学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16546,7 +16889,10 @@
       },
       "major": {
         "raw": "2.计算机、软件工程、信息系统等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.计算机、软件工程、信息系统等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16630,7 +16976,10 @@
       },
       "major": {
         "raw": "2.金融、保险、中文等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.金融、保险、中文等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16712,7 +17061,10 @@
       },
       "major": {
         "raw": "2.金融、保险等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.金融、保险等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16795,7 +17147,10 @@
       },
       "major": {
         "raw": "2.财务、会计、审计、经济、金融类等相关专业；3.具有初级及以上会计专业技术资格者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.财务、会计、审计、经济、金融类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16878,7 +17233,8 @@
       },
       "major": {
         "raw": "2.金融、保险、中文、经济学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16960,7 +17316,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17044,7 +17401,10 @@
       },
       "major": {
         "raw": "2.政治、中文、审计、金融等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.政治、中文、审计、金融等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17126,7 +17486,8 @@
       },
       "major": {
         "raw": "2.专业不限，金融、保险类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17214,7 +17575,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17297,7 +17659,10 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历,汽车维修、车辆工程、机械工程、交通运输等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "汽车维修、车辆工程、机械工程、交通运输等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17380,7 +17745,11 @@
       },
       "major": {
         "raw": "2.制造类、电气类、交通运输类、机械工程、石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片、材料等理工科专业；3.法律、保险、经济、金融、管理、财务、数学、统计、精算、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.制造类、电气类、交通运输类、机械工程、石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片、材料等理工科专业",
+          "3.法律、保险、经济、金融、管理、财务、数学、统计、精算、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17461,7 +17830,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17544,7 +17914,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17628,7 +17999,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17712,7 +18084,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17795,7 +18168,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17877,7 +18251,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17963,7 +18338,10 @@
       },
       "major": {
         "raw": "2.法学类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.法学类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -18043,7 +18421,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18127,7 +18506,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18211,7 +18591,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18295,7 +18676,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险、汉语言、人文、行政、财务、统计、物业等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18378,7 +18760,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18461,7 +18844,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险、汉语言、人文、行政、文秘等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18545,7 +18929,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18628,7 +19013,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18711,7 +19097,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18792,7 +19179,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18876,7 +19264,8 @@
       },
       "major": {
         "raw": "2.专业不限，财务、会计、统计、经济、管理、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18959,7 +19348,8 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，金融、经济、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19044,7 +19434,8 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，经济、管理、金融、信息科技等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19129,7 +19520,8 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，金融、经济、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19215,7 +19607,8 @@
       },
       "major": {
         "raw": "2.专业不限，经济、金融、保险等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19301,7 +19694,8 @@
       },
       "major": {
         "raw": "2、科技、统计、保险、农学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19383,7 +19777,8 @@
       },
       "major": {
         "raw": "2、科技、精算、人工智能、新能源、自动驾驶、医学、工程、农学、船舶、航运相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19467,7 +19862,8 @@
       },
       "major": {
         "raw": "1. 硕士研究生及以上学历，按期取得毕业证、学位证，中共党员、持有法律职业资格A证优先；2. 法学、汉语言文学、行政管理、工商管理、经济金融、保险学、公共管理等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19552,7 +19948,8 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、经济学、统计学、市场营销、农林经济、工商管理、医学、法律等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19641,7 +20038,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，中共党员（含预备党员）优先，保险、金融、经济、营销、农林、管理类相关专业优先，综合素质良好、踏实肯干者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19729,7 +20127,8 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、经济学、统计学、市场营销、农林经济、工商管理、医学、法律等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19818,7 +20217,8 @@
       },
       "major": {
         "raw": "2. 行政管理、汉语言、马克思主义、人力资源、法学、财会金融、工商管理、保险学等相关专业优先，综合素质良好者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19904,7 +20304,8 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、经济学、统计学、市场营销、农林经济、工商管理、医学、法律等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19993,7 +20394,8 @@
       },
       "major": {
         "raw": "2. 行政管理、汉语言、马克思主义、人力资源、法学、财会金融、工商管理、保险学等相关专业优先，综合素质良好者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20079,7 +20481,8 @@
       },
       "major": {
         "raw": "2. 行政管理、汉语言、马克思主义、人力资源、法学、财会金融、工商管理、保险学等相关专业优先，综合素质良好者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20165,7 +20568,8 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、经济学、统计学、市场营销、农林经济、工商管理、医学、法律等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20254,7 +20658,8 @@
       },
       "major": {
         "raw": "2. 行政管理、汉语言、马克思主义、人力资源、法学、财会金融、工商管理、保险学等相关专业优先，综合素质良好者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20340,7 +20745,8 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、经济学、统计学、市场营销、农林经济、工商管理、医学、法律等相关专业优先，综合素质优秀者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20429,7 +20835,8 @@
       },
       "major": {
         "raw": "2. 行政管理、汉语言、马克思主义、人力资源、法学、财会金融、工商管理、保险学等相关专业优先，综合素质良好者可不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20515,7 +20922,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20593,7 +21001,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20674,7 +21083,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20756,7 +21166,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20839,7 +21250,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20922,7 +21334,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21005,7 +21418,10 @@
       },
       "major": {
         "raw": "1、熟悉掌握计算机或相关专业知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、熟悉掌握计算机或相关专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -21085,7 +21501,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21167,7 +21584,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21247,7 +21665,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21329,7 +21748,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21412,7 +21832,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21495,7 +21916,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21577,7 +21999,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21660,7 +22083,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21742,7 +22166,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21822,7 +22247,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21904,7 +22330,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21987,7 +22414,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22070,7 +22498,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22153,7 +22582,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22235,7 +22665,10 @@
       },
       "major": {
         "raw": "： （1）熟悉掌握计算机或相关专业知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "： （1）熟悉掌握计算机或相关专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -22317,7 +22750,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22400,7 +22834,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22482,7 +22917,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22565,7 +23001,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22648,7 +23085,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22730,7 +23168,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22810,7 +23249,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22890,7 +23330,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22973,7 +23414,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23055,7 +23497,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23138,7 +23581,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23221,7 +23665,10 @@
       },
       "major": {
         "raw": "2.精算、数学、统计、保险等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.精算、数学、统计、保险等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -23310,7 +23757,10 @@
       },
       "major": {
         "raw": "2.专业背景：保险、精算、数学、统计、金融等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业背景：保险、精算、数学、统计、金融等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -23400,7 +23850,10 @@
       },
       "major": {
         "raw": "2.保险、计算机、数学、管理、金融、法律等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.保险、计算机、数学、管理、金融、法律等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -23486,7 +23939,10 @@
       },
       "major": {
         "raw": "1.保险、精算、数学、统计、金融等相关专业，具备理工、科技、医学背景优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.保险、精算、数学、统计、金融等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -23571,7 +24027,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23649,7 +24106,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23730,7 +24188,8 @@
       },
       "major": {
         "raw": "2.工程机械类、医学法学类、车辆类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23817,7 +24276,11 @@
       },
       "major": {
         "raw": "2.车险理赔、线上理赔：汽车、车辆、机械、交通运输等相关专业；3.非车险理赔：机械、材料、能源、土建、水利、化工、交通运输、保险等专业优先，其他专业不限；4.人伤理赔：医疗、护理、法律、劳动与社会保障等专业",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.车险理赔、线上理赔：汽车、车辆、机械、交通运输等相关专业",
+          "4.人伤理赔：医疗、护理、法律、劳动与社会保障等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -23906,7 +24369,10 @@
       },
       "major": {
         "raw": "2.经济财政、金融保险、法学、医学、药学、安全工程、材料机械、农牧林学、动物医学、公安技术、应急救援等理、工、农、医、法、经类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.经济财政、金融保险、法学、医学、药学、安全工程、材料机械、农牧林学、动物医学、公安技术、应急救援等理、工、农、医、法、经类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -23992,7 +24458,8 @@
       },
       "major": {
         "raw": "2.医学、工程类、能源动力类、土木建筑类、交通运输类、集成电路、芯片、材料等理工类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24074,7 +24541,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24165,7 +24635,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24256,7 +24729,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24347,7 +24823,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24438,7 +24917,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24529,7 +25011,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24620,7 +25105,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24711,7 +25199,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24802,7 +25293,10 @@
       },
       "major": {
         "raw": "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业，理工科相关专业优先，综合素质优秀者可适当放宽",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 保险学、金融学、法学、医学、土木工程、农林类、工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24893,7 +25387,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24977,7 +25472,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25062,7 +25558,10 @@
       },
       "major": {
         "raw": "2、汽车交通、车辆维修、机械工程、信息科技、理工类、经济金融类（含保险）、法律等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、汽车交通、车辆维修、机械工程、信息科技、理工类、经济金融类（含保险）、法律等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25148,7 +25647,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25230,7 +25730,8 @@
       },
       "major": {
         "raw": "2.车辆工程、交通运输、医学、法律、保险、建筑、化工、机械、工程、金融、财务、经济、信息技术、管理、地理信息、植物保护、畜牧防疫、林业等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25312,7 +25813,12 @@
       },
       "major": {
         "raw": "①车险类：车辆工程、汽车服务工程、交通运输等专业；②非车险类：材料类、机械类、土建水利、海洋船舶、石油、航天航空、工程力学等相关专业；③人伤类：医学、法学、司法鉴定学、药学、护理学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "①车险类：车辆工程、汽车服务工程、交通运输等专业",
+          "②非车险类：材料类、机械类、土建水利、海洋船舶、石油、航天航空、工程力学等相关专业",
+          "③人伤类：医学、法学、司法鉴定学、药学、护理学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25401,7 +25907,10 @@
       },
       "major": {
         "raw": "2.车辆工程、汽车维修工程、机械、化工、工程类、金融保险、法律、医学类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.车辆工程、汽车维修工程、机械、化工、工程类、金融保险、法律、医学类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25481,7 +25990,12 @@
       },
       "major": {
         "raw": "2.专业要求： 车险查勘定损岗：汽车维修、车辆工程、机械工程、交通运输等相关专业；人伤理赔岗：医学或法学相关专业；非车险案件处理岗：石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、信息自动化、电气类、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片等理工科专业优先，法律、财务、保险专业",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业要求： 车险查勘定损岗：汽车维修、车辆工程、机械工程、交通运输等相关专业",
+          "人伤理赔岗：医学或法学相关专业",
+          "法律、财务、保险专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25565,7 +26079,10 @@
       },
       "major": {
         "raw": "2.车辆工程、交通运输、法律、医学、机械、金融保险、农林等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.车辆工程、交通运输、法律、医学、机械、金融保险、农林等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25649,7 +26166,13 @@
       },
       "major": {
         "raw": "2.专业要求：①车险类：车辆工程、汽车服务工程专业；②非车险类：材料类、机械类等理工科专业；③人伤类：医学或法学相关专业；④农险类：农业、保险、金融、财务、经济、信息技术、法律、管理、地理信息等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业要求：①车险类：车辆工程、汽车服务工程专业",
+          "②非车险类：材料类、机械类等理工科专业",
+          "③人伤类：医学或法学相关专业",
+          "④农险类：农业、保险、金融、财务、经济、信息技术、法律、管理、地理信息等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25735,7 +26258,10 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，医疗、法律专业优先；1.大学本科及以上学历，制造类、电气类、交通运输类、机械工程、石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片、材料等理工科专业、法律、保险、经济、金融、管理、财",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "制造类、电气类、交通运输类、机械工程、石油工程、材料类、机械类、仪器仪表类、能源动力类、土建类、水利类、化工、交通运输、海洋工程、航空航天、工程力学、集成电路、芯片、材料等理工科专业、法律、保险、经济、金融、管理、财"
+        ]
       },
       "language": {
         "raw": "",
@@ -25822,7 +26348,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25908,7 +26435,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25992,7 +26520,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26078,7 +26607,10 @@
       },
       "major": {
         "raw": "专业要求： 专业类不限，汽车维修、车辆工程、机械工程、交通运输、保险、经济、金融、农业、医学、法律等相关类专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求： 专业类不限"
+        ]
       },
       "language": {
         "raw": "",
@@ -26166,7 +26698,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26250,7 +26783,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26336,7 +26870,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26420,7 +26955,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26504,7 +27040,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26590,7 +27127,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26674,7 +27212,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26760,7 +27299,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26844,7 +27384,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26930,7 +27471,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27014,7 +27556,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27100,7 +27643,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27184,7 +27728,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27270,7 +27815,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27352,7 +27898,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27438,7 +27985,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27522,7 +28070,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27608,7 +28157,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

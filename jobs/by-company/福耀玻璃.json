@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "：专业要求为外语类、国贸类、机械类、材料类等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "：专业要求为外语类、国贸类、机械类、材料类等"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -106,7 +109,10 @@
       },
       "major": {
         "raw": "：专业要求为外语类、国贸类、机械类、材料类等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "：专业要求为外语类、国贸类、机械类、材料类等"
+        ]
       },
       "language": {
         "raw": "英语",

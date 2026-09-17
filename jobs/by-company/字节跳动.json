@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "数据、统计、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -116,7 +117,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -216,7 +218,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，商科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -319,7 +322,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，数学、经济学、商业分析等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -409,7 +413,8 @@
       },
       "major": {
         "raw": "新闻传播、社会学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语",
@@ -502,7 +507,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -595,7 +601,8 @@
       },
       "major": {
         "raw": "数学、统计学、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -693,7 +700,8 @@
       },
       "major": {
         "raw": "广告、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -784,7 +792,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -886,7 +895,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -980,7 +990,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，理科、商科、传播类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1077,7 +1088,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，供应链物流运营管理领域或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语",
@@ -1171,7 +1183,10 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，设计/传播/营销等相关专业；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "设计/传播/营销等相关专业"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语",
@@ -1265,7 +1280,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1354,7 +1370,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1441,7 +1458,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，物流、供应链管理、电子商务等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "日语",
@@ -1540,7 +1558,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1630,7 +1649,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，数学、统计学、经济学、运筹学、计算机、营销相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1731,7 +1751,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1820,7 +1841,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1912,7 +1934,8 @@
       },
       "major": {
         "raw": "2027届获得硕士及以上学位，MBA、商科、经济、管理或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2007,7 +2030,8 @@
       },
       "major": {
         "raw": "数学、统计学、经济学、计算机专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2096,7 +2120,8 @@
       },
       "major": {
         "raw": "数据科学、计算机、AI等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2189,7 +2214,8 @@
       },
       "major": {
         "raw": "专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2281,7 +2307,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2374,7 +2401,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2466,7 +2494,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，数据科学、计算机、AI等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2562,7 +2591,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2650,7 +2680,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历；",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2740,7 +2771,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，新闻、数学、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2830,7 +2862,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2922,7 +2955,10 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，计算机相关专业；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3015,7 +3051,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3107,7 +3144,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，计算机、统计学、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3201,7 +3239,8 @@
       },
       "major": {
         "raw": "人工智能、软件工程、电子信息、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3288,7 +3327,8 @@
       },
       "major": {
         "raw": "计算机科学与技术、数据科学、统计学、市场营销、信息管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3381,7 +3421,8 @@
       },
       "major": {
         "raw": "统计学/数学/计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3472,7 +3513,8 @@
       },
       "major": {
         "raw": "专业不限，计算机、数据、商科、电子商务、管理科学等相关背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3566,7 +3608,8 @@
       },
       "major": {
         "raw": "统计学、经济学、管理学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3654,7 +3697,8 @@
       },
       "major": {
         "raw": "计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3738,7 +3782,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，计算机、统计学、数学、算法等专业背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3828,7 +3873,8 @@
       },
       "major": {
         "raw": "广告、编导、影视策划、影视编辑或有设计审美学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3916,7 +3962,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，计算机、通信、电子信息、数学、统计、管理科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4007,7 +4054,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4097,7 +4145,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4185,7 +4234,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，市场营销、广告、中文、新闻传媒类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4277,7 +4327,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，市场营销、广告、传媒、会展等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4370,7 +4421,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机及相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4456,7 +4508,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4538,7 +4591,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，统计学、应用数学、计算机等理工科专业背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4630,7 +4684,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4714,7 +4769,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，新闻传播、广告学、市场营销专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4805,7 +4861,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4900,7 +4957,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限，人力资源、管理学专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4993,7 +5051,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语",
@@ -5085,7 +5144,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5173,7 +5233,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5261,7 +5322,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5349,7 +5411,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5436,7 +5499,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算语言学、语言学、计算机、心理学、新闻等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5525,7 +5589,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5612,7 +5677,8 @@
       },
       "major": {
         "raw": "2、英语可作为工作语言，有国际化留学背景加分",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5700,7 +5766,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、信息管理、交互设计、传媒、新闻传播、心理学等相关背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5796,7 +5863,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5885,7 +5953,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机科学与技术、广告/营销、新闻传播学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5973,7 +6042,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6069,7 +6139,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6155,7 +6226,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6247,7 +6319,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6342,7 +6415,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6432,7 +6506,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6519,7 +6594,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6613,7 +6689,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，财务/会计/税务/金融等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6700,7 +6777,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机科学、数据科学、商业分析等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6788,7 +6866,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6880,7 +6961,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6972,7 +7054,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7064,7 +7147,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7156,7 +7242,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7248,7 +7337,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7340,7 +7432,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7432,7 +7525,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、经济学、管理学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7522,7 +7616,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7606,7 +7701,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，人工智能等相关专业学科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -7692,7 +7788,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7784,7 +7883,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7876,7 +7978,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、机器学习和模式识别相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7966,7 +8069,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8055,7 +8159,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数学、统计等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8146,7 +8251,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8238,7 +8344,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、机器学习和模式识别等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8330,7 +8437,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8421,7 +8529,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8516,7 +8625,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能、自动化、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8609,7 +8719,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8698,7 +8809,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8786,7 +8898,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能、自动化、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8880,7 +8993,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8967,7 +9081,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，数学/统计学/计算机等理工科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9057,7 +9172,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，数学、统计学、计算机等理工科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9153,7 +9269,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9241,7 +9358,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9323,7 +9441,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9414,7 +9533,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9499,7 +9619,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9591,7 +9712,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机科学、软件工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9681,7 +9805,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9771,7 +9896,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程、数学、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9861,7 +9987,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、CV、NLP、软件工程、分布式系统、应用数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9954,7 +10081,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、CV、NLP、软件工程、分布式系统、应用数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10047,7 +10175,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10138,7 +10267,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10225,7 +10355,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10315,7 +10446,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10407,7 +10539,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、机器学习和模式识别等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10499,7 +10632,8 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10591,7 +10725,10 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，计算机、电子、数学、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子、数学、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -10682,7 +10819,10 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，计算机、电子、数学、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子、数学、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -10771,7 +10911,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，人工智能、计算机、信息管理、数学、统计学、经济学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10860,7 +11001,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数学、大数据等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10952,7 +11094,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机、软件工程、经济学、管理学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11042,7 +11185,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11134,7 +11278,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11223,7 +11370,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11313,7 +11461,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11399,7 +11548,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11491,7 +11643,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11577,7 +11730,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、管理或者财经类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11667,7 +11821,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11752,7 +11907,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、CV、NLP、软件工程、分布式系统、应用数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11845,7 +12001,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、机器学习和模式识别等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11935,7 +12092,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机及相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12022,7 +12180,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件等计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件等计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12112,7 +12273,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12202,7 +12364,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、电子、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12290,7 +12453,10 @@
       },
       "major": {
         "raw": "团队介绍：国际支付，立足于为字节跳动国际化业务提供专业的支付和金融服务，专注于全球支付产品线的质量和效率，确保为国际产品提供高度可靠和稳定的服务，建立国际支付产品和能力，同时在高效助力业务快速拓展的同时，打造行业领先的支付和金融产品能力；1、2027届获得本科及以上学历，计算机科学与技术、软件工程、网络工程、信息安全等计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "立足于为字节跳动国际化业务提供专业的支付和金融服务"
+        ]
       },
       "language": {
         "raw": "",
@@ -12382,7 +12548,10 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机、电子、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12471,7 +12640,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，人工智能、计算机、自动化、数学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12560,7 +12730,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，人工智能、计算机、数学相关专业者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12648,7 +12819,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，数学、统计、经济、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12736,7 +12908,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12823,7 +12996,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机科学、人工智能、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12910,7 +13084,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、大数据等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13000,7 +13175,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机/人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13087,7 +13263,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13179,7 +13358,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13269,7 +13449,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13357,7 +13538,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机、通信和电子信息科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13447,7 +13629,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13536,7 +13719,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13629,7 +13815,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13714,7 +13901,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13804,7 +13992,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13892,7 +14083,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机科学、软件工程、人工智能、电子信息等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13983,7 +14175,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、通信工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14073,7 +14268,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，数学/统计学/数据科学/人工智能/经济学/商业分析等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14162,7 +14358,10 @@
       },
       "major": {
         "raw": "团队介绍：国际支付，立足于为字节跳动国际化业务提供专业的支付和金融服务，专注于全球支付产品线的质量和效率，确保为国际产品提供高度可靠和稳定的服务，建立国际支付产品和能力，同时在高效助力业务快速拓展的同时，打造行业领先的支付和金融产品能力；1、2027届获得本科及以上学历，计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "立足于为字节跳动国际化业务提供专业的支付和金融服务"
+        ]
       },
       "language": {
         "raw": "",
@@ -14255,7 +14454,10 @@
       },
       "major": {
         "raw": "团队介绍：国际支付，立足于为字节跳动国际化业务提供专业的支付和金融服务，专注于全球支付产品线的质量和效率，确保为国际产品提供高度可靠和稳定的服务，建立国际支付产品和能力，同时在高效助力业务快速拓展的同时，打造行业领先的支付和金融产品能力；1、2027届获得硕士及以上学位，计算机、机器学习和数据挖掘等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "立足于为字节跳动国际化业务提供专业的支付和金融服务"
+        ]
       },
       "language": {
         "raw": "",
@@ -14348,7 +14550,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，数学、统计学或计算机科学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14438,7 +14641,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14526,7 +14730,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14613,7 +14818,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14704,7 +14910,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、网络工程、信息安全等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14787,7 +14994,8 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，人工智能、计算机相关专业者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14879,7 +15087,8 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，人工智能、自然语言处理、计算机视觉、计算机图形学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14969,7 +15178,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15058,7 +15268,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15144,7 +15355,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、通信等相关专业者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15233,7 +15445,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、通信等相关专业者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15322,7 +15535,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15410,7 +15624,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、AI大模型等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15496,7 +15711,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机、电子信息、自动化、软件工程或相关专业优先；1、计算机视觉、图像处理、计算机图形学、机器视觉、数学以及摄影测量领域硕士及博士优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15588,7 +15804,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15674,7 +15891,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机科学/计算机工程/电子信息技术等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15757,7 +15975,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15843,7 +16062,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15928,7 +16148,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、网络工程、信息安全等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16016,7 +16237,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16100,7 +16322,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16186,7 +16409,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16268,7 +16492,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16354,7 +16579,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、自动化、电子、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16441,7 +16667,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、电子信息或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16528,7 +16757,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16613,7 +16843,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16698,7 +16929,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，机器学习、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机器学习、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16784,7 +17018,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数学、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16874,7 +17109,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16960,7 +17196,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机科学与技术、人工智能、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17047,7 +17284,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17128,7 +17366,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程、数学、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17214,7 +17453,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17298,7 +17538,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17385,7 +17626,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17469,7 +17711,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17553,7 +17798,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、通信等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17642,7 +17888,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17729,7 +17976,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，设计、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17816,7 +18064,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17903,7 +18152,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17990,7 +18240,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、电子信息等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -18077,7 +18330,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18161,7 +18415,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18244,7 +18499,11 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业；2、具备软件工程背景，有软件程序分析、漏洞挖掘等领域实践经验优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业",
+          "2、具备软件工程背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -18332,7 +18591,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机及相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18416,7 +18676,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、AI大模型等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18502,7 +18763,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机科学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18589,7 +18851,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18676,7 +18939,10 @@
       },
       "major": {
         "raw": "团队介绍：安全专项测试团队，支撑公司产品研发和工程架构测试团队的安全保障建设，旨在安全专业领域持续挖掘深度，在标准化解决方案上通过自动化体系化的建设，更快更前置的发现、挖掘安全风险，持续提升各业务安全水位，为字节用户提供安全可靠的产品体验，；1、2027届获得本科及以上学历，计算机、人工智能、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "旨在安全专业领域持续挖掘深度"
+        ]
       },
       "language": {
         "raw": "",
@@ -18762,7 +19028,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18849,7 +19116,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18936,7 +19204,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19022,7 +19291,10 @@
       },
       "major": {
         "raw": "3、根据高级、专业用户的需求，总结和抽象会员权益的利益点，借助人工智能、分发、聚合等方式完成会员权益的上线；1、2027届获得本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、根据高级、专业用户的需求"
+        ]
       },
       "language": {
         "raw": "",
@@ -19110,7 +19382,8 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，优先考虑人工智能、计算机科学、数学相关专业",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19197,7 +19470,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信和电子信息科学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19285,7 +19561,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、通信和电子信息科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19369,7 +19646,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信和电子信息科学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19457,7 +19737,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19541,7 +19822,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19624,7 +19906,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数据科学、人工智能相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数据科学、人工智能相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19714,7 +19999,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数据科学、人工智能相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数据科学、人工智能相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19804,7 +20092,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机、软件工程、人工智能或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19890,7 +20179,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信和电子信息科学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19979,7 +20271,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -20063,7 +20358,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先；2、相关专业PhD优先，热爱计算机科学和技术，熟练掌握至少一门编程语言（C++、Go、Rust、Python等）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20150,7 +20446,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20232,7 +20529,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机科学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20317,7 +20615,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20405,7 +20704,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20490,7 +20790,8 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，计算机、软件工程、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20574,7 +20875,8 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，优先考虑人工智能、计算机科学、数学相关专业",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20661,7 +20963,8 @@
       },
       "major": {
         "raw": "1、2027届毕业，获得博士学位，计算机、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20747,7 +21050,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机、数学、大数据、人工智能相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20836,7 +21140,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，人工智能、计算机、自动化、数学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20927,7 +21232,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数学、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数学、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -21019,7 +21327,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数学、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数学、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -21108,7 +21419,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、数学、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数学、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -21198,7 +21512,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、电子信息、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",

@@ -18,7 +18,8 @@
       },
       "major": {
         "raw": "语言文学、历史学、新闻传播学、广告学、应用化学、市场营销等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -114,7 +115,8 @@
       },
       "major": {
         "raw": "1、2027届本科、硕士毕业生；；2、语言文学、历史学、新闻传播学、广告学、应用化学、市场营销等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -210,7 +212,8 @@
       },
       "major": {
         "raw": "统计学、传播学、市场营销、电子商务等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -304,7 +307,8 @@
       },
       "major": {
         "raw": "2027届本科、硕士毕业生；专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -397,7 +401,11 @@
       },
       "major": {
         "raw": "本科及以上学历，化学、分析化学、药学、食品等相关专业毕业，或英语专业毕业但有较好的理工科知识基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学、分析化学、药学、食品等相关专业毕业",
+          "或英语专业毕业但有较好的理工科知识基础"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -496,7 +504,8 @@
       },
       "major": {
         "raw": "2027届本科、硕士毕业生；；统计学、传播学、市场营销、电子商务等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -591,7 +600,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -682,7 +692,10 @@
       },
       "major": {
         "raw": "1、经验/技能要求 资质： ① 本科以上学历，包装设计相关专业， ②有海外留学英语可以作为工作语言优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "包装设计相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -779,7 +792,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历、化学，药学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "药学相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -878,7 +894,8 @@
       },
       "major": {
         "raw": "2、新闻传播学、广告学、电子商务、市场营销等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -971,7 +988,8 @@
       },
       "major": {
         "raw": "1、资质：本科及以上学历,英语可以作为工作语言优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1065,7 +1083,10 @@
       },
       "major": {
         "raw": "1、2027届本科、硕士毕业生，英语可以作为工作语言；2、会计学、财务管理、审计等相关专业优先；3、熟悉财税专业知识，了解国家的财经法律、法规、规章制度和方针、政策",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、熟悉财税专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1158,7 +1179,10 @@
       },
       "major": {
         "raw": "经验/技能要求 ①2027届毕业生,本科及以上学历,英语可以作为工作语言 ②具备财务、法律、投资专业知识，拥有CPA、ACCA、CFA、法律职业资格证等资格证书者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语可以作为工作语言 ②具备财务、法律、投资专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1248,7 +1272,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历、精细化工，化学工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1336,7 +1363,8 @@
       },
       "major": {
         "raw": "1、经验/技能要求： ①2027届毕业生,本科及以上学历,英语/日语可以作为工作语言 ②有化妆品采购实习经验优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语",
@@ -1425,7 +1453,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1511,7 +1540,11 @@
       },
       "major": {
         "raw": "经验/技能要求 ①硕士及以上学历，化学、药学、食品等相关专业毕业，或英语专业毕业但有较好的理工科知识基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学、药学、食品等相关专业毕业",
+          "或英语专业毕业但有较好的理工科知识基础"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1601,7 +1634,10 @@
       },
       "major": {
         "raw": "2、美术、广告、平面设计类相关专业，有手绘或视频经验可优先考虑",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、美术、广告、平面设计类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1690,7 +1726,11 @@
       },
       "major": {
         "raw": "经验/技能要求： ①本科及以上学历，化学、药学、食品等相关专业毕业，或英语专业毕业但有较好的理工科知识基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学、药学、食品等相关专业毕业",
+          "或英语专业毕业但有较好的理工科知识基础"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1783,7 +1823,10 @@
       },
       "major": {
         "raw": "1、经验/技能要求：本科以上学历，香精香料、精细化工、应用化学等相关专业，熟悉市场护肤品类、彩妆品类香型流行，了解香型与不同料体的适配度",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "香精香料、精细化工、应用化学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1871,7 +1914,10 @@
       },
       "major": {
         "raw": "化学、有机化学、制药工程、植物学、药学、微生物学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学、有机化学、制药工程、植物学、药学、微生物学等相关专业"
+        ]
       },
       "language": {
         "raw": "",

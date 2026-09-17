@@ -18,7 +18,8 @@
       },
       "major": {
         "raw": "专业不限 本科及以上：2026/1/1~2027/6/30期间毕业的本科及以上学历的高校毕业生（中国大陆（内地）以毕业证为准，中国港澳台地区及海外院校以学位证为准）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",

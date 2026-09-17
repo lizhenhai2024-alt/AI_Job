@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "物流管理、供应链管理、计算机、数学、统计、数据科学等相关专业本科及以上学历，有物流、供应链、互联网产品运营相关实习经历者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流管理、供应链管理、计算机、数学、统计、数据科学等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语、俄语",
@@ -109,7 +112,11 @@
       },
       "major": {
         "raw": "研究生学历；精通目标国家小语种者优先，可顺畅进行对消费者日常语境及工作场景商务语境沟通，满足主流专业等级认定证书及同等级别的评估，如日语N1/葡语C1/西语C1/波兰语C1/荷兰语C1/希伯来语B2或C1，英语专业8级/雅思7分",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "满足主流专业等级认定证书及同等级别的评估",
+          "英语专业8级/雅思7分"
+        ]
       },
       "language": {
         "raw": "英语、日语、西班牙语、葡萄牙语、波兰语、荷兰语、希伯来语",
@@ -209,7 +216,8 @@
       },
       "major": {
         "raw": "全日制本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -302,7 +310,8 @@
       },
       "major": {
         "raw": "本科及以上学历，市场营销、工商管理、经济学、数据科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -393,7 +402,10 @@
       },
       "major": {
         "raw": "物流管理、供应链管理、计算机、数学、统计、数据科学等相关专业，有物流、供应链、互联网产品运营相关实习经历者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流管理、供应链管理、计算机、数学、统计、数据科学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -478,7 +490,8 @@
       },
       "major": {
         "raw": "本科及以上学历；具备优秀的语言能力，有相关国家留学或工作经历者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -571,7 +584,8 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机、信息管理、数据科学、产品设计相关专业或具有一定编程基础的跨学科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -660,7 +674,10 @@
       },
       "major": {
         "raw": "本科及以上学历，市场营销、电子商务、国际商务、新闻传播、语言类（如西语、翻译等）或相关人文社科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、电子商务、国际商务、新闻传播、语言类（如西语、翻译等）或相关人文社科专业"
+        ]
       },
       "language": {
         "raw": "西班牙语",
@@ -755,7 +772,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -843,7 +861,10 @@
       },
       "major": {
         "raw": "硕士及以上学历，数学、统计、计算机科学等相关专业，同时有计算机硬件、供应链相关专业背景者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "数学、统计、计算机科学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -931,7 +952,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1017,7 +1039,8 @@
       },
       "major": {
         "raw": "本科及以上学历，有海外留学背景优先，英语优秀",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1104,7 +1127,10 @@
       },
       "major": {
         "raw": "人工智能、深度学习、强化学习、运筹学或相关专业全球顶尖高校（C9/985/QS Top50）硕博毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人工智能、深度学习、强化学习、运筹学或相关专业全球顶尖高校（C9/985/QS Top50）硕博毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -1193,7 +1219,8 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机、人工智能、统计学、数学、信息管理、数据科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1288,7 +1315,8 @@
       },
       "major": {
         "raw": "本科及以上学历，人力资源、管理学、心理学、社会学、数据分析等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1377,7 +1405,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1463,7 +1492,8 @@
       },
       "major": {
         "raw": "本科以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1547,7 +1577,8 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机、人工智能、统计学、数学、信息管理、数据科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1637,7 +1668,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1724,7 +1756,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1812,7 +1845,10 @@
       },
       "major": {
         "raw": "计算机科学、人工智能、网络安全等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、网络安全等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -1899,7 +1935,8 @@
       },
       "major": {
         "raw": "掌握电路理论、数字/模拟电子技术、计算机组成原理等基础知识；掌握信号完整性，电源完整性理论基础，对各类电子元器件的功能及应用有了解，在产品应用中的注意事项有基本认知；了解服务器、交换机产品硬件架构，熟悉CPU、内存、I/O子系统及常用总线协议；熟悉至少一种主流EDA工具（如Cadence Allegro、OrCAD、Mentor等）；具备示波器、逻辑分析仪、网络分析仪等硬件调试设备使用经验者优先；有FPGA开发、单片机及嵌入式系统、PCB设计或电子竞赛项目经验者优先；了解Linux基础、Shell/Python脚本，有自动化测试脚本开发经验者优先，能配合软件团队进行底层联调；英语良好，能阅读英文芯片手册、技术规范及行业白皮书",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1990,7 +2027,10 @@
       },
       "major": {
         "raw": "本科及以上学历，数学、统计、经济学、商业分析、运筹学、管理学、信息科学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "数学、统计、经济学、商业分析、运筹学、管理学、信息科学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2074,7 +2114,10 @@
       },
       "major": {
         "raw": "本科及以上学历，市场营销、广告学、新闻传播、电子商务、国际商务、小语种(葡萄牙语、西语）翻译或相关人文社科/商科专业；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告学、新闻传播、电子商务、国际商务、小语种(葡萄牙语、西语）翻译或相关人文社科/商科专业"
+        ]
       },
       "language": {
         "raw": "西班牙语、葡萄牙语",
@@ -2168,7 +2211,8 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机、人工智能、统计学、传播学、市场营销、信息管理等相关专业优先（非相关专业有相关运营经验也可考虑）。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2260,7 +2304,8 @@
       },
       "major": {
         "raw": "本科及以上学历，专业不限（市场营销、统计学、计算机相关专业优先）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2349,7 +2394,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2431,7 +2477,8 @@
       },
       "major": {
         "raw": "本科及以上学历，英语或第二外语流利优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2517,7 +2564,8 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机科学、人工智能、网络安全等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2604,7 +2652,8 @@
       },
       "major": {
         "raw": "本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2692,7 +2741,10 @@
       },
       "major": {
         "raw": "1、泛计算机相关专业，至少熟练掌握一种编程语言",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、泛计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2777,7 +2829,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2869,7 +2922,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，市场营销、广告学、文化产业、新媒体、工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2966,7 +3020,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，英语流利，计算机/AI/数据相关专业优先（对市场/公关传播有兴趣同样重要）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3056,7 +3111,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3143,7 +3199,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，不限专业，对游戏美术有一定知识储备或美术专业更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3227,7 +3284,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，信息安全、计算机、法学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "信息安全、计算机、法学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3319,7 +3379,10 @@
       },
       "major": {
         "raw": "1. 数学、统计、计算机、管理科学、金融等相关专业硕士或以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 数学、统计、计算机、管理科学、金融等相关专业硕士或以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -3407,7 +3470,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3494,7 +3558,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3582,7 +3647,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，机器学习、深度学习、强化学习、运筹学、自然语言处理、图像识别或应用数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机器学习、深度学习、强化学习、运筹学、自然语言处理、图像识别或应用数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3670,7 +3738,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3757,7 +3826,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，综合类院校、商科及传媒类院校优秀毕业生优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3847,7 +3917,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3938,7 +4009,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "泰语、越南语、印尼语、马来语",
@@ -4019,7 +4091,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、电子信息、数学等相关专业硕士及以上学历，博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、电子信息、数学等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -4110,7 +4185,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4202,7 +4278,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4294,7 +4371,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4386,7 +4464,8 @@
       },
       "major": {
         "raw": "1.在读本科生/硕士生，计算机、数学、设计类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4473,7 +4552,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，数学、统计、经济学、商业分析、运筹学、管理学、信息科学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "数学、统计、经济学、商业分析、运筹学、管理学、信息科学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4559,7 +4641,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4648,7 +4731,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4730,7 +4814,10 @@
       },
       "major": {
         "raw": "1. 计算机科学相关专业，熟悉操作系统、网络、数据结构与算法等基础理论",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4823,7 +4910,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4917,7 +5005,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，市场营销、广告学、新闻传播、电子商务、国际商务或相关人文社科/商科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告学、新闻传播、电子商务、国际商务或相关人文社科/商科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5009,7 +5100,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，综合类院校、商科及传媒类院校优秀毕业生优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5097,7 +5189,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，综合类院校、商科及传媒类院校优秀毕业生优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5181,7 +5274,12 @@
       },
       "major": {
         "raw": "1、计算机相关专业硕士及以上学历，NLP/CV/多模态等研究方向，在校期间在计算机/人工智能等方向顶级会议或期刊有多篇高质量学术论文",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机相关专业硕士及以上学历",
+          "NLP/CV/多模态等研究方向",
+          "在校期间在计算机/人工智能等方向顶级会议或期刊有多篇高质量学术论文"
+        ]
       },
       "language": {
         "raw": "",
@@ -5271,7 +5369,10 @@
       },
       "major": {
         "raw": "1、背景与学术： 人工智能、深度学习、运筹学或相关专业全球顶尖高校（C9/QS Top50）博毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、背景与学术： 人工智能、深度学习、运筹学或相关专业全球顶尖高校（C9/QS Top50）博毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -5359,7 +5460,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5454,7 +5556,10 @@
       },
       "major": {
         "raw": "1. 深度学习、强化学习、运筹学、自然语言处理、图像识别或应用数学等相关专业的硕士或博士生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 深度学习、强化学习、运筹学、自然语言处理、图像识别或应用数学等相关专业的硕士或博士生"
+        ]
       },
       "language": {
         "raw": "",
@@ -5547,7 +5652,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5637,7 +5743,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、数学或统计学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5728,7 +5835,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、管理学、经济学、统计学、心理学、社会学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语、西班牙语、葡萄牙语",
@@ -5821,7 +5929,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "泰语、越南语、印尼语、马来语",
@@ -5902,7 +6011,10 @@
       },
       "major": {
         "raw": "1.计算机、数学、人工智能、网络安全等相关专业硕士及以上学历，3年以上算法研发或安全研发经验，有智能体安全、系统安全、大模型安全或偏好对齐领域背景者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、数学、人工智能、网络安全等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -5991,7 +6103,10 @@
       },
       "major": {
         "raw": "1、计算机、软件工程、数学、统计、金融工程等相关专业硕士或以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、软件工程、数学、统计、金融工程等相关专业硕士或以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -6086,7 +6201,10 @@
       },
       "major": {
         "raw": "1. 基础扎实：计算机/AI相关专业硕士及以上，机器学习/深度学习理论基础深厚",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 基础扎实：计算机/AI相关专业硕士及以上"
+        ]
       },
       "language": {
         "raw": "",
@@ -6174,7 +6292,10 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、数学、统计学或相关专业硕士及以上学历，博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、人工智能、数学、统计学或相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -6262,7 +6383,11 @@
       },
       "major": {
         "raw": "1. 计算机、通信、电子工程等相关专业；3. 专业经验： 有大型数据中心网络建设运维经验，有RDMA协议设计经验，或有NCCL/DeepEP/MPI等通信库研发经验者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、通信、电子工程等相关专业",
+          "3. 专业经验： 有大型数据中心网络建设运维经验"
+        ]
       },
       "language": {
         "raw": "",
@@ -6350,7 +6475,10 @@
       },
       "major": {
         "raw": "- PhD / 硕士毕业生，计算机、人工智能、统计、数学、电子工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、统计、数学、电子工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6436,7 +6564,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机、人工智能、电子与通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、电子与通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6529,7 +6660,10 @@
       },
       "major": {
         "raw": "1. 计算机、电子信息、通信、自动化、软件工程等相关专业，硕士或博士在读优先，具备扎实的计算机系统基础",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、电子信息、通信、自动化、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6621,7 +6755,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历、计算机/自动化/电子信息/通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 硕士及以上学历、计算机/自动化/电子信息/通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6712,7 +6849,8 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，半导体工艺、器件和物理专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6798,7 +6936,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6886,7 +7025,10 @@
       },
       "major": {
         "raw": "1.教育背景：计算机体系结构、微电子、电子工程、人工智能等相关专业，应届博士毕业生或优秀硕士生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.教育背景：计算机体系结构、微电子、电子工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6974,7 +7116,10 @@
       },
       "major": {
         "raw": "2、具有计算机体系结构背景，熟悉芯片组件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、具有计算机体系结构背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -7058,7 +7203,10 @@
       },
       "major": {
         "raw": "2、具有计算机体系结构背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、具有计算机体系结构背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -7142,7 +7290,8 @@
       },
       "major": {
         "raw": "1、热爱游戏，有游戏公司市场营销实习经验，具备日语N1能力、或日本留学背景者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "日语",
@@ -7230,7 +7379,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7316,7 +7466,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7402,7 +7553,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -7482,7 +7634,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、心理学、工业设计等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7571,7 +7724,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7659,7 +7813,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7747,7 +7902,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、管理学、经济学、统计学、心理学、社会学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7835,7 +7991,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、电子通信、数学、心理学、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7923,7 +8080,10 @@
       },
       "major": {
         "raw": "2. 具有计算机体系结构背景，熟悉SOC组件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 具有计算机体系结构背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -8007,7 +8167,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，集成电路、电子工程、计算机科学或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、电子工程、计算机科学或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8095,7 +8258,10 @@
       },
       "major": {
         "raw": "1. 硕士或博士应届毕业生，集成电路、电子工程、计算机科学、微电子、热能工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、电子工程、计算机科学、微电子、热能工程或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8179,7 +8345,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机科学、软件工程、电子信息、微电子、数学或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程、电子信息、微电子、数学或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8268,7 +8437,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机科学、软件工程、自动化、集成电路、电子信息、微电子或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程、自动化、集成电路、电子信息、微电子或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8357,7 +8529,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机科学/人工智能/运筹优化/数理统计等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8448,7 +8621,10 @@
       },
       "major": {
         "raw": "1. 电子工程、计算机科学、人工智能或相关专业的在读硕士或博士研究生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 电子工程、计算机科学、人工智能或相关专业的在读硕士或博士研究生"
+        ]
       },
       "language": {
         "raw": "",
@@ -8538,7 +8714,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8626,7 +8803,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8717,7 +8897,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历、计算机/自动化/电子信息/通信等相关专业；2、包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、硕士及以上学历、计算机/自动化/电子信息/通信等相关专业",
+          "2、包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8812,7 +8996,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、电子与通信等相关专业；2、包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、电子与通信等相关专业",
+          "2、包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8908,7 +9096,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、数据等相关专业；2、包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数据等相关专业",
+          "2、包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9003,7 +9195,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、电子通信、数学、心理学、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9091,7 +9284,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学/人工智能/机器学习等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9179,7 +9373,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9265,7 +9460,10 @@
       },
       "major": {
         "raw": "1. 自然语言处理、计算机视觉、语音、机器学习、跨模态表征学习等相关专业在读",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 自然语言处理、计算机视觉、语音、机器学习、跨模态表征学习等相关专业在读"
+        ]
       },
       "language": {
         "raw": "",
@@ -9354,7 +9552,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9443,7 +9642,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9529,7 +9729,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9615,7 +9816,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、数学、统计学、物理或自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9703,7 +9905,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9790,7 +9993,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学/人工智能/运筹优化/数理统计等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9878,7 +10082,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9962,7 +10167,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、统计、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10049,7 +10255,10 @@
       },
       "major": {
         "raw": "1. 计算机、通信、电子工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、通信、电子工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -10142,7 +10351,10 @@
       },
       "major": {
         "raw": "2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有较好的掌握和理解",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有较好的掌握和理解"
+        ]
       },
       "language": {
         "raw": "",
@@ -10231,7 +10443,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学、软件工程、人工智能、信息安全、网络安全、通信等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10323,7 +10536,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10408,7 +10622,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10490,7 +10705,10 @@
       },
       "major": {
         "raw": "1. 计算机、机器学习、人工智能等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、机器学习、人工智能等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -10577,7 +10795,10 @@
       },
       "major": {
         "raw": "1.计算机、机器学习、人工智能、自然语言处理等相关专业在读",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、机器学习、人工智能、自然语言处理等相关专业在读"
+        ]
       },
       "language": {
         "raw": "",
@@ -10665,7 +10886,10 @@
       },
       "major": {
         "raw": "1. 计算机视觉、人工智能、机器学习、自然语言、模式识别、计算机、数学等相关专业在读",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机视觉、人工智能、机器学习、自然语言、模式识别、计算机、数学等相关专业在读"
+        ]
       },
       "language": {
         "raw": "",
@@ -10753,7 +10977,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10841,7 +11066,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10923,7 +11149,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11013,7 +11240,10 @@
       },
       "major": {
         "raw": "1、自然语言处理、计算机视觉、语音、机器学习、跨模态表征学习等相关专业在读",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、自然语言处理、计算机视觉、语音、机器学习、跨模态表征学习等相关专业在读"
+        ]
       },
       "language": {
         "raw": "",
@@ -11102,7 +11332,10 @@
       },
       "major": {
         "raw": "1.研究生在读或即将毕业，计算机科学、人工智能、机器学习、自然语言处理等相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、机器学习、自然语言处理等相关专业背景"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -11190,7 +11423,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、电子信息、数学等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、电子信息、数学等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -11281,7 +11517,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、电子信息、数学等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、电子信息、数学等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -11371,7 +11610,10 @@
       },
       "major": {
         "raw": "1. 计算机、数学、人工智能等相关专业硕士及以上学历，有大模型安全或偏好对齐领域背景者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、数学、人工智能等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -11460,7 +11702,10 @@
       },
       "major": {
         "raw": "1.计算机、人工智能、数学/统计等相关专业硕士及以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、人工智能、数学/统计等相关专业硕士及以上"
+        ]
       },
       "language": {
         "raw": "",
@@ -11548,7 +11793,10 @@
       },
       "major": {
         "raw": "1. 2027届毕业生，计算机、人工智能、机器学习、深度学习、软件工程或相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、机器学习、深度学习、软件工程或相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -11636,7 +11884,8 @@
       },
       "major": {
         "raw": "1.计算机科学、人工智能、机器学习、数据科学或相关领域硕士或博士在读 / 应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11728,7 +11977,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11813,7 +12063,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，综合类院校、商科及传媒类院校优秀毕业生优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11900,7 +12151,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，综合类院校、商科及传媒类院校优秀毕业生优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11988,7 +12240,10 @@
       },
       "major": {
         "raw": "1. 计算机、微电子、电子工程等相关专业，硕士及以上学历，具备扎实的计算机体系结构、数字电路基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、微电子、电子工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12076,7 +12331,10 @@
       },
       "major": {
         "raw": "（1）扎实的计算机根基：计算机、人工智能、数学等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "（1）扎实的计算机根基：计算机、人工智能、数学等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -12166,7 +12424,10 @@
       },
       "major": {
         "raw": "1. 硬性背景 学历专业： 计算机科学与技术、电子工程、微电子、自动化等相关专业，2027年毕业的应届生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 硬性背景 学历专业： 计算机科学与技术、电子工程、微电子、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12255,7 +12516,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、软件工程、数学等相关学历背景优秀硕士/博士，在机器学习、自然语言处理、语音信号处理、信息检索、多模态建模等领域具备扎实的基础理论",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、软件工程、数学等相关学历背景优秀硕士/博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -12346,7 +12610,10 @@
       },
       "major": {
         "raw": "1.学术背景：计算机、人工智能、机器学习、数学等相关方向优秀硕士或博士（2027 届毕业生），具备扎实的机器学习、深度学习和多模态大模型理论基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学术背景：计算机、人工智能、机器学习、数学等相关方向优秀硕士或博士（2027 届毕业生）"
+        ]
       },
       "language": {
         "raw": "",
@@ -12438,7 +12705,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机视觉、图形学、人工智能、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机视觉、图形学、人工智能、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12526,7 +12796,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、电子与通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、电子与通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12617,7 +12890,10 @@
       },
       "major": {
         "raw": "- PhD / 硕士毕业生，计算机、人工智能、统计、数学、电子工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、统计、数学、电子工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12707,7 +12983,8 @@
       },
       "major": {
         "raw": "1.基础条件 ● 计算机、数学、统计学等相关专业硕士/博士优先，优秀本科生不受限制",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12795,7 +13072,10 @@
       },
       "major": {
         "raw": "1.基础条件： ● 计算机、软件工程、人工智能等相关专业优先；2.专业能力: ● 技术基础：扎实的计算机基础（OS/网络/数据库），精通至少一门编程语言（Go/Python/Java/C++/Rust/TypeScript），熟悉后端技术栈（微服务/消息队列/缓存）及云原生（K8s/Serverles；● AI Agent 专精领域：深入理解大模型原理，熟悉至少一种Agent框架（LangGraph/ADK/LangChain/AutoGen/MetaGPT等）或核心组件（RAG/工具调用/SKILLS），具备Agent全生命周期管理（训",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业能力: ● 技术基础：扎实的计算机基础（OS/网络/数据库）"
+        ]
       },
       "language": {
         "raw": "",
@@ -12882,7 +13162,8 @@
       },
       "major": {
         "raw": "1.基础条件 ● 计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12968,7 +13249,8 @@
       },
       "major": {
         "raw": "1. 基础条件： ● 计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13053,7 +13335,8 @@
       },
       "major": {
         "raw": "1、专业要求：计算机、数学、统计学等相关专业硕士/博士优先，优秀本科生不受限制",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13139,7 +13422,8 @@
       },
       "major": {
         "raw": "1.基础条件 ● 计算机、软件工程、数学、统计、人工智能、大数据、机器人等相关专业硕士/博士优先（非此类专业，有相关经验亦可）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13225,7 +13509,8 @@
       },
       "major": {
         "raw": "1.基础条件 ● 计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13311,7 +13596,10 @@
       },
       "major": {
         "raw": "1.计算机视觉、机器学习、人工智能、计算机图形学、机器人等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机视觉、机器学习、人工智能、计算机图形学、机器人等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -13393,7 +13681,10 @@
       },
       "major": {
         "raw": "1.计算生物学、生物信息学、计算机科学、基因组学、系统生物学或相关专业博士学位",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算生物学、生物信息学、计算机科学、基因组学、系统生物学或相关专业博士学位"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13477,7 +13768,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "泰语、越南语、印尼语、马来语",
@@ -13555,7 +13847,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、人工智能、心理学、工业设计等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13643,7 +13936,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机科学、软件工程、电子工程、微电子等相关专业 2025/2026 届应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程、电子工程、微电子等相关专业 2025/2026 届应届毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -13730,7 +14026,8 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，信息工程、统计学、数据科学、计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13818,7 +14115,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13900,7 +14198,10 @@
       },
       "major": {
         "raw": "1.计算机视觉、机器人学、深度学习相关方向硕士及以上学历，有具身智能/世界模型/视频生成/VLA/Sim2Real 相关研究或工程经验优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机视觉、机器人学、深度学习相关方向硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -13985,7 +14286,10 @@
       },
       "major": {
         "raw": "1.计算生物学、生物信息学、计算机科学、结构生物学、生物物理、计算化学或相关专业博士学位",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算生物学、生物信息学、计算机科学、结构生物学、生物物理、计算化学或相关专业博士学位"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -14069,7 +14373,10 @@
       },
       "major": {
         "raw": "我们期待这样的你 ● 本科及以上学历，计算机、软件工程、人工智能 等计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能 等计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14154,7 +14461,10 @@
       },
       "major": {
         "raw": "1.基础条件 ● 计算机、软件工程、人工智能 等相关专业优先；2.专业能力 ● 扎实的计算机基础：具备扎实的计算机基础知识，深入理解数据结构、算法、网络和操作系统等相关知识，对大规模分布式系统有深刻理解",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.专业能力 ● 扎实的计算机基础：具备扎实的计算机基础知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -14241,7 +14551,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机、人工智能、电子与通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、电子与通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14327,7 +14640,8 @@
       },
       "major": {
         "raw": "1.计算机、数学、统计学等相关专业硕士/博士优先，优秀本科生不受限制",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14415,7 +14729,10 @@
       },
       "major": {
         "raw": "1. 教育背景：计算机科学、人工智能、运筹学、数据科学等相关专业，博士研究生及以上学历，熟悉推荐系统、运筹等基础理论",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 教育背景：计算机科学、人工智能、运筹学、数据科学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14504,7 +14821,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14586,7 +14904,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14666,7 +14985,8 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、机器学习或相关领域的硕士或博士学位",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14752,7 +15072,10 @@
       },
       "major": {
         "raw": "1、计算机科学、电子工程、人工智能、信号处理等相关专业硕士及以上学历，博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、电子工程、人工智能、信号处理等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -14840,7 +15163,11 @@
       },
       "major": {
         "raw": "1.学历背景：博士及以上学历，计算机科学、人工智能、软件工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学历背景：博士及以上学历",
+          "计算机科学、人工智能、软件工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14927,7 +15254,10 @@
       },
       "major": {
         "raw": "1. 工程与算法基础：计算机相关专业背景，有极佳的工程实现能力，精通 C/C++ 与 Python",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 工程与算法基础：计算机相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -15012,7 +15342,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15097,7 +15430,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、机器学习、人工智能、应用数学等相关专业博士",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、机器学习、人工智能、应用数学等相关专业博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -15181,7 +15517,10 @@
       },
       "major": {
         "raw": "1、计算机科学相关专业研究生及以上学历，具备扎实的计算机基础知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学相关专业研究生及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -15267,7 +15606,10 @@
       },
       "major": {
         "raw": "1.计算机、人工智能等相关专业博士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、人工智能等相关专业博士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -15352,7 +15694,8 @@
       },
       "major": {
         "raw": "1.来自全球Top高校计算机科学、人工智能、数学、物理或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15436,7 +15779,10 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能或相关专业博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、人工智能或相关专业博士学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -15522,7 +15868,8 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、机器学习或相关领域的硕士或博士学位",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15609,7 +15956,8 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、机器学习或相关领域的硕士或博士学位",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15695,7 +16043,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15780,7 +16131,8 @@
       },
       "major": {
         "raw": "1.来自全球Top高校计算机科学、人工智能、数学、物理或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15866,7 +16218,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、数学等相关专业硕士及以上学历（博士优先）；2、具有扎实的 NLP、强化学习（RL）、LLM和Agent背景基础",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、具有扎实的 NLP、强化学习（RL）、LLM和Agent背景基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -15951,7 +16306,8 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、机器学习或相关领域的硕士或博士学位，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16037,7 +16393,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16121,7 +16480,10 @@
       },
       "major": {
         "raw": "1. 计算机、信息科学、数学或相关专业博士学历，深入理解LLM/MLLM/RL/Agent领域，熟悉DPO/PPO/GRPO等RL前沿算法",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、信息科学、数学或相关专业博士学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -16208,7 +16570,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16288,7 +16651,10 @@
       },
       "major": {
         "raw": "1、计算机/人工智能相关专业硕士及以上学历，熟练掌握C++和Python编程语言，和软件工程面向对象设计（OOP、OOD）等相关技术， 有很好的抽象能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机/人工智能相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -16372,7 +16738,11 @@
       },
       "major": {
         "raw": "1.学历背景：硕士及以上学历，计算机科学、软件工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学历背景：硕士及以上学历",
+          "计算机科学、软件工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16460,7 +16830,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历在读或即将毕业，计算机科学、软件工程、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16546,7 +16919,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16631,7 +17007,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16713,7 +17090,11 @@
       },
       "major": {
         "raw": "1. 专业背景扎实，计算机、人工智能、软件工程、模式识别、统计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 专业背景扎实",
+          "计算机、人工智能、软件工程、模式识别、统计学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16800,7 +17181,10 @@
       },
       "major": {
         "raw": "1. 计算机/人工智能相关专业硕士及以上学历，熟练掌握 C++/Golang至少一种语言，有很好的抽象能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机/人工智能相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -16886,7 +17270,8 @@
       },
       "major": {
         "raw": "1. 来自全球Top高校计算机科学、人工智能、数学、物理或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16977,7 +17362,8 @@
       },
       "major": {
         "raw": "1、来自全球Top高校计算机科学、人工智能、数学或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17064,7 +17450,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、软件工程、数学、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17148,7 +17535,8 @@
       },
       "major": {
         "raw": "1. 基础条件 a. 计算机、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17234,7 +17622,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17316,7 +17705,8 @@
       },
       "major": {
         "raw": "1. 来自全球Top高校计算机科学、人工智能、数学、物理或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17406,7 +17796,11 @@
       },
       "major": {
         "raw": "1、毕业时间在2026年11月之后的在校本硕博同学，计算机相关专业，有视频或图像编码和处理研究背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业",
+          "有视频或图像编码和处理研究背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -17493,7 +17887,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机科学、人工智能、电子与通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、电子与通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17582,7 +17979,10 @@
       },
       "major": {
         "raw": "硬性要求： ● 计算机科学、人工智能、运筹学、自动化等相关方向博士 ● 扎实的强化学习理论功底，精通主流RL算法（Policy Gradient/PPO/GRPO及其变体），有实际实现与调优经验 ● 熟练Python + PyTorch，具",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "硬性要求： ● 计算机科学、人工智能、运筹学、自动化等相关方向博士 ● 扎实的强化学习理论功底"
+        ]
       },
       "language": {
         "raw": "",
@@ -17672,7 +18072,10 @@
       },
       "major": {
         "raw": "1、毕业时间在 2026年11月及以后的在校硕博同学，计算机视觉、计算机图形学、机器学习等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机视觉、计算机图形学、机器学习等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17758,7 +18161,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17838,7 +18242,10 @@
       },
       "major": {
         "raw": "1. 基础背景 ● 计算机、信息/网络安全、软件工程、人工智能、数学等相关专业本科及以上，硕士/博士优先，优秀本科生可直接申请",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 基础背景 ● 计算机、信息/网络安全、软件工程、人工智能、数学等相关专业本科及以上"
+        ]
       },
       "language": {
         "raw": "",
@@ -17925,7 +18332,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18006,7 +18414,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18089,7 +18498,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、人工智能等相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -18173,7 +18585,10 @@
       },
       "major": {
         "raw": "1. 数学、统计、计算机、信息安全、人工智能等相关专业硕士或以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 数学、统计、计算机、信息安全、人工智能等相关专业硕士或以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -18263,7 +18678,10 @@
       },
       "major": {
         "raw": "3. 计算机科学、网络安全或信息安全相关专业，有国家级数学建模竞赛 或 信息安全竞赛 或 程序设计竞赛 经验者 优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "3. 计算机科学、网络安全或信息安全相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -18350,7 +18768,10 @@
       },
       "major": {
         "raw": "1.工程力学或固体力学，或材料科学与工程，或机械设计等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "或机械设计等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -18432,7 +18853,10 @@
       },
       "major": {
         "raw": "3. 具备较好的计算机专业知识，对操作系统、编译原理、大模型原理有较深刻了解，有驱动开发、系统核心组件/Framework分析经验者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "3. 具备较好的计算机专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -18517,7 +18941,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18601,7 +19026,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18679,7 +19105,12 @@
       },
       "major": {
         "raw": "1. 计算机、通信、电子、自动化、数学等相关专业；4. 具备一定的计算机体系结构背景知识，有芯片软硬结合设计项目背景尤佳",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、通信、电子、自动化、数学等相关专业",
+          "4. 具备一定的计算机体系结构背景知识",
+          "有芯片软硬结合设计项目背景尤佳"
+        ]
       },
       "language": {
         "raw": "",
@@ -18764,7 +19195,10 @@
       },
       "major": {
         "raw": "1、计算机科学、电子工程、软件工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、电子工程、软件工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -18849,7 +19283,10 @@
       },
       "major": {
         "raw": "1. 计算机、电子相关专业硕士/博士及以上学历，精通 C/C++",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、电子相关专业硕士/博士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -18931,7 +19368,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，电子工程、微电子、计算机、通信、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子工程、微电子、计算机、通信、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19016,7 +19456,8 @@
       },
       "major": {
         "raw": "6、专业不限（优先考虑外语、社会学、计算机或金融专业背景）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19104,7 +19545,10 @@
       },
       "major": {
         "raw": "1、热爱游戏，计算机.美术.游戏相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机.美术.游戏相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19187,7 +19631,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19267,7 +19712,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19351,7 +19797,10 @@
       },
       "major": {
         "raw": "1.本科以上，美术、动画、计算机、软件工程、图形学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术、动画、计算机、软件工程、图形学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19433,7 +19882,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19519,7 +19969,10 @@
       },
       "major": {
         "raw": "1、电子、通信、自动化、电气工程、机械电子、光电等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电子、通信、自动化、电气工程、机械电子、光电等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19601,7 +20054,10 @@
       },
       "major": {
         "raw": "2. 任一学科背景：半导体材料、工艺、机械、结构力学、光电子、电子封装、热传导、可靠性工程、软件编程等学科专业相关背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 任一学科背景：半导体材料、工艺、机械、结构力学、光电子、电子封装、热传导、可靠性工程、软件编程等学科专业相关背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -19686,7 +20142,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19766,7 +20223,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19844,7 +20302,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学、网络安全、信息安全、数学、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、网络安全、信息安全、数学、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19930,7 +20391,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20008,7 +20470,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20090,7 +20553,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20172,7 +20636,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20250,7 +20715,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，有良好专业教育背景（设计类、计算机、人工智能、心理学等专业，有多元专业视角加分）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "有良好专业教育背景（设计类、计算机、人工智能、心理学等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -20336,7 +20804,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20422,7 +20891,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20502,7 +20972,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20582,7 +21053,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20667,7 +21139,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20745,7 +21218,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学相关专业， AI领域相关的研究/实习经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -20834,7 +21310,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20918,7 +21395,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、数学、自动化、电子信息等相关专业，硕士或博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、数学、自动化、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21006,7 +21486,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21089,7 +21570,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21175,7 +21657,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21258,7 +21741,10 @@
       },
       "major": {
         "raw": "1. 计算机、软件工程、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -21343,7 +21829,10 @@
       },
       "major": {
         "raw": "2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有扎实的掌握",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有扎实的掌握"
+        ]
       },
       "language": {
         "raw": "",
@@ -21434,7 +21923,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21523,7 +22013,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、数学、电子信息等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21612,7 +22103,11 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机科学、人工智能、电子与通信等相关专业；2、包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、电子与通信等相关专业",
+          "2、包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -21705,7 +22200,10 @@
       },
       "major": {
         "raw": "1.基础条件 ● 计算机、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.基础条件 ● 计算机、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -21793,7 +22291,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21873,7 +22372,8 @@
       },
       "major": {
         "raw": "1. AI、计算机、数学、信息电子相关硕士学位",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21955,7 +22455,10 @@
       },
       "major": {
         "raw": "1. 计算机或软件相关专业本科及以上学历，对操作系统内核有极客精神",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机或软件相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -22037,7 +22540,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22120,7 +22624,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22203,7 +22708,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上，计算机科学相关专业， AI领域相关的研究/实习经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -22287,7 +22795,10 @@
       },
       "major": {
         "raw": "1. 计算机、电子相关专业硕士/博士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、电子相关专业硕士/博士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -22372,7 +22883,10 @@
       },
       "major": {
         "raw": "1. 计算机科学相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -22454,7 +22968,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22539,7 +23054,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22629,7 +23145,10 @@
       },
       "major": {
         "raw": "1. 计算机科学相关专业，熟悉掌握Python或Java至少一门编程语言，掌握大数据和AI应用的一些基础知识与技能",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -22719,7 +23238,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22797,7 +23317,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22878,7 +23399,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22958,7 +23480,8 @@
       },
       "major": {
         "raw": "2.专业不限（文学及语言类专业优先），有较强的文字功底",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23043,7 +23566,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23125,7 +23649,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23206,7 +23731,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23289,7 +23815,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23369,7 +23896,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23449,7 +23977,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23529,7 +24058,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23607,7 +24137,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23685,7 +24216,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23763,7 +24295,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23843,7 +24376,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23923,7 +24457,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24004,7 +24539,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24082,7 +24618,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24162,7 +24699,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24242,7 +24780,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24323,7 +24862,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24404,7 +24944,10 @@
       },
       "major": {
         "raw": "1. 计算机、数学、统计、人工智能、大数据等相关专业硕士及以上学历，有数据算法相关实践经验，具备多模态/跨模态数据处理项目经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、数学、统计、人工智能、大数据等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -24490,7 +25033,10 @@
       },
       "major": {
         "raw": "1. 人工智能/计算机/数学等相关专业，有良好的分析问题、解决问题能力和沟通协作能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 人工智能/计算机/数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24575,7 +25121,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机科学、人工智能、语音信号处理、自然语言处理或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、语音信号处理、自然语言处理或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24662,7 +25211,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、软件工程、数学、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24748,7 +25298,11 @@
       },
       "major": {
         "raw": "1. 计算机相关专业本科及以上学历，图像处理、模式识别、计算机视觉等相关方向",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机相关专业本科及以上学历",
+          "图像处理、模式识别、计算机视觉等相关方向"
+        ]
       },
       "language": {
         "raw": "",
@@ -24831,7 +25385,10 @@
       },
       "major": {
         "raw": "1.基础背景 ●计算机、网络安全、人工智能、数学或相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.基础背景 ●计算机、网络安全、人工智能、数学或相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -24917,7 +25474,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24997,7 +25555,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、数学、电子信息等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25082,7 +25641,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、人工智能、软件工程、数学、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25170,7 +25730,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机科学、人工智能、电子与通信等相关专业，在视觉生成、计算机视觉、多模态等领域基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、电子与通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25255,7 +25818,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历自然语言处理、计算机视觉、机器学习和数据挖掘等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25339,7 +25903,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25426,7 +25991,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25516,7 +26082,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、软件工程、数学、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25606,7 +26173,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25690,7 +26258,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25772,7 +26341,10 @@
       },
       "major": {
         "raw": "1.学历背景：计算机、人工智能、数学等相关专业，硕士及以上学历，博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学历背景：计算机、人工智能、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25860,7 +26432,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25943,7 +26516,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、人工智能、生物信息、计算化学、药学等相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、生物信息、计算化学、药学等相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -26027,7 +26603,11 @@
       },
       "major": {
         "raw": "1. 高质量数据合成与构造：针对推理（数学/STEM）、通用（指令/知识/写作/安全）及垂直领域（医疗/法律/金融），构建与合成高质量数据，突破复杂推理与专业知识的数据瓶颈",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 高质量数据合成与构造：针对推理（数学/STEM）、通用（指令/知识/写作/安全）及垂直领域（医疗/法律/金融）",
+          "突破复杂推理与专业知识的数据瓶颈"
+        ]
       },
       "language": {
         "raw": "",
@@ -26113,7 +26693,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26197,7 +26778,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、统计学、数学或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、统计学、数学或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -26281,7 +26865,11 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、统计学、数学等专业；2. 具备扎实的专业基础，熟悉一门数据科学语言，如Python、R、SQL、Java等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、统计学、数学等专业",
+          "2. 具备扎实的专业基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -26371,7 +26959,10 @@
       },
       "major": {
         "raw": "1. 计算机、数学、信息管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、数学、信息管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -26455,7 +27046,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -26539,7 +27131,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26621,7 +27214,10 @@
       },
       "major": {
         "raw": "1. 计算机、软件工程、电子工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、软件工程、电子工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -26706,7 +27302,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、软件工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、软件工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -26792,7 +27391,8 @@
       },
       "major": {
         "raw": "基础条件： ● 计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26876,7 +27476,10 @@
       },
       "major": {
         "raw": "1. 基础条件： ● 计算机、软件工程、人工智能等相关专业优先；3. AI 计算领域专业知识（满足其一即可）： ● 了解 AI 的基本原理与常见算法，理解模型训练/推理任务的基本流程及其资源需求（如显存、带宽、通信模式），了解主流训练推理框架（如 PyTorch、Megatron-LM、DeepSpee",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "3. AI 计算领域专业知识（满足其一即可）： ● 了解 AI 的基本原理与常见算法"
+        ]
       },
       "language": {
         "raw": "",
@@ -26964,7 +27567,10 @@
       },
       "major": {
         "raw": "1. 计算机、数学、电子工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、数学、电子工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -27046,7 +27652,10 @@
       },
       "major": {
         "raw": "1. 基础条件： ● 计算机、软件工程等相关专业优先；● AI 系统领域专业知识： ● 理解 AI 推理/训练的资源特征（如显存、带宽、通信模式）",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "● AI 系统领域专业知识： ● 理解 AI 推理/训练的资源特征（如显存、带宽、通信模式）"
+        ]
       },
       "language": {
         "raw": "",
@@ -27132,7 +27741,10 @@
       },
       "major": {
         "raw": "1. 基础条件： ● 计算机、软件工程及相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 基础条件： ● 计算机、软件工程及相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -27219,7 +27831,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27303,7 +27916,10 @@
       },
       "major": {
         "raw": "1. 基础扎实： 计算机、软件工程、人工智能等相关专业，扎实的计算机基础（包括但不限于数据结构与算法、操作系统、计算机网络等）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 基础扎实： 计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -27388,7 +28004,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27472,7 +28089,10 @@
       },
       "major": {
         "raw": "1、计算机相关专业本科及以上学历，数据结构、算法、操作系统及网络原理基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -27557,7 +28177,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、电子工程、数学、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子工程、数学、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -27641,7 +28264,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27726,7 +28350,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、电子、人工智能、数学、物理、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27814,7 +28439,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、软件、人工智能、信息安全、网络安全、通信等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27901,7 +28527,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27984,7 +28611,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、软件工程、数学或相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、软件工程、数学或相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -28067,7 +28697,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28156,7 +28787,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28241,7 +28873,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机及相关专业背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28325,7 +28958,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、软件工程、数学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28407,7 +29041,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、人工智能、软件工程、数学或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程、数学或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -28492,7 +29129,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28576,7 +29214,10 @@
       },
       "major": {
         "raw": "1.计算机相关专业硕士及以上学历，热爱技术，具备良好的编程基础（熟悉Python/Go/Shell等语言优先）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -28660,7 +29301,10 @@
       },
       "major": {
         "raw": "1.学历专业：本科及以上学历，计算机科学、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学历专业：本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -28745,7 +29389,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、数学等STEM相关专业硕士及以上学历，有深厚的数学与算法功底",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、数学等STEM相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -28832,7 +29479,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28917,7 +29565,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28999,7 +29648,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29085,7 +29735,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29166,7 +29817,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29248,7 +29900,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29330,7 +29983,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29415,7 +30069,8 @@
       },
       "major": {
         "raw": "1. 学历与理论基础 （1）全球Top高校计算机科学、人工智能等相关领域博士/顶尖硕士",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29503,7 +30158,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，具备国际化视野与至少一门熟练外语的优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29593,7 +30249,10 @@
       },
       "major": {
         "raw": "1. 计算机、机器学习、人工智能、自然语言处理等相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、机器学习、人工智能、自然语言处理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -29679,7 +30338,10 @@
       },
       "major": {
         "raw": "1. 学术成果：海内外顶尖高校博士，在分布式系统、机器学习系统或强化学习领域有扎实研究背景，以第一作者在OSDI，SOSP，NSDI等顶会发表过高质量论文",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "在分布式系统、机器学习系统或强化学习领域有扎实研究背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -29761,7 +30423,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29841,7 +30504,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、自动化等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、自动化等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -29926,7 +30592,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、自动化、电子工程等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、自动化、电子工程等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -30010,7 +30679,10 @@
       },
       "major": {
         "raw": "1. 计算机本科、硕士及以上学历，精通pytorch或tensorflow，具有人工智能、自然语言处理、大模型等方向的研究经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "具有人工智能、自然语言处理、大模型等方向的研究经验"
+        ]
       },
       "language": {
         "raw": "",
@@ -30097,7 +30769,10 @@
       },
       "major": {
         "raw": "• 计算机科学、软件工程或相关专业，硕士及以上学历（博士优先） • 深入理解编译原理，在编译器前端（Parsing/Type Checking）、中端（IR/Optimization）、后端（Code Generation/Register",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "• 计算机科学、软件工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -30182,7 +30857,10 @@
       },
       "major": {
         "raw": "• 计算机科学、软件工程或相关专业，硕士及以上学历（博士优先） • 深入理解LLM模型架构和原理，编译原理和分布式并行计算 • 熟悉 MLIR/TVM/OpenXLA 等主流AI编译器框架的架构和实现 • 扎实的 C/C++/Python",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "• 计算机科学、软件工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -30264,7 +30942,8 @@
       },
       "major": {
         "raw": "1、计算机、人工智能等相关领域博士学历（或有突出研究成果的硕士），在机器学习、计算机视觉、多模态、大模型等领域有扎实的理论基础与研究经验",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -30349,7 +31028,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、数学等相关专业硕士及以上学历，1 年以上多模态/生成模型相关经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、数学等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -30435,7 +31117,10 @@
       },
       "major": {
         "raw": "1、计算机科学或相关专业硕士及以上学历，具有扎实的计算机、机器学习等理论基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学或相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -30519,7 +31204,8 @@
       },
       "major": {
         "raw": "1.学历与学术背景： 计算机科学、软件工程、电子工程、人工智能或相关领域的博士学位（PhD）优先；或极具天赋的硕士学位，需在顶级系统/人工智能会议（如 OSDI, SOSP, EuroSys, NeurIPS, ICML 等）或期刊发表过高水平一作论文",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -30608,7 +31294,8 @@
       },
       "major": {
         "raw": "1、来自全球Top高校计算机科学、人工智能、电子工程、体系结构或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -30696,7 +31383,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -30780,7 +31468,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -30863,7 +31552,10 @@
       },
       "major": {
         "raw": "1.计算机科学、人工智能、信息科学、数学、统计学、自动化或相关STEM专业以及交叉学科背景（如计算生物学、计算神经科学、计算化学）的应届博士毕业生，或即将获得博士学位的优秀候选人",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机科学、人工智能、信息科学、数学、统计学、自动化或相关STEM专业以及交叉学科背景（如计算生物学、计算神经科学、计算化学）的应届博士毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -30953,7 +31645,11 @@
       },
       "major": {
         "raw": "1. 计算机、数学/统计、电子信息或相关专业博士学历，具备 RL/Post-Training 方向的研究经历，或机器学习 Applied Scientist 相关工作经验，熟悉 PPO、GRPO、DAPO 等主流 RL 算法及其工程实现细节",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、数学/统计、电子信息或相关专业博士学历",
+          "具备 RL/Post-Training 方向的研究经历"
+        ]
       },
       "language": {
         "raw": "",
@@ -31040,7 +31736,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、分布式系统、操作系统等相关专业博士，或极其优秀的硕士/本科",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、分布式系统、操作系统等相关专业博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -31128,7 +31827,10 @@
       },
       "major": {
         "raw": "1.计算机相关专业博士",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机相关专业博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -31213,7 +31915,10 @@
       },
       "major": {
         "raw": "1.计算机科学相关专业研究生及以上学历，具备扎实的计算机基础知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机科学相关专业研究生及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -31300,7 +32005,10 @@
       },
       "major": {
         "raw": "2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有较好的掌握和理解",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有较好的掌握和理解"
+        ]
       },
       "language": {
         "raw": "",
@@ -31385,7 +32093,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、人工智能、机器学习、数学、统计学等相关专业硕士及以上学历，博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、人工智能、机器学习、数学、统计学等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -31470,7 +32181,10 @@
       },
       "major": {
         "raw": "1、计算机科学或相关专业硕士及以上学历，具有扎实的计算机、机器学习等理论基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学或相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -31552,7 +32266,10 @@
       },
       "major": {
         "raw": "1、博士在读或即将毕业，计算机科学、数据库等相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、数据库等相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -31640,7 +32357,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、人工智能、电子工程、生物医学工程等相关专业的硕士或博士毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、人工智能、电子工程、生物医学工程等相关专业的硕士或博士毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -31731,7 +32451,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -31813,7 +32534,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -31896,7 +32618,8 @@
       },
       "major": {
         "raw": "1. 来自全球Top高校计算机科学、人工智能、数学、物理或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -31985,7 +32708,10 @@
       },
       "major": {
         "raw": "1. 计算机和电子工程相关专业，博士学历优先（优异的硕士毕业生也会给于同样的考虑）",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机和电子工程相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -32069,7 +32795,10 @@
       },
       "major": {
         "raw": "1.计算机、数学、自动化等相关专业博士或顶尖硕士，深入理解LLM/VLM/RL/Agent领域，熟悉DPO/PPO/GRPO等RL前沿算法",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、数学、自动化等相关专业博士或顶尖硕士"
+        ]
       },
       "language": {
         "raw": "",
@@ -32155,7 +32884,8 @@
       },
       "major": {
         "raw": "1. 计算机科学、计算机视觉、人工智能等领域博士/硕士毕业生，对通用视觉理解或生成模型有深入研究与实践",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -32239,7 +32969,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，人工智能、机器学习、深度学习、软件工程、相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -32324,7 +33055,10 @@
       },
       "major": {
         "raw": "1. 在读计算机科学、人工智能、机器学习、软件工程或相关专业，具备扎实的学术基础与技术能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 在读计算机科学、人工智能、机器学习、软件工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -32409,7 +33143,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、软件工程等相关专业在读",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、软件工程等相关专业在读"
+        ]
       },
       "language": {
         "raw": "",
@@ -32495,7 +33232,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、自动化等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、自动化等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -32581,7 +33321,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能或相关专业应届毕业生，具备扎实的编程和实验能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能或相关专业应届毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -32666,7 +33409,8 @@
       },
       "major": {
         "raw": "1. 来自全球Top高校计算机科学、人工智能、机器学习、深度学习、软件工程或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -32754,7 +33498,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机科学、人工智能、语音信号处理、自然语言处理或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、语音信号处理、自然语言处理或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -32836,7 +33583,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -32916,7 +33664,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、计算化学、生物信息学或相关专业硕士及以上学历，有交叉学科背景优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、计算化学、生物信息学或相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -33001,7 +33752,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学、人工智能、机器学习、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -33088,7 +33840,8 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、机器学习或相关领域硕士或博士学位",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -33173,7 +33926,10 @@
       },
       "major": {
         "raw": "1. 深厚的技术背景：计算机、信息科学、数学或相关专业硕士/博士学位，业界AI/Agent团队的相关实习和工作经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 深厚的技术背景：计算机、信息科学、数学或相关专业硕士/博士学位"
+        ]
       },
       "language": {
         "raw": "",
@@ -33264,7 +34020,10 @@
       },
       "major": {
         "raw": "1、博士学历，集成电路、计算机体系结构、电子工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、计算机体系结构、电子工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -33348,7 +34107,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -33428,7 +34188,10 @@
       },
       "major": {
         "raw": "1、博士在读或即将毕业，计算机科学、数据库、人工智能、机器学习等相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、数据库、人工智能、机器学习等相关专业背景"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -33515,7 +34278,10 @@
       },
       "major": {
         "raw": "1. 博士在读或即将毕业，计算机科学、数据库、人工智能、机器学习等相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、数据库、人工智能、机器学习等相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -33602,7 +34368,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -33688,7 +34455,10 @@
       },
       "major": {
         "raw": "1、计算机科学或相关专业背景，具备深厚的操作系统、分布式系统理论基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学或相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -33772,7 +34542,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -33852,7 +34623,10 @@
       },
       "major": {
         "raw": "• 计算机科学、软件工程、人工智能或相关专业，硕士及以上学历（博士优先） • 深入理解深度学习模型的推理过程，熟悉 Transformer/LLM 的架构和计算特性 • 扎实的 C/C++ 和 Python 编程能力，有高性能系统开发经验",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "• 计算机科学、软件工程、人工智能或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -33937,7 +34711,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -34019,7 +34794,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -34099,7 +34875,8 @@
       },
       "major": {
         "raw": "1、计算机专业、网络技术等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -34184,7 +34961,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -34270,7 +35048,10 @@
       },
       "major": {
         "raw": "2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有较好的掌握和理解",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有较好的掌握和理解"
+        ]
       },
       "language": {
         "raw": "",
@@ -34355,7 +35136,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、机器人、自动化等相关专业博士",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、机器人、自动化等相关专业博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -34439,7 +35223,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -34517,7 +35302,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -34601,7 +35387,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -34683,7 +35470,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、人工智能、机器学习、数学、统计学等相关专业硕士及以上学历，博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、人工智能、机器学习、数学、统计学等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -34767,7 +35557,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -34854,7 +35645,10 @@
       },
       "major": {
         "raw": "1.计算机科学、电子工程、集成电路等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机科学、电子工程、集成电路等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -34940,7 +35734,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -35020,7 +35815,10 @@
       },
       "major": {
         "raw": "1.计算机科学、电子工程、集成电路等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机科学、电子工程、集成电路等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35109,7 +35907,10 @@
       },
       "major": {
         "raw": "1. 计算机、电子、微电子等相关专业博士/硕士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、电子、微电子等相关专业博士/硕士学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -35199,7 +36000,11 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、自动化、数学等相关专业博士学位，具备扎实的数学基础；3. 有多智能体系统、强化学习、自动规划等背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、自动化、数学等相关专业博士学位",
+          "3. 有多智能体系统、强化学习、自动规划等背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -35288,7 +36093,11 @@
       },
       "major": {
         "raw": "1、计算机方向相关领域专业，在校研究方向：高性能文件系统、分布式存储、存储引擎、KV 存储、一致性协议、SSD 芯片、智能网卡、AI 训练/推理存储加速等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机方向相关领域专业",
+          "在校研究方向：高性能文件系统、分布式存储、存储引擎、KV 存储、一致性协议、SSD 芯片、智能网卡、AI 训练/推理存储加速等"
+        ]
       },
       "language": {
         "raw": "",
@@ -35376,7 +36185,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -35457,7 +36267,10 @@
       },
       "major": {
         "raw": "1. 学历背景：计算机科学、人工智能、电子工程、数学等相关专业硕士，博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历背景：计算机科学、人工智能、电子工程、数学等相关专业硕士"
+        ]
       },
       "language": {
         "raw": "",
@@ -35542,7 +36355,11 @@
       },
       "major": {
         "raw": "1.2027届毕业生，计算机科学、软件工程或相关专业，研究方向涉及操作系统、高性能计算或AI基础设施",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程或相关专业",
+          "研究方向涉及操作系统、高性能计算或AI基础设施"
+        ]
       },
       "language": {
         "raw": "",
@@ -35622,7 +36439,10 @@
       },
       "major": {
         "raw": "1. 教育背景 - 计算机科学、人工智能、机器学习、数据科学等相关专业博士",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 教育背景 - 计算机科学、人工智能、机器学习、数据科学等相关专业博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -35708,7 +36528,10 @@
       },
       "major": {
         "raw": "1.计算机、电子工程、人工智能等相关专业硕士或者博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、电子工程、人工智能等相关专业硕士或者博士学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -35794,7 +36617,10 @@
       },
       "major": {
         "raw": "1. 计算机、数学、电子等相关专业毕业， 博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、数学、电子等相关专业毕业"
+        ]
       },
       "language": {
         "raw": "",
@@ -35878,7 +36704,8 @@
       },
       "major": {
         "raw": "1. 来自全球 Top 高校计算机科学、人工智能、数学或相关领域应届博士/顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -35966,7 +36793,11 @@
       },
       "major": {
         "raw": "1.2027届毕业生，计算机科学或相关专业，研究方向涉及操作系统、系统运行时、进程调度或资源管理",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学或相关专业",
+          "研究方向涉及操作系统、系统运行时、进程调度或资源管理"
+        ]
       },
       "language": {
         "raw": "",
@@ -36048,7 +36879,10 @@
       },
       "major": {
         "raw": "计算机、人工智能、数学、统计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、数学、统计学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -36135,7 +36969,10 @@
       },
       "major": {
         "raw": "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位"
+        ]
       },
       "language": {
         "raw": "",
@@ -36221,7 +37058,10 @@
       },
       "major": {
         "raw": "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位"
+        ]
       },
       "language": {
         "raw": "",
@@ -36307,7 +37147,10 @@
       },
       "major": {
         "raw": "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位"
+        ]
       },
       "language": {
         "raw": "",
@@ -36390,7 +37233,10 @@
       },
       "major": {
         "raw": "1. 学术背景：计算机、人工智能、软件工程、数学等相关方向优秀硕士或博士，2027届应届毕业生优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学术背景：计算机、人工智能、软件工程、数学等相关方向优秀硕士或博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -36479,7 +37325,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -36563,7 +37410,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -36645,7 +37493,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、人工智能等相关专业，博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -36734,7 +37585,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -36817,7 +37669,10 @@
       },
       "major": {
         "raw": "1. 计算机相关专业博士",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机相关专业博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -36905,7 +37760,10 @@
       },
       "major": {
         "raw": "1. 基础条件：2027 届应届硕士 / 博士，计算机科学、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -36993,7 +37851,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、软件工程、电子信息、自动化、数学等相关专业，本科及以上学历，具备扎实的计算机基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、软件工程、电子信息、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -37077,7 +37938,11 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、数学、电子信息工程等相关专业博士研究生，研究方向涵盖深度学习、强化学习、图神经网络、扩散模型/流模型、模型架构创新、可解释AI（XAI）、多模态、AI for Science等之一或多项",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、人工智能、数学、电子信息工程等相关专业博士研究生",
+          "研究方向涵盖深度学习、强化学习、图神经网络、扩散模型/流模型、模型架构创新、可解释AI（XAI）、多模态、AI for Science等之一或多项"
+        ]
       },
       "language": {
         "raw": "",
@@ -37166,7 +38031,8 @@
       },
       "major": {
         "raw": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -37251,7 +38117,10 @@
       },
       "major": {
         "raw": "1、计算机科学、数学、电子工程、生物医学工程等相关专业硕士或博士，具备扎实的理论基础和良好的科研素养",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、数学、电子工程、生物医学工程等相关专业硕士或博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -37338,7 +38207,11 @@
       },
       "major": {
         "raw": "1）计算机科学、人工智能等相关学历背景，研究方向聚焦多模态学习、模型压缩与高效推理、文档理解、分布式/端侧推理中的一项或多项",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1）计算机科学、人工智能等相关学历背景",
+          "研究方向聚焦多模态学习、模型压缩与高效推理、文档理解、分布式/端侧推理中的一项或多项"
+        ]
       },
       "language": {
         "raw": "",
@@ -37422,7 +38295,10 @@
       },
       "major": {
         "raw": "1. 基础条件 - 2027 届应届硕士 / 博士，计算机科学、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -37511,7 +38387,10 @@
       },
       "major": {
         "raw": "1. 计算机相关专业，具有Golang、Python或C++开发经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -37595,7 +38474,11 @@
       },
       "major": {
         "raw": "1）计算机科学、人工智能、机器学习等相关学历背景，研究方向聚焦强化学习、持续学习、智能体系统",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1）计算机科学、人工智能、机器学习等相关学历背景",
+          "研究方向聚焦强化学习、持续学习、智能体系统"
+        ]
       },
       "language": {
         "raw": "",
@@ -37680,7 +38563,8 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、机器人、自动驾驶、机器学习、系统、高性能计算等相关方向硕士或博士优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -37766,7 +38650,8 @@
       },
       "major": {
         "raw": "1. 计算机、软件工程、人工智能、数学等相关专业优先，硕士/博士优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -37851,7 +38736,10 @@
       },
       "major": {
         "raw": "1、教育背景：计算机/AI/分布式系统等相关专业博士",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、教育背景：计算机/AI/分布式系统等相关专业博士"
+        ]
       },
       "language": {
         "raw": "",
@@ -37935,7 +38823,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -38017,7 +38906,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -38100,7 +38990,10 @@
       },
       "major": {
         "raw": "1. 基础条件 - 计算机、人工智能等相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 基础条件 - 计算机、人工智能等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -38188,7 +39081,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -38272,7 +39166,10 @@
       },
       "major": {
         "raw": "1.计算机、人工智能、电子工程等相关专业的优秀硕士或博士生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、人工智能、电子工程等相关专业的优秀硕士或博士生"
+        ]
       },
       "language": {
         "raw": "",
@@ -38357,7 +39254,10 @@
       },
       "major": {
         "raw": "1. 学术背景 来自全球Top高校计算机科学、人工智能、信号处理、数学、物理或相关领域的应届博士 / 顶尖硕士毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学术背景 来自全球Top高校计算机科学、人工智能、信号处理、数学、物理或相关领域的应届博士 / 顶尖硕士毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -38447,7 +39347,11 @@
       },
       "major": {
         "raw": "1、计算机、电子信息、微电子等相关专业，硕士以及以上学历，具备扎实的计算机体系结构专业基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、电子信息、微电子等相关专业",
+          "具备扎实的计算机体系结构专业基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -38535,7 +39439,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -38620,7 +39525,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机视觉、计算机图形学、机器学习等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机视觉、计算机图形学、机器学习等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -38704,7 +39612,10 @@
       },
       "major": {
         "raw": "1.电子信息/通信/计算机相关专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.电子信息/通信/计算机相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -38786,7 +39697,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学、人工智能、机器学习能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -38870,7 +39782,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机视觉、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -38950,7 +39863,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、软件工程、通信工程、数字媒体技术、信息工程、应用数学等相关专业硕士及以上学位",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、软件工程、通信工程、数字媒体技术、信息工程、应用数学等相关专业硕士及以上学位"
+        ]
       },
       "language": {
         "raw": "",
@@ -39030,7 +39946,10 @@
       },
       "major": {
         "raw": "1.计算机、人工智能、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、人工智能、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -39115,7 +40034,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -39198,7 +40118,10 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、人工智能等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -39283,7 +40206,8 @@
       },
       "major": {
         "raw": "1. 来自全球Top高校计算机科学、人工智能、机器学习、深度学习、软件工程，或相关领域应届毕业生，博士/硕士毕业生优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -39372,7 +40296,10 @@
       },
       "major": {
         "raw": "2、设计学科，同时跨学科交叉背景优先，如： 人机交互（HCI）、体验设计、视觉设计、计算机科学等",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、设计学科"
+        ]
       },
       "language": {
         "raw": "",
@@ -39456,7 +40383,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学、软件工程、人工智能相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -39544,7 +40472,11 @@
       },
       "major": {
         "raw": "● 计算机、人工智能、应用数学或相关专业硕士/博士学位；● 对将AI技术应用于科学发现有强烈兴趣（无需生命科学或材料学专业背景，但需具备快速学习能力）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "● 计算机、人工智能、应用数学或相关专业硕士/博士学位",
+          "● 对将AI技术应用于科学发现有强烈兴趣（无需生命科学或材料学专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -39631,7 +40563,11 @@
       },
       "major": {
         "raw": "1、毕业时间在2026年11月之后的在校本硕博同学，计算机相关专业，有视频或图像编码和处理研究背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业",
+          "有视频或图像编码和处理研究背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -39722,7 +40658,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机科学、人工智能、电子与通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、电子与通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -39812,7 +40751,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学位，计算机科学或相关领域专业，具备扎实的计算机基础与工程实现能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学或相关领域专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -39900,7 +40842,10 @@
       },
       "major": {
         "raw": "1、毕业时间在 2026年11月及以后的在校硕博同学，计算机视觉、计算机图形学、机器学习等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机视觉、计算机图形学、机器学习等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -39988,7 +40933,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -40073,7 +41019,10 @@
       },
       "major": {
         "raw": "1.计算机、电子信息、人工智能、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、电子信息、人工智能、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -40159,7 +41108,10 @@
       },
       "major": {
         "raw": "1. 教育背景：计算机科学、人工智能、运筹学、数据科学等相关专业，博士/硕士及以上学历，熟悉推荐系统、运筹优化、强化学习、大模型应用等理论",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 教育背景：计算机科学、人工智能、运筹学、数据科学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -40251,7 +41203,10 @@
       },
       "major": {
         "raw": "● 计算机科学、人工智能、运筹学、自动化等相关方向博士 ● 扎实的强化学习理论功底，精通主流RL算法（Policy Gradient/PPO/GRPO及其变体），有实际实现与调优经验 ● 熟练Python + PyTorch，具备生产级代码",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "● 计算机科学、人工智能、运筹学、自动化等相关方向博士 ● 扎实的强化学习理论功底"
+        ]
       },
       "language": {
         "raw": "",
@@ -40340,7 +41295,10 @@
       },
       "major": {
         "raw": "1. 计算机/电子/通信/网络/人工智能等相关专业，毕业时间在 2026 年 11 月以后的硕士及以上学历在校生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机/电子/通信/网络/人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40430,7 +41388,10 @@
       },
       "major": {
         "raw": "1.工程与系统基础：计算机相关专业背景，具备优秀的工程实现能力，精通 C/C++、Go 或 Python",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.工程与系统基础：计算机相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -40514,7 +41475,10 @@
       },
       "major": {
         "raw": "1. 计算机科学、人工智能、软件工程、数据库等相关专业在读硕士或博士学位",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机科学、人工智能、软件工程、数据库等相关专业在读硕士或博士学位"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -40602,7 +41566,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -40692,7 +41657,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++/Java），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -40787,7 +41753,8 @@
       },
       "major": {
         "raw": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++），熟悉常用算法与数据结构",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

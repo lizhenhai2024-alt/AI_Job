@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "电子商务、市场营销、工商管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子商务、市场营销、工商管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -105,7 +108,8 @@
       },
       "major": {
         "raw": "1、27届本科及以上学历应届毕业生，电商运营、市场营销、工商管理等专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -196,7 +200,8 @@
       },
       "major": {
         "raw": "1、2027届全日制本科及以上学历，专业不限，英语水平优秀（CET6或同等水平及以上）优先，具备小语种（相关等级证书或同等水平以上）优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -288,7 +293,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上学历应届毕业生，机械设计及制造相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计及制造相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -373,7 +381,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上应届毕业生，电子信息、通讯工程、电子信息科学与技术、电子科学与技术等工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、通讯工程、电子信息科学与技术、电子科学与技术等工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -454,7 +465,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历应届毕业生，电子、机械、测控仪器、制冷等相关工科类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、机械、测控仪器、制冷等相关工科类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -535,7 +549,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上学历应届生，电子、电磁波与电磁场等相关工科类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、电磁波与电磁场等相关工科类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -616,7 +633,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上应届毕业生，会计学、财务管理等财务类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学、财务管理等财务类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -698,7 +718,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上学历应届毕业生，物流管理、供应链管理、材料等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流管理、供应链管理、材料等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -784,7 +807,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上学历应届毕业生，机械、材料等工科类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械、材料等工科类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -866,7 +892,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上学历应届毕业生，工科类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工科类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -947,7 +976,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上学历应届毕业生，工科类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工科类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1028,7 +1060,10 @@
       },
       "major": {
         "raw": "1、27届本科及以上学历应届毕业生，机械设计等工科类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计等工科类相关专业"
+        ]
       },
       "language": {
         "raw": "",

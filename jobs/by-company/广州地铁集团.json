@@ -18,7 +18,10 @@
       },
       "major": {
         "raw": "所需专业： 外国语言文学、翻译、西语、俄语、日语、韩语、葡语",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 外国语言文学、翻译、西语、俄语、日语、韩语、葡语"
+        ]
       },
       "language": {
         "raw": "英语、日语、西班牙语、葡萄牙语、俄语、韩语",
@@ -113,7 +116,10 @@
       },
       "major": {
         "raw": "所需专业： 市场营销、工商管理类、管理科学与工程类、旅游管理类、新闻传播学类、经济学类、金融学类、城市规划、设计、建筑学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 市场营销、工商管理类、管理科学与工程类、旅游管理类、新闻传播学类、经济学类、金融学类、城市规划、设计、建筑学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -203,7 +209,10 @@
       },
       "major": {
         "raw": "所需专业： 经济学类、金融学类、工商管理类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 经济学类、金融学类、工商管理类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -291,7 +300,10 @@
       },
       "major": {
         "raw": "所需专业： 机电类、通信类、计算机、电气化类相关专业方向",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 机电类、通信类、计算机、电气化类相关专业方向"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -376,7 +388,10 @@
       },
       "major": {
         "raw": "所需专业： 控制科学与工程、建筑学、土木工程、电子信息、电气类",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 控制科学与工程、建筑学、土木工程、电子信息、电气类"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -464,7 +479,10 @@
       },
       "major": {
         "raw": "所需专业： 电子信息、计算机科学与技术",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 电子信息、计算机科学与技术"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -551,7 +569,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -637,7 +656,10 @@
       },
       "major": {
         "raw": "所需专业： 工商管理类、数学类、统计学类、公共管理类、应用心理学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 工商管理类、数学类、统计学类、公共管理类、应用心理学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -720,7 +742,10 @@
       },
       "major": {
         "raw": "所需专业： 法学类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 法学类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -805,7 +830,10 @@
       },
       "major": {
         "raw": "所需专业： 交通运输工程、机械设计制造及其自动化、机械工程、车辆工程、轨道工程、材料科学与工程、无损检测等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 交通运输工程、机械设计制造及其自动化、机械工程、车辆工程、轨道工程、材料科学与工程、无损检测等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -891,7 +919,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -974,7 +1003,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1059,7 +1089,10 @@
       },
       "major": {
         "raw": "所需专业： 机械类、电气类、自动化类、电子信息类、控制科学与工程、计算机类、供热、供燃气、通风及空调工程、暖通、工业工程、建筑环境与能源应用工程、给排水科学与工程、储能科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 机械类、电气类、自动化类、电子信息类、控制科学与工程、计算机类、供热、供燃气、通风及空调工程、暖通、工业工程、建筑环境与能源应用工程、给排水科学与工程、储能科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1146,7 +1179,10 @@
       },
       "major": {
         "raw": "所需专业： 电气类、自动化类、储能科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 电气类、自动化类、储能科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1233,7 +1269,10 @@
       },
       "major": {
         "raw": "所需专业： 机械类、电气类、电子信息类、自动化类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 机械类、电气类、电子信息类、自动化类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1316,7 +1355,10 @@
       },
       "major": {
         "raw": "所需专业： 车辆工程、机械类、电气类、材料类、能源动力类、理论与应用力学、交通运输类（车辆、控制、电气等相关方向）等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 车辆工程、机械类、电气类、材料类、能源动力类、理论与应用力学、交通运输类（车辆、控制、电气等相关方向）等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1403,7 +1445,10 @@
       },
       "major": {
         "raw": "所需专业： 电子信息类、通信工程、计算机、集成电路等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 电子信息类、通信工程、计算机、集成电路等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1490,7 +1535,10 @@
       },
       "major": {
         "raw": "所需专业： 自动化类、控制科学与工程、电子信息工程、轨道交通信号与控制、交通信息工程及控制、交通运输（信号方向）等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 自动化类、控制科学与工程、电子信息工程、轨道交通信号与控制、交通信息工程及控制、交通运输（信号方向）等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1577,7 +1625,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1660,7 +1709,10 @@
       },
       "major": {
         "raw": "所需专业： 经济学类、金融、税务、会计、财务管理等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "所需专业： 经济学类、金融、税务、会计、财务管理等专业"
+        ]
       },
       "language": {
         "raw": "英语",

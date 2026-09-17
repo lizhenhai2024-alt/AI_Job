@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -119,7 +120,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -205,7 +207,8 @@
       },
       "major": {
         "raw": "专业不限；国际贸易、商务英语、小语种、电商、市场营销、工科类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、俄语、阿拉伯语、印尼语",
@@ -306,7 +309,8 @@
       },
       "major": {
         "raw": "2027届本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -407,7 +411,8 @@
       },
       "major": {
         "raw": "2027届应届本科及以上学历，专业不限，电商相关专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -503,7 +508,8 @@
       },
       "major": {
         "raw": "2027届本科及以上学历，专业不限，传媒、数字媒体、编导、电商等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -599,7 +605,8 @@
       },
       "major": {
         "raw": "2027届应届本科及以上学历，专业不限（电商、市场、工科类优先）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -692,7 +699,10 @@
       },
       "major": {
         "raw": "学历专业：2027届本科及以上学历，专业不限，电商、工科、营销、市场类等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历专业：2027届本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -787,7 +797,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -874,7 +885,10 @@
       },
       "major": {
         "raw": "学历专业：2027届本科及以上学历，专业不限，影视摄影、编导、数字媒体、新闻传播、广告、市场营销等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历专业：2027届本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -972,7 +986,8 @@
       },
       "major": {
         "raw": "专业不限，统计学、应用数学、运筹学优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1066,7 +1081,8 @@
       },
       "major": {
         "raw": "市场营销、广告、中文、新闻、传媒等相关专业背景者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1152,7 +1168,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1245,7 +1262,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

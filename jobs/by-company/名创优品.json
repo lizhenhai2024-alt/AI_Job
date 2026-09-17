@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -106,7 +107,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -195,7 +197,8 @@
       },
       "major": {
         "raw": "26-27届本科及以上学历毕业生，英语可作为工作语言",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -285,7 +288,10 @@
       },
       "major": {
         "raw": "项目管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "项目管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -375,7 +381,8 @@
       },
       "major": {
         "raw": "本科及以上学历毕业生，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -458,7 +465,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "西班牙语",
@@ -546,7 +554,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "德语",
@@ -634,7 +643,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -730,7 +740,8 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，统计学/应用数学/计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -818,7 +829,10 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，会计学或财务管理相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学或财务管理相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -908,7 +922,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -990,7 +1005,8 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，统计学、数学、会计、计算机、大数据等数理专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1078,7 +1094,8 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，统计学、数学、会计、计算机、大数据等数理专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1164,7 +1181,8 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，时尚管理/市场营销/设计类/英语/经管类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1256,7 +1274,12 @@
       },
       "major": {
         "raw": "作为公司财务人才体系的重要入口，通过系统性轮岗，从一线业务认知到专业财务深耕，培养兼具业务视野与财务专业能力的复合型人才；会计学或财务管理相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "从一线业务认知到专业财务深耕",
+          "培养兼具业务视野与财务专业能力的复合型人才",
+          "会计学或财务管理相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1346,7 +1369,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1428,7 +1452,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，会计/财务/审计/统计学/信息管理/工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1516,7 +1541,8 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，英语/意大利语/西班牙语/法语专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、法语、西班牙语、意大利语",
@@ -1603,7 +1629,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机/人工智能/数据科学/统计学/数学/运筹学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机/人工智能/数据科学/统计学/数学/运筹学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1696,7 +1725,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1790,7 +1820,10 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，视觉传达设计、广告学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "视觉传达设计、广告学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1877,7 +1910,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，专业不限，统计学/数学/财务管理/信息管理/工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1963,7 +1997,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2045,7 +2080,10 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，视觉传达设计、广告学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "视觉传达设计、广告学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2131,7 +2169,8 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，服装设计/产品设计/时尚管理/市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2219,7 +2258,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2306,7 +2346,8 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，工商管理/金融学/市场营销等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2397,7 +2438,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2479,7 +2521,10 @@
       },
       "major": {
         "raw": "1、26-27届本科及以上学历毕业生，视觉传达设计、广告学、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "视觉传达设计、广告学、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2565,7 +2610,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机/软件工程/人工智能/数据科学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机/软件工程/人工智能/数据科学等相关专业"
+        ]
       },
       "language": {
         "raw": "",

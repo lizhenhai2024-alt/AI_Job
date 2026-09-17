@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "本科及以上学历，工商管理、企业管理、经济学、统计学、行政管理、国际商务等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、俄语、阿拉伯语",
@@ -119,7 +120,10 @@
       },
       "major": {
         "raw": "学历与专业：本科及以上学历，供应链管理、物流管理、国际贸易、项目管理、工商管理、机械、电气、能源、电力系统及自动化等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历与专业：本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语、俄语、阿拉伯语",
@@ -215,7 +219,8 @@
       },
       "major": {
         "raw": "不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -303,7 +308,8 @@
       },
       "major": {
         "raw": "本科及以上；工商管理、经济学、工业工程、统计学、行政管理等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -388,7 +394,10 @@
       },
       "major": {
         "raw": "学历与专业：本科及以上；市场营销、新闻传播、广告、统计学、车辆工程等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历与专业：本科及以上"
+        ]
       },
       "language": {
         "raw": "",
@@ -479,7 +488,8 @@
       },
       "major": {
         "raw": "本科及以上学历，人力资源管理、工商管理、心理学、劳动与社会保障、法学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、法语、葡萄牙语、韩语",
@@ -571,7 +581,8 @@
       },
       "major": {
         "raw": "2027届本科及以上毕业生，英语达到大学英语六级水平及以上，融资风控岗优先金融、经济、财务、法务机相关专业，物流岗优先物流、供应链、国际贸易专业，服务岗优先机械、电子信息相关专业，其他方向无专业限制。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -666,7 +677,8 @@
       },
       "major": {
         "raw": "本科及以上；英语、商务英语、翻译、国际商务、播音主持等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -760,7 +772,8 @@
       },
       "major": {
         "raw": "本科及以上；物流管理、物流工程、国际贸易、商务英语等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -855,7 +868,8 @@
       },
       "major": {
         "raw": "市场营销、国际贸易、国际商务、英语及机械、车辆、电气等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -957,7 +971,10 @@
       },
       "major": {
         "raw": "1、学历与专业：本科及以上学历，供应链管理、物流管理、工业工程、统计学、工商管理及理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、学历与专业：本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语、阿拉伯语",
@@ -1050,7 +1067,14 @@
       },
       "major": {
         "raw": "岗位定位 面向工程机械电动化、智能化、数字化发展方向，选拔具备突出专业能力、技术潜力和创新意识的优秀应届毕业生；2. 研究或专业方向与公司研发需求相匹配，在AI、机械、电气、电控、新能源、软件、算法、动力、仿真、测试、质量等方向具备突出专业能力；5. 对工程机械电动化、智能化、智能制造及人工智能发展有自己的观察和判断，愿意长期深耕专业领域",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "岗位定位 面向工程机械电动化、智能化、数字化发展方向",
+          "选拔具备突出专业能力、技术潜力和创新意识的优秀应届毕业生",
+          "2. 研究或专业方向与公司研发需求相匹配",
+          "在AI、机械、电气、电控、新能源、软件、算法、动力、仿真、测试、质量等方向具备突出专业能力",
+          "愿意长期深耕专业领域"
+        ]
       },
       "language": {
         "raw": "",
@@ -1139,7 +1163,8 @@
       },
       "major": {
         "raw": "人力资源管理、工商管理、心理学、劳动与社会保障等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1222,7 +1247,8 @@
       },
       "major": {
         "raw": "统计学、数据科学、信息管理、工业工程、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1310,7 +1336,8 @@
       },
       "major": {
         "raw": "机械、车辆、电气、工程管理、工业工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1396,7 +1423,8 @@
       },
       "major": {
         "raw": "工程管理、机械、电气、计算机、工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1483,7 +1511,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1580,7 +1609,10 @@
       },
       "major": {
         "raw": "1、学历与专业：本科及以上学历，行政管理、工商管理、公共事业管理、酒店管理、语言及服务管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、学历与专业：本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语、法语、葡萄牙语",
@@ -1675,7 +1707,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1762,7 +1795,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1853,7 +1887,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1942,7 +1977,8 @@
       },
       "major": {
         "raw": "供应链管理、工商管理、国际贸易、工程技术等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2030,7 +2066,8 @@
       },
       "major": {
         "raw": "计算机、软件工程、人工智能、自动化、信息管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2117,7 +2154,8 @@
       },
       "major": {
         "raw": "工业工程、物流工程、机械工程、供应链管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2203,7 +2241,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、葡萄牙语、俄语、阿拉伯语、泰语、越南语",
@@ -2299,7 +2338,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2390,7 +2430,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2482,7 +2523,8 @@
       },
       "major": {
         "raw": "市场营销、工商管理、统计学及理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2572,7 +2614,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2665,7 +2708,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2757,7 +2801,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2852,7 +2897,8 @@
       },
       "major": {
         "raw": "机械、车辆、电气、能源动力等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2942,7 +2988,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3037,7 +3084,11 @@
       },
       "major": {
         "raw": "计算机科学与技术、软件工程、电子信息、自动化等相关专业优先；2、技能要求：计算机相关专业，精通本专业核心课程知识，具备扎实的理论基础，参与相关实践项目经验着优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、技能要求：计算机相关专业",
+          "精通本专业核心课程知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3126,7 +3177,8 @@
       },
       "major": {
         "raw": "法学、法律硕士、国际法、国际经济法等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、葡萄牙语",
@@ -3218,7 +3270,8 @@
       },
       "major": {
         "raw": "会计学、财务管理、审计学、金融学、税务等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3304,7 +3357,8 @@
       },
       "major": {
         "raw": "工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3392,7 +3446,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3480,7 +3535,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3569,7 +3625,8 @@
       },
       "major": {
         "raw": "计算机、人工智能、自动化、电气工程、能源动力、数学、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3656,7 +3713,8 @@
       },
       "major": {
         "raw": "计算机、数据科学、统计学、数学、信息管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3744,7 +3802,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3832,7 +3891,8 @@
       },
       "major": {
         "raw": "机械工程、流体传动与控制、液压、车辆工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3919,7 +3979,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4006,7 +4067,8 @@
       },
       "major": {
         "raw": "能源与动力工程、车辆工程、机械工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4093,7 +4155,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4186,7 +4249,8 @@
       },
       "major": {
         "raw": "机械、车辆工程、供应链管理、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4277,7 +4341,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4371,7 +4436,8 @@
       },
       "major": {
         "raw": "计算机科学与技术、软件工程、信息管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4456,7 +4522,8 @@
       },
       "major": {
         "raw": "法学、法律硕士等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4538,7 +4605,8 @@
       },
       "major": {
         "raw": "行政管理、工商管理、汉语言文学、公共管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4621,7 +4689,8 @@
       },
       "major": {
         "raw": "金融学、会计学、财务管理、经济学、法学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4706,7 +4775,8 @@
       },
       "major": {
         "raw": "供应链管理、物流管理、工业工程、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4792,7 +4862,8 @@
       },
       "major": {
         "raw": "供应链管理、物流管理、工商管理、国际贸易及理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4877,7 +4948,8 @@
       },
       "major": {
         "raw": "计算机、软件工程、电子信息、自动化、物联网等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4959,7 +5031,8 @@
       },
       "major": {
         "raw": "计算机、人工智能、自动化、机器人、数学、电子信息等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5042,7 +5115,8 @@
       },
       "major": {
         "raw": "车辆工程、自动化、人工智能、计算机、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5127,7 +5201,8 @@
       },
       "major": {
         "raw": "计算机、软件工程、电子信息、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5212,7 +5287,8 @@
       },
       "major": {
         "raw": "计算机、自动化、机械、力学、材料、机器人、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5295,7 +5371,8 @@
       },
       "major": {
         "raw": "计算机、云计算、网络工程、软件工程、信息安全等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5377,7 +5454,8 @@
       },
       "major": {
         "raw": "计算机、网络工程、软件工程、信息安全等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5460,7 +5538,8 @@
       },
       "major": {
         "raw": "计算机、人工智能、软件工程、数据科学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5544,7 +5623,8 @@
       },
       "major": {
         "raw": "计算机、人工智能、软件工程、自动化、数学、电子信息等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5630,7 +5710,8 @@
       },
       "major": {
         "raw": "计算机、人工智能、自动化、机器人、测绘、地理信息、电子信息等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "法语",
@@ -5715,7 +5796,8 @@
       },
       "major": {
         "raw": "计算机、人工智能、自动化、机器人、车辆工程、控制科学与工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5798,7 +5880,8 @@
       },
       "major": {
         "raw": "信息管理与信息系统、计算机、软件工程、工业工程、工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5882,7 +5965,8 @@
       },
       "major": {
         "raw": "电气工程、电机与电器、自动化、车辆工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5969,7 +6053,8 @@
       },
       "major": {
         "raw": "机械设计制造及其自动化、车辆工程、工程力学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6053,7 +6138,8 @@
       },
       "major": {
         "raw": "机械设计制造及其自动化、车辆工程、机械电子工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6135,7 +6221,8 @@
       },
       "major": {
         "raw": "机械设计制造及其自动化、车辆工程、机械电子工程、工业设计等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6220,7 +6307,8 @@
       },
       "major": {
         "raw": "材料科学与工程、金属材料、高分子、化学、化工等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6305,7 +6393,8 @@
       },
       "major": {
         "raw": "机械、车辆、电气、自动化、测试计量等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6388,7 +6477,8 @@
       },
       "major": {
         "raw": "机械工程、流体机械、热能与动力工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6472,7 +6562,8 @@
       },
       "major": {
         "raw": "车辆工程、机械工程、工业工程、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6557,7 +6648,8 @@
       },
       "major": {
         "raw": "电气工程及其自动化、自动化、电子信息、测控技术等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6641,7 +6733,8 @@
       },
       "major": {
         "raw": "机械工程、电气工程、车辆工程、工业工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6723,7 +6816,8 @@
       },
       "major": {
         "raw": "知识产权、法学及机械、电子、计算机等理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6806,7 +6900,8 @@
       },
       "major": {
         "raw": "机械工程、材料成型、焊接、车辆工程、工业工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6888,7 +6983,8 @@
       },
       "major": {
         "raw": "机械工程、车辆工程、力学、能源动力、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6971,7 +7067,11 @@
       },
       "major": {
         "raw": "1、根据岗位方向承担研发质量、供应商质量、过程质量、售后质量、质量体系，或电气、钢塔、混塔等专业对象的质量管理；机械、车辆、电气、质量工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、根据岗位方向承担研发质量、供应商质量、过程质量、售后质量、质量体系",
+          "或电气、钢塔、混塔等专业对象的质量管理"
+        ]
       },
       "language": {
         "raw": "",
@@ -7060,7 +7160,10 @@
       },
       "major": {
         "raw": "4、协同电气、软件、动力等专业完成系统集成、性能优化与量产交付；自动化、控制工程、车辆工程、电子信息、测控技术等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "4、协同电气、软件、动力等专业完成系统集成、性能优化与量产交付"
+        ]
       },
       "language": {
         "raw": "",
@@ -7144,7 +7247,8 @@
       },
       "major": {
         "raw": "计算机、软件工程、自动化、控制工程、车辆工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7228,7 +7332,8 @@
       },
       "major": {
         "raw": "新能源科学与工程、电化学、电气工程、材料科学与工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7313,7 +7418,8 @@
       },
       "major": {
         "raw": "机械、车辆、电气、标准化、质量管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7396,7 +7502,8 @@
       },
       "major": {
         "raw": "电气工程、车辆工程、自动化、功率电子等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7480,7 +7587,8 @@
       },
       "major": {
         "raw": "机械、电气、自动化、机电一体化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7567,7 +7675,8 @@
       },
       "major": {
         "raw": "机械、车辆、电气、信息管理、档案管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7651,7 +7760,8 @@
       },
       "major": {
         "raw": "能源与动力工程、车辆工程、制冷与低温工程、机械工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7734,7 +7844,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "硕士及以上学历，电子工程、微电子、计算机科学或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子工程、微电子、计算机科学或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -106,7 +109,8 @@
       },
       "major": {
         "raw": "硕士及以上学历；",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -192,7 +196,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -277,7 +282,10 @@
       },
       "major": {
         "raw": "1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "统计学、机械工程、集成电路等相关专业的博士学位"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -368,7 +376,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机科学、软件工程、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -461,7 +472,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -547,7 +559,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -632,7 +645,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -720,7 +736,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -807,7 +824,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -892,7 +910,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -975,7 +994,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1057,7 +1077,10 @@
       },
       "major": {
         "raw": "1. 微电子、集成电路、自动化、计算机等理工类全日制硕士以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 微电子、集成电路、自动化、计算机等理工类全日制硕士以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1139,7 +1162,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，微电子学、物理学、光学、材料等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "微电子学、物理学、光学、材料等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1223,7 +1249,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1307,7 +1334,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1392,7 +1420,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1478,7 +1507,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1562,7 +1592,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1644,7 +1675,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1726,7 +1758,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1809,7 +1842,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，信息安全、计算机科学、电子工程、通信工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "信息安全、计算机科学、电子工程、通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1891,7 +1927,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件或数学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件或数学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1979,7 +2018,8 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，电子工程、微电子、物理或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2066,7 +2106,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，微电子、集成电路、物理、光学、材料、化学工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "微电子、集成电路、物理、光学、材料、化学工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2150,7 +2193,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "微电子、材料、化学、电子科学与技术、物理等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2232,7 +2278,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，微电子、材料、化学、电子科学与技术、物理等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "微电子、材料、化学、电子科学与技术、物理等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2316,7 +2365,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "半导体、光学、微电子、材料、化学工程、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2399,7 +2451,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "半导体、光学、微电子、材料、化学工程、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2479,7 +2534,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "半导体、光学、微电子、材料、化学工程、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2563,7 +2621,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，半导体、光学、微电子、材料、化学工程、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "半导体、光学、微电子、材料、化学工程、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2643,7 +2704,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2723,7 +2785,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2803,7 +2866,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2883,7 +2947,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，安全工程、环境工程、化学、机械、电子、电气等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "安全工程、环境工程、化学、机械、电子、电气等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2965,7 +3032,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，安全工程，环境工程，给排水工程，化学工程， 机械工程，环境科学等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "环境科学等理工类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3049,7 +3119,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3129,7 +3200,10 @@
       },
       "major": {
         "raw": "1.近三年内获得或即将获得半导体材料、微电子、机械工程、化学工程、自动化、材料科学等相关专业博士学位，具备扎实的理论基础与实验能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.近三年内获得或即将获得半导体材料、微电子、机械工程、化学工程、自动化、材料科学等相关专业博士学位"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3214,7 +3288,10 @@
       },
       "major": {
         "raw": "1. 近三年内已获得或即将获得人工智能、自动化、计算机、应用数学，统计学、机械工程、集成电路等相关专业的博士学位，具备扎实的理论基础和实验能力，年龄不超过35周岁",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "统计学、机械工程、集成电路等相关专业的博士学位"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3298,7 +3375,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3376,7 +3454,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

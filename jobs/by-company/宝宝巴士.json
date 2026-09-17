@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "本科及以上学历，统计学，数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -108,7 +111,10 @@
       },
       "major": {
         "raw": "本科及以上学历，学前教育、心理学、物理学类、天文学、地理科学、生物科学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "学前教育、心理学、物理学类、天文学、地理科学、生物科学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -194,7 +200,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，英语专业八级或雅思；7.0分或托福100分（三者有其一即可），英语语言文学专业优先；4. 英语国家留学，英语文学专业或儿童文学优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语专业八级或雅思"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -282,7 +291,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -365,7 +375,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -449,7 +460,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -532,7 +544,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "西班牙语",
@@ -616,7 +629,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -702,7 +716,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -786,7 +801,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，电子商务、市场营销等相关专业背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -876,7 +892,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -957,7 +974,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，英语听说读写熟练，对不同口音有感知，美式发音优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1046,7 +1064,10 @@
       },
       "major": {
         "raw": "3. 熟悉阿拉伯文化和社会背景，具备中文至阿拉伯语的翻译经验和良好的文字功底，了解中东地区儿童文化和教育环境",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3. 熟悉阿拉伯文化和社会背景"
+        ]
       },
       "language": {
         "raw": "英语、阿拉伯语",
@@ -1141,7 +1162,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1221,7 +1243,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1305,7 +1330,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1388,7 +1414,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1469,7 +1496,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1549,7 +1577,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1629,7 +1658,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1716,7 +1746,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，中文、广告、市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "中文、广告、市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1807,7 +1840,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1887,7 +1921,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1970,7 +2005,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2050,7 +2086,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2137,7 +2176,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2218,7 +2258,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2298,7 +2339,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

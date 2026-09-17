@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "1、机械化/人力/材料/数理统计（数据分析）/自动化控制相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械化/人力/材料/数理统计（数据分析）/自动化控制相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -102,7 +105,11 @@
       },
       "major": {
         "raw": "能力要求：专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺专业（前沿）：电化学相关专业、固态电解质相关、材料学语言：英语CET-6 岗位职责： 技术开发：根据市场导向及客户需求，开发新技术及相对应的技术平台；能力要求： 专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺 专业（前沿）：电化学相关专业、固态电解质相关、材料学 语言：英语CET-6 立即投递",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "能力要求：专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺专业（前沿）：电化学相关专业、固态电解质相关、材料学语言：英语CET-6 岗位职责： 技术开发：根据市场导向及客户需求",
+          "能力要求： 专业（隔膜）：高分子材料与工程、材料科学与工程、应用化学、化学工程与工艺 专业（前沿）：电化学相关专业、固态电解质相关、材料学 语言：英语CET-6 立即投递"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -190,7 +197,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -270,7 +278,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -348,7 +357,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -426,7 +436,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -504,7 +515,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -582,7 +594,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -660,7 +673,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -738,7 +752,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -816,7 +831,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -894,7 +910,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -972,7 +989,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1050,7 +1068,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1130,7 +1149,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1208,7 +1228,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1286,7 +1307,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

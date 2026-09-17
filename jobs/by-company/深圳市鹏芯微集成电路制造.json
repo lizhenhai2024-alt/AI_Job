@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，化学、物理、材料、微电子、集成电路、光学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学、物理、材料、微电子、集成电路、光学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -99,7 +102,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，微电子、集成电路、材料、物理、化学、光学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "微电子、集成电路、材料、物理、化学、光学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -183,7 +189,11 @@
       },
       "major": {
         "raw": "5.熟悉半导体工艺与材料，并给予专业技术支持；1. 硕士及以上学历，物理、化学、材料、微电子、集成电路、自动化、机械、光电等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "并给予专业技术支持",
+          "物理、化学、材料、微电子、集成电路、自动化、机械、光电等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -271,7 +281,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，机械、自动化、物理、材料、化学、数学、仪器、力学、电气工程、光学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械、自动化、物理、材料、化学、数学、仪器、力学、电气工程、光学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -356,7 +369,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，化学、物理、材料、微电子、集成电路、光学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学、物理、材料、微电子、集成电路、光学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -438,7 +454,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，微电子、集成电路、材料、物理、化学、光学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "微电子、集成电路、材料、物理、化学、光学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -520,7 +539,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，物理，化学，数学、材料、微电子、集成电路等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "数学、材料、微电子、集成电路等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -604,7 +626,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历， 工业工程、工程管理、管理科学与工程及其他理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工业工程、工程管理、管理科学与工程及其他理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -688,7 +713,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -775,7 +803,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，信息工程，软件工程、计算机科学等相关专业，通过英语4级，熟练使用office办公软件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "软件工程、计算机科学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -866,7 +897,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，机械、电气工程等各相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械、电气工程等各相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -950,7 +984,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

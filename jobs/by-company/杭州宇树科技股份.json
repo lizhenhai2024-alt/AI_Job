@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "本科以上",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -100,7 +101,8 @@
       },
       "major": {
         "raw": "本科以上，有较多市场策划经验",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -183,7 +185,8 @@
       },
       "major": {
         "raw": "本科及以上学历，对3C类智能产品感兴趣的优先；英语能作为工作语言；",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -274,7 +277,10 @@
       },
       "major": {
         "raw": "本科及以上学历，英语、翻译、市场营销或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语、翻译、市场营销或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -367,7 +373,8 @@
       },
       "major": {
         "raw": "1、本科以上学历，熟悉机电、自动化、机器人行业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -449,7 +456,10 @@
       },
       "major": {
         "raw": "1. 全日制统招本科及以上学历，计算机、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -532,7 +542,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -622,7 +633,11 @@
       },
       "major": {
         "raw": "1. 统招本科及以上学历，理工科类专业背景，自动化、机电相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "理工科类专业背景",
+          "自动化、机电相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -717,7 +732,10 @@
       },
       "major": {
         "raw": "1. 中文、新闻、广告等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 中文、新闻、广告等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -805,7 +823,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -888,7 +907,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，会计、财务管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计、财务管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -975,7 +997,8 @@
       },
       "major": {
         "raw": "1. 硕士及以上应届生，扎实深度学习、计算机视觉理论基础",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1060,7 +1083,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机、人工智能、电子信息、自动化等相关专业，具备扎实的数学基础（概率论、线性代数、信息论）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1145,7 +1171,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1227,7 +1254,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1307,7 +1335,8 @@
       },
       "major": {
         "raw": "1. 统招硕士及以上学历，机器人控制、自动控制、机械电子工程专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1390,7 +1419,8 @@
       },
       "major": {
         "raw": "1. 统招硕士及以上学历，机器人控制、自动控制、机械电子工程专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1473,7 +1503,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1551,7 +1582,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1629,7 +1661,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1711,7 +1744,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1793,7 +1827,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1876,7 +1911,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1958,7 +1994,11 @@
       },
       "major": {
         "raw": "1. 统招本科及以上学历，理工科类专业背景，自动化、机电相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "理工科类专业背景",
+          "自动化、机电相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2046,7 +2086,8 @@
       },
       "major": {
         "raw": "1. 熟悉民法、公司法、知识产权相关法律法规，民商法、经济法、知识产权专业优先考虑，已通过法考优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2130,7 +2171,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2208,7 +2250,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、自动化、通信工程、机器人工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、自动化、通信工程、机器人工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2293,7 +2338,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2374,7 +2420,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2456,7 +2503,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2538,7 +2586,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2620,7 +2669,8 @@
       },
       "major": {
         "raw": "1. 统招硕士及以上学历，机器人控制、自动控制、机械电子工程专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2703,7 +2753,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2786,7 +2837,11 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，机械设计等相关专业；2. 掌握机械结构设计的相关知识技能，熟练使用常用3D建模等相关专业软件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计等相关专业",
+          "熟练使用常用3D建模等相关专业软件"
+        ]
       },
       "language": {
         "raw": "",

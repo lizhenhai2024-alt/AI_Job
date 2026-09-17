@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "本科及以上学历，国际贸易等经管类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -102,7 +103,11 @@
       },
       "major": {
         "raw": "4.熟悉当地语言，具备良好的听说读写能力，满足下列条件之一： ●英语专业：通过专业四级；●非英语专业：大学英语六级，或雅思",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "满足下列条件之一： ●英语专业：通过专业四级",
+          "●非英语专业：大学英语六级"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -197,7 +202,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，经济管理类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -283,7 +289,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、数学、统计、金融工程、物理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -371,7 +378,11 @@
       },
       "major": {
         "raw": "1.本科及以上学历，财务管理、税务、会计等经管类专业；3.具有扎实的财务专业技能及归纳思维能力，具备较强的人际沟通能力，工作耐心细致",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务管理、税务、会计等经管类专业",
+          "3.具有扎实的财务专业技能及归纳思维能力"
+        ]
       },
       "language": {
         "raw": "英语",

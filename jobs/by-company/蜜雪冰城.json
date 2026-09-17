@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "市场营销等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -102,7 +105,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，专业不限，人力资源相关专业优先，具备英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -189,7 +193,11 @@
       },
       "major": {
         "raw": "2、深入参与或负责财务职能相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验；1、2027届本科及以上学历，财会相关专业，具备英语或西班牙语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "通过实际项目管理和推动来锻炼、提升专业能力和个人经验",
+          "财会相关专业"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语",
@@ -277,7 +285,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，法学相关专业，具备俄语或西班牙语或英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "法学相关专业"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语、俄语",
@@ -364,7 +375,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -447,7 +459,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，供应链相关专业，具备英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "供应链相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -538,7 +553,8 @@
       },
       "major": {
         "raw": "1、2027届应届本科及以上毕业生，具备良好语言能力，英语或其他语种可作为工作语言者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -627,7 +643,8 @@
       },
       "major": {
         "raw": "1、2027 届本科及以上学历,专业不限,计算机、信息管理、经管类优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -716,7 +733,10 @@
       },
       "major": {
         "raw": "1、2027 届本科及以上学历,计算机、统计学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、统计学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -803,7 +823,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，工程造价、工程管理、土木工程等相关专业，具备英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "工程造价、工程管理、土木工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -887,7 +910,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，财会相关专业，具备英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "财会相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -976,7 +1002,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，环境设计、室内设计、建筑学、艺术设计等相关专业，具备英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "环境设计、室内设计、建筑学、艺术设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1061,7 +1090,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，供应链管理、物流管理、采购管理、材料科学与工程、食品科学与工程、工商管理等相关专业，具备英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "供应链管理、物流管理、采购管理、材料科学与工程、食品科学与工程、工商管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1148,7 +1180,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，法律相关专业，具备英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "法律相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1231,7 +1266,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1311,7 +1347,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，计算机、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1401,7 +1440,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，广告、视觉传达相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "广告、视觉传达相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1489,7 +1531,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，新闻传播、汉语言文学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "新闻传播、汉语言文学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1574,7 +1619,8 @@
       },
       "major": {
         "raw": "2、工商管理、教育学等经管类专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1659,7 +1705,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，机械工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1741,7 +1790,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1823,7 +1873,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1903,7 +1954,8 @@
       },
       "major": {
         "raw": "2、工商管理、播音主持等经管类专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1990,7 +2042,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，食品、农学、市场营销等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2082,7 +2135,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，财会/审计相关专业，具备英语能力优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "财会/审计相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2169,7 +2225,10 @@
       },
       "major": {
         "raw": "1、2027 届本科及以上学历,信息管理、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "信息管理、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",

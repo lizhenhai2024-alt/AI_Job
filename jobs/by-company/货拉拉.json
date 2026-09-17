@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "1、学历背景：2027届全日制本科及以上学历，物流管理、供应链、国际贸易、市场营销、工商管理、小语种、英语等相关专业优先，专业不限",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、学历背景：2027届全日制本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语、泰语、印尼语",
@@ -109,7 +112,8 @@
       },
       "major": {
         "raw": "1.本科或研究生学历，统计学或数据分析相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -198,7 +202,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -282,7 +287,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，专业不限，项目管理、计算机/软件或相关专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -369,7 +375,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -453,7 +460,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -533,7 +541,10 @@
       },
       "major": {
         "raw": "4、统计、数学、计算机等相关专业，对物流和互联网行业有强烈兴趣",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "4、统计、数学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -624,7 +635,10 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机、软件工程、人工智能等相关专业，英语口语流利 熟悉Java/Python语言 了解机器学习、深度学习基本概念，熟悉常见算法流程 对LLM（Transformer、RAG、Embedding、Fine-tuning等）有",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -713,7 +727,10 @@
       },
       "major": {
         "raw": "1、本科以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -796,7 +813,11 @@
       },
       "major": {
         "raw": "我们希望你*本科及以上计算机相关专业，在校期间有学生会、活动策划、主持等相关经验更佳*沟通达人+灵活+善于总结*责任心强，积极进取*具备计算机领域相关的基础知识和技能能力；我们希望你 *本科及以上计算机相关专业，在校期间有学生会、活动策划、主持等相关经验更佳 *沟通达人+灵活+善于总结 *责任心强，积极进取 *具备计算机领域相关的基础知识和技能能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "我们希望你*本科及以上计算机相关专业",
+          "我们希望你 *本科及以上计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -881,7 +902,10 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机、软件工程、人工智能等相关专业，英语口语流利 熟悉Java/Python语言 了解机器学习、深度学习基本概念，熟悉常见算法流程 对LLM（Transformer、RAG、Embedding、Fine-tuning等）有",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -970,7 +994,10 @@
       },
       "major": {
         "raw": "2027届本科及以上学历，计算机、软件工程、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1055,7 +1082,10 @@
       },
       "major": {
         "raw": "1.计算机基础扎实:211本科及以上学历,计算机/软件/数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机/软件/数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1142,7 +1172,10 @@
       },
       "major": {
         "raw": "1.27届毕业生，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1225,7 +1258,10 @@
       },
       "major": {
         "raw": "：数学、统计、运筹优化、计算机等相关专业硕士及以上学历，2027 届应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "：数学、统计、运筹优化、计算机等相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -1314,7 +1350,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、数学、统计学、运筹学等相关专业毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数学、统计学、运筹学等相关专业毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -1401,7 +1440,10 @@
       },
       "major": {
         "raw": "1.27届毕业生，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1485,7 +1527,11 @@
       },
       "major": {
         "raw": "学历专业：2027 届本科及以上学历，计算机、软件工程、自动化、通信等相关专业 编程基础：扎实的 Java 基础，了解常用数据结构和算法，具备良好的编码习惯 项目经验：有实际项目或实习经验者优先（课程项目、开源贡献、竞赛项目均可） 技术视野",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历专业：2027 届本科及以上学历",
+          "计算机、软件工程、自动化、通信等相关专业 编程基础：扎实的 Java 基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -1568,7 +1614,11 @@
       },
       "major": {
         "raw": "1、学历与专业：本科及以上学历，密码学、信息安全、计算机科学、数学或量子信息相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、学历与专业：本科及以上学历",
+          "密码学、信息安全、计算机科学、数学或量子信息相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1648,7 +1698,10 @@
       },
       "major": {
         "raw": "1.27届毕业生，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1731,7 +1784,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1816,7 +1870,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，物流工程、工业工程、供应链、材料类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1898,7 +1953,10 @@
       },
       "major": {
         "raw": "1. 计算机、人工智能、自动化、电子信息、数学等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、人工智能、自动化、电子信息、数学等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -1981,7 +2039,11 @@
       },
       "major": {
         "raw": "： 27届毕业生，计算机、软件工程等相关专业；职位要求： 27届毕业生，计算机、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程等相关专业",
+          "计算机、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2067,7 +2129,10 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机、软件工程、人工智能等相关专业，英语口语流利 熟悉Java/Python语言 了解机器学习、深度学习基本概念，熟悉常见算法流程 对LLM（Transformer、RAG、Embedding、Fine-tuning等）有",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2156,7 +2221,10 @@
       },
       "major": {
         "raw": "： 计算机、自动化、图像处理、模式识别等相关专业，具有强烈的责任心，积极主动，有较强的学习能力 熟悉CV领域的相关主流算法模型，对前沿技术有一定的探索热情 了解NLP、音频领域算法技术，或有多模态大模型应用经验更佳 编程基础扎实，熟悉C++",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "： 计算机、自动化、图像处理、模式识别等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2238,7 +2306,10 @@
       },
       "major": {
         "raw": "1、计算机软件或相关专业研究生及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机软件或相关专业研究生及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -2320,7 +2391,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2398,7 +2470,10 @@
       },
       "major": {
         "raw": "1.27届毕业生，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2481,7 +2556,10 @@
       },
       "major": {
         "raw": "1. 车辆工程、计算机、人工智能、电气、自动化、电子信息等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 车辆工程、计算机、人工智能、电气、自动化、电子信息等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -2565,7 +2643,10 @@
       },
       "major": {
         "raw": "1. 车辆工程、机械工程、电气、自动化、电子工程等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 车辆工程、机械工程、电气、自动化、电子工程等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -2647,7 +2728,10 @@
       },
       "major": {
         "raw": "1. 车辆工程、机械工程、电气、自动化、电子工程等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 车辆工程、机械工程、电气、自动化、电子工程等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -2731,7 +2815,10 @@
       },
       "major": {
         "raw": "1. 车辆工程、计算机、人工智能、电气、自动化、电子信息等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 车辆工程、计算机、人工智能、电气、自动化、电子信息等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -2811,7 +2898,10 @@
       },
       "major": {
         "raw": "1. 车辆工程、计算机、人工智能、自动化、电子信息等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 车辆工程、计算机、人工智能、自动化、电子信息等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -2894,7 +2984,10 @@
       },
       "major": {
         "raw": "1.27届毕业生，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2977,7 +3070,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3057,7 +3151,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

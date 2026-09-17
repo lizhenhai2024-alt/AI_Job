@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "学历专业：统招本科及以上学历，市场营销、传媒、广告、管理类相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历专业：统招本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -109,7 +112,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，英语四级以上，热爱安全技术",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -198,7 +202,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，英语四级以上，热爱安全技术",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -287,7 +292,10 @@
       },
       "major": {
         "raw": "1、计算机科学、信息技术、电子工程、通信工程或相关专业的本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、信息技术、电子工程、通信工程或相关专业的本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -380,7 +388,10 @@
       },
       "major": {
         "raw": "1、计算机、软件、通信、电子、自动化等理工类相关专业，热爱网络安全产品管理工作的本科及以上学历毕业生（国内重点网络空间安全学院网络安全相关专业优先）",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、软件、通信、电子、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -471,7 +482,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程、人工智能等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程、人工智能等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -563,7 +577,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机科学、网络工程、信息安全、通信工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、网络工程、信息安全、通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -654,7 +671,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业，有优秀的英语听、说、读、写能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -755,7 +775,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、通信、电子等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、电子等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -842,7 +865,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、通信、电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、电子等相关专业"
+        ]
       },
       "language": {
         "raw": "英语、日语、法语、西班牙语、俄语、阿拉伯语",
@@ -931,7 +957,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程、人工智能等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程、人工智能等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1021,7 +1050,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程、人工智能等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程、人工智能等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1109,7 +1141,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1199,7 +1232,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、通信、电子等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语、法语、西班牙语、俄语、阿拉伯语",
@@ -1291,7 +1325,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、通信、电子等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语、法语、西班牙语、俄语、阿拉伯语",
@@ -1382,7 +1417,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，通信、电子、自动化、机电等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信、电子、自动化、机电等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1465,7 +1503,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，通信、电子、自动化、机电等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信、电子、自动化、机电等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1552,7 +1593,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、大数据、通信电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、大数据、通信电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1644,7 +1688,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、大数据、通信电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、大数据、通信电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1734,7 +1781,10 @@
       },
       "major": {
         "raw": "1、计算机科学、软件工程、人工智能、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、软件工程、人工智能、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1822,7 +1872,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1903,7 +1954,10 @@
       },
       "major": {
         "raw": "1.机械设计、机械制造及其自动化、机械电子工程、工业设计等理工类相关专业，对研发和创新有强烈兴趣的本科及以上学历毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.机械设计、机械制造及其自动化、机械电子工程、工业设计等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1991,7 +2045,10 @@
       },
       "major": {
         "raw": "1、全日制本科及以上学历，电磁场、射频微波、电子信息、通信等电子类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电磁场、射频微波、电子信息、通信等电子类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2074,7 +2131,10 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，电磁场、射频微波、电子信息、通信等电子类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电磁场、射频微波、电子信息、通信等电子类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2157,7 +2217,10 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，机械电子、材料、焊接等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械电子、材料、焊接等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2240,7 +2303,10 @@
       },
       "major": {
         "raw": "1、全日制本科及以上学历，电子信息、计算机、软件等电子类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、计算机、软件等电子类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2325,7 +2391,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、自动化等理工类相关专业，热爱FPGA开发工作的本科及以上学历毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2410,7 +2479,10 @@
       },
       "major": {
         "raw": "1、通信、电力电子、自动化、电子工程等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、通信、电力电子、自动化、电子工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2497,7 +2569,10 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、数学、统计学、网络通信工程等相关专业，对研发和创新有强烈兴趣的本科、硕士、博士毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、人工智能、数学、统计学、网络通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2585,7 +2660,10 @@
       },
       "major": {
         "raw": "1、数学、统计、计算机、人工智能相关专业统招本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、数学、统计、计算机、人工智能相关专业统招本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -2673,7 +2751,10 @@
       },
       "major": {
         "raw": "1、微电子与固体电子、集成电路设计、电子工程等理工类相关专业，对研发和创新有强烈兴趣的应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、微电子与固体电子、集成电路设计、电子工程等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2756,7 +2837,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，通信、电子、自动化、机电等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信、电子、自动化、机电等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2843,7 +2927,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，人工智能、计算机、软件工程、通信、电子、自动化等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人工智能、计算机、软件工程、通信、电子、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2933,7 +3020,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，人工智能、计算机、软件工程、通信、电子、自动化等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人工智能、计算机、软件工程、通信、电子、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3021,7 +3111,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，通信、电子、自动化、机电等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信、电子、自动化、机电等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3110,7 +3203,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件、通信、电子、自动化等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、通信、电子、自动化等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3197,7 +3293,8 @@
       },
       "major": {
         "raw": "1、具有全日制公办统招高校本科以上学历，计算机、通信、电子相关专业优先，会说粤语、英语优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3292,7 +3389,11 @@
       },
       "major": {
         "raw": "1、本科及以上学历，财务相关专业；2、熟练掌握与准确应用财务专业知识，有较好的会计实务能力，熟练使用OFFICE及ERP相关软件，具有CPA或同类专业资格优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务相关专业",
+          "2、熟练掌握与准确应用财务专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3379,7 +3480,10 @@
       },
       "major": {
         "raw": "1、机电、暖通、制冷、电气自动化等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机电、暖通、制冷、电气自动化等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -3465,7 +3569,10 @@
       },
       "major": {
         "raw": "1、全日制统招本科及以上学历，电子或计算机工程类等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子或计算机工程类等理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3551,7 +3658,10 @@
       },
       "major": {
         "raw": "1、全日制统招本科及以上学历，计算机、电子、通信等相关理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子、通信等相关理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3641,7 +3751,10 @@
       },
       "major": {
         "raw": "1、全日制统招本科及以上学历，计算机、通信、电子、供应链、数学等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、电子、供应链、数学等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3731,7 +3844,10 @@
       },
       "major": {
         "raw": "1、全日制统招本科及以上学历，物流类相关专业，英语四级425分以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3819,7 +3935,12 @@
       },
       "major": {
         "raw": "1、基于对通信协议、原理的深入理解，跟随产品软、硬件开发项目，学习并掌握产品详细的配置及部署方法，为公司研发的最新数据通信产品和技术，开发专业的用户手册和技术资料；3、专业的英文翻译和视觉设计配套团队，助力资料开发工程师开发高水平的全球化技术资料；1.计算机、软件、通信、电子、自动化、数学、物理、机电等理工类相关专业，本科及以上学历毕业生；3、英语四级425分以上，硕士优先考虑",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "开发专业的用户手册和技术资料",
+          "3、专业的英文翻译和视觉设计配套团队",
+          "1.计算机、软件、通信、电子、自动化、数学、物理、机电等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3917,7 +4038,10 @@
       },
       "major": {
         "raw": "1、2027 届及以后的本科/硕士/博士在校生或应届生，计算机相关专业（其他专业能证明编程能力即可）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业（其他专业能证明编程能力即可）"
+        ]
       },
       "language": {
         "raw": "",
@@ -4002,7 +4126,10 @@
       },
       "major": {
         "raw": "1、2027 届及以后的本科/硕士/博士在校生或应届生，计算机/人工智能/数学/电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机/人工智能/数学/电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4087,7 +4214,10 @@
       },
       "major": {
         "raw": "1、2027 届及以后的本科/硕士/博士在校生或应届生，电子信息工程、通信工程、自动化、微电子科学与工程、集成电路设计与集成系统、电子信息科学与技术、测控技术与仪器、机械电子工程、机器人工程、计算机科学与技术、人工智能等相关专业（其他理工科",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息工程、通信工程、自动化、微电子科学与工程、集成电路设计与集成系统、电子信息科学与技术、测控技术与仪器、机械电子工程、机器人工程、计算机科学与技术、人工智能等相关专业（其他理工科"
+        ]
       },
       "language": {
         "raw": "",
@@ -4173,7 +4303,10 @@
       },
       "major": {
         "raw": "1、2027 届及以后的本科/硕士/博士在校生或应届生，电子工程、自动化、计算机硬件、微电子等相关专业（其他理工科能证明硬件动手能力即可）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子工程、自动化、计算机硬件、微电子等相关专业（其他理工科能证明硬件动手能力即可）"
+        ]
       },
       "language": {
         "raw": "",
@@ -4256,7 +4389,11 @@
       },
       "major": {
         "raw": "1. 学历与专业：大学本科及以上学历，计算机科学与技术、电子信息、通信工程、自动化、软件工程等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历与专业：大学本科及以上学历",
+          "计算机科学与技术、电子信息、通信工程、自动化、软件工程等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4345,7 +4482,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4432,7 +4572,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，电子、通信、计算机类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、通信、计算机类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4518,7 +4661,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4599,7 +4743,10 @@
       },
       "major": {
         "raw": "3、电子、通信、光电、自动化、物理等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、电子、通信、光电、自动化、物理等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4682,7 +4829,10 @@
       },
       "major": {
         "raw": "5、光学工程、物理学、电子科学与技术、通信工程（光通信方向）等专业，具备扎实的光学、电磁场与高频电路理论基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "5、光学工程、物理学、电子科学与技术、通信工程（光通信方向）等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4766,7 +4916,10 @@
       },
       "major": {
         "raw": "3、电子科学与技术、信息与通信工程、光电信息工程、控制工程、机械工程等专业，电磁场和高频电路的理论基础扎实者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、电子科学与技术、信息与通信工程、光电信息工程、控制工程、机械工程等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4847,7 +5000,10 @@
       },
       "major": {
         "raw": "1、网络、通信、计算机、电子、软件、自动化、机电、数学、物理等理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、网络、通信、计算机、电子、软件、自动化、机电、数学、物理等理工类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4934,7 +5090,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5021,7 +5180,10 @@
       },
       "major": {
         "raw": "1、计算机科学、软件工程、人工智能、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、软件工程、人工智能、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5106,7 +5268,10 @@
       },
       "major": {
         "raw": "1、计算机科学、人工智能、数学、统计学、电子工程等相关专业，对研发和创新有强烈兴趣的硕士、博士毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学、人工智能、数学、统计学、电子工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5195,7 +5360,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、大数据、通信电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、大数据、通信电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5283,7 +5451,10 @@
       },
       "major": {
         "raw": "1、计算机、人工智能、大数据、通信电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、人工智能、大数据、通信电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5369,7 +5540,10 @@
       },
       "major": {
         "raw": "1、通信、计算机、软件等相关理工科专业，对研发和创新有强烈兴趣的应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、通信、计算机、软件等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5454,7 +5628,10 @@
       },
       "major": {
         "raw": "1、微电子、集成电路、电子工程、通信、计算机科学等相关专业应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、微电子、集成电路、电子工程、通信、计算机科学等相关专业应届毕业生"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5538,7 +5715,10 @@
       },
       "major": {
         "raw": "海外毕业时间2026年9月-2027年9月的硕士和博士应届毕业生，计算机、软件工程等相关专业学生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程等相关专业学生"
+        ]
       },
       "language": {
         "raw": "",
@@ -5624,7 +5804,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5712,7 +5895,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5800,7 +5986,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5888,7 +6077,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程、人工智能等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程、人工智能等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5976,7 +6168,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，通信工程，电子信息工程，通信技术，计算机科学与技术等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6063,7 +6256,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，通信工程，电子信息工程，通信技术，计算机科学与技术等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6146,7 +6340,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，通信工程，电子信息工程，通信技术，计算机科学与技术等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6231,7 +6426,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，通信工程，电子信息工程，通信技术，计算机科学与技术等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6314,7 +6510,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6400,7 +6599,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、通信、电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6484,7 +6686,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，工业工程、供应链管理、物流管理、计算机等相关专业，2027 届应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工业工程、供应链管理、物流管理、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6571,7 +6776,10 @@
       },
       "major": {
         "raw": "1、本科及以上，计算机、通信、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6658,7 +6866,8 @@
       },
       "major": {
         "raw": "1、2026届、2027届在校大学生，专业不限，有创建、运营校园社团组织的经验",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6742,7 +6951,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6830,7 +7042,10 @@
       },
       "major": {
         "raw": "1、计算机、通信、电子、网络工程等理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、通信、电子、网络工程等理工科专业"
+        ]
       },
       "language": {
         "raw": "",

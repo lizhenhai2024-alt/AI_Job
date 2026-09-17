@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "本科及以上学历，英语可作为工作语言。",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语、韩语",
@@ -121,7 +122,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语",
@@ -218,7 +220,8 @@
       },
       "major": {
         "raw": "本科及以上学历，英语六级及以上。",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、意大利语",
@@ -321,7 +324,8 @@
       },
       "major": {
         "raw": "本科及以上学历，数学、统计学、经济学等理工科相关专业优先，英语CET-6及以上",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -416,7 +420,8 @@
       },
       "major": {
         "raw": "一本及以上学历，电子商务、市场营销、英语、国际贸易等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -512,7 +517,8 @@
       },
       "major": {
         "raw": "一本及以上学历，电子商务、市场营销、英语、国际贸易、数据分析等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -611,7 +617,10 @@
       },
       "major": {
         "raw": "环境科学、环工、能动、化工、生态学、可持续发展、林学、供应链物流等相关专业；双一流 / 985/211 及海外名校优先，CET-6 及以上，可无障碍研读欧盟英文政策、欧美绿色贸易合规文件。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "环境科学、环工、能动、化工、生态学、可持续发展、林学、供应链物流等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -704,7 +713,8 @@
       },
       "major": {
         "raw": "本科及以上学历，人力资源管理、心理学、管理学等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -789,7 +799,8 @@
       },
       "major": {
         "raw": "一本及以上院校毕业，物流管理、采购管理、国际贸易、商务管理等相关专业优先，具备欧美留学背景或生活经历者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -883,7 +894,8 @@
       },
       "major": {
         "raw": "一本及以上学历，统计学、数学、电子商务、英语等相关专业优先，优秀应届生可培养。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -976,7 +988,10 @@
       },
       "major": {
         "raw": "统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）"
+        ]
       },
       "language": {
         "raw": "",
@@ -1067,7 +1082,8 @@
       },
       "major": {
         "raw": "重点本科及以上学历，国贸/物流/电子商务/工业工程/设计类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1151,7 +1167,10 @@
       },
       "major": {
         "raw": "985 / 211 / 双一流高校或海外知名院校本科及以上学历，国际贸易、物流管理、航运管理、供应链管理等相关专业。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "国际贸易、物流管理、航运管理、供应链管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1247,7 +1266,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1332,7 +1352,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1421,7 +1442,11 @@
       },
       "major": {
         "raw": "会计学、财务管理、审计、金融等财务相关专业；（2）具备扎实的财务专业知识，熟悉财务软件和办公软件的操作",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学、财务管理、审计、金融等财务相关专业",
+          "（2）具备扎实的财务专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1512,7 +1537,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1596,7 +1622,10 @@
       },
       "major": {
         "raw": "1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、统计学、数学类、供应链管理等相关专业（海外留学同等学力认证匹配也可）"
+        ]
       },
       "language": {
         "raw": "",
@@ -1689,7 +1718,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1772,7 +1802,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，国贸、英语类相关专业，英语六级及以上，口语流利",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "国贸、英语类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1866,7 +1899,10 @@
       },
       "major": {
         "raw": "1. 一本及以上院校毕业，物流管理、工业工程、数学、统计、交通运输等专业，具备欧美留学背景或生活经历者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流管理、工业工程、数学、统计、交通运输等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1960,7 +1996,11 @@
       },
       "major": {
         "raw": "2. 合规能力培养 ：学习商品归类、原产地规则、贸易政策解读等专业知识，参与合规风险排查，协助处理通关异常问题 跨部门协同 ：对接工厂、运输、清关代理等上下游角色，跟进清关全流程，保障货物顺利通关；1. 学历与专业 ：一本及以上院校毕业，供应链管理、物流工程、国际经济与贸易、电子商务类专业优先，211/985 院校及海外留学生优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 合规能力培养 ：学习商品归类、原产地规则、贸易政策解读等专业知识",
+          "1. 学历与专业 ：一本及以上院校毕业"
+        ]
       },
       "language": {
         "raw": "英语、德语、西班牙语、葡萄牙语",
@@ -2055,7 +2095,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机科学、软件工程、统计学、数学、信息管理、财务等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2138,7 +2179,10 @@
       },
       "major": {
         "raw": "1：教育与语言 ：本科及以上学历，统计学、数学类、供应链管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "统计学、数学类、供应链管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",

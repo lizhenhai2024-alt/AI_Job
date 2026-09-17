@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "学历要求:本科及以上学历,英语听说读写能力熟练;",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -103,7 +104,10 @@
       },
       "major": {
         "raw": "1、本科以上学历，电子、通信或计算机类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、通信或计算机类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -193,7 +197,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -276,7 +281,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、通信电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、通信电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -363,7 +371,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，数学、统计学、商业分析、信息化系统、工业工程、供应链管理、物流管理等相关专业，有供应链相关实习或工作经验是加分项",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "数学、统计学、商业分析、信息化系统、工业工程、供应链管理、物流管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -451,7 +462,10 @@
       },
       "major": {
         "raw": "1. 学历与专业:本科及以上学历人，力资源管理、工商管理、心理学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历与专业:本科及以上学历人"
+        ]
       },
       "language": {
         "raw": "",
@@ -541,7 +555,11 @@
       },
       "major": {
         "raw": "1、学历背景：本科及以上学历，计算机科学、信息技术、数学或相关专业，有互联网实习经历加分",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、学历背景：本科及以上学历",
+          "计算机科学、信息技术、数学或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -627,7 +645,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械工程、模具设计与制造等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程、模具设计与制造等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -711,7 +732,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -794,7 +816,10 @@
       },
       "major": {
         "raw": "1、法学硕士及以上学历，通过国家司法考试，有律师执业资格者优先；3、熟悉国内外各类法律法规，具备扎实的法律专业知识，尤其是合同法、公司法、知识产权法、劳动法等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "具备扎实的法律专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -883,7 +908,10 @@
       },
       "major": {
         "raw": "1、学历：本科及以上，机械设计、自动化相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计、自动化相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -965,7 +993,10 @@
       },
       "major": {
         "raw": "1、本科及以上相关学历，电子信息工程等相关专业，可以看懂电路图，熟悉电子元器件的特性",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1047,7 +1078,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1125,7 +1157,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1207,7 +1240,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械工程类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1296,7 +1332,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械工程类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1378,7 +1417,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1465,7 +1505,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1547,7 +1588,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1627,7 +1669,10 @@
       },
       "major": {
         "raw": "1、自动化、电子、计算机、数学、物理学等相关专业本科学历以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、自动化、电子、计算机、数学、物理学等相关专业本科学历以上"
+        ]
       },
       "language": {
         "raw": "",
@@ -1709,7 +1754,10 @@
       },
       "major": {
         "raw": "1.人机交互、视觉传达、工业设计、心理学、计算机等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.人机交互、视觉传达、工业设计、心理学、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1792,7 +1840,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1877,7 +1926,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1955,7 +2005,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2038,7 +2089,10 @@
       },
       "major": {
         "raw": "1、全日制本科及以上学历，汽车、发动机或机械自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "汽车、发动机或机械自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2122,7 +2176,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，电子工程、光学工程或相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子工程、光学工程或相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -2204,7 +2261,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，车辆工程、自动化、控制工程、机器人、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆工程、自动化、控制工程、机器人、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2289,7 +2349,10 @@
       },
       "major": {
         "raw": "1.电化学/材料/化学/物理化学或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.电化学/材料/化学/物理化学或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2374,7 +2437,10 @@
       },
       "major": {
         "raw": "1、双一流高校本科及以上学历，电子信息、电气自动化、计算机科学与技术、人工智能等相关专业或研究方向",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、电气自动化、计算机科学与技术、人工智能等相关专业或研究方向"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2458,7 +2524,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2541,7 +2610,11 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械工程、机械设计制造及其自动化、材料成型及控制工程等相关专业；3、具备扎实的机械原理、材料力学、工程材料等专业知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程、机械设计制造及其自动化、材料成型及控制工程等相关专业",
+          "3、具备扎实的机械原理、材料力学、工程材料等专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -2626,7 +2699,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2704,7 +2778,10 @@
       },
       "major": {
         "raw": "（1）本科以上学历，机械设计相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2788,7 +2865,10 @@
       },
       "major": {
         "raw": "1、计算机、软件或相关专业，本科及以上学历，具备一定的编程基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、软件或相关专业"
+        ]
       },
       "language": {
         "raw": "",

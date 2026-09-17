@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "物流管理、物流工程、供应链管理、数学 / 统计学（数据分析方向）等相关专业优先，海外背景优先，精通英语优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -113,7 +114,8 @@
       },
       "major": {
         "raw": "SEO、数字营销、互联网运营相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -203,7 +205,10 @@
       },
       "major": {
         "raw": "市场营销、电子商务、互联网运营相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、电子商务、互联网运营相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -297,7 +302,8 @@
       },
       "major": {
         "raw": "物流管理、交通运输、国际贸易等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -387,7 +393,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，经管、国贸、供应链、新能源等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -475,7 +482,8 @@
       },
       "major": {
         "raw": "物流管理、供应链管理、数学、统计学（数据分析方向）等相关专业优先；海外背景优先，精通英语优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -570,7 +578,10 @@
       },
       "major": {
         "raw": "物流管理、物流工程、供应链管理、数学及统计学（数据分析方向）等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流管理、物流工程、供应链管理、数学及统计学（数据分析方向）等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -659,7 +670,10 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，影视制作、广播电视、传媒管理、广告、导演、编导、数字媒体等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "影视制作、广播电视、传媒管理、广告、导演、编导、数字媒体等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -753,7 +767,10 @@
       },
       "major": {
         "raw": "市场营销、广告、新闻传播、小语种等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告、新闻传播、小语种等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -846,7 +863,10 @@
       },
       "major": {
         "raw": "市场营销、广告、新闻传播等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告、新闻传播等相关专业"
+        ]
       },
       "language": {
         "raw": "西班牙语",
@@ -938,7 +958,10 @@
       },
       "major": {
         "raw": "市场营销、广告、新闻传播、小语种等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告、新闻传播、小语种等相关专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -1031,7 +1054,8 @@
       },
       "major": {
         "raw": "专业不限，应用数学、统计会计、人力资源、管理类优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1121,7 +1145,10 @@
       },
       "major": {
         "raw": "市场营销、广告、新闻传播、小语种等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告、新闻传播、小语种等相关专业"
+        ]
       },
       "language": {
         "raw": "德语",
@@ -1213,7 +1240,10 @@
       },
       "major": {
         "raw": "市场营销、广告、新闻传播、小语种等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告、新闻传播、小语种等相关专业"
+        ]
       },
       "language": {
         "raw": "俄语",
@@ -1305,7 +1335,10 @@
       },
       "major": {
         "raw": "市场营销、广告、新闻传播、小语种等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告、新闻传播、小语种等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1397,7 +1430,10 @@
       },
       "major": {
         "raw": "市场营销、广告、新闻传播、小语种等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告、新闻传播、小语种等相关专业"
+        ]
       },
       "language": {
         "raw": "法语",
@@ -1489,7 +1525,8 @@
       },
       "major": {
         "raw": "专业不限，人力、行政、英语相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1578,7 +1615,8 @@
       },
       "major": {
         "raw": "机械，电子或其他理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1662,7 +1700,8 @@
       },
       "major": {
         "raw": "机械、电子或其他理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1747,7 +1786,8 @@
       },
       "major": {
         "raw": "数学、统计学、供应链管理等相关专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1832,7 +1872,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，机械、电子、计算机或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1916,7 +1957,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，机械，电子，设备或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2000,7 +2042,8 @@
       },
       "major": {
         "raw": "电子、仪器测试或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2084,7 +2127,8 @@
       },
       "major": {
         "raw": "电子、仪器测试或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2168,7 +2212,8 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，电子商务、国际经济与贸易、市场营销及统计学专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2264,7 +2309,8 @@
       },
       "major": {
         "raw": "心理学、社会学、教育学、管理学、人力资源相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2355,7 +2401,10 @@
       },
       "major": {
         "raw": "2027届获得本科及以上学历，中文、新闻、商务英语等相关专业优",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "中文、新闻、商务英语等相关专业优"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2447,7 +2496,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，市场营销、广告、数据分析等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告、数据分析等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2541,7 +2593,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限，英语能作为工作语言优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2632,7 +2685,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，语言、商科、金融等专业，对光伏储能、新能源行业有热情",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "语言、商科、金融等专业"
+        ]
       },
       "language": {
         "raw": "英语、德语",
@@ -2732,7 +2788,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "德语",
@@ -2825,7 +2882,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，供应链管理、物流管理、工业工程、工商管理、国际经济与贸易、统计学、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2920,7 +2978,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电气自动化、电力电子、新能源、通信工程、机械电子等相关专业优先；2、英语流利（可作为工作语言），能熟练撰写技术文档并进行专业沟通",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "能熟练撰写技术文档并进行专业沟通"
+        ]
       },
       "language": {
         "raw": "英语、德语、西班牙语",
@@ -3014,7 +3075,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语",
@@ -3097,7 +3159,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3185,7 +3248,10 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学历，电气、机械、工程热物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气、机械、工程热物理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3271,7 +3337,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，语言、商科、金融等专业，对光伏储能、新能源行业有热情",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "语言、商科、金融等专业"
+        ]
       },
       "language": {
         "raw": "德语、西班牙语",
@@ -3370,7 +3439,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，市场营销、国际贸易、广告传播、商务英语等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3466,7 +3536,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限，西班牙语或德语能作为工作语言优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "德语、西班牙语",
@@ -3556,7 +3627,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，语言、商科、金融等专业，对光伏储能、新能源行业有热情",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "语言、商科、金融等专业"
+        ]
       },
       "language": {
         "raw": "德语",
@@ -3655,7 +3729,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，市场营销、管理、工程相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3745,7 +3820,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，市场营销、管理、工程相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语",
@@ -3835,7 +3911,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "日语",
@@ -3923,7 +4000,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，英语听说读写流利，西班牙语/德语/日语熟练者优先；2、电子工程、自动化、计算机、通信等理工类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语、德语、西班牙语",
@@ -4017,7 +4095,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，专业不限（计算机、数据、经管相关优先）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4107,7 +4186,11 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，电子、机械相关专业重点招聘，其他理工科专业优秀者可考虑",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、机械相关专业重点招聘",
+          "其他理工科专业优秀者可考虑"
+        ]
       },
       "language": {
         "raw": "",
@@ -4192,7 +4275,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电力电子、电气自动化和新材料相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电力电子、电气自动化和新材料相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4274,7 +4360,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电气工程、电子工程、自动化、机械电子、微波电磁场等理工科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4363,7 +4450,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4449,7 +4537,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4537,7 +4626,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机科学、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4631,7 +4721,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4719,7 +4810,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士学位，计算机科学、软件工程、心理学、交互设计、自动化专业优先，英语听说读写熟练或海外留学背景更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4809,7 +4901,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，计算机、数学或统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4896,7 +4989,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4980,7 +5074,8 @@
       },
       "major": {
         "raw": "1、 2027届获得本科及以上学历，电子信息工程、自动化、电气工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5064,7 +5159,10 @@
       },
       "major": {
         "raw": "4、协助对接第三方翻译公司，跟进说明书多语言的本地化翻译，并推动公司专业技术词库的优化和维护；1、2027届获得硕士研究生学位及以上，中文系/新闻传播学/英语专业优先，英文CET6级",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "并推动公司专业技术词库的优化和维护"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5156,7 +5254,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5240,7 +5339,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、大数据、软件工程、统计学、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、大数据、软件工程、统计学、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5328,7 +5430,11 @@
       },
       "major": {
         "raw": "2、对业务部门的财务数据进行收集、整理和分析，为业务决策提供数据支持，参与业务部门的项目评估和决策过程，从财务角度提供专业意见和建议；1、2027届获得本科及以上学历，财务、会计、金融等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "从财务角度提供专业意见和建议",
+          "财务、会计、金融等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5417,7 +5523,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，网络安全/信息安全/计算机/理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "网络安全/信息安全/计算机/理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5504,7 +5613,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、信管、供应链、工商管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5597,7 +5707,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，自动化、计算机、通讯工程、电子信息工程、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5683,7 +5794,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电力电子、自动化、计算机、通讯工程、电子信息工程、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电力电子、自动化、计算机、通讯工程、电子信息工程、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5768,7 +5882,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电气、自动化类专业，电力电子方向优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气、自动化类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5852,7 +5969,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电气工程及其自动化、电力电子、电子信息类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气工程及其自动化、电力电子、电子信息类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5934,7 +6054,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6014,7 +6135,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6098,7 +6220,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6179,7 +6302,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电力电子、自动化、计算机、通讯工程、电子信息工程、测控等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6264,7 +6388,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电气工程、电子工程、自动化等相关专业优先，有较强的动手能力",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6346,7 +6471,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电气、电力、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6434,7 +6560,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机相关专业优先，掌握Android或iOS开发的基本技能",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6519,7 +6646,8 @@
       },
       "major": {
         "raw": "1、2027届获得硕士及以上学位，材料学、电化学、化学、材料化学、物理化学等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6599,7 +6727,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电子科学与技术、材料科学、机械电子、自动化、微电子、通信工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子科学与技术、材料科学、机械电子、自动化、微电子、通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6679,7 +6810,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，通信工程、电气工程、自动化、机电等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6764,7 +6896,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电子信息工程、自动化、电气工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6847,7 +6980,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，自动化、电气工程、 电力电子、电子信息工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6929,7 +7063,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，工业设计，机械设计，计算机科学与技术等理工类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7012,7 +7147,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、网络工程、软件工程、云计算、大数据等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、网络工程、软件工程、云计算、大数据等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7095,7 +7233,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，会计、财务管理等相关专业，财经类院校优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计、财务管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7179,7 +7320,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，计算机、信息安全、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、信息安全、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7268,7 +7412,10 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，数学、计算机科学、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "数学、计算机科学、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7353,7 +7500,8 @@
       },
       "major": {
         "raw": "1、2027届获得本科及以上学历，电子，电气等理工科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",

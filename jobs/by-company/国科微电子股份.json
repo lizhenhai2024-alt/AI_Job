@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机类、电子信息、通信工程等相关专业毕业"
+        ]
       },
       "language": {
         "raw": "",
@@ -102,7 +105,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，大学英语四级或以上，计算机、通信、电子、自动化相关专业，具备扎实的C/C++编程基础，熟悉Linux内核态驱动开发",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、电子、自动化相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -187,7 +193,10 @@
       },
       "major": {
         "raw": "1. 电子/微电子/通信等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 电子/微电子/通信等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -269,7 +278,10 @@
       },
       "major": {
         "raw": "1、电子/微电子/通信等相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电子/微电子/通信等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -351,7 +363,10 @@
       },
       "major": {
         "raw": "1、电子/微电子/通信等相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电子/微电子/通信等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -433,7 +448,12 @@
       },
       "major": {
         "raw": "1.电子、计算机、通信等相关专业，大学本科及以上学历，有设计公司相关背景，或者晶圆厂可靠性相关背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.电子、计算机、通信等相关专业",
+          "有设计公司相关背景",
+          "或者晶圆厂可靠性相关背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -519,7 +539,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -597,7 +618,10 @@
       },
       "major": {
         "raw": "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -679,7 +703,10 @@
       },
       "major": {
         "raw": "1. 电子通信、微电子学与固体电子学相关专业，本科及以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 电子通信、微电子学与固体电子学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -759,7 +786,10 @@
       },
       "major": {
         "raw": "1. 计算机、软件、电子等相关专业毕业生，硕士学历以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、软件、电子等相关专业毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -841,7 +871,10 @@
       },
       "major": {
         "raw": "1. 计算机、电子、自动化、光学等相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、电子、自动化、光学等相关专业"
+        ]
       },
       "language": {
         "raw": "法语",
@@ -925,7 +958,10 @@
       },
       "major": {
         "raw": "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 微电子、集成电路、电子工程、通信工程、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1007,7 +1043,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、微电子、计算机、通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1087,7 +1126,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、电子、电气自动化类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1167,7 +1209,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业，具备C语言编程基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、电子、电气自动化类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1247,7 +1292,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，集成电路、计算机、通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、计算机、通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1327,7 +1375,10 @@
       },
       "major": {
         "raw": "1、电子/微电子/通信等相关专业，硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电子/微电子/通信等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1409,7 +1460,10 @@
       },
       "major": {
         "raw": "1. 电磁场/微波/射频/模拟电路/通信类专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 电磁场/微波/射频/模拟电路/通信类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1491,7 +1545,10 @@
       },
       "major": {
         "raw": "1. 电子通信、微电子学与固体电子学相关专业，本科及以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 电子通信、微电子学与固体电子学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1571,7 +1628,10 @@
       },
       "major": {
         "raw": "1. 微电子、半导体、电子工程、通信等专业本科以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 微电子、半导体、电子工程、通信等专业本科以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -1651,7 +1711,10 @@
       },
       "major": {
         "raw": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -1733,7 +1796,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1813,7 +1877,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1891,7 +1956,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1969,7 +2035,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2047,7 +2114,10 @@
       },
       "major": {
         "raw": "1.微电子、通信工程或电子信息工程专业硕士以及以上学历，英语4级及以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.微电子、通信工程或电子信息工程专业硕士以及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2129,7 +2199,8 @@
       },
       "major": {
         "raw": "4. 硕士及以上学历，计算机/电子信息/通信工程/软件工程类",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2215,7 +2286,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机类、电子信息、通信工程等相关专业毕业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机类、电子信息、通信工程等相关专业毕业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2301,7 +2375,10 @@
       },
       "major": {
         "raw": "1.学历背景：计算机、通信、电气自动化、电子技术等相关专业，本科学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学历背景：计算机、通信、电气自动化、电子技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2383,7 +2460,10 @@
       },
       "major": {
         "raw": "1.计算机、通信、电子信息、通信工程、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、通信、电子信息、通信工程、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2468,7 +2548,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、微电子、计算机、通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2548,7 +2631,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，集成电路、微电子、计算机、通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、微电子、计算机、通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2628,7 +2714,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息、自动化、电气工程及其自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、微电子、计算机、通信、电子信息、自动化、电气工程及其自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2714,7 +2803,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，集成电路、微电子、计算机、通信、电子信息等相关专业，应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "集成电路、微电子、计算机、通信、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2798,7 +2890,10 @@
       },
       "major": {
         "raw": "1.计算机科学、微电子、电子信息、自动化等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机科学、微电子、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2883,7 +2978,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2965,7 +3061,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、通信、电子、电气自动化类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、通信、电子、电气自动化类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3050,7 +3149,10 @@
       },
       "major": {
         "raw": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -3132,7 +3234,10 @@
       },
       "major": {
         "raw": "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 微电子、半导体、电子工程、通信等专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",

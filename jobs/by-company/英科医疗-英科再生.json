@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "本科及以上学历，专业不限；市场营销、统计学、数学等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -103,7 +104,10 @@
       },
       "major": {
         "raw": "本科及以上学历， 物流管理、国际贸易、交通运输、理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流管理、国际贸易、交通运输、理工类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -191,7 +195,8 @@
       },
       "major": {
         "raw": "1、大学本科及以上学历，专业不限，英语熟练运用",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -280,7 +285,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、阿拉伯语",
@@ -376,7 +382,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、阿拉伯语",
@@ -472,7 +479,8 @@
       },
       "major": {
         "raw": "1、统招全日制本科及以上学历，专业不限， 人力资源、理工类、或有人力实习经历者优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -556,7 +564,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，专业不限，理工类专业优先；2.机械、电气、自动化、化学化工、工业工程、物流等相关理工科专业均可",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.机械、电气、自动化、化学化工、工业工程、物流等相关理工科专业均可"
+        ]
       },
       "language": {
         "raw": "",
@@ -642,7 +653,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "越南语",
@@ -724,7 +736,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、俄语、阿拉伯语",
@@ -823,7 +836,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -911,7 +925,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限，有人力资源相关实习经验者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -996,7 +1011,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，不限专业，理工科专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1078,7 +1094,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1167,7 +1184,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、俄语、阿拉伯语",
@@ -1266,7 +1284,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，物流供应链、仓储管理、理工科专业应届生优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1355,7 +1374,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，化学工程与工艺、高分子材料相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学工程与工艺、高分子材料相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1440,7 +1462,10 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，专业不限，市场营销、理工类专业优，立志投身销售行业",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、理工类专业优"
+        ]
       },
       "language": {
         "raw": "",
@@ -1529,7 +1554,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1612,7 +1638,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限；市场营销、统计学、数据分析等相关专业优先，对产品运营、数据驱动决策有兴趣",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1702,7 +1729,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限；数学、统计学、工业工程、物流管理、管理科学与工程、供应链管理、理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1794,7 +1822,8 @@
       },
       "major": {
         "raw": "2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1874,7 +1903,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限，供应链管理、物流管理、理工类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1962,7 +1992,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，财务、会计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务、会计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2044,7 +2077,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2129,7 +2163,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2212,7 +2247,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2300,7 +2336,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，专业不限，市场营销、理工类专业优先，立志投身销售行业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2388,7 +2425,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2476,7 +2514,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，化学工程与工艺、高分子材料等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学工程与工艺、高分子材料等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2561,7 +2602,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，质量管理、化工、生物、材料等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2646,7 +2688,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，材料、化工、生物医学工程、质量管理、机械、高分子等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2734,7 +2777,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，不限专业，理工科专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2816,7 +2860,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，机械、自动化、电气、热能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2896,7 +2941,8 @@
       },
       "major": {
         "raw": "1. 211及以上学历，计算机科学与技术、软件工程、信息技术、数据科学、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2982,7 +3028,8 @@
       },
       "major": {
         "raw": "1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3069,7 +3116,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3155,7 +3205,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、软件工程、人工智能、信息技术、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3244,7 +3295,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历， 专业不限，熟练操作Office办公软件",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3326,7 +3378,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3404,7 +3457,11 @@
       },
       "major": {
         "raw": "1. 案件处置：处理公司涉及的各类民商事法律事务，包括但不限于合同纠纷、劳动争议等，提供专业、务实且有针对性的法律解决方案；1. 本科及以上学历，法学等相关专业，通过国家统一法律职业资格考试",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "提供专业、务实且有针对性的法律解决方案",
+          "法学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3492,7 +3549,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3574,7 +3632,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，机械、自动化、电气、流体力学、工程力学、热能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3660,7 +3719,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，机械工程、自动化、机电一体化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程、自动化、机电一体化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3744,7 +3806,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械设计制造及其自动化、机械工程、机电一体化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3826,7 +3889,8 @@
       },
       "major": {
         "raw": "2. 本科及以上学历，电气工程及其自动化、电力系统及其自动化、电机与电器等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3906,7 +3970,10 @@
       },
       "major": {
         "raw": "2、本科及以上学历，自动化、电气、仪表、测控、机械等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "自动化、电气、仪表、测控、机械等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3989,7 +4056,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，化学、高分子材料化学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "化学、高分子材料化学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4071,7 +4141,11 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，会计学、财务管理、金融学、审计学等相关专业优先；2. 专业基础扎实，熟悉会计法规及最新会计准则，掌握企业财务管理相关专业知识与实操技能",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 专业基础扎实",
+          "掌握企业财务管理相关专业知识与实操技能"
+        ]
       },
       "language": {
         "raw": "",
@@ -4157,7 +4231,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4244,7 +4319,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机类、电子信息类、信息管理、管理科学与工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "本科及以上，国贸/暖通等工科相关专业，小语种优先(葡/日/韩/西/俄/法)",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "国贸/暖通等工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -109,7 +112,10 @@
       },
       "major": {
         "raw": "具有工科知识背景(电力电子、自动化、通信、电气等)",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "具有工科知识背景(电力电子、自动化、通信、电气等)"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -205,7 +211,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -299,7 +306,10 @@
       },
       "major": {
         "raw": "1、本科，英语四级及以上优先；2、供应链管理、物流管理、工业工程、暖通工程、机械工程、电气工程等专业，校内成绩班级前50%优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、供应链管理、物流管理、工业工程、暖通工程、机械工程、电气工程等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -386,7 +396,8 @@
       },
       "major": {
         "raw": "1、市场营销/国贸/语言类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -476,7 +487,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -562,7 +574,10 @@
       },
       "major": {
         "raw": "1、人力资源、工商管理、行政管理等相关专业，本科及以上学历，英语流利，小语种优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、人力资源、工商管理、行政管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -644,7 +659,10 @@
       },
       "major": {
         "raw": "1、人力资源、工商管理、行政管理等相关专业，本科学历，英语流利",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、人力资源、工商管理、行政管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -726,7 +744,10 @@
       },
       "major": {
         "raw": "1、具有工科知识背景(电力电子、自动化、通信等)、工作积极主动，具有较强的责任心，肯苦、细致",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、具有工科知识背景(电力电子、自动化、通信等)、工作积极主动"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -818,7 +839,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -899,7 +921,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -986,7 +1009,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1073,7 +1097,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1158,7 +1183,10 @@
       },
       "major": {
         "raw": "2、会计学、财务管理学、审计学专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、会计学、财务管理学、审计学专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1244,7 +1272,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械/电子类工科专业优先，掌握基础专业知识",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "掌握基础专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -1330,7 +1361,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1416,7 +1448,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1507,7 +1540,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1592,7 +1626,8 @@
       },
       "major": {
         "raw": "1、本科及以上，暖通、电控、机械等相关专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1682,7 +1717,8 @@
       },
       "major": {
         "raw": "1、市场营销/国贸/语言类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1771,7 +1807,10 @@
       },
       "major": {
         "raw": "1、法学类相关专业，通过司法考试者优先，本科及以上学历",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、法学类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1859,7 +1898,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1944,7 +1984,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2029,7 +2070,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2114,7 +2156,11 @@
       },
       "major": {
         "raw": "1、电子信息/通信工程/电气工程/电子/通讯/自动化等专业，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电子信息/通信工程/电气工程/电子/通讯/自动化等专业",
+          "专业知识扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -2202,7 +2248,10 @@
       },
       "major": {
         "raw": "2、本科及以上学历，电气、机械专业（对强电有一定了解）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气、机械专业（对强电有一定了解）"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2290,7 +2339,8 @@
       },
       "major": {
         "raw": "1、市场营销/国贸/语言类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2379,7 +2429,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，控制工程、电力电子、电气工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "控制工程、电力电子、电气工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2462,7 +2515,8 @@
       },
       "major": {
         "raw": "1、硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程、控制科学等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2546,7 +2600,10 @@
       },
       "major": {
         "raw": "1、学历专业：硕士优先，电力电子与电力传动、高电压与绝缘技术、电气工程等专业",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "电力电子与电力传动、高电压与绝缘技术、电气工程等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2628,7 +2685,10 @@
       },
       "major": {
         "raw": "1、流体机械、动力工程及工程热物理、航空宇航、能源动力工程等相关专业；4、本科及以上学历、英语六级并通过口语测试",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、流体机械、动力工程及工程热物理、航空宇航、能源动力工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2715,7 +2775,10 @@
       },
       "major": {
         "raw": "1、微电子 、电路与系统 、自动化、电磁环境与工程等相关专业；5、本科及以上学历、英语六级并通过口语测试",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、微电子 、电路与系统 、自动化、电磁环境与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2803,7 +2866,10 @@
       },
       "major": {
         "raw": "1、物联网工程、计算机科学与技术(侧重于高级软件编程、算法)等相关专业；5、本科及以上学历、英语六级并通过口语测试,具备扎实的数学基础，精通线性代数、概率论、微积分、控制理论等，熟练运用数学工具进行算法推导优化",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、物联网工程、计算机科学与技术(侧重于高级软件编程、算法)等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2895,7 +2961,10 @@
       },
       "major": {
         "raw": "1、流动力工程及工程热物理、制冷与低温工程、能源动力工程、建筑环境与能源应用工程(侧重于低温与制冷、暖通)等相关专业；4、本科及以上学历、英语六级并通过口语测试",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、流动力工程及工程热物理、制冷与低温工程、能源动力工程、建筑环境与能源应用工程(侧重于低温与制冷、暖通)等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2983,7 +3052,10 @@
       },
       "major": {
         "raw": "1、电气工程、控制、电力电子、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电气工程、控制、电力电子、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3065,7 +3137,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3145,7 +3218,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "日语",
@@ -3234,7 +3308,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3316,7 +3391,10 @@
       },
       "major": {
         "raw": "1、机械自动化/电气及其自动化/机电一体化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械自动化/电气及其自动化/机电一体化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3398,7 +3476,11 @@
       },
       "major": {
         "raw": "1、财务专业，英语流利，小语种更优，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、财务专业",
+          "专业知识扎实"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3488,7 +3570,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3572,7 +3655,10 @@
       },
       "major": {
         "raw": "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3659,7 +3745,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，电子电气、自动化类相关专业优先，",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3746,7 +3833,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语、俄语",
@@ -3829,7 +3917,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3914,7 +4003,10 @@
       },
       "major": {
         "raw": "1、财务等相关专业，英语流利，小语种(葡语/西语)更优",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、财务等相关专业"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语",
@@ -4002,7 +4094,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4082,7 +4175,10 @@
       },
       "major": {
         "raw": "1、机电、电气、机械相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机电、电气、机械相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4168,7 +4264,10 @@
       },
       "major": {
         "raw": "1、制冷与低温工程、能源动力工程、建筑环境与能源应用工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、制冷与低温工程、能源动力工程、建筑环境与能源应用工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4250,7 +4349,8 @@
       },
       "major": {
         "raw": "1、流体机械、旋转机械、力学、振动力学、固体力学、结构力学等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4330,7 +4430,10 @@
       },
       "major": {
         "raw": "1、热能工程、工程热物理、流体机械及工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、热能工程、工程热物理、流体机械及工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4410,7 +4513,10 @@
       },
       "major": {
         "raw": "1、机械设计及自动化、车联工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械设计及自动化、车联工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4496,7 +4602,10 @@
       },
       "major": {
         "raw": "1、制冷与低温工程、能源与动力工程、建筑环境与能源工程、供热燃气通风及空调等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、制冷与低温工程、能源与动力工程、建筑环境与能源工程、供热燃气通风及空调等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4582,7 +4691,10 @@
       },
       "major": {
         "raw": "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电气工程及自动化、电子信息工程、仪器科学与技术、控制科学与工程、通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4666,7 +4778,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4746,7 +4859,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4824,7 +4938,10 @@
       },
       "major": {
         "raw": "2、有较好的机械、制冷等相关工科专业基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、有较好的机械、制冷等相关工科专业基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -4904,7 +5021,10 @@
       },
       "major": {
         "raw": "1、电气工程及其自动化、电机与电器等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电气工程及其自动化、电机与电器等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4984,7 +5104,10 @@
       },
       "major": {
         "raw": "1、机械设计制造及自动化等相关专业，具有质量控制管理的清晰思路与意识、坚持的原则底线",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械设计制造及自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5066,7 +5189,11 @@
       },
       "major": {
         "raw": "2、机械设计制造及自动化等相关专业，掌握机械设计专业课程知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械设计制造及自动化等相关专业",
+          "掌握机械设计专业课程知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -5148,7 +5275,10 @@
       },
       "major": {
         "raw": "1、电子电气、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电子电气、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5233,7 +5363,8 @@
       },
       "major": {
         "raw": "1、电子、自动化、电气等电类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5315,7 +5446,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械、电气等相关工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5399,7 +5531,10 @@
       },
       "major": {
         "raw": "1、计算机科学与技术、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学与技术、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5481,7 +5616,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5564,7 +5700,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5644,7 +5781,10 @@
       },
       "major": {
         "raw": "1、财务、会计等相关专业优先，专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业知识扎实"
+        ]
       },
       "language": {
         "raw": "",

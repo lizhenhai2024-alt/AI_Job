@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "学历背景：2026/2027届本科及以上学历，专业不限，国际经济与贸易、电子商务、市场营销、外语及小语种类、车辆工程、统计学等相关专业优先；；语言要求：英语CET-6及以上，能熟练用于工作沟通，掌握德语、法语、西班牙语、葡萄牙语等第二外语者优先；",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历背景：2026/2027届本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、葡萄牙语",
@@ -115,7 +118,8 @@
       },
       "major": {
         "raw": "2026/2027届本科及以上学历，专业不限，国际经济与贸易、电子商务、市场营销、外语及小语种类、车辆工程、统计学等相关专业优先；英语CET-6及以上，能熟练用于工作沟通，掌握德语、法语、西班牙语、葡萄牙语等第二外语者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、葡萄牙语",
@@ -213,7 +217,8 @@
       },
       "major": {
         "raw": "供应链管理、物流管理、工业工程、数据分析、数学、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -304,7 +309,8 @@
       },
       "major": {
         "raw": "专业不限，国际经济与贸易、电子商务、市场营销、外语及小语种类、车辆工程、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、葡萄牙语",
@@ -405,7 +411,8 @@
       },
       "major": {
         "raw": "专业不限，国际经济与贸易、电子商务、市场营销、外语及小语种类、车辆工程、统计学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、葡萄牙语",
@@ -502,7 +509,10 @@
       },
       "major": {
         "raw": "学历背景： 2027届本科及以上学历，专业不限；市场营销、广告传播、国际经济与贸易、电子商务、新闻传媒、外语、心理学、统计学等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历背景： 2027届本科及以上学历"
+        ]
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、葡萄牙语",
@@ -602,7 +612,8 @@
       },
       "major": {
         "raw": "国内外顶尖院校2026/2027届本科及以上学历的优秀毕业生，经济、金融、管理、国际商务等相关专业优先。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -690,7 +701,8 @@
       },
       "major": {
         "raw": "具备扎实的数理基础，逻辑思维能力突出，数学/统计学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -781,7 +793,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -870,7 +883,8 @@
       },
       "major": {
         "raw": "1. 基本条件 国内985/211或海外知名高校本科及以上学历，2024-2026年毕业，专业不限（计算机、数学、统计学、信息管理、理工科背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -964,7 +978,11 @@
       },
       "major": {
         "raw": "： ●学历背景：2026/2027届本科及以上，计算机、统计、运筹学、应用数学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "： ●学历背景：2026/2027届本科及以上",
+          "计算机、统计、运筹学、应用数学相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1056,7 +1074,10 @@
       },
       "major": {
         "raw": "● 英语CET-6及以上，计算机科学、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1149,7 +1170,11 @@
       },
       "major": {
         "raw": "： ●学历背景：2026/2027届本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "： ●学历背景：2026/2027届本科及以上学历",
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1240,7 +1265,10 @@
       },
       "major": {
         "raw": "2、英语CET-4及以上，计算机科学、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1327,7 +1355,11 @@
       },
       "major": {
         "raw": "● 学历背景：2026/2027届本科及以上，计算机科学、软件工程、人工智能、数据科学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "● 学历背景：2026/2027届本科及以上",
+          "计算机科学、软件工程、人工智能、数据科学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1419,7 +1451,11 @@
       },
       "major": {
         "raw": "： ●学历背景：2026/2027届本科及以上，计算机、大数据、统计相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "： ●学历背景：2026/2027届本科及以上",
+          "计算机、大数据、统计相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1506,7 +1542,8 @@
       },
       "major": {
         "raw": "1、27届及以后毕业的本科生/研究生/博士生（院校专业不限）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

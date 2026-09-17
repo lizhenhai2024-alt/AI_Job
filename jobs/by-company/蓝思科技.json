@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "需求专业：英语、朝鲜语、机械、材料、自动化、计算机等专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "需求专业：英语、朝鲜语、机械、材料、自动化、计算机等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -104,7 +107,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -190,7 +194,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机械、化学、物理、模具、材料、项目管理、工业工程、英语、国贸等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械、化学、物理、模具、材料、项目管理、工业工程、英语、国贸等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -276,7 +283,10 @@
       },
       "major": {
         "raw": "1、需求专业： 英语、管理类专业，本科及以上学历，985/211院校优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 英语、管理类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -368,7 +378,10 @@
       },
       "major": {
         "raw": "1、需求专业： 英语/中文/韩语/日语/项目管理等，越南语为母语",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 英语/中文/韩语/日语/项目管理等"
+        ]
       },
       "language": {
         "raw": "英语、日语、韩语、越南语",
@@ -456,7 +469,8 @@
       },
       "major": {
         "raw": "1、需求专业： 专业不限，机械/材料/物流/小语种专业优先，本科及以上学历",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语",
@@ -543,7 +557,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -632,7 +647,10 @@
       },
       "major": {
         "raw": "1、需求专业： 材料/微电子/光学，本科及以上学历，985/211院校优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 材料/微电子/光学"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -718,7 +736,10 @@
       },
       "major": {
         "raw": "1、需求专业：财务会计，有一定数据分析能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业：财务会计"
+        ]
       },
       "language": {
         "raw": "",
@@ -802,7 +823,11 @@
       },
       "major": {
         "raw": "1、需求专业： 物理/化学/材料/微纳加工/光学/光电/微电子/精密仪器等相关专业，硕士学历；③ 具备良好的英语读写能力，能够阅读专业技术文献",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 物理/化学/材料/微纳加工/光学/光电/微电子/精密仪器等相关专业",
+          "能够阅读专业技术文献"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -887,7 +912,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机械、计算机、电气、电子信息、机械、自动化专业，材料、物理、新能源、暖通、电力本科及以上学历，985/211院校学生优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械、计算机、电气、电子信息、机械、自动化专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -977,7 +1005,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机器人，自动化，控制工程，人工智能，计算机视觉，多模态大模型，硕士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机器人"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1066,7 +1097,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机械、英语、日语，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械、英语、日语"
+        ]
       },
       "language": {
         "raw": "英语、日语",
@@ -1152,7 +1186,11 @@
       },
       "major": {
         "raw": "1、需求专业： 本科及以上学历，电子、通信、自动化、测控、计算机、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 本科及以上学历",
+          "电子、通信、自动化、测控、计算机、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1237,7 +1275,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机械类、材料类、数据分析",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械类、材料类、数据分析"
+        ]
       },
       "language": {
         "raw": "",
@@ -1326,7 +1367,11 @@
       },
       "major": {
         "raw": "工作内容 ①根据专业方向划分，从事PE/PD/塑件/丝印/包装/蚀刻/抛光/陶瓷/金属/镀膜/CNC/激光/清洗/黄光/AG/加压/组装/贴合/冲切等工艺制程改善 ②负责样品阶段的异常跟进与处理、工艺设计及参数的验证与优化 ③参与新材料、新；1、需求专业： 机械/材料/化学/自动化/物理/电子信息/计算机/电气/光学/激光/印刷/模具/热力工程等专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工作内容 ①根据专业方向划分",
+          "1、需求专业： 机械/材料/化学/自动化/物理/电子信息/计算机/电气/光学/激光/印刷/模具/热力工程等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1413,7 +1458,10 @@
       },
       "major": {
         "raw": "1、需求专业： 材料、微电子、光学专业，博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 材料、微电子、光学专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1499,7 +1547,10 @@
       },
       "major": {
         "raw": "1、需求专业： 材料、物理、化学、机械、计算机博士学历、具备脆性材料相关研发项目",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 材料、物理、化学、机械、计算机博士学历、具备脆性材料相关研发项目"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1584,7 +1635,11 @@
       },
       "major": {
         "raw": "1、需求专业： 光学/应用物理等理工科博士；③ 具备良好的英语读写能力，能够阅读专业技术文献",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 光学/应用物理等理工科博士",
+          "能够阅读专业技术文献"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1672,7 +1727,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机器人，自动化，控制工程，人工智能",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机器人"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1759,7 +1817,11 @@
       },
       "major": {
         "raw": "1、需求专业： 化学/材料/光学等理工科博士；③ 具备良好的英语读写能力，能够阅读专业技术文献",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 化学/材料/光学等理工科博士",
+          "能够阅读专业技术文献"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1846,7 +1908,10 @@
       },
       "major": {
         "raw": "1、需求专业： 信息技术、信息安全、软件工程、计算机、工业工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 信息技术、信息安全、软件工程、计算机、工业工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1931,7 +1996,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2014,7 +2080,10 @@
       },
       "major": {
         "raw": "1、需求专业：安全、消防、化学、环境、暖通、空调设计、建筑环境与能源应用工程、能源专业，本科学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业：安全、消防、化学、环境、暖通、空调设计、建筑环境与能源应用工程、能源专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2098,7 +2167,10 @@
       },
       "major": {
         "raw": "1、需求专业： 材料专业，硕士学历；2、素质要求: 沟通表达抗压能力强，中英文听说读写流畅，熟练使用材料分析常用软件，优先录用具有半导体 、CVD法长晶、MLCC背景的技术人员",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 材料专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2183,7 +2255,10 @@
       },
       "major": {
         "raw": "1、需求专业： 计算机、通信、电子信息、具身智能、机器人、自动驾驶、自动化专业，本科及以上学历，985/211院校毕业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 计算机、通信、电子信息、具身智能、机器人、自动驾驶、自动化专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2268,7 +2343,10 @@
       },
       "major": {
         "raw": "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程"
+        ]
       },
       "language": {
         "raw": "",
@@ -2354,7 +2432,11 @@
       },
       "major": {
         "raw": "1、需求专业： 电气工程，自动化，电子信息、计算机专业，本科及以上学历，985/211学生优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 电气工程",
+          "电子信息、计算机专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2441,7 +2523,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2526,7 +2609,10 @@
       },
       "major": {
         "raw": "1、需求专业：机械、自动化、材料专业，本科学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业：机械、自动化、材料专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2608,7 +2694,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机械、自动化、热能、电子信息、测控、物理、化学、数学、电气自动化等专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械、自动化、热能、电子信息、测控、物理、化学、数学、电气自动化等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2691,7 +2780,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2773,7 +2863,10 @@
       },
       "major": {
         "raw": "1、需求专业： 英语、机械、电子专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 英语、机械、电子专业"
+        ]
       },
       "language": {
         "raw": "英语、越南语",
@@ -2862,7 +2955,11 @@
       },
       "major": {
         "raw": "1、需求专业： 机械/自动化/IT专业；2、素质要求: ①沟通表达抗压能力强， ②中英文听说读写流畅，越南语为母语 ③光学、电子机械，自动化、工业机器人、计算机专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械/自动化/IT专业",
+          "自动化、工业机器人、计算机专业"
+        ]
       },
       "language": {
         "raw": "英语、越南语",
@@ -2953,7 +3050,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机械、自动化专业，本科学历，一本院校优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械、自动化专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3038,7 +3138,10 @@
       },
       "major": {
         "raw": "1、需求专业 机械、模具、材料成型专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业 机械、模具、材料成型专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3120,7 +3223,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3200,7 +3304,11 @@
       },
       "major": {
         "raw": "1、需求专业： 结构力学，工程力学等相关专业，硕士及以上学历，精通非线性材料力学分析",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 结构力学",
+          "工程力学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3282,7 +3390,11 @@
       },
       "major": {
         "raw": "1、需求专业： 机械，电子，电气，自动化，计算机专业，本科学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械",
+          "计算机专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3367,7 +3479,10 @@
       },
       "major": {
         "raw": "1、需求专业： 材料、机械、电子专业，本科及以上学历，优先英语听说读写流利者",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 材料、机械、电子专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3449,7 +3564,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机械类/材料类/电子信息/工业工程/电气/自动化/印刷/智能制造专业，本科学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械类/材料类/电子信息/工业工程/电气/自动化/印刷/智能制造专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3534,7 +3652,10 @@
       },
       "major": {
         "raw": "1、需求专业： 机械、电子、控制专业，博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机械、电子、控制专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3620,7 +3741,11 @@
       },
       "major": {
         "raw": "1、需求专业： 机器人，自动化，控制工程，人工智能，计算机视觉，多模态大模型专业，博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 机器人",
+          "多模态大模型专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3706,7 +3831,10 @@
       },
       "major": {
         "raw": "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程"
+        ]
       },
       "language": {
         "raw": "",
@@ -3792,7 +3920,8 @@
       },
       "major": {
         "raw": "1、素质要求: ①沟通表达抗压能力强， ②中韩或中英文听说读写流畅 ③专业不限，越南语为母语",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、越南语",

@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -99,7 +100,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -182,7 +184,10 @@
       },
       "major": {
         "raw": "1. 具备生物信息学、计算生物学或相关领域知识背景，博士学历，项目经验中有 负责计算机辅助/AI驱动的抗体设计与优化经历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 具备生物信息学、计算生物学或相关领域知识背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -269,7 +274,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -351,7 +357,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -436,7 +443,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -522,7 +530,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、生物医学工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、软件工程、人工智能、自动化、生物医学工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -612,7 +623,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -696,7 +708,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -778,7 +791,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -861,7 +875,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，生物、化学、食品等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "生物、化学、食品等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -941,7 +958,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1024,7 +1042,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1106,7 +1125,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1187,7 +1207,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1267,7 +1288,10 @@
       },
       "major": {
         "raw": "1. 硕士学历，计算机科学与技术、软件工程、生物医学工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、软件工程、生物医学工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1349,7 +1373,10 @@
       },
       "major": {
         "raw": "电子、自动化、 生物医学工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、自动化、 生物医学工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1433,7 +1460,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1515,7 +1543,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

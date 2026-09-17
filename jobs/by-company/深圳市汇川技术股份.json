@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "电气、机械、自动化、工业工程、物流管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气、机械、自动化、工业工程、物流管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -100,7 +103,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -185,7 +189,8 @@
       },
       "major": {
         "raw": "1、2027年应届本科及以上毕业生，电气、机械、自动化、电子等理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -268,7 +273,8 @@
       },
       "major": {
         "raw": "1、2027年应届本科及以上毕业生，电气、机械、自动化、电子等理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -352,7 +358,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历应届毕业生，专业以工科类为主，如自动化、电气工程、机械工程、计算机等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业以工科类为主"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -448,7 +457,10 @@
       },
       "major": {
         "raw": "1. 2027届本科及以上学历毕业生，电气自动化等相关工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气自动化等相关工科专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -531,7 +543,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、俄语、韩语、意大利语、泰语、越南语",
@@ -616,7 +629,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、法语、俄语、意大利语、泰语、越南语",
@@ -701,7 +715,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -783,7 +798,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -865,7 +881,8 @@
       },
       "major": {
         "raw": "1、2027年应届本科及以上毕业生，电气、机械、自动化、电子等理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -947,7 +964,8 @@
       },
       "major": {
         "raw": "1. 2027年应届本科毕业生，电气、机械、自动化、电子等理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1031,7 +1049,8 @@
       },
       "major": {
         "raw": "1. 2027年应届本科毕业生，电气、机械、自动化、电子等理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1116,7 +1135,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

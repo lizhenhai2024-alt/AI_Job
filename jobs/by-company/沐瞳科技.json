@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "2027届本科及以上学历，英语听说读写能力优秀，可作为工作语言",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -115,7 +116,8 @@
       },
       "major": {
         "raw": "2027届本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -211,7 +213,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -306,7 +309,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、俄语",
@@ -401,7 +405,10 @@
       },
       "major": {
         "raw": "2027届本科及以上学历，优秀的英语听说读写能力；优先考虑：a）对Facebook、Youtube、Twitter等平台比较熟悉，b）市场营销/广告/新闻传播等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "b）市场营销/广告/新闻传播等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -499,7 +506,8 @@
       },
       "major": {
         "raw": "本科及以上学历毕业生，新闻学、传播学、广告学、出版等相关专业优先考虑。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -594,7 +602,8 @@
       },
       "major": {
         "raw": "本科及以上学历，2027 届毕业生，金融、经济、计算机、数据、统计、国际贸易等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -695,7 +704,8 @@
       },
       "major": {
         "raw": "2027届本科及以上学历，八大美院及海外艺术院校加分，英语听说读写能力加分。；视觉传达/影视/广告等专业加分。",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -792,7 +802,10 @@
       },
       "major": {
         "raw": "2027届本科及以上学历；优先考虑：a）对Facebook、Youtube、Twitter等平台比较熟悉，b）市场营销/广告/新闻传播等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "b）市场营销/广告/新闻传播等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -889,7 +902,8 @@
       },
       "major": {
         "raw": "2027届获得大学本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -981,7 +995,8 @@
       },
       "major": {
         "raw": "1、2027届拥有本科及以上学历，专业为计算机或统计学相关优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1066,7 +1081,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，市场营销、新闻传播、数字媒体相关优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1155,7 +1171,8 @@
       },
       "major": {
         "raw": "1.2027届本科及以上学历，计算机、软件、自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1250,7 +1267,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，供应链管理、市场营销、广告传播、数字媒体、设计管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1344,7 +1362,8 @@
       },
       "major": {
         "raw": "1.2027届应届毕业生，本科及以上学历，专业不限（人力资源、心理学、教育学等相关专业优先）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1436,7 +1455,10 @@
       },
       "major": {
         "raw": "9、项目管理、自动化、电子信息、计算机、软件工程等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "9、项目管理、自动化、电子信息、计算机、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1525,7 +1547,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，繁中母语者或同等水平，英语CET-6或同等水平",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1616,7 +1639,11 @@
       },
       "major": {
         "raw": "1. 大学本科英语专业及以上学历，或罗曼语族、日耳曼语族语言专业及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 大学本科英语专业及以上学历",
+          "或罗曼语族、日耳曼语族语言专业及以上学历"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1711,7 +1738,10 @@
       },
       "major": {
         "raw": "1.2027届本科及以上学历，优秀的英语听说读写能力；5.优先考虑：a）对Facebook、Youtube、Twitter等平台比较熟悉，b）市场营销/广告/新闻传播等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "b）市场营销/广告/新闻传播等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1807,7 +1837,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1896,7 +1927,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，计算机、数学、统计学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1988,7 +2020,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2071,7 +2104,10 @@
       },
       "major": {
         "raw": "1、理工科或管理相关专业背景",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、理工科或管理相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -2163,7 +2199,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2253,7 +2290,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2339,7 +2377,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2427,7 +2466,10 @@
       },
       "major": {
         "raw": "1. 大学本科及以上学历，专业不限；5. 外语专业，有广告投放或数据分析的相关实习优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "5. 外语专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2520,7 +2562,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2608,7 +2651,8 @@
       },
       "major": {
         "raw": "计算机、软件工程、电子信息、供应链管理、经济管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2701,7 +2745,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2793,7 +2838,8 @@
       },
       "major": {
         "raw": "1.大学本科或研究生在读，游戏设计、数学、经济学，计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2879,7 +2925,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2964,7 +3011,10 @@
       },
       "major": {
         "raw": "1. 学历与专业：2027届本科及以上学历，计算机、软件工程、数据科学、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历与专业：2027届本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -3057,7 +3107,10 @@
       },
       "major": {
         "raw": "1.面向2027届毕业生，计算机、软件工程、人工智能、交互设计、信息管理、语言、本地化、游戏及相关专业优先，专业不是硬性限制",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业不是硬性限制"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3155,7 +3208,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、人工智能、软件工程、交互设计、信息管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3246,7 +3300,8 @@
       },
       "major": {
         "raw": "1.大学本科或研究生，游戏设计、数学、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3333,7 +3388,10 @@
       },
       "major": {
         "raw": "2.硬核技术底子：计算机或相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.硬核技术底子：计算机或相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -3424,7 +3482,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3514,7 +3573,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "日语",
@@ -3601,7 +3661,10 @@
       },
       "major": {
         "raw": "1. 计算机、软件工程、人工智能等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3690,7 +3753,10 @@
       },
       "major": {
         "raw": "1. 2027届毕业生，计算机、软件工程、数据科学、统计学等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、数据科学、统计学等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -3781,7 +3847,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3865,7 +3932,8 @@
       },
       "major": {
         "raw": "1. 2027届本科及以上学历，计算机、软件工程、人工智能、信息安全、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3957,7 +4025,8 @@
       },
       "major": {
         "raw": "1. 2027届应届毕业生，本科及以上学历，专业不限，人力资源、心理学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4042,7 +4111,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，面向27届毕业生，专业不限（人力资源/心理学相关专业可优先考虑，有互联网/游戏行业HR实习工作经验更佳）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4129,7 +4199,10 @@
       },
       "major": {
         "raw": "1. 计算机、数字媒体技术、美术、设计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 计算机、数字媒体技术、美术、设计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4219,7 +4292,8 @@
       },
       "major": {
         "raw": "1. 2027届本科及以上学历，计算机、软件工程、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4302,7 +4376,8 @@
       },
       "major": {
         "raw": "1.本科或研究生，专业不限，具备严密的逻辑思维与开放灵动的设计创意",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4386,7 +4461,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4467,7 +4543,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4548,7 +4625,8 @@
       },
       "major": {
         "raw": "1.本科或研究生，专业不限，具备严密的逻辑思维与开放灵动的设计创意",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4633,7 +4711,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4718,7 +4797,8 @@
       },
       "major": {
         "raw": "1. 2027届获得大学本科及以上学历，游戏设计、计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4801,7 +4881,8 @@
       },
       "major": {
         "raw": "1. 2027届获得大学本科及以上学历，游戏设计、计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4884,7 +4965,8 @@
       },
       "major": {
         "raw": "1. 2027 届本科及以上学历应届毕业生，专业不限，游戏设计、数字媒体、计算机、数学、统计学相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4969,7 +5051,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5052,7 +5135,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5135,7 +5221,10 @@
       },
       "major": {
         "raw": "1、全日制本科及以上学历，计算机科学、软件工程及相关专业，具备扎实的计算机基础和良好的编程能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程及相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5223,7 +5312,10 @@
       },
       "major": {
         "raw": "1. 大学本科或研究生在读，计算机科学、人工智能、软件工程或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、软件工程或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5308,7 +5400,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5395,7 +5488,10 @@
       },
       "major": {
         "raw": "1、全日制本科及以上学历，计算机科学、软件工程及相关专业，具备扎实的计算机基础与良好的编程能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程及相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5483,7 +5579,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5563,7 +5660,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5645,7 +5743,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5725,7 +5824,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5811,7 +5911,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历在校生，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5900,7 +6003,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5985,7 +6089,8 @@
       },
       "major": {
         "raw": "1. 专业不限，计算机、软件工程、信息管理类优先，本科或以上学历",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6074,7 +6179,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历在读，计算机/信息安全等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机/信息安全等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6158,7 +6266,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、软件工程、人工智能、游戏开发等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6245,7 +6354,8 @@
       },
       "major": {
         "raw": "1. 本科在读，计算机、数字媒体技术、游戏开发、动画、图形学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6332,7 +6442,10 @@
       },
       "major": {
         "raw": "1.全日制本科以上学历，AI、计算机、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "AI、计算机、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6417,7 +6530,8 @@
       },
       "major": {
         "raw": "1. 2027届获得大学本科、硕士及以上学历，计算机、人工智能、统计学等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6504,7 +6618,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6586,7 +6701,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6667,7 +6783,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6749,7 +6866,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6832,7 +6950,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6914,7 +7033,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6995,7 +7115,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7075,7 +7196,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7156,7 +7278,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7237,7 +7360,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7318,7 +7442,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7401,7 +7526,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，艺术院系科班在读，数字媒体、动画、计算机图形、游戏设计相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "数字媒体、动画、计算机图形、游戏设计相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7485,7 +7613,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7566,7 +7695,8 @@
       },
       "major": {
         "raw": "4.计算机，数学相关专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7650,7 +7780,8 @@
       },
       "major": {
         "raw": "1.2027届本科及以上，游戏设计、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7733,7 +7864,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、泰语、越南语",
@@ -7813,7 +7945,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",

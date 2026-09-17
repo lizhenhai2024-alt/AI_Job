@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "专业不限，具备较强的学习意愿，能快速理解技术产品逻辑，看懂基本技术文档",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语、韩语、阿拉伯语",
@@ -116,7 +117,10 @@
       },
       "major": {
         "raw": "本科及以上学历，人力资源管理、工商管理、心理学、行政管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人力资源管理、工商管理、心理学、行政管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -199,7 +203,10 @@
       },
       "major": {
         "raw": "1. 车辆工程、机械工程、电气工程或相关专业本科及以上学历，2027 届应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 车辆工程、机械工程、电气工程或相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -283,7 +290,10 @@
       },
       "major": {
         "raw": "1. 硕士学历，会计学、财务管理、审计学、税收学、财务会计等财务相关专业，2027 届应届生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学、财务管理、审计学、税收学、财务会计等财务相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -365,7 +375,10 @@
       },
       "major": {
         "raw": "1. 2027 届，计算机、测绘、自动化、数学、地图导航等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、测绘、自动化、数学、地图导航等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -448,7 +461,10 @@
       },
       "major": {
         "raw": "1. 2027 届，计算机、自动化、运筹优化、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、自动化、运筹优化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -534,7 +550,10 @@
       },
       "major": {
         "raw": "1. 2027 届本科及以上，计算机、软件相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件相关专业"
+        ]
       },
       "language": {
         "raw": "英语",

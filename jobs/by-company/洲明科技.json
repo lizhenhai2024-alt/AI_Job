@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -108,7 +109,10 @@
       },
       "major": {
         "raw": "本科及以上，光电信息、光学工程、电子信息、电子科学与技术、机械等相关工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "光电信息、光学工程、电子信息、电子科学与技术、机械等相关工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -201,7 +205,11 @@
       },
       "major": {
         "raw": "方向一： 1、理工科专业。；方向二： 1、本科及以上，工商管理、商务英语等相关专业优先； 2、能熟练运用办公软件（EXCEl、WORD、PPT）。",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "方向一： 1、理工科专业",
+          "方向二： 1、本科及以上"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -289,7 +297,8 @@
       },
       "major": {
         "raw": "1、工商管理、商务英语等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -375,7 +384,10 @@
       },
       "major": {
         "raw": "1. 26届校招生，全日制本科及以上，电子、结构、软件或光学材料等理工类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、结构、软件或光学材料等理工类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -463,7 +475,8 @@
       },
       "major": {
         "raw": "1、会计专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -555,7 +568,10 @@
       },
       "major": {
         "raw": "1、理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -642,7 +658,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，小语种/理工科（英语可以作为工作语言）专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -736,7 +753,8 @@
       },
       "major": {
         "raw": "1、物流管理、国际贸易等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -825,7 +843,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -909,7 +928,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -991,7 +1011,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1074,7 +1095,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1158,7 +1180,10 @@
       },
       "major": {
         "raw": "1、理工科/营销相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、理工科/营销相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1243,7 +1268,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1325,7 +1351,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1407,7 +1434,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1491,7 +1519,10 @@
       },
       "major": {
         "raw": "1、计算机科学与技术、软件工程、信息工程等相关专业应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机科学与技术、软件工程、信息工程等相关专业应届毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -1576,7 +1607,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1666,7 +1698,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1746,7 +1779,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1827,7 +1861,8 @@
       },
       "major": {
         "raw": "1.材料\\机械与光电、热学交叉等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1907,7 +1942,10 @@
       },
       "major": {
         "raw": "1、工业工程、机械工程、管理科学与工程等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、工业工程、机械工程、管理科学与工程等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -1993,7 +2031,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2071,7 +2110,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

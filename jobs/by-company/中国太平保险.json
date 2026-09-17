@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -103,7 +104,8 @@
       },
       "major": {
         "raw": "硕士及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -184,7 +186,10 @@
       },
       "major": {
         "raw": "本科及以上学历，保险、金融、市场营销、工商管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "保险、金融、市场营销、工商管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -270,7 +275,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；金融类、新闻类、保险类等专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -357,7 +363,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -444,7 +451,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -529,7 +537,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；专业不限；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -615,7 +624,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -702,7 +712,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；保险类、金融类、工商管理类专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -786,7 +797,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -870,7 +882,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -955,7 +968,8 @@
       },
       "major": {
         "raw": "本科及以上学历学位，专业不限，金融类专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1040,7 +1054,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1121,7 +1136,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1204,7 +1220,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历并取得相应学位，保险、金融类等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1290,7 +1307,10 @@
       },
       "major": {
         "raw": "本科及以上学历；法学、英语、医学、土木、建筑、数学、保险等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "法学、英语、医学、土木、建筑、数学、保险等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1379,7 +1399,8 @@
       },
       "major": {
         "raw": "本科及以上学历；专业不限，金融保险类优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1467,7 +1488,10 @@
       },
       "major": {
         "raw": "本科及以上应届毕业生，金融学、保险学、经济学、理学、车辆工程、汽车服务工程、医学、工学等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融学、保险学、经济学、理学、车辆工程、汽车服务工程、医学、工学等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1554,7 +1578,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1636,7 +1661,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1721,7 +1747,8 @@
       },
       "major": {
         "raw": "本科及以上学历；专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1808,7 +1835,10 @@
       },
       "major": {
         "raw": "经济学类、管理学类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "经济学类、管理学类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1892,7 +1922,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1977,7 +2008,8 @@
       },
       "major": {
         "raw": "本科及以上学历，保险、金融、经济等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2062,7 +2094,8 @@
       },
       "major": {
         "raw": "本科及以上学历，金融学类（主要为金融数学、精算学）、数学类、统计学类",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2144,7 +2177,8 @@
       },
       "major": {
         "raw": "本科及以上学历；专业不限，金融保险类优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2230,7 +2264,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2314,7 +2349,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2395,7 +2431,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2477,7 +2514,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历并取得相应学位",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2563,7 +2601,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2645,7 +2684,8 @@
       },
       "major": {
         "raw": "统招硕士研究生及以上学历，统计、金融、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2729,7 +2769,10 @@
       },
       "major": {
         "raw": "统招硕士研究生及以上学历，医学、统计学、保险、金融、数学等相关专业。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "医学、统计学、保险、金融、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2812,7 +2855,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2894,7 +2938,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2974,7 +3019,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3056,7 +3102,8 @@
       },
       "major": {
         "raw": "本科及以上学历，相关专业优先，有学生会/社团经验优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3142,7 +3189,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3223,7 +3271,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3304,7 +3353,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3384,7 +3434,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3465,7 +3516,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；专业不限，金融、保险、市场营销等相关专业优先考虑；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3547,7 +3599,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3631,7 +3684,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；专业不限，金融保险类优先考虑；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3716,7 +3770,8 @@
       },
       "major": {
         "raw": "专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3801,7 +3856,10 @@
       },
       "major": {
         "raw": "本科及以上应届毕业生，金融学、保险学、工商管理、经济学、数学、统计学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融学、保险学、工商管理、经济学、数学、统计学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3887,7 +3945,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；金融保险类专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3972,7 +4031,10 @@
       },
       "major": {
         "raw": "本科及以上学历，法学、医学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "法学、医学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4058,7 +4120,10 @@
       },
       "major": {
         "raw": "机械、自动化、工程、医学类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械、自动化、工程、医学类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4140,7 +4205,8 @@
       },
       "major": {
         "raw": "本科及以上学历，保险学、金融学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4224,7 +4290,10 @@
       },
       "major": {
         "raw": "本科以上学历，管理科学类",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "管理科学类"
+        ]
       },
       "language": {
         "raw": "",
@@ -4307,7 +4376,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；保险学、经济学、金融学等相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4389,7 +4459,10 @@
       },
       "major": {
         "raw": "本科以上学历，管理科学与工程类、农业工程类",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "管理科学与工程类、农业工程类"
+        ]
       },
       "language": {
         "raw": "",
@@ -4474,7 +4547,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；专业不限，金融保险类优先考虑；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4556,7 +4630,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；医学类、护理类、法学、车辆工程、精算学、保险学、农业类专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4643,7 +4718,10 @@
       },
       "major": {
         "raw": "经济学类、理学类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "经济学类、理学类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4725,7 +4803,8 @@
       },
       "major": {
         "raw": "本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4809,7 +4888,8 @@
       },
       "major": {
         "raw": "本科及以上学历；；专业不限，金融保险类专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4895,7 +4975,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4978,7 +5059,10 @@
       },
       "major": {
         "raw": "1、本科学历及以上 2、数学类、金融学类、工商管理类等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、本科学历及以上 2、数学类、金融学类、工商管理类等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5063,7 +5147,8 @@
       },
       "major": {
         "raw": "本科及以上学历，金融学类（主要为保险学、金融数学、精算学）、数学类、统计学类、医学类、农林牧渔类专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5146,7 +5231,10 @@
       },
       "major": {
         "raw": "本科及以上学历，医学、保险、法学、工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "医学、保险、法学、工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5229,7 +5317,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5307,7 +5396,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5390,7 +5480,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5473,7 +5564,8 @@
       },
       "major": {
         "raw": "大学本科及以上学历；；专业不限，金融保险类优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5557,7 +5649,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、印尼语",
@@ -5641,7 +5734,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5727,7 +5821,8 @@
       },
       "major": {
         "raw": "1.大学本科及以上学历，机器学习、深度学习、人工智能、数据挖掘、统计学专业、计算机专业等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5816,7 +5911,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5897,7 +5993,10 @@
       },
       "major": {
         "raw": "1、硕士研究生及以上学历，财务、金融、经济等相关专业，985/211财经类院校优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务、金融、经济等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5984,7 +6083,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6067,7 +6167,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6148,7 +6249,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6229,7 +6331,8 @@
       },
       "major": {
         "raw": "1.统招本科及以上学历，金融保险、工学、医学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6315,7 +6418,8 @@
       },
       "major": {
         "raw": "2.专业不限，金融、保险、数学等相关专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6399,7 +6503,8 @@
       },
       "major": {
         "raw": "2.法学、医学等相关专业优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6483,7 +6588,8 @@
       },
       "major": {
         "raw": "2.专业不限，金融保险类优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6567,7 +6673,8 @@
       },
       "major": {
         "raw": "2.专业不限，金融保险类优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6650,7 +6757,10 @@
       },
       "major": {
         "raw": "2.计算机、软件开发等相关专业优先；3.具备计算机、各类IT设备维修的专业能力",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.具备计算机、各类IT设备维修的专业能力"
+        ]
       },
       "language": {
         "raw": "",
@@ -6737,7 +6847,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，金融学类、统计学类、数学类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6827,7 +6938,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6911,7 +7023,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6996,7 +7109,8 @@
       },
       "major": {
         "raw": "2.专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7079,7 +7193,10 @@
       },
       "major": {
         "raw": "2、金融学类、法学类、临床医学类等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、金融学类、法学类、临床医学类等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7163,7 +7280,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7244,7 +7362,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，金融学类（主要为保险学、金融数学、精算学）、数学类、统计学类等专业类别优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7328,7 +7447,10 @@
       },
       "major": {
         "raw": "2.本科及以上应届毕业生，土木学、机械类、工程类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "土木学、机械类、工程类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7413,7 +7535,8 @@
       },
       "major": {
         "raw": "1、应届本科及以上学历，金融学类、经济学类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7497,7 +7620,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7578,7 +7702,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7658,7 +7783,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，医学类、法学类、经济学类、工学类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "医学类、法学类、经济学类、工学类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7742,7 +7870,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7823,7 +7952,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7905,7 +8035,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -7988,7 +8119,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8071,7 +8203,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8154,7 +8287,8 @@
       },
       "major": {
         "raw": "2.专业不限，金融保险类优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8240,7 +8374,11 @@
       },
       "major": {
         "raw": "3. 经营合规支撑：参与分公司重大经济活动及各项重点工作，核查业务合法合规性，出具专业法律意见，防控经营法律风险；1.本科及以上学历，法学、文学类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "出具专业法律意见",
+          "法学、文学类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8327,7 +8465,10 @@
       },
       "major": {
         "raw": "1、统招硕士研究生及以上学历，财务管理、会计学、统计学、保险、金融、数学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务管理、会计学、统计学、保险、金融、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8413,7 +8554,10 @@
       },
       "major": {
         "raw": "1.统招硕士研究生及以上学历，法学、金融学、管理学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "法学、金融学、管理学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8495,7 +8639,10 @@
       },
       "major": {
         "raw": "1、硕士研究生及以上学历，金融、数学、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、数学、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8581,7 +8728,10 @@
       },
       "major": {
         "raw": "1、211/985或海外知名院校硕士及以上学历，应当具有法律专业背景或者通过法律职业资格考试",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "应当具有法律专业背景或者通过法律职业资格考试"
+        ]
       },
       "language": {
         "raw": "",
@@ -8669,7 +8819,11 @@
       },
       "major": {
         "raw": "1、教育背景：国内外顶尖高校（985/QSC9）硕士及以上学历，计算机、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、教育背景：国内外顶尖高校（985/QSC9）硕士及以上学历",
+          "计算机、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8753,7 +8907,8 @@
       },
       "major": {
         "raw": "1.中共党员，2027届毕业生，本科及以上学历，马克思主义理论类、管理学、经济学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8835,7 +8990,8 @@
       },
       "major": {
         "raw": "2.专业不限，金融保险类优先考虑",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8920,7 +9076,10 @@
       },
       "major": {
         "raw": "2、本科及以上应届毕业生，法学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "法学相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9002,7 +9161,8 @@
       },
       "major": {
         "raw": "1.计算机、软件工程、信息管理、自动化、大数据等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9090,7 +9250,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9174,7 +9335,10 @@
       },
       "major": {
         "raw": "2.财务、会计、税务、统计相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.财务、会计、税务、统计相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9261,7 +9425,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，法学、金融等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "法学、金融等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9341,7 +9508,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9424,7 +9592,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9507,7 +9676,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9590,7 +9760,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9673,7 +9844,10 @@
       },
       "major": {
         "raw": "1.法学、金融学、经济学、保险学、管理学等相关专业，全日制本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.法学、金融学、经济学、保险学、管理学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9755,7 +9929,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9836,7 +10011,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9916,7 +10092,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9998,7 +10175,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10076,7 +10254,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，相关专业优先，有金融行业实习经验者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10160,7 +10339,10 @@
       },
       "major": {
         "raw": "1.财务会计专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.财务会计专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -10240,7 +10422,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10320,7 +10503,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10401,7 +10585,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10479,7 +10664,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10559,7 +10745,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机科学、人工智能、信息安全、网络工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、信息安全、网络工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -10646,7 +10835,8 @@
       },
       "major": {
         "raw": "2.专业不限，法律专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10726,7 +10916,8 @@
       },
       "major": {
         "raw": "1.应届本科、硕士、博士毕业生，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10808,7 +10999,10 @@
       },
       "major": {
         "raw": "2.计算机、软件开发等相关专业优先；3.具备计算机、各类IT设备维修的专业能力",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.具备计算机、各类IT设备维修的专业能力"
+        ]
       },
       "language": {
         "raw": "",
@@ -10894,7 +11088,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10976,7 +11171,10 @@
       },
       "major": {
         "raw": "2.本科及以上应届毕业生，会计学、财务管理、财政学等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学、财务管理、财政学等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11058,7 +11256,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11138,7 +11337,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11222,7 +11422,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11305,7 +11506,10 @@
       },
       "major": {
         "raw": "1.硕士研究生学历，人工智能、计算机、软件工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人工智能、计算机、软件工程相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11392,7 +11596,10 @@
       },
       "major": {
         "raw": "1.计算机、大数据相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、大数据相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11480,7 +11687,10 @@
       },
       "major": {
         "raw": "1.本科及以上，软件工程或计算机、数学等相关专业，有IT相关实习经验的优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "软件工程或计算机、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11569,7 +11779,10 @@
       },
       "major": {
         "raw": "1.计算机相关专业，本科及以上学历，熟练掌握Office办公软件，具备出色的文档撰写与信息整编能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11653,7 +11866,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，医学、保险、法学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11739,7 +11953,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11822,7 +12037,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11903,7 +12119,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11984,7 +12201,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12067,7 +12285,10 @@
       },
       "major": {
         "raw": "1.本科或以上学历，计算机科学、人工智能、应用数学、统计学等相关专业毕业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、应用数学、统计学等相关专业毕业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12154,7 +12375,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，保险、金融、软件工程、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "保险、金融、软件工程、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12239,7 +12463,10 @@
       },
       "major": {
         "raw": "2.计算机科学与技术、软件工程、大数据技术、信息管理与信息系统、网络工程、通信工程、自动化等信息化相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.计算机科学与技术、软件工程、大数据技术、信息管理与信息系统、网络工程、通信工程、自动化等信息化相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12324,7 +12551,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机科学与技术、软件工程、统计学、数学等相关专业优先；具备扎实的计算机专业基础，无挂科、学习成绩良好优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "具备扎实的计算机专业基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -12411,7 +12641,10 @@
       },
       "major": {
         "raw": "2.计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12493,7 +12726,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12576,7 +12810,10 @@
       },
       "major": {
         "raw": "1.计算机、网络工程、通信工程等相关专业领域本科及以上，具备一定的计算机科学理论基础和实践经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、网络工程、通信工程等相关专业领域本科及以上"
+        ]
       },
       "language": {
         "raw": "",
@@ -12658,7 +12895,10 @@
       },
       "major": {
         "raw": "1.计算机、网络工程、通信工程等相关专业领域本科及以上，具备一定的计算机科学理论基础和实践经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、网络工程、通信工程等相关专业领域本科及以上"
+        ]
       },
       "language": {
         "raw": "",
@@ -12740,7 +12980,10 @@
       },
       "major": {
         "raw": "1.计算机、网络工程、通信工程等相关专业领域本科及以上，具备一定的计算机科学理论基础和实践经验",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、网络工程、通信工程等相关专业领域本科及以上"
+        ]
       },
       "language": {
         "raw": "",
@@ -12822,7 +13065,10 @@
       },
       "major": {
         "raw": "1.计算机科学或相关专业，本科及以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机科学或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12902,7 +13148,10 @@
       },
       "major": {
         "raw": "1.计算机、通信专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、通信专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -12982,7 +13231,8 @@
       },
       "major": {
         "raw": "1.计算机科学或相关领域本科及以上，具备一定的计算机科学理论基础和实践经验",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13068,7 +13318,8 @@
       },
       "major": {
         "raw": "1.计算机、电子信息或相关领域本科及以上",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13150,7 +13401,10 @@
       },
       "major": {
         "raw": "1.计算机、软件工程、通信、电子信息、自动化等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、软件工程、通信、电子信息、自动化等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -13233,7 +13487,10 @@
       },
       "major": {
         "raw": "1.计算机、软件工程、通信、电子信息、自动化等相关专业本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、软件工程、通信、电子信息、自动化等相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -13316,7 +13573,10 @@
       },
       "major": {
         "raw": "1.本科及以上，软件工程或计算机、数学等相关专业，有IT相关实习经验的优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "软件工程或计算机、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13404,7 +13664,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13487,7 +13748,10 @@
       },
       "major": {
         "raw": "1.本科应届毕业生，计算机、软件工程、信息技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、信息技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13577,7 +13841,10 @@
       },
       "major": {
         "raw": "1.本科及以上应届毕业生，计算机、软件工程、信息技术、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、信息技术、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13661,7 +13928,10 @@
       },
       "major": {
         "raw": "1.计算机、信息管理或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机、信息管理或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13747,7 +14017,10 @@
       },
       "major": {
         "raw": "1.计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13831,7 +14104,10 @@
       },
       "major": {
         "raw": "1.计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13919,7 +14195,11 @@
       },
       "major": {
         "raw": "1、本科以上学历，财务、信息系统或计算机相关专业；2、专业知识扎实，具有财务和信息系统复合知识的优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务、信息系统或计算机相关专业",
+          "2、专业知识扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -14005,7 +14285,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14087,7 +14368,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14167,7 +14449,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14247,7 +14530,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14325,7 +14609,8 @@
       },
       "major": {
         "raw": "• 本科或以上学历，金融学、经济学、市场营销、新闻传播、中文等专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14412,7 +14697,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14495,7 +14781,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14573,7 +14860,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14651,7 +14939,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -14729,7 +15018,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，统计学、数学类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "统计学、数学类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14815,7 +15107,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14897,7 +15190,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14980,7 +15274,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，保险学、金融学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15069,7 +15364,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，金融学类（主要为保险学、金融数学、精算学）、数学类、统计学类、医学类等专业类别优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15154,7 +15450,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，精算、保险、数学、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "精算、保险、数学、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15239,7 +15538,8 @@
       },
       "major": {
         "raw": "1.本科及以上学历，金融学类、统计学类、数学类等相关专业背景优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15324,7 +15624,10 @@
       },
       "major": {
         "raw": "1.精算、统计等相关专业，硕士研究生学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.精算、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -15411,7 +15714,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，法律、法学、保险相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "法律、法学、保险相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15495,7 +15801,10 @@
       },
       "major": {
         "raw": "1、精算、金融、数学、统计等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、精算、金融、数学、统计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15579,7 +15888,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -15659,7 +15969,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

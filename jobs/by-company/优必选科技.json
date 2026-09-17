@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "硕士及以上学历，市场营销、广告学、新闻传播、工商管理、电子商务、自动化、机器人等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销、广告学、新闻传播、工商管理、电子商务、自动化、机器人等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -116,7 +119,10 @@
       },
       "major": {
         "raw": "硕士及以上学历，工程管理、项目管理、计算机、自动化、机器人、机械工程、工商管理等相关专业。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工程管理、项目管理、计算机、自动化、机器人、机械工程、工商管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -205,7 +211,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -286,7 +293,10 @@
       },
       "major": {
         "raw": "1、机械工程、电子工程、自动化或工业工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械工程、电子工程、自动化或工业工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -373,7 +383,10 @@
       },
       "major": {
         "raw": "1.会计、审计相关专业知识扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.会计、审计相关专业知识扎实"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -458,7 +471,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -543,7 +557,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -624,7 +639,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -711,7 +727,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -798,7 +815,10 @@
       },
       "major": {
         "raw": "0.专业要求：电子、信息工程、计算机、软件、自动化、机械电子、物理",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "0.专业要求：电子、信息工程、计算机、软件、自动化、机械电子、物理"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -886,7 +906,12 @@
       },
       "major": {
         "raw": "1. 学历专业：本科及以上学历，机械设计制造及其自动化、机械工程、机器人工程、精密仪器、机电一体化等相关专业；2. 专业基础：熟悉机械设计基础、齿轮传动原理、行星机构结构原理，了解精密减速器、机器人关节模组基本结构与工作原理，掌握公差配合、机械材料、机械加工工艺等核心基础知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历专业：本科及以上学历",
+          "机械设计制造及其自动化、机械工程、机器人工程、精密仪器、机电一体化等相关专业",
+          "2. 专业基础：熟悉机械设计基础、齿轮传动原理、行星机构结构原理"
+        ]
       },
       "language": {
         "raw": "",
@@ -979,7 +1004,11 @@
       },
       "major": {
         "raw": "1. 专业背景： 拥有计算机科学、人工智能、机器人仿真、三维重建、强化学习或相关领域的硕士或博士学位；4. 英语能力： 能够流利地阅读英文技术文献并进行专业交流",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 专业背景： 拥有计算机科学、人工智能、机器人仿真、三维重建、强化学习或相关领域的硕士或博士学位",
+          "4. 英语能力： 能够流利地阅读英文技术文献并进行专业交流"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1063,7 +1092,11 @@
       },
       "major": {
         "raw": "1. 专业背景： 拥有计算机视觉、人工智能、机器人学、电子工程或相关领域的硕士或博士学位；4. 英语能力： 能够流利地阅读英文技术文献并进行专业交流",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 专业背景： 拥有计算机视觉、人工智能、机器人学、电子工程或相关领域的硕士或博士学位",
+          "4. 英语能力： 能够流利地阅读英文技术文献并进行专业交流"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1152,7 +1185,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1233,7 +1267,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1312,7 +1347,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1393,7 +1429,10 @@
       },
       "major": {
         "raw": "专业方向：计算机视觉、3D视觉、机器人学",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：计算机视觉、3D视觉、机器人学"
+        ]
       },
       "language": {
         "raw": "",
@@ -1478,7 +1517,10 @@
       },
       "major": {
         "raw": "专业方向：机器人学、控制工程、AI/ML",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：机器人学、控制工程、AI/ML"
+        ]
       },
       "language": {
         "raw": "",
@@ -1561,7 +1603,10 @@
       },
       "major": {
         "raw": "专业方向：机械电子、控制工程、机器人学",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：机械电子、控制工程、机器人学"
+        ]
       },
       "language": {
         "raw": "",
@@ -1645,7 +1690,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1732,7 +1778,10 @@
       },
       "major": {
         "raw": "专业方向：机械工程、机电一体化、人机交互",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：机械工程、机电一体化、人机交互"
+        ]
       },
       "language": {
         "raw": "",
@@ -1817,7 +1866,10 @@
       },
       "major": {
         "raw": "专业方向：机械工程、机电一体化、机器人学",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：机械工程、机电一体化、机器人学"
+        ]
       },
       "language": {
         "raw": "",
@@ -1900,7 +1952,10 @@
       },
       "major": {
         "raw": "专业要求： 计算机、自动化、机器人、数学、认知科学等相关专业硕士及以上学历 深厚的机器学习理论功底，对自监督学习、表征学习、持续学习有深入研究 有强烈的学术好奇心，愿意探索 \"还没有答案\" 的问题 加分项： 有认知科学、发展心理学、神经科学",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求： 计算机、自动化、机器人、数学、认知科学等相关专业硕士及以上学历 深厚的机器学习理论功底"
+        ]
       },
       "language": {
         "raw": "",
@@ -1986,7 +2041,10 @@
       },
       "major": {
         "raw": "专业要求： 计算机、自动化、机器人、数学等相关专业硕士及以上学历 扎实的深度学习基础，精通 Transformer、扩散模型、世界模型等核心架构 至少有 1 篇顶会论文（ICML/NeurIPS/ICLR/CVPR/CoRL/RSS 等）或",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求： 计算机、自动化、机器人、数学等相关专业硕士及以上学历 扎实的深度学习基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -2072,7 +2130,10 @@
       },
       "major": {
         "raw": "专业要求： 计算机、自动化、机器人、数学等相关专业硕士及以上学历 深入掌握强化学习理论，精通 PPO、SAC、离线 RL、偏好学习等核心算法 有 RL 算法从 0 到 1 的实现经验，不只是调库，而是能推导公式、改写底层 加分项： 有人形机",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求： 计算机、自动化、机器人、数学等相关专业硕士及以上学历 深入掌握强化学习理论"
+        ]
       },
       "language": {
         "raw": "",
@@ -2155,7 +2216,10 @@
       },
       "major": {
         "raw": "专业要求： 计算机、自动化、机器人、力学、数学等相关专业硕士及以上学历 扎实的最优控制、强化学习、动力学建模基础，精通轨迹优化、MPC等核心方法 有机器人动力学或物理仿真相关研究经验，理解刚体动力学、接触力学、有限元等基础概念 加分项： 有",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求： 计算机、自动化、机器人、力学、数学等相关专业硕士及以上学历 扎实的最优控制、强化学习、动力学建模基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -2239,7 +2303,10 @@
       },
       "major": {
         "raw": "专业方向：机器人学、计算机视觉、AI/ML",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：机器人学、计算机视觉、AI/ML"
+        ]
       },
       "language": {
         "raw": "",
@@ -2322,7 +2389,10 @@
       },
       "major": {
         "raw": "专业方向：机器人学、计算机视觉、AI/ML",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：机器人学、计算机视觉、AI/ML"
+        ]
       },
       "language": {
         "raw": "",
@@ -2406,7 +2476,10 @@
       },
       "major": {
         "raw": "专业方向：机器人学、控制工程、计算机科学",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：机器人学、控制工程、计算机科学"
+        ]
       },
       "language": {
         "raw": "",
@@ -2490,7 +2563,10 @@
       },
       "major": {
         "raw": "专业方向：机器人学、AI/ML、计算机科学",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向：机器人学、AI/ML、计算机科学"
+        ]
       },
       "language": {
         "raw": "",
@@ -2574,7 +2650,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，产品、市场营销、计算机、自动化、机器人、机械工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "产品、市场营销、计算机、自动化、机器人、机械工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2669,7 +2748,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机科学或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2755,7 +2837,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，机械工程、自动化、工业工程、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程、自动化、工业工程、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2840,7 +2925,10 @@
       },
       "major": {
         "raw": "1. 机械相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 机械相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2923,7 +3011,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3002,7 +3091,11 @@
       },
       "major": {
         "raw": "1、硕士及以上，电子信息、自动化、机器人工程、测控等相关专业，具备扎实专业基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、自动化、机器人工程、测控等相关专业",
+          "具备扎实专业基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -3086,7 +3179,10 @@
       },
       "major": {
         "raw": "1．硕士及以上学历，动力工程、热能工程、流体力学或工程热物理专业，能独立完成热解决方案端到端的交付，有电子或大型复杂整机产品项目热设计经验者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "动力工程、热能工程、流体力学或工程热物理专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3171,7 +3267,11 @@
       },
       "major": {
         "raw": "1、硕士及以上，机器人工程、机械设计等相关专业，具备扎实专业基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机器人工程、机械设计等相关专业",
+          "具备扎实专业基础"
+        ]
       },
       "language": {
         "raw": "",
@@ -3256,7 +3356,10 @@
       },
       "major": {
         "raw": "1、机械类或机电类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械类或机电类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3341,7 +3444,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3424,7 +3528,11 @@
       },
       "major": {
         "raw": "1. 学历专业：硕士及以上学历，机械工程、力学（固体力学/工程力学）、机器人工程、航空航天工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历专业：硕士及以上学历",
+          "机械工程、力学（固体力学/工程力学）、机器人工程、航空航天工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3508,7 +3616,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，计算机、软件工程、自动化、电子信息、机器人等相关专业，26/27届应届生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、自动化、电子信息、机器人等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3593,7 +3704,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3674,7 +3786,11 @@
       },
       "major": {
         "raw": "1.本科及以上学历，计算机、电子信息、自动化、通信工程、电气工程等相关专业；1. 本科及以上学历，自动化、电气工程、控制工程、电子信息、机电等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、自动化、通信工程、电气工程等相关专业",
+          "自动化、电气工程、控制工程、电子信息、机电等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3762,7 +3878,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3845,7 +3962,10 @@
       },
       "major": {
         "raw": "1. 本科以上学历，计算机、电子、通信、自动化、机械等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子、通信、自动化、机械等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3928,7 +4048,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4009,7 +4130,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4088,7 +4210,10 @@
       },
       "major": {
         "raw": "1. 本科及以上，计算机/软件工程/电子信息等相关专业，计算机基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机/软件工程/电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4174,7 +4299,10 @@
       },
       "major": {
         "raw": "2027届本科及以上学历，计算机、软件工程、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4261,7 +4389,10 @@
       },
       "major": {
         "raw": "2027届本科及以上学历，计算机、软件工程、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4347,7 +4478,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4436,7 +4568,11 @@
       },
       "major": {
         "raw": "学历与专业：研究生及以上学历，计算机科学与技术、大数据、人工智能、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历与专业：研究生及以上学历",
+          "计算机科学与技术、大数据、人工智能、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4521,7 +4657,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4602,7 +4739,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4689,7 +4827,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4776,7 +4915,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，自动化、控制工程、机器人工程、机械电子、应用数学、计算机等相关专业应届生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "自动化、控制工程、机器人工程、机械电子、应用数学、计算机等相关专业应届生"
+        ]
       },
       "language": {
         "raw": "",
@@ -4864,7 +5006,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4948,7 +5091,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5032,7 +5176,10 @@
       },
       "major": {
         "raw": "1. 机器人、自动化、计算机、机械电子、人工智能等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 机器人、自动化、计算机、机械电子、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5115,7 +5262,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机科学、人工智能、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、人工智能、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5198,7 +5348,10 @@
       },
       "major": {
         "raw": "1. 机器人、自动化、计算机、机械电子、人工智能等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 机器人、自动化、计算机、机械电子、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5284,7 +5437,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机、电子信息、通信工程、声学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、通信工程、声学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5367,7 +5523,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机、电子信息、通信工程、声学等相关专业，了解AI领域常见的开源数据集及格式",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、通信工程、声学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5451,7 +5610,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5534,7 +5694,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机、电子信息、通信工程、声学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、通信工程、声学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5617,7 +5780,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上在读学历，计算机、自动化、电子工程、控制理论等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、自动化、电子工程、控制理论等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5698,7 +5864,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，计算机、电子信息、通信工程、图像处理成像等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、通信工程、图像处理成像等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5783,7 +5952,10 @@
       },
       "major": {
         "raw": "1.计算机科学、自动化、电子工程、机器人或相关专业硕士及以上学历，博士优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.计算机科学、自动化、电子工程、机器人或相关专业硕士及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -5870,7 +6042,10 @@
       },
       "major": {
         "raw": "1. 学历与基础： 计算机/数学相关专业博士学历，精通 Python/C++ 及 PyTorch，具备扎实的数学与图形学基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历与基础： 计算机/数学相关专业博士学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -5955,7 +6130,10 @@
       },
       "major": {
         "raw": "1、 计算机视觉、机器人学等相关专业博士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、 计算机视觉、机器人学等相关专业博士学历"
+        ]
       },
       "language": {
         "raw": "",

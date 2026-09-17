@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "新闻传播、公共关系、市场营销、英语、国际关系等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -112,7 +113,8 @@
       },
       "major": {
         "raw": "市场营销、新闻传播、中文等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -203,7 +205,8 @@
       },
       "major": {
         "raw": "2027 届本科及以上,计算机、数据、金融等专业优先,逻辑与系统思维扎实。",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -294,7 +297,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -385,7 +389,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -473,7 +478,8 @@
       },
       "major": {
         "raw": "1、2027 届毕业（本科及以上），专业不限，逻辑、数据与产品 sense 优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -562,7 +568,11 @@
       },
       "major": {
         "raw": "1. 学历专业：2027届全日制统招本科及以上学历，计算机、软件工程、信息管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 学历专业：2027届全日制统招本科及以上学历",
+          "计算机、软件工程、信息管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -647,7 +657,10 @@
       },
       "major": {
         "raw": "1、27届毕业生，计算机科学、软件工程或相关专业的本科或硕士学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程或相关专业的本科或硕士学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -730,7 +743,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -814,7 +828,10 @@
       },
       "major": {
         "raw": "1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、电子、自动化、通信等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -897,7 +914,10 @@
       },
       "major": {
         "raw": "1、2027 届本科及以上，计算机、软件、电子、自动化、通信等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件、电子、自动化、通信等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",

@@ -17,7 +17,10 @@
       },
       "major": {
         "raw": "2027届硕士学历，双一流及重点院校优先，理工科类相关专业，学业成绩优异、绩点靠前，拥有校级及以上奖学金、科研竞赛获奖者优先，对汽车智能座舱、智能驾驶、车载电子等领域具备浓厚兴趣。；英语听说读写流利，可独立支撑跨部门、跨区域项目对接工作；掌握日语、德语、西班牙语等小语种者优先。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "理工科类相关专业"
+        ]
       },
       "language": {
         "raw": "英语、日语、德语、西班牙语",
@@ -109,7 +112,8 @@
       },
       "major": {
         "raw": "本科及以上学历，统计学、经济学、计算机相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -198,7 +202,10 @@
       },
       "major": {
         "raw": "本科及以上学历，计算机、人工智能、产品、市场等相关专业优先，热爱AI、学习能力优秀的非技术背景亦可。",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "热爱AI、学习能力优秀的非技术背景亦可"
+        ]
       },
       "language": {
         "raw": "",
@@ -290,7 +297,10 @@
       },
       "major": {
         "raw": "2027届硕士学历，双一流及重点院校优先，人力资源管理、工商管理、心理学、汉语言、经管类等相关专业，学业成绩良好、综合素质优秀，获得校级及以上荣誉、奖学金者优先。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人力资源管理、工商管理、心理学、汉语言、经管类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -378,7 +388,10 @@
       },
       "major": {
         "raw": "2027届硕士学历，双一流及重点院校优先，供应链管理、物流工程、工业工程、理工科相关专业，学业成绩扎实、绩点良好，获得校级及以上奖学金、学业表彰者优先。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "供应链管理、物流工程、工业工程、理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语、日语、德语、西班牙语",
@@ -472,7 +485,10 @@
       },
       "major": {
         "raw": "全日制本科及以上学历，硕士优先；车辆工程、电子、软件工程、机械、质量管理、工业工程等理工科及管理类相关专业。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆工程、电子、软件工程、机械、质量管理、工业工程等理工科及管理类相关专业"
+        ]
       },
       "language": {
         "raw": "英语、日语",
@@ -559,7 +575,12 @@
       },
       "major": {
         "raw": "1、2027届硕士学历，双一流及重点院校优先，机械、自动化、工业工程、材料、质量管理、车辆工程等理工科相关专业，专业基础扎实，学业成绩优良，获得学业奖学金、科创竞赛奖项者优先；3、英语读写流利、口语顺畅，可熟练阅读专业技术文档、适配生产技术对接工作",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械、自动化、工业工程、材料、质量管理、车辆工程等理工科相关专业",
+          "专业基础扎实",
+          "可熟练阅读专业技术文档、适配生产技术对接工作"
+        ]
       },
       "language": {
         "raw": "英语、日语、德语、西班牙语",
@@ -652,7 +673,10 @@
       },
       "major": {
         "raw": "车辆工程、电子、软件工程、机械、质量管理、工业工程等理工科及管理类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆工程、电子、软件工程、机械、质量管理、工业工程等理工科及管理类相关专业"
+        ]
       },
       "language": {
         "raw": "日语、西班牙语",
@@ -747,7 +771,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，电子、机械、供应链管理、物流管理、国际贸易等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -847,7 +872,10 @@
       },
       "major": {
         "raw": "车辆工程、电子、软件工程、机械、质量管理、工业工程等理工科及管理类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆工程、电子、软件工程、机械、质量管理、工业工程等理工科及管理类相关专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -942,7 +970,10 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，新闻与传播、市场营销、广告学、英语等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "新闻与传播、市场营销、广告学、英语等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1032,7 +1063,8 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，供应链管理、物流管理、机械、电子等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1126,7 +1158,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，电子、机械、供应链管理、物流管理、国际贸易等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "西班牙语",
@@ -1225,7 +1258,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，工业工程、机械工程、供应链管理、财务管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语",
@@ -1318,7 +1352,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，工业工程、质量管理、管理科学与工程、信息管理、机械、电子等理工/管理类相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1405,7 +1440,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1493,7 +1529,10 @@
       },
       "major": {
         "raw": "1.全日制硕士及以上学历，计算机、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1579,7 +1618,10 @@
       },
       "major": {
         "raw": "1.全日制硕士及以上学历，电子、计算机、车辆工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、计算机、车辆工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1667,7 +1709,10 @@
       },
       "major": {
         "raw": "1.全日制硕士及以上学历，计算机、自动化、车辆工程、电子信息、人工智能、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、自动化、车辆工程、电子信息、人工智能、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1755,7 +1800,10 @@
       },
       "major": {
         "raw": "1、硕士以上学历，计算机、车辆工程、自动化、机器人、控制工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、车辆工程、自动化、机器人、控制工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1843,7 +1891,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，电子信息、通信工程、自动化、雷达信号处理、测控等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、通信工程、自动化、雷达信号处理、测控等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1930,7 +1981,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、软件工程、车辆工程、自动化、机器人、测绘、导航、数学、GIS等相关专业，专业基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、车辆工程、自动化、机器人、测绘、导航、数学、GIS等相关专业",
+          "专业基础扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -2018,7 +2073,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、软件工程、车辆工程、自动化、机器人、测绘、导航、数学、GIS等相关专业，专业基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、车辆工程、自动化、机器人、测绘、导航、数学、GIS等相关专业",
+          "专业基础扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -2107,7 +2166,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、自动化、软件工程等相关专业，扎实掌握大模型、AI智能体相关技术原理",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、自动化、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2196,7 +2258,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、软件工程、电子信息、自动化等相关专业，基础知识扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2286,7 +2351,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，计算机、自动化、车辆工程、电子信息、人工智能、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、自动化、车辆工程、电子信息、人工智能、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2374,7 +2442,8 @@
       },
       "major": {
         "raw": "1.全日制本科学历，行政管理、财务、旅游管理、酒店管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2462,7 +2531,10 @@
       },
       "major": {
         "raw": "1.全日制硕士及以上学历，光学、光学工程、物理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "光学、光学工程、物理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2549,7 +2621,10 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，硕士优先，计算机、人工智能、软件工程、车辆、电子、市场营销等相关专业均可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程、车辆、电子、市场营销等相关专业均可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2644,7 +2719,10 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，硕士优先，计算机、人工智能、软件工程、车辆、电子、市场营销等相关专业均可",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程、车辆、电子、市场营销等相关专业均可"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2739,7 +2817,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、电子信息、自动化、车辆工程、通信工程等理工科相关专业，应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、自动化、车辆工程、通信工程等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2829,7 +2910,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、软件工程、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2915,7 +2999,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2996,7 +3081,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、软件工程、车辆工程、自动化、机器人、测绘、导航、数学、GIS等相关专业，专业基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、车辆工程、自动化、机器人、测绘、导航、数学、GIS等相关专业",
+          "专业基础扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -3085,7 +3174,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息、自动化、车辆工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3170,7 +3262,10 @@
       },
       "major": {
         "raw": "1.全日制硕士及以上学历，通信工程、电子信息、信号处理、数学、车辆工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "通信工程、电子信息、信号处理、数学、车辆工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3258,7 +3353,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，计算机、电子信息、软件工程、自动化、微电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、软件工程、自动化、微电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3342,7 +3440,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，电子信息、车辆工程、自动化、机械等工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、车辆工程、自动化、机械等工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语",
@@ -3433,7 +3534,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，电子信息、机械、自动化、机电一体化等工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、机械、自动化、机电一体化等工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语",
@@ -3521,7 +3625,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3601,7 +3706,10 @@
       },
       "major": {
         "raw": "1.硕士以上学历，计算机、软件工程、人工智能、自动化、数学、测绘、通信、电子信息、车辆工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、人工智能、自动化、数学、测绘、通信、电子信息、车辆工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3688,7 +3796,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、车辆工程、自动化、控制工程等相关专业，基础功底扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、车辆工程、自动化、控制工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3772,7 +3883,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、车辆工程、自动化、控制工程等相关专业，基础功底扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、车辆工程、自动化、控制工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3857,7 +3971,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、计算机视觉、自动化等相关专业，深度学习与多模态技术基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、计算机视觉、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3943,7 +4060,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、电子信息、自动化、软件工程等相关专业，基础理论扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、电子信息、自动化、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4027,7 +4147,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、自动化、电子信息、车辆工程等相关专业，专业基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、自动化、电子信息、车辆工程等相关专业",
+          "专业基础扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -4112,7 +4236,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，计算机、自动化、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、自动化、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4198,7 +4325,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，电子信息、通信工程、自动化、雷达信号处理、测控技术等相关专业；2、扎实掌握数字信号处理基础理论，熟练掌握傅里叶变换、滤波算法、概率统计、雷达信号处理等核心专业知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、通信工程、自动化、雷达信号处理、测控技术等相关专业",
+          "熟练掌握傅里叶变换、滤波算法、概率统计、雷达信号处理等核心专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -4286,7 +4417,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，电子、计算机、车辆工程、自动化、软件工程等相关专业，专业基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、计算机、车辆工程、自动化、软件工程等相关专业",
+          "专业基础扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -4375,7 +4510,10 @@
       },
       "major": {
         "raw": "1.全日制硕士及以上学历，车辆工程、自动化、控制科学、机械电子、计算机等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆工程、自动化、控制科学、机械电子、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4463,7 +4601,11 @@
       },
       "major": {
         "raw": "1. 本科及以上应届毕业生，电子信息工程、车辆工程、计算机科学与技术、软件工程、自动化、通信工程等相关专业；4. 核心专业基础：掌握数据结构、实时操作系统 (RTOS) 基本原理、计算机网络基础知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息工程、车辆工程、计算机科学与技术、软件工程、自动化、通信工程等相关专业",
+          "4. 核心专业基础：掌握数据结构、实时操作系统 (RTOS) 基本原理、计算机网络基础知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4554,7 +4696,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，软件、自动化、电子电气或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "软件、自动化、电子电气或相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4640,7 +4785,10 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，理工科或法律相关专业，计算机、电子、通信、法学等专业优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "理工科或法律相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4725,7 +4873,8 @@
       },
       "major": {
         "raw": "1. 全日制硕士及以上学历，计算机、通信、软件工程、电子电气等相关理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -4815,7 +4964,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，自动化、计算机、软件工程、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "自动化、计算机、软件工程、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4902,7 +5054,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，电子、通信、计算机、自动化等相关专业，具备扎实的软硬件系统开发理论基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、通信、计算机、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4994,7 +5149,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，电子、通信、计算机、自动化等相关专业，具备扎实的软硬件系统开发理论基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、通信、计算机、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5086,7 +5244,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上应届毕业生，计算机科学与技术、软件工程、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、软件工程、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5173,7 +5334,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5259,7 +5421,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5350,7 +5513,10 @@
       },
       "major": {
         "raw": "车辆、电子、电气、自动化、微电子、材料、机械、计算机、软件工程等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆、电子、电气、自动化、微电子、材料、机械、计算机、软件工程等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5448,7 +5614,8 @@
       },
       "major": {
         "raw": "1. 全日制硕士及以上学历，电子、测控、通信、机械、日语、英语等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语",
@@ -5535,7 +5702,8 @@
       },
       "major": {
         "raw": "1. 全日制硕士及以上学历，电子、测控、通信、机械、日语、英语等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语",
@@ -5624,7 +5792,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，自动化、电气工程、机器人、人工智能、电子、机械等理工科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5714,7 +5883,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，自动化、电气工程、机器人、人工智能、电子、机械等理工科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5804,7 +5974,10 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，机械设计、机械工程等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计、机械工程等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5899,7 +6072,10 @@
       },
       "major": {
         "raw": "1. 全日制硕士及以上学历，光学、电子、物理、光电材料、高分子材料、汽车工程等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "光学、电子、物理、光电材料、高分子材料、汽车工程等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5990,7 +6166,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，光学、光学工程、物理学等相关理工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6076,7 +6253,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，自动化、电气工程、机器人、人工智能、电子、机械等理工科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6166,7 +6344,8 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，自动化、电气工程、机器人、人工智能、电子、机械等理工科相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6256,7 +6435,10 @@
       },
       "major": {
         "raw": "1.全日制硕士及以上学历，法学、法律相关专业，有留学经历优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "法学、法律相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6343,7 +6525,11 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，工科相关专业，暖通、电力等专业背景更优",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工科相关专业",
+          "暖通、电力等专业背景更优"
+        ]
       },
       "language": {
         "raw": "英语、西班牙语",
@@ -6437,7 +6623,10 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，电子信息、通信工程、自动化、电气、汽车电子等相关专业，硕士学历优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、通信工程、自动化、电气、汽车电子等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6529,7 +6718,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、电子信息、自动化、车辆工程、通信工程等理工科相关专业，应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、电子信息、自动化、车辆工程、通信工程等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -6620,7 +6812,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6708,7 +6903,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6794,7 +6992,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6878,7 +7079,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，硕士优先，电子、计算机、通信、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、计算机、通信、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6964,7 +7168,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -7046,7 +7251,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7131,7 +7339,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机科学、自动化、电子工程、控制工程、机器人、车辆工程等相关专业，数理基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、自动化、电子工程、控制工程、机器人、车辆工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7218,7 +7429,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -7302,7 +7514,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，硕士优先，电子、计算机、通信、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、计算机、通信、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -7388,7 +7603,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，自动化、计算机、电子信息、车辆工程、人工智能、应用数学、机器人工程等相关专业，数理基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "自动化、计算机、电子信息、车辆工程、人工智能、应用数学、机器人工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7474,7 +7692,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，车辆工程、自动化、电子、计算机等相关专业，掌握自动控制原理、车辆动力学基础理论",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆工程、自动化、电子、计算机等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7561,7 +7782,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、软件工程、电子信息、自动化、数学等相关专业，基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程、电子信息、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7648,7 +7872,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、软件工程、电子信息、自动化、数学等相关专业，基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程、电子信息、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7736,7 +7963,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、人工智能、软件工程、电子信息、自动化、数学等相关专业，基础扎实",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程、电子信息、自动化、数学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7823,7 +8053,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，计算机、人工智能、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7907,7 +8140,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，计算机、人工智能、电子信息、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、电子信息、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7991,7 +8227,11 @@
       },
       "major": {
         "raw": "1. 本科及以上应届毕业生，电子信息工程、车辆工程、计算机科学与技术、软件工程、自动化、通信工程等相关专业；4. 核心专业基础：掌握数据结构、实时操作系统 (RTOS) 基本原理、计算机网络基础知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息工程、车辆工程、计算机科学与技术、软件工程、自动化、通信工程等相关专业",
+          "4. 核心专业基础：掌握数据结构、实时操作系统 (RTOS) 基本原理、计算机网络基础知识"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -8080,7 +8320,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息、自动化、车辆工程等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8166,7 +8409,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、信息管理、电子商务、自动化、数学、统计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、信息管理、电子商务、自动化、数学、统计学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8252,7 +8498,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、信息管理、电子商务、自动化、数学、统计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、信息管理、电子商务、自动化、数学、统计学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8338,7 +8587,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，车辆工程、电子、计算机、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "车辆工程、电子、计算机、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8426,7 +8678,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、电子、车辆等相关专业，扎实的编程与计算机基础",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子、车辆等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8509,7 +8764,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机、软件工程、电子信息、自动化、车辆工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息、自动化、车辆工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8595,7 +8853,10 @@
       },
       "major": {
         "raw": "1、全日制本科及以上学历，汽车工程、软件工程、电子信息工程等相关专业，持有C1及以上驾照",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "汽车工程、软件工程、电子信息工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8678,7 +8939,10 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，机械设计、机械工程等相关理工科专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计、机械工程等相关理工科专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -8771,7 +9035,10 @@
       },
       "major": {
         "raw": "1. 全日制硕士及以上学历，光学、电子、物理、光电材料、高分子材料、汽车工程等理工科相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "光学、电子、物理、光电材料、高分子材料、汽车工程等理工科相关专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -8862,7 +9129,10 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，电子信息、通信工程、自动化、电气、汽车电子等相关专业，硕士学历优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子信息、通信工程、自动化、电气、汽车电子等相关专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -8954,7 +9224,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、电子信息等相关专业，硕士学历、有嵌入式/车载开发经验者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9041,7 +9314,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机、软件工程、电子信息等相关专业，硕士学历、有嵌入式/车载开发经验者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9128,7 +9404,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -9210,7 +9487,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，硕士优先，电子、计算机、通信、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电子、计算机、通信、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9296,7 +9576,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "日语",

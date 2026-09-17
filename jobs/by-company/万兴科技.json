@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "2027 届本科及以上学历，市场、传播、商科、心理学、社会学、统计学、英语等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -113,7 +114,8 @@
       },
       "major": {
         "raw": "市场营销、新闻传播、广告、商科、管理、英语或相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -208,7 +210,8 @@
       },
       "major": {
         "raw": "统招本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -297,7 +300,8 @@
       },
       "major": {
         "raw": "市场营销、广告、传播、语言、国际贸易等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "日语、西班牙语、韩语",
@@ -394,7 +398,8 @@
       },
       "major": {
         "raw": "本科及以上学历在读，市场营销、电子商务、新闻传播、计算机、数据分析、经济管理、语言等相关专业优先，专业不限",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -494,7 +499,8 @@
       },
       "major": {
         "raw": "本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、日语、德语、葡萄牙语",
@@ -593,7 +599,8 @@
       },
       "major": {
         "raw": "专业不限，计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -687,7 +694,8 @@
       },
       "major": {
         "raw": "本科及以上学历，统计学、数学、经济学、信息管理、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -773,7 +781,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，专业不限，市场营销、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -871,7 +880,8 @@
       },
       "major": {
         "raw": "1、硕士及以上学历在读，专业不限，经济、管理、金融、市场营销、计算机、人工智能、信息管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -962,7 +972,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，市场营销、广告学、传播学、英语/语言类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1055,7 +1066,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1138,7 +1150,8 @@
       },
       "major": {
         "raw": "1、2027届应届毕业生，本科以上学历，有市场营销策划或内容编辑工作经验，英语读写能力优秀者优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1226,7 +1239,10 @@
       },
       "major": {
         "raw": "1、2027届硕士及以上学历，不限专业；（2）有计算机、金融、数学、统计学等专业背景",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "（2）有计算机、金融、数学、统计学等专业背景"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1316,7 +1332,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1409,7 +1426,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，专业不限，数学、统计、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1498,7 +1516,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，计算机、软件工程、数据科学、统计学、数学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1586,7 +1605,11 @@
       },
       "major": {
         "raw": "1、2027届及之后毕业的在读本科生或研究生，人力资源、法学、工商管理等相关专业，专业课无挂科记录",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人力资源、法学、工商管理等相关专业",
+          "专业课无挂科记录"
+        ]
       },
       "language": {
         "raw": "",
@@ -1673,7 +1696,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1763,7 +1787,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历应届生，动画、视频设计、数字媒体、市场营销、广告、传媒、数据分析等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1857,7 +1882,10 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，计算机、人工智能、软件工程、数字媒体技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、人工智能、软件工程、数字媒体技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1948,7 +1976,8 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历，不限专业",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2035,7 +2064,10 @@
       },
       "major": {
         "raw": "1. 2027届毕业生，全日制本科及以上学历在读，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2118,7 +2150,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，计算机/软件工程/数据工程等相关专业，有大数据开发经验（优秀者可放宽）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机/软件工程/数据工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2205,7 +2240,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2287,7 +2323,10 @@
       },
       "major": {
         "raw": "1、2027届硕士研究生及以上应届毕业生，计算机/软件工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机/软件工程相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2372,7 +2411,10 @@
       },
       "major": {
         "raw": "1、27届硕士及以上应届毕业生，计算机相关专业，具备扎实的计算机基础及良好的代码风格",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2456,7 +2498,10 @@
       },
       "major": {
         "raw": "1、计算机、软件工程、AI 或相关专业，2027届硕士及以上应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、软件工程、AI 或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2543,7 +2588,11 @@
       },
       "major": {
         "raw": "1、2027届本科及以上学历应届毕业生，计算机、图像处理、数学或相关专业，专业课无挂科记录",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、图像处理、数学或相关专业",
+          "专业课无挂科记录"
+        ]
       },
       "language": {
         "raw": "",
@@ -2626,7 +2675,10 @@
       },
       "major": {
         "raw": "1、统招本科及以上学历，计算机相关专业（优秀者学历可适当放宽）",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业（优秀者学历可适当放宽）"
+        ]
       },
       "language": {
         "raw": "",
@@ -2709,7 +2761,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2791,7 +2844,10 @@
       },
       "major": {
         "raw": "1、2027届及之后毕业在读学生， 本科及以上学历，计算机相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2875,7 +2931,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2956,7 +3013,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3040,7 +3098,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3126,7 +3185,10 @@
       },
       "major": {
         "raw": "1、影视传媒、数字媒体艺术、广告学等相关专业在校生，具备良好的审美能力和镜头感",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、影视传媒、数字媒体艺术、广告学等相关专业在校生"
+        ]
       },
       "language": {
         "raw": "",
@@ -3210,7 +3272,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",

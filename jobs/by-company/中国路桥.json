@@ -17,7 +17,8 @@
       },
       "major": {
         "raw": "土木工程、建筑环境与设备工程、工程管理、建筑学、工程造价、水利水电、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -105,7 +106,8 @@
       },
       "major": {
         "raw": "土木工程、建筑环境与设备工程、工程管理、建筑学、工程造价、水利水电、计算机等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -193,7 +195,10 @@
       },
       "major": {
         "raw": "全日制本科及以上学历，土木工程、交通工程、工程管理、道路桥梁工程、安全工程、生态修复、铁道工程或交通运输类相关专业；硕士研究生及以上学历者在同等条件下优先考虑。",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "土木工程、交通工程、工程管理、道路桥梁工程、安全工程、生态修复、铁道工程或交通运输类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -277,7 +282,10 @@
       },
       "major": {
         "raw": "行政管理、汉语言文学、新闻学相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "行政管理、汉语言文学、新闻学相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -366,7 +374,12 @@
       },
       "major": {
         "raw": "专业要求：土木类，力学类，管理科学与工程类，安全科学与工程类，机械类，测绘类，水利类，市政类，电气与自动化类，建筑类，计算机与电子信息类等相关专业；；全日制普通高校本科及以上学历的应届毕业生；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求：土木类",
+          "管理科学与工程类",
+          "计算机与电子信息类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -456,7 +469,8 @@
       },
       "major": {
         "raw": "2027届硕士研究生学历毕业生，工程管理、交通工程、土木工程、建筑学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -539,7 +553,11 @@
       },
       "major": {
         "raw": "（1）教育背景：2027届全日制研究生及以上学历。；（2）专业类别：建筑市政类、水利水电类、能源类、安全环保类相关专业。",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "（1）教育背景：2027届全日制研究生及以上学历",
+          "（2）专业类别：建筑市政类、水利水电类、能源类、安全环保类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -631,7 +649,10 @@
       },
       "major": {
         "raw": "2.熟悉交通工程/交通信息与控制工程/计算机科学与技术/自动化/通信工程/信息工程等学科",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.熟悉交通工程/交通信息与控制工程/计算机科学与技术/自动化/通信工程/信息工程等学科"
+        ]
       },
       "language": {
         "raw": "",
@@ -722,7 +743,10 @@
       },
       "major": {
         "raw": "2.熟悉交通工程/交通信息与控制工程/计算机科学与技术/自动化/通信工程/信息工程等学科",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.熟悉交通工程/交通信息与控制工程/计算机科学与技术/自动化/通信工程/信息工程等学科"
+        ]
       },
       "language": {
         "raw": "",
@@ -814,7 +838,10 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生，专业方向为土木工程、路桥工程、水利水电、地质工程、安全工程、新能源等相关理工类学科",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业方向为土木工程、路桥工程、水利水电、地质工程、安全工程、新能源等相关理工类学科"
+        ]
       },
       "language": {
         "raw": "",
@@ -902,7 +929,8 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，土木工程、工程管理、机械设计制造及其自动化、材料科学与工程、物流管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -989,7 +1017,11 @@
       },
       "major": {
         "raw": "1.教育背景：硕士及以上学历，海洋工程、港口航道工程、工程类、国际法、国际商务相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.教育背景：硕士及以上学历",
+          "海洋工程、港口航道工程、工程类、国际法、国际商务相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1085,7 +1117,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1171,7 +1204,8 @@
       },
       "major": {
         "raw": "1. 2027届全日制本科及以上学历毕业生，人力资源管理、工商管理、劳动与社会保障等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1258,7 +1292,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，机械类、电气类、海洋工程类、轮机工程、焊接技术与工程、项目管理、土木工程、等相关工科专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1345,7 +1380,10 @@
       },
       "major": {
         "raw": "1、计算机、软件工程、电子/电气/自动化相关专业研究生以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、计算机、软件工程、电子/电气/自动化相关专业研究生以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -1436,7 +1474,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1522,7 +1561,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1610,7 +1650,10 @@
       },
       "major": {
         "raw": "2、机械类相关专业，英语应用能力良好",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1698,7 +1741,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1786,7 +1830,10 @@
       },
       "major": {
         "raw": "1.硕士研究生学历，环境工程、市政工程、土木工程、电气自控、环保设备等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "环境工程、市政工程、土木工程、电气自控、环保设备等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1873,7 +1920,11 @@
       },
       "major": {
         "raw": "4.能够在新能源及新型储能项目建设和运营阶段提供审批流程、成本管控、运营管理、电力销售等方面专业建议；1.学习电气工程、能源与动力工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "4.能够在新能源及新型储能项目建设和运营阶段提供审批流程、成本管控、运营管理、电力销售等方面专业建议",
+          "1.学习电气工程、能源与动力工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1965,7 +2016,10 @@
       },
       "major": {
         "raw": "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -2055,7 +2109,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2143,7 +2198,12 @@
       },
       "major": {
         "raw": "1、工程管理类 港口航道与海岸工程、机械设计制造及其自动化专业、安全工程等相关专业 培养方向：项目工程管理、施工技术管理、市场经营、海外项目管理、技术研发、装备管理、安全管理等；2、船舶管理类 航海技术、轮机工程、船舶电子电气工程等相关专业 培养方向：船舶驾驶、轮机、机电等专业岗位，重点培养高级船员、船长、轮机长以及船舶管理、设备管理、安全管理等专业骨干",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、工程管理类 港口航道与海岸工程、机械设计制造及其自动化专业、安全工程等相关专业 培养方向：项目工程管理、施工技术管理、市场经营、海外项目管理、技术研发、装备管理、安全管理等",
+          "2、船舶管理类 航海技术、轮机工程、船舶电子电气工程等相关专业 培养方向：船舶驾驶、轮机、机电等专业岗位",
+          "重点培养高级船员、船长、轮机长以及船舶管理、设备管理、安全管理等专业骨干"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2233,7 +2293,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -2316,7 +2377,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2398,7 +2460,10 @@
       },
       "major": {
         "raw": "1.应届本科及以上学历，取得相应学位，大学英语425分以上，海洋工程、海洋资源与环境、新能源科学与工程、计算机科学与技术、信息工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "海洋工程、海洋资源与环境、新能源科学与工程、计算机科学与技术、信息工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2490,7 +2555,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2576,7 +2642,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2658,7 +2725,10 @@
       },
       "major": {
         "raw": "2.机械电气类、机电、自动化、信息技术类及相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.机械电气类、机电、自动化、信息技术类及相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -2751,7 +2821,8 @@
       },
       "major": {
         "raw": "1. 2027届应届硕士研究生及以上学历，计算机科学与技术、软件工程、信息管理与信息系统、公共管理、人工智能等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2840,7 +2911,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2923,7 +2995,11 @@
       },
       "major": {
         "raw": "维系与当地合作方（企业、金融机构、专业服务机构）的务实合作关系；1. 2027届应届毕业生，硕士及以上学历，国际经济与贸易、金融学、投资学、法学（国际经济法方向）、国际商务、工商管理（国际方向）等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "维系与当地合作方（企业、金融机构、专业服务机构）的务实合作关系",
+          "国际经济与贸易、金融学、投资学、法学（国际经济法方向）、国际商务、工商管理（国际方向）等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3018,7 +3094,8 @@
       },
       "major": {
         "raw": "2. 经济学、金融学、能源经济、电力市场、电力系统及其自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3105,7 +3182,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3190,7 +3268,10 @@
       },
       "major": {
         "raw": "2、专业能力：掌握建筑施工现场安全管理基础知识，了解施工安全规范及基本法律法规",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、专业能力：掌握建筑施工现场安全管理基础知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -3278,7 +3359,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3363,7 +3445,10 @@
       },
       "major": {
         "raw": "1.硕士研究生学历，环境工程、市政工程、给排水、化学工程、市场管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "环境工程、市政工程、给排水、化学工程、市场管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3449,7 +3534,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3537,7 +3623,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3625,7 +3712,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -3708,7 +3796,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3798,7 +3887,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，工程管理、工程造价、土木工程、投资学、金融学、技术经济及管理、产业经济学、区域经济学、工商管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工程管理、工程造价、土木工程、投资学、金融学、技术经济及管理、产业经济学、区域经济学、工商管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3886,7 +3978,10 @@
       },
       "major": {
         "raw": "1.国家统招全日制硕士及以上学历，土木工程、交通工程、工程检测、材料工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "土木工程、交通工程、工程检测、材料工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -3974,7 +4069,10 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，会计学、财务管理、审计学、金融学等相关财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学、财务管理、审计学、金融学等相关财经类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4064,7 +4162,10 @@
       },
       "major": {
         "raw": "1、人力资源管理、企业管理、工商管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、人力资源管理、企业管理、工商管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4145,7 +4246,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4227,7 +4329,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4310,7 +4413,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4392,7 +4496,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4475,7 +4580,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4558,7 +4664,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4641,7 +4748,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4724,7 +4832,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4807,7 +4916,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4890,7 +5000,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4973,7 +5084,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5057,7 +5169,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5141,7 +5254,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -5225,7 +5339,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5313,7 +5428,11 @@
       },
       "major": {
         "raw": "1、教育背景：硕士及以上学历，控制科学与工程、计算机技术、控制工程、船海工程等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、教育背景：硕士及以上学历",
+          "控制科学与工程、计算机技术、控制工程、船海工程等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5404,7 +5523,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5486,7 +5606,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、法语、西班牙语、葡萄牙语",
@@ -5577,7 +5698,10 @@
       },
       "major": {
         "raw": "2、机械工程、机械设计制造及其自动化、工程力学、土木工程、智能制造、机电、材料等相关理工类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、机械工程、机械设计制造及其自动化、工程力学、土木工程、智能制造、机电、材料等相关理工类专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5669,7 +5793,10 @@
       },
       "major": {
         "raw": "主要从事地基处理、海洋岩土工程、海洋深基础、地基-结构相互作用等方面的技术研究与开发工作，优先考虑土木工程与人工智能交叉学科专业；1、岩土工程、结构工程、海洋工程与技术（岩土、结构方向）、人工智能（智能建造、大数据处理）等相关专业；2、硕士研究生或以上学历，应届毕业生，博士优先，英语六级，报到时必须获得硕士或者博士毕业证和学位证书；7、具有相关人工智能研究背景、擅长数值模拟分析或土体静动力室内试验的优先考虑",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、岩土工程、结构工程、海洋工程与技术（岩土、结构方向）、人工智能（智能建造、大数据处理）等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -5756,7 +5883,8 @@
       },
       "major": {
         "raw": "2、硕士研究生或以上学历，应届毕业生，英语六级，报到时必须获得硕士或者博士毕业证和学位证书",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -5840,7 +5968,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，机械或相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械或相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5928,7 +6059,10 @@
       },
       "major": {
         "raw": "1、硕士及以上，计算机、软件工程、大数据、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、软件工程、大数据、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6015,7 +6149,8 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生及以上学历，计算机科学与技术、软件工程、人工智能、信息管理与信息系统、自动化、控制科学与工程、工业工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6103,7 +6238,8 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生及以上学历，计算机科学与技术、软件工程、人工智能、信息管理与信息系统、自动化、控制科学与工程、工业工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -6191,7 +6327,10 @@
       },
       "major": {
         "raw": "1、船舶与海洋工程、机械、自动化、力学、测控、机电一体化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、船舶与海洋工程、机械、自动化、力学、测控、机电一体化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6277,7 +6416,11 @@
       },
       "major": {
         "raw": "1.本科及以上学历，电气自动化，机电一体化等电气类专业；5.熟悉电气方面专业知识，掌握电气自动化基础理论，电子电工方面基础理论",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机电一体化等电气类专业",
+          "5.熟悉电气方面专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6364,7 +6507,10 @@
       },
       "major": {
         "raw": "1.具有机械类及相关专业大学本科及以上学历或相当专业知识水平",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.具有机械类及相关专业大学本科及以上学历或相当专业知识水平"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6451,7 +6597,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6536,7 +6683,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，船舶与海洋工程或机械工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "船舶与海洋工程或机械工程相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6623,7 +6773,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6710,7 +6861,12 @@
       },
       "major": {
         "raw": "1. 机械/电气相关专业，本科及以上学历；2. 能熟练运用基本的计算机应用软件和中望CAD应用软件，熟练运用Sllidwordks等三维软件，能阅读、正确理解英文专业资料；5. 英语口语流利，可满足日常工作交流需求，且能准确表达与翻译专业相关知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 机械/电气相关专业",
+          "能阅读、正确理解英文专业资料",
+          "且能准确表达与翻译专业相关知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6798,7 +6954,12 @@
       },
       "major": {
         "raw": "1. 机械设计相关专业，本科及以上学历；2. 能熟练运用基本的计算机应用软件和中望CAD应用软件，熟练运用Sllidwordks等三维软件，能阅读、正确理解英文专业资料；5. 英语口语流利，可满足日常工作交流需求，且能准确表达与翻译专业相关知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 机械设计相关专业",
+          "能阅读、正确理解英文专业资料",
+          "且能准确表达与翻译专业相关知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -6886,7 +7047,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -6968,7 +7130,11 @@
       },
       "major": {
         "raw": "2. 能熟练运用基本的计算机应用软件和中望CAD应用软件，熟练运用Sllidwordks等三维软件，能阅读、正确理解英文专业资料；5. 英语口语流利，可满足日常工作交流需求，且能准确表达与翻译专业相关知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "能阅读、正确理解英文专业资料",
+          "且能准确表达与翻译专业相关知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7057,7 +7223,10 @@
       },
       "major": {
         "raw": "1. 电气系统开发相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 电气系统开发相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7141,7 +7310,11 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，机械设计与制造相关专业；4. 熟悉机械相关专业知识，掌握机械设计基础理论，熟悉材料力学，机械原理，理论力学，能够使用SOLIDWORKS,ANSYS等设计软件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计与制造相关专业",
+          "4. 熟悉机械相关专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7230,7 +7403,11 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，电气自动化，机电一体化，控制工程，等电气相关专业；4. 熟悉电气方面专业知识，掌握电气自动化基础理论，电子电工方面基础理论，认知PLC、伺服、变频器、电机等机电产品的基本工作原理",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "等电气相关专业",
+          "4. 熟悉电气方面专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7317,7 +7494,10 @@
       },
       "major": {
         "raw": "2.智能交通、计算机、软件工程、人工智能、大数据业等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.智能交通、计算机、软件工程、人工智能、大数据业等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7405,7 +7585,10 @@
       },
       "major": {
         "raw": "2.智能交通、交通运输规划与管理、交通信息工程与控制相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.智能交通、交通运输规划与管理、交通信息工程与控制相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7494,7 +7677,10 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，人力资源管理、马克思主义、法学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人力资源管理、马克思主义、法学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语、法语、西班牙语、俄语",
@@ -7581,7 +7767,11 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，电气自动化，机电一体化，控制工程，等电气相关专业；4.熟悉电气方面专业知识，掌握电气自动化基础理，电子电工方面基础理论，认知F、同服、变频论:器、电机等机电产品的基本工作原理",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "等电气相关专业",
+          "4.熟悉电气方面专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7668,7 +7858,11 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，机械设计与制造相关专业；4.熟悉机械相关专业知识，掌握机械设计基础理论，熟悉材料力学，机械原理，理论力学，能够使用SOLIDWORKS.ANSYS等设计软件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计与制造相关专业",
+          "4.熟悉机械相关专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7757,7 +7951,10 @@
       },
       "major": {
         "raw": "1. 2027届博士毕业生，人工智能、计算机科学与技术、软件工程、控制科学与工程、智能科学与技术、土木工程（智能建造/隧道与地下工程方向）、地质资源与地质工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人工智能、计算机科学与技术、软件工程、控制科学与工程、智能科学与技术、土木工程（智能建造/隧道与地下工程方向）、地质资源与地质工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7844,7 +8041,10 @@
       },
       "major": {
         "raw": "1.博士研究生学历，高分子材料、环境科学与工程、化学工程与工艺、流体力学、材料化学、应用化学、机械工程及自动化、材料加工工程、生物工程、微生物等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "高分子材料、环境科学与工程、化学工程与工艺、流体力学、材料化学、应用化学、机械工程及自动化、材料加工工程、生物工程、微生物等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -7929,7 +8129,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，财务管理、会计学、金融学、经济学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8015,7 +8216,8 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，马克思主义理论、思想政治教育、汉语言文学、新闻传播学、人力资源管理、行政管理、劳动与社会保障等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -8103,7 +8305,11 @@
       },
       "major": {
         "raw": "1、船舶与海洋工程、海洋工程与技术、机械设计及自动化、结构工程、力学等相关专业；2、硕士研究生或以上学历，博士优先，应届毕业生，英语六级，报到时必须获得硕士或者博士毕业证和学位证书；7、具备招聘需求专业背景，使用人工智能算法解决以上专业的问题的毕业论文者优先考虑",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、船舶与海洋工程、海洋工程与技术、机械设计及自动化、结构工程、力学等相关专业",
+          "7、具备招聘需求专业背景"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8187,7 +8393,8 @@
       },
       "major": {
         "raw": "2、硕士研究生或以上学历，应届毕业生，英语六级，报到时必须获得硕士或者博士毕业证和学位证书",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -8272,7 +8479,10 @@
       },
       "major": {
         "raw": "2.新闻传播、汉语言文学、社会学等社科类相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.新闻传播、汉语言文学、社会学等社科类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8356,7 +8566,10 @@
       },
       "major": {
         "raw": "1.学习计算机科学与技术、电子信息工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学习计算机科学与技术、电子信息工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8447,7 +8660,10 @@
       },
       "major": {
         "raw": "2.具有良好的专业背景，熟悉国家相关法律法规和行业政策，了解综合交通基建项目的投资模式和建设程序",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.具有良好的专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -8537,7 +8753,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -8621,7 +8838,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、法语",
@@ -8707,7 +8925,10 @@
       },
       "major": {
         "raw": "2.能源与动力工程、可再生能源与清洁能源等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.能源与动力工程、可再生能源与清洁能源等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8789,7 +9010,11 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，会计学、财务管理、税收学、审计学等财务相关专业应届毕业生，中共党员优先；具备扎实的专业功底，熟练使用办公及财务软件，拥有良好的数据敏感度和文字功底",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学、财务管理、税收学、审计学等财务相关专业应届毕业生",
+          "具备扎实的专业功底"
+        ]
       },
       "language": {
         "raw": "",
@@ -8878,7 +9103,10 @@
       },
       "major": {
         "raw": "1.学历要求：全日制硕士研究生及以上学历，投资学、经济学、金融学及相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "投资学、经济学、金融学及相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -8963,7 +9191,10 @@
       },
       "major": {
         "raw": "1.学历要求：全日制硕士研究生及以上学历，财务管理、会计学、金融学及相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务管理、会计学、金融学及相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9045,7 +9276,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历，船舶与海洋工程、轮机工程、电气工程及其自动化、机械设计制造及其自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "船舶与海洋工程、轮机工程、电气工程及其自动化、机械设计制造及其自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9132,7 +9366,26 @@
       },
       "major": {
         "raw": "1、负责港口航道类工程的咨询设计工作，共包括总平面、水工结构、装卸工艺、地基处理、道堆、电气、控制及智能化系统等细分专业工作；3、总平面专业主要职责：负责港口、航道等工程的总平面规划、设计工作，具体包括水陆域平面设计、主尺度计算、高程设计、港作车船及航道锚地方案、工程量计算统计等设计工作；4、水工结构专业主要职责：根据上游专业设计条件、地质及水文等自然环境条件，完成各类型码头、引堤、防波堤、围堰等水工建筑物的方案设计、结构计算、工程量统计等设计工作；5、装卸工艺专业主要职责：负责港口、物流园区等工程的装卸工艺设计工作，具体包括码头及陆域装卸工艺设计方案、通过能力及堆场容量等计算、设备参数计算及选取、设备规格书编制、工艺方案比选、工程量计算统计等设计工作；6、地基处理专业主要职责：港口、物流园区等工程的地基处理、岩土类设计工作，具体包括根据上游专业设计条件、地质等自然环境条件，开展陆域的地基处理设计，开山边坡、挡土墙等设计，工程量计算统计等设计工作；7、道堆专业主要职责：港口、物流园区等工程的道路和堆场的设计工作，具体包括根据上游专业设计条件，开展堆场的面层结构、轨道梁设计，道路的路基、路面、路线设计，工程量计算统计等设计工作；8、电气专业主要职责：负责港口等工程变电所、供电管网设计，电气设备选择及技术规格书编制，照明、防雷接地、船舶岸电等设计；投标文件中电气专业内容的编制；9、控制及智能化系统专业主要职责：负责负责港口等工程的自动化控制系统、智能调度系统、安防监控系统、物联网应用等设计、技术规格书编制等；装卸工艺专业：机械工程类，专业方向为港口机械的优先；电气专业：电气工程类；控制及智能化系统专业：自动化、计算机科学与技术、电子信息工程类；暖通专业：建筑环境与能源应用工程、供热供燃气通风及空调工程、能源与动力工程等；金属结构专业：机械工程类，机械设计及自动化类；3、通过英语六级及国家计算机二级考试，熟练使用办公软件，专业计算软件及图纸设计软件",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "共包括总平面、水工结构、装卸工艺、地基处理、道堆、电气、控制及智能化系统等细分专业工作",
+          "3、总平面专业主要职责：负责港口、航道等工程的总平面规划、设计工作",
+          "4、水工结构专业主要职责：根据上游专业设计条件、地质及水文等自然环境条件",
+          "5、装卸工艺专业主要职责：负责港口、物流园区等工程的装卸工艺设计工作",
+          "6、地基处理专业主要职责：港口、物流园区等工程的地基处理、岩土类设计工作",
+          "具体包括根据上游专业设计条件、地质等自然环境条件",
+          "7、道堆专业主要职责：港口、物流园区等工程的道路和堆场的设计工作",
+          "具体包括根据上游专业设计条件",
+          "8、电气专业主要职责：负责港口等工程变电所、供电管网设计",
+          "投标文件中电气专业内容的编制",
+          "9、控制及智能化系统专业主要职责：负责负责港口等工程的自动化控制系统、智能调度系统、安防监控系统、物联网应用等设计、技术规格书编制等",
+          "装卸工艺专业：机械工程类",
+          "电气专业：电气工程类",
+          "控制及智能化系统专业：自动化、计算机科学与技术、电子信息工程类",
+          "暖通专业：建筑环境与能源应用工程、供热供燃气通风及空调工程、能源与动力工程等",
+          "金属结构专业：机械工程类",
+          "专业计算软件及图纸设计软件"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9236,7 +9489,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9323,7 +9577,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9408,7 +9663,11 @@
       },
       "major": {
         "raw": "信息工程类专业要求：自动化、计算机科学与技术、电子信息工程、通信工程、软件工程、人工智能类相关专业 科技研发类专业要求：计算机科学与技术、软件工程、港口航道与海岸工程、物理海洋数值模拟类相关专业；3、通过英语六级考试，熟练使用办公软件，专业计算软件及图纸设计软件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "信息工程类专业要求：自动化、计算机科学与技术、电子信息工程、通信工程、软件工程、人工智能类相关专业 科技研发类专业要求：计算机科学与技术、软件工程、港口航道与海岸工程、物理海洋数值模拟类相关专业",
+          "专业计算软件及图纸设计软件"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9498,7 +9757,11 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，电气工程及自动化、建筑电气与智能化等相关专业；2、通过英语六级考试，读写能力较强，能够运用英语就本专业问题熟练与甲方、咨工等参建单位进行交流沟通",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气工程及自动化、建筑电气与智能化等相关专业",
+          "能够运用英语就本专业问题熟练与甲方、咨工等参建单位进行交流沟通"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9592,7 +9855,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -9676,7 +9940,11 @@
       },
       "major": {
         "raw": "1.专业学历：本科及以上学历，工商管理、人力资源管理等专业，能按时获得统招全日制学历及学位证书",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业学历：本科及以上学历",
+          "工商管理、人力资源管理等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9761,7 +10029,11 @@
       },
       "major": {
         "raw": "2.混凝土材料与结构耐久性、结构承载能力分析、结构性能数值模拟、大数据分析、人工智能等相关研究方向，掌握本专业所学知识，具备较强的科研能力，在国内外知名期刊发表过论文",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.混凝土材料与结构耐久性、结构承载能力分析、结构性能数值模拟、大数据分析、人工智能等相关研究方向",
+          "掌握本专业所学知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -9845,7 +10117,12 @@
       },
       "major": {
         "raw": "2、地球物理等相关专业，基本功扎实，熟练掌握本专业所学知识，能够使用专业相关专业软件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、地球物理等相关专业",
+          "熟练掌握本专业所学知识",
+          "能够使用专业相关专业软件"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9927,7 +10204,10 @@
       },
       "major": {
         "raw": "2、专业学习成绩优异，通过大学英语六级（CET-6）或具备同等外语应用能力(投递带附本科、硕士成绩单、英语四六级证书等材料)",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、专业学习成绩优异"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -10011,7 +10291,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10096,7 +10377,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10181,7 +10463,10 @@
       },
       "major": {
         "raw": "2、专业学习成绩优异，通过大学英语六级（CET-6）或具备同等外语应用能力(投递带附本科、硕士成绩单、英语四六级证书等材料)",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、专业学习成绩优异"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -10265,7 +10550,8 @@
       },
       "major": {
         "raw": "通过大学英语六级（CET-6）或具备同等外语应用能力(投递带附本科、硕士成绩单、英语四六级证书等材料)",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -10349,7 +10635,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10434,7 +10721,10 @@
       },
       "major": {
         "raw": "1、本科以上学历，人文社科、财务管理、新闻传播类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人文社科、财务管理、新闻传播类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -10519,7 +10809,11 @@
       },
       "major": {
         "raw": "1.专业要求：中文类、新闻传播类，财务会计类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业要求：中文类、新闻传播类",
+          "财务会计类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -10604,7 +10898,10 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，汉语言文学、新闻传播等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "汉语言文学、新闻传播等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -10692,7 +10989,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -10774,7 +11072,11 @@
       },
       "major": {
         "raw": "（一）专业背景 交通工程、交通信息工程及控制、交通运输工程等交通相关专业，硕士及以上学历，基础知识扎实，具备系统的交通工程专业理论体系",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "（一）专业背景 交通工程、交通信息工程及控制、交通运输工程等交通相关专业",
+          "具备系统的交通工程专业理论体系"
+        ]
       },
       "language": {
         "raw": "",
@@ -10865,7 +11167,10 @@
       },
       "major": {
         "raw": "5、掌握材料力学、结构力学、结构动力学等相关专业知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "5、掌握材料力学、结构力学、结构动力学等相关专业知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -10948,7 +11253,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11026,7 +11332,10 @@
       },
       "major": {
         "raw": "2、成体系且熟练地掌握多门专业基础理论与技能，如测控技术与仪器、信号采集与处理、电路/模电/数电、电力传动、控制工程、机电一体化等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、成体系且熟练地掌握多门专业基础理论与技能"
+        ]
       },
       "language": {
         "raw": "",
@@ -11110,7 +11419,10 @@
       },
       "major": {
         "raw": "2、声学工程、水声工程、测控技术与仪器、电子信息、信号与信息处理、自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、声学工程、水声工程、测控技术与仪器、电子信息、信号与信息处理、自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11193,7 +11505,10 @@
       },
       "major": {
         "raw": "2、控制科学与工程、自动化、电气工程、测控技术与仪器等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、控制科学与工程、自动化、电气工程、测控技术与仪器等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -11277,7 +11592,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "法语",
@@ -11360,7 +11676,10 @@
       },
       "major": {
         "raw": "1、全日制硕士及以上学历，计算机、GIS相关专业毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、GIS相关专业毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -11442,7 +11761,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11522,7 +11842,12 @@
       },
       "major": {
         "raw": "（6）主动学习自动化、电气控制相关新技术，完成定向培养的学习任务，持续提升专业能力，成长为项目实施、自动化开发方向后备技术人才；（1）硕士研究生及以上学历，电气工程及其自动化、自动化、控制工程等相关专业，可按时取得毕业证、学位证",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "持续提升专业能力",
+          "成长为项目实施、自动化开发方向后备技术人才",
+          "电气工程及其自动化、自动化、控制工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -11612,7 +11937,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11697,7 +12023,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11781,7 +12108,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11865,7 +12193,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -11949,7 +12278,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12033,7 +12363,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12118,7 +12449,10 @@
       },
       "major": {
         "raw": "2.会计学、财务管理类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.会计学、财务管理类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12200,7 +12534,10 @@
       },
       "major": {
         "raw": "1. 大专及以上学历，电气自动化技术、机电一体化技术、供用电技术、工业机器人技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气自动化技术、机电一体化技术、供用电技术、工业机器人技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12282,7 +12619,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12365,7 +12703,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，结构工程、材料工程（混凝土或沥青）、土木工程等相关专业，有一定的项目实践经历，具备较强的科研能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "结构工程、材料工程（混凝土或沥青）、土木工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12447,7 +12788,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12528,7 +12870,10 @@
       },
       "major": {
         "raw": "2.财务管理、会计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.财务管理、会计学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12610,7 +12955,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12690,7 +13036,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -12773,7 +13120,10 @@
       },
       "major": {
         "raw": "1、硕士学历，计算机、信息、自动化、软件工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、信息、自动化、软件工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12856,7 +13206,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，计算机科学、软件工程、机械工程、智能制造等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学、软件工程、机械工程、智能制造等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -12939,7 +13292,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13023,7 +13377,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13103,7 +13458,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13185,7 +13541,10 @@
       },
       "major": {
         "raw": "1.27届硕士研究生及以上学历，计算机科学与技术、软件工程、人工智能、物联网、工业设计等相关专业，有出色的学习能力和自驱能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、软件工程、人工智能、物联网、工业设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13271,7 +13630,8 @@
       },
       "major": {
         "raw": "1. 2027届应届硕士研究生及以上学历，计算机科学与技术、软件工程、人工智能、电子信息、等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13358,7 +13718,12 @@
       },
       "major": {
         "raw": "4.理工科背景，船舶与海洋工程专业，机械工程专业优先考虑；1.硕士及以上海工、机械类相关专业",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "4.理工科背景",
+          "船舶与海洋工程专业",
+          "1.硕士及以上海工、机械类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13441,7 +13806,10 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，计算机、自动化、电子信息工程、测控技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、自动化、电子信息工程、测控技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13521,7 +13889,10 @@
       },
       "major": {
         "raw": "1．硕士及以上学历，计算机科学与技术、软件工程、电子信息、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、软件工程、电子信息、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13608,7 +13979,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -13693,7 +14065,8 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生及以上学历，人工智能、计算机科学与技术、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -13779,7 +14152,10 @@
       },
       "major": {
         "raw": "（1）.2027届应届硕士及以上学历，计算机、数学、统计学、电子信息等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数学、统计学、电子信息等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13864,7 +14240,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历毕业生，机械设计制造及其自动化、机械工程、车辆工程、机电一体化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械设计制造及其自动化、机械工程、车辆工程、机电一体化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -13946,7 +14325,10 @@
       },
       "major": {
         "raw": "1. 硕士研究生，计算机类、电子信息类、自动化类、机械电子类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机类、电子信息类、自动化类、机械电子类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14033,7 +14415,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，电气工程及其自动化、自动化、控制科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气工程及其自动化、自动化、控制科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14117,7 +14502,10 @@
       },
       "major": {
         "raw": "1. 硕士及以上学历，机械工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14200,7 +14588,10 @@
       },
       "major": {
         "raw": "1、2027年应届硕士研究生，专业为技术经济及管理、交通运输规划与管理（航运工程方向）、工程管理、应用经济学（投资经济方向）或与项目经济评价直接相关的其他专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业为技术经济及管理、交通运输规划与管理（航运工程方向）、工程管理、应用经济学（投资经济方向）或与项目经济评价直接相关的其他专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14287,7 +14678,10 @@
       },
       "major": {
         "raw": "1、2027届应届博士毕业生，水文泥沙、岩土工程、人工智能相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "水文泥沙、岩土工程、人工智能相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14374,7 +14768,8 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生及以上学历，人工智能、计算机科学与技术、软件工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14460,7 +14855,8 @@
       },
       "major": {
         "raw": "1. 2027届应届硕士研究生及以上学历，计算机科学与技术、软件工程、人工智能、电子信息、等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14547,7 +14943,10 @@
       },
       "major": {
         "raw": "1.27届硕士研究生及以上学历，计算机科学与技术、软件工程、人工智能、物联网、工业设计等相关专业，有出色的学习能力和自驱能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、软件工程、人工智能、物联网、工业设计等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -14633,7 +15032,10 @@
       },
       "major": {
         "raw": "2.教育专业：水文与水资源工程、水利水电工程、水利科学与工程、智慧水利、数据科学、数据计算及应用、智能计算、数据科学与大数据技术等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.教育专业：水文与水资源工程、水利水电工程、水利科学与工程、智慧水利、数据科学、数据计算及应用、智能计算、数据科学与大数据技术等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14722,7 +15124,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14813,7 +15216,11 @@
       },
       "major": {
         "raw": "1.协助开展智慧交通、智能化、机电集成项目电气专业方案设计，参与供配电、防雷接地、照明等系统图纸绘制、设备选型、材料清单编制；1.研究生及以上学历，电气工程及其自动化、电气与智能化、机电一体化等相关专业，2026 届应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.协助开展智慧交通、智能化、机电集成项目电气专业方案设计",
+          "电气工程及其自动化、电气与智能化、机电一体化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14900,7 +15307,10 @@
       },
       "major": {
         "raw": "1.研究生及以上学历，自动化、控制科学与工程、电气工程及其自动化、机电控制等相关专业，2027 届应届毕业生；有 PLC 课程实训、自动化项目实习、学科竞赛经历优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "自动化、控制科学与工程、电气工程及其自动化、机电控制等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -14985,7 +15395,8 @@
       },
       "major": {
         "raw": "2.电气工程及其自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15069,7 +15480,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15150,7 +15562,8 @@
       },
       "major": {
         "raw": "2. 经济类（金融学、经济学等）、建筑工程等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15233,7 +15646,10 @@
       },
       "major": {
         "raw": "1. 2027届全日制本科及以上学历毕业生，机电工程、电气工程及其自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机电工程、电气工程及其自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15315,7 +15731,10 @@
       },
       "major": {
         "raw": "2. 机电工程、测控技术与仪器、电子技术、自动化、工程物探等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 机电工程、测控技术与仪器、电子技术、自动化、工程物探等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15399,7 +15818,10 @@
       },
       "major": {
         "raw": "1. 博士研究生学历，计算机科学与技术、人工智能、软件工程、信息检索、自然语言处理或土木工程（智能建造方向）等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、人工智能、软件工程、信息检索、自然语言处理或土木工程（智能建造方向）等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15485,7 +15907,10 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生，计算机科学与技术、网络空间安全、信息安全、软件工程、通信工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、网络空间安全、信息安全、软件工程、通信工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15572,7 +15997,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15654,7 +16080,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15736,7 +16163,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15818,7 +16246,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15901,7 +16330,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -15982,7 +16412,10 @@
       },
       "major": {
         "raw": "1. 2027届全日制本科及以上学历毕业生，土木工程、工程管理、市政工程、建筑工程、给排水科学与工程、建筑环境与能源应用工程、道路桥梁与渡河工程、水利水电工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "土木工程、工程管理、市政工程、建筑工程、给排水科学与工程、建筑环境与能源应用工程、道路桥梁与渡河工程、水利水电工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -16068,7 +16501,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -16154,7 +16588,10 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，财务管理、会计学、审计学、金融学等相关财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务管理、会计学、审计学、金融学等相关财经类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16241,7 +16678,10 @@
       },
       "major": {
         "raw": "1.硕士研究生及以上学历，环境工程、环境科学、给排水、市政工程、高分子材料、化工、电气自控、生物工程、微生物相等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "环境工程、环境科学、给排水、市政工程、高分子材料、化工、电气自控、生物工程、微生物相等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16327,7 +16767,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16411,7 +16852,10 @@
       },
       "major": {
         "raw": "1.硕士研究生学历，计算机科学与技术、软件工程、数据科学与大数据技术、人工智能、控制科学与工程、电气工程及自动化、机器人工程、环境工程（智能水务/建模方向）、材料科学与工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、软件工程、数据科学与大数据技术、人工智能、控制科学与工程、电气工程及自动化、机器人工程、环境工程（智能水务/建模方向）、材料科学与工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16494,7 +16938,10 @@
       },
       "major": {
         "raw": "2智能车辆工程、新能源汽车工程、电力电子等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2智能车辆工程、新能源汽车工程、电力电子等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16580,7 +17027,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -16664,7 +17112,10 @@
       },
       "major": {
         "raw": "1. 2027届本科及以上学历毕业生，交通运输工程、交通运输规划与管理、产业经济学、技术经济及管理等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "交通运输工程、交通运输规划与管理、产业经济学、技术经济及管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16747,7 +17198,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -16832,7 +17284,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -16917,7 +17370,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -17002,7 +17456,11 @@
       },
       "major": {
         "raw": "1.学习法律、金融、经济等相关专业；2.熟悉国际市场规则和法律法规，拥有国际法、海外投融资相关专业知识",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学习法律、金融、经济等相关专业",
+          "拥有国际法、海外投融资相关专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17094,7 +17552,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17178,7 +17637,10 @@
       },
       "major": {
         "raw": "2.智慧交通、计算机、自动控制、自动化、通信工程、电子及信息化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.智慧交通、计算机、自动控制、自动化、通信工程、电子及信息化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17264,7 +17726,10 @@
       },
       "major": {
         "raw": "1. 2027届应届毕业生，大专及以上学历，航海技术、轮机工程、船舶电子电气工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "航海技术、轮机工程、船舶电子电气工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17351,7 +17816,8 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，专业不限，管理类（行政管理、人力资源管理、公共事业管理）、文秘类、汉语言文学、法学、新闻传播等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -17436,7 +17902,10 @@
       },
       "major": {
         "raw": "1.全日制本科及以上学历，安全工程、安全科学与工程、机械工程、土木工程等相关专业应届毕业生，中共党员优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "安全工程、安全科学与工程、机械工程、土木工程等相关专业应届毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -17520,7 +17989,11 @@
       },
       "major": {
         "raw": "1. 全日制本科及以上学历，机械工程、机械设计制造、机电、自动化等相关专业，2027 届应届毕业生，中共党员优先；2. 专业基础扎实，具备机械设计理论知识，能够熟练使用 CAD、SolidWorks 等设计软件",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程、机械设计制造、机电、自动化等相关专业",
+          "2. 专业基础扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -17601,7 +18074,8 @@
       },
       "major": {
         "raw": "1. 航海技术、轮机工程、船舶电子电气工程、海事管理、交通运输（水路方向）等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -17688,7 +18162,10 @@
       },
       "major": {
         "raw": "1. 航海技术、轮机工程、船舶电子电气工程、船舶与海洋工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 航海技术、轮机工程、船舶电子电气工程、船舶与海洋工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17774,7 +18251,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，财务学、会计学、财务管理、审计学等相关财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务学、会计学、财务管理、审计学等相关财经类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17860,7 +18340,10 @@
       },
       "major": {
         "raw": "1. 建筑材料、无机非金属材料、土木工程、工程管理等相关专业，本科及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 建筑材料、无机非金属材料、土木工程、工程管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -17949,7 +18432,11 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，无机非金属材料工程、金属材料工程、土木工程（建筑材料方向）、道路桥梁与渡河工程等相关专业；3. 英语四级及以上，具备基本的专业文献阅读能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "无机非金属材料工程、金属材料工程、土木工程（建筑材料方向）、道路桥梁与渡河工程等相关专业",
+          "具备基本的专业文献阅读能力"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18035,7 +18522,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -18121,7 +18609,10 @@
       },
       "major": {
         "raw": "1. 港口航道与海岸工程、道路桥梁与隧道工程、公路工程、水利水电工程、土木工程、岩土工程、结构工程、地质工程、电气工程及其自动化、建筑环境与能源应用工程（暖通方向）、市政工程、城市地下空间工程、轨道交通信号与控制等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 港口航道与海岸工程、道路桥梁与隧道工程、公路工程、水利水电工程、土木工程、岩土工程、结构工程、地质工程、电气工程及其自动化、建筑环境与能源应用工程（暖通方向）、市政工程、城市地下空间工程、轨道交通信号与控制等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18210,7 +18701,13 @@
       },
       "major": {
         "raw": "3、负责海洋生态修复项目的申报材料编制，沙滩、滨海湿地、红树林、珊瑚礁、海草床生态系统修复的专项设计及前期调查研究工作的技术要求的编制，完成专业间的配合工作，投标文件中关于海洋调查、生态设计等专业内容的编制，施工阶段的设计配合工作；具体专业：物理海洋、海洋生态、海洋工程、河口海岸工程等；3、通过英语六级及国家计算机二级考试，熟练使用办公软件，专业计算软件及图纸设计软件",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "完成专业间的配合工作",
+          "投标文件中关于海洋调查、生态设计等专业内容的编制",
+          "具体专业：物理海洋、海洋生态、海洋工程、河口海岸工程等",
+          "专业计算软件及图纸设计软件"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18302,7 +18799,10 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生及以上学历，机械工程、机械设计制造及其自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程、机械设计制造及其自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18384,7 +18884,10 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生及以上学历毕业生，油气储运工程、石油与天然气工程、化工机械工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "油气储运工程、石油与天然气工程、化工机械工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18466,7 +18969,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18547,7 +19051,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -18628,7 +19133,11 @@
       },
       "major": {
         "raw": "1.专业学历：本科以上学历，土木工程、建筑材料、无机非金属、金属材料等相关专业，能按时获得统招全日制学历及学位证书",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业学历：本科以上学历",
+          "土木工程、建筑材料、无机非金属、金属材料等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18714,7 +19223,11 @@
       },
       "major": {
         "raw": "1.专业学历：本科及以上学历，马克思主义理论类、政治学、哲学、汉语言文学、新闻传播学等专业，能按时获得统招全日制学历及学位证书",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.专业学历：本科及以上学历",
+          "马克思主义理论类、政治学、哲学、汉语言文学、新闻传播学等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18796,7 +19309,11 @@
       },
       "major": {
         "raw": "1. 专业学历：本科以上学历，财务管理、会计学等相关专业，能按时获得统招全日制学历及学位证书",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 专业学历：本科以上学历",
+          "财务管理、会计学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -18882,7 +19399,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -18964,7 +19482,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -19050,7 +19569,11 @@
       },
       "major": {
         "raw": "1.硕士及以上学历，无机非金属材料、土木工程等专业，掌握本专业所学知识，有一定的项目实践经历，具备较强的科研能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "无机非金属材料、土木工程等专业",
+          "掌握本专业所学知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -19132,7 +19655,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19212,7 +19736,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19292,7 +19817,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19374,7 +19900,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -19455,7 +19982,10 @@
       },
       "major": {
         "raw": "1. 2027届毕业生，本科及以上学历，财务管理、会计学、审计学、金融学等相关财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务管理、会计学、审计学、金融学等相关财经类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19540,7 +20070,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19625,7 +20156,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19710,7 +20242,10 @@
       },
       "major": {
         "raw": "1.27届硕士研究生及以上学历，，博士优先，计算机、数学、统计学、电子信息、自动化、交通水运、通导遥等相关专业，有出色的学习能力和自驱能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机、数学、统计学、电子信息、自动化、交通水运、通导遥等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -19795,7 +20330,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19875,7 +20411,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -19955,7 +20492,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20035,7 +20573,10 @@
       },
       "major": {
         "raw": "1、新闻与传播学、汉语言文学、马哲史、语言类等相关专业；2、2027年应届毕业生，学历本科及以上，英语四级以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、新闻与传播学、汉语言文学、马哲史、语言类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20119,7 +20660,8 @@
       },
       "major": {
         "raw": "2、2027年应届毕业生，学历本科及以上，英语四级以上",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -20202,7 +20744,10 @@
       },
       "major": {
         "raw": "1、财务管理、会计学等相关专业；2、2027年应届毕业生，学历本科及以上，英语四级以上",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、财务管理、会计学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20286,7 +20831,8 @@
       },
       "major": {
         "raw": "2、2027年应届毕业生，学历本科及以上，英语四级以上",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -20369,7 +20915,8 @@
       },
       "major": {
         "raw": "2、2027年应届毕业生，学历本科及以上，英语四级以上",
-        "hardRestriction": true
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -20452,7 +20999,10 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生及以上学历，计算机科学与技术、软件工程、人工智能等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "计算机科学与技术、软件工程、人工智能等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -20536,7 +21086,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20619,7 +21170,10 @@
       },
       "major": {
         "raw": "2、专业要求：会计学、财务管理等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、专业要求：会计学、财务管理等专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -20705,7 +21259,10 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，材料科学与工程、无机非金属材料等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "材料科学与工程、无机非金属材料等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -20790,7 +21347,8 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，机械工程、电气工程及其自动化等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -20880,7 +21438,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -20967,7 +21526,10 @@
       },
       "major": {
         "raw": "1.交通工程、通信工程、智能交通、相关专业硕士研究生及以上学历",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.交通工程、通信工程、智能交通、相关专业硕士研究生及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -21052,7 +21614,8 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，财务管理、会计学、审计学、金融学、经济学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21138,7 +21701,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，物流管理、机械设计制造及其自动化、土木工程、工程管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -21226,7 +21790,11 @@
       },
       "major": {
         "raw": "1. 硕士研究生及以上学历，交通运输工程、交通信息工程与控制、智能科学与技术、计算机科学与技术、自动化、电子信息工程等相关专业；2. 具备扎实的交通工程基础理论或人工智能/数据分析/嵌入式系统等相关技术背景，熟悉至少一种主流交通仿真软件（如VISSIM、SUMO、AIMSUN）或编程语言（Python、MATLAB、C++）者优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "交通运输工程、交通信息工程与控制、智能科学与技术、计算机科学与技术、自动化、电子信息工程等相关专业",
+          "2. 具备扎实的交通工程基础理论或人工智能/数据分析/嵌入式系统等相关技术背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -21312,7 +21880,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -21395,7 +21964,10 @@
       },
       "major": {
         "raw": "1.财务管理、会计类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.财务管理、会计类等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21480,7 +22052,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -21563,7 +22136,10 @@
       },
       "major": {
         "raw": "1.机械工程、机械设计制造及自动化专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.机械工程、机械设计制造及自动化专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -21646,7 +22222,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -21729,7 +22306,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -21814,7 +22392,10 @@
       },
       "major": {
         "raw": "1. 2027届本科及以上学历毕业生，专业为财务管理、会计学、审计学等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业为财务管理、会计学、审计学等"
+        ]
       },
       "language": {
         "raw": "",
@@ -21901,7 +22482,10 @@
       },
       "major": {
         "raw": "1. 2027届全日制本科及以上学历应届毕业生，人力资源管理、法学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "人力资源管理、法学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -21988,7 +22572,10 @@
       },
       "major": {
         "raw": "1. 2027届全日制本科及以上学历毕业生，财务管理、会计学等相关财经类专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务管理、会计学等相关财经类专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -22076,7 +22663,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22163,7 +22751,12 @@
       },
       "major": {
         "raw": "2. 协助开展船舶结构、轮机、电气、焊接等专业相关的设计校核、工艺编制、质量检验及进度跟踪；1. 2027届高校毕业生，本科及以上学历，船舶与海洋工程、海洋工程、焊接工程、轮机工程、能源与动力工程、电气工程及其自动化、自动化、船舶电子电气工程等相关专业；2. 按期取得毕业证、学位证，英语四级及以上，具备良好的专业英语读写能力",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 协助开展船舶结构、轮机、电气、焊接等专业相关的设计校核、工艺编制、质量检验及进度跟踪",
+          "船舶与海洋工程、海洋工程、焊接工程、轮机工程、能源与动力工程、电气工程及其自动化、自动化、船舶电子电气工程等相关专业",
+          "具备良好的专业英语读写能力"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22252,7 +22845,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -22337,7 +22931,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -22422,7 +23017,10 @@
       },
       "major": {
         "raw": "1、本科及以上学历，财务管理、会计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "财务管理、会计学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -22506,7 +23104,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -22591,7 +23190,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -22673,7 +23273,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -22755,7 +23356,10 @@
       },
       "major": {
         "raw": "1. 2027届应届本科及以上学历毕业生，会计学、财务管理专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学、财务管理专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -22841,7 +23445,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -22925,7 +23530,10 @@
       },
       "major": {
         "raw": "1. 机械工程、机械设计制造及其自动化、车辆工程等相关专业，2027届应届毕业生，本科及以上学历，能于毕业前取得学历证、学位证",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 机械工程、机械设计制造及其自动化、车辆工程等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -23011,7 +23619,10 @@
       },
       "major": {
         "raw": "1. 财务管理、会计学、审计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 财务管理、会计学、审计学等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -23095,7 +23706,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23178,7 +23790,10 @@
       },
       "major": {
         "raw": "2.中共党员，工商管理类、新闻传播类、法学类等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "工商管理类、新闻传播类、法学类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -23260,7 +23875,10 @@
       },
       "major": {
         "raw": "1.应届机械类、安全类等工科专业本科及以上学历毕业生，取得相应学位",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.应届机械类、安全类等工科专业本科及以上学历毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -23347,7 +23965,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23428,7 +24047,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23506,7 +24126,11 @@
       },
       "major": {
         "raw": "2、学习最新企业会计准则、税收政策（如增值税优惠、企业所得税调整），参与公司组织的财务培训，提升专业合规意识；2、会计学、财务管理、审计学、财政学、金融学（偏财务方向） 等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "提升专业合规意识",
+          "2、会计学、财务管理、审计学、财政学、金融学（偏财务方向） 等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -23588,7 +24212,10 @@
       },
       "major": {
         "raw": "3、能熟练掌握使用本专业相关的计算机辅助设计工具",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、能熟练掌握使用本专业相关的计算机辅助设计工具"
+        ]
       },
       "language": {
         "raw": "",
@@ -23674,7 +24301,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23754,7 +24382,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23834,7 +24463,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23916,7 +24546,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -23996,7 +24627,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24078,7 +24710,10 @@
       },
       "major": {
         "raw": "1. 2027届应届硕士研究生，机械工程及相关专业，硕士研究生学历优先",
-        "hardRestriction": false
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程及相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24160,7 +24795,11 @@
       },
       "major": {
         "raw": "2. 对接工艺、电气等专业，参与招标文件技术条款编制及评标支持工作；1. 2027届应届硕士研究生毕业生，自动化、控制科学与工程、电气工程及其自动化、测控技术与仪器等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 对接工艺、电气等专业",
+          "自动化、控制科学与工程、电气工程及其自动化、测控技术与仪器等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24245,7 +24884,10 @@
       },
       "major": {
         "raw": "1. 2027届应届硕士研究生，电气工程、能源动力、新能源科学与工程、储能科学与工程、电力系统及其自动化等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气工程、能源动力、新能源科学与工程、储能科学与工程、电力系统及其自动化等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -24332,7 +24974,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "法语",
@@ -24414,7 +25057,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24495,7 +25139,11 @@
       },
       "major": {
         "raw": "2、具备车辆工程、交通信息与控制、人工智能、软件工程等相关专业背景，熟悉商用车编队技术原理，更侧重系统架构设计、多设备集成调度及工程现场问题解决能力；1、硕士研究生以上学历（博士优先），人工智能、计算机、软件工程、车辆工程、交通信息工程与控制等相关专业应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、具备车辆工程、交通信息与控制、人工智能、软件工程等相关专业背景",
+          "人工智能、计算机、软件工程、车辆工程、交通信息工程与控制等相关专业应届毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -24582,7 +25230,10 @@
       },
       "major": {
         "raw": "1、硕士及以上学历，岩土工程、道路路面材料相关专业应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "岩土工程、道路路面材料相关专业应届毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -24664,7 +25315,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24745,7 +25397,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24826,7 +25479,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24904,7 +25558,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -24984,7 +25639,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25064,7 +25720,10 @@
       },
       "major": {
         "raw": "汉语言文学、思想政治教育、法学、人力资源管理等专业毕业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "汉语言文学、思想政治教育、法学、人力资源管理等专业毕业"
+        ]
       },
       "language": {
         "raw": "",
@@ -25146,7 +25805,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25230,7 +25890,13 @@
       },
       "major": {
         "raw": "7、完成领导交办的其他财务相关工作，主动学习建筑行业财务专业知识，快速适配岗位工作；1、学历专业：2027届应届毕业生，财务管理、会计学、财政、税务等财务相关专业，本科及以上学历；2、专业能力：掌握基础财务、税务、成本核算知识，熟悉基本财务法规及办公、财务软件操作",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "主动学习建筑行业财务专业知识",
+          "1、学历专业：2027届应届毕业生",
+          "财务管理、会计学、财政、税务等财务相关专业",
+          "2、专业能力：掌握基础财务、税务、成本核算知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -25317,7 +25983,8 @@
       },
       "major": {
         "raw": "1. 2027届全日制本科及以上学历毕业生，中共党员（含预备党员）优先，马克思主义理论类、思想政治教育、汉语言文学、新闻传播学、公共管理、法学等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25401,7 +26068,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25483,7 +26151,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25563,7 +26232,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25644,7 +26314,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25730,7 +26401,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25811,7 +26483,11 @@
       },
       "major": {
         "raw": "5、需求专业：电气工程及其自动化、电力工程、能源工程等相关专业；1、硕士及以上学历，电气工程相关专业应届毕业生",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "5、需求专业：电气工程及其自动化、电力工程、能源工程等相关专业",
+          "电气工程相关专业应届毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -25895,7 +26571,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -25981,7 +26658,8 @@
       },
       "major": {
         "raw": "1. 行政管理、汉语言文学、人力资源管理、工商管理、公共事业管理、法学、新闻传播等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26066,7 +26744,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26147,7 +26826,10 @@
       },
       "major": {
         "raw": "1. 2027届硕士研究生学历，法学专业，通过国家统一法律职业资格考试者",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "法学专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -26230,7 +26912,10 @@
       },
       "major": {
         "raw": "1. 2027届毕业生，本科及以上学历，土木工程、无机非金属材料工程、工程管理（试验检测方向）等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "土木工程、无机非金属材料工程、工程管理（试验检测方向）等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -26315,7 +27000,8 @@
       },
       "major": {
         "raw": "1. 2027届毕业生，本科及以上学历，马克思主义理论类、思想政治教育、汉语言文学、新闻传播学、公共管理类等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26399,7 +27085,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26479,7 +27166,11 @@
       },
       "major": {
         "raw": "1. 2027届应届毕业生，本科及以上学历，机械工程、机械设计制造及其自动化、电气工程及其自动化、等相关专业；2. 具备扎实的机械原理、液压传动、设备管理或施工机械应用等专业基础知识，熟悉常用工程机械基本结构与运行原理",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "机械工程、机械设计制造及其自动化、电气工程及其自动化、等相关专业",
+          "2. 具备扎实的机械原理、液压传动、设备管理或施工机械应用等专业基础知识"
+        ]
       },
       "language": {
         "raw": "",
@@ -26566,7 +27257,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26651,7 +27343,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26732,7 +27425,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26814,7 +27508,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26899,7 +27594,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -26982,7 +27678,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27060,7 +27757,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27138,7 +27836,10 @@
       },
       "major": {
         "raw": "1、机械工程、机电一体化、机械自动化等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、机械工程、机电一体化、机械自动化等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -27219,7 +27920,10 @@
       },
       "major": {
         "raw": "1、电气工程、建筑环境与能源应用工程、暖通、机电一体化、制冷工程等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、电气工程、建筑环境与能源应用工程、暖通、机电一体化、制冷工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -27300,7 +28004,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27380,7 +28085,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27460,7 +28166,10 @@
       },
       "major": {
         "raw": "3、专业要求：会计学、财务管理、审计学、税务学等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、专业要求：会计学、财务管理、审计学、税务学等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -27542,7 +28251,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27625,7 +28335,10 @@
       },
       "major": {
         "raw": "3、专业要求：土木类、力学类、化学及材料类等专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、专业要求：土木类、力学类、化学及材料类等专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -27708,7 +28421,10 @@
       },
       "major": {
         "raw": "3、专业要求：机械设计制造及其自动化、机械工程、电气工程及其自动化、轮机工程、船舶与海洋工程等",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、专业要求：机械设计制造及其自动化、机械工程、电气工程及其自动化、轮机工程、船舶与海洋工程等"
+        ]
       },
       "language": {
         "raw": "",
@@ -27788,7 +28504,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27868,7 +28585,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -27946,7 +28664,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28026,7 +28745,8 @@
       },
       "major": {
         "raw": "（财务管理、会计学等专业优先）",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28109,7 +28829,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28190,7 +28911,10 @@
       },
       "major": {
         "raw": "1、全日制本科及以上学历，土木工程，港口航道工程，电气自动化、安全工程、试验检测、测绘等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气自动化、安全工程、试验检测、测绘等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -28276,7 +29000,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历应届毕业生，会计学、财务管理、审计学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "会计学、财务管理、审计学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -28359,7 +29086,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历应届毕业生，安全工程、起重运输与工程机械等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "安全工程、起重运输与工程机械等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -28441,7 +29171,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历应届毕业生，无机非金属材料工程、材料科学与工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "无机非金属材料工程、材料科学与工程相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -28521,7 +29254,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28604,7 +29338,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28684,7 +29419,10 @@
       },
       "major": {
         "raw": "1.本科及以上学历应届毕业生，电气工程、机械工程相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "电气工程、机械工程相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -28769,7 +29507,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28851,7 +29590,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -28936,7 +29676,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29019,7 +29760,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29104,7 +29846,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29184,7 +29927,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29265,7 +30009,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29348,7 +30093,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29430,7 +30176,10 @@
       },
       "major": {
         "raw": "2. 专业包括汉语言文学、马克思主义理论、哲学、历史学、新闻传播学、思想政治教育等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 专业包括汉语言文学、马克思主义理论、哲学、历史学、新闻传播学、思想政治教育等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -29513,7 +30262,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29595,7 +30345,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29676,7 +30427,8 @@
       },
       "major": {
         "raw": "1. 2027届全日制本科及以上学历毕业生，人力资源管理、工商管理、新闻传播、汉语言文学、行政管理等相关专业优先",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29763,7 +30515,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29846,7 +30599,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -29928,7 +30682,10 @@
       },
       "major": {
         "raw": "1. 新闻传播学、汉语言文学、马克思主义理论、哲学、历史学等相关专业",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 新闻传播学、汉语言文学、马克思主义理论、哲学、历史学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -30012,7 +30769,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

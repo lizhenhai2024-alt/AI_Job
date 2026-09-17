@@ -18,7 +18,8 @@
       },
       "major": {
         "raw": "学历要求： 2027届本科及以上学历；；专业要求： 机械、电气、自动化、工业工程、物流工程、供应链管理等理工科及相关专业优先；",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -119,7 +120,12 @@
       },
       "major": {
         "raw": "学历专业：全日制本科及以上学历，财务管理、会计学、审计学等财务相关专业；；专业基础：掌握会计、经济学、统计学等经管类专业知识；",
-        "hardRestriction": true
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历专业：全日制本科及以上学历",
+          "财务管理、会计学、审计学等财务相关专业",
+          "专业基础：掌握会计、经济学、统计学等经管类专业知识"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -215,7 +221,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -302,7 +309,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语",
@@ -389,7 +397,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语",
@@ -476,7 +485,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、越南语",
@@ -563,7 +573,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、阿拉伯语",
@@ -650,7 +661,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -737,7 +749,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、葡萄牙语",
@@ -824,7 +837,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -911,7 +925,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1000,7 +1015,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语",
@@ -1087,7 +1103,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、马来语",
@@ -1174,7 +1191,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、阿拉伯语",
@@ -1261,7 +1279,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、泰语",
@@ -1348,7 +1367,8 @@
       },
       "major": {
         "raw": "1.学历：全日制本科及以上，专业不限，对口更佳",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、印尼语",
@@ -1436,7 +1456,8 @@
       },
       "major": {
         "raw": "【集团】管培生申请通道（专业不限）；1.统招本科及以上学历，专业不限，2027届应届毕业生",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1534,7 +1555,8 @@
       },
       "major": {
         "raw": "",
-        "hardRestriction": false
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
