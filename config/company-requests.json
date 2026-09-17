@@ -1,5 +1,33 @@
 [
   {
+    "id": "intake-f866b82ffde1",
+    "name": "福特中国",
+    "careerUrl": "",
+    "focus": [
+      "海外业务",
+      "项目管理",
+      "产品运营",
+      "供应链协同",
+      "国际化职能",
+      "客户成功·实施交付",
+      "经营·商业分析",
+      "销售",
+      "跨境电商",
+      "HR人力",
+      "物流"
+    ],
+    "note": "CareerPilot新增公司；请由AI_Job抓取2027届合适岗位并刷新live-jobs。",
+    "requestedAt": "2026-09-17T04:27:44Z",
+    "updatedAt": "2026-09-17T04:27:55.794Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "未提供官方招聘链接；页面探针：未提供官方招聘链接",
+    "issueNumber": 121,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/121",
+    "sourceAlreadyExists": false
+  },
+  {
     "id": "auto-47bbef38cb5c",
     "name": "4399游戏",
     "careerUrl": "https://hr.4399om.com/weixin/?r=job/agent&type=2&isOpen=0&jobTableType=1&code=sxq8b",
@@ -4713,25 +4741,6 @@
     "provider": "",
     "sourceRegistered": false,
     "analysis": "通用中国总部管培生与校招，国际业务/市场方向；中国区校招入口待核验"
-  },
-  {
-    "id": "intake-f866b82ffde1",
-    "name": "福特中国 (Ford China)",
-    "careerUrl": "https://careers.ford.com/",
-    "focus": [
-      "国际业务",
-      "海外营销",
-      "品牌市场",
-      "运营",
-      "HR"
-    ],
-    "note": "2026-09-16 外企补充",
-    "requestedAt": "2026-09-16T08:00:00Z",
-    "updatedAt": "2026-09-16T08:00:00Z",
-    "status": "待适配招聘源",
-    "provider": "",
-    "sourceRegistered": false,
-    "analysis": "福特中国管培生(Ford College Graduate/GT)项目，出海/市场/HR；中国区校招入口待核验"
   },
   {
     "id": "intake-21778d651949",
