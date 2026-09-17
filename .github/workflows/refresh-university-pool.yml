@@ -1,0 +1,78 @@
+name: Refresh university employment pool
+
+on:
+  schedule:
+    - cron: '20 23 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/refresh-university-pool.yml'
+      - 'scripts/refresh-university-pool.mjs'
+      - 'scripts/job-discovery/university.mjs'
+      - 'scripts/job-discovery/granularity.mjs'
+      - 'scripts/filter-official-live-jobs.mjs'
+      - 'scripts/build-query-layer.mjs'
+      - 'config/university-sources.json'
+      - 'config/search-profile.json'
+      - 'tests/university-pool.test.js'
+
+concurrency:
+  group: refresh-university-employment-pool
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install runtime
+        run: npm install --no-audit --no-fund
+      - name: Validate pool logic
+        run: node --test tests/university-pool.test.js
+      - name: Refresh dedicated university pool
+        run: node scripts/refresh-university-pool.mjs
+        env:
+          UNIVERSITY_ELITE_MAX_SCHOOLS: 28
+          UNIVERSITY_SPECIALTY_MAX_SCHOOLS: 12
+          UNIVERSITY_MAX_LINKS_PER_SCHOOL: 16
+          UNIVERSITY_POOL_CONCURRENCY: 5
+      - name: Verify source labels
+        shell: bash
+        run: |
+          set -euo pipefail
+          for f in jobs/index/university-jobs.json jobs/index/university-elite-jobs.json jobs/index/university-specialty-jobs.json jobs/index/universities.json; do
+            test -s "$f"
+          done
+          node - <<'NODE'
+          const fs=require('fs');
+          const all=JSON.parse(fs.readFileSync('jobs/index/university-jobs.json','utf8'));
+          const elite=JSON.parse(fs.readFileSync('jobs/index/university-elite-jobs.json','utf8'));
+          if(all.schemaVersion!==1 || !Array.isArray(all.jobs) || all.totalJobs!==all.jobs.length) throw new Error('invalid university pool');
+          for(const [i,j] of all.jobs.entries()) {
+            if(j.sourceChannel!=='university' || j.sourcePool!=='university-employment') throw new Error(`missing university source marker @${i}`);
+            if(!j.universitySchool || !Array.isArray(j.universitySegments)) throw new Error(`missing university identity @${i}`);
+          }
+          if(elite.jobs.some(j=>!j.universityElite)) throw new Error('elite pool contains non-elite source');
+          console.log(`university-pool jobs=${all.totalJobs} elite=${elite.totalJobs}`);
+          NODE
+      - name: Commit refreshed university pool
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add jobs/index/university-jobs.json jobs/index/university-elite-jobs.json jobs/index/university-specialty-jobs.json jobs/index/universities.json jobs/by-university || true
+          if git diff --cached --quiet; then
+            echo 'No university pool changes'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh university employment pool'
+          git push
