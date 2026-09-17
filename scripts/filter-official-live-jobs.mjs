@@ -47,7 +47,7 @@ async function main() {
     ...existingMeta,
     updatedAt: new Date().toISOString(),
     source: '公司官方招聘官网/API + 高校就业网官方发布且明确给出公司官网投递入口的2027届记录',
-    mode: '岗位发现/情报库：official优先；高校官方发布+明确2027+公司官网投递入口可作为过渡候选，待公司官网岗位细化后自动被official覆盖；最终 S/A/B 与匹配度由 campus-job-board 负责',
+    mode: '岗位发现/情报库：official优先；高校官方发布+明确2027+公司官网投递入口可作为过渡候选，待公司官网岗位细化后自动被official覆盖；技术/财务/审计/金融/法务等岗位不因候选人画像在AI_Job上游删掉；最终候选人Eligibility/Match/Competition/Offer与投递建议统一由CareerPilot负责',
     stats: {
       ...(existingMeta.stats || {}),
       totalJobs: kept.length,
@@ -59,7 +59,7 @@ async function main() {
         excludedOtherSecondary: excluded
       }
     },
-    note: `${existingMeta.note || ''} 生产池默认 official；仅对“高校就业网官方发布 + 明确2027届 + 明确公司官方招聘入口”的记录开放受控过渡，保留 secondary 身份和待官网细化标记，不冒充公司官方岗位；编号章节标题等伪公司记录直接排除。`.trim()
+    note: `${existingMeta.note || ''} 生产池默认 official；仅对“高校就业网官方发布 + 明确2027届 + 明确公司官方招聘入口”的记录开放受控过渡，保留 secondary 身份和待官网细化标记，不冒充公司官方岗位；编号章节标题等伪公司记录直接排除。专业/岗位方向只做事实标注，不按当前候选人适配删除。`.trim()
   };
 
   await fs.writeFile(livePath, asModule(kept, meta), 'utf8');
