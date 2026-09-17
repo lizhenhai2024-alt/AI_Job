@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-17T05:37:20.588Z",
+  "totalUniversities": 9,
+  "universities": [
+    {
+      "school": "北京语言大学",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "count": 2,
+      "file": "jobs/by-university/北京语言大学.json"
+    },
+    {
+      "school": "广东外语外贸大学",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "count": 2,
+      "file": "jobs/by-university/广东外语外贸大学.json"
+    },
+    {
+      "school": "湖南大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "count": 2,
+      "file": "jobs/by-university/湖南大学.json"
+    },
+    {
+      "school": "华中科技大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "count": 1,
+      "file": "jobs/by-university/华中科技大学.json"
+    },
+    {
+      "school": "南开大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "count": 9,
+      "file": "jobs/by-university/南开大学.json"
+    },
+    {
+      "school": "清华大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "count": 1,
+      "file": "jobs/by-university/清华大学.json"
+    },
+    {
+      "school": "山东大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "count": 3,
+      "file": "jobs/by-university/山东大学.json"
+    },
+    {
+      "school": "西安外国语大学",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "count": 1,
+      "file": "jobs/by-university/西安外国语大学.json"
+    },
+    {
+      "school": "中山大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "count": 4,
+      "file": "jobs/by-university/中山大学.json"
+    }
+  ]
+}
