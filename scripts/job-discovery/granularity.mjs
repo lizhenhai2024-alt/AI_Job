@@ -3,6 +3,8 @@ const ROLE_WORDS = /运营|销售|跟单|采购|物流|市场|营销|财务|会�
 const MAJOR_WORDS = /外语|国贸|国际经济与贸易|英语|翻译|小语种|机械|材料|经管|工商管理|市场营销|专业|学科|类/;
 const COHORT_WORDS = /20\d{2}\s*届|校招|应届/;
 const FUYAO_COMPANY = /福耀(?:集团|玻璃)?|福耀玻璃工业集团/;
+const GENERIC_CAMPAIGN_RX = /20\d{2}\s*届.*(?:校园招聘|秋季招聘|秋招|校招|招聘简章|招聘公告)|校园招聘|秋季招聘|秋招|招聘简章|招聘公告|招聘正式启动/i;
+const STRUCTURED_ROLE_TOKEN_RX = /^(?!岗位$|招聘岗位$|工作岗位$|岗位职责$|岗位要求$|职位要求$|工作地点$|教育背景要求$).{2,24}(?:工程师|专员|经理|管培生|培养生|柜员岗|营销岗|运营岗|管理岗|技术岗|市场岗|销售岗|商务岗|项目岗|产品岗|品牌岗|人力岗|客服岗|采购岗|供应链岗)$/u;
 
 function uniq(values = []) {
   return [...new Set(values.filter(Boolean))];
@@ -35,10 +37,30 @@ export function separateTitleFromQualifications(job = {}) {
   };
 }
 
+export function structuredRoleNames(job = {}) {
+  const text = String(job._searchText || job.jobDescription || job.description || '');
+  const tokens = text
+    .split(/[\s|｜]+/u)
+    .map((token) => token.replace(/^[一二三四五六七八九十\d.、（()）【】\[\]：:；;,，。]+|[：:；;,，。]+$/g, '').trim())
+    .filter((token) => STRUCTURED_ROLE_TOKEN_RX.test(token));
+  return uniq(tokens);
+}
+
+export function isBundledRecruitmentBrief(job = {}) {
+  const title = String(job.title || '').trim();
+  if (!title || !GENERIC_CAMPAIGN_RX.test(title)) return false;
+  // A title that already names a concrete role (e.g. “海外运营校园招聘”) is not a generic bundle.
+  if (ROLE_WORDS.test(title)) return false;
+  const text = String(job._searchText || job.jobDescription || job.description || '');
+  if (!/(?:岗位名称|招聘岗位|岗位职责|教育背景要求|岗位要求)/.test(text)) return false;
+  return structuredRoleNames(job).length >= 2;
+}
+
 export function isHighConfidenceMergedPosting(job = {}) {
   const title = String(job.title || '').trim();
   if (!title) return false;
   if (/岗位汇总|岗位合集|岗位概览|多岗位|若干岗位|招聘岗位一览|岗位方向汇总/.test(title)) return true;
+  if (isBundledRecruitmentBrief(job)) return true;
   const parts = title.split(/[、/|+；;]/).map((part) => part.trim()).filter(Boolean);
   const roleParts = parts.filter((part) => ROLE_WORDS.test(part));
   return parts.length >= 3 && roleParts.length >= 2;
