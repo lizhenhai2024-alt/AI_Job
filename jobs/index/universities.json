@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-17T05:37:20.588Z",
-  "totalUniversities": 9,
+  "updatedAt": "2026-09-17T05:48:28.865Z",
+  "totalUniversities": 8,
   "universities": [
     {
       "school": "北京语言大学",
@@ -18,16 +18,6 @@
       ],
       "count": 2,
       "file": "jobs/by-university/广东外语外贸大学.json"
-    },
-    {
-      "school": "湖南大学",
-      "segments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "count": 2,
-      "file": "jobs/by-university/湖南大学.json"
     },
     {
       "school": "华中科技大学",
