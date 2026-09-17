@@ -17,6 +17,9 @@ const byUniversityDir = path.join(root, 'jobs', 'by-university');
 export const ELITE_SEGMENTS = ['985', '211', '双一流'];
 export const SPECIALTY_SEGMENTS = ['外语外贸特色高校'];
 
+const GENERIC_SECTION_TITLE_RX = /^(?:办公地址|联系方式|联系我们|公司简介|单位简介|企业简介|招聘流程|网申地址|报名方式|简历投递|招聘岗位|岗位列表|职位列表|招聘信息|招聘公告|招聘简章|校园招聘|秋季招聘|秋招|工作地点|薪酬福利|福利待遇|任职要求|岗位职责|招聘要求|温馨提示|附件下载)$/i;
+const ARTICLE_LIKE_COMPANY_RX = /(?:全面落实|党中央|国务院|毕业生就业|决策部署|推动人才|供需精准|现将有关|为进一步|为做好|各位同学|各用人单位|就业工作|招聘工作|办公地址|联系方式|报名方式|欢迎广大|具体安排如下)/i;
+
 function envInt(name, fallback) {
   const value = Number(process.env[name] || fallback);
   return Number.isFinite(value) && value > 0 ? Math.floor(value) : fallback;
@@ -57,6 +60,31 @@ export function selectUniversityPoolSources(config = {}, {
   return [...selected.values()];
 }
 
+function compact(value = '') {
+  return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+export function isPublishableUniversityRecord(job = {}) {
+  const company = compact(job.company);
+  const title = compact(job.title);
+  if (!company || !title) return false;
+  if (company.length > 60 || title.length > 180) return false;
+  if (GENERIC_SECTION_TITLE_RX.test(title)) return false;
+  if (ARTICLE_LIKE_COMPANY_RX.test(company)) return false;
+  if (/^(?:关于|为全面|为进一步|为做好|根据|按照)/.test(company)) return false;
+  if (/[。；;！!？?]/.test(company)) return false;
+  return true;
+}
+
+function targetCohort(job = {}, fallback = []) {
+  const raw = job.graduationYear ?? job.graduationYears ?? '';
+  const values = new Set(String(Array.isArray(raw) ? raw.join(' ') : raw).match(/20\d{2}/g) || []);
+  // 高校页面常带版权年、历史公告年。发现层已明确把这条记录判为2027届，
+  // 独立高校池只保留结构化目标届别，不从整页正文再次吸收2014/2026等年份。
+  if (values.has('2027')) return ['2027'];
+  return fallback;
+}
+
 function decorateUniversityQueryJob(job = {}) {
   const source = job.universitySource || {};
   const segments = Array.isArray(source.segments) ? source.segments : [];
@@ -69,6 +97,7 @@ function decorateUniversityQueryJob(job = {}) {
   });
   return {
     ...query,
+    graduationYear: targetCohort(job, query.graduationYear),
     source: 'university-employment',
     sourceType: 'secondary',
     sourceChannel: 'university',
@@ -138,6 +167,7 @@ export async function buildUniversityPool({
 
   const curated = curateDiscoveredJobs(scan.jobs || [])
     .filter((job) => !job.excludeFromLiveBoard)
+    .filter(isPublishableUniversityRecord)
     .filter((job) => !isOutOfScopeProfessionalRole(job));
   const jobs = dedupeQueryJobs(curated.map(decorateUniversityQueryJob));
   const eliteJobs = jobs.filter((job) => job.universityElite);
@@ -145,7 +175,10 @@ export async function buildUniversityPool({
 
   return {
     sources,
-    stats: scan.stats || {},
+    stats: {
+      ...(scan.stats || {}),
+      rejectedSourceNoise: Math.max(0, (scan.jobs || []).length - curated.length),
+    },
     jobs,
     eliteJobs,
     specialtyJobs,
@@ -218,7 +251,7 @@ async function main() {
   });
   const updatedAt = new Date().toISOString();
   await writeOutputs(result, updatedAt);
-  console.log(`[university-pool] schools=${result.sources.length} jobs=${result.jobs.length} elite=${result.eliteJobs.length} specialty=${result.specialtyJobs.length} listed=${result.stats.listed || 0} errors=${result.stats.errors || 0}`);
+  console.log(`[university-pool] schools=${result.sources.length} jobs=${result.jobs.length} elite=${result.eliteJobs.length} specialty=${result.specialtyJobs.length} listed=${result.stats.listed || 0} sourceNoise=${result.stats.rejectedSourceNoise || 0} errors=${result.stats.errors || 0}`);
 }
 
 const invokedAsScript = process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
