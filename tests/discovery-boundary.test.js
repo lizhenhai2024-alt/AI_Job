@@ -42,6 +42,33 @@ test('CATL-style engineering PM clause keeps the base STEM requirement hard', ()
   assert.ok(query.major.hardClauses.some((x) => x.includes('理工科背景')));
 });
 
+test('Dongfeng styling PM: 专业对口 makes the preceding design-major scope a hard gate', () => {
+  const job = {
+    company: '东风汽车集团股份有限公司研发总院',
+    title: '造型设计-项目管理岗',
+    graduationYear: '2027',
+    sourceType: 'official',
+    jobRequirements: [
+      '专业要求：交通工具设计、工业设计、产品设计相关专业优先。',
+      '国内外2027届本科及以上学历毕业生。',
+      '专业对口，在校期间成绩优异，无挂科。',
+      '大学英语成绩合格（本科四级/研究生六级）。'
+    ].join('\n')
+  };
+  assert.equal(isOutOfScopeProfessionalRole(job), true);
+  const hard = hardOutOfScopeMajorClauses(job);
+  assert.ok(hard.some((x) => x.includes('专业对口') && x.includes('产品设计')));
+});
+
+test('专业对口 does not exclude an English-major-compatible scope', () => {
+  const job = {
+    title: '国际项目管理岗',
+    jobRequirements: '专业要求：英语、翻译、国际商务相关专业优先；专业对口；本科及以上。'
+  };
+  assert.equal(isOutOfScopeProfessionalRole(job), false);
+  assert.deepEqual(hardOutOfScopeMajorClauses(job), []);
+});
+
 test('soft STEM preference stays soft when there is no hard STEM base gate', () => {
   const job = {
     title: '项目管理专员',
