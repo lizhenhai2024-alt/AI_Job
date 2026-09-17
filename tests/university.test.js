@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import { extractUniversityRecruitLinks, parseUniversityJobPage, searchUniversityJobs } from '../scripts/job-discovery/university.mjs';
+import { cityFromUniversityText, extractUniversityRecruitLinks, parseUniversityJobPage, searchUniversityJobs } from '../scripts/job-discovery/university.mjs';
 import { dedupePreferOfficial, dedupeById } from '../scripts/job-discovery/dedupe.mjs';
 
 const config = JSON.parse(fs.readFileSync(new URL('../config/university-sources.json', import.meta.url), 'utf8'));
@@ -24,6 +24,17 @@ test('university list parser keeps recruitment links and drops generic notices',
   assert.deepEqual(links.map((x) => x.url), ['https://career.example.edu.cn/detail/1']);
 });
 
+test('university city extraction prefers employer fields and ignores school footer address', () => {
+  const text = [
+    '单位所在地：湖南省长沙市岳麓区',
+    '招聘岗位：海外市场',
+    '服务指南',
+    '联系我们',
+    '地址：北京市海淀区学院路15号',
+  ].join('\n');
+  assert.equal(cityFromUniversityText(text), '长沙');
+});
+
 test('university detail parser marks source as discovery evidence, not company-official truth', () => {
   const job = parseUniversityJobPage({
     html: `<html><h1>某科技公司2027届校园招聘</h1><p>发布时间：2026-09-01</p><p>海外市场、产品运营、英语沟通，工作地点深圳。</p></html>`,
@@ -37,6 +48,7 @@ test('university detail parser marks source as discovery evidence, not company-o
   assert.match(job.verification, /待公司官网复核/);
   assert.equal(job.universitySource.school, '示例大学');
   assert.ok(job.roleFamily.some((x) => /产品运营|海外运营/.test(x)));
+  assert.equal(job.city, '深圳');
 });
 
 test('university discovery works with a mock school board and respects relevance filtering', async () => {
@@ -90,4 +102,3 @@ test('dedupeById collapses same-id rows from university and official sources', (
   assert.equal(merged.sourceType, 'official');
   assert.equal(merged.sourceUrl, official.sourceUrl);
 });
-
