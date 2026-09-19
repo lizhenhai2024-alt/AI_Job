@@ -70,6 +70,12 @@ export function isCategoryHeadingCompany(value = '') {
   return /^\d+[.、．-]?(?:研发|制造|营销|职能|事业|服务|金融|技术|生产|销售|管理|水平事业)(?:类)?单位$/u.test(text);
 }
 
+export function isQueryLayerEligible(job = {}) {
+  if (!job?.company || !job?.title || isCategoryHeadingCompany(job.company)) return false;
+  if (isInternshipRole(job) || isOutOfScopeProfessionalRole(job)) return false;
+  return true;
+}
+
 function textOf(job) {
   return [
     job.title,
@@ -264,8 +270,7 @@ export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString
   const byCompany = new Map();
   const queryJobs = [];
   for (const job of jobs || []) {
-    if (!job?.company || !job?.title || isCategoryHeadingCompany(job.company)) continue;
-    if (isInternshipRole(job) || isOutOfScopeProfessionalRole(job)) continue;
+    if (!isQueryLayerEligible(job)) continue;
     const key = String(job.company).trim();
     const queryJob = toQueryJob(job);
     applyCompanyRecruitment(queryJob);
