@@ -3,6 +3,8 @@
 // company identity, ATS/provider, 2027 cohort and API/page probes before registration.
 // graduationYear/cohortEvidence are only set where the 2027 campaign was separately verified.
 export const companySourceSeeds = [
+  { company: '京东', url: 'https://campus.jd.com/', note: '京东官方校园招聘入口；2027届秋招公司请求已登记', graduationYear: '2027', cohortEvidence: '京东2027届校园招聘', verifiedAt: '2026-09-19' },
+  { company: '影石Insta360', url: 'https://insta360.zhiye.com/Campus', note: '影石Insta360官方校园招聘入口；2027届秋招已登记', graduationYear: '2027', cohortEvidence: '影石Insta360 2027届校园招聘', verifiedAt: '2026-09-19' },
   { company: '腾讯', url: 'https://careers.tencent.com/', note: '腾讯官方招聘站；含校园招聘入口', verifiedAt: '2026-09-09' },
   { company: '阿里巴巴', url: 'https://www.alibabagroup.com/en-US/careers', note: 'Alibaba Group 官方 Careers', verifiedAt: '2026-09-09' },
   { company: 'Lazada', url: 'https://www.lazada.com/en/careers/', note: 'Lazada 官方 Careers', verifiedAt: '2026-09-09' },
