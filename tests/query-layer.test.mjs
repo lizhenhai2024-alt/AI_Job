@@ -72,11 +72,15 @@ test('query layer excludes obvious professional and internship noise', async () 
     { id: '1', company: '美团', title: '业务运营管理岗', sourceType: 'official' },
     { id: '2', company: '美团', title: '后端开发工程师', sourceType: 'official' },
     { id: '3', company: '美团', title: '市场运营实习生', sourceType: 'official' },
-    { id: '4', company: '美团', title: '财务培训生', sourceType: 'official' }
+    { id: '4', company: '美团', title: '财务培训生', sourceType: 'official' },
+    { id: '5', company: '美团', title: '【北斗】复杂Agent应用技术研究员', sourceType: 'official' },
+    { id: '6', company: '美团', title: '【LongCat大模型人才校招】基础模型 - 预训练', sourceType: 'official' },
+    { id: '7', company: '美团', title: '品牌/营销设计师', sourceType: 'official' },
+    { id: '8', company: '美团', title: '大模型业务运营岗', sourceType: 'official' }
   ], { outputRoot: dir, updatedAt: '2026-09-19T00:00:00.000Z' });
-  assert.equal(manifest.totalJobs, 1);
+  assert.equal(manifest.totalJobs, 2);
   const meituan = JSON.parse(await fs.readFile(path.join(dir, 'by-company', '美团.json'), 'utf8'));
-  assert.deepEqual(meituan.jobs.map((job) => job.title), ['业务运营管理岗']);
+  assert.deepEqual(meituan.jobs.map((job) => job.title), ['业务运营管理岗', '大模型业务运营岗']);
 });
 
 test('buildQueryLayer writes company shards and manifest', async () => {
