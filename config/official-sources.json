@@ -547,6 +547,23 @@
       "baseUrl": "https://shantui.zhiye.com",
       "graduationYear": "2027",
       "monitoringNote": "高校就业网自动发现：北京语言大学；后续由source health验证标准北森抓取"
+    },
+    {
+      "company": "厦门国贸",
+      "baseUrl": "https://itgholding.zhiye.com",
+      "graduationYear": "2027",
+      "mode": "html",
+      "listUrl": "https://itgholding.zhiye.com/gmkgxzlb?job=campus&key=gmgf",
+      "enrichDetails": true,
+      "campaignLabel": "国贸股份2027届秋季全球校园招聘",
+      "monitoringNote": "官方北森招聘系统；官网校招资讯明确2027届秋季全球校园招聘，HTML列表已有海外业务/贸易运营等岗位；使用ITG专用HTML解析。"
+    },
+    {
+      "company": "赛力斯",
+      "baseUrl": "https://sokon.zhiye.com",
+      "graduationYear": "2027",
+      "campaignLabel": "赛力斯集团2027届校园招聘",
+      "monitoringNote": "赛力斯集团官方北森校园招聘入口；高校就业网2026-09已发布2027届校招简章并指向SERES招聘官方渠道；先以标准北森API验证。"
     }
   ],
   "feishu": [
