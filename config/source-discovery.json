@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T07:30:05.279Z",
+  "updatedAt": "2026-09-19T07:49:09.810Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -48,9 +48,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 16,
-      "lastCheckedAt": "2026-09-19T07:30:05.279Z",
-      "nextCheckAfter": "2026-09-22T07:30:05.279Z"
+      "attempts": 17,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
     },
     "腾讯": {
       "name": "腾讯",
@@ -86,9 +86,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 16,
-      "lastCheckedAt": "2026-09-19T07:30:05.279Z",
-      "nextCheckAfter": "2026-09-22T07:30:05.279Z"
+      "attempts": 17,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
     },
     "tiktok": {
       "name": "TikTok",
@@ -186,9 +186,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 16,
-      "lastCheckedAt": "2026-09-19T07:30:05.279Z",
-      "nextCheckAfter": "2026-09-22T07:30:05.279Z"
+      "attempts": 17,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
     },
     "科力普": {
       "name": "科力普",
@@ -205,9 +205,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 16,
-      "lastCheckedAt": "2026-09-19T07:30:05.279Z",
-      "nextCheckAfter": "2026-09-22T07:30:05.279Z"
+      "attempts": 17,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
     },
     "美团": {
       "name": "美团",
@@ -387,9 +387,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 16,
-      "lastCheckedAt": "2026-09-19T07:30:05.279Z",
-      "nextCheckAfter": "2026-09-22T07:30:05.279Z"
+      "attempts": 17,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
     },
     "bilibili": {
       "name": "Bilibili",
@@ -444,9 +444,9 @@
           "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
         }
       ],
-      "attempts": 16,
-      "lastCheckedAt": "2026-09-19T07:30:05.279Z",
-      "nextCheckAfter": "2026-09-22T07:30:05.279Z"
+      "attempts": 17,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
     },
     "三一": {
       "name": "三一集团",
@@ -2168,6 +2168,198 @@
       "attempts": 1,
       "lastCheckedAt": "2026-09-19T07:19:21.999Z",
       "nextCheckAfter": "2026-09-22T07:19:21.999Z"
+    },
+    "大疆": {
+      "name": "大疆",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.dji.com/zh-CN/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.dji.com/zh-CN/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://school.gxjy.sdei.edu.cn/jobsdufe/jiuye/zhaopingg/detail/14864",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://careers.dji.com/zh-CN/campus/hot-jobs?source=newcoderweb2",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://job.xidian.edu.cn/campus/view/id/757676",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://scdc.jnu.edu.cn/campus/view/id/1035956",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://careers.dji.com/zh-CN/campus/digital-recruitment",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        },
+        {
+          "url": "https://school.gxjy.sdei.edu.cn/qust/jiuye/zhaopingg/detail/12990",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxx?zpxxid=561205949",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
+    },
+    "九号公司": {
+      "name": "九号公司",
+      "status": "主投",
+      "state": "candidate_found",
+      "provider": "",
+      "officialUrl": "https://join.ninebot.com/campus",
+      "reason": "候选官网不可稳定访问：HTTP 0",
+      "candidates": [
+        {
+          "url": "https://join.ninebot.com/campus",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://myjob.dlmu.edu.cn/campus/view/id/868477",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://job.xidian.edu.cn/campus/view/id/756882",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://campus.niuqizp.com/job-vl85a5nCn.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 403"
+        },
+        {
+          "url": "https://jdjywpt.jlu.edu.cn/portal/recruit/details?id=3374bcc7898e4497838921157d758210",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://career.hebut.edu.cn/correcruit/content/id/79566.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        },
+        {
+          "url": "https://job.lzu.edu.cn/html/22/article/2026/91250.html",
+          "provider": "",
+          "state": "candidate_found",
+          "reason": "候选官网不可稳定访问：HTTP 0"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
+    },
+    "联想": {
+      "name": "联想",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://talent.lenovo.com.cn/campus/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://talent.lenovo.com.cn/campus/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
+    },
+    "绿联": {
+      "name": "绿联",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.lulian.cn/campus",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.lulian.cn/campus",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
+    },
+    "一加": {
+      "name": "一加",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://careers.oppo.com/university/oppo/campus/",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://careers.oppo.com/university/oppo/campus/",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
+    },
+    "正浩": {
+      "name": "正浩",
+      "status": "主投",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://jobs.ecoflow.com/602892",
+      "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+      "candidates": [
+        {
+          "url": "https://jobs.ecoflow.com/602892",
+          "provider": "",
+          "state": "needs_adapter",
+          "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册"
+        }
+      ],
+      "attempts": 1,
+      "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+      "nextCheckAfter": "2026-09-22T07:49:09.810Z"
     }
   },
   "lastRun": {
