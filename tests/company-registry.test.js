@@ -68,3 +68,20 @@ test('JD.com and Insta360 are first-class companies with stable aliases', () => 
   assert.equal(canonicalCompanyKey('Insta360'), canonicalCompanyKey('影石'));
   assert.equal(canonicalCompanyKey('影石科技'), canonicalCompanyKey('影石Insta360'));
 });
+
+
+test('application companies are first-class records and parent brands do not swallow exact sub-brands', () => {
+  for (const name of ['4399游戏', '图拉斯', '阿里巴巴千问办公']) {
+    const record = companyRegistry.find((item) => item.name === name);
+    assert.ok(record, `${name} should exist in company registry`);
+    assert.equal(record.status, '主投');
+  }
+  assert.equal(canonicalCompanyKey('4399'), canonicalCompanyKey('4399游戏'));
+  assert.equal(canonicalCompanyKey('TORRAS'), canonicalCompanyKey('图拉斯'));
+  assert.equal(canonicalCompanyKey('千问办公'), canonicalCompanyKey('阿里巴巴千问办公'));
+
+  const qwen = companyRegistry.find((item) => item.name === '阿里巴巴千问办公');
+  const alibaba = companyRegistry.find((item) => item.name === '阿里巴巴');
+  assert.ok(qwen && alibaba);
+  assert.notEqual(canonicalCompanyKey(qwen.name), canonicalCompanyKey(alibaba.name));
+});
