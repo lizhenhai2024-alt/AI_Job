@@ -26,6 +26,11 @@ const COMPANY_ALIAS_KEYS = new Map([
   ['insta360', '影石insta360'],
   ['影石', '影石insta360'],
   ['影石科技', '影石insta360'],
+  ['greatwallpower', '长城电源技术'],
+  ['长城电源', '长城电源技术'],
+  ['topband', '拓邦股份'],
+  ['深圳拓邦', '拓邦股份'],
+  ['kukahome', '顾家家居'],
 ]);
 
 export function canonicalCompanyKey(value = '') {
