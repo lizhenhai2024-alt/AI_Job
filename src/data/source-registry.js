@@ -513,6 +513,10 @@ export const sourceRegistry = [
     "company": "TCL华星光电"
   },
   {
+    "provider": "hotjob",
+    "company": "歌尔股份"
+  },
+  {
     "provider": "anker",
     "company": "安克创新"
   },
