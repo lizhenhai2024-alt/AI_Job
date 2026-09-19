@@ -328,7 +328,8 @@ for (const [provider, searcher] of [
 ]) {
   addParallelTask(parallelTasks, provider, () => {
     const source = normalizedSource(provider, officialSources[provider]);
-    return searcher(config, source, adapterOptions(source));
+    // chromium 供 lenovo/dji 等适配器在直连被 WAF 拦截时走 Playwright 渲染回退（Runner 可靠通道）。
+    return searcher(config, source, { ...adapterOptions(source), chromium });
   });
 }
 

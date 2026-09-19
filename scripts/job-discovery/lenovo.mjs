@@ -282,17 +282,43 @@ async function fetchTextViaJina(fetcher, url, label) {
   }
 }
 
-// 带回退的抓取：直连失败（HTTP 404/超时）→ jina 代理，并记录失败路径便于线上诊断。
-async function fetchTextWithFallback(fetcher, url, label) {
+// Playwright 渲染通道：Runner 直连联想（.cn 国内站，Geo/WAF 拦截返回 404）失败时，
+// 用 Chromium 真实渲染列表页取 SSR 岗位卡片——与 moka/bytedance 在 Runner 上被证明可靠的通道一致。
+async function fetchTextViaPlaywright(chromium, url, label) {
+  let browser;
+  try {
+    browser = await chromium.launch({ headless: true, args: ['--no-sandbox'] });
+    const page = await browser.newPage();
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+    await page.waitForTimeout(2500);
+    const html = await page.evaluate(() => document.documentElement.outerHTML);
+    if (!html || html.length < 200) throw new Error(`empty/short playwright response (${html?.length || 0}B) ${label}`);
+    return html;
+  } finally {
+    if (browser) await browser.close().catch(() => {});
+  }
+}
+
+// 带回退的抓取：直连失败（HTTP 404/超时）→ Playwright 渲染 → jina 代理，并记录失败路径便于线上诊断。
+async function fetchTextWithFallback(fetcher, url, label, chromium = null) {
   try {
     return await fetchText(fetcher, url, label);
   } catch (directError) {
+    if (chromium) {
+      try {
+        const viaPw = await fetchTextViaPlaywright(chromium, url, label);
+        console.warn(`[lenovo] ${label}: direct(${directError?.message || directError}) -> playwright ok`);
+        return viaPw;
+      } catch (pwError) {
+        console.warn(`[lenovo] ${label}: playwright failed (${pwError?.message || pwError})`);
+      }
+    }
     try {
       const viaJina = await fetchTextViaJina(fetcher, url, label);
       console.warn(`[lenovo] ${label}: direct(${directError?.message || directError}) -> jina ok`);
       return viaJina;
     } catch (jinaError) {
-      throw new Error(`${label}: direct(${directError?.message || directError}) jina(${jinaError?.message || jinaError})`);
+      throw new Error(`${label}: direct(${directError?.message || directError}) playwright(${chromium ? 'failed' : 'n/a'}) jina(${jinaError?.message || jinaError})`);
     }
   }
 }
@@ -304,7 +330,7 @@ function logStructureSample(source, html, label) {
   console.warn(`[lenovo:${source.company}] ${label}: hrefs=${hrefCount} recruitLines=${recruitCount} sample:\n${sample}`);
 }
 
-export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, maxPages, maxJobs, now = new Date() } = {}) {
+export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, chromium = null, maxPages, maxJobs, now = new Date() } = {}) {
   const baseUrl = String(source.baseUrl || BASE).replace(/\/$/, '');
   const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 20), 40));
   const jobLimit = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 200), 400));
@@ -315,7 +341,7 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
 
   try {
     // 1) 未筛选总览页：拿“共N个岗位”总数 + 首屏卡片（兜底捕捉任何未枚举到的在范围岗位）。
-    const overview = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1`, 'overview');
+    const overview = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1`, 'overview', chromium);
     pages++;
     for (const row of parseLenovoListHtml(source, overview)) {
       if (seen.has(row.id)) continue;
@@ -328,7 +354,7 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
       if (pages >= pageLimit || seen.size >= jobLimit) break;
       let html;
       try {
-        html = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1&jobTypeName=${encodeURIComponent(category)}`, `category:${category}`);
+        html = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1&jobTypeName=${encodeURIComponent(category)}`, `category:${category}`, chromium);
         pages++;
       } catch (error) {
         errors++;
@@ -361,7 +387,7 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
     let detail = {};
     if (source.enrichDetails !== false) {
       try {
-        const detailHtml = await fetchTextWithFallback(fetcher, row.detailUrl, `detail:${row.id}`);
+        const detailHtml = await fetchTextWithFallback(fetcher, row.detailUrl, `detail:${row.id}`, chromium);
         detail = parseLenovoDetailHtml(detailHtml);
         detailed++;
       } catch (error) {

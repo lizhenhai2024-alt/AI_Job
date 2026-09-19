@@ -262,6 +262,34 @@ export async function fetchDjiSsrJobs(fetcher, portal, { referer = '' } = {}) {
   return data;
 }
 
+// Playwright 渲染通道：Runner 直连/API 被边缘 WAF 拦截（HTTP 404，web_fetch 服务端同 URL 200）时，
+// 用 Chromium 真实渲染门户页取 init-data——与 moka/bytedance 在 Runner 上被证明可靠的通道一致。
+// 返回 { jobs, total }；失败抛错由调用方记录。
+export async function fetchDjiSsrViaPlaywright(chromium, portal) {
+  const url = `${portal.base}/campus-recruitment/${portal.orgId}/${portal.siteId}?locale=zh-CN`;
+  let browser;
+  try {
+    browser = await chromium.launch({ headless: true, args: ['--no-sandbox'] });
+    const page = await browser.newPage();
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+    await page.waitForSelector('#init-data', { timeout: 15000 }).catch(() => {});
+    // 页面 JS（TurboApply）可能已拉取更完整列表，优先读 window.TurboApply.data。
+    const turbo = await page.evaluate(() => {
+      const d = window.TurboApply && window.TurboApply.data;
+      return d ? { jobs: Array.isArray(d.jobs) ? d.jobs : [], total: Number(d.jobStats?.total) || 0 } : null;
+    });
+    if (turbo && turbo.jobs.length) return turbo;
+    const html = await page.evaluate(() => document.documentElement.outerHTML);
+    const parsed = parseDjiInitData(html);
+    if (parsed && parsed.jobs.length) return parsed;
+    return { jobs: [], total: 0 };
+  } catch (error) {
+    throw new Error(`Playwright SSR ${error?.message || error}`);
+  } finally {
+    if (browser) await browser.close().catch(() => {});
+  }
+}
+
 function normalizeRow(job = {}) {
   const locations = Array.isArray(job.locations) ? job.locations : [];
   const address = locations.map((l) => String(l?.address || '')).filter(Boolean).join(' ');
@@ -333,7 +361,7 @@ function emptyResult(errors = 1, message = '') {
   return { jobs: [], stats: { pages: 0, listed: 0, detailed: 0, keptJobs: 0, errors, detailErrors: 0, snapshotComplete: false, apiPath: 'none', error: message } };
 }
 
-export async function searchDjiJobs(profile, source = {}, { fetcher = fetch, maxPages, maxJobs, now = new Date() } = {}) {
+export async function searchDjiJobs(profile, source = {}, { fetcher = fetch, chromium = null, maxPages, maxJobs, now = new Date() } = {}) {
   const portal = parseDjiPortal(source);
   const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 8), 20));
   const jobLimitCap = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 300), 500));
@@ -363,11 +391,12 @@ export async function searchDjiJobs(profile, source = {}, { fetcher = fetch, max
   }
 
   // 2) 回退/补充：SSR init-data（API 失败时至少覆盖首屏；API 成功时跳过）。
-  //    直连失败（Runner 边缘拦截 HTTP 404）再走 jina 代理 GET。
+  //    直连失败（Runner 边缘拦截 HTTP 404）→ Playwright 渲染（Runner 可靠通道）→ jina 代理 GET 兜底。
   if (!seen.size) {
     const ssrUrl = `${portal.base}/campus-recruitment/${portal.orgId}/${portal.siteId}?locale=zh-CN`;
     const ssrAttempts = [
       { name: 'ssr-direct', fn: () => fetchDjiSsrJobs(fetcher, portal) },
+      ...(chromium ? [{ name: 'ssr-pw', fn: () => fetchDjiSsrViaPlaywright(chromium, portal) }] : []),
       { name: 'ssr-jina', fn: async () => {
         const html = await fetchViaJina(fetcher, ssrUrl, 'SSR');
         return parseDjiInitData(html) || { jobs: [], total: 0 };
@@ -384,7 +413,7 @@ export async function searchDjiJobs(profile, source = {}, { fetcher = fetch, max
           rowsByKey.set(row.id, row);
           listed++;
         }
-        if (seen.size) { apiPath = attempt.name === 'ssr-jina' ? 'ssr-via-jina' : 'ssr'; break; }
+        if (seen.size) { apiPath = attempt.name === 'ssr-jina' ? 'ssr-via-jina' : (attempt.name === 'ssr-pw' ? 'ssr-via-playwright' : 'ssr'); break; }
       } catch (error) {
         errors++;
         console.warn(`[dji:${source.company || '大疆'}] ${attempt.name} failed: ${error?.message || error}`);
