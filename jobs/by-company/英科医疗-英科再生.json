@@ -1,7 +1,7 @@
 {
   "company": "英科医疗/英科再生",
   "count": 28,
-  "updatedAt": "2026-09-19T10:43:47.602Z",
+  "updatedAt": "2026-09-19T13:30:53.844Z",
   "jobs": [
     {
       "id": "feishu-56cb45-7673332805187356938",
@@ -486,7 +486,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，越南语口语优秀",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -500,15 +500,13 @@
       "jobRequirements": "1、本科及以上学历，越南语口语优秀； 2、学习能力强，专业知识扎实， 有实践经验者优； 3、较强的沟通协调能力，良好的团队合作精神； 4、勇于接受挑战和承受工作压力。",
       "JD": "1、作为管培生进入岗位实习和培训，实习结束根据专业和个人需求转正进入正式岗位； 2、提供系统培训及专人培养，作为营销、生产、管理、技术等岗位人才储备； 3、转正后进入各岗位，享有正式员工待遇及培训。\n1、本科及以上学历，越南语口语优秀； 2、学习能力强，专业知识扎实， 有实践经验者优； 3、较强的沟通协调能力，良好的团队合作精神； 4、勇于接受挑战和承受工作压力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，越南语口语优秀"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -961,11 +959,9 @@
       "jobRequirements": "1. 海外社媒运营：制定并实施 LinkedIn、TikTok 等海外自媒体推广策略，统筹内容策划、选题与出稿； 2. 付费广告投放：负责 Google、Bing 等搜索引擎广告账户管理与投放，分析效果并持续优化，提升 ROI； 3. SEO 优化：研究搜索引擎算法与排名机制，提升官网关键词自然排名，获取品牌流量； 4. 数据监测：分析搜索引擎抓取与收录情况，监测关键词排名，输出改进建议。",
       "JD": "1. 海外社媒运营：制定并实施 LinkedIn、TikTok 等海外自媒体推广策略，统筹内容策划、选题与出稿； 2. 付费广告投放：负责 Google、Bing 等搜索引擎广告账户管理与投放，分析效果并持续优化，提升 ROI； 3. SEO 优化：研究搜索引擎算法与排名机制，提升官网关键词自然排名，获取品牌流量； 4. 数据监测：分析搜索引擎抓取与收录情况，监测关键词排名，输出改进建议。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

@@ -1,7 +1,7 @@
 {
   "company": "德赛西威",
   "count": 13,
-  "updatedAt": "2026-09-19T10:43:47.602Z",
+  "updatedAt": "2026-09-19T13:30:53.844Z",
   "jobs": [
     {
       "id": "feishu-7e6932-7678553035187210522",
@@ -609,9 +609,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "全日制本科及以上学历，安全工程、消防安全、环保等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "安全工程、消防安全、环保等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -623,16 +625,13 @@
       "jobRequirements": "1.全日制本科及以上学历，安全工程、消防安全、环保等相关专业； 2.了解EHS管理体系基本知识； 3.具备一定的英语读写能力，可进行基础文件翻译解读； 4.具备良好的沟通协调能力，责任心强，抗压力强，能适应出差外派； 5.英语CET-4以上，具备良好的英语读写能力。",
       "JD": "\"1.承接总部EHS（环境、健康、安全）相关事务； 2.协助开展EHS体系建设与运行维护； 3.参与EHS现场检查与隐患排查整改； 4.协助组织EHS培训与宣传活动； 5.参与部门相关支持工作，在团队协作中不断积累专业经验。\"\n1.全日制本科及以上学历，安全工程、消防安全、环保等相关专业； 2.了解EHS管理体系基本知识； 3.具备一定的英语读写能力，可进行基础文件翻译解读； 4.具备良好的沟通协调能力，责任心强，抗压力强，能适应出差外派； 5.英语CET-4以上，具备良好的英语读写能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制本科及以上学历，安全工程、消防安全、环保等相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通",
-          "翻译/本地化"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

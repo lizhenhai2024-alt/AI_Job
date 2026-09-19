@@ -1,7 +1,7 @@
 {
   "company": "阿里巴巴",
   "count": 117,
-  "updatedAt": "2026-09-19T10:43:47.602Z",
+  "updatedAt": "2026-09-19T13:30:53.844Z",
   "jobs": [
     {
       "id": "alibaba-56983b82e44a",
@@ -3331,13 +3331,15 @@
       "jobRequirements": "1. 理解服务体验解决方案/产品/生态资源管理的特性、逻辑及模式，并能加以应用； 2. 利用可视化的业务量化数据，运用理性思维对业务中遇到的问题或场景进行观察、分辨、剖析和梳理，能有效定位核心问题和原因或发现有价值的业务改进和优化的机会； 3. 具备产品运营思维，能够将业务策略产品化，并能通过智能化产品工具有效识别/分析问题发生的根源原因，推进问题的优化和解决； 4. 学习能力强，对新事物保有好奇心，并能快速适应新环境；良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；对所在领域有热情，相信方法总比困难多，善于独立思考并反思总结。",
       "JD": "1. 通过服务量管理和运营，对影响服务量的关键要素识别，对服务量发起到人工执行的全链路的服务量预测体系负责； 2. 通过对服务标准的管理运营，对影响资源执行质量的一系列交付标准做统筹设计，如服务标准、质检标准、商务标准等，保障资源端的执行质量； 3. 通过对服务流程的设计和运营，协同产研进行流程链路的能力建设和优化，确保客户的问题能够在最优的流程下，通过最短路径被解决； 4. 搭建服务运营业务支撑体系，设计服务运营的指标体系、知识管理体系，搭建运营分析可视化的产品和工具，助力业务看清问题，不断帮助业务保障和提升客户的服务体验。\n1. 理解服务体验解决方案/产品/生态资源管理的特性、逻辑及模式，并能加以应用； 2. 利用可视化的业务量化数据，运用理性思维对业务中遇到的问题或场景进行观察、分辨、剖析和梳理，能有效定位核心问题和原因或发现有价值的业务改进和优化的机会； 3. 具备产品运营思维，能够将业务策略产品化，并能通过智能化产品工具有效识别/分析问题发生的根源原因，推进问题的优化和解决； 4. 学习能力强，对新事物保有好奇心，并能快速适应新环境；良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；对所在领域有热情，相信方法总比困难多，善于独立思考并反思总结。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "问题根因"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -3799,13 +3801,13 @@
       "jobRequirements": "1、在计算机视觉、自然语言处理、多模态理解、数据分析与挖掘方向有相关项目和产品经验，对其中某一领域算法有深入的研究和应用； 2、掌握机器学习和深度学习基础知识，熟悉Pytorch、Tensorflow等至少一种深度学习框架，熟悉常用的CV、NLP等主流网络模型； 3、在多模态预训练学习方向有相关项目和产品经验，对多模态特征的表达和融合、跨模态特征对齐、多任务协同学习算法有深入的研究和应用者优先，有生成式大模型SFT、RLHF相关经验者优先； 4、有相关竞赛经验者优先并在相关方向国际顶会发表过论文者优先。",
       "JD": "我们是阿里巴巴国际数字商业集团-智能技术-商品基础数据算法团队，基于研发电商多模态预训练模型基座，通过多模态商品理解、商品同款匹配、商品属性&标签生产、知识图谱构建、图像搜索等核心技术的持续迭代，为平台沉淀高质量、结构化的商品数据资产和多模态大模型基座。主攻前沿方向：Continual Pre-Training/Post-Training 模型持续优化、SFT 监督微调与用户偏好对齐、RL 强化学习提升推理和决策能力、多模态（文本 + 图像）语义匹配。 1、负责研发电商多模态预训练模型基座，抽象并解决商品理解的基础问题使得模型具备业务通识能力，并构建针对大模型幻觉问题、推理能力、模型加速等关键问题的系统性解决方案，提高下游业务的迭代效率和效果上限； 2、基于多模态预训练大模型，设计和迭代 SFT+RL 训练方案，优化模型语义理解精度，落地商品理解关键场景任务，比如商品类目/属性/标签预测、商品同款、商品图搜等，负责关键场景的端到端全链路优化，实现业务指标提升； 3、学习前沿论文与把握技术趋势，深入理解底层算法原理，探索实验面向未来的硬核技术，实现核心技术突破和技术创新，发表相关论文。\n1、在计算机视觉、自然语言处理、多模态理解、数据分析与挖掘方向有相关项目和产品经验，对其中某一领域算法有深入的研究和应用； 2、掌握机器学习和深度学习基础知识，熟悉Pytorch、Tensorflow等至少一种深度学习框架，熟悉常用的CV、NLP等主流网络模型； 3、在多模态预训练学习方向有相关项目和产品经验，对多模态特征的表达和融合、跨模态特征对齐、多任务协同学习算法有深入的研究和应用者优先，有生成式大模型SFT、RLHF相关经验者优先； 4、有相关竞赛经验者优先并在相关方向国际顶会发表过论文者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [
-          "模型/算法"
+          "问题根因",
+          "模型/算法",
+          "开发实现"
         ],
         "businessDuties": []
       },
@@ -4085,11 +4087,9 @@
       "jobRequirements": "1、热爱SLG游戏，有游戏公司市场营销实习经验者优先； 2、关注流行文化动态，熟悉流行媒体使用，有自媒体经验优先； 3、思维灵活敏捷，逻辑清晰有条理，性格外向开放，有想法有创意有热情。 PS: 简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就等）；有游戏相关作品/项目经历请附上；如有倾向的岗位方向，可在简历上备注。",
       "JD": "1、针对SLG产品推广目标，输出推广策略、计划及创意方案； 2、参与推广项目执行落地、效果追踪及复盘优化； 3、定时收集并分析洞察手游用户诉求、市场动态、流行文化及社会趋势，并反哺到推广工作中； 4、独立撰写推广文案创意，如产品核心信息描述、游戏通稿等。\n1、热爱SLG游戏，有游戏公司市场营销实习经验者优先； 2、关注流行文化动态，熟悉流行媒体使用，有自媒体经验优先； 3、思维灵活敏捷，逻辑清晰有条理，性格外向开放，有想法有创意有热情。 PS: 简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就等）；有游戏相关作品/项目经历请附上；如有倾向的岗位方向，可在简历上备注。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4176,11 +4176,9 @@
       "jobRequirements": "1、热爱游戏，有游戏公司市场营销实习经验者优先； 2、热爱ACG文化，熟悉ACG相关网络宅文化及圈层优先； 3、关注流行文化动态，熟悉流行媒体使用，有自媒体经验优先； 4、思维灵活敏捷，逻辑清晰有条理，性格外向开放，有想法有创意有热情。 PS: 简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就等）；有游戏相关作品/项目经历请附上；如有倾向的岗位方向，可在简历上备注。",
       "JD": "1、针对产品推广目标，输出推广策略、计划及创意方案； 2、参与推广项目执行落地、效果追踪及复盘优化； 3、定时收集并分析洞察手游用户诉求、市场动态、流行文化及社会趋势，并反哺到推广工作中； 4、独立撰写推广文案创意，如产品核心信息描述、游戏通稿等。\n1、热爱游戏，有游戏公司市场营销实习经验者优先； 2、热爱ACG文化，熟悉ACG相关网络宅文化及圈层优先； 3、关注流行文化动态，熟悉流行媒体使用，有自媒体经验优先； 4、思维灵活敏捷，逻辑清晰有条理，性格外向开放，有想法有创意有热情。 PS: 简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就等）；有游戏相关作品/项目经历请附上；如有倾向的岗位方向，可在简历上备注。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4267,11 +4265,9 @@
       "jobRequirements": "1、有较强的音频设计与音频编辑能力。对数字.模拟音频工程与声音合成有一定程度的了解； 2、喜欢或者对SLG类型游戏感兴趣者优先考虑； 3、热爱游戏，对电影.音乐及ACG文化有较为深入的了解； 4、一定的英语交流能力，第二外语能力优先考虑。",
       "JD": "1、与游戏策划和美术配合，为游戏角色与故事配置栩栩如生的音效与语音； 2、运用多种制作工艺，为游戏创造独一无二的声音素材； 3、与程序配合，将音频植入游戏中，实现丰富多彩的声音变化。\n1、有较强的音频设计与音频编辑能力。对数字.模拟音频工程与声音合成有一定程度的了解； 2、喜欢或者对SLG类型游戏感兴趣者优先考虑； 3、热爱游戏，对电影.音乐及ACG文化有较为深入的了解； 4、一定的英语交流能力，第二外语能力优先考虑。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4338,7 +4334,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4352,11 +4348,11 @@
       "jobRequirements": "1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
       "JD": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。\n1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4539,16 +4535,11 @@
       "jobRequirements": "1. 有互联网公司产品/项目/运营实习经验者优先； 2. 责任心强，良好的自驱力，抗压力强，能将情绪并转换成正向的解决方案或动力； 3. 对业务敏感，对产品、技术感兴趣，具备优秀的沟通能力及团队合作精神，愿意和团队一起成长。",
       "JD": "1. 深入研究行业动态及竞争对手，通过社交媒体、行业展会、线上平台等多种渠道主动寻找并触达潜在合作伙伴，获取高质量的商业线索； 2. 深度挖掘客户痛点与需求（涵盖物流、产品技术、商业模式等维度），通过商务洽谈引导客户意向，并协调内部团队输出定制化的产品或服务解决方案； 3. 负责合作项目的全流程跟进，包括商务分析、方案宣讲、合同签约、项目实施进度的把控以及最终的项目回款，确保业务闭环及交付质量； 4. 协同产品、技术、市场及运营团队，高效拆解业务目标，统筹内外资源解决落地过程中的疑难问题，持续扩大业务在客户侧的渗透率和规模。\n1. 有互联网公司产品/项目/运营实习经验者优先； 2. 责任心强，良好的自驱力，抗压力强，能将情绪并转换成正向的解决方案或动力； 3. 对业务敏感，对产品、技术感兴趣，具备优秀的沟通能力及团队合作精神，愿意和团队一起成长。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "商务测算",
-          "资料/流程"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "销售"
@@ -4897,7 +4888,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，医学药学背景优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4911,15 +4902,13 @@
       "jobRequirements": "1、本科及以上学历，医学药学背景优先； 2、具备高度的质量风险意识和严谨细致的工作态度； 3、具备优秀的跨部门沟通协调能力、清晰的逻辑表达能力和团队协作精神； 4、具备较强的分析判断能力和独立解决问题的能力。",
       "JD": "1、支持质检报告审核与合规管理，确保其真实性、完整性、时效性及符合国家相关法规； 2、支持药品/商品引入评估，及供应商管理工作； 3、支持质量风险监控与流程优化，不断提升审核效率与风险防控能力。\n1、本科及以上学历，医学药学背景优先； 2、具备高度的质量风险意识和严谨细致的工作态度； 3、具备优秀的跨部门沟通协调能力、清晰的逻辑表达能力和团队协作精神； 4、具备较强的分析判断能力和独立解决问题的能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，医学药学背景优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -5079,9 +5068,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，影视、传播类专业相关，较强的文字功底，有网感",
+        "hardRestriction": true,
+        "hardClauses": [
+          "影视、传播类专业相关"
+        ]
       },
       "language": {
         "raw": "",
@@ -5093,14 +5084,12 @@
       "jobRequirements": "1、本科及以上学历，影视、传播类专业相关，较强的文字功底，有网感； 2、条理清晰、思维严谨清，善于将复杂问题结构化； 3、关注AI行业动态，对Agent、大模型应用等方向有基础认知； 4、责任心强，自驱力好，主动发现问题和洞察用户需求并推进落地。",
       "JD": "1、调研观影场景下的用户需求，制定差异化的内容服务策略，探索AI在影视领域的创新产品形态； 2、协助建立系统性的内容效果评测生产体系（包括不限于推荐理由、弹幕、剧中问、百科等）； 3、可数据驱动产品及内容迭代，提升内容的质量、覆盖、转化率。\n1、本科及以上学历，影视、传播类专业相关，较强的文字功底，有网感； 2、条理清晰、思维严谨清，善于将复杂问题结构化； 3、关注AI行业动态，对Agent、大模型应用等方向有基础认知； 4、责任心强，自驱力好，主动发现问题和洞察用户需求并推进落地。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，影视、传播类专业相关，较强的文字功底，有网感"
         ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -7179,91 +7168,6 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-08ac611febe5",
-      "company": "阿里巴巴",
-      "title": "游戏3D角色",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、根据原画设定，创建高质量、符合项目风格的3D角色模型； 2、对角色形体、比例、结构、材质等精准把控，并能够进行合理的拓扑和UV拆分； 3、你可以和团队紧密合作，包括原画师、动画师、技术美术等，确保角色模型符合项目整体风格和技术要求； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
-      "jobRequirements": "1、希望热爱游戏、动画、影视等数字娱乐产业，对角色设计充满热情； 2、希望具有良好的美术基本功，对人体结构、比例、动态等有深入的理解； 3、具备强烈的求知欲和优秀的学习能力，对传统文化服饰有一定的了解； 4、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , UE，3ds max，maya，substance painter，photoshop，zbrush等； 5、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
-      "JD": "1、根据原画设定，创建高质量、符合项目风格的3D角色模型； 2、对角色形体、比例、结构、材质等精准把控，并能够进行合理的拓扑和UV拆分； 3、你可以和团队紧密合作，包括原画师、动画师、技术美术等，确保角色模型符合项目整体风格和技术要求； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望热爱游戏、动画、影视等数字娱乐产业，对角色设计充满热情； 2、希望具有良好的美术基本功，对人体结构、比例、动态等有深入的理解； 3、具备强烈的求知欲和优秀的学习能力，对传统文化服饰有一定的了解； 4、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , UE，3ds max，maya，substance painter，photoshop，zbrush等； 5、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680021",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
       "id": "alibaba-4bd85e2d42df",
       "company": "阿里巴巴",
       "title": "游戏场景原画（国风）",
@@ -7339,6 +7243,91 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700017",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-08ac611febe5",
+      "company": "阿里巴巴",
+      "title": "游戏3D角色",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、根据原画设定，创建高质量、符合项目风格的3D角色模型； 2、对角色形体、比例、结构、材质等精准把控，并能够进行合理的拓扑和UV拆分； 3、你可以和团队紧密合作，包括原画师、动画师、技术美术等，确保角色模型符合项目整体风格和技术要求； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
+      "jobRequirements": "1、希望热爱游戏、动画、影视等数字娱乐产业，对角色设计充满热情； 2、希望具有良好的美术基本功，对人体结构、比例、动态等有深入的理解； 3、具备强烈的求知欲和优秀的学习能力，对传统文化服饰有一定的了解； 4、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , UE，3ds max，maya，substance painter，photoshop，zbrush等； 5、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
+      "JD": "1、根据原画设定，创建高质量、符合项目风格的3D角色模型； 2、对角色形体、比例、结构、材质等精准把控，并能够进行合理的拓扑和UV拆分； 3、你可以和团队紧密合作，包括原画师、动画师、技术美术等，确保角色模型符合项目整体风格和技术要求； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望热爱游戏、动画、影视等数字娱乐产业，对角色设计充满热情； 2、希望具有良好的美术基本功，对人体结构、比例、动态等有深入的理解； 3、具备强烈的求知欲和优秀的学习能力，对传统文化服饰有一定的了解； 4、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , UE，3ds max，maya，substance painter，photoshop，zbrush等； 5、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680021",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -7517,89 +7506,6 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-10e638b7976f",
-      "company": "阿里巴巴",
-      "title": "游戏3D场景",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、根据世界观的需求设定，负责制作与构思游戏场景，设计并落地，为玩家提供更好的视觉感受与体验； 2、你可以发挥自己的专业能力与团队协助能力给玩家构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
-      "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力、团队协助能力和团队意识； 3、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , 3ds max，maya，substance painter，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，热爱游戏，喜爱强调游戏性和创新体验的产品； 5、必备一些中国历史的相关知识，希望对建筑，场景氛围及地理环境设计有一定的理解； 6、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
-      "JD": "1、根据世界观的需求设定，负责制作与构思游戏场景，设计并落地，为玩家提供更好的视觉感受与体验； 2、你可以发挥自己的专业能力与团队协助能力给玩家构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力、团队协助能力和团队意识； 3、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , 3ds max，maya，substance painter，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，热爱游戏，喜爱强调游戏性和创新体验的产品； 5、必备一些中国历史的相关知识，希望对建筑，场景氛围及地理环境设计有一定的理解； 6、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680020",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
       "id": "alibaba-3294312e0cda",
       "company": "阿里巴巴",
       "title": "游戏2D动作",
@@ -7673,6 +7579,89 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907800018",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-10e638b7976f",
+      "company": "阿里巴巴",
+      "title": "游戏3D场景",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、根据世界观的需求设定，负责制作与构思游戏场景，设计并落地，为玩家提供更好的视觉感受与体验； 2、你可以发挥自己的专业能力与团队协助能力给玩家构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
+      "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力、团队协助能力和团队意识； 3、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , 3ds max，maya，substance painter，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，热爱游戏，喜爱强调游戏性和创新体验的产品； 5、必备一些中国历史的相关知识，希望对建筑，场景氛围及地理环境设计有一定的理解； 6、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
+      "JD": "1、根据世界观的需求设定，负责制作与构思游戏场景，设计并落地，为玩家提供更好的视觉感受与体验； 2、你可以发挥自己的专业能力与团队协助能力给玩家构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力、团队协助能力和团队意识； 3、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , 3ds max，maya，substance painter，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，热爱游戏，喜爱强调游戏性和创新体验的产品； 5、必备一些中国历史的相关知识，希望对建筑，场景氛围及地理环境设计有一定的理解； 6、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680020",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

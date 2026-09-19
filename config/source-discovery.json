@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T12:30:12.710Z",
+  "updatedAt": "2026-09-19T13:29:47.680Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -979,8 +979,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-19T10:18:12.519Z",
-      "nextCheckAfter": "2026-09-20T10:18:12.524Z"
+      "lastCheckedAt": "2026-09-19T13:29:47.680Z",
+      "nextCheckAfter": "2026-09-20T13:29:47.685Z"
     },
     "广州地铁": {
       "name": "广州地铁集团有限公司",
@@ -1783,7 +1783,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095333599614771202",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-19T10:18:12.519Z",
+      "lastCheckedAt": "2026-09-19T13:29:47.680Z",
       "nextCheckAfter": ""
     },
     "北方华创": {
@@ -2403,13 +2403,13 @@
       "state": "source_registered",
       "provider": "beisen",
       "officialUrl": "https://itg.zhiye.com/gmkgxzlb?k=&c=&p=1",
-      "reason": "高校详情页明确给出北森招聘入口",
+      "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
       "universityEvidence": {
         "school": "广东外语外贸大学",
         "sourceUrl": "https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VMUXSN7",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-19T10:18:12.519Z",
+      "lastCheckedAt": "2026-09-19T13:29:47.680Z",
       "nextCheckAfter": ""
     }
   },
@@ -2422,9 +2422,9 @@
   },
   "lastUniversityBridge": {
     "candidates": 3,
-    "sourcesAdded": 1,
+    "sourcesAdded": 0,
     "sourcesRepaired": 0,
     "queued": 1,
-    "updatedAt": "2026-09-19T10:18:12.519Z"
+    "updatedAt": "2026-09-19T13:29:47.680Z"
   }
 }

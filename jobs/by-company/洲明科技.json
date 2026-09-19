@@ -1,7 +1,7 @@
 {
   "company": "洲明科技",
   "count": 9,
-  "updatedAt": "2026-09-19T10:43:47.602Z",
+  "updatedAt": "2026-09-19T13:30:53.844Z",
   "jobs": [
     {
       "id": "beisen-4999ee99651f",
@@ -410,15 +410,13 @@
       "jobRequirements": "1、极强的跨部门沟通推动能力； 2、逻辑清晰、自驱执行力强； 3、持有PMP证书优先；",
       "JD": "1、项目全生命周期管控； 2、项目资源、计划、沟通与进度管理； 3、项目需求、变更、风险及过程质量管控； 4、项目成本管控； 5、项目收尾总结复盘、过程资产沉淀、持续优化研发项目流程。\n1、极强的跨部门沟通推动能力； 2、逻辑清晰、自驱执行力强； 3、持有PMP证书优先；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届校招"
         ],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

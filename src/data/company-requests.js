@@ -7,7 +7,7 @@ export const companyRequests = [
     "focus": [],
     "note": "北京语言大学自动发现；源页面：https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095333599614771202",
     "requestedAt": "2026-09-15T17:42:59.888Z",
-    "updatedAt": "2026-09-19T10:18:12.519Z",
+    "updatedAt": "2026-09-19T13:29:47.680Z",
     "status": "高校发现·官方源已注册",
     "provider": "beisen",
     "sourceRegistered": true,
@@ -21,7 +21,7 @@ export const companyRequests = [
     "focus": [],
     "note": "北京语言大学自动发现；源页面：https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
     "requestedAt": "2026-09-15T17:42:59.888Z",
-    "updatedAt": "2026-09-19T10:18:12.519Z",
+    "updatedAt": "2026-09-19T13:29:47.680Z",
     "status": "高校发现·待官方源适配",
     "provider": "",
     "sourceRegistered": false,
@@ -35,12 +35,12 @@ export const companyRequests = [
     "focus": [],
     "note": "广东外语外贸大学自动发现；源页面：https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VMUXSN7",
     "requestedAt": "2026-09-19T10:18:12.519Z",
-    "updatedAt": "2026-09-19T10:18:12.519Z",
+    "updatedAt": "2026-09-19T13:29:47.680Z",
     "status": "高校发现·官方源已注册",
     "provider": "beisen",
     "sourceRegistered": true,
     "sourceAlreadyExists": false,
-    "analysis": "高校详情页明确给出北森招聘入口"
+    "analysis": "高校详情页明确给出北森招聘入口；等价官方源已存在"
   },
   {
     "id": "intake-520e63eceb75",

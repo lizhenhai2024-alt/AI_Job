@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
   "count": 233,
-  "updatedAt": "2026-09-19T10:43:47.602Z",
+  "updatedAt": "2026-09-19T13:30:53.844Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -1353,7 +1353,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1367,13 +1367,19 @@
       "jobRequirements": "1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
       "JD": "1、参与当地养老市场分析及客户分析； 2、参与重大市场推广、品牌宣传活动的策划组织； 3、进行线上品牌宣传活动，树立良好的品牌形象； 4、协助进行销售团队的考核、激励及培训； 5、完成客户信息、销售合同的日常管理工作，与服务团队协同做好居民的服务对接，进行服务流程优化。\n1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届"
         ],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "合同",
+          "客户关系",
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -2069,11 +2075,9 @@
       "jobRequirements": "· 熟练使用电脑和办公软件； · 责任心强，有上进心，有持续学习能力； · 热情、有耐心、有亲和力，服务意识强。",
       "JD": "【销售方向】 1.渠道活动对接； 2.定期进行产品推广； 3.外部渠道拓展； 4.业务渠道关系维护； 5.与服务岗做好渠道需求对接； 6.新媒体运营相关：视频号运营相关的直播、主播、拍摄等； 7.完成领导交办的其他工作； 【服务方向】 岗位职责: 1.跟进渠道活动前期和进行中的检查准备情况，确保各服务板块服务按照既定要求提供； 2.客户满意度跟进； 3.前台接待、参观登记、前台咨询电话的接听和处理； 4.会场的日常管理和秩序维护； 5.讲解统筹及参观讲解； 6.预约管理系统的使用和分析； 7.日报、周报、月报等数据收集和分析及PPT制作汇报； 8.新媒体运营：视频号运营相关的直播、主播、拍摄等； 9.完成领导交办的其他工作； 【产品方向】 岗位职责: 1.能结合文化、历史、时下热点等，进行体验产品和文创产品的设计、开发； 2.与各板块链接，了解产品需求和反馈，组织召开产品沟通会、定品会； 3.文创门店的组建及运营； 4.直播、视频、海报等宣传； 5.新媒体运营：视频号运营相关的直播、主播、拍摄等； 6.完成领导交办的其他工作。\n· 熟练使用电脑和办公软件； · 责任心强，有上进心，有持续学习能力； · 热情、有耐心、有亲和力，服务意识强。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -2243,11 +2247,9 @@
       "jobRequirements": "1、熟练使用电脑和办公软件。 2、责任心强，有上进心，有持续学习能力。 3、热情、有耐心、有亲和力，服务意识强。",
       "JD": "1、跟踪进行中的检查准备情况，确保各服务板块服务按照既定要求提供。 2、客户满意度跟进。 3、前台接待、参观登记、前台咨询电话的接听和处理。 4、会场的日常管理和秩序维护。 5、讲解统筹及参观讲解。 6、预约管理系统的使用和分析。 7、日报、周报、月报等数据收集和分析及PPT制作汇报。 8、新媒体运营：视频号运营相关的直播、主播、拍摄等。 9、完成领导交办的其他工作。\n1、熟练使用电脑和办公软件。 2、责任心强，有上进心，有持续学习能力。 3、热情、有耐心、有亲和力，服务意识强。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -2407,7 +2409,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2421,11 +2423,11 @@
       "jobRequirements": "1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力有耐心； 3、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
       "JD": "1、参与当地养老市场分析及客户分析； 2、参与重大市场推广、客户宣传活动的策划组织； 3、进行线上品牌宣传活动，树立良好的品牌形象； 4、协助进行销售团队的考核、激励及培训； 5、完成客户信息、销售合同的日常管理工作，与服务团队协同做好居民的服务对接，进行服务流程优化。\n1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力有耐心； 3、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -2575,7 +2577,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，行政管理、公共事业管理等行政相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2589,11 +2591,11 @@
       "jobRequirements": "1. 学历与专业：本科及以上学历，行政管理、公共事业管理等行政相关专业优先 2. 技能要求 较强的文字功底和宣传策划能力 熟练使用电脑和办公软件（尤其Excel数据整理、Word文档撰写、PPT制作） 有行政助理实习或工作经历者优先 3. 综合素质 细心严谨，有较强的流程梳理能力 坚忍不拔，敬业奉献，有持续学习能力，有较强的服务意识 具有较强的沟通能力、执行力强 热情、真诚，具备良好的礼仪规范",
       "JD": "1. 资产管理 参与社区固定资产、艺术品、家具等资产的管理，定期盘点资产 负责社区权限范围内办公用品、低易耗品的购买、领用登记、保管、发放、调配和维护管理 2. 公文流转与督办 负责社区各类通知发布及公文流转，上传下达 确保各文件发布及提报的时效性 计划达成情况追踪、重要任务落实督办、协调 3. 对外宣传与会务管理 参与社区对外软文撰写、公众号运维，宣传社区文化活动 安排社区IT人员进行视频会议连接及会议室设备管理 对社区重要会议进行会议纪要记录并发布 4. 档案管理 根据规则和上级要求，进行社区档案的统一归集、保密管理 规范档案借阅、复印程序 5. 车辆与宿舍管理 建立车辆档案，对社区车辆进行使用管理、油耗管理、安全管理，关注车辆维修保养情况 对员工宿舍安全及卫生环境进行定期检查，确保住宿安全性与环境舒适性 6. 其他 协助梳理行政管理制度（如考勤、物资申领），推动落地并收集执行反馈 协调内外部资源，处理行政类突发问题（如办公设备故障、访客接待安排） 完成领导交办的其他工作\n1. 学历与专业：本科及以上学历，行政管理、公共事业管理等行政相关专业优先 2. 技能要求 较强的文字功底和宣传策划能力 熟练使用电脑和办公软件（尤其Excel数据整理、Word文档撰写、PPT制作） 有行政助理实习或工作经历者优先 3. 综合素质 细心严谨，有较强的流程梳理能力 坚忍不拔，敬业奉献，有持续学习能力，有较强的服务意识 具有较强的沟通能力、执行力强 热情、真诚，具备良好的礼仪规范",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，行政管理、公共事业管理等行政相关专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -2659,7 +2661,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2673,11 +2675,11 @@
       "jobRequirements": "1、本科及以上学历； 2、具备良好学习能力及沟通协作能力； 3、熟练使用WORD、EXCEL、PPT等办公软件。",
       "JD": "1、对销售人员进行知识技能等培训，助力销售人员专业能力的提升。 2、组训侧重对销售人员日常辅导训练、销售支持及督导。 3、讲师侧重制式化的培训课件开发、培训项目实施。\n1、本科及以上学历； 2、具备良好学习能力及沟通协作能力； 3、熟练使用WORD、EXCEL、PPT等办公软件。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -2758,10 +2760,10 @@
       "jobRequirements": "1、2027年毕业的国内应届毕业生或2026年9月后毕业的海外留学生； 2、对保险行业高度认同，具有较强的市场洞察力、组织协调能力、沟通能力； 3、熟练使用办公软件，数据分析处理能力强； 4、逻辑思维清晰，优秀的团队合作精神。",
       "JD": "1、落实执行总公司下发的年度基本法维持考核方案，实施预警监控； 2、根据基本法规定，代理人出勤数据管理，核算分析代理人佣金； 3、萃取优秀个案制作收入分析的灯片，代理人晋升推动； 4、根据总、分公司制定的人管制度流程对代理人招募、签约、解约、异动、复职等行为进行管理，实施代理人品质管理工作； 5、负责英才面试，审核资料，安排总分公司面试对接，及系统操作标记等。\n1、2027年毕业的国内应届毕业生或2026年9月后毕业的海外留学生； 2、对保险行业高度认同，具有较强的市场洞察力、组织协调能力、沟通能力； 3、熟练使用办公软件，数据分析处理能力强； 4、逻辑思维清晰，优秀的团队合作精神。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027年毕业的国内应届毕业生或2026年9月后毕业的海外留学生"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -3539,7 +3541,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "学历要求:大学本科及以上学历;",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3553,11 +3555,11 @@
       "jobRequirements": "1.学历要求:大学本科及以上学历; 2.个人素质:形象气质佳,表达能力强,具备较强的学习能 力; 3.行业认同:认同保险行业发展前景,认同泰康战略及企业文化; 4.沟通协作:乐于交流,善于沟通,责任心强,具备良好的团队协作能力。",
       "JD": "1.卓越组发岗 -制定HWP项目人力发展目标及规划,系统化管控优增全流程; -针对目标人群开展精准招募,推动常态化优增活动及项目落地,确保目标达成。 2.卓越训练岗 -负责HWP培训体系的落地与实施,承接标准制式化培训及特色荣誉培训; -推广HWP训练平台,推动训练师队伍建设、课程更新及制度执行。 3.卓越督训岗 -负责HWP队伍的集中经营与日常管理,提供现场指导与经营支持; -协助团队提升绩效,确保队伍高效运作。 4.卓越人管岗 -推动HWP项目人员发展政策落地,通过基本法及政策支持人员留存与晋升;提供数据分析支持,推动配套系统建设,助力团队发 展。\n1.学历要求:大学本科及以上学历; 2.个人素质:形象气质佳,表达能力强,具备较强的学习能 力; 3.行业认同:认同保险行业发展前景,认同泰康战略及企业文化; 4.沟通协作:乐于交流,善于沟通,责任心强,具备良好的团队协作能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历要求:大学本科及以上学历;"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -3623,7 +3625,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "大学本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3637,11 +3639,11 @@
       "jobRequirements": "1.学历要求:大学本科及以上学历; 2.个人素质:表达能力强,具备较强的学习能力; 3.行业认同:认同保险行业发展前景,认同泰康战略及企业文化; 4.沟通协作:乐于交流,善于沟通,责任心强,具备良好的团队协作能力。",
       "JD": "1、对接总公司保单运营政策及要求，推动督导各项制度、规则与流程有效落地，满足客户及业务队伍服务需求，支持业务发展。 2、负责所辖机构保单运营服务工作，包括业务处理及管理、培训宣导、指标追踪、系统操作、业务支持等工作，保障保单运营各项工作有序落地。\n1.学历要求:大学本科及以上学历; 2.个人素质:表达能力强,具备较强的学习能力; 3.行业认同:认同保险行业发展前景,认同泰康战略及企业文化; 4.沟通协作:乐于交流,善于沟通,责任心强,具备良好的团队协作能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -3705,7 +3707,7 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "硕士及以上学历,药学相关专业(临床药学专业优先)",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3719,16 +3721,13 @@
       "jobRequirements": "1、硕士及以上学历,药学相关专业(临床药学专业优先)； 2、掌握扎实的药学基础知识，了解常见药品的适应症、用法用量、禁忌症等核心信息，对特药、互联网医疗相关领域有一定了解者优先； 3、具备基础的数据分析能力，擅长数据整理与基础报告撰写； 4、具备良好的沟通协调能力、逻辑思维能力和学习能力，高效完成各项工作任务。",
       "JD": "1、创新药市场趋势调研，特药药品责任目录制定与运营管理，负责保司与医药生态融合创新项目的落地执行； 2、互联网门诊险目录与服务运营管理，落实赔付监控与优化赔付管理举措； 3、与产品团队配合推进药品相关产品责任创新。\n1、硕士及以上学历,药学相关专业(临床药学专业优先)； 2、掌握扎实的药学基础知识，了解常见药品的适应症、用法用量、禁忌症等核心信息，对特药、互联网医疗相关领域有一定了解者优先； 3、具备基础的数据分析能力，擅长数据整理与基础报告撰写； 4、具备良好的沟通协调能力、逻辑思维能力和学习能力，高效完成各项工作任务。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-31"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历,药学相关专业(临床药学专业优先)"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -3970,7 +3969,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3984,11 +3983,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4056,7 +4055,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4070,11 +4069,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4142,7 +4141,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4156,11 +4155,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的；",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4228,7 +4227,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4242,11 +4241,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4314,7 +4313,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4328,11 +4327,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4400,7 +4399,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4414,11 +4413,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4486,7 +4485,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4500,11 +4499,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4572,7 +4571,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4586,11 +4585,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4658,7 +4657,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4672,11 +4671,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4744,7 +4743,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4758,11 +4757,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4830,7 +4829,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4844,11 +4843,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的；",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4916,7 +4915,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4930,11 +4929,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5002,7 +5001,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5016,11 +5015,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效的团队协作能力；",
       "JD": "1、组织实施公司各类业务活动及会议； 2、制定业务推动方案，促进销售业绩提升； 3、定期收集统计分析个险业绩指标； 4、为业务队伍提供展业推动工具、媒体等后援支持。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效的团队协作能力；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5086,7 +5085,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5100,11 +5099,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5172,7 +5171,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5186,11 +5185,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5258,7 +5257,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5272,11 +5271,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5344,7 +5343,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5358,11 +5357,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5430,7 +5429,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5444,11 +5443,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5604,7 +5603,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5618,11 +5617,11 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、表达能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的；",
       "JD": "1、根据业务发展规划，建立培训体系，制定培训计划并定期评估调整； 2、组织实施销售团队制式化新人培训及衔接培训； 3、制定培训管理规章制度，做好系统化规范化管理； 4、完成专业课程的授课、传承工作； 5、根据团队需求开发课程，编写教材，提升培训效率。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、表达能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

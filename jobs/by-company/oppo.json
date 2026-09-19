@@ -1,7 +1,7 @@
 {
   "company": "OPPO",
   "count": 27,
-  "updatedAt": "2026-09-19T10:43:47.602Z",
+  "updatedAt": "2026-09-19T13:30:53.844Z",
   "jobs": [
     {
       "id": "oppo-6d4e654c521f",
@@ -1054,7 +1054,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "学历要求：本科及以上",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1068,15 +1068,13 @@
       "jobRequirements": "1.思维活跃，思路清晰，具备良好的统筹能力； 2.沟通协调能力强，具有强责任感； 3.具备敏锐的洞察能力，有自己独特的见解，逻辑思维强； 4.具备一定抗压能力，适合不定期短长期出差； 5. 懂AI功能使用，会用AI产品融入现有的工作链路中。 学历要求：本科及以上",
       "JD": "在这里，你将代表公司，作为亿级OPPO用户的服务窗口，为用户提供贴心的服务。如果你喜欢与人打交道，善于洞察用户需求，喜欢运筹帷幄，欢迎加入我们。具体工作方向包括： 1.根据战略要求、用户需求与服务架构进行服务渠道建设及部署； 2.通过调研分析，持续优化当前服务模式，提升用户满意度； 3.运用科学分析方案和工具，制定相关服务质量标准及解决方案，并通过规范、监督、培训促进服务能力提升； 4.构建服务管理中台，负责任务、监督与协调管理，实现业务资源最大化利用及业务目标达成。\n1.思维活跃，思路清晰，具备良好的统筹能力； 2.沟通协调能力强，具有强责任感； 3.具备敏锐的洞察能力，有自己独特的见解，逻辑思维强； 4.具备一定抗压能力，适合不定期短长期出差； 5. 懂AI功能使用，会用AI产品融入现有的工作链路中。 学历要求：本科及以上",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "学历要求：本科及以上"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "业务运营"
@@ -1254,14 +1252,13 @@
       "jobRequirements": "1. Proficient in both Chinese (Simplified & Traditional) and English communication is mandatory. 2. Strong familiarity with the cultural and market environment of Taiwan or Southeast Asia (e.g., Malaysia) is highly preferred. 3.Excellent communication and interpersonal skills. 4.Analytical mindset with the ability to interpret data and make informed decisions. 5.Proactive and self-motivated with a strong desire to learn and grow.",
       "JD": "考虑岗位性质及履职要求，本岗位目前仅面向非中国大陆籍候选人开放. Due to the nature of this role, this position is currently only open to non-Chinese Mainland candidates. 1. Offline channel management for product launch: Understand market/ customer needs, organize to develop overall sales plans, be responsible for the channel operation and life cycle management of various grades of products in the Indian market, and interact with major customers and agents; 2. Project management: As the representative of the channel project, based on the company's product launch process, coordinate various fields of the channel (agent management, customer management, retail, etc.), and promote the implementation of the product launch from the company to the agent; 3. Full life cycle management of products: Through strategic management, maximize product revenue (sales/profits/sales volume), and be responsible for the success of product business (operating results).\n1. Proficient in both Chinese (Simplified & Traditional) and English communication is mandatory. 2. Strong familiarity with the cultural and market environment of Taiwan or Southeast Asia (e.g., Malaysia) is highly preferred. 3.Excellent communication and interpersonal skills. 4.Analytical mindset with the ability to interpret data and make informed decisions. 5.Proactive and self-motivated with a strong desire to learn and grow.",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "考虑岗位性质及履职要求，本岗位目前仅面向非中国大陆籍候选人开放",
+          "Due to the nature of this role, this position is currently only open to non-Chinese Mainland candidates."
         ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -1329,9 +1326,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "市场、设计、人因、心理学等专业背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场、设计、人因、心理学等专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -1343,11 +1342,11 @@
       "jobRequirements": "1、熟练掌握用户研究、调研和分析的常用方法及工具，如：问卷调查，用户访谈，人因实验，可用性测试，启发式评估等； 2、热爱消费电子，具有较强的科研能力，市场、设计、人因、心理学等专业背景，有用户研究、设计研究的实习经验； 3、良好的沟通表达能力、组织协同能力，具有同理心和敏锐的洞察力。 4、懂AI功能使用，会用AI产品融入现有的工作链路中。",
       "JD": "1、结合数据分析、用户调研等定性和定量方法，洞察软件产品创新机会点； 2、建立软件产品的体验分析指标，度量并持续推动用户体验的提升； 3、围绕产品生命周期，实施用户洞察与体验优化，推动结果执行落地。\n1、熟练掌握用户研究、调研和分析的常用方法及工具，如：问卷调查，用户访谈，人因实验，可用性测试，启发式评估等； 2、热爱消费电子，具有较强的科研能力，市场、设计、人因、心理学等专业背景，有用户研究、设计研究的实习经验； 3、良好的沟通表达能力、组织协同能力，具有同理心和敏锐的洞察力。 4、懂AI功能使用，会用AI产品融入现有的工作链路中。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "市场、设计、人因、心理学等专业背景"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

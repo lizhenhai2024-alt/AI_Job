@@ -1,7 +1,7 @@
 {
   "company": "锐明技术",
   "count": 8,
-  "updatedAt": "2026-09-19T10:43:47.602Z",
+  "updatedAt": "2026-09-19T13:30:53.844Z",
   "jobs": [
     {
       "id": "beisen-3f6a083571bb",
@@ -112,7 +112,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历有相关 Marketing Operations / CRM / Marketing Automation / Digital Marketing / Marketing Analytics 等经验优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -126,14 +126,12 @@
       "jobRequirements": "1. 本科及以上学历有相关 Marketing Operations / CRM / Marketing Automation / Digital Marketing / Marketing Analytics 等经验优先； 2. 理解 B2B Marketing 与 Sales Funnel，能够建立 Lead Qualification 与 Lead Nurturing 基本逻辑； 3. 熟悉 Salesforce CRM，具备 Pardot / Marketing Cloud Account Engagement 或类似平台经验优先； 4. 具备较强的数据分析和业务理解能力，能够从 Funnel Data 中发现问题并形成可执行建议，而非仅制作报表； 5. 熟练使用 Excel，有 Power BI / Tableau 等工具经验优先； 6. 具备较强流程意识、系统思维、细节准确性及跨部门协作能力； 7. 对 MarTech、Automation、AI Agent 及 B2B Marketing Technology 持续保持学习兴趣； 8. 具备良好的英文读写能力，能够适应国际化业务环境。",
       "JD": "1. 负责数字营销渠道及 Salesforce CRM 中营销线索的管理、分类、质量评估和流转，持续优化 Lead Scoring / Lead Grading / Lead Qualification 机制； 2. 建立并维护 Leads → MQL → SQL → Opportunity / Account 营销漏斗监测体系，分析不同渠道、Campaign、内容及营销活动的转化贡献，并逐步完善 Marketing Attribution； 3. 搭建和维护 Marketing Dashboard，定期输出 Lead Quality、Conversion Rate、Channel Performance 等关键指标及优化建议； 4. 负责 Salesforce Pardot / Marketing Cloud Account Engagement 日常运营，包括 Email Campaign、Audience Segmentation、Automation Rules、Lead Nurturing Workflow 和 A/B Testing； 5. 参与公司对外 AI Agent 的运营与持续优化，维护产品、解决方案、FAQ 等知识库，优化 Prompt、内容准确性及用户体验； 6. 参与 Salesforce CRM、Pardot、BI、AI Agent 等 MarTech Stack 的运营、数据治理、流程设计与系统协同； 7. 持续识别 Marketing 中可自动化和标准化的流程，与 Marketing、Sales、IT 等团队协作推动系统集成、数据互通及效率提升。\n1. 本科及以上学历有相关 Marketing Operations / CRM / Marketing Automation / Digital Marketing / Marketing Analytics 等经验优先； 2. 理解 B2B Marketing 与 Sales Funnel，能够建立 Lead Qualification 与 Lead Nurturing 基本逻辑； 3. 熟悉 Salesforce CRM，具备 Pardot / Marketing Cloud Account Engagement 或类似平台经验优先； 4. 具备较强的数据分析和业务理解能力，能够从 Funnel Data 中发现问题并形成可执行建议，而非仅制作报表； 5. 熟练使用 Excel，有 Power BI / Tableau 等工具经验优先； 6. 具备较强流程意识、系统思维、细节准确性及跨部门协作能力； 7. 对 MarTech、Automation、AI Agent 及 B2B Marketing Technology 持续保持学习兴趣； 8. 具备良好的英文读写能力，能够适应国际化业务环境。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历有相关 Marketing Operations / CRM / Marketing Automation / Digital Marketing / Marketing Analytics 等经验优先"
         ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
