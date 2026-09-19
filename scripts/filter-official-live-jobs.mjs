@@ -19,7 +19,7 @@ export function isTrustedUniversityOfficialBacked(job = {}) {
     && Boolean(job?.universitySource?.school);
 }
 
-const PROFESSIONAL_TITLE_RX = /(?:造型设计|交通工具设计|工业设计|软件|算法|前端|后端|客户端|服务端|全栈|嵌入式|固件|芯片|集成电路|IC|硬件|电子|电气|机械|结构|工艺|材料|仿真|CAE|控制|自动化|机器人|测试开发|测试工程师|研发工程师|开发工程师|技术工程师|数据工程师|产品工程师|质量工程师|制造工程师|工业工程师|设备工程师|NPI工程师|IE工程师|供应商质量工程师|解决方案工程师|售前技术|技术支持工程师|运维工程师|网络工程师|安全工程师|数据库工程师|数据科学家|机器学习|深度学习|计算机视觉|NLP|自然语言|土木|建筑设计|化学研发|生物研发|医学|临床|药学|财务|会计|审计|税务|出纳|司库|资金管理|成本会计|成本管理|财务BP|投融资|投资分析|证券|基金|量化|精算|法务|律师|法律顾问|合规专员|知识产权)(?:工程师|专员|顾问|分析师|经理|管培生|岗|方向)?|(?:software|algorithm|firmware|embedded|hardware|electrical|mechanical|structural|process|materials?|simulation|developer|engineer|machine learning|data scientist|accounting|accountant|audit|auditor|tax|treasury|investment analyst|actuarial|legal counsel|lawyer)\b/i;
+const PROFESSIONAL_TITLE_RX = /(?:造型设计|交通工具设计|工业设计|软件|算法|前端|后端|客户端|服务端|全栈|嵌入式|固件|芯片|集成电路|IC|硬件|电子|电气|机械|结构|工艺|材料|仿真|CAE|控制|自动化|机器人|测试开发|测试工程师|研发工程师|开发工程师|技术工程师|数据工程师|产品工程师|质量工程师|制造工程师|工业工程师|设备工程师|NPI工程师|IE工程师|供应商质量工程师|解决方案工程师|售前技术|技术支持工程师|运维工程师|网络工程师|安全工程师|数据库工程师|数据科学家|机器学习|深度学习|计算机视觉|NLP|自然语言|土木|建筑设计|化学研发|生物研发|医学|临床|药学|财务|会计|审计|税务|出纳|司库|资金管理|成本会计|成本管理|财务BP|投融资|投资分析|金融风控|风控策略|证券|基金|量化|精算|法务|律师|法律顾问|合规专员|知识产权)(?:工程师|专员|顾问|分析师|经理|管培生|岗|方向)?|(?:software|algorithm|firmware|embedded|hardware|electrical|mechanical|structural|process|materials?|simulation|developer|engineer|machine learning|data scientist|accounting|accountant|audit|auditor|tax|treasury|investment analyst|actuarial|legal counsel|lawyer)\b/i;
 const TECH_RESEARCH_TITLE_RX = /(?:【北斗】.*(?:研究员|工程师)|【LongCat大模型人才校招】|(?:大模型|AI|Agent|多模态|视觉生成|具身智能|模型|数据科学|广告引擎|飞行器|人因).{0,24}(?:算法|工程师|研究员|研究|开发|架构|推理|训练)|(?:品牌|营销|体验|交互|视觉|平面|空间).{0,10}设计(?:师|岗)?)/i;
 
 // 复合专业条件必须按原子条件绑定语义：
