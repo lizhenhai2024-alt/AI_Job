@@ -1,6 +1,6 @@
 {
   "company": "国贸股份",
-  "count": 5,
+  "count": 4,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -371,97 +371,6 @@
       "annualSalary": "14万–16万/年",
       "source": "公司官方北森校招官网",
       "officialURL": "https://itg.zhiye.com/gmkgxzxq?jobId=311179875&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus",
-      "publishedAt": "2026-09-01",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→线上测试→初试→复试→发放offer→体检→签订三方协议→入职",
-      "recruitmentProcessEvidence": "E2 | 官方校招简章（南开大学就业网） | https://career.nankai.edu.cn/correcruit/content/id/117204.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://career.nankai.edu.cn/correcruit/content/id/117204.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-d8624d542da0",
-      "company": "国贸股份",
-      "title": "财务管理岗(J13650)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.本科及以上学历，财务管理、税务、会计等经管类专业；3.具有扎实的财务专业技能及归纳思维能力，具备较强的人际沟通能力，工作耐心细致",
-        "hardRestriction": true,
-        "hardClauses": [
-          "财务管理、税务、会计等经管类专业",
-          "3.具有扎实的财务专业技能及归纳思维能力"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "全国",
-      "jobDescription": "职位详情 财务管理岗(J13650) 招聘单位：国贸股份 职位类别：国贸股份 招聘人数：若干 薪资范围：14-16 万元/年 发布时间：2026-09-01 结束时间： 工作地址：全国,国外 工作职责 1.财务管理：负责会计事务管理，完成财会业务； 2.预算管理：完成预算执行分析及滚动预算跟踪； 3.税务管理：负责日常税务申报、缴纳等税务相关事项； 4.财务分析：对经营状况进行分析和预测，提出财务管理建议。 任职资格 1.本科及以上学历，财务管理、税务、会计等经管类专业； 2.大学英语六级，具备良好的英语听说读写能力； 3.具有扎实的财务专业技能及归纳思维能力，具备较强的人际沟通能力，工作耐心细致； 4.经培养后，能接受海内外外派财务工作。",
-      "jobRequirements": "任职资格 1.本科及以上学历，财务管理、税务、会计等经管类专业； 2.大学英语六级，具备良好的英语听说读写能力； 3.具有扎实的财务专业技能及归纳思维能力，具备较强的人际沟通能力，工作耐心细致； 4.经培养后，能接受海内外外派财务工作。",
-      "JD": "职位详情 财务管理岗(J13650) 招聘单位：国贸股份 职位类别：国贸股份 招聘人数：若干 薪资范围：14-16 万元/年 发布时间：2026-09-01 结束时间： 工作地址：全国,国外 工作职责 1.财务管理：负责会计事务管理，完成财会业务； 2.预算管理：完成预算执行分析及滚动预算跟踪； 3.税务管理：负责日常税务申报、缴纳等税务相关事项； 4.财务分析：对经营状况进行分析和预测，提出财务管理建议。 任职资格 1.本科及以上学历，财务管理、税务、会计等经管类专业； 2.大学英语六级，具备良好的英语听说读写能力； 3.具有扎实的财务专业技能及归纳思维能力，具备较强的人际沟通能力，工作耐心细致； 4.经培养后，能接受海内外外派财务工作。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.本科及以上学历，财务管理、税务、会计等经管类专业",
-          "3.具有扎实的财务专业技能及归纳思维能力，具备较强的人际沟通能力，工作耐心细致"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "14-16 万元/年",
-        "monthlyMin": 11667,
-        "monthlyMax": 13333,
-        "annualMin": 140000,
-        "annualMax": 160000,
-        "salaryMonths": null,
-        "monthlyEstimated": true,
-        "annualEstimated": false,
-        "monthlyDisplay": "1.17万–1.33万/月（估算）",
-        "annualDisplay": "14万–16万/年",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "14-16 万元/年 公司官方北森校招岗位；识别关键词：英语。投递前请打开官"
-      },
-      "salary": "14-16 万元/年",
-      "monthlySalary": "1.17万–1.33万/月（估算）",
-      "annualSalary": "14万–16万/年",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://itg.zhiye.com/gmkgxzxq?jobId=311179873&key=gmgf&p=1^14,3^24&p1=1^14&p2=3^24&job=campus",
       "publishedAt": "2026-09-01",
       "lastVerified": "",
       "sourceType": "official",

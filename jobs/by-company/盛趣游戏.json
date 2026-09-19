@@ -1,6 +1,6 @@
 {
   "company": "盛趣游戏",
-  "count": 12,
+  "count": 10,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -510,89 +510,6 @@
       "hasAssessmentEvidence": "E3 | 官方校招FAQ文档 | https://portal-oss.zhiye.com/104294/resource/83fd87fc-6317-400b-8682-e0f6ba8a91c4.html | 2026-09-17"
     },
     {
-      "id": "moka-77eb1beff26a",
-      "company": "盛趣游戏",
-      "title": "2027届秋招-IDC 运维工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "技术支持类（校招） 环科路1125号（地铁13号线学林路站，近学贤路口）",
-      "jobRequirements": "",
-      "JD": "技术支持类（校招） 环科路1125号（地铁13号线学林路站，近学贤路口）",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/2d47f8cb-acc9-470f-afd7-37ec783981cb",
-      "publishedAt": "2026-08-07",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申(8/3启动)→线上笔试(8/29-30第一批)→线上初面→线下复试→HR面(9月底-10月上)→意向沟通/Offer(10月中下旬)",
-      "recruitmentProcessEvidence": "E4 | 牛客网校招日程 | https://www.nowcoder.com/feed/main/detail/5cd83b95bbf24ad08aa32a51385252e4 | 2026-09-17；E3",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 官方校招FAQ文档 | https://portal-oss.zhiye.com/104294/resource/83fd87fc-6317-400b-8682-e0f6ba8a91c4.html | 2026-09-17"
-    },
-    {
       "id": "moka-937932f9788b",
       "company": "盛趣游戏",
       "title": "2027届秋招-系统策划（永恒之塔手游）",
@@ -915,93 +832,6 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/097ddf86-39ea-4803-9d5f-69c8523c5c35",
-      "publishedAt": "2026-08-07",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申(8/3启动)→线上笔试(8/29-30第一批)→线上初面→线下复试→HR面(9月底-10月上)→意向沟通/Offer(10月中下旬)",
-      "recruitmentProcessEvidence": "E4 | 牛客网校招日程 | https://www.nowcoder.com/feed/main/detail/5cd83b95bbf24ad08aa32a51385252e4 | 2026-09-17；E3",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 官方校招FAQ文档 | https://portal-oss.zhiye.com/104294/resource/83fd87fc-6317-400b-8682-e0f6ba8a91c4.html | 2026-09-17"
-    },
-    {
-      "id": "moka-5cb09e1a8a70",
-      "company": "盛趣游戏",
-      "title": "2027届秋招-UE客户端开发",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "程序开发类（校招） 环科路1125号（地铁13号线学林路站，近学贤路口）",
-      "jobRequirements": "",
-      "JD": "程序开发类（校招） 环科路1125号（地铁13号线学林路站，近学贤路口）",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/shengqu/96336#/job/309cec13-4126-4368-a8c8-14b5b20fdc99",
       "publishedAt": "2026-08-07",
       "lastVerified": "",
       "sourceType": "official",

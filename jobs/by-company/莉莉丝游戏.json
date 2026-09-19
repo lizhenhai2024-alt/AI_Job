@@ -1,6 +1,6 @@
 {
   "company": "莉莉丝游戏",
-  "count": 3,
+  "count": 2,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -167,90 +167,6 @@
       "source": "莉莉丝游戏官方飞书招聘",
       "officialURL": "https://lilithgames.jobs.feishu.cn/campus/m/position/7685305116837562687/detail",
       "publishedAt": "2026-09-14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "feishu-6029d9-7672227387145390382",
-      "company": "莉莉丝游戏",
-      "title": "【2027秋招】游戏服务器开发工程师（都市生活模拟）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 与策划和客户端协作，负责游戏功能模块的开发和优化。 2. 开发维护内部工具链，提高开发效率和稳健性。 3. 梳理和撰写业务模块技术文档。",
-      "jobRequirements": "1. 2027届毕业生，本科及以上学历。 2. 熟悉计算机网络，linux操作系统，数据结构，对并发编程有一定理解。 3. 熟悉redis，了解mongo等nosql语言。 4. 良好的编程习惯，了解基本的设计原理。 5. 熟悉c++或golang，有golang使用经验优先。 6. 热爱游戏，有游戏实习经验或个人游戏作品的优先。",
-      "JD": "1. 与策划和客户端协作，负责游戏功能模块的开发和优化。 2. 开发维护内部工具链，提高开发效率和稳健性。 3. 梳理和撰写业务模块技术文档。\n1. 2027届毕业生，本科及以上学历。 2. 熟悉计算机网络，linux操作系统，数据结构，对并发编程有一定理解。 3. 熟悉redis，了解mongo等nosql语言。 4. 良好的编程习惯，了解基本的设计原理。 5. 熟悉c++或golang，有golang使用经验优先。 6. 热爱游戏，有游戏实习经验或个人游戏作品的优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "莉莉丝游戏官方飞书招聘",
-      "officialURL": "https://lilithgames.jobs.feishu.cn/campus/m/position/7672227387145390382/detail",
-      "publishedAt": "2026-08-10",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
