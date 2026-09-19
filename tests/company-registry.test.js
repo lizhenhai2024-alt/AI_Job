@@ -32,9 +32,10 @@ test('all official source entries are represented in the unified company registr
   assert.ok(sourceRegistry.length > 0, 'official source registry should not be empty');
   for (const source of sourceRegistry) {
     const key = canonicalCompanyKey(source.company);
-    const match = companyRegistry.find((record) => {
+    const exact = companyRegistry.find((record) => canonicalCompanyKey(record.name) === key);
+    const match = exact || companyRegistry.find((record) => {
       const candidate = canonicalCompanyKey(record.name);
-      return candidate === key || (Math.min(candidate.length, key.length) >= 3 && (candidate.includes(key) || key.includes(candidate)));
+      return Math.min(candidate.length, key.length) >= 3 && (candidate.includes(key) || key.includes(candidate));
     });
     assert.ok(match, `${source.provider}:${source.company} missing from company registry`);
     assert.ok(match.sourceManaged, `${source.company} should be source-managed`);
