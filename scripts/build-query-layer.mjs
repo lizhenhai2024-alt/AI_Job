@@ -238,6 +238,27 @@ export function toQueryJob(job) {
   };
 }
 
+function toCareerPilotFeedJob(job = {}) {
+  return {
+    id: job.id || '',
+    company: job.company || '',
+    title: job.title || '',
+    graduationYear: safeArray(job.graduationYear),
+    education: safeObject(job.education),
+    major: safeObject(job.major),
+    language: safeObject(job.language),
+    location: job.location || '',
+    roleFamily: safeArray(job.roleFamily),
+    skills: safeArray(job.skills),
+    source: job.source || '',
+    sourceType: job.sourceType || '',
+    officialURL: job.officialURL || '',
+    publishedAt: job.publishedAt || '',
+    lastVerified: job.lastVerified || '',
+    deadline: job.deadline || ''
+  };
+}
+
 export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString(), outputRoot = outRoot } = {}) {
   const byCompany = new Map();
   const queryJobs = [];
@@ -286,8 +307,16 @@ export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString
     totalJobs: queryJobs.length,
     jobs: queryJobs
   };
+  const careerPilotFeed = {
+    schemaVersion: 1,
+    purpose: 'careerpilot-fact-feed',
+    updatedAt,
+    totalJobs: queryJobs.length,
+    jobs: queryJobs.map(toCareerPilotFeedJob)
+  };
   await fs.writeFile(path.join(outIndexDir, 'companies.json'), `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
   await fs.writeFile(path.join(outIndexDir, 'jobs.json'), `${JSON.stringify(aggregate)}\n`, 'utf8');
+  await fs.writeFile(path.join(outIndexDir, 'careerpilot-feed.json'), `${JSON.stringify(careerPilotFeed)}\n`, 'utf8');
   return manifest;
 }
 
