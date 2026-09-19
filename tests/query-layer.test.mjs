@@ -80,4 +80,10 @@ test('buildQueryLayer writes company shards and manifest', async () => {
   const index = JSON.parse(await fs.readFile(path.join(dir, 'index', 'companies.json'), 'utf8'));
   assert.equal(index.companies.length, 2);
   assert.equal(index.companies.some((item) => item.company === '1.研发类单位'), false);
+  const feed = JSON.parse(await fs.readFile(path.join(dir, 'index', 'careerpilot-feed.json'), 'utf8'));
+  assert.equal(feed.totalJobs, 3);
+  assert.equal(feed.jobs.length, 3);
+  assert.equal('JD' in feed.jobs[0], false);
+  assert.equal('jobDescription' in feed.jobs[0], false);
+  assert.equal('jobRequirements' in feed.jobs[0], false);
 });
