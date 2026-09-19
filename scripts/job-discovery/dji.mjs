@@ -18,8 +18,24 @@ import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_N
 //   * 实习/非2027届由 shouldKeep 统一拦截；技术/设计/财务/法务/实施等由生产池 isOutOfScopeProfessionalRole 兜底。
 const PORTAL_BASE = 'https://apply.careers.dji.com';
 const PORTAL_PATH = '/campus-recruitment/dji/143359';
+const JINA_BASE = 'https://r.jina.ai';
 const DEFAULT_ORG_ID = 'dji';
 const DEFAULT_SITE_ID = '143359';
+// 完整浏览器式请求头：Runner 直连曾返回 HTTP 404（web_fetch 服务端同 URL 200），
+// 推测是 WAF 按请求头/指纹拦截；先补全套浏览器头直连，失败再走 jina GET 代理。
+const BROWSER_GET_HEADERS = {
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  accept: 'text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
+  'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+  'upgrade-insecure-requests': '1',
+  'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"',
+  'sec-fetch-dest': 'document',
+  'sec-fetch-mode': 'navigate',
+  'sec-fetch-site': 'same-origin',
+  'sec-fetch-user': '?1'
+};
 const IN_SCOPE_ZHINENG = new Set([
   '市场', '电商', '供应链管理', '供应链工程', '人力资源',
   '产品运营', '项目管理', '软件产品', '服务管理'
@@ -117,14 +133,25 @@ async function postJson(fetcher, url, body, label, { referer = '', timeoutMs = 2
       headers: {
         'content-type': 'application/json',
         accept: 'application/json, text/plain, */*',
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
         ...(referer ? { referer } : {}),
         ...(referer ? { origin: new URL(referer).origin } : {})
       },
       body: JSON.stringify(body),
       signal: controller.signal
     });
-    if (!response.ok) throw new Error(`HTTP ${response.status} ${label}`);
+    if (!response.ok) {
+      let sample = '';
+      try { sample = (await response.text()).slice(0, 200).replace(/\s+/g, ' '); } catch {}
+      throw new Error(`HTTP ${response.status} ${label}${sample ? ` body=${sample}` : ''}`);
+    }
     const raw = await response.text();
     if (!raw || raw.length < 10) throw new Error(`empty/short response (${raw?.length || 0}B) ${label}`);
     let parsed;
@@ -172,8 +199,32 @@ function jobLimit(total, maxJobs) {
   return total > 0 ? Math.min(total, cap) : cap;
 }
 
-// SSR 回退：直接抓门户页解析 init-data（首屏 15 条），API 不可达时的部分覆盖。
-export async function fetchDjiSsrJobs(fetcher, portal, { referer = '' } = {}) {
+// jina 代理 GET：Runner 直连被边缘拦截时（HTTP 404）作为 SSR 通道回退，
+// 本机实测 x-respond-with: html 可拿到与直连一致的原始 HTML。
+export async function fetchViaJina(fetcher, url, label) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 35000);
+  try {
+    const response = await fetcher(`${JINA_BASE}/${url}`, {
+      method: 'GET',
+      headers: {
+        'x-respond-with': 'html',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
+      },
+      signal: controller.signal
+    });
+    if (!response.ok) throw new Error(`HTTP ${response.status} jina ${label}`);
+    const raw = await response.text();
+    if (!raw || raw.length < 200) throw new Error(`empty/short jina response (${raw?.length || 0}B) ${label}`);
+    return raw;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function fetchDjiSsrHtml(fetcher, portal) {
   const url = `${portal.base}/campus-recruitment/${portal.orgId}/${portal.siteId}?locale=zh-CN`;
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 25000);
@@ -181,23 +232,34 @@ export async function fetchDjiSsrJobs(fetcher, portal, { referer = '' } = {}) {
     const response = await fetcher(url, {
       method: 'GET',
       headers: {
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
-        accept: 'text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8'
+        ...BROWSER_GET_HEADERS,
+        referer: `${portal.base}/campus-recruitment/${portal.orgId}/${portal.siteId}`
       },
       signal: controller.signal
     });
-    if (!response.ok) throw new Error(`HTTP ${response.status} SSR`);
-    const html = await response.text();
-    const data = parseDjiInitData(html);
-    if (!data || !data.jobs.length) {
-      const sample = stripTags(String(html || '').slice(0, 1200)).slice(0, 300);
-      console.warn(`[dji:${'大疆'}] SSR fallback no init-data; sample: ${sample}`);
-      return { jobs: [], total: 0 };
+    if (!response.ok) {
+      let sample = '';
+      try { sample = (await response.text()).slice(0, 200).replace(/\s+/g, ' '); } catch {}
+      throw new Error(`HTTP ${response.status} SSR${sample ? ` body=${sample}` : ''}`);
     }
-    return data;
+    const html = await response.text();
+    if (!html || html.length < 200) throw new Error(`empty/short SSR response (${html?.length || 0}B)`);
+    return html;
   } finally {
     clearTimeout(timer);
   }
+}
+
+// SSR 回退：直接抓门户页解析 init-data（首屏 15 条），API 不可达时的部分覆盖。
+export async function fetchDjiSsrJobs(fetcher, portal, { referer = '' } = {}) {
+  const html = await fetchDjiSsrHtml(fetcher, portal);
+  const data = parseDjiInitData(html);
+  if (!data || !data.jobs.length) {
+    const sample = stripTags(String(html || '').slice(0, 1200)).slice(0, 300);
+    console.warn(`[dji:${'大疆'}] SSR fallback no init-data; sample: ${sample}`);
+    return { jobs: [], total: 0 };
+  }
+  return data;
 }
 
 function normalizeRow(job = {}) {
@@ -301,21 +363,32 @@ export async function searchDjiJobs(profile, source = {}, { fetcher = fetch, max
   }
 
   // 2) 回退/补充：SSR init-data（API 失败时至少覆盖首屏；API 成功时跳过）。
+  //    直连失败（Runner 边缘拦截 HTTP 404）再走 jina 代理 GET。
   if (!seen.size) {
-    try {
-      const ssr = await fetchDjiSsrJobs(fetcher, portal);
-      total = ssr.total || ssr.jobs.length;
-      for (const job of ssr.jobs) {
-        const row = normalizeRow(job);
-        if (!row.id || seen.has(row.id)) continue;
-        seen.add(row.id);
-        rowsByKey.set(row.id, row);
-        listed++;
+    const ssrUrl = `${portal.base}/campus-recruitment/${portal.orgId}/${portal.siteId}?locale=zh-CN`;
+    const ssrAttempts = [
+      { name: 'ssr-direct', fn: () => fetchDjiSsrJobs(fetcher, portal) },
+      { name: 'ssr-jina', fn: async () => {
+        const html = await fetchViaJina(fetcher, ssrUrl, 'SSR');
+        return parseDjiInitData(html) || { jobs: [], total: 0 };
+      } }
+    ];
+    for (const attempt of ssrAttempts) {
+      try {
+        const ssr = await attempt.fn();
+        total = ssr.total || ssr.jobs.length;
+        for (const job of ssr.jobs) {
+          const row = normalizeRow(job);
+          if (!row.id || seen.has(row.id)) continue;
+          seen.add(row.id);
+          rowsByKey.set(row.id, row);
+          listed++;
+        }
+        if (seen.size) { apiPath = attempt.name === 'ssr-jina' ? 'ssr-via-jina' : 'ssr'; break; }
+      } catch (error) {
+        errors++;
+        console.warn(`[dji:${source.company || '大疆'}] ${attempt.name} failed: ${error?.message || error}`);
       }
-      if (seen.size) apiPath = 'ssr';
-    } catch (error) {
-      errors++;
-      console.warn(`[dji:${source.company || '大疆'}] SSR fallback failed: ${error?.message || error}`);
     }
   }
 

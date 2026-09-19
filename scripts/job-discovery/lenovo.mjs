@@ -230,18 +230,70 @@ async function fetchText(fetcher, url, label) {
     const response = await fetcher(url, {
       method: 'GET',
       headers: {
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         accept: 'text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        'upgrade-insecure-requests': '1',
+        'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-dest': 'document',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-user': '?1',
         referer: `${BASE}/campus`
       },
       signal: controller.signal
     });
-    if (!response.ok) throw new Error(`HTTP ${response.status} ${label}`);
+    if (!response.ok) {
+      let sample = '';
+      try { sample = (await response.text()).slice(0, 200).replace(/\s+/g, ' '); } catch {}
+      throw new Error(`HTTP ${response.status} ${label}${sample ? ` body=${sample}` : ''}`);
+    }
     const raw = await response.text();
     if (!raw || raw.length < 200) throw new Error(`empty/short response (${raw?.length || 0}B) ${label}`);
     return raw;
   } finally {
     clearTimeout(timer);
+  }
+}
+
+// jina 代理 GET：Runner 直连联想（.cn 国内站，Geo/WAF 拦截返回 404）失败时的回退通道。
+async function fetchTextViaJina(fetcher, url, label) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 35000);
+  try {
+    const response = await fetcher(`https://r.jina.ai/${url}`, {
+      method: 'GET',
+      headers: {
+        'x-respond-with': 'html',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
+        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
+      },
+      signal: controller.signal
+    });
+    if (!response.ok) throw new Error(`HTTP ${response.status} jina ${label}`);
+    const raw = await response.text();
+    if (!raw || raw.length < 200) throw new Error(`empty/short jina response (${raw?.length || 0}B) ${label}`);
+    return raw;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+// 带回退的抓取：直连失败（HTTP 404/超时）→ jina 代理，并记录失败路径便于线上诊断。
+async function fetchTextWithFallback(fetcher, url, label) {
+  try {
+    return await fetchText(fetcher, url, label);
+  } catch (directError) {
+    try {
+      const viaJina = await fetchTextViaJina(fetcher, url, label);
+      console.warn(`[lenovo] ${label}: direct(${directError?.message || directError}) -> jina ok`);
+      return viaJina;
+    } catch (jinaError) {
+      throw new Error(`${label}: direct(${directError?.message || directError}) jina(${jinaError?.message || jinaError})`);
+    }
   }
 }
 
@@ -263,7 +315,7 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
 
   try {
     // 1) 未筛选总览页：拿“共N个岗位”总数 + 首屏卡片（兜底捕捉任何未枚举到的在范围岗位）。
-    const overview = await fetchText(fetcher, `${baseUrl}/position?projectType=1`, 'overview');
+    const overview = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1`, 'overview');
     pages++;
     for (const row of parseLenovoListHtml(source, overview)) {
       if (seen.has(row.id)) continue;
@@ -276,7 +328,7 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
       if (pages >= pageLimit || seen.size >= jobLimit) break;
       let html;
       try {
-        html = await fetchText(fetcher, `${baseUrl}/position?projectType=1&jobTypeName=${encodeURIComponent(category)}`, `category:${category}`);
+        html = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1&jobTypeName=${encodeURIComponent(category)}`, `category:${category}`);
         pages++;
       } catch (error) {
         errors++;
@@ -309,7 +361,7 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
     let detail = {};
     if (source.enrichDetails !== false) {
       try {
-        const detailHtml = await fetchText(fetcher, row.detailUrl, `detail:${row.id}`);
+        const detailHtml = await fetchTextWithFallback(fetcher, row.detailUrl, `detail:${row.id}`);
         detail = parseLenovoDetailHtml(detailHtml);
         detailed++;
       } catch (error) {
