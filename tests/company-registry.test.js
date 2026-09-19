@@ -79,6 +79,7 @@ test('application companies are first-class records and parent brands do not swa
   assert.equal(canonicalCompanyKey('4399'), canonicalCompanyKey('4399游戏'));
   assert.equal(canonicalCompanyKey('TORRAS'), canonicalCompanyKey('图拉斯'));
   assert.equal(canonicalCompanyKey('千问办公'), canonicalCompanyKey('阿里巴巴千问办公'));
+  assert.equal(canonicalCompanyKey('TCL华星'), canonicalCompanyKey('TCL华星光电'));
 
   const qwen = companyRegistry.find((item) => item.name === '阿里巴巴千问办公');
   const alibaba = companyRegistry.find((item) => item.name === '阿里巴巴');
