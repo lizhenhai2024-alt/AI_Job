@@ -67,7 +67,9 @@ jobs:
           JD_EVIDENCE_COMPLETE_ONLY: 1
           JD_EVIDENCE_MIN_SECTION_CHARS: 40
           JD_EVIDENCE_MIN_TOTAL_CHARS: 120
-          JD_EVIDENCE_ONLY_WEAK: 0
+          # Fast-path refresh: only spend LLM calls on jobs whose regex evidence is still weak.
+          # Full semantic enrichment remains available in dedicated/manual audit flows.
+          JD_EVIDENCE_ONLY_WEAK: 1
       - name: Report JD evidence coverage
         run: node scripts/report-jd-evidence-coverage.mjs
         env:
