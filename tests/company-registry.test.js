@@ -32,9 +32,10 @@ test('all official source entries are represented in the unified company registr
   assert.ok(sourceRegistry.length > 0, 'official source registry should not be empty');
   for (const source of sourceRegistry) {
     const key = canonicalCompanyKey(source.company);
-    const match = companyRegistry.find((record) => {
+    const exact = companyRegistry.find((record) => canonicalCompanyKey(record.name) === key);
+    const match = exact || companyRegistry.find((record) => {
       const candidate = canonicalCompanyKey(record.name);
-      return candidate === key || (Math.min(candidate.length, key.length) >= 3 && (candidate.includes(key) || key.includes(candidate)));
+      return Math.min(candidate.length, key.length) >= 3 && (candidate.includes(key) || key.includes(candidate));
     });
     assert.ok(match, `${source.provider}:${source.company} missing from company registry`);
     assert.ok(match.sourceManaged, `${source.company} should be source-managed`);
@@ -67,4 +68,22 @@ test('JD.com and Insta360 are first-class companies with stable aliases', () => 
   assert.match(insta.careerUrl || '', /insta360\.zhiye\.com\/Campus/i);
   assert.equal(canonicalCompanyKey('Insta360'), canonicalCompanyKey('影石'));
   assert.equal(canonicalCompanyKey('影石科技'), canonicalCompanyKey('影石Insta360'));
+});
+
+
+test('application companies are first-class records and parent brands do not swallow exact sub-brands', () => {
+  for (const name of ['4399游戏', '图拉斯', '阿里巴巴千问办公']) {
+    const record = companyRegistry.find((item) => item.name === name);
+    assert.ok(record, `${name} should exist in company registry`);
+    assert.equal(record.status, '主投');
+  }
+  assert.equal(canonicalCompanyKey('4399'), canonicalCompanyKey('4399游戏'));
+  assert.equal(canonicalCompanyKey('TORRAS'), canonicalCompanyKey('图拉斯'));
+  assert.equal(canonicalCompanyKey('千问办公'), canonicalCompanyKey('阿里巴巴千问办公'));
+  assert.equal(canonicalCompanyKey('TCL华星'), canonicalCompanyKey('TCL华星光电'));
+
+  const qwen = companyRegistry.find((item) => item.name === '阿里巴巴千问办公');
+  const alibaba = companyRegistry.find((item) => item.name === '阿里巴巴');
+  assert.ok(qwen && alibaba);
+  assert.notEqual(canonicalCompanyKey(qwen.name), canonicalCompanyKey(alibaba.name));
 });
