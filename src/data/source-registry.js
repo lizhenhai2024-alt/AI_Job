@@ -405,6 +405,10 @@ export const sourceRegistry = [
     "company": "赛力斯"
   },
   {
+    "provider": "beisen",
+    "company": "办公地址"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },

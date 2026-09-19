@@ -1,7 +1,7 @@
 {
   "company": "小红书",
-  "count": 30,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "count": 32,
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "xiaohongshu-672eb0889f17",
@@ -89,7 +89,217 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22034",
-      "publishedAt": "2026-09-12",
+      "publishedAt": "2026-09-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-cd19bb446345",
+      "company": "小红书",
+      "title": "【2027校招】体验运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "7、本科及以上学历，专业不限；统计学、数学、计算机、经济学、心理学、社会学、新闻传播等相关背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "关于我们 社区与商业体验运营团队，关注小红书用户在社区使用与商业交易过程中的真实体验。 在社区侧，我们关注普通用户与创作者在内容浏览、搜索发现、内容发布、互动反馈、账号成长及社区规则理解与使用过程中的体验；在商业侧，我们关注广告主、商家、消费者和买手博主在广告投放、商家经营、交易履约及售后服务等环节中的体验问题。 团队通过用户反馈、行为数据和专项调研，识别影响用户体验与平台信任的关键问题；联动产品、策略、运营、客服、治理等团队，推动产品能力、平台规则、流程与服务机制持续优化。 我们也探索 AI 在体验洞察和用户服务中的应用，包括智能客服、知识库、内容理解及 Agent 等能力，让用户问题被更快识别、更有效解决，并持续减少重复发生。 你将负责 1、基于用户原声、VOC、工单、热线、问卷、评论反馈及行为数据，识别内容浏览、搜索、发布、互动、社区规则使用，以及广告投放、商家经营、交易售后等链路中的关键体验断点。 2、将复杂、分散的用户问题拆解为清晰的体验议题，结合定性反馈与定量数据输出分析报告，为产品、策略、运营和治理团队提供决策依据。 3、参与社区与商业体验专项的设计、推进和复盘，跟进解决方案落地，评估实际效果，推动问题形成闭环。 4、建立和迭代体验指标及评估口径，监测关键链路体验变化，对专项动作进行归因分析，用数据判断优先级与改善效果。 5、参与智能化体验能力建设，包括用户反馈的结构化分析、知识库、智能客服、内容理解及大模型 Agent 等方案的设计和落地。 6、与产品、策略、内容运营、商家运营、销售、客服、治理等团队协作，在规则制定、流程设计、产品迭代和应急响应中提供用户体验视角的支持。",
+      "jobRequirements": "1、具备数据分析能力，会使用 SQL 或愿意快速学习；能结合用户反馈、内容反馈与行为数据发现问题，并形成有结论、有证据、可落地的分析建议。 2、逻辑清晰、有用户视角和同理心，能够理解普通用户、创作者及商业用户的不同诉求；具备 ownership，愿意持续推动问题闭环。 3、对内容社区、平台治理、电商、广告或平台型产品有兴趣，关注内容生态、商业生态、平台规则及用户体验。 4、对 LLM、Agent、智能客服、知识库等 AI 应用有基础认知和兴趣；了解工具调用、工作流编排、知识库检索等概念者优先。 5、具备良好的沟通协作与项目推动能力，能够与产品、策略、运营、客服、治理等团队协作，在无直接汇报关系的情况下推动共识。 6、有内容社区、用户研究、平台治理、电商、广告、客户服务或数据分析相关实习/项目经历者优先。 7、本科及以上学历，专业不限；统计学、数学、计算机、经济学、心理学、社会学、新闻传播等相关背景优先。",
+      "JD": "关于我们 社区与商业体验运营团队，关注小红书用户在社区使用与商业交易过程中的真实体验。 在社区侧，我们关注普通用户与创作者在内容浏览、搜索发现、内容发布、互动反馈、账号成长及社区规则理解与使用过程中的体验；在商业侧，我们关注广告主、商家、消费者和买手博主在广告投放、商家经营、交易履约及售后服务等环节中的体验问题。 团队通过用户反馈、行为数据和专项调研，识别影响用户体验与平台信任的关键问题；联动产品、策略、运营、客服、治理等团队，推动产品能力、平台规则、流程与服务机制持续优化。 我们也探索 AI 在体验洞察和用户服务中的应用，包括智能客服、知识库、内容理解及 Agent 等能力，让用户问题被更快识别、更有效解决，并持续减少重复发生。 你将负责 1、基于用户原声、VOC、工单、热线、问卷、评论反馈及行为数据，识别内容浏览、搜索、发布、互动、社区规则使用，以及广告投放、商家经营、交易售后等链路中的关键体验断点。 2、将复杂、分散的用户问题拆解为清晰的体验议题，结合定性反馈与定量数据输出分析报告，为产品、策略、运营和治理团队提供决策依据。 3、参与社区与商业体验专项的设计、推进和复盘，跟进解决方案落地，评估实际效果，推动问题形成闭环。 4、建立和迭代体验指标及评估口径，监测关键链路体验变化，对专项动作进行归因分析，用数据判断优先级与改善效果。 5、参与智能化体验能力建设，包括用户反馈的结构化分析、知识库、智能客服、内容理解及大模型 Agent 等方案的设计和落地。 6、与产品、策略、内容运营、商家运营、销售、客服、治理等团队协作，在规则制定、流程设计、产品迭代和应急响应中提供用户体验视角的支持。\n1、具备数据分析能力，会使用 SQL 或愿意快速学习；能结合用户反馈、内容反馈与行为数据发现问题，并形成有结论、有证据、可落地的分析建议。 2、逻辑清晰、有用户视角和同理心，能够理解普通用户、创作者及商业用户的不同诉求；具备 ownership，愿意持续推动问题闭环。 3、对内容社区、平台治理、电商、广告或平台型产品有兴趣，关注内容生态、商业生态、平台规则及用户体验。 4、对 LLM、Agent、智能客服、知识库等 AI 应用有基础认知和兴趣；了解工具调用、工作流编排、知识库检索等概念者优先。 5、具备良好的沟通协作与项目推动能力，能够与产品、策略、运营、客服、治理等团队协作，在无直接汇报关系的情况下推动共识。 6、有内容社区、用户研究、平台治理、电商、广告、客户服务或数据分析相关实习/项目经历者优先。 7、本科及以上学历，专业不限；统计学、数学、计算机、经济学、心理学、社会学、新闻传播等相关背景优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "7、本科及以上学历，专业不限",
+          "统计学、数学、计算机、经济学、心理学、社会学、新闻传播等相关背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "内容运营",
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "电商",
+        "用户",
+        "数据",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22525",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-33a97fbe4c28",
+      "company": "小红书",
+      "title": "【2027校招】rednote全球内容理解模型策略",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "3、专业背景契合：我们欢迎以下方向的背景，也欢迎文理兼修、跨学科复合型人才：计算机科学、数据科学、信息管理与信息系统、传播学、新闻学、社会学、认知科学、小语种等",
+        "hardRestriction": true,
+        "hardClauses": [
+          "3、专业背景契合：我们欢迎以下方向的背景",
+          "也欢迎文理兼修、跨学科复合型人才：计算机科学、数据科学、信息管理与信息系统、传播学、新闻学、社会学、认知科学、小语种等"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "关于团队 我们是小红书国际化内容理解团队，负责构建小红书海外社区的内容认知底座。我们把跨文化语境下最微妙、最主观、最难言说的内容感知——什么是有用、真诚、有审美，什么是错配、低质、不共鸣——翻译成模型可学习、可评测、可规模化的客观标准与标注策略。 我们联动算法、增长、推荐、产品与大模型团队，把策略变成模型，把模型搬到线上，作用于搜索、推荐、用户增长与内容体验等核心场景。我们的工作不局限于单一内容品类或单一市场，而是覆盖跨文化内容理解、用户兴趣探查、社区生态调优等前沿方向。 在这里，你面对的不是一套现成的规则，而是一个需要被定义的问题空间。我们寻找对内容有觉察、对文化差异敏感、对 AI 有好奇心的人，一起定义小红书国际化的内容理解标准。 工作职责 内容理解标准制定：对跨文化内容生态保持敏锐觉察，将主观、模糊、语境依赖的内容判断，转化为可量化、可标注、可评测的标准与策略。 模型标注策略设计：围绕内容理解目标，设计样本挖掘、标注规则与数据配比策略，构建高质量、高一致性的训练数据闭环。 模型迭代与线上落地：联动算法团队推进模型训练、评测与迭代，并推动模型在搜索、推荐、增长、内容体验等场景的线上应用。 前沿方向探索：参与跨文化内容理解、用户兴趣探查、AIGC 内容探查等新方向，探索内容理解模型在新市场、新场景中的应用可能。",
+      "jobRequirements": "1、学历背景：本科及以上学历应届毕业生，拥有优秀的基础学术素养。 2、内容觉察与客观化能力：对内容有敏锐感知，能察觉跨文化语境下的适配与错配，并能将主观判断沉淀为清晰的逻辑标准。 3、国际化经验：在中国以外的国家或地区生活过 半年以上，对不同市场的内容生态与文化语境有真实体感。 4、协同与沟通素质：具备出色的沟通表达与共情能力，能在技术语言与业务语言之间精准传达与对齐。 5、数据分析意识：具备良好的数据基础和逻辑，熟练使用 Excel，对 SQL 等数据工具有基本了解或愿意主动学习。 6、主流海外社区深度用户：不只是小红书用户，也是 TikTok、Reddit、Instagram、X、YouTube 等主流海外社区的活跃用户，并对不同社区的内容生态、文化语境与用户行为有观察和思考。 【加分项】 1、AI 探索先锋：对 AI 有强烈好奇心，能通过过往经验证明自己持续关注、试用、探索 AI 工具与新技术。例如：使用主流大模型、搭建 AI Agent、设计自动化工作流、做 Prompt Engineering、接触 AIGC 内容生成，或2、了解 SFT、DPO、RLHF 等模型对齐与数据清洗流程。不要求样样精通，但希望你能展示出主动探索、快速上手、把 AI 用起来的经历。 3、专业背景契合：我们欢迎以下方向的背景，也欢迎文理兼修、跨学科复合型人才：计算机科学、数据科学、信息管理与信息系统、传播学、新闻学、社会学、认知科学、小语种等； 4、高相关实习或项目经历：我们欢迎各类能体现用户洞察、策略思维与跨文化理解的经历。我们更看重你是否具备观察用户、理解文化、提炼规律、驾驭数据、开发工具、推动落地的潜质。 5、海外 Z 世代文化感知：对海外 Z 世代流行文化圈层有深度了解，在手作、潮玩、K-pop、二次元等领域中，对其中一个或多个有真实兴趣和长期观察，能理解其内容语言、审美偏好与社区氛围。",
+      "JD": "关于团队 我们是小红书国际化内容理解团队，负责构建小红书海外社区的内容认知底座。我们把跨文化语境下最微妙、最主观、最难言说的内容感知——什么是有用、真诚、有审美，什么是错配、低质、不共鸣——翻译成模型可学习、可评测、可规模化的客观标准与标注策略。 我们联动算法、增长、推荐、产品与大模型团队，把策略变成模型，把模型搬到线上，作用于搜索、推荐、用户增长与内容体验等核心场景。我们的工作不局限于单一内容品类或单一市场，而是覆盖跨文化内容理解、用户兴趣探查、社区生态调优等前沿方向。 在这里，你面对的不是一套现成的规则，而是一个需要被定义的问题空间。我们寻找对内容有觉察、对文化差异敏感、对 AI 有好奇心的人，一起定义小红书国际化的内容理解标准。 工作职责 内容理解标准制定：对跨文化内容生态保持敏锐觉察，将主观、模糊、语境依赖的内容判断，转化为可量化、可标注、可评测的标准与策略。 模型标注策略设计：围绕内容理解目标，设计样本挖掘、标注规则与数据配比策略，构建高质量、高一致性的训练数据闭环。 模型迭代与线上落地：联动算法团队推进模型训练、评测与迭代，并推动模型在搜索、推荐、增长、内容体验等场景的线上应用。 前沿方向探索：参与跨文化内容理解、用户兴趣探查、AIGC 内容探查等新方向，探索内容理解模型在新市场、新场景中的应用可能。\n1、学历背景：本科及以上学历应届毕业生，拥有优秀的基础学术素养。 2、内容觉察与客观化能力：对内容有敏锐感知，能察觉跨文化语境下的适配与错配，并能将主观判断沉淀为清晰的逻辑标准。 3、国际化经验：在中国以外的国家或地区生活过 半年以上，对不同市场的内容生态与文化语境有真实体感。 4、协同与沟通素质：具备出色的沟通表达与共情能力，能在技术语言与业务语言之间精准传达与对齐。 5、数据分析意识：具备良好的数据基础和逻辑，熟练使用 Excel，对 SQL 等数据工具有基本了解或愿意主动学习。 6、主流海外社区深度用户：不只是小红书用户，也是 TikTok、Reddit、Instagram、X、YouTube 等主流海外社区的活跃用户，并对不同社区的内容生态、文化语境与用户行为有观察和思考。 【加分项】 1、AI 探索先锋：对 AI 有强烈好奇心，能通过过往经验证明自己持续关注、试用、探索 AI 工具与新技术。例如：使用主流大模型、搭建 AI Agent、设计自动化工作流、做 Prompt Engineering、接触 AIGC 内容生成，或2、了解 SFT、DPO、RLHF 等模型对齐与数据清洗流程。不要求样样精通，但希望你能展示出主动探索、快速上手、把 AI 用起来的经历。 3、专业背景契合：我们欢迎以下方向的背景，也欢迎文理兼修、跨学科复合型人才：计算机科学、数据科学、信息管理与信息系统、传播学、新闻学、社会学、认知科学、小语种等； 4、高相关实习或项目经历：我们欢迎各类能体现用户洞察、策略思维与跨文化理解的经历。我们更看重你是否具备观察用户、理解文化、提炼规律、驾驭数据、开发工具、推动落地的潜质。 5、海外 Z 世代文化感知：对海外 Z 世代流行文化圈层有深度了解，在手作、潮玩、K-pop、二次元等领域中，对其中一个或多个有真实兴趣和长期观察，能理解其内容语言、审美偏好与社区氛围。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3、专业背景契合：我们欢迎以下方向的背景，也欢迎文理兼修、跨学科复合型人才：计算机科学、数据科学、信息管理与信息系统、传播学、新闻学、社会学、认知科学、小语种等"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "跨文化"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22504",
+      "publishedAt": "2026-09-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -185,7 +395,7 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22196",
-      "publishedAt": "2026-09-14",
+      "publishedAt": "2026-09-18",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -195,7 +405,105 @@
       "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
     },
     {
-      "id": "xiaohongshu-c688ea1cd6df",
+      "id": "xiaohongshu-091a933d5023",
+      "company": "小红书",
+      "title": "【2027校招】AI治理运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "6、本科及以上学历，专业不限，统计学、数学、计算机、法律、经济、语言学等相关背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "关于我们 小红书治理团队负责社区/电商/商业化风险识别与治理全链路，我们维护着社区的生态健康、电商与广告的商业秩序。大模型审核、AI Agent、蓝军攻防、数据分析，都是我们的武器。我们相信，AI 不是来取代治理工作，而是让每个治理者都能带着一支\"AI 军团\"作战。 AIGC 内容算不算真诚分享？黑灰产团伙伪装的工具手段升级成了什么？当 AI 批量生成以假乱真的素材，治理策略与模型要怎么跟上？我们又该如何借助AI升级自己的治理“武器库”？我们的每一个治理决策都会直接作用在每天数亿级的真实流量上。 你将负责 善用 AI 工具与 LLM 能力增强风险识别：借助大模型的语义理解、多模态识别能力，主动发现新型违规模式（AIGC 素材滥用、黑灰产团伙、资质造假等），持续迭代风险识别策略： 推动大模型机审与人审的协同优化：提升标注质量、训练调校模型准度（prompt 调优、case 回流等），设计人审兜底机制，持续提升审核准确率与效率； 把治理经验\"蒸馏\"成 AI 能力：将高频、可复用的治理判断沉淀为 Agent、规则与自动化工作流，用 token 替代重复的手工操作，让人的精力聚焦在更难的判断上； 建立风险治理的量化评估体系，对治理动作的效果进行归因分析与复盘，与产品、运营、法务、销售等多方协作，输出周期性治理报告并驱动跨团队改进落地； 推动审核平台的AI能力建设，将治理经验产品化、系统化，降低重复性人工治理成本。",
+      "jobRequirements": "1、对数据敏感，具备数据分析能力，能从数据中发现异常和规律，会SQL/ BI等数据处理工具优先； 2、逻辑思维清晰，有思辨力，表达有条理，能把复杂问题拆解清楚、讲明白、敢于下判断； 3、了解 LLM/Prompt/Agent 基本概念、愿意用 AI 重构自己的工作方式，有 LLM 实操经验者优先（写 prompt/搭workflow/agent）； 4、好奇心强、对风险敏感，喜欢钻研\"为什么\"——看到异常现象会想刨根问底，而不是绕开走； 5、有较强的同理心与协作意识，乐于与多方打交道，在各方诉求中推动达成共识； 6、本科及以上学历，专业不限，统计学、数学、计算机、法律、经济、语言学等相关背景优先； 7、有以下经历者优先：相关实习（风控/审核/数据分析/商业产品）、竞赛获奖、校园项目中的组织与推动经验。",
+      "JD": "关于我们 小红书治理团队负责社区/电商/商业化风险识别与治理全链路，我们维护着社区的生态健康、电商与广告的商业秩序。大模型审核、AI Agent、蓝军攻防、数据分析，都是我们的武器。我们相信，AI 不是来取代治理工作，而是让每个治理者都能带着一支\"AI 军团\"作战。 AIGC 内容算不算真诚分享？黑灰产团伙伪装的工具手段升级成了什么？当 AI 批量生成以假乱真的素材，治理策略与模型要怎么跟上？我们又该如何借助AI升级自己的治理“武器库”？我们的每一个治理决策都会直接作用在每天数亿级的真实流量上。 你将负责 善用 AI 工具与 LLM 能力增强风险识别：借助大模型的语义理解、多模态识别能力，主动发现新型违规模式（AIGC 素材滥用、黑灰产团伙、资质造假等），持续迭代风险识别策略： 推动大模型机审与人审的协同优化：提升标注质量、训练调校模型准度（prompt 调优、case 回流等），设计人审兜底机制，持续提升审核准确率与效率； 把治理经验\"蒸馏\"成 AI 能力：将高频、可复用的治理判断沉淀为 Agent、规则与自动化工作流，用 token 替代重复的手工操作，让人的精力聚焦在更难的判断上； 建立风险治理的量化评估体系，对治理动作的效果进行归因分析与复盘，与产品、运营、法务、销售等多方协作，输出周期性治理报告并驱动跨团队改进落地； 推动审核平台的AI能力建设，将治理经验产品化、系统化，降低重复性人工治理成本。\n1、对数据敏感，具备数据分析能力，能从数据中发现异常和规律，会SQL/ BI等数据处理工具优先； 2、逻辑思维清晰，有思辨力，表达有条理，能把复杂问题拆解清楚、讲明白、敢于下判断； 3、了解 LLM/Prompt/Agent 基本概念、愿意用 AI 重构自己的工作方式，有 LLM 实操经验者优先（写 prompt/搭workflow/agent）； 4、好奇心强、对风险敏感，喜欢钻研\"为什么\"——看到异常现象会想刨根问底，而不是绕开走； 5、有较强的同理心与协作意识，乐于与多方打交道，在各方诉求中推动达成共识； 6、本科及以上学历，专业不限，统计学、数学、计算机、法律、经济、语言学等相关背景优先； 7、有以下经历者优先：相关实习（风控/审核/数据分析/商业产品）、竞赛获奖、校园项目中的组织与推动经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "6、本科及以上学历，专业不限，统计学、数学、计算机、法律、经济、语言学等相关背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "电商",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22523",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-3379e204c30b",
       "company": "小红书",
       "title": "【2027校招】Growth Builder-Creator & Community（base新加坡）",
       "graduationYear": [
@@ -207,7 +515,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "本科及以上学历，不限专业",
+        "raw": "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ow",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -221,13 +529,19 @@
       "jobRequirements": "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ownership，面对不确定的问题能够自己找到切入点并开始行动 - 对技术和数据不排斥，愿意用新的方式解决传统运营问题 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，能够主动思考哪些事情不应该继续靠人工完成 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具做用户研究、内容分析、creator sourcing 和项目管理 - 能利用 AI 快速处理大量内容、creator 和用户信号，从中发现增长机会 - 会自己搭简单的自动化 workflow、数据抓取、creator database 或内部运营工具 - 有 vibe coding、no-code、light coding 或 agent workflow 相关经验 - 做过自己的内容账号、社区、工具、side project 或其他从 0 到 1 的项目 - 对最新 AI 产品、社交产品、creator tools 和内容趋势高度敏感 - 有校园社群、creator、community、活动或国际化项目经历 - 掌握第二外语，例如马来语、印尼语、泰语等",
       "JD": "我们在寻找真正喜欢内容、社区和人的应届毕业生。 你会参与全球市场的 creator 和 community growth，从找到第一批核心用户和创作者，到设计 creator 成长机制、组织社区活动，再到探索能够规模化复制的增长模式。 这个岗位不是传统的社区运营，也不是每天机械地联系达人和维护群聊。 我们希望你既懂人，也懂工具。你需要深入理解不同市场和内容文化，同时善于利用 AI、自动化和轻量技术手段，把原本高度依赖人工的 creator 和 community growth 做得更快、更聪明、更可规模化。 你会做什么 - 参与重点市场的 creator 和 community 冷启动及增长 - 挖掘、招募和运营有潜力的创作者、社区核心用户和合作伙伴 - 设计 creator onboarding、成长路径、激励机制和长期运营体系 - 深入不同内容圈层，理解用户、creator 和社区文化，发现新的增长机会 - 策划线上和线下社区活动，提升参与度、活跃度和社区连接 - 分析 creator、内容和社区数据，持续优化招募、成长和留存策略 - 与产品、市场、品牌等团队合作，将社区洞察转化为产品和增长方案 - 使用 AI 工具完成 creator sourcing、用户研究、内容分析、信息整理和项目推进 - 探索自动化 creator database、运营 workflow、内容监测和社区管理方式 - 独立负责部分市场或项目，从 0 到 1 建立可持续的 growth playbook\n- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ownership，面对不确定的问题能够自己找到切入点并开始行动 - 对技术和数据不排斥，愿意用新的方式解决传统运营问题 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，能够主动思考哪些事情不应该继续靠人工完成 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具做用户研究、内容分析、creator sourcing 和项目管理 - 能利用 AI 快速处理大量内容、creator 和用户信号，从中发现增长机会 - 会自己搭简单的自动化 workflow、数据抓取、creator database 或内部运营工具 - 有 vibe coding、no-code、light coding 或 agent workflow 相关经验 - 做过自己的内容账号、社区、工具、side project 或其他从 0 到 1 的项目 - 对最新 AI 产品、社交产品、creator tools 和内容趋势高度敏感 - 有校园社群、creator、community、活动或国际化项目经历 - 掌握第二外语，例如马来语、印尼语、泰语等",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "regex-v1",
         "majorClauses": [
-          "本科及以上学历，不限专业"
+          "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ow"
         ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -281,8 +595,113 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22266",
-      "publishedAt": "2026-09-11",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22274",
+      "publishedAt": "2026-09-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-e5a472d7ba1a",
+      "company": "小红书",
+      "title": "【2027校招】Growth Builder-Product & Experimentation",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "- 本科及以上学历，不限专业 - 对互联网产品、消费产品、AI 产品和用户增长有强烈兴趣 - 对数据敏感，能够从数据中发现问题，而不是只做报表 - 逻辑清晰，能够把复杂和模糊的问题拆解成可验证的假设 - 有很强的行动力和 ownership",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "我们在寻找对增长、产品和用户行为真正好奇的应届毕业生。 你会参与全球市场的增长问题，从发现机会、分析数据、设计实验，到推动产品和运营方案落地。这个岗位不是传统意义上的增长运营，也不是只负责执行需求。 我们希望你像一个 builder 一样工作：面对模糊问题，快速找到关键信号，提出假设，借助 AI 和工具验证，并最终把想法变成真实的增长结果。 你会做什么 - 分析用户增长漏斗、行为数据和市场趋势，识别新的增长机会 - 参与设计和推动拉新、激活、留存、召回、分享等方向的增长实验 - 深入理解用户行为和产品路径，将增长机会转化为产品方案 - 与产品、数据、算法、市场等团队合作，推动方案从 idea 到上线 - 搭建增长指标、实验框架和复盘机制，持续判断什么真正有效 - 研究不同国家、用户群体和场景中的增长模式，寻找可以规模化复制的方法 - 使用 AI 工具加速研究、分析、原型设计、数据处理和实验执行 - 独立负责部分增长项目，从问题定义、方案设计到上线和复盘",
+      "jobRequirements": "- 本科及以上学历，不限专业 - 对互联网产品、消费产品、AI 产品和用户增长有强烈兴趣 - 对数据敏感，能够从数据中发现问题，而不是只做报表 - 逻辑清晰，能够把复杂和模糊的问题拆解成可验证的假设 - 有很强的行动力和 ownership，不习惯等别人把问题定义完整 - 对技术不设边界，愿意主动学习新的工具和工作方式 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，愿意把 AI 当作日常工作基础设施，而不是偶尔使用的辅助工具 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具完成研究、分析、原型和执行 - 能借助 AI 快速写 SQL、处理数据、搭 demo、跑实验，而不是只停留在 prompt 层 - 有 vibe coding、rapid prototyping 或独立搭建小工具的经验 - 会主动搭建自己的 AI workflow、agent 或自动化工具提升工作效率 - 做过真正从 0 到 1 的个人项目、产品、增长实验或创业项目 - 对最新 AI 产品、agent、consumer apps 和 growth tools 保持高敏感度 - 有海外市场、跨文化项目或国际化产品相关经历",
+      "JD": "我们在寻找对增长、产品和用户行为真正好奇的应届毕业生。 你会参与全球市场的增长问题，从发现机会、分析数据、设计实验，到推动产品和运营方案落地。这个岗位不是传统意义上的增长运营，也不是只负责执行需求。 我们希望你像一个 builder 一样工作：面对模糊问题，快速找到关键信号，提出假设，借助 AI 和工具验证，并最终把想法变成真实的增长结果。 你会做什么 - 分析用户增长漏斗、行为数据和市场趋势，识别新的增长机会 - 参与设计和推动拉新、激活、留存、召回、分享等方向的增长实验 - 深入理解用户行为和产品路径，将增长机会转化为产品方案 - 与产品、数据、算法、市场等团队合作，推动方案从 idea 到上线 - 搭建增长指标、实验框架和复盘机制，持续判断什么真正有效 - 研究不同国家、用户群体和场景中的增长模式，寻找可以规模化复制的方法 - 使用 AI 工具加速研究、分析、原型设计、数据处理和实验执行 - 独立负责部分增长项目，从问题定义、方案设计到上线和复盘\n- 本科及以上学历，不限专业 - 对互联网产品、消费产品、AI 产品和用户增长有强烈兴趣 - 对数据敏感，能够从数据中发现问题，而不是只做报表 - 逻辑清晰，能够把复杂和模糊的问题拆解成可验证的假设 - 有很强的行动力和 ownership，不习惯等别人把问题定义完整 - 对技术不设边界，愿意主动学习新的工具和工作方式 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，愿意把 AI 当作日常工作基础设施，而不是偶尔使用的辅助工具 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具完成研究、分析、原型和执行 - 能借助 AI 快速写 SQL、处理数据、搭 demo、跑实验，而不是只停留在 prompt 层 - 有 vibe coding、rapid prototyping 或独立搭建小工具的经验 - 会主动搭建自己的 AI workflow、agent 或自动化工具提升工作效率 - 做过真正从 0 到 1 的个人项目、产品、增长实验或创业项目 - 对最新 AI 产品、agent、consumer apps 和 growth tools 保持高敏感度 - 有海外市场、跨文化项目或国际化产品相关经历",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "- 本科及以上学历，不限专业 - 对互联网产品、消费产品、AI 产品和用户增长有强烈兴趣 - 对数据敏感，能够从数据中发现问题，而不是只做报表 - 逻辑清晰，能够把复杂和模糊的问题拆解成可验证的假设 - 有很强的行动力和 ownership"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "跨文化",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22267",
+      "publishedAt": "2026-09-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -483,111 +902,6 @@
       "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
     },
     {
-      "id": "xiaohongshu-e5a472d7ba1a",
-      "company": "小红书",
-      "title": "【2027校招】Growth Builder-Product & Experimentation",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "- 本科及以上学历，不限专业 - 对互联网产品、消费产品、AI 产品和用户增长有强烈兴趣 - 对数据敏感，能够从数据中发现问题，而不是只做报表 - 逻辑清晰，能够把复杂和模糊的问题拆解成可验证的假设 - 有很强的行动力和 ownership",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "我们在寻找对增长、产品和用户行为真正好奇的应届毕业生。 你会参与全球市场的增长问题，从发现机会、分析数据、设计实验，到推动产品和运营方案落地。这个岗位不是传统意义上的增长运营，也不是只负责执行需求。 我们希望你像一个 builder 一样工作：面对模糊问题，快速找到关键信号，提出假设，借助 AI 和工具验证，并最终把想法变成真实的增长结果。 你会做什么 - 分析用户增长漏斗、行为数据和市场趋势，识别新的增长机会 - 参与设计和推动拉新、激活、留存、召回、分享等方向的增长实验 - 深入理解用户行为和产品路径，将增长机会转化为产品方案 - 与产品、数据、算法、市场等团队合作，推动方案从 idea 到上线 - 搭建增长指标、实验框架和复盘机制，持续判断什么真正有效 - 研究不同国家、用户群体和场景中的增长模式，寻找可以规模化复制的方法 - 使用 AI 工具加速研究、分析、原型设计、数据处理和实验执行 - 独立负责部分增长项目，从问题定义、方案设计到上线和复盘",
-      "jobRequirements": "- 本科及以上学历，不限专业 - 对互联网产品、消费产品、AI 产品和用户增长有强烈兴趣 - 对数据敏感，能够从数据中发现问题，而不是只做报表 - 逻辑清晰，能够把复杂和模糊的问题拆解成可验证的假设 - 有很强的行动力和 ownership，不习惯等别人把问题定义完整 - 对技术不设边界，愿意主动学习新的工具和工作方式 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，愿意把 AI 当作日常工作基础设施，而不是偶尔使用的辅助工具 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具完成研究、分析、原型和执行 - 能借助 AI 快速写 SQL、处理数据、搭 demo、跑实验，而不是只停留在 prompt 层 - 有 vibe coding、rapid prototyping 或独立搭建小工具的经验 - 会主动搭建自己的 AI workflow、agent 或自动化工具提升工作效率 - 做过真正从 0 到 1 的个人项目、产品、增长实验或创业项目 - 对最新 AI 产品、agent、consumer apps 和 growth tools 保持高敏感度 - 有海外市场、跨文化项目或国际化产品相关经历",
-      "JD": "我们在寻找对增长、产品和用户行为真正好奇的应届毕业生。 你会参与全球市场的增长问题，从发现机会、分析数据、设计实验，到推动产品和运营方案落地。这个岗位不是传统意义上的增长运营，也不是只负责执行需求。 我们希望你像一个 builder 一样工作：面对模糊问题，快速找到关键信号，提出假设，借助 AI 和工具验证，并最终把想法变成真实的增长结果。 你会做什么 - 分析用户增长漏斗、行为数据和市场趋势，识别新的增长机会 - 参与设计和推动拉新、激活、留存、召回、分享等方向的增长实验 - 深入理解用户行为和产品路径，将增长机会转化为产品方案 - 与产品、数据、算法、市场等团队合作，推动方案从 idea 到上线 - 搭建增长指标、实验框架和复盘机制，持续判断什么真正有效 - 研究不同国家、用户群体和场景中的增长模式，寻找可以规模化复制的方法 - 使用 AI 工具加速研究、分析、原型设计、数据处理和实验执行 - 独立负责部分增长项目，从问题定义、方案设计到上线和复盘\n- 本科及以上学历，不限专业 - 对互联网产品、消费产品、AI 产品和用户增长有强烈兴趣 - 对数据敏感，能够从数据中发现问题，而不是只做报表 - 逻辑清晰，能够把复杂和模糊的问题拆解成可验证的假设 - 有很强的行动力和 ownership，不习惯等别人把问题定义完整 - 对技术不设边界，愿意主动学习新的工具和工作方式 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，愿意把 AI 当作日常工作基础设施，而不是偶尔使用的辅助工具 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具完成研究、分析、原型和执行 - 能借助 AI 快速写 SQL、处理数据、搭 demo、跑实验，而不是只停留在 prompt 层 - 有 vibe coding、rapid prototyping 或独立搭建小工具的经验 - 会主动搭建自己的 AI workflow、agent 或自动化工具提升工作效率 - 做过真正从 0 到 1 的个人项目、产品、增长实验或创业项目 - 对最新 AI 产品、agent、consumer apps 和 growth tools 保持高敏感度 - 有海外市场、跨文化项目或国际化产品相关经历",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "- 本科及以上学历，不限专业 - 对互联网产品、消费产品、AI 产品和用户增长有强烈兴趣 - 对数据敏感，能够从数据中发现问题，而不是只做报表 - 逻辑清晰，能够把复杂和模糊的问题拆解成可验证的假设 - 有很强的行动力和 ownership"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": [
-          "国际业务"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "运营",
-        "项目",
-        "市场",
-        "用户",
-        "数据",
-        "跨文化",
-        "招聘"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化",
-        "出海"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22267",
-      "publishedAt": "2026-09-10",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
       "id": "xiaohongshu-cc26c0950b2d",
       "company": "小红书",
       "title": "【2027校招】公共品牌与公众沟通校招生",
@@ -772,102 +1086,6 @@
       "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
     },
     {
-      "id": "xiaohongshu-d92f6f0b18c1",
-      "company": "小红书",
-      "title": "【2027校招】综合创意写作",
-      "graduationYear": [
-        "2021",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "「about关于」是小红书2021年创立的内容品牌，关注人们生活的方式，重新思考生活的本质。 持续出版原创杂志书《about关于》系列，持续更新自制播客节目《about热水频道》。 工作职责 1、探索AIGC工具在内容生产与创意表达中的应用，能够借助AI完成创意发散、文本优化、形式创新等工作，并对最终内容效果负责； 2、参与「about关于」各类内容的文字创作，包括纸质出版物内容策划与编辑、社交媒体账号内容撰写、音/视频节目内容输出等； 3、参与线上线下活动及品牌项目，为活动主题、传播内容、现场物料等提供文案与创意支持。",
-      "jobRequirements": "1、本科及以上学历，专业不限，文字能力优先，耐心细致，认可“文字应该良善且服务于普通人”； 2、熟练使用AIGC工具辅助内容创作，在过程中能够进行有效判断并修改，而非直接依赖生成结果； 3、具备优秀的文字素养，能够适应出版物稿件、新媒体内容、品牌文案等不同类型的写作，对文字的准确性、节奏和表达方式有判断； 4、关注泛文化、艺术、生活方式，对新鲜事物敏感，有较好的社会洞察力和网感； 5、有个人内容账号运营经验，或有持续公开写作、编辑、媒体实践及代表作品者优先； 6、投递简历时请提交个人过往创意写作作品。",
-      "JD": "「about关于」是小红书2021年创立的内容品牌，关注人们生活的方式，重新思考生活的本质。 持续出版原创杂志书《about关于》系列，持续更新自制播客节目《about热水频道》。 工作职责 1、探索AIGC工具在内容生产与创意表达中的应用，能够借助AI完成创意发散、文本优化、形式创新等工作，并对最终内容效果负责； 2、参与「about关于」各类内容的文字创作，包括纸质出版物内容策划与编辑、社交媒体账号内容撰写、音/视频节目内容输出等； 3、参与线上线下活动及品牌项目，为活动主题、传播内容、现场物料等提供文案与创意支持。\n1、本科及以上学历，专业不限，文字能力优先，耐心细致，认可“文字应该良善且服务于普通人”； 2、熟练使用AIGC工具辅助内容创作，在过程中能够进行有效判断并修改，而非直接依赖生成结果； 3、具备优秀的文字素养，能够适应出版物稿件、新媒体内容、品牌文案等不同类型的写作，对文字的准确性、节奏和表达方式有判断； 4、关注泛文化、艺术、生活方式，对新鲜事物敏感，有较好的社会洞察力和网感； 5、有个人内容账号运营经验，或有持续公开写作、编辑、媒体实践及代表作品者优先； 6、投递简历时请提交个人过往创意写作作品。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "本科及以上学历，专业不限"
-        ],
-        "eligibilityClauses": [
-          "【2027校招】"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "文案"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "品牌",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22156",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
       "id": "xiaohongshu-72c608a39bd2",
       "company": "小红书",
       "title": "【2027校招】规则运营",
@@ -953,7 +1171,7 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22073",
-      "publishedAt": "2026-09-07",
+      "publishedAt": "2026-09-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1056,6 +1274,96 @@
       "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
     },
     {
+      "id": "xiaohongshu-6ac784153e76",
+      "company": "小红书",
+      "title": "【2027校招】终端管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，计算机等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "IT部负责公司对内日常工作及职场环境相关的系统，服务建设，为公司员工提供更好的工作环境和更高效的业务手段 岗位致力于通过行业领先的终端技术手段，构建各种用户相关设备的系统与应用平台，来帮助员工更便捷有效的完成日常业务",
+      "jobRequirements": "1、本科及以上学历，计算机等相关专业优先； 2、流利英语读写能力，且英文可作为工作语言优先； 3、熟悉计算机硬件、操作系统及主流办公软件； 4、了解ZTNA，UEM等基础理论； 5、有良好的服务意识及沟通能力。",
+      "JD": "IT部负责公司对内日常工作及职场环境相关的系统，服务建设，为公司员工提供更好的工作环境和更高效的业务手段 岗位致力于通过行业领先的终端技术手段，构建各种用户相关设备的系统与应用平台，来帮助员工更便捷有效的完成日常业务\n1、本科及以上学历，计算机等相关专业优先； 2、流利英语读写能力，且英文可作为工作语言优先； 3、熟悉计算机硬件、操作系统及主流办公软件； 4、了解ZTNA，UEM等基础理论； 5、有良好的服务意识及沟通能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，计算机等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "用户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22032",
+      "publishedAt": "2026-09-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
       "id": "xiaohongshu-ab3276509a3c",
       "company": "小红书",
       "title": "【2027校招】小红书商业培训生 RED Business Trainee",
@@ -1148,7 +1456,7 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21318",
-      "publishedAt": "2026-09-16",
+      "publishedAt": "2026-09-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1248,7 +1556,7 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22162",
-      "publishedAt": "2026-09-16",
+      "publishedAt": "2026-09-17",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1352,9 +1660,9 @@
       "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
     },
     {
-      "id": "xiaohongshu-6ac784153e76",
+      "id": "xiaohongshu-6db5474cea6b",
       "company": "小红书",
-      "title": "【2027校招】终端管理工程师",
+      "title": "【2027校招】产品经理（AI Coding）-AI 应用",
       "graduationYear": [
         "2027"
       ],
@@ -1364,919 +1672,23 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，计算机等相关专业优先",
+        "raw": "1、本科及以上学历，计算机科学、软件工程、数据科学、人工智能等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
       "language": {
-        "raw": "英语",
-        "english": true,
+        "raw": "",
+        "english": false,
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "jobDescription": "IT部负责公司对内日常工作及职场环境相关的系统，服务建设，为公司员工提供更好的工作环境和更高效的业务手段 岗位致力于通过行业领先的终端技术手段，构建各种用户相关设备的系统与应用平台，来帮助员工更便捷有效的完成日常业务",
-      "jobRequirements": "1、本科及以上学历，计算机等相关专业优先； 2、流利英语读写能力，且英文可作为工作语言优先； 3、熟悉计算机硬件、操作系统及主流办公软件； 4、了解ZTNA，UEM等基础理论； 5、有良好的服务意识及沟通能力。",
-      "JD": "IT部负责公司对内日常工作及职场环境相关的系统，服务建设，为公司员工提供更好的工作环境和更高效的业务手段 岗位致力于通过行业领先的终端技术手段，构建各种用户相关设备的系统与应用平台，来帮助员工更便捷有效的完成日常业务\n1、本科及以上学历，计算机等相关专业优先； 2、流利英语读写能力，且英文可作为工作语言优先； 3、熟悉计算机硬件、操作系统及主流办公软件； 4、了解ZTNA，UEM等基础理论； 5、有良好的服务意识及沟通能力。",
+      "jobDescription": "关于我们 质效研发部肩负着以 AI 重构公司级下一代质量与研发效能体系的使命。我们希望基于 AI 技术，打造全新版本的研发工具，结合 LLM 辅助、LLM 原生能力，串联从需求理解到发布部署的全流程，为小红书的技术团队提供业界顶尖的“武器装备”；同时希望通过这些“武器装备”，让每一位小红书的研发人，都有机会成为“超级个体”。 工作职责： 1、负责质效领域大模型产品某条功能线的全生命周期：负责研发 Agent、AI Coding（IDE 插件 / CLI）、AI Testing 等方向的产品设计，深度结合研发团队实际业务需求，推动产品在公司内各研发团队的应用与落地，完成从原型验证到规模化推广的完整交付； 2、深入研发一线场景，识别 AI 能真正提效的切入点：通过用户行为分析与一线访谈，精准定位大模型应用的关键价值点与能力边界，把研发痛点转化为可落地的 Agent 方案，而不是做功能堆砌； 3、搭建产品数据监测与评测体系，追踪核心指标口径，通过深度分析用户使用数据与反馈，形成数据驱动的产品决策闭环； 4、追踪 AI Coding 与 Agent 领域一手动态，形成自己的方向判断并推动落地； 5、与业务团队协同，快速构建专属 AI 能力。",
+      "jobRequirements": "1、本科及以上学历，计算机科学、软件工程、数据科学、人工智能等相关专业优先； 2、具备扎实的产品设计基础：能独立完成需求拆解、用户场景分析、方案设计与 PRD 撰写，产出结构清晰、逻辑严谨、可直接进入评审的文档； 3、具备项目推进能力：能拆解里程碑、跟进进度、识别风险，推动跨职能协作按期交付；沟通表达清晰，能向不同角色（研发 / 设计 / 业务方）准确传达产品意图； 4、深度使用过至少一款 AI Coding 工具（Cursor / Claude Code / Copilot / CodeWiz / Windsurf 等）：不是“试过”，而是真的用它完成过完整项目或持续交付过代码，面试会现场追问工作流细节； 5、学习能力和自驱力突出，能在不确定性中主动探索方向。 【加分项】 1、有可展示的独立产出：产品分析文章、独立做过的产品 / 工具 / 开源项目、竞赛成果均可，但必须是你独立思考的产物，投递时附上链接或文档。给开源项目提交过被合并的 PR； 2、有 AI 产品、开发者工具、DevTools 相关实习经历。 加入我们，你将获得： 1、直接影响数千名小红书研发工程师日常工作方式的机会，你做的每一个决策都在重塑公司的研发范式； 2、直面 LLM 在实际工程场景落地的关键难题：可靠性、可控性、规模化，以及 PM 视角独有的“能力边界与产品价值匹配”问题； 3、完善的 Mentor 带教与成长机制，与一群对技术和产品充满热情的伙伴，共同探索人机协作的研发新范式。",
+      "JD": "关于我们 质效研发部肩负着以 AI 重构公司级下一代质量与研发效能体系的使命。我们希望基于 AI 技术，打造全新版本的研发工具，结合 LLM 辅助、LLM 原生能力，串联从需求理解到发布部署的全流程，为小红书的技术团队提供业界顶尖的“武器装备”；同时希望通过这些“武器装备”，让每一位小红书的研发人，都有机会成为“超级个体”。 工作职责： 1、负责质效领域大模型产品某条功能线的全生命周期：负责研发 Agent、AI Coding（IDE 插件 / CLI）、AI Testing 等方向的产品设计，深度结合研发团队实际业务需求，推动产品在公司内各研发团队的应用与落地，完成从原型验证到规模化推广的完整交付； 2、深入研发一线场景，识别 AI 能真正提效的切入点：通过用户行为分析与一线访谈，精准定位大模型应用的关键价值点与能力边界，把研发痛点转化为可落地的 Agent 方案，而不是做功能堆砌； 3、搭建产品数据监测与评测体系，追踪核心指标口径，通过深度分析用户使用数据与反馈，形成数据驱动的产品决策闭环； 4、追踪 AI Coding 与 Agent 领域一手动态，形成自己的方向判断并推动落地； 5、与业务团队协同，快速构建专属 AI 能力。\n1、本科及以上学历，计算机科学、软件工程、数据科学、人工智能等相关专业优先； 2、具备扎实的产品设计基础：能独立完成需求拆解、用户场景分析、方案设计与 PRD 撰写，产出结构清晰、逻辑严谨、可直接进入评审的文档； 3、具备项目推进能力：能拆解里程碑、跟进进度、识别风险，推动跨职能协作按期交付；沟通表达清晰，能向不同角色（研发 / 设计 / 业务方）准确传达产品意图； 4、深度使用过至少一款 AI Coding 工具（Cursor / Claude Code / Copilot / CodeWiz / Windsurf 等）：不是“试过”，而是真的用它完成过完整项目或持续交付过代码，面试会现场追问工作流细节； 5、学习能力和自驱力突出，能在不确定性中主动探索方向。 【加分项】 1、有可展示的独立产出：产品分析文章、独立做过的产品 / 工具 / 开源项目、竞赛成果均可，但必须是你独立思考的产物，投递时附上链接或文档。给开源项目提交过被合并的 PR； 2、有 AI 产品、开发者工具、DevTools 相关实习经历。 加入我们，你将获得： 1、直接影响数千名小红书研发工程师日常工作方式的机会，你做的每一个决策都在重塑公司的研发范式； 2、直面 LLM 在实际工程场景落地的关键难题：可靠性、可控性、规模化，以及 PM 视角独有的“能力边界与产品价值匹配”问题； 3、完善的 Mentor 带教与成长机制，与一群对技术和产品充满热情的伙伴，共同探索人机协作的研发新范式。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
-          "1、本科及以上学历，计算机等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "用户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22032",
-      "publishedAt": "2026-09-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-f48a9189a6d6",
-      "company": "小红书",
-      "title": "【2027校招】小红书产品培训生（RPT）-商业产品",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "一个广告主的生意怎么变好？一份预算怎么花出最大的价值？一个商家怎么从0被更多人看见？这些问题没有标准答案，需要你自己去拆、去试、去验证。在这里，你的判断会直接跑在真实的广告主和真实的收入数据里。如果你对\"生意怎么长大\"这件事着迷，欢迎来做这道题的解题人。 关于我们 小红书商业产品团队负责广告变现和商家增长的全链路产品——从搜索、推荐场景的流量与投放策略，到服务品牌商家的CRM、开放平台、蒲公英等工具产品。我们要让每一分广告预算花得值，也要让内容生态和商业化不互相伤害。 你将负责 参与搜索/推荐场景下广告流量策略或投放策略的设计，你的一个排序规则、一次出价逻辑调整，都会跑在真实的广告收入数据里 深入商家和广告主的真实经营场景，把他们的诉求变成能被验证的产品方案 和算法、研发团队一起，把一个模糊的商业判断，推到从0到1的落地 亲手试验AI在商业化里的可能性——智能出价、自动化投放、经营助手，这些正在被重新定义 我们期待你 对\"生意怎么变好\"这件事有真实的好奇心，愿意钻进具体的行业里搞懂逻辑 逻辑清楚，能把复杂问题拆成能落地的产品方案 相信数据，但不迷信数据，保留自己对商业的判断力 对AI保持开放，愿意用新工具重新定义旧的做事方式",
-      "jobRequirements": "你对千行百业的商业逻辑充满好奇，渴望用产品助力经营者成功——你将他们的增长视作你作品的勋章。 - 把客户的生意，当成自己的作品——每一次流量策略调整、每一个投放工具的优化，都是你亲手写下的答案；你在意的不是方案好不好看，而是它有没有真的让某个商家的生意变好。 - 好奇心不设限，什么生意都想拆开看——从一分钱广告费怎么花，到一个品牌怎么被更多人看见，你都想弄明白背后的逻辑，然后忍不住自己上手改一改。 - 敢想敢试，拥抱不确定——AI正在重塑商业化的每一个环节，你愿意在没有标准答案的地方先迈一步，用最小成本验证判断，而不是等一个完美方案。",
-      "JD": "一个广告主的生意怎么变好？一份预算怎么花出最大的价值？一个商家怎么从0被更多人看见？这些问题没有标准答案，需要你自己去拆、去试、去验证。在这里，你的判断会直接跑在真实的广告主和真实的收入数据里。如果你对\"生意怎么长大\"这件事着迷，欢迎来做这道题的解题人。 关于我们 小红书商业产品团队负责广告变现和商家增长的全链路产品——从搜索、推荐场景的流量与投放策略，到服务品牌商家的CRM、开放平台、蒲公英等工具产品。我们要让每一分广告预算花得值，也要让内容生态和商业化不互相伤害。 你将负责 参与搜索/推荐场景下广告流量策略或投放策略的设计，你的一个排序规则、一次出价逻辑调整，都会跑在真实的广告收入数据里 深入商家和广告主的真实经营场景，把他们的诉求变成能被验证的产品方案 和算法、研发团队一起，把一个模糊的商业判断，推到从0到1的落地 亲手试验AI在商业化里的可能性——智能出价、自动化投放、经营助手，这些正在被重新定义 我们期待你 对\"生意怎么变好\"这件事有真实的好奇心，愿意钻进具体的行业里搞懂逻辑 逻辑清楚，能把复杂问题拆成能落地的产品方案 相信数据，但不迷信数据，保留自己对商业的判断力 对AI保持开放，愿意用新工具重新定义旧的做事方式\n你对千行百业的商业逻辑充满好奇，渴望用产品助力经营者成功——你将他们的增长视作你作品的勋章。 - 把客户的生意，当成自己的作品——每一次流量策略调整、每一个投放工具的优化，都是你亲手写下的答案；你在意的不是方案好不好看，而是它有没有真的让某个商家的生意变好。 - 好奇心不设限，什么生意都想拆开看——从一分钱广告费怎么花，到一个品牌怎么被更多人看见，你都想弄明白背后的逻辑，然后忍不住自己上手改一改。 - 敢想敢试，拥抱不确定——AI正在重塑商业化的每一个环节，你愿意在没有标准答案的地方先迈一步，用最小成本验证判断，而不是等一个完美方案。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "【2027校招】"
-        ],
-        "technicalDuties": [
-          "开发实现",
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "数据",
-        "品牌",
-        "客户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22161",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-d54ddde9088f",
-      "company": "小红书",
-      "title": "【2027校招】小红书产品经理培训生（RPT）--社区产品",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "社区产品方向聚焦于 AI × 社区的前沿融合，涵盖用户产品，策略产品两个大类。你将在数亿真实用户构建的内容生态中，用 AI 技术重新定义人与信息、人与人之间的连接方式。 AI × 社区全链路产品实战 深度参与搜索、发布、视频、直播等社区核心产品模块的建设；主导 AI 功能的需求洞察、场景设计与迭代创新，推动 AI 能力在社区亿级用户中的规模化落地。 真实社区 × AI 的前沿探索 探索 AI 在内容创作、消费、评论、社交连结等场景的应用边界，打造有人味儿的 AI 产品体验；在真实的用户行为中发现问题、定义机会，让 AI 回答不只有信息量，更有小红书特有的社区温度。 小红书流量机制建设 主导多场景推荐策略的设计与落地，从召回、排序到最终呈现全链路参与，每一个策略决策直接影响亿级用户的内容体验；深挖用户行为数据，把洞察转化为产品策略，和算法团队一起定义问题、验证方案、持续优化，把一个判断推到规模化落地。",
-      "jobRequirements": "热爱做产品，对 AI 前沿保持好奇，渴望把技术变成真实的用户价值 对社区和内容有天然感受力，能在亿级数据中发现问题，用 AI Native 的视角重新定义解法 持续思考、持续进化，面对不确定性有韧性 脚踏实地的理想主义，真诚自驱，渴望在小红书留下属于自己的作品",
-      "JD": "社区产品方向聚焦于 AI × 社区的前沿融合，涵盖用户产品，策略产品两个大类。你将在数亿真实用户构建的内容生态中，用 AI 技术重新定义人与信息、人与人之间的连接方式。 AI × 社区全链路产品实战 深度参与搜索、发布、视频、直播等社区核心产品模块的建设；主导 AI 功能的需求洞察、场景设计与迭代创新，推动 AI 能力在社区亿级用户中的规模化落地。 真实社区 × AI 的前沿探索 探索 AI 在内容创作、消费、评论、社交连结等场景的应用边界，打造有人味儿的 AI 产品体验；在真实的用户行为中发现问题、定义机会，让 AI 回答不只有信息量，更有小红书特有的社区温度。 小红书流量机制建设 主导多场景推荐策略的设计与落地，从召回、排序到最终呈现全链路参与，每一个策略决策直接影响亿级用户的内容体验；深挖用户行为数据，把洞察转化为产品策略，和算法团队一起定义问题、验证方案、持续优化，把一个判断推到规模化落地。\n热爱做产品，对 AI 前沿保持好奇，渴望把技术变成真实的用户价值 对社区和内容有天然感受力，能在亿级数据中发现问题，用 AI Native 的视角重新定义解法 持续思考、持续进化，面对不确定性有韧性 脚踏实地的理想主义，真诚自驱，渴望在小红书留下属于自己的作品",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "【2027校招】"
-        ],
-        "technicalDuties": [
-          "模型/算法",
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "用户",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22165",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-4610310498b1",
-      "company": "小红书",
-      "title": "【2027校招】小红书产品经理培训生（RPT）-- 点点产品",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "点点是小红书的 AI，已站内全量上线——不是 demo，每天被千万级用户真实使用。你可能会负责其中一到两块： 真实内容 × AI 的深度结合：参与AI 搜索、对话策略、记忆系统等核心模块建设，定义「什么是好答案」，把小红书千万篇真人笔记转化为 AI 能理解、能引用、能溯源的答案。 社区特色 Agent 场景搭建：从购物挑选、旅游攻略、衣服穿搭到订阅做事，通过场景挖掘、Agent任务规划，把一件件真实的生活决策做成能陪用户走到底的 Agent。 用户多样表达的设计优化：一张截图、一篇笔记、一句语音、一张实拍——用户表达需求的方式远不止打字。你会参与各类表达方式下的产品设计和创新，让点点把「用户想问的每一种瞬间」都稳稳接住。",
-      "jobRequirements": "热爱做产品，对 AI 前沿保持好奇，渴望把技术变成真实的用户价值 对社区和内容有天然感受力，能在亿级数据中发现问题，用 AI Native 的视角重新定义解法 持续思考、持续进化，面对不确定性有韧性 脚踏实地的理想主义，真诚自驱，渴望在小红书留下属于自己的作品",
-      "JD": "点点是小红书的 AI，已站内全量上线——不是 demo，每天被千万级用户真实使用。你可能会负责其中一到两块： 真实内容 × AI 的深度结合：参与AI 搜索、对话策略、记忆系统等核心模块建设，定义「什么是好答案」，把小红书千万篇真人笔记转化为 AI 能理解、能引用、能溯源的答案。 社区特色 Agent 场景搭建：从购物挑选、旅游攻略、衣服穿搭到订阅做事，通过场景挖掘、Agent任务规划，把一件件真实的生活决策做成能陪用户走到底的 Agent。 用户多样表达的设计优化：一张截图、一篇笔记、一句语音、一张实拍——用户表达需求的方式远不止打字。你会参与各类表达方式下的产品设计和创新，让点点把「用户想问的每一种瞬间」都稳稳接住。\n热爱做产品，对 AI 前沿保持好奇，渴望把技术变成真实的用户价值 对社区和内容有天然感受力，能在亿级数据中发现问题，用 AI Native 的视角重新定义解法 持续思考、持续进化，面对不确定性有韧性 脚踏实地的理想主义，真诚自驱，渴望在小红书留下属于自己的作品",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "【2027校招】"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "用户",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22183",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-0176b5578623",
-      "company": "小红书",
-      "title": "【2027校招】AI产品设计师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "我们是谁：小红书RPDC（RED Product Design Collective）是一个设计共同体。我们把值得做的概念/想法，构建成可以被真实验证的产品。我们设计人与产品/系统交互的方式。我们把自己的判断、气质和立场，变成可以被看见、被识别、被记住的视觉语言。 在这里你会： 和一群对审美很较真的人一起，在成熟产品中找到AI 应用的新机会，或者从零做一个 AI-native产品，将 AI 融入设计全流程。",
-      "jobRequirements": "我们希望你拥有： 1、设计审美：有出色的审美，擅长交互设计或视觉设计； 2、产品思维：具备产品思维和owner意识，能够洞察问题与需求，把控从概念探索到最终落地的全流程； 3、AI Native：AI-native 的思考模式和工作方式 ，把 AI 嵌入日常工作流 ，对 AI-native 的产品形态有想象； 4、逻辑清晰、沟通力强、能在不确定中自我迭代，具备良好的推动力与独立思考能力，能适应快节奏。 关于作品集： 投递时请务必附个人作品集，可着重展示你通过vibe coding做出的作品，课程作业/个人项目/hackathon 的可运行 demo 都可以。作品集用你认为好的方式呈现出来即可（附可访问链接或 demo 更佳）。比起排版，我们更在意你怎么思考、怎么把想法真正跑通。",
-      "JD": "我们是谁：小红书RPDC（RED Product Design Collective）是一个设计共同体。我们把值得做的概念/想法，构建成可以被真实验证的产品。我们设计人与产品/系统交互的方式。我们把自己的判断、气质和立场，变成可以被看见、被识别、被记住的视觉语言。 在这里你会： 和一群对审美很较真的人一起，在成熟产品中找到AI 应用的新机会，或者从零做一个 AI-native产品，将 AI 融入设计全流程。\n我们希望你拥有： 1、设计审美：有出色的审美，擅长交互设计或视觉设计； 2、产品思维：具备产品思维和owner意识，能够洞察问题与需求，把控从概念探索到最终落地的全流程； 3、AI Native：AI-native 的思考模式和工作方式 ，把 AI 嵌入日常工作流 ，对 AI-native 的产品形态有想象； 4、逻辑清晰、沟通力强、能在不确定中自我迭代，具备良好的推动力与独立思考能力，能适应快节奏。 关于作品集： 投递时请务必附个人作品集，可着重展示你通过vibe coding做出的作品，课程作业/个人项目/hackathon 的可运行 demo 都可以。作品集用你认为好的方式呈现出来即可（附可访问链接或 demo 更佳）。比起排版，我们更在意你怎么思考、怎么把想法真正跑通。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "【2027校招】"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22181",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-043ed744842f",
-      "company": "小红书",
-      "title": "【2027校招】多媒体设计师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "REDesign，小红书视觉团队。 我们负责品牌与视觉，覆盖社区、交易、商业、生活方式独立品牌等多个业务的视觉设计，每一次视觉输出都要进入真实的用户视野。 一支正在积极实践\"AI 时代设计师\"的团队。AI 正在改变工具和工作方式，也让设计师对画面、语境和表达的感受变得更重要。我们希望在变化中，继续做出属于此刻，也值得被记住的视觉。 工作职责 1.隶属于REDesign视觉部门多媒体设计组，负责公司视觉及动态创意相关，覆盖运营活动、品牌内外宣传、IP 设计、大型会议等多个场景； 2.参与项目提案，驾驭多种设计风格，从前期分镜脚本到最终动态交付一路把控； 3.深度理解需求思路与产品逻辑，抓住重点并分清优先级；作品上线后跟踪结果，做出相应调整。",
-      "jobRequirements": "1.本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先； 2.AI-native，熟悉市面上常用的多模态生成工具，能够将 AIGC 融入多媒体创意与制作流程，并推动工作流与方法沉淀；具有一定产品思维及执行力，有 AI Coding 相关实践者优先； 3.精通 2D、3D 动态设计， 熟悉 C4D、Blender、AE、PS 等相关设计软件； 4.热爱设计，良好审美，责任感强，良好的沟通能力和团队协作精神。",
-      "JD": "REDesign，小红书视觉团队。 我们负责品牌与视觉，覆盖社区、交易、商业、生活方式独立品牌等多个业务的视觉设计，每一次视觉输出都要进入真实的用户视野。 一支正在积极实践\"AI 时代设计师\"的团队。AI 正在改变工具和工作方式，也让设计师对画面、语境和表达的感受变得更重要。我们希望在变化中，继续做出属于此刻，也值得被记住的视觉。 工作职责 1.隶属于REDesign视觉部门多媒体设计组，负责公司视觉及动态创意相关，覆盖运营活动、品牌内外宣传、IP 设计、大型会议等多个场景； 2.参与项目提案，驾驭多种设计风格，从前期分镜脚本到最终动态交付一路把控； 3.深度理解需求思路与产品逻辑，抓住重点并分清优先级；作品上线后跟踪结果，做出相应调整。\n1.本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先； 2.AI-native，熟悉市面上常用的多模态生成工具，能够将 AIGC 融入多媒体创意与制作流程，并推动工作流与方法沉淀；具有一定产品思维及执行力，有 AI Coding 相关实践者优先； 3.精通 2D、3D 动态设计， 熟悉 C4D、Blender、AE、PS 等相关设计软件； 4.热爱设计，良好审美，责任感强，良好的沟通能力和团队协作精神。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先"
-        ],
-        "eligibilityClauses": [
-          "【2027校招】"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "品牌",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22157",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-67da58ae3a43",
-      "company": "小红书",
-      "title": "【2027校招】AI创意影像制作",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "摄影、影像类相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "REDstudio 是小红书的 in-house 影像制作团队。 我们负责与影像有关的内容表达：一支 TVC、一段纪录片、一次人物采访、一组平面摄影，也可能是一条只有 30 秒的创意短片。 从创意、导演和拍摄，到剪辑、后期、动效与动画，我们用一支小而完整的团队，让一个想法真正成为影像。我们拍摄现实，也探索生成式 AI 能为画面打开的另一种可能。 岗位职责： 1、参与公司影像项目从策划到成片的完整过程，包括纪录片、采访、Social Video、TVC 与品牌内容。 2、根据自己的能力及偏好，参与创意策划、导演、摄影、剪辑、后期或动态视觉，也有机会主导一支完整的片子。你需要找到一个内容最适合的讲法，也找到真正值得留下的画面，再通过画面、声音和节奏让它成立。 3、探索生成式 AI 在影像中的使用，让拍摄、动画与生成素材在同一个创作过程里协同。",
-      "jobRequirements": "1、摄影、影像类相关专业优先，喜欢电影/艺术/广告相关；投递时候请务必带上作品集。 2、对影像制作全流程熟悉，并具有相关全流程制作经验，沟通力清晰明确，并能够用AI工具进行影像创作。 3、有良好的审美品味，想法年轻、creative、多样性高、心态开放。 4、热爱影像，有责任心，积极主动，有良好的团队协作精神。",
-      "JD": "REDstudio 是小红书的 in-house 影像制作团队。 我们负责与影像有关的内容表达：一支 TVC、一段纪录片、一次人物采访、一组平面摄影，也可能是一条只有 30 秒的创意短片。 从创意、导演和拍摄，到剪辑、后期、动效与动画，我们用一支小而完整的团队，让一个想法真正成为影像。我们拍摄现实，也探索生成式 AI 能为画面打开的另一种可能。 岗位职责： 1、参与公司影像项目从策划到成片的完整过程，包括纪录片、采访、Social Video、TVC 与品牌内容。 2、根据自己的能力及偏好，参与创意策划、导演、摄影、剪辑、后期或动态视觉，也有机会主导一支完整的片子。你需要找到一个内容最适合的讲法，也找到真正值得留下的画面，再通过画面、声音和节奏让它成立。 3、探索生成式 AI 在影像中的使用，让拍摄、动画与生成素材在同一个创作过程里协同。\n1、摄影、影像类相关专业优先，喜欢电影/艺术/广告相关；投递时候请务必带上作品集。 2、对影像制作全流程熟悉，并具有相关全流程制作经验，沟通力清晰明确，并能够用AI工具进行影像创作。 3、有良好的审美品味，想法年轻、creative、多样性高、心态开放。 4、热爱影像，有责任心，积极主动，有良好的团队协作精神。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "摄影、影像类相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "【2027校招】"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "项目",
-        "品牌",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22152",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-65b7a1aed92f",
-      "company": "小红书",
-      "title": "【2027校招】小红书产品经理培训生（RPT）--创新产品",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1327，是小红书创业早期第一间办公室的门牌号。Lab 1327 的出发点也来自这里，它是一间面向未来的实验室。在这里，我们捕捉那些刚刚出现的技术、文化、生活趋势，融入我们的想法，把产品做出来，让真实的人用到，每一个方向都可以从 0 开始。 岗位职责： 1、AI Native的创新产品 方向覆盖旅行、审美、健康、运动、艺术等领域，不是在成熟场景里加一层 AI 能力，而是用 AI 从架构层重新定义一个新产品的形态、体验与用户关系。 2、主导产品从 0 到 1 的完整过程 从用户洞察、方向判断到上线迭代，一路把控产品的核心决策，对最终产品是否成立负责； 3、AI Native 的组织模式 与设计、研发、运营一起实践AI Native的工作模式，探索更宽更灵活的自我边界。",
-      "jobRequirements": "热爱创新探索，对 AI 发展保持强烈好奇——相信 AI 是\"重新想产品是什么\"的机会 对人和生活方式敏感，能在用户的日常里发现产品化的机会，也能亲手把想法建造出来 有 taste 也敢判断——能在信息不全、没有先例的情况下做决定",
-      "JD": "1327，是小红书创业早期第一间办公室的门牌号。Lab 1327 的出发点也来自这里，它是一间面向未来的实验室。在这里，我们捕捉那些刚刚出现的技术、文化、生活趋势，融入我们的想法，把产品做出来，让真实的人用到，每一个方向都可以从 0 开始。 岗位职责： 1、AI Native的创新产品 方向覆盖旅行、审美、健康、运动、艺术等领域，不是在成熟场景里加一层 AI 能力，而是用 AI 从架构层重新定义一个新产品的形态、体验与用户关系。 2、主导产品从 0 到 1 的完整过程 从用户洞察、方向判断到上线迭代，一路把控产品的核心决策，对最终产品是否成立负责； 3、AI Native 的组织模式 与设计、研发、运营一起实践AI Native的工作模式，探索更宽更灵活的自我边界。\n热爱创新探索，对 AI 发展保持强烈好奇——相信 AI 是\"重新想产品是什么\"的机会 对人和生活方式敏感，能在用户的日常里发现产品化的机会，也能亲手把想法建造出来 有 taste 也敢判断——能在信息不全、没有先例的情况下做决定",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "用户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22163",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-c3d203f5c93e",
-      "company": "小红书",
-      "title": "【2027校招】搜广推索引存储架构工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，计算机等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1、深度参与小红书社区搜索/推荐/广告业务，满足产品、算法对于核心引擎或者基础平台的功能需求； 2、参与搜索引擎、推荐引擎、模型预测、向量检索等基础系统、平台的设计、研发及调优工作，提升效率降低成本； 3、参与高效存储和高性能混合检索引擎，包括并不限于正排KV索引、KKV索引、时序索引等； 4、参与抽象通用的业务开发框架与组件，提升业务支持效率，将现有技术逐步平台化和产品化。",
-      "jobRequirements": "1、本科及以上学历，计算机等相关专业优先； 2、基础功底扎实，熟悉Linux/Unix平台上的C++编程，熟悉网络编程-多线程编程，具有良好的编程和工程实现能力； 3、有分布式系统开发、或算法Serving服务开发及性能优化（如结合GPU/FPGA）经验的优先； 4、有互联网企业实习经验优先； 5、有编程竞赛获奖经验或有个人代表作品优先； 6、自驱能力强，有想法，敢于实践。",
-      "JD": "1、深度参与小红书社区搜索/推荐/广告业务，满足产品、算法对于核心引擎或者基础平台的功能需求； 2、参与搜索引擎、推荐引擎、模型预测、向量检索等基础系统、平台的设计、研发及调优工作，提升效率降低成本； 3、参与高效存储和高性能混合检索引擎，包括并不限于正排KV索引、KKV索引、时序索引等； 4、参与抽象通用的业务开发框架与组件，提升业务支持效率，将现有技术逐步平台化和产品化。\n1、本科及以上学历，计算机等相关专业优先； 2、基础功底扎实，熟悉Linux/Unix平台上的C++编程，熟悉网络编程-多线程编程，具有良好的编程和工程实现能力； 3、有分布式系统开发、或算法Serving服务开发及性能优化（如结合GPU/FPGA）经验的优先； 4、有互联网企业实习经验优先； 5、有编程竞赛获奖经验或有个人代表作品优先； 6、自驱能力强，有想法，敢于实践。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，计算机等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22030",
-      "publishedAt": "2026-09-15",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-956a055b45b4",
-      "company": "小红书",
-      "title": "【2027校招】REDébuilt HR校招生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "📣 你来做什么 1、因材定岗：TA 训练生与 BP 培训生双线招募，让人去到最适合的场域，把能量释放到最大，让组织与个人的成长路径真正同频； 2、1v1 带教：资深 HR 全程护航，陪你复盘每一步成长； 3、实战为王：深度参与 HR 重点项目，在真实场景里长出专业力和影响力； 4、AI 赋能：工具、数据、算力全量开放，你的想法不止于提案，ta 能真的做出来、跑起来。",
-      "jobRequirements": "👀 希望你是 1、赛道不限，潜力至上：本科及以上学历，专业、学校均不设限；有 HR 相关实习经验，27 届及 28 届均可投递； 2、AI 在手，作品为证：你不必懂技术，但期待你的open心态可以帮助你用ta做成一件事； 3、审美在线，自有标准：对文字、视觉、体验有判断力，交出去的东西自己先满意； 4、乐观积极，认真负责：热爱人力资源相关工作，擅长人际沟通与协作； 5、正直靠谱，逻辑清晰：兼具同理心与亲和力； 6、心有韧性，敢于突破：对成长不设限； 7、认同小红书的价值观：主动、自驱、创造、成事。",
-      "JD": "📣 你来做什么 1、因材定岗：TA 训练生与 BP 培训生双线招募，让人去到最适合的场域，把能量释放到最大，让组织与个人的成长路径真正同频； 2、1v1 带教：资深 HR 全程护航，陪你复盘每一步成长； 3、实战为王：深度参与 HR 重点项目，在真实场景里长出专业力和影响力； 4、AI 赋能：工具、数据、算力全量开放，你的想法不止于提案，ta 能真的做出来、跑起来。\n👀 希望你是 1、赛道不限，潜力至上：本科及以上学历，专业、学校均不设限；有 HR 相关实习经验，27 届及 28 届均可投递； 2、AI 在手，作品为证：你不必懂技术，但期待你的open心态可以帮助你用ta做成一件事； 3、审美在线，自有标准：对文字、视觉、体验有判断力，交出去的东西自己先满意； 4、乐观积极，认真负责：热爱人力资源相关工作，擅长人际沟通与协作； 5、正直靠谱，逻辑清晰：兼具同理心与亲和力； 6、心有韧性，敢于突破：对成长不设限； 7、认同小红书的价值观：主动、自驱、创造、成事。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "招聘",
-        "人力资源"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22145",
-      "publishedAt": "2026-09-14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-d34615721026",
-      "company": "小红书",
-      "title": "【2027校招】小红书产品经理培训生（RPT）--AI平台产品",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027 届本科及以上，计算机相关专业优先，产品与技术复合背景加分",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "把大模型训练、推理、Agent开发和算力管理，做成公司算法与业务团队好用、稳定、可规模化的平台。你将与算法、研发共同定义产品，用数据改善交付效率、稳定性和资源效率，让AI从实验走向业务价值。 工作职责： 1、大模型生产平台：参与数据集、训练、压缩、推理部署、评估全链路的产品设计； 2、Agent 应用平台：参与 Agent 编排、工具市场、Agent 评测等模块规划及落地； 3、MaaS 服务平台：围绕统一 API、配额限流、模型路由，打磨开发者使用 Token 体验； 4、资源效能平台：把万卡 GPU 调度、利用率与成本分析做成可控的产品能力； 5、用户运营：NPS 调研与用户回访，沉淀最佳实践，策划技术内容与活动。",
-      "jobRequirements": "2027 届本科及以上，计算机相关专业优先，产品与技术复合背景加分； 对大模型 / LLMOps / MaaS / Agent 有基本认知，能与算法、研发顺畅沟通； 能把复杂技术需求拆解为清晰、可落地的方案，对数据敏感； 主动、开放，能够与算法、研发和业务团队高效协作。 加分项：有 AI 平台、开发者工具或 ToB 产品实习经历；亲手搭过 Agent（Dify、LangChain、Coze 等）；日常使用 Claude Code、Cursor 等 AI 编程工具。",
-      "JD": "把大模型训练、推理、Agent开发和算力管理，做成公司算法与业务团队好用、稳定、可规模化的平台。你将与算法、研发共同定义产品，用数据改善交付效率、稳定性和资源效率，让AI从实验走向业务价值。 工作职责： 1、大模型生产平台：参与数据集、训练、压缩、推理部署、评估全链路的产品设计； 2、Agent 应用平台：参与 Agent 编排、工具市场、Agent 评测等模块规划及落地； 3、MaaS 服务平台：围绕统一 API、配额限流、模型路由，打磨开发者使用 Token 体验； 4、资源效能平台：把万卡 GPU 调度、利用率与成本分析做成可控的产品能力； 5、用户运营：NPS 调研与用户回访，沉淀最佳实践，策划技术内容与活动。\n2027 届本科及以上，计算机相关专业优先，产品与技术复合背景加分； 对大模型 / LLMOps / MaaS / Agent 有基本认知，能与算法、研发顺畅沟通； 能把复杂技术需求拆解为清晰、可落地的方案，对数据敏感； 主动、开放，能够与算法、研发和业务团队高效协作。 加分项：有 AI 平台、开发者工具或 ToB 产品实习经历；亲手搭过 Agent（Dify、LangChain、Coze 等）；日常使用 Claude Code、Cursor 等 AI 编程工具。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2027 届本科及以上，计算机相关专业优先，产品与技术复合背景加分"
+          "1、本科及以上学历，计算机科学、软件工程、数据科学、人工智能等相关专业优先"
         ],
         "eligibilityClauses": [
           "招聘对象：2027届"
@@ -2291,9 +1703,7 @@
       ],
       "skills": [],
       "experienceKeywords": [
-        "运营",
-        "内容",
-        "市场",
+        "项目",
         "用户",
         "数据",
         "招聘"
@@ -2331,99 +1741,8 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22164",
-      "publishedAt": "2026-09-14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-5d8f0366e95c",
-      "company": "小红书",
-      "title": "【2027校招】科技投资",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.本科及以上学历，计算机、人工智能、电子工程等理工科或金融、经济、商科等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "「战略部」是小红书核心职能部门之一，作为业务重要的 Thinking Partner，围绕市场机会与未来议题开展研究、形成判断、推动落地，帮助业务做出正确的决策。 👉🏻 研究与规划：梳理市场机会、竞争格局与增长路径，持续跟踪行业前沿动态与竞品动作，为业务决策提供方向性输入； 👉🏻 独立判断：围绕关键战略议题提供独立判断——主动质疑既有假设、识别论证盲区，做判断的产出者，而非信息的整理与传递者； 👉🏻 推动落地：围绕产品定位、用户增长、商业模式等核心议题输出可落地的策略方案，协同产品、运营、增长、BI等团队推动业务闭环； 👉🏻 AI native：持续跟踪 AI 技术的进展，判断其对产品形态、用户体验与增长效率的影响，将 AI 作为战略研判的重要变量。 科技投资团队是战略部的重要组成部分，聚焦 AI 及前沿技术领域，寻找具有长期价值和“塑造未来”潜力的公司与投资机会。你将参与从行业研究、项目挖掘、投资分析到交易执行和投后管理的完整流程，在具体项目中理解技术、产品与商业模式，逐步建立对科技趋势和投资机会的独立判断。 岗位职责 1.行业研究与机会挖掘：围绕 AI 及前沿技术方向开展行业和细分赛道研究，跟踪技术演进、产业变化与公司动态，识别早期趋势和潜在投资机会； 2.项目拓展与筛选：参与高潜力、高成长公司的挖掘、筛选与沟通，分析公司产品、商业模式、团队及发展潜力，协助建立项目储备； 3.投资分析与尽调：参与投资项目尽调，围绕市场空间、技术可行性、商业模式、团队、财务情况及关键风险开展分析，协助形成投资判断并撰写投资备忘录； 4.交易执行与投后管理：协助推进交易流程，参与交易结构、法务审阅与交割等工作；持续跟踪被投公司的经营表现和行业变化，支持投后合作与价值创造。",
-      "jobRequirements": "1.本科及以上学历，计算机、人工智能、电子工程等理工科或金融、经济、商科等相关专业优先； 2.不强制要求直接投资经验，具有投资、咨询、战略、行业研究、产品、运营或技术等相关实习及项目经历者优先； 3.AI native：日常将 AI 工具作为核心生产力；对 AI 产品有独立的行为观察和思考、理解 AI 技术基本原理者加分； 4.对投资和 AI 技术驱动的行业机会有真实兴趣，愿意长期跟踪技术与产业变化，并持续建立认知和判断； 5.好奇心强，具有优秀的结构化思维、逻辑分析和快速学习能力，能够从复杂信息和新兴趋势中识别关键问题与早期信号； 6.具备良好的商业敏感度、产品判断力和沟通协作能力，能够清晰表达观点，并理解创业者视角。",
-      "JD": "「战略部」是小红书核心职能部门之一，作为业务重要的 Thinking Partner，围绕市场机会与未来议题开展研究、形成判断、推动落地，帮助业务做出正确的决策。 👉🏻 研究与规划：梳理市场机会、竞争格局与增长路径，持续跟踪行业前沿动态与竞品动作，为业务决策提供方向性输入； 👉🏻 独立判断：围绕关键战略议题提供独立判断——主动质疑既有假设、识别论证盲区，做判断的产出者，而非信息的整理与传递者； 👉🏻 推动落地：围绕产品定位、用户增长、商业模式等核心议题输出可落地的策略方案，协同产品、运营、增长、BI等团队推动业务闭环； 👉🏻 AI native：持续跟踪 AI 技术的进展，判断其对产品形态、用户体验与增长效率的影响，将 AI 作为战略研判的重要变量。 科技投资团队是战略部的重要组成部分，聚焦 AI 及前沿技术领域，寻找具有长期价值和“塑造未来”潜力的公司与投资机会。你将参与从行业研究、项目挖掘、投资分析到交易执行和投后管理的完整流程，在具体项目中理解技术、产品与商业模式，逐步建立对科技趋势和投资机会的独立判断。 岗位职责 1.行业研究与机会挖掘：围绕 AI 及前沿技术方向开展行业和细分赛道研究，跟踪技术演进、产业变化与公司动态，识别早期趋势和潜在投资机会； 2.项目拓展与筛选：参与高潜力、高成长公司的挖掘、筛选与沟通，分析公司产品、商业模式、团队及发展潜力，协助建立项目储备； 3.投资分析与尽调：参与投资项目尽调，围绕市场空间、技术可行性、商业模式、团队、财务情况及关键风险开展分析，协助形成投资判断并撰写投资备忘录； 4.交易执行与投后管理：协助推进交易流程，参与交易结构、法务审阅与交割等工作；持续跟踪被投公司的经营表现和行业变化，支持投后合作与价值创造。\n1.本科及以上学历，计算机、人工智能、电子工程等理工科或金融、经济、商科等相关专业优先； 2.不强制要求直接投资经验，具有投资、咨询、战略、行业研究、产品、运营或技术等相关实习及项目经历者优先； 3.AI native：日常将 AI 工具作为核心生产力；对 AI 产品有独立的行为观察和思考、理解 AI 技术基本原理者加分； 4.对投资和 AI 技术驱动的行业机会有真实兴趣，愿意长期跟踪技术与产业变化，并持续建立认知和判断； 5.好奇心强，具有优秀的结构化思维、逻辑分析和快速学习能力，能够从复杂信息和新兴趋势中识别关键问题与早期信号； 6.具备良好的商业敏感度、产品判断力和沟通协作能力，能够清晰表达观点，并理解创业者视角。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.本科及以上学历，计算机、人工智能、电子工程等理工科或金融、经济、商科等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "用户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22198",
-      "publishedAt": "2026-09-14",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22065",
+      "publishedAt": "2026-09-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2526,7 +1845,998 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=21999",
-      "publishedAt": "2026-09-10",
+      "publishedAt": "2026-09-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-c3d203f5c93e",
+      "company": "小红书",
+      "title": "【2027校招】搜广推索引存储架构工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，计算机等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、深度参与小红书社区搜索/推荐/广告业务，满足产品、算法对于核心引擎或者基础平台的功能需求； 2、参与搜索引擎、推荐引擎、模型预测、向量检索等基础系统、平台的设计、研发及调优工作，提升效率降低成本； 3、参与高效存储和高性能混合检索引擎，包括并不限于正排KV索引、KKV索引、时序索引等； 4、参与抽象通用的业务开发框架与组件，提升业务支持效率，将现有技术逐步平台化和产品化。",
+      "jobRequirements": "1、本科及以上学历，计算机等相关专业优先； 2、基础功底扎实，熟悉Linux/Unix平台上的C++编程，熟悉网络编程-多线程编程，具有良好的编程和工程实现能力； 3、有分布式系统开发、或算法Serving服务开发及性能优化（如结合GPU/FPGA）经验的优先； 4、有互联网企业实习经验优先； 5、有编程竞赛获奖经验或有个人代表作品优先； 6、自驱能力强，有想法，敢于实践。",
+      "JD": "1、深度参与小红书社区搜索/推荐/广告业务，满足产品、算法对于核心引擎或者基础平台的功能需求； 2、参与搜索引擎、推荐引擎、模型预测、向量检索等基础系统、平台的设计、研发及调优工作，提升效率降低成本； 3、参与高效存储和高性能混合检索引擎，包括并不限于正排KV索引、KKV索引、时序索引等； 4、参与抽象通用的业务开发框架与组件，提升业务支持效率，将现有技术逐步平台化和产品化。\n1、本科及以上学历，计算机等相关专业优先； 2、基础功底扎实，熟悉Linux/Unix平台上的C++编程，熟悉网络编程-多线程编程，具有良好的编程和工程实现能力； 3、有分布式系统开发、或算法Serving服务开发及性能优化（如结合GPU/FPGA）经验的优先； 4、有互联网企业实习经验优先； 5、有编程竞赛获奖经验或有个人代表作品优先； 6、自驱能力强，有想法，敢于实践。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，计算机等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22030",
+      "publishedAt": "2026-09-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-5d8f0366e95c",
+      "company": "小红书",
+      "title": "【2027校招】科技投资",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，计算机、人工智能、电子工程等理工科或金融、经济、商科等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "「战略部」是小红书核心职能部门之一，作为业务重要的 Thinking Partner，围绕市场机会与未来议题开展研究、形成判断、推动落地，帮助业务做出正确的决策。 👉🏻 研究与规划：梳理市场机会、竞争格局与增长路径，持续跟踪行业前沿动态与竞品动作，为业务决策提供方向性输入； 👉🏻 独立判断：围绕关键战略议题提供独立判断——主动质疑既有假设、识别论证盲区，做判断的产出者，而非信息的整理与传递者； 👉🏻 推动落地：围绕产品定位、用户增长、商业模式等核心议题输出可落地的策略方案，协同产品、运营、增长、BI等团队推动业务闭环； 👉🏻 AI native：持续跟踪 AI 技术的进展，判断其对产品形态、用户体验与增长效率的影响，将 AI 作为战略研判的重要变量。 科技投资团队是战略部的重要组成部分，聚焦 AI 及前沿技术领域，寻找具有长期价值和“塑造未来”潜力的公司与投资机会。你将参与从行业研究、项目挖掘、投资分析到交易执行和投后管理的完整流程，在具体项目中理解技术、产品与商业模式，逐步建立对科技趋势和投资机会的独立判断。 岗位职责 1.行业研究与机会挖掘：围绕 AI 及前沿技术方向开展行业和细分赛道研究，跟踪技术演进、产业变化与公司动态，识别早期趋势和潜在投资机会； 2.项目拓展与筛选：参与高潜力、高成长公司的挖掘、筛选与沟通，分析公司产品、商业模式、团队及发展潜力，协助建立项目储备； 3.投资分析与尽调：参与投资项目尽调，围绕市场空间、技术可行性、商业模式、团队、财务情况及关键风险开展分析，协助形成投资判断并撰写投资备忘录； 4.交易执行与投后管理：协助推进交易流程，参与交易结构、法务审阅与交割等工作；持续跟踪被投公司的经营表现和行业变化，支持投后合作与价值创造。",
+      "jobRequirements": "1.本科及以上学历，计算机、人工智能、电子工程等理工科或金融、经济、商科等相关专业优先； 2.不强制要求直接投资经验，具有投资、咨询、战略、行业研究、产品、运营或技术等相关实习及项目经历者优先； 3.AI native：日常将 AI 工具作为核心生产力；对 AI 产品有独立的行为观察和思考、理解 AI 技术基本原理者加分； 4.对投资和 AI 技术驱动的行业机会有真实兴趣，愿意长期跟踪技术与产业变化，并持续建立认知和判断； 5.好奇心强，具有优秀的结构化思维、逻辑分析和快速学习能力，能够从复杂信息和新兴趋势中识别关键问题与早期信号； 6.具备良好的商业敏感度、产品判断力和沟通协作能力，能够清晰表达观点，并理解创业者视角。",
+      "JD": "「战略部」是小红书核心职能部门之一，作为业务重要的 Thinking Partner，围绕市场机会与未来议题开展研究、形成判断、推动落地，帮助业务做出正确的决策。 👉🏻 研究与规划：梳理市场机会、竞争格局与增长路径，持续跟踪行业前沿动态与竞品动作，为业务决策提供方向性输入； 👉🏻 独立判断：围绕关键战略议题提供独立判断——主动质疑既有假设、识别论证盲区，做判断的产出者，而非信息的整理与传递者； 👉🏻 推动落地：围绕产品定位、用户增长、商业模式等核心议题输出可落地的策略方案，协同产品、运营、增长、BI等团队推动业务闭环； 👉🏻 AI native：持续跟踪 AI 技术的进展，判断其对产品形态、用户体验与增长效率的影响，将 AI 作为战略研判的重要变量。 科技投资团队是战略部的重要组成部分，聚焦 AI 及前沿技术领域，寻找具有长期价值和“塑造未来”潜力的公司与投资机会。你将参与从行业研究、项目挖掘、投资分析到交易执行和投后管理的完整流程，在具体项目中理解技术、产品与商业模式，逐步建立对科技趋势和投资机会的独立判断。 岗位职责 1.行业研究与机会挖掘：围绕 AI 及前沿技术方向开展行业和细分赛道研究，跟踪技术演进、产业变化与公司动态，识别早期趋势和潜在投资机会； 2.项目拓展与筛选：参与高潜力、高成长公司的挖掘、筛选与沟通，分析公司产品、商业模式、团队及发展潜力，协助建立项目储备； 3.投资分析与尽调：参与投资项目尽调，围绕市场空间、技术可行性、商业模式、团队、财务情况及关键风险开展分析，协助形成投资判断并撰写投资备忘录； 4.交易执行与投后管理：协助推进交易流程，参与交易结构、法务审阅与交割等工作；持续跟踪被投公司的经营表现和行业变化，支持投后合作与价值创造。\n1.本科及以上学历，计算机、人工智能、电子工程等理工科或金融、经济、商科等相关专业优先； 2.不强制要求直接投资经验，具有投资、咨询、战略、行业研究、产品、运营或技术等相关实习及项目经历者优先； 3.AI native：日常将 AI 工具作为核心生产力；对 AI 产品有独立的行为观察和思考、理解 AI 技术基本原理者加分； 4.对投资和 AI 技术驱动的行业机会有真实兴趣，愿意长期跟踪技术与产业变化，并持续建立认知和判断； 5.好奇心强，具有优秀的结构化思维、逻辑分析和快速学习能力，能够从复杂信息和新兴趋势中识别关键问题与早期信号； 6.具备良好的商业敏感度、产品判断力和沟通协作能力，能够清晰表达观点，并理解创业者视角。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，计算机、人工智能、电子工程等理工科或金融、经济、商科等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "用户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22198",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-043ed744842f",
+      "company": "小红书",
+      "title": "【2027校招】多媒体设计师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "REDesign，小红书视觉团队。 我们负责品牌与视觉，覆盖社区、交易、商业、生活方式独立品牌等多个业务的视觉设计，每一次视觉输出都要进入真实的用户视野。 一支正在积极实践\"AI 时代设计师\"的团队。AI 正在改变工具和工作方式，也让设计师对画面、语境和表达的感受变得更重要。我们希望在变化中，继续做出属于此刻，也值得被记住的视觉。 工作职责 1.隶属于REDesign视觉部门多媒体设计组，负责公司视觉及动态创意相关，覆盖运营活动、品牌内外宣传、IP 设计、大型会议等多个场景； 2.参与项目提案，驾驭多种设计风格，从前期分镜脚本到最终动态交付一路把控； 3.深度理解需求思路与产品逻辑，抓住重点并分清优先级；作品上线后跟踪结果，做出相应调整。",
+      "jobRequirements": "1.本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先； 2.AI-native，熟悉市面上常用的多模态生成工具，能够将 AIGC 融入多媒体创意与制作流程，并推动工作流与方法沉淀；具有一定产品思维及执行力，有 AI Coding 相关实践者优先； 3.精通 2D、3D 动态设计， 熟悉 C4D、Blender、AE、PS 等相关设计软件； 4.热爱设计，良好审美，责任感强，良好的沟通能力和团队协作精神。",
+      "JD": "REDesign，小红书视觉团队。 我们负责品牌与视觉，覆盖社区、交易、商业、生活方式独立品牌等多个业务的视觉设计，每一次视觉输出都要进入真实的用户视野。 一支正在积极实践\"AI 时代设计师\"的团队。AI 正在改变工具和工作方式，也让设计师对画面、语境和表达的感受变得更重要。我们希望在变化中，继续做出属于此刻，也值得被记住的视觉。 工作职责 1.隶属于REDesign视觉部门多媒体设计组，负责公司视觉及动态创意相关，覆盖运营活动、品牌内外宣传、IP 设计、大型会议等多个场景； 2.参与项目提案，驾驭多种设计风格，从前期分镜脚本到最终动态交付一路把控； 3.深度理解需求思路与产品逻辑，抓住重点并分清优先级；作品上线后跟踪结果，做出相应调整。\n1.本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先； 2.AI-native，熟悉市面上常用的多模态生成工具，能够将 AIGC 融入多媒体创意与制作流程，并推动工作流与方法沉淀；具有一定产品思维及执行力，有 AI Coding 相关实践者优先； 3.精通 2D、3D 动态设计， 熟悉 C4D、Blender、AE、PS 等相关设计软件； 4.热爱设计，良好审美，责任感强，良好的沟通能力和团队协作精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先"
+        ],
+        "eligibilityClauses": [
+          "【2027校招】"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22157",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-0176b5578623",
+      "company": "小红书",
+      "title": "【2027校招】AI产品设计师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "我们是谁：小红书RPDC（RED Product Design Collective）是一个设计共同体。我们把值得做的概念/想法，构建成可以被真实验证的产品。我们设计人与产品/系统交互的方式。我们把自己的判断、气质和立场，变成可以被看见、被识别、被记住的视觉语言。 在这里你会： 和一群对审美很较真的人一起，在成熟产品中找到AI 应用的新机会，或者从零做一个 AI-native产品，将 AI 融入设计全流程。",
+      "jobRequirements": "我们希望你拥有： 1、设计审美：有出色的审美，擅长交互设计或视觉设计； 2、产品思维：具备产品思维和owner意识，能够洞察问题与需求，把控从概念探索到最终落地的全流程； 3、AI Native：AI-native 的思考模式和工作方式 ，把 AI 嵌入日常工作流 ，对 AI-native 的产品形态有想象； 4、逻辑清晰、沟通力强、能在不确定中自我迭代，具备良好的推动力与独立思考能力，能适应快节奏。 关于作品集： 投递时请务必附个人作品集，可着重展示你通过vibe coding做出的作品，课程作业/个人项目/hackathon 的可运行 demo 都可以。作品集用你认为好的方式呈现出来即可（附可访问链接或 demo 更佳）。比起排版，我们更在意你怎么思考、怎么把想法真正跑通。",
+      "JD": "我们是谁：小红书RPDC（RED Product Design Collective）是一个设计共同体。我们把值得做的概念/想法，构建成可以被真实验证的产品。我们设计人与产品/系统交互的方式。我们把自己的判断、气质和立场，变成可以被看见、被识别、被记住的视觉语言。 在这里你会： 和一群对审美很较真的人一起，在成熟产品中找到AI 应用的新机会，或者从零做一个 AI-native产品，将 AI 融入设计全流程。\n我们希望你拥有： 1、设计审美：有出色的审美，擅长交互设计或视觉设计； 2、产品思维：具备产品思维和owner意识，能够洞察问题与需求，把控从概念探索到最终落地的全流程； 3、AI Native：AI-native 的思考模式和工作方式 ，把 AI 嵌入日常工作流 ，对 AI-native 的产品形态有想象； 4、逻辑清晰、沟通力强、能在不确定中自我迭代，具备良好的推动力与独立思考能力，能适应快节奏。 关于作品集： 投递时请务必附个人作品集，可着重展示你通过vibe coding做出的作品，课程作业/个人项目/hackathon 的可运行 demo 都可以。作品集用你认为好的方式呈现出来即可（附可访问链接或 demo 更佳）。比起排版，我们更在意你怎么思考、怎么把想法真正跑通。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "【2027校招】"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22181",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-67da58ae3a43",
+      "company": "小红书",
+      "title": "【2027校招】AI创意影像制作",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "摄影、影像类相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "REDstudio 是小红书的 in-house 影像制作团队。 我们负责与影像有关的内容表达：一支 TVC、一段纪录片、一次人物采访、一组平面摄影，也可能是一条只有 30 秒的创意短片。 从创意、导演和拍摄，到剪辑、后期、动效与动画，我们用一支小而完整的团队，让一个想法真正成为影像。我们拍摄现实，也探索生成式 AI 能为画面打开的另一种可能。 岗位职责： 1、参与公司影像项目从策划到成片的完整过程，包括纪录片、采访、Social Video、TVC 与品牌内容。 2、根据自己的能力及偏好，参与创意策划、导演、摄影、剪辑、后期或动态视觉，也有机会主导一支完整的片子。你需要找到一个内容最适合的讲法，也找到真正值得留下的画面，再通过画面、声音和节奏让它成立。 3、探索生成式 AI 在影像中的使用，让拍摄、动画与生成素材在同一个创作过程里协同。",
+      "jobRequirements": "1、摄影、影像类相关专业优先，喜欢电影/艺术/广告相关；投递时候请务必带上作品集。 2、对影像制作全流程熟悉，并具有相关全流程制作经验，沟通力清晰明确，并能够用AI工具进行影像创作。 3、有良好的审美品味，想法年轻、creative、多样性高、心态开放。 4、热爱影像，有责任心，积极主动，有良好的团队协作精神。",
+      "JD": "REDstudio 是小红书的 in-house 影像制作团队。 我们负责与影像有关的内容表达：一支 TVC、一段纪录片、一次人物采访、一组平面摄影，也可能是一条只有 30 秒的创意短片。 从创意、导演和拍摄，到剪辑、后期、动效与动画，我们用一支小而完整的团队，让一个想法真正成为影像。我们拍摄现实，也探索生成式 AI 能为画面打开的另一种可能。 岗位职责： 1、参与公司影像项目从策划到成片的完整过程，包括纪录片、采访、Social Video、TVC 与品牌内容。 2、根据自己的能力及偏好，参与创意策划、导演、摄影、剪辑、后期或动态视觉，也有机会主导一支完整的片子。你需要找到一个内容最适合的讲法，也找到真正值得留下的画面，再通过画面、声音和节奏让它成立。 3、探索生成式 AI 在影像中的使用，让拍摄、动画与生成素材在同一个创作过程里协同。\n1、摄影、影像类相关专业优先，喜欢电影/艺术/广告相关；投递时候请务必带上作品集。 2、对影像制作全流程熟悉，并具有相关全流程制作经验，沟通力清晰明确，并能够用AI工具进行影像创作。 3、有良好的审美品味，想法年轻、creative、多样性高、心态开放。 4、热爱影像，有责任心，积极主动，有良好的团队协作精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "摄影、影像类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "【2027校招】"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22152",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-4610310498b1",
+      "company": "小红书",
+      "title": "【2027校招】小红书产品经理培训生（RPT）-- 点点产品",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "点点是小红书的 AI，已站内全量上线——不是 demo，每天被千万级用户真实使用。你可能会负责其中一到两块： 真实内容 × AI 的深度结合：参与AI 搜索、对话策略、记忆系统等核心模块建设，定义「什么是好答案」，把小红书千万篇真人笔记转化为 AI 能理解、能引用、能溯源的答案。 社区特色 Agent 场景搭建：从购物挑选、旅游攻略、衣服穿搭到订阅做事，通过场景挖掘、Agent任务规划，把一件件真实的生活决策做成能陪用户走到底的 Agent。 用户多样表达的设计优化：一张截图、一篇笔记、一句语音、一张实拍——用户表达需求的方式远不止打字。你会参与各类表达方式下的产品设计和创新，让点点把「用户想问的每一种瞬间」都稳稳接住。",
+      "jobRequirements": "热爱做产品，对 AI 前沿保持好奇，渴望把技术变成真实的用户价值 对社区和内容有天然感受力，能在亿级数据中发现问题，用 AI Native 的视角重新定义解法 持续思考、持续进化，面对不确定性有韧性 脚踏实地的理想主义，真诚自驱，渴望在小红书留下属于自己的作品",
+      "JD": "点点是小红书的 AI，已站内全量上线——不是 demo，每天被千万级用户真实使用。你可能会负责其中一到两块： 真实内容 × AI 的深度结合：参与AI 搜索、对话策略、记忆系统等核心模块建设，定义「什么是好答案」，把小红书千万篇真人笔记转化为 AI 能理解、能引用、能溯源的答案。 社区特色 Agent 场景搭建：从购物挑选、旅游攻略、衣服穿搭到订阅做事，通过场景挖掘、Agent任务规划，把一件件真实的生活决策做成能陪用户走到底的 Agent。 用户多样表达的设计优化：一张截图、一篇笔记、一句语音、一张实拍——用户表达需求的方式远不止打字。你会参与各类表达方式下的产品设计和创新，让点点把「用户想问的每一种瞬间」都稳稳接住。\n热爱做产品，对 AI 前沿保持好奇，渴望把技术变成真实的用户价值 对社区和内容有天然感受力，能在亿级数据中发现问题，用 AI Native 的视角重新定义解法 持续思考、持续进化，面对不确定性有韧性 脚踏实地的理想主义，真诚自驱，渴望在小红书留下属于自己的作品",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "【2027校招】"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "用户",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22183",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-d54ddde9088f",
+      "company": "小红书",
+      "title": "【2027校招】小红书产品经理培训生（RPT）--社区产品",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "社区产品方向聚焦于 AI × 社区的前沿融合，涵盖用户产品，策略产品两个大类。你将在数亿真实用户构建的内容生态中，用 AI 技术重新定义人与信息、人与人之间的连接方式。 AI × 社区全链路产品实战 深度参与搜索、发布、视频、直播等社区核心产品模块的建设；主导 AI 功能的需求洞察、场景设计与迭代创新，推动 AI 能力在社区亿级用户中的规模化落地。 真实社区 × AI 的前沿探索 探索 AI 在内容创作、消费、评论、社交连结等场景的应用边界，打造有人味儿的 AI 产品体验；在真实的用户行为中发现问题、定义机会，让 AI 回答不只有信息量，更有小红书特有的社区温度。 小红书流量机制建设 主导多场景推荐策略的设计与落地，从召回、排序到最终呈现全链路参与，每一个策略决策直接影响亿级用户的内容体验；深挖用户行为数据，把洞察转化为产品策略，和算法团队一起定义问题、验证方案、持续优化，把一个判断推到规模化落地。",
+      "jobRequirements": "热爱做产品，对 AI 前沿保持好奇，渴望把技术变成真实的用户价值 对社区和内容有天然感受力，能在亿级数据中发现问题，用 AI Native 的视角重新定义解法 持续思考、持续进化，面对不确定性有韧性 脚踏实地的理想主义，真诚自驱，渴望在小红书留下属于自己的作品",
+      "JD": "社区产品方向聚焦于 AI × 社区的前沿融合，涵盖用户产品，策略产品两个大类。你将在数亿真实用户构建的内容生态中，用 AI 技术重新定义人与信息、人与人之间的连接方式。 AI × 社区全链路产品实战 深度参与搜索、发布、视频、直播等社区核心产品模块的建设；主导 AI 功能的需求洞察、场景设计与迭代创新，推动 AI 能力在社区亿级用户中的规模化落地。 真实社区 × AI 的前沿探索 探索 AI 在内容创作、消费、评论、社交连结等场景的应用边界，打造有人味儿的 AI 产品体验；在真实的用户行为中发现问题、定义机会，让 AI 回答不只有信息量，更有小红书特有的社区温度。 小红书流量机制建设 主导多场景推荐策略的设计与落地，从召回、排序到最终呈现全链路参与，每一个策略决策直接影响亿级用户的内容体验；深挖用户行为数据，把洞察转化为产品策略，和算法团队一起定义问题、验证方案、持续优化，把一个判断推到规模化落地。\n热爱做产品，对 AI 前沿保持好奇，渴望把技术变成真实的用户价值 对社区和内容有天然感受力，能在亿级数据中发现问题，用 AI Native 的视角重新定义解法 持续思考、持续进化，面对不确定性有韧性 脚踏实地的理想主义，真诚自驱，渴望在小红书留下属于自己的作品",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "【2027校招】"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "用户",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22165",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-d34615721026",
+      "company": "小红书",
+      "title": "【2027校招】小红书产品经理培训生（RPT）--AI平台产品",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027 届本科及以上，计算机相关专业优先，产品与技术复合背景加分",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "把大模型训练、推理、Agent开发和算力管理，做成公司算法与业务团队好用、稳定、可规模化的平台。你将与算法、研发共同定义产品，用数据改善交付效率、稳定性和资源效率，让AI从实验走向业务价值。 工作职责： 1、大模型生产平台：参与数据集、训练、压缩、推理部署、评估全链路的产品设计； 2、Agent 应用平台：参与 Agent 编排、工具市场、Agent 评测等模块规划及落地； 3、MaaS 服务平台：围绕统一 API、配额限流、模型路由，打磨开发者使用 Token 体验； 4、资源效能平台：把万卡 GPU 调度、利用率与成本分析做成可控的产品能力； 5、用户运营：NPS 调研与用户回访，沉淀最佳实践，策划技术内容与活动。",
+      "jobRequirements": "2027 届本科及以上，计算机相关专业优先，产品与技术复合背景加分； 对大模型 / LLMOps / MaaS / Agent 有基本认知，能与算法、研发顺畅沟通； 能把复杂技术需求拆解为清晰、可落地的方案，对数据敏感； 主动、开放，能够与算法、研发和业务团队高效协作。 加分项：有 AI 平台、开发者工具或 ToB 产品实习经历；亲手搭过 Agent（Dify、LangChain、Coze 等）；日常使用 Claude Code、Cursor 等 AI 编程工具。",
+      "JD": "把大模型训练、推理、Agent开发和算力管理，做成公司算法与业务团队好用、稳定、可规模化的平台。你将与算法、研发共同定义产品，用数据改善交付效率、稳定性和资源效率，让AI从实验走向业务价值。 工作职责： 1、大模型生产平台：参与数据集、训练、压缩、推理部署、评估全链路的产品设计； 2、Agent 应用平台：参与 Agent 编排、工具市场、Agent 评测等模块规划及落地； 3、MaaS 服务平台：围绕统一 API、配额限流、模型路由，打磨开发者使用 Token 体验； 4、资源效能平台：把万卡 GPU 调度、利用率与成本分析做成可控的产品能力； 5、用户运营：NPS 调研与用户回访，沉淀最佳实践，策划技术内容与活动。\n2027 届本科及以上，计算机相关专业优先，产品与技术复合背景加分； 对大模型 / LLMOps / MaaS / Agent 有基本认知，能与算法、研发顺畅沟通； 能把复杂技术需求拆解为清晰、可落地的方案，对数据敏感； 主动、开放，能够与算法、研发和业务团队高效协作。 加分项：有 AI 平台、开发者工具或 ToB 产品实习经历；亲手搭过 Agent（Dify、LangChain、Coze 等）；日常使用 Claude Code、Cursor 等 AI 编程工具。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2027 届本科及以上，计算机相关专业优先，产品与技术复合背景加分"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22164",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-65b7a1aed92f",
+      "company": "小红书",
+      "title": "【2027校招】小红书产品经理培训生（RPT）--创新产品",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1327，是小红书创业早期第一间办公室的门牌号。Lab 1327 的出发点也来自这里，它是一间面向未来的实验室。在这里，我们捕捉那些刚刚出现的技术、文化、生活趋势，融入我们的想法，把产品做出来，让真实的人用到，每一个方向都可以从 0 开始。 岗位职责： 1、AI Native的创新产品 方向覆盖旅行、审美、健康、运动、艺术等领域，不是在成熟场景里加一层 AI 能力，而是用 AI 从架构层重新定义一个新产品的形态、体验与用户关系。 2、主导产品从 0 到 1 的完整过程 从用户洞察、方向判断到上线迭代，一路把控产品的核心决策，对最终产品是否成立负责； 3、AI Native 的组织模式 与设计、研发、运营一起实践AI Native的工作模式，探索更宽更灵活的自我边界。",
+      "jobRequirements": "热爱创新探索，对 AI 发展保持强烈好奇——相信 AI 是\"重新想产品是什么\"的机会 对人和生活方式敏感，能在用户的日常里发现产品化的机会，也能亲手把想法建造出来 有 taste 也敢判断——能在信息不全、没有先例的情况下做决定",
+      "JD": "1327，是小红书创业早期第一间办公室的门牌号。Lab 1327 的出发点也来自这里，它是一间面向未来的实验室。在这里，我们捕捉那些刚刚出现的技术、文化、生活趋势，融入我们的想法，把产品做出来，让真实的人用到，每一个方向都可以从 0 开始。 岗位职责： 1、AI Native的创新产品 方向覆盖旅行、审美、健康、运动、艺术等领域，不是在成熟场景里加一层 AI 能力，而是用 AI 从架构层重新定义一个新产品的形态、体验与用户关系。 2、主导产品从 0 到 1 的完整过程 从用户洞察、方向判断到上线迭代，一路把控产品的核心决策，对最终产品是否成立负责； 3、AI Native 的组织模式 与设计、研发、运营一起实践AI Native的工作模式，探索更宽更灵活的自我边界。\n热爱创新探索，对 AI 发展保持强烈好奇——相信 AI 是\"重新想产品是什么\"的机会 对人和生活方式敏感，能在用户的日常里发现产品化的机会，也能亲手把想法建造出来 有 taste 也敢判断——能在信息不全、没有先例的情况下做决定",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "用户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22163",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-f48a9189a6d6",
+      "company": "小红书",
+      "title": "【2027校招】小红书产品培训生（RPT）-商业产品",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "一个广告主的生意怎么变好？一份预算怎么花出最大的价值？一个商家怎么从0被更多人看见？这些问题没有标准答案，需要你自己去拆、去试、去验证。在这里，你的判断会直接跑在真实的广告主和真实的收入数据里。如果你对\"生意怎么长大\"这件事着迷，欢迎来做这道题的解题人。 关于我们 小红书商业产品团队负责广告变现和商家增长的全链路产品——从搜索、推荐场景的流量与投放策略，到服务品牌商家的CRM、开放平台、蒲公英等工具产品。我们要让每一分广告预算花得值，也要让内容生态和商业化不互相伤害。 你将负责 参与搜索/推荐场景下广告流量策略或投放策略的设计，你的一个排序规则、一次出价逻辑调整，都会跑在真实的广告收入数据里 深入商家和广告主的真实经营场景，把他们的诉求变成能被验证的产品方案 和算法、研发团队一起，把一个模糊的商业判断，推到从0到1的落地 亲手试验AI在商业化里的可能性——智能出价、自动化投放、经营助手，这些正在被重新定义 我们期待你 对\"生意怎么变好\"这件事有真实的好奇心，愿意钻进具体的行业里搞懂逻辑 逻辑清楚，能把复杂问题拆成能落地的产品方案 相信数据，但不迷信数据，保留自己对商业的判断力 对AI保持开放，愿意用新工具重新定义旧的做事方式",
+      "jobRequirements": "你对千行百业的商业逻辑充满好奇，渴望用产品助力经营者成功——你将他们的增长视作你作品的勋章。 - 把客户的生意，当成自己的作品——每一次流量策略调整、每一个投放工具的优化，都是你亲手写下的答案；你在意的不是方案好不好看，而是它有没有真的让某个商家的生意变好。 - 好奇心不设限，什么生意都想拆开看——从一分钱广告费怎么花，到一个品牌怎么被更多人看见，你都想弄明白背后的逻辑，然后忍不住自己上手改一改。 - 敢想敢试，拥抱不确定——AI正在重塑商业化的每一个环节，你愿意在没有标准答案的地方先迈一步，用最小成本验证判断，而不是等一个完美方案。",
+      "JD": "一个广告主的生意怎么变好？一份预算怎么花出最大的价值？一个商家怎么从0被更多人看见？这些问题没有标准答案，需要你自己去拆、去试、去验证。在这里，你的判断会直接跑在真实的广告主和真实的收入数据里。如果你对\"生意怎么长大\"这件事着迷，欢迎来做这道题的解题人。 关于我们 小红书商业产品团队负责广告变现和商家增长的全链路产品——从搜索、推荐场景的流量与投放策略，到服务品牌商家的CRM、开放平台、蒲公英等工具产品。我们要让每一分广告预算花得值，也要让内容生态和商业化不互相伤害。 你将负责 参与搜索/推荐场景下广告流量策略或投放策略的设计，你的一个排序规则、一次出价逻辑调整，都会跑在真实的广告收入数据里 深入商家和广告主的真实经营场景，把他们的诉求变成能被验证的产品方案 和算法、研发团队一起，把一个模糊的商业判断，推到从0到1的落地 亲手试验AI在商业化里的可能性——智能出价、自动化投放、经营助手，这些正在被重新定义 我们期待你 对\"生意怎么变好\"这件事有真实的好奇心，愿意钻进具体的行业里搞懂逻辑 逻辑清楚，能把复杂问题拆成能落地的产品方案 相信数据，但不迷信数据，保留自己对商业的判断力 对AI保持开放，愿意用新工具重新定义旧的做事方式\n你对千行百业的商业逻辑充满好奇，渴望用产品助力经营者成功——你将他们的增长视作你作品的勋章。 - 把客户的生意，当成自己的作品——每一次流量策略调整、每一个投放工具的优化，都是你亲手写下的答案；你在意的不是方案好不好看，而是它有没有真的让某个商家的生意变好。 - 好奇心不设限，什么生意都想拆开看——从一分钱广告费怎么花，到一个品牌怎么被更多人看见，你都想弄明白背后的逻辑，然后忍不住自己上手改一改。 - 敢想敢试，拥抱不确定——AI正在重塑商业化的每一个环节，你愿意在没有标准答案的地方先迈一步，用最小成本验证判断，而不是等一个完美方案。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "【2027校招】"
+        ],
+        "technicalDuties": [
+          "开发实现",
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "数据",
+        "品牌",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22161",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-956a055b45b4",
+      "company": "小红书",
+      "title": "【2027校招】REDébuilt HR校招生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "📣 你来做什么 1、因材定岗：TA 训练生与 BP 培训生双线招募，让人去到最适合的场域，把能量释放到最大，让组织与个人的成长路径真正同频； 2、1v1 带教：资深 HR 全程护航，陪你复盘每一步成长； 3、实战为王：深度参与 HR 重点项目，在真实场景里长出专业力和影响力； 4、AI 赋能：工具、数据、算力全量开放，你的想法不止于提案，ta 能真的做出来、跑起来。",
+      "jobRequirements": "👀 希望你是 1、赛道不限，潜力至上：本科及以上学历，专业、学校均不设限；有 HR 相关实习经验，27 届及 28 届均可投递； 2、AI 在手，作品为证：你不必懂技术，但期待你的open心态可以帮助你用ta做成一件事； 3、审美在线，自有标准：对文字、视觉、体验有判断力，交出去的东西自己先满意； 4、乐观积极，认真负责：热爱人力资源相关工作，擅长人际沟通与协作； 5、正直靠谱，逻辑清晰：兼具同理心与亲和力； 6、心有韧性，敢于突破：对成长不设限； 7、认同小红书的价值观：主动、自驱、创造、成事。",
+      "JD": "📣 你来做什么 1、因材定岗：TA 训练生与 BP 培训生双线招募，让人去到最适合的场域，把能量释放到最大，让组织与个人的成长路径真正同频； 2、1v1 带教：资深 HR 全程护航，陪你复盘每一步成长； 3、实战为王：深度参与 HR 重点项目，在真实场景里长出专业力和影响力； 4、AI 赋能：工具、数据、算力全量开放，你的想法不止于提案，ta 能真的做出来、跑起来。\n👀 希望你是 1、赛道不限，潜力至上：本科及以上学历，专业、学校均不设限；有 HR 相关实习经验，27 届及 28 届均可投递； 2、AI 在手，作品为证：你不必懂技术，但期待你的open心态可以帮助你用ta做成一件事； 3、审美在线，自有标准：对文字、视觉、体验有判断力，交出去的东西自己先满意； 4、乐观积极，认真负责：热爱人力资源相关工作，擅长人际沟通与协作； 5、正直靠谱，逻辑清晰：兼具同理心与亲和力； 6、心有韧性，敢于突破：对成长不设限； 7、认同小红书的价值观：主动、自驱、创造、成事。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "招聘",
+        "人力资源"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22145",
+      "publishedAt": "2026-09-14",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2707,98 +3017,6 @@
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22151",
       "publishedAt": "2026-09-03",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-6db5474cea6b",
-      "company": "小红书",
-      "title": "【2027校招】产品经理（AI Coding）-AI 应用",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，计算机科学、软件工程、数据科学、人工智能等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "关于我们 质效研发部肩负着以 AI 重构公司级下一代质量与研发效能体系的使命。我们希望基于 AI 技术，打造全新版本的研发工具，结合 LLM 辅助、LLM 原生能力，串联从需求理解到发布部署的全流程，为小红书的技术团队提供业界顶尖的“武器装备”；同时希望通过这些“武器装备”，让每一位小红书的研发人，都有机会成为“超级个体”。 工作职责： 1、负责质效领域大模型产品某条功能线的全生命周期：负责研发 Agent、AI Coding（IDE 插件 / CLI）、AI Testing 等方向的产品设计，深度结合研发团队实际业务需求，推动产品在公司内各研发团队的应用与落地，完成从原型验证到规模化推广的完整交付； 2、深入研发一线场景，识别 AI 能真正提效的切入点：通过用户行为分析与一线访谈，精准定位大模型应用的关键价值点与能力边界，把研发痛点转化为可落地的 Agent 方案，而不是做功能堆砌； 3、搭建产品数据监测与评测体系，追踪核心指标口径，通过深度分析用户使用数据与反馈，形成数据驱动的产品决策闭环； 4、追踪 AI Coding 与 Agent 领域一手动态，形成自己的方向判断并推动落地； 5、与业务团队协同，快速构建专属 AI 能力。",
-      "jobRequirements": "1、本科及以上学历，计算机科学、软件工程、数据科学、人工智能等相关专业优先； 2、具备扎实的产品设计基础：能独立完成需求拆解、用户场景分析、方案设计与 PRD 撰写，产出结构清晰、逻辑严谨、可直接进入评审的文档； 3、具备项目推进能力：能拆解里程碑、跟进进度、识别风险，推动跨职能协作按期交付；沟通表达清晰，能向不同角色（研发 / 设计 / 业务方）准确传达产品意图； 4、深度使用过至少一款 AI Coding 工具（Cursor / Claude Code / Copilot / CodeWiz / Windsurf 等）：不是“试过”，而是真的用它完成过完整项目或持续交付过代码，面试会现场追问工作流细节； 5、学习能力和自驱力突出，能在不确定性中主动探索方向。 【加分项】 1、有可展示的独立产出：产品分析文章、独立做过的产品 / 工具 / 开源项目、竞赛成果均可，但必须是你独立思考的产物，投递时附上链接或文档。给开源项目提交过被合并的 PR； 2、有 AI 产品、开发者工具、DevTools 相关实习经历。 加入我们，你将获得： 1、直接影响数千名小红书研发工程师日常工作方式的机会，你做的每一个决策都在重塑公司的研发范式； 2、直面 LLM 在实际工程场景落地的关键难题：可靠性、可控性、规模化，以及 PM 视角独有的“能力边界与产品价值匹配”问题； 3、完善的 Mentor 带教与成长机制，与一群对技术和产品充满热情的伙伴，共同探索人机协作的研发新范式。",
-      "JD": "关于我们 质效研发部肩负着以 AI 重构公司级下一代质量与研发效能体系的使命。我们希望基于 AI 技术，打造全新版本的研发工具，结合 LLM 辅助、LLM 原生能力，串联从需求理解到发布部署的全流程，为小红书的技术团队提供业界顶尖的“武器装备”；同时希望通过这些“武器装备”，让每一位小红书的研发人，都有机会成为“超级个体”。 工作职责： 1、负责质效领域大模型产品某条功能线的全生命周期：负责研发 Agent、AI Coding（IDE 插件 / CLI）、AI Testing 等方向的产品设计，深度结合研发团队实际业务需求，推动产品在公司内各研发团队的应用与落地，完成从原型验证到规模化推广的完整交付； 2、深入研发一线场景，识别 AI 能真正提效的切入点：通过用户行为分析与一线访谈，精准定位大模型应用的关键价值点与能力边界，把研发痛点转化为可落地的 Agent 方案，而不是做功能堆砌； 3、搭建产品数据监测与评测体系，追踪核心指标口径，通过深度分析用户使用数据与反馈，形成数据驱动的产品决策闭环； 4、追踪 AI Coding 与 Agent 领域一手动态，形成自己的方向判断并推动落地； 5、与业务团队协同，快速构建专属 AI 能力。\n1、本科及以上学历，计算机科学、软件工程、数据科学、人工智能等相关专业优先； 2、具备扎实的产品设计基础：能独立完成需求拆解、用户场景分析、方案设计与 PRD 撰写，产出结构清晰、逻辑严谨、可直接进入评审的文档； 3、具备项目推进能力：能拆解里程碑、跟进进度、识别风险，推动跨职能协作按期交付；沟通表达清晰，能向不同角色（研发 / 设计 / 业务方）准确传达产品意图； 4、深度使用过至少一款 AI Coding 工具（Cursor / Claude Code / Copilot / CodeWiz / Windsurf 等）：不是“试过”，而是真的用它完成过完整项目或持续交付过代码，面试会现场追问工作流细节； 5、学习能力和自驱力突出，能在不确定性中主动探索方向。 【加分项】 1、有可展示的独立产出：产品分析文章、独立做过的产品 / 工具 / 开源项目、竞赛成果均可，但必须是你独立思考的产物，投递时附上链接或文档。给开源项目提交过被合并的 PR； 2、有 AI 产品、开发者工具、DevTools 相关实习经历。 加入我们，你将获得： 1、直接影响数千名小红书研发工程师日常工作方式的机会，你做的每一个决策都在重塑公司的研发范式； 2、直面 LLM 在实际工程场景落地的关键难题：可靠性、可控性、规模化，以及 PM 视角独有的“能力边界与产品价值匹配”问题； 3、完善的 Mentor 带教与成长机制，与一群对技术和产品充满热情的伙伴，共同探索人机协作的研发新范式。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，计算机科学、软件工程、数据科学、人工智能等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22065",
-      "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

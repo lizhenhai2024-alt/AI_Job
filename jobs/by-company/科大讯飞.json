@@ -1,8 +1,112 @@
 {
   "company": "科大讯飞",
-  "count": 46,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "count": 48,
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
+    {
+      "id": "beisen-537ce5ca3df0",
+      "company": "科大讯飞",
+      "title": "品牌经理-策略与运营（海外方向）(J14486)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 重点院校本科及以上学历，汉语言文学、新闻传播学、广告学、管理学、社会学、心理学等相关专业优先，综合素质扎实，学科成绩优秀",
+        "hardRestriction": true,
+        "hardClauses": [
+          "学科成绩优秀"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 负责海外子品牌的品牌策略调研、策略输出，推动品牌从策略到落地的全链路执行。 2. 主导品牌内容体系建设：包括官网内容规划、海外社媒（LinkedIn / Twitter / YouTube等）建设、内容策略与日常运营。 3. 协同产品与商务团队，将产品卖点转化为品牌语言，产出面向海外市场的产品包装与营销物料。 4. 管理品牌资产（商标、域名、品牌素材库等）。 5. 监测竞品品牌动态与目标市场消费者认知，输出季度品牌健康度报告，驱动品牌策略迭代。",
+      "jobRequirements": "1. 重点院校本科及以上学历，汉语言文学、新闻传播学、广告学、管理学、社会学、心理学等相关专业优先，综合素质扎实，学科成绩优秀； 2. 语言要求：中英文流利，中文用于内部协同与跨部门沟通，能撰写面向北美市场的英文品牌文案。 3. 行业认知：对 AI 硬件、消费电子或智能办公行业有兴趣，理解技术产品如何转化为消费者语言。 4. 其他能力：具备较强的团队协作能力，能在多线并行中推进品牌决策。理解品牌建设是一个长期、细致的过程，包含大量反复打磨与校准工作，愿意踏实投入。具备较强的学习意愿与责任心，能适应快速迭代的出海业务节奏。",
+      "JD": "1. 负责海外子品牌的品牌策略调研、策略输出，推动品牌从策略到落地的全链路执行。 2. 主导品牌内容体系建设：包括官网内容规划、海外社媒（LinkedIn / Twitter / YouTube等）建设、内容策略与日常运营。 3. 协同产品与商务团队，将产品卖点转化为品牌语言，产出面向海外市场的产品包装与营销物料。 4. 管理品牌资产（商标、域名、品牌素材库等）。 5. 监测竞品品牌动态与目标市场消费者认知，输出季度品牌健康度报告，驱动品牌策略迭代。\n1. 重点院校本科及以上学历，汉语言文学、新闻传播学、广告学、管理学、社会学、心理学等相关专业优先，综合素质扎实，学科成绩优秀； 2. 语言要求：中英文流利，中文用于内部协同与跨部门沟通，能撰写面向北美市场的英文品牌文案。 3. 行业认知：对 AI 硬件、消费电子或智能办公行业有兴趣，理解技术产品如何转化为消费者语言。 4. 其他能力：具备较强的团队协作能力，能在多线并行中推进品牌决策。理解品牌建设是一个长期、细致的过程，包含大量反复打磨与校准工作，愿意踏实投入。具备较强的学习意愿与责任心，能适应快速迭代的出海业务节奏。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 重点院校本科及以上学历，汉语言文学、新闻传播学、广告学、管理学、社会学、心理学等相关专业优先，综合素质扎实，学科成绩优秀"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "产品营销"
+      ],
+      "skills": [
+        "跨部门沟通",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=a0d15fb0-829d-46c2-9661-219578ed7ebb",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
     {
       "id": "beisen-249fab90897d",
       "company": "科大讯飞",
@@ -1796,7 +1900,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1810,15 +1914,13 @@
       "jobRequirements": "1、本科及以上学历； 2、优秀的客户沟通能力、统筹协调能力、资源管理能力、成本管控能力，能独立而有技巧地处理医院各层级人员关系； 3、以责任结果为导向，极强的项目推动能力和执行力，负责项目交付目标达成、验收、回款，保证客户满意度； 4、能承受较大的工作压力和强度，能接受组织工作统筹安排，能接受出差。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。",
       "JD": "1、负责医疗医院侧项目管理工作，负责识别项目目标，带领项目团队按时保质完成项目交付目标，达成公司项目经营目标； 2、组织并制定项目计划，并跟踪、推进，反馈和维护，确保项目任务高效有序完成； 3、负责项目资源的协调与组织，团队管理及项目各干系人协同工作，建设好项目团队各种有效的沟通机制； 4、负责项目客户需求管理，协调后端产研及第三方厂商完成项目需求实现及产品落地效果； 5、参与售前方案工作，承担项目交付专家角色，确保后期方案可执行可交付； 6、参与部门内项目管理知识建设，交付流程及模型建设，对团队实施人员进行赋能，帮其能力提升\n1、本科及以上学历； 2、优秀的客户沟通能力、统筹协调能力、资源管理能力、成本管控能力，能独立而有技巧地处理医院各层级人员关系； 3、以责任结果为导向，极强的项目推动能力和执行力，负责项目交付目标达成、验收、回款，保证客户满意度； 4、能承受较大的工作压力和强度，能接受组织工作统筹安排，能接受出差。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "客户关系"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "项目管理"
@@ -2631,6 +2733,100 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=0d8cc597-20ae-4077-9ea4-aac1318f1f62",
       "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-988b2aa01a9b",
+      "company": "科大讯飞",
+      "title": "学科教研员-语文/数学/英语/物理/化学/历史/地理方向(J14408)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "学科教研员-语文/数学/英语/物理/化学/历史/地理方向(J14408)",
+        "hardRestriction": true,
+        "hardClauses": [
+          "学科教研员-语文/数学/英语/物理/化学/历史/地理方向(J14408)"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.负责GB端/C端产品教研方案设计、落地与成效保障，协同打磨高质量学科体系标准与内容范式； 2.参与K12对应学科资源建设，对体系资源生产质量负责； 3.参与AI类教育教研产品设计，对AI能力边界及大模型在教育产品应用有个人思考； 4.具备产品化思维，参与市场、用户与竞品调研，可将教育产品逻辑转化为相关学科教研需求，依托用户数据和反馈持续迭代教研方案与教学资源。",
+      "jobRequirements": "1、硕士及以上学历，相关学科教学、教育学、教育技术学等专业优先； 2、了解对应学科课程标准及主流教材版本内容，有教学教研实习，或教学资源开发、课程建设等相关实践经历优先； 3、有大模型应用实践经验，能探索设计落地 AI 在相关场景的实际落地应用； 4、自驱力强，具有良好的逻辑思维、需求拆解与跨部门协调沟通能力，能承受一定工作压力，具备良好的团队协作精神。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "JD": "1.负责GB端/C端产品教研方案设计、落地与成效保障，协同打磨高质量学科体系标准与内容范式； 2.参与K12对应学科资源建设，对体系资源生产质量负责； 3.参与AI类教育教研产品设计，对AI能力边界及大模型在教育产品应用有个人思考； 4.具备产品化思维，参与市场、用户与竞品调研，可将教育产品逻辑转化为相关学科教研需求，依托用户数据和反馈持续迭代教研方案与教学资源。\n1、硕士及以上学历，相关学科教学、教育学、教育技术学等专业优先； 2、了解对应学科课程标准及主流教材版本内容，有教学教研实习，或教学资源开发、课程建设等相关实践经历优先； 3、有大模型应用实践经验，能探索设计落地 AI 在相关场景的实际落地应用； 4、自驱力强，具有良好的逻辑思维、需求拆解与跨部门协调沟通能力，能承受一定工作压力，具备良好的团队协作精神。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "学科教研员-语文/数学/英语/物理/化学/历史/地理方向(J14408)"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=b509e1dc-dea7-4b41-bd6c-ed7f3d84f806",
+      "publishedAt": "2026-09-11",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

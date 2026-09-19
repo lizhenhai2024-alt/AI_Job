@@ -1,7 +1,7 @@
 {
   "company": "奥克斯集团",
   "count": 20,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "beisen-5ef6f799d9ba",
@@ -125,15 +125,11 @@
       "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
       "JD": "1、负责中心拓展项目，广辟业务渠道； 2、总部思想传递，中心问题暴露及闭环 ； 3、跟进闭环中心未达指标，助力完成销售目标； 4、收集竞品产品及政策信息，并提出对应方案； 5、其他工程项目、招投标相关事项。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "市场"

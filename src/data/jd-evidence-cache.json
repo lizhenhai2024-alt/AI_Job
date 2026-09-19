@@ -12565,5 +12565,2429 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "bytedance-34e26ee2c155:493a5139c373fa93:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884337122576650:ba0f513477071651:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-49f725-7673027213571426586:dddc3e718fd11566:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历应届毕业生，市场传播、项目管理、软件等相关专业优先。"
+  ],
+  "eligibilityClauses": [
+   "本科及以上学历应届毕业生，市场传播、项目管理、软件等相关专业优先。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-af0a71-7686314339251783977:88abeda811e77b6b:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上；优先数学 / 统计 / 经济 / 计算机等理工科，CET‑6 优先"
+  ],
+  "eligibilityClauses": [
+   "27届校招"
+  ],
+  "technicalDuties": [
+   "开发实现",
+   "模型/算法",
+   "问题根因",
+   "质量技术"
+  ],
+  "businessDuties": [
+   "物流执行",
+   "资料/流程"
+  ]
+ },
+ "bytedance-8e5037059ee7:bba1a15cf1cb51d3:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-01fd5e9b6924:927caccaa5d4e757:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [
+   "问题根因"
+  ],
+  "businessDuties": []
+ },
+ "bytedance-19733d353bb5:bb1f7f4725c4f1f0:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [
+   "模型/算法",
+   "技术评估"
+  ],
+  "businessDuties": [
+   "客户关系",
+   "跨文化沟通",
+   "国际业务",
+   "资料/流程"
+  ]
+ },
+ "ecoflow-7678717009463347502:6debaaaa5a1087ed:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历，德语听说读写熟练"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系",
+   "物流执行",
+   "资料/流程",
+   "国际业务"
+  ]
+ },
+ "ecoflow-7677583961945786667:dedbe9d3faeb3726:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历，对人力资源有兴趣，乐于和人保持沟通交流;"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "ecoflow-7677583429228022035:7a9ab0e0530a7f6a:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "人力资源管理、企业管理、战略管理等相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历，人力资源管理、企业管理、战略管理等相关专业优先；硕士学历优先；"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-1fdf6e-7686347176289945883:752e8db5a650e539:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "27届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "alibaba-7c7a7eb8d0e4:62575022caa8b4f9:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，有互联网实习经验者优先；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-9f5f68b50b4b:c835cb33932879e3:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "数学类、数据分析类、信息管理类专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [
+   "模型/算法"
+  ],
+  "businessDuties": [
+   "商务测算"
+  ]
+ },
+ "ecoflow-7678716350526064915:24221775a63547b5:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历，日语N1，日语可作为工作语言"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-6dcde2a56f4a:a2f0ddc05d308184:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历毕业生"
+  ],
+  "eligibilityClauses": [
+   "26-27届本科及以上学历毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "商务测算",
+   "物流执行",
+   "国际业务"
+  ]
+ },
+ "feishu-4031ce-7670885805262899499:24f33fd8167ac9dd:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士及以上学历，对接海外集团战略客户，具备良好的中英文商务沟通能力"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "商务测算",
+   "合同",
+   "跨文化沟通",
+   "客户关系",
+   "物流执行",
+   "资料/流程",
+   "翻译/本地化",
+   "国际业务"
+  ]
+ },
+ "feishu-af0a71-7683054353284040979:0c6a2646d10ae639:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "工业设计、家具设计、木材科学等相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "27届校招",
+   "一本及以上院校毕业"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-c0f7c5c5f27a:213fea977a5403c8:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-bfe4bbdb5e8e:878bd1f6774b9d6d:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系",
+   "资料/流程"
+  ]
+ },
+ "beisen-6a19ee2f8674:09cc8f191c259a14:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "bytedance-8bc6759e182a:b2b6de8bb9d2c5f1:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [
+   "问题根因"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "feishu-a152bd-7682769421529680169:a9d9011b6fb2525a:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科及以上学历，视觉传达、数字媒体等设计类相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历"
+  ],
+  "technicalDuties": [
+   "开发实现"
+  ],
+  "businessDuties": []
+ },
+ "beisen-4f4a990453e8:c8d566f14b9d70cb:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-a152bd-7682767011524806975:467e19bad13ba4cd:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科及以上学历，工业设计、产品设计、数字媒体艺术、动画、视觉传达、艺术设计等设计类相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历"
+  ],
+  "technicalDuties": [
+   "结构/原理",
+   "模型/算法",
+   "开发实现"
+  ],
+  "businessDuties": []
+ },
+ "beisen-eb7c1494e28f:996c253a834da14f:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "英语四级及以上"
+  ],
+  "technicalDuties": [
+   "技术评估",
+   "问题根因",
+   "开发实现"
+  ],
+  "businessDuties": [
+   "商务测算",
+   "资料/流程"
+  ]
+ },
+ "beisen-8d9606622889:0e4936400935edcb:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "物流执行",
+   "资料/流程"
+  ]
+ },
+ "hotjob-071270914343:840e24453e086f73:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "供应链，物流，工商管理，国际经济与贸易相关管理专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "beisen-a2a9ff96be7f:19a5ecae1e9a04cc:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "具备商业头脑、理解商业运行基本规律，具有战略思维，具备数据分析与报告撰写能力"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-3edc4469b58f:70e07bfe1b9c9320:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "全日制硕士研究生及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "跨文化沟通",
+   "国际业务"
+  ]
+ },
+ "beisen-f25ac7e6d73f:5293e2f4776acab4:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系"
+  ]
+ },
+ "beisen-e8ed94802a86:82736c66e0326191:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科应届毕业生",
+   "电子、机械、自动化、计算机等理工科优先"
+  ],
+  "eligibilityClauses": [
+   "本科应届毕业生"
+  ],
+  "technicalDuties": [
+   "问题根因",
+   "质量技术",
+   "开发实现"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "beisen-2a19f715817f:26301d10c0af8919:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2026-2027届国内双一流高校优秀毕业生，或具有海外知名院校学士及以上学位的归国留学人才优先"
+  ],
+  "eligibilityClauses": [
+   "2026-2027届国内双一流高校优秀毕业生，或具有海外知名院校学士及以上学位的归国留学人才优先"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-cbc7ef441266:8e0f12e9c23e856e:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，物流管理、物流工程专业"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "物流执行",
+   "资料/流程"
+  ]
+ },
+ "beisen-7ca0db41f2fb:b5b56f2a89bc10ea:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，经济、管理类专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-39a8844ee15c:a81d04efe63b7bc8:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，物流管理、供应链管理等相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-41abcd-7677421421694339391:16bcab510534d31d:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科、硕士毕业生"
+  ],
+  "eligibilityClauses": [
+   "2027届本科、硕士毕业生"
+  ],
+  "technicalDuties": [
+   "开发实现"
+  ],
+  "businessDuties": [
+   "资料/流程",
+   "翻译/本地化",
+   "国际业务"
+  ]
+ },
+ "beisen-fd9f3f9e24be:a09b8238d4a76853:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-445d66ab1bfb:a8764eb3c7e233b4:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-84b42631ba0c:10c380be05b7d0e7:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7675291819555490075:f640ff2e05673a64:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7675292530737137963:0e3d3bed9b8a272d:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系",
+   "资料/流程"
+  ]
+ },
+ "beisen-52f478c46cf2:0971162bfab30b9c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-d562e4665d7d:e3173d730bb6706f:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历者优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-068d525ad203:e3173d730bb6706f:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历者优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-1e1096f90774:c28ad940bcb51ab6:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "统招大学本科及以上学历，保险、医学、农林业、理工类专业优先。"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-a3bef73f5c0f:db98d46c94727aed:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "经济学、法学优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-00ef67750fa5:8c5ad7f49991ebd6:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上，电子/机械/工业工程/国贸等优先，专业适度放宽"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-9e998597cd3c:c895d960b581d4f5:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，医学相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-a1dfef39085d:000d40ff57da6fc8:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历；",
+   "思想政治类、汉语言文学类、公共管理类等相关专业，中共党员优先；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-2a2cd19a812e:1f55b27fe4b40792:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "2026年1月-2027年12月期间毕业的应届本科、硕士、博士毕业生且毕业后未择业，在规定时间内取得毕业证、学位证或完成教育部门学历认证的留学人员"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-e283fa031059:5949d10f5c9e23e9:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-2c6f8f392fe7:29b52a6c30ab2f8a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-124a8b88a13a:1fd533871f9a25df:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-49f725-7673027213570214170:a2beced4f0f8df48:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科或以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-49f725-7673027365039409417:8381970c0cee09b8:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士及以上学历优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-af0a71-7672699586654193970:e2bd1e693fbf931d:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "重点本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "27届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7671291316311247154:77b7ac7140cf3c5d:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7671128883530172718:574d564281137a18:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670738143544690980:16d0db9def3a76d4:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "奢侈品管理相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生，有海外学习/生活经历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670934488843176235:a62a971b085ff31e:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670935284204374335:0ce46ab9a366c399:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "Bachelor's degree or higher in Marketing, Business Administration, or a related field."
+  ],
+  "eligibilityClauses": [
+   "Enthusiastic about joining Xiaomi as a full-time employee after graduation."
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670932811557177642:9fa4c330b81c4c91:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "Bachelor's degree or higher in Marketing, Business Administration, or a related field."
+  ],
+  "eligibilityClauses": [
+   "Enthusiastic about joining Xiaomi as a full-time employee after graduation."
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670885782849407275:9f1c17689bdeac15:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884491640752430:b3c4c4901b1a7af5:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670919111258523914:f24a0ccd8f16ba08:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "商业分析、大数据分析、社会学等相关专业本科及以上学历，专业基本功扎实"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-ef3388b677be:0c22d08037547841:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-25aa25c2f013:d45e613e22cb09c2:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-817ef7-7670522153910176009:522cb0e7656b09cd:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，英文水平给力。能够通过邮件、视频会议等方式,高效地与海外创作者沟通、协作。"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670553753736743209:6c784ba8035b99a5:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届校招生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670432416481806598:f5561def6ff252a6:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生，本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670552830009149702:8116d882c2debe1d:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670392701045524755:76a67805067d3ffc:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "奢侈品管理相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670552517240260874:56a6f831674eac1b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670388935374211366:c568bc7cf1a1275f:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670387562191751478:9619556ed8a7172b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670382282070870313:584269f6066428c3:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670380368705751315:a51076f9a6e12809:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "供应链、仓储、物流相关专业优先",
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670377169923180863:64048a1208314e88:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670370992274917668:0039aa5e69945138:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生，本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670363746619296042:05a4bd7500398fc8:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生，本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-d403cfd5ab16:9f66f9ccefa89eac:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得硕士及以上学位"
+  ],
+  "eligibilityClauses": [
+   "2027届获得硕士及以上学位"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-bef01e663dcb:25d8a9c6897f8e29:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-4d554c9eced1:f50e09ecb54b103c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历，专业不限，性别不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-eaf26f4ec31d:6823fa6bc69b440e:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历；"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历；"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-83e565b49c08:84dbae97afbe9bdb:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，市场营销、经管类、新能源等专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-24acf7edc100:06cf1dd13a9cb5d0:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "所在院系、所学专业、毕业时间，我们统统不限"
+  ],
+  "eligibilityClauses": [
+   "所在院系、所学专业、毕业时间，我们统统不限"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-3ccb53f53bed:6bd6f0b0d141d403:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "oppo-db0c8682c638:0f8d8c75f54fc4a9:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-2484a7ca3aa4:92d05bdd5d269ed3:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-817ef7-7554945700644915475:a034657eef34c455:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-b7f50b20ee94:14ce9605069c0d80:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "alibaba-29498f793a01:8e54eb96691a9251:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-2c578b54c05b:4a61c84fc88c965e:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "alibaba-0bc1680b450c:7d0cb8a0319bb63f:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "alibaba-a57c96f21cba:f3f92b9ba55f90e0:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "alibaba-a1d594a475fc:02fac22fc7a3d73b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届海外应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-3a96da4ebfe7:0e386118ddf331f6:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历在华留学生，非洲籍优先；",
+   "市场营销、国际贸易、工商管理、电商类等相关专业优先；"
+  ],
+  "eligibilityClauses": [
+   "本科及以上学历在华留学生，非洲籍优先；"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-766617afdf8f:d9044a7f1e16f84a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，市场营销、商务英语、国际经济与贸易等相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-443c22fe64e9:f2d988dffdebbab4:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-991e281bb809:48cbc5c0ec0a6546:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "希望你接受过本科及以上学历教育，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-b5a538f1cbb5:907ecbb6b1d2960c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "希望你接受过本科及以上学历教育，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-fb4cdd809e34:d8bb7676b75be7b5:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "希望你接受过本科及以上学历教育，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-da23da8fd59b:cb1529cedc826fed:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "希望你接受过本科及以上学历教育，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-f624ff4e519e:06008ed7b2269782:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "希望你接受过本科及以上学历教育，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-8b28885231e3:26df3a8c25ba364b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "希望你接受过本科及以上学历教育，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-4aca60bf80c8:09dc962f1a9bde68:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "希望你接受过本科及以上学历教育，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-3262b7c32f27:9741004fb2284bdb:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先）"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-ab2ae670076b:b61e90e559f69068:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-d12f05a346b3:c64dab93378a0f90:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-07d1c2850663:295e8c500d77329c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-ec288e8bf9ac:23899e5c4b7f4b8a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-2f3a8e51a78c:96514574238847ff:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-eb845ecea8e6:2f945c1e7329522c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业要求：理工类、经济学类专业优先考虑。如工业工程、统计学、市场营销、电子类物理类等。",
+   "学历要求：毕业时间为2027年1月-2027年12月的国内统招全日制本科及以上毕业生或毕业时间为2026年1月-2027年12月的海外留学生。"
+  ],
+  "eligibilityClauses": [
+   "学历要求：毕业时间为2027年1月-2027年12月的国内统招全日制本科及以上毕业生或毕业时间为2026年1月-2027年12月的海外留学生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-fb320a2a9144:2056de9c52c37cb4:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业要求：经济学类专业优先考虑。如会计学类、统计学类、财务管理、金融、经济、工商管理、工业工程等。"
+  ],
+  "eligibilityClauses": [
+   "学历要求：毕业时间为2027年1月-2027年12月的国内统招全日制本科及以上毕业生或毕业时间为2026年1月-2027年12月的海外留学生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-1a75eafa6de6:a5b40bb2e66bb546:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业要求：行政管理、公共事务管理、食品安全、英语及相关专业。"
+  ],
+  "eligibilityClauses": [
+   "学历要求：毕业时间为2027年1月-2027年12月的国内统招全日制本科及以上毕业生或毕业时间为2026年1月-2027年12月的海外留学生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-3ac9bcb166f1:3ce52b2b114875d3:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业要求：日语、韩语专业优先考虑。"
+  ],
+  "eligibilityClauses": [
+   "毕业时间为2027年1月-2027年12月的国内统招全日制本科及以上毕业生或毕业时间为2026年1月-2027年12月的海外留学生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-2a6394dd0e30:2a3728d6eea44334:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-45b2e1323bc3:b71ba8fbf846b7f0:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-afef860e0545:1e16e074d14ef562:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-0e52a07477ec:e872238d5310ff64:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-a384a0a6bb6c:53d3c87137cf607c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-c1d02431bb68:2c21b916f6fed96b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-274522bb04c3:c25775019bd2c966:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-f89d6cf930aa:ac0fae141ffddc84:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-1153d28e684b:e443360b72fd7e44:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "全日制本科及以上学历，硕士研究生优先，工程管理、工程造价、工程经济、项目管理等相关专业。"
+  ],
+  "eligibilityClauses": [
+   "2027届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-20ee4fecb1ef:2e4b3206d7bdc76c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-6acd131eab9b:de0c3e6d32e54004:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-798addaa7838:fa9ab331461e5d93:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-0f7c4074551c:788f8d6dfa3597b6:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-2849c943b2d3:aa7d2d5aff79ec1e:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-ab76ab8ecd30:af88223ce2a05a41:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-5a4496d1bd49:f207731c52da000c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-dd29ae0140c3:ca1d24e918498d53:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-edfe0f0965ff:29d6781d97d4f7d6:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-237c23e46c97:0a5aa40db84ddd16:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-564bfdaf17ac:dc92d28778c25897:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-9314d9439ea8:ceab126d7dd341b1:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-942ca7871f18:4571b891f08ff314:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-5dc7212539ed:36a53a7acf40db16:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-e5402497ddeb:452f870ab4cf5f1c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-c6ecfaacf7f7:bbc2c77c9e70452b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-27d65657ea4e:14d1503533bbc195:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-e9f09cfbe19e:48e200aecd313c5c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-0d587e10fde3:f03f81a070804319:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-3d0b46316d67:82d8888a73e8c1df:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-47532040fc9e:b96a8e322a6172f7:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-45cf410b3094:e5ec4d9aee8c69af:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-28e8404a8824:d7f7665b5ef8f14b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科及以上学历毕业生，须在2027年6月底前取得毕业证与学位证（国（境）外院校毕业生以教育部留服认证时间为准）。"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历毕业生，须在2027年6月底前取得毕业证与学位证（国（境）外院校毕业生以教育部留服认证时间为准）。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-cfea462e4185:41cd159940d03248:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。",
+   "具有人力资源管理师或相关专业的资格证书者优先。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-0b17414d39d5:0f138918e85107ef:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-41b61a899e3f:48ec8fba9e61b700:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科及以上学历毕业生，须在2027年6月底前取得毕业证与学位证（国（境）外院校毕业生以教育部留服认证时间为准）。"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历毕业生，须在2027年6月底前取得毕业证与学位证（国（境）外院校毕业生以教育部留服认证时间为准）。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-ccc57de2eef5:b1466677c24da56a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-b063e6b4355f:febadbb2f695eede:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士研究生及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "硕士研究生及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-620240c39832:6d528ac32586a1db:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-a13e9b0010c9:58ece997ac8484ad:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-46662d4cb330:c87ddf73daf53f0b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "eligibilityClauses": [
+   "大学本科及以上学历应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-5dd96c886b4a:dbba3f13f9f26936:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "法语或阿拉伯语专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-a769f5ab8962:69c105abffecdb25:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "自动化、机械、机电一体化、电子"
+  ],
+  "eligibilityClauses": [
+   "本科应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-4fedf1185cd7:d74d097bcef8f85f:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "道路桥梁、交通工程、交通经济、交通规划相关专业"
+  ],
+  "eligibilityClauses": [
+   "2027年应届毕业生，硕士研究生及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-aef6e71b4a0f:bb133e84242d8a2d:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业基础扎实，成绩优秀，无不及格科目"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-2a010452f0cd:0fe516c11f922264:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-af0a71-7680387478788163886:369e332605dc34e1:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "一本及以上院校毕业，工业设计、家具设计、木材科学等相关专业优先；具备欧美留学背景或生活经历者优先；"
+  ],
+  "eligibilityClauses": [
+   "2027届管培生（产品经理方向）"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-0fc063ab6457:5be8881df709df91:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，持有相应教师资格证优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-ce5995a0133f:69f95ae45c504fa5:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，持有相应教师资格证优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-e99f0b96d4ac:9d9d2d2e4c410515:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业要求：人力资源专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-8c90bbf9a435:0ab1fe715d8ea6c1:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，海外学前教育、文字类等相关专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-e69f1e14e183:9fd5849cdb446438:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，土木工程、结构工程、水利水电、市政工程、工程管理等相关专业，能按时获得统招全日制学历及学位证书。"
+  ],
+  "eligibilityClauses": [
+   "2027届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-9718c6c92165:b1393beb3c334e75:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-6fa81cb5a40c:d974ec17acb9c553:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "港航工程、水利工程等相关专业"
+  ],
+  "eligibilityClauses": [
+   "2027届全日制本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-579721085981:eee9a781d1a18178:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，经济、管理类专业优先；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-569092fb18de:f6f629a80a2fb58b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上；市场营销、国际贸易、工商管理、统计学及理工类相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-7d3400d55e46:56c49a5c41e8bf03:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7677511647300552986:f507f9494eac6a99:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-986e1197a69a:918ab1eeba5139aa:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，持有相应教师资格证优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-998e9208b275:7b652f124ab1b84f:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-b7700035b958:0bf8a6b5d6eb5165:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业不限，相关实习工作经验；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-8a0619be9dae:cbe2d159183e4769:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业不限"
+  ],
+  "eligibilityClauses": [
+   "加拿大本地入职，2027 届应届生优先，毕业未满 2 年往届生可投"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-168278a3f5fc:9c9bbc0a59b0ab6d:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-3e2ed2da2f2a:3f360868ef26a076:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，持有相应教师资格证优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-53bd59fa250a:87cea006696808a9:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，持有相应教师资格证优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-5f54e1836061:a3b7db2c991c154d:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "会计、财务管理、税务、金融、数学、统计等专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-1fdf6e-7675641123033418030:10281a67ccee8a2c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-21a2c391178c:db1ac513516b4a0f:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-0176d03c2e7c:51f91a9af8a05c0d:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上人力资源相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-1fdf6e-7675298796684118308:9b2cc90736760cba:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "全日制本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "可提前到岗实习者优先"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-fad003d992d2:97d0d416ba2900da:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业的在读学生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-894d2d611152:0a94b14cebebe7cc:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科学历，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-749df6e730a0:46bc54879bb6a94b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-1fdf6e-7674893525339097387:66f6f5f4eaf119bc:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "27届本科/硕士应届生，人力资源管理等相关专业优先；"
+  ],
+  "eligibilityClauses": [
+   "27届本科/硕士应届生，人力资源管理等相关专业优先；",
+   "接受提前到岗实习，每周可到岗时间4-5天；"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-9696b87f141a:81b8590d984ecf74:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-11914b5c73e2:7f845e6423ff3c94:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-d72a73f7ac60:375c661ed9e54610:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-9b50dfbb6a06:ca3e4db12d7b8356:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-56cb45-7673339612388051263:27cb939b60a72b99:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "全日制本科及以上学历，国贸、理工类专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-9d021cc4ae56:1c50226bb3cd89e1:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-56cb45-7673339612384069924:a8a9702d5b11d380:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "全日制本科及以上学历，国贸、理工类专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-49f725-7673026899874892058:3a8eb6b0885d9f14:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-49f725-7673026817334479154:a2e78cef71992703:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-49f725-7673026817335363890:ca0965a321bf1ad9:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-49f725-7673026899874597146:1711668bf7e923a0:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7671294190080379146:2712e1b09934a5fa:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7671293003588143386:c4ffd7b78f18a63e:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670935610878511410:ab33465f29982570:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历，英文流利，CET6以上，小语种加分"
+  ],
+  "eligibilityClauses": [
+   "此岗位为外派储备，需要先在总部培训工作后，外派到一线，外派国家待定",
+   "愿意接受全球外派"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670935478127986970:d6f2afe5faf6db53:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历，英文流利，CET6以上，小语种加分"
+  ],
+  "eligibilityClauses": [
+   "此岗位为外派储备，需要先在总部培训工作后，外派到一线，外派国家待定",
+   "愿意接受全球外派"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670934795166058803:30accf138a208b1c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670934973646194963:478f5b9f8c065ea7:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "Bachelor's degree or above. Preferred majors include Supply Chain Management, Logistics Engineering, Industrial Engineering, Mathematics/Statistics, or related fields."
+  ],
+  "eligibilityClauses": [
+   "2026/2027 fresh graduate, Bachelor's degree or above."
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670934527728601407:949ea27cc9990ef7:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "Bachelor degree or above"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670918894161807667:6b4277f77891186a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历，商务，工程等相关专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670930864515860799:1c32a392ac1ee597:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "大学本科及以上学历，英文能够作为工作语言",
+   "供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670891966116514086:89b3fbeeb1bd9e90:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历，生产管理、供应链管理相关专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670885566489659674:1ef8b25bea96a3ad:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670886003045288228:ebb040b301548a8a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "Bachelor's degree or higher in Marketing, Business Administration, or a related field."
+  ],
+  "eligibilityClauses": [
+   "Enthusiastic about joining Xiaomi as a full-time employee after graduation."
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884997947099438:9b89f7ba5a412e52:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884904112851210:0820de0bc1be5bfe:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884801415645467:078cc42e9744d19b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884700868774153:8a1adbb2a4265782:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884846186055945:faf88abfa40d0a48:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884700861647130:3ad4e27414fd4b15:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7670884556765481226:22be625c84340dee:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-817ef7-7670517149714663721:be031808cad60a33:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "本科及以上学历，应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-817ef7-7670505727224301843:37a86ae1075683e0:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "Currently pursuing a Bachelor's or Master's degree, preferably in Portuguese language, marketing, advertising, communication, or a related field."
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-817ef7-7670505727995644210:6a836618e7c1057a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "Currently pursuing a Bachelor's or Master's degree, preferably in Spanish language, marketing, advertising, communication, or a related field."
+  ],
+  "eligibilityClauses": [
+   "Currently pursuing a Bachelor's or Master's degree, preferably in Spanish language, marketing, advertising, communication, or a related field."
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670389443916335411:25374ac01caf86ab:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670375197174761755:9b5fe3b6e72d745b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670389758040197403:16123474cd0d0cfb:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，安全工程、消防工程、应急管理专业的优先"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生",
+   "入职半年接受在上海培养"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670447186966300937:1c303e0a22de29ed:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，供应链类、工业工程类、物流类专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670389403533740294:b2e3003c30a61842:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，安全工程、消防工程、应急管理专业的优先"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-759ed11c3fe4:d9b0f022a921e312:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "27届本科及以上学历，有相关经验者优先"
+  ],
+  "eligibilityClauses": [
+   "27届本科及以上学历，有相关经验者优先"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670377973409483051:c986ff1ed68e1994:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-3f92d2d41025:e386adc5f8bbf119:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "27届本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "27届本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-79bf84bd72ca:80ee47303c2abef4:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-b4689157227f:44cd7c588ec10675:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "全日制本科及以上学历，专业不限"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-eae592c27d51:87ab6ce3e422b941:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "统招本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "在中国留学且愿意回到母国的外籍在华留学生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-2f9d1b5d9e80:ca173f1996404c96:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-8cc68030d752:2a948b7e4d1b8b2a:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，设计类专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-c5dcac497f4b:f3d6e0edbeaefb83:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科要求；",
+   "专业不限；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

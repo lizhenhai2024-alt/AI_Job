@@ -1,7 +1,7 @@
 {
   "company": "小米",
-  "count": 227,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "count": 230,
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -303,206 +303,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670883882711976219",
-      "company": "小米",
-      "title": "销售运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，国际贸易、供应链管理、商务英语或相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、西班牙语、俄语、阿拉伯语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、订单与交付管理：以业绩转化为目标的订单全流程跟踪，负责协调公司内外部相关细化节点事项，包括但不限于供应链、交付 2、业绩运营与分析：跟踪识别短中期Sell-in业绩增长机会与风险，完成业绩看板维护与周报/月报等关键信息整合 3、流程建设与优化：配合参与系统中台自动化项目优化，沉淀标准SOP 4、客户关系维护：参与所属辖区域经销商/客户日常沟通，处理订单咨询 我们提供 1、覆盖全球 100+ 国家的真实业务场景 2、与GTM、物流仓储、销售管理等多职能深度协同协作 3、流程数字化/自动化从 0 到 1 的建设机会 4、快速成长的国际化团队，业务场景多元",
-      "jobRequirements": "1、本科及以上学历，国际贸易、供应链管理、商务英语或相关专业优先 2、了解国际业务背景，有销售运营 / 供应链 / 订单管理实习经验可作为加分项 3、熟练使用 Excel/飞书多维表格，具备数据敏感度和一定程度数据分析能力 4、英语流利（书面必备，口语能做日常商务沟通） 5、细致、有条理，能同时处理多区域多客户的并行任务 加分项 1、有消费电子/手机行业实习经验 2、了解跨境贸易流程（报关、物流、DDP/EXW 等贸易条款） 3、有 BI 工具 / 自动化脚本（Python/SQL）使用经验 4、具备小语种沟通能力（西班牙语、俄语、阿拉伯语等）",
-      "JD": "1、订单与交付管理：以业绩转化为目标的订单全流程跟踪，负责协调公司内外部相关细化节点事项，包括但不限于供应链、交付 2、业绩运营与分析：跟踪识别短中期Sell-in业绩增长机会与风险，完成业绩看板维护与周报/月报等关键信息整合 3、流程建设与优化：配合参与系统中台自动化项目优化，沉淀标准SOP 4、客户关系维护：参与所属辖区域经销商/客户日常沟通，处理订单咨询 我们提供 1、覆盖全球 100+ 国家的真实业务场景 2、与GTM、物流仓储、销售管理等多职能深度协同协作 3、流程数字化/自动化从 0 到 1 的建设机会 4、快速成长的国际化团队，业务场景多元\n1、本科及以上学历，国际贸易、供应链管理、商务英语或相关专业优先 2、了解国际业务背景，有销售运营 / 供应链 / 订单管理实习经验可作为加分项 3、熟练使用 Excel/飞书多维表格，具备数据敏感度和一定程度数据分析能力 4、英语流利（书面必备，口语能做日常商务沟通） 5、细致、有条理，能同时处理多区域多客户的并行任务 加分项 1、有消费电子/手机行业实习经验 2、了解跨境贸易流程（报关、物流、DDP/EXW 等贸易条款） 3、有 BI 工具 / 自动化脚本（Python/SQL）使用经验 4、具备小语种沟通能力（西班牙语、俄语、阿拉伯语等）",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，国际贸易、供应链管理、商务英语或相关专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "业务运营"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据",
-        "供应链",
-        "客户",
-        "GTM",
-        "招聘",
-        "商务"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "出海"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670883882711976219/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
-      "id": "feishu-4031ce-7670882950686574894",
-      "company": "小米",
-      "title": "国际产品营销",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、项目进度统筹推进：协助统筹手机新品全球发布项目，制定并跟进项目排期，协调市场内部各职能团队，推动跨部门协作，确保项目关键节点按计划达成。 2、协同传播规划策略制定：协助制定全球传播规划，基于竞品动态及人群洞察，参与营销策略、传播重点信息及传播节奏的规划，确保全球传播方向统一。 3、重点活动内容策划：参与大促等重点营销节点的活动策划，协助输出活动创意、传播玩法及营销内容，推动活动顺利落地。 4、发言人能力培养：持续提升表达与编写故事线能力，有意愿参与产品宣发的出镜活动。",
-      "jobRequirements": "1、本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先； 2、英语听说读写流利，具备良好的英文表达及演讲能力，能够胜任产品宣讲、对外分享等场景。 3、有市场策划、项目管理相关实习经历，参与过完整项目者优先；具备良好的内容输出、数据分析及项目统筹能力； 4、目标感强，具备多线程任务处理能力；具备良好的沟通协调能力，能够适应战斗队快节奏的工作模式。 5、热爱分享，敢于公开表达，具备较强的学习能力和舞台表现力，有意愿为产品宣发出镜。 6、熟悉海外主流社交平台（TikTok、X 等），关注智能手机行业及海外数码市场者优先。",
-      "JD": "1、项目进度统筹推进：协助统筹手机新品全球发布项目，制定并跟进项目排期，协调市场内部各职能团队，推动跨部门协作，确保项目关键节点按计划达成。 2、协同传播规划策略制定：协助制定全球传播规划，基于竞品动态及人群洞察，参与营销策略、传播重点信息及传播节奏的规划，确保全球传播方向统一。 3、重点活动内容策划：参与大促等重点营销节点的活动策划，协助输出活动创意、传播玩法及营销内容，推动活动顺利落地。 4、发言人能力培养：持续提升表达与编写故事线能力，有意愿参与产品宣发的出镜活动。\n1、本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先； 2、英语听说读写流利，具备良好的英文表达及演讲能力，能够胜任产品宣讲、对外分享等场景。 3、有市场策划、项目管理相关实习经历，参与过完整项目者优先；具备良好的内容输出、数据分析及项目统筹能力； 4、目标感强，具备多线程任务处理能力；具备良好的沟通协调能力，能够适应战斗队快节奏的工作模式。 5、热爱分享，敢于公开表达，具备较强的学习能力和舞台表现力，有意愿为产品宣发出镜。 6、熟悉海外主流社交平台（TikTok、X 等），关注智能手机行业及海外数码市场者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先；"
-        ],
-        "eligibilityClauses": [
-          "本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先；"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "产品营销"
-      ],
-      "skills": [
-        "英语",
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "内容",
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "洞察",
-        "招聘"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670882950686574894/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7670931080719010067",
       "company": "小米",
       "title": "物流运营专员-汽车",
@@ -779,6 +579,303 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885805251037446/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670884337122576650",
+      "company": "小米",
+      "title": "产品运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责业务运营工作，包括收集用户反馈，优化产品体验，执行运营策略、渠道营销策略； 2、负责组内各类运营数据的整理和分析，洞察行业动态； 3、对产品有一定分析能力，对卖点提炼具备洞察力，根据产品制定运营策略（包括但不限于广告投流策略） 4、对产品包装及宣传有一定创意，负责品类的包装及营销，定期输出活动页面策划方案，提升品类的销量； 5、与供应商及其平台设计，运营等各个部门对接沟通，确保运营方案的最终结果，以及后续跟进和反馈； 6、通过PUSH、活动运营、资源位、营销渠道运营、内容运营等提升活跃。",
+      "jobRequirements": "1、本科及以上学历； 2、了解常见互联网产品的运营模式； 3、英语听写良好，具备较好的文案能力； 4、较强的创意策划能力，扎实的数据分析能力，出色的项目规划和执行能力，良好的沟通表达能力； 5、有互联网公司实习经验者优先。",
+      "JD": "1、负责业务运营工作，包括收集用户反馈，优化产品体验，执行运营策略、渠道营销策略； 2、负责组内各类运营数据的整理和分析，洞察行业动态； 3、对产品有一定分析能力，对卖点提炼具备洞察力，根据产品制定运营策略（包括但不限于广告投流策略） 4、对产品包装及宣传有一定创意，负责品类的包装及营销，定期输出活动页面策划方案，提升品类的销量； 5、与供应商及其平台设计，运营等各个部门对接沟通，确保运营方案的最终结果，以及后续跟进和反馈； 6、通过PUSH、活动运营、资源位、营销渠道运营、内容运营等提升活跃。\n1、本科及以上学历； 2、了解常见互联网产品的运营模式； 3、英语听写良好，具备较好的文案能力； 4、较强的创意策划能力，扎实的数据分析能力，出色的项目规划和执行能力，良好的沟通表达能力； 5、有互联网公司实习经验者优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "内容运营",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "用户",
+        "数据",
+        "营销",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884337122576650/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670883882711976219",
+      "company": "小米",
+      "title": "销售运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，国际贸易、供应链管理、商务英语或相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语、俄语、阿拉伯语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、订单与交付管理：以业绩转化为目标的订单全流程跟踪，负责协调公司内外部相关细化节点事项，包括但不限于供应链、交付 2、业绩运营与分析：跟踪识别短中期Sell-in业绩增长机会与风险，完成业绩看板维护与周报/月报等关键信息整合 3、流程建设与优化：配合参与系统中台自动化项目优化，沉淀标准SOP 4、客户关系维护：参与所属辖区域经销商/客户日常沟通，处理订单咨询 我们提供 1、覆盖全球 100+ 国家的真实业务场景 2、与GTM、物流仓储、销售管理等多职能深度协同协作 3、流程数字化/自动化从 0 到 1 的建设机会 4、快速成长的国际化团队，业务场景多元",
+      "jobRequirements": "1、本科及以上学历，国际贸易、供应链管理、商务英语或相关专业优先 2、了解国际业务背景，有销售运营 / 供应链 / 订单管理实习经验可作为加分项 3、熟练使用 Excel/飞书多维表格，具备数据敏感度和一定程度数据分析能力 4、英语流利（书面必备，口语能做日常商务沟通） 5、细致、有条理，能同时处理多区域多客户的并行任务 加分项 1、有消费电子/手机行业实习经验 2、了解跨境贸易流程（报关、物流、DDP/EXW 等贸易条款） 3、有 BI 工具 / 自动化脚本（Python/SQL）使用经验 4、具备小语种沟通能力（西班牙语、俄语、阿拉伯语等）",
+      "JD": "1、订单与交付管理：以业绩转化为目标的订单全流程跟踪，负责协调公司内外部相关细化节点事项，包括但不限于供应链、交付 2、业绩运营与分析：跟踪识别短中期Sell-in业绩增长机会与风险，完成业绩看板维护与周报/月报等关键信息整合 3、流程建设与优化：配合参与系统中台自动化项目优化，沉淀标准SOP 4、客户关系维护：参与所属辖区域经销商/客户日常沟通，处理订单咨询 我们提供 1、覆盖全球 100+ 国家的真实业务场景 2、与GTM、物流仓储、销售管理等多职能深度协同协作 3、流程数字化/自动化从 0 到 1 的建设机会 4、快速成长的国际化团队，业务场景多元\n1、本科及以上学历，国际贸易、供应链管理、商务英语或相关专业优先 2、了解国际业务背景，有销售运营 / 供应链 / 订单管理实习经验可作为加分项 3、熟练使用 Excel/飞书多维表格，具备数据敏感度和一定程度数据分析能力 4、英语流利（书面必备，口语能做日常商务沟通） 5、细致、有条理，能同时处理多区域多客户的并行任务 加分项 1、有消费电子/手机行业实习经验 2、了解跨境贸易流程（报关、物流、DDP/EXW 等贸易条款） 3、有 BI 工具 / 自动化脚本（Python/SQL）使用经验 4、具备小语种沟通能力（西班牙语、俄语、阿拉伯语等）",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，国际贸易、供应链管理、商务英语或相关专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "供应链",
+        "客户",
+        "GTM",
+        "招聘",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670883882711976219/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670882950686574894",
+      "company": "小米",
+      "title": "国际产品营销",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、项目进度统筹推进：协助统筹手机新品全球发布项目，制定并跟进项目排期，协调市场内部各职能团队，推动跨部门协作，确保项目关键节点按计划达成。 2、协同传播规划策略制定：协助制定全球传播规划，基于竞品动态及人群洞察，参与营销策略、传播重点信息及传播节奏的规划，确保全球传播方向统一。 3、重点活动内容策划：参与大促等重点营销节点的活动策划，协助输出活动创意、传播玩法及营销内容，推动活动顺利落地。 4、发言人能力培养：持续提升表达与编写故事线能力，有意愿参与产品宣发的出镜活动。",
+      "jobRequirements": "1、本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先； 2、英语听说读写流利，具备良好的英文表达及演讲能力，能够胜任产品宣讲、对外分享等场景。 3、有市场策划、项目管理相关实习经历，参与过完整项目者优先；具备良好的内容输出、数据分析及项目统筹能力； 4、目标感强，具备多线程任务处理能力；具备良好的沟通协调能力，能够适应战斗队快节奏的工作模式。 5、热爱分享，敢于公开表达，具备较强的学习能力和舞台表现力，有意愿为产品宣发出镜。 6、熟悉海外主流社交平台（TikTok、X 等），关注智能手机行业及海外数码市场者优先。",
+      "JD": "1、项目进度统筹推进：协助统筹手机新品全球发布项目，制定并跟进项目排期，协调市场内部各职能团队，推动跨部门协作，确保项目关键节点按计划达成。 2、协同传播规划策略制定：协助制定全球传播规划，基于竞品动态及人群洞察，参与营销策略、传播重点信息及传播节奏的规划，确保全球传播方向统一。 3、重点活动内容策划：参与大促等重点营销节点的活动策划，协助输出活动创意、传播玩法及营销内容，推动活动顺利落地。 4、发言人能力培养：持续提升表达与编写故事线能力，有意愿参与产品宣发的出镜活动。\n1、本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先； 2、英语听说读写流利，具备良好的英文表达及演讲能力，能够胜任产品宣讲、对外分享等场景。 3、有市场策划、项目管理相关实习经历，参与过完整项目者优先；具备良好的内容输出、数据分析及项目统筹能力； 4、目标感强，具备多线程任务处理能力；具备良好的沟通协调能力，能够适应战斗队快节奏的工作模式。 5、热爱分享，敢于公开表达，具备较强的学习能力和舞台表现力，有意愿为产品宣发出镜。 6、熟悉海外主流社交平台（TikTok、X 等），关注智能手机行业及海外数码市场者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先；"
+        ],
+        "eligibilityClauses": [
+          "本科及以上学历，2027 届应届生，市场营销、新闻传播、国际商务、外语、广告等相关专业优先；"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670882950686574894/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -3677,106 +3774,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670883858238621961",
-      "company": "小米",
-      "title": "产品运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "专业不限；电子工程、通信、计算机、市场营销、商科等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、产品价值研究与洞察：深入研究公司核心产品、前沿技术及行业趋势，从用户、客户及商业视角理解产品，挖掘产品核心竞争力与差异化价值，形成具有洞察力的产品观点和价值主张。 2、产品价值传播与客户影响：将优秀的产品与技术转化为清晰、有感染力的商业语言，参与面向全球重点客户的产品宣讲、产品体验及业务交流，帮助客户真正理解产品价值，推动优秀产品获得更多客户认可与商业机会。 3、全球一线销售赋能：面向国际业务一线销售团队建立产品与销售赋能体系，通过产品培训、案例分享、销售工具及标准化内容，将产品能力转化为一线销售能力，持续提升团队“懂产品、讲产品、卖产品”的能力。 4、高质量内容与知识体系建设：围绕产品、行业及客户需求，打造高质量的产品故事、客户Presentation、培训课程及销售赋能内容，将复杂的产品和技术转化为简单、专业、有说服力的表达，并沉淀为可规模化复制的知识资产。 5、市场与竞争洞察：持续关注全球消费电子、AI、智能汽车、智能家居等领域的产品创新与竞争趋势，研究行业领先产品和优秀实践，为产品价值传播及销售策略提供前瞻性洞察。 6、全球业务协同与项目实践：参与国际业务重点项目，与产品、GTM、销售、市场及全球一线团队深度协作，在真实的全球客户和商业场景中推动产品价值落地。",
-      "jobRequirements": "1、2026/2027届本科或硕士毕业生，专业不限；电子工程、通信、计算机、市场营销、商科等相关专业优先； 2、英语优秀，能够将英语作为工作语言，具备较好的英文听说读写能力； 3、真正喜欢科技和消费电子产品，愿意研究手机、AI、智能汽车、智能家居等产品； 4、具备较强的Presentation能力，愿意站在客户和几十甚至上百人面前进行产品宣讲； 5、具备优秀的逻辑思维和信息提炼能力，能够把复杂问题讲简单； 6、熟练使用PowerPoint，具备较好的审美、排版和Storytelling能力； 7、学习能力强，愿意快速学习新产品、新技术和新业务； 8、性格积极主动，有责任心，能够推动事情落地。 加分项 有海外留学/交换经历或较强的跨文化沟通能力； 有英语演讲、辩论、主持、培训等经验； 是手机、汽车、数码、AI等领域的“产品发烧友”； 有消费电子、互联网、科技公司实习经历； 做过产品发布、产品测评、科技类自媒体或视频内容； 熟悉 Photoshop、Figma、Canva、Premiere 等内容工具； 熟练使用 ChatGPT 等AI工具提升研究、内容和PPT制作效率； 有ToB客户沟通、销售、BD、GTM相关实习经历。",
-      "JD": "1、产品价值研究与洞察：深入研究公司核心产品、前沿技术及行业趋势，从用户、客户及商业视角理解产品，挖掘产品核心竞争力与差异化价值，形成具有洞察力的产品观点和价值主张。 2、产品价值传播与客户影响：将优秀的产品与技术转化为清晰、有感染力的商业语言，参与面向全球重点客户的产品宣讲、产品体验及业务交流，帮助客户真正理解产品价值，推动优秀产品获得更多客户认可与商业机会。 3、全球一线销售赋能：面向国际业务一线销售团队建立产品与销售赋能体系，通过产品培训、案例分享、销售工具及标准化内容，将产品能力转化为一线销售能力，持续提升团队“懂产品、讲产品、卖产品”的能力。 4、高质量内容与知识体系建设：围绕产品、行业及客户需求，打造高质量的产品故事、客户Presentation、培训课程及销售赋能内容，将复杂的产品和技术转化为简单、专业、有说服力的表达，并沉淀为可规模化复制的知识资产。 5、市场与竞争洞察：持续关注全球消费电子、AI、智能汽车、智能家居等领域的产品创新与竞争趋势，研究行业领先产品和优秀实践，为产品价值传播及销售策略提供前瞻性洞察。 6、全球业务协同与项目实践：参与国际业务重点项目，与产品、GTM、销售、市场及全球一线团队深度协作，在真实的全球客户和商业场景中推动产品价值落地。\n1、2026/2027届本科或硕士毕业生，专业不限；电子工程、通信、计算机、市场营销、商科等相关专业优先； 2、英语优秀，能够将英语作为工作语言，具备较好的英文听说读写能力； 3、真正喜欢科技和消费电子产品，愿意研究手机、AI、智能汽车、智能家居等产品； 4、具备较强的Presentation能力，愿意站在客户和几十甚至上百人面前进行产品宣讲； 5、具备优秀的逻辑思维和信息提炼能力，能够把复杂问题讲简单； 6、熟练使用PowerPoint，具备较好的审美、排版和Storytelling能力； 7、学习能力强，愿意快速学习新产品、新技术和新业务； 8、性格积极主动，有责任心，能够推动事情落地。 加分项 有海外留学/交换经历或较强的跨文化沟通能力； 有英语演讲、辩论、主持、培训等经验； 是手机、汽车、数码、AI等领域的“产品发烧友”； 有消费电子、互联网、科技公司实习经历； 做过产品发布、产品测评、科技类自媒体或视频内容； 熟悉 Photoshop、Figma、Canva、Premiere 等内容工具； 熟练使用 ChatGPT 等AI工具提升研究、内容和PPT制作效率； 有ToB客户沟通、销售、BD、GTM相关实习经历。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "专业不限；电子工程、通信、计算机、市场营销、商科等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "2026/2027届本科或硕士毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "产品运营"
-      ],
-      "skills": [
-        "英语",
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "运营",
-        "内容",
-        "项目",
-        "市场",
-        "用户",
-        "跨文化",
-        "营销"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670883858238621961/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7670935478140635401",
       "company": "小米",
       "title": "电商运营专员-西语-外派",
@@ -5195,100 +5192,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670883759310768434",
-      "company": "小米",
-      "title": "商务拓展经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，英语可以作为工作语言",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 战略合作：独立负责海外KA/战略合作伙伴关系维护及新业务拓展，对公司业务战略进行有效的承接和分解，识别新的合作机会，支持业务规模与收入增长 2. 商务谈判：主导商务条款的谈判、合同拟定与签署流程，把控合同风险并保障公司利益最大化 3. 项目管理：对手机及生态产品、业务操盘、销售规划有深入了解，负责核心项目从计划制定、资源协调、执行落地到复盘的全过程管理，推动解决跨团队沟通与协作中的痛点 4. 行业调研：进行市场和行业调研与分析，关注行业发展和竞品动态，定期输出商务策略",
-      "jobRequirements": "1、本科及以上学历，英语可以作为工作语言 2、有电子通讯、数码3C、互联网行业实习经历优先，商务拓展、销售、项目管理、战略分析等实习经验可作为加分项，参与校园社团活动可以作为加分项 3、沟通表达能力、自我驱动力和责任心强，逻辑思维清晰 4、工作积极、主动、热情，学习和社交能力强，具备良好的团队协作精神",
-      "JD": "1. 战略合作：独立负责海外KA/战略合作伙伴关系维护及新业务拓展，对公司业务战略进行有效的承接和分解，识别新的合作机会，支持业务规模与收入增长 2. 商务谈判：主导商务条款的谈判、合同拟定与签署流程，把控合同风险并保障公司利益最大化 3. 项目管理：对手机及生态产品、业务操盘、销售规划有深入了解，负责核心项目从计划制定、资源协调、执行落地到复盘的全过程管理，推动解决跨团队沟通与协作中的痛点 4. 行业调研：进行市场和行业调研与分析，关注行业发展和竞品动态，定期输出商务策略\n1、本科及以上学历，英语可以作为工作语言 2、有电子通讯、数码3C、互联网行业实习经历优先，商务拓展、销售、项目管理、战略分析等实习经验可作为加分项，参与校园社团活动可以作为加分项 3、沟通表达能力、自我驱动力和责任心强，逻辑思维清晰 4、工作积极、主动、热情，学习和社交能力强，具备良好的团队协作精神",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，英语可以作为工作语言"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "销售"
-      ],
-      "skills": [
-        "英语",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目",
-        "市场",
-        "招聘",
-        "商务"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670883759310768434/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7670935167976540467",
       "company": "小米",
       "title": "电商运营-泰语-local",
@@ -6226,6 +6129,111 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7670885805262899499",
+      "company": "小米",
+      "title": "商务拓展经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，对接海外集团战略客户，具备良好的中英文商务沟通能力",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 战略合作：独立负责海外KA/战略合作伙伴关系维护及新业务拓展，对公司业务战略进行有效的承接和分解，识别新的合作机会，支持业务规模与收入增长 2. 商务谈判：主导商务条款的谈判、合同拟定与签署流程，把控合同风险并保障公司利益最大化 3. 项目管理：对手机及生态产品、业务操盘、销售规划有深入了解，负责核心项目从计划制定、资源协调、执行落地到复盘的全过程管理，推动解决跨团队沟通与协作中的痛点 4. 行业调研：进行市场和行业调研与分析，关注行业发展和竞品动态，定期输出商务策略",
+      "jobRequirements": "1. 硕士及以上学历，对接海外集团战略客户，具备良好的中英文商务沟通能力 2. 有项目管理实习经历、对数据分析、市场调研等有一定经验者加分 3. 具备强沟通能力、自我驱动力和优秀的沟通谈判能力，逻辑思维清晰 4. 工作积极、主动、热情，学习和社交能力强，具备良好的团队协作精神",
+      "JD": "1. 战略合作：独立负责海外KA/战略合作伙伴关系维护及新业务拓展，对公司业务战略进行有效的承接和分解，识别新的合作机会，支持业务规模与收入增长 2. 商务谈判：主导商务条款的谈判、合同拟定与签署流程，把控合同风险并保障公司利益最大化 3. 项目管理：对手机及生态产品、业务操盘、销售规划有深入了解，负责核心项目从计划制定、资源协调、执行落地到复盘的全过程管理，推动解决跨团队沟通与协作中的痛点 4. 行业调研：进行市场和行业调研与分析，关注行业发展和竞品动态，定期输出商务策略\n1. 硕士及以上学历，对接海外集团战略客户，具备良好的中英文商务沟通能力 2. 有项目管理实习经历、对数据分析、市场调研等有一定经验者加分 3. 具备强沟通能力、自我驱动力和优秀的沟通谈判能力，逻辑思维清晰 4. 工作积极、主动、热情，学习和社交能力强，具备良好的团队协作精神",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士及以上学历，对接海外集团战略客户，具备良好的中英文商务沟通能力"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "合同",
+          "跨文化沟通",
+          "客户关系",
+          "物流执行",
+          "资料/流程",
+          "翻译/本地化",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "数据",
+        "客户",
+        "招聘",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885805262899499/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7670885431017572646",
       "company": "小米",
       "title": "服务运营专员",
@@ -6604,6 +6612,192 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7686764793517001010",
+      "company": "小米",
+      "title": "公关策略专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，市场营销、广告学、传播学、商业管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、协助集团品牌传播专项的传播方案规划设计与执行统筹，包括但不限于内容构思、创意策划、传播动作等，并制定传播节奏配置，有效保障项目落地，向业务线交付传播结果； 2、协助向各业务线交付公关传播专项及全年、专项舆情监测和管理规划； 3、协同市场营销部门，推动整合营销的传播落地。",
+      "jobRequirements": "1、本科及以上学历，市场营销、广告学、传播学、商业管理等相关专业优先； 2、了解主流社交媒体平台运营规则和推广技巧，具备良好的文案撰写、审美品位、创意策划和数据分析能力； 3、有公关思维，有敏锐的市场洞察力和分析能力，具备良好的沟通协调能力，能够与跨部门团队及外部合作伙伴高效合作。",
+      "JD": "1、协助集团品牌传播专项的传播方案规划设计与执行统筹，包括但不限于内容构思、创意策划、传播动作等，并制定传播节奏配置，有效保障项目落地，向业务线交付传播结果； 2、协助向各业务线交付公关传播专项及全年、专项舆情监测和管理规划； 3、协同市场营销部门，推动整合营销的传播落地。\n1、本科及以上学历，市场营销、广告学、传播学、商业管理等相关专业优先； 2、了解主流社交媒体平台运营规则和推广技巧，具备良好的文案撰写、审美品位、创意策划和数据分析能力； 3、有公关思维，有敏锐的市场洞察力和分析能力，具备良好的沟通协调能力，能够与跨部门团队及外部合作伙伴高效合作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，市场营销、广告学、传播学、商业管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "品牌",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7686764793517001010/detail",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7686764781294078254",
+      "company": "小米",
+      "title": "公关传播专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、协助向各业务线交付公关传播专项及全年、专项舆情监测和管理规划； 2、针对突发事件快速响应，与支持部门共同制定内容、业务审核机制，保障业务平稳经营及内容合规； 3、协助制定传播方案及传播节奏配置，有效保障项目落地，向业务线交付传播结果。",
+      "jobRequirements": "1、本科及以上学历； 2、良好的沟通与表达能力； 3、有目标感和结果导向意识。",
+      "JD": "1、协助向各业务线交付公关传播专项及全年、专项舆情监测和管理规划； 2、针对突发事件快速响应，与支持部门共同制定内容、业务审核机制，保障业务平稳经营及内容合规； 3、协助制定传播方案及传播节奏配置，有效保障项目落地，向业务线交付传播结果。\n1、本科及以上学历； 2、良好的沟通与表达能力； 3、有目标感和结果导向意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7686764781294078254/detail",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7680376662261729577",
       "company": "小米",
       "title": "供应链计划专员",
@@ -6711,7 +6905,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -6725,14 +6919,15 @@
       "jobRequirements": "1. 本科及以上学历； 2. 良好的沟通协调能力，能独立对接内外部多方资源、推动共识达成； 3. 强自驱力，对自己高标准、严要求，高质量完成任务； 4. 快速学习与灵活应变能力，保持好奇心，敢于尝试没做过的事，遇到困难能快速调整策略； 5. 有良好的服务意识，愿意从事售后服务工作，认同\"真诚热爱、与用户交朋友\"的服务理念； 6. 英语可作为工作语言优先； 7. 熟练使用 Office 办公软件，具备良好的数据敏感性与分析能力。",
       "JD": "你将深度参与区域服务网络的规划布局与服务商全生命周期管理，统筹全品类售后政策落地与数据复盘，跟进客诉处置与重大危机应对，同时把控服务全流程合规风控、推进客户满意度体系建设。 你既要站在业务视角拆解问题、推动优化，也要站在用户立场感知诉求、传递温度。很多复杂问题没有标准答案，需要你联动内外部多方资源，在规则与共情间找到最优解。 你的每一份判断与推进，都是在把 “真诚热爱、与用户交朋友” 的理念，落地成每一次服务里的切实兑现 入职后你将进入IDP定制培养体系，通过多岗轮训快速建立售后全链条认知；在导师一对一带教与季度校准机制下，逐步承担独立业务模块，分流向总部专家及一线管理岗位发展 职责包括： - 商网运营：参与区域服务网络的规划、布局与服务商全生命周期管理，协助推进各渠道的服务支持与维护工作； - 危机处理：参与客户投诉的跟进与处理，协助重大客诉及危机事件的应对，维护品牌口碑； - 合规风控：学习并执行服务全流程合规要求，参与合规自查、风险监控与事件处置，守住服务合规底线； - 政策落地与分析：负责各品类（手机、家电、生态链）售后服务政策的落地执行，收集、整理服务数据并输出改进建议； - 客户关系维护：内外部协调沟通，对接运营商、客户及政府关系，推动客户问题高效解决； - 满意度管理：协助组织客户满意度调查、回访计划制定与客户关怀政策落地，持续提升用户体验。\n1. 本科及以上学历； 2. 良好的沟通协调能力，能独立对接内外部多方资源、推动共识达成； 3. 强自驱力，对自己高标准、严要求，高质量完成任务； 4. 快速学习与灵活应变能力，保持好奇心，敢于尝试没做过的事，遇到困难能快速调整策略； 5. 有良好的服务意识，愿意从事售后服务工作，认同\"真诚热爱、与用户交朋友\"的服务理念； 6. 英语可作为工作语言优先； 7. 熟练使用 Office 办公软件，具备良好的数据敏感性与分析能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": [
-          "跨文化沟通"
+          "客户关系",
+          "资料/流程"
         ]
       },
       "roleFamily": [
@@ -6805,7 +7000,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -6819,15 +7014,13 @@
       "jobRequirements": "1. 本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先； 2. 对整车物流/运输行业有兴趣，了解基本的物流运营流程； 3. 具备较强的学习能力和创新思维，关注用户价值； 4. 良好的沟通协调能力，能适应跨部门协作； 5. 熟练使用Excel、PPT等办公工具，有数据分析能力者优先； 6. 有车企/物流相关实习经验者优先；",
       "JD": "1. 协助工厂VDC到交付中心的一次物流运营管理，跟踪运输各项指标并参与改善； 2. 协助根据交付计划制定运输计划及运营策略，支撑交付目标达成； 3. 参与整车运输标准、SOP、培训体系的迭代与优化，保障运输运营质量和效率； 4. 协助供应商日常培训的组织与跟进，保障项目顺利推进； 5. 参与整车运输系统的需求整理与迭代优化，支持项目高效运转； 6. 支持各交付中心运输业务的开城输入与员工培训，确保顺利开城。\n1. 本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先； 2. 对整车物流/运输行业有兴趣，了解基本的物流运营流程； 3. 具备较强的学习能力和创新思维，关注用户价值； 4. 良好的沟通协调能力，能适应跨部门协作； 5. 熟练使用Excel、PPT等办公工具，有数据分析能力者优先； 6. 有车企/物流相关实习经验者优先；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -7097,7 +7290,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7111,15 +7304,13 @@
       "jobRequirements": "1、本科及以上学历，有管理咨询/市场调研机构/四大等乙方经验，或商分、行研、战略等相关实习经验者优先； 2、具备较强的结构化思考、拆解问题、逻辑思维能力，具备一定的商业敏感性、基础财务知识以及良好的沟通协调能力，对智能硬件、物联网、数码3C等行业感兴趣； 3、具有较好的数据分析及书面表达能力，能熟练使用Excel、PPT等办公软件，能熟练使用SQL、了解数据库者优先； 4、工作自驱能力强，对参与业务、快速成长有激情，工作认真仔细，对工作结果交付有高度责任感。",
       "JD": "1、市场洞察：深入研究智能硬件行业，以案头研究+专家访谈的方式完成调研，包括产品矩阵、发展历程、组织架构、运营模式等，支持业务对标分析； 2、数据分析与运营：监控经营、销售、市场、口碑、项目时间等关键指标，形成周报/月报，及时预警业务异动，以多维度数据分析推动业务专项； 3、流程运营：支持关键决策节点和业务会议，完成动作跟踪落实，积极推动流程效率提升。\n1、本科及以上学历，有管理咨询/市场调研机构/四大等乙方经验，或商分、行研、战略等相关实习经验者优先； 2、具备较强的结构化思考、拆解问题、逻辑思维能力，具备一定的商业敏感性、基础财务知识以及良好的沟通协调能力，对智能硬件、物联网、数码3C等行业感兴趣； 3、具有较好的数据分析及书面表达能力，能熟练使用Excel、PPT等办公软件，能熟练使用SQL、了解数据库者优先； 4、工作自驱能力强，对参与业务、快速成长有激情，工作认真仔细，对工作结果交付有高度责任感。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -7292,7 +7483,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7306,15 +7497,13 @@
       "jobRequirements": "1、本科及以上学历； 2、沟通能力强、有服务意识、注重团队合作； 3、具有较强的组织和沟通协调能力以及突发事件的处理能力； 4、具备良好的思维逻辑能力以及数据处理能力。",
       "JD": "1、协助HRSSC业务的落地执行，包含风险管理、档案管理、员工关系等； 2、协助监控流程质量指标与运营数据分析，并进行流程优化； 3、更新知识库、知识手册、操作手册等； 4、收集相关劳动用工等人事政策及法规。\n1、本科及以上学历； 2、沟通能力强、有服务意识、注重团队合作； 3、具有较强的组织和沟通协调能力以及突发事件的处理能力； 4、具备良好的思维逻辑能力以及数据处理能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "HR"
@@ -7477,7 +7666,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor's degree or higher in Marketing, Business Administration, or a related field.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7491,10 +7680,12 @@
       "jobRequirements": "1. Bachelor's degree or higher in Marketing, Business Administration, or a related field. 2. Proficiency in market analysis tools and data management methods. 3. Quick thinker with strong learning, analytical, and problem-solving skills. 4. Excellent communication and teamwork abilities, strong resilience, and the capability to handle a multi-tasking work environment. 5. Proficiency in English and Mandarin Chinese as working languages; 14. Enthusiastic about joining Xiaomi as a full-time employee after graduation.",
       "JD": "1. Support Market Strategy Planning: - Assist in developing GTM strategies and plans for mobile products based on market research and competitive analysis. -Identify target customer segments, key selling points, and market entry strategies. 2. Support Product Launch Execution: - Coordinate new product launch activities, including timeline planning, resource allocation, and budget management. - Create and implement marketing materials (e.g., advertisements, sales toolkits). 3. Assist with Data Analysis and Feedback: - Collect and analyze market data, sales data, and customer feedback to optimize GTM strategies. - Monitor market trends and promptly adjust marketing plans as needed. 13. Other Assigned Tasks: - Complete tasks assigned by the mentor or supervisor as needed.\n1. Bachelor's degree or higher in Marketing, Business Administration, or a related field. 2. Proficiency in market analysis tools and data management methods. 3. Quick thinker with strong learning, analytical, and problem-solving skills. 4. Excellent communication and teamwork abilities, strong resilience, and the capability to handle a multi-tasking work environment. 5. Proficiency in English and Mandarin Chinese as working languages; 14. Enthusiastic about joining Xiaomi as a full-time employee after graduation.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor's degree or higher in Marketing, Business Administration, or a related field."
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Enthusiastic about joining Xiaomi as a full-time employee after graduation."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -7580,14 +7771,10 @@
       "jobRequirements": "1、英语达到国家6级标准，听说读写俱佳； 2、优秀的沟通能力，在校期间具备一定的项目推进经验或者学生社团干部经历者优先； 3、有较强的学习能力，责任心、有韧性，能够主动思考发现解决问题； 4、品行端正，原则性强，踏实稳定，具有良好的学习能力。 8、未来能接受外派",
       "JD": "1、负责对接产品研发团队，拉通新品上市前的所有服务体系内准备工作，制定与上游供应链公司之间的服务条款； 2、负责制定新产品在全球各个销售国家的保修政策、保修流程； 6、负责监控及优化产品上市后服务流程、应对突发或质量问题带来的问题，输出售后服务解决方案。\n1、英语达到国家6级标准，听说读写俱佳； 2、优秀的沟通能力，在校期间具备一定的项目推进经验或者学生社团干部经历者优先； 3、有较强的学习能力，责任心、有韧性，能够主动思考发现解决问题； 4、品行端正，原则性强，踏实稳定，具有良好的学习能力。 8、未来能接受外派",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "质量技术"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -7660,7 +7847,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor's degree or higher in Marketing, Business Administration, or a related field.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7674,10 +7861,12 @@
       "jobRequirements": "1. Bachelor's degree or higher in Marketing, Business Administration, or a related field. 2. Proficiency in market analysis tools and data management methods. 3. Quick thinker with strong learning, analytical, and problem-solving skills. 4. Excellent communication and teamwork abilities, strong resilience, and the capability to handle a multi-tasking work environment. 5. Proficiency in English and Mandarin Chinese as working languages; 7. Enthusiastic about joining Xiaomi as a full-time employee after graduation.",
       "JD": "Support Market Strategy Planning: Assist in developing GTM strategies and plans for AIOT products based on market research and competitive analysis. Identify target customer segments, key selling points, and market entry strategies. Support Product Launch Execution: Coordinate new product launch activities, including timeline planning, resource allocation, and budget management. Create and implement marketing materials (e.g., advertisements, sales toolkits). Assist with Data Analysis and Feedback: Collect and analyze market data, sales data, and customer feedback to optimize GTM strategies. Monitor market trends and promptly adjust marketing plans as needed. Other Assigned Tasks: Complete tasks assigned by the mentor or supervisor as needed.\n1. Bachelor's degree or higher in Marketing, Business Administration, or a related field. 2. Proficiency in market analysis tools and data management methods. 3. Quick thinker with strong learning, analytical, and problem-solving skills. 4. Excellent communication and teamwork abilities, strong resilience, and the capability to handle a multi-tasking work environment. 5. Proficiency in English and Mandarin Chinese as working languages; 7. Enthusiastic about joining Xiaomi as a full-time employee after graduation.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor's degree or higher in Marketing, Business Administration, or a related field."
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Enthusiastic about joining Xiaomi as a full-time employee after graduation."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -8224,9 +8413,12 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "商业分析、大数据分析、社会学等相关专业本科及以上学历，专业基本功扎实",
+        "hardRestriction": true,
+        "hardClauses": [
+          "商业分析、大数据分析、社会学等相关专业本科及以上学历",
+          "专业基本功扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -8238,11 +8430,11 @@
       "jobRequirements": "1、 商业分析、大数据分析、社会学等相关专业本科及以上学历，专业基本功扎实； 2、能独立开展调研任务，并具备相关项目经验； 3、具备基础数据分析能力，掌握Python/SQL/R语言者优先； 4、逻辑清晰，对数据敏感，能从海量信息中快速提炼关键问题； 5、熟悉IQS/APEAL/NPS管理方法论； 6、良好的沟通能力与团队协作意识，适应跨部门合作。",
       "JD": "1、规划执行小米汽车用户满意度调研方案，进行调研结果分析； 2、负责协调开展第三方调研项目，组织各部门的沟通会输出调研结果； 3、监控运营用户满意度指标，系统化拆解分析，形成调研报告； 4、组织用户满意度例会，拉动相关部门闭环调研问题，提升用户满意度。\n1、 商业分析、大数据分析、社会学等相关专业本科及以上学历，专业基本功扎实； 2、能独立开展调研任务，并具备相关项目经验； 3、具备基础数据分析能力，掌握Python/SQL/R语言者优先； 4、逻辑清晰，对数据敏感，能从海量信息中快速提炼关键问题； 5、熟悉IQS/APEAL/NPS管理方法论； 6、良好的沟通能力与团队协作意识，适应跨部门合作。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "商业分析、大数据分析、社会学等相关专业本科及以上学历，专业基本功扎实"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8330,11 +8522,9 @@
       "jobRequirements": "Have a strong interest in electronic consumer products and be able to form one's own unique cognition and insights. Be fluent in both Chinese and English, which can be used as working languages. Possess strong cultural adaptability and the ability to work independently. Have strong internal and external communication skills, be goal-driven and result-oriented. 1、对电子消费品相关产品有浓厚兴趣并能形成自己独到的认知和见解。 2、中英文流利，可作为工作语言。较强的文化适应性和独立工作的能力。 3、较强的内外部沟通技巧，目标驱动，结果导向。",
       "JD": "Market and consumer insights: Analyze the market and competitive situation, summarize the research, and output market strategies. Product expansion: Independently take charge of the GTM (Go-to-Market) work of products and operate the product launch from the 4P dimension. Centering on market and consumer insights, drive product planning/definition, product selling point excavation and packaging, and formulate full product solutions, strategies and expansion packages. Product operation and management: Manage the operation of single products and product combinations. Based on the basic process of product launch operation, formulate/manage combined strategies such as marketing strategies, pricing strategies, order forecasting and channel inventory according to market dynamics to promote product profitability. Project management: Conduct the whole-process management of the product life cycle, monitor market sales, carry out strategy adjustments such as price adjustment and goods control according to market conditions, be responsible for the commercial success of products, and take charge of end-to-end life cycle project management of products. Formulate reasonable plans based on project goals; monitor project execution, drive efficient input from various fields, quickly identify risks and adjust resource allocation; organize reviews, summarize experience, and quickly improve and promote application. 1. 市场和消费者洞察：分析市场及竞争情况，总结研究，并输出市场策略。 2. 产品拓展：独立负责产品的GTM工作，进行4P维度的产品上市操盘.围绕市场和消费者洞察，牵引产品规划/定义、产品卖点挖掘和包装，制定全产品解决方案、策略和拓展包。 3. 产品经营与操盘：管理单产品&产品组合经营。基于产品上市操盘的基本流程，根据市场动态，制定/管理营销策略、价格策略、要货预测和渠道库存等组合策略，促进产品盈利。 4. 项目管理：对产品生命周期的全过程管理，监控市场销售情况，针对市场情况开展调价、控货等策略调整，对产品的商业成功负责，负责产品端到端的生命周期项目管理。基于项目目标，制定合理计划；监控项目执行，牵引各领域高效投入，快速识别风险并调整资源配置；组织复盘并总结经验，快速改进并推广应用。\nHave a strong interest in electronic consumer products and be able to form one's own unique cognition and insights. Be fluent in both Chinese and English, which can be used as working languages. Possess strong cultural adaptability and the ability to work independently. Have strong internal and external communication skills, be goal-driven and result-oriented. 1、对电子消费品相关产品有浓厚兴趣并能形成自己独到的认知和见解。 2、中英文流利，可作为工作语言。较强的文化适应性和独立工作的能力。 3、较强的内外部沟通技巧，目标驱动，结果导向。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8521,11 +8711,9 @@
       "jobRequirements": "1、对电子消费品相关产品有浓厚兴趣并能形成自己独到的认知和见解。 2、中英文流利，可作为工作语言。较强的文化适应性和独立工作的能力。 3、较强的内外部沟通技巧，目标驱动，结果导向。",
       "JD": "1. 市场和消费者洞察：分析市场及竞争情况，总结研究，并输出市场策略。 2. 产品拓展：独立负责产品的GTM工作，进行4P维度的产品上市操盘.围绕市场和消费者洞察，牵引产品规划/定义、产品卖点挖掘和包装，制定全产品解决方案、策略和拓展包。 3. 产品经营与操盘：管理单产品&产品组合经营。基于产品上市操盘的基本流程，根据市场动态，制定/管理营销策略、价格策略、要货预测和渠道库存等组合策略，促进产品盈利。 4. 项目管理：对产品生命周期的全过程管理，监控市场销售情况，针对市场情况开展调价、控货等策略调整，对产品的商业成功负责，负责产品端到端的生命周期项目管理。基于项目目标，制定合理计划；监控项目执行，牵引各领域高效投入，快速识别风险并调整资源配置；组织复盘并总结经验，快速改进并推广应用。\n1、对电子消费品相关产品有浓厚兴趣并能形成自己独到的认知和见解。 2、中英文流利，可作为工作语言。较强的文化适应性和独立工作的能力。 3、较强的内外部沟通技巧，目标驱动，结果导向。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8879,7 +9067,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "大学本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -8893,11 +9081,11 @@
       "jobRequirements": "1、熟悉整车开发相关知识，对于行业内新技术及学术界新方向有敏感性，对技术落地要求及路径有认知； 2、大学本科及以上学历； 3、具备优秀的沟通能力、问题分析能力、持续学习能力，以及良好的主动工作习惯和职业素养。",
       "JD": "1、负责小米汽车核心预研项目的管理与交付协调； 2、负责预研技术管理工作、组织预研技术决策、管控各部门预研技术问题改进状态； 3、负责项目目会议的组织、项目任务的追踪和闭环、识别并管控项目风险、并监控各部门目标达成状态； 4、负责工程设计变更的评审组织、状态管控； 5、负责各专业零部件开发业务相关管理（方案选型、技术协议、商务定点、工程样件认可等）； 6、负责阀点交付物管控、评审组织与问题落实； 7、负责跨部门问题及资源的协调。\n1、熟悉整车开发相关知识，对于行业内新技术及学术界新方向有敏感性，对技术落地要求及路径有认知； 2、大学本科及以上学历； 3、具备优秀的沟通能力、问题分析能力、持续学习能力，以及良好的主动工作习惯和职业素养。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9073,15 +9261,11 @@
       "jobRequirements": "1、经验要求： 程序化广告、数字广告销售、AdTech 平台或互联网商业化相关经验，角色方面有广告销售或客户管理经验者优先。 2、行业认知： 了解程序化广告生态的基本概念，包括 DSP、SSP、Ad Exchange、广告竞价逻辑、流量质量评估等基础知识。 3、商务能力： 具备良好的沟通能力和商务谈判基础，能够与客户建立良好的工作关系。 4、数据能力： 具备基本的数据分析能力，熟练使用 Excel/Google Sheets 等工具进行数据整理和分析。 5、执行力与协作： 工作细致、有条理，能够同时处理多个任务，具备良好的跨团队协作意识。 优先条件 1、平台经验： 有 Google Ads、Meta Ads、TikTok for Business、AppLovin 等广告平台或 DSP/SSP 实习经验者优先。 2、技术理解： 了解 SDK、API、S2S 等技术接入方式，或有产品/技术背景者优先。 3、市场认知： 对海外市场（如东南亚、中东、拉美、欧洲）有了解者优先。 4、语言能力： 英语可作为工作语言。",
       "JD": "1、合作伙伴关系维护： 协助维护与程序化合作伙伴的日常沟通，包括需求对接、问题跟进、合作进展跟踪，确保合作顺畅推进。 2、合作执行落地： 支持从客户需求对接、方案沟通到技术接入、效果复盘的执行环节，协助推进合作伙伴的接入上线和持续优化。 3、数据分析与报告： 收集和整理合作伙伴的投放数据，协助制作业绩报告和复盘分析，为优化决策提供数据支持。 4、市场信息收集： 关注程序化广告行业动态和竞品信息，协助整理市场洞察，为团队策略制定提供参考。 5、跨团队协作： 协同产品、运营、数据、技术等内部团队，支持合作伙伴需求的落地执行，确保合作项目按时交付。\n1、经验要求： 程序化广告、数字广告销售、AdTech 平台或互联网商业化相关经验，角色方面有广告销售或客户管理经验者优先。 2、行业认知： 了解程序化广告生态的基本概念，包括 DSP、SSP、Ad Exchange、广告竞价逻辑、流量质量评估等基础知识。 3、商务能力： 具备良好的沟通能力和商务谈判基础，能够与客户建立良好的工作关系。 4、数据能力： 具备基本的数据分析能力，熟练使用 Excel/Google Sheets 等工具进行数据整理和分析。 5、执行力与协作： 工作细致、有条理，能够同时处理多个任务，具备良好的跨团队协作意识。 优先条件 1、平台经验： 有 Google Ads、Meta Ads、TikTok for Business、AppLovin 等广告平台或 DSP/SSP 实习经验者优先。 2、技术理解： 了解 SDK、API、S2S 等技术接入方式，或有产品/技术背景者优先。 3、市场认知： 对海外市场（如东南亚、中东、拉美、欧洲）有了解者优先。 4、语言能力： 英语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "国际业务"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -9161,7 +9345,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科以上学历，英文流利，CET6以上，小语种加分",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9175,10 +9359,13 @@
       "jobRequirements": "1、对零售有很强的意愿，学习能力强，具有良好的合作精神及ownership； 2、一线零售经验优先，了解小米新零售优先； 3、手机行业或消费类电子行业经验更佳； 4、本科以上学历，英文流利，CET6以上，小语种加分； 5、愿意接受全球外派。",
       "JD": "1、门店建设的按时落地，包括但不限于选址、设计、装修、开业等全流程管理；协调内部各组织沟通与合作，确保项目按时、高质量完成； 2、门店管理：负责制定门店运营策略执行，包括人员配备、货品管理、客户服务等，确保运营效率和服务质量；执行销售策略和促销活动，提升门店品牌形象和销售业绩；监控和分析运营数据，及时调整运营策略，确保运营目标的达成； 3、团队管理与培训：负责门店运营团队管理和培训，制定并实施培训计划，提高团队整体素质和服务水平； 4、市场调研与分析：定期开展市场调研，分析竞争对手和市场趋势，为门店的建设和运营提供数据支持和决策依据；收集并分析顾客反馈，提出改进建议，提升顾客体验； 5、此岗位为外派储备，需要先在总部培训工作后，外派到一线，外派国家待定。\n1、对零售有很强的意愿，学习能力强，具有良好的合作精神及ownership； 2、一线零售经验优先，了解小米新零售优先； 3、手机行业或消费类电子行业经验更佳； 4、本科以上学历，英文流利，CET6以上，小语种加分； 5、愿意接受全球外派。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历，英文流利，CET6以上，小语种加分"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "此岗位为外派储备，需要先在总部培训工作后，外派到一线，外派国家待定",
+          "愿意接受全球外派"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -9256,7 +9443,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科以上学历，英文流利，CET6以上，小语种加分",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9270,10 +9457,13 @@
       "jobRequirements": "1、对零售有很强的意愿，学习能力强，具有良好的合作精神及ownership； 2、一线零售经验优先，了解小米新零售优先； 3、手机行业或消费类电子行业经验更佳； 4、本科以上学历，英文流利，CET6以上，小语种加分； 5、愿意接受全球外派。",
       "JD": "1、门店建设的按时落地，包括但不限于选址、设计、装修、开业等全流程管理；协调内部各组织沟通与合作，确保项目按时、高质量完成； 2、门店管理：负责制定门店运营策略执行，包括人员配备、货品管理、客户服务等，确保运营效率和服务质量；执行销售策略和促销活动，提升门店品牌形象和销售业绩；监控和分析运营数据，及时调整运营策略，确保运营目标的达成； 3、团队管理与培训：负责门店运营团队管理和培训，制定并实施培训计划，提高团队整体素质和服务水平； 4、市场调研与分析：定期开展市场调研，分析竞争对手和市场趋势，为门店的建设和运营提供数据支持和决策依据；收集并分析顾客反馈，提出改进建议，提升顾客体验； 5、此岗位为外派储备，需要先在总部培训工作后，外派到一线，外派国家待定。\n1、对零售有很强的意愿，学习能力强，具有良好的合作精神及ownership； 2、一线零售经验优先，了解小米新零售优先； 3、手机行业或消费类电子行业经验更佳； 4、本科以上学历，英文流利，CET6以上，小语种加分； 5、愿意接受全球外派。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历，英文流利，CET6以上，小语种加分"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "此岗位为外派储备，需要先在总部培训工作后，外派到一线，外派国家待定",
+          "愿意接受全球外派"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -9351,7 +9541,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor's degree or above. Preferred majors include Supply Chain Management, Logistics Engineering, Industrial Engineering, Mathematics/Statistics, or related fields.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9365,10 +9555,12 @@
       "jobRequirements": "1、Education: 2026/2027 fresh graduate, Bachelor's degree or above. Preferred majors include Supply Chain Management, Logistics Engineering, Industrial Engineering, Mathematics/Statistics, or related fields. 2、Core Skills: Strong logical thinking, proficient in Excel data analysis, with foundational theoretical knowledge of MRP/ERP principles. 3、General Competencies: 1.Rigorous mathematical logic with analytical and forecasting capabilities; sensitive to numerical changes 2.Excellent risk anticipation and adaptability; able to calmly formulate solutions for unexpected material shortages 3.Strong willingness for cross-department communication, able to smoothly coordinate with procurement, production, warehousing, and other departments",
       "JD": "1、Plan Compilation Assistance: Assist planners in collecting sales forecasts and production requirements, compile and participate in developing weekly/monthly production plans and Material Requirements Planning (MRP). 2、Material & Inventory Tracking: Track arrival progress of key components and safety stock levels, identify potential material shortage risks, and issue timely alerts. 3、Inventory Structure Optimization: Assist in analyzing slow-moving materials and inventory turnover rates, participate in inventory audits and optimization analysis. 4、Supplier Delivery Coordination: Assist in liaising with component suppliers, follow up on order confirmations and delivery plan execution, and provide basic supplier delivery performance data.\n1、Education: 2026/2027 fresh graduate, Bachelor's degree or above. Preferred majors include Supply Chain Management, Logistics Engineering, Industrial Engineering, Mathematics/Statistics, or related fields. 2、Core Skills: Strong logical thinking, proficient in Excel data analysis, with foundational theoretical knowledge of MRP/ERP principles. 3、General Competencies: 1.Rigorous mathematical logic with analytical and forecasting capabilities; sensitive to numerical changes 2.Excellent risk anticipation and adaptability; able to calmly formulate solutions for unexpected material shortages 3.Strong willingness for cross-department communication, able to smoothly coordinate with procurement, production, warehousing, and other departments",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor's degree or above. Preferred majors include Supply Chain Management, Logistics Engineering, Industrial Engineering, Mathematics/Statistics, or related fields."
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2026/2027 fresh graduate, Bachelor's degree or above."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -9453,11 +9645,9 @@
       "jobRequirements": "1. 日语母语水平，或者在日本有长期生活经验，高度熟悉日本本地社媒平台 2. 可使用英语或中文开展日常工作沟通、文档处理与业务协作； 3.具有良好的沟通能力和协同能力。 Native-level Japanese proficiency or long-term living experience in Japan, with strong familiarity with local social media platforms. Ability to communicate and collaborate in daily work using English or Chinese, including document handling and business coordination. Strong communication and collaboration skills.",
       "JD": "1.负责收集多渠道的客户反馈信息，包括问卷调查、客户访谈、社交媒体和客户支持互动，确保全面了解客户需求和期望； 2.对收集到的客户数据进行分析，识别关键趋势、潜在问题及改进机会，为公司提供有价值的客户洞察； 3.将客户反馈的分析结果整理成报告，定期向相关部门（如电商、产品、服务）进行汇报，推动客户导向的决策制定； 4.协调跨部门团队，推动基于客户反馈的产品优化、服务改进和流程优化，提升客户满意度和忠诚度； 5.监控并分析客户满意度指标（如NPS、NSS、CES），评估客户体验的改善效果。 Collect customer feedback from multiple channels, including surveys, interviews, social media, and customer support interactions, to gain a comprehensive understanding of customer needs and expectations. Analyze collected customer data to identify key trends, potential issues, and improvement opportunities, providing valuable customer insights for the company. Compile analysis results into reports and regularly share them with relevant departments (e.g., e-commerce, product, service) to support customer-centric decision-making. Coordinate cross-functional teams to drive product optimization, service enhancement, and process improvement based on customer feedback, aiming to increase customer satisfaction and loyalty. Monitor and analyze customer satisfaction metrics (such as NPS, NSS, CES) to evaluate the effectiveness of customer experience improvements.\n1. 日语母语水平，或者在日本有长期生活经验，高度熟悉日本本地社媒平台 2. 可使用英语或中文开展日常工作沟通、文档处理与业务协作； 3.具有良好的沟通能力和协同能力。 Native-level Japanese proficiency or long-term living experience in Japan, with strong familiarity with local social media platforms. Ability to communicate and collaborate in daily work using English or Chinese, including document handling and business coordination. Strong communication and collaboration skills.",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9532,7 +9722,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor degree or above",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9546,11 +9736,11 @@
       "jobRequirements": "Bachelor degree or above, Prior internship experience in Smartphone or 3C products is preferred Good communication skills to ensure service delivery Diligence, dedication, strong sense of responsibility, Clear thinking, customer service awareness, and teamwork",
       "JD": "Responsible for service network operations. Responsible for the operation and management of local aftersales service, including ASP and ASC management, service quality management, VOC analysis, local customer relationship maintenance, etc., to break down Objectives and achieve key results. Continuously improve operation process Evaluating customer satisfaction and build strategy to increase level of customer satisfaction Responsible for early warning of any operational risk, and secure service partner’s compliance\nBachelor degree or above, Prior internship experience in Smartphone or 3C products is preferred Good communication skills to ensure service delivery Diligence, dedication, strong sense of responsibility, Clear thinking, customer service awareness, and teamwork",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor degree or above"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9618,9 +9808,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "大学本科及以上学历，英文能够作为工作语言；供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解",
+        "hardRestriction": true,
+        "hardClauses": [
+          "供应链管理、物流管理等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -9632,11 +9824,12 @@
       "jobRequirements": "1、大学本科及以上学历，英文能够作为工作语言； 2、供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解； 3、热爱汽车行业，认同小米企业文化和价值观； 4、良好的沟通能力，逻辑思维清晰； 5、能熟练操作office办公软件。",
       "JD": "1、负责配件供应链体系文件归档管理； 2、负责配件采购、调拨计划、配件物流运营数据收集和统计分析； 3、负责配件运营改善对策制定和改善跟踪； 4、负责配件运营管理报告制定。\n1、大学本科及以上学历，英文能够作为工作语言； 2、供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解； 3、热爱汽车行业，认同小米企业文化和价值观； 4、良好的沟通能力，逻辑思维清晰； 5、能熟练操作office办公软件。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历，英文能够作为工作语言",
+          "供应链管理、物流管理等相关专业，对供应链、物流基础知识有一定的认知和了解"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9709,9 +9902,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "大学本科及以上学历，商务，工程等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9723,11 +9918,11 @@
       "jobRequirements": "1. 大学本科及以上学历，商务，工程等相关专业； 2. 热爱汽车行业，对整车制造流程有较好的认知与理解； 3. 良好的沟通技巧，逻辑思维，掌握一定的演讲和谈判技巧； 4.较强的执行力、学习能力、组织能力、项目管理能力； 5. 熟练使用办公软件。",
       "JD": "1. 负责具体车型在公司内的生产导入工作； 2. 参与项目各阶段的阀点评审，负责收集并交付工厂相关的阀点交付物； 3. 负责对接项目及各专业，明确导入阶段的样车需求，结合验证优化需求，制定导入试生产计划 4. 规划和推进项目导入活动的实施（包括样车生产，会议组织，问题管理等）； 5. 确保项目执行的合规性及过程的优化，并符合内部和外部的要求； 6. 在项目文件、监控、控制、报告和评审方面建立适当的过程、方法和工具； 7. 直接上级交办的其他工作。\n1. 大学本科及以上学历，商务，工程等相关专业； 2. 热爱汽车行业，对整车制造流程有较好的认知与理解； 3. 良好的沟通技巧，逻辑思维，掌握一定的演讲和谈判技巧； 4.较强的执行力、学习能力、组织能力、项目管理能力； 5. 熟练使用办公软件。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历，商务，工程等相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9984,9 +10179,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科以上学历，生产管理、供应链管理相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "生产管理、供应链管理相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -9998,11 +10195,11 @@
       "jobRequirements": "1.本科以上学历，生产管理、供应链管理相关专业； 2.具备较好的分析能力，沟通、协调能力强。",
       "JD": "1.根据生产订单与预测编制年、月、周、日生产计划； 2.参与计划领域相关系统与数字化工具的建设； 3.根据生产准备情况，跟进生产计划排产完成情况，组织协调生产计划过程异常处理，确保生产计划顺利进行； 4.不良品、呆滞品管控处理。\n1.本科以上学历，生产管理、供应链管理相关专业； 2.具备较好的分析能力，沟通、协调能力强。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历，生产管理、供应链管理相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -10167,7 +10364,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor's degree or higher in Marketing, Business Administration, or a related field.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -10181,10 +10378,12 @@
       "jobRequirements": "1. Bachelor's degree or higher in Marketing, Business Administration, or a related field. 2. Proficiency in market analysis tools and data management methods. 3. Quick thinker with strong learning, analytical, and problem-solving skills. 4. Excellent communication and teamwork abilities, strong resilience, and the capability to handle a multi-tasking work environment. 5. Proficiency in English and Mandarin Chinese as working languages; 11. Enthusiastic about joining Xiaomi as a full-time employee after graduation.",
       "JD": "Support Market Strategy Planning: Assist in developing GTM strategies and plans for AIOT products based on market research and competitive analysis. Identify target customer segments, key selling points, and market entry strategies. Support Product Launch Execution: Coordinate new product launch activities, including timeline planning, resource allocation, and budget management. Create and implement marketing materials (e.g., advertisements, sales toolkits). Assist with Data Analysis and Feedback: Collect and analyze market data, sales data, and customer feedback to optimize GTM strategies. Monitor market trends and promptly adjust marketing plans as needed. Other Assigned Tasks: Complete tasks assigned by the mentor or supervisor as needed.\n1. Bachelor's degree or higher in Marketing, Business Administration, or a related field. 2. Proficiency in market analysis tools and data management methods. 3. Quick thinker with strong learning, analytical, and problem-solving skills. 4. Excellent communication and teamwork abilities, strong resilience, and the capability to handle a multi-tasking work environment. 5. Proficiency in English and Mandarin Chinese as working languages; 11. Enthusiastic about joining Xiaomi as a full-time employee after graduation.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor's degree or higher in Marketing, Business Administration, or a related field."
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Enthusiastic about joining Xiaomi as a full-time employee after graduation."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -10372,11 +10571,9 @@
       "jobRequirements": "1.具备良好的英语听说读写能力，可使用英语开展日常工作沟通、文档处理与业务协作； 2.具有良好的沟通能力和协同能力。",
       "JD": "1.站点运营监督与指标交付 监测各区域客服运营，搭建数据监测体系。根据业务变化调整运营策略，确保关键指标达成；建立风险预警机制，如旺季人力调配，保障服务质量； 2.客户体验提升 剖析用户案例，挖掘痛点需求。从服务流程、话术等多维度优化体验，收集区域侧反馈转化为改进措施； 3.跨部门协作与问题解决 联动产品研发、销售、物流、售后等部门，解决客服运营各类问题，提升用户满意度； 4.数据跟踪与分析 跟踪客服响应时间、问题解决率等运营数据，挖掘问题与机会，以数据驱动运营决策，提升服务效率与质量； 5.新建站规划及跟进 调研市场，制定建站方案，把控项目进度，保障新建站服务顺利开展及按时交付。\n1.具备良好的英语听说读写能力，可使用英语开展日常工作沟通、文档处理与业务协作； 2.具有良好的沟通能力和协同能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -10649,7 +10846,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -10663,15 +10860,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且罗马尼亚语可作为工作语言。",
       "JD": "1、准确把握客户需求，挖掘用户兴奋点，将产品方案落地，包括但不限于方案策划、文案撰写、页面跟进、图片设计、效果跟踪等； ⁣2、协助制定小米产品的运营方案、推广策略、销售规划，完成流量及销售目标； ⁣3、综合内容、市场、销售部门的反馈，高效的输出运营策划方案、产品文案； ⁣4、对竞品进行监控总结，并进行有效分析，不断提出改善策略和创意，并做出竞品分析报告； 5、协助策划活动方案，关注平台及市场动向，快速调整运营策略，利用活动提高用户活跃度、拉新量； 6、挖掘运营数据、用户数据，进行多维度分析，提供消费需求导向，提高用户留存与复购。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且罗马尼亚语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -10745,7 +10940,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -10759,15 +10954,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且匈牙利语可作为工作语言。",
       "JD": "1、准确把握客户需求，挖掘用户兴奋点，将产品方案落地，包括但不限于方案策划、文案撰写、页面跟进、图片设计、效果跟踪等； ⁣2、协助制定小米产品的运营方案、推广策略、销售规划，完成流量及销售目标； ⁣3、综合内容、市场、销售部门的反馈，高效的输出运营策划方案、产品文案； ⁣4、对竞品进行监控总结，并进行有效分析，不断提出改善策略和创意，并做出竞品分析报告； 5、协助策划活动方案，关注平台及市场动向，快速调整运营策略，利用活动提高用户活跃度、拉新量； 6、挖掘运营数据、用户数据，进行多维度分析，提供消费需求导向，提高用户留存与复购。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且匈牙利语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -10941,7 +11134,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -10955,15 +11148,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且英语可作为工作语言。,1、具备良好的运营规划的能力，能够制定和把握零售上市的整体节奏和方向； 2、熟练使用office软件，具备良好的数字分析能力及数字敏感度； 3、具有较强的学习能力和跨部门跨国家沟通能力，具有团队意识，善于交流； 4、结果导向，细节导向，拥有较强的韧性和多任务处理能力； 5、良好的英语和中文，有小语种优先考虑。",
       "JD": "1、准确把握客户需求，挖掘用户兴奋点，将产品方案落地，包括但不限于方案策划、文案撰写、页面跟进、图片设计、效果跟踪等； ⁣2、协助制定小米产品的运营方案、推广策略、销售规划，完成流量及销售目标； ⁣3、综合内容、市场、销售部门的反馈，高效的输出运营策划方案、产品文案； ⁣4、对竞品进行监控总结，并进行有效分析，不断提出改善策略和创意，并做出竞品分析报告； 5、协助策划活动方案，关注平台及市场动向，快速调整运营策略，利用活动提高用户活跃度、拉新量； 6、挖掘运营数据、用户数据，进行多维度分析，提供消费需求导向，提高用户留存与复购。,1、沟通协调资源，参与制定手机产品零售策略和发展规划，对接产品、市场等相关部门，根据新品上市节奏、产品卖点、竞品分析等输出零售侧新品上市策略及方案； 2、根据公司的相关制度要求，正确分配零售月度，季度，年度预算；实时追踪零售预算使用进度并定期反馈分客户，分投入类型的预算使用，为业务的费用投入提出指导性建议； 3、了解行业动态，不断调整和优化产品上市方案及运营策略，定期收集竞争对手情况，从产品和零售角度进行分析并提出应对策略； 4、参与反馈每周、月，季度零售重要要素（产品销量，阵地运营）的进展评审，根据各要素目标，拉通各项指标的达成情况。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且英语可作为工作语言。,1、具备良好的运营规划的能力，能够制定和把握零售上市的整体节奏和方向； 2、熟练使用office软件，具备良好的数字分析能力及数字敏感度； 3、具有较强的学习能力和跨部门跨国家沟通能力，具有团队意识，善于交流； 4、结果导向，细节导向，拥有较强的韧性和多任务处理能力； 5、良好的英语和中文，有小语种优先考虑。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -11037,7 +11228,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -11051,15 +11242,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力",
       "JD": "1、营销执行管理 - 活动策划与执行：负责联合营销及各类营销活动的策划，制定详细活动方案。同时，通过制定流程和规范管理，确保活动在各地区、国家有效落地执行，提升品牌力与产品销量。 - 物料与礼品规划：规划营销物料，如海报、宣传页、展示架等，以及礼品，确保其符合品牌形象与营销活动需求。对物料设计、制作、采购等环节进行管理，制定相关流程与规范，并推动在各国家地区的落地，保障营销活动的物资支持。 2、跨部门协同与方案推进 跨部门对接：与总部市场、GTM 等跨部门团队密切对接合作，及时获取新品信息、市场动态等，共同完成新品推广、节庆大促等零售侧营销方案的制定。 方案落地推进：协同总部零售各部门，将营销方案在各国家地区推进落地。包括与当地团队沟通协调，提供方案解读、培训支持等，确保方案执行不走样，达成营销目标。 3、终端营销物料管理 - 设计制作采购：牵头推进零售终端营销物料的设计工作，使其契合品牌定位与市场需求。负责物料的制作与采购，把控质量、成本与交付时间等关键节点。 - 流程规范制定与执行：制定零售终端营销物料从设计到采购全流程的管理规范，明确各环节标准与责任主体。并推动该规范在国家侧的落地执行，保障物料管理工作的标准化、规范化 。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -11131,7 +11320,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -11145,15 +11334,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且意大利语可作为工作语言。",
       "JD": "1、准确把握客户需求，挖掘用户兴奋点，将产品方案落地，包括但不限于方案策划、文案撰写、页面跟进、图片设计、效果跟踪等； ⁣2、协助制定小米产品的运营方案、推广策略、销售规划，完成流量及销售目标； ⁣3、综合内容、市场、销售部门的反馈，高效的输出运营策划方案、产品文案； ⁣4、对竞品进行监控总结，并进行有效分析，不断提出改善策略和创意，并做出竞品分析报告； 5、协助策划活动方案，关注平台及市场动向，快速调整运营策略，利用活动提高用户活跃度、拉新量； 6、挖掘运营数据、用户数据，进行多维度分析，提供消费需求导向，提高用户留存与复购。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且意大利语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -11227,7 +11414,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -11241,15 +11428,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且西语可作为工作语言。",
       "JD": "1、准确把握客户需求，挖掘用户兴奋点，将产品方案落地，包括但不限于方案策划、文案撰写、页面跟进、图片设计、效果跟踪等； ⁣2、协助制定小米产品的运营方案、推广策略、销售规划，完成流量及销售目标； ⁣3、综合内容、市场、销售部门的反馈，高效的输出运营策划方案、产品文案； ⁣4、对竞品进行监控总结，并进行有效分析，不断提出改善策略和创意，并做出竞品分析报告； 5、协助策划活动方案，关注平台及市场动向，快速调整运营策略，利用活动提高用户活跃度、拉新量； 6、挖掘运营数据、用户数据，进行多维度分析，提供消费需求导向，提高用户留存与复购。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且西语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -11323,7 +11508,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -11337,15 +11522,13 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且波兰语可作为工作语言。",
       "JD": "1、准确把握客户需求，挖掘用户兴奋点，将产品方案落地，包括但不限于方案策划、文案撰写、页面跟进、图片设计、效果跟踪等； ⁣2、协助制定小米产品的运营方案、推广策略、销售规划，完成流量及销售目标； ⁣3、综合内容、市场、销售部门的反馈，高效的输出运营策划方案、产品文案； ⁣4、对竞品进行监控总结，并进行有效分析，不断提出改善策略和创意，并做出竞品分析报告； 5、协助策划活动方案，关注平台及市场动向，快速调整运营策略，利用活动提高用户活跃度、拉新量； 6、挖掘运营数据、用户数据，进行多维度分析，提供消费需求导向，提高用户留存与复购。\n1、本科及以上学历； 2、良好的沟通协调能力，有良好的自驱力和韧性； 3、熟练使用office办公软件，良好的数据敏感性； 4、思维灵活敏捷，学习能力强，分析能力强，执行能力强； 5、良好的英语听说读写能力，且波兰语可作为工作语言。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -11879,98 +12062,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670934973654026532",
-      "company": "小米",
-      "title": "运营专员-西语-外派",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、西班牙语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "墨西哥城",
-      "jobDescription": "1、沟通协调资源，参与制定手机产品零售策略和发展规划，对接产品、市场等相关部门，根据新品上市节奏、产品卖点、竞品分析等输出零售侧新品上市策略及方案； 2、根据公司的相关制度要求，正确分配零售月度，季度，年度预算；实时追踪零售预算使用进度并定期反馈分客户，分投入类型的预算使用，为业务的费用投入提出指导性建议； 3、了解行业动态，不断调整和优化产品上市方案及运营策略，定期收集竞争对手情况，从产品和零售角度进行分析并提出应对策略； 4、参与反馈每周、月，季度零售重要要素（产品销量，阵地运营）的进展评审，根据各要素目标，拉通各项指标的达成情况。",
-      "jobRequirements": "1、具备良好的运营规划的能力，能够制定和把握零售上市的整体节奏和方向； 2、熟练使用office软件，具备良好的数字分析能力及数字敏感度； 3、具有较强的学习能力和跨部门跨国家沟通能力，具有团队意识，善于交流； 4、结果导向，细节导向，拥有极强的韧性和多任务处理能力； 5、良好的英语和西语能力。",
-      "JD": "1、沟通协调资源，参与制定手机产品零售策略和发展规划，对接产品、市场等相关部门，根据新品上市节奏、产品卖点、竞品分析等输出零售侧新品上市策略及方案； 2、根据公司的相关制度要求，正确分配零售月度，季度，年度预算；实时追踪零售预算使用进度并定期反馈分客户，分投入类型的预算使用，为业务的费用投入提出指导性建议； 3、了解行业动态，不断调整和优化产品上市方案及运营策略，定期收集竞争对手情况，从产品和零售角度进行分析并提出应对策略； 4、参与反馈每周、月，季度零售重要要素（产品销量，阵地运营）的进展评审，根据各要素目标，拉通各项指标的达成情况。\n1、具备良好的运营规划的能力，能够制定和把握零售上市的整体节奏和方向； 2、熟练使用office软件，具备良好的数字分析能力及数字敏感度； 3、具有较强的学习能力和跨部门跨国家沟通能力，具有团队意识，善于交流； 4、结果导向，细节导向，拥有极强的韧性和多任务处理能力； 5、良好的英语和西语能力。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "客户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934973654026532/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7670935478128281882",
       "company": "小米",
       "title": "交付运营专员（Delivery Operations Specialist）-汽车",
@@ -12404,6 +12495,98 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670935066206062911/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670934973654026532",
+      "company": "小米",
+      "title": "运营专员-西语-外派",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "墨西哥城",
+      "jobDescription": "1、沟通协调资源，参与制定手机产品零售策略和发展规划，对接产品、市场等相关部门，根据新品上市节奏、产品卖点、竞品分析等输出零售侧新品上市策略及方案； 2、根据公司的相关制度要求，正确分配零售月度，季度，年度预算；实时追踪零售预算使用进度并定期反馈分客户，分投入类型的预算使用，为业务的费用投入提出指导性建议； 3、了解行业动态，不断调整和优化产品上市方案及运营策略，定期收集竞争对手情况，从产品和零售角度进行分析并提出应对策略； 4、参与反馈每周、月，季度零售重要要素（产品销量，阵地运营）的进展评审，根据各要素目标，拉通各项指标的达成情况。",
+      "jobRequirements": "1、具备良好的运营规划的能力，能够制定和把握零售上市的整体节奏和方向； 2、熟练使用office软件，具备良好的数字分析能力及数字敏感度； 3、具有较强的学习能力和跨部门跨国家沟通能力，具有团队意识，善于交流； 4、结果导向，细节导向，拥有极强的韧性和多任务处理能力； 5、良好的英语和西语能力。",
+      "JD": "1、沟通协调资源，参与制定手机产品零售策略和发展规划，对接产品、市场等相关部门，根据新品上市节奏、产品卖点、竞品分析等输出零售侧新品上市策略及方案； 2、根据公司的相关制度要求，正确分配零售月度，季度，年度预算；实时追踪零售预算使用进度并定期反馈分客户，分投入类型的预算使用，为业务的费用投入提出指导性建议； 3、了解行业动态，不断调整和优化产品上市方案及运营策略，定期收集竞争对手情况，从产品和零售角度进行分析并提出应对策略； 4、参与反馈每周、月，季度零售重要要素（产品销量，阵地运营）的进展评审，根据各要素目标，拉通各项指标的达成情况。\n1、具备良好的运营规划的能力，能够制定和把握零售上市的整体节奏和方向； 2、熟练使用office软件，具备良好的数字分析能力及数字敏感度； 3、具有较强的学习能力和跨部门跨国家沟通能力，具有团队意识，善于交流； 4、结果导向，细节导向，拥有极强的韧性和多任务处理能力； 5、良好的英语和西语能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934973654026532/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -13231,6 +13414,106 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885668139403556/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670885563403340068",
+      "company": "小米",
+      "title": "销售管理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "3.欧洲或其它主要英语国家留学背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.制定并下发全球运营商行业线考核标准，执行日常管控，保障考核体系有效运行。 2.洞察全球运营商市场及商业经营数据，提取关键信息，为业务决策提供数据依据。 3.以总部行业线部门视角，管控全球行业线组织效能与经营状况，制定宏观战略、策略和目标，引领业务发展。 4.搭建重点运营商大T业绩管理模型，进行日常业绩管理、量化打分与结果公示，助力达成业绩目标。 5.运营商高层客户接待安排，维护与运营商集团及高层的合作关系，推进战略合作。",
+      "jobRequirements": "1.研究生学历，具备良好的英语听说读写能力，能够与外籍进行有效沟通。 2.对数据敏感、可以熟练使用办公软件，如Word、Excel、PowerPoint等。 3.欧洲或其它主要英语国家留学背景优先。 4.认同小米品牌，愿意融入小米文化价值观，性格热情活力，心态开放，愿意拥抱变化；",
+      "JD": "1.制定并下发全球运营商行业线考核标准，执行日常管控，保障考核体系有效运行。 2.洞察全球运营商市场及商业经营数据，提取关键信息，为业务决策提供数据依据。 3.以总部行业线部门视角，管控全球行业线组织效能与经营状况，制定宏观战略、策略和目标，引领业务发展。 4.搭建重点运营商大T业绩管理模型，进行日常业绩管理、量化打分与结果公示，助力达成业绩目标。 5.运营商高层客户接待安排，维护与运营商集团及高层的合作关系，推进战略合作。\n1.研究生学历，具备良好的英语听说读写能力，能够与外籍进行有效沟通。 2.对数据敏感、可以熟练使用办公软件，如Word、Excel、PowerPoint等。 3.欧洲或其它主要英语国家留学背景优先。 4.认同小米品牌，愿意融入小米文化价值观，性格热情活力，心态开放，愿意拥抱变化；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3.欧洲或其它主要英语国家留学背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "品牌",
+        "客户",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885563403340068/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -16683,93 +16966,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670922681268734214",
-      "company": "小米",
-      "title": "投资专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "岗位描述： 1 协助部门进行相关行业的行业研究，辅助投资决策； 2、协助部门进行尽职调查，完成投资交割； 3、协助对目标公司进行尽职调查，编制尽职调查报告； 5、参与相关的谈判工作和投资结构设计； 6、参与投后管理，跟踪被投资公司的业务、产品、财务等情况； 7、推动被投资公司和小米之间的业务交叉支持； 8、参与小米其他相关投资业务的管理工作。",
-      "jobRequirements": "任职要求： 1、本科及以上学历； 2、有投资、证券等金融行业实习经验优先； 3、善于沟通协作，快速发现事物本质，做事细致且执行力强、有责任心、有保密意识。",
-      "JD": "岗位描述： 1 协助部门进行相关行业的行业研究，辅助投资决策； 2、协助部门进行尽职调查，完成投资交割； 3、协助对目标公司进行尽职调查，编制尽职调查报告； 5、参与相关的谈判工作和投资结构设计； 6、参与投后管理，跟踪被投资公司的业务、产品、财务等情况； 7、推动被投资公司和小米之间的业务交叉支持； 8、参与小米其他相关投资业务的管理工作。\n任职要求： 1、本科及以上学历； 2、有投资、证券等金融行业实习经验优先； 3、善于沟通协作，快速发现事物本质，做事细致且执行力强、有责任心、有保密意识。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "结构/原理"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670922681268734214/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7670935257667307827",
       "company": "小米",
       "title": "Channel Retail Specialist-local",
@@ -18299,6 +18495,93 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923368716486966/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670922681268734214",
+      "company": "小米",
+      "title": "投资专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "岗位描述： 1 协助部门进行相关行业的行业研究，辅助投资决策； 2、协助部门进行尽职调查，完成投资交割； 3、协助对目标公司进行尽职调查，编制尽职调查报告； 5、参与相关的谈判工作和投资结构设计； 6、参与投后管理，跟踪被投资公司的业务、产品、财务等情况； 7、推动被投资公司和小米之间的业务交叉支持； 8、参与小米其他相关投资业务的管理工作。",
+      "jobRequirements": "任职要求： 1、本科及以上学历； 2、有投资、证券等金融行业实习经验优先； 3、善于沟通协作，快速发现事物本质，做事细致且执行力强、有责任心、有保密意识。",
+      "JD": "岗位描述： 1 协助部门进行相关行业的行业研究，辅助投资决策； 2、协助部门进行尽职调查，完成投资交割； 3、协助对目标公司进行尽职调查，编制尽职调查报告； 5、参与相关的谈判工作和投资结构设计； 6、参与投后管理，跟踪被投资公司的业务、产品、财务等情况； 7、推动被投资公司和小米之间的业务交叉支持； 8、参与小米其他相关投资业务的管理工作。\n任职要求： 1、本科及以上学历； 2、有投资、证券等金融行业实习经验优先； 3、善于沟通协作，快速发现事物本质，做事细致且执行力强、有责任心、有保密意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670922681268734214/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "美团",
   "count": 45,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "meituan-40620033afbf",
@@ -1044,95 +1044,6 @@
       "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
     },
     {
-      "id": "meituan-f80e61748b1e",
-      "company": "美团",
-      "title": "廉正AI运营岗",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 探索LLM、AIGC在职业道德方向面向全体员工的应用； 2. 基于行业调研、数据分析与用户洞察，选用模型； 3. 协同算法能力设计产品策略，建设知识库、prompt和工作流； 4. 基于阶段性目标，完善数据监测和质量评估机制，持续收集用户反馈，迭代策略及评估方法，持续提升核心指标和对话效果。",
-      "jobRequirements": "1. 对AI充满热爱，具备较强的产品思维和用户导向，能够深入理解用户需求并转化为产品的功能和设计； 2. 具备数据分析和问题解决的能力，善于通过数据找出问题根源并提出合理的解决方案。 3. 对互联网产品和技术有一定的了解，能够理解和解释技术实现的原理和方法。 4. 具备优秀的沟通与协调能力，能够与多个团队进行合作，并有效推动项目的进展。具备一定的项目管理和团队协作经验，能够有效地管理和协调项目资源. 岗位亮点: 1. 有价值：参与大型企业治理，成为行业紧缺的ESG人才； 2. 有成长：团队管理扁平，鼓励个人学习成长，工作氛围开放包容； 3. 有机会：可与多个关键部门合作，拓展职业网络； 4. 有意义：通过促进大型企业廉正水平提升，对社会产生积极影响。 具备以下优先： 1. 有对话机器人类产品设计经验优先（C/B不限）。 2. 过往经历涉及到跨团队协作、算法密切协同优先。 3. 对AI大模型有深入了解，有成功应用者优先。",
-      "JD": "1. 探索LLM、AIGC在职业道德方向面向全体员工的应用； 2. 基于行业调研、数据分析与用户洞察，选用模型； 3. 协同算法能力设计产品策略，建设知识库、prompt和工作流； 4. 基于阶段性目标，完善数据监测和质量评估机制，持续收集用户反馈，迭代策略及评估方法，持续提升核心指标和对话效果。\n1. 对AI充满热爱，具备较强的产品思维和用户导向，能够深入理解用户需求并转化为产品的功能和设计； 2. 具备数据分析和问题解决的能力，善于通过数据找出问题根源并提出合理的解决方案。 3. 对互联网产品和技术有一定的了解，能够理解和解释技术实现的原理和方法。 4. 具备优秀的沟通与协调能力，能够与多个团队进行合作，并有效推动项目的进展。具备一定的项目管理和团队协作经验，能够有效地管理和协调项目资源. 岗位亮点: 1. 有价值：参与大型企业治理，成为行业紧缺的ESG人才； 2. 有成长：团队管理扁平，鼓励个人学习成长，工作氛围开放包容； 3. 有机会：可与多个关键部门合作，拓展职业网络； 4. 有意义：通过促进大型企业廉正水平提升，对社会产生积极影响。 具备以下优先： 1. 有对话机器人类产品设计经验优先（C/B不限）。 2. 过往经历涉及到跨团队协作、算法密切协同优先。 3. 对AI大模型有深入了解，有成功应用者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
-      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
-    },
-    {
       "id": "meituan-b7123998aacf",
       "company": "美团",
       "title": "城市运营管理储备岗",
@@ -1643,6 +1554,104 @@
         "数据"
       ],
       "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
+    {
+      "id": "meituan-0e6fe68bf0a8",
+      "company": "美团",
+      "title": "商业分析师（BA/DS）",
+      "graduationYear": [
+        "2025",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳；4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 参与业务规划、策略制定、经营分析，为复杂的商业问题设计解决方案； 2. 使用一流的数据分析工具和技能，洞察商业规律、用户需求，为业务出谋划策； 3. 参与建设业界一流水平的公司级实验中台，为重大实验决策提供科学方案支撑（数据科学方向）； 4. 探索大模型在商业分析场景的应用，如利用LLM辅助行业研究、自动化报告生成、智能数据洞察、自然语言数据查询等。 其中部分境外岗位面向2025年6月至2027年10月毕业的全球毕业生，如遇系统投递问题，请前往Keeta Careers英文招聘官网投递。",
+      "jobRequirements": "1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳； 2. 聪明严谨、积极有韧性，乐于面对挑战、具备优秀的分析能力； 3. 具备充分的好奇心，有钻研的精神，喜欢从数据中发现问题、分析规律更佳；对商业运作模式和企业经营感兴趣； 4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳； 5. 了解大语言模型的基本能力，对AI赋能商业分析有探索兴趣，有使用AI工具辅助数据分析或报告撰写的经验者优先。 具备以下经验者优先： 1. 有使用AI工具辅助商业研究的实践经验，如利用大模型进行行业报告生成、数据可视化、用户调研分析等； 2. 了解Text-to-SQL、自然语言数据分析等AI+数据分析前沿方向； 3. 了解主流 Agent 开发框架（如 LangChain、Dify 等），有将 Agent 应用于数据分析或商业研究场景的经验。 【岗位亮点】 1. 距离决策者最近的岗位，数据规律将有机会驱动业务核心决策； 2. 多元化的业务场景，丰富的商业视角和实战土壤； 3. 体系化的人才培养机制； 4. 大模型与商业分析深度融合，可参与构建AI增强的智能分析平台。",
+      "JD": "1. 参与业务规划、策略制定、经营分析，为复杂的商业问题设计解决方案； 2. 使用一流的数据分析工具和技能，洞察商业规律、用户需求，为业务出谋划策； 3. 参与建设业界一流水平的公司级实验中台，为重大实验决策提供科学方案支撑（数据科学方向）； 4. 探索大模型在商业分析场景的应用，如利用LLM辅助行业研究、自动化报告生成、智能数据洞察、自然语言数据查询等。 其中部分境外岗位面向2025年6月至2027年10月毕业的全球毕业生，如遇系统投递问题，请前往Keeta Careers英文招聘官网投递。\n1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳； 2. 聪明严谨、积极有韧性，乐于面对挑战、具备优秀的分析能力； 3. 具备充分的好奇心，有钻研的精神，喜欢从数据中发现问题、分析规律更佳；对商业运作模式和企业经营感兴趣； 4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳； 5. 了解大语言模型的基本能力，对AI赋能商业分析有探索兴趣，有使用AI工具辅助数据分析或报告撰写的经验者优先。 具备以下经验者优先： 1. 有使用AI工具辅助商业研究的实践经验，如利用大模型进行行业报告生成、数据可视化、用户调研分析等； 2. 了解Text-to-SQL、自然语言数据分析等AI+数据分析前沿方向； 3. 了解主流 Agent 开发框架（如 LangChain、Dify 等），有将 Agent 应用于数据分析或商业研究场景的经验。 【岗位亮点】 1. 距离决策者最近的岗位，数据规律将有机会驱动业务核心决策； 2. 多元化的业务场景，丰富的商业视角和实战土壤； 3. 体系化的人才培养机制； 4. 大模型与商业分析深度融合，可参与构建AI增强的智能分析平台。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳",
+          "4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "用户",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
       "riskTags": [],
       "headcount": {
         "disclosed": false,

@@ -1,7 +1,7 @@
 {
   "company": "拓竹科技",
   "count": 38,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "feishu-817ef7-7670526133745748267",
@@ -1968,7 +1968,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，英文水平给力。能够通过邮件、视频会议等方式,高效地与海外创作者沟通、协作。",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1982,15 +1982,13 @@
       "jobRequirements": "任职条件: 1. 本科及以上学历，英文水平给力。能够通过邮件、视频会议等方式,高效地与海外创作者沟通、协作。 2. 海外社媒5G冲浪者熟悉YouTube、Instagram、TikTok等主三流平台，了解不同平台的内容逻辑与传播机制, 对海外互联网内容保持敏锐感知。 3. 有\"重人际沟通\"的实习经验。擅于读懂需求、理解用户，也能把自己的想法清晰、准确地表达出来。 4. 有内容敏感度，也有审美判断力。能够识别什么是真正让观众感兴趣的内容，能够洞察不同人群的兴趣与偏 好，并将这些洞察转化为内容策略。 5. 有深度思考能力，也有强大的自驱力。我们不招只等着被安排的\"螺丝钉\"，我们更期待敢于挑战、敢于试错、也敢于发光发热的\"创造者\"。 6. 如果你也在运营自己的自媒体，欢迎把账号分享给我们。国内、海外平台都可以。粉丝多少不是重点,我们更想看看：你在关注什么、创作什么，以及你是怎么与自己的受众建立连接的。",
       "JD": "该岗位隶属Global Content Creator Marketing,是拓竹海外市场人数最多的核心团队，也是跨团队跨部门协作最多的团队之一。过去几年，团队通过与大量优秀内容创作者合作，持续产出优质的行业标杆内容，为拓竹在全球各区域的人群拓展与增长贡献了关键价值。 随着拓竹业务持续加速发展,我们需要更多有网感、有创意的年轻人加入。把你的创意落地成精彩的故事，让更多人被内容打动、被产品力种草,也让每一个好想法真正产生影响。 该岗位主目标欧美澳市场，有Tech Life，Maker，Lifestyle，Family四个方向。我们会结合业务的需求和同学的兴趣,安排合适的人群方向。 该岗位的往届校招生,入职后主要做的事: 1. 从0到1做内容共创 与KOL深度共创，从创意发想、内容策划到执行落地,把一个好想法真正变成一条有影响力的内容。 2. 搭建自己的KOL资源池 挖掘、拓展并长期维护优质KOL,逐步积累稳定、可持续合作的人才资源,满足日常推广和专项Campaign的不同需求。 3. 把路人变成真爱粉 深入运营目标垂类,洞察不同人群的兴趣与内容偏好,不断优化内容策略,提升用户黏性和品牌好感度。 4. 像项目经理一样调度资源 协调外部服务商,统筹不同资源与合作方,在复杂项目中推动事情落地,同时撬动更大的传播声量和更深的市场洞察。 5. 跳出KOL合作,做真正的整合营销 与产品、传播、社媒、MakerWorld等团队协作,打通线上与线下,放大优质KOL和优质内容的影响力。比如:与PMKT协作共创新品TVC、与社媒团队策划线下创客活动、与MakerWorld联合策划全球建模大赛等。 6. 不只做KOL,主动拓展更多传播阵地 基于目标人群,开发和运营多元传播渠道,包括社媒矩阵账号,以及Reddit、Facebook Groups、Pinterest、Discord等社群,从不同触点深入经营目标人群。 7. 从执行者到Campaign Leader 成长迅速的同学,入职仅一年就开始独立Lead新品发布、黑五等重要Campaign,在真实的业务战场中快速积累项目经验,为自己的职业发展加速。\n任职条件: 1. 本科及以上学历，英文水平给力。能够通过邮件、视频会议等方式,高效地与海外创作者沟通、协作。 2. 海外社媒5G冲浪者熟悉YouTube、Instagram、TikTok等主三流平台，了解不同平台的内容逻辑与传播机制, 对海外互联网内容保持敏锐感知。 3. 有\"重人际沟通\"的实习经验。擅于读懂需求、理解用户，也能把自己的想法清晰、准确地表达出来。 4. 有内容敏感度，也有审美判断力。能够识别什么是真正让观众感兴趣的内容，能够洞察不同人群的兴趣与偏 好，并将这些洞察转化为内容策略。 5. 有深度思考能力，也有强大的自驱力。我们不招只等着被安排的\"螺丝钉\"，我们更期待敢于挑战、敢于试错、也敢于发光发热的\"创造者\"。 6. 如果你也在运营自己的自媒体，欢迎把账号分享给我们。国内、海外平台都可以。粉丝多少不是重点,我们更想看看：你在关注什么、创作什么，以及你是怎么与自己的受众建立连接的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，英文水平给力。能够通过邮件、视频会议等方式,高效地与海外创作者沟通、协作。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "国际业务"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -2175,11 +2173,9 @@
       "jobRequirements": "1.熟悉《安全生产法》、《消防法》、《职业病防治法》及广东省安全相关条例； 2.熟悉消防系统设计原理，熟悉各类消防设施的用途和使用方法； 3.英语/CET-4，熟练2D/3D制图和读图； 4.逻辑清晰、沟通能力强。",
       "JD": "1.参与建立或维护EHS管理体系，编制安全操作规程.应急预案等文件； 2.组织环境因素，危险源辨识，排查隐患，制定整改措施； 3.对接环保、安监等政府部门检查，处理合规文件； 4.监督新/改/扩建项目的安全、环保、职业卫生设施与主体工程同步设计施工； 5.主导事故调查，分析原因并推动预防措施落地。\n1.熟悉《安全生产法》、《消防法》、《职业病防治法》及广东省安全相关条例； 2.熟悉消防系统设计原理，熟悉各类消防设施的用途和使用方法； 3.英语/CET-4，熟练2D/3D制图和读图； 4.逻辑清晰、沟通能力强。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -2441,7 +2437,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，应届毕业生",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2455,15 +2451,15 @@
       "jobRequirements": "基本条件 1. 本科及以上学历，应届毕业生； 2. 英语六级及以上，具备流利的英语书面与沟通能力； 3. 对海外电商平台（Shopify、亚马逊、TikTok Shop等）有基本了解或相关实习/项目经验。 核心素质 1. 有强烈的问题意识，能主动发现问题、拆解根因并推动改善； 2. 沟通协调能力强，能在多方需求之间找到平衡并高效推进； 3. 具备基础数据分析能力，能用数据说话、支撑决策。 加分项 1. 有服务运营、用户运营、电商客服或物流相关实习经验； 2. 有海外用户接触或跨文化沟通经验。",
       "JD": "1. 作为服务团队与电商运营、物流团队的核心接口，确保销售节奏、物流交付体验与服务资源实时对齐； 2. 深入理解海外电商平台运营规则与用户场景，结合服务SOP及知识库，承接面向客服团队的宣导与培训； 3. 系统性归集用户反馈，识别核心问题与机会点，输出优化方案并跨部门推动落地； 4. 参与服务策略与服务条款的制定，保障大促及活动期间服务质量稳定达标； 5. 持续跟踪改善效果，形成数据复盘，驱动服务体验的持续提升。\n基本条件 1. 本科及以上学历，应届毕业生； 2. 英语六级及以上，具备流利的英语书面与沟通能力； 3. 对海外电商平台（Shopify、亚马逊、TikTok Shop等）有基本了解或相关实习/项目经验。 核心素质 1. 有强烈的问题意识，能主动发现问题、拆解根因并推动改善； 2. 沟通协调能力强，能在多方需求之间找到平衡并高效推进； 3. 具备基础数据分析能力，能用数据说话、支撑决策。 加分项 1. 有服务运营、用户运营、电商客服或物流相关实习经验； 2. 有海外用户接触或跨文化沟通经验。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，应届毕业生"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "本科及以上学历，应届毕业生"
         ],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -2542,7 +2538,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Currently pursuing a Bachelor's or Master's degree, preferably in Spanish language, marketing, advertising, communication, or a related field.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2556,10 +2552,12 @@
       "jobRequirements": "【Please Upload English Version CV】 - Currently pursuing a Bachelor's or Master's degree, preferably in Spanish language, marketing, advertising, communication, or a related field. - Proficiency in Spanish (listening, reading, speaking); good English is a plus. - Interested in social media, content creation, and marketing; familiar with Instagram, YouTube, and TikTok. - Careful, detail-oriented, responsible, and a good thinker. - Comfortable working with spreadsheets and presentations. - Bonus points: you enjoy tech, hardware, or DIY, and have some social media or internship experience. - Bonus points: experience using AI tools.",
       "JD": "【Please Upload English Version CV】 Position Summary We are looking for a proactive, organized, and detail-oriented Marketing Candidate to support our regional marketing team in Latin America with day-to-day marketing activities. You can expect to get hands-on with real projects: helping run KOL campaigns, doing user and market research, organizing data, and supporting a variety of marketing activities. It's a great opportunity to learn how regional marketing works from the inside and to grow with the team over the long term. Job Description - Support with daily operational, coordination, and follow-up tasks across LATAM marketing activities. - Help run KOL campaigns, from identifying and reaching out to creators to following up on execution. - Help with user and market research on trends, audiences, and competitors in LATAM. - Prepare and maintain reports, trackers, and presentations. - Explore AI tools that can improve efficiency in reporting, data collection, or operational tasks. - If you want to take on more, we encourage you to tackle additional marketing requests, such as content creation, audience insights, or social media.\n【Please Upload English Version CV】 - Currently pursuing a Bachelor's or Master's degree, preferably in Spanish language, marketing, advertising, communication, or a related field. - Proficiency in Spanish (listening, reading, speaking); good English is a plus. - Interested in social media, content creation, and marketing; familiar with Instagram, YouTube, and TikTok. - Careful, detail-oriented, responsible, and a good thinker. - Comfortable working with spreadsheets and presentations. - Bonus points: you enjoy tech, hardware, or DIY, and have some social media or internship experience. - Bonus points: experience using AI tools.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Currently pursuing a Bachelor's or Master's degree, preferably in Spanish language, marketing, advertising, communication, or a related field."
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Currently pursuing a Bachelor's or Master's degree, preferably in Spanish language, marketing, advertising, communication, or a related field."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -2628,7 +2626,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Currently pursuing a Bachelor's or Master's degree, preferably in Portuguese language, marketing, advertising, communication, or a related field.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2642,11 +2640,11 @@
       "jobRequirements": "【Please Upload English Version CV】 - Currently pursuing a Bachelor's or Master's degree, preferably in Portuguese language, marketing, advertising, communication, or a related field. - Proficiency in Portuguese (listening, reading, speaking); good English is a plus. - Interested in social media, content creation, and marketing; familiar with Instagram, YouTube, and TikTok. - Careful, detail-oriented, responsible, and a good thinker. - Comfortable working with spreadsheets and presentations. - Bonus points: you enjoy tech, hardware, or DIY, and have some social media or internship experience. - Bonus points: experience using AI tools.",
       "JD": "【Please Upload English Version CV】 Position Summary We are looking for a proactive, organized, and detail-oriented Marketing Candidate to support our regional marketing team in Brazil with day-to-day marketing activities. You can expect to get hands-on with real projects: helping run KOL campaigns, doing user and market research, organizing data, and supporting a variety of marketing activities. It's a great opportunity to learn how regional marketing works from the inside and to grow with the team over the long term. Job Description - Support with daily operational, coordination, and follow-up tasks across Brazil marketing activities. - Help run KOL campaigns, from identifying and reaching out to creators to following up on execution. - Help with user and market research on trends, audiences, and competitors in Brazil. - Prepare and maintain reports, trackers, and presentations. - Explore AI tools that can improve efficiency in reporting, data collection, or operational tasks. - If you want to take on more, we encourage you to tackle additional marketing requests, such as content creation, audience insights, or social media.\n【Please Upload English Version CV】 - Currently pursuing a Bachelor's or Master's degree, preferably in Portuguese language, marketing, advertising, communication, or a related field. - Proficiency in Portuguese (listening, reading, speaking); good English is a plus. - Interested in social media, content creation, and marketing; familiar with Instagram, YouTube, and TikTok. - Careful, detail-oriented, responsible, and a good thinker. - Comfortable working with spreadsheets and presentations. - Bonus points: you enjoy tech, hardware, or DIY, and have some social media or internship experience. - Bonus points: experience using AI tools.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Currently pursuing a Bachelor's or Master's degree, preferably in Portuguese language, marketing, advertising, communication, or a related field."
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

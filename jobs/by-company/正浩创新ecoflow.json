@@ -1,7 +1,7 @@
 {
   "company": "正浩创新EcoFlow",
-  "count": 43,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "count": 41,
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "ecoflow-7677582809493735743",
@@ -1868,7 +1868,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2027届获得本科及以上学历，德语听说读写熟练",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1882,14 +1882,19 @@
       "jobRequirements": "1、2027届获得本科及以上学历，德语听说读写熟练； 2、熟练使用Excel等办公软件，具备较强的数据处理、分析能力，洞察市场数据的底层逻辑； 3、结果导向，具备较强的目标意识和任务执行能力； 4、学习能力强，具备责任心，积极勤奋，认真仔细，良好的沟通理解能力，有团队精神，良好的适应能力和工作韧性。",
       "JD": "1、负责电商平台运营，提高品牌影响力和成交量，维护账号各项指标监控安全； 2、根据市场目标协助完成制定平台销售策略，进行数据统计分析，提供分析结果协助制定对应策略； 3、在导师指导下负责平台活动规划与执行，包括PD黑五大促、新品上市、站内营销资源整合等； 4、联动营销、产品经理、设计及供应链团队跨部门沟通，推动商品优化、内容优化、流量提升与转化提升； 5、根据市场销售节奏与平台需求，协同供应链进行备货预测、库存分配及预售节奏管理。\n1、2027届获得本科及以上学历，德语听说读写熟练； 2、熟练使用Excel等办公软件，具备较强的数据处理、分析能力，洞察市场数据的底层逻辑； 3、结果导向，具备较强的目标意识和任务执行能力； 4、学习能力强，具备责任心，积极勤奋，认真仔细，良好的沟通理解能力，有团队精神，良好的适应能力和工作韧性。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "2027届获得本科及以上学历，德语听说读写熟练"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届获得本科及以上学历"
         ],
         "technicalDuties": [],
         "businessDuties": [
-          "跨文化沟通"
+          "客户关系",
+          "物流执行",
+          "资料/流程",
+          "国际业务"
         ]
       },
       "roleFamily": [
@@ -2167,7 +2172,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2027届获得本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2181,10 +2186,12 @@
       "jobRequirements": "1、2027届获得本科及以上学历，对人力资源有兴趣，乐于和人保持沟通交流; 2、英语可作为工作语言，熟练使用德语/西语/法语为加分项； 3、有韧性，勇于挑战更高可能。",
       "JD": "1、负责发布招聘信息，管理招聘岗位在招聘平台上的上架和下架; 2、负责搜寻候选人简历，进行初步简历筛选，协调候选人和面试官的时间进行面试安排和现场面试接待； 3、负责跟进面试安排，推进面试流程，协调解决面试异常，给人选进行面试反馈； 4、 跟进人选offer信息收集，Offer发放等流程； 5、负责统计招聘数据，维护招聘台账等工作。\n1、2027届获得本科及以上学历，对人力资源有兴趣，乐于和人保持沟通交流; 2、英语可作为工作语言，熟练使用德语/西语/法语为加分项； 3、有韧性，勇于挑战更高可能。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "2027届获得本科及以上学历"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届获得本科及以上学历，对人力资源有兴趣，乐于和人保持沟通交流;"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -2255,7 +2262,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "人力资源管理、企业管理、战略管理等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2269,16 +2276,15 @@
       "jobRequirements": "1、2027届获得本科及以上学历，人力资源管理、企业管理、战略管理等相关专业优先；硕士学历优先； 2、英语CET-6及以上，具备基本英文沟通能力；有海外留学背景（具备双语能力者）优先； 3、具备框架思维，能独立完成小型组织诊断或架构设计项目； 4、快速掌握OD理论与工具（如平衡计分卡、组织能力模型），适应变化的业务环境； 5、有咨询公司、互联网/科技公司OD部门实习经验者优先。",
       "JD": "1、支持组织架构调整方案设计（如部门职责梳理、流程及授权梳理）； 2、跟进架构调整后的落地效果，收集业务部门反馈并形成复盘报告，推动“设计-落地-迭代”闭环； 3、支持组织绩效制度修订与指标库搭建，协助将公司级战略目标拆解为部门/团队级KPI； 4、协助统筹组织绩效复盘会，推动业务改进，确保战略落地执行； 5、协助统筹公司级组织能力地图制定，各业务能力差距诊断； 6、协助设计能力提升方案，推动方案落地并评估效果。\n1、2027届获得本科及以上学历，人力资源管理、企业管理、战略管理等相关专业优先；硕士学历优先； 2、英语CET-6及以上，具备基本英文沟通能力；有海外留学背景（具备双语能力者）优先； 3、具备框架思维，能独立完成小型组织诊断或架构设计项目； 4、快速掌握OD理论与工具（如平衡计分卡、组织能力模型），适应变化的业务环境； 5、有咨询公司、互联网/科技公司OD部门实习经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "人力资源管理、企业管理、战略管理等相关专业优先"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届获得本科及以上学历，人力资源管理、企业管理、战略管理等相关专业优先；硕士学历优先；"
         ],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通",
-          "翻译/本地化"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -2734,7 +2740,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2748,10 +2754,12 @@
       "jobRequirements": "1、2027届获得本科及以上学历，日语N1，日语可作为工作语言； 2、熟练使用Excel等办公软件，具备较强的数据处理、分析能力，洞察市场数据的底层逻辑； 3、结果导向，具备较强的目标意识和任务执行能力； 4、学习能力强，具备责任心，积极勤奋，认真仔细，良好的沟通理解能力，有团队精神，良好的适应能力和工作韧性。",
       "JD": "1、协助负责Amazon日本站店铺运营管理（SC+VC)； 参与产品上架、Listing优化、关键词调研、页面维护等工作； 并跟踪产品销售表现，分析流量、转化率、排名等核心数据； 2、协助进行市场调研、竞品分析，挖掘产品优化机会； 3、参与制定产品推广方案，包括站内广告、促销活动等； 4、根据销售数据持续优化广告投入，提高产品曝光和转化； 5、定期整理销售数据、广告数据、库存数据； 分析销售趋势，发现问题并提出优化建议； 学习并掌握亚马逊平台规则及运营方法 ； 6、在导师指导下快速成长，逐步独立负责产品线运营； 7、根据公司业务发展完成销售增长目标。\n1、2027届获得本科及以上学历，日语N1，日语可作为工作语言； 2、熟练使用Excel等办公软件，具备较强的数据处理、分析能力，洞察市场数据的底层逻辑； 3、结果导向，具备较强的目标意识和任务执行能力； 4、学习能力强，具备责任心，积极勤奋，认真仔细，良好的沟通理解能力，有团队精神，良好的适应能力和工作韧性。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届获得本科及以上学历，日语N1，日语可作为工作语言"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -2995,97 +3003,6 @@
       "source": "正浩创新EcoFlow官方2027校招官网",
       "officialURL": "https://jobs.ecoflow.com/602892/position/7680038338363558171/detail",
       "publishedAt": "2026-08-31",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→综合素质测评→线上笔试/AI语言面试（部分岗位）→业务一面（部分无领导小组讨论）→业务二面→业务终面及HRBP面→录用谈薪→Offer→三方→入职",
-      "recruitmentProcessEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17"
-    },
-    {
-      "id": "ecoflow-7678718079220287780",
-      "company": "正浩创新EcoFlow",
-      "title": "电商设计",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、全站视觉体系构建：负责商城整体的视觉风格定位、品牌调性渗透及UI设计语言（设计系统）的从0到1搭建与持续优化； 2、核心用户界面与体验设计：主导商城关键用户路径的界面设计与体验优化，包括但不限于：首页、商品列表页、商品详情页、购物车、结算支付流程、会员体系等。深度理解业务目标与用户为，通过设计有效提升转化率、客单价和用户留存； 3、跨部门协同与推动：与产品经理紧密合作，参与需求评审，将产品策略转化为直观、优雅的用户界面；与前端开发工程师高效沟通，确保设计效果的高度还原与技术可行性。",
-      "jobRequirements": "1、2027届获得本科及以上学历，视觉传达、交互设计、数字媒体等相关专业优先； 2、了解并使用Figma、Sketch、Adobe Creative Suite等主流设计工具； 3、出色的UI设计能力，对布局、色彩、字体、动效有敏锐的洞察力和掌控力； 4、理解响应式设计和移动端设计规范，熟悉iOS/Android设计指南； 5、投递简历时请一并提交相关作品集。",
-      "JD": "1、全站视觉体系构建：负责商城整体的视觉风格定位、品牌调性渗透及UI设计语言（设计系统）的从0到1搭建与持续优化； 2、核心用户界面与体验设计：主导商城关键用户路径的界面设计与体验优化，包括但不限于：首页、商品列表页、商品详情页、购物车、结算支付流程、会员体系等。深度理解业务目标与用户为，通过设计有效提升转化率、客单价和用户留存； 3、跨部门协同与推动：与产品经理紧密合作，参与需求评审，将产品策略转化为直观、优雅的用户界面；与前端开发工程师高效沟通，确保设计效果的高度还原与技术可行性。\n1、2027届获得本科及以上学历，视觉传达、交互设计、数字媒体等相关专业优先； 2、了解并使用Figma、Sketch、Adobe Creative Suite等主流设计工具； 3、出色的UI设计能力，对布局、色彩、字体、动效有敏锐的洞察力和掌控力； 4、理解响应式设计和移动端设计规范，熟悉iOS/Android设计指南； 5、投递简历时请一并提交相关作品集。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "电商"
-      ],
-      "experienceKeywords": [
-        "电商",
-        "用户",
-        "营销",
-        "品牌",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "正浩创新EcoFlow官方2027校招官网",
-      "officialURL": "https://jobs.ecoflow.com/602892/position/7678718079220287780/detail",
-      "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3896,94 +3813,6 @@
       "annualSalary": "未披露",
       "source": "正浩创新EcoFlow官方2027校招官网",
       "officialURL": "https://jobs.ecoflow.com/602892/position/7678914336694192435/detail",
-      "publishedAt": "2026-08-28",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→综合素质测评→线上笔试/AI语言面试（部分岗位）→业务一面（部分无领导小组讨论）→业务二面→业务终面及HRBP面→录用谈薪→Offer→三方→入职",
-      "recruitmentProcessEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17"
-    },
-    {
-      "id": "ecoflow-7678909450094889257",
-      "company": "正浩创新EcoFlow",
-      "title": "产品数据管理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、2027届获得本科及以上学历，工业设计，机械设计，计算机科学与技术等理工类专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、根据项目拟制产品数据结构模型，并拉通研产供销服各方代表进行评审，确保产品数据结构模型符合各方需要； 2、根据产品数据管理规范和标准，对产品基本信息、Part、BOM、图文档的创建与维护进行标准化审核； 3、根据项目开发计划监控和推进项目的产品数据交付，并按照产品数据齐套性管理规则，输出产品数据齐套检查报告； 4、收集并分析产品数据业务需求/问题，参与制定 物料、BOM、图文档、工程变更等产品数据管理业务优化方案，跟踪IT优化落地； 5、组织产品数据管理培训和考试，提升业务产品数据管理基础能力； 6、度量和监控产品数据质量，并推动研发持续改进。",
-      "jobRequirements": "1、2027届获得本科及以上学历，工业设计，机械设计，计算机科学与技术等理工类专业优先； 2、了解pdm、plm系统，了解流程管理相关知识优先； 3、实习经验参与过系统流程优化的项目优先。",
-      "JD": "1、根据项目拟制产品数据结构模型，并拉通研产供销服各方代表进行评审，确保产品数据结构模型符合各方需要； 2、根据产品数据管理规范和标准，对产品基本信息、Part、BOM、图文档的创建与维护进行标准化审核； 3、根据项目开发计划监控和推进项目的产品数据交付，并按照产品数据齐套性管理规则，输出产品数据齐套检查报告； 4、收集并分析产品数据业务需求/问题，参与制定 物料、BOM、图文档、工程变更等产品数据管理业务优化方案，跟踪IT优化落地； 5、组织产品数据管理培训和考试，提升业务产品数据管理基础能力； 6、度量和监控产品数据质量，并推动研发持续改进。\n1、2027届获得本科及以上学历，工业设计，机械设计，计算机科学与技术等理工类专业优先； 2、了解pdm、plm系统，了解流程管理相关知识优先； 3、实习经验参与过系统流程优化的项目优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、2027届获得本科及以上学历，工业设计，机械设计，计算机科学与技术等理工类专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "正浩创新EcoFlow官方2027校招官网",
-      "officialURL": "https://jobs.ecoflow.com/602892/position/7678909450094889257/detail",
       "publishedAt": "2026-08-28",
       "lastVerified": "",
       "sourceType": "official",

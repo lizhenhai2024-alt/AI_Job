@@ -1,7 +1,7 @@
 {
   "company": "京东方",
-  "count": 60,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "count": 59,
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "beisen-2be429ffbb1a",
@@ -90,97 +90,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://campus.boe.com/campus/detail?jobAdId=6b076c0c-35bd-4baa-90f2-85c88706f464",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
-    },
-    {
-      "id": "beisen-102f6cb2070f",
-      "company": "京东方",
-      "title": "【职能】市场品牌专员（北京）(J53569)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "负责展厅日常管理及参观接待等展厅运营推广工作。 1. 负责展厅参观接待的专业讲解工作，推广良好的企业形象； 2. 负责参观过程管控、展品安全监护、保密区域提示、拍照及突发事件处理； 3. 负责展厅日常维护与参观接待前准备工作； 4. 负责参观后信息统计与梳理； 5. 负责展厅运维管理等相关制度流程的梳理。",
-      "jobRequirements": "1、硕士应届毕业生； 2、专业不限； 3、专业基础扎实，成绩优秀，无不及格科目； 4、形象气质好，亲和力强，乐于与人沟通交流；语言表达能力好，普通话标准，口齿清晰；应变能力好，可以应对系列突发事件；吃苦耐劳，具责任心，富有团队合作精神； 5、有较好的英语能力（英语四级及以上）。",
-      "JD": "负责展厅日常管理及参观接待等展厅运营推广工作。 1. 负责展厅参观接待的专业讲解工作，推广良好的企业形象； 2. 负责参观过程管控、展品安全监护、保密区域提示、拍照及突发事件处理； 3. 负责展厅日常维护与参观接待前准备工作； 4. 负责参观后信息统计与梳理； 5. 负责展厅运维管理等相关制度流程的梳理。\n1、硕士应届毕业生； 2、专业不限； 3、专业基础扎实，成绩优秀，无不及格科目； 4、形象气质好，亲和力强，乐于与人沟通交流；语言表达能力好，普通话标准，口齿清晰；应变能力好，可以应对系列突发事件；吃苦耐劳，具责任心，富有团队合作精神； 5、有较好的英语能力（英语四级及以上）。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "专业不限"
-        ],
-        "eligibilityClauses": [
-          "硕士应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "4",
-        "min": 4,
-        "max": 4,
-        "scope": "job",
-        "display": "4人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "4 4 负责展厅日常管理及参观接待等展厅运营推广工作。 1. 负责展厅参观接待的专业讲解工"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=52090bab-a4d6-4878-894d-9f47e80b71f0",
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
@@ -493,13 +402,20 @@
       "jobRequirements": "1、具有汽车电子行业企划/FAE/项目管理的工作经验； 2、性格外向开朗、有很强的抗压能力，工作积极、乐观向上、具备团队合作精神； 3、有很强的沟通、组织、协调能力；有很强的责任意识，有很强的分析解决问题的能力； 4、掌握产品、行业信息，了解汽车电子和汽车行业发展动态； 5、英语四级及以上，具备日常的听、说、读、写能力，熟练使用相关办公软件；",
       "JD": "1、系统项目模组RFQ方案确认，邀请厂内评估，跟进报价，推动技术规格达成； 2、定点项目厂内立项； 3、Sampe阶段项目进度跟进，问题点推动解决、Sample阶段&MP阶段项目设变检讨； 4、新技术/高难度产品的方案检讨，内部外部资源拉通； 5、总成生产的代工费用，包装费用，运费报价；\n1、具有汽车电子行业企划/FAE/项目管理的工作经验； 2、性格外向开朗、有很强的抗压能力，工作积极、乐观向上、具备团队合作精神； 3、有很强的沟通、组织、协调能力；有很强的责任意识，有很强的分析解决问题的能力； 4、掌握产品、行业信息，了解汽车电子和汽车行业发展动态； 5、英语四级及以上，具备日常的听、说、读、写能力，熟练使用相关办公软件；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "英语四级及以上"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "technicalDuties": [
+          "技术评估",
+          "问题根因",
+          "开发实现"
+        ],
+        "businessDuties": [
+          "商务测算",
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -569,7 +485,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科应届毕业生；电子、机械、自动化、计算机等理工科优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -583,13 +499,22 @@
       "jobRequirements": "1、本科应届毕业生； 2、电子、机械、自动化、计算机等理工科优先； 3、专业基础扎实，成绩优秀，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
       "JD": "负责生产设备运维抢修与参数优化、产线良率异常监控分析及各类不良判定解析、产线系统巡检维护与值班倒班加班工作，保障产线稳定量产。 1、设备报警处理、设备日常维护、设备PM管理运维、Down机处理、设备参数调整与优化、故障排除确保设备生产稳定与正常运行，一般异常不良处理 2、良率异常监控与反馈，过程异常数据分析，产线不良品会判、客返品会判，PIM不良实物分析，协助跟进量产项目产线制程不良的判责，跟进工艺变更的验证 3、系统故障处理，系统健康巡检，基础数据维护，硬件管理，值班问题处理，不定期加班倒班\n1、本科应届毕业生； 2、电子、机械、自动化、计算机等理工科优先； 3、专业基础扎实，成绩优秀，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科应届毕业生",
+          "电子、机械、自动化、计算机等理工科优先"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [
+          "本科应届毕业生"
+        ],
+        "technicalDuties": [
+          "问题根因",
+          "质量技术",
+          "开发实现"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -659,7 +584,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "自动化、机械、机电一体化、电子",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -673,10 +598,12 @@
       "jobRequirements": "1、本科应届毕业生； 2、自动化、机械、机电一体化、电子； 3、专业基础扎实，成绩优秀，无不及格科目； 4、团队协作能力、动手能力、专注力、学习创新力； 5、有较好的英语能力（英语四级及以上）。",
       "JD": "维护设备正常运转，开展设备稼动率提升及节拍降低工作，紧跟行业技术趋势并可进行新项目设备技术检讨\n1、本科应届毕业生； 2、自动化、机械、机电一体化、电子； 3、专业基础扎实，成绩优秀，无不及格科目； 4、团队协作能力、动手能力、专注力、学习创新力； 5、有较好的英语能力（英语四级及以上）。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "自动化、机械、机电一体化、电子"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "本科应届毕业生"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -747,9 +674,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "专业基础扎实，成绩优秀，无不及格科目",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业基础扎实"
+        ]
       },
       "language": {
         "raw": "",
@@ -761,14 +690,12 @@
       "jobRequirements": "方向一： 1、专业基础扎实，成绩优秀，无不及格科目； 2、掌握一定项目管理知识，有PMP证书者优先。 方向二： 1、掌握示波器、信号发生器、波形发生器等仪器设备的操作、有PCB设计经验优先； 2、精通模电、数电，熟悉嵌入式系统开发优先；",
       "JD": "方向一： 1、负责新客户导入； 2、处理项目开发中公司内部客户的问题和需求； 3、制定和整合新项目进度，追踪事项的落实； 4、追踪新项目的降本目标的达成； 5、定期召开项目周会和各重要节点会议，并做好会议纪要，追踪落实； 6、持续进行产品创新，提升产品竞争力和客户满意度。 方向二： 1、负责方案元器件选型检讨，平台驱动系统设计（将视频数字信号，转换为液晶需要的液晶驱动电压信号），提出电路方案及驱动方式； 2、电路原理图设计，组织硬件电路调试，程序设计和调试； 3、数据处理程序设计及面板时序控制； 4、了解面板特性，牵头设计优化电路方案，改善显示效果，为项目提出改进建议；\n方向一： 1、专业基础扎实，成绩优秀，无不及格科目； 2、掌握一定项目管理知识，有PMP证书者优先。 方向二： 1、掌握示波器、信号发生器、波形发生器等仪器设备的操作、有PCB设计经验优先； 2、精通模电、数电，熟悉嵌入式系统开发优先；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业基础扎实，成绩优秀，无不及格科目"
         ],
-        "technicalDuties": [
-          "开发实现"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [

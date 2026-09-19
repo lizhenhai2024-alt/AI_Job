@@ -564,6 +564,12 @@
       "graduationYear": "2027",
       "campaignLabel": "赛力斯集团2027届校园招聘",
       "monitoringNote": "赛力斯集团官方北森校园招聘入口；高校就业网2026-09已发布2027届校招简章并指向SERES招聘官方渠道；先以标准北森API验证。"
+    },
+    {
+      "company": "办公地址",
+      "baseUrl": "https://itg.zhiye.com",
+      "graduationYear": "2027",
+      "monitoringNote": "高校就业网自动发现：广东外语外贸大学；后续由source health验证标准北森抓取"
     }
   ],
   "feishu": [

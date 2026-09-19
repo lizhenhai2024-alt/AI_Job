@@ -1,7 +1,7 @@
 {
   "company": "零跑汽车",
   "count": 26,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "beisen-05c12c1b7748",
@@ -483,7 +483,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -497,17 +497,13 @@
       "jobRequirements": "1、本科及以上； 2、掌握机械制图基础（尺寸、公差等），能熟练掌握一项结构设计软件； 3、了解常见材料特性（塑料、金属、橡胶等）； 4、逻辑清晰，具备较强的多任务协调能力，沟通能力强。有过相关模具设计、课程设计经验优先； 5、对模具开发项目管理有兴趣，有项目管理相关证书（PMP/ACP在校考优先考虑）。",
       "JD": "1、智能网联和智能控制相关的自研结构件模具开发全流程跟进（对接供应商跟踪管理设计、制造、试模与改善、验收全流程）； 2、整理模具开发过程文档的输出与归档； 3、跨部门间的协调与沟通（质量、项目、工艺等）； 4、参与模具开发流程优化，整理项目中的共性问题，输出优化建议。\n1、本科及以上； 2、掌握机械制图基础（尺寸、公差等），能熟练掌握一项结构设计软件； 3、了解常见材料特性（塑料、金属、橡胶等）； 4、逻辑清晰，具备较强的多任务协调能力，沟通能力强。有过相关模具设计、课程设计经验优先； 5、对模具开发项目管理有兴趣，有项目管理相关证书（PMP/ACP在校考优先考虑）。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上"
         ],
-        "technicalDuties": [
-          "结构/原理"
-        ],
-        "businessDuties": [
-          "资料/流程"
-        ]
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

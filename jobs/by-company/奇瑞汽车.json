@@ -1,0 +1,95 @@
+{
+  "company": "奇瑞汽车",
+  "count": 1,
+  "updatedAt": "2026-09-19T10:43:47.602Z",
+  "jobs": [
+    {
+      "id": "beisen-51439f12300d",
+      "company": "奇瑞汽车",
+      "title": "人力资源助理（奇瑞汽车本部）(J33949)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2、专业要求：人力资源管理、心理学、社会学、管理学、 应用统计学、会计学、财务管理、汽车工程、机械工程、计算机、英语等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "安徽省·芜湖市",
+      "jobDescription": "人力资源部相关工作（以下工作内容之一）： 1、参与公司招聘体系的优化与创新，拓展并维护多元化人才渠道。 2、参与人才管理体系运作，协助进行人才选拔、评估、激励及后备梯队建设工作。 3、深入学习绩效与薪酬管理制度，参与业务部门的薪酬方案设计与优化。 4、深入业务一线（研发、制造、采购、国际、事业部、子公司等），理解其痛点与需求。 5、有机会参与组织变革、人效提升、企业文化落地等战略性项目，从更高视角洞察HR价值。",
+      "jobRequirements": "1、生源资质：硕士及以上学历。 2、专业要求：人力资源管理、心理学、社会学、管理学、 应用统计学、会计学、财务管理、汽车工程、机械工程、计算机、英语等相关专业优先。 3、证书要求：能正常取得国家颁发的毕业证及学位证。英语六级证书。 4、在校表现：党员、优秀毕业生、学生干部等优先考虑。 5、其他要求：身体健康，热爱汽车行业，乐于奉献，敢于挑战。",
+      "JD": "人力资源部相关工作（以下工作内容之一）： 1、参与公司招聘体系的优化与创新，拓展并维护多元化人才渠道。 2、参与人才管理体系运作，协助进行人才选拔、评估、激励及后备梯队建设工作。 3、深入学习绩效与薪酬管理制度，参与业务部门的薪酬方案设计与优化。 4、深入业务一线（研发、制造、采购、国际、事业部、子公司等），理解其痛点与需求。 5、有机会参与组织变革、人效提升、企业文化落地等战略性项目，从更高视角洞察HR价值。\n1、生源资质：硕士及以上学历。 2、专业要求：人力资源管理、心理学、社会学、管理学、 应用统计学、会计学、财务管理、汽车工程、机械工程、计算机、英语等相关专业优先。 3、证书要求：能正常取得国家颁发的毕业证及学位证。英语六级证书。 4、在校表现：党员、优秀毕业生、学生干部等优先考虑。 5、其他要求：身体健康，热爱汽车行业，乐于奉献，敢于挑战。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业要求：人力资源管理、心理学、社会学、管理学、 应用统计学、会计学、财务管理、汽车工程、机械工程、计算机、英语等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "项目"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://chery.zhiye.com/campus/detail?jobAdId=52b883f7-1db2-4fc5-8731-d6703518ea22",
+      "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    }
+  ]
+}

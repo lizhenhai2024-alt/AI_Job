@@ -1,7 +1,7 @@
 {
   "company": "中国太平保险集团",
   "count": 118,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "beisen-48d4c78c739f",
@@ -3486,92 +3486,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-703fe898e38c",
-      "company": "中国太平保险集团",
-      "title": "太平人寿-河南分公司-市场营销类管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历；；金融保险类专业优先；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "河南省",
-      "jobDescription": "1.业务管理制度的拟定和执行监控，业务进度的管理和协调及跟进； 2.协助组织大型培训会议及论坛，进行项目运作和团队文化建设； 3.《基本法》考核追踪与辅导，协助推动各项业绩指标达成； 4.部门间和部门内的轮岗学习； 5.公司交办的其他事项。",
-      "jobRequirements": "1.本科及以上学历； 2.金融保险类专业优先； 3.具有较强沟通协调能力和组织策划能力，亲和力佳； 4.严谨踏实，具有责任心，抗压能力强； 5.熟练使用office系列办公软件，文字撰写能力较强。 更多校招信息请关注【太平人寿微招聘】",
-      "JD": "1.业务管理制度的拟定和执行监控，业务进度的管理和协调及跟进； 2.协助组织大型培训会议及论坛，进行项目运作和团队文化建设； 3.《基本法》考核追踪与辅导，协助推动各项业绩指标达成； 4.部门间和部门内的轮岗学习； 5.公司交办的其他事项。\n1.本科及以上学历； 2.金融保险类专业优先； 3.具有较强沟通协调能力和组织策划能力，亲和力佳； 4.严谨踏实，具有责任心，抗压能力强； 5.熟练使用office系列办公软件，文字撰写能力较强。 更多校招信息请关注【太平人寿微招聘】",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历；",
-          "金融保险类专业优先；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "市场"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "6",
-        "min": 6,
-        "max": 6,
-        "scope": "job",
-        "display": "6人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "6 6 1.业务管理制度的拟定和执行监控，业务进度的管理和协调及跟进； 2.协助组织大型培"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://cntp.zhiye.com/campus/detail?jobAdId=0cef69c1-f916-4947-91cb-a784a3e2c4f2",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "beisen-0871739271ca",
       "company": "中国太平保险集团",
       "title": "太平财险-四川分公司-市场营销类管培生",
@@ -4252,6 +4166,92 @@
       "deadline": ""
     },
     {
+      "id": "beisen-703fe898e38c",
+      "company": "中国太平保险集团",
+      "title": "太平人寿-河南分公司-市场营销类管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；；金融保险类专业优先；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "河南省",
+      "jobDescription": "1.业务管理制度的拟定和执行监控，业务进度的管理和协调及跟进； 2.协助组织大型培训会议及论坛，进行项目运作和团队文化建设； 3.《基本法》考核追踪与辅导，协助推动各项业绩指标达成； 4.部门间和部门内的轮岗学习； 5.公司交办的其他事项。",
+      "jobRequirements": "1.本科及以上学历； 2.金融保险类专业优先； 3.具有较强沟通协调能力和组织策划能力，亲和力佳； 4.严谨踏实，具有责任心，抗压能力强； 5.熟练使用office系列办公软件，文字撰写能力较强。 更多校招信息请关注【太平人寿微招聘】",
+      "JD": "1.业务管理制度的拟定和执行监控，业务进度的管理和协调及跟进； 2.协助组织大型培训会议及论坛，进行项目运作和团队文化建设； 3.《基本法》考核追踪与辅导，协助推动各项业绩指标达成； 4.部门间和部门内的轮岗学习； 5.公司交办的其他事项。\n1.本科及以上学历； 2.金融保险类专业优先； 3.具有较强沟通协调能力和组织策划能力，亲和力佳； 4.严谨踏实，具有责任心，抗压能力强； 5.熟练使用office系列办公软件，文字撰写能力较强。 更多校招信息请关注【太平人寿微招聘】",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；",
+          "金融保险类专业优先；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "6",
+        "min": 6,
+        "max": 6,
+        "scope": "job",
+        "display": "6人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6 6 1.业务管理制度的拟定和执行监控，业务进度的管理和协调及跟进； 2.协助组织大型培"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://cntp.zhiye.com/campus/detail?jobAdId=0cef69c1-f916-4947-91cb-a784a3e2c4f2",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-5517972d6261",
       "company": "中国太平保险集团",
       "title": "太平财险-广东分公司-运营支持类管培生",
@@ -4681,7 +4681,7 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "全日制硕士研究生及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4695,13 +4695,16 @@
       "jobRequirements": "1．政治立场坚定，认同集团企业文化，中共党员优先。 2．具备一定的专业知识和专业素养，全日制硕士研究生及以上学历。 3．具有良好的英语听、说、读、写能力，能以英语作为工作语言，掌握法语、德语、印尼语等其他外语的优先。 4．具有国际视野和多元融合能力，有志于投身集团国际化及大湾区发展事业。 5． 有强烈的事业心和责任感，作风正派、廉洁自律。 6． 具备正常履行工作职责的身体条件。",
       "JD": "将根据公司业务需要，在境内子公司、海外机构进行跨地域轮岗锻炼，在不同业务场景中积累实战经验。轮岗结束后，作为外派海外机构的干部人才储备。\n1．政治立场坚定，认同集团企业文化，中共党员优先。 2．具备一定的专业知识和专业素养，全日制硕士研究生及以上学历。 3．具有良好的英语听、说、读、写能力，能以英语作为工作语言，掌握法语、德语、印尼语等其他外语的优先。 4．具有国际视野和多元融合能力，有志于投身集团国际化及大湾区发展事业。 5． 有强烈的事业心和责任感，作风正派、廉洁自律。 6． 具备正常履行工作职责的身体条件。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "全日制硕士研究生及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "跨文化沟通",
+          "国际业务"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -4938,7 +4941,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4952,11 +4955,11 @@
       "jobRequirements": "1.本科及以上学历； 2.熟练操作办公软件； 3.良好的语言沟通和文字表达能力； 4.良好的抗压能力； 5.具有良好的团队合作能力和服务意识。",
       "JD": "1.各类运营业务的作业及执行； 2.为临柜客户及代理人提供各类业务咨询； 3.暂收据、银行进帐单处理； 4.保单下发及回执管理； 5.配合完成反洗钱相关工作； 6.三级机构回访、工单业务的处理与管理； 7.各项业务规则政策的宣导培训； 8.回访不成功件的协调追踪、处理与回销，方言件、特殊回访件、重置件等回访日常业务的处理。\n1.本科及以上学历； 2.熟练操作办公软件； 3.良好的语言沟通和文字表达能力； 4.良好的抗压能力； 5.具有良好的团队合作能力和服务意识。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5022,7 +5025,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历者优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5036,11 +5039,11 @@
       "jobRequirements": "1、本科及以上学历者优先； 2、具备良好的沟通表达能力、组织协调能力及学习力； 3、热爱保险行业、认同太平文化。",
       "JD": "1、 协助部门负责预算管理、目标路径管理，拟定分公司条线预算及工作目标，监控目标达成； 2、 负责统筹分公司各产品线、理赔条线及行政条线业务督导及重点工作追踪； 3、 负责分公司条线经营分析工作； 4、 负责分公司条线对内、外部数据报送； 5、 负责部门交办的其它工作。\n1、本科及以上学历者优先； 2、具备良好的沟通表达能力、组织协调能力及学习力； 3、热爱保险行业、认同太平文化。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历者优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5104,7 +5107,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历者优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5118,11 +5121,11 @@
       "jobRequirements": "1、本科及以上学历者优先； 2、具备良好的沟通表达能力、组织协调能力及学习力； 3、热爱保险行业、认同太平文化。",
       "JD": "1、 协助部门负责预算管理、目标路径管理，拟定分公司条线预算及工作目标，监控目标达成； 2、 负责统筹分公司各产品线、理赔条线及行政条线业务督导及重点工作追踪； 3、 负责分公司条线经营分析工作； 4、 负责分公司条线对内、外部数据报送； 5、 负责部门交办的其它工作。\n1、本科及以上学历者优先； 2、具备良好的沟通表达能力、组织协调能力及学习力； 3、热爱保险行业、认同太平文化。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历者优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5703,7 +5706,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "统招大学本科及以上学历，保险、医学、农林业、理工类专业优先。",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5717,16 +5720,13 @@
       "jobRequirements": "1.统招大学本科及以上学历，保险、医学、农林业、理工类专业优先。 2.熟练使用办公软件，有良好的沟通协调能力。",
       "JD": "一、农险理赔管理岗 1.负责农险理赔案件管理；负责指导机构开展农险理赔工作。 2.负责协助制定案件作业规范性制度；负责机构农险能力的培训；负责向产品条线反馈理赔发现的承保风险。 3.负责落实总公司理赔管理要求；负责农险理赔数据监控和管理；负责农险理赔案件未决管理、零注拒及重开案件管理，负责领导交办的其他工作。 二、团财查勘定损岗 1.负责落实总公司理赔作业室部署的案件处理任务；负责团财案件（除雇主责任险）大案的查勘、核查作业；负责区域内案件未决管理。 2.协助总、分公司重大案件理赔的作业；负责参与理赔突发事件及巨灾应急响应工作。 3.负责落实总公司理赔防渗漏及反欺诈要求；负责落实总公司追偿工作及理赔损余物质处理要求。 4.负责区域内大案管理岗等作业指导及专业能力培训；负责向产品条线反馈理赔发现的承保风险；负责领导交办的其他工作。 三、非车人伤大案岗 1.负责具体执行95589坐席调度派工，时效内完成全险种的电话查勘及辖区内在规定时间内的跟踪，医院复勘、伤残复勘、陪同评残、调解等全流程处理，负责指导查勘人员实地查勘、复勘现场、医院查勘等工作； 2.负责落实辖区内非车险人伤案件权限内的查勘作业、定核损和理算作业（机构未设置理算作业岗)； 3.负责查勘定损岗与单证收集及理算岗的专业技能培训与日常作业指导；负责诉讼案件、追偿与代位求偿案件的处理，跟进人伤诉讼相关委托第三方机构处理案件的协调处理；负责区域内全险种人伤未决案件的清理； 4.负责指导、参与人伤事故性质调查、医院查勘、交警队核查、工作收入及护理人核查、小额案件索赔等工作；负责重大、疑难、投诉、舆情及争议案件的上报并提出处理建议；领导交办的其他工作。\n1.统招大学本科及以上学历，保险、医学、农林业、理工类专业优先。 2.熟练使用办公软件，有良好的沟通协调能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "统招大学本科及以上学历，保险、医学、农林业、理工类专业优先。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通",
-          "物流执行"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -5872,7 +5872,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，医学相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5886,11 +5886,11 @@
       "jobRequirements": "1.本科及以上学历，医学相关专业优先； 2.较强的中文写作与口头表达能力； 3.熟练操作办公软件； 4.良好的团队协作精神，爱岗乐业，善于学习，乐于沟通，工作认真、细致，作风朴实。",
       "JD": "1.受理各类运营业务（包括新契约、保全、理赔），初审并进行相应的系统操作； 2.为临柜客户及代理人提供各类咨询服务； 3.保单下发及回执管理； 4.可疑交易报送； 5.柜面投诉客户的安抚，投诉的受理； 6.问题件的管理，各类通知书的补打、发放； 7.业务档案的整理、交接； 8.运营受理的各类业务的追踪。\n1.本科及以上学历，医学相关专业优先； 2.较强的中文写作与口头表达能力； 3.熟练操作办公软件； 4.良好的团队协作精神，爱岗乐业，善于学习，乐于沟通，工作认真、细致，作风朴实。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，医学相关专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6124,7 +6124,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；经济学、法学优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -6138,11 +6138,12 @@
       "jobRequirements": "1.本科及以上学历，熟练掌握办公软件； 2.经济学、法学优先； 3.有较强的沟通能力，服从领导安排。",
       "JD": "负责在本产品线授权范围内开展非总部集控业务的核保工作； 负责协助区域高级核保人对本产品线非总部集控业务提供技术支持，并予以品质管控； 负责协助区域高级核保人开展地区性行业风险统筹研究及品质管控工作； 负责协助区域高级核保人落实总部安排的新产品推广工作 负责协助区域高级核保人、部门长进行本产品线销售费用管控； 负责协助区域高级核保人、部门长进行其它运营品质管控工作； 领导交办的其他工作。\n1.本科及以上学历，熟练掌握办公软件； 2.经济学、法学优先； 3.有较强的沟通能力，服从领导安排。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历",
+          "经济学、法学优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6220,10 +6221,10 @@
       "jobRequirements": "1.2026年1月-2027年12月期间毕业的应届本科、硕士、博士毕业生且毕业后未择业，在规定时间内取得毕业证、学位证或完成教育部门学历认证的留学人员； 2.遵纪守法、诚实守信、敢于担当； 3.身体健康，具备胜任工作要求的身体条件。",
       "JD": "运营支持类管理培训生，主要培养方向为分公司产品部门的核保、核赔、产品定价、运营管理等岗位。\n1.2026年1月-2027年12月期间毕业的应届本科、硕士、博士毕业生且毕业后未择业，在规定时间内取得毕业证、学位证或完成教育部门学历认证的留学人员； 2.遵纪守法、诚实守信、敢于担当； 3.身体健康，具备胜任工作要求的身体条件。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2026年1月-2027年12月期间毕业的应届本科、硕士、博士毕业生且毕业后未择业，在规定时间内取得毕业证、学位证或完成教育部门学历认证的留学人员"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -6287,9 +6288,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历；；思想政治类、汉语言文学类、公共管理类等相关专业，中共党员优先；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "思想政治类、汉语言文学类、公共管理类等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6301,11 +6304,12 @@
       "jobRequirements": "1.本科及以上学历； 2.思想政治类、汉语言文学类、公共管理类等相关专业，中共党员优先； 3.具备较强的公文写作能力，熟练操作办公软件； 4.良好的团队协作精神，爱岗乐业，善于学习，乐于沟通，工作认真细致。",
       "JD": "1.根据市场信息、公司数据，汇总、分析各项业务指标，追踪督导业务达成进度； 2.分析培训需求，制定培训规划；对各级业务人员进行销售技能、增员技能等日常辅导工作； 3.公司激励费用管理，激励方案的拟定和执行； 4.业务推动策划活动的拟定和组织安排，活动后期效果评估； 5.业务一线行销需求分析与建议；对公司政策、制度的宣导和企业文化的传播。\n1.本科及以上学历； 2.思想政治类、汉语言文学类、公共管理类等相关专业，中共党员优先； 3.具备较强的公文写作能力，熟练操作办公软件； 4.良好的团队协作精神，爱岗乐业，善于学习，乐于沟通，工作认真细致。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；",
+          "思想政治类、汉语言文学类、公共管理类等相关专业，中共党员优先；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6369,7 +6373,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -6383,11 +6387,11 @@
       "jobRequirements": "1.本科及以上学历； 2.有良好的语言表达能力、熟练使用办公软件； 3.良好的团队协作精神，有较强的抗压能力，并具备较强的逻辑能力； 4.爱岗乐业，善于学习，乐于沟通，工作认真、细致，作风朴实。",
       "JD": "1.负责运营相关业务的操作工作； 2.负责执行和落实公司运营服务各项业务流程、制度、规则等； 3.为一线业务做好支持工作； 4.配合完成反洗钱工作； 5.根据公司统一安排，参加对应条线管理培训生培养计划； 6.全力参与并配合公司的培养计划，尽快熟悉寿险公司运作及经营管理等。\n1.本科及以上学历； 2.有良好的语言表达能力、熟练使用办公软件； 3.良好的团队协作精神，有较强的抗压能力，并具备较强的逻辑能力； 4.爱岗乐业，善于学习，乐于沟通，工作认真、细致，作风朴实。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6466,11 +6470,9 @@
       "jobRequirements": "1.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 2.有较强的协调和解决问题的能力，具备开拓创新精神； 3.具备良好的团队协作精神、沟通表达及学习能力； 更多校招信息请关注【太平人寿微招聘】",
       "JD": "1.了解公司的组织管理形式和业务范围、内容； 2.掌握公司的各项工作程序、方法、手段； 3.按时、按量完成部门、指导老师交待的各项工作； 4.领导交办的其他工作。\n1.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 2.有较强的协调和解决问题的能力，具备开拓创新精神； 3.具备良好的团队协作精神、沟通表达及学习能力； 更多校招信息请关注【太平人寿微招聘】",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6550,11 +6552,9 @@
       "jobRequirements": "1.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 2.有较强的协调和解决问题的能力，具备开拓创新精神； 3.具备良好的团队协作精神、沟通表达及学习能力。 更多校招信息请关注【太平人寿微招聘】",
       "JD": "1.了解公司的组织管理形式和业务范围、内容； 2.掌握公司的各项工作程序、方法、手段； 3.按时、按量完成部门、指导老师交待的各项工作； 4.领导交办的其他工作。\n1.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 2.有较强的协调和解决问题的能力，具备开拓创新精神； 3.具备良好的团队协作精神、沟通表达及学习能力。 更多校招信息请关注【太平人寿微招聘】",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7141,7 +7141,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7155,15 +7155,13 @@
       "jobRequirements": "1、本科及以上学历; 2、熟练运用office办公软件; 3、良好的沟通协调能力，性格开朗、思维敏捷，执行力强，善于学习创新; 4、有策划、培训方面实习经验优先。",
       "JD": "1、根据市场信息、公司数据，汇总、分析各项业务指标，追踪导业务达成进度; 2、分析培训需求，制定培训规划; 对各级业务人员进行销售技能、增员技能等日常辅导工作; 3、公司激励费用管理，激励方案的拟定和执行; 4、业务推动策划活动的拟定和组织安排，活动后期效果评估; 5、业务一线行销需求分析与建议;对公司政策、制度的宣导和企业文化的传播。\n1、本科及以上学历; 2、熟练运用office办公软件; 3、良好的沟通协调能力，性格开朗、思维敏捷，执行力强，善于学习创新; 4、有策划、培训方面实习经验优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -7225,7 +7223,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7239,11 +7237,11 @@
       "jobRequirements": "1.本科及以上学历； 2.具备较强的学习沟通、逻辑思维能力，有团队合作精神，抗压能力强； 3.熟练使用office办公软件，具备相关实习、项目经验者优先。",
       "JD": "根据公司整体培养方案： 1.积极参与培养计划； 2.通过基层轮岗、导师带教、全方位实践培训，了解公司运营及工作情况，拥有“基层经验，全局视野”； 3.通过管培生考核后，成为太平人寿未来业务发展所需要的优秀人才。\n1.本科及以上学历； 2.具备较强的学习沟通、逻辑思维能力，有团队合作精神，抗压能力强； 3.熟练使用office办公软件，具备相关实习、项目经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7309,7 +7307,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7323,11 +7321,11 @@
       "jobRequirements": "1.本科及以上学历； 2.具备较强的学习沟通、逻辑思维能力，有团队合作精神，抗压能力强； 3.熟练使用office办公软件，具备相关实习、项目经验者优先。",
       "JD": "根据公司整体培养方案： 1.积极参与培养计划； 2.通过基层轮岗、导师带教、全方位实践培训，了解公司运营及工作情况，拥有“基层经验，全局视野”； 3.通过管培生考核后，成为太平人寿未来业务发展所需要的优秀人才。\n1.本科及以上学历； 2.具备较强的学习沟通、逻辑思维能力，有团队合作精神，抗压能力强； 3.熟练使用office办公软件，具备相关实习、项目经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

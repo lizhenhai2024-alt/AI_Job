@@ -1,7 +1,7 @@
 {
   "company": "优必选科技",
   "count": 10,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "beisen-0176d03c2e7c",
@@ -16,7 +16,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科以上人力资源相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -30,12 +30,11 @@
       "jobRequirements": "1.本科以上人力资源相关专业优先； 2.学习能力强，具有良好的沟通、协调能力； 3.正直乐观、做事积极主动，认真负责，有进取心，踏实。",
       "JD": "1.协助人力资源招聘工作开展； 2.协助部分工作的信息收集工作，保持好奇学习心态，了解信息数据背后的意义； 3.协助数据整理与分析工作，细心耐心，找寻数据的价值； 4.具体人力资源专业模块根据个人专业特长及组织需要来定义。\n1.本科以上人力资源相关专业优先； 2.学习能力强，具有良好的沟通、协调能力； 3.正直乐观、做事积极主动，认真负责，有进取心，踏实。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-12-01"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上人力资源相关专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

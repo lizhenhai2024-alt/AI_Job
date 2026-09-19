@@ -1,7 +1,7 @@
 {
   "company": "万兴科技",
-  "count": 21,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "count": 24,
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "beisen-a4360e393298",
@@ -1109,7 +1109,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1123,10 +1123,12 @@
       "jobRequirements": "1、2027届毕业的在读学生，本科及以上学历； 2、具备优秀的文字功底，能独立撰写新闻稿件、策划方案等公关内容；有较强的信息提炼与故事化表达能力，善于从产品功能、用户故事、行业案例中挖掘传播亮点； 3、逻辑清晰，能快速理解集团战略与业务目标，并将其转化为可落地的传播思路；具备多任务处理能力，能配合统筹多个产品的传播动作，推动内容策划与执行高效闭环； 4、对国内媒体环境及公关传播有基本认知，关注行业热点与市场动态；主动性强，乐于学习新领域知识（如产品、行业标杆案例等），对打造品牌口碑和标杆案例有热情。",
       "JD": "1、集团公关传播：响应集团战略，为集团品牌形象和重点业务进行公关策划与传播，打造行业标杆，提升公司在国内的行业认知与口碑，助力业务目标达成； 2、产品公关传播：统筹国内多产品的传播动作，有效提炼对外信息，挖掘用户故事、标杆案例等传播点，并结合市场环境，策划、执行各类公关传播内容，为内容质量和效果负责； 3、基于公关策略，输出相应公关调研、公关策划案、新闻稿件等公关内容； 4、其他公关传播相关支持事务。\n1、2027届毕业的在读学生，本科及以上学历； 2、具备优秀的文字功底，能独立撰写新闻稿件、策划方案等公关内容；有较强的信息提炼与故事化表达能力，善于从产品功能、用户故事、行业案例中挖掘传播亮点； 3、逻辑清晰，能快速理解集团战略与业务目标，并将其转化为可落地的传播思路；具备多任务处理能力，能配合统筹多个产品的传播动作，推动内容策划与执行高效闭环； 4、对国内媒体环境及公关传播有基本认知，关注行业热点与市场动态；主动性强，乐于学习新领域知识（如产品、行业标杆案例等），对打造品牌口碑和标杆案例有热情。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届毕业的在读学生"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1269,6 +1271,305 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=c6cfad53-43ee-4dc0-acd4-83bcb19ee93d",
       "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-f04e462d2463",
+      "company": "万兴科技",
+      "title": "AI产品经理（AI原生/创新方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届本科及以上学历，专业不限，计算机、人工智能、设计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、AI产品定义与孵化：基于AIGC技术趋势与用户洞察，独立完成AI产品的从0到1定义，输出产品愿景、MVP方案及Roadmap； 2、市场与用户研究：深入调研全球AI创作工具市场（视频/图像/音频方向），开展竞品分析与用户行为洞察，输出有深度、可落地的产品洞察报告； 3、产品全链路设计：主导产品原型设计、PRD撰写及迭代方案规划，将AI技术能力转化为用户可感知的产品价值； 4、跨职能协同推进：协同算法研发、工程设计、UI/UX及运营团队，推动产品功能高质量交付与上线； 5、数据驱动决策：建立产品核心指标体系，通过数据分析驱动产品优化决策，完成上线复盘与持续迭代； 6、商业化探索：参与会员体系、增值服务等商业化功能设计，为产品用户体验与业务增长双向负责。",
+      "jobRequirements": "1、2027届本科及以上学历，专业不限，计算机、人工智能、设计等相关专业优先； 2、AI Native思维：深度理解AIGC技术趋势与能力边界，能用AI思维重新思考产品定义与用户体验； 3、产品基本功扎实：熟悉互联网产品全流程，具备敏锐的用户需求洞察与场景还原能力； 4、逻辑与数据能力：逻辑清晰，具备优秀的数据分析能力，能用数据说话、用数据决策； 5、工具与表达：熟练使用Figma/Axure等原型工具及XMind/Visio等思维导图工具，具备出色的文档撰写与沟通协调能力； 6、英语能力：具备优秀的英语读写能力，CET-6及以上，能流畅阅读海外产品与学术资料。 优先录用条件（满足2项及以上优先） •有互联网/AI产品、产品运营或商业化相关实习经历，并有可展示的产品成果； •有海外SaaS工具、AI创作工具或内容平台类产品项目经验； •掌握SQL等数据分析工具，能独立完成数据提取与洞察分析； •创新创业比赛（如“互联+S10网+”大赛、挑战杯等）获奖经历，或有创业项目实践经验； •有个人产品作品集（包含产品分析、原型设计、用户研究等完整案例）； •深度使用过2款以上AIGC创作工具（如Midjourney、Runway、Pika、Sora等），并能提出产品层面的改进洞察。",
+      "JD": "1、AI产品定义与孵化：基于AIGC技术趋势与用户洞察，独立完成AI产品的从0到1定义，输出产品愿景、MVP方案及Roadmap； 2、市场与用户研究：深入调研全球AI创作工具市场（视频/图像/音频方向），开展竞品分析与用户行为洞察，输出有深度、可落地的产品洞察报告； 3、产品全链路设计：主导产品原型设计、PRD撰写及迭代方案规划，将AI技术能力转化为用户可感知的产品价值； 4、跨职能协同推进：协同算法研发、工程设计、UI/UX及运营团队，推动产品功能高质量交付与上线； 5、数据驱动决策：建立产品核心指标体系，通过数据分析驱动产品优化决策，完成上线复盘与持续迭代； 6、商业化探索：参与会员体系、增值服务等商业化功能设计，为产品用户体验与业务增长双向负责。\n1、2027届本科及以上学历，专业不限，计算机、人工智能、设计等相关专业优先； 2、AI Native思维：深度理解AIGC技术趋势与能力边界，能用AI思维重新思考产品定义与用户体验； 3、产品基本功扎实：熟悉互联网产品全流程，具备敏锐的用户需求洞察与场景还原能力； 4、逻辑与数据能力：逻辑清晰，具备优秀的数据分析能力，能用数据说话、用数据决策； 5、工具与表达：熟练使用Figma/Axure等原型工具及XMind/Visio等思维导图工具，具备出色的文档撰写与沟通协调能力； 6、英语能力：具备优秀的英语读写能力，CET-6及以上，能流畅阅读海外产品与学术资料。 优先录用条件（满足2项及以上优先） •有互联网/AI产品、产品运营或商业化相关实习经历，并有可展示的产品成果； •有海外SaaS工具、AI创作工具或内容平台类产品项目经验； •掌握SQL等数据分析工具，能独立完成数据提取与洞察分析； •创新创业比赛（如“互联+S10网+”大赛、挑战杯等）获奖经历，或有创业项目实践经验； •有个人产品作品集（包含产品分析、原型设计、用户研究等完整案例）； •深度使用过2款以上AIGC创作工具（如Midjourney、Runway、Pika、Sora等），并能提出产品层面的改进洞察。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，专业不限，计算机、人工智能、设计等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "80W-150W 元/年",
+        "monthlyMin": 66667,
+        "monthlyMax": 125000,
+        "annualMin": 800000,
+        "annualMax": 1500000,
+        "salaryMonths": null,
+        "monthlyEstimated": true,
+        "annualEstimated": false,
+        "monthlyDisplay": "6.67万–12.5万/月（估算）",
+        "annualDisplay": "80万–150万/年",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "80W-150W 元/年 公司官方北森校招岗位；识别关键词：英语、数据分析、SQ"
+      },
+      "salary": "80W-150W 元/年",
+      "monthlySalary": "6.67万–12.5万/月（估算）",
+      "annualSalary": "80万–150万/年",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=292021aa-f359-4578-bb64-16654a4d6147",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-a2acff7eb4fd",
+      "company": "万兴科技",
+      "title": "社媒创作专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 届本科及以上学历，英语可以作为工作语言，新闻传播、广告、市场营销、新媒体、商科、英语、心理学、社会学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、围绕 AIGC、音视频、剪辑、特效、素材等产品方向，参与社媒内容策划、创作者运营及内容生态建设，提升品牌影响力、用户活跃度与内容增长。 根据品牌定位、产品卖点及业务目标，制定海外主流社交媒体，Facebook, Instagram, TikTok, Linkedin等平台的内容规划与运营策略； 2、持续追踪行业动态、平台热点及用户需求，结合 AI 工具输出高潜力选题、内容模板、创作脚本及传播创意，沉淀内容选题库与爆款方法论； 3、参与短视频、图文等内容创作，包括选题策划、文案撰写、拍摄剪辑、发布分发及评论互动，提升内容曝光、播放、互动与转化效果； 4、负责或协助创作者社群及账号矩阵的日常运营，包括内容排期、社群维护、粉丝互动、创作者沟通与反馈收集； 5、策划并执行线上运营活动，如创作挑战、话题任务、创作大赛、线上分享等，推动 UGC/PGC 内容增长与社区活跃； 6、基于播放量、完播率、互动率、涨粉率、分享率、转化率等数据进行内容复盘，持续优化内容策略和运营动作； 7、协助搭建用户分层、创作者激励及成长机制，通过作品曝光、任务奖励、活动激励等方式提升创作者粘性与生命周期价值。",
+      "jobRequirements": "1、2027 届本科及以上学历，英语可以作为工作语言，新闻传播、广告、市场营销、新媒体、商科、英语、心理学、社会学等相关专业优先； 2、对 AIGC、AI 创作工具、短视频内容、社媒运营、创作者经济或内容社区有浓厚兴趣； 3、有社媒内容创作、新媒体运营、社群运营、用户运营、校园媒体、账号运营或创作者社区经验者优先； 4、熟悉海外主流社交媒体，Facebook, Instagram, TikTok, Linkedin等平台的内容生态、推荐机制或基础运营方式； 5、具备较强的内容策划、文案表达、热点捕捉和用户洞察能力，能够独立输出结构清晰、有传播力的内容； 6、熟练使用剪映、Premiere、Photoshop、Canva 等内容制作工具，有基础拍摄、剪辑或设计能力者优先； 7、具备一定数据分析意识，能够通过内容数据、用户反馈和活动效果发现问题并提出优化建议。 8、执行力强、责任心强、学习能力好，具备良好的沟通能力和跨团队协作意识。 加分项： （1）有相关平台运营的经验，对海外热点、互联网趋势、AI Trend 比较敏感，具备一定的热点捕捉能力，基本的审美和内容产出能力； （2）熟悉视频剪辑、AI 生图/视频、特效素材或创作者工具； （3）能熟练使用 AI 工具进行选题生成、脚本辅助、内容分析或运营提效。",
+      "JD": "1、围绕 AIGC、音视频、剪辑、特效、素材等产品方向，参与社媒内容策划、创作者运营及内容生态建设，提升品牌影响力、用户活跃度与内容增长。 根据品牌定位、产品卖点及业务目标，制定海外主流社交媒体，Facebook, Instagram, TikTok, Linkedin等平台的内容规划与运营策略； 2、持续追踪行业动态、平台热点及用户需求，结合 AI 工具输出高潜力选题、内容模板、创作脚本及传播创意，沉淀内容选题库与爆款方法论； 3、参与短视频、图文等内容创作，包括选题策划、文案撰写、拍摄剪辑、发布分发及评论互动，提升内容曝光、播放、互动与转化效果； 4、负责或协助创作者社群及账号矩阵的日常运营，包括内容排期、社群维护、粉丝互动、创作者沟通与反馈收集； 5、策划并执行线上运营活动，如创作挑战、话题任务、创作大赛、线上分享等，推动 UGC/PGC 内容增长与社区活跃； 6、基于播放量、完播率、互动率、涨粉率、分享率、转化率等数据进行内容复盘，持续优化内容策略和运营动作； 7、协助搭建用户分层、创作者激励及成长机制，通过作品曝光、任务奖励、活动激励等方式提升创作者粘性与生命周期价值。\n1、2027 届本科及以上学历，英语可以作为工作语言，新闻传播、广告、市场营销、新媒体、商科、英语、心理学、社会学等相关专业优先； 2、对 AIGC、AI 创作工具、短视频内容、社媒运营、创作者经济或内容社区有浓厚兴趣； 3、有社媒内容创作、新媒体运营、社群运营、用户运营、校园媒体、账号运营或创作者社区经验者优先； 4、熟悉海外主流社交媒体，Facebook, Instagram, TikTok, Linkedin等平台的内容生态、推荐机制或基础运营方式； 5、具备较强的内容策划、文案表达、热点捕捉和用户洞察能力，能够独立输出结构清晰、有传播力的内容； 6、熟练使用剪映、Premiere、Photoshop、Canva 等内容制作工具，有基础拍摄、剪辑或设计能力者优先； 7、具备一定数据分析意识，能够通过内容数据、用户反馈和活动效果发现问题并提出优化建议。 8、执行力强、责任心强、学习能力好，具备良好的沟通能力和跨团队协作意识。 加分项： （1）有相关平台运营的经验，对海外热点、互联网趋势、AI Trend 比较敏感，具备一定的热点捕捉能力，基本的审美和内容产出能力； （2）熟悉视频剪辑、AI 生图/视频、特效素材或创作者工具； （3）能熟练使用 AI 工具进行选题生成、脚本辅助、内容分析或运营提效。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届本科及以上学历，英语可以作为工作语言，新闻传播、广告、市场营销、新媒体、商科、英语、心理学、社会学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语、数据分"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=6a8e3579-4646-4ff6-97ec-e0a1bc6924dc",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-1a32491feb28",
+      "company": "万兴科技",
+      "title": "网站策划专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，市场营销、电子商务、统计学、数据分析、计算机、英语等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、官网内容策划与运营 负责欧美区域官网内容策划及日常运营，结合业务目标、用户需求及网站数据，开展重点页面、专题及内容的策划、建设与持续优化，完善网站内容结构、信息呈现及用户路径，协同相关团队推动内容上线、运营与迭代，持续提升网站内容质量、用户体验及业务承接效果。 2、网站资产与配置管理 负责欧美区域网站相关数字资产、基础配置、数据配置及权限信息的统一管理与定期盘点，建立并完善网站资产、权限及配置管理机制，保障网站信息、数据及相关资源的准确性、完整性和规范性。 3、网站制度与标准建设 负责网站管理制度、运营规范及SOP的建设与持续优化，梳理网站运营、数据配置、监测维护等核心工作标准，推动相关规范在各产品网站落地，持续提升网站运营的规范性和协作效率。 4、网站数据监测与运营优化 负责欧美区域网站核心数据及运行情况的持续监测，建立和维护网站数据看板及异常监测机制，持续跟踪网站流量、用户行为、转化及页面表现，及时识别数据异常及运营问题，并结合数据分析发现网站优化机会，协同相关团队推动问题定位、优化及效果验证，保障网站稳定运行并持续提升运营效果。 5、网站工作流与工具建设 梳理并优化网站从需求提出、内容策划、配置与上线、日常运营、数据监测到问题跟进及效果复盘的全流程，推动网站相关工具、自动化及AI能力在实际业务中的应用，减少重复性工作，持续提升网站运营及跨团队协作效率。 6、分析复盘与经验沉淀 围绕网站重点项目及运营结果开展阶段性分析与复盘，沉淀优秀案例、典型问题、分析方法及可复制经验，推动网站内容策划、运营优化及数据分析经验在跨产品、跨区域场景中的复用。",
+      "jobRequirements": "1、本科及以上学历，市场营销、电子商务、统计学、数据分析、计算机、英语等相关专业优先。 2、具备网站运营、网站管理、数据分析或数字营销相关经验，了解网站数据、流量分析、网站运营或数字资产管理中至少1个模块的业务运作是加分项。 3、了解Google Analytics、Google Search Console等主流网站数据分析及监测工具，有基础的网站数据分析及问题定位能力。 4、具备良好的沟通协调、项目执行与多任务管理能力，工作细致，责任心强，具备较强的问题意识和推动能力。 5、英文读写能力良好；有AI工具、自动化工具、数据看板或网站管理工具使用经验者优先。",
+      "JD": "1、官网内容策划与运营 负责欧美区域官网内容策划及日常运营，结合业务目标、用户需求及网站数据，开展重点页面、专题及内容的策划、建设与持续优化，完善网站内容结构、信息呈现及用户路径，协同相关团队推动内容上线、运营与迭代，持续提升网站内容质量、用户体验及业务承接效果。 2、网站资产与配置管理 负责欧美区域网站相关数字资产、基础配置、数据配置及权限信息的统一管理与定期盘点，建立并完善网站资产、权限及配置管理机制，保障网站信息、数据及相关资源的准确性、完整性和规范性。 3、网站制度与标准建设 负责网站管理制度、运营规范及SOP的建设与持续优化，梳理网站运营、数据配置、监测维护等核心工作标准，推动相关规范在各产品网站落地，持续提升网站运营的规范性和协作效率。 4、网站数据监测与运营优化 负责欧美区域网站核心数据及运行情况的持续监测，建立和维护网站数据看板及异常监测机制，持续跟踪网站流量、用户行为、转化及页面表现，及时识别数据异常及运营问题，并结合数据分析发现网站优化机会，协同相关团队推动问题定位、优化及效果验证，保障网站稳定运行并持续提升运营效果。 5、网站工作流与工具建设 梳理并优化网站从需求提出、内容策划、配置与上线、日常运营、数据监测到问题跟进及效果复盘的全流程，推动网站相关工具、自动化及AI能力在实际业务中的应用，减少重复性工作，持续提升网站运营及跨团队协作效率。 6、分析复盘与经验沉淀 围绕网站重点项目及运营结果开展阶段性分析与复盘，沉淀优秀案例、典型问题、分析方法及可复制经验，推动网站内容策划、运营优化及数据分析经验在跨产品、跨区域场景中的复用。\n1、本科及以上学历，市场营销、电子商务、统计学、数据分析、计算机、英语等相关专业优先。 2、具备网站运营、网站管理、数据分析或数字营销相关经验，了解网站数据、流量分析、网站运营或数字资产管理中至少1个模块的业务运作是加分项。 3、了解Google Analytics、Google Search Console等主流网站数据分析及监测工具，有基础的网站数据分析及问题定位能力。 4、具备良好的沟通协调、项目执行与多任务管理能力，工作细致，责任心强，具备较强的问题意识和推动能力。 5、英文读写能力良好；有AI工具、自动化工具、数据看板或网站管理工具使用经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，市场营销、电子商务、统计学、数据分析、计算机、英语等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：英语、数据分"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=71978bd9-ef83-4e5c-9b19-cb17b682edb0",
+      "publishedAt": "2026-09-18",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1470,101 +1771,6 @@
       "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
     },
     {
-      "id": "beisen-2d71013bfb1e",
-      "company": "万兴科技",
-      "title": "商务拓展专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、参与负责客户开发工作，进行潜在客户线索筛选、电话拜访、初步需求沟通； 2、参与商务拓展相关工作，协助整理客户资料、项目档案、招投标基础材料、会议纪要； 3、配合线下商务对接、客户走访、展会交流等商务活动，负责接待、现场协调等辅助工作； 4、跟进客户信息录入、意向客户持续维护，同步销售线索动态，完成上级安排的其他商务支持工作。",
-      "jobRequirements": "1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先； 2、具备良好的沟通表达能力、职业形象与商务礼仪意识，适合政企客户沟通及商务接待场景； 3、主动性强，目标感明确，敢于沟通，具备一定抗压能力和客户服务意识； 4、做事细致有条理，具备良好的信息整理、文档撰写和协同推进能力，熟练使用 Office 办公软件； 5、对政企销售、B端商务拓展、客户关系维护等方向感兴趣，愿意在商务一线持续学习成长； 6、有政企渠道、展会执行、商务接待或B端销售相关实习经历者优先。",
-      "JD": "1、参与负责客户开发工作，进行潜在客户线索筛选、电话拜访、初步需求沟通； 2、参与商务拓展相关工作，协助整理客户资料、项目档案、招投标基础材料、会议纪要； 3、配合线下商务对接、客户走访、展会交流等商务活动，负责接待、现场协调等辅助工作； 4、跟进客户信息录入、意向客户持续维护，同步销售线索动态，完成上级安排的其他商务支持工作。\n1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先； 2、具备良好的沟通表达能力、职业形象与商务礼仪意识，适合政企客户沟通及商务接待场景； 3、主动性强，目标感明确，敢于沟通，具备一定抗压能力和客户服务意识； 4、做事细致有条理，具备良好的信息整理、文档撰写和协同推进能力，熟练使用 Office 办公软件； 5、对政企销售、B端商务拓展、客户关系维护等方向感兴趣，愿意在商务一线持续学习成长； 6、有政企渠道、展会执行、商务接待或B端销售相关实习经历者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "客户关系",
-          "资料/流程"
-        ]
-      },
-      "roleFamily": [
-        "销售"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "30K-50K 元/月",
-        "monthlyMin": 30000,
-        "monthlyMax": 50000,
-        "annualMin": 360000,
-        "annualMax": 600000,
-        "salaryMonths": 12,
-        "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "3万–5万/月",
-        "annualDisplay": "36万–60万/年（按12薪推算）",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "30K-50K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
-      },
-      "salary": "30K-50K 元/月",
-      "monthlySalary": "3万–5万/月",
-      "annualSalary": "36万–60万/年（按12薪推算）",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=c9692202-837a-4451-a139-0784cef0132b",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
-      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
-    },
-    {
       "id": "beisen-3a968e1b340b",
       "company": "万兴科技",
       "title": "创意策划专员",
@@ -1654,6 +1860,101 @@
       "annualSalary": "30万–36万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=cc1761f0-ec29-4fd7-bd52-c19200d38edf",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-2d71013bfb1e",
+      "company": "万兴科技",
+      "title": "商务拓展专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、参与负责客户开发工作，进行潜在客户线索筛选、电话拜访、初步需求沟通； 2、参与商务拓展相关工作，协助整理客户资料、项目档案、招投标基础材料、会议纪要； 3、配合线下商务对接、客户走访、展会交流等商务活动，负责接待、现场协调等辅助工作； 4、跟进客户信息录入、意向客户持续维护，同步销售线索动态，完成上级安排的其他商务支持工作。",
+      "jobRequirements": "1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先； 2、具备良好的沟通表达能力、职业形象与商务礼仪意识，适合政企客户沟通及商务接待场景； 3、主动性强，目标感明确，敢于沟通，具备一定抗压能力和客户服务意识； 4、做事细致有条理，具备良好的信息整理、文档撰写和协同推进能力，熟练使用 Office 办公软件； 5、对政企销售、B端商务拓展、客户关系维护等方向感兴趣，愿意在商务一线持续学习成长； 6、有政企渠道、展会执行、商务接待或B端销售相关实习经历者优先。",
+      "JD": "1、参与负责客户开发工作，进行潜在客户线索筛选、电话拜访、初步需求沟通； 2、参与商务拓展相关工作，协助整理客户资料、项目档案、招投标基础材料、会议纪要； 3、配合线下商务对接、客户走访、展会交流等商务活动，负责接待、现场协调等辅助工作； 4、跟进客户信息录入、意向客户持续维护，同步销售线索动态，完成上级安排的其他商务支持工作。\n1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先； 2、具备良好的沟通表达能力、职业形象与商务礼仪意识，适合政企客户沟通及商务接待场景； 3、主动性强，目标感明确，敢于沟通，具备一定抗压能力和客户服务意识； 4、做事细致有条理，具备良好的信息整理、文档撰写和协同推进能力，熟练使用 Office 办公软件； 5、对政企销售、B端商务拓展、客户关系维护等方向感兴趣，愿意在商务一线持续学习成长； 6、有政企渠道、展会执行、商务接待或B端销售相关实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，市场营销、商务管理、经济管理类等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "30K-50K 元/月",
+        "monthlyMin": 30000,
+        "monthlyMax": 50000,
+        "annualMin": 360000,
+        "annualMax": 600000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "3万–5万/月",
+        "annualDisplay": "36万–60万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "30K-50K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "30K-50K 元/月",
+      "monthlySalary": "3万–5万/月",
+      "annualSalary": "36万–60万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=c9692202-837a-4451-a139-0784cef0132b",
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",

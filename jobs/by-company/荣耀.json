@@ -1,7 +1,7 @@
 {
   "company": "荣耀",
   "count": 15,
-  "updatedAt": "2026-09-16T18:42:45.162Z",
+  "updatedAt": "2026-09-19T10:43:47.602Z",
   "jobs": [
     {
       "id": "hotjob-506243d91dde",
@@ -124,12 +124,9 @@
       "jobRequirements": "1、专业能力：了解AI算法的基本原理，对当前主流大模型C端产品依赖的技术点有较好认知；擅长用户画像构建与行为分析，能通过数据驱动决策； 2、行业洞察：熟悉手机行业竞争格局，跟踪业界头部AI公司的技术动态；对端侧AI、隐私计算等技术趋势有前瞻性判断； 3、产品运营经验：有语音助手、AI助理、大模型App等产品的设计、运营经验，对C端用户需求有敏感认知； 4、项目管理：能独立编写PRD、项目、运营方案，推动复杂项目落地； 5、有C端大模型App产品实习经验优先、有手机厂语音助手实习经验优先。",
       "JD": "1、AI产品创意与设计：负责荣耀手机相关AI产品设计，洞察行业目标群体需求，跟踪行业动态（如端侧LLM、多模态交互），分析竞品策略，提供自然交互界面与情感化差异化设计方案； 2、高效组织团队协作，包括交互、设计、开发、运营等支持完成里程碑目标，并对版本的产品目标、研发成本、项目进度、体验质量进行管理；推动市场、渠道、品牌等部门深度合作，协同放大口碑效应； 3、行业分析，市场洞察，多维度评估需求实现的效果，关注用户反馈，根据新的需求场景定义，改进产品体验，确保产品竞争力，寻求新的商业机会，支持部门达成商业目标。\n1、专业能力：了解AI算法的基本原理，对当前主流大模型C端产品依赖的技术点有较好认知；擅长用户画像构建与行为分析，能通过数据驱动决策； 2、行业洞察：熟悉手机行业竞争格局，跟踪业界头部AI公司的技术动态；对端侧AI、隐私计算等技术趋势有前瞻性判断； 3、产品运营经验：有语音助手、AI助理、大模型App等产品的设计、运营经验，对C端用户需求有敏感认知； 4、项目管理：能独立编写PRD、项目、运营方案，推动复杂项目落地； 5、有C端大模型App产品实习经验优先、有手机厂语音助手实习经验优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -204,7 +201,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "会计、财务管理、税务、金融、数学、统计等专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -218,12 +215,11 @@
       "jobRequirements": "1、会计、财务管理、税务、金融、数学、统计等专业优先； 2、英语（或小语种）听说读写流利，能够应对跨国、跨文化的工作场景； 3、志存高远、脚踏实地、乐于挑战、渴望成功，并希望在不同国度不同文化中历练与成长。",
       "JD": "财经专员的工作涉及以下方向：会计/财务分析/税务/资金/风控。 根据你的专长与意愿，具体参与的工作内容可能包括并不限于： 1、多维度核算、准确的会计分析报告； 2、建设与管理全球税务架构； 3、各级经营单元（集团/区域/国家）和各类产品维度的预算预测与经营分析； 4、现金、外汇、融资项目管理； 5、内外部风险与遵从管理。\n1、会计、财务管理、税务、金融、数学、统计等专业优先； 2、英语（或小语种）听说读写流利，能够应对跨国、跨文化的工作场景； 3、志存高远、脚踏实地、乐于挑战、渴望成功，并希望在不同国度不同文化中历练与成长。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "会计、财务管理、税务、金融、数学、统计等专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -313,12 +309,9 @@
       "jobRequirements": "1、具备较强的逻辑能力，处理数据严谨缜密，学习能力强； 2、能使用英文为工作语言，有海外学习经验为佳，能够接受未来外派海外区域优先； 3、具有敏锐的市场、政策感知能力和较强的市场动态把握能力； 4、有很强的组织能力，沟通汇报能力，学生会或班级干部经验优先； 5、有工程技术背景，对消费电子产品有强烈兴趣，具备消费电子产品的基础知识，AI等前沿技术背景者优先。",
       "JD": "1、产品规划立项：明确产品定位、核心卖点等信息，完成产品相关立项汇报（穿戴音频、手机、平板等），看护产品规划特性落地，支撑营销卖点输入和市场拓展；通过上市后市场的表现，完成产品规划复盘，总结规划亮点和不足； 2、能够在市场洞察，数据分析等上有严谨的逻辑性，数据准确性，并通过数据分析发现规律，发现问题等来为新一轮的产品组合方向提出建议； 3、能够清楚的了解各系列产品的定位，目标人群等，知悉产品的主打卖点及与用户的匹配度，能够及时的跟进新品上市后的表现，及时输出竞争快报。 4、能够敏锐的洞察友商路标变化，并分析产品组合策略的背后逻辑，提出荣耀应对竞争的最优的产品组合策略，支撑制定产品路标规划（包含手机和融合产品），例行组织路标内部沟通汇报，并清晰的对内外组织交流路标逻辑及设计思路； 5、后续可以外派到海外区域，开展海外区域市场分析与竞争洞察，支撑区域SP&BP。\n1、具备较强的逻辑能力，处理数据严谨缜密，学习能力强； 2、能使用英文为工作语言，有海外学习经验为佳，能够接受未来外派海外区域优先； 3、具有敏锐的市场、政策感知能力和较强的市场动态把握能力； 4、有很强的组织能力，沟通汇报能力，学生会或班级干部经验优先； 5、有工程技术背景，对消费电子产品有强烈兴趣，具备消费电子产品的基础知识，AI等前沿技术背景者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -664,100 +657,6 @@
       "hasAssessmentEvidence": "E2 | 浙江大学就业服务平台荣耀校招 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=59C5E8F54A0D6C33E0653A68DD0E9B18 | 2026-09-17"
     },
     {
-      "id": "hotjob-564d8ccfc5cb",
-      "company": "荣耀",
-      "title": "互联网商业拓展经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "负责荣耀互联网业务商务拓展工作，包括： 1、拓展伙伴与荣耀合作机会，管理与伙伴的商业洽谈，构建荣耀全球商业合作生态关系； 2、管理荣耀合作伙伴在全球范围内的选择和认证，维护行业生态以及合作伙伴的日常连接； 3、分析行业趋势、生态价值链，识别、发掘商业合作机会； 4、洞察和评估关键要素，输入合作方向和机会建议，支持业务部门的商业需求； 5、项目有序、合规执行与管理，达成预期目标。",
-      "jobRequirements": "1、责任心与自我驱动，态度积极主动，问题解决能力和结果导向； 2、沟通协作和团队合作，项目执行及管理能力，调动各方资源达成目标； 3、硕士及以上学历，英语好或海外留学经历优先； 4、具备基本的销售和营销知识，了解基本的互联网商业模式，有过厂商或互联网行业实习经验者优先； 5、本岗位有少量涉及游戏领域的商业合作方向，热爱游戏或对游戏行业感兴趣者优先。",
-      "JD": "负责荣耀互联网业务商务拓展工作，包括： 1、拓展伙伴与荣耀合作机会，管理与伙伴的商业洽谈，构建荣耀全球商业合作生态关系； 2、管理荣耀合作伙伴在全球范围内的选择和认证，维护行业生态以及合作伙伴的日常连接； 3、分析行业趋势、生态价值链，识别、发掘商业合作机会； 4、洞察和评估关键要素，输入合作方向和机会建议，支持业务部门的商业需求； 5、项目有序、合规执行与管理，达成预期目标。\n1、责任心与自我驱动，态度积极主动，问题解决能力和结果导向； 2、沟通协作和团队合作，项目执行及管理能力，调动各方资源达成目标； 3、硕士及以上学历，英语好或海外留学经历优先； 4、具备基本的销售和营销知识，了解基本的互联网商业模式，有过厂商或互联网行业实习经验者优先； 5、本岗位有少量涉及游戏领域的商业合作方向，热爱游戏或对游戏行业感兴趣者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-18"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目",
-        "营销",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5491ad6db7cf8056b91&recruitType=1",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-08-18",
-      "recruitmentProcess": "非研发类（设计除外）：网申→集体面试→业务面试→综合测评→综合面试→录用（部分岗位需语言测评）",
-      "recruitmentProcessEvidence": "E2 | 哈尔滨工业大学(威海)就业网荣耀校招 | https://job.hitwh.edu.cn/zhxy-whxszyfzpt/zpxx/zczphxq?id=ZjExZGJmNTdmN2ZiNGUyNzgxMzZiYTBmMGE3YTUzYmY= | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 浙江大学就业服务平台荣耀校招 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=59C5E8F54A0D6C33E0653A68DD0E9B18 | 2026-09-17"
-    },
-    {
       "id": "hotjob-da6a1681c91c",
       "company": "荣耀",
       "title": "销售解决方案培训生（小语种）",
@@ -1041,6 +940,100 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c53143154813049f2262&recruitType=1",
+      "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-18",
+      "recruitmentProcess": "非研发类（设计除外）：网申→集体面试→业务面试→综合测评→综合面试→录用（部分岗位需语言测评）",
+      "recruitmentProcessEvidence": "E2 | 哈尔滨工业大学(威海)就业网荣耀校招 | https://job.hitwh.edu.cn/zhxy-whxszyfzpt/zpxx/zczphxq?id=ZjExZGJmNTdmN2ZiNGUyNzgxMzZiYTBmMGE3YTUzYmY= | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 浙江大学就业服务平台荣耀校招 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=59C5E8F54A0D6C33E0653A68DD0E9B18 | 2026-09-17"
+    },
+    {
+      "id": "hotjob-564d8ccfc5cb",
+      "company": "荣耀",
+      "title": "互联网商业拓展经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "负责荣耀互联网业务商务拓展工作，包括： 1、拓展伙伴与荣耀合作机会，管理与伙伴的商业洽谈，构建荣耀全球商业合作生态关系； 2、管理荣耀合作伙伴在全球范围内的选择和认证，维护行业生态以及合作伙伴的日常连接； 3、分析行业趋势、生态价值链，识别、发掘商业合作机会； 4、洞察和评估关键要素，输入合作方向和机会建议，支持业务部门的商业需求； 5、项目有序、合规执行与管理，达成预期目标。",
+      "jobRequirements": "1、责任心与自我驱动，态度积极主动，问题解决能力和结果导向； 2、沟通协作和团队合作，项目执行及管理能力，调动各方资源达成目标； 3、硕士及以上学历，英语好或海外留学经历优先； 4、具备基本的销售和营销知识，了解基本的互联网商业模式，有过厂商或互联网行业实习经验者优先； 5、本岗位有少量涉及游戏领域的商业合作方向，热爱游戏或对游戏行业感兴趣者优先。",
+      "JD": "负责荣耀互联网业务商务拓展工作，包括： 1、拓展伙伴与荣耀合作机会，管理与伙伴的商业洽谈，构建荣耀全球商业合作生态关系； 2、管理荣耀合作伙伴在全球范围内的选择和认证，维护行业生态以及合作伙伴的日常连接； 3、分析行业趋势、生态价值链，识别、发掘商业合作机会； 4、洞察和评估关键要素，输入合作方向和机会建议，支持业务部门的商业需求； 5、项目有序、合规执行与管理，达成预期目标。\n1、责任心与自我驱动，态度积极主动，问题解决能力和结果导向； 2、沟通协作和团队合作，项目执行及管理能力，调动各方资源达成目标； 3、硕士及以上学历，英语好或海外留学经历优先； 4、具备基本的销售和营销知识，了解基本的互联网商业模式，有过厂商或互联网行业实习经验者优先； 5、本岗位有少量涉及游戏领域的商业合作方向，热爱游戏或对游戏行业感兴趣者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-08-18"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "营销",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://career.honor.com/SU60ee9e002f9d247b98da489e/mc/detail?postId=6a83c5491ad6db7cf8056b91&recruitType=1",
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
