@@ -11229,10 +11229,8 @@
       },
       "major": {
         "raw": "5、编制车身外饰相关技术文件、开发总结、问题复盘材料，沉淀专业知识与工程经验；1、硕士及以上学历，机械工程、车辆工程、材料工程等相关专业优先",
-        "hardRestriction": true,
-        "hardClauses": [
-          "沉淀专业知识与工程经验"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",

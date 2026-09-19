@@ -471,10 +471,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，机械/电子类工科专业优先，掌握基础专业知识",
-        "hardRestriction": true,
-        "hardClauses": [
-          "掌握基础专业知识"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

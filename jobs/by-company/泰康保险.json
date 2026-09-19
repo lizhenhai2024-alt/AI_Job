@@ -1969,10 +1969,8 @@
       },
       "major": {
         "raw": "熟悉金融保险、养老、医疗健康、营销等知识，专业能力强",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业能力强"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -8007,10 +8005,8 @@
       },
       "major": {
         "raw": "2．具有较好的金融专业知识及学习能力",
-        "hardRestriction": true,
-        "hardClauses": [
-          "2．具有较好的金融专业知识及学习能力"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -14727,10 +14723,8 @@
       },
       "major": {
         "raw": "1.信息管理：落实信息产品运维、承接信息报送需求、参加专业培训；1.本科及以上学历，专业不限",
-        "hardRestriction": true,
-        "hardClauses": [
-          "1.信息管理：落实信息产品运维、承接信息报送需求、参加专业培训"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

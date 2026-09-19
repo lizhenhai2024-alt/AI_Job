@@ -708,11 +708,8 @@
       },
       "major": {
         "raw": "1、​​学历背景：​​ 应届毕业生，本科及以上学历，​​专业不限​​，我们欢迎多元化的背景和视角",
-        "hardRestriction": true,
-        "hardClauses": [
-          "1、​​学历背景：​​ 应届毕业生",
-          "我们欢迎多元化的背景和视角"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

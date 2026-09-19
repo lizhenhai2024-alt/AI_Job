@@ -3510,10 +3510,8 @@
       },
       "major": {
         "raw": "2、专业技能：了解相关安全生产法律法规、规范要求",
-        "hardRestriction": true,
-        "hardClauses": [
-          "2、专业技能：了解相关安全生产法律法规、规范要求"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

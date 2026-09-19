@@ -221,10 +221,8 @@
       },
       "major": {
         "raw": "专业：国际贸易、市场营销、电子商务、外语类、理工类等，专业不限",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业：国际贸易、市场营销、电子商务、外语类、理工类等"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、西班牙语、俄语",
@@ -4847,10 +4845,8 @@
       },
       "major": {
         "raw": "专业：国际贸易、市场营销、外语类、理工类等相关专业，专业不限；学历：本科及以上学历",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业：国际贸易、市场营销、外语类、理工类等相关专业"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、德语、法语、西班牙语、俄语、韩语",

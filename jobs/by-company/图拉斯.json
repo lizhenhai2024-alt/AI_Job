@@ -727,10 +727,8 @@
       },
       "major": {
         "raw": "学历专业：2027届本科及以上学历，专业不限，电商、工科、营销、市场类等相关专业优先；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "学历专业：2027届本科及以上学历"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -921,10 +919,8 @@
       },
       "major": {
         "raw": "学历专业：2027届本科及以上学历，专业不限，影视摄影、编导、数字媒体、新闻传播、广告、市场营销等相关专业优先；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "学历专业：2027届本科及以上学历"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",

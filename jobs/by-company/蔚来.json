@@ -7895,10 +7895,8 @@
       },
       "major": {
         "raw": "1. 本科及以上学历，专业不限，大数据、计算机、统计学、数据、自动化等专业优先考虑；2. 具备统计模型、大数据挖掘算法、机器学习/AI模型等学科知识，对基础理论和常用算法有深刻理解和工程实践能力",
-        "hardRestriction": true,
-        "hardClauses": [
-          "2. 具备统计模型、大数据挖掘算法、机器学习/AI模型等学科知识"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

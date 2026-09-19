@@ -1395,10 +1395,8 @@
       },
       "major": {
         "raw": "-学历背景：本科及以上学历，专业不限，艺术、人文社科、广告传媒等相关专业优先",
-        "hardRestriction": true,
-        "hardClauses": [
-          "-学历背景：本科及以上学历"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

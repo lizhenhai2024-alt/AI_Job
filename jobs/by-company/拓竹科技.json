@@ -19,7 +19,6 @@
         "raw": "德语达到专业工作语言水平（C1及以上，持有专业语言等级证书）",
         "hardRestriction": true,
         "hardClauses": [
-          "德语达到专业工作语言水平（C1及以上",
           "持有专业语言等级证书）"
         ]
       },
@@ -726,10 +725,8 @@
       },
       "major": {
         "raw": "2027 届本科及以上毕业生，专业不限（海外留学背景、市场营销、传播学、新闻学、理工科极客背景优先）；英语可作为日常工作及专业商务沟通语言（英语六级或以上）",
-        "hardRestriction": true,
-        "hardClauses": [
-          "英语可作为日常工作及专业商务沟通语言（英语六级或以上）"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",
@@ -1772,10 +1769,8 @@
       },
       "major": {
         "raw": "1. 2027 届应届毕业生，本科及以上学历，专业不限，新闻传播、市场营销、语言类或理工科背景均可",
-        "hardRestriction": true,
-        "hardClauses": [
-          "新闻传播、市场营销、语言类或理工科背景均可"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -1871,10 +1866,8 @@
       },
       "major": {
         "raw": "1. 基本背景：2027 届本科及以上毕业生，专业不限（海外留学背景、影视编导、数字媒体、广告学、市场营销或理工科极客背景优先）",
-        "hardRestriction": true,
-        "hardClauses": [
-          "1. 基本背景：2027 届本科及以上毕业生"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语",

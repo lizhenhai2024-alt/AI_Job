@@ -203,10 +203,8 @@
       },
       "major": {
         "raw": "1、专业不限，学科成绩优秀，综合素质扎实",
-        "hardRestriction": true,
-        "hardClauses": [
-          "学科成绩优秀"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2178,10 +2176,8 @@
       },
       "major": {
         "raw": "1、专业不限，综合素质扎实，学科成绩优秀",
-        "hardRestriction": true,
-        "hardClauses": [
-          "学科成绩优秀"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

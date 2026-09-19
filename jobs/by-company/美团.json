@@ -1,6 +1,6 @@
 {
   "company": "美团",
-  "count": 46,
+  "count": 45,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -2073,10 +2073,8 @@
       },
       "major": {
         "raw": "1. 本科及以上，专业不限（计算机、软件工程、人工智能等相关专业，或学习与框架性思考能力强的其他专业）",
-        "hardRestriction": true,
-        "hardClauses": [
-          "或学习与框架性思考能力强的其他专业）"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -2628,10 +2626,8 @@
       },
       "major": {
         "raw": "： 专业基础：新闻传播，中文，社会学，理工科等专业不限",
-        "hardRestriction": true,
-        "hardClauses": [
-          "： 专业基础：新闻传播"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3274,10 +3270,8 @@
       },
       "major": {
         "raw": "专业不限，重要的是你用什么方法思考，而不是你学过什么专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "而不是你学过什么专业"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -3309,102 +3303,6 @@
         "项目",
         "数据",
         "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
-      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
-    },
-    {
-      "id": "meituan-f174b8ccfe66",
-      "company": "美团",
-      "title": "金融风控策略",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 本科及以上学历，统计、数学、信息技术、计算机专业优先考虑",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 深度应用大模型与AI技术，构建智能风险识别与决策体系，针对欺诈、信贷、保险等场景设计并持续优化安全策略，推动风控策略向AI转型； 2. 基于数据分析与挖掘，结合AI工具（如大模型辅助归因分析、智能数据洞察）平衡用户支付、借贷体验与风险控制，设计并监控风险-收益最优化的安全策略，开展主动分层服务； 3. 打磨并沉淀风险对抗与运营能力，推动AI在风险治理全流程中的应用，包括AI辅助风险监测、智能案件分析、自动化策略报告生成等，提升风控运营效率； 4. 与算法、工程、产品团队紧密协作，推动大模型、AI Agent等能力在风控场景中的从0到1落地，参与模型选型、Prompt Engineering、RAG知识库等技术方案设计； 5. 建立AI赋能的策略效果评估体系，通过数据驱动持续追踪风险水位变化，输出风险洞察并驱动业务决策。",
-      "jobRequirements": "【岗位要求】 1. 本科及以上学历，统计、数学、信息技术、计算机专业优先考虑； 2. 良好数据处理、分析及数据运营能力，熟练使用至少一种分析工具，如SQL、Python、SAS、R等； 3. 较高的风险敏锐度，能快速理解新业务特性，主动发现风险点并提出体系化解决方案； 4. 对AI技术有浓厚兴趣和探索欲，具备使用AI工具（如AI辅助数据分析、大模型应用等）优化工作流的经验，能将AI工具实际应用于数据分析、策略挖掘或报告撰写等场景； 5. 具备Prompt Engineering实践经验，了解AI Agent、RAG等应用框架者优先； 6. 良好的沟通能力和项目推进能力，能与他人合作、共同完成目标。 【岗位亮点】 1. AI赋能风控策略：深度参与大模型等前沿AI技术在万亿级交易风控场景中的应用，推动风控策略从\"人工驱动\"向\"AI原生\"转型； 2. 业务基本盘扎实：美团金融风控覆盖支付、信贷、保险等核心场景，业务体量大、成长空间广，风控策略直接影响业务安全与增长； 3. 成长资源丰富：团队学习氛围好，与资深风控专家及算法团队紧密协作，快速积累AI+风控的复合型前沿经验。",
-      "JD": "1. 深度应用大模型与AI技术，构建智能风险识别与决策体系，针对欺诈、信贷、保险等场景设计并持续优化安全策略，推动风控策略向AI转型； 2. 基于数据分析与挖掘，结合AI工具（如大模型辅助归因分析、智能数据洞察）平衡用户支付、借贷体验与风险控制，设计并监控风险-收益最优化的安全策略，开展主动分层服务； 3. 打磨并沉淀风险对抗与运营能力，推动AI在风险治理全流程中的应用，包括AI辅助风险监测、智能案件分析、自动化策略报告生成等，提升风控运营效率； 4. 与算法、工程、产品团队紧密协作，推动大模型、AI Agent等能力在风控场景中的从0到1落地，参与模型选型、Prompt Engineering、RAG知识库等技术方案设计； 5. 建立AI赋能的策略效果评估体系，通过数据驱动持续追踪风险水位变化，输出风险洞察并驱动业务决策。\n【岗位要求】 1. 本科及以上学历，统计、数学、信息技术、计算机专业优先考虑； 2. 良好数据处理、分析及数据运营能力，熟练使用至少一种分析工具，如SQL、Python、SAS、R等； 3. 较高的风险敏锐度，能快速理解新业务特性，主动发现风险点并提出体系化解决方案； 4. 对AI技术有浓厚兴趣和探索欲，具备使用AI工具（如AI辅助数据分析、大模型应用等）优化工作流的经验，能将AI工具实际应用于数据分析、策略挖掘或报告撰写等场景； 5. 具备Prompt Engineering实践经验，了解AI Agent、RAG等应用框架者优先； 6. 良好的沟通能力和项目推进能力，能与他人合作、共同完成目标。 【岗位亮点】 1. AI赋能风控策略：深度参与大模型等前沿AI技术在万亿级交易风控场景中的应用，推动风控策略从\"人工驱动\"向\"AI原生\"转型； 2. 业务基本盘扎实：美团金融风控覆盖支付、信贷、保险等核心场景，业务体量大、成长空间广，风控策略直接影响业务安全与增长； 3. 成长资源丰富：团队学习氛围好，与资深风控专家及算法团队紧密协作，快速积累AI+风控的复合型前沿经验。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 本科及以上学历，统计、数学、信息技术、计算机专业优先考虑"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "技术评估",
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -3552,10 +3450,8 @@
       },
       "major": {
         "raw": "1. 本科及以上，计算机、数据科学、信息管理、统计、工商管理，或建筑、暖通、电气、安全等相关专业优先，认同行政专业工作的价值",
-        "hardRestriction": true,
-        "hardClauses": [
-          "认同行政专业工作的价值"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",

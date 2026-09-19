@@ -1,6 +1,6 @@
 {
   "company": "快手",
-  "count": 83,
+  "count": 82,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -4328,10 +4328,8 @@
       },
       "major": {
         "raw": "1、本科及以上学历，不限专业，欢迎不同背景的伙伴",
-        "hardRestriction": true,
-        "hardClauses": [
-          "欢迎不同背景的伙伴"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
@@ -4575,98 +4573,6 @@
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=59ed4cb841f143eb84fd806c926e269f",
       "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
-    },
-    {
-      "id": "kuaishou-41fb956e91ef",
-      "company": "快手",
-      "title": "信贷风控策略分析师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 本科及以上学历，数学、统计学、计算机、金融工程等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "jobDescription": "1. 基于公司内部数据资源，对用户行为数据与属性数据进行深度分析，识别与信贷风险相关的特征模式，挖掘可量化的风险信号；\n2. 深入理解信贷产品的业务场景、目标客群与商业模式，基于风险量化结果，参与贷前、贷中环节风控策略的设计和制定，能够将数据分析能力与业务判断相结合；\n3. 综合客户在信贷全周期的行为数据及内外部多维数据，参与信用风险与欺诈风险的建模与评估工作，建立系统化的风险量化体系；\n4. 设计科学的测试方案，跟踪策略上线后的效果表现，通过数据复盘持续优化策略，为业务决策提供有力支撑。",
-      "jobRequirements": "",
-      "JD": "1. 基于公司内部数据资源，对用户行为数据与属性数据进行深度分析，识别与信贷风险相关的特征模式，挖掘可量化的风险信号；\n2. 深入理解信贷产品的业务场景、目标客群与商业模式，基于风险量化结果，参与贷前、贷中环节风控策略的设计和制定，能够将数据分析能力与业务判断相结合；\n3. 综合客户在信贷全周期的行为数据及内外部多维数据，参与信用风险与欺诈风险的建模与评估工作，建立系统化的风险量化体系；\n4. 设计科学的测试方案，跟踪策略上线后的效果表现，通过数据复盘持续优化策略，为业务决策提供有力支撑。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 本科及以上学历，数学、统计学、计算机、金融工程等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "用户",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=14fe5aebf4344778b3b36868eb996c1b",
-      "publishedAt": "2026-08-09",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

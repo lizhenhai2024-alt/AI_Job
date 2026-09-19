@@ -17,10 +17,8 @@
       },
       "major": {
         "raw": "1、学历背景：2027届全日制本科及以上学历，物流管理、供应链、国际贸易、市场营销、工商管理、小语种、英语等相关专业优先，专业不限",
-        "hardRestriction": true,
-        "hardClauses": [
-          "1、学历背景：2027届全日制本科及以上学历"
-        ]
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "英语、西班牙语、葡萄牙语、泰语、印尼语",
