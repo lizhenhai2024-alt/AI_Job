@@ -59,6 +59,18 @@ test('related major is required unless the JD explicitly marks it preferred', ()
   assert.equal(preferred.major.hardRestriction, false);
 });
 
+test('open-major wording is not misclassified as a hard major gate', () => {
+  for (const major of [
+    '专业不限，计算机、软件工程、人工智能等相关专业优先',
+    '专业基础：新闻传播，中文，社会学，理工科等专业不限',
+    '专业不限，重要的是你用什么方法思考，而不是你学过什么专业',
+    '计算机、数据科学、信息管理、统计、工商管理，或建筑、暖通、电气、安全等相关专业优先，认同行政专业工作的价值'
+  ]) {
+    const q = toQueryJob({ company: '示例', title: '岗位', major });
+    assert.equal(q.major.hardRestriction, false, major);
+  }
+});
+
 test('numbered section headings are not companies', () => {
   assert.equal(isCategoryHeadingCompany('1.研发类单位'), true);
   assert.equal(isCategoryHeadingCompany('2制造类单位'), true);
