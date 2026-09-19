@@ -15,6 +15,11 @@ if (!inputDir || !fs.statSync(inputDir).isDirectory()) {
   throw new Error('Provide the directory containing the uploaded Markdown lists.');
 }
 
+const overridesUrl = new URL('../config/company-library-overrides.json', import.meta.url);
+const libraryOverrides = fs.existsSync(overridesUrl)
+  ? JSON.parse(fs.readFileSync(overridesUrl, 'utf8'))
+  : { companies: [], aliases: [] };
+
 const files = fs.readdirSync(inputDir).filter((name) => name.endsWith('.md'));
 const mainName = files.find((name) => name.includes('公司清单_按行业分类'));
 const opportunitiesName = files.find((name) => name.includes('机会清单_已启动校招'));
@@ -214,6 +219,19 @@ if (boardName) {
   }
 }
 
+// Repository-maintained additions/aliases survive regeneration from external Markdown inputs.
+for (const item of libraryOverrides.companies || []) {
+  upsert(item?.name, {
+    status: item?.status || '观察', authoritative: true,
+    industries: item?.industries || [], cities: item?.cities || [], targetTracks: item?.targetTracks || [],
+    aliases: item?.aliases || [], sources: ['config/company-library-overrides.json']
+  });
+}
+for (const item of libraryOverrides.aliases || []) {
+  if (!item?.canonical || !item?.alias) continue;
+  upsert(item.canonical, { aliases: [item.alias], sources: ['config/company-library-overrides.json'] });
+}
+
 const companies = [...records.values()].map((record) => {
   const evidence = opportunityEvidence.get(canonicalCompanyName(record.name));
   return {
@@ -234,6 +252,7 @@ if (pollutedCities.length) throw new Error(`Non-city values detected in cities: 
 const sourceSummary = {
   generatedAt: new Date().toISOString().slice(0, 10),
   sourceFiles: files,
+  manualOverrides: 'config/company-library-overrides.json',
   counts: Object.fromEntries(['主投', '观察', '风险', '移出'].map((status) => [status, companies.filter((item) => item.status === status).length]))
 };
 const browserCompanies = companies.map(({ name, status, restoredCandidate, industries, cities, targetTracks, evidence }) => ({
