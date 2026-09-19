@@ -60,6 +60,7 @@ const COMPANY_ALIAS_KEYS = new Map([
   ['torras', '图拉斯'],
   ['千问办公', '阿里巴巴千问办公'],
   ['阿里千问办公', '阿里巴巴千问办公'],
+  ['tcl华星', 'tcl华星光电'],
 ]);
 
 export function canonicalCompanyKey(value = '') {
