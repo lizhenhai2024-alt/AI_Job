@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { companyRecruitment } from '../src/data/company-recruitment.js';
+import { isInternshipRole, isOutOfScopeProfessionalRole } from './filter-official-live-jobs.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const livePath = path.join(root, 'src/data/live-jobs.js');
@@ -264,6 +265,7 @@ export async function buildQueryLayer(jobs, { updatedAt = new Date().toISOString
   const queryJobs = [];
   for (const job of jobs || []) {
     if (!job?.company || !job?.title || isCategoryHeadingCompany(job.company)) continue;
+    if (isInternshipRole(job) || isOutOfScopeProfessionalRole(job)) continue;
     const key = String(job.company).trim();
     const queryJob = toQueryJob(job);
     applyCompanyRecruitment(queryJob);
