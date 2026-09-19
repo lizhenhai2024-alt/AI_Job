@@ -939,6 +939,17 @@
     "campaignLabel": "2027届拓疆者校园招聘",
     "monitoringNote": "大疆官方校招门户（Moka定制域 apply.careers.dji.com，2027拓疆者计划2026-06-25开启）；完整列表走公开API POST /api/outer/ats-apply/website/jobs/v2（orgId=dji/siteId=143359，共139岗）；适配器按zhineng职能白名单保留市场/电商/供应链管理/供应链工程/人力资源/产品运营/项目管理/软件产品/服务管理，技术类（算法/软件/硬件/芯片/嵌入式等109岗）/数字化建设/工业设计/财务/法务/销售不抓；详情POST /api/outer/ats-apply/website/job；API不可达时回退SSR init-data首屏"
   },
+  "midea": {
+    "company": "美的",
+    "url": "https://newpower.midea.com/schoolOut",
+    "baseUrl": "https://newpower.midea.com",
+    "graduationYear": "2027",
+    "pageSize": 20,
+    "maxPages": 12,
+    "maxJobs": 300,
+    "campaignLabel": "2027届美的星校园招聘",
+    "monitoringNote": "美的官方校招门户（自研IHR系统SPA，newpower.midea.com/schoolOut）；公开JSON API无鉴权：GET /backend/school/position/common/project/list?status=1 取2027届美的星项目ruleId（页面默认展示的是校企合作实习通道projectType=7，须按sessions=2027/type=1过滤），POST /backend/school/position/common/position/list 分页拉取（pageSize上限20，2027届共148岗）；列表即含完整JD无需详情；适配器按职类白名单（供应链物流类/国内营销类/海外营销类/管理类）+标题剔除（销售/解决方案工程师/技术支持/物流营销/知识产权等）"
+  },
   "pinduoduo": {
     "company": "拼多多",
     "url": "https://careers.pddglobalhr.com/campus",

@@ -16,6 +16,7 @@ import { searchBytedanceJobs } from './job-discovery/bytedance.mjs';
 import { searchMeituanJobs } from './job-discovery/meituan.mjs';
 import { searchLenovoJobs } from './job-discovery/lenovo.mjs';
 import { searchDjiJobs } from './job-discovery/dji.mjs';
+import { searchMideaJobs } from './job-discovery/midea.mjs';
 import { searchPinduoduoJobs } from './job-discovery/pinduoduo.mjs';
 import { searchKuaishouJobs } from './job-discovery/kuaishou.mjs';
 import { searchXiaohongshuJobs } from './job-discovery/xiaohongshu.mjs';
@@ -44,7 +45,7 @@ const sourceHealthPath = path.join(root, 'src/data/source-health.js');
 const MAX_CONCURRENCY = 3;
 const SUPPORTED_PROVIDERS = [
   'nowcoder', 'liepin', 'zhaopin', 'moka', 'beisen', 'feishu', 'hotjob', 'anker', 'ecoflow',
-  'alibaba', 'tencent', 'bytedance', 'meituan', 'lenovo', 'dji', 'pinduoduo', 'kuaishou',
+  'alibaba', 'tencent', 'bytedance', 'meituan', 'lenovo', 'dji', 'midea', 'pinduoduo', 'kuaishou',
   'xiaohongshu', 'ctrip', 'oppo', 'topband', 'job51', 'phenom', 'avature',
   'successfactors'
 ];
@@ -318,6 +319,7 @@ for (const [provider, searcher] of [
   ['meituan', searchMeituanJobs],
   ['lenovo', searchLenovoJobs],
   ['dji', searchDjiJobs],
+  ['midea', searchMideaJobs],
   ['pinduoduo', searchPinduoduoJobs],
   ['kuaishou', searchKuaishouJobs],
   ['xiaohongshu', searchXiaohongshuJobs],

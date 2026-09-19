@@ -16,7 +16,7 @@ const required = [
   'scripts/job-discovery/beisen.mjs', 'scripts/job-discovery/feishu.mjs', 'scripts/job-discovery/hotjob.mjs',
   'scripts/job-discovery/anker.mjs', 'scripts/job-discovery/ecoflow.mjs',
   'scripts/job-discovery/alibaba.mjs', 'scripts/job-discovery/tencent.mjs', 'scripts/job-discovery/bytedance.mjs',
-  'scripts/job-discovery/meituan.mjs', 'scripts/job-discovery/lenovo.mjs', 'scripts/job-discovery/dji.mjs', 'scripts/job-discovery/pinduoduo.mjs', 'scripts/job-discovery/kuaishou.mjs',
+  'scripts/job-discovery/meituan.mjs', 'scripts/job-discovery/lenovo.mjs', 'scripts/job-discovery/dji.mjs', 'scripts/job-discovery/midea.mjs', 'scripts/job-discovery/pinduoduo.mjs', 'scripts/job-discovery/kuaishou.mjs',
   'scripts/job-discovery/xiaohongshu.mjs', 'scripts/job-discovery/ctrip.mjs',
   'scripts/job-discovery/oppo.mjs', 'scripts/job-discovery/topband.mjs',
   'scripts/job-discovery/source-candidates.mjs', 'scripts/job-discovery/source-health.mjs',
