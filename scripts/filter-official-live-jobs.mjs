@@ -94,6 +94,20 @@ export function hasHardOutOfScopeProfessionalMajor(job = {}) {
   return hardOutOfScopeMajorClauses(job).length > 0;
 }
 
+export function isInternshipRole(job = {}) {
+  const title = String(job?.title || '').trim();
+  if (/(?:实习|intern(?:ship)?)/i.test(title)) return true;
+  const explicitType = [
+    job?.employmentType,
+    job?.jobType,
+    job?.recruitType,
+    job?.recruitmentType,
+    job?.employmentNature,
+    job?.positionNature
+  ].filter((value) => typeof value === 'string').join('\n');
+  return /(?:实习|internship|\bintern\b)/i.test(explicitType);
+}
+
 export function isOutOfScopeProfessionalRole(job = {}) {
   const title = String(job?.title || '').trim();
   if (PROFESSIONAL_TITLE_RX.test(title)) return true;
@@ -107,6 +121,7 @@ function hasTrustedProductionSource(job = {}) {
 export function keepProductionJobs(jobs = []) {
   return (jobs || []).filter((job) => {
     if (isCategoryHeadingCompany(job?.company)) return false;
+    if (isInternshipRole(job)) return false;
     if (isOutOfScopeProfessionalRole(job)) return false;
     return hasTrustedProductionSource(job);
   });
@@ -124,8 +139,9 @@ async function main() {
   const mod = await import(`${pathToFileURL(livePath).href}?t=${Date.now()}`);
   const original = Array.isArray(mod.liveJobs) ? mod.liveJobs : [];
   const kept = keepProductionJobs(original);
-  const excludedProfessional = original.filter((job) => !isCategoryHeadingCompany(job?.company) && isOutOfScopeProfessionalRole(job)).length;
-  const excludedOther = original.filter((job) => isCategoryHeadingCompany(job?.company) || (!isOutOfScopeProfessionalRole(job) && !hasTrustedProductionSource(job))).length;
+  const excludedInternship = original.filter((job) => !isCategoryHeadingCompany(job?.company) && isInternshipRole(job)).length;
+  const excludedProfessional = original.filter((job) => !isCategoryHeadingCompany(job?.company) && !isInternshipRole(job) && isOutOfScopeProfessionalRole(job)).length;
+  const excludedOther = original.filter((job) => isCategoryHeadingCompany(job?.company) || (!isInternshipRole(job) && !isOutOfScopeProfessionalRole(job) && !hasTrustedProductionSource(job))).length;
   const officialCount = kept.filter((job) => job?.sourceType === 'official').length;
   const universityBacked = kept.filter(isTrustedUniversityOfficialBacked).length;
   const companies = new Set(kept.map((job) => job.company).filter(Boolean));
@@ -143,6 +159,7 @@ async function main() {
         production: 'english-major-scope+official-preferred+trusted-university-official-backed',
         official: officialCount,
         universityOfficialBacked: universityBacked,
+        excludedInternship,
         excludedProfessional,
         excludedOther
       }
@@ -151,7 +168,7 @@ async function main() {
   };
 
   await fs.writeFile(livePath, asModule(kept, meta), 'utf8');
-  console.log(`[production-source-policy] before=${original.length} after=${kept.length} official=${officialCount} universityOfficialBacked=${universityBacked} excludedProfessional=${excludedProfessional} excludedOther=${excludedOther} companies=${companies.size}`);
+  console.log(`[production-source-policy] before=${original.length} after=${kept.length} official=${officialCount} universityOfficialBacked=${universityBacked} excludedInternship=${excludedInternship} excludedProfessional=${excludedProfessional} excludedOther=${excludedOther} companies=${companies.size}`);
 }
 
 const invokedAsScript = process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
