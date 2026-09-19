@@ -53,7 +53,7 @@ export const companySourceSeeds = [
   { company: '联想', url: 'https://talent.lenovo.com.cn/home', note: '联想官方校招官网；2027届秋招已核验，含应届生、管培生 Future Leaders、市场与销售/职能/供应链等方向', graduationYear: '2027', cohortEvidence: '联想2027届校园招聘，网申 2026-08-05 至 2026-11-13', verifiedAt: '2026-09-19' },
   { company: '九号公司', url: 'https://join.ninebot.com/campus', note: '九号公司官方校园招聘入口；2027届校招简章已交叉核验', graduationYear: '2027', cohortEvidence: '九号公司2027届校园招聘，2026年8月底起网申', verifiedAt: '2026-09-19' },
   { company: '创想三维', url: 'https://creality.zhiye.com/campus/jobs', note: '创想三维官方北森校园招聘入口；官网校招问答确认使用该招聘系统，届别需岗位级继续核验', verifiedAt: '2026-09-19' },
-  { company: '大疆', url: 'https://careers.dji.com/zh-CN/campus', note: 'DJI大疆官方校园招聘；官网明确2027拓疆者校园招聘', graduationYear: '2027', cohortEvidence: '2027拓疆者校园招聘，2026-06-25开启，招满即止', verifiedAt: '2026-09-19' },
+  { company: '大疆', url: 'https://careers.dji.com/zh-CN/campus', note: 'DJI大疆官方校园招聘；官网明确2027拓疆者校园招聘', graduationYear: '2027', cohortEvidence: '大疆2027届拓疆者校园招聘，2026-06-25开启，招满即止', verifiedAt: '2026-09-19' },
   { company: '绿联', url: 'https://careers.lulian.cn/campus', note: 'UGREEN绿联官方校园招聘入口；当前页面可访问，届别与岗位需继续核验', verifiedAt: '2026-09-19' },
   { company: '厦门国贸', url: 'https://itgholding.zhiye.com/gmgfgg?key=gmgf', note: '厦门国贸股份官方北森招聘系统；官网资讯明确2027届秋季全球校园招聘', graduationYear: '2027', cohortEvidence: '国贸股份2027届秋季全球校园招聘正式启动', verifiedAt: '2026-09-19' },
   { company: '赛力斯', url: 'https://sokon.zhiye.com/campus', note: '赛力斯集团官方北森校园招聘入口；2027届校园招聘已核验', graduationYear: '2027', cohortEvidence: '赛力斯集团2027届校园招聘', verifiedAt: '2026-09-19' },
