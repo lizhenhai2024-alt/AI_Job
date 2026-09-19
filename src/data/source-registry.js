@@ -537,6 +537,10 @@ export const sourceRegistry = [
     "company": "联想"
   },
   {
+    "provider": "dji",
+    "company": "大疆"
+  },
+  {
     "provider": "pinduoduo",
     "company": "拼多多"
   },
