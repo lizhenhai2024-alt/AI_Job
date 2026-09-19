@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { demoJobs } from '../src/data/jobs.js';
 import { liveJobs } from '../src/data/live-jobs.js';
-import { companyRegistry, isValidCompanyRecord } from '../src/data/company-registry.js';
+import { companyRegistry, isValidCompanyRecord, canonicalCompanyKey } from '../src/data/company-registry.js';
 import { sourceRegistry } from '../src/data/source-registry.js';
 import { companyRequests } from '../src/data/company-requests.js';
 import { sourceDiscovery } from '../src/data/source-discovery.js';
@@ -190,14 +190,12 @@ if (companyRegistry.filter((record) => ['主投','观察'].includes(record.statu
   throw new Error('active company missing source discovery coverage state');
 }
 const missingRequests = companyRequests.filter((request) => !companyRegistry.some((record) => record.userRequested && (() => {
-  const clean = (value) => String(value || '').replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '').replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase();
-  const a = clean(record.name); const b = clean(request.name);
+  const a = canonicalCompanyKey(record.name); const b = canonicalCompanyKey(request.name);
   return a === b || (Math.min(a.length, b.length) >= 3 && (a.includes(b) || b.includes(a)));
 })()));
 if (missingRequests.length) throw new Error(`company requests missing from registry: ${missingRequests.map((x) => x.name).join(', ')}`);
 const missingManaged = sourceRegistry.filter((source) => !companyRegistry.some((record) => record.sourceManaged && record.sourceProviders?.includes(source.provider) && (() => {
-  const clean = (value) => String(value || '').replace(/[（(].*?[）)]/g, '').replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '').replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase();
-  const a = clean(record.name); const b = clean(source.company);
+  const a = canonicalCompanyKey(record.name); const b = canonicalCompanyKey(source.company);
   return a === b || (Math.min(a.length, b.length) >= 3 && (a.includes(b) || b.includes(a)));
 })()));
 if (missingManaged.length) throw new Error(`official sources missing from company registry: ${missingManaged.map((x) => `${x.provider}:${x.company}`).join(', ')}`);
