@@ -397,6 +397,14 @@ export const sourceRegistry = [
     "company": "山推工程机械股份有限公司"
   },
   {
+    "provider": "beisen",
+    "company": "厦门国贸"
+  },
+  {
+    "provider": "beisen",
+    "company": "赛力斯"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },
@@ -523,6 +531,10 @@ export const sourceRegistry = [
   {
     "provider": "meituan",
     "company": "美团"
+  },
+  {
+    "provider": "lenovo",
+    "company": "联想"
   },
   {
     "provider": "pinduoduo",

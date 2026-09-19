@@ -909,6 +909,18 @@
     "maxJobs": 300,
     "monitoringNote": "自研招聘系统，无需鉴权；jobType.code=1为应届生全职校招"
   },
+  "lenovo": {
+    "company": "联想",
+    "url": "https://talent.lenovo.com.cn/position?projectType=1",
+    "baseUrl": "https://talent.lenovo.com.cn",
+    "graduationYear": "2027",
+    "pageSize": 10,
+    "maxPages": 15,
+    "maxJobs": 200,
+    "enrichDetails": true,
+    "campaignLabel": "2027届应届生校招",
+    "monitoringNote": "联想官方校招门户（自研SPA，SSR列表+详情直出）；projectType=1=应届生；适配器按jobTypeName类别枚举在范围岗位（营销/销售/战略/商务商业/人力资源/产品策划/产品运营/项目与方案/供应链管理/供应链工程），技术/设计/财务/法务类不抓取；销售-to B/C一线销售岗在适配器内剔除；详情页/position/detail?id=N"
+  },
   "pinduoduo": {
     "company": "拼多多",
     "url": "https://careers.pddglobalhr.com/campus",
