@@ -1,7 +1,7 @@
 {
   "company": "阿里巴巴",
   "count": 117,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "alibaba-56983b82e44a",
@@ -5434,7 +5434,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Pursuing a Bachelor’s degree or higher",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5448,10 +5448,12 @@
       "jobRequirements": "1-Education: Pursuing a Bachelor’s degree or higher; experience in large-scale internet products or user operations is a plus. 2-Data-Driven: Analytical mindset with the ability to identify opportunities through data and independently solve operational challenges. 3-Collaboration: Strong cross-functional coordination skills to achieve win-win outcomes. 4-Problem Solving: Ability to see through complexity to identify core pain points and business essentials. 5-Agility: Fast learner with a curious mindset and the ability to thrive in a fast-paced environment.",
       "JD": "1-User Lifecycle Management：Manage the full user lifecycle, including new user acquisition, first activation, retention, and re-engagement. 2-Strategy & Execution：Support the design and end-to-end execution of user engagement strategies—from ideation and implementation to timeline management—by effectively coordinating cross-functional resources (Product, Engineering, BI) to achieve user activity goals. 3-User Insight & Personalization：Deeply understand user needs to create high-engagement scenarios and personalized services that boost stickiness. Special Note: This position is part of the company’s Southeast Asia Talent Development Initiative. We are looking for candidates who are willing to complete a 1-year rotation and practice in China and prepare for long-term roles in Thailand, Philippines, Indonesia, Malaysia, or Vietnam. Candidates with a strong passion for Southeast Asia region market and proficiency in Malay, Indonesian, Thai, Filipino, or Vietnamese are especially encouraged to apply.\n1-Education: Pursuing a Bachelor’s degree or higher; experience in large-scale internet products or user operations is a plus. 2-Data-Driven: Analytical mindset with the ability to identify opportunities through data and independently solve operational challenges. 3-Collaboration: Strong cross-functional coordination skills to achieve win-win outcomes. 4-Problem Solving: Ability to see through complexity to identify core pain points and business essentials. 5-Agility: Fast learner with a curious mindset and the ability to thrive in a fast-paced environment.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Pursuing a Bachelor’s degree or higher"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "This position is part of the company’s Southeast Asia Talent Development Initiative. We are looking for candidates who are willing to complete a 1-year rotation and practice in China and prepare for long-term roles in Thailand, Philippines, Indonesia, Malaysia, or Vietnam. Candidates with a strong passion for Southeast Asia region market and proficiency in Malay, Indonesian, Thai, Filipino, or Vietnamese are especially encouraged to apply."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5610,7 +5612,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5624,11 +5626,11 @@
       "jobRequirements": "1.本科及以上学历； 2.围绕大模型技术，有丰富的相关产品的深度使用思考习惯，有一定大模型动手创造实践经历更佳； 3.优秀的创造力、想象力、逻辑思维与系统分析能力，突出的思考总结能力和沟通能力； 4.希望你热爱产品和AI，有好奇心，想要突破自我上限。",
       "JD": "1.参与或负责千问AI产品规划、模型迭代、行业策略、数据机制、产品方案； 2.分析用户需求、技术趋势、行业场景和竞品动态，落实到具体产品业务； 3.构建用户需求、产品形态和模型范式之间的评估评价体系，不拘一格思考产品方案； 4.跟进产品开发or运营进度，与算法、研发、设计等团队密切协同，确保产品快速迭代和实践。\n1.本科及以上学历； 2.围绕大模型技术，有丰富的相关产品的深度使用思考习惯，有一定大模型动手创造实践经历更佳； 3.优秀的创造力、想象力、逻辑思维与系统分析能力，突出的思考总结能力和沟通能力； 4.希望你热爱产品和AI，有好奇心，想要突破自我上限。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5711,14 +5713,10 @@
       "jobRequirements": "1、对大模型相关技术有项目实操及研究经历，有智能体安全、大模型安全、VLA 对抗样本相关经历优先； 2、对安全攻防领域有较深入的理解，对以下至少一个领域有相关经历优先：移动安全、Web 安全、协议安全、IoT 安全； 3、具备优秀的研究能力，在 NDSS、IEEE S&P、CCS、USENIX Security 等顶级安全会议有工作发表优先； 4、在安全风控领域相关比赛中有获奖经历优先； 5、具备良好的合作与沟通能力，能够推进较为复杂的跨团队协作项目。",
       "JD": "1、负责集团端管云全链路场景下的智能体安全能力建设，针对不同意图与形态的智能体（GUI Agent、API Agent 等）构建高效的威胁识别、行为分析与对抗防御体系； 2、探索面向 VLA 的对抗样本生成与防御技术，包括跨模型/跨任务可迁移的通用对抗攻击、感知-决策链路的鲁棒性评估及防御机制设计； 3、探索智能体幻觉问题的检测与缓解，覆盖感知幻觉（界面元素误识别、属性/关系错误）与推理幻觉（指令偏离、逻辑谬误、事实捏造），构建幻觉诊断基准并设计缓解机制； 4、参与基础安全域模型的安全能力建设与迭代，探索解决安全域样本标注昂贵稀缺、可读性差等核心瓶颈问题。\n1、对大模型相关技术有项目实操及研究经历，有智能体安全、大模型安全、VLA 对抗样本相关经历优先； 2、对安全攻防领域有较深入的理解，对以下至少一个领域有相关经历优先：移动安全、Web 安全、协议安全、IoT 安全； 3、具备优秀的研究能力，在 NDSS、IEEE S&P、CCS、USENIX Security 等顶级安全会议有工作发表优先； 4、在安全风控领域相关比赛中有获奖经历优先； 5、具备良好的合作与沟通能力，能够推进较为复杂的跨团队协作项目。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -5784,9 +5782,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "戏剧影视文学、编剧、汉语言文学、创意写作、儿童文学、教育学、心理学等相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "戏剧影视文学、编剧、汉语言文学、创意写作、儿童文学、教育学、心理学等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5798,11 +5798,11 @@
       "jobRequirements": "1. 戏剧影视文学、编剧、汉语言文学、创意写作、儿童文学、教育学、心理学等相关专业； 2. 作品集需含至少 1 部完整短片/剧集剧本或儿童故事集（分集梗概+1 集样章即可），文字功底扎实，人物对白鲜活不假大空； 3. 懂三幕结构、角色弧光、Save the Cat 节拍表等基础叙事工具；有系列剧集（多集或多季）架构经验者优先； 4. AI native：能把 Claude / ChatGPT / Gemini 等大模型嵌入剧本开发全流程——大纲头脑风暴、人物设定压力测试、台词 A/B、剧本医生自审；理解 prompt 工程、Context 管理、多轮对话调优，而不是把 AI 当成“帮我写一段”的一次性工具； 5. 有稳定的动画剧集与电影拉片习惯，能从故事结构、人物动机、台词密度、情感节奏等维度做剧本层解构，面试时需带 1-2 份拉片笔记或剧本分析； 6. 有儿童文学发表、原创绘本、儿童剧/动画短片剧本参赛/获奖经历者优先；有 AI 短剧剧本实操经验者加分，发自内心热爱少儿内容：追过近 2-3 年的主流少儿动画（如小猪佩奇、汪汪队、蓝色小考拉、瑞奇宝宝、超级飞侠、菲梦少女、蛋仔派对等），能说出至少 3 部让自己印象深刻的作品并讲清“故事好在哪”；理解 3-6 岁与 6-12 岁孩子在语言、注意力、共情能力上的差异；愿意把儿童叙事当作长期职业方向，不把它当作“通往成人向的跳板”。",
       "JD": "1. 参与自制动画剧集、真人少儿节目的剧本创作，从大纲、人物小传、分集梗概到分场剧本全流程输出 2. 围绕既有 IP（角色、世界观）做续作/衍生剧本开发，或参与原创 IP 的从0到1孵化 3. 结合儿童心理与教育目标，把知识点、价值观、情绪课等自然融入故事，避免说教 4. 使用 AI 工具（Claude / ChatGPT / Gemini 等）加速大纲发散、人物弧光测试、台词打磨、多版本比对；建立自己的 prompt 库与创作工作流\n1. 戏剧影视文学、编剧、汉语言文学、创意写作、儿童文学、教育学、心理学等相关专业； 2. 作品集需含至少 1 部完整短片/剧集剧本或儿童故事集（分集梗概+1 集样章即可），文字功底扎实，人物对白鲜活不假大空； 3. 懂三幕结构、角色弧光、Save the Cat 节拍表等基础叙事工具；有系列剧集（多集或多季）架构经验者优先； 4. AI native：能把 Claude / ChatGPT / Gemini 等大模型嵌入剧本开发全流程——大纲头脑风暴、人物设定压力测试、台词 A/B、剧本医生自审；理解 prompt 工程、Context 管理、多轮对话调优，而不是把 AI 当成“帮我写一段”的一次性工具； 5. 有稳定的动画剧集与电影拉片习惯，能从故事结构、人物动机、台词密度、情感节奏等维度做剧本层解构，面试时需带 1-2 份拉片笔记或剧本分析； 6. 有儿童文学发表、原创绘本、儿童剧/动画短片剧本参赛/获奖经历者优先；有 AI 短剧剧本实操经验者加分，发自内心热爱少儿内容：追过近 2-3 年的主流少儿动画（如小猪佩奇、汪汪队、蓝色小考拉、瑞奇宝宝、超级飞侠、菲梦少女、蛋仔派对等），能说出至少 3 部让自己印象深刻的作品并讲清“故事好在哪”；理解 3-6 岁与 6-12 岁孩子在语言、注意力、共情能力上的差异；愿意把儿童叙事当作长期职业方向，不把它当作“通往成人向的跳板”。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "戏剧影视文学、编剧、汉语言文学、创意写作、儿童文学、教育学、心理学等相关专业；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5883,11 +5883,9 @@
       "jobRequirements": "1、有GPU计算系统优化经验，熟悉CUDA编程和GPU系统架构； 2、深入理解PyTorch/vLLM推理框架的架构和工作原理，有框架优化经验； 3、掌握CUDA、NCCL等并行编程技术，了解GPU间的通信机制； 4、有大规模分布式系统的设计与实现经验，理解分布式系统的核心问题； 5、良好的工程能力和代码质量意识，能够编写高性能、可维护的代码。 加分项： 1、有顶级开源社区（Linux Kernel、PyTorch、TensorFlow等）的实质性贡献经验； 2、发表过系统优化或并行计算相关的学术论文（CCF A类以上）； 3、有AWS/GCP/Azure等云服务AI推理优化的实战经验； 4、深入了解NVLink、RDMA等高性能通信协议，有优化经验。",
       "JD": "负责大模型推理系统中网络性能优化和设计。深入了解计算机体系结构与网络系统相关知识。熟悉推理系统算法及推理基础设施的原理、关键问题与方案。核心工作职责包括： 1、KV Cache相关的传输优化； 2、通信协议优化：RDMA、TCP实现高效的分布式传输； 3、模型特定的优化方案：针对MOE、Prefix KV Cache等特殊模型架构，提供定制化的优化解决方案，支持各类大模型架构； 4、性能基准测试与监控系统建设：建立完整的性能评估框架，实现实时监控和分析，提供性能优化的数据支撑； 5、开源社区贡献与技术文档撰写：积极参与vLLM、HiCache等开源项目，撰写详细的技术文档和优化指南。\n1、有GPU计算系统优化经验，熟悉CUDA编程和GPU系统架构； 2、深入理解PyTorch/vLLM推理框架的架构和工作原理，有框架优化经验； 3、掌握CUDA、NCCL等并行编程技术，了解GPU间的通信机制； 4、有大规模分布式系统的设计与实现经验，理解分布式系统的核心问题； 5、良好的工程能力和代码质量意识，能够编写高性能、可维护的代码。 加分项： 1、有顶级开源社区（Linux Kernel、PyTorch、TensorFlow等）的实质性贡献经验； 2、发表过系统优化或并行计算相关的学术论文（CCF A类以上）； 3、有AWS/GCP/Azure等云服务AI推理优化的实战经验； 4、深入了解NVLink、RDMA等高性能通信协议，有优化经验。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6062,11 +6060,9 @@
       "jobRequirements": "1.热爱卡牌品类的同学优先；对某一类型游戏时长达到200小时以上，5款以上不同类型（手游、主机、网游、端游、独立游戏等）游戏的深度玩家；能对至少一类游戏研究精通，对其游戏内容.游戏机制了如指掌，甚至是获得一些校级以上比赛的名次； 2.既能脑洞大开、不循规蹈矩，也能潜心打磨、踏实落地； 3.能够有条理表达想法，感染他人，让团队其他人一起实现、完善你的想法。",
       "JD": "1.以跳脱思维构思规则，用严谨的思维设计丰富内容； 2.你是游戏领航员，参与游戏从构思.研发到发布的全流程，驱动团队朝着目标稳步向前； 3.你是游戏世界的魔法师，构建玩法规则，以丰富的想象力驱动丰富的玩法体验； 4.你是游戏世界运转的舵手，引领玩家在你构建的数值体系里体验战斗的成败.角色成长与经济发展。\n1.热爱卡牌品类的同学优先；对某一类型游戏时长达到200小时以上，5款以上不同类型（手游、主机、网游、端游、独立游戏等）游戏的深度玩家；能对至少一类游戏研究精通，对其游戏内容.游戏机制了如指掌，甚至是获得一些校级以上比赛的名次； 2.既能脑洞大开、不循规蹈矩，也能潜心打磨、踏实落地； 3.能够有条理表达想法，感染他人，让团队其他人一起实现、完善你的想法。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6133,9 +6129,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，拥有泛文娱内容专业及行业（电影、剧集、游戏、动画等）相关背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "拥有泛文娱内容专业及行业（电影、剧集、游戏、动画等）相关背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -6147,11 +6145,11 @@
       "jobRequirements": "1. 本科及以上学历，拥有泛文娱内容专业及行业（电影、剧集、游戏、动画等）相关背景； 2. 热爱动画，对内容有判断，愿意从事制片工作； 3. 沟通能力强，有团队协助能力及跨部门协助经验。",
       "JD": "1. 洞察市场与用户需求，负责自制动画项目的前期开发与立项； 2. 制作监制，保障项目的上线时间和品质，对播出结果负责； 3. 具备一定的商务能力，完成项目合约谈判签署，并与合作伙伴建立良好稳定的合作关系。\n1. 本科及以上学历，拥有泛文娱内容专业及行业（电影、剧集、游戏、动画等）相关背景； 2. 热爱动画，对内容有判断，愿意从事制片工作； 3. 沟通能力强，有团队协助能力及跨部门协助经验。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，拥有泛文娱内容专业及行业（电影、剧集、游戏、动画等）相关背景"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6236,11 +6234,9 @@
       "jobRequirements": "1、具有良好的模拟电路、数字电路、电磁场与微波、信号处理的基础； 2、熟悉常用SI/PI分析EDA工具，如：HFSS、Q3D、PowerSI、ADS、Hspice、Perl、APD等。 同时，我们还希望你： 1、学习能力强，对新事物保有好奇心，并能快速适应新环境； 2、良好的沟通能力和团队协同能力；能与他人合作，共同完成目标； 3、对所在领域有热情，相信方法总比困难多，善于独立思考并反思总结。",
       "JD": "具体职责包括但不限于： 1、负责芯片级、封装级、系统级的信号/电源完整性、电磁兼容性能的分析、设计和验证工作； 2、解决芯片设计和应用中的信号传输、电源噪声、辐射等相关问题； 3、为芯片、封装、系统提供SI/PI/EMI电磁完整性解决方案。\n1、具有良好的模拟电路、数字电路、电磁场与微波、信号处理的基础； 2、熟悉常用SI/PI分析EDA工具，如：HFSS、Q3D、PowerSI、ADS、Hspice、Perl、APD等。 同时，我们还希望你： 1、学习能力强，对新事物保有好奇心，并能快速适应新环境； 2、良好的沟通能力和团队协同能力；能与他人合作，共同完成目标； 3、对所在领域有热情，相信方法总比困难多，善于独立思考并反思总结。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6305,9 +6301,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，有良好的设计相关专业和学科教育背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "有良好的设计相关专业和学科教育背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -6319,14 +6317,12 @@
       "jobRequirements": "1.本科及以上学历，有良好的设计相关专业和学科教育背景； 2.具备优秀的审美能力和专业技能，有相关高质量的项目研究和实践经历，可展示证明自己设计能力的案例和作品； 3.熟练掌握主流AI设计工具，能用AI完整完成一个创意项目全流程。熟悉LLM、主流生成式AI技术原理、有AI Agent产品设计经验者加分； 4.关注AI技术及行业的发展，愿意主动思考、学习和研究，寻求创新改变，并能转化为实际方案和结果； 5.善于沟通，乐于合作，高效执行，能够同内外部团队高效协同，推进目标的达成和共赢。",
       "JD": "1.参与品牌、营销活动创意全案，包括但不限于品牌线上线下全场景； 2.结合业务营销目标和用户洞察，负责项目的创意表达策略、视觉概念，高质高效完成落地执行。项目上线后，协同相关部门验证设计效果，包括但不限于目标受众感知的一致性、业务营销目标的完成度； 3.探索AI驱动的创意表达，运用AIGC工具提升设计效率与产能，并参与规范制定与资产沉淀。\n1.本科及以上学历，有良好的设计相关专业和学科教育背景； 2.具备优秀的审美能力和专业技能，有相关高质量的项目研究和实践经历，可展示证明自己设计能力的案例和作品； 3.熟练掌握主流AI设计工具，能用AI完整完成一个创意项目全流程。熟悉LLM、主流生成式AI技术原理、有AI Agent产品设计经验者加分； 4.关注AI技术及行业的发展，愿意主动思考、学习和研究，寻求创新改变，并能转化为实际方案和结果； 5.善于沟通，乐于合作，高效执行，能够同内外部团队高效协同，推进目标的达成和共赢。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，有良好的设计相关专业和学科教育背景"
         ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -6410,11 +6406,9 @@
       "jobRequirements": "1.熟练掌握AIGC相关技术和工具，会使用Midijourney、ChatGPT、Stable Diffusion或国内相同软件，有工作经验者优先;具有良好的美术基础和审美能力; 2.工作认真、负责、有团队协作意识，能够承受一定的工作压力； 3.具有良好的沟通能力和解决问题的能力，具备较强的学习能力和创新精神。",
       "JD": "1.协助提升现有项目技术在AIGC产品中的实际表现; 2.协助算法等岗位同事完成新技术的效果验证; 3.对现有美术资源进行分析和排查，给出改进方案。\n1.熟练掌握AIGC相关技术和工具，会使用Midijourney、ChatGPT、Stable Diffusion或国内相同软件，有工作经验者优先;具有良好的美术基础和审美能力; 2.工作认真、负责、有团队协作意识，能够承受一定的工作压力； 3.具有良好的沟通能力和解决问题的能力，具备较强的学习能力和创新精神。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6495,11 +6489,9 @@
       "jobRequirements": "1、熟悉 Cadence ADE, Virtuoso，Spice, Matlab 等 EDA tools； 2、对模拟电路开发具备热忱，且遇到问题能勇于克服； 3、主动学习，团队合作，易于沟通也是我们所期望的。",
       "JD": "1、设计高速模拟 IP 的子模块，例如，UCIE, D2D 互联IP, LPDDR, PCIe，Optical IO等 IP 的子模块电路； 2、TX Driver, RX Receiver, OpticalDriver，TIA，CDR, CTLE, DFE 等电路设计； 3、PLL、DLL、PI插值器、DCC/QEC矫正等时钟产生与调整电路； 4、设计模数/数模转换电路(AD/DA) 给不同的应用场景，比如高速SerDes AFE前端，电压/温度感测等； 5、根据项目需求设计 BGR, LDO，运算放大器等，相关的模拟电路。\n1、熟悉 Cadence ADE, Virtuoso，Spice, Matlab 等 EDA tools； 2、对模拟电路开发具备热忱，且遇到问题能勇于克服； 3、主动学习，团队合作，易于沟通也是我们所期望的。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6580,11 +6572,9 @@
       "jobRequirements": "1. 熟练掌握IDA Pro、GDB、JEB、lldb等逆向分析工具，具备丰富的静态分析与动态调试经验； 2. 熟悉ARM指令集，能够快速分析二进制文件、跟踪代码逻辑； 3. 掌握常见软件脱壳技术，能够处理加固、混淆的二进制文件； 4. 深入理解Android底层运行机制，包括Binder、Zygote、ART等核心组件； 5. 熟悉浏览器和小程序的运行机制，能够分析其安全风险； 6.对移动安全有强烈的兴趣，持续关注国内外最新的安全动态和技术趋势；具备良好的逻辑思维能力和团队合作精神，能够与团队成员高效协作。 【加分项】 1. 熟悉OLLVM、VMP等混淆保护技术，并具备相关破解经验； 2. 对AOSP（Android 开源项目）源码有深入了解，熟悉ROM定制与修改； 3. 有独立开发逆向分析工具或脚本的经验。",
       "JD": "1. 负责移动端应用（Android/iOS）的逆向分析、漏洞挖掘及安全评估工作； 2. 使用逆向分析工具对目标应用进行静态分析、动态调试及代码跟踪，分析其运行逻辑和安全机制； 3. 研究并突破常见的软件保护技术（如加固、混淆、加密等），掌握脱壳、反混淆等技术； 4. 深入分析 Android 底层运行机制，研究系统漏洞、攻击面及防御方案； 5. 跟踪国内外移动安全领域的最新动态，研究新型攻击手法和防御技术； 6. 编写技术文档、工具脚本，提升团队逆向分析效率。\n1. 熟练掌握IDA Pro、GDB、JEB、lldb等逆向分析工具，具备丰富的静态分析与动态调试经验； 2. 熟悉ARM指令集，能够快速分析二进制文件、跟踪代码逻辑； 3. 掌握常见软件脱壳技术，能够处理加固、混淆的二进制文件； 4. 深入理解Android底层运行机制，包括Binder、Zygote、ART等核心组件； 5. 熟悉浏览器和小程序的运行机制，能够分析其安全风险； 6.对移动安全有强烈的兴趣，持续关注国内外最新的安全动态和技术趋势；具备良好的逻辑思维能力和团队合作精神，能够与团队成员高效协作。 【加分项】 1. 熟悉OLLVM、VMP等混淆保护技术，并具备相关破解经验； 2. 对AOSP（Android 开源项目）源码有深入了解，熟悉ROM定制与修改； 3. 有独立开发逆向分析工具或脚本的经验。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6665,11 +6655,9 @@
       "jobRequirements": "1. 客户服务意识强，具备良好的沟通理解和人际交往能力； 2. 熟悉一种或多种编程语言优先，例如Java/Go/Python； 3. 熟悉云服务/混合云相关技术（k8s/Docker等）； 4. 熟悉计算/操作系统/虚拟化/存储/网络/数据库/安全等产品的基本原理； 5. 具备较强的定位、分析和解决问题的能力； 6. 抗压能力强，有责任心，有良好的团队合作意识。",
       "JD": "1. 负责云计算领域端到端解决方案的设计和交付，主导系统集成、工程问题的处理与闭环，确保项目的成功交付以及客户满意； 2. 负责云上系统的运维，主导业务系统监控和故障处理，通过自动诊断等手段，确保云服务的稳定运行，并持续提升用户体验和产品能力； 3. 基于客户业务场景的解决方案设计，通过工具化等手段快速对云上客户问题进行分析和解决，提升客户满意度； 4. 基于产品及解决方案的演进，进行前瞻性的服务方案设计，实现公共云/混合云/专有云等低成本、高质量的交付与维护； 5. 负责工具体系的设计与开发，构建面向未来的交付、运维和服务平台； 6. 对客户问题归纳总结，沉淀体系化工具平台，理解客户业务场景，推动产品和服务改进。\n1. 客户服务意识强，具备良好的沟通理解和人际交往能力； 2. 熟悉一种或多种编程语言优先，例如Java/Go/Python； 3. 熟悉云服务/混合云相关技术（k8s/Docker等）； 4. 熟悉计算/操作系统/虚拟化/存储/网络/数据库/安全等产品的基本原理； 5. 具备较强的定位、分析和解决问题的能力； 6. 抗压能力强，有责任心，有良好的团队合作意识。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6836,9 +6824,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科以上设计相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "本科以上设计相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6850,11 +6840,11 @@
       "jobRequirements": "1、本科以上设计相关专业； 2、熟悉使用PS和Sketch设计软件，能够输出设计方案并清晰表达设计想法； 3、对互联网产品和设计潮流保持敏锐关注，有创新思维和学习力； 4、有手绘/动画/3D的其中一项特长为加分项。",
       "JD": "1、参与游戏附属平台APP的UI设计，参与风格探索、创意讨论、视觉方案的设计执行和输出； 2、与产品经理、开发团队共同完成产品开发； 3、参与设计团队交流和创新研究，支持视觉侧的设计任务。\n1、本科以上设计相关专业； 2、熟悉使用PS和Sketch设计软件，能够输出设计方案并清晰表达设计想法； 3、对互联网产品和设计潮流保持敏锐关注，有创新思维和学习力； 4、有手绘/动画/3D的其中一项特长为加分项。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上设计相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6933,11 +6923,9 @@
       "jobRequirements": "1.热爱MMO品类/题材的同学优先； 2.既能脑洞大开、天马行空，也能潜心打磨、踏实落地。勤于学习善于思考，能在工作中不断成长提升自我； 3.有一颗不循规蹈矩的心，总想做出点什么不一样的东西；“有趣的灵魂百里挑一”，你坚信你就是那个“一”； 4.热爱游戏，重度用户，至少对某一类型游戏时长达到1000小时以上；热衷于体验各种游戏，是至少10款以上不同类型（主机、端游、网游、手游、独立游戏等）游戏的高级与深度玩家； 5.不小心就能把游戏玩的很好，甚至是获得一些校级以上比赛的名次；能对至少一类游戏研究精通，对其游戏内容、游戏机制了如指掌； 6.善于分享，能把自己的想法清晰地表达出来，感染他人，让团队其他人一起实现、完善你的想法。",
       "JD": "1.以跳脱思维构思规则，用严谨的思维设计丰富内容； 2.你是游戏领航员，参与游戏从构思、研发到发布的全流程，驱动团队朝着目标稳步向前； 3.你是游戏世界的魔法师，构建玩法规则，以丰富的想象力驱动丰富的玩法体验； 4.你是游戏世界运转的舵手，引领玩家在你构建的数值体系里体验战斗的成败、角色成长与经济发展。\n1.热爱MMO品类/题材的同学优先； 2.既能脑洞大开、天马行空，也能潜心打磨、踏实落地。勤于学习善于思考，能在工作中不断成长提升自我； 3.有一颗不循规蹈矩的心，总想做出点什么不一样的东西；“有趣的灵魂百里挑一”，你坚信你就是那个“一”； 4.热爱游戏，重度用户，至少对某一类型游戏时长达到1000小时以上；热衷于体验各种游戏，是至少10款以上不同类型（主机、端游、网游、手游、独立游戏等）游戏的高级与深度玩家； 5.不小心就能把游戏玩的很好，甚至是获得一些校级以上比赛的名次；能对至少一类游戏研究精通，对其游戏内容、游戏机制了如指掌； 6.善于分享，能把自己的想法清晰地表达出来，感染他人，让团队其他人一起实现、完善你的想法。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7019,11 +7007,9 @@
       "jobRequirements": "1.热爱SLG品类的同学优先；对某一类型游戏时长达到1000小时以上，10款以上不同类型（手游、主机、网游、端游、独立游戏等）游戏的深度玩家；能对至少一类游戏研究精通，对其游戏内容、游戏机制了如指掌，甚至是获得一些校级以上比赛的名次； 2.既能脑洞大开、不循规蹈矩，也能潜心打磨、踏实落地； 3.能够有条理表达想法，感染他人，让团队其他人一起实现、完善你的想法。",
       "JD": "1.以跳脱思维构思规则，用严谨的思维设计丰富内容； 2.你是游戏领航员，参与游戏从构思.研发到发布的全流程，驱动团队朝着目标稳步向前； 3.你是游戏世界的魔法师，构建玩法规则，以丰富的想象力驱动丰富的玩法体验； 4.你是游戏世界运转的舵手，引领玩家在你构建的数值体系里体验战斗的成败.角色成长与经济发展。\n1.热爱SLG品类的同学优先；对某一类型游戏时长达到1000小时以上，10款以上不同类型（手游、主机、网游、端游、独立游戏等）游戏的深度玩家；能对至少一类游戏研究精通，对其游戏内容、游戏机制了如指掌，甚至是获得一些校级以上比赛的名次； 2.既能脑洞大开、不循规蹈矩，也能潜心打磨、踏实落地； 3.能够有条理表达想法，感染他人，让团队其他人一起实现、完善你的想法。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7194,11 +7180,9 @@
       "jobRequirements": "1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合； 2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想； 3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历； 4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
       "JD": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等； 2.项目风格及题材：新国风，武侠修仙，轻松治愈； 3.入职1V1导师手把手带教做项目\n1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合； 2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想； 3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历； 4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7279,10 +7263,10 @@
       "jobRequirements": "1、希望热爱游戏、动画、影视等数字娱乐产业，对角色设计充满热情； 2、希望具有良好的美术基本功，对人体结构、比例、动态等有深入的理解； 3、具备强烈的求知欲和优秀的学习能力，对传统文化服饰有一定的了解； 4、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , UE，3ds max，maya，substance painter，photoshop，zbrush等； 5、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
       "JD": "1、根据原画设定，创建高质量、符合项目风格的3D角色模型； 2、对角色形体、比例、结构、材质等精准把控，并能够进行合理的拓扑和UV拆分； 3、你可以和团队紧密合作，包括原画师、动画师、技术美术等，确保角色模型符合项目整体风格和技术要求； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望热爱游戏、动画、影视等数字娱乐产业，对角色设计充满热情； 2、希望具有良好的美术基本功，对人体结构、比例、动态等有深入的理解； 3、具备强烈的求知欲和优秀的学习能力，对传统文化服饰有一定的了解； 4、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , UE，3ds max，maya，substance painter，photoshop，zbrush等； 5、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -7338,9 +7322,9 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-9e0fb12ea926",
+      "id": "alibaba-afa1b1b88800",
       "company": "阿里巴巴",
-      "title": "游戏场景原画（写实）",
+      "title": "游戏动作",
       "graduationYear": [
         "2027"
       ],
@@ -7359,16 +7343,97 @@
         "english": false,
         "minorLanguageRequired": false
       },
+      "location": "上海",
+      "jobDescription": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
+      "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
+      "JD": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907660017",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-9e0fb12ea926",
+      "company": "阿里巴巴",
+      "title": "游戏场景原画（写实）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "油画专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
       "location": "广州",
       "jobDescription": "1、根据游戏世界观设计游戏中的场景、环境、建筑、地形等概念设计，绘制游戏概念图、宣传图等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职 1V1导师手把手带教做项目。",
       "jobRequirements": "1、希望热爱三国题材，对历史建筑感兴趣 or 喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯，具备良好的空间构图和氛围营造能力； 3、简历请附作品，相关作品附件（PDF 格式）或者网页链接，请勿放网盘链接，作品需包含场景原画相关创作。",
       "JD": "1、根据游戏世界观设计游戏中的场景、环境、建筑、地形等概念设计，绘制游戏概念图、宣传图等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职 1V1导师手把手带教做项目。\n1、希望热爱三国题材，对历史建筑感兴趣 or 喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯，具备良好的空间构图和氛围营造能力； 3、简历请附作品，相关作品附件（PDF 格式）或者网页链接，请勿放网盘链接，作品需包含场景原画相关创作。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "油画专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7423,172 +7488,6 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-afa1b1b88800",
-      "company": "阿里巴巴",
-      "title": "游戏动作",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
-      "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
-      "JD": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907660017",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
-      "id": "alibaba-3294312e0cda",
-      "company": "阿里巴巴",
-      "title": "游戏2D动作",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
-      "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
-      "JD": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907800018",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
       "id": "alibaba-10e638b7976f",
       "company": "阿里巴巴",
       "title": "游戏3D场景",
@@ -7615,10 +7514,10 @@
       "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力、团队协助能力和团队意识； 3、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , 3ds max，maya，substance painter，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，热爱游戏，喜爱强调游戏性和创新体验的产品； 5、必备一些中国历史的相关知识，希望对建筑，场景氛围及地理环境设计有一定的理解； 6、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
       "JD": "1、根据世界观的需求设定，负责制作与构思游戏场景，设计并落地，为玩家提供更好的视觉感受与体验； 2、你可以发挥自己的专业能力与团队协助能力给玩家构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界经验丰富美术大佬亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力、团队协助能力和团队意识； 3、希望具备熟悉美术相关工具的使用与技巧，熟练掌握常用的软件和工具，例如：U3d , 3ds max，maya，substance painter，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，热爱游戏，喜爱强调游戏性和创新体验的产品； 5、必备一些中国历史的相关知识，希望对建筑，场景氛围及地理环境设计有一定的理解； 6、简历请附作品，相关作品附件(PDF格式)或者网页链接，请勿放网盘链接。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -7672,9 +7571,9 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-3fca198047c1",
+      "id": "alibaba-3294312e0cda",
       "company": "阿里巴巴",
-      "title": "游戏角色原画（国风二次元）",
+      "title": "游戏2D动作",
       "graduationYear": [
         "2027"
       ],
@@ -7693,16 +7592,97 @@
         "english": false,
         "minorLanguageRequired": false
       },
+      "location": "广州",
+      "jobDescription": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
+      "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
+      "JD": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907800018",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-3fca198047c1",
+      "company": "阿里巴巴",
+      "title": "游戏角色原画（国风二次元）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "油画专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
       "location": "上海",
       "jobDescription": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、场景、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、暗黑悬疑冒险水墨古风； 3、入职1V1导师手把手带教做项目。",
       "jobRequirements": "1、希望热爱三国题材，对历史感兴趣 or 喜欢恐怖悬疑类游戏，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
       "JD": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、场景、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、暗黑悬疑冒险水墨古风； 3、入职1V1导师手把手带教做项目。\n1、希望热爱三国题材，对历史感兴趣 or 喜欢恐怖悬疑类游戏，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "油画专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7769,9 +7749,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "美术、动画、数字媒体等相关专业2027届毕业生",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术、动画、数字媒体等相关专业2027届毕业生"
+        ]
       },
       "language": {
         "raw": "",
@@ -7783,10 +7765,12 @@
       "jobRequirements": "1、美术、动画、数字媒体等相关专业2027届毕业生； 2、具备扎实的绘画基础，擅长二次元赛璐璐风格； 3、具备优秀的二次元游戏审美，了解当前主流二次元游戏的美术风格与市场趋势； 4、学习能力强，能够快速掌握并熟练运用AI绘画工具（如Midjourney、Stable Diffusion等）； 5、对新技术保持敏感度，愿意持续学习行业前沿技术； 6、具备良好的沟通协作能力和团队合作精神。",
       "JD": "1、根据项目策划需求，设计并绘制高质量的角色立绘，角色相关的2D美术资源； 2、与策划.3D美术等团队协作，确保角色设计符合游戏整体风格； 3、参与角色设定的讨论与优化，提供专业的美术建议。\n1、美术、动画、数字媒体等相关专业2027届毕业生； 2、具备扎实的绘画基础，擅长二次元赛璐璐风格； 3、具备优秀的二次元游戏审美，了解当前主流二次元游戏的美术风格与市场趋势； 4、学习能力强，能够快速掌握并熟练运用AI绘画工具（如Midjourney、Stable Diffusion等）； 5、对新技术保持敏感度，愿意持续学习行业前沿技术； 6、具备良好的沟通协作能力和团队合作精神。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "美术、动画、数字媒体等相关专业2027届毕业生"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "美术、动画、数字媒体等相关专业2027届毕业生"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -7855,7 +7839,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "油画专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7869,11 +7853,11 @@
       "jobRequirements": "1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
       "JD": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。\n1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "油画专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7954,10 +7938,10 @@
       "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力、团队协助能力和团队意识； 3、希望具备熟悉美术制作工具的使用，比如U3d ，UE , 3ds max，AE，photoshop等，有手绘能力更佳； 4、希望具备强烈的求知欲和优秀的学习能力，热爱游戏，喜爱强调游戏性和创新体验的产品； 5、简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
       "JD": "1、根据角色定位，武将机制，场景氛围等设计制作战斗.关卡.场景和界面的特效设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力、团队协助能力和团队意识； 3、希望具备熟悉美术制作工具的使用，比如U3d ，UE , 3ds max，AE，photoshop等，有手绘能力更佳； 4、希望具备强烈的求知欲和优秀的学习能力，热爱游戏，喜爱强调游戏性和创新体验的产品； 5、简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -8037,11 +8021,9 @@
       "jobRequirements": "1、了解并能应用核心用户体验设计原则（格式塔原则.启发式方法等）； 2、精通原型设计工具（Adobe XD、Axure、Figma 等），可帮助你设计和迭代不同保真度的线框图； 3、具备好奇心和批判性思维来评估所进行的用户测试和研究； 4、具备玩家视角，能理解玩家的诉求； 5、热爱游戏，并理解用户体验在游戏中的重要性。 【加分项】 1、有游戏行业实习经验； 2、接受过游戏设计相关教育或培训； 3、对不同类型的游戏和平台（PC、移动、主机）有广泛的了解和热爱（简历请附上游戏经历：包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就，喜欢这款游戏的原因等）； 4、因热爱画画拥有不俗的审美，因喜爱文字擅长编辑语言，有一技之长； 5、具备第二语言的技能。",
       "JD": "1、支持 UX 和UI 设计师在游戏系统玩法上创造更舒适的用户体验； 2、应用基本的用户体验设计原则，确保玩家从我们的游戏中获得清晰有效的信息反馈； 3、与游戏设计师合作完善用户旅程，然后制作线框和原型以简化升级整体心流体验； 4、进行用户研究和竞品分析，以更好地了解我们的产品和用户。\n1、了解并能应用核心用户体验设计原则（格式塔原则.启发式方法等）； 2、精通原型设计工具（Adobe XD、Axure、Figma 等），可帮助你设计和迭代不同保真度的线框图； 3、具备好奇心和批判性思维来评估所进行的用户测试和研究； 4、具备玩家视角，能理解玩家的诉求； 5、热爱游戏，并理解用户体验在游戏中的重要性。 【加分项】 1、有游戏行业实习经验； 2、接受过游戏设计相关教育或培训； 3、对不同类型的游戏和平台（PC、移动、主机）有广泛的了解和热爱（简历请附上游戏经历：包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就，喜欢这款游戏的原因等）； 4、因热爱画画拥有不俗的审美，因喜爱文字擅长编辑语言，有一技之长； 5、具备第二语言的技能。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8122,11 +8104,9 @@
       "jobRequirements": "1. 了解并能应用核心用户体验设计原则（格式塔原则.启发式方法等）； 2. 精通原型设计工具（Adobe XD、Axure、Figma 等），可帮助你设计和迭代不同保真度的线框图； 3. 具备好奇心和批判性思维来评估所进行的用户测试和研究； 4. 具备玩家视角，能理解玩家的诉求； 5. 热爱游戏，并理解用户体验在游戏中的重要性。 【加分项】 1. 有游戏行业实习经验； 2. 接受过游戏设计相关教育或培训； 3. 对不同类型的游戏和平台（PC、移动、主机）有广泛的了解和热爱（简历请附上游戏经历：包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就，喜欢这款游戏的原因等）； 4. 因热爱画画拥有不俗的审美，因喜爱文字擅长编辑语言，有一技之长； 5. 具备第二语言的技能。",
       "JD": "1. 支持UX和UI设计师在游戏系统玩法上创造更舒适的用户体验； 2. 应用基本的用户体验设计原则，确保玩家从我们的游戏中获得清晰有效的信息反馈； 3. 与游戏设计师合作完善用户旅程，然后制作线框和原型以简化升级整体心流体验； 4. 进行用户研究和竞品分析，以更好地了解我们的产品和用户。\n1. 了解并能应用核心用户体验设计原则（格式塔原则.启发式方法等）； 2. 精通原型设计工具（Adobe XD、Axure、Figma 等），可帮助你设计和迭代不同保真度的线框图； 3. 具备好奇心和批判性思维来评估所进行的用户测试和研究； 4. 具备玩家视角，能理解玩家的诉求； 5. 热爱游戏，并理解用户体验在游戏中的重要性。 【加分项】 1. 有游戏行业实习经验； 2. 接受过游戏设计相关教育或培训； 3. 对不同类型的游戏和平台（PC、移动、主机）有广泛的了解和热爱（简历请附上游戏经历：包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就，喜欢这款游戏的原因等）； 4. 因热爱画画拥有不俗的审美，因喜爱文字擅长编辑语言，有一技之长； 5. 具备第二语言的技能。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8207,11 +8187,9 @@
       "jobRequirements": "1、了解色彩搭配、排版布局等设计基础，设计具有美感和视觉吸引力的界面； 2、能够熟练运用设计软件，如Adobe Photoshop、Illustrator等，结合功能和视觉需求产出优秀的用户界面； 3、具备对游戏行业的热情和持续学习态度，能够清晰表达设计理念，与其他团队成员密切合作、共同完成项目的共创。 备注： 1、热爱游戏，简历请附上游戏经历：包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就、喜欢这款游戏的原因等； 2、可附游戏相关作品或实习经历。",
       "JD": "1、根据游戏类型和风格设定，发挥自己的美学基础和设计理念，构建有沉浸感和操作体验流畅自然的游戏界面； 2、通过项目实践，接触和学习工业化的研发流程，接触从概念设计至研发落地的管线，了解真实的游戏研发环境，一起共同创作； 3、加入团队后可获得规范培训，安排至合适的项目中，得到资深前辈的专业指导和多方面交流机会，在具体的研发流程中，找到贴合自己喜好的发展方向，累积业务经验。\n1、了解色彩搭配、排版布局等设计基础，设计具有美感和视觉吸引力的界面； 2、能够熟练运用设计软件，如Adobe Photoshop、Illustrator等，结合功能和视觉需求产出优秀的用户界面； 3、具备对游戏行业的热情和持续学习态度，能够清晰表达设计理念，与其他团队成员密切合作、共同完成项目的共创。 备注： 1、热爱游戏，简历请附上游戏经历：包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就、喜欢这款游戏的原因等； 2、可附游戏相关作品或实习经历。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8293,11 +8271,9 @@
       "jobRequirements": "1、了解色彩搭配、排版布局等设计基础，设计具有美感和视觉吸引力的界面； 2、能够熟练运用设计软件，如Adobe Photoshop、Illustrator等，结合功能和视觉需求产出优秀的用户界面； 3、具备对游戏行业的热情和持续学习态度，能够清晰表达设计理念，与其他团队成员密切合作、共同完成项目的共创。 备注： 1、热爱游戏，喜欢三国的优先； 2、简历请附上游戏经历：包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就，喜欢这款游戏的原因等； 3、可附游戏相关作品或实习经历。",
       "JD": "1、根据游戏类型和风格设定，发挥自己的美学基础和设计理念，构建有沉浸感和操作体验流畅自然的游戏界面； 2、通过项目实践，接触和学习工业化的研发流程，接触从概念设计至研发落地的管线，了解真实的游戏研发环境.一起共同创作； 3、加入团队后可获得规范培训，安排至合适的项目中，得到资深前辈的专业指导和多方面交流机会，在具体的研发流程中，找到贴合自己喜好的发展方向，累积业务经验。\n1、了解色彩搭配、排版布局等设计基础，设计具有美感和视觉吸引力的界面； 2、能够熟练运用设计软件，如Adobe Photoshop、Illustrator等，结合功能和视觉需求产出优秀的用户界面； 3、具备对游戏行业的热情和持续学习态度，能够清晰表达设计理念，与其他团队成员密切合作、共同完成项目的共创。 备注： 1、热爱游戏，喜欢三国的优先； 2、简历请附上游戏经历：包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就，喜欢这款游戏的原因等； 3、可附游戏相关作品或实习经历。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8379,16 +8355,10 @@
       "jobRequirements": "1. 工程能力： 扎实的编程功底，精通 Go 或 Python，具备大型分布式系统或研发工具平台的开发经验； 2. AI/LLM 背景： 熟悉 OpenAI/LangChain/LlamaIndex 等技术框架，有 AI Agent、Prompt Engineering 或模型微调（SFT）实际落地经验者优先； 3. 自动化/基建： 精通 Docker/K8s 容器化技术，深入理解 CI/CD 原理，有 Jenkins/GitLab CI 深度定制开发经验； 4. 算法视野： 了解常用的机器学习算法（如时序预测、聚类分析、Isolation Forest 等），能将其应用于日志分析或异常预测场景； 5. 极客精神： 对提升研发效率有近乎偏执的追求，善于从重复劳动中发现问题并将其转化为工具或平台。",
       "JD": "1. 基于 LLM 的智能质量体系设计： 深入业务场景，利用大语言模型（LLM）对需求文档、技术方案进行语义分析，自动生成测试矩阵与核心用例；设计并实现“AI 质量门禁”，在代码合入前自动进行影响面评估与自动化回归； 2. 研发下一代 AI Testing Agent： 开发具备自愈能力的 AI Testing Agent，能够模拟真实用户行为进行探索性测试；利用 Agent 技术实现测试脚本的自动维护与修复，解决传统 UI 自动化维护成本高的痛点； 3. 构建智能化 CI/CD 平台： 设计并开发高可用的持续集成与交付流水线。引入 AI 智能决策模型，实现测试套件的高效并发调度、构建失败的自动根因分析（Auto-Root Cause Analysis）以及发布风险的实时预测； 4. AIOps 与智能观察力建设： 使用 Python、Go 开发基础设施即代码（IaC）工具。集成 Prometheus、ELK 等技术栈，应用时序预测与异常检测算法，构建具备“语义理解”能力的监控告警系统，实现故障的秒级感知与 Agent 辅助自愈； 5. LLM 驱动的代码治理与安全： 研发基于 LLM 的静态代码分析插件与安全审计工具。通过 Agent 自动扫描代码漏洞、架构违规及性能隐患，并提供生产级的自动化修复建议（Auto-Fix）； 6. 研发全生命周期效能度量： 通过数据挖掘技术，沉淀产研全流程数据，构建智能化效能度量体系。利用 AI 挖掘流程瓶颈，通过工具化的手段解决研发过程中的“脏活累活”，极致提升整体交付质量与效率。\n1. 工程能力： 扎实的编程功底，精通 Go 或 Python，具备大型分布式系统或研发工具平台的开发经验； 2. AI/LLM 背景： 熟悉 OpenAI/LangChain/LlamaIndex 等技术框架，有 AI Agent、Prompt Engineering 或模型微调（SFT）实际落地经验者优先； 3. 自动化/基建： 精通 Docker/K8s 容器化技术，深入理解 CI/CD 原理，有 Jenkins/GitLab CI 深度定制开发经验； 4. 算法视野： 了解常用的机器学习算法（如时序预测、聚类分析、Isolation Forest 等），能将其应用于日志分析或异常预测场景； 5. 极客精神： 对提升研发效率有近乎偏执的追求，善于从重复劳动中发现问题并将其转化为工具或平台。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "问题根因",
-          "技术评估",
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -8469,11 +8439,9 @@
       "jobRequirements": "1、熟悉热门和口碑的动漫作品，对玄幻、仙侠、都市异能等热门题材有深入了解 2、具备商业思维和用户视角 ，了解动画创作的新动态、新趋势，思维敏捷，表达能力强 3、积极主动，优秀的沟通能力，有团队协助能力及跨部门协助经验 4、熟悉AI技术发展的进程和趋势，对新兴技术感兴趣",
       "JD": "1、负责动画剧集的前期开发与立项；根据业务需求，完成策划选题，进行世界观、剧情人物架构等设计 2、保障项目的上线时间和品质，监制动画制作 3、关注市场流行趋势，大量阅读网络文学，挖掘创新类题材，作为IP储备 4、探索动漫行业与AIGC技术应用的结合，推进动漫生产质量和效率的提升\n1、熟悉热门和口碑的动漫作品，对玄幻、仙侠、都市异能等热门题材有深入了解 2、具备商业思维和用户视角 ，了解动画创作的新动态、新趋势，思维敏捷，表达能力强 3、积极主动，优秀的沟通能力，有团队协助能力及跨部门协助经验 4、熟悉AI技术发展的进程和趋势，对新兴技术感兴趣",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8542,9 +8510,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "中文、戏文等相关专业本科以上学历",
+        "hardRestriction": true,
+        "hardClauses": [
+          "中文、戏文等相关专业本科以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -8556,11 +8526,11 @@
       "jobRequirements": "1、对剧集&IP市场有高度敏感，有剧集内容策划、责编或编剧经验者优先； 2、具有较强的创意敏感度与发掘能力；有较强的创作思维与落地执行的能力；良好的沟通表达和抗压能力，心态阳光、积极乐观；善于与他人协作沟通协作，富有团队合作精神；学习能力强，对新鲜内容事物接受度高； 3、对内容行业有激情，热爱有自驱力，责任心和执行力强，恪守道德标准和商业行为准则； 4、中文、戏文等相关专业本科以上学历，优秀的文学素养，阅读量大且广泛，阅片量大。",
       "JD": "1、负责公司原创内容的研发工作，从选题立项到剧本开发完成，全流程参与创作选题、大纲、剧本等，把控内容方向，优化内容质量； 2、剧本开发过程中担任责编/策划，合作编剧、组织调研、评估反馈、剧本进度推进等具体工作； 3、关注市场信息，捕捉IP、剧集市场动态，观察用户行为习惯，对内容行业、竞品内容进行分析研究，挖掘创新类题材，制定出有效的项目可行性方案，规划发展方向，促进内容落地； 4、定期组织创意选题会，按周期上报自研策划选题； 5、关注市场信息，挖掘有潜力的编剧签约合作。\n1、对剧集&IP市场有高度敏感，有剧集内容策划、责编或编剧经验者优先； 2、具有较强的创意敏感度与发掘能力；有较强的创作思维与落地执行的能力；良好的沟通表达和抗压能力，心态阳光、积极乐观；善于与他人协作沟通协作，富有团队合作精神；学习能力强，对新鲜内容事物接受度高； 3、对内容行业有激情，热爱有自驱力，责任心和执行力强，恪守道德标准和商业行为准则； 4、中文、戏文等相关专业本科以上学历，优秀的文学素养，阅读量大且广泛，阅片量大。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "中文、戏文等相关专业本科以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8830,11 +8800,9 @@
       "jobRequirements": "Minimum qualification: 1.Proficiency in C/C++ programming, experience with Python or other scripting languages. 2.Familiarity with commonly used algorithms, data structures, network programming and multi-threaded programming. 3.Excellent communication skills. Highly independent, open-minded and collaborative. 4.Creative, willing to face challenges and responsible. 5.Team work spirit: honest, diligent, and rigorous. Preferred qualification: 1.Hands-on and seasoned experience in development of cloud infrastructures. 2.Deep knowledge to the internals of open source systems such as Linux, HBase,Cassandra, Hadoop, Kubernetes, and so on. 3.Development experiences with Paxos, Raft and other fault-tolerant protocols. 4.Passionate about technology, demonstrated ability to generate new ideas and innovations. 5.Prior research experiences demonstrated by publications or open-source software. 6.Cross-team and inter-departemnt collaboration experiences.",
       "JD": "In Alibaba Cloud, we provide the fundamental Cloud technology and infrastructure to help merchants, brands and other businesses that provide products, services and digital content to leverage the power of the Internet to engage with their users and customers. Our team is tasked to build the core components of Alibaba cloud storage. We have created a planetary scale distributed systems that handles hundreds of billions of requests per day and stores multiple exabytes of data. We are constantly delivering the next killer feature and tackling interesting challenges in technologies such as big-data, Cloud Native, and etc. We provide reliable, highly scalable and highly performing distributed file system services on which our users build their mission critical services. This is a hands-on position where you will be asked to perform work from building rock-solid components to formulate strategy and evangelize technology, mentor other engineers and provide training and support for our supported technologies. Below are some of the responsibilities you will have: 1.Design, developing and testing large-scale cloud storage services. 2.Large-scale software system deployment, management, monitoring, and diagnosis. 3.Creating innovative solutions toward system scalability, reliability, and availability problems. 4.Creating innovative solutions to tackle the engineering challenges of very complex distributed system software.\nMinimum qualification: 1.Proficiency in C/C++ programming, experience with Python or other scripting languages. 2.Familiarity with commonly used algorithms, data structures, network programming and multi-threaded programming. 3.Excellent communication skills. Highly independent, open-minded and collaborative. 4.Creative, willing to face challenges and responsible. 5.Team work spirit: honest, diligent, and rigorous. Preferred qualification: 1.Hands-on and seasoned experience in development of cloud infrastructures. 2.Deep knowledge to the internals of open source systems such as Linux, HBase,Cassandra, Hadoop, Kubernetes, and so on. 3.Development experiences with Paxos, Raft and other fault-tolerant protocols. 4.Passionate about technology, demonstrated ability to generate new ideas and innovations. 5.Prior research experiences demonstrated by publications or open-source software. 6.Cross-team and inter-departemnt collaboration experiences.",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9192,11 +9160,9 @@
       "jobRequirements": "1. 精通C/C++等开发语言，有良好的算法和数据结构基础； 2. 有分布式存储、文件系统、数据库、网络、操作系统等至少一个领域的工作经验，并深入理解该领域技术； 3. 熟悉 Linux，有相关开发经验，熟练使用调试工具，并熟悉某种脚本语言； 4. 热爱底层技术，有追求极致性能和工程质量的热情； 5. 有良好的沟通能力和团队意识，以及追根究底、认真负责的态度。 加分项： 1.深入理解分布式存储&文件系统的原理，了解主流文件系统如 NAS、Ceph、 Lustre、GPFS 等，了解分布式系统的原理和实现 Paxos、Raft，了解 KV 存储 RocksDB、LevelDB； 2. 具有系统软件研发经验，如操作系统，存储系统，分布式系统等大规模系统软件，有在Linux进行profiling、性能问题分析的经验； 3. 深入理解数据库的中间件、解析器、优化器、执行器、MVCC、锁、日志、缓存区、存储、主备高可用等一个或多个模块原理； 4. 有网络协议、RDMA技术等开发经验； 5. 有高性能、高并发服务器开发经验。",
       "JD": "1. 支持阿里云自研云原生数据库PolarDB PolarFS2.0开发，支持百PB级存储规模横向扩展，构建多点读写挂载能力，基于OSS通用存储池打造多存储介质的cloud-tier分层存储和自动冷热分层； 2. 对接PolarDB PG多模态、PolarDB IMCI、PolarSearch、Polar4AI的I/O需求和性能优化； 3. 基于CXL内存池，参与和PolarDB数据库内核团队深度配合的全链路协同研发&优化； 4. 制定稳定性策略，寻找并解决产品系统中的潜在风险和瓶颈，覆盖线上疑难杂症问题，确保系统的安全可靠； 5. 理解业务战略及重点，基于业务需求作出高可用、高可靠、高拓展性的技术架构规划和落地。\n1. 精通C/C++等开发语言，有良好的算法和数据结构基础； 2. 有分布式存储、文件系统、数据库、网络、操作系统等至少一个领域的工作经验，并深入理解该领域技术； 3. 熟悉 Linux，有相关开发经验，熟练使用调试工具，并熟悉某种脚本语言； 4. 热爱底层技术，有追求极致性能和工程质量的热情； 5. 有良好的沟通能力和团队意识，以及追根究底、认真负责的态度。 加分项： 1.深入理解分布式存储&文件系统的原理，了解主流文件系统如 NAS、Ceph、 Lustre、GPFS 等，了解分布式系统的原理和实现 Paxos、Raft，了解 KV 存储 RocksDB、LevelDB； 2. 具有系统软件研发经验，如操作系统，存储系统，分布式系统等大规模系统软件，有在Linux进行profiling、性能问题分析的经验； 3. 深入理解数据库的中间件、解析器、优化器、执行器、MVCC、锁、日志、缓存区、存储、主备高可用等一个或多个模块原理； 4. 有网络协议、RDMA技术等开发经验； 5. 有高性能、高并发服务器开发经验。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9263,7 +9229,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "计算机科学、人工智能、数学或相关领域的博士学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9277,15 +9243,12 @@
       "jobRequirements": "1、计算机科学、人工智能、数学或相关领域的博士学历； 2、具备扎实的工程能力，优良的编程风格，熟悉Java/Python等面向对象编程语言，以及常用设计模式； 3、具备 AI 多模态预处理相关实践经验，熟悉Python处理如RayData相关框架或vLLM推理框架优先； 4、在OSDI/SIGMOD/VLDB等顶级系统领域/大数据领域的会议上发表过论文； 5、善于沟通与团队协作，具备良好的中英文书面及口头表达能力。",
       "JD": "1、深度参与Apache Paimon湖格式核心架构设计与研发,重点攻关统一多模态表格式存储设计,推动开源生态发展； 2、负责多模态数据(视频、图像、音频、3D点云)的索引结构设计、数据局部性优化、预取策略和压缩编码,降低到大模型训练集群的IO延迟； 3、协同各大计算引擎(Spark/Flink/TRINO/vLLM/Ray),实现Paimon与AI推理与训练生态的全链路对接； 4、积极参与Apache Paimon开源社区核心贡献与标准制定,推动多模态湖仓版本演进,提升国际影响力； 5、深度参与DLF湖仓产品的能力建设,对接内外部客户对湖仓的需求,将技术成果抽象总结为产品技术能力。\n1、计算机科学、人工智能、数学或相关领域的博士学历； 2、具备扎实的工程能力，优良的编程风格，熟悉Java/Python等面向对象编程语言，以及常用设计模式； 3、具备 AI 多模态预处理相关实践经验，熟悉Python处理如RayData相关框架或vLLM推理框架优先； 4、在OSDI/SIGMOD/VLDB等顶级系统领域/大数据领域的会议上发表过论文； 5、善于沟通与团队协作，具备良好的中英文书面及口头表达能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "计算机科学、人工智能、数学或相关领域的博士学历"
         ],
-        "technicalDuties": [
-          "结构/原理",
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -9368,14 +9331,10 @@
       "jobRequirements": "1、扎实的机器学习/深度学习基础，熟悉大模型评测方法（LLM-as-a-Judge、红队测试、对抗评测等）； 2、深入理解 Claude、OpenAI 等顶尖实验室的模型评测技术体系，具备改进与创新能力； 3、对安全攻防有强烈兴趣，具备构造 Corner Case 和对抗样本的偏执热情，擅长逼出 AI 能力边界； 4、优秀的算法工程能力，能够将评测理念转化为可落地的系统架构； 5、有 CCF-A/NeurIPS/ICML/Security 等顶会论文，或 DEF CON/GEEKPWN/强网杯等竞赛经验者优先。",
       "JD": "1、设计面向云安全场景（入侵检测、自动化渗透、合规审计）的大模型评测体系，定义“懂安全的 AI”量化标准； 2、落地自动化攻击算法，构建红蓝智能体对抗环境，持续挑战 AI 极限，评估其接管复杂防御决策的资质； 3、深入研究并创新应用 Claude、OpenAI评测框架等前沿技术，构建云安全领域的评测标杆； 4、探索多智能体对抗、自动化反馈强化学习等技术，实现评测结果直接驱动模型进化的闭环系统。\n1、扎实的机器学习/深度学习基础，熟悉大模型评测方法（LLM-as-a-Judge、红队测试、对抗评测等）； 2、深入理解 Claude、OpenAI 等顶尖实验室的模型评测技术体系，具备改进与创新能力； 3、对安全攻防有强烈兴趣，具备构造 Corner Case 和对抗样本的偏执热情，擅长逼出 AI 能力边界； 4、优秀的算法工程能力，能够将评测理念转化为可落地的系统架构； 5、有 CCF-A/NeurIPS/ICML/Security 等顶会论文，或 DEF CON/GEEKPWN/强网杯等竞赛经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -9453,11 +9412,9 @@
       "jobRequirements": "1、精通c++/python，熟悉llm推理框架（sglang/vllm）kernel开发&优化经验； 2、熟悉GPU架构，具备cuda/triton kernel开发&调优能力； 3、熟悉算子融合、量化等技术，对MOE, FlashAttention有比较深入了解和实际经验。 加分项： 1、有LLVM、Triton、tilelang相关经验，有编译优化、codegen相关经验； 2、有强烈技术热情和好奇心，自驱力和学习力强；具备良好的分析与解决问题的能力、沟通以及团队合作能力；喜欢挑战性的技术研发工作，善于攻坚克难，有创新热情，积极乐观，坚韧抗压，结果导向，能够持续推动问题的解决和突破。",
       "JD": "1、分析并优化NV/国产芯片大规模部署下主流模型（Deepseek、GLM、Kimi）性能，研究和优化关键算子性能，降低latency，提高MFU； 2、对LLM推理全链路效率有深入认知，探索并利用AI dsl能力推动关键链路的op fusion、meag kernel、auto-tuning&codegen、compute overlap，并能够独立在infra上验证or完成上线。\n1、精通c++/python，熟悉llm推理框架（sglang/vllm）kernel开发&优化经验； 2、熟悉GPU架构，具备cuda/triton kernel开发&调优能力； 3、熟悉算子融合、量化等技术，对MOE, FlashAttention有比较深入了解和实际经验。 加分项： 1、有LLVM、Triton、tilelang相关经验，有编译优化、codegen相关经验； 2、有强烈技术热情和好奇心，自驱力和学习力强；具备良好的分析与解决问题的能力、沟通以及团队合作能力；喜欢挑战性的技术研发工作，善于攻坚克难，有创新热情，积极乐观，坚韧抗压，结果导向，能够持续推动问题的解决和突破。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9614,7 +9571,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "计算机科学、电子工程、人工智能或相关领域博士研究生。",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9628,15 +9585,12 @@
       "jobRequirements": "1. 计算机科学、电子工程、人工智能或相关领域博士研究生。 2. 具备大语言模型及 Agent 系统开发经验，熟悉 Prompt Engineering、模型评测、RAG/向量检索及常见 Agent 框架；有代码生成相关项目经验者优先。 3. 熟悉模型后训练方法，具备 SFT、RLHF/RLAIF、DPO/PPO/GRPO 等一种或多种方法的实践经验，能够围绕业务目标构建训练数据、奖励机制与评测体系。 4. 熟悉 AI 芯片架构（如 GPU/NPU/TPU），掌握 CUDA、Triton、OpenCL、MLIR、TVM 等至少一种编程或优化技术。 5. 具备多智能体系统开发经验，熟悉任务规划、工具调用、反思优化、分布式协作等机制；有 AutoGen、LangGraph、MetaGPT 等框架经验者优先。 6. 扎实的编程能力，熟练使用 Python/C++，具备良好的系统设计与工程落地能力。 7. 具备编译原理、高性能计算（HPC）、算子开发、自动代码优化或 AI 编译器相关经验者优先。 8. 有训练数据构建、自动评测、模型迭代闭环建设经验者优先；有芯片软件栈、编译器或算子库实际落地经验者优先。",
       "JD": "1. 基于 LLM 的高性能算子/Kernel 代码生成系统开发：设计并开发异构GPU 高性能Kernel 的自动生成系统，覆盖算子实现、调度优化、内存管理、并行计算等关键模块；结合目标芯片架构特性（如计算单元、存储层次、指令集、通信机制等），持续提升生成代码的性能。 2. 模型后训练与 Agent 能力增强：构建面向高性能算子生成的数据闭环，设计并沉淀 SFT 数据集、偏好数据与 reward 机制；基于 SFT、RL 等后训练方法对模型进行微调，增强 Agent 对芯片约束、性能瓶颈和优化策略的理解，使其能够更稳定地生成高性能算子代码。 3. 多智能体协同系统构建：搭建多智能体协作框架，实现需求理解、代码生成、错误修复、版本对比等任务的自动化闭环；研究智能体分工、通信、反思与决策机制，提升系统在复杂场景下的鲁棒性、生成效率与优化质量。 4. 技术落地与前沿探索：与芯片、编译器和算子团队协作，结合具体硬件特性和业务场景推动技术落地；持续跟踪 LLM 代码生成、模型后训练、多智能体系统与 AI 编译优化等方向的前沿进展，并输出技术文档、专利或论文。\n1. 计算机科学、电子工程、人工智能或相关领域博士研究生。 2. 具备大语言模型及 Agent 系统开发经验，熟悉 Prompt Engineering、模型评测、RAG/向量检索及常见 Agent 框架；有代码生成相关项目经验者优先。 3. 熟悉模型后训练方法，具备 SFT、RLHF/RLAIF、DPO/PPO/GRPO 等一种或多种方法的实践经验，能够围绕业务目标构建训练数据、奖励机制与评测体系。 4. 熟悉 AI 芯片架构（如 GPU/NPU/TPU），掌握 CUDA、Triton、OpenCL、MLIR、TVM 等至少一种编程或优化技术。 5. 具备多智能体系统开发经验，熟悉任务规划、工具调用、反思优化、分布式协作等机制；有 AutoGen、LangGraph、MetaGPT 等框架经验者优先。 6. 扎实的编程能力，熟练使用 Python/C++，具备良好的系统设计与工程落地能力。 7. 具备编译原理、高性能计算（HPC）、算子开发、自动代码优化或 AI 编译器相关经验者优先。 8. 有训练数据构建、自动评测、模型迭代闭环建设经验者优先；有芯片软件栈、编译器或算子库实际落地经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "计算机科学、电子工程、人工智能或相关领域博士研究生。"
         ],
-        "technicalDuties": [
-          "模型/算法",
-          "开发实现"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -9681,6 +9635,90 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680055",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-4cf62209aa0d",
+      "company": "阿里巴巴",
+      "title": "面向AI的高性能分布式存储系统研发-阿里星/A Star",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、为EBS的稳定、性能、成本技术演进和架构设计和技术创新落地，构建稳定可靠，性能优越，具有成本优势的先进分布式块存储系统； 2、AI 对存储吞吐有非常高的要求，本岗位需要面向AI场景将存储带宽做到物理极限，同时大幅降低成本； 3、OLTP 客户对EBS的延迟和长尾要求非常高，在高吞吐的背景下，需要通过流量整形，优先级调度，CPU网络的强隔离，微观时间片上的均匀化等技术来有效控制系统的延迟。",
+      "jobRequirements": "1、精通分布式存储理论； 2、对Linux内核，IO 协议栈，NVMe 协议有深入的了解和实践； 3、熟悉网络编程，对多路复用，RDMA 技术有较好的实践； 4、熟悉DPU，智能网卡，硬件卸载是加分项； 5、在FAST/OSDI等顶会发表存储相关论文，有参与Ceph、JuiceFS、Alluxio等开源项目核心模块开发经验； 6、对AI有浓厚的兴趣，积极学习和应用各种AI工具，熟悉AI场景对存储的需求； 7、学习能力强，有技术热情，有较强的问题分析和技术攻关能力、良好的工程能力，能写出高质量的代码。善于沟通合作，以结果为导向，推动跨团队项目合作。",
+      "JD": "1、为EBS的稳定、性能、成本技术演进和架构设计和技术创新落地，构建稳定可靠，性能优越，具有成本优势的先进分布式块存储系统； 2、AI 对存储吞吐有非常高的要求，本岗位需要面向AI场景将存储带宽做到物理极限，同时大幅降低成本； 3、OLTP 客户对EBS的延迟和长尾要求非常高，在高吞吐的背景下，需要通过流量整形，优先级调度，CPU网络的强隔离，微观时间片上的均匀化等技术来有效控制系统的延迟。\n1、精通分布式存储理论； 2、对Linux内核，IO 协议栈，NVMe 协议有深入的了解和实践； 3、熟悉网络编程，对多路复用，RDMA 技术有较好的实践； 4、熟悉DPU，智能网卡，硬件卸载是加分项； 5、在FAST/OSDI等顶会发表存储相关论文，有参与Ceph、JuiceFS、Alluxio等开源项目核心模块开发经验； 6、对AI有浓厚的兴趣，积极学习和应用各种AI工具，熟悉AI场景对存储的需求； 7、学习能力强，有技术热情，有较强的问题分析和技术攻关能力、良好的工程能力，能写出高质量的代码。善于沟通合作，以结果为导向，推动跨团队项目合作。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680050",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -9774,182 +9812,6 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700044",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
-      "id": "alibaba-4cf62209aa0d",
-      "company": "阿里巴巴",
-      "title": "面向AI的高性能分布式存储系统研发-阿里星/A Star",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、为EBS的稳定、性能、成本技术演进和架构设计和技术创新落地，构建稳定可靠，性能优越，具有成本优势的先进分布式块存储系统； 2、AI 对存储吞吐有非常高的要求，本岗位需要面向AI场景将存储带宽做到物理极限，同时大幅降低成本； 3、OLTP 客户对EBS的延迟和长尾要求非常高，在高吞吐的背景下，需要通过流量整形，优先级调度，CPU网络的强隔离，微观时间片上的均匀化等技术来有效控制系统的延迟。",
-      "jobRequirements": "1、精通分布式存储理论； 2、对Linux内核，IO 协议栈，NVMe 协议有深入的了解和实践； 3、熟悉网络编程，对多路复用，RDMA 技术有较好的实践； 4、熟悉DPU，智能网卡，硬件卸载是加分项； 5、在FAST/OSDI等顶会发表存储相关论文，有参与Ceph、JuiceFS、Alluxio等开源项目核心模块开发经验； 6、对AI有浓厚的兴趣，积极学习和应用各种AI工具，熟悉AI场景对存储的需求； 7、学习能力强，有技术热情，有较强的问题分析和技术攻关能力、良好的工程能力，能写出高质量的代码。善于沟通合作，以结果为导向，推动跨团队项目合作。",
-      "JD": "1、为EBS的稳定、性能、成本技术演进和架构设计和技术创新落地，构建稳定可靠，性能优越，具有成本优势的先进分布式块存储系统； 2、AI 对存储吞吐有非常高的要求，本岗位需要面向AI场景将存储带宽做到物理极限，同时大幅降低成本； 3、OLTP 客户对EBS的延迟和长尾要求非常高，在高吞吐的背景下，需要通过流量整形，优先级调度，CPU网络的强隔离，微观时间片上的均匀化等技术来有效控制系统的延迟。\n1、精通分布式存储理论； 2、对Linux内核，IO 协议栈，NVMe 协议有深入的了解和实践； 3、熟悉网络编程，对多路复用，RDMA 技术有较好的实践； 4、熟悉DPU，智能网卡，硬件卸载是加分项； 5、在FAST/OSDI等顶会发表存储相关论文，有参与Ceph、JuiceFS、Alluxio等开源项目核心模块开发经验； 6、对AI有浓厚的兴趣，积极学习和应用各种AI工具，熟悉AI场景对存储的需求； 7、学习能力强，有技术热情，有较强的问题分析和技术攻关能力、良好的工程能力，能写出高质量的代码。善于沟通合作，以结果为导向，推动跨团队项目合作。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680050",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
-      "id": "alibaba-f690a14106e0",
-      "company": "阿里巴巴",
-      "title": "AI Native数据计算引擎：原子化智能算子、DAG 编排与混合查询优化-阿里星/A Star",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "加入阿里云 Hologres 团队，参与构建面向 AI Native 时代的新一代数据计算引擎。Hologres 是阿里云一站式实时数仓与湖仓一体数据引擎，支撑高并发实时写入、PB 级分析、向量检索、多模检索和在线服务等核心场景。 随着大模型、智能体和企业级 AI 应用快速发展，数据计算的边界正在从传统结构化分析，扩展到语义理解、知识抽取、语义关联、多模态检索、RAG 构建、智能 BI 和 Agentic 任务执行。我们希望探索并构建 AI Native 数据计算引擎：原子化智能算子、DAG 编排与混合查询优化，让传统数据处理、AI 推理和复杂智能任务编排能够在统一引擎内高效完成。 你将参与定义 AI Native 数据计算的新范式：抽象原子化智能算子，构建复杂 AI 任务的 DAG 编排能力，打通智能算子与传统关系算子、向量检索算子、多模检索算子的混合执行，并围绕成本、性能、质量和稳定性设计新型优化机制。 岗位职责 1. 参与 AI Native 数据计算引擎核心能力建设，探索传统关系计算、语义推理、多模态检索和 Agentic 执行的一体化架构。 2. 设计原子化智能算子体系，支持语义过滤、知识抽取、语义 Join、智能聚合、结果校验、置信度判断等 AI Native 数据处理能力。 3. 构建智能算子的工程化 harness，支持多模型适配、prompt 管理、工具调用、评测回归、失败恢复和效果持续优化。 4. 研究复杂 AI 任务的 DAG 编排机制，实现任务拆解、依赖分析、并行执行、中间结果复用、异常恢复和可观测执行。 5. 探索智能算子与 Scan、Filter、Join、Aggregate、Index Scan、Vector Search 等传统数据算子的混合执行与联合优化。 6. 建设面向 Agentic DAG 和混合查询的成本模型与优化器，在延迟、吞吐、资源成本、模型质量、置信度和业务 SLA 之间取得最优平衡。",
-      "jobRequirements": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先。 2. 具备扎实的计算机基础，熟悉数据结构、算法、操作系统、分布式系统、数据库系统等基础知识。 3. 对数据库、查询优化、分布式计算、大数据系统、湖仓一体、向量检索、机器学习系统或大模型应用有浓厚兴趣。 4. 具备优秀的工程能力，熟悉 C++、Java、Go、Python 等至少一种编程语言。 5. 对 AI Native 数据基础设施、Agent、RAG、多模态检索、模型推理优化等方向有探索热情。 6. 具备较强的问题抽象能力、系统性思考能力和自驱力，愿意挑战开放性、前沿性技术问题。 加分项 1. 有数据库/大数据系统内核、查询优化器、分布式计算引擎、向量数据库、检索系统相关研究或实践经验。 2. 有大模型应用、Agent 框架、RAG 系统、模型评测、prompt engineering、多模型路由相关项目经验。 3. 在数据库、分布式系统、机器学习系统、AI Infra 等方向有高质量论文、竞赛、开源项目或实习经历。 4. 对系统性能优化、成本优化、可观测性、可靠性工程有深入兴趣。",
-      "JD": "加入阿里云 Hologres 团队，参与构建面向 AI Native 时代的新一代数据计算引擎。Hologres 是阿里云一站式实时数仓与湖仓一体数据引擎，支撑高并发实时写入、PB 级分析、向量检索、多模检索和在线服务等核心场景。 随着大模型、智能体和企业级 AI 应用快速发展，数据计算的边界正在从传统结构化分析，扩展到语义理解、知识抽取、语义关联、多模态检索、RAG 构建、智能 BI 和 Agentic 任务执行。我们希望探索并构建 AI Native 数据计算引擎：原子化智能算子、DAG 编排与混合查询优化，让传统数据处理、AI 推理和复杂智能任务编排能够在统一引擎内高效完成。 你将参与定义 AI Native 数据计算的新范式：抽象原子化智能算子，构建复杂 AI 任务的 DAG 编排能力，打通智能算子与传统关系算子、向量检索算子、多模检索算子的混合执行，并围绕成本、性能、质量和稳定性设计新型优化机制。 岗位职责 1. 参与 AI Native 数据计算引擎核心能力建设，探索传统关系计算、语义推理、多模态检索和 Agentic 执行的一体化架构。 2. 设计原子化智能算子体系，支持语义过滤、知识抽取、语义 Join、智能聚合、结果校验、置信度判断等 AI Native 数据处理能力。 3. 构建智能算子的工程化 harness，支持多模型适配、prompt 管理、工具调用、评测回归、失败恢复和效果持续优化。 4. 研究复杂 AI 任务的 DAG 编排机制，实现任务拆解、依赖分析、并行执行、中间结果复用、异常恢复和可观测执行。 5. 探索智能算子与 Scan、Filter、Join、Aggregate、Index Scan、Vector Search 等传统数据算子的混合执行与联合优化。 6. 建设面向 Agentic DAG 和混合查询的成本模型与优化器，在延迟、吞吐、资源成本、模型质量、置信度和业务 SLA 之间取得最优平衡。\n1. 计算机、软件工程、人工智能、数据科学等相关专业优先。 2. 具备扎实的计算机基础，熟悉数据结构、算法、操作系统、分布式系统、数据库系统等基础知识。 3. 对数据库、查询优化、分布式计算、大数据系统、湖仓一体、向量检索、机器学习系统或大模型应用有浓厚兴趣。 4. 具备优秀的工程能力，熟悉 C++、Java、Go、Python 等至少一种编程语言。 5. 对 AI Native 数据基础设施、Agent、RAG、多模态检索、模型推理优化等方向有探索热情。 6. 具备较强的问题抽象能力、系统性思考能力和自驱力，愿意挑战开放性、前沿性技术问题。 加分项 1. 有数据库/大数据系统内核、查询优化器、分布式计算引擎、向量数据库、检索系统相关研究或实践经验。 2. 有大模型应用、Agent 框架、RAG 系统、模型评测、prompt engineering、多模型路由相关项目经验。 3. 在数据库、分布式系统、机器学习系统、AI Infra 等方向有高质量论文、竞赛、开源项目或实习经历。 4. 对系统性能优化、成本优化、可观测性、可靠性工程有深入兴趣。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 计算机、软件工程、人工智能、数据科学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907720109",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -10169,11 +10031,9 @@
       "jobRequirements": "1. 具备扎实的计算机基础和分布式系统研发经验，并对操作系统原理，计算机网络等系统领域知识有较好的理解和项目应用经验。 2. 熟悉主流面向对象编程语言，具备优秀的系统 Debug/Profiling 能力。 3. 工程实践方面，能够熟练使用Python，并熟悉PyData技术栈，具备较好的使用Python进行数据处理的经验。 4. 熟悉Kubernetes和Ray平台并具备Ray 组件开发经验，或具备Daft/Ray Data/Modin等分布式DataFrame框架使用经验的候选人优先。",
       "JD": "1. 参与MaxFrame分布式Python计算框架的设计、开发与技术演进,支撑阿里集团内部和公有云上的Data+AI一体化计算场景。 2. 负责多模态数据(视频、图像、音频、3D点云)的高效加载、解析、特征提取Pipeline优化,设计CPU/GPU协同的异步数据加载架构。 3. 探索异构调度与算子融合技术,实现CPU密集型预处理与GPU密集型计算的自动切分、调度和中间数据零拷贝。 4. 支撑大模型预训练、自动驾驶等真实客户场景,将技术成果沉淀为可产品化的MaxFrame特性。 5. 推动异构计算优化方向的学术影响力产出。\n1. 具备扎实的计算机基础和分布式系统研发经验，并对操作系统原理，计算机网络等系统领域知识有较好的理解和项目应用经验。 2. 熟悉主流面向对象编程语言，具备优秀的系统 Debug/Profiling 能力。 3. 工程实践方面，能够熟练使用Python，并熟悉PyData技术栈，具备较好的使用Python进行数据处理的经验。 4. 熟悉Kubernetes和Ray平台并具备Ray 组件开发经验，或具备Daft/Ray Data/Modin等分布式DataFrame框架使用经验的候选人优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -10256,14 +10116,10 @@
       "jobRequirements": "1. 熟悉深度学习基本原理、主流深度学习算法及应用、以及至少一种主流框架(PyTorch、TensorFlow等)； 2. 熟悉Megatron、TrasformerEngine、DualPipe等框架技术，并在研究或实习项目中有相应的实践经历； 3. 具备扎实的计算机基础知识、C++/Python编程能力，熟悉常见数据结构和设计模式； 4. 具有很强的学习能力、复杂问题归纳梳理能力、沟通和团队协作能力，具备能够深度钻研技术的耐心。 加分项： 1. 有很强的学术研究能力和优秀的学术成果(AI领域顶会/顶刊论文)； 2. 熟悉体系结构，并有扎实的高性能计算/AI编译器/推理框架/模型优化经验； 3. 作为核心贡献者参与开发或者负责维护AI领域的流行开源项目。",
       "JD": "1. 参与FlashMoE等分布式训练框架的优化,重点攻关MoE模型的Expert并行通信优化、负载动态均衡和稀疏激活下的高效训练； 2. 负责显存优化技术创新(激活重计算、梯度检查点、ZeRO变体),支持万亿参数MoE模型在有限显存下的稳定训练； 3. 探索多种异构硬件设备(A100/H100/H800/PPU)上的训练性能优化,通过算子融合、通信重叠、显存管理等手段提升MFU； 4. 支撑集团内部或云上客户万卡级MoE模型训练场景,将技术成果沉淀为PAI-DLC训练平台核心特性； 5. 推动超大规模训练优化方向的学术影响力产出。\n1. 熟悉深度学习基本原理、主流深度学习算法及应用、以及至少一种主流框架(PyTorch、TensorFlow等)； 2. 熟悉Megatron、TrasformerEngine、DualPipe等框架技术，并在研究或实习项目中有相应的实践经历； 3. 具备扎实的计算机基础知识、C++/Python编程能力，熟悉常见数据结构和设计模式； 4. 具有很强的学习能力、复杂问题归纳梳理能力、沟通和团队协作能力，具备能够深度钻研技术的耐心。 加分项： 1. 有很强的学术研究能力和优秀的学术成果(AI领域顶会/顶刊论文)； 2. 熟悉体系结构，并有扎实的高性能计算/AI编译器/推理框架/模型优化经验； 3. 作为核心贡献者参与开发或者负责维护AI领域的流行开源项目。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -10319,6 +10175,96 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
+      "id": "alibaba-f690a14106e0",
+      "company": "阿里巴巴",
+      "title": "AI Native数据计算引擎：原子化智能算子、DAG 编排与混合查询优化-阿里星/A Star",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "加入阿里云 Hologres 团队，参与构建面向 AI Native 时代的新一代数据计算引擎。Hologres 是阿里云一站式实时数仓与湖仓一体数据引擎，支撑高并发实时写入、PB 级分析、向量检索、多模检索和在线服务等核心场景。 随着大模型、智能体和企业级 AI 应用快速发展，数据计算的边界正在从传统结构化分析，扩展到语义理解、知识抽取、语义关联、多模态检索、RAG 构建、智能 BI 和 Agentic 任务执行。我们希望探索并构建 AI Native 数据计算引擎：原子化智能算子、DAG 编排与混合查询优化，让传统数据处理、AI 推理和复杂智能任务编排能够在统一引擎内高效完成。 你将参与定义 AI Native 数据计算的新范式：抽象原子化智能算子，构建复杂 AI 任务的 DAG 编排能力，打通智能算子与传统关系算子、向量检索算子、多模检索算子的混合执行，并围绕成本、性能、质量和稳定性设计新型优化机制。 岗位职责 1. 参与 AI Native 数据计算引擎核心能力建设，探索传统关系计算、语义推理、多模态检索和 Agentic 执行的一体化架构。 2. 设计原子化智能算子体系，支持语义过滤、知识抽取、语义 Join、智能聚合、结果校验、置信度判断等 AI Native 数据处理能力。 3. 构建智能算子的工程化 harness，支持多模型适配、prompt 管理、工具调用、评测回归、失败恢复和效果持续优化。 4. 研究复杂 AI 任务的 DAG 编排机制，实现任务拆解、依赖分析、并行执行、中间结果复用、异常恢复和可观测执行。 5. 探索智能算子与 Scan、Filter、Join、Aggregate、Index Scan、Vector Search 等传统数据算子的混合执行与联合优化。 6. 建设面向 Agentic DAG 和混合查询的成本模型与优化器，在延迟、吞吐、资源成本、模型质量、置信度和业务 SLA 之间取得最优平衡。",
+      "jobRequirements": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先。 2. 具备扎实的计算机基础，熟悉数据结构、算法、操作系统、分布式系统、数据库系统等基础知识。 3. 对数据库、查询优化、分布式计算、大数据系统、湖仓一体、向量检索、机器学习系统或大模型应用有浓厚兴趣。 4. 具备优秀的工程能力，熟悉 C++、Java、Go、Python 等至少一种编程语言。 5. 对 AI Native 数据基础设施、Agent、RAG、多模态检索、模型推理优化等方向有探索热情。 6. 具备较强的问题抽象能力、系统性思考能力和自驱力，愿意挑战开放性、前沿性技术问题。 加分项 1. 有数据库/大数据系统内核、查询优化器、分布式计算引擎、向量数据库、检索系统相关研究或实践经验。 2. 有大模型应用、Agent 框架、RAG 系统、模型评测、prompt engineering、多模型路由相关项目经验。 3. 在数据库、分布式系统、机器学习系统、AI Infra 等方向有高质量论文、竞赛、开源项目或实习经历。 4. 对系统性能优化、成本优化、可观测性、可靠性工程有深入兴趣。",
+      "JD": "加入阿里云 Hologres 团队，参与构建面向 AI Native 时代的新一代数据计算引擎。Hologres 是阿里云一站式实时数仓与湖仓一体数据引擎，支撑高并发实时写入、PB 级分析、向量检索、多模检索和在线服务等核心场景。 随着大模型、智能体和企业级 AI 应用快速发展，数据计算的边界正在从传统结构化分析，扩展到语义理解、知识抽取、语义关联、多模态检索、RAG 构建、智能 BI 和 Agentic 任务执行。我们希望探索并构建 AI Native 数据计算引擎：原子化智能算子、DAG 编排与混合查询优化，让传统数据处理、AI 推理和复杂智能任务编排能够在统一引擎内高效完成。 你将参与定义 AI Native 数据计算的新范式：抽象原子化智能算子，构建复杂 AI 任务的 DAG 编排能力，打通智能算子与传统关系算子、向量检索算子、多模检索算子的混合执行，并围绕成本、性能、质量和稳定性设计新型优化机制。 岗位职责 1. 参与 AI Native 数据计算引擎核心能力建设，探索传统关系计算、语义推理、多模态检索和 Agentic 执行的一体化架构。 2. 设计原子化智能算子体系，支持语义过滤、知识抽取、语义 Join、智能聚合、结果校验、置信度判断等 AI Native 数据处理能力。 3. 构建智能算子的工程化 harness，支持多模型适配、prompt 管理、工具调用、评测回归、失败恢复和效果持续优化。 4. 研究复杂 AI 任务的 DAG 编排机制，实现任务拆解、依赖分析、并行执行、中间结果复用、异常恢复和可观测执行。 5. 探索智能算子与 Scan、Filter、Join、Aggregate、Index Scan、Vector Search 等传统数据算子的混合执行与联合优化。 6. 建设面向 Agentic DAG 和混合查询的成本模型与优化器，在延迟、吞吐、资源成本、模型质量、置信度和业务 SLA 之间取得最优平衡。\n1. 计算机、软件工程、人工智能、数据科学等相关专业优先。 2. 具备扎实的计算机基础，熟悉数据结构、算法、操作系统、分布式系统、数据库系统等基础知识。 3. 对数据库、查询优化、分布式计算、大数据系统、湖仓一体、向量检索、机器学习系统或大模型应用有浓厚兴趣。 4. 具备优秀的工程能力，熟悉 C++、Java、Go、Python 等至少一种编程语言。 5. 对 AI Native 数据基础设施、Agent、RAG、多模态检索、模型推理优化等方向有探索热情。 6. 具备较强的问题抽象能力、系统性思考能力和自驱力，愿意挑战开放性、前沿性技术问题。 加分项 1. 有数据库/大数据系统内核、查询优化器、分布式计算引擎、向量数据库、检索系统相关研究或实践经验。 2. 有大模型应用、Agent 框架、RAG 系统、模型评测、prompt engineering、多模型路由相关项目经验。 3. 在数据库、分布式系统、机器学习系统、AI Infra 等方向有高质量论文、竞赛、开源项目或实习经历。 4. 对系统性能优化、成本优化、可观测性、可靠性工程有深入兴趣。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 计算机、软件工程、人工智能、数据科学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907720109",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
       "id": "alibaba-b7e569d57ec9",
       "company": "阿里巴巴",
       "title": "AI创意艺术家",
@@ -10331,9 +10277,12 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历；；设计学科，同时具备代码能力优先，如： 视觉传达、工业设计、多媒体设计、影视动画等；；因自身兴趣，长期专研某一项特定技能并有超常呈现，如插画、3D、动效、剪辑，无学科背景要求。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "设计学科",
+          "无学科背景要求"
+        ]
       },
       "language": {
         "raw": "",
@@ -10345,11 +10294,13 @@
       "jobRequirements": "专业要求： 1、本科及以上学历； 2、设计学科，同时具备代码能力优先，如： 视觉传达、工业设计、多媒体设计、影视动画等； 3、因自身兴趣，长期专研某一项特定技能并有超常呈现，如插画、3D、动效、剪辑，无学科背景要求。 能力要求： 1、出众、独特的审美能力，把握流行趋势。打造符合流行认知趋势的极致视觉体验； 2、共情目标用户，理解商业逻辑。图形表达和转译符合业务目的和用户理解。具备全案设计水平； 3、应用AI设计工具，融合AI图像生成与动态视觉技术，创造传统手段难以实现的互动玩法与视觉奇观。平衡创意与技术可行性； 4、自由编排AI能力节点，具备图形、空间、摄影、视频、动效等的AI整合能力。跑通大数据量的设计生成流程； 5、具备主动沟通协作的意识和勇气，有整体产品体验的意识和概念。具备文字和图形互相转译的能力； 6、热爱设计、追求品质，充满想象力。投入时间追求设计的最佳品质达到业内出众的水平。 技能必选项： 1、AIGC设计能力：掌握AIGC生图、视频、声音等相关技能，可以熟练组合使用各类AI工具。",
       "JD": "1、各业务和活动的品牌营销创意设计，交付全案设计。包括但不限于品牌、营销、页面、包装、空间； 2、互动产品的主题创意策划，互动产品的视觉风格设定和角色设定； 3、运用AI工具进行设计和艺术创作，解决目标达成的技术问题，具备业内顶尖的水平； 4、构建设计数据库，根据业务诉求和设计目标训练/优化lora模型，助力业务素材自行生成。\n专业要求： 1、本科及以上学历； 2、设计学科，同时具备代码能力优先，如： 视觉传达、工业设计、多媒体设计、影视动画等； 3、因自身兴趣，长期专研某一项特定技能并有超常呈现，如插画、3D、动效、剪辑，无学科背景要求。 能力要求： 1、出众、独特的审美能力，把握流行趋势。打造符合流行认知趋势的极致视觉体验； 2、共情目标用户，理解商业逻辑。图形表达和转译符合业务目的和用户理解。具备全案设计水平； 3、应用AI设计工具，融合AI图像生成与动态视觉技术，创造传统手段难以实现的互动玩法与视觉奇观。平衡创意与技术可行性； 4、自由编排AI能力节点，具备图形、空间、摄影、视频、动效等的AI整合能力。跑通大数据量的设计生成流程； 5、具备主动沟通协作的意识和勇气，有整体产品体验的意识和概念。具备文字和图形互相转译的能力； 6、热爱设计、追求品质，充满想象力。投入时间追求设计的最佳品质达到业内出众的水平。 技能必选项： 1、AIGC设计能力：掌握AIGC生图、视频、声音等相关技能，可以熟练组合使用各类AI工具。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；",
+          "设计学科，同时具备代码能力优先，如： 视觉传达、工业设计、多媒体设计、影视动画等；",
+          "因自身兴趣，长期专研某一项特定技能并有超常呈现，如插画、3D、动效、剪辑，无学科背景要求。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

@@ -1,7 +1,7 @@
 {
   "company": "海信",
   "count": 115,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-a185f48e311b",
@@ -303,7 +303,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=a1d4a59d-9fbe-4a35-b80a-c5a166765d7d",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2239,7 +2239,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=b34ad4f1-e84a-412c-afb4-474f7ebbcea7",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3392,7 +3392,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=dca51136-dbf7-40f5-9813-7f367d3ec210",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -6439,7 +6439,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -6453,13 +6453,19 @@
       "jobRequirements": "1、2027届应届毕业生，本科及以上学历； 2、熟练掌握办公软件；具有较强的市场敏感度，沟通能力、协调能力；具备高效的执行力，工作细心； 3、具有进取心、责任心、开拓意识、协作精神、敬业精神。",
       "JD": "1、协助主管完成各品线服务质量信息梳理，监控服务质量完成情况，形成各类报表； 2、落实备件、技术、三包等对应信息处理进度，跟踪信息进度及汇总； 3、及时收集服务商各类问题，跟踪处理进度； 4、协助各品线技术服务经理完成机器借还操作及相关手续办理； 5、部门内部相关工作的协调推进。\n1、2027届应届毕业生，本科及以上学历； 2、熟练掌握办公软件；具有较强的市场敏感度，沟通能力、协调能力；具备高效的执行力，工作细心； 3、具有进取心、责任心、开拓意识、协作精神、敬业精神。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [
+          "2027届应届毕业生"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -7060,7 +7066,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=cb535f48-e238-4759-9c25-d92c5b26bf54",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7150,7 +7156,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=95d65a1f-88aa-47e0-bacb-18ca40c03b76",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7253,7 +7259,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=ab74f9ff-c9a4-4259-b106-5432b7626d5d",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

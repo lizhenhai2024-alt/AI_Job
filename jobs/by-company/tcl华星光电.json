@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
   "count": 94,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "hotjob-d65647bdbe01",
@@ -5954,191 +5954,6 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
-      "id": "hotjob-df05c782b87d",
-      "company": "TCL华星光电",
-      "title": "船务助理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科以上学历，物流、报关与国际货代、国贸等相关专业优先考虑",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 发货安排：负责出货与装柜计划的统筹安排，根据业务的出货计划与船公司、货代、码头及车队联系，安排集装箱到厂装柜事宜，相关资料上传TMS系统做数据维护； 2. 异常处理：跟踪发货流程，协同生产计划、现场物流、驳船公司等部门处理异常； 3. 拖车费用结算：负责月度拖车费用对账及结算； 4. 完成上级交代的其他相关工作，与业务同事保持良好的沟通，共同服务好客户。",
-      "jobRequirements": "1. 本科以上学历，物流、报关与国际货代、国贸等相关专业优先考虑； 2. 熟悉出口及内陆运输相关操作流程，对国际贸易相关流程，贸易术语有一定的了解； 3. 英语四级或以上，熟练操作office办公软件； 4. 性格稳重，工作细致，具有良好的沟通协调能力和抗压能力，具备较强团队意识。",
-      "JD": "1. 发货安排：负责出货与装柜计划的统筹安排，根据业务的出货计划与船公司、货代、码头及车队联系，安排集装箱到厂装柜事宜，相关资料上传TMS系统做数据维护； 2. 异常处理：跟踪发货流程，协同生产计划、现场物流、驳船公司等部门处理异常； 3. 拖车费用结算：负责月度拖车费用对账及结算； 4. 完成上级交代的其他相关工作，与业务同事保持良好的沟通，共同服务好客户。\n1. 本科以上学历，物流、报关与国际货代、国贸等相关专业优先考虑； 2. 熟悉出口及内陆运输相关操作流程，对国际贸易相关流程，贸易术语有一定的了解； 3. 英语四级或以上，熟练操作office办公软件； 4. 性格稳重，工作细致，具有良好的沟通协调能力和抗压能力，具备较强团队意识。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科以上学历，物流、报关与国际货代、国贸等相关专业优先考虑"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "数据",
-        "供应链",
-        "客户",
-        "沟通"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a1a68cc6f624f735000&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-08-23",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-e3878a3be79c",
-      "company": "TCL华星光电",
-      "title": "制造管理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "硕士及以上学历，理工类专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 推进制造中心各基地产能布局及扩能规划、建立制造中心敏捷交付管理机制。开展员工薪酬管理、培训管理、员工满意度管理等工作，支撑制造中心高效率、高质量、低成本订单交付； 2. 负责制造中心产能布局规划管理、订单交付管理、员工薪酬管理、员工招聘管理、易损件管理等工作。",
-      "jobRequirements": "1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强，具备较强的逻辑思维能力，精神面貌良好； 3. 执行力强，自主学习能力强，有创新性； 4. PPT书写逻辑强。",
-      "JD": "1. 推进制造中心各基地产能布局及扩能规划、建立制造中心敏捷交付管理机制。开展员工薪酬管理、培训管理、员工满意度管理等工作，支撑制造中心高效率、高质量、低成本订单交付； 2. 负责制造中心产能布局规划管理、订单交付管理、员工薪酬管理、员工招聘管理、易损件管理等工作。\n1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强，具备较强的逻辑思维能力，精神面貌良好； 3. 执行力强，自主学习能力强，有创新性； 4. PPT书写逻辑强。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "硕士及以上学历，理工类专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "沟通"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a0b68cc6f624f734fe3&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
       "id": "hotjob-fe85c3acd813",
       "company": "TCL华星光电",
       "title": "员工关系专员",
@@ -6317,6 +6132,191 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a521ad6db7cf833b65e&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-df05c782b87d",
+      "company": "TCL华星光电",
+      "title": "船务助理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科以上学历，物流、报关与国际货代、国贸等相关专业优先考虑",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 发货安排：负责出货与装柜计划的统筹安排，根据业务的出货计划与船公司、货代、码头及车队联系，安排集装箱到厂装柜事宜，相关资料上传TMS系统做数据维护； 2. 异常处理：跟踪发货流程，协同生产计划、现场物流、驳船公司等部门处理异常； 3. 拖车费用结算：负责月度拖车费用对账及结算； 4. 完成上级交代的其他相关工作，与业务同事保持良好的沟通，共同服务好客户。",
+      "jobRequirements": "1. 本科以上学历，物流、报关与国际货代、国贸等相关专业优先考虑； 2. 熟悉出口及内陆运输相关操作流程，对国际贸易相关流程，贸易术语有一定的了解； 3. 英语四级或以上，熟练操作office办公软件； 4. 性格稳重，工作细致，具有良好的沟通协调能力和抗压能力，具备较强团队意识。",
+      "JD": "1. 发货安排：负责出货与装柜计划的统筹安排，根据业务的出货计划与船公司、货代、码头及车队联系，安排集装箱到厂装柜事宜，相关资料上传TMS系统做数据维护； 2. 异常处理：跟踪发货流程，协同生产计划、现场物流、驳船公司等部门处理异常； 3. 拖车费用结算：负责月度拖车费用对账及结算； 4. 完成上级交代的其他相关工作，与业务同事保持良好的沟通，共同服务好客户。\n1. 本科以上学历，物流、报关与国际货代、国贸等相关专业优先考虑； 2. 熟悉出口及内陆运输相关操作流程，对国际贸易相关流程，贸易术语有一定的了解； 3. 英语四级或以上，熟练操作office办公软件； 4. 性格稳重，工作细致，具有良好的沟通协调能力和抗压能力，具备较强团队意识。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历，物流、报关与国际货代、国贸等相关专业优先考虑"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "供应链",
+        "客户",
+        "沟通"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a1a68cc6f624f735000&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-23",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-e3878a3be79c",
+      "company": "TCL华星光电",
+      "title": "制造管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，理工类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 推进制造中心各基地产能布局及扩能规划、建立制造中心敏捷交付管理机制。开展员工薪酬管理、培训管理、员工满意度管理等工作，支撑制造中心高效率、高质量、低成本订单交付； 2. 负责制造中心产能布局规划管理、订单交付管理、员工薪酬管理、员工招聘管理、易损件管理等工作。",
+      "jobRequirements": "1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强，具备较强的逻辑思维能力，精神面貌良好； 3. 执行力强，自主学习能力强，有创新性； 4. PPT书写逻辑强。",
+      "JD": "1. 推进制造中心各基地产能布局及扩能规划、建立制造中心敏捷交付管理机制。开展员工薪酬管理、培训管理、员工满意度管理等工作，支撑制造中心高效率、高质量、低成本订单交付； 2. 负责制造中心产能布局规划管理、订单交付管理、员工薪酬管理、员工招聘管理、易损件管理等工作。\n1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强，具备较强的逻辑思维能力，精神面貌良好； 3. 执行力强，自主学习能力强，有创新性； 4. PPT书写逻辑强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，理工类专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "沟通"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a0b68cc6f624f734fe3&recruitType=1",
       "publishedAt": "2026-09-18",
       "lastVerified": "",
       "sourceType": "official",
@@ -6525,9 +6525,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，管理学类（市场营销、工商管理、品牌管理等）、文学类（新闻传播学、广告学、网络与新媒体、汉语言文学等）、艺术学类（视觉传达设计、数字媒体艺术）等相关专业。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "管理学类（市场营销、工商管理、品牌管理等）、文学类（新闻传播学、广告学、网络与新媒体、汉语言文学等）、艺术学类（视觉传达设计、数字媒体艺术）等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -6539,16 +6541,13 @@
       "jobRequirements": "1. 文字功底扎实，擅长活动文案与传播物料撰写； 2. 有线下活动策划或参与执行的经验，能独立推进活动全流程； 3. 良好的跨部门协作与项目推进能力，能高效对接多方资源； 4. 具备一定商务拓展能力，能独立拓展并维护合作渠道； 5. 本科及以上学历，管理学类（市场营销、工商管理、品牌管理等）、文学类（新闻传播学、广告学、网络与新媒体、汉语言文学等）、艺术学类（视觉传达设计、数字媒体艺术）等相关专业。",
       "JD": "1. 负责品牌线下推广活动的策划与全流程执行，包括发布会、展会、亲子体验活动、商场路演等； 2. 对接场地、物料、供应商等资源，把控项目进度、质量与预算，确保活动按时高质量落地； 3. 联动产品、销售、用户运营团队，设计并执行整合性的线下推广方案； 4. 拓展并维护线下渠道与合作伙伴关系，推动品牌曝光与销售转化； 5. 跟进活动落地数据与用户反馈，沉淀方法论，持续优化活动策划与执行效率； 6. 收集竞品与市场动态，为线下推广策略提供输入。\n1. 文字功底扎实，擅长活动文案与传播物料撰写； 2. 有线下活动策划或参与执行的经验，能独立推进活动全流程； 3. 良好的跨部门协作与项目推进能力，能高效对接多方资源； 4. 具备一定商务拓展能力，能独立拓展并维护合作渠道； 5. 本科及以上学历，管理学类（市场营销、工商管理、品牌管理等）、文学类（新闻传播学、广告学、网络与新媒体、汉语言文学等）、艺术学类（视觉传达设计、数字媒体艺术）等相关专业。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-26"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，管理学类（市场营销、工商管理、品牌管理等）、文学类（新闻传播学、广告学、网络与新媒体、汉语言文学等）、艺术学类（视觉传达设计、数字媒体艺术）等相关专业。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "资料/流程"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "销售"
@@ -6611,15 +6610,192 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
-      "id": "hotjob-d568694f7a24",
+      "id": "hotjob-7a6b34ccaa1f",
       "company": "TCL华星光电",
-      "title": "噪声振动工程师",
+      "title": "设备管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，理工类、机械、电气、自动化类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 负责设备管理工作，对关键设备重点监控，预防维修，降低设备故障率； 2. 负责设备的年度扩能、技改计划和新增/改造设备的选型论证、技术协议编制、签审，技术协调和安装、调试、验收等工作； 3. 负责设备的调动、闲置、封存、报废情况进行审核、确认； 4. 负责对设备的事故和故障等调查分析、制定处理方案进行排除；深入分析原因，找出问题根源，制定事故的预防措施并督促实施，并给予指导和技术支持。",
+      "jobRequirements": "1. 硕士及以上学历，理工类、机械、电气、自动化类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强 具备较强的逻辑思维能力； 3. 执行力强，自主学习能力强，有创新性。",
+      "JD": "1. 负责设备管理工作，对关键设备重点监控，预防维修，降低设备故障率； 2. 负责设备的年度扩能、技改计划和新增/改造设备的选型论证、技术协议编制、签审，技术协调和安装、调试、验收等工作； 3. 负责设备的调动、闲置、封存、报废情况进行审核、确认； 4. 负责对设备的事故和故障等调查分析、制定处理方案进行排除；深入分析原因，找出问题根源，制定事故的预防措施并督促实施，并给予指导和技术支持。\n1. 硕士及以上学历，理工类、机械、电气、自动化类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强 具备较强的逻辑思维能力； 3. 执行力强，自主学习能力强，有创新性。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，理工类、机械、电气、自动化类专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a1f4315481304ccee0d&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-287a62a509a6",
+      "company": "TCL华星光电",
+      "title": "噪声振动工程师（博士）",
       "graduationYear": [
         "2027"
       ],
       "education": {
         "raw": "",
         "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "博士学历，力学，机械，交通运输等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "交通运输等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、负责空调室外机减振降噪设计； 2、负责空调声品质改善及管路可靠性研究； 3、负责空调室外机管路结构设计及仿真优化。",
+      "jobRequirements": "1、博士学历，力学，机械，交通运输等相关专业； 2、具备ANSYS仿真软件，LMS、BK噪声振动测试软件，Creo三维建模软件使用经验。",
+      "JD": "1、负责空调室外机减振降噪设计； 2、负责空调声品质改善及管路可靠性研究； 3、负责空调室外机管路结构设计及仿真优化。\n1、博士学历，力学，机械，交通运输等相关专业； 2、具备ANSYS仿真软件，LMS、BK噪声振动测试软件，Creo三维建模软件使用经验。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "博士学历，力学，机械，交通运输等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a201ad6db7cf833b5f1&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-82329c268c28",
+      "company": "TCL华星光电",
+      "title": "包装设计工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
@@ -6633,9 +6809,9 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "jobDescription": "1、负责空调室外机减振降噪设计； 2、负责空调声品质改善及管路可靠性研究； 3、负责空调室外机管路结构设计及仿真优化。",
-      "jobRequirements": "1、博士学历，力学，机械，交通运输等相关专业； 2、具备ANSYS仿真软件，LMS、BK噪声振动测试软件，Creo三维建模软件使用经验。",
-      "JD": "1、负责空调室外机减振降噪设计； 2、负责空调声品质改善及管路可靠性研究； 3、负责空调室外机管路结构设计及仿真优化。\n1、博士学历，力学，机械，交通运输等相关专业； 2、具备ANSYS仿真软件，LMS、BK噪声振动测试软件，Creo三维建模软件使用经验。",
+      "jobDescription": "1. 负责家用内销产品包装设计； 2. 负责内销产品包装升级； 3. 负责对标各竞品包装设计方案。",
+      "jobRequirements": "1. 本科及以上学历，包装工程专业； 2. 有在家电行业实习经验优先； 3. 有AI智能体应用案例经验优先； 4. 具备良好的组织和沟通能力。",
+      "JD": "1. 负责家用内销产品包装设计； 2. 负责内销产品包装升级； 3. 负责对标各竞品包装设计方案。\n1. 本科及以上学历，包装工程专业； 2. 有在家电行业实习经验优先； 3. 有AI智能体应用案例经验优先； 4. 具备良好的组织和沟通能力。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -6643,9 +6819,548 @@
           "招聘对象：2027届",
           "投递截止：2026-09-26"
         ],
-        "technicalDuties": [
-          "结构/原理"
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "沟通"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a2f4315481304ccee38&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-a1d3affa9e7a",
+      "company": "TCL华星光电",
+      "title": "销售工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，电子、通信、自动化、市场营销等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 根据公司PCBA业务整体战略，完成销售目标与回款任务； 2. 负责大客户的开发与维护，获取PCBA项目订单；管理客户从样品、试产到量产的完整需求； 3. 跟踪PCBA行业动态（如家电、工业控制、汽车电子、消费类电子等），分析竞争对手及客户发展趋势，为销售策略调整提供依据； 4. 定期拜访现有大客户的研发、采购、供应链等关键决策人，积极开拓符合公司战略方向的优质新客户。",
+      "jobRequirements": "1. 本科及以上学历，电子、通信、自动化、市场营销等相关专业优先； 2. 具备良好的成本核算意识和商务谈判技巧，能够独立完成报价及合同签订； 3. 抗压能力强，适应短期出差，目标导向，具备团队合作精神。",
+      "JD": "1. 根据公司PCBA业务整体战略，完成销售目标与回款任务； 2. 负责大客户的开发与维护，获取PCBA项目订单；管理客户从样品、试产到量产的完整需求； 3. 跟踪PCBA行业动态（如家电、工业控制、汽车电子、消费类电子等），分析竞争对手及客户发展趋势，为销售策略调整提供依据； 4. 定期拜访现有大客户的研发、采购、供应链等关键决策人，积极开拓符合公司战略方向的优质新客户。\n1. 本科及以上学历，电子、通信、自动化、市场营销等相关专业优先； 2. 具备良好的成本核算意识和商务谈判技巧，能够独立完成报价及合同签订； 3. 抗压能力强，适应短期出差，目标导向，具备团队合作精神。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，电子、通信、自动化、市场营销等相关专业优先"
         ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销",
+        "供应链",
+        "客户",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a3068cc6f624f735030&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-cc4847a3d9f5",
+      "company": "TCL华星光电",
+      "title": "生产管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，理工类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 完成相关的生产任务，对产品工艺参数摸索与优化，提高生产效率； 2. 协助车间负责人进行安全、安全等现场管理，及时发现生产现场的问题并合理解决； 3. 按公司质量体系、环境管理体系和风险评价体系的管理要求，全程各种记录的填写及管理工作； 4. 负责生产过程中各项操作的准确性和正确性，确保符合SOP和有关规定要求。",
+      "jobRequirements": "1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强，具备较强的逻辑思维能力，精神面貌良好； 3. 执行力强，自主学习能力强，有创新性。",
+      "JD": "1. 完成相关的生产任务，对产品工艺参数摸索与优化，提高生产效率； 2. 协助车间负责人进行安全、安全等现场管理，及时发现生产现场的问题并合理解决； 3. 按公司质量体系、环境管理体系和风险评价体系的管理要求，全程各种记录的填写及管理工作； 4. 负责生产过程中各项操作的准确性和正确性，确保符合SOP和有关规定要求。\n1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强，具备较强的逻辑思维能力，精神面貌良好； 3. 执行力强，自主学习能力强，有创新性。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，理工类专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "沟通"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a3f4315481304ccee61&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-61abeaf2bf79",
+      "company": "TCL华星光电",
+      "title": "仓储管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，理工类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 梳理制定业务流程制度并监管流程制度的实施； 2. 负责中山一厂、二厂、散件工厂生产所需原材料服务工作； 3. 负责中山CDC成品、下线、入库、在库、短驳、装卸及装车装柜工作； 4. 负责部门管理范围内资产安全、人员培训、绩效管理； 5. 供应商入库对账、第三方物流对账结算； 6. 负责与财务、业务单位共同完成对第三方物流的相关招标、合同、结算等职能。",
+      "jobRequirements": "1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强 具备较强的逻辑思维能力； 3. 执行力强，自主学习能力强，有创新性。",
+      "JD": "1. 梳理制定业务流程制度并监管流程制度的实施； 2. 负责中山一厂、二厂、散件工厂生产所需原材料服务工作； 3. 负责中山CDC成品、下线、入库、在库、短驳、装卸及装车装柜工作； 4. 负责部门管理范围内资产安全、人员培训、绩效管理； 5. 供应商入库对账、第三方物流对账结算； 6. 负责与财务、业务单位共同完成对第三方物流的相关招标、合同、结算等职能。\n1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强 具备较强的逻辑思维能力； 3. 执行力强，自主学习能力强，有创新性。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，理工类专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "沟通"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a4468cc6f624f735066&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-012bfa9a92e0",
+      "company": "TCL华星光电",
+      "title": "AI智能产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，计算机、人工智能、电子信息、自动化、物联网等相关专业优先。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 参与空调智能化及 AI 产品规划，探索大模型、语音交互、多模态等技术在智能家居场景中的应用。 2. 洞察用户需求及行业趋势，开展用户研究和竞品分析，挖掘产品创新机会。 3. 参与产品功能及交互设计，输出产品原型、需求文档，并协同研发、设计、测试团队推进产品落地。 4. 跟踪产品上线后的用户反馈和数据表现，参与产品优化与迭代。",
+      "jobRequirements": "1. 本科及以上学历，计算机、人工智能、电子信息、自动化、物联网等相关专业优先。 2. 对 AI 产品及智能家居行业有热情，了解大模型、智能体、语音交互或多模态技术的基本概念和应用。 3. 具备良好的用户洞察、逻辑分析、沟通表达及团队协作能力。 4. 学习能力和自驱力强，善于发现问题，能够将技术能力转化为产品方案。 5. 有 AI 产品、智能硬件或智能家居相关实习、课程项目、竞赛作品及个人项目经验者优先。",
+      "JD": "1. 参与空调智能化及 AI 产品规划，探索大模型、语音交互、多模态等技术在智能家居场景中的应用。 2. 洞察用户需求及行业趋势，开展用户研究和竞品分析，挖掘产品创新机会。 3. 参与产品功能及交互设计，输出产品原型、需求文档，并协同研发、设计、测试团队推进产品落地。 4. 跟踪产品上线后的用户反馈和数据表现，参与产品优化与迭代。\n1. 本科及以上学历，计算机、人工智能、电子信息、自动化、物联网等相关专业优先。 2. 对 AI 产品及智能家居行业有热情，了解大模型、智能体、语音交互或多模态技术的基本概念和应用。 3. 具备良好的用户洞察、逻辑分析、沟通表达及团队协作能力。 4. 学习能力和自驱力强，善于发现问题，能够将技术能力转化为产品方案。 5. 有 AI 产品、智能硬件或智能家居相关实习、课程项目、竞赛作品及个人项目经验者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，计算机、人工智能、电子信息、自动化、物联网等相关专业优先。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a4f1ad6db7cf833b657&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-7069b9dc3862",
+      "company": "TCL华星光电",
+      "title": "光学工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，光学、光电等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "光学、光电等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "惠州",
+      "jobDescription": "1. 负责背光模组的光学设计和开发； 2. 测试及评估现有背光及自己开发背光的可靠性，光学性能等指标； 3. 制定背光的技术路线图及路标，实现方案落地。",
+      "jobRequirements": "1. 本科及以上学历，光学、光电等相关专业； 2. 学过物理光学与应用光学知识、熟悉模拟电路和数字电路，有较强的动手能力； 3. 英语4级以上，英语能作为工作语言者优先考虑。",
+      "JD": "1. 负责背光模组的光学设计和开发； 2. 测试及评估现有背光及自己开发背光的可靠性，光学性能等指标； 3. 制定背光的技术路线图及路标，实现方案落地。\n1. 本科及以上学历，光学、光电等相关专业； 2. 学过物理光学与应用光学知识、熟悉模拟电路和数字电路，有较强的动手能力； 3. 英语4级以上，英语能作为工作语言者优先考虑。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，光学、光电等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5d34315481304ccf999&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-26",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-d568694f7a24",
+      "company": "TCL华星光电",
+      "title": "噪声振动工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "博士学历，力学，机械，交通运输等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "交通运输等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、负责空调室外机减振降噪设计； 2、负责空调声品质改善及管路可靠性研究； 3、负责空调室外机管路结构设计及仿真优化。",
+      "jobRequirements": "1、博士学历，力学，机械，交通运输等相关专业； 2、具备ANSYS仿真软件，LMS、BK噪声振动测试软件，Creo三维建模软件使用经验。",
+      "JD": "1、负责空调室外机减振降噪设计； 2、负责空调声品质改善及管路可靠性研究； 3、负责空调室外机管路结构设计及仿真优化。\n1、博士学历，力学，机械，交通运输等相关专业； 2、具备ANSYS仿真软件，LMS、BK噪声振动测试软件，Creo三维建模软件使用经验。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "博士学历，力学，机械，交通运输等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -6877,729 +7592,6 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
-      "id": "hotjob-7a6b34ccaa1f",
-      "company": "TCL华星光电",
-      "title": "设备管理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 负责设备管理工作，对关键设备重点监控，预防维修，降低设备故障率； 2. 负责设备的年度扩能、技改计划和新增/改造设备的选型论证、技术协议编制、签审，技术协调和安装、调试、验收等工作； 3. 负责设备的调动、闲置、封存、报废情况进行审核、确认； 4. 负责对设备的事故和故障等调查分析、制定处理方案进行排除；深入分析原因，找出问题根源，制定事故的预防措施并督促实施，并给予指导和技术支持。",
-      "jobRequirements": "1. 硕士及以上学历，理工类、机械、电气、自动化类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强 具备较强的逻辑思维能力； 3. 执行力强，自主学习能力强，有创新性。",
-      "JD": "1. 负责设备管理工作，对关键设备重点监控，预防维修，降低设备故障率； 2. 负责设备的年度扩能、技改计划和新增/改造设备的选型论证、技术协议编制、签审，技术协调和安装、调试、验收等工作； 3. 负责设备的调动、闲置、封存、报废情况进行审核、确认； 4. 负责对设备的事故和故障等调查分析、制定处理方案进行排除；深入分析原因，找出问题根源，制定事故的预防措施并督促实施，并给予指导和技术支持。\n1. 硕士及以上学历，理工类、机械、电气、自动化类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强 具备较强的逻辑思维能力； 3. 执行力强，自主学习能力强，有创新性。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-26"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a1f4315481304ccee0d&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-287a62a509a6",
-      "company": "TCL华星光电",
-      "title": "噪声振动工程师（博士）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "博士",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、负责空调室外机减振降噪设计； 2、负责空调声品质改善及管路可靠性研究； 3、负责空调室外机管路结构设计及仿真优化。",
-      "jobRequirements": "1、博士学历，力学，机械，交通运输等相关专业； 2、具备ANSYS仿真软件，LMS、BK噪声振动测试软件，Creo三维建模软件使用经验。",
-      "JD": "1、负责空调室外机减振降噪设计； 2、负责空调声品质改善及管路可靠性研究； 3、负责空调室外机管路结构设计及仿真优化。\n1、博士学历，力学，机械，交通运输等相关专业； 2、具备ANSYS仿真软件，LMS、BK噪声振动测试软件，Creo三维建模软件使用经验。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-26"
-        ],
-        "technicalDuties": [
-          "结构/原理"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a201ad6db7cf833b5f1&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-82329c268c28",
-      "company": "TCL华星光电",
-      "title": "包装设计工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 负责家用内销产品包装设计； 2. 负责内销产品包装升级； 3. 负责对标各竞品包装设计方案。",
-      "jobRequirements": "1. 本科及以上学历，包装工程专业； 2. 有在家电行业实习经验优先； 3. 有AI智能体应用案例经验优先； 4. 具备良好的组织和沟通能力。",
-      "JD": "1. 负责家用内销产品包装设计； 2. 负责内销产品包装升级； 3. 负责对标各竞品包装设计方案。\n1. 本科及以上学历，包装工程专业； 2. 有在家电行业实习经验优先； 3. 有AI智能体应用案例经验优先； 4. 具备良好的组织和沟通能力。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-26"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "沟通"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a2f4315481304ccee38&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-a1d3affa9e7a",
-      "company": "TCL华星光电",
-      "title": "销售工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 根据公司PCBA业务整体战略，完成销售目标与回款任务； 2. 负责大客户的开发与维护，获取PCBA项目订单；管理客户从样品、试产到量产的完整需求； 3. 跟踪PCBA行业动态（如家电、工业控制、汽车电子、消费类电子等），分析竞争对手及客户发展趋势，为销售策略调整提供依据； 4. 定期拜访现有大客户的研发、采购、供应链等关键决策人，积极开拓符合公司战略方向的优质新客户。",
-      "jobRequirements": "1. 本科及以上学历，电子、通信、自动化、市场营销等相关专业优先； 2. 具备良好的成本核算意识和商务谈判技巧，能够独立完成报价及合同签订； 3. 抗压能力强，适应短期出差，目标导向，具备团队合作精神。",
-      "JD": "1. 根据公司PCBA业务整体战略，完成销售目标与回款任务； 2. 负责大客户的开发与维护，获取PCBA项目订单；管理客户从样品、试产到量产的完整需求； 3. 跟踪PCBA行业动态（如家电、工业控制、汽车电子、消费类电子等），分析竞争对手及客户发展趋势，为销售策略调整提供依据； 4. 定期拜访现有大客户的研发、采购、供应链等关键决策人，积极开拓符合公司战略方向的优质新客户。\n1. 本科及以上学历，电子、通信、自动化、市场营销等相关专业优先； 2. 具备良好的成本核算意识和商务谈判技巧，能够独立完成报价及合同签订； 3. 抗压能力强，适应短期出差，目标导向，具备团队合作精神。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-26"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "营销",
-        "供应链",
-        "客户",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a3068cc6f624f735030&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-cc4847a3d9f5",
-      "company": "TCL华星光电",
-      "title": "生产管理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 完成相关的生产任务，对产品工艺参数摸索与优化，提高生产效率； 2. 协助车间负责人进行安全、安全等现场管理，及时发现生产现场的问题并合理解决； 3. 按公司质量体系、环境管理体系和风险评价体系的管理要求，全程各种记录的填写及管理工作； 4. 负责生产过程中各项操作的准确性和正确性，确保符合SOP和有关规定要求。",
-      "jobRequirements": "1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强，具备较强的逻辑思维能力，精神面貌良好； 3. 执行力强，自主学习能力强，有创新性。",
-      "JD": "1. 完成相关的生产任务，对产品工艺参数摸索与优化，提高生产效率； 2. 协助车间负责人进行安全、安全等现场管理，及时发现生产现场的问题并合理解决； 3. 按公司质量体系、环境管理体系和风险评价体系的管理要求，全程各种记录的填写及管理工作； 4. 负责生产过程中各项操作的准确性和正确性，确保符合SOP和有关规定要求。\n1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强，具备较强的逻辑思维能力，精神面貌良好； 3. 执行力强，自主学习能力强，有创新性。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-26"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "沟通"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a3f4315481304ccee61&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-61abeaf2bf79",
-      "company": "TCL华星光电",
-      "title": "仓储管理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 梳理制定业务流程制度并监管流程制度的实施； 2. 负责中山一厂、二厂、散件工厂生产所需原材料服务工作； 3. 负责中山CDC成品、下线、入库、在库、短驳、装卸及装车装柜工作； 4. 负责部门管理范围内资产安全、人员培训、绩效管理； 5. 供应商入库对账、第三方物流对账结算； 6. 负责与财务、业务单位共同完成对第三方物流的相关招标、合同、结算等职能。",
-      "jobRequirements": "1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强 具备较强的逻辑思维能力； 3. 执行力强，自主学习能力强，有创新性。",
-      "JD": "1. 梳理制定业务流程制度并监管流程制度的实施； 2. 负责中山一厂、二厂、散件工厂生产所需原材料服务工作； 3. 负责中山CDC成品、下线、入库、在库、短驳、装卸及装车装柜工作； 4. 负责部门管理范围内资产安全、人员培训、绩效管理； 5. 供应商入库对账、第三方物流对账结算； 6. 负责与财务、业务单位共同完成对第三方物流的相关招标、合同、结算等职能。\n1. 硕士及以上学历，理工类专业优先； 2. 具备良好的沟通能力、表达能力、协调能力及抗压能力强 具备较强的逻辑思维能力； 3. 执行力强，自主学习能力强，有创新性。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-26"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "沟通"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a4468cc6f624f735066&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-012bfa9a92e0",
-      "company": "TCL华星光电",
-      "title": "AI智能产品经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 参与空调智能化及 AI 产品规划，探索大模型、语音交互、多模态等技术在智能家居场景中的应用。 2. 洞察用户需求及行业趋势，开展用户研究和竞品分析，挖掘产品创新机会。 3. 参与产品功能及交互设计，输出产品原型、需求文档，并协同研发、设计、测试团队推进产品落地。 4. 跟踪产品上线后的用户反馈和数据表现，参与产品优化与迭代。",
-      "jobRequirements": "1. 本科及以上学历，计算机、人工智能、电子信息、自动化、物联网等相关专业优先。 2. 对 AI 产品及智能家居行业有热情，了解大模型、智能体、语音交互或多模态技术的基本概念和应用。 3. 具备良好的用户洞察、逻辑分析、沟通表达及团队协作能力。 4. 学习能力和自驱力强，善于发现问题，能够将技术能力转化为产品方案。 5. 有 AI 产品、智能硬件或智能家居相关实习、课程项目、竞赛作品及个人项目经验者优先。",
-      "JD": "1. 参与空调智能化及 AI 产品规划，探索大模型、语音交互、多模态等技术在智能家居场景中的应用。 2. 洞察用户需求及行业趋势，开展用户研究和竞品分析，挖掘产品创新机会。 3. 参与产品功能及交互设计，输出产品原型、需求文档，并协同研发、设计、测试团队推进产品落地。 4. 跟踪产品上线后的用户反馈和数据表现，参与产品优化与迭代。\n1. 本科及以上学历，计算机、人工智能、电子信息、自动化、物联网等相关专业优先。 2. 对 AI 产品及智能家居行业有热情，了解大模型、智能体、语音交互或多模态技术的基本概念和应用。 3. 具备良好的用户洞察、逻辑分析、沟通表达及团队协作能力。 4. 学习能力和自驱力强，善于发现问题，能够将技术能力转化为产品方案。 5. 有 AI 产品、智能硬件或智能家居相关实习、课程项目、竞赛作品及个人项目经验者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-26"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a4f1ad6db7cf833b657&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-7069b9dc3862",
-      "company": "TCL华星光电",
-      "title": "光学工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，光学、光电等相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "光学、光电等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "惠州",
-      "jobDescription": "1. 负责背光模组的光学设计和开发； 2. 测试及评估现有背光及自己开发背光的可靠性，光学性能等指标； 3. 制定背光的技术路线图及路标，实现方案落地。",
-      "jobRequirements": "1. 本科及以上学历，光学、光电等相关专业； 2. 学过物理光学与应用光学知识、熟悉模拟电路和数字电路，有较强的动手能力； 3. 英语4级以上，英语能作为工作语言者优先考虑。",
-      "JD": "1. 负责背光模组的光学设计和开发； 2. 测试及评估现有背光及自己开发背光的可靠性，光学性能等指标； 3. 制定背光的技术路线图及路标，实现方案落地。\n1. 本科及以上学历，光学、光电等相关专业； 2. 学过物理光学与应用光学知识、熟悉模拟电路和数字电路，有较强的动手能力； 3. 英语4级以上，英语能作为工作语言者优先考虑。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，光学、光电等相关专业"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5d34315481304ccf999&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-26",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
       "id": "hotjob-98894b2d5c5a",
       "company": "TCL华星光电",
       "title": "模具工程师",
@@ -7612,7 +7604,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科学历，英语四级及以上",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7626,12 +7618,11 @@
       "jobRequirements": "1、本科学历，英语四级及以上； 2、掌握哦UG、Proe、CAD、Matercam等绘图软件知识； 3、熟悉塑胶模具各工序加工工艺，了解注塑成型参数； 4、为人诚恳谦虚，能吃苦耐劳，责任心强。",
       "JD": "1、负责模具、注塑设计开发； 2、模具加工工艺分析、评估，工艺优化； 3、3D、DFM、模图等技术评审、设变评审及开模。\n1、本科学历，英语四级及以上； 2、掌握哦UG、Proe、CAD、Matercam等绘图软件知识； 3、熟悉塑胶模具各工序加工工艺，了解注塑成型参数； 4、为人诚恳谦虚，能吃苦耐劳，责任心强。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-26"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科学历，英语四级及以上"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -7703,7 +7694,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "专业要求：理工类、经济学类专业优先考虑。如工业工程、统计学、市场营销、电子类物理类等。",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7717,11 +7708,12 @@
       "jobRequirements": "（1）学历要求：毕业时间为2027年1月-2027年12月的国内统招全日制本科及以上毕业生或毕业时间为2026年1月-2027年12月的海外留学生。 （2）外语能力：取得TCL华星所要求的外语等级证书（具体标准请见【TCL华星招聘】公众号），能熟练阅读英文相关技术文档。英日韩任一口语流利者优先。 （3）专业要求：理工类、经济学类专业优先考虑。如工业工程、统计学、市场营销、电子类物理类等。 （4）其他要求：逻辑清晰，沟通表达能力强，具有商务谈判能力；抗压能力强，形象气质佳。",
       "JD": "1.岗位职责：根据入职后统一岗位分配，岗位相关职责如下： （1）负责行业上下游、品牌客户、竞手、供应链等市场洞察及深度分析； （2）针对行业热点及专题分析，结合公司客户及产品策略，挖掘机会并提示风险； （3）参加行业展会/论坛，对外与客户及同行交流市场及行业，对内跨部门合作； （4）负责客户商务沟通及谈判，制定并执行销售计划； （5）作为Account Sales，建议客户产品策略； （6）负责客户关系维护，协调客户问题和要求。\n（1）学历要求：毕业时间为2027年1月-2027年12月的国内统招全日制本科及以上毕业生或毕业时间为2026年1月-2027年12月的海外留学生。 （2）外语能力：取得TCL华星所要求的外语等级证书（具体标准请见【TCL华星招聘】公众号），能熟练阅读英文相关技术文档。英日韩任一口语流利者优先。 （3）专业要求：理工类、经济学类专业优先考虑。如工业工程、统计学、市场营销、电子类物理类等。 （4）其他要求：逻辑清晰，沟通表达能力强，具有商务谈判能力；抗压能力强，形象气质佳。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业要求：理工类、经济学类专业优先考虑。如工业工程、统计学、市场营销、电子类物理类等。"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-08-19"
+          "学历要求：毕业时间为2027年1月-2027年12月的国内统招全日制本科及以上毕业生或毕业时间为2026年1月-2027年12月的海外留学生。"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -7801,9 +7793,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "专业要求：光学工程，物理学，应用物理学，微电子，材料学",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求：光学工程"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -7815,11 +7809,13 @@
       "jobRequirements": "（1）学历要求：毕业时间为2026年1月-2027年12月的统招全日制博士毕业生。 （2）外语能力：取得TCL华星所要求的外语等级证书（具体标准请见【TCL华星招聘】公众号，能熟练阅读英文相关技术文档。 （3）专业要求：光学工程，物理学，应用物理学，微电子，材料学 （4）其他要求：工作积极认真、学习能力较强，执行力强；逻辑思维强，具有较好的沟通和团队合作能力，能承受一定的压力。因行业属性原因，对辨色能力有一定要求，色盲色弱慎投。",
       "JD": "1. MLED光学设计与评估 2.新型背光光学设计与评估 3.新型光学技术调研与评估开发 4.供应商交流与合作开发\n（1）学历要求：毕业时间为2026年1月-2027年12月的统招全日制博士毕业生。 （2）外语能力：取得TCL华星所要求的外语等级证书（具体标准请见【TCL华星招聘】公众号，能熟练阅读英文相关技术文档。 （3）专业要求：光学工程，物理学，应用物理学，微电子，材料学 （4）其他要求：工作积极认真、学习能力较强，执行力强；逻辑思维强，具有较好的沟通和团队合作能力，能承受一定的压力。因行业属性原因，对辨色能力有一定要求，色盲色弱慎投。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业要求：光学工程，物理学，应用物理学，微电子，材料学"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-24"
+          "学历要求：毕业时间为2026年1月-2027年12月的统招全日制博士毕业生。",
+          "外语能力：取得TCL华星所要求的外语等级证书（具体标准请见【TCL华星招聘】公众号，能熟练阅读英文相关技术文档。"
         ],
         "technicalDuties": [],
         "businessDuties": []

@@ -1,7 +1,7 @@
 {
   "company": "小米",
   "count": 230,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -13720,11 +13720,9 @@
       "jobRequirements": "Fluent in Chinese, which can be used as a working language; possess good intelligence, a cheerful and outgoing personality, and be good at communicating with people. 中文流利可作为工作语言，聪明度好，性格开朗外向，擅长与人沟通",
       "JD": "1、Assist in sharing the GTM work of the POCO product line and be responsible for the launch of POCO products. 2、Goal management: Check the goals with the sales department every month and follow up on their achievement. 1.帮助分担POCO 产品线GTM工作，负责POCO产品上市 2.目标管理，每月与销售部门核对目标，并跟进达成\nFluent in Chinese, which can be used as a working language; possess good intelligence, a cheerful and outgoing personality, and be good at communicating with people. 中文流利可作为工作语言，聪明度好，性格开朗外向，擅长与人沟通",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -13806,16 +13804,11 @@
       "jobRequirements": "1、移动效果广告经验，曾任职于销售、合作伙伴关系或账户管理岗位（有头部DSP、SSP、AdNetwork经验者优先）； 2、英语听、说、读、写流利，可作为工作语言； 3、成功服务与管理战略客户的经验； 4、熟悉数据分析、MMP、移动应用生态和广告技术； 5、对互联网广告充满好奇心，具备批判性思维和学习行业前沿知识的能力； 6、有团队合作能力，能适应并拥抱变化。",
       "JD": "1、战略客户维护：针对长期合作的大客户，理解中国出海战略客户需求及小米平台特性，深入沟通客户及内部各层级、各部门，输出可落地的解决方案，并创造新的增长点； 2、新客户发掘：发掘中国出海新客户，分析客户需求并结合小米的流量特性，提供定制化的用户增长方案，帮助客户达成增长目标，并完成小米的销售目标，实现共赢； 3、市场洞察：独立判断行业趋势动向，挖掘海外潜力市场，结合国际行业趋势洞察，实现业绩增长； 4、数据分析：通过数据分析和行业洞察，定期进行复盘和规划，确保目标拆解和执行落地； 5、跨部门协作：通过跨部门、跨团队的协作，有效推动大客户需求发掘和问题解决，提升服务链路的效率与质量。\n1、移动效果广告经验，曾任职于销售、合作伙伴关系或账户管理岗位（有头部DSP、SSP、AdNetwork经验者优先）； 2、英语听、说、读、写流利，可作为工作语言； 3、成功服务与管理战略客户的经验； 4、熟悉数据分析、MMP、移动应用生态和广告技术； 5、对互联网广告充满好奇心，具备批判性思维和学习行业前沿知识的能力； 6、有团队合作能力，能适应并拥抱变化。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "客户关系",
-          "国际业务"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -13892,7 +13885,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上及以上学历，有手机等电子消费品公司实习经验优先；Bachelor's degree or higher. Prior internship experience at consumer electronics companies (e.g., smartphone industry) is preferred.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -13906,11 +13899,12 @@
       "jobRequirements": "1.本科及以上及以上学历，有手机等电子消费品公司实习经验优先； 2.韩语和中文能作为工作语言。 3.有较强的学习能力、掌握基本的数据分析思维和工具。 4.具备较强的逻辑思维能力，工作细致，有较强的跨部门协调能力； 5.对科技产品有浓厚的兴趣。 1.Bachelor's degree or higher. Prior internship experience at consumer electronics companies (e.g., smartphone industry) is preferred. 2.Proficiency in Korean and Chinese as working languages. 3.Strong learning agility with basic familiarity with data analysis methodologies and tools. 4.Excellent logical thinking skills, detail-oriented work ethic, and strong cross-departmental coordination capabilities. 5.Passionate about technology products.",
       "JD": "1.手机/Pad等产品国际市场计划制定：拉通区域，总部GTM/供应链等部门，制定相应产品年度/季度需求计划并进行滚动预测，确保本地库存水位的合理性。 2.供需管理：与区域/总部供应链拉通，协调处理供需问题，确保负责区域各产品的供需节奏平衡； 3.区域需求分析：负责特定区域市场的需求分析，作为区域和总部的计划接口，定期跟踪区域对应产品的交付节奏，同时根据总部整体策略，输出总部计划建议，为区域计划端口提供供应输入。 1.International Market Planning for Mobile Phones/Tablets and Other Products:Align regional and headquarters teams (GTM/Supply Chain, etc.) to develop annual/quarterly demand plans and rolling forecasts for relevant products, ensuring rational local inventory levels. 2.Supply-Demand Management:Collaborate with regional/headquarters supply chain teams to address supply-demand issues and maintain equilibrium in supply-demand cadence across responsible regions. 3.Regional Demand Analysis: Conduct market-specific demand analysis for assigned regions, acting as the planning interface between regions and headquarters. Regularly monitor regional product delivery cadence, propose strategic planning recommendations aligned with headquarters priorities, and provide supply input to regional planning teams.\n1.本科及以上及以上学历，有手机等电子消费品公司实习经验优先； 2.韩语和中文能作为工作语言。 3.有较强的学习能力、掌握基本的数据分析思维和工具。 4.具备较强的逻辑思维能力，工作细致，有较强的跨部门协调能力； 5.对科技产品有浓厚的兴趣。 1.Bachelor's degree or higher. Prior internship experience at consumer electronics companies (e.g., smartphone industry) is preferred. 2.Proficiency in Korean and Chinese as working languages. 3.Strong learning agility with basic familiarity with data analysis methodologies and tools. 4.Excellent logical thinking skills, detail-oriented work ethic, and strong cross-departmental coordination capabilities. 5.Passionate about technology products.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上及以上学历，有手机等电子消费品公司实习经验优先",
+          "Bachelor's degree or higher. Prior internship experience at consumer electronics companies (e.g., smartphone industry) is preferred."
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -13986,7 +13980,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor degree (or above) in Supply Chain, Logistics, Business Administration or similar majors",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -14000,11 +13994,11 @@
       "jobRequirements": "1.Products delivery or related working experience preferred; 2.Bachelor degree (or above) in Supply Chain, Logistics, Business Administration or similar majors; 3.Data analytical and logical thinking; 4.Good communication skills, fluent in written and spoken English and Chinese required; 5.Entrepreneurial mindset, pro-active and problem solving attitude, hardworking and willing to work under pressure; 6.Fluent in spoken and written Spainish, English.",
       "JD": "1.Follow and improve the efficiency of Order Fulfillment Process and ensure on time delivery; 2.Follow shipment and revenue target achievement, analyze risks and opportunities; 3.Oversee HQ/Local/Channel inventory, prevent stock risks in advance and improve overall ITO; 4.Take part in setting up Regional Delivery KPIs, monitor and analyze periodically to improve operational efficiency; 5.Keep routinely and closely communication between HQ/Country/Customers to make sure all the delivery information is shared among all parties smoothly & efficiently.\n1.Products delivery or related working experience preferred; 2.Bachelor degree (or above) in Supply Chain, Logistics, Business Administration or similar majors; 3.Data analytical and logical thinking; 4.Good communication skills, fluent in written and spoken English and Chinese required; 5.Entrepreneurial mindset, pro-active and problem solving attitude, hardworking and willing to work under pressure; 6.Fluent in spoken and written Spainish, English.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor degree (or above) in Supply Chain, Logistics, Business Administration or similar majors"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -14072,7 +14066,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor degree (or above) in Supply Chain, Logistics, Business Administration or similar majors",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -14086,11 +14080,11 @@
       "jobRequirements": "1.Products delivery or related working experience preferred; 2.Bachelor degree (or above) in Supply Chain, Logistics, Business Administration or similar majors; 3.Data analytical and logical thinking; 4.Good communication skills, fluent in written and spoken English and Chinese required; 5.Entrepreneurial mindset, pro-active and problem solving attitude, hardworking and willing to work under pressure; 6.Fluent in spoken and written Spainish, English.",
       "JD": "1.Follow and improve the efficiency of Order Fulfillment Process and ensure on time delivery; 2.Follow shipment and revenue target achievement, analyze risks and opportunities; 3.Oversee HQ/Local/Channel inventory, prevent stock risks in advance and improve overall ITO; 4.Take part in setting up Regional Delivery KPIs, monitor and analyze periodically to improve operational efficiency; 5.Keep routinely and closely communication between HQ/Country/Customers to make sure all the delivery information is shared among all parties smoothly & efficiently.\n1.Products delivery or related working experience preferred; 2.Bachelor degree (or above) in Supply Chain, Logistics, Business Administration or similar majors; 3.Data analytical and logical thinking; 4.Good communication skills, fluent in written and spoken English and Chinese required; 5.Entrepreneurial mindset, pro-active and problem solving attitude, hardworking and willing to work under pressure; 6.Fluent in spoken and written Spainish, English.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor degree (or above) in Supply Chain, Logistics, Business Administration or similar majors"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -14254,7 +14248,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Currently pursuing or recently completed a degree in Public Relations, Communications, Marketing, or a related field.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -14268,10 +14262,12 @@
       "jobRequirements": "1. Currently pursuing or recently completed a degree in Public Relations, Communications, Marketing, or a related field. 2. Strong writing, editing, and communication skills. 3. Interest in media relations, brand management, and public relations strategies. 4. Proficiency in Microsoft Office and social media platforms. 5. Ability to work collaboratively and multitask in a fast-paced environment. 6. Attention to detail and eagerness to learn.",
       "JD": "1. Media Monitoring: Track media coverage, compile daily reports, and analyze PR performance metrics. 2. Press Materials: Assist in drafting and editing press releases, media alerts, and other communication materials. 3. Media Outreach: Support the PR team in maintaining media contact lists, assisting with outreach, and following up with journalists and influencers. 4. Event Support: Help organize and coordinate events, including media briefings, product launches, and press conferences. 5. Social Media: Assist with content creation and scheduling for PR-related social media channels. 6. Research: Conduct research on media trends, industry news, and competitors’ PR activities. 7. Administrative Tasks: Provide administrative support to the PR team, including managing schedules, handling communications, and preparing reports.\n1. Currently pursuing or recently completed a degree in Public Relations, Communications, Marketing, or a related field. 2. Strong writing, editing, and communication skills. 3. Interest in media relations, brand management, and public relations strategies. 4. Proficiency in Microsoft Office and social media platforms. 5. Ability to work collaboratively and multitask in a fast-paced environment. 6. Attention to detail and eagerness to learn.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Currently pursuing or recently completed a degree in Public Relations, Communications, Marketing, or a related field."
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Currently pursuing or recently completed a degree in Public Relations, Communications, Marketing, or a related field."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -14340,7 +14336,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -14354,11 +14350,11 @@
       "jobRequirements": "任职要求： 1、本科及以上学历，有管理咨询/互联网公司战略研究相关实习经验优先； 2、熟练使用各类常用办公软件.有熟练的网络搜索、挖掘、汇总能力； 3、善于学习，善于深度思考问题，优秀的结构化思考能力和分析能力； 4、沟通能力强，对新事物保持敏感，有责任心和执行力，能够协调跨部门协作； 5、工作细心踏实，做事条理清晰，有责任心。",
       "JD": "岗位描述： 1、跟踪云服务/大数据/商业化/软件体验/游戏等小米业务的行业内相关公司及产品的相关动态，每季度定期输出行业研究，专项分析等，为管理层及业务团队提供战略决策支持； 2、基于商业/战略研究结果形成战略级项目，并保证顺利落地； 3、积极深入了解小米内部业务，针对手机，AIOT及互联网等业务需求场景及痛点展开专项分析； 4、支持部门日常工作，配合业务完成相关领域研究，持续进行业务结果分析、业务复盘等； 5、针对部门okr进行每个季度review，并输出反馈报告。\n任职要求： 1、本科及以上学历，有管理咨询/互联网公司战略研究相关实习经验优先； 2、熟练使用各类常用办公软件.有熟练的网络搜索、挖掘、汇总能力； 3、善于学习，善于深度思考问题，优秀的结构化思考能力和分析能力； 4、沟通能力强，对新事物保持敏感，有责任心和执行力，能够协调跨部门协作； 5、工作细心踏实，做事条理清晰，有责任心。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -14823,15 +14819,11 @@
       "jobRequirements": "1.技能要求： 具备一定的产品设计和原型制作能力，熟练使用Axure、sketch、Figma等工具。 2.素质要求： 具备较好的逻辑思维能力和问题解决能力，能够快速理解复杂的业务需求； 具备较强的学习能力和自我驱动力，能够快速适应新的工作环境和任务要求； 对B端产品有浓厚的兴趣和热情，有相关实习经验者优先。 3.经验要求： 有B端产品、开发者平台、后台或生态平台相关实习或项目经验者优先； 熟悉广告联盟业务、快应用、快游戏业务，为B端用户提供系统级解决方案优先。",
       "JD": "1.需求调研与分析： 收集和整理B端用户需求，通过业务访谈、数据分析等方式深入了解业务痛点和业务场景。对收集到的需求进行分析和梳理，形成需求文档，为产品的设计和开发提供有力支持； 2.产品设计与规划： 参与B端产品的功能设计和流程规划，绘制产品原型图，撰写详细的产品功能说明书。能够发现所负责模块体验问题并快速给出解决方案。 3.项目跟进与协调： 跟进产品开发进度，及时解决项目中出现的问题和风险。与跨部门团队进行沟通协调，确保项目按时交付，达成预期目标。 4.市场调研与竞品分析： 关注竞品和行业动态，结合用户需求和反馈，推动产品和服务的进化。\n1.技能要求： 具备一定的产品设计和原型制作能力，熟练使用Axure、sketch、Figma等工具。 2.素质要求： 具备较好的逻辑思维能力和问题解决能力，能够快速理解复杂的业务需求； 具备较强的学习能力和自我驱动力，能够快速适应新的工作环境和任务要求； 对B端产品有浓厚的兴趣和热情，有相关实习经验者优先。 3.经验要求： 有B端产品、开发者平台、后台或生态平台相关实习或项目经验者优先； 熟悉广告联盟业务、快应用、快游戏业务，为B端用户提供系统级解决方案优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -14902,7 +14894,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -14916,11 +14908,11 @@
       "jobRequirements": "1、本科及以上学历； 2、了解常见互联网产品的运营模式； 3、对产品和服务有一定分析能力，对场景卖点提炼具备洞察力； 4、有较强的策划能力，出色的项目规划和执行能力，良好的沟通表达能力； 5、有互联网公司实习经验者优先。",
       "JD": "1、围绕小米生态平台，负责生态内合作伙伴的引入、洽谈、维系； 2、赋能合作伙伴，协助其快速熟悉、了解、接入合作Hyper OS系统与生态； 3、挖掘合作伙伴需求，为系统和平台能力提供场景需求，推动系统和平台能力的建设； 4、负责平台活动和运营，举办开发者活动、平台宣传，负责开发者官网服务模块的搭建、运维； 5、针对关键课题、关键伙伴，设计专项策略和创新模式，负责生态伙伴合作项目的运作管理和推进落地； 6、负责开发者的应用体验管理，与技术团队协作，建立和维护应用体验标准与流程，保障在不同设备、系统与网络环境下稳定运行； 7、对开发者关系进行维护，提供专业的咨询和指导服务，了解开发者在平台经营的需求鱼困难并推动解决，提升开发者满意度和配合度。\n1、本科及以上学历； 2、了解常见互联网产品的运营模式； 3、对产品和服务有一定分析能力，对场景卖点提炼具备洞察力； 4、有较强的策划能力，出色的项目规划和执行能力，良好的沟通表达能力； 5、有互联网公司实习经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -15087,7 +15079,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "硕士学历优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -15101,15 +15093,13 @@
       "jobRequirements": "1、硕士学历优先，英文听说读写流利者优先； 2、具备良好的服务意识和责任心； 3、熟练使用各类办公软件，具有较强的逻辑性、数据分析能力和文字写作能力，善于沟通； 4、性格开朗，亲和力高，服务意识好，具有较强的沟通协调能力和团队协作意识； 5、人品端正，具备较强的风险和保密意识。",
       "JD": "1、协助日程管理，包括但不限于会议安排、差旅安排及其他行政支持等； 2、撰写信函、报告、会议纪要等各类综合性文件，对相关信息进行收集、汇总整理和分析； 3、协助安排商务接待，妥善接待各类重要来宾； 4、推动、督办、协调和落实上级交办的重点项目，及时反馈，确保项目按时完成； 5、协助处理公司相关敏感信息，确保保密性和安全性。\n1、硕士学历优先，英文听说读写流利者优先； 2、具备良好的服务意识和责任心； 3、熟练使用各类办公软件，具有较强的逻辑性、数据分析能力和文字写作能力，善于沟通； 4、性格开朗，亲和力高，服务意识好，具有较强的沟通协调能力和团队协作意识； 5、人品端正，具备较强的风险和保密意识。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士学历优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -15179,9 +15169,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，工业工程/物流工程/物流管理相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "工业工程/物流工程/物流管理相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -15193,11 +15185,11 @@
       "jobRequirements": "1.本科及以上学历，工业工程/物流工程/物流管理相关专业； 2.学习能力强，做事积极主动； 3.有较好的理解能力和沟通表达能力； 4.熟练应用AutoCAD.CATIA或UG.Office等软件，熟悉各类简单的编程语言。",
       "JD": "1.负责厂内物流零件级规划的制定.实施，仓储layout绘制； 2.负责物流规划变更跟踪管理与协调； 3.负责物流规划标准体系文件编制.整理与管理； 4.协调部门内部，推动精益物流规划标准的建立与持续完善； 5.负责供应商零件包装评审与实施。\n1.本科及以上学历，工业工程/物流工程/物流管理相关专业； 2.学习能力强，做事积极主动； 3.有较好的理解能力和沟通表达能力； 4.熟练应用AutoCAD.CATIA或UG.Office等软件，熟悉各类简单的编程语言。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，工业工程/物流工程/物流管理相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -15279,11 +15271,9 @@
       "jobRequirements": "1.勇于接受挑战，具有强烈的学习热情和进取心。 2.热爱销售行业，有消费类电子行业实习经验优先； 3.善于沟通，跨部门协同能力强，能高效推动工作落地； 4.逻辑清晰、执行力强，具备较强的数据分析能力及问题解决能力。 5.中文可作为工作语言优先。 1.Proactive challenger with strong learning agility and career advancement drive. 2.Passionate about sales operations; prior internship experience in consumer electronics preferred. 3.Skilled communicator with cross-departmental coordination expertise to ensure 4.operational implementation efficiency. 5.Structured thinker with execution focus, demonstrating robust data analytics and root-cause solutioning capabilities. 6.Professional working proficiency in Chinese (written/oral) is preferred.",
       "JD": "1. 目标管理：手机/PAD品类目标分解，周别、月别、季度别跟进目标达成 ； 2. 产品管理：负责手机/PAD产品生命周期管理，对导入期、成长期、成熟期和退市期进行产品规划管理，根据产品上市节奏、卖点、竞品分析等输出米家侧上市方案，拉通相关部门，对米家新品上市执行及结果交付负责； 3. 销售管理：对手机/PAD品类的销售额负责，定期整理汇报销售分析、复盘总结、品类操盘策略与分析； 4. 市场洞察：收集市场/行业/竞品等信息，进行产品分析及定位，制定相应的爆品计划及推动落地, 输出产品零售策略，监控产品生命周期内的销量情况，总结规律与打法。 Target Governance Deconstruct smartphone/tablet category objectives and ensure milestone achievement through weekly/monthly/quarterly performance tracking. Product Lifecycle Management Oversee end-to-end product lifecycle management (launch, growth, maturity, phase-out stages). Develop Mi Ecosystem-specific commercialization strategies aligned with launch timelines, product USPs, and competitive analysis. Drive cross-functional collaboration to ensure flawless product rollout and outcome delivery. Sales Operations Accountable for smartphone/tablet category revenue targets. Produce regular analytical reports including sales diagnostics, performance retrospectives, and category-specific operational strategies. Market Intelligence Conduct comprehensive market/competitive intelligence analysis to inform product positioning. Formulate blockbuster product roadmaps with executable tactics, develop retail strategies, monitor lifecycle sales performance, and institutionalize proven operational methodologies.\n1.勇于接受挑战，具有强烈的学习热情和进取心。 2.热爱销售行业，有消费类电子行业实习经验优先； 3.善于沟通，跨部门协同能力强，能高效推动工作落地； 4.逻辑清晰、执行力强，具备较强的数据分析能力及问题解决能力。 5.中文可作为工作语言优先。 1.Proactive challenger with strong learning agility and career advancement drive. 2.Passionate about sales operations; prior internship experience in consumer electronics preferred. 3.Skilled communicator with cross-departmental coordination expertise to ensure 4.operational implementation efficiency. 5.Structured thinker with execution focus, demonstrating robust data analytics and root-cause solutioning capabilities. 6.Professional working proficiency in Chinese (written/oral) is preferred.",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -15369,15 +15359,11 @@
       "jobRequirements": "1、具备良好的运营规划的能力，能够制定和把握零售上市的整体节奏和方向； 2、熟练使用office软件，具备良好的数字分析能力及数字敏感度； 3、具有较强的学习能力和跨部门跨国家沟通能力，具有团队意识，善于交流； 4、结果导向，细节导向，有韧性和多任务处理能力； 5、良好俄语能力，兼具英语者优先考虑。",
       "JD": "1、沟通协调资源，参与制定手机产品零售策略和发展规划，对接产品、市场等相关部门，根据新品上市节奏、产品卖点、竞品分析等输出零售侧新品上市策略及方案； 2、根据公司的相关制度要求，正确分配零售月度，季度，年度预算；实时追踪零售预算使用进度并定期反馈分客户，分投入类型的预算使用，为业务的费用投入提出指导性建议； 3、了解行业动态，不断调整和优化产品上市方案及运营策略，定期收集竞争对手情况，从产品和零售角度进行分析并提出应对策略； 4、参与反馈每周、月，季度零售重要要素（产品销量，阵地运营）的进展评审，根据各要素目标，拉通各项指标的达成情况。\n1、具备良好的运营规划的能力，能够制定和把握零售上市的整体节奏和方向； 2、熟练使用office软件，具备良好的数字分析能力及数字敏感度； 3、具有较强的学习能力和跨部门跨国家沟通能力，具有团队意识，善于交流； 4、结果导向，细节导向，有韧性和多任务处理能力； 5、良好俄语能力，兼具英语者优先考虑。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -15447,7 +15433,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，物流、企业管理、工业工程等专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -15461,11 +15447,11 @@
       "jobRequirements": "任职要求： 1、本科及以上学历，物流、企业管理、工业工程等专业优先； 2、热爱物流和电子商务行业，具有强烈的事业心、进取心和责任心，并对生活充满正能量，对工作充满激情，有志成为小米物流的管理人才或者专业人才； 3、具备优秀的沟通协调能力，出色的解决问题能力，善于团队合作，并能主动学习与创新。",
       "JD": "岗位描述： 1、跟进国内及海外物流、仓储、运输的日常工作； 2、按照仓储、运输业务的具体模块职能要求，进行业务的学习、掌握、熟练、并可以独立完成领导安排的工作内容； 3、物流数据进行日常汇总、整理与分析； 4、对项目中的具体工作负责，进行文档处理、对于跨部门协作、对外沟通的工作进行妥善的沟通推动、及时反馈、资源协调。\n任职要求： 1、本科及以上学历，物流、企业管理、工业工程等专业优先； 2、热爱物流和电子商务行业，具有强烈的事业心、进取心和责任心，并对生活充满正能量，对工作充满激情，有志成为小米物流的管理人才或者专业人才； 3、具备优秀的沟通协调能力，出色的解决问题能力，善于团队合作，并能主动学习与创新。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，物流、企业管理、工业工程等专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

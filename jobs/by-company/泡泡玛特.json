@@ -1,7 +1,7 @@
 {
   "company": "泡泡玛特",
   "count": 21,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-456ec4f7b952",
@@ -1589,7 +1589,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1603,11 +1603,11 @@
       "jobRequirements": "- 本科及以上学历，具备供应链相关实习经验者优先； - 具备数据统计与分析能力，熟练使用Excel、PowerPoint等Office办公软件； - 逻辑思维清晰，具备良好的沟通表达与跨部门协作能力； - 责任心强，主动识别并推动解决实际问题，结果导向。",
       "JD": "- 补货计划：根据滚动需求预测，制定供应计划，确认采购申请（PR）及长期补货需求，确保新品与老品需求满足及库存水平稳定； - 生产计划：协同供应链相关部门，更新主生产计划，评估OEM排产合理性； - 订单管理：负责订单履约全流程，包括订单下达、交期追踪、分货方案制定及入库追踪，确保订单按时、按量交付； - 异常管理：处理因需求或交付变动引发的异常情况，包括预警高/低库存风险、动态调整供应节奏、及时更新分货方案。\n- 本科及以上学历，具备供应链相关实习经验者优先； - 具备数据统计与分析能力，熟练使用Excel、PowerPoint等Office办公软件； - 逻辑思维清晰，具备良好的沟通表达与跨部门协作能力； - 责任心强，主动识别并推动解决实际问题，结果导向。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

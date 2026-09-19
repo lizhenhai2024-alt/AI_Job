@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
   "count": 233,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -5685,7 +5685,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5699,10 +5699,12 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027校招"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5771,7 +5773,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1、本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5785,10 +5787,12 @@
       "jobRequirements": "1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的；",
       "JD": "1、组织实施职场训练，推动各层级代理人晋升； 2、协助新进代理人增员，辅导展业，推动组织业绩及人力发展目标的达成； 3、协助制定营销发展计划和推动方案，编制和管理各类考核与业务统计报表； 4、负责新进代理人团队建设相关的各类活动策划；组织实施各类会议。\n1、本科及以上学历； 2、熟悉ppt、Excel、word等各类办公软件操作； 3、认同保险行业发展，认同泰康企业文化； 4、抗压能力强，执行力强，沟通能力强，计划能力强，具备高效团队协作的；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "1、本科及以上学历；"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "（2027校招）"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5871,11 +5875,9 @@
       "jobRequirements": "1、对养老行业有热情，具备服务意识，有亲和力，有耐心； 2、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
       "JD": "1、参与重大市场推广、品牌宣传活动的策划组织； 2、进行线上品牌宣传活动，树立良好的品牌形象； 3、协助进行销售团队的考核、激励及培训； 4、完成客户信息、销售合同的日常管理工作，与服务团队协同做好居民的服务对接，进行服务流程优化。\n1、对养老行业有热情，具备服务意识，有亲和力，有耐心； 2、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6046,11 +6048,9 @@
       "jobRequirements": "1、对养老行业有热情，具备服务意识，有亲和力，有耐心。 2、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
       "JD": "1、参与重大市场推广、品牌宣传活动的策划组织。 2、进行线上品牌宣传活动，树立良好的品牌形象。 3、协助进行销售团队的考核、激励及培训。 4、完成客户信息、销售合同的日常管理工作，与服务团队协同做好居民的服务对接，进行服务流程优化。\n1、对养老行业有热情，具备服务意识，有亲和力，有耐心。 2、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6213,17 +6213,11 @@
       "jobRequirements": "1、对养老行业有热情,具备服务意识,有亲和力,有耐心； 2、形象气质佳,普通话标准,具备良好的口头表达能力和沟通协调能力；",
       "JD": "1、为客户提供沉浸体验式营销活动,负责活动产品设计、实施流程对接、文创产品采买等; 2、负责VIP客户接待、体验馆讲解等工作; 3、负责体验馆的运营管理,如客户参观排期、场地管理等；\n1、对养老行业有热情,具备服务意识,有亲和力,有耐心； 2、形象气质佳,普通话标准,具备良好的口头表达能力和沟通协调能力；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-07-31"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通",
-          "客户关系"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -6286,7 +6280,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -6300,15 +6294,13 @@
       "jobRequirements": "1、本科及以上学历；对养老行业有热情，具备服务意识，有亲和力，有耐心； 2、形象气质佳，普通话标准，具备良好的口头表达能力和沟通协调能力。",
       "JD": "1、预约接待：安排保险高端客户、渠道客户、政府官员、其他VIP人士的体验参观时间，执行接待方案。 2、开展产品设计、销售。 3、协调社区服务资源，制定服务方案，协调安排服务项目和相关流程，保证服务产品在社区的落地实施。 4、链接内外部客户，深度挖掘客户需求。 5、完成领导交办的其他工作。\n1、本科及以上学历；对养老行业有热情，具备服务意识，有亲和力，有耐心； 2、形象气质佳，普通话标准，具备良好的口头表达能力和沟通协调能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -6370,7 +6362,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，教育学、人力资源管理、心理学等相关专业优先。",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -6384,11 +6376,11 @@
       "jobRequirements": "本科及以上学历，教育学、人力资源管理、心理学等相关专业优先。 熟练使用Office办公软件，特别是PPT的制作和演示。 具备快速学习新知识和新技能的能力，保持对行业动向和培训新模式的关注。 良好的团队合作精神，能够激励他人，促进团队共同成长。",
       "JD": "根据公司战略和业务需求，策划、组织和实施各类活动及培训项目； 负责业务活动前期的宣传、协调和组织工作，确保活动的顺利开展； 跟进培训效果，收集学员反馈，进行培训评估和改进； 负责管理业务培训、活动档案，维护和更新资料库； 协助部门完成其他相关业务督导任务及专项工作。\n本科及以上学历，教育学、人力资源管理、心理学等相关专业优先。 熟练使用Office办公软件，特别是PPT的制作和演示。 具备快速学习新知识和新技能的能力，保持对行业动向和培训新模式的关注。 良好的团队合作精神，能够激励他人，促进团队共同成长。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，教育学、人力资源管理、心理学等相关专业优先。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -6453,7 +6445,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，教育学、人力资源管理、心理学等相关专业优先。",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -6467,11 +6459,11 @@
       "jobRequirements": "本科及以上学历，教育学、人力资源管理、心理学等相关专业优先。 熟练使用Office办公软件，特别是PPT的制作和演示。 具备快速学习新知识和新技能的能力，保持对行业动向和培训新模式的关注。 良好的团队合作精神，能够激励他人，促进团队共同成长。",
       "JD": "根据公司战略和业务需求，策划、组织和实施各类活动及培训项目； 负责业务活动前期的宣传、协调和组织工作，确保活动的顺利开展； 跟进培训效果，收集学员反馈，进行培训评估和改进； 负责管理业务培训、活动档案，维护和更新资料库； 协助部门完成其他相关业务督导任务及专项工作。\n本科及以上学历，教育学、人力资源管理、心理学等相关专业优先。 熟练使用Office办公软件，特别是PPT的制作和演示。 具备快速学习新知识和新技能的能力，保持对行业动向和培训新模式的关注。 良好的团队合作精神，能够激励他人，促进团队共同成长。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，教育学、人力资源管理、心理学等相关专业优先。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

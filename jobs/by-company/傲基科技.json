@@ -1,7 +1,7 @@
 {
   "company": "傲基科技",
   "count": 9,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-2db82314175d",
@@ -689,7 +689,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "工程类、家具木材类等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -703,14 +703,20 @@
       "jobRequirements": "1、工程类、家具木材类等相关专业优先； 2、数据敏感度强，熟练 Excel，愿意拥抱 AI 工具，具备创新思考意识； 3、细致严谨，沟通执行力良好，具备持续学习意愿； 4、CET-4 及以上，可阅读英文资料；有跨境、供应链、品质相关实习优先。",
       "JD": "1、参与全链路品质管控，进行客诉与退货问题分析，推动质量改善落地； 2、探索 AI 工具在品质场景创新应用，尝试优化质检、客诉梳理、风险预警等工作流程，输出可行方案； 3、协助完善品质标准、流程文档，对接各业务端推进质量整改，完成部门交办的专项工作； 4、持续积累跨境品控与合规知识，作为品质中台核心人才储备培养。\n1、工程类、家具木材类等相关专业优先； 2、数据敏感度强，熟练 Excel，愿意拥抱 AI 工具，具备创新思考意识； 3、细致严谨，沟通执行力良好，具备持续学习意愿； 4、CET-4 及以上，可阅读英文资料；有跨境、供应链、品质相关实习优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "工程类、家具木材类等相关专业优先"
         ],
-        "technicalDuties": [],
+        "eligibilityClauses": [
+          "27校招"
+        ],
+        "technicalDuties": [
+          "问题根因",
+          "质量技术"
+        ],
         "businessDuties": [
-          "翻译/本地化"
+          "资料/流程",
+          "国际业务"
         ]
       },
       "roleFamily": [

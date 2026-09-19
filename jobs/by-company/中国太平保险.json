@@ -1,7 +1,7 @@
 {
   "company": "中国太平保险集团",
   "count": 118,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-48d4c78c739f",
@@ -8296,10 +8296,10 @@
       "jobRequirements": "• 需持澳门永久居民身份证 • 社交主动，擅长人际沟通与资源拓展、工作态度认真及责任心强 • 具备良好的沟通、跨部门协同与团队组织能力、能独立组织与主持培训，具创新思维与落地执行推进能力 • 熟悉办公室软件（PowerPoint、Word & Excel）应用",
       "JD": "• 处理公司对接代理人的日常工作 • 负责代理人培训、发展相关数据与数据分析，追踪学习成效 • 建立并维护内部课程资源库，根据业务需求持续更新培训内容\n• 需持澳门永久居民身份证 • 社交主动，擅长人际沟通与资源拓展、工作态度认真及责任心强 • 具备良好的沟通、跨部门协同与团队组织能力、能独立组织与主持培训，具创新思维与落地执行推进能力 • 熟悉办公室软件（PowerPoint、Word & Excel）应用",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "需持澳门永久居民身份证"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -8367,9 +8367,11 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "硕士研究生及以上学历，自然灾害相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "自然灾害相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8381,11 +8383,11 @@
       "jobRequirements": "1.硕士研究生及以上学历，自然灾害相关专业； 2.具备良好的数据分析能力、语言和文字表达能力，有解决复杂问题的知识、经验和技能； 3.熟练运用常用办公软件，有灾害分析相关软件工具使用经验者优先； 4.有相关实习经验者优先。",
       "JD": "1.参与巨灾保险产品创新及方案设计、灾害分析研究以及公司灾害相关平台建设工作； 2.在各个续转季，为公司非寿险业务承保和转分安排提供精算定价分析支持； 3.参与巨灾模型使用、巨灾风险累积管理等工作； 4.根据公司业务发展相关需求，为客户提供精算和巨灾分析等技术服务； 5.完成部门交办的其他工作。\n1.硕士研究生及以上学历，自然灾害相关专业； 2.具备良好的数据分析能力、语言和文字表达能力，有解决复杂问题的知识、经验和技能； 3.熟练运用常用办公软件，有灾害分析相关软件工具使用经验者优先； 4.有相关实习经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士研究生及以上学历，自然灾害相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8622,7 +8624,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -8636,11 +8638,11 @@
       "jobRequirements": "1.本科及以上学历； 2.良好的口头及书面表达能力； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.性格开朗，思维敏捷，学习能力强，具有较强的协调和解决问题能力，具备责任心和开拓创新精神，能承受一定的工作压力。",
       "JD": "1.负责三级机构咨诉案件的受理、处理、协调及追踪； 2.负责咨诉档案的整理； 3.领导交办的其他工作。\n1.本科及以上学历； 2.良好的口头及书面表达能力； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.性格开朗，思维敏捷，学习能力强，具有较强的协调和解决问题能力，具备责任心和开拓创新精神，能承受一定的工作压力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -8704,7 +8706,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -8718,11 +8720,11 @@
       "jobRequirements": "1、本科及以上学历； 2、良好的口头及书面表达能力； 3、熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4、性格开朗，思维敏捷，学习能力强，具有较强的协调和解决问题能力，具备责任心和开拓创新精神，能承受一定的工作压力。",
       "JD": "1、对公司政策、制度的宣导和企业文化的传播； 2、协助所在四级机构负责人拟订经营计划，策划、组织和追踪业务推动活动； 3、协助所在四级机构所辖各营业部建立自主经营功能小组，并推动功能小组的有效运作； 4、分析日常经营关键业绩指标，督导所在四级机构各项业务活动； 5、对各级业务人员进行销售技能、增员技能等日常辅导工作； 6、协助、督导营业部人力发展的规划、执行与追踪； 7、指导、推动各级业务人员达成月度、季度、年度业务目标； 8、职场布置与管理； 9、协助所在四级机构负责人推动组织发展； 10、协助个险拓展业务在本区域的业务开展。\n1、本科及以上学历； 2、良好的口头及书面表达能力； 3、熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4、性格开朗，思维敏捷，学习能力强，具有较强的协调和解决问题能力，具备责任心和开拓创新精神，能承受一定的工作压力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

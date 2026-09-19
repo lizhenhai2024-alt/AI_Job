@@ -1,7 +1,7 @@
 {
   "company": "京东方",
   "count": 59,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-2be429ffbb1a",
@@ -3192,7 +3192,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "电子科学与技术、物理类：凝聚态物理，光学、电子信息工程",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3206,13 +3206,22 @@
       "jobRequirements": "1、博士应届毕业生； 2、电子科学与技术、物理类：凝聚态物理，光学、电子信息工程； 3、专业基础扎实，成绩优秀，无不及格科目； 4、思路清晰，具备较好的学习能力和问题分析能力。 5、有较好的英语能力（英语四级及以上）",
       "JD": "PNL电性特性研究，Layout优化设计专项工作 1、项目规格RFI评估检讨； 2、驱动电路设计及仿真，Panel及Mask设计出图； 3、前瞻技术课题研究及现有Issue机理分析，新产品反向解析； 4、客户项目对接。\n1、博士应届毕业生； 2、电子科学与技术、物理类：凝聚态物理，光学、电子信息工程； 3、专业基础扎实，成绩优秀，无不及格科目； 4、思路清晰，具备较好的学习能力和问题分析能力。 5、有较好的英语能力（英语四级及以上）",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "电子科学与技术、物理类：凝聚态物理，光学、电子信息工程"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [
+          "博士应届毕业生"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "结构/原理",
+          "问题根因",
+          "开发实现"
+        ],
+        "businessDuties": [
+          "客户关系"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -3730,7 +3739,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科应届毕业生；材料、光学、电子",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3744,12 +3753,17 @@
       "jobRequirements": "1、本科应届毕业生； 2、材料、光学、电子； 3、专业基础扎实，成绩优秀，无不及格科目； 4、问题解决能力、报告输出能力、学习能力、沟通表达能力； 5、有较好的英语能力（英语四级及以上）。",
       "JD": "根据公司内外部标准，制定品质管控流程，推动产品品质达到客户要求。1、质量管理体系建立、运营、维护、监督、审核、持续改进；2、制定品质目标，考核并推动品质改进；3、公司产品和材料的品质把控：检查管理，性能测试，结果分析，改善推进；4、新产品、新材料的测试、评价与认证；5、对供应商进行品质审核、品质管理、品质问题纠正与预防。\n1、本科应届毕业生； 2、材料、光学、电子； 3、专业基础扎实，成绩优秀，无不及格科目； 4、问题解决能力、报告输出能力、学习能力、沟通表达能力； 5、有较好的英语能力（英语四级及以上）。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科应届毕业生",
+          "材料、光学、电子"
         ],
-        "technicalDuties": [],
+        "eligibilityClauses": [
+          "本科应届毕业生"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
         "businessDuties": []
       },
       "roleFamily": [
@@ -3818,7 +3832,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科应届毕业生；材料、光学、电子",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3832,13 +3846,21 @@
       "jobRequirements": "1、本科应届毕业生； 2、材料、光学、电子； 3、专业基础扎实，成绩优秀，无不及格科目； 4、问题解决能力、团队协作能力、学习能力、沟通表达能力； 5、良好的英语听说读写能力，通过英语六级优先。",
       "JD": "1、统筹客户售后技术支持业务，实施客户品质对应策略；2、提升客户端品质，快速解决客户端的产品不良问题，满足客户需求，达成客户满意；3、横向推进各工厂品质改善，预防客户端重大Issue发生，达成客户品质目标；4、顺利导入客户ECN认证，确保认证周期；5、维持客户关系，提升信用度，保证售后技术支持业务顺利进行。\n1、本科应届毕业生； 2、材料、光学、电子； 3、专业基础扎实，成绩优秀，无不及格科目； 4、问题解决能力、团队协作能力、学习能力、沟通表达能力； 5、良好的英语听说读写能力，通过英语六级优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科应届毕业生",
+          "材料、光学、电子"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [
+          "本科应届毕业生"
+        ],
+        "technicalDuties": [
+          "问题根因"
+        ],
+        "businessDuties": [
+          "客户关系",
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -3905,9 +3927,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "硕士应届毕业生；光电信息等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "光电信息等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -3919,13 +3943,17 @@
       "jobRequirements": "1、硕士应届毕业生； 2、光电信息等相关专业； 3、专业基础扎实，成绩优秀，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语六级及以上）；",
       "JD": "1、负责液晶光学、几何光学、微纳光学、光计算相关领域新技术、新应用调研，可行性分析； 2、负责新技术方案验证，产品化推广；\n1、硕士应届毕业生； 2、光电信息等相关专业； 3、专业基础扎实，成绩优秀，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语六级及以上）；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "硕士应届毕业生",
+          "光电信息等相关专业"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "硕士应届毕业生"
         ],
         "technicalDuties": [
-          "技术评估"
+          "技术评估",
+          "结构/原理"
         ],
         "businessDuties": []
       },
@@ -4090,9 +4118,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "硕士应届毕业生；光学类相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "光学类相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -4104,15 +4134,20 @@
       "jobRequirements": "1、硕士应届毕业生； 2、光学类相关专业； 3、专业基础扎实，成绩优秀，无不及格科目； 4、良好的沟通协调能力，强烈的工作责任感及问题解决能力； 5、英语通过CET-4。",
       "JD": "负责产品开发过程中的Cell设计方案以及不良分析和改善。 1、负责承担开发过程中的CELL（液晶成盒）等内容及新工艺的设计与工艺开发相关工作； 2、负责完成对产品化的设计与工程变更； 3、对新产品开发阶段/客户端的不良（涵盖机构、LED、光学膜片、导光板、胶类、偏光片等领域）具有较强的分析能力，并协助推进新产品评价及不良改善； 4、负责新产品评价测试工作，产品评价体系的建立，评测测试设备的操作使用及维护。\n1、硕士应届毕业生； 2、光学类相关专业； 3、专业基础扎实，成绩优秀，无不及格科目； 4、良好的沟通协调能力，强烈的工作责任感及问题解决能力； 5、英语通过CET-4。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "硕士应届毕业生",
+          "光学类相关专业"
         ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "eligibilityClauses": [
+          "硕士应届毕业生"
+        ],
+        "technicalDuties": [
+          "问题根因",
+          "结构/原理",
+          "开发实现"
+        ],
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -4180,7 +4215,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科应届毕业生；市场营销或者国际贸易等相关",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4194,13 +4229,19 @@
       "jobRequirements": "1、本科应届毕业生； 2、市场营销或者国际贸易等相关； 3、会中文、熟练使用办公软件； 4、擅长沟通表达，具备统筹协调能力，较强数据分析能力，逻辑性强，团队意识。",
       "JD": "从客户需求到交付达成全流程闭环管理 1、致力于客户关系维护、订单管理、确保销售计划达成 2、满足客户订单交付&业绩预测，解决交付过程中的材料，品质，产能等风险点 3、负责产销协调，产品交付，新品备料、转量产推进，库存管理 4、协助BU处理和推动客户相关内部事务\n1、本科应届毕业生； 2、市场营销或者国际贸易等相关； 3、会中文、熟练使用办公软件； 4、擅长沟通表达，具备统筹协调能力，较强数据分析能力，逻辑性强，团队意识。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科应届毕业生",
+          "市场营销或者国际贸易等相关"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "本科应届毕业生"
         ],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "客户关系",
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -4272,7 +4313,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "硕士应届毕业生；计算机科学、软件工程",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4286,12 +4327,17 @@
       "jobRequirements": "1、硕士应届毕业生； 2、计算机科学、软件工程； 3、精通 Python+C++，深入理解操作系统内核驱动模型，熟悉机器人通信中间件； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
       "JD": "数采工具运维开发 1.负责机器人数据采集系统的方案设计 2.数采系统的常规运维 3.数采和数据标注工具的优化和功能开发\n1、硕士应届毕业生； 2、计算机科学、软件工程； 3、精通 Python+C++，深入理解操作系统内核驱动模型，熟悉机器人通信中间件； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "硕士应届毕业生",
+          "计算机科学、软件工程"
         ],
-        "technicalDuties": [],
+        "eligibilityClauses": [
+          "硕士应届毕业生"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
         "businessDuties": []
       },
       "roleFamily": [
@@ -4359,7 +4405,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "硕士应届毕业生；材料、光学、化学、物理",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4373,15 +4419,19 @@
       "jobRequirements": "1、硕士应届毕业生； 2、材料、光学、化学、物理； 3、专业基础扎实，成绩优秀，无不及格科目； 4、良好的沟通协调能力，强烈的工作责任感及问题解决能力； 5、英语通过CET-4。",
       "JD": "负责新产品开发过程中与Panel段相关的不良预防、分析、改善工作。 1、负责新产品开发及市场端客户使用过程中与panel段相关（Array/Cell/CF设计、工艺、材料等）的不良分析与改善； 2、主导/协助Panel设计&工艺相关的不良纠正和改善； 3、编写PanelFA相关的技术报告，提出产品开发不良预防方案； 4、完成领导交付的各项临时性工作。\n1、硕士应届毕业生； 2、材料、光学、化学、物理； 3、专业基础扎实，成绩优秀，无不及格科目； 4、良好的沟通协调能力，强烈的工作责任感及问题解决能力； 5、英语通过CET-4。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "硕士应届毕业生",
+          "材料、光学、化学、物理"
         ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "eligibilityClauses": [
+          "硕士应届毕业生"
+        ],
+        "technicalDuties": [
+          "问题根因",
+          "开发实现"
+        ],
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -4634,7 +4684,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "硕士应届毕业生；理工科优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4648,14 +4698,22 @@
       "jobRequirements": "1、硕士应届毕业生； 2、理工科优先； 3、专业基础扎实，成绩优秀，无不及格科目； 4、工作态度端正、积极，良好的沟通协调能力，强烈的工作责任感及问题解决能力； 5、韩语流利交流",
       "JD": "负责SEC、LGE客户的新品导入。 1、客户导向，准确传递客户声音及组织相关部门满足客户诉求； 2、了解新产品导入流程及编写新品导入开发资料； 3、负责电视整机系统与面板的匹配、调试工作，并提出优化方案； 4、了解面板特性及SOC原理，为改善显示效果提出改进建议。\n1、硕士应届毕业生； 2、理工科优先； 3、专业基础扎实，成绩优秀，无不及格科目； 4、工作态度端正、积极，良好的沟通协调能力，强烈的工作责任感及问题解决能力； 5、韩语流利交流",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "硕士应届毕业生",
+          "理工科优先"
         ],
-        "technicalDuties": [],
+        "eligibilityClauses": [
+          "硕士应届毕业生"
+        ],
+        "technicalDuties": [
+          "结构/原理",
+          "开发实现"
+        ],
         "businessDuties": [
-          "跨文化沟通"
+          "客户关系",
+          "资料/流程",
+          "翻译/本地化"
         ]
       },
       "roleFamily": [
@@ -4811,7 +4869,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "硕士、博士应届毕业生；电子科学与技术、物理类：凝聚态物理，光学、电子信息工程",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4825,13 +4883,23 @@
       "jobRequirements": "1、硕士、博士应届毕业生； 2、电子科学与技术、物理类：凝聚态物理，光学、电子信息工程； 3、专业基础扎实，成绩优秀，无不及格科目； 4、思路清晰，具备较好的学习能力和问题分析能力。 5、有较好的英语能力（英语四级及以上）",
       "JD": "PNL电性特性研究，Layout优化设计专项工作 1、项目规格RFI评估检讨； 2、驱动电路设计及仿真，Panel及Mask设计出图； 3、前瞻技术课题研究及现有Issue机理分析，新产品反向解析； 4、客户项目对接。\n1、硕士、博士应届毕业生； 2、电子科学与技术、物理类：凝聚态物理，光学、电子信息工程； 3、专业基础扎实，成绩优秀，无不及格科目； 4、思路清晰，具备较好的学习能力和问题分析能力。 5、有较好的英语能力（英语四级及以上）",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "硕士、博士应届毕业生",
+          "电子科学与技术、物理类：凝聚态物理，光学、电子信息工程"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [
+          "硕士、博士应届毕业生"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "结构/原理",
+          "问题根因",
+          "开发实现"
+        ],
+        "businessDuties": [
+          "客户关系"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -4899,7 +4967,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上在校生",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4913,10 +4981,12 @@
       "jobRequirements": "本科及以上在校生，28届及以后毕业 1.校学生会会长或校级社团社长（曾任/在职），活动策划经验丰富； 2.曾任企业校园大使，拥有企业推广经验； 3.运营公众号、社群、小红书、校内表白墙或其他社交媒体。 （以上均为加分项，不作为必备项）",
       "JD": "1.活动举办：在校策划、举办BOE校园品牌宣传活动，锻炼项目思维； 2.品牌推广：积极借助线上线下平台宣传BOE校园品牌，成为品牌博主； 3.英才推荐：发现并推荐校园中身怀绝技的各路大神，成为校园伯乐； 4.校招支持：能力提升，全流程参与校园宣讲双选环节，化身校招成员；\n本科及以上在校生，28届及以后毕业 1.校学生会会长或校级社团社长（曾任/在职），活动策划经验丰富； 2.曾任企业校园大使，拥有企业推广经验； 3.运营公众号、社群、小红书、校内表白墙或其他社交媒体。 （以上均为加分项，不作为必备项）",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上在校生"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "本科及以上在校生，28届及以后毕业"
         ],
         "technicalDuties": [],
         "businessDuties": []

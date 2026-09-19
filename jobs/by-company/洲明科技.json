@@ -1,7 +1,7 @@
 {
   "company": "洲明科技",
   "count": 9,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-4999ee99651f",
@@ -497,10 +497,10 @@
       "jobRequirements": "1、熟悉EXCEL常用办公软件及数据分析； 2、熟悉 ERP 系统（如 SAP、Oracle、金蝶）、供应商管理系统（SCM）者优先。",
       "JD": "1、供应商管理：新供应商的开发导入，差绩效供应商淘汰； 2、物料降本：物料年度降本举措制定和目标的达成； 3、独家开源：独家供货开源，确保竞争和供应充足； 4、物料定价：负责新物料核价、议价、定价录入；新物料估价； 5、新物料导入：负责研发所需要的新物料导入，以及物料的二三供应源开源。\n1、熟悉EXCEL常用办公软件及数据分析； 2、熟悉 ERP 系统（如 SAP、Oracle、金蝶）、供应商管理系统（SCM）者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届校招"
         ],
         "technicalDuties": [],
         "businessDuties": []

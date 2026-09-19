@@ -1,7 +1,7 @@
 {
   "company": "锐明技术",
   "count": 8,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-3f6a083571bb",
@@ -209,7 +209,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "全日制本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -223,12 +223,15 @@
       "jobRequirements": "1、全日制本科及以上学历； 2、熟练掌握C/C++、Python等语言、扎实的图像处理理论基础 3、良好的团队合作精神、乐于接受挑战 4、较好的英语阅读能力； 5、获得国家计算机等级证书、奖学金或曾参加各类编程竞赛并获奖者优先。",
       "JD": "1、负责传统ISP或AI-ISP算法的研究、开发与效果调试 2、负责ISP或图像增强相关领域的前沿技术的跟踪与探索 3、负责ISP功能开发，实现项目组对于图像功能的需求 4、负责图像技术的应用和图像策略的优化\n1、全日制本科及以上学历； 2、熟练掌握C/C++、Python等语言、扎实的图像处理理论基础 3、良好的团队合作精神、乐于接受挑战 4、较好的英语阅读能力； 5、获得国家计算机等级证书、奖学金或曾参加各类编程竞赛并获奖者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "全日制本科及以上学历"
         ],
-        "technicalDuties": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
         "businessDuties": []
       },
       "roleFamily": [
@@ -296,9 +299,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，物流供应链类相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "物流供应链类相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -310,15 +315,13 @@
       "jobRequirements": "1、本科及以上学历，物流供应链类相关专业； 2、熟悉仓储物流管理基本理论，了解ERP/WMS系统操作优先； 3、具备较强的数据分析能力和沟通协调能力，责任心强，能适应制造企业工作环境。",
       "JD": "1、负责仓储日常运营管理，包括物料收发、盘点、库位规划与库存准确性管控； 2、协助建立和优化仓储管理流程与制度，推进WMS系统应用与数据维护； 3、负责物流配送计划执行，协调内外部物流资源，保障生产物料准时配送至产线； 4、参与库存周转率优化项目，分析库存结构，推动呆滞物料清理与库存降本； 5、配合采购、计划、生产等部门，完成物料异常协调与供应链应急响应。\n1、本科及以上学历，物流供应链类相关专业； 2、熟悉仓储物流管理基本理论，了解ERP/WMS系统操作优先； 3、具备较强的数据分析能力和沟通协调能力，责任心强，能适应制造企业工作环境。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，物流供应链类相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

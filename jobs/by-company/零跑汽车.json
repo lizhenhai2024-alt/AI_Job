@@ -1,7 +1,7 @@
 {
   "company": "零跑汽车",
   "count": 26,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-05c12c1b7748",
@@ -756,9 +756,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "工业工程、物流管理、供应链管理、交通运输、等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -770,11 +772,11 @@
       "jobRequirements": "1. 本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。 2. 具备1-3年及以上物流、仓储、供应链相关工作经验，有制造业、电商物流、三方物流、汽车供应链行业经验者优先。 3. 熟悉国内物流行业运作规则，了解仓储、运输、配送全链路作业模式，有物流流程优化、项目落地经验者优先。",
       "JD": "1、设计仓储动线、库位规划、装卸流程，提升场地利用率与作业效率。 2、参与新仓库、新物流中心立项、选址、方案设计与验收。 3、制定仓储标准作业流程（SOP），包括入库、存储、拣选、复核、出库、盘点。 4、推进仓储数字化、智能化，如 WMS/TMS 系统应用、AGV、自动化设备落地\n1. 本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。 2. 具备1-3年及以上物流、仓储、供应链相关工作经验，有制造业、电商物流、三方物流、汽车供应链行业经验者优先。 3. 熟悉国内物流行业运作规则，了解仓储、运输、配送全链路作业模式，有物流流程优化、项目落地经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，工业工程、物流管理、供应链管理、交通运输、等相关专业。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -845,7 +847,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -859,11 +861,11 @@
       "jobRequirements": "1.教育背景:本科及以上学历，成绩优秀。 2.态度要求:责任心强、吃苦耐劳、善于思考学习、善于沟通与交际。",
       "JD": "1. 熟悉零部件生产制造工艺流程； 2.负责生产计划及物料订单的下发； 3. 负责零部件物料的排产进度跟踪，物料领用，补充的控制，控制物料库存，呆废料的预防、控制及处理；’ 4. 主动识别风险并能独当一面解决风险； 5.负责物料对账、结算等事宜。\n1.教育背景:本科及以上学历，成绩优秀。 2.态度要求:责任心强、吃苦耐劳、善于思考学习、善于沟通与交际。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -928,7 +930,7 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "硕士及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -942,15 +944,13 @@
       "jobRequirements": "1、硕士及以上学历； 2、诚信、担当，逻辑思路清晰； 3、良好的沟通协调能力，较强的团队意识。",
       "JD": "1、负责采集回传数据的通用质检项（摄像头、有效时长、Topic、定位等）和特殊质检项（驾驶行为等）的开发工作； 2、负责数据挖掘中的通用打标项（天气天色、道路类型等）和特殊打标项（待行区显示屏、禁停区框、碰撞风险等）的开发工作； 3、负责探索前沿 CV 算法模型（YOLO11、SAM3、DriveDreamer2 等）在业务需求中的落地可行性（挖掘、脱敏、OCR、预测、轨迹投影等）进行准召验证和微调优化，并探索基于图像分割和语义分割的图搜建库任务； 4、负责探索前沿视觉/语言 LLM 模型（千问、OpenClaw、Minimax 等）的部署与提示词引导策略，并开发完整链路用于质检、挖掘和预测。\n1、硕士及以上学历； 2、诚信、担当，逻辑思路清晰； 3、良好的沟通协调能力，较强的团队意识。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

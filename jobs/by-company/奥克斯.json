@@ -1,7 +1,7 @@
 {
   "company": "奥克斯集团",
   "count": 20,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-5ef6f799d9ba",
@@ -662,15 +662,11 @@
       "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、具有良好的个人品行、心理素质及逻辑思维能力，抗压能力强； 3、能够熟练运用word、excel等办公软件处理各项工作事务。",
       "JD": "电商直播方向： 1、直播运营 2、付费投流 3、后台中控 4、短视频剪辑 电商设计方向： 1、负责产品与店铺视觉设计 2、负责营销活动视觉设计 3、跨部门协同（通路、直播、客服等） 电商P端业务方向： 1、日常客户维护及赋能 2、代销订单审核及异常处理 3、跨部门协同（计划、财务、产品等） 电商业务方向： 1、店铺运营 2、销售指标监控及业绩达成 3、跨部门协同（客服、直播、内容等）\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、具有良好的个人品行、心理素质及逻辑思维能力，抗压能力强； 3、能够熟练运用word、excel等办公软件处理各项工作事务。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "客户关系"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -758,15 +754,11 @@
       "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
       "JD": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -942,15 +934,11 @@
       "jobRequirements": "1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
       "JD": "1、产能规划与人员配置核算，现场工时与标准作业SOP搭建； 2、生产线布局与精益改善，成本管控与浪费改善； 3、数据分析与改善专案落地。\n1、工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

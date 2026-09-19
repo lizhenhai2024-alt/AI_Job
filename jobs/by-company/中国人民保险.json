@@ -1,7 +1,7 @@
 {
   "company": "中国人民保险集团",
-  "count": 227,
-  "updatedAt": "2026-09-19T13:30:53.844Z",
+  "count": 229,
+  "updatedAt": "2026-09-19T17:48:35.200Z",
   "jobs": [
     {
       "id": "beisen-3466b7ea75ff",
@@ -820,11 +820,9 @@
       "jobRequirements": "1.熟练运用各类办公软件； 2.熟悉保险相关法律法规和监管文件，并能熟练运用； 3.熟悉基本政策和监管机构的相关要求； 4.掌握并遵守公司的管理制度和流程； 5.能够独立运用专业知识于日常性和事务性工作中。",
       "JD": "1.负责制定各合作银行年度及各阶段销售计划，将总公司下达目标分解至合作渠道，督导分支机构完成任务目标。 2.负责合作银行渠道的日常沟通和维护，做好渠道协议签署、业绩追踪、产品上线、系统维护、方案制定等工作。 3.负责做好对总对总方案的承接与落地，定期追踪我司在各银行排名情况，争先进位。 4.负责开展渠道数据追踪与业务督导工作，重点追踪网点活动率、网均产能等关键指标。 5.完成上级领导交办的其他工作。\n1.熟练运用各类办公软件； 2.熟悉保险相关法律法规和监管文件，并能熟练运用； 3.熟悉基本政策和监管机构的相关要求； 4.掌握并遵守公司的管理制度和流程； 5.能够独立运用专业知识于日常性和事务性工作中。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -14379,6 +14377,168 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=0022f0ce-2e43-4281-b00b-ba92ff3c4b6d",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ee601e0f8a2b",
+      "company": "中国人民保险集团",
+      "title": "人保财险-山东分公司-综合类-养殖险业务管理岗-2027届校招（山东省分公司）(J80276)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1. 统筹区域水产养殖保险业务规划、市场拓展与政企对接，落地政策性养殖保险项目； 2. 负责标的验标、投保审核、保单管理、保费及财政补贴申报，全流程管控承保风险； 3. 组织出险查勘定损、案件核赔、纠纷处置，严控理赔道德风险，保障理赔合规落地； 4. 开展养殖风险排查、防灾减损宣传，培训基层业务人员，统计经营数据并撰写分析报告； 5. 严守监管与公司制度，做好业务档案归档与全流程合规管理。",
+      "jobRequirements": "1.专业：农业、畜牧、水产等涉农专业背景； 2.具有研究生及以上学历并获得相应学位；",
+      "JD": "1. 统筹区域水产养殖保险业务规划、市场拓展与政企对接，落地政策性养殖保险项目； 2. 负责标的验标、投保审核、保单管理、保费及财政补贴申报，全流程管控承保风险； 3. 组织出险查勘定损、案件核赔、纠纷处置，严控理赔道德风险，保障理赔合规落地； 4. 开展养殖风险排查、防灾减损宣传，培训基层业务人员，统计经营数据并撰写分析报告； 5. 严守监管与公司制度，做好业务档案归档与全流程合规管理。\n1.专业：农业、畜牧、水产等涉农专业背景； 2.具有研究生及以上学历并获得相应学位；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 统筹区域水产养殖保险业务规划、市场拓展与政企对接，落地政策性养殖保险项目； "
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=8aa64385-ed85-4a1c-b586-6dbc714852a8",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9db2241d9407",
+      "company": "中国人民保险集团",
+      "title": "人保财险-山东分公司-综合类-综合岗-2027届校招（山东省分公司）(J80277)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1、统筹公司日常行政综合等方面事务； 2、对接上级部门做好相关政策传达及工作安排； 3、撰写文字材料，完成部门交办的其他工作。",
+      "jobRequirements": "1.硕士及以上学历；2.理工、文秘、行政相关专业优先；3.中共党员（含预备）。",
+      "JD": "1、统筹公司日常行政综合等方面事务； 2、对接上级部门做好相关政策传达及工作安排； 3、撰写文字材料，完成部门交办的其他工作。\n1.硕士及以上学历；2.理工、文秘、行政相关专业优先；3.中共党员（含预备）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、统筹公司日常行政综合等方面事务； 2、对接上级部门做好相关政策传达及工作安排；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=4f973454-374c-450b-b11e-f9503cabd71f",
       "publishedAt": "2026-08-03",
       "lastVerified": "",
       "sourceType": "official",
