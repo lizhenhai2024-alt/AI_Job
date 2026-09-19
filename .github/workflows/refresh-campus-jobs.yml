@@ -31,7 +31,9 @@ on:
 
 concurrency:
   group: refresh-campus-jobs-main-v2
-  cancel-in-progress: true
+  # Do not cancel an in-flight refresh when source-discovery pushes a newer main commit.
+  # Cancelling here used to strand the pipeline before validation/query-layer commit.
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -39,7 +41,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:
@@ -87,13 +89,17 @@ jobs:
         run: |
           test -s jobs/index/companies.json
           test -s jobs/index/jobs.json
+          test -s jobs/index/careerpilot-feed.json
           node - <<'NODE'
           const fs=require('fs');
           const companies=JSON.parse(fs.readFileSync('jobs/index/companies.json','utf8'));
           const jobs=JSON.parse(fs.readFileSync('jobs/index/jobs.json','utf8'));
+          const feed=JSON.parse(fs.readFileSync('jobs/index/careerpilot-feed.json','utf8'));
           if(!companies.totalJobs || !companies.totalCompanies || companies.companies.length!==companies.totalCompanies) throw new Error('invalid companies manifest');
           if(!Array.isArray(jobs.jobs) || jobs.totalJobs!==jobs.jobs.length || jobs.totalJobs!==companies.totalJobs) throw new Error('aggregate query index mismatch');
-          console.log('query-layer', jobs.totalJobs, companies.totalCompanies);
+          if(!Array.isArray(feed.jobs) || feed.totalJobs!==feed.jobs.length || feed.totalJobs!==companies.totalJobs) throw new Error('careerpilot feed mismatch');
+          if(feed.jobs.some(j => 'JD' in j || 'jobDescription' in j || 'jobRequirements' in j)) throw new Error('careerpilot feed must stay lightweight');
+          console.log('query-layer', jobs.totalJobs, companies.totalCompanies, 'careerpilot-feed', feed.totalJobs);
           NODE
       - name: Commit refreshed job pool, source health and query layer
         shell: bash
@@ -111,6 +117,7 @@ jobs:
             package-lock.json
             jobs/index/companies.json
             jobs/index/jobs.json
+            jobs/index/careerpilot-feed.json
             jobs/by-company
           )
           ACTIVE_PATHS=()
