@@ -1060,7 +1060,7 @@ export const companyMeta = {
   "湖北久之洋红外系统": { "fullName": "湖北久之洋红外系统股份有限公司", "scale": "150-500人", "nature": "国企", "tags": ["科学研究和技术服务业"], "addedAt": "2026-09-16" },
   "航天江南集团": { "fullName": "航天江南集团有限公司", "scale": "10000人以上", "nature": "国企", "tags": ["制造业"], "addedAt": "2026-09-16" },
   "上海我们方田科技": { "fullName": "上海我们方田科技有限公司", "scale": "1000-5000人", "nature": "民企", "tags": ["教育"], "addedAt": "2026-09-16" },
-  "悍高": { "fullName": "悍高集团股份有限公司", "scale": "1000-5000人", "nature": "民企", "tags": ["制造业"], "addedAt": "2026-09-16" },,
+  "悍高": { "fullName": "悍高集团股份有限公司", "scale": "1000-5000人", "nature": "民企", "tags": ["制造业"], "addedAt": "2026-09-16" },
   "联想": {
     fullName: "联想集团（Lenovo）",
     nature: "上市公司",
