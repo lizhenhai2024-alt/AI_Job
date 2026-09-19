@@ -75,4 +75,13 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -m 'chore: refresh university employment pool'
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
+            changed_paths="$(git diff --name-only "$GITHUB_SHA"..origin/main)"
+            if echo "$changed_paths" | grep -Eq '^(jobs/index/university-(jobs|elite-jobs|specialty-jobs)\.json|jobs/index/universities\.json|jobs/by-university/)'; then
+              echo 'University pool outputs changed on newer main; skip stale push.'
+              exit 0
+            fi
+            git rebase origin/main
+          fi
           git push
