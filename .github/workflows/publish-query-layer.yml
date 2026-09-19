@@ -37,25 +37,29 @@ jobs:
         run: |
           test -s jobs/index/companies.json
           test -s jobs/index/jobs.json
+          test -s jobs/index/careerpilot-feed.json
           node - <<'NODE'
           const fs = require('fs');
           const companies = JSON.parse(fs.readFileSync('jobs/index/companies.json', 'utf8'));
           const jobs = JSON.parse(fs.readFileSync('jobs/index/jobs.json', 'utf8'));
+          const feed = JSON.parse(fs.readFileSync('jobs/index/careerpilot-feed.json', 'utf8'));
           if (!companies.totalJobs || !companies.totalCompanies || !Array.isArray(companies.companies) || companies.companies.length !== companies.totalCompanies) throw new Error('invalid company manifest');
           if (!Array.isArray(jobs.jobs) || jobs.totalJobs !== jobs.jobs.length || jobs.totalJobs !== companies.totalJobs) throw new Error('invalid aggregate query index');
           if (jobs.jobs.some(j => 'matchScore' in j || 'capabilityScore' in j || 'careerFit' in j || 'grade' in j)) throw new Error('candidate decision fields leaked upstream');
-          console.log(`query-layer jobs=${jobs.totalJobs} companies=${companies.totalCompanies} aggregateBytes=${fs.statSync('jobs/index/jobs.json').size}`);
+          if (!Array.isArray(feed.jobs) || feed.totalJobs !== feed.jobs.length || feed.totalJobs !== jobs.totalJobs) throw new Error('invalid CareerPilot feed');
+          if (feed.jobs.some(j => 'JD' in j || 'jobDescription' in j || 'jobRequirements' in j)) throw new Error('CareerPilot feed must stay lightweight');
+          console.log(`query-layer jobs=${jobs.totalJobs} companies=${companies.totalCompanies} feedBytes=${fs.statSync('jobs/index/careerpilot-feed.json').size} aggregateBytes=${fs.statSync('jobs/index/jobs.json').size}`);
           NODE
       - name: Commit query layer
         shell: bash
         run: |
-          if [ -z "$(git status --porcelain -- jobs/index/companies.json jobs/index/jobs.json jobs/by-company)" ]; then
+          if [ -z "$(git status --porcelain -- jobs/index/companies.json jobs/index/jobs.json jobs/index/careerpilot-feed.json jobs/by-company)" ]; then
             echo "Query layer already up to date."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- jobs/index/companies.json jobs/index/jobs.json jobs/by-company
+          git add -- jobs/index/companies.json jobs/index/jobs.json jobs/index/careerpilot-feed.json jobs/by-company
           git commit -m "data: publish lightweight company query layer"
           git fetch origin main
           if [ "$(git rev-parse origin/main)" != "$GITHUB_SHA" ]; then
