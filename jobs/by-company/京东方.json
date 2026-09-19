@@ -1,6 +1,6 @@
 {
   "company": "京东方",
-  "count": 61,
+  "count": 60,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -4315,95 +4315,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://campus.boe.com/campus/detail?jobAdId=71a7eff7-ec87-41ff-844c-55bd79dcb1cc",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
-    },
-    {
-      "id": "beisen-e791201047dd",
-      "company": "京东方",
-      "title": "【创新业务】数据模型开发研究员（合肥）(J53458)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "安徽省·合肥市",
-      "jobDescription": "数据方向模型开发 1. 大模型开发与微调； 2. 开发多传感器数据融合算法与实时任务调度系统 3. 软件算法模型的部署 4.模型训练的数据要求管控 5.质检、自动标注、合成增强",
-      "jobRequirements": "1、硕士应届毕业生； 2、软件算法工程专业； 3、①开发数据质量自动评估模型（丢帧、模糊、传感器异常检测）； ②构建半自动标注管线（视觉/语言模型辅助分段与语义标签）； ③研究 Domain Randomization 数据合成技术 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
-      "JD": "数据方向模型开发 1. 大模型开发与微调； 2. 开发多传感器数据融合算法与实时任务调度系统 3. 软件算法模型的部署 4.模型训练的数据要求管控 5.质检、自动标注、合成增强\n1、硕士应届毕业生； 2、软件算法工程专业； 3、①开发数据质量自动评估模型（丢帧、模糊、传感器异常检测）； ②构建半自动标注管线（视觉/语言模型辅助分段与语义标签）； ③研究 Domain Randomization 数据合成技术 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 数据方向模型开发 1. 大模型开发与微调； 2. 开发多传感器数据融合算法与实时任"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=94957f0a-5e10-4728-9115-fb9fc9219e81",
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",

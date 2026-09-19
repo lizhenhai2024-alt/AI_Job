@@ -1,6 +1,6 @@
 {
   "company": "三一集团",
-  "count": 55,
+  "count": 54,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -4107,95 +4107,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=864f07a4-768d-485d-8acc-c35b26ccf360",
-      "publishedAt": "2026-08-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
-    },
-    {
-      "id": "beisen-fc9d6ac8619e",
-      "company": "三一集团",
-      "title": "AI应用工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "计算机、人工智能、软件工程、数据科学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、分析业务场景和用户需求，设计大模型、智能体或AI应用解决方案。 2、完成数据准备、提示词、知识库、工作流和应用功能开发。 3、开展效果评测、安全测试、部署集成和运行优化，推动业务落地。 4、跟踪AI技术发展，沉淀组件、应用规范和最佳实践。",
-      "jobRequirements": "1、学历与专业：本科及以上（部分专业方向要求硕士及以上）；计算机、人工智能、软件工程、数据科学等相关专业优先。 2、技能要求：掌握Python、提示工程、知识库、智能体或大模型应用框架，具备应用开发与评测能力。 3、软性素质：逻辑思维清晰、学习能力强，具备技术钻研、问题定位、沟通协作和结果意识。 4、其他补充：有相关科研、竞赛、实习或项目经历者优先；能够根据项目需要配合试制、测试、现场调试或短期出差。",
-      "JD": "1、分析业务场景和用户需求，设计大模型、智能体或AI应用解决方案。 2、完成数据准备、提示词、知识库、工作流和应用功能开发。 3、开展效果评测、安全测试、部署集成和运行优化，推动业务落地。 4、跟踪AI技术发展，沉淀组件、应用规范和最佳实践。\n1、学历与专业：本科及以上（部分专业方向要求硕士及以上）；计算机、人工智能、软件工程、数据科学等相关专业优先。 2、技能要求：掌握Python、提示工程、知识库、智能体或大模型应用框架，具备应用开发与评测能力。 3、软性素质：逻辑思维清晰、学习能力强，具备技术钻研、问题定位、沟通协作和结果意识。 4、其他补充：有相关科研、竞赛、实习或项目经历者优先；能够根据项目需要配合试制、测试、现场调试或短期出差。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "计算机、人工智能、软件工程、数据科学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "8",
-        "min": 8,
-        "max": 8,
-        "scope": "job",
-        "display": "8人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "8 8 1、分析业务场景和用户需求，设计大模型、智能体或AI应用解决方案。 2、完成数据准"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=de8f6bd2-0bd6-4039-a35f-a6c839b5c7b8",
       "publishedAt": "2026-08-26",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,6 +1,6 @@
 {
   "company": "蓝思科技",
-  "count": 13,
+  "count": 11,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -753,99 +753,6 @@
       "hasAssessmentEvidence": "E2 | 官方校招简章 | https://job.nwupl.edu.cn/campus/view/id/1011157 | 2026-09-17"
     },
     {
-      "id": "beisen-a9ec6d5166a2",
-      "company": "蓝思科技",
-      "title": "AI工业模型工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "博士",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历",
-        "hardRestriction": true,
-        "hardClauses": [
-          "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "jobDescription": "工作内容： 研究大模型、深度学习、机器学习、智能体技术在智能制造及研发领域的应用；",
-      "jobRequirements": "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历 2、技能要求： ①对大模型、机器学习、深度学习有较好的基础，有AI实践项目及优化经验； ②有创新意识及良好的沟通能力；",
-      "JD": "工作内容： 研究大模型、深度学习、机器学习、智能体技术在智能制造及研发领域的应用；\n1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历 2、技能要求： ①对大模型、机器学习、深度学习有较好的基础，有AI实践项目及优化经验； ②有创新意识及良好的沟通能力；",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 工作内容： 研究大模型、深度学习、机器学习、智能体技术在智能制造及研发领域的应用；"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b1817cfa-7d96-4423-bc43-f6c44bed68c2",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→AI面试→专业面试→线上测评→综合面试→Offer发放→三方签约",
-      "recruitmentProcessEvidence": "E2 | 官方校招简章（西北政法大学就业网） | https://job.nwupl.edu.cn/campus/view/id=1011157 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://job.nwupl.edu.cn/campus/view/id/1011157 | 2026-09-17"
-    },
-    {
       "id": "beisen-e4657ed43a22",
       "company": "蓝思科技",
       "title": "生产技术专员",
@@ -1019,99 +926,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=b6b782b4-9daf-4499-a582-6cec88371e5f",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→AI面试→专业面试→线上测评→综合面试→Offer发放→三方签约",
-      "recruitmentProcessEvidence": "E2 | 官方校招简章（西北政法大学就业网） | https://job.nwupl.edu.cn/campus/view/id=1011157 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://job.nwupl.edu.cn/campus/view/id/1011157 | 2026-09-17"
-    },
-    {
-      "id": "beisen-ea4fac0de378",
-      "company": "蓝思科技",
-      "title": "AI工业模型高级工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "博士",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历",
-        "hardRestriction": true,
-        "hardClauses": [
-          "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "jobDescription": "工作内容： 研究大模型、深度学习、机器学习、智能体技术在智能制造及研发领域的应用；",
-      "jobRequirements": "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历 2、技能要求： ①对大模型、机器学习、深度学习有较好的基础，有AI实践项目及优化经验； ②有创新意识及良好的沟通能力；",
-      "JD": "工作内容： 研究大模型、深度学习、机器学习、智能体技术在智能制造及研发领域的应用；\n1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历 2、技能要求： ①对大模型、机器学习、深度学习有较好的基础，有AI实践项目及优化经验； ②有创新意识及良好的沟通能力；",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、需求专业： 计算机/数据科学/人工智能/自动化/软件工程，博士学历"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 工作内容： 研究大模型、深度学习、机器学习、智能体技术在智能制造及研发领域的应用；"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hnlens.zhiye.com/campus/detail?jobAdId=51c223f5-f076-4d66-8cc8-bb91e09b1b3d",
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",

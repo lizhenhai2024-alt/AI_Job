@@ -1,6 +1,6 @@
 {
   "company": "新浪集团",
-  "count": 12,
+  "count": 11,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -941,89 +941,6 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/a6f11e12-7e0e-46eb-865f-d6ad99fbfe2e",
-      "publishedAt": "2026-08-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→AI测评+人才测评→无领导面试→高管面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 新浪招聘官方微博 | https://m.weibo.cn/detail/5333314849474804 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 新浪招聘官方微博 | https://m.weibo.cn/detail/5333314849474804 | 2026-09-17"
-    },
-    {
-      "id": "moka-85ec814b0382",
-      "company": "新浪集团",
-      "title": "大模型推理引擎工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "新浪&微博 其它 全职 新浪总部大厦西北旺东路10号院西区8号楼",
-      "jobRequirements": "",
-      "JD": "新浪&微博 其它 全职 新浪总部大厦西北旺东路10号院西区8号楼",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/sina/43536#/job/5ecd39db-7e48-46a2-9cd6-22c0f0746710",
       "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",

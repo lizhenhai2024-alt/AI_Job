@@ -1,6 +1,6 @@
 {
   "company": "英科医疗/英科再生",
-  "count": 29,
+  "count": 28,
   "updatedAt": "2026-09-16T18:42:45.162Z",
   "jobs": [
     {
@@ -2409,98 +2409,6 @@
       "source": "英科医疗/英科再生官方飞书招聘",
       "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7674170561447004422/detail",
       "publishedAt": "2026-08-15",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→岗位测评→面试（2-3轮，部分岗位AI面试）→offer发放→三方签约",
-      "recruitmentProcessEvidence": "E2 | 官方校招简章（中国海洋大学） | https://mse.ouc.edu.cn/2026/0901/c28602a536357/page.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://mse.ouc.edu.cn/2026/0901/c28602a536357/page.htm | 2026-09-17"
-    },
-    {
-      "id": "feishu-56cb45-7673332829543614766",
-      "company": "英科医疗/英科再生",
-      "title": "【27届校招】AI工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "淄博",
-      "jobDescription": "1. AI需求调研：分析现有业务中的技术难题，通过AI技术和工具解决和优化； 2. Agent开发：设计和开发智能化的软件系统和工具，提高公司的信息化水平和竞争力；参与团队项目开发，保证代码质量和项目进度； 3. 行业学习：积极参加技术交流和分享会议，不断提升个人和团队的技术能力。",
-      "jobRequirements": "1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先； 2. 具备数据处理能力，熟悉 SQL、Pandas、NumPy 等工具，能处理结构化 / 非结构化数据（如文本、图像、音频）； 3. 了解模型部署相关技术者优先； 4. 要求有AI技术或工具相关实习或项目经验。",
-      "JD": "1. AI需求调研：分析现有业务中的技术难题，通过AI技术和工具解决和优化； 2. Agent开发：设计和开发智能化的软件系统和工具，提高公司的信息化水平和竞争力；参与团队项目开发，保证代码质量和项目进度； 3. 行业学习：积极参加技术交流和分享会议，不断提升个人和团队的技术能力。\n1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先； 2. 具备数据处理能力，熟悉 SQL、Pandas、NumPy 等工具，能处理结构化 / 非结构化数据（如文本、图像、音频）； 3. 了解模型部署相关技术者优先； 4. 要求有AI技术或工具相关实习或项目经验。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 211及以上学历，计算机科学、软件工程、人工智能、数学、统计学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "英科医疗/英科再生官方飞书招聘",
-      "officialURL": "https://global-intco.jobs.feishu.cn/251907/m/position/7673332829543614766/detail",
-      "publishedAt": "2026-08-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

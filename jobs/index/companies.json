@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-09-16T18:42:45.162Z",
-  "totalJobs": 5576,
+  "totalJobs": 5413,
   "totalCompanies": 116,
   "companies": [
     {
@@ -14,13 +14,13 @@
       "company": "阿里巴巴",
       "slug": "阿里巴巴",
       "file": "jobs/by-company/阿里巴巴.json",
-      "count": 144
+      "count": 116
     },
     {
       "company": "安克创新",
       "slug": "安克创新",
       "file": "jobs/by-company/安克创新.json",
-      "count": 54
+      "count": 50
     },
     {
       "company": "傲基科技",
@@ -56,7 +56,7 @@
       "company": "传音控股",
       "slug": "传音控股",
       "file": "jobs/by-company/传音控股.json",
-      "count": 78
+      "count": 74
     },
     {
       "company": "创维集团",
@@ -80,7 +80,7 @@
       "company": "得物App",
       "slug": "得物app",
       "file": "jobs/by-company/得物app.json",
-      "count": 133
+      "count": 130
     },
     {
       "company": "德勤中国",
@@ -158,19 +158,19 @@
       "company": "海信",
       "slug": "海信",
       "file": "jobs/by-company/海信.json",
-      "count": 115
+      "count": 113
     },
     {
       "company": "杭州宇树科技股份有限公司",
       "slug": "杭州宇树科技股份",
       "file": "jobs/by-company/杭州宇树科技股份.json",
-      "count": 12
+      "count": 10
     },
     {
       "company": "华勤技术",
       "slug": "华勤技术",
       "file": "jobs/by-company/华勤技术.json",
-      "count": 28
+      "count": 27
     },
     {
       "company": "慧策集团",
@@ -212,19 +212,19 @@
       "company": "京东方",
       "slug": "京东方",
       "file": "jobs/by-company/京东方.json",
-      "count": 61
+      "count": 60
     },
     {
       "company": "科大讯飞",
       "slug": "科大讯飞",
       "file": "jobs/by-company/科大讯飞.json",
-      "count": 47
+      "count": 46
     },
     {
       "company": "快手",
       "slug": "快手",
       "file": "jobs/by-company/快手.json",
-      "count": 104
+      "count": 83
     },
     {
       "company": "岚图汽车",
@@ -236,7 +236,7 @@
       "company": "蓝思科技",
       "slug": "蓝思科技",
       "file": "jobs/by-company/蓝思科技.json",
-      "count": 13
+      "count": 11
     },
     {
       "company": "莉莉丝游戏",
@@ -260,7 +260,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 64
+      "count": 46
     },
     {
       "company": "蒙牛",
@@ -284,7 +284,7 @@
       "company": "沐瞳科技",
       "slug": "沐瞳科技",
       "file": "jobs/by-company/沐瞳科技.json",
-      "count": 62
+      "count": 60
     },
     {
       "company": "宁德时代新能源科技股份有限公司",
@@ -302,7 +302,7 @@
       "company": "泡泡玛特",
       "slug": "泡泡玛特",
       "file": "jobs/by-company/泡泡玛特.json",
-      "count": 22
+      "count": 20
     },
     {
       "company": "拼多多",
@@ -314,7 +314,7 @@
       "company": "普渡机器人",
       "slug": "普渡机器人",
       "file": "jobs/by-company/普渡机器人.json",
-      "count": 18
+      "count": 17
     },
     {
       "company": "雀巢中国",
@@ -326,13 +326,13 @@
       "company": "荣耀",
       "slug": "荣耀",
       "file": "jobs/by-company/荣耀.json",
-      "count": 17
+      "count": 15
     },
     {
       "company": "锐捷网络",
       "slug": "锐捷网络",
       "file": "jobs/by-company/锐捷网络.json",
-      "count": 31
+      "count": 30
     },
     {
       "company": "锐明技术",
@@ -356,7 +356,7 @@
       "company": "三一集团",
       "slug": "三一",
       "file": "jobs/by-company/三一.json",
-      "count": 55
+      "count": 54
     },
     {
       "company": "厦门象屿",
@@ -374,7 +374,7 @@
       "company": "韶音科技",
       "slug": "韶音科技",
       "file": "jobs/by-company/韶音科技.json",
-      "count": 61
+      "count": 60
     },
     {
       "company": "深圳市汇川技术股份有限公司",
@@ -404,19 +404,19 @@
       "company": "搜狐畅游",
       "slug": "搜狐畅游",
       "file": "jobs/by-company/搜狐畅游.json",
-      "count": 29
+      "count": 28
     },
     {
       "company": "拓邦股份",
       "slug": "拓邦",
       "file": "jobs/by-company/拓邦.json",
-      "count": 10
+      "count": 9
     },
     {
       "company": "拓竹科技",
       "slug": "拓竹科技",
       "file": "jobs/by-company/拓竹科技.json",
-      "count": 39
+      "count": 38
     },
     {
       "company": "泰康保险",
@@ -434,7 +434,7 @@
       "company": "腾讯",
       "slug": "腾讯",
       "file": "jobs/by-company/腾讯.json",
-      "count": 57
+      "count": 52
     },
     {
       "company": "图拉斯",
@@ -452,7 +452,7 @@
       "company": "万兴科技",
       "slug": "万兴科技",
       "file": "jobs/by-company/万兴科技.json",
-      "count": 22
+      "count": 21
     },
     {
       "company": "微步在线",
@@ -464,19 +464,19 @@
       "company": "蔚来",
       "slug": "蔚来",
       "file": "jobs/by-company/蔚来.json",
-      "count": 194
+      "count": 188
     },
     {
       "company": "小红书",
       "slug": "小红书",
       "file": "jobs/by-company/小红书.json",
-      "count": 39
+      "count": 30
     },
     {
       "company": "小米",
       "slug": "小米",
       "file": "jobs/by-company/小米.json",
-      "count": 236
+      "count": 227
     },
     {
       "company": "小鹏汽车",
@@ -488,7 +488,7 @@
       "company": "携程集团",
       "slug": "携程",
       "file": "jobs/by-company/携程.json",
-      "count": 36
+      "count": 34
     },
     {
       "company": "欣锐科技",
@@ -518,7 +518,7 @@
       "company": "新浪集团",
       "slug": "新浪",
       "file": "jobs/by-company/新浪.json",
-      "count": 12
+      "count": 11
     },
     {
       "company": "新能安",
@@ -554,13 +554,13 @@
       "company": "英科医疗/英科再生",
       "slug": "英科医疗-英科再生",
       "file": "jobs/by-company/英科医疗-英科再生.json",
-      "count": 29
+      "count": 28
     },
     {
       "company": "影石Insta360",
       "slug": "影石insta360",
       "file": "jobs/by-company/影石insta360.json",
-      "count": 7
+      "count": 5
     },
     {
       "company": "优必选科技",
@@ -650,13 +650,13 @@
       "company": "字节跳动",
       "slug": "字节跳动",
       "file": "jobs/by-company/字节跳动.json",
-      "count": 122
+      "count": 109
     },
     {
       "company": "Babycare",
       "slug": "babycare",
       "file": "jobs/by-company/babycare.json",
-      "count": 29
+      "count": 27
     },
     {
       "company": "Decathlon",
@@ -668,13 +668,13 @@
       "company": "NVIDIA 英伟达",
       "slug": "nvidia-英伟达",
       "file": "jobs/by-company/nvidia-英伟达.json",
-      "count": 7
+      "count": 5
     },
     {
       "company": "OPPO",
       "slug": "oppo",
       "file": "jobs/by-company/oppo.json",
-      "count": 30
+      "count": 27
     },
     {
       "company": "SHEIN",
@@ -686,19 +686,19 @@
       "company": "Shopee",
       "slug": "shopee",
       "file": "jobs/by-company/shopee.json",
-      "count": 25
+      "count": 24
     },
     {
       "company": "TCL华星光电",
       "slug": "tcl华星光电",
       "file": "jobs/by-company/tcl华星光电.json",
-      "count": 91
+      "count": 90
     },
     {
       "company": "vivo",
       "slug": "vivo",
       "file": "jobs/by-company/vivo.json",
-      "count": 36
+      "count": 31
     }
   ]
 }
