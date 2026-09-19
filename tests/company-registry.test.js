@@ -50,3 +50,21 @@ test('common official aliases collapse onto existing canonical companies', () =>
   const insta = companyRegistry.find((record) => /Insta360|影石/i.test(record.name));
   assert.ok(insta?.sourceProviders.includes('feishu'));
 });
+
+
+test('JD.com and Insta360 are first-class companies with stable aliases', () => {
+  const jd = companyRegistry.find((record) => record.name === '京东');
+  assert.ok(jd, '京东 should exist in company registry');
+  assert.equal(jd.status, '主投');
+  assert.match(jd.careerUrl || '', /campus\.jd\.com/);
+  assert.equal(canonicalCompanyKey('JD.com'), canonicalCompanyKey('京东'));
+  assert.equal(canonicalCompanyKey('JD'), canonicalCompanyKey('京东'));
+
+  const insta = companyRegistry.find((record) => /影石.*Insta360/i.test(record.name));
+  assert.ok(insta, '影石Insta360 should exist in company registry');
+  assert.equal(insta.status, '主投');
+  assert.ok(insta.sourceProviders.includes('feishu'));
+  assert.match(insta.careerUrl || '', /insta360\.zhiye\.com\/Campus/i);
+  assert.equal(canonicalCompanyKey('Insta360'), canonicalCompanyKey('影石'));
+  assert.equal(canonicalCompanyKey('影石科技'), canonicalCompanyKey('影石Insta360'));
+});

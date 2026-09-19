@@ -71,3 +71,16 @@ test('seed registry contains unique HTTPS URLs and explicit evidence for structu
   assert.ok(cohortSeeds.length >= 4);
   assert.equal(cohortSeeds.every((item) => /2027届|27届/.test(item.cohortEvidence || '') && item.verifiedAt), true);
 });
+
+
+test('JD.com and Insta360 official campus portals are curated discovery seeds', () => {
+  const jd = companySourceSeeds.find((item) => item.company === '京东');
+  assert.ok(jd);
+  assert.equal(jd.url, 'https://campus.jd.com/');
+  assert.equal(jd.graduationYear, '2027');
+
+  const insta = companySourceSeeds.find((item) => item.company === '影石Insta360');
+  assert.ok(insta);
+  assert.equal(insta.url, 'https://insta360.zhiye.com/Campus');
+  assert.equal(insta.graduationYear, '2027');
+});

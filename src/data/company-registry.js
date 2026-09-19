@@ -19,10 +19,20 @@ const HEALTH_LABELS = {
   no_formal_2027: '官方源没有2027正式岗，需换入口', broad_scope: '官方源范围过宽，需定位2027专属入口', unknown: '官方源健康状态待核'
 };
 
+const COMPANY_ALIAS_KEYS = new Map([
+  ['jd', '京东'],
+  ['jdcom', '京东'],
+  ['京东集团', '京东'],
+  ['insta360', '影石insta360'],
+  ['影石', '影石insta360'],
+  ['影石科技', '影石insta360'],
+]);
+
 export function canonicalCompanyKey(value = '') {
-  return String(value).replace(/^[\s🔴🟢🔵✅❌⭐★•·]+/u, '').replace(/[（(].*?[）)]/g, '')
+  const normalized = String(value).replace(/^[\s🔴🟢🔵✅❌⭐★•·]+/u, '').replace(/[（(].*?[）)]/g, '')
     .replace(/股份有限公司|集团有限公司|有限公司|科技股份|集团|控股|中国|app/gi, '')
     .replace(/[\s·,.，、【】\[\]：:;；&/_-]/g, '').toLowerCase().trim();
+  return COMPANY_ALIAS_KEYS.get(normalized) || normalized;
 }
 
 export function isValidCompanyRecord(record) {
