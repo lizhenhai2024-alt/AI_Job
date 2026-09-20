@@ -109,8 +109,16 @@ export function isInternshipRole(job = {}) {
   return /(?:实习|internship|\bintern\b)/i.test(explicitType);
 }
 
+// 业务/产品类岗位标题豁免：title 已明确是产品、运营、市场、供应链、采购、HR、项目管理、
+// 战略、商业分析等业务方向时，即使含“软件/硬件/技术工程师”等字样（如“软件产品经理”“物料技术工程师”）
+// 也按业务岗对待，避免被 PROFESSIONAL_TITLE_RX 的“软件/硬件/技术工程师”字面匹配误杀。
+// 技术研发岗（软件开发工程师/硬件工程师等）不含本豁免关键词，仍按专业岗剔除。
+const BUSINESS_ROLE_TITLE_RX = /产品经理|产品运营|产品营销|产品策划|产品项目管理|市场培训生|电商培训生|市场营销|新媒体|内容营销|品牌|供应链|采购|商务|人力资源|HRBP|HRIS|SSC|薪酬|培训方向|项目管理|战略|商业分析|经营分析|运营岗|服务管理|质量管理|供应商质量|物料|生产制造|工业工程|制造工程|产品售后服务|供应链计划/;
+
 export function isOutOfScopeProfessionalRole(job = {}) {
   const title = String(job?.title || '').trim();
+  // 明确业务岗优先豁免（“软件产品经理”是产品岗，不是软件研发岗）。
+  if (BUSINESS_ROLE_TITLE_RX.test(title)) return false;
   if (PROFESSIONAL_TITLE_RX.test(title) || TECH_RESEARCH_TITLE_RX.test(title)) return true;
   return hasHardOutOfScopeProfessionalMajor(job);
 }
