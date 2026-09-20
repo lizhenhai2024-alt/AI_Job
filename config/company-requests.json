@@ -1,5 +1,28 @@
 [
   {
+    "id": "intake-872e4439d768",
+    "name": "致欧家居",
+    "careerUrl": "",
+    "focus": [
+      "2027届校招",
+      "英语本科",
+      "国际业务",
+      "海外电商",
+      "GTM",
+      "品牌/内容/运营"
+    ],
+    "note": "CareerPilot自动链接巡检发现该公司 17 条历史岗位URL已返回404/410。请重新识别官方ATS/校招入口，刷新2027届当前岗位及officialURL；不要复用已失效URL。",
+    "requestedAt": "2026-09-20T15:33:57Z",
+    "updatedAt": "2026-09-20T15:34:12.001Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "未提供官方招聘链接；页面探针：未提供官方招聘链接",
+    "issueNumber": 152,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/152",
+    "sourceAlreadyExists": false
+  },
+  {
     "id": "intake-2e6e93e2b8a8",
     "name": "沐瞳科技",
     "careerUrl": "",
@@ -19085,25 +19108,6 @@
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027“银泰星”业务/拓展管培进行中；"
-  },
-  {
-    "id": "intake-872e4439d768",
-    "name": "致欧家居",
-    "careerUrl": "",
-    "focus": [
-      "国际业务",
-      "海外营销",
-      "品牌市场",
-      "运营",
-      "HR"
-    ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027校招8/14–10/14，跨境电商/英语/CET6要求；；官方入口由AI_Job已核验种子接管（URL以种子为准）",
-    "requestedAt": "2026-09-15T08:00:00Z",
-    "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "官方种子已核验，待探针适配",
-    "provider": "feishu",
-    "sourceRegistered": false,
-    "analysis": "2027校招8/14–10/14，跨境电商/英语/CET6要求；"
   },
   {
     "id": "intake-4e9c716058c1",
