@@ -512,9 +512,9 @@ export const sourceDiscovery = [
     "state": "needs_adapter",
     "provider": "",
     "officialUrl": "https://careers.lulian.cn/campus",
-    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "reason": "2027校招已于2026-09-18官宣启动（六大职类/深圳），但官网careers.lulian.cn与微招聘H5(hrh5.ugreensmart.com)校招通道当前0岗（已破解API签名验证RecruitmentMethod=校招/校园招聘/应届生/2027届全部为空）；投递走微信公众号【绿联招聘】菜单校招H5。保持适配队列，官网上架即接入。",
     "attempts": 1,
-    "lastCheckedAt": "2026-09-19T07:49:09.810Z",
+    "lastCheckedAt": "2026-09-20T09:30:39.000Z",
     "nextCheckAfter": "2026-09-22T07:49:09.810Z"
   },
   {
@@ -1282,9 +1282,9 @@ export const sourceDiscovery = [
     "state": "needs_adapter",
     "provider": "",
     "officialUrl": "https://careers.lulian.cn/campus",
-    "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
+    "reason": "2027校招已于2026-09-18官宣启动（六大职类/深圳），但官网careers.lulian.cn与微招聘H5(hrh5.ugreensmart.com)校招通道当前0岗（已破解API签名验证RecruitmentMethod=校招/校园招聘/应届生/2027届全部为空）；投递走微信公众号【绿联招聘】菜单校招H5。保持适配队列，官网上架即接入。",
     "attempts": 1,
-    "lastCheckedAt": "2026-09-15T15:32:28.871Z",
+    "lastCheckedAt": "2026-09-20T09:30:39.000Z",
     "nextCheckAfter": "2026-09-18T15:32:28.871Z"
   },
   {
