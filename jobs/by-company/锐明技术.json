@@ -1,7 +1,7 @@
 {
   "company": "锐明技术",
   "count": 8,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "beisen-3f6a083571bb",
@@ -391,9 +391,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "海外本科及硕士学历，商业分析相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "商业分析相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -405,16 +407,13 @@
       "jobRequirements": "1. 海外本科及硕士学历，商业分析相关专业； 2. 具备突出 Research、Quantitative Analysis 和 Structured Problem Solving 能力； 3. 能够从复杂、分散的信息中快速识别关键变量，并形成清晰的商业判断，而非简单的信息整理； 4. 对全球商业、科技、政策法规及新兴市场保持高度敏感和好奇心； 5. 英文书面表达及商业研究能力优秀； 6. 具备较高职业严谨度，对数据真实性、引用来源和内容风险高度敏感； 7. 能够在较短时间内完成陌生市场或行业的独立研究，并形成管理层可直接使用的结论。",
       "JD": "1. 持续追踪全球重点市场的行业趋势、政策法规、竞争格局、客户需求及新兴商业模式； 2. 对潜在新市场、新场景及商业机会进行专项研究，完成 Market Sizing、竞争分析、客户研究及 Opportunity Assessment； 3. 定期输出 Global Market Intelligence / Opportunity Radar，为集团海外业务、GTM及重点市场决策提供前置情报； 4. 为全球 Campaign、行业内容、管理层材料及重点 GTM 项目提供研究和数据支持； 5. 持续跟踪各区域法规、行业标准及政策变化，对海外对外内容进行事实性、数据来源、法规及高风险表述的基础合规审核； 6. 建立并持续维护全球行业、竞品、法规及商业机会情报数据库。\n1. 海外本科及硕士学历，商业分析相关专业； 2. 具备突出 Research、Quantitative Analysis 和 Structured Problem Solving 能力； 3. 能够从复杂、分散的信息中快速识别关键变量，并形成清晰的商业判断，而非简单的信息整理； 4. 对全球商业、科技、政策法规及新兴市场保持高度敏感和好奇心； 5. 英文书面表达及商业研究能力优秀； 6. 具备较高职业严谨度，对数据真实性、引用来源和内容风险高度敏感； 7. 能够在较短时间内完成陌生市场或行业的独立研究，并形成管理层可直接使用的结论。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "海外本科及硕士学历，商业分析相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "资料/流程",
-          "国际业务"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -487,7 +486,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "海外高水平院校本科及以上学历，Marketing / Business / Management / Communication 等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -501,17 +500,13 @@
       "jobRequirements": "1. 海外高水平院校本科及以上学历，Marketing / Business / Management / Communication 等相关专业优先； 2. 具备 Marketing 相关实习经历，能够理解基础 Marketing、Brand、Content 或 GTM 逻辑； 3. 具备较强 Structured Thinking、信息整合和文字表达能力，能够将复杂信息转化为清晰传播逻辑； 4. 具备良好的英文阅读、写作、Presentation 与跨文化沟通能力； 5. 对 Global Business、Technology、B2B Marketing 和海外市场保持较强好奇心； 6. 具备较强 Ownership、学习能力及执行力，能够独立推进任务并对 Deadline 和交付质量负责； 7. 具备基础 Content Sense 与国际化审美判断，能够合理使用 AI 与数字化工具提升工作效率。",
       "JD": "1. 参与全球新品发布及重点 Go-to-Market Campaign，协助完成核心信息、Value Proposition、内容结构、Launch Planning 及区域本地化； 2. 参与全球官网、LinkedIn、YouTube、行业媒体等渠道的 Content Strategy 与内容体系建设； 3. 将复杂的产品功能、技术能力、行业方案及客户案例转化为清晰、专业、适用于全球市场的 B2B Content； 4. 参与 Webinar、Landing Page、Customer Case、Thought Leadership、Product Content、Sales Enablement Content 等项目； 5. 参与从 Content → Traffic → Leads → Sales Follow-up的增长链路建设，并结合项目数据持续优化内容与 Campaign； 6. 与产品、销售、战区、设计、视频等团队协同推进 Global Marketing Project； 7. 逐步承担独立项目 Ownership，负责部分全球 Campaign、Webinar、Content Program 或区域营销项目。\n1. 海外高水平院校本科及以上学历，Marketing / Business / Management / Communication 等相关专业优先； 2. 具备 Marketing 相关实习经历，能够理解基础 Marketing、Brand、Content 或 GTM 逻辑； 3. 具备较强 Structured Thinking、信息整合和文字表达能力，能够将复杂信息转化为清晰传播逻辑； 4. 具备良好的英文阅读、写作、Presentation 与跨文化沟通能力； 5. 对 Global Business、Technology、B2B Marketing 和海外市场保持较强好奇心； 6. 具备较强 Ownership、学习能力及执行力，能够独立推进任务并对 Deadline 和交付质量负责； 7. 具备基础 Content Sense 与国际化审美判断，能够合理使用 AI 与数字化工具提升工作效率。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "海外高水平院校本科及以上学历，Marketing / Business / Management / Communication 等相关专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通",
-          "翻译/本地化",
-          "国际业务"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

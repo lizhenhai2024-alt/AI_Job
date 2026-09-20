@@ -1,7 +1,7 @@
 {
   "company": "零跑汽车",
   "count": 26,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "beisen-05c12c1b7748",
@@ -1371,7 +1371,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "全日制本科以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1385,16 +1385,13 @@
       "jobRequirements": "1、 全日制本科以上学历； 2、熟悉整车高压/低压能量流、三电系统原理 ； 3、 熟练运用MATLAB/SimuLink/CANoe等软件； 4、积极主动、勇于担当；同时要求良好的沟通协调能力和团队合作精神。",
       "JD": "1、 负责整车高、低压能量流开发、竞品策略对比，CAN信号解析； 2、 负责能量相关功能开发、验证； 3、 负责低压能量管理标准工况场景定义，规划相关的测试流程。\n1、 全日制本科以上学历； 2、熟悉整车高压/低压能量流、三电系统原理 ； 3、 熟练运用MATLAB/SimuLink/CANoe等软件； 4、积极主动、勇于担当；同时要求良好的沟通协调能力和团队合作精神。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-11-30"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制本科以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

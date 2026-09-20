@@ -1,7 +1,7 @@
 {
   "company": "京东方",
   "count": 59,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "beisen-2be429ffbb1a",
@@ -5144,7 +5144,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "行政管理或工商管理，电子商务or中文系皆可",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5158,15 +5158,13 @@
       "jobRequirements": "1、行政管理或工商管理，电子商务or中文系皆可； 2、具有较强的数据统计、处理与分析能力，无不及格科目； 3、沟通协调能力、抗压能力强、有较强的执行力和计划决策能力；",
       "JD": "1、结合PMC 和市场部计划制定短/中/长期生产计划，通过对产品的全生命周期管理，助推生产计划高效达成； 2、负责生产进度监控与确认，推动生产计划高效达成； 3、负责生产计划的编制与调整，生产任务的下达； 4、负责生产达成情况的统计，分析与总结； 5、负责物料计划的编制和更新，控制原材料到货合理性，把控库存量；\n1、行政管理或工商管理，电子商务or中文系皆可； 2、具有较强的数据统计、处理与分析能力，无不及格科目； 3、沟通协调能力、抗压能力强、有较强的执行力和计划决策能力；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "行政管理或工商管理，电子商务or中文系皆可"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -5234,7 +5232,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5248,15 +5246,13 @@
       "jobRequirements": "1、本科及以上学历 2、具有1—2年行政服务、会务接待、档案管理等相关工作经验； 3、具备较强的沟通协调、文字表达和统筹执行能力，能适应多任务并行工作场景； 4、工作细致严谨，责任心强，具备较好的抗压能力和团队协作意识；",
       "JD": "1、职工福利如慰问、评优申报等工作； 2、困难帮扶如困难职工档案管理、重病及困难帮扶、金秋助学等工作； 3、工会管理如会员离职对接、会议组织、工会制度完善、上级工会政策落实等； 4、女职工工作开展如女职工专项服务与活动等； 5、工匠学院及工会重点项目相关工作落实；\n1、本科及以上学历 2、具有1—2年行政服务、会务接待、档案管理等相关工作经验； 3、具备较强的沟通协调、文字表达和统筹执行能力，能适应多任务并行工作场景； 4、工作细致严谨，责任心强，具备较好的抗压能力和团队协作意识；",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -5428,11 +5424,9 @@
       "jobRequirements": "1、了解显示屏系统软硬件架构以及原理； 2、了解TFT-LCD显示原理及应用场景； 3、了解需求分析和管理的方法及工具； 4、掌握系统需求以及系统FMEA的编写技巧； 5、了解相关显示产品的功能及核心性能指标； 6、了解相关显示产品相关国际和国家标准；",
       "JD": "1、需求结构分解，需求定义； 2、影响和依赖分析，可行性分析，验证标准和验证方法分析； 3、溯源关系建立； 4、组织系统需求评审，按时发布； 5、评审系统架构，学科需求，系统测试案例； 6、统筹所负责项目需求相关的Q&A；\n1、了解显示屏系统软硬件架构以及原理； 2、了解TFT-LCD显示原理及应用场景； 3、了解需求分析和管理的方法及工具； 4、掌握系统需求以及系统FMEA的编写技巧； 5、了解相关显示产品的功能及核心性能指标； 6、了解相关显示产品相关国际和国家标准；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

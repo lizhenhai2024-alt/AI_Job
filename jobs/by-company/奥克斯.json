@@ -1,7 +1,7 @@
 {
   "company": "奥克斯集团",
   "count": 20,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "beisen-5ef6f799d9ba",
@@ -1100,9 +1100,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "视觉/传播/营销类相关专业；本科及以上，中英双语，小语种以日语优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "视觉/传播/营销类相关专业"
+        ]
       },
       "language": {
         "raw": "日语",
@@ -1114,15 +1116,14 @@
       "jobRequirements": "1、本科及以上，中英双语，小语种以日语优先； 2、接受公司企业文化，具备肯苦，抗压能力； 3、视觉/传播/营销类相关专业。",
       "JD": "1、负责市场推广、媒体运营、终端促销、媒体宣传等后台支持工作； 2、负责对产品培训等工作落地执行； 3、负责展会跟进，如广交会等； 4、完成例行工作及各项指标通报，及其他临时性工作。\n1、本科及以上，中英双语，小语种以日语优先； 2、接受公司企业文化，具备肯苦，抗压能力； 3、视觉/传播/营销类相关专业。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "视觉/传播/营销类相关专业",
+          "本科及以上，中英双语，小语种以日语优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "翻译/本地化"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -1208,15 +1209,11 @@
       "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
       "JD": "1、制程质量监督，参与制程不良问题整改； 2、市场客诉管理； 3、零件质量管理、电控失效分析/电子制程质量管理。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -1375,7 +1372,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "葡语、西班牙语、阿拉伯、俄语等小语种专业优先开率；英语六级及以上，口语熟练",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1389,11 +1386,12 @@
       "jobRequirements": "1、葡语、西班牙语、阿拉伯、俄语等小语种专业优先开率； 2、英语六级及以上，口语熟练； 3、有较强的沟通能力、人际敏感性，对销售工作感兴趣； 4、有销售、市场相关实习经验优先。",
       "JD": "1、当地语言与电力局采购、技术无障碍沟通； 2、前置沟通电力局获取产品需求，市场产品趋势，竞品信息； 3、完成项目招投标工作； 4、参与市场项目计划编制、推进、异常预警。\n1、葡语、西班牙语、阿拉伯、俄语等小语种专业优先开率； 2、英语六级及以上，口语熟练； 3、有较强的沟通能力、人际敏感性，对销售工作感兴趣； 4、有销售、市场相关实习经验优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "葡语、西班牙语、阿拉伯、俄语等小语种专业优先开率",
+          "英语六级及以上，口语熟练"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -1477,15 +1475,11 @@
       "jobRequirements": "1、工作积极主动，具有较强的责任心，肯苦、细致； 2、熟悉业务流程，对营销有基本思路、方法； 3、有较好的语言沟通能力；良好的团队意识； 4、具有较强组织、跨部门沟通、协调能力。",
       "JD": "1 、商机管理：负责线索和商机的录入、转化、评审、立项的跟进和规范管理； 2、 指标监控：负责线索和商机指标达成监控、预警； 3 、样机管理：样机计划对接评审、发布及下单、寄送和反馈审批，库存盘点； 4 、验厂验货：负责外部客户验厂、验货的资料准备及内部协同等工作； 5 、管理通报：负责立项异常、商机规范、立项和送样指标的统计和通报；\n1、工作积极主动，具有较强的责任心，肯苦、细致； 2、熟悉业务流程，对营销有基本思路、方法； 3、有较好的语言沟通能力；良好的团队意识； 4、具有较强组织、跨部门沟通、协调能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

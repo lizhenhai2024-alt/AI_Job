@@ -1,7 +1,7 @@
 {
   "company": "中信科移动",
   "count": 5,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "beisen-f6c682c9a8ce",
@@ -403,9 +403,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "专业见后栏要求；本科学历一本院校。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业见后栏要求"
+        ]
       },
       "language": {
         "raw": "",
@@ -417,11 +419,11 @@
       "jobRequirements": "1.专业及学历要求： 专业见后栏要求；本科学历一本院校。 2.基本业务技能要求： 掌握相关电磁仿真软件和测试仪器仪表的使用。 3.其他要求等： 硕士课题包括但不限于相控阵天线、雷达天线、卫通天线及其相关部件设计。",
       "JD": "1.承担相控阵天线模块或整机的项目开发。 2.负责技术指标的优化及各类技术问题的解决。 3.项目图纸、文档的输出和维护。\n1.专业及学历要求： 专业见后栏要求；本科学历一本院校。 2.基本业务技能要求： 掌握相关电磁仿真软件和测试仪器仪表的使用。 3.其他要求等： 硕士课题包括但不限于相控阵天线、雷达天线、卫通天线及其相关部件设计。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业见后栏要求；本科学历一本院校。"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

@@ -1,7 +1,7 @@
 {
   "company": "蓝思科技",
   "count": 11,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "beisen-9c76bd254e77",
@@ -677,9 +677,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "仓储、物流、供应链管理等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "仓储、物流、供应链管理等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -691,11 +693,11 @@
       "jobRequirements": "1、需求专业： 仓储、物流、供应链管理等相关专业 岗位要求： 1、具有良好的表达能力与沟通协调能力； 2、有独立管理能力； 3、可塑性强，抗压能力强，逻辑思维清晰",
       "JD": "工作内容： ①生产计划指定、物料进出库、库存管理，确保库存物料安全，确保出入库过程及在库库存数量准确； ②负责制订各类管理制度和流程，并执行规范、完成物料仓储操作； ③对员工的工作质量及效率跟踪培养；\n1、需求专业： 仓储、物流、供应链管理等相关专业 岗位要求： 1、具有良好的表达能力与沟通协调能力； 2、有独立管理能力； 3、可塑性强，抗压能力强，逻辑思维清晰",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "仓储、物流、供应链管理等相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

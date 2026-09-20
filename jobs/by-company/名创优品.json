@@ -1,7 +1,7 @@
 {
   "company": "名创优品",
   "count": 22,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "beisen-23168e210002",
@@ -1690,9 +1690,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "美术设计、平面设计等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术设计、平面设计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -1704,10 +1706,12 @@
       "jobRequirements": "1、26-27届本科及以上学历毕业生，美术设计、平面设计等相关专业； 2、具备良好的绘图能力，扎实的产品设计、色彩和图案设计能力； 3、熟练使用各类设计软件(Adobe Illustrator，Photoshop，CorelDraw，Rhinoceros 3D，Keyshot设计渲染等)； 4、具有较强的审美和创意设计能力，整体布局能力和色彩感好，能清楚地表达设计理念，工作激情充沛。",
       "JD": "1、负责MINISO全球产品设计，熟悉海内外市场潮流趋势，并有自己独特风格； 2、结合市场调研提供补充创意想法，解决设计过程中的问题，参与产品开发各阶段设计评审、调整工作； 3、熟悉各类IP衍生品，并结合IP特性进行创意设计。\n1、26-27届本科及以上学历毕业生，美术设计、平面设计等相关专业； 2、具备良好的绘图能力，扎实的产品设计、色彩和图案设计能力； 3、熟练使用各类设计软件(Adobe Illustrator，Photoshop，CorelDraw，Rhinoceros 3D，Keyshot设计渲染等)； 4、具有较强的审美和创意设计能力，整体布局能力和色彩感好，能清楚地表达设计理念，工作激情充沛。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "美术设计、平面设计等相关专业"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "26-27届本科及以上学历毕业生"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1870,7 +1874,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历毕业生",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1884,13 +1888,19 @@
       "jobRequirements": "1、26-27届本科及以上学历毕业生，性格活泼开朗，有责任心，抗压能力强，有学生会/社团经验； 2、沟通表达能力强，人际关系敏感度高； 3、对工作有耐心，做事积极主动，具有敬业精神，较强的协调能力和团队合作精神； 4、良好的逻辑思维、结构性思维能力； 5、熟练使用office，有较强的数据、文案能力。",
       "JD": "【中心内轮岗培养】 1、根据公司整体培养计划，在中心内进行轮岗，熟悉渠道全流程和必要技能； 2、轮岗期间完成专题研究课题及相关项目，完成相关能力的训练和培养； 3、轮岗结束后进入岗位深入发展和提升业务能力。 【定岗后职责】 1、协助收集商业信息，了解各行业品牌资讯和挖掘各大品牌客户资源； 2、协助客户的资料收集整理、资源储备、定期回访拓客； 3、根据公司的招商流程，进行商务谈判，办理合同签署相关手续等； 4、根据公司制定的年度目标，有计划的开展区域加盟商大会活动； 5、做好区域目标规划，完成公司指标。\n1、26-27届本科及以上学历毕业生，性格活泼开朗，有责任心，抗压能力强，有学生会/社团经验； 2、沟通表达能力强，人际关系敏感度高； 3、对工作有耐心，做事积极主动，具有敬业精神，较强的协调能力和团队合作精神； 4、良好的逻辑思维、结构性思维能力； 5、熟练使用office，有较强的数据、文案能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历毕业生"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "26-27届本科及以上学历毕业生"
         ],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "合同",
+          "客户关系",
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"

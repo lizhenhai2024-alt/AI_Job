@@ -1,7 +1,7 @@
 {
   "company": "追觅科技",
   "count": 8,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "beisen-60f7fbaa3ace",
@@ -404,15 +404,11 @@
       "jobRequirements": "1、具备良好的沟通协调能力，能够高效执行采购任务； 2、具有团队合作精神，能够与团队成员共同推进项目； 3、对工作细致认真，有责任心，能够在快节奏环境中保持高效率。",
       "JD": "1、协助工程师进行采购活动，确保物资及时供应； 2、参与采购流程的优化，提升工作效率； 3、与供应商保持良好沟通，确保采购质量和供应的稳定性。\n1、具备良好的沟通协调能力，能够高效执行采购任务； 2、具有团队合作精神，能够与团队成员共同推进项目； 3、对工作细致认真，有责任心，能够在快节奏环境中保持高效率。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

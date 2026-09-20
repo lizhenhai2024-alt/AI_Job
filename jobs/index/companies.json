@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
-  "totalJobs": 5465,
-  "totalCompanies": 119,
+  "updatedAt": "2026-09-20T00:43:53.933Z",
+  "totalJobs": 5485,
+  "totalCompanies": 120,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -255,6 +255,12 @@
       "slug": "绿盟科技",
       "file": "jobs/by-company/绿盟科技.json",
       "count": 100
+    },
+    {
+      "company": "美的",
+      "slug": "美的",
+      "file": "jobs/by-company/美的.json",
+      "count": 16
     },
     {
       "company": "美团",
@@ -668,7 +674,7 @@
       "company": "字节跳动",
       "slug": "字节跳动",
       "file": "jobs/by-company/字节跳动.json",
-      "count": 140
+      "count": 144
     },
     {
       "company": "Babycare",

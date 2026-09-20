@@ -1,7 +1,7 @@
 {
   "company": "小米",
   "count": 230,
-  "updatedAt": "2026-09-19T17:48:35.200Z",
+  "updatedAt": "2026-09-20T00:43:53.933Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -16234,9 +16234,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "大学本科及以上学历，音乐专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "音乐专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -16248,11 +16250,11 @@
       "jobRequirements": "- 大学本科及以上学历，音乐专业 - 具备较强的学习能力，结果导向、执行力突出，具备创业心态与项目攻坚落地能力； - 重视音频体验与声学审美，有系统音频落地经验优先。",
       "JD": "- 负责座舱音频相关产品规划与落地，包括音频仲裁、标定、多音区体验等，保障用户体验稳居行业前列； - 负责小米汽车音效设计，符合国内、海外审美； - 对标行业竞品迭代产品方案，结合AI，挖掘座舱音频创新场景，持续优化产品竞争力。\n- 大学本科及以上学历，音乐专业 - 具备较强的学习能力，结果导向、执行力突出，具备创业心态与项目攻坚落地能力； - 重视音频体验与声学审美，有系统音频落地经验优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "大学本科及以上学历，音乐专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
