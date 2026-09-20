@@ -1,5 +1,28 @@
 [
   {
+    "id": "intake-2be446577762",
+    "name": "小米",
+    "careerUrl": "",
+    "focus": [
+      "2027届校招",
+      "英语本科",
+      "国际业务",
+      "海外电商",
+      "GTM",
+      "品牌/内容/运营"
+    ],
+    "note": "CareerPilot自动链接巡检发现该公司 68 条历史岗位URL已返回404/410。请重新识别官方ATS/校招入口，刷新2027届当前岗位及officialURL；不要复用已失效URL。",
+    "requestedAt": "2026-09-20T15:33:44Z",
+    "updatedAt": "2026-09-20T21:58:37.576Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "未提供官方招聘链接；页面探针：未提供官方招聘链接",
+    "issueNumber": 144,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/144",
+    "sourceAlreadyExists": false
+  },
+  {
     "id": "auto-83dbf20569c7",
     "name": "山推工程机械股份有限公司",
     "careerUrl": "https://shantui.zhiye.com/",
@@ -18204,25 +18227,6 @@
     "provider": "",
     "sourceRegistered": false,
     "analysis": "2027届秋招2026-08-27启动，简历截止9/15；"
-  },
-  {
-    "id": "intake-2be446577762",
-    "name": "小米",
-    "careerUrl": "https://hr.xiaomi.com/website/campus.html",
-    "focus": [
-      "国际业务",
-      "海外营销",
-      "品牌市场",
-      "运营",
-      "HR"
-    ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届全球校招8月10日启动（已核验）；",
-    "requestedAt": "2026-09-15T08:00:00Z",
-    "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
-    "provider": "",
-    "sourceRegistered": false,
-    "analysis": "2027届全球校招8月10日启动（已核验）；"
   },
   {
     "id": "intake-a15cdadede0e",
