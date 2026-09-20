@@ -1,7 +1,7 @@
 {
   "company": "中国太平保险集团",
   "count": 118,
-  "updatedAt": "2026-09-20T08:22:18.607Z",
+  "updatedAt": "2026-09-20T09:59:44.742Z",
   "jobs": [
     {
       "id": "beisen-48d4c78c739f",
@@ -9794,7 +9794,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Degree holder in any discipline",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9808,10 +9808,12 @@
       "jobRequirements": "1. Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.); 2. Degree holder in any discipline; 3. Strong analytical and problem solving skills, able to work independently and under-pressure; 4. Good spirit of team work and sense of discipline will be valued; 5. Familiar with Microsoft Excel, Word and Powerpoint; 6. Proficient in spoken and written English and Chinese.",
       "JD": "Candidates will be assigned to either underwriting or claims based on your educational background and career goals. As a Property and Liability Insurance Underwriter, you will: 1. Assist senior underwriters in business acceptance and review; 2. To learn and understand the knowledge of property and liability insurance products, collect and organize relevant business data to support business analysis and decision making; 3. Participate in business process optimization and improvement to enhance work efficiency and service quality. As a Marine Insurance Underwriter, you will: 1. Marine/logistics insurance business auditing, risk assessment, execution in accordance with company underwriting policy; 2. General clerical work and filing of documents; 3. Production and analysis of relevant statistics; 4. Produce and analyze relevant statistics. As an Insurance Claims Handler, you will: 1. Provide advice on making a claim and the processes involved; 2. Collect accurate information and documents to proceed with a claim; 3. Analyse a claim made by a policymaker to establish whether it satisfies the policy conditions; 4. Guide policyholders on how to proceed with the claim; 5. Contact service provider from a network of approved professionals; 6. Monitor the progress of a claim; 7. Ensure fair settlement of a valid claim.\n1. Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.); 2. Degree holder in any discipline; 3. Strong analytical and problem solving skills, able to work independently and under-pressure; 4. Good spirit of team work and sense of discipline will be valued; 5. Familiar with Microsoft Excel, Word and Powerpoint; 6. Proficient in spoken and written English and Chinese.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Degree holder in any discipline"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.)"
         ],
         "technicalDuties": [],
         "businessDuties": []

@@ -1,7 +1,7 @@
 {
   "company": "特斯拉中国",
-  "count": 144,
-  "updatedAt": "2026-09-20T08:22:18.607Z",
+  "count": 145,
+  "updatedAt": "2026-09-20T09:59:44.742Z",
   "jobs": [
     {
       "id": "moka-989aa3b76b0c",
@@ -964,6 +964,85 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/92ec6139-4444-41fd-b1ac-00e71e6b3e51",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-3bef31f69750",
+      "company": "特斯拉中国",
+      "title": "2027届-物流数字化工程师-上海",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "2027届-物流数字化工程师-上海 发布于 2026-09-04 智能制造 智能制造 | 上海市 上海市",
+      "jobRequirements": "",
+      "JD": "2027届-物流数字化工程师-上海 发布于 2026-09-04 智能制造 智能制造 | 上海市 上海市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/a8612549-833f-4bd8-99b0-f2ef97061bbc",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

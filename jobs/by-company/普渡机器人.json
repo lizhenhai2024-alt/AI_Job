@@ -1,8 +1,106 @@
 {
   "company": "普渡机器人",
-  "count": 18,
-  "updatedAt": "2026-09-20T08:22:18.607Z",
+  "count": 20,
+  "updatedAt": "2026-09-20T09:59:44.742Z",
   "jobs": [
+    {
+      "id": "beisen-ea0aadc057e4",
+      "company": "普渡机器人",
+      "title": "商务管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限，市场营销、商务管理、外语类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、承接各渠道汇集到总部的销售线索，完成线索登记、分级与分发，确保每条线索 24 小时内触达对应区域 / 业务团队； 2、跟进线索转化进度，建立线索全生命周期台账，每周输出线索流转效率与转化率分析； 3、协同区域销售、渠道、市场团队，闭环线索分配争议与重复线索判定； 4、负责来访客户、合作伙伴、政府机构等重要访客的总部参观接待全流程 —— 从行程规划、展厅讲解协调、会议安排到餐饮 / 交通 / 伴手礼等细节落地； 5、维护总部参观接待的标准流程与物料清单，确保不同级别访客的接待规格统一、体验一致； 6、协同市场部、产品部、行政部等跨部门资源，高质量完成每场接待，零事故、零投诉； 7、沉淀接待案例库，提炼可复用的接待话术与流程模板。",
+      "jobRequirements": "1、本科及以上学历，专业不限，市场营销、商务管理、外语类专业优先； 2、极强的沟通协调能力和出色的执行力和细节敏感度 3、清晰的逻辑思维和数据意识 4、良好的形象气质与商务礼仪 5、英语可作为工作语言者优先（海外客户接待场景）",
+      "JD": "1、承接各渠道汇集到总部的销售线索，完成线索登记、分级与分发，确保每条线索 24 小时内触达对应区域 / 业务团队； 2、跟进线索转化进度，建立线索全生命周期台账，每周输出线索流转效率与转化率分析； 3、协同区域销售、渠道、市场团队，闭环线索分配争议与重复线索判定； 4、负责来访客户、合作伙伴、政府机构等重要访客的总部参观接待全流程 —— 从行程规划、展厅讲解协调、会议安排到餐饮 / 交通 / 伴手礼等细节落地； 5、维护总部参观接待的标准流程与物料清单，确保不同级别访客的接待规格统一、体验一致； 6、协同市场部、产品部、行政部等跨部门资源，高质量完成每场接待，零事故、零投诉； 7、沉淀接待案例库，提炼可复用的接待话术与流程模板。\n1、本科及以上学历，专业不限，市场营销、商务管理、外语类专业优先； 2、极强的沟通协调能力和出色的执行力和细节敏感度 3、清晰的逻辑思维和数据意识 4、良好的形象气质与商务礼仪 5、英语可作为工作语言者优先（海外客户接待场景）",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限，市场营销、商务管理、外语类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://pudutech.zhiye.com/campus/detail?jobAdId=b01b18f8-cf2d-4278-a106-d6077342783f",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→简历筛选→面试（2-3轮）→Offer→签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（北京科技大学就业网） | https://job.ustb.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=eca150bf68ee4436bc2825e6af986f28& | 2026-09-17",
+      "hasAssessment": "无",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://job.ustb.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=eca150bf68ee4436bc2825e6af986f28& | 2026-09-17"
+    },
     {
       "id": "beisen-611d82dc80e3",
       "company": "普渡机器人",
@@ -1349,9 +1447,9 @@
       "hasAssessmentEvidence": "E2 | 官方校招简章 | https://job.ustb.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=eca150bf68ee4436bc2825e6af986f28& | 2026-09-17"
     },
     {
-      "id": "beisen-6825f18e9470",
+      "id": "beisen-d89c4bf5da4e",
       "company": "普渡机器人",
-      "title": "海外销售经理（美澳）(J12689)",
+      "title": "海外销售经理（美澳英）(J12689)",
       "graduationYear": [
         "2027"
       ],
@@ -1361,23 +1459,23 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1，西语/英语可以作为日常工作语言 2， 26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
+        "raw": "1，西语/英语/葡语可以作为日常工作语言 2，26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
         "hardRestriction": false,
         "hardClauses": []
       },
       "language": {
-        "raw": "英语、西班牙语",
+        "raw": "英语、西班牙语、葡萄牙语",
         "english": true,
         "minorLanguageRequired": false
       },
       "location": "深圳",
       "jobDescription": "1， 海外本地渠道客户开发，完成销售业绩目标 2，帮助客户搭建渠道网络，提升市场占有率 3， 受理客户询盘，完成报价、出货流程，维护客情关系 4，行业竞品及市场调查，制定有效的市场策略和业务规划 6， 协助市场部开展营销活动，提升品牌知名度",
-      "jobRequirements": "1，西语/英语可以作为日常工作语言 2， 26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
-      "JD": "1， 海外本地渠道客户开发，完成销售业绩目标 2，帮助客户搭建渠道网络，提升市场占有率 3， 受理客户询盘，完成报价、出货流程，维护客情关系 4，行业竞品及市场调查，制定有效的市场策略和业务规划 6， 协助市场部开展营销活动，提升品牌知名度\n1，西语/英语可以作为日常工作语言 2， 26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
+      "jobRequirements": "1，西语/英语/葡语可以作为日常工作语言 2，26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
+      "JD": "1， 海外本地渠道客户开发，完成销售业绩目标 2，帮助客户搭建渠道网络，提升市场占有率 3， 受理客户询盘，完成报价、出货流程，维护客情关系 4，行业竞品及市场调查，制定有效的市场策略和业务规划 6， 协助市场部开展营销活动，提升品牌知名度\n1，西语/英语/葡语可以作为日常工作语言 2，26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
-          "1，西语/英语可以作为日常工作语言 2， 26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差"
+          "1，西语/英语/葡语可以作为日常工作语言 2，26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差"
         ],
         "eligibilityClauses": [
           "招聘对象：2027届"
@@ -1539,6 +1637,106 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://pudutech.zhiye.com/campus/detail?jobAdId=d02579f3-a56c-437f-a53f-36cbbd693a4a",
+      "publishedAt": "2026-06-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→简历筛选→面试（2-3轮）→Offer→签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（北京科技大学就业网） | https://job.ustb.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=eca150bf68ee4436bc2825e6af986f28& | 2026-09-17",
+      "hasAssessment": "无",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://job.ustb.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=eca150bf68ee4436bc2825e6af986f28& | 2026-09-17"
+    },
+    {
+      "id": "beisen-6825f18e9470",
+      "company": "普渡机器人",
+      "title": "海外销售经理（美澳）(J12689)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1，西语/英语可以作为日常工作语言 2， 26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1， 海外本地渠道客户开发，完成销售业绩目标 2，帮助客户搭建渠道网络，提升市场占有率 3， 受理客户询盘，完成报价、出货流程，维护客情关系 4，行业竞品及市场调查，制定有效的市场策略和业务规划 6， 协助市场部开展营销活动，提升品牌知名度",
+      "jobRequirements": "1，西语/英语可以作为日常工作语言 2， 26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
+      "JD": "1， 海外本地渠道客户开发，完成销售业绩目标 2，帮助客户搭建渠道网络，提升市场占有率 3， 受理客户询盘，完成报价、出货流程，维护客情关系 4，行业竞品及市场调查，制定有效的市场策略和业务规划 6， 协助市场部开展营销活动，提升品牌知名度\n1，西语/英语可以作为日常工作语言 2， 26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1，西语/英语可以作为日常工作语言 2， 26或27届本科或硕士应届生 3， 对机器人或者智能硬件类产品感兴趣， 5， 可接受定期的海外出差"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "纯销售",
+        "海外出差"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1， 海外本地渠道客户开发，完成销售业绩目标 2，帮助客户搭建渠道网络，提升市场占"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://pudutech.zhiye.com/campus/detail?jobAdId=11762e16-0668-4f40-919d-010f6b10d3c5",
       "publishedAt": "2026-06-23",
       "lastVerified": "",
       "sourceType": "official",

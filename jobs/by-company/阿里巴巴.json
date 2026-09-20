@@ -1,7 +1,7 @@
 {
   "company": "阿里巴巴",
   "count": 117,
-  "updatedAt": "2026-09-20T08:22:18.607Z",
+  "updatedAt": "2026-09-20T09:59:44.742Z",
   "jobs": [
     {
       "id": "alibaba-56983b82e44a",
@@ -4322,6 +4322,99 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
+      "id": "alibaba-e94ea3438669",
+      "company": "阿里巴巴",
+      "title": "产品经理-搜推策略",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。",
+      "jobRequirements": "1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
+      "JD": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。\n1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907640094",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
       "id": "alibaba-7ba2eca9e0b5",
       "company": "阿里巴巴",
       "title": "AI Agent产品经理",
@@ -4406,99 +4499,6 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907740089",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
-      "id": "alibaba-e94ea3438669",
-      "company": "阿里巴巴",
-      "title": "产品经理-搜推策略",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。",
-      "jobRequirements": "1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
-      "JD": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。\n1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907640094",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -7154,6 +7154,89 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
+      "id": "alibaba-4bd85e2d42df",
+      "company": "阿里巴巴",
+      "title": "游戏场景原画（国风）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等； 2.项目风格及题材：新国风，武侠修仙，轻松治愈； 3.入职1V1导师手把手带教做项目",
+      "jobRequirements": "1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合； 2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想； 3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历； 4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
+      "JD": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等； 2.项目风格及题材：新国风，武侠修仙，轻松治愈； 3.入职1V1导师手把手带教做项目\n1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合； 2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想； 3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历； 4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700017",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
       "id": "alibaba-08ac611febe5",
       "company": "阿里巴巴",
       "title": "游戏3D角色",
@@ -7239,9 +7322,9 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-4bd85e2d42df",
+      "id": "alibaba-afa1b1b88800",
       "company": "阿里巴巴",
-      "title": "游戏场景原画（国风）",
+      "title": "游戏动作",
       "graduationYear": [
         "2027"
       ],
@@ -7261,9 +7344,9 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "jobDescription": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等； 2.项目风格及题材：新国风，武侠修仙，轻松治愈； 3.入职1V1导师手把手带教做项目",
-      "jobRequirements": "1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合； 2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想； 3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历； 4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
-      "JD": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等； 2.项目风格及题材：新国风，武侠修仙，轻松治愈； 3.入职1V1导师手把手带教做项目\n1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合； 2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想； 3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历； 4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
+      "jobDescription": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
+      "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
+      "JD": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
       "jdEvidence": {
         "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
@@ -7275,9 +7358,7 @@
         "其他"
       ],
       "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
+      "experienceKeywords": [],
       "preferenceTags": [],
       "riskTags": [],
       "headcount": {
@@ -7311,7 +7392,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700017",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907660017",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -7397,87 +7478,6 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907620015",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
-      "id": "alibaba-afa1b1b88800",
-      "company": "阿里巴巴",
-      "title": "游戏动作",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
-      "jobRequirements": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
-      "JD": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计； 2、你可以发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面； 3、你可以找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你； 4、你可以获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英； 5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。\n1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳； 2、希望具有良好的沟通能力和团队协助能力； 3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等； 4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力； 5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907660017",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -7737,91 +7737,6 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-0a32865815d1",
-      "company": "阿里巴巴",
-      "title": "游戏角色原画（写实）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "油画专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。",
-      "jobRequirements": "1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
-      "JD": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。\n1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "油画专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700018",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
       "id": "alibaba-88590058a090",
       "company": "阿里巴巴",
       "title": "游戏角色/场景原画（二次元）",
@@ -7902,6 +7817,91 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907660016",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-0a32865815d1",
+      "company": "阿里巴巴",
+      "title": "游戏角色原画（写实）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "油画专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。",
+      "jobRequirements": "1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
+      "JD": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。\n1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "油画专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700018",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -9822,96 +9822,6 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-f690a14106e0",
-      "company": "阿里巴巴",
-      "title": "AI Native数据计算引擎：原子化智能算子、DAG 编排与混合查询优化-阿里星/A Star",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "加入阿里云 Hologres 团队，参与构建面向 AI Native 时代的新一代数据计算引擎。Hologres 是阿里云一站式实时数仓与湖仓一体数据引擎，支撑高并发实时写入、PB 级分析、向量检索、多模检索和在线服务等核心场景。 随着大模型、智能体和企业级 AI 应用快速发展，数据计算的边界正在从传统结构化分析，扩展到语义理解、知识抽取、语义关联、多模态检索、RAG 构建、智能 BI 和 Agentic 任务执行。我们希望探索并构建 AI Native 数据计算引擎：原子化智能算子、DAG 编排与混合查询优化，让传统数据处理、AI 推理和复杂智能任务编排能够在统一引擎内高效完成。 你将参与定义 AI Native 数据计算的新范式：抽象原子化智能算子，构建复杂 AI 任务的 DAG 编排能力，打通智能算子与传统关系算子、向量检索算子、多模检索算子的混合执行，并围绕成本、性能、质量和稳定性设计新型优化机制。 岗位职责 1. 参与 AI Native 数据计算引擎核心能力建设，探索传统关系计算、语义推理、多模态检索和 Agentic 执行的一体化架构。 2. 设计原子化智能算子体系，支持语义过滤、知识抽取、语义 Join、智能聚合、结果校验、置信度判断等 AI Native 数据处理能力。 3. 构建智能算子的工程化 harness，支持多模型适配、prompt 管理、工具调用、评测回归、失败恢复和效果持续优化。 4. 研究复杂 AI 任务的 DAG 编排机制，实现任务拆解、依赖分析、并行执行、中间结果复用、异常恢复和可观测执行。 5. 探索智能算子与 Scan、Filter、Join、Aggregate、Index Scan、Vector Search 等传统数据算子的混合执行与联合优化。 6. 建设面向 Agentic DAG 和混合查询的成本模型与优化器，在延迟、吞吐、资源成本、模型质量、置信度和业务 SLA 之间取得最优平衡。",
-      "jobRequirements": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先。 2. 具备扎实的计算机基础，熟悉数据结构、算法、操作系统、分布式系统、数据库系统等基础知识。 3. 对数据库、查询优化、分布式计算、大数据系统、湖仓一体、向量检索、机器学习系统或大模型应用有浓厚兴趣。 4. 具备优秀的工程能力，熟悉 C++、Java、Go、Python 等至少一种编程语言。 5. 对 AI Native 数据基础设施、Agent、RAG、多模态检索、模型推理优化等方向有探索热情。 6. 具备较强的问题抽象能力、系统性思考能力和自驱力，愿意挑战开放性、前沿性技术问题。 加分项 1. 有数据库/大数据系统内核、查询优化器、分布式计算引擎、向量数据库、检索系统相关研究或实践经验。 2. 有大模型应用、Agent 框架、RAG 系统、模型评测、prompt engineering、多模型路由相关项目经验。 3. 在数据库、分布式系统、机器学习系统、AI Infra 等方向有高质量论文、竞赛、开源项目或实习经历。 4. 对系统性能优化、成本优化、可观测性、可靠性工程有深入兴趣。",
-      "JD": "加入阿里云 Hologres 团队，参与构建面向 AI Native 时代的新一代数据计算引擎。Hologres 是阿里云一站式实时数仓与湖仓一体数据引擎，支撑高并发实时写入、PB 级分析、向量检索、多模检索和在线服务等核心场景。 随着大模型、智能体和企业级 AI 应用快速发展，数据计算的边界正在从传统结构化分析，扩展到语义理解、知识抽取、语义关联、多模态检索、RAG 构建、智能 BI 和 Agentic 任务执行。我们希望探索并构建 AI Native 数据计算引擎：原子化智能算子、DAG 编排与混合查询优化，让传统数据处理、AI 推理和复杂智能任务编排能够在统一引擎内高效完成。 你将参与定义 AI Native 数据计算的新范式：抽象原子化智能算子，构建复杂 AI 任务的 DAG 编排能力，打通智能算子与传统关系算子、向量检索算子、多模检索算子的混合执行，并围绕成本、性能、质量和稳定性设计新型优化机制。 岗位职责 1. 参与 AI Native 数据计算引擎核心能力建设，探索传统关系计算、语义推理、多模态检索和 Agentic 执行的一体化架构。 2. 设计原子化智能算子体系，支持语义过滤、知识抽取、语义 Join、智能聚合、结果校验、置信度判断等 AI Native 数据处理能力。 3. 构建智能算子的工程化 harness，支持多模型适配、prompt 管理、工具调用、评测回归、失败恢复和效果持续优化。 4. 研究复杂 AI 任务的 DAG 编排机制，实现任务拆解、依赖分析、并行执行、中间结果复用、异常恢复和可观测执行。 5. 探索智能算子与 Scan、Filter、Join、Aggregate、Index Scan、Vector Search 等传统数据算子的混合执行与联合优化。 6. 建设面向 Agentic DAG 和混合查询的成本模型与优化器，在延迟、吞吐、资源成本、模型质量、置信度和业务 SLA 之间取得最优平衡。\n1. 计算机、软件工程、人工智能、数据科学等相关专业优先。 2. 具备扎实的计算机基础，熟悉数据结构、算法、操作系统、分布式系统、数据库系统等基础知识。 3. 对数据库、查询优化、分布式计算、大数据系统、湖仓一体、向量检索、机器学习系统或大模型应用有浓厚兴趣。 4. 具备优秀的工程能力，熟悉 C++、Java、Go、Python 等至少一种编程语言。 5. 对 AI Native 数据基础设施、Agent、RAG、多模态检索、模型推理优化等方向有探索热情。 6. 具备较强的问题抽象能力、系统性思考能力和自驱力，愿意挑战开放性、前沿性技术问题。 加分项 1. 有数据库/大数据系统内核、查询优化器、分布式计算引擎、向量数据库、检索系统相关研究或实践经验。 2. 有大模型应用、Agent 框架、RAG 系统、模型评测、prompt engineering、多模型路由相关项目经验。 3. 在数据库、分布式系统、机器学习系统、AI Infra 等方向有高质量论文、竞赛、开源项目或实习经历。 4. 对系统性能优化、成本优化、可观测性、可靠性工程有深入兴趣。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 计算机、软件工程、人工智能、数据科学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907720109",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
       "id": "alibaba-3bdeb275163a",
       "company": "阿里巴巴",
       "title": "自主智能体自进化技术-阿里星/A Star",
@@ -10255,6 +10165,96 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907820104",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-f690a14106e0",
+      "company": "阿里巴巴",
+      "title": "AI Native数据计算引擎：原子化智能算子、DAG 编排与混合查询优化-阿里星/A Star",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "加入阿里云 Hologres 团队，参与构建面向 AI Native 时代的新一代数据计算引擎。Hologres 是阿里云一站式实时数仓与湖仓一体数据引擎，支撑高并发实时写入、PB 级分析、向量检索、多模检索和在线服务等核心场景。 随着大模型、智能体和企业级 AI 应用快速发展，数据计算的边界正在从传统结构化分析，扩展到语义理解、知识抽取、语义关联、多模态检索、RAG 构建、智能 BI 和 Agentic 任务执行。我们希望探索并构建 AI Native 数据计算引擎：原子化智能算子、DAG 编排与混合查询优化，让传统数据处理、AI 推理和复杂智能任务编排能够在统一引擎内高效完成。 你将参与定义 AI Native 数据计算的新范式：抽象原子化智能算子，构建复杂 AI 任务的 DAG 编排能力，打通智能算子与传统关系算子、向量检索算子、多模检索算子的混合执行，并围绕成本、性能、质量和稳定性设计新型优化机制。 岗位职责 1. 参与 AI Native 数据计算引擎核心能力建设，探索传统关系计算、语义推理、多模态检索和 Agentic 执行的一体化架构。 2. 设计原子化智能算子体系，支持语义过滤、知识抽取、语义 Join、智能聚合、结果校验、置信度判断等 AI Native 数据处理能力。 3. 构建智能算子的工程化 harness，支持多模型适配、prompt 管理、工具调用、评测回归、失败恢复和效果持续优化。 4. 研究复杂 AI 任务的 DAG 编排机制，实现任务拆解、依赖分析、并行执行、中间结果复用、异常恢复和可观测执行。 5. 探索智能算子与 Scan、Filter、Join、Aggregate、Index Scan、Vector Search 等传统数据算子的混合执行与联合优化。 6. 建设面向 Agentic DAG 和混合查询的成本模型与优化器，在延迟、吞吐、资源成本、模型质量、置信度和业务 SLA 之间取得最优平衡。",
+      "jobRequirements": "1. 计算机、软件工程、人工智能、数据科学等相关专业优先。 2. 具备扎实的计算机基础，熟悉数据结构、算法、操作系统、分布式系统、数据库系统等基础知识。 3. 对数据库、查询优化、分布式计算、大数据系统、湖仓一体、向量检索、机器学习系统或大模型应用有浓厚兴趣。 4. 具备优秀的工程能力，熟悉 C++、Java、Go、Python 等至少一种编程语言。 5. 对 AI Native 数据基础设施、Agent、RAG、多模态检索、模型推理优化等方向有探索热情。 6. 具备较强的问题抽象能力、系统性思考能力和自驱力，愿意挑战开放性、前沿性技术问题。 加分项 1. 有数据库/大数据系统内核、查询优化器、分布式计算引擎、向量数据库、检索系统相关研究或实践经验。 2. 有大模型应用、Agent 框架、RAG 系统、模型评测、prompt engineering、多模型路由相关项目经验。 3. 在数据库、分布式系统、机器学习系统、AI Infra 等方向有高质量论文、竞赛、开源项目或实习经历。 4. 对系统性能优化、成本优化、可观测性、可靠性工程有深入兴趣。",
+      "JD": "加入阿里云 Hologres 团队，参与构建面向 AI Native 时代的新一代数据计算引擎。Hologres 是阿里云一站式实时数仓与湖仓一体数据引擎，支撑高并发实时写入、PB 级分析、向量检索、多模检索和在线服务等核心场景。 随着大模型、智能体和企业级 AI 应用快速发展，数据计算的边界正在从传统结构化分析，扩展到语义理解、知识抽取、语义关联、多模态检索、RAG 构建、智能 BI 和 Agentic 任务执行。我们希望探索并构建 AI Native 数据计算引擎：原子化智能算子、DAG 编排与混合查询优化，让传统数据处理、AI 推理和复杂智能任务编排能够在统一引擎内高效完成。 你将参与定义 AI Native 数据计算的新范式：抽象原子化智能算子，构建复杂 AI 任务的 DAG 编排能力，打通智能算子与传统关系算子、向量检索算子、多模检索算子的混合执行，并围绕成本、性能、质量和稳定性设计新型优化机制。 岗位职责 1. 参与 AI Native 数据计算引擎核心能力建设，探索传统关系计算、语义推理、多模态检索和 Agentic 执行的一体化架构。 2. 设计原子化智能算子体系，支持语义过滤、知识抽取、语义 Join、智能聚合、结果校验、置信度判断等 AI Native 数据处理能力。 3. 构建智能算子的工程化 harness，支持多模型适配、prompt 管理、工具调用、评测回归、失败恢复和效果持续优化。 4. 研究复杂 AI 任务的 DAG 编排机制，实现任务拆解、依赖分析、并行执行、中间结果复用、异常恢复和可观测执行。 5. 探索智能算子与 Scan、Filter、Join、Aggregate、Index Scan、Vector Search 等传统数据算子的混合执行与联合优化。 6. 建设面向 Agentic DAG 和混合查询的成本模型与优化器，在延迟、吞吐、资源成本、模型质量、置信度和业务 SLA 之间取得最优平衡。\n1. 计算机、软件工程、人工智能、数据科学等相关专业优先。 2. 具备扎实的计算机基础，熟悉数据结构、算法、操作系统、分布式系统、数据库系统等基础知识。 3. 对数据库、查询优化、分布式计算、大数据系统、湖仓一体、向量检索、机器学习系统或大模型应用有浓厚兴趣。 4. 具备优秀的工程能力，熟悉 C++、Java、Go、Python 等至少一种编程语言。 5. 对 AI Native 数据基础设施、Agent、RAG、多模态检索、模型推理优化等方向有探索热情。 6. 具备较强的问题抽象能力、系统性思考能力和自驱力，愿意挑战开放性、前沿性技术问题。 加分项 1. 有数据库/大数据系统内核、查询优化器、分布式计算引擎、向量数据库、检索系统相关研究或实践经验。 2. 有大模型应用、Agent 框架、RAG 系统、模型评测、prompt engineering、多模型路由相关项目经验。 3. 在数据库、分布式系统、机器学习系统、AI Infra 等方向有高质量论文、竞赛、开源项目或实习经历。 4. 对系统性能优化、成本优化、可观测性、可靠性工程有深入兴趣。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 计算机、软件工程、人工智能、数据科学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907720109",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
