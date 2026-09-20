@@ -1,7 +1,7 @@
 {
   "company": "海信",
   "count": 117,
-  "updatedAt": "2026-09-20T12:49:58.071Z",
+  "updatedAt": "2026-09-20T13:43:19.915Z",
   "jobs": [
     {
       "id": "beisen-a185f48e311b",
@@ -6978,6 +6978,109 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
+      "id": "beisen-c8e1b5edbfc5",
+      "company": "海信",
+      "title": "洗烘系统工程师（系统性能方向）(J44800)",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "专业：热能工程、暖通空调、制冷与低温工程等相关专业；学历：硕士及以上",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业：热能工程、暖通空调、制冷与低温工程等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、负责滚筒洗干一体机、干衣机烘干系统的热力学与流体力学理论分析、架构设计及性能优化，确保系统能效、噪声与可靠性指标达成； 2、开展烘干控制算法的设计、开发与仿真验证，包括但不限于温湿度控制、时序逻辑、多模式策略等，提升用户体验与能效表现； 3、运用CFD工具（如Star CCM+、Fluent）对烘干风道、换热器及腔体流场进行仿真分析与优化，指导系统设计与问题改进； 4、参与热泵系统关键部件（如压缩机、换热器、节流装置）的选型与匹配计算，推动系统热力循环与能效提升； 5、构建系统性能测试方案，分析实验数据，建立数学模型并迭代控制策略，支撑产品性能验证与故障诊断； 6、协同电控、结构、产品等团队完成系统集成与调试，推动烘干技术在新产品中的落地与应用。",
+      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2027年或2026年毕业）； 2、学历：硕士及以上； 3、专业：热能工程、暖通空调、制冷与低温工程等相关专业； 4、英语水平：大学英语四级及以上； 5、技能要求： 熟练掌握热力学、传热学、流体力学、统计学等相关理论知识； 掌握CFD仿真分析软件的使用方法，如Star CCM+、Fluent等； 具备热泵系统热力学计算、换热器设计及能效优化能力，具备MATLAB、Amesim、Dymola等软件使用经验者优先。",
+      "JD": "1、负责滚筒洗干一体机、干衣机烘干系统的热力学与流体力学理论分析、架构设计及性能优化，确保系统能效、噪声与可靠性指标达成； 2、开展烘干控制算法的设计、开发与仿真验证，包括但不限于温湿度控制、时序逻辑、多模式策略等，提升用户体验与能效表现； 3、运用CFD工具（如Star CCM+、Fluent）对烘干风道、换热器及腔体流场进行仿真分析与优化，指导系统设计与问题改进； 4、参与热泵系统关键部件（如压缩机、换热器、节流装置）的选型与匹配计算，推动系统热力循环与能效提升； 5、构建系统性能测试方案，分析实验数据，建立数学模型并迭代控制策略，支撑产品性能验证与故障诊断； 6、协同电控、结构、产品等团队完成系统集成与调试，推动烘干技术在新产品中的落地与应用。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2027年或2026年毕业）； 2、学历：硕士及以上； 3、专业：热能工程、暖通空调、制冷与低温工程等相关专业； 4、英语水平：大学英语四级及以上； 5、技能要求： 熟练掌握热力学、传热学、流体力学、统计学等相关理论知识； 掌握CFD仿真分析软件的使用方法，如Star CCM+、Fluent等； 具备热泵系统热力学计算、换热器设计及能效优化能力，具备MATLAB、Amesim、Dymola等软件使用经验者优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "专业：热能工程、暖通空调、制冷与低温工程等相关专业",
+          "学历：硕士及以上"
+        ],
+        "eligibilityClauses": [
+          "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2027年或2026年毕业）"
+        ],
+        "technicalDuties": [
+          "结构/原理",
+          "模型/算法",
+          "开发实现",
+          "技术评估",
+          "问题根因"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=ab74f9ff-c9a4-4259-b106-5432b7626d5d",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
       "id": "beisen-31d13acdb405",
       "company": "海信",
       "title": "大客户经理(J44652)",
@@ -7156,109 +7259,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=95d65a1f-88aa-47e0-bacb-18ca40c03b76",
-      "publishedAt": "2026-09-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-c8e1b5edbfc5",
-      "company": "海信",
-      "title": "洗烘系统工程师（系统性能方向）(J44800)",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "专业：热能工程、暖通空调、制冷与低温工程等相关专业；学历：硕士及以上",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业：热能工程、暖通空调、制冷与低温工程等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市",
-      "jobDescription": "1、负责滚筒洗干一体机、干衣机烘干系统的热力学与流体力学理论分析、架构设计及性能优化，确保系统能效、噪声与可靠性指标达成； 2、开展烘干控制算法的设计、开发与仿真验证，包括但不限于温湿度控制、时序逻辑、多模式策略等，提升用户体验与能效表现； 3、运用CFD工具（如Star CCM+、Fluent）对烘干风道、换热器及腔体流场进行仿真分析与优化，指导系统设计与问题改进； 4、参与热泵系统关键部件（如压缩机、换热器、节流装置）的选型与匹配计算，推动系统热力循环与能效提升； 5、构建系统性能测试方案，分析实验数据，建立数学模型并迭代控制策略，支撑产品性能验证与故障诊断； 6、协同电控、结构、产品等团队完成系统集成与调试，推动烘干技术在新产品中的落地与应用。",
-      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2027年或2026年毕业）； 2、学历：硕士及以上； 3、专业：热能工程、暖通空调、制冷与低温工程等相关专业； 4、英语水平：大学英语四级及以上； 5、技能要求： 熟练掌握热力学、传热学、流体力学、统计学等相关理论知识； 掌握CFD仿真分析软件的使用方法，如Star CCM+、Fluent等； 具备热泵系统热力学计算、换热器设计及能效优化能力，具备MATLAB、Amesim、Dymola等软件使用经验者优先。",
-      "JD": "1、负责滚筒洗干一体机、干衣机烘干系统的热力学与流体力学理论分析、架构设计及性能优化，确保系统能效、噪声与可靠性指标达成； 2、开展烘干控制算法的设计、开发与仿真验证，包括但不限于温湿度控制、时序逻辑、多模式策略等，提升用户体验与能效表现； 3、运用CFD工具（如Star CCM+、Fluent）对烘干风道、换热器及腔体流场进行仿真分析与优化，指导系统设计与问题改进； 4、参与热泵系统关键部件（如压缩机、换热器、节流装置）的选型与匹配计算，推动系统热力循环与能效提升； 5、构建系统性能测试方案，分析实验数据，建立数学模型并迭代控制策略，支撑产品性能验证与故障诊断； 6、协同电控、结构、产品等团队完成系统集成与调试，推动烘干技术在新产品中的落地与应用。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2027年或2026年毕业）； 2、学历：硕士及以上； 3、专业：热能工程、暖通空调、制冷与低温工程等相关专业； 4、英语水平：大学英语四级及以上； 5、技能要求： 熟练掌握热力学、传热学、流体力学、统计学等相关理论知识； 掌握CFD仿真分析软件的使用方法，如Star CCM+、Fluent等； 具备热泵系统热力学计算、换热器设计及能效优化能力，具备MATLAB、Amesim、Dymola等软件使用经验者优先。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "专业：热能工程、暖通空调、制冷与低温工程等相关专业",
-          "学历：硕士及以上"
-        ],
-        "eligibilityClauses": [
-          "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2027年或2026年毕业）"
-        ],
-        "technicalDuties": [
-          "结构/原理",
-          "模型/算法",
-          "开发实现",
-          "技术评估",
-          "问题根因"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=ab74f9ff-c9a4-4259-b106-5432b7626d5d",
       "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T13:03:10.678Z",
+  "updatedAt": "2026-09-20T13:43:17.208Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -967,8 +967,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T12:49:53.708Z",
-      "nextCheckAfter": "2026-09-21T12:49:53.712Z"
+      "lastCheckedAt": "2026-09-20T13:43:17.208Z",
+      "nextCheckAfter": "2026-09-21T13:43:17.216Z"
     },
     "广州地铁": {
       "name": "广州地铁集团有限公司",
@@ -1771,7 +1771,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095333599614771202",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T12:49:53.708Z",
+      "lastCheckedAt": "2026-09-20T13:43:17.208Z",
       "nextCheckAfter": ""
     },
     "北方华创": {
@@ -2412,8 +2412,38 @@
         "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119087.html",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T05:16:55.164Z",
+      "lastCheckedAt": "2026-09-20T13:43:17.208Z",
       "nextCheckAfter": ""
+    },
+    "移动供应链管理中心2027": {
+      "name": "中国移动供应链管理中心2027",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://job.10086.cn/touch/personal/campus/campus_job_list.html?cId=103",
+      "reason": "已发现公司官方招聘入口，但当前站点 job.10086.cn 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119104.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-20T13:43:17.208Z",
+      "nextCheckAfter": "2026-09-21T13:43:17.213Z"
+    },
+    "泸州老窖": {
+      "name": "泸州老窖股份有限公司",
+      "status": "高校自动发现",
+      "state": "needs_adapter",
+      "provider": "",
+      "officialUrl": "https://job.lzlj.com/campus",
+      "reason": "已发现公司官方招聘入口，但当前站点 job.lzlj.com 尚无自动抓取适配器",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119025.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-20T13:43:17.208Z",
+      "nextCheckAfter": "2026-09-21T13:43:17.215Z"
     }
   },
   "lastRun": {
@@ -2424,10 +2454,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 2,
+    "candidates": 5,
     "sourcesAdded": 0,
     "sourcesRepaired": 0,
-    "queued": 1,
-    "updatedAt": "2026-09-20T12:49:53.708Z"
+    "queued": 3,
+    "updatedAt": "2026-09-20T13:43:17.208Z"
   }
 }

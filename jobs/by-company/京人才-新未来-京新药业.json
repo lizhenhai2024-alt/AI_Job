@@ -1,8 +1,88 @@
 {
   "company": "京人才·新未来——京新药业",
-  "count": 9,
-  "updatedAt": "2026-09-20T12:49:58.071Z",
+  "count": 10,
+  "updatedAt": "2026-09-20T13:43:19.915Z",
   "jobs": [
+    {
+      "id": "university-bc2f36cd2d2c3d",
+      "company": "京人才·新未来——京新药业",
+      "title": "京人才·新未来——京新药业2027届校园招聘简章-浙江京新药业股份有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "南开大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR",
+        "市场"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "南开大学就业信息网",
+      "officialURL": "https://career.nankai.edu.cn/correcruit/content/id/119087.html",
+      "publishedAt": "2026-09-19",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": ""
+    },
     {
       "id": "beisen-b1f5cd025d73",
       "company": "京人才·新未来——京新药业",
