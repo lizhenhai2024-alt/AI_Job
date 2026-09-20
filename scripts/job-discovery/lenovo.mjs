@@ -12,6 +12,9 @@ import { classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, CITY_N
 //   * 适配器内再剔除纯销售岗（联想“销售-to B/C 方向”为一线销售，与 meituan 适配器口径一致）。
 //   * 实习/非2027届由 shouldKeep 统一拦截。
 const BASE = 'https://talent.lenovo.com.cn';
+// 自研 SPA 的开放网关：/jobBase/list 返回应届生岗位全量 JSON（含完整 JD），/sysDict/all 返回无 token 字典
+// （city_portal: 城市 id→名称）。该通道纯 GET JSON，无需 Playwright/详情页，Runner 直连即可。
+const GATEWAY_BASE = 'https://talent.lenovo.com.cn/gateway';
 // core.mjs 的 CITY_NAMES 未覆盖无锡/南昌/郑州/哈尔滨/济南/海口等城市，联想岗位分布广，这里扩展。
 const CAMPUS_CITIES = [...CITY_NAMES, '无锡', '南昌', '郑州', '哈尔滨', '济南', '海口', '青岛', '大连', '沈阳', '福州', '宁波', '合肥', '石家庄', '太原', '贵阳', '昆明', '长春', '南宁', '兰州', '徐州', '常州', '南通', '烟台', '潍坊'];
 const CAMPUS_CITIES_SET = new Set(CAMPUS_CITIES);
@@ -19,6 +22,12 @@ const CAMPUS_CATEGORIES = [
   '营销类', '销售类', '战略类', '商务商业类', '人力资源类',
   '产品策划类', '产品运营类', '项目与方案类', '供应链管理类', '供应链工程技术类'
 ];
+// API 通道的在范围分类白名单（联想自建 typeName）：剔除软件开发类/硬件开发类/技术研究类/设计类/
+// 数据类/技术支持类/测试类/安全技术类/AI开发类/嵌入式开发类（技术研发）、法务类、财务类、销售类。
+const IN_SCOPE_TYPE_NAMES = new Set([
+  '战略类', '产品策划类', '供应链管理类', '项目与方案类', '产品运营类',
+  '营销类', '人力资源类', '商务商业类', '供应链工程技术类'
+]);
 
 const EXPERIENCE_WORDS = ['海外', '运营', '内容', '项目', '市场', '电商', '用户', '数据', '跨文化', '营销', '品牌', '供应链', '客户', '产品', '人力资源', '招聘', '商务'];
 const LANGUAGE_RULES = [
@@ -349,53 +358,140 @@ function logStructureSample(source, html, label) {
   console.warn(`[lenovo:${source.company}] ${label}: hrefs=${hrefCount} recruitLines=${recruitCount} sample:\n${sample}`);
 }
 
+// ===== API 通道（开放网关，纯 GET JSON，Runner 直连可达）=====
+const API_JSON_HEADERS = {
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  accept: 'application/json, text/plain, */*',
+  'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+  referer: `${BASE}/position`
+};
+
+async function fetchJson(fetcher, url, label) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 20000);
+  try {
+    const response = await fetcher(url, { method: 'GET', headers: API_JSON_HEADERS, signal: controller.signal });
+    if (!response.ok) throw new Error(`HTTP ${response.status} ${label}`);
+    const raw = await response.text();
+    if (!raw || raw.length < 20) throw new Error(`empty/short response (${raw?.length || 0}B) ${label}`);
+    let parsed;
+    try { parsed = JSON.parse(raw); } catch { throw new Error(`non-JSON response ${label}: ${raw.slice(0, 120)}`); }
+    if (parsed.code !== 0) throw new Error(`API code=${parsed.code} ${parsed.message || ''} ${label}`);
+    return parsed.result;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+// 应届生岗位全量（2027届）：/jobBase/list?projectType=1&pageSize=100 → result.rows（含完整 JD）。
+export async function fetchLenovoApiJobs(fetcher) {
+  const url = `${GATEWAY_BASE}/jobBase/list?projectType=1&pageSize=100`;
+  const result = await fetchJson(fetcher, url, 'jobBase/list');
+  const rows = Array.isArray(result?.rows) ? result.rows : [];
+  return { rows, total: Number(result?.total) || rows.length };
+}
+
+// 无 token 全量字典：city_portal 提供 城市 id→名称（北京=1, 天津=6, 深圳=5, 上海=2, 武汉=8, 成都=7 …）。
+export async function fetchLenovoCityDict(fetcher) {
+  const result = await fetchJson(fetcher, `${GATEWAY_BASE}/sysDict/all`, 'sysDict/all');
+  const map = {};
+  if (Array.isArray(result)) {
+    for (const group of result) {
+      if (group?.dictCode === 'city_portal' && Array.isArray(group.children)) {
+        for (const c of group.children) if (c?.dictValue != null) map[String(c.dictValue)] = c.dictName;
+      }
+    }
+  }
+  return map;
+}
+
+// API row → 与 HTML 通道同构的 row（parseLenovoJob 可直接复用）。
+function normalizeApiRow(raw, cityMap = {}) {
+  const id = String(raw?.id || '');
+  const title = cleanTitle(String(raw?.jobName || '').trim());
+  const category = String(raw?.typeName || '').trim();
+  const locations = String(raw?.workPlace || '').split(',').map((x) => cityMap[x.trim()] || '').filter(Boolean);
+  return {
+    id,
+    title,
+    category,
+    department: String(raw?.firstDeptId || ''),
+    locations,
+    detailUrl: `${BASE}/position/detail?id=${id}`,
+    apiDuty: stripTags(raw?.jobDuties || ''),
+    apiRequire: stripTags(raw?.jobRequirement || '')
+  };
+}
+
 export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, chromium = null, maxPages, maxJobs, now = new Date() } = {}) {
   const baseUrl = String(source.baseUrl || BASE).replace(/\/$/, '');
   const pageLimit = Math.max(1, Math.min(Number(maxPages || source.maxPages || 20), 40));
   const jobLimit = Math.max(1, Math.min(Number(maxJobs || source.maxJobs || 200), 400));
 
-  let pages = 0, listed = 0, detailed = 0, errors = 0, detailErrors = 0, snapshotComplete = false;
+  let pages = 0, listed = 0, detailed = 0, errors = 0, detailErrors = 0, snapshotComplete = false, apiPath = 'none';
   const rowsByKey = new Map();
   const seen = new Set();
 
+  // 1) API 主通道：/jobBase/list 返回应届生全量 JSON（含完整 JD），城市 id 由 /sysDict/all 字典解析。
   try {
-    const verifyList = (html) => parseLenovoListHtml(source, html).length > 0;
-    // 1) 未筛选总览页：拿“共N个岗位”总数 + 首屏卡片（兜底捕捉任何未枚举到的在范围岗位）。
-    const overview = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1`, 'overview', chromium, verifyList);
-    pages++;
-    for (const row of parseLenovoListHtml(source, overview)) {
-      if (seen.has(row.id)) continue;
-      seen.add(row.id); listed++;
-      rowsByKey.set(row.id, row);
-    }
-
-    // 2) 逐类别枚举（每个类别 ≤10 岗，SSR 全量渲染，覆盖完整在范围岗位）。
-    for (const category of CAMPUS_CATEGORIES) {
-      if (pages >= pageLimit || seen.size >= jobLimit) break;
-      let html;
-      try {
-        html = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1&jobTypeName=${encodeURIComponent(category)}`, `category:${category}`, chromium, verifyList);
-        pages++;
-      } catch (error) {
-        errors++;
-        continue;
+    const api = await fetchLenovoApiJobs(fetcher);
+    if (api.rows.length) {
+      let cityMap = {};
+      try { cityMap = await fetchLenovoCityDict(fetcher); } catch (e) { console.warn(`[lenovo:${source.company}] city dict failed: ${e?.message || e}`); }
+      for (const raw of api.rows) {
+        const row = normalizeApiRow(raw, cityMap);
+        if (!row.id || seen.has(row.id)) continue;
+        seen.add(row.id);
+        rowsByKey.set(row.id, row);
+        listed++;
       }
-      const rows = parseLenovoListHtml(source, html);
-      if (!rows.length) logStructureSample(source, html, `category:${category} no-job-card`);
-      for (const row of rows) {
+      pages = 1;
+      apiPath = 'api';
+      snapshotComplete = true;
+      console.log(`[lenovo:${source.company}] API listed=${listed} total=${api.total}`);
+    }
+  } catch (error) {
+    errors++;
+    console.warn(`[lenovo:${source.company}] jobBase/list failed: ${error?.message || error}; falling back to SSR HTML`);
+  }
+
+  // 2) HTML SSR 回退（API 不可达时）：未筛选总览页 + 逐类别枚举。
+  if (!seen.size) {
+    try {
+      const verifyList = (html) => parseLenovoListHtml(source, html).length > 0;
+      const overview = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1`, 'overview', chromium, verifyList);
+      pages++;
+      for (const row of parseLenovoListHtml(source, overview)) {
         if (seen.has(row.id)) continue;
         seen.add(row.id); listed++;
         rowsByKey.set(row.id, row);
       }
+      for (const category of CAMPUS_CATEGORIES) {
+        if (pages >= pageLimit || seen.size >= jobLimit) break;
+        let html;
+        try {
+          html = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1&jobTypeName=${encodeURIComponent(category)}`, `category:${category}`, chromium, verifyList);
+          pages++;
+        } catch (error) {
+          errors++;
+          continue;
+        }
+        for (const row of parseLenovoListHtml(source, html)) {
+          if (seen.has(row.id)) continue;
+          seen.add(row.id); listed++;
+          rowsByKey.set(row.id, row);
+        }
+      }
+      snapshotComplete = true;
+      apiPath = 'ssr-html';
+    } catch (error) {
+      errors++;
+      snapshotComplete = false;
     }
-    snapshotComplete = true;
-  } catch (error) {
-    errors++;
-    snapshotComplete = false;
   }
 
   if (!seen.size) {
-    const message = `no job cards parsed (errors=${errors}); site may be unreachable from runner or SSR structure changed`;
+    const message = `no job cards parsed via API or SSR (errors=${errors}); site may be unreachable from runner or contract changed`;
     console.warn(`[lenovo:${source.company}] ${message}`);
     return emptyResult(errors, message);
   }
@@ -405,7 +501,14 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
   for (const row of rawRows) {
     if (jobs.length >= jobLimit) break;
     let detail = {};
-    if (source.enrichDetails !== false) {
+    // API 通道：完整 JD 已在列表响应内，无需再请求详情页。
+    if (row.apiDuty || row.apiRequire) {
+      detail = {
+        duty: row.apiDuty,
+        require: row.apiRequire,
+        salary: extractSalary(`${row.apiDuty} ${row.apiRequire}`) || ''
+      };
+    } else if (source.enrichDetails !== false) {
       try {
         const detailHtml = await fetchTextWithFallback(fetcher, row.detailUrl, `detail:${row.id}`, chromium);
         detail = parseLenovoDetailHtml(detailHtml);
@@ -417,7 +520,8 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
     try {
       const job = parseLenovoJob(source, row, detail, now);
       if (!job.title) continue;
-      // 纯销售（联想“销售-to B/C 方向”）在适配器内直接剔除；其余范围判断交给生产池。
+      // API 通道的分类白名单过滤（技术/设计/财务/法务/销售类直接跳过）；HTML 通道由 category 白名单 + 纯销售标签兜底。
+      if (apiPath === 'api' && !IN_SCOPE_TYPE_NAMES.has(row.category)) continue;
       if (job.riskTags?.includes('纯销售')) continue;
       if (shouldKeep(job, profile, now)) jobs.push(job);
     } catch { errors++; }
@@ -426,6 +530,6 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
   const kept = dedupeJobs(jobs);
   return {
     jobs: kept,
-    stats: { pages, listed, detailed, keptJobs: kept.length, errors, detailErrors, snapshotComplete }
+    stats: { pages, listed, detailed, keptJobs: kept.length, errors, detailErrors, snapshotComplete, apiPath }
   };
 }
