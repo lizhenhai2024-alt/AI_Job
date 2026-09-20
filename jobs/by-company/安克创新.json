@@ -1,7 +1,7 @@
 {
   "company": "安克创新",
-  "count": 50,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 55,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "anker-77955f08f358",
@@ -1345,6 +1345,101 @@
       "annualSalary": "未披露",
       "source": "安克创新官方2027校招官网",
       "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7673056272720562442",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
+      "id": "anker-c1d3c4dbe2d2",
+      "company": "安克创新",
+      "title": "智能制造工程师-深圳",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "你将参与： 1. 轮岗参与新产品导入、制程优化、产线规划、生产管理等模块工作，系统性建立对制造全流程的认知。 2. 学习并运用工业工程、工艺分析、精益等基本方法论，识别生产过程中的效率瓶颈与质量风险，提出改善建议。 3. 配合团队进行数据采集与分析，借助 AI 工具辅助发现问题、生成改善方案并撰写工作报告。 4. 参与跨部门沟通协作（研发、质量、供应链、设备），推动制造相关任务的执行与落地。 5. 学习并输出标准工艺文件、作业指导书，参与制造知识的沉淀与标准化建设。 6. 在导师指导下，逐步承担独立模块的推进职责，积累项目管理与团队协作的实战经验。",
+      "jobRequirements": "1. 2027届毕业生，本科及以上学历，专业不限。 2. 具备良好的逻辑分析能力和数据敏感度，能从数据和事实出发思考问题。 3. 学习意愿和学习能力强，愿意深入制造一线，对制造业有热情和好奇心。 4. 沟通表达清晰，具备团队协作意识，能适应跨部门、跨职能的工作场景。 5. 对 AI 工具（如 ChatGPT/Claude、Cursor 等）有兴趣并愿意在工作中探索使用；有数据分析、制造业实习或项目经验者优先。 6. 抗压能力强，具备较强的执行力和主动性，能适应快速迭代的工作节奏。",
+      "JD": "你将参与： 1. 轮岗参与新产品导入、制程优化、产线规划、生产管理等模块工作，系统性建立对制造全流程的认知。 2. 学习并运用工业工程、工艺分析、精益等基本方法论，识别生产过程中的效率瓶颈与质量风险，提出改善建议。 3. 配合团队进行数据采集与分析，借助 AI 工具辅助发现问题、生成改善方案并撰写工作报告。 4. 参与跨部门沟通协作（研发、质量、供应链、设备），推动制造相关任务的执行与落地。 5. 学习并输出标准工艺文件、作业指导书，参与制造知识的沉淀与标准化建设。 6. 在导师指导下，逐步承担独立模块的推进职责，积累项目管理与团队协作的实战经验。\n1. 2027届毕业生，本科及以上学历，专业不限。 2. 具备良好的逻辑分析能力和数据敏感度，能从数据和事实出发思考问题。 3. 学习意愿和学习能力强，愿意深入制造一线，对制造业有热情和好奇心。 4. 沟通表达清晰，具备团队协作意识，能适应跨部门、跨职能的工作场景。 5. 对 AI 工具（如 ChatGPT/Claude、Cursor 等）有兴趣并愿意在工作中探索使用；有数据分析、制造业实习或项目经验者优先。 6. 抗压能力强，具备较强的执行力和主动性，能适应快速迭代的工作节奏。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业不限"
+        ],
+        "eligibilityClauses": [
+          "2027届毕业生，本科及以上学历，专业不限。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7672587678554622246",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -3083,6 +3178,100 @@
       "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
     },
     {
+      "id": "anker-a45a69dd49d2",
+      "company": "安克创新",
+      "title": "硬件产品经理-深圳",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027届毕业生，本科及以上学历，理工科等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "你将参与： 1. 硬件产品经理是安克创新产品带头人，以打造极致创新产品为目标，洞察用户、分析市场、挖掘技术、打磨产品体验，为产品最终的商业成功负责。“极致产品创造者训练生”是安克重点培养的硬件产品经理接班人，拥有优质的培养体系以及项目资源。以终为始规划职业发展能力，从产品的辅助工作开始，逐步完成产品经理能力建设，并最终成就产品； 2. 参与并逐步掌握洞察用户，发现用户核心诉求，并创造更多用户价值； 3. 与研发共同探索评估技术实现方案，完成产品定义与设计概要方案； 4. 市场与竞争分析，结合用户需求、供应链、技术实现可行性、商业化团队销量预估，计算投入产出，与产品经理主管完成产品立项； 5. 跟踪产品开发过程中的用户体验问题，详细定义体验维度与程度，并结合技术进行体验优化； 6. 参与上市物料、认证、包装等定义，并保证内容准确无误，完成对商业化团队的产品培训； 7. 收集产品上市后的用户反馈，分析问题并持续优化产品功能和用户体验。",
+      "jobRequirements": "1. 2027届毕业生，本科及以上学历，理工科等相关专业优先； 2. 对消费级电子产品感兴趣，会研究；良好的市场调研和数据分析能力； 3. 优秀的沟通和协调能力，能够与商业化、研发团队沟通合作，并追求最佳结果； 4. 具备创新思维和解决问题的能力，能够在复杂环境中做出明智决策； 5. 对电子产品感兴趣，持续关注科技前沿产品和技术；有消费类硬件电子产品相关实习或项目经验者优先。",
+      "JD": "你将参与： 1. 硬件产品经理是安克创新产品带头人，以打造极致创新产品为目标，洞察用户、分析市场、挖掘技术、打磨产品体验，为产品最终的商业成功负责。“极致产品创造者训练生”是安克重点培养的硬件产品经理接班人，拥有优质的培养体系以及项目资源。以终为始规划职业发展能力，从产品的辅助工作开始，逐步完成产品经理能力建设，并最终成就产品； 2. 参与并逐步掌握洞察用户，发现用户核心诉求，并创造更多用户价值； 3. 与研发共同探索评估技术实现方案，完成产品定义与设计概要方案； 4. 市场与竞争分析，结合用户需求、供应链、技术实现可行性、商业化团队销量预估，计算投入产出，与产品经理主管完成产品立项； 5. 跟踪产品开发过程中的用户体验问题，详细定义体验维度与程度，并结合技术进行体验优化； 6. 参与上市物料、认证、包装等定义，并保证内容准确无误，完成对商业化团队的产品培训； 7. 收集产品上市后的用户反馈，分析问题并持续优化产品功能和用户体验。\n1. 2027届毕业生，本科及以上学历，理工科等相关专业优先； 2. 对消费级电子产品感兴趣，会研究；良好的市场调研和数据分析能力； 3. 优秀的沟通和协调能力，能够与商业化、研发团队沟通合作，并追求最佳结果； 4. 具备创新思维和解决问题的能力，能够在复杂环境中做出明智决策； 5. 对电子产品感兴趣，持续关注科技前沿产品和技术；有消费类硬件电子产品相关实习或项目经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027届毕业生，本科及以上学历，理工科等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7671877449756444954",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
       "id": "anker-0945dd0b85db",
       "company": "安克创新",
       "title": "战略管理专员-深圳",
@@ -3355,6 +3544,192 @@
       "annualSalary": "未披露",
       "source": "安克创新官方2027校招官网",
       "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7671174921448048905",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
+      "id": "anker-9c66f508154b",
+      "company": "安克创新",
+      "title": "AI软件产品经理-深圳",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，有机器学习、数据分析等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "有机器学习、数据分析等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "你将参与： 1. 需求调研：收集并分析用户需求，了解用户场景与痛点； 2. 功能规划与设计：针对用户痛点与业务方向形成 AI 功能产品规划并完成功能设计，重点包括 AI 功能的场景定义、测试集设计、AI 策略设计、交互设计、用户教育设计等； 3. 功能验收：定义 AI 功能的评价体系并进行验收，重点包括功能上线前的算法效果与功能效果，上线后的用户主观体验； 4. 功能迭代：形成 AI 功能的数据-算法-功能-体验闭环，包括收集与定位用户反馈问题并进行 badcase 分析，收集数据与设计策略参与研发优化 AI 算法，完善 AI 功能的体验。",
+      "jobRequirements": "1. 2027届毕业生，本科及以上学历，有机器学习、数据分析等相关专业； 2. 了解智能硬件（如耳机、音响、投影仪、3D打印机、扫地机、监控摄像头等），有 AI 功能实习经验优先； 3. 具备基本的产品技能（包括需求洞察、产品设计、体验优化等），有较强的场景创新能力优先。",
+      "JD": "你将参与： 1. 需求调研：收集并分析用户需求，了解用户场景与痛点； 2. 功能规划与设计：针对用户痛点与业务方向形成 AI 功能产品规划并完成功能设计，重点包括 AI 功能的场景定义、测试集设计、AI 策略设计、交互设计、用户教育设计等； 3. 功能验收：定义 AI 功能的评价体系并进行验收，重点包括功能上线前的算法效果与功能效果，上线后的用户主观体验； 4. 功能迭代：形成 AI 功能的数据-算法-功能-体验闭环，包括收集与定位用户反馈问题并进行 badcase 分析，收集数据与设计策略参与研发优化 AI 算法，完善 AI 功能的体验。\n1. 2027届毕业生，本科及以上学历，有机器学习、数据分析等相关专业； 2. 了解智能硬件（如耳机、音响、投影仪、3D打印机、扫地机、监控摄像头等），有 AI 功能实习经验优先； 3. 具备基本的产品技能（包括需求洞察、产品设计、体验优化等），有较强的场景创新能力优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，有机器学习、数据分析等相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7670835604674054441",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
+      "id": "anker-b82b6c04ce10",
+      "company": "安克创新",
+      "title": "AI软件产品经理-长沙",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "有机器学习、数据分析等相关专业。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "有机器学习、数据分析等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "jobDescription": "你将参与： 1. 需求调研：收集并分析用户需求，了解用户场景与痛点； 2. 功能规划与设计：针对用户痛点与业务方向形成 AI 功能产品规划并完成功能设计，重点包括 AI 功能的场景定义、测试集设计、AI 策略设计、交互设计、用户教育设计等； 3. 功能验收：定义 AI 功能的评价体系并进行验收，重点包括功能上线前的算法效果与功能效果，上线后的用户主观体验； 4. 功能迭代：形成 AI 功能的数据-算法-功能-体验闭环，包括收集与定位用户反馈问题并进行 badcase 分析，收集数据与设计策略参与研发优化 AI 算法，完善 AI 功能的体验；",
+      "jobRequirements": "1. 2027届毕业生，本科及以上学历及以上，有机器学习、数据分析等相关专业。 2. 了解智能硬件（如耳机、音响、投影仪、3D打印机、扫地机、监控摄像头等），有 AI 功能实习经验优先； 3. 具备基本的产品技能（包括需求洞察、产品设计、体验优化等），有较强的场景创新能力优先；",
+      "JD": "你将参与： 1. 需求调研：收集并分析用户需求，了解用户场景与痛点； 2. 功能规划与设计：针对用户痛点与业务方向形成 AI 功能产品规划并完成功能设计，重点包括 AI 功能的场景定义、测试集设计、AI 策略设计、交互设计、用户教育设计等； 3. 功能验收：定义 AI 功能的评价体系并进行验收，重点包括功能上线前的算法效果与功能效果，上线后的用户主观体验； 4. 功能迭代：形成 AI 功能的数据-算法-功能-体验闭环，包括收集与定位用户反馈问题并进行 badcase 分析，收集数据与设计策略参与研发优化 AI 算法，完善 AI 功能的体验；\n1. 2027届毕业生，本科及以上学历及以上，有机器学习、数据分析等相关专业。 2. 了解智能硬件（如耳机、音响、投影仪、3D打印机、扫地机、监控摄像头等），有 AI 功能实习经验优先； 3. 具备基本的产品技能（包括需求洞察、产品设计、体验优化等），有较强的场景创新能力优先；",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "有机器学习、数据分析等相关专业。"
+        ],
+        "eligibilityClauses": [
+          "2027届毕业生，本科及以上学历及以上"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7670833850503710985",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -4731,6 +5106,95 @@
       "annualSalary": "未披露",
       "source": "安克创新官方2027校招官网",
       "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7671110230750660910",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
+      "id": "anker-e169ebdeba92",
+      "company": "安克创新",
+      "title": "AI软件产品经理（大健康）-深圳",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 医学、生物医学工程、计算机、工业设计、心理学、公共卫生等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "你将参与： 1. 负责健康类产品的软件需求调研：收集并分析用户需求，了解用户场景与痛点； 2. 功能规划与设计：针对用户痛点与业务方向形成 AI 功能产品规划并完成功能设计，重点包括 AI 功能的场景定义、测试集设计、AI 策略设计、交互设计、用户教育设计等； 3. 功能验收：定义 AI 功能的评价体系并进行验收，重点包括功能上线前的算法效果与功能效果，上线后的用户主观体验； 4. 功能迭代：形成 AI 功能的数据-算法-功能-体验闭环，包括收集与定位用户反馈问题并进行 badcase 分析，收集数据与设计策略参与研发优化 AI 算法，完善 AI 功能的体验；",
+      "jobRequirements": "1. 2027届毕业生，本科及以上学历。 2. 医学、生物医学工程、计算机、工业设计、心理学、公共卫生等相关专业优先。",
+      "JD": "你将参与： 1. 负责健康类产品的软件需求调研：收集并分析用户需求，了解用户场景与痛点； 2. 功能规划与设计：针对用户痛点与业务方向形成 AI 功能产品规划并完成功能设计，重点包括 AI 功能的场景定义、测试集设计、AI 策略设计、交互设计、用户教育设计等； 3. 功能验收：定义 AI 功能的评价体系并进行验收，重点包括功能上线前的算法效果与功能效果，上线后的用户主观体验； 4. 功能迭代：形成 AI 功能的数据-算法-功能-体验闭环，包括收集与定位用户反馈问题并进行 badcase 分析，收集数据与设计策略参与研发优化 AI 算法，完善 AI 功能的体验；\n1. 2027届毕业生，本科及以上学历。 2. 医学、生物医学工程、计算机、工业设计、心理学、公共卫生等相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 医学、生物医学工程、计算机、工业设计、心理学、公共卫生等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7670845421669288233",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

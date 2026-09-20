@@ -1,7 +1,7 @@
 {
   "company": "阿里巴巴",
   "count": 117,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "alibaba-56983b82e44a",
@@ -4322,6 +4322,99 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
+      "id": "alibaba-e94ea3438669",
+      "company": "阿里巴巴",
+      "title": "产品经理-搜推策略",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。",
+      "jobRequirements": "1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
+      "JD": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。\n1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907640094",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
       "id": "alibaba-7ba2eca9e0b5",
       "company": "阿里巴巴",
       "title": "AI Agent产品经理",
@@ -4406,99 +4499,6 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907740089",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
-      "id": "alibaba-e94ea3438669",
-      "company": "阿里巴巴",
-      "title": "产品经理-搜推策略",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。",
-      "jobRequirements": "1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
-      "JD": "1. 负责搜索推荐日常数据分析及用户需求洞察，并转化为产品方案持续提升搜索推荐能力； 2. 推动大模型、多模态技术在搜索推荐等核心场景的落地，打造AI驱动的下一代搜索推荐体验； 3. 协同运营、算法、工程团队高效推动项目高质量落地，对项目目标负责。\n1. 本科以上学历，有C端产品实习经验； 2. 具备足够的大盘视野，能看到全局增长空间，捕捉业务增长点； 3. 具备较强的数据分析能力，善于运用数据驱动产品优化； 4. 责任心强，具有坚持不懈的精神，性格积极乐观，学习能力强、抗压能力强。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907640094",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -7737,91 +7737,6 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-0a32865815d1",
-      "company": "阿里巴巴",
-      "title": "游戏角色原画（写实）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "油画专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。",
-      "jobRequirements": "1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
-      "JD": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。\n1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "油画专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700018",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
       "id": "alibaba-88590058a090",
       "company": "阿里巴巴",
       "title": "游戏角色/场景原画（二次元）",
@@ -7902,6 +7817,91 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907660016",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-0a32865815d1",
+      "company": "阿里巴巴",
+      "title": "游戏角色原画（写实）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "油画专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。",
+      "jobRequirements": "1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
+      "JD": "1、根据游戏世界观设计游戏中的主角、怪物、boss造型设计、道具设计，游戏概念图、宣传图绘制等； 2、项目风格：写实冷兵器战斗风格、光荣风格、东方神话战斗风格； 3、入职1V1导师手把手带教做项目。\n1、希望热爱三国题材，对历史感兴趣or喜欢东方神话题材，对光荣/国风/厚涂/水墨/油画其中任一感兴趣，油画专业优先； 2、热爱游戏，喜欢尝试不同游戏风格和创作，长期保持创作习惯； 3、简历请附作品，相关作品附件（PDF格式）或者网页链接，请勿放网盘链接。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "油画专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700018",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -9645,90 +9645,6 @@
       "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
     },
     {
-      "id": "alibaba-4cf62209aa0d",
-      "company": "阿里巴巴",
-      "title": "面向AI的高性能分布式存储系统研发-阿里星/A Star",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、为EBS的稳定、性能、成本技术演进和架构设计和技术创新落地，构建稳定可靠，性能优越，具有成本优势的先进分布式块存储系统； 2、AI 对存储吞吐有非常高的要求，本岗位需要面向AI场景将存储带宽做到物理极限，同时大幅降低成本； 3、OLTP 客户对EBS的延迟和长尾要求非常高，在高吞吐的背景下，需要通过流量整形，优先级调度，CPU网络的强隔离，微观时间片上的均匀化等技术来有效控制系统的延迟。",
-      "jobRequirements": "1、精通分布式存储理论； 2、对Linux内核，IO 协议栈，NVMe 协议有深入的了解和实践； 3、熟悉网络编程，对多路复用，RDMA 技术有较好的实践； 4、熟悉DPU，智能网卡，硬件卸载是加分项； 5、在FAST/OSDI等顶会发表存储相关论文，有参与Ceph、JuiceFS、Alluxio等开源项目核心模块开发经验； 6、对AI有浓厚的兴趣，积极学习和应用各种AI工具，熟悉AI场景对存储的需求； 7、学习能力强，有技术热情，有较强的问题分析和技术攻关能力、良好的工程能力，能写出高质量的代码。善于沟通合作，以结果为导向，推动跨团队项目合作。",
-      "JD": "1、为EBS的稳定、性能、成本技术演进和架构设计和技术创新落地，构建稳定可靠，性能优越，具有成本优势的先进分布式块存储系统； 2、AI 对存储吞吐有非常高的要求，本岗位需要面向AI场景将存储带宽做到物理极限，同时大幅降低成本； 3、OLTP 客户对EBS的延迟和长尾要求非常高，在高吞吐的背景下，需要通过流量整形，优先级调度，CPU网络的强隔离，微观时间片上的均匀化等技术来有效控制系统的延迟。\n1、精通分布式存储理论； 2、对Linux内核，IO 协议栈，NVMe 协议有深入的了解和实践； 3、熟悉网络编程，对多路复用，RDMA 技术有较好的实践； 4、熟悉DPU，智能网卡，硬件卸载是加分项； 5、在FAST/OSDI等顶会发表存储相关论文，有参与Ceph、JuiceFS、Alluxio等开源项目核心模块开发经验； 6、对AI有浓厚的兴趣，积极学习和应用各种AI工具，熟悉AI场景对存储的需求； 7、学习能力强，有技术热情，有较强的问题分析和技术攻关能力、良好的工程能力，能写出高质量的代码。善于沟通合作，以结果为导向，推动跨团队项目合作。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680050",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
       "id": "alibaba-439ff9c35951",
       "company": "阿里巴巴",
       "title": "下一代大模型智能体框架与数据技术-阿里星",
@@ -9812,6 +9728,90 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907700044",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
+    },
+    {
+      "id": "alibaba-4cf62209aa0d",
+      "company": "阿里巴巴",
+      "title": "面向AI的高性能分布式存储系统研发-阿里星/A Star",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、为EBS的稳定、性能、成本技术演进和架构设计和技术创新落地，构建稳定可靠，性能优越，具有成本优势的先进分布式块存储系统； 2、AI 对存储吞吐有非常高的要求，本岗位需要面向AI场景将存储带宽做到物理极限，同时大幅降低成本； 3、OLTP 客户对EBS的延迟和长尾要求非常高，在高吞吐的背景下，需要通过流量整形，优先级调度，CPU网络的强隔离，微观时间片上的均匀化等技术来有效控制系统的延迟。",
+      "jobRequirements": "1、精通分布式存储理论； 2、对Linux内核，IO 协议栈，NVMe 协议有深入的了解和实践； 3、熟悉网络编程，对多路复用，RDMA 技术有较好的实践； 4、熟悉DPU，智能网卡，硬件卸载是加分项； 5、在FAST/OSDI等顶会发表存储相关论文，有参与Ceph、JuiceFS、Alluxio等开源项目核心模块开发经验； 6、对AI有浓厚的兴趣，积极学习和应用各种AI工具，熟悉AI场景对存储的需求； 7、学习能力强，有技术热情，有较强的问题分析和技术攻关能力、良好的工程能力，能写出高质量的代码。善于沟通合作，以结果为导向，推动跨团队项目合作。",
+      "JD": "1、为EBS的稳定、性能、成本技术演进和架构设计和技术创新落地，构建稳定可靠，性能优越，具有成本优势的先进分布式块存储系统； 2、AI 对存储吞吐有非常高的要求，本岗位需要面向AI场景将存储带宽做到物理极限，同时大幅降低成本； 3、OLTP 客户对EBS的延迟和长尾要求非常高，在高吞吐的背景下，需要通过流量整形，优先级调度，CPU网络的强隔离，微观时间片上的均匀化等技术来有效控制系统的延迟。\n1、精通分布式存储理论； 2、对Linux内核，IO 协议栈，NVMe 协议有深入的了解和实践； 3、熟悉网络编程，对多路复用，RDMA 技术有较好的实践； 4、熟悉DPU，智能网卡，硬件卸载是加分项； 5、在FAST/OSDI等顶会发表存储相关论文，有参与Ceph、JuiceFS、Alluxio等开源项目核心模块开发经验； 6、对AI有浓厚的兴趣，积极学习和应用各种AI工具，熟悉AI场景对存储的需求； 7、学习能力强，有技术热情，有较强的问题分析和技术攻关能力、良好的工程能力，能写出高质量的代码。善于沟通合作，以结果为导向，推动跨团队项目合作。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
+      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199907680050",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,10 +1,10 @@
 {
   "company": "携程集团",
   "count": 34,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
-      "id": "ctrip-c7ab7e685efa",
+      "id": "ctrip-713d36087bab",
       "company": "携程集团",
       "title": "业务运营（2027届秋招）(MJ036914)",
       "graduationYear": [
@@ -100,7 +100,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-4ec62939dee1",
+      "id": "ctrip-ea09043bd2d2",
       "company": "携程集团",
       "title": "业务运营（数据分析方向）（2027届秋招）(MJ036695)",
       "graduationYear": [
@@ -203,7 +203,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-149159e80613",
+      "id": "ctrip-8627b89dbce2",
       "company": "携程集团",
       "title": "旅游业务培训生（业务运营）-日语/韩语/泰语/粤语（2027届秋招）(MJ036723)",
       "graduationYear": [
@@ -297,7 +297,101 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-e6875ef5d5f7",
+      "id": "ctrip-19c4bbb14e58",
+      "company": "携程集团",
+      "title": "旅游业务培训生（业务运营）（2027届秋招）- 广州(MJ036701)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "供应链",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=73dd34bf-8bb9-4543-b873-60c5539a8ad1",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-16dda2f7c6c3",
       "company": "携程集团",
       "title": "旅游业务培训生（业务运营）（2027届秋招）- 北京(MJ036702)",
       "graduationYear": [
@@ -391,7 +485,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-0035ce1981b3",
+      "id": "ctrip-5b3e0f8bce81",
       "company": "携程集团",
       "title": "旅游业务培训生（业务运营）- 日语/韩语/阿拉伯语（2027届秋招）(MJ036642)",
       "graduationYear": [
@@ -485,7 +579,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-4acda663aa82",
+      "id": "ctrip-f955002154a5",
       "company": "携程集团",
       "title": "旅游业务培训生（业务运营）（2027届秋招）(MJ036699)",
       "graduationYear": [
@@ -579,7 +673,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-4d9e4985480f",
+      "id": "ctrip-a48f483610e1",
       "company": "携程集团",
       "title": "产品运营（2027届秋招）(MJ036683)",
       "graduationYear": [
@@ -676,9 +770,9 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-1e0bb802c5ee",
+      "id": "ctrip-ef770960089e",
       "company": "携程集团",
-      "title": "旅游业务培训生（业务运营）（2027届秋招）- 广州(MJ036701)",
+      "title": "旅游业务培训生（业务运营）（2027届秋招）- 济南(MJ036703)",
       "graduationYear": [
         "2027"
       ],
@@ -697,7 +791,7 @@
         "english": true,
         "minorLanguageRequired": false
       },
-      "location": "广州",
+      "location": "济南",
       "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
       "jobRequirements": "",
       "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
@@ -759,7 +853,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=73dd34bf-8bb9-4543-b873-60c5539a8ad1",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=b36d5e05-9903-445e-b889-ae1fd6b52fde",
       "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",
@@ -770,7 +864,195 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-7c3bae3883c1",
+      "id": "ctrip-a8d0e45f2708",
+      "company": "携程集团",
+      "title": "旅游业务培训生（业务运营）（2027届秋招）- 桂林(MJ036704)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "桂林",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "供应链",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=9231c797-60f0-4689-a20d-0e5d1e93cf38",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-11a8b3cb00b9",
+      "company": "携程集团",
+      "title": "旅游业务培训生（业务运营）（2027届秋招）- 郑州(MJ036705)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "郑州",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "供应链",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=3d49bd71-2dd8-4830-bca3-cb1dfaadc0b6",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-79c8ed4a9a89",
       "company": "携程集团",
       "title": "全球人力资源管培生（2027届秋招）(MJ036687)",
       "graduationYear": [
@@ -868,289 +1150,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-10c9216631c3",
-      "company": "携程集团",
-      "title": "旅游业务培训生（业务运营）（2027届秋招）- 济南(MJ036703)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "济南",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "业务运营"
-      ],
-      "skills": [
-        "英语",
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "数据",
-        "供应链",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=b36d5e05-9903-445e-b889-ae1fd6b52fde",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-d1a1a46623e5",
-      "company": "携程集团",
-      "title": "旅游业务培训生（业务运营）（2027届秋招）- 桂林(MJ036704)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "桂林",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "业务运营"
-      ],
-      "skills": [
-        "英语",
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "数据",
-        "供应链",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=9231c797-60f0-4689-a20d-0e5d1e93cf38",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-7213a53d0ba6",
-      "company": "携程集团",
-      "title": "旅游业务培训生（业务运营）（2027届秋招）- 郑州(MJ036705)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "郑州",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "业务运营"
-      ],
-      "skills": [
-        "英语",
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "数据",
-        "供应链",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=3d49bd71-2dd8-4830-bca3-cb1dfaadc0b6",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-7a60c2ebb4f1",
+      "id": "ctrip-696338fe171b",
       "company": "携程集团",
       "title": "流程管理（用户体验方向）（2027届秋招）(MJ036686)",
       "graduationYear": [
@@ -1245,100 +1245,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-e5a6462a8169",
-      "company": "携程集团",
-      "title": "技术项目管理（2027届秋招）(MJ036675)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Project management (tech)。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Project management (tech)。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "项目管理"
-      ],
-      "skills": [
-        "英语",
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=fe86720b-f456-43f2-8af6-e237447cdf53",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-84e881f34154",
+      "id": "ctrip-6192bb1d4bb6",
       "company": "携程集团",
       "title": "业务项目管理（2027届秋招）(MJ036689)",
       "graduationYear": [
@@ -1431,199 +1338,9 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-c1e1e02596dc",
+      "id": "ctrip-e734b5090c58",
       "company": "携程集团",
-      "title": "旅游业务培训生（业务拓展）（2027届秋招）- 深圳(MJ036698)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=c8883ffe-6e6c-4c6a-8ade-d0bd6435b0f6",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-4f3fd216481c",
-      "company": "携程集团",
-      "title": "旅游业务培训生（业务拓展）（2027届秋招）- 北京(MJ036691)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=d85e43d9-7208-43bd-848a-8b0ae0c1bd47",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-97d4529d433f",
-      "company": "携程集团",
-      "title": "旅游业务培训生（业务拓展）（2027届秋招）(MJ036690)",
+      "title": "技术项目管理（2027届秋招）(MJ036675)",
       "graduationYear": [
         "2027"
       ],
@@ -1643,9 +1360,9 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Project management (tech)。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
       "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Project management (tech)。业务线：Trip.com Group。识别关键词：英语、数据分析、项目管理。投递前请打开官方职位页确认最新状态与截止日期。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -1658,12 +1375,12 @@
         ]
       },
       "roleFamily": [
-        "其他"
+        "项目管理"
       ],
       "skills": [
         "英语",
-        "Excel",
-        "数据分析"
+        "数据分析",
+        "项目管理"
       ],
       "experienceKeywords": [
         "项目",
@@ -1671,9 +1388,7 @@
         "招聘"
       ],
       "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
+      "riskTags": [],
       "headcount": {
         "disclosed": false,
         "raw": "",
@@ -1705,7 +1420,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=cf48aa22-b6c7-4242-af04-bcad714d14aa",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=fe86720b-f456-43f2-8af6-e237447cdf53",
       "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",
@@ -1716,102 +1431,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-2a907d66c464",
-      "company": "携程集团",
-      "title": "旅游业务培训生（业务拓展）-日语/韩语/泰语/粤语（2027届秋招）(MJ036641)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、日语、韩语、泰语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=075e210e-490e-4c1a-8273-07c804eb2403",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-e2e73653065d",
+      "id": "ctrip-aeba29c5ce15",
       "company": "携程集团",
       "title": "旅游业务培训生（业务拓展）（2027届秋招）- 杭州(MJ036693)",
       "graduationYear": [
@@ -1906,9 +1526,9 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-13f08183c7c4",
+      "id": "ctrip-daca0ecc61bd",
       "company": "携程集团",
-      "title": "客服管理（2027届秋招）(MJ036685)",
+      "title": "旅游业务培训生（业务拓展）（2027届秋招）- 深圳(MJ036698)",
       "graduationYear": [
         "2027"
       ],
@@ -1927,194 +1547,7 @@
         "english": true,
         "minorLanguageRequired": false
       },
-      "location": "上海",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Customer support。业务线：Trip.com Group。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Customer support。业务线：Trip.com Group。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=44134428-78d4-4534-9988-f2c06d8c4f45",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-9e6fe988c328",
-      "company": "携程集团",
-      "title": "商业数据分析（2027届秋招）(MJ036688)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 统计学、数学、经济学、计算机科学或相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Service operations。业务线：Trip.com Group。识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Service operations。业务线：Trip.com Group。识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 统计学、数学、经济学、计算机科学或相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "用户",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=309b7ee0-584d-4ab6-a14a-4bc31224762c",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-d768a441b9c1",
-      "company": "携程集团",
-      "title": "旅游业务培训生（业务拓展）（2027届秋招）- 沈阳(MJ036692)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "Shenyang",
+      "location": "深圳",
       "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
       "jobRequirements": "",
       "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
@@ -2177,7 +1610,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=c4d4847d-8726-4745-8c15-4a1b0a6671b8",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=c8883ffe-6e6c-4c6a-8ade-d0bd6435b0f6",
       "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",
@@ -2188,7 +1621,292 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-334c41b1ed27",
+      "id": "ctrip-413e5292acd9",
+      "company": "携程集团",
+      "title": "旅游业务培训生（业务拓展）（2027届秋招）- 北京(MJ036691)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=d85e43d9-7208-43bd-848a-8b0ae0c1bd47",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-40408099f6da",
+      "company": "携程集团",
+      "title": "旅游业务培训生（业务拓展）（2027届秋招）(MJ036690)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=cf48aa22-b6c7-4242-af04-bcad714d14aa",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-0eaa82635101",
+      "company": "携程集团",
+      "title": "旅游业务培训生（业务拓展）-日语/韩语/泰语/粤语（2027届秋招）(MJ036641)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、日语、韩语、泰语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=075e210e-490e-4c1a-8273-07c804eb2403",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-62852b0b415a",
       "company": "携程集团",
       "title": "旅游业务培训生（业务拓展）（2027届秋招）- 太原(MJ036697)",
       "graduationYear": [
@@ -2283,7 +2001,289 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-fb51f88e9452",
+      "id": "ctrip-10d7a2b002cb",
+      "company": "携程集团",
+      "title": "客服管理（2027届秋招）(MJ036685)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Customer support。业务线：Trip.com Group。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Customer support。业务线：Trip.com Group。识别关键词：英语、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=44134428-78d4-4534-9988-f2c06d8c4f45",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-1ba5cec4b6df",
+      "company": "携程集团",
+      "title": "商业数据分析（2027届秋招）(MJ036688)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 统计学、数学、经济学、计算机科学或相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Service operations。业务线：Trip.com Group。识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Service operations。业务线：Trip.com Group。识别关键词：Excel、数据分析、SQL。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 统计学、数学、经济学、计算机科学或相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "用户",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=309b7ee0-584d-4ab6-a14a-4bc31224762c",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-32d49461586b",
+      "company": "携程集团",
+      "title": "旅游业务培训生（业务拓展）（2027届秋招）- 沈阳(MJ036692)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "Shenyang",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：VEST。业务线：Trip.com Group。识别关键词：英语、Excel、数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=c4d4847d-8726-4745-8c15-4a1b0a6671b8",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-883047422fb1",
       "company": "携程集团",
       "title": "数据分析师（技术方向）（2027届秋招）(MJ036670)",
       "graduationYear": [
@@ -2376,7 +2376,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-309b50837b2e",
+      "id": "ctrip-6d18d441b351",
       "company": "携程集团",
       "title": "客服管理（2027届秋招） - 南通(MJ037031)",
       "graduationYear": [
@@ -2469,191 +2469,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-9c81987ce6ac",
-      "company": "携程集团",
-      "title": "质量管理（用户体验方向）（2027届秋招）(MJ036684)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Service operations。业务线：Trip.com Group。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Service operations。业务线：Trip.com Group。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据",
-        "客户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=aefeee60-eab6-421d-ac67-b03a8bff2ab0",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-1fa9291c7e37",
-      "company": "携程集团",
-      "title": "产品经理（2027届秋招）(MJ036633)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Product management。业务线：Trip.com Group。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jobRequirements": "",
-      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Product management。业务线：Trip.com Group。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "用户",
-        "数据",
-        "客户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "携程集团官方2027校招官网",
-      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=d167f77d-8979-47e1-b675-d118d10faa5c",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
-    },
-    {
-      "id": "ctrip-7fadddee2e51",
+      "id": "ctrip-192e5056f0f8",
       "company": "携程集团",
       "title": "AI 产品经理（2027届秋招）(MJ036636)",
       "graduationYear": [
@@ -2747,7 +2563,191 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-3189f3579fba",
+      "id": "ctrip-e41d9376716d",
+      "company": "携程集团",
+      "title": "质量管理（用户体验方向）（2027届秋招）(MJ036684)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Service operations。业务线：Trip.com Group。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Service operations。业务线：Trip.com Group。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=aefeee60-eab6-421d-ac67-b03a8bff2ab0",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-0ce39db2d2f4",
+      "company": "携程集团",
+      "title": "产品经理（2027届秋招）(MJ036633)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "携程集团官方 2027 秋季校园招聘岗位；职类：Product management。业务线：Trip.com Group。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jobRequirements": "",
+      "JD": "携程集团官方 2027 秋季校园招聘岗位；职类：Product management。业务线：Trip.com Group。识别关键词：数据分析。投递前请打开官方职位页确认最新状态与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "用户",
+        "数据",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "携程集团官方2027校招官网",
+      "officialURL": "https://careers.ctrip.com/#/campus/jobDetail?jobId=d167f77d-8979-47e1-b675-d118d10faa5c",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→能力测评→AI面试→笔试（技术/设计）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 北航就业网校招公告 | https://career.buaa.edu.cn/frontpage/buaa/html/recruitmentinfoForm.html?positionDetailId=9e0a26a486a44f3a85130be04bb993fd | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
+    },
+    {
+      "id": "ctrip-614b5ec292d4",
       "company": "携程集团",
       "title": "数据仓库工程师（2027届秋招）(MJ036669)",
       "graduationYear": [
@@ -2837,7 +2837,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-92a19e7808a5",
+      "id": "ctrip-8fd8ff389c3a",
       "company": "携程集团",
       "title": "SRE工程师（2027届秋招）(MJ036679)",
       "graduationYear": [
@@ -2930,7 +2930,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-2d8ea96f26c9",
+      "id": "ctrip-9c54c8f27bae",
       "company": "携程集团",
       "title": "IDC工程师（2027届秋招）(MJ036680)",
       "graduationYear": [
@@ -3015,7 +3015,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-2a92c82116dc",
+      "id": "ctrip-6088569fb68d",
       "company": "携程集团",
       "title": "AI 产品经理 - 伦敦（2027届秋招）(MJ036832)",
       "graduationYear": [
@@ -3109,7 +3109,7 @@
       "hasAssessmentEvidence": "E2 | 厦门大学校招公告 | https://jy.xmu.edu.cn/campus/view/id/1002056 | 2026-09-17"
     },
     {
-      "id": "ctrip-833656236fbc",
+      "id": "ctrip-c8b7aaee258f",
       "company": "携程集团",
       "title": "Eagle Program – Business Analyst (2027 Graduates)(MJ036639)",
       "graduationYear": [

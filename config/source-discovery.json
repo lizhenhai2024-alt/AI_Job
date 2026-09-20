@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T03:15:47.407Z",
+  "updatedAt": "2026-09-20T05:16:55.164Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -973,8 +973,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T03:15:47.407Z",
-      "nextCheckAfter": "2026-09-21T03:15:47.414Z"
+      "lastCheckedAt": "2026-09-20T05:16:55.164Z",
+      "nextCheckAfter": "2026-09-21T05:16:55.168Z"
     },
     "广州地铁": {
       "name": "广州地铁集团有限公司",
@@ -1777,7 +1777,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095333599614771202",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T03:15:47.407Z",
+      "lastCheckedAt": "2026-09-20T05:16:55.164Z",
       "nextCheckAfter": ""
     },
     "北方华创": {
@@ -2395,15 +2395,15 @@
       "name": "办公地址",
       "status": "高校自动发现",
       "state": "source_registered",
-      "provider": "beisen",
-      "officialUrl": "https://itg.zhiye.com/gmkgxzlb?k=&c=&p=1",
-      "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
+      "provider": "",
+      "officialUrl": "https://jobs.hisense.com/",
+      "reason": "已发现公司官方招聘入口，但当前站点 jobs.hisense.com 尚无自动抓取适配器；等价官方源已存在",
       "universityEvidence": {
         "school": "广东外语外贸大学",
-        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VMUXSN7",
+        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VMUXSN9",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T03:15:47.407Z",
+      "lastCheckedAt": "2026-09-20T05:16:55.164Z",
       "nextCheckAfter": ""
     },
     "京人才新未来——京新药业": {
@@ -2412,13 +2412,13 @@
       "state": "source_registered",
       "provider": "beisen",
       "officialUrl": "https://jingxinpharm.zhiye.com/campus",
-      "reason": "高校详情页明确给出北森招聘入口",
+      "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
       "universityEvidence": {
         "school": "南开大学",
         "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119087.html",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T03:15:47.407Z",
+      "lastCheckedAt": "2026-09-20T05:16:55.164Z",
       "nextCheckAfter": ""
     }
   },
@@ -2431,9 +2431,9 @@
   },
   "lastUniversityBridge": {
     "candidates": 4,
-    "sourcesAdded": 1,
+    "sourcesAdded": 0,
     "sourcesRepaired": 0,
     "queued": 1,
-    "updatedAt": "2026-09-20T03:15:47.407Z"
+    "updatedAt": "2026-09-20T05:16:55.164Z"
   }
 }

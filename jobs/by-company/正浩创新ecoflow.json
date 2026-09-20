@@ -1,7 +1,7 @@
 {
   "company": "正浩创新EcoFlow",
-  "count": 41,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 44,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "ecoflow-7677582809493735743",
@@ -1374,6 +1374,95 @@
       "hasAssessmentEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17"
     },
     {
+      "id": "ecoflow-7677582927732394259",
+      "company": "正浩创新EcoFlow",
+      "title": "助理物料质量工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "机械，电子或其他理工科专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、评审物料SIP，搭建物料检验环境，对IQC（含外协厂）进行全面培训； 2、处理IQC反馈物料异常，确认异常信息准确性，跟进改善措施并闭环 3、制程物料质量异常统筹，风险库存排查和协同输出物料、半成品、成品整机处理方案； 4、物料复判确认及共性TOP问题持续改善； 5、参与试产来料检验和物料上线问题管理，改善措施有效性审核和跟进改善闭环管理。",
+      "jobRequirements": "1、2027届获得本科及以上学历，机械，电子或其他理工科专业优先； 2、熟练运用office等办公软件； 3、具备良好的英语读写能力。",
+      "JD": "1、评审物料SIP，搭建物料检验环境，对IQC（含外协厂）进行全面培训； 2、处理IQC反馈物料异常，确认异常信息准确性，跟进改善措施并闭环 3、制程物料质量异常统筹，风险库存排查和协同输出物料、半成品、成品整机处理方案； 4、物料复判确认及共性TOP问题持续改善； 5、参与试产来料检验和物料上线问题管理，改善措施有效性审核和跟进改善闭环管理。\n1、2027届获得本科及以上学历，机械，电子或其他理工科专业优先； 2、熟练运用office等办公软件； 3、具备良好的英语读写能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "机械，电子或其他理工科专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "正浩创新EcoFlow官方2027校招官网",
+      "officialURL": "https://jobs.ecoflow.com/602892/position/7677582927732394259/detail",
+      "publishedAt": "2026-08-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→综合素质测评→线上笔试/AI语言面试（部分岗位）→业务一面（部分无领导小组讨论）→业务二面→业务终面及HRBP面→录用谈薪→Offer→三方→入职",
+      "recruitmentProcessEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17"
+    },
+    {
       "id": "ecoflow-7677582922366519578",
       "company": "正浩创新EcoFlow",
       "title": "生产及物料计划工程师（PMC）",
@@ -1454,6 +1543,95 @@
       "annualSalary": "未披露",
       "source": "正浩创新EcoFlow官方2027校招官网",
       "officialURL": "https://jobs.ecoflow.com/602892/position/7677582922366519578/detail",
+      "publishedAt": "2026-08-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→综合素质测评→线上笔试/AI语言面试（部分岗位）→业务一面（部分无领导小组讨论）→业务二面→业务终面及HRBP面→录用谈薪→Offer→三方→入职",
+      "recruitmentProcessEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17"
+    },
+    {
+      "id": "ecoflow-7677582921716959494",
+      "company": "正浩创新EcoFlow",
+      "title": "助理制造工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届获得本科及以上学历，机械、电子、计算机或相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、参与新产品的立项过程，负责新品的竞品分析、工艺需求拆解、工艺风险识别，工艺可行性分析； 2、参与新产品的详细设计的评审，输出DFX报告； 3、负责工艺设计，输出工艺流程、工装治具、SOP、bom等工艺资料； 4、负责工艺的验证和优化； 5、主导制样和试产，确保高质量的交付； 6、进行生产过程的监控和分析，解决生产中的问题，确保生产顺利进行。",
+      "jobRequirements": "1、2027届获得本科及以上学历，机械、电子、计算机或相关专业优先； 2、会操作3D软件，如CAD\\PROE\\solidworks等； 3、具备良好的英语读写能力。",
+      "JD": "1、参与新产品的立项过程，负责新品的竞品分析、工艺需求拆解、工艺风险识别，工艺可行性分析； 2、参与新产品的详细设计的评审，输出DFX报告； 3、负责工艺设计，输出工艺流程、工装治具、SOP、bom等工艺资料； 4、负责工艺的验证和优化； 5、主导制样和试产，确保高质量的交付； 6、进行生产过程的监控和分析，解决生产中的问题，确保生产顺利进行。\n1、2027届获得本科及以上学历，机械、电子、计算机或相关专业优先； 2、会操作3D软件，如CAD\\PROE\\solidworks等； 3、具备良好的英语读写能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届获得本科及以上学历，机械、电子、计算机或相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "正浩创新EcoFlow官方2027校招官网",
+      "officialURL": "https://jobs.ecoflow.com/602892/position/7677582921716959494/detail",
       "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
@@ -3002,6 +3180,101 @@
       "annualSalary": "未披露",
       "source": "正浩创新EcoFlow官方2027校招官网",
       "officialURL": "https://jobs.ecoflow.com/602892/position/7680038338363558171/detail",
+      "publishedAt": "2026-08-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→综合素质测评→线上笔试/AI语言面试（部分岗位）→业务一面（部分无领导小组讨论）→业务二面→业务终面及HRBP面→录用谈薪→Offer→三方→入职",
+      "recruitmentProcessEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 清华大学就业网正浩创新2027秋招 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxxForWx?zpxxid=563738243 | 2026-09-17"
+    },
+    {
+      "id": "ecoflow-7680177861047077170",
+      "company": "正浩创新EcoFlow",
+      "title": "软件产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得硕士学位，计算机科学、软件工程、心理学、交互设计、自动化专业优先，英语听说读写熟练或海外留学背景更佳",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责包括App、Web等智能终端产品的产品策划，根据公司战略和业务发展，对行业、用户进行调研和分析，定位用户需求，形成产品方案； 2、准确把握项目目标和周期，确认优先级，制定产品实施计划，完成原型设计和需求文档撰写，与设计、开发、测试协同，推进产品落地； 3、关注用户反馈和数据驱动，持续优化用户体验，提升产品价值，构建产品核心竞争力。",
+      "jobRequirements": "1、2027届获得硕士学位，计算机科学、软件工程、心理学、交互设计、自动化专业优先，英语听说读写熟练或海外留学背景更佳； 2、具备优秀的洞察力、逻辑思维能力、自我驱动力； 3、对新能源有一定了解，致力于在新能源领域发展； 4、具备互联网公司或智能硬件公司实习经历优先。",
+      "JD": "1、负责包括App、Web等智能终端产品的产品策划，根据公司战略和业务发展，对行业、用户进行调研和分析，定位用户需求，形成产品方案； 2、准确把握项目目标和周期，确认优先级，制定产品实施计划，完成原型设计和需求文档撰写，与设计、开发、测试协同，推进产品落地； 3、关注用户反馈和数据驱动，持续优化用户体验，提升产品价值，构建产品核心竞争力。\n1、2027届获得硕士学位，计算机科学、软件工程、心理学、交互设计、自动化专业优先，英语听说读写熟练或海外留学背景更佳； 2、具备优秀的洞察力、逻辑思维能力、自我驱动力； 3、对新能源有一定了解，致力于在新能源领域发展； 4、具备互联网公司或智能硬件公司实习经历优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得硕士学位，计算机科学、软件工程、心理学、交互设计、自动化专业优先，英语听说读写熟练或海外留学背景更佳"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "用户",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "正浩创新EcoFlow官方2027校招官网",
+      "officialURL": "https://jobs.ecoflow.com/602892/position/7680177861047077170/detail",
       "publishedAt": "2026-08-31",
       "lastVerified": "",
       "sourceType": "official",

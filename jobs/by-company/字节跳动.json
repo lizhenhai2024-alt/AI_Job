@@ -1,7 +1,7 @@
 {
   "company": "字节跳动",
-  "count": 144,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 145,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "bytedance-4fc8391024f5",
@@ -9995,6 +9995,98 @@
       "source": "字节跳动官方2027校招官网",
       "officialURL": "https://jobs.bytedance.com/campus",
       "publishedAt": "2026-07-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-d274b8487fc1",
+      "company": "字节跳动",
+      "title": "IDC项目设计工程师 - AI算力基础设施",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，电气、新能源和碳中和等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：字节跳动基础设施部门，负责字节跳动的全栈算力基础设施，从芯片服务器产研、到超大规模数据中心，到传统云平台和如今的AI Native Cloud，全方位为抖音、豆包、今日头条、飞书、火山引擎等各类产品提供领先、稳定的百万量级大规模算力基础设施服务。我们的领域涵盖数据中心建设、内核操作系统开发、服务器集群管理、高速网络通信、EB级数据存储体系、搜索型数据库探索、基于LLM的AI基础设施的研发调度与治理等，致力于打造业界领先的、面向LLM的AI云原生基础设施架构与产品矩阵。 1、协助完成国内数据中心技术审核工作，总结问题及痛点； 2、协助完成数据中心新技术（电气、暖通、自控等）的落地； 3、协助保障设计及技术落地的质量，参与日常巡检； 4、协助组织技术审核，供应商管理，技术交流等会议文档的总结与梳理工作。",
+      "jobRequirements": "1、2027届获得本科及以上学历，电气、新能源和碳中和等相关专业优先； 2、对数据中心行业有兴趣，愿意投身数据中心规划、设计、研发等工作并继续发展； 3、热衷了解行业动态，面对新事物有着比较强烈的好奇心； 4、具备良好的自驱力与学习能力，优秀的沟通能力、组织协调与项目推动能力；英语可作为工作语言者优先。",
+      "JD": "团队介绍：字节跳动基础设施部门，负责字节跳动的全栈算力基础设施，从芯片服务器产研、到超大规模数据中心，到传统云平台和如今的AI Native Cloud，全方位为抖音、豆包、今日头条、飞书、火山引擎等各类产品提供领先、稳定的百万量级大规模算力基础设施服务。我们的领域涵盖数据中心建设、内核操作系统开发、服务器集群管理、高速网络通信、EB级数据存储体系、搜索型数据库探索、基于LLM的AI基础设施的研发调度与治理等，致力于打造业界领先的、面向LLM的AI云原生基础设施架构与产品矩阵。 1、协助完成国内数据中心技术审核工作，总结问题及痛点； 2、协助完成数据中心新技术（电气、暖通、自控等）的落地； 3、协助保障设计及技术落地的质量，参与日常巡检； 4、协助组织技术审核，供应商管理，技术交流等会议文档的总结与梳理工作。\n1、2027届获得本科及以上学历，电气、新能源和碳中和等相关专业优先； 2、对数据中心行业有兴趣，愿意投身数据中心规划、设计、研发等工作并继续发展； 3、热衷了解行业动态，面对新事物有着比较强烈的好奇心； 4、具备良好的自驱力与学习能力，优秀的沟通能力、组织协调与项目推动能力；英语可作为工作语言者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，电气、新能源和碳中和等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

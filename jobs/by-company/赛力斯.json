@@ -1,7 +1,7 @@
 {
   "company": "赛力斯",
-  "count": 26,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 27,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "beisen-4dda54fb7258",
@@ -468,6 +468,93 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://sokon.zhiye.com/campus/detail?jobAdId=53d5c38a-ee51-4d4d-9743-0c782714bed0",
+      "publishedAt": "2026-09-04",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f9f7f2bad7fa",
+      "company": "赛力斯",
+      "title": "问界供应链-采购成本管理助理工程师【2027届校招】(J21006)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、专业要求：软件工程、电子信息工程、电气工程、自动化、通信工程、车辆工程、机械设计、材料等专业优先，排名前50%",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1.负责年度成本目标达成方案拟定、分解、实施，确保成本目标达成； 2.负责所管辖的零部件售后配件定价工作； 3.负责所管辖的零部件相关采购协议签署工作； 4.负责所管辖的零部件成本控制及持续优化工作； 5.负责所管辖的零部件全生命周期的价格管理和SAP价格维护。",
+      "jobRequirements": "1、招聘对象：2027届本科以上学历毕业生； 2、专业要求：软件工程、电子信息工程、电气工程、自动化、通信工程、车辆工程、机械设计、材料等专业优先，排名前50%； 3、英语水平：通过CET-4； 4、综合素质：善于沟通有大局观、思维敏捷，学习创新及抗压能力较好，了解商务礼仪基本知识；",
+      "JD": "1.负责年度成本目标达成方案拟定、分解、实施，确保成本目标达成； 2.负责所管辖的零部件售后配件定价工作； 3.负责所管辖的零部件相关采购协议签署工作； 4.负责所管辖的零部件成本控制及持续优化工作； 5.负责所管辖的零部件全生命周期的价格管理和SAP价格维护。\n1、招聘对象：2027届本科以上学历毕业生； 2、专业要求：软件工程、电子信息工程、电气工程、自动化、通信工程、车辆工程、机械设计、材料等专业优先，排名前50%； 3、英语水平：通过CET-4； 4、综合素质：善于沟通有大局观、思维敏捷，学习创新及抗压能力较好，了解商务礼仪基本知识；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业要求：软件工程、电子信息工程、电气工程、自动化、通信工程、车辆工程、机械设计、材料等专业优先，排名前50%"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sokon.zhiye.com/campus/detail?jobAdId=427ee393-a62f-49f0-a8cf-8caecbe59b10",
       "publishedAt": "2026-09-04",
       "lastVerified": "",
       "sourceType": "official",
@@ -2242,7 +2329,7 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "专业要求：工业设计、产品设计、视觉传达、服装设计等相关专业优先，八大美院",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2256,10 +2343,12 @@
       "jobRequirements": "1、招聘对象：2027届硕士及以上学历毕业生 2、专业要求：工业设计、产品设计、视觉传达、服装设计等相关专业优先，八大美院 3、技能要求：有相关实习经验，熟练掌握2-3个工具软件的应用技能； 4、综合素质：具备较强的协同沟通能力，具体较强的团队协作意识，对CMF设计感兴趣，有热情",
       "JD": "1.配合完成CMF设计策略制定过程中资料收集和整理，参与设计方向和设计主题的讨论1.运用PS软件在基于2D效果图完成内饰CMF方案设计； 2.运用VRED和PS软件基于3D数据完成外车身色彩方案设计表现； 3.设计方案遵循CMF设计策略制定的设计方向，完整地体现CMF创意及明确表达设计意图； 4.能够在他人指导下根据CMF设计方案效果图开发相对应的CMF样板 5.选定的CMF样板效果能够在该项目工艺基础上实现； 6.方案验证过程中评估实物与设计方案的一致性； 7.根据设计效果选择合适的验证方式；\n1、招聘对象：2027届硕士及以上学历毕业生 2、专业要求：工业设计、产品设计、视觉传达、服装设计等相关专业优先，八大美院 3、技能要求：有相关实习经验，熟练掌握2-3个工具软件的应用技能； 4、综合素质：具备较强的协同沟通能力，具体较强的团队协作意识，对CMF设计感兴趣，有热情",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业要求：工业设计、产品设计、视觉传达、服装设计等相关专业优先，八大美院"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "招聘对象：2027届硕士及以上学历毕业生"
         ],
         "technicalDuties": [],
         "businessDuties": []

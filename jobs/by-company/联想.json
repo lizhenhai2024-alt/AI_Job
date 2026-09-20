@@ -1,7 +1,7 @@
 {
   "company": "联想",
-  "count": 23,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 26,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "lenovo-97d2f880a143",
@@ -1786,6 +1786,101 @@
       "deadline": ""
     },
     {
+      "id": "lenovo-a46cb9b0de37",
+      "company": "联想",
+      "title": "硬件产品经理",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，计算机、市场、电子信息工程、管理学等相关专业优先考虑",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1.深入分析市场数据，全面了解产品的市场状况。同时，通过内部销售数据的细致对比分析，精准掌握产品的业务状况，为产品决策提供数据支撑。\n 2.负责产品行业洞察与竞品分析工作，深度挖掘自身产品布局及设计方面存在的短板，以此为依据对产品规划进行针对性改进。紧密结合市场动态与客户需求，制定科学合理的产品规划路线图。\n 3.全面参与产品全生命周期的管理工作，涵盖产品定义、外观设计、开发推进、验收把关以及上市推广等各个环节，确保产品从概念到市场的全流程顺利推进。\n 4.协调跨部门团队之间的合作，保障产品开发过程中各部门之间的高效沟通与协同，及时解决项目中出现的问题，推动产品按时高质量交付。\n 5.持续关注产品上市后的市场反馈，收集客户意见与建议，为产品的后续迭代与升级提供有力依据。",
+      "jobRequirements": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，计算机、市场、电子信息工程、管理学等相关专业优先考虑。\n 2.具有市场调研、消费者研究、供应链、产品等相关职位的实习或项目经验者优先，能够将过往经验应用于实际工作中。\n 3.具备较强的数据分析能力，能够从海量数据中提取有价值的信息，为产品决策提供有力支持。\n 4.拥有良好的行业洞察力和市场分析能力，能够准确把握市场趋势和客户需求变化，及时调整产品策略。\n 5.具备优秀的沟通协调能力和团队合作精神，能够与不同部门的同事有效协作，共同推动产品项目的顺利进行。\n 6.有较强的学习能力和适应能力，能够快速掌握新知识和新技能，适应不断变化的市场环境和产品要求。",
+      "JD": "1.深入分析市场数据，全面了解产品的市场状况。同时，通过内部销售数据的细致对比分析，精准掌握产品的业务状况，为产品决策提供数据支撑。\n 2.负责产品行业洞察与竞品分析工作，深度挖掘自身产品布局及设计方面存在的短板，以此为依据对产品规划进行针对性改进。紧密结合市场动态与客户需求，制定科学合理的产品规划路线图。\n 3.全面参与产品全生命周期的管理工作，涵盖产品定义、外观设计、开发推进、验收把关以及上市推广等各个环节，确保产品从概念到市场的全流程顺利推进。\n 4.协调跨部门团队之间的合作，保障产品开发过程中各部门之间的高效沟通与协同，及时解决项目中出现的问题，推动产品按时高质量交付。\n 5.持续关注产品上市后的市场反馈，收集客户意见与建议，为产品的后续迭代与升级提供有力依据。\n1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，计算机、市场、电子信息工程、管理学等相关专业优先考虑。\n 2.具有市场调研、消费者研究、供应链、产品等相关职位的实习或项目经验者优先，能够将过往经验应用于实际工作中。\n 3.具备较强的数据分析能力，能够从海量数据中提取有价值的信息，为产品决策提供有力支持。\n 4.拥有良好的行业洞察力和市场分析能力，能够准确把握市场趋势和客户需求变化，及时调整产品策略。\n 5.具备优秀的沟通协调能力和团队合作精神，能够与不同部门的同事有效协作，共同推动产品项目的顺利进行。\n 6.有较强的学习能力和适应能力，能够快速掌握新知识和新技能，适应不断变化的市场环境和产品要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，计算机、市场、电子信息工程、管理学等相关专业优先考虑"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "毕业时间窗口：2026-09 至 2027-08"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "供应链",
+        "客户",
+        "产品"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "联想官方2027校招官网",
+      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2359",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "lenovo-22261429ce45",
       "company": "联想",
       "title": "内容营销-AIGC方向",
@@ -2058,6 +2153,192 @@
       "annualSalary": "未披露",
       "source": "联想官方2027校招官网",
       "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2396",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "lenovo-3e8052c157e9",
+      "company": "联想",
+      "title": "软件产品经理",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业为计算机软件、应用数学等相关领域"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.参与产品设计全流程工作，涵盖从市场与用户研究、需求分析，到原型设计等产品各阶段。推动产品方案有效落地，并持续跟进版本优化工作，确保产品不断完善。\n2.负责产品价值传递、客户服务以及价值验证等工作，提升产品的市场认可度与用户满意度。\n3.深入开展产品数据分析，依据分析结果为产品迭代和优化方向提出切实可行的建议，助力产品持续发展。\n4.积极与跨部门团队沟通协作，确保产品在各环节的顺利推进，保障项目按时交付。\n5.关注行业动态和竞品情况，为产品的战略规划和差异化竞争提供有价值的信息。",
+      "jobRequirements": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域。\n2.对产品经理岗位有一定认知和了解，逻辑思维能力突出，富有创造力与探索精神，敢于尝试新方法和思路。\n3.充满工作激情，能够在团队中积极分享观点、交流想法，善于与他人碰撞思维火花，具备良好的团队合作精神和沟通协调能力。\n4.备较强的学习能力，能够快速掌握新知识和技能，适应不断变化的产品环境。",
+      "JD": "1.参与产品设计全流程工作，涵盖从市场与用户研究、需求分析，到原型设计等产品各阶段。推动产品方案有效落地，并持续跟进版本优化工作，确保产品不断完善。\n2.负责产品价值传递、客户服务以及价值验证等工作，提升产品的市场认可度与用户满意度。\n3.深入开展产品数据分析，依据分析结果为产品迭代和优化方向提出切实可行的建议，助力产品持续发展。\n4.积极与跨部门团队沟通协作，确保产品在各环节的顺利推进，保障项目按时交付。\n5.关注行业动态和竞品情况，为产品的战略规划和差异化竞争提供有价值的信息。\n1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域。\n2.对产品经理岗位有一定认知和了解，逻辑思维能力突出，富有创造力与探索精神，敢于尝试新方法和思路。\n3.充满工作激情，能够在团队中积极分享观点、交流想法，善于与他人碰撞思维火花，具备良好的团队合作精神和沟通协调能力。\n4.备较强的学习能力，能够快速掌握新知识和技能，适应不断变化的产品环境。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "毕业时间窗口：2026-09 至 2027-08"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "客户",
+        "产品"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "联想官方2027校招官网",
+      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2405",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "lenovo-15d1e1b869f9",
+      "company": "联想",
+      "title": "软件产品经理-相机体验方向",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业为计算机软件、应用数学等相关领域"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.参与手机相机及影像软件体验的全链路产品设计，覆盖用户调研与场景分析、竞品体验与需求定义、原型设计及方案落地，并持续跟进版本迭代与效果验证。\n 2.深入洞察用户在拍摄、成像、后期编辑、内容分享等完整影像流程中的真实体验痛点，系统梳理用户反馈与数据表现，将体验问题转化为清晰、可落地的产品方案。\n 3.积极投入 AI 影像体验的前沿探索，围绕 AI 拍摄辅助、智能场景识别、照片理解、影像增强、内容生成与编辑等方向，参与创新功能的构思、验证与原型构建。\n 4.参与产品价值的提炼与表达，撰写面向内外部团队的产品沟通材料，帮助团队、合作伙伴及用户更清晰地理解相机体验的核心价值。",
+      "jobRequirements": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域。\n 2.对手机相机、摄影艺术、影像处理技术以及AI 影像应用有浓厚兴趣，乐于关注行业动态与新技术趋势。\n 3.具备较强的用户同理心，能够从真实用户的使用场景和情感出发，理性判断产品功能的价值与优先级。\n 4.对体验细节高度敏感，具备一定的审美素养和产品判断力，能够敏锐识别交互与视觉层面的优化机会点。",
+      "JD": "1.参与手机相机及影像软件体验的全链路产品设计，覆盖用户调研与场景分析、竞品体验与需求定义、原型设计及方案落地，并持续跟进版本迭代与效果验证。\n 2.深入洞察用户在拍摄、成像、后期编辑、内容分享等完整影像流程中的真实体验痛点，系统梳理用户反馈与数据表现，将体验问题转化为清晰、可落地的产品方案。\n 3.积极投入 AI 影像体验的前沿探索，围绕 AI 拍摄辅助、智能场景识别、照片理解、影像增强、内容生成与编辑等方向，参与创新功能的构思、验证与原型构建。\n 4.参与产品价值的提炼与表达，撰写面向内外部团队的产品沟通材料，帮助团队、合作伙伴及用户更清晰地理解相机体验的核心价值。\n1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域。\n 2.对手机相机、摄影艺术、影像处理技术以及AI 影像应用有浓厚兴趣，乐于关注行业动态与新技术趋势。\n 3.具备较强的用户同理心，能够从真实用户的使用场景和情感出发，理性判断产品功能的价值与优先级。\n 4.对体验细节高度敏感，具备一定的审美素养和产品判断力，能够敏锐识别交互与视觉层面的优化机会点。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "毕业时间窗口：2026-09 至 2027-08"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "用户",
+        "数据",
+        "产品"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "联想官方2027校招官网",
+      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2358",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

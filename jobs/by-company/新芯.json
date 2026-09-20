@@ -1,7 +1,7 @@
 {
   "company": "新芯股份",
-  "count": 12,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 13,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "beisen-7f42e6669c9a",
@@ -85,6 +85,96 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=d43d2d4b-0b14-4121-9871-1198187e21fd",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-59e2df750cc1",
+      "company": "新芯股份",
+      "title": "2027届-XMC-晶圆制造工程师(J11626)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历要求：本科及以上",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "武汉",
+      "jobDescription": "1、根据整体生产目标，分解并负责日常生产任务完成; 2、实时跟进生产状况，及时发现生产异常问题，推动跨部门协作，有效解决问题; 3、及时合理调整生产制造系统规则，确保目标在系统中有效执行； 4、及时发现系统规则漏洞，并提出有效变更、改善方案； 5、负责生产现场管理，执行团队培训与绩效管理，提高员工工作积极性; 6、了解设备运作模式、派工特点、产能状况，持续优化设备效率。",
+      "jobRequirements": "学历要求：本科及以上 其它要求： 1、具备较好的SQL运用水平，至少掌握一门程序语言（python，C#，JAVA，VB）； 2、熟练运用office相关（PPT, excel, outlook等)软件； 3、良好的英语听说读写能力(CET4及以上，CET6优先考虑); 4、较强的抗压能力，学习能力，执行能力，逻辑思维能力，工作严谨、有责任心; 5、优秀的表达沟通能力、组织协调能力和团队合作精神。",
+      "JD": "1、根据整体生产目标，分解并负责日常生产任务完成; 2、实时跟进生产状况，及时发现生产异常问题，推动跨部门协作，有效解决问题; 3、及时合理调整生产制造系统规则，确保目标在系统中有效执行； 4、及时发现系统规则漏洞，并提出有效变更、改善方案； 5、负责生产现场管理，执行团队培训与绩效管理，提高员工工作积极性; 6、了解设备运作模式、派工特点、产能状况，持续优化设备效率。\n学历要求：本科及以上 其它要求： 1、具备较好的SQL运用水平，至少掌握一门程序语言（python，C#，JAVA，VB）； 2、熟练运用office相关（PPT, excel, outlook等)软件； 3、良好的英语听说读写能力(CET4及以上，CET6优先考虑); 4、较强的抗压能力，学习能力，执行能力，逻辑思维能力，工作严谨、有责任心; 5、优秀的表达沟通能力、组织协调能力和团队合作精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "学历要求：本科及以上"
+        ],
+        "eligibilityClauses": [
+          "2027届-XMC-晶圆制造工程师(J11626)"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "PPT",
+        "SQL"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=80ea38bd-675d-4519-b67b-84d47ed094f4",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

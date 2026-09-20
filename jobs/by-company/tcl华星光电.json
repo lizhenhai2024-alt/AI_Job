@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
-  "count": 94,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 96,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "hotjob-d65647bdbe01",
@@ -6233,6 +6233,108 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-dc76ad0f85b6",
+      "company": "TCL华星光电",
+      "title": "采购开发工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，暖通制冷、机械、自动化、材料、供应链管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 供应商开发：根据产品规划和采购策略，开发暖通物料（如压缩机、换热器、钣金件、电控元器件、制冷配件等）的优质供应商资源，评估其技术能力、生产资质、质量体系及交付能力； 2. 商务谈判：负责新物料的询价、比价、议价，谈判价格、付款方式、交货周期等商务条款，签订采购合同与协议； 3. 成本管控：开展物料成本分析与市场行情调研，制定品类采购策略，持续优化采购成本； 4. 供应商管理： 建立并维护合格供应商档案，组织供应商绩效考核与评估，推动供应商持续改善； 5. 跨部门协同：联动研发、品质、生产等部门，参与新项目物料选型，确保新供应商导入满足技术、质量与交付要求。",
+      "jobRequirements": "1. 本科及以上学历，暖通制冷、机械、自动化、材料、供应链管理等相关专业优先； 2. 逻辑清晰，对数字敏感，具备良好的数据分析与成本意识； 3. 具备优秀的沟通协调与商务谈判潜质，思维敏捷、抗压能力强； 4. 正直诚信，严守商业道德与职业操守。",
+      "JD": "1. 供应商开发：根据产品规划和采购策略，开发暖通物料（如压缩机、换热器、钣金件、电控元器件、制冷配件等）的优质供应商资源，评估其技术能力、生产资质、质量体系及交付能力； 2. 商务谈判：负责新物料的询价、比价、议价，谈判价格、付款方式、交货周期等商务条款，签订采购合同与协议； 3. 成本管控：开展物料成本分析与市场行情调研，制定品类采购策略，持续优化采购成本； 4. 供应商管理： 建立并维护合格供应商档案，组织供应商绩效考核与评估，推动供应商持续改善； 5. 跨部门协同：联动研发、品质、生产等部门，参与新项目物料选型，确保新供应商导入满足技术、质量与交付要求。\n1. 本科及以上学历，暖通制冷、机械、自动化、材料、供应链管理等相关专业优先； 2. 逻辑清晰，对数字敏感，具备良好的数据分析与成本意识； 3. 具备优秀的沟通协调与商务谈判潜质，思维敏捷、抗压能力强； 4. 正直诚信，严守商业道德与职业操守。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，暖通制冷、机械、自动化、材料、供应链管理等相关专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": [
+          "商务测算",
+          "合同",
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "供应链",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a1a4315481304ccedfb&recruitType=1",
+      "publishedAt": "2026-09-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-27",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-fe85c3acd813",
       "company": "TCL华星光电",
       "title": "员工关系专员",
@@ -6690,6 +6792,95 @@
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5d34315481304ccf999&recruitType=1",
       "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-27",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-a01ea6b286c3",
+      "company": "TCL华星光电",
+      "title": "采购财务专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 外协厂财务管理与监督； 2. 海外代工厂的对账、结算等； 3. 其它临时型任务。",
+      "jobRequirements": "1. 工作执行力强、有当责精神，具备较强的学习能力和团队合作意识； 2. 可以接受短期出差； 3. 敢于用外语交流，性格外向，善于沟通。",
+      "JD": "1. 外协厂财务管理与监督； 2. 海外代工厂的对账、结算等； 3. 其它临时型任务。\n1. 工作执行力强、有当责精神，具备较强的学习能力和团队合作意识； 2. 可以接受短期出差； 3. 敢于用外语交流，性格外向，善于沟通。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-09-27"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "沟通"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5ac1ad6db7cf833c1de&recruitType=1",
+      "publishedAt": "2026-09-18",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-27",
@@ -8173,9 +8364,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，暖通、制冷等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "暖通、制冷等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -8187,14 +8380,16 @@
       "jobRequirements": "1. 本科及以上学历，暖通、制冷等相关专业； 2. 能接受全国范围内出差，适应销售工作节奏； 3. 具备较强的抗压能力、沟通能力和目标感，有销售类实习或社团外联经验者优先； 4. 性格外向，有韧性，愿意通过销售岗位实现较高收入目标。",
       "JD": "1. 负责区域内暖通产品的销售与推广，完成销售目标； 2. 开拓新客户，维护老客户关系，提升客户满意度； 3. 收集市场信息，协助制定区域销售策略； 4. 参与项目谈判、合同签订及后续跟进工作。\n1. 本科及以上学历，暖通、制冷等相关专业； 2. 能接受全国范围内出差，适应销售工作节奏； 3. 具备较强的抗压能力、沟通能力和目标感，有销售类实习或社团外联经验者优先； 4. 性格外向，有韧性，愿意通过销售岗位实现较高收入目标。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-27"
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，暖通、制冷等相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "客户关系",
+          "合同"
+        ]
       },
       "roleFamily": [
         "其他"

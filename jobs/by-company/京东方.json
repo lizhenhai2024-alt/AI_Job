@@ -1,7 +1,7 @@
 {
   "company": "京东方",
-  "count": 59,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 61,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "beisen-2be429ffbb1a",
@@ -367,6 +367,100 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://campus.boe.com/campus/detail?jobAdId=085e6104-c624-4f02-822f-a01b7636ed7e",
       "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
+    },
+    {
+      "id": "beisen-962c65acbde2",
+      "company": "京东方",
+      "title": "【MLED芯片】采购企划专员（珠海）(J54561)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科、硕士应届毕业生；；安全管理、安全工程、环境工程、消防工程等相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "安全管理、安全工程、环境工程、消防工程等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "珠海",
+      "jobDescription": "1、供应商开发：根据工艺要求、成本要求、前瞻的研发路线要求、公司整体的策略要求等，开发匹配的供应商资源； 2、资源池管理：供应商导入过程中组织厂内各部门进行审核，主动排查供应商风险，制定合作计划。主导日常供应商的审核（供应链部分），对资源池进行引入和淘汰管理； 3、价格谈判：对于周期性的价格或者需要签订框架协议的合约，进行价格谈判并完成企划报告的申请、策略说明、完成审批，并落地执行；日常的采购/议价； 4、项目管理：管理降本增效的项目，组织各部门进行：工艺、品质、环安、动力、二次配、财务策略方便的协调，确保降本项目按照计划落地； 5、突发问题解决：出现的技术改进、品质优化、交付管控等问题，进行组织并解决。包括组织线上会议、前往现场沟通、进入生产现场召集现场办公会； 6、日常问题解决：日常的合约传递、交付确认、入库对账、入账、付款等问题，进行协调。确保整个采购过程清晰透明。",
+      "jobRequirements": "1、本科、硕士应届毕业生； 2、安全管理、安全工程、环境工程、消防工程等相关专业； 3、专业基础扎实，成绩优秀，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）；",
+      "JD": "1、供应商开发：根据工艺要求、成本要求、前瞻的研发路线要求、公司整体的策略要求等，开发匹配的供应商资源； 2、资源池管理：供应商导入过程中组织厂内各部门进行审核，主动排查供应商风险，制定合作计划。主导日常供应商的审核（供应链部分），对资源池进行引入和淘汰管理； 3、价格谈判：对于周期性的价格或者需要签订框架协议的合约，进行价格谈判并完成企划报告的申请、策略说明、完成审批，并落地执行；日常的采购/议价； 4、项目管理：管理降本增效的项目，组织各部门进行：工艺、品质、环安、动力、二次配、财务策略方便的协调，确保降本项目按照计划落地； 5、突发问题解决：出现的技术改进、品质优化、交付管控等问题，进行组织并解决。包括组织线上会议、前往现场沟通、进入生产现场召集现场办公会； 6、日常问题解决：日常的合约传递、交付确认、入库对账、入账、付款等问题，进行协调。确保整个采购过程清晰透明。\n1、本科、硕士应届毕业生； 2、安全管理、安全工程、环境工程、消防工程等相关专业； 3、专业基础扎实，成绩优秀，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）；",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科、硕士应届毕业生；",
+          "安全管理、安全工程、环境工程、消防工程等相关专业；"
+        ],
+        "eligibilityClauses": [
+          "本科、硕士应届毕业生；"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、供应商开发：根据工艺要求、成本要求、前瞻的研发路线要求、公司整体的策略要求等，"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=df9add72-5860-40f1-9c05-4521e6a27866",
+      "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -4575,6 +4669,96 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://campus.boe.com/campus/detail?jobAdId=bda944dd-df25-46d5-ae7d-866c3f3960f1",
+      "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
+    },
+    {
+      "id": "beisen-5c5b378886b9",
+      "company": "京东方",
+      "title": "【显示器件及物联网创新】制造工程师（成都）(J54078)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、理工类专业不限，工业工程专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "jobDescription": "统筹负责现场品质管理、成本管理、效率管理、人员管理、现场安全管理等相关工作。 1、统筹负责现场品质管理、成本管理、效率管理、人员管理、现场安全管理等相关工作； 2、推进工厂智能制造的顺利实施； 3、保障生产计划达成率、用工效率、作业不良率等关键指标达成； 4、完成安全生产任务，参与精益化运营。",
+      "jobRequirements": "1、本科、硕士应届毕业生； 2、理工类专业不限，工业工程专业优先； 3、具有较强的数据统计、处理与分析能力，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
+      "JD": "统筹负责现场品质管理、成本管理、效率管理、人员管理、现场安全管理等相关工作。 1、统筹负责现场品质管理、成本管理、效率管理、人员管理、现场安全管理等相关工作； 2、推进工厂智能制造的顺利实施； 3、保障生产计划达成率、用工效率、作业不良率等关键指标达成； 4、完成安全生产任务，参与精益化运营。\n1、本科、硕士应届毕业生； 2、理工类专业不限，工业工程专业优先； 3、具有较强的数据统计、处理与分析能力，无不及格科目； 4、正直、诚信、有激情、专注、具备良好的团队精神、沟通和表达能力； 5、有较好的英语能力（英语四级及以上）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、理工类专业不限，工业工程专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "8",
+        "min": 8,
+        "max": 8,
+        "scope": "job",
+        "display": "8人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8 8 统筹负责现场品质管理、成本管理、效率管理、人员管理、现场安全管理等相关工作。 1、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=c604345e-dda8-4bd7-bd9b-a7fecb3973c9",
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",

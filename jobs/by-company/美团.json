@@ -1,7 +1,7 @@
 {
   "company": "美团",
-  "count": 46,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 45,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "meituan-40620033afbf",
@@ -999,95 +999,6 @@
         "市场",
         "数据",
         "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
-      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
-    },
-    {
-      "id": "meituan-f80e61748b1e",
-      "company": "美团",
-      "title": "廉正AI运营岗",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 探索LLM、AIGC在职业道德方向面向全体员工的应用； 2. 基于行业调研、数据分析与用户洞察，选用模型； 3. 协同算法能力设计产品策略，建设知识库、prompt和工作流； 4. 基于阶段性目标，完善数据监测和质量评估机制，持续收集用户反馈，迭代策略及评估方法，持续提升核心指标和对话效果。",
-      "jobRequirements": "1. 对AI充满热爱，具备较强的产品思维和用户导向，能够深入理解用户需求并转化为产品的功能和设计； 2. 具备数据分析和问题解决的能力，善于通过数据找出问题根源并提出合理的解决方案。 3. 对互联网产品和技术有一定的了解，能够理解和解释技术实现的原理和方法。 4. 具备优秀的沟通与协调能力，能够与多个团队进行合作，并有效推动项目的进展。具备一定的项目管理和团队协作经验，能够有效地管理和协调项目资源. 岗位亮点: 1. 有价值：参与大型企业治理，成为行业紧缺的ESG人才； 2. 有成长：团队管理扁平，鼓励个人学习成长，工作氛围开放包容； 3. 有机会：可与多个关键部门合作，拓展职业网络； 4. 有意义：通过促进大型企业廉正水平提升，对社会产生积极影响。 具备以下优先： 1. 有对话机器人类产品设计经验优先（C/B不限）。 2. 过往经历涉及到跨团队协作、算法密切协同优先。 3. 对AI大模型有深入了解，有成功应用者优先。",
-      "JD": "1. 探索LLM、AIGC在职业道德方向面向全体员工的应用； 2. 基于行业调研、数据分析与用户洞察，选用模型； 3. 协同算法能力设计产品策略，建设知识库、prompt和工作流； 4. 基于阶段性目标，完善数据监测和质量评估机制，持续收集用户反馈，迭代策略及评估方法，持续提升核心指标和对话效果。\n1. 对AI充满热爱，具备较强的产品思维和用户导向，能够深入理解用户需求并转化为产品的功能和设计； 2. 具备数据分析和问题解决的能力，善于通过数据找出问题根源并提出合理的解决方案。 3. 对互联网产品和技术有一定的了解，能够理解和解释技术实现的原理和方法。 4. 具备优秀的沟通与协调能力，能够与多个团队进行合作，并有效推动项目的进展。具备一定的项目管理和团队协作经验，能够有效地管理和协调项目资源. 岗位亮点: 1. 有价值：参与大型企业治理，成为行业紧缺的ESG人才； 2. 有成长：团队管理扁平，鼓励个人学习成长，工作氛围开放包容； 3. 有机会：可与多个关键部门合作，拓展职业网络； 4. 有意义：通过促进大型企业廉正水平提升，对社会产生积极影响。 具备以下优先： 1. 有对话机器人类产品设计经验优先（C/B不限）。 2. 过往经历涉及到跨团队协作、算法密切协同优先。 3. 对AI大模型有深入了解，有成功应用者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据"
       ],
       "preferenceTags": [],
       "riskTags": [],

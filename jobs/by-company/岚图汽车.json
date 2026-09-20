@@ -1,7 +1,7 @@
 {
   "company": "岚图汽车",
-  "count": 19,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 21,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "moka-911c60023c3b",
@@ -639,6 +639,89 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4b3c8d35-179e-417e-89b0-ae10cb3193e6",
       "publishedAt": "2026-08-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
+    },
+    {
+      "id": "moka-f3e1a9d5b290",
+      "company": "岚图汽车",
+      "title": "智能制造工程师（云峰）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "云峰工厂 智能制造（合同制）",
+      "jobRequirements": "",
+      "JD": "云峰工厂 智能制造（合同制）",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/31d791bc-18ff-409f-bb79-884bad37c564",
+      "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1468,6 +1551,89 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/dfb6a6d4-c4b5-4711-990e-7971d28d1703",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
+    },
+    {
+      "id": "moka-02289d299a72",
+      "company": "岚图汽车",
+      "title": "智能制造工程师（黄金）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "黄金工厂 智能制造（合同制）",
+      "jobRequirements": "",
+      "JD": "黄金工厂 智能制造（合同制）",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4b77fd3d-8d1a-4645-b46f-04b231c43d00",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",

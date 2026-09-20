@@ -1,7 +1,7 @@
 {
   "company": "vivo",
-  "count": 31,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 33,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "beisen-055e87e5e911",
@@ -1171,6 +1171,101 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=f95165e5-cf47-43ff-aaa4-8f8e523ab7d9",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
+      "id": "beisen-5f393c36b356",
+      "company": "vivo",
+      "title": "战略规划经理（智能硬件方向）-27届秋招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科或硕士在读，专业不限，商科、经济、统计学、数据科学等相关领域优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、智能硬件产品研究 •对手机/智能硬件行业进行洞察，跟踪市场发展趋势及进展，洞察产业市场机会； •了解市场竞争格局、竞争关键要素，提供竞争分析及应对建议； •结合业务协同情况，输出业务实现及经营建议，完成横向团队、公司内部认知对齐； 2、全球智能硬件机会洞察 •对全球主要目标国家的智能硬件市场进行研究，洞察市场趋势、进入门槛、商业模式差异点； •摸排新市场企业经营模式、能力护城河，提供竞争分析及路径参考； 3、全球行业标杆研究 •对行业标杆企业进行商业模式、经营能力、关键能力体系对标； •结合公司发展，进行内部洞察，产出有效参考建议。",
+      "jobRequirements": "1、本科或硕士在读，专业不限，商科、经济、统计学、数据科学等相关领域优先； 2、具备AI或者智能硬件行业项目经验优先； 3、逻辑清晰，能快速理解业务问题并拆解分析框架； 4、熟悉Excel、PPT以及统计软件，具备数据分析能力； 5、良好的中英文书面/口头表达能力，能简明传递分析结果。",
+      "JD": "1、智能硬件产品研究 •对手机/智能硬件行业进行洞察，跟踪市场发展趋势及进展，洞察产业市场机会； •了解市场竞争格局、竞争关键要素，提供竞争分析及应对建议； •结合业务协同情况，输出业务实现及经营建议，完成横向团队、公司内部认知对齐； 2、全球智能硬件机会洞察 •对全球主要目标国家的智能硬件市场进行研究，洞察市场趋势、进入门槛、商业模式差异点； •摸排新市场企业经营模式、能力护城河，提供竞争分析及路径参考； 3、全球行业标杆研究 •对行业标杆企业进行商业模式、经营能力、关键能力体系对标； •结合公司发展，进行内部洞察，产出有效参考建议。\n1、本科或硕士在读，专业不限，商科、经济、统计学、数据科学等相关领域优先； 2、具备AI或者智能硬件行业项目经验优先； 3、逻辑清晰，能快速理解业务问题并拆解分析框架； 4、熟悉Excel、PPT以及统计软件，具备数据分析能力； 5、良好的中英文书面/口头表达能力，能简明传递分析结果。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科或硕士在读，专业不限，商科、经济、统计学、数据科学等相关领域优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、智能硬件产品研究 •对手机/智能硬件行业进行洞察，跟踪市场发展趋势及进展，洞察"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=23e299b8-a3ed-4b4c-bdf8-67155b3674c2",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -2754,6 +2849,94 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=e81494a7-a2a1-47f3-a471-bc865da68421",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
+      "id": "beisen-5f468138fa2d",
+      "company": "vivo",
+      "title": "软件产品经理-27届秋招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，电子/通信/光电/电气/自动化/计算机/软件/人工智能等理工专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "1、负责IOT产品（XR类创新产品、Pad类成熟产品）OS原生应用的相关软件产品工作； 2、负责市场洞察、竞品分析及用户反馈，识别用户痛点及关键需求； 3、基于对应目标人群的模块产品规划，输出需求文档、功能定义； 4、结合产品系统特点及应用场景，提升持续优化产品系统应用用户体验。",
+      "jobRequirements": "1、本科及以上学历，电子/通信/光电/电气/自动化/计算机/软件/人工智能等理工专业优先； 2、对产品有浓厚兴趣，有较强的消费者洞察能力； 3、有较强的逻辑分析能力，有较强的领导力和推动力。",
+      "JD": "1、负责IOT产品（XR类创新产品、Pad类成熟产品）OS原生应用的相关软件产品工作； 2、负责市场洞察、竞品分析及用户反馈，识别用户痛点及关键需求； 3、基于对应目标人群的模块产品规划，输出需求文档、功能定义； 4、结合产品系统特点及应用场景，提升持续优化产品系统应用用户体验。\n1、本科及以上学历，电子/通信/光电/电气/自动化/计算机/软件/人工智能等理工专业优先； 2、对产品有浓厚兴趣，有较强的消费者洞察能力； 3、有较强的逻辑分析能力，有较强的领导力和推动力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子/通信/光电/电气/自动化/计算机/软件/人工智能等理工专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、负责IOT产品（XR类创新产品、Pad类成熟产品）OS原生应用的相关软件产品工"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=2af0913c-9f8d-4d13-a599-030cf542b02b",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",

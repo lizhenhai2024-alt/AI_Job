@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
-  "count": 158,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 160,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7663476504336992531",
@@ -798,6 +798,103 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476492252989737/detail",
       "publishedAt": "2026-07-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7660404016157280522",
+      "company": "小鹏汽车",
+      "title": "【27届校招】商务运营培训生（机器人生态方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届本科及以上学历，产品、运营、市场营销、计算机、人工智能等相关专业优先。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "本岗位聚焦机器人生态合作的商业运营方向，你将深入参与平台与外部生态伙伴的需求对接、产品转化及活动运营全流程，是连接客户、生态伙伴与内部产品团队的关键桥梁。 岗位职责 1、探索机器人生态商业模式，基于生态场景能力挖掘、对接样板客户，输出市场调研材料，参与生态商业策略研讨。 2、参与开发者社区搭建与初期运营，规划客户培训体系、生态运营培训内容，搭建标准化生态运营机制。 3、协助策划并执行行业相关活动（沙龙、伙伴交流、生态发布等）的运营工作，负责SDK文档优化、生态发布会相关内容筹备，配合完成生态推广与落地工作。 4、联动研发、算法、业务团队，跟进生态产品迭代、客户落地反馈，持续优化生态产品能力与运营体系。",
+      "jobRequirements": "任职要求 1、2027届本科及以上学历，产品、运营、市场营销、计算机、人工智能等相关专业优先。 2、具备基础的产品思维、商业思维，善于市场调研、需求挖掘和问题分析。 3、对机器人生态、开发者运营、ToB商业场景感兴趣，有相关项目、实习、竞赛经历优先。 4、学习能力、文案能力、沟通执行力强，思维灵活，具备良好的团队协作能力。 5、加分项，有产品 / 运营 / 生态合作相关实习经历；关注机器人、人工智能行业动态，有自己的观察与思考；具备良好的数据分析能力。",
+      "JD": "本岗位聚焦机器人生态合作的商业运营方向，你将深入参与平台与外部生态伙伴的需求对接、产品转化及活动运营全流程，是连接客户、生态伙伴与内部产品团队的关键桥梁。 岗位职责 1、探索机器人生态商业模式，基于生态场景能力挖掘、对接样板客户，输出市场调研材料，参与生态商业策略研讨。 2、参与开发者社区搭建与初期运营，规划客户培训体系、生态运营培训内容，搭建标准化生态运营机制。 3、协助策划并执行行业相关活动（沙龙、伙伴交流、生态发布等）的运营工作，负责SDK文档优化、生态发布会相关内容筹备，配合完成生态推广与落地工作。 4、联动研发、算法、业务团队，跟进生态产品迭代、客户落地反馈，持续优化生态产品能力与运营体系。\n任职要求 1、2027届本科及以上学历，产品、运营、市场营销、计算机、人工智能等相关专业优先。 2、具备基础的产品思维、商业思维，善于市场调研、需求挖掘和问题分析。 3、对机器人生态、开发者运营、ToB商业场景感兴趣，有相关项目、实习、竞赛经历优先。 4、学习能力、文案能力、沟通执行力强，思维灵活，具备良好的团队协作能力。 5、加分项，有产品 / 运营 / 生态合作相关实习经历；关注机器人、人工智能行业动态，有自己的观察与思考；具备良好的数据分析能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届本科及以上学历，产品、运营、市场营销、计算机、人工智能等相关专业优先。"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "数据分析",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "客户",
+        "商务"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7660404016157280522/detail",
+      "publishedAt": "2026-07-09",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -12697,6 +12794,99 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7683053727489722665/detail",
       "publishedAt": "2026-09-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7678640648783022390",
+      "company": "小鹏汽车",
+      "title": "【27届校招】具身智能数据硬件产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届本科及以上学历，机器人、自动化、电子信息、机械、计算机等相关专业研究生优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责具身智能数据采集设备的产品目标梳理与项目落地，包括头戴式第一视角图像采集设备、手部动作采集设备、多视角场景采集设备，简易采集设备等； 2、对接算法、数据采集运营等相关团队，收集并分析数据、使用、运营需求。通过产品工具，形成规范的能够完善指导数采硬件选型与研发的产品文档，并推动转化为硬件技术需求； 3、持续跟踪需求变更及长期趋势，统筹硬件能力、数据质量、使用效率与成本之间的平衡； 4、参与硬件产品方案、生产制造、物料采购、部署使用、标定维护及数据质量评估等全生命周期闭环设计； 5、根据项目需要承担具体任务，协同研发、供应链及运营团队推动产品交付和问题闭环。",
+      "jobRequirements": "1、2027届本科及以上学历，机器人、自动化、电子信息、机械、计算机等相关专业研究生优先； 2、对具身智能、机器人及数据采集硬件有浓厚兴趣，愿意深入理解数据需求和实际采集场景； 3、具备系统思维，能够从业务目标出发全局分析问题，同时对产品细节进行细颗粒度思考； 4、具备良好的需求分析、逻辑表达和文档撰写能力，能够推动用户需求向技术方案转化； 5、具备较强的沟通协作、动手实践和问题闭环能力，能够深入现场推进具体工作； 6、有机器人、智能硬件、传感器、嵌入式系统或相关科研、竞赛及实习经历者优先。",
+      "JD": "1、负责具身智能数据采集设备的产品目标梳理与项目落地，包括头戴式第一视角图像采集设备、手部动作采集设备、多视角场景采集设备，简易采集设备等； 2、对接算法、数据采集运营等相关团队，收集并分析数据、使用、运营需求。通过产品工具，形成规范的能够完善指导数采硬件选型与研发的产品文档，并推动转化为硬件技术需求； 3、持续跟踪需求变更及长期趋势，统筹硬件能力、数据质量、使用效率与成本之间的平衡； 4、参与硬件产品方案、生产制造、物料采购、部署使用、标定维护及数据质量评估等全生命周期闭环设计； 5、根据项目需要承担具体任务，协同研发、供应链及运营团队推动产品交付和问题闭环。\n1、2027届本科及以上学历，机器人、自动化、电子信息、机械、计算机等相关专业研究生优先； 2、对具身智能、机器人及数据采集硬件有浓厚兴趣，愿意深入理解数据需求和实际采集场景； 3、具备系统思维，能够从业务目标出发全局分析问题，同时对产品细节进行细颗粒度思考； 4、具备良好的需求分析、逻辑表达和文档撰写能力，能够推动用户需求向技术方案转化； 5、具备较强的沟通协作、动手实践和问题闭环能力，能够深入现场推进具体工作； 6、有机器人、智能硬件、传感器、嵌入式系统或相关科研、竞赛及实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，机器人、自动化、电子信息、机械、计算机等相关专业研究生优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7678640648783022390/detail",
+      "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

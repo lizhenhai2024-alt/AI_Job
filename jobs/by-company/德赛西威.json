@@ -1,7 +1,7 @@
 {
   "company": "德赛西威",
-  "count": 13,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 14,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "feishu-7e6932-7678553035187210522",
@@ -496,6 +496,104 @@
       "source": "德赛西威官方飞书招聘",
       "officialURL": "https://yesv-desaysv.jobs.feishu.cn/campus/m/position/7675569216694569222/detail",
       "publishedAt": "2026-08-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→在线测评→（部分岗位笔试/AI面试）→面试（一般1轮线上面试，部分岗位复试）→offer",
+      "recruitmentProcessEvidence": "E2 | 超级简历德赛西威2027校招解读 | https://www.chaojijianli.com/xiaozhao/desay-sv-2027-global-campus-recruitment-14528-e82811/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 超级简历德赛西威2027校招解读 | https://www.chaojijianli.com/xiaozhao/desay-sv-2027-global-campus-recruitment-14528-e82811/ | 2026-09-17"
+    },
+    {
+      "id": "feishu-7e6932-7675275282068850980",
+      "company": "德赛西威",
+      "title": "工业工程师（惠州-德语熟练）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 全日制本科及以上学历，工业工程、机械工程、供应链管理、财务管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、德语",
+        "english": true,
+        "minorLanguageRequired": true
+      },
+      "location": "惠州",
+      "jobDescription": "1. 收集、校验工厂财务及生产运营绩效数据，维护项目台账，跟进项目进度与关键节点，定期跟进闭环待办事项，沉淀项目知识库。 2. 协助开展工厂现场调研、数据采集与问题记录，支撑成本优化、资产管理、价值流改善等精益试点项目落地，收集一线工具及流程优化反馈。 3. 维护更新精益改善模板、SOP及工具包，统一各工厂执行标准；制作数据分析看板、汇报PPT，跟进标准落地效果并输出优化建议。 4. 对接工厂、财务、IT等跨部门，协调资源、推进事项闭环；协助组织对标、复盘会议，完成会议筹备、记录及跟进，支撑团队各类改善专项工作。",
+      "jobRequirements": "1. 全日制本科及以上学历，工业工程、机械工程、供应链管理、财务管理等相关专业优先。 2. 了解精益生产、IE改善、成本管控基础理念，对制造业运营优化工作有浓厚兴趣。 3. 熟练使用Excel、PPT等办公工具，掌握数据透视表、函数等基础数据处理能力，具备基础数据分析与汇报呈现能力。 4.逻辑清晰、细心严谨，责任心、执行力及学习能力强，具备良好的沟通协同能力，敢于接受工作挑战。 5. 英语基础良好，可满足日常工作沟通；德语能力者优先，可接受外籍人员。",
+      "JD": "1. 收集、校验工厂财务及生产运营绩效数据，维护项目台账，跟进项目进度与关键节点，定期跟进闭环待办事项，沉淀项目知识库。 2. 协助开展工厂现场调研、数据采集与问题记录，支撑成本优化、资产管理、价值流改善等精益试点项目落地，收集一线工具及流程优化反馈。 3. 维护更新精益改善模板、SOP及工具包，统一各工厂执行标准；制作数据分析看板、汇报PPT，跟进标准落地效果并输出优化建议。 4. 对接工厂、财务、IT等跨部门，协调资源、推进事项闭环；协助组织对标、复盘会议，完成会议筹备、记录及跟进，支撑团队各类改善专项工作。\n1. 全日制本科及以上学历，工业工程、机械工程、供应链管理、财务管理等相关专业优先。 2. 了解精益生产、IE改善、成本管控基础理念，对制造业运营优化工作有浓厚兴趣。 3. 熟练使用Excel、PPT等办公工具，掌握数据透视表、函数等基础数据处理能力，具备基础数据分析与汇报呈现能力。 4.逻辑清晰、细心严谨，责任心、执行力及学习能力强，具备良好的沟通协同能力，敢于接受工作挑战。 5. 英语基础良好，可满足日常工作沟通；德语能力者优先，可接受外籍人员。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 全日制本科及以上学历，工业工程、机械工程、供应链管理、财务管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "供应链",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "德赛西威官方飞书招聘",
+      "officialURL": "https://yesv-desaysv.jobs.feishu.cn/campus/m/position/7675275282068850980/detail",
+      "publishedAt": "2026-08-18",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1173,9 +1271,12 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "硕士研究生，心理学相关专业（应用心理学、工业与组织心理学、发展与教育心理学、临床与咨询心理学等），专业基础扎实；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "心理学相关专业（应用心理学、工业与组织心理学、发展与教育心理学、临床与咨询心理学等）",
+          "专业基础扎实"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -1187,11 +1288,11 @@
       "jobRequirements": "1、硕士研究生，心理学相关专业（应用心理学、工业与组织心理学、发展与教育心理学、临床与咨询心理学等），专业基础扎实； 2、具备扎实的心理学理论功底，熟悉心理咨询、情绪干预、职场心理、人群行为分析等相关专业知识 3、擅长共情、倾听与沟通，洞察力强 4、逻辑清晰、耐心细致，具备较强的问题解决能力、抗压能力和责任心 5、英文能进行简单口头沟通",
       "JD": "1、制定年度 EAP 项目计划并推动落地，协同搭建、完善员工心理健康服务（EAP）体系及制度。 2、为员工提供心理关怀、情绪疏导与基础心理咨询，策划落地员工关怀主题活动。 3、识别员工心理危机风险，对接外部心理机构开展专业干预，跟进个案并输出总结报告。 4、协助介入员工矛盾调解、劳资争议、申诉反馈等各类员工关系案件，提供心理学视角的沟通支持。 5、协同其他员工关系项目类事宜\n1、硕士研究生，心理学相关专业（应用心理学、工业与组织心理学、发展与教育心理学、临床与咨询心理学等），专业基础扎实； 2、具备扎实的心理学理论功底，熟悉心理咨询、情绪干预、职场心理、人群行为分析等相关专业知识 3、擅长共情、倾听与沟通，洞察力强 4、逻辑清晰、耐心细致，具备较强的问题解决能力、抗压能力和责任心 5、英文能进行简单口头沟通",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士研究生，心理学相关专业（应用心理学、工业与组织心理学、发展与教育心理学、临床与咨询心理学等），专业基础扎实；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

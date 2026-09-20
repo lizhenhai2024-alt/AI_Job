@@ -1,7 +1,7 @@
 {
   "company": "OPPO",
-  "count": 27,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 28,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "oppo-6d4e654c521f",
@@ -1585,6 +1585,99 @@
       "annualSalary": "未披露",
       "source": "OPPO官方2027校招官网",
       "officialURL": "https://careers.oppo.com/university/oppo/campus/post/1827",
+      "publishedAt": "2026-07-15",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→简历筛选→测评→笔试&AI面试（部分岗位）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 西电就业网校招公告 | https://job.xidian.edu.cn/campus/view/id/756587 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | OPPO校招官网 | https://careers.oppo.com/campus | 2026-09-17"
+    },
+    {
+      "id": "oppo-918be895d2ad",
+      "company": "OPPO",
+      "title": "软件产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.英语流利和理工科背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "在这里，你将获得：全球千万级用户的产品规划机会，量身定制的跨领域轮岗培养，专属导师团带教，充满激情和成长的工作方式。你需要以良好的审美，深入的用户理解为基础，打造令用户怦然心动的手机产品。 具体工作角色包括： 1.用户知心人：一切以用户体验为中心，洞察用户真实需求，把握用户需求的本质； 2.产品创想家：寻找满足用户需求的技术点，实现你心中对伟大产品的创想； 3.产品打磨者：联合开发、营销、销售伙伴共同打磨手机产品，建立与用户“沟通”的语言、传递产品卖点。",
+      "jobRequirements": "1.英语流利和理工科背景优先； 2.热爱电子产品，对消费者行为和心理感兴趣； 3.拥有强烈的好奇心和出色的洞察力； 4.具备优秀的结构化思维，逻辑清晰； 5.对美有强烈关注和不懈追求，重视产品的美感。 学历要求：本科及以上",
+      "JD": "在这里，你将获得：全球千万级用户的产品规划机会，量身定制的跨领域轮岗培养，专属导师团带教，充满激情和成长的工作方式。你需要以良好的审美，深入的用户理解为基础，打造令用户怦然心动的手机产品。 具体工作角色包括： 1.用户知心人：一切以用户体验为中心，洞察用户真实需求，把握用户需求的本质； 2.产品创想家：寻找满足用户需求的技术点，实现你心中对伟大产品的创想； 3.产品打磨者：联合开发、营销、销售伙伴共同打磨手机产品，建立与用户“沟通”的语言、传递产品卖点。\n1.英语流利和理工科背景优先； 2.热爱电子产品，对消费者行为和心理感兴趣； 3.拥有强烈的好奇心和出色的洞察力； 4.具备优秀的结构化思维，逻辑清晰； 5.对美有强烈关注和不懈追求，重视产品的美感。 学历要求：本科及以上",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.英语流利和理工科背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "用户",
+        "营销",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "OPPO官方2027校招官网",
+      "officialURL": "https://careers.oppo.com/university/oppo/campus/post/1835",
       "publishedAt": "2026-07-15",
       "lastVerified": "",
       "sourceType": "official",

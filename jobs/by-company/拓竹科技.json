@@ -1,7 +1,7 @@
 {
   "company": "拓竹科技",
-  "count": 38,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 39,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "feishu-817ef7-7670526133745748267",
@@ -2690,6 +2690,95 @@
       "annualSalary": "未披露",
       "source": "拓竹科技官方飞书招聘",
       "officialURL": "https://bambulab.jobs.feishu.cn/campus/m/position/7670505727224301843/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "1分钟极简网申→简历初筛→3~4轮面试→Offer沟通",
+      "recruitmentProcessEvidence": "E3 | 武汉本地宝转载官方校招公告 | http://wh.bendibao.com/job/2026817/199816.shtm | 2026-09-17",
+      "hasAssessment": "无",
+      "hasAssessmentEvidence": "E3 | 北京化工大学就业网校招公告 | https://jobmob.buct.edu.cn/xiaozhao/details.html?id=3713e783-404a-48c7-c68e-17c2461ffb88 | 2026-09-17"
+    },
+    {
+      "id": "feishu-817ef7-7670501615804664105",
+      "company": "拓竹科技",
+      "title": "项目管理 - 软件方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，计算机相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "负责软件产品项目计划/版本计划的制定、跟踪和维护，确保项目按计划完成。 负责软件产品项目资源的协调与组织，确保项目团队各干系人协同工作。 负责组织各项评审会议及项目例会。 及时发现并跟踪解决项目问题，有效管理项目风险。 负责软件产品开发流程在本项目的落地。",
+      "jobRequirements": "本科及以上学历，计算机相关专业优先。 对软件产品开发流程、敏捷项目管理有一定了解。 能够及时地跟进项目进度、管理项目风险，及时发现并跟踪解决项目问题。 具有良好的执行力和责任心，能主动积极推动项目团队朝目标前进。 具备良好的沟通技巧和团队合作精神，能够建立良好的团队氛围。 具有较强的风险意识，能够很好的识别项目风险，并做好风险应对。 善于归纳总结，能够推动团队效率不断提升。",
+      "JD": "负责软件产品项目计划/版本计划的制定、跟踪和维护，确保项目按计划完成。 负责软件产品项目资源的协调与组织，确保项目团队各干系人协同工作。 负责组织各项评审会议及项目例会。 及时发现并跟踪解决项目问题，有效管理项目风险。 负责软件产品开发流程在本项目的落地。\n本科及以上学历，计算机相关专业优先。 对软件产品开发流程、敏捷项目管理有一定了解。 能够及时地跟进项目进度、管理项目风险，及时发现并跟踪解决项目问题。 具有良好的执行力和责任心，能主动积极推动项目团队朝目标前进。 具备良好的沟通技巧和团队合作精神，能够建立良好的团队氛围。 具有较强的风险意识，能够很好的识别项目风险，并做好风险应对。 善于归纳总结，能够推动团队效率不断提升。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "本科及以上学历，计算机相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "拓竹科技官方飞书招聘",
+      "officialURL": "https://bambulab.jobs.feishu.cn/campus/m/position/7670501615804664105/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "传音控股",
-  "count": 74,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 77,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "beisen-839bd7f42841",
@@ -3955,6 +3955,99 @@
       "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
     },
     {
+      "id": "beisen-4e7499221ae2",
+      "company": "传音控股",
+      "title": "软件产品经理-上海(J20394)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一份子！ 我们正在寻找对智能终端产品充满热情的2027届应届毕业生，加入我们的产品经理团队，参与智能手机OS系统的产品规划、需求定义与功能设计工作。 在这里，你将深入理解全球新兴市场用户的真实需求，主导从洞察到落地的完整产品链路，为数亿用户打造卓越的移动体验。 【岗位职责】 1、负责垂直领域软件产品整体规划，能够根据产品战略目标、用户洞察、市场竞争格局等输出有竞争力的产品方案； 2、结合用户反馈和大数据分析，持续优化现有产品，提升用户体验； 3、结合AI能力，重构或提升软件产品体验； 4、持续跟踪行业动态和用户场景变化，给出全局性趋势和机会分析。",
+      "jobRequirements": "【任职资格】 1.热爱与洞察：对手机等消费电子产品有浓厚兴趣和深入理解，具备敏锐的用户洞察力，能准确把握用户需求的本质； 2.核心素质：出色的逻辑思维、沟通表达和快速学习能力。具备结构化思维，能清晰拆解复杂问题； 3.自驱与协作：积极主动，责任心强，具备良好的抗压能力和团队合作精神。",
+      "JD": "【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一份子！ 我们正在寻找对智能终端产品充满热情的2027届应届毕业生，加入我们的产品经理团队，参与智能手机OS系统的产品规划、需求定义与功能设计工作。 在这里，你将深入理解全球新兴市场用户的真实需求，主导从洞察到落地的完整产品链路，为数亿用户打造卓越的移动体验。 【岗位职责】 1、负责垂直领域软件产品整体规划，能够根据产品战略目标、用户洞察、市场竞争格局等输出有竞争力的产品方案； 2、结合用户反馈和大数据分析，持续优化现有产品，提升用户体验； 3、结合AI能力，重构或提升软件产品体验； 4、持续跟踪行业动态和用户场景变化，给出全局性趋势和机会分析。\n【任职资格】 1.热爱与洞察：对手机等消费电子产品有浓厚兴趣和深入理解，具备敏锐的用户洞察力，能准确把握用户需求的本质； 2.核心素质：出色的逻辑思维、沟通表达和快速学习能力。具备结构化思维，能清晰拆解复杂问题； 3.自驱与协作：积极主动，责任心强，具备良好的抗压能力和团队合作精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "我们正在寻找对智能终端产品充满热情的2027届应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=f3a74239-6298-42f6-9c3c-49426cf93bdd",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
       "id": "beisen-bbf193f60bfc",
       "company": "传音控股",
       "title": "基带工程师（上海）(J20271)",
@@ -4321,6 +4414,99 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=c9d55052-b4ed-4888-8e88-e10d83468836",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-002cd385f6e8",
+      "company": "传音控股",
+      "title": "软件产品经理-深圳(J20243)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一份子！ 我们正在寻找对智能终端产品充满热情的2027届应届毕业生，加入我们的产品经理团队，参与智能手机OS系统的产品规划、需求定义与功能设计工作。 在这里，你将深入理解全球新兴市场用户的真实需求，主导从洞察到落地的完整产品链路，为数亿用户打造卓越的移动体验。 【岗位职责】 1、负责垂直领域软件产品整体规划，能够根据产品战略目标、用户洞察、市场竞争格局等输出有竞争力的产品方案； 2、结合用户反馈和大数据分析，持续优化现有产品，提升用户体验； 3、结合AI能力，重构或提升软件产品体验； 4、持续跟踪行业动态和用户场景变化，给出全局性趋势和机会分析。",
+      "jobRequirements": "【任职资格】 1.热爱与洞察：对手机等消费电子产品有浓厚兴趣和深入理解，具备敏锐的用户洞察力，能准确把握用户需求的本质； 2.核心素质：出色的逻辑思维、沟通表达和快速学习能力。具备结构化思维，能清晰拆解复杂问题； 3.自驱与协作：积极主动，责任心强，具备良好的抗压能力和团队合作精神。",
+      "JD": "【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一份子！ 我们正在寻找对智能终端产品充满热情的2027届应届毕业生，加入我们的产品经理团队，参与智能手机OS系统的产品规划、需求定义与功能设计工作。 在这里，你将深入理解全球新兴市场用户的真实需求，主导从洞察到落地的完整产品链路，为数亿用户打造卓越的移动体验。 【岗位职责】 1、负责垂直领域软件产品整体规划，能够根据产品战略目标、用户洞察、市场竞争格局等输出有竞争力的产品方案； 2、结合用户反馈和大数据分析，持续优化现有产品，提升用户体验； 3、结合AI能力，重构或提升软件产品体验； 4、持续跟踪行业动态和用户场景变化，给出全局性趋势和机会分析。\n【任职资格】 1.热爱与洞察：对手机等消费电子产品有浓厚兴趣和深入理解，具备敏锐的用户洞察力，能准确把握用户需求的本质； 2.核心素质：出色的逻辑思维、沟通表达和快速学习能力。具备结构化思维，能清晰拆解复杂问题； 3.自驱与协作：积极主动，责任心强，具备良好的抗压能力和团队合作精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "2027届应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=b3f4442b-a039-42ba-a0e0-4e89a09dbabd",
       "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",
@@ -4714,197 +4900,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=e2a72936-a71d-46ba-8ebc-ba3e92b514a7",
-      "publishedAt": "2026-08-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
-      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
-    },
-    {
-      "id": "beisen-f829e7930f04",
-      "company": "传音控股",
-      "title": "生产计划工程师（深圳）(J20322)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产计划给到加工厂组织生产，并跟进解决生产异常保证生产顺利进行； 3、根据周生产计划制定物料需求计划给到采购，并跟进物料按时交货； 4、接收和评审客户订单，协调采购、工厂、关务、物流、项目、质量等部门按时完成订单交付。",
-      "jobRequirements": "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先； 2、英语四级及以上，听说读写流利",
-      "JD": "1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产计划给到加工厂组织生产，并跟进解决生产异常保证生产顺利进行； 3、根据周生产计划制定物料需求计划给到采购，并跟进物料按时交货； 4、接收和评审客户订单，协调采购、工厂、关务、物流、项目、质量等部门按时完成订单交付。\n1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先； 2、英语四级及以上，听说读写流利",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "3",
-        "min": 3,
-        "max": 3,
-        "scope": "job",
-        "display": "3人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "3 3 1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=376df5ec-6ac3-4f7e-b6bd-8ce6194a5787",
-      "publishedAt": "2026-08-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
-      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
-    },
-    {
-      "id": "beisen-e1ccd5369fcc",
-      "company": "传音控股",
-      "title": "需求计划工程师(J20325)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、全日制本科及以上学历，供应链管理、统计学、数学、工程管理、经济学、电子商务、应用统计、国际商务等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1.编制各市场月度/周度滚动需求预测，结合历史销售数据、新品上市节奏、营销活动及竞品动态等因素持续优化预测模型，跟踪预测准确率并推动精度提升； 2.牵头组织S&OP会议，拉通销售、市场、产品、财务、供应链等部门，汇总供需信息形成一致的滚动计划决策，并跟踪决议执行情况推动落地； 3.监控各市场渠道库存水平（SI/SO/DOS），建立库存预警机制，识别呆滞及超期库存风险，制定消化或调拨方案，保障库存周转在健康区间； 4.接收和评审销售/客户周度订单，协调资源完成建单，跟踪从提报→评审→建单→收款→执行的全链路进度，处理异常问题确保交付及时率； 5.建立和维护需求计划数据报表体系（日报/周报/月报），定期输出销量趋势分析、预测偏差分析、库存健康度分析等专题报告，为业务决策提供数据支撑； 6.根据业务需要接受海外派驻或短期出差，深入了解当地市场动态，配合海外团队提供本地化需求计划支持与决策建议。",
-      "jobRequirements": "1、全日制本科及以上学历，供应链管理、统计学、数学、工程管理、经济学、电子商务、应用统计、国际商务等相关专业优先； 2、英语六级及以上（雅思/托福同等水平），听说读写流利，有海外学习经历优先",
-      "JD": "1.编制各市场月度/周度滚动需求预测，结合历史销售数据、新品上市节奏、营销活动及竞品动态等因素持续优化预测模型，跟踪预测准确率并推动精度提升； 2.牵头组织S&OP会议，拉通销售、市场、产品、财务、供应链等部门，汇总供需信息形成一致的滚动计划决策，并跟踪决议执行情况推动落地； 3.监控各市场渠道库存水平（SI/SO/DOS），建立库存预警机制，识别呆滞及超期库存风险，制定消化或调拨方案，保障库存周转在健康区间； 4.接收和评审销售/客户周度订单，协调资源完成建单，跟踪从提报→评审→建单→收款→执行的全链路进度，处理异常问题确保交付及时率； 5.建立和维护需求计划数据报表体系（日报/周报/月报），定期输出销量趋势分析、预测偏差分析、库存健康度分析等专题报告，为业务决策提供数据支撑； 6.根据业务需要接受海外派驻或短期出差，深入了解当地市场动态，配合海外团队提供本地化需求计划支持与决策建议。\n1、全日制本科及以上学历，供应链管理、统计学、数学、工程管理、经济学、电子商务、应用统计、国际商务等相关专业优先； 2、英语六级及以上（雅思/托福同等水平），听说读写流利，有海外学习经历优先",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、全日制本科及以上学历，供应链管理、统计学、数学、工程管理、经济学、电子商务、应用统计、国际商务等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "翻译/本地化"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "市场",
-        "数据",
-        "营销",
-        "供应链",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "2",
-        "min": 2,
-        "max": 2,
-        "scope": "job",
-        "display": "2人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "2 2 1.编制各市场月度/周度滚动需求预测，结合历史销售数据、新品上市节奏、营销活动及竞"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=71d6760c-ac73-4b18-a491-02e027f94061",
       "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",
@@ -5468,6 +5463,197 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=e3b8f943-59b6-42ed-86f3-6b99d0839c09",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-f829e7930f04",
+      "company": "传音控股",
+      "title": "生产计划工程师（深圳）(J20322)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产计划给到加工厂组织生产，并跟进解决生产异常保证生产顺利进行； 3、根据周生产计划制定物料需求计划给到采购，并跟进物料按时交货； 4、接收和评审客户订单，协调采购、工厂、关务、物流、项目、质量等部门按时完成订单交付。",
+      "jobRequirements": "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先； 2、英语四级及以上，听说读写流利",
+      "JD": "1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产计划给到加工厂组织生产，并跟进解决生产异常保证生产顺利进行； 3、根据周生产计划制定物料需求计划给到采购，并跟进物料按时交货； 4、接收和评审客户订单，协调采购、工厂、关务、物流、项目、质量等部门按时完成订单交付。\n1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先； 2、英语四级及以上，听说读写流利",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=376df5ec-6ac3-4f7e-b6bd-8ce6194a5787",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-e1ccd5369fcc",
+      "company": "传音控股",
+      "title": "需求计划工程师(J20325)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、全日制本科及以上学历，供应链管理、统计学、数学、工程管理、经济学、电子商务、应用统计、国际商务等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1.编制各市场月度/周度滚动需求预测，结合历史销售数据、新品上市节奏、营销活动及竞品动态等因素持续优化预测模型，跟踪预测准确率并推动精度提升； 2.牵头组织S&OP会议，拉通销售、市场、产品、财务、供应链等部门，汇总供需信息形成一致的滚动计划决策，并跟踪决议执行情况推动落地； 3.监控各市场渠道库存水平（SI/SO/DOS），建立库存预警机制，识别呆滞及超期库存风险，制定消化或调拨方案，保障库存周转在健康区间； 4.接收和评审销售/客户周度订单，协调资源完成建单，跟踪从提报→评审→建单→收款→执行的全链路进度，处理异常问题确保交付及时率； 5.建立和维护需求计划数据报表体系（日报/周报/月报），定期输出销量趋势分析、预测偏差分析、库存健康度分析等专题报告，为业务决策提供数据支撑； 6.根据业务需要接受海外派驻或短期出差，深入了解当地市场动态，配合海外团队提供本地化需求计划支持与决策建议。",
+      "jobRequirements": "1、全日制本科及以上学历，供应链管理、统计学、数学、工程管理、经济学、电子商务、应用统计、国际商务等相关专业优先； 2、英语六级及以上（雅思/托福同等水平），听说读写流利，有海外学习经历优先",
+      "JD": "1.编制各市场月度/周度滚动需求预测，结合历史销售数据、新品上市节奏、营销活动及竞品动态等因素持续优化预测模型，跟踪预测准确率并推动精度提升； 2.牵头组织S&OP会议，拉通销售、市场、产品、财务、供应链等部门，汇总供需信息形成一致的滚动计划决策，并跟踪决议执行情况推动落地； 3.监控各市场渠道库存水平（SI/SO/DOS），建立库存预警机制，识别呆滞及超期库存风险，制定消化或调拨方案，保障库存周转在健康区间； 4.接收和评审销售/客户周度订单，协调资源完成建单，跟踪从提报→评审→建单→收款→执行的全链路进度，处理异常问题确保交付及时率； 5.建立和维护需求计划数据报表体系（日报/周报/月报），定期输出销量趋势分析、预测偏差分析、库存健康度分析等专题报告，为业务决策提供数据支撑； 6.根据业务需要接受海外派驻或短期出差，深入了解当地市场动态，配合海外团队提供本地化需求计划支持与决策建议。\n1、全日制本科及以上学历，供应链管理、统计学、数学、工程管理、经济学、电子商务、应用统计、国际商务等相关专业优先； 2、英语六级及以上（雅思/托福同等水平），听说读写流利，有海外学习经历优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、全日制本科及以上学历，供应链管理、统计学、数学、工程管理、经济学、电子商务、应用统计、国际商务等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "营销",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.编制各市场月度/周度滚动需求预测，结合历史销售数据、新品上市节奏、营销活动及竞"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=71d6760c-ac73-4b18-a491-02e027f94061",
       "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",
@@ -6113,6 +6299,99 @@
       "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
     },
     {
+      "id": "beisen-a4b01590a630",
+      "company": "传音控股",
+      "title": "软件产品经理-重庆(J20244)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一份子！ 我们正在寻找对智能终端产品充满热情的2027届应届毕业生，加入我们的产品经理团队，参与智能手机OS系统的产品规划、需求定义与功能设计工作。 在这里，你将深入理解全球新兴市场用户的真实需求，主导从洞察到落地的完整产品链路，为数亿用户打造卓越的移动体验。 【岗位职责】 1、负责垂直领域软件产品整体规划，能够根据产品战略目标、用户洞察、市场竞争格局等输出有竞争力的产品方案； 2、结合用户反馈和大数据分析，持续优化现有产品，提升用户体验； 3、结合AI能力，重构或提升软件产品体验； 4、持续跟踪行业动态和用户场景变化，给出全局性趋势和机会分析。",
+      "jobRequirements": "【任职资格】 1.热爱与洞察：对手机等消费电子产品有浓厚兴趣和深入理解，具备敏锐的用户洞察力，能准确把握用户需求的本质； 2.核心素质：出色的逻辑思维、沟通表达和快速学习能力。具备结构化思维，能清晰拆解复杂问题； 3.自驱与协作：积极主动，责任心强，具备良好的抗压能力和团队合作精神。",
+      "JD": "【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一份子！ 我们正在寻找对智能终端产品充满热情的2027届应届毕业生，加入我们的产品经理团队，参与智能手机OS系统的产品规划、需求定义与功能设计工作。 在这里，你将深入理解全球新兴市场用户的真实需求，主导从洞察到落地的完整产品链路，为数亿用户打造卓越的移动体验。 【岗位职责】 1、负责垂直领域软件产品整体规划，能够根据产品战略目标、用户洞察、市场竞争格局等输出有竞争力的产品方案； 2、结合用户反馈和大数据分析，持续优化现有产品，提升用户体验； 3、结合AI能力，重构或提升软件产品体验； 4、持续跟踪行业动态和用户场景变化，给出全局性趋势和机会分析。\n【任职资格】 1.热爱与洞察：对手机等消费电子产品有浓厚兴趣和深入理解，具备敏锐的用户洞察力，能准确把握用户需求的本质； 2.核心素质：出色的逻辑思维、沟通表达和快速学习能力。具备结构化思维，能清晰拆解复杂问题； 3.自驱与协作：积极主动，责任心强，具备良好的抗压能力和团队合作精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "2027届应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 【岗位愿景/目标】 加入传音控股软件工程部，成为改变非洲和全球新兴市场科技格局的一"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=0a520e50-befe-4f69-b496-f7e3614c223d",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
       "id": "beisen-b582d03d8153",
       "company": "传音控股",
       "title": "影像效果产品经理(J20303)",
@@ -6488,191 +6767,6 @@
       "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
     },
     {
-      "id": "beisen-36158ea406b7",
-      "company": "传音控股",
-      "title": "生产计划工程师（重庆）(J20323)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "jobDescription": "1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产计划给到加工厂组织生产，并跟进解决生产异常保证生产顺利进行； 3、根据周生产计划制定物料需求计划给到采购，并跟进物料按时交货； 4、接收和评审客户订单，协调采购、工厂、关务、物流、项目、质量等部门按时完成订单交付。",
-      "jobRequirements": "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先； 2、英语四级及以上，听说读写流利",
-      "JD": "1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产计划给到加工厂组织生产，并跟进解决生产异常保证生产顺利进行； 3、根据周生产计划制定物料需求计划给到采购，并跟进物料按时交货； 4、接收和评审客户订单，协调采购、工厂、关务、物流、项目、质量等部门按时完成订单交付。\n1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先； 2、英语四级及以上，听说读写流利",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "2",
-        "min": 2,
-        "max": 2,
-        "scope": "job",
-        "display": "2人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "2 2 1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=fb280fe9-1d88-45cc-ae15-2f858c42cf0b",
-      "publishedAt": "2026-08-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
-      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
-    },
-    {
-      "id": "beisen-2ac00ca3dc06",
-      "company": "传音控股",
-      "title": "供应系统工程师(J20324)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2.数学/物理/统计学/信息系统/工业工程/供应链管理等理工科专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1.业务调研与需求分析：深入业务一线，与计划、采购、销管、生产等团队沟通，识别业务痛点与需求，将业务场景抽象为系统需求文档，协助完成需求评审与优先级排序。 2.协助设计业务与IT解决方案，包含业务流程设计、功能逻辑设计、数据模型梳理，并参与跨系统集成方案的讨论与落地。 3.计划数字化产品运营：计划系统（MRP系统/APS系统）的日常运营，包含系统问题处理、性能监控、BUG跟踪、用户问题查询分析解答、参数配置调整，系统功能推广等。 4.系统测试与上线：编写测试用例、执行SIT/UAT测试、编写测试报告，参与功能上线及用户培训，跟踪上线后问题。 5.业务流程优化：参与计划领域端到端业务流程的梳理与诊断，识别流程瓶颈与改进机会，推动流程标准化与数字化。 6.参与供应链范围内的数字化项目。",
-      "jobRequirements": "1.2027届全日制本科及以上 2.数学/物理/统计学/信息系统/工业工程/供应链管理等理工科专业优先 3.了解SQL或任一编程语言者优先；对IT系统实现过程有基本概念者优先",
-      "JD": "1.业务调研与需求分析：深入业务一线，与计划、采购、销管、生产等团队沟通，识别业务痛点与需求，将业务场景抽象为系统需求文档，协助完成需求评审与优先级排序。 2.协助设计业务与IT解决方案，包含业务流程设计、功能逻辑设计、数据模型梳理，并参与跨系统集成方案的讨论与落地。 3.计划数字化产品运营：计划系统（MRP系统/APS系统）的日常运营，包含系统问题处理、性能监控、BUG跟踪、用户问题查询分析解答、参数配置调整，系统功能推广等。 4.系统测试与上线：编写测试用例、执行SIT/UAT测试、编写测试报告，参与功能上线及用户培训，跟踪上线后问题。 5.业务流程优化：参与计划领域端到端业务流程的梳理与诊断，识别流程瓶颈与改进机会，推动流程标准化与数字化。 6.参与供应链范围内的数字化项目。\n1.2027届全日制本科及以上 2.数学/物理/统计学/信息系统/工业工程/供应链管理等理工科专业优先 3.了解SQL或任一编程语言者优先；对IT系统实现过程有基本概念者优先",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2.数学/物理/统计学/信息系统/工业工程/供应链管理等理工科专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1.业务调研与需求分析：深入业务一线，与计划、采购、销管、生产等团队沟通，识别业务"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=bc9fa18e-85d0-46be-a9b9-8efb92a79935",
-      "publishedAt": "2026-08-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
-      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
-    },
-    {
       "id": "beisen-677e0d1ff8b4",
       "company": "传音控股",
       "title": "技术支持专员（菲律宾）(J20328)",
@@ -6850,6 +6944,191 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=6ed91dc0-2c51-4ddb-b7e7-de17cc22a1d6",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-36158ea406b7",
+      "company": "传音控股",
+      "title": "生产计划工程师（重庆）(J20323)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产计划给到加工厂组织生产，并跟进解决生产异常保证生产顺利进行； 3、根据周生产计划制定物料需求计划给到采购，并跟进物料按时交货； 4、接收和评审客户订单，协调采购、工厂、关务、物流、项目、质量等部门按时完成订单交付。",
+      "jobRequirements": "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先； 2、英语四级及以上，听说读写流利",
+      "JD": "1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产计划给到加工厂组织生产，并跟进解决生产异常保证生产顺利进行； 3、根据周生产计划制定物料需求计划给到采购，并跟进物料按时交货； 4、接收和评审客户订单，协调采购、工厂、关务、物流、项目、质量等部门按时完成订单交付。\n1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先； 2、英语四级及以上，听说读写流利",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、全日制本科及以上学历，统计学、国际经济与贸易、理工相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、根据主生产计划制定物料需求计划，并核算释放采购申请； 2、编制和下达周、日生产"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=fb280fe9-1d88-45cc-ae15-2f858c42cf0b",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-2ac00ca3dc06",
+      "company": "传音控股",
+      "title": "供应系统工程师(J20324)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.数学/物理/统计学/信息系统/工业工程/供应链管理等理工科专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1.业务调研与需求分析：深入业务一线，与计划、采购、销管、生产等团队沟通，识别业务痛点与需求，将业务场景抽象为系统需求文档，协助完成需求评审与优先级排序。 2.协助设计业务与IT解决方案，包含业务流程设计、功能逻辑设计、数据模型梳理，并参与跨系统集成方案的讨论与落地。 3.计划数字化产品运营：计划系统（MRP系统/APS系统）的日常运营，包含系统问题处理、性能监控、BUG跟踪、用户问题查询分析解答、参数配置调整，系统功能推广等。 4.系统测试与上线：编写测试用例、执行SIT/UAT测试、编写测试报告，参与功能上线及用户培训，跟踪上线后问题。 5.业务流程优化：参与计划领域端到端业务流程的梳理与诊断，识别流程瓶颈与改进机会，推动流程标准化与数字化。 6.参与供应链范围内的数字化项目。",
+      "jobRequirements": "1.2027届全日制本科及以上 2.数学/物理/统计学/信息系统/工业工程/供应链管理等理工科专业优先 3.了解SQL或任一编程语言者优先；对IT系统实现过程有基本概念者优先",
+      "JD": "1.业务调研与需求分析：深入业务一线，与计划、采购、销管、生产等团队沟通，识别业务痛点与需求，将业务场景抽象为系统需求文档，协助完成需求评审与优先级排序。 2.协助设计业务与IT解决方案，包含业务流程设计、功能逻辑设计、数据模型梳理，并参与跨系统集成方案的讨论与落地。 3.计划数字化产品运营：计划系统（MRP系统/APS系统）的日常运营，包含系统问题处理、性能监控、BUG跟踪、用户问题查询分析解答、参数配置调整，系统功能推广等。 4.系统测试与上线：编写测试用例、执行SIT/UAT测试、编写测试报告，参与功能上线及用户培训，跟踪上线后问题。 5.业务流程优化：参与计划领域端到端业务流程的梳理与诊断，识别流程瓶颈与改进机会，推动流程标准化与数字化。 6.参与供应链范围内的数字化项目。\n1.2027届全日制本科及以上 2.数学/物理/统计学/信息系统/工业工程/供应链管理等理工科专业优先 3.了解SQL或任一编程语言者优先；对IT系统实现过程有基本概念者优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.数学/物理/统计学/信息系统/工业工程/供应链管理等理工科专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.业务调研与需求分析：深入业务一线，与计划、采购、销管、生产等团队沟通，识别业务"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=bc9fa18e-85d0-46be-a9b9-8efb92a79935",
       "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",

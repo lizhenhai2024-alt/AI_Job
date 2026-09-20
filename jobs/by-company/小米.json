@@ -1,7 +1,7 @@
 {
   "company": "小米",
-  "count": 230,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "count": 236,
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -8587,6 +8587,94 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7670885598815111465",
+      "company": "小米",
+      "title": "软件产品经理-安全隐私方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责系统级安全隐私机制建设，设计OS安全隐私功能和卖点，提升OS系统的安全隐私能力； 2、负责OS安全隐私口碑建设，提升OS安全隐私用户满意度在行业中的地位； 3、持续关注和分析行业安全隐私领域的发展，规划安全隐私长期战略路线； 4、政府和开发者相关隐私事务处理，并参与安全隐私相关行业规范建设。",
+      "jobRequirements": "1、有安全产品相关的实习经验； 2、熟悉手机安全隐私理论和策略、安卓系统底层机制、行业隐私保护措施等安全隐私领域知识者优先； 3、具备良好的跨部门沟通协调和推动能力，良好的项目管理能力。",
+      "JD": "1、负责系统级安全隐私机制建设，设计OS安全隐私功能和卖点，提升OS系统的安全隐私能力； 2、负责OS安全隐私口碑建设，提升OS安全隐私用户满意度在行业中的地位； 3、持续关注和分析行业安全隐私领域的发展，规划安全隐私长期战略路线； 4、政府和开发者相关隐私事务处理，并参与安全隐私相关行业规范建设。\n1、有安全产品相关的实习经验； 2、熟悉手机安全隐私理论和策略、安卓系统底层机制、行业隐私保护措施等安全隐私领域知识者优先； 3、具备良好的跨部门沟通协调和推动能力，良好的项目管理能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885598815111465/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7670885505136314678",
       "company": "小米",
       "title": "产品操盘专员-运营商",
@@ -14603,6 +14691,96 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7670930653174008127",
+      "company": "小米",
+      "title": "硬件产品经理-家电",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，产品设计、产品专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "武汉",
+      "jobDescription": "1.与研发、设计、市场、销售合作，创新产品以解决真正的用户问题； 2.在解决方案中建立竞争优势； 3.负责按照整体战略制定和实施产品品类战略计划； 4.运行综合产品企划流程，指导针对消费者需求的产品研发； 5.基于消费者洞察来构建产品路线图，抓住机会,定义开发范围，引导创新相关人员找到解决方案，确定价格定位和业务规模； 6.与销售/市场相关人员协作管理品类的整个产品生命周期。",
+      "jobRequirements": "1.本科及以上学历，产品设计、产品专业优先； 2.英语流利，有产品实习经历和设计经验优先； 3.具备较强的学习能力、清晰的逻辑思维，具有良好的分析问题和解决问题能力； 4.有良好的团队合作和自驱能力，做事积极主动、有责任心，善于总结、乐于分享。",
+      "JD": "1.与研发、设计、市场、销售合作，创新产品以解决真正的用户问题； 2.在解决方案中建立竞争优势； 3.负责按照整体战略制定和实施产品品类战略计划； 4.运行综合产品企划流程，指导针对消费者需求的产品研发； 5.基于消费者洞察来构建产品路线图，抓住机会,定义开发范围，引导创新相关人员找到解决方案，确定价格定位和业务规模； 6.与销售/市场相关人员协作管理品类的整个产品生命周期。\n1.本科及以上学历，产品设计、产品专业优先； 2.英语流利，有产品实习经历和设计经验优先； 3.具备较强的学习能力、清晰的逻辑思维，具有良好的分析问题和解决问题能力； 4.有良好的团队合作和自驱能力，做事积极主动、有责任心，善于总结、乐于分享。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，产品设计、产品专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "用户",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670930653174008127/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7670924160045992246",
       "company": "小米",
       "title": "产品经理-汽车座舱/APP",
@@ -14970,6 +15148,100 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7670923048640809259",
+      "company": "小米",
+      "title": "数据产品经理-算法平台方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、理解业务运作逻辑，提炼业务数据需求，协调业务方和数据研发，通过工具、提供流程的数据解决方案（可视化、看板等）； 2、抽象业务场景，反哺AI能力的建设，包括数据字典及知识库的沉淀，保障AI用数的全面准确，可设计skill解决业务问题； 3、主动发掘业务机会点，深挖流量价值，包括不限于流量分析、数据挖掘与洞察、策略沉淀与输出，执行落地、效果追踪。",
+      "jobRequirements": "1、本科及以上学历； 2、工作主动积极，能承受一定工作压力，执行力强； 3、熟练使用SQL，熟悉Tableau、PowerBI、神策等常用工具。了解大数据相关基础知识，熟悉常见的统计学模型、数据分析和处理方法； 4、具备良好的数据思维能力和数据决策意识，对业务逻辑和数据表现敏感，能够独立分析并解决问题，并基于数据提出有效的业务洞察。",
+      "JD": "1、理解业务运作逻辑，提炼业务数据需求，协调业务方和数据研发，通过工具、提供流程的数据解决方案（可视化、看板等）； 2、抽象业务场景，反哺AI能力的建设，包括数据字典及知识库的沉淀，保障AI用数的全面准确，可设计skill解决业务问题； 3、主动发掘业务机会点，深挖流量价值，包括不限于流量分析、数据挖掘与洞察、策略沉淀与输出，执行落地、效果追踪。\n1、本科及以上学历； 2、工作主动积极，能承受一定工作压力，执行力强； 3、熟练使用SQL，熟悉Tableau、PowerBI、神策等常用工具。了解大数据相关基础知识，熟悉常见的统计学模型、数据分析和处理方法； 4、具备良好的数据思维能力和数据决策意识，对业务逻辑和数据表现敏感，能够独立分析并解决问题，并基于数据提出有效的业务洞察。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL",
+        "PowerBI"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670923048640809259/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7670918884702587174",
       "company": "小米",
       "title": "数据产品经理-汽车",
@@ -15235,6 +15507,97 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670918768223209779/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670892445827811634",
+      "company": "小米",
+      "title": "软件产品经理-OS规划方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，计算机、工业设计专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责国内外Xiaomi HyperOS大小版本的需求规划； 2、与产品、市场、研发等部门协同工作。",
+      "jobRequirements": "1、硕士及以上学历，计算机、工业设计专业优先。 2、对各手机厂商OS熟悉者优先。 3、具备较强的沟通能力、团队合作精神和责任心。 4、具备一定的系统工程思维能力，逻辑清晰、思路连贯。 5、具备一定的数据分析方法和工具使用能力，可以进行数据分析与挖掘。",
+      "JD": "1、负责国内外Xiaomi HyperOS大小版本的需求规划； 2、与产品、市场、研发等部门协同工作。\n1、硕士及以上学历，计算机、工业设计专业优先。 2、对各手机厂商OS熟悉者优先。 3、具备较强的沟通能力、团队合作精神和责任心。 4、具备一定的系统工程思维能力，逻辑清晰、思路连贯。 5、具备一定的数据分析方法和工具使用能力，可以进行数据分析与挖掘。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，计算机、工业设计专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670892445827811634/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -16487,6 +16850,94 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7671295351282321674",
+      "company": "小米",
+      "title": "相机软件产品经理-手机",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上学历，计算机、交互设计、心理学、数学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 了解影像行业，能深入分析用户对摄影方面产品的喜好、挖掘拍摄需求，追踪消费类影像产品发展趋势； 2. 输出相机&相册编辑功能产品定义以及需求文档，并跟全部产品方案的输出/开发/测试/验证/上线/反馈等全流程； 3. 对用户体验有一定的理解，能将用户体验验收的高标准要求应用于全部的产品开发流程中； 4. 了解算法原理和逻辑，能根据用户使用场景和行为提出算法需求，并根据算法逻辑输出完整场景化产品设计方案。",
+      "jobRequirements": "1. 本科及以上学历，计算机、交互设计、心理学、数学等相关专业优先； 2. 具备极好的逻辑性和思考力，善于分析总结； 3. 善于沟通，有推动力，对打造世界一流产品体验有追求，不畏艰辛，积极乐观； 4. 热爱摄影，喜欢用拍照记录生活，熟悉手机影像&后期处理工具，手机中超过2万张照片者优先； 5. 良好的团队意识和沟通能力； 6. 有耐心，具备打磨细节的能力。",
+      "JD": "1. 了解影像行业，能深入分析用户对摄影方面产品的喜好、挖掘拍摄需求，追踪消费类影像产品发展趋势； 2. 输出相机&相册编辑功能产品定义以及需求文档，并跟全部产品方案的输出/开发/测试/验证/上线/反馈等全流程； 3. 对用户体验有一定的理解，能将用户体验验收的高标准要求应用于全部的产品开发流程中； 4. 了解算法原理和逻辑，能根据用户使用场景和行为提出算法需求，并根据算法逻辑输出完整场景化产品设计方案。\n1. 本科及以上学历，计算机、交互设计、心理学、数学等相关专业优先； 2. 具备极好的逻辑性和思考力，善于分析总结； 3. 善于沟通，有推动力，对打造世界一流产品体验有追求，不畏艰辛，积极乐观； 4. 热爱摄影，喜欢用拍照记录生活，熟悉手机影像&后期处理工具，手机中超过2万张照片者优先； 5. 良好的团队意识和沟通能力； 6. 有耐心，具备打磨细节的能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，计算机、交互设计、心理学、数学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295351282321674/detail",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7671294918607079730",
       "company": "小米",
       "title": "Android系统工程师",
@@ -16742,6 +17193,102 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671289170229512489/detail",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7671288929840580890",
+      "company": "小米",
+      "title": "硬件产品经理-生态链",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，电子工程、机械工程、自动化、工业设计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责小米硬件产品（如智能设备、消费电子、IoT设备等）的规划与定义，制定产品路线图和生命周期管理； 2、深入调研用户需求、技术趋势及行业标准，输出产品需求文档（PRD）及硬件规格说明书； 3、主导产品功能定义，包括硬件性能、结构设计、材料选型、生产工艺等关键参数； 4、解决硬件开发中的技术问题，推动设计优化； 5、配合市场团队制定产品定价、营销策略及推广计划，支持产品上市和销售目标达成； 6、收集用户反馈和售后数据，持续优化产品体验及迭代规划。",
+      "jobRequirements": "1、本科及以上学历，电子工程、机械工程、自动化、工业设计等相关专业优先。 2、熟悉硬件开发工具（如Altium、SolidWorks、AutoCAD等），能理解原理图及BOM表； 3、具备较强的学习能力、清晰的逻辑思维，具有良好的分析问题和解决问题能力； 4、有良好的抗压能力、团队合作和自驱能力，做事积极主动、有责任心，善于总结、乐于分享。",
+      "JD": "1、负责小米硬件产品（如智能设备、消费电子、IoT设备等）的规划与定义，制定产品路线图和生命周期管理； 2、深入调研用户需求、技术趋势及行业标准，输出产品需求文档（PRD）及硬件规格说明书； 3、主导产品功能定义，包括硬件性能、结构设计、材料选型、生产工艺等关键参数； 4、解决硬件开发中的技术问题，推动设计优化； 5、配合市场团队制定产品定价、营销策略及推广计划，支持产品上市和销售目标达成； 6、收集用户反馈和售后数据，持续优化产品体验及迭代规划。\n1、本科及以上学历，电子工程、机械工程、自动化、工业设计等相关专业优先。 2、熟悉硬件开发工具（如Altium、SolidWorks、AutoCAD等），能理解原理图及BOM表； 3、具备较强的学习能力、清晰的逻辑思维，具有良好的分析问题和解决问题能力； 4、有良好的抗压能力、团队合作和自驱能力，做事积极主动、有责任心，善于总结、乐于分享。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子工程、机械工程、自动化、工业设计等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "结构/原理",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671288929840580890/detail",
       "publishedAt": "2026-08-07",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "京人才·新未来——京新药业",
   "count": 10,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "university-bc2f36cd2d2c3d",
@@ -96,7 +96,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "博士以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -110,13 +110,17 @@
       "jobRequirements": "1. 博士以上学历，有带团队开展有机合成项目经验，CET-6能阅读英文专业文献； 2. 良好的文献检索和专利分析能力； 3. 良好的执行力、责任心和沟通能力。",
       "JD": "1、在产品种的工艺技改（收率提升，单耗下降，三废减排，生产效率提升等）试验研究，中试放大生产与车间试产验证; 2、新产品工艺优化（产业化放大方向），工艺评估与承接及其中试验证技术支持； 3、在产品种GMP变更工艺技术研究，技术资料起草。\n1. 博士以上学历，有带团队开展有机合成项目经验，CET-6能阅读英文专业文献； 2. 良好的文献检索和专利分析能力； 3. 良好的执行力、责任心和沟通能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "博士以上学历"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -193,13 +197,16 @@
       "jobRequirements": "1、英语口语流利，能跟国外客户交流技术问题； 2、掌握口服固体制剂的基础知识； 3、逻辑严谨，积极乐观，执行力强，有良好的沟通能力。",
       "JD": "1、独立承接项目的技术转移，按计划推进项目，包含文件起草、实验开展、生产跟进等； 2、负责CMO项目商业化落地的执行和推进； 3、负责项目开展过程中设备的规范操作、实验记录。\n1、英语口语流利，能跟国外客户交流技术问题； 2、掌握口服固体制剂的基础知识； 3、逻辑严谨，积极乐观，执行力强，有良好的沟通能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "开发实现"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "跨文化沟通",
+          "客户关系"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -277,10 +284,10 @@
       "jobRequirements": "1.27届硕士，具有较强的计划、组织、协调能力；CET-6良好的英语听、说、读、写、译能力； 2.较强的文字编辑能力，在有同等条件下，若有小语种经验者优先； 3. 良好的执行力和责任心。",
       "JD": "1、负责新产品的国内和国外申报； 2、负责老产品的国内和国外变更申报； 3、提供国内外客户技术问题回复，国外客户审计等。\n1.27届硕士，具有较强的计划、组织、协调能力；CET-6良好的英语听、说、读、写、译能力； 2.较强的文字编辑能力，在有同等条件下，若有小语种经验者优先； 3. 良好的执行力和责任心。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "27届硕士"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -346,9 +353,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "27届硕士学历，有独立开展有机合成项目经验，CET-6能阅读英文专业文献",
+        "hardRestriction": true,
+        "hardClauses": [
+          "CET-6能阅读英文专业文献"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -360,13 +369,20 @@
       "jobRequirements": "1. 27届硕士学历，有独立开展有机合成项目经验，CET-6能阅读英文专业文献； 2. 良好的文献检索和专利分析能力； 3. 良好的执行力、责任心和沟通能力。",
       "JD": "1、在产品种的工艺技改（收率提升，单耗下降，三废减排，生产效率提升等）试验研究，中试放大生产与车间试产验证; 2、新产品工艺优化（产业化放大方向），工艺评估与承接及其中试验证技术支持； 3、在产品种GMP变更工艺技术研究，技术资料起草。\n1. 27届硕士学历，有独立开展有机合成项目经验，CET-6能阅读英文专业文献； 2. 良好的文献检索和专利分析能力； 3. 良好的执行力、责任心和沟通能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "27届硕士学历，有独立开展有机合成项目经验，CET-6能阅读英文专业文献"
         ],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [
+          "27届硕士学历"
+        ],
+        "technicalDuties": [
+          "技术评估",
+          "开发实现"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -512,7 +528,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "27届本科以上熟练操作办公室软件，CET-4",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -526,10 +542,12 @@
       "jobRequirements": "1. 27届本科以上熟练操作办公室软件，CET-4； 2. 有较好的沟通、协调能力和工作热情和责任心； 3. 良好的执行力和责任心。",
       "JD": "1.负责生产现场GMP的符合性的监督检查工作，包括现场卫生、设备设施维护保养、物料摆放、记录填写等； 2. 组织或协助车间完成偏差，跟踪并评估纠正预防措施实施结果； 3.负责组织车间做好验证（确认）工作，并审核方案及报告。\n1. 27届本科以上熟练操作办公室软件，CET-4； 2. 有较好的沟通、协调能力和工作热情和责任心； 3. 良好的执行力和责任心。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "27届本科以上熟练操作办公室软件，CET-4"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "27届本科以上熟练操作办公室软件，CET-4"
         ],
         "technicalDuties": [],
         "businessDuties": []

@@ -1,7 +1,7 @@
 {
   "company": "快手",
   "count": 82,
-  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "updatedAt": "2026-09-20T05:18:12.772Z",
   "jobs": [
     {
       "id": "kuaishou-12f8df8d0013",
@@ -4578,6 +4578,97 @@
       "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
     },
     {
+      "id": "kuaishou-6914aa2c9012",
+      "company": "快手",
+      "title": "策略产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，计算机、数学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、根据不同应用场景（推荐、增长裂变、热点功能等）提出产品策略方案，推动具体策略的迭代升级及产品化功能落地，提升用户此功能的使用体验；\n2、深入了解业务场景，通过用户调研、数据分析挖掘用户需求，基于用户反馈和数据分析，进行效果评估并提出产品改进点，不断迭代产品功能；\n3、收集内外部需求，跟踪行业竞品动态，挖掘新的策略优化点并提出切实可行的产品方案；\n4、通过用户调研、竞品分析、数据分析，学习和了解业界最新动态，发现产品机会点。",
+      "jobRequirements": "",
+      "JD": "1、根据不同应用场景（推荐、增长裂变、热点功能等）提出产品策略方案，推动具体策略的迭代升级及产品化功能落地，提升用户此功能的使用体验；\n2、深入了解业务场景，通过用户调研、数据分析挖掘用户需求，基于用户反馈和数据分析，进行效果评估并提出产品改进点，不断迭代产品功能；\n3、收集内外部需求，跟踪行业竞品动态，挖掘新的策略优化点并提出切实可行的产品方案；\n4、通过用户调研、竞品分析、数据分析，学习和了解业界最新动态，发现产品机会点。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，计算机、数学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=57bd027d015244b288879586eac4c597",
+      "publishedAt": "2026-08-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
+    },
+    {
       "id": "kuaishou-d5185032a7b9",
       "company": "快手",
       "title": "数据分析师",
@@ -4750,97 +4841,6 @@
       "annualSalary": "未披露",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=9aef0bcb2d824ce68247bc14f325a046",
-      "publishedAt": "2026-08-09",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
-    },
-    {
-      "id": "kuaishou-6914aa2c9012",
-      "company": "快手",
-      "title": "策略产品经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，计算机、数学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、根据不同应用场景（推荐、增长裂变、热点功能等）提出产品策略方案，推动具体策略的迭代升级及产品化功能落地，提升用户此功能的使用体验；\n2、深入了解业务场景，通过用户调研、数据分析挖掘用户需求，基于用户反馈和数据分析，进行效果评估并提出产品改进点，不断迭代产品功能；\n3、收集内外部需求，跟踪行业竞品动态，挖掘新的策略优化点并提出切实可行的产品方案；\n4、通过用户调研、竞品分析、数据分析，学习和了解业界最新动态，发现产品机会点。",
-      "jobRequirements": "",
-      "JD": "1、根据不同应用场景（推荐、增长裂变、热点功能等）提出产品策略方案，推动具体策略的迭代升级及产品化功能落地，提升用户此功能的使用体验；\n2、深入了解业务场景，通过用户调研、数据分析挖掘用户需求，基于用户反馈和数据分析，进行效果评估并提出产品改进点，不断迭代产品功能；\n3、收集内外部需求，跟踪行业竞品动态，挖掘新的策略优化点并提出切实可行的产品方案；\n4、通过用户调研、竞品分析、数据分析，学习和了解业界最新动态，发现产品机会点。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，计算机、数学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=57bd027d015244b288879586eac4c597",
       "publishedAt": "2026-08-09",
       "lastVerified": "",
       "sourceType": "official",
