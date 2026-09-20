@@ -958,6 +958,18 @@
     "campaignLabel": "2027届拓疆者校园招聘",
     "monitoringNote": "大疆官方校招门户（Moka定制域 apply.careers.dji.com，2027拓疆者计划2026-06-25开启）；完整列表走公开API POST /api/outer/ats-apply/website/jobs/v2（orgId=dji/siteId=143359，共139岗）；适配器按zhineng职能白名单保留市场/电商/供应链管理/供应链工程/人力资源/产品运营/项目管理/软件产品/服务管理，技术类（算法/软件/硬件/芯片/嵌入式等109岗）/数字化建设/工业设计/财务/法务/销售不抓；详情POST /api/outer/ats-apply/website/job；API不可达时回退SSR init-data首屏"
   },
+  "ninebot": {
+    "company": "九号公司",
+    "url": "https://zhaopin.ninebot.com/m/campus-recruitment/ninebot/45627",
+    "baseUrl": "https://zhaopin.ninebot.com",
+    "graduationYear": "2027",
+    "pageSize": 10,
+    "maxPages": 6,
+    "maxJobs": 200,
+    "enrichDetails": true,
+    "campaignLabel": "2027届校园招聘",
+    "monitoringNote": "九号公司官方校招门户（Moka定制域 zhaopin.ninebot.com，2027届网申8月底起/笔试9月起/面试9-12月/Offer10月起，央广网2026-09-14官宣）；旧站join.ninebot.com/campus仅2027暑期实习与2026届岗位已弃用；标准域镜像app.mokahr.com/campus_apply/ninebot/45627为生产通道（Playwright分类分页+详情，API jobs/v2为AES加密不可用）；分类ID：营销200305/职能204241/供应链200304/产品208248/服务206002，技术研发/设计/生产制造/质量类不抓；实习（职位性质非全职/项目类型含实习）、销售、财务法务、IT运维与技术支持工程岗在适配器内剔除"
+  },
   "midea": {
     "company": "美的",
     "url": "https://newpower.midea.com/schoolOut",

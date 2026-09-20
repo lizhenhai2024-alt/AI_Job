@@ -553,6 +553,10 @@ export const sourceRegistry = [
     "company": "大疆"
   },
   {
+    "provider": "ninebot",
+    "company": "九号公司"
+  },
+  {
     "provider": "midea",
     "company": "美的"
   },
