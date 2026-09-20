@@ -1095,6 +1095,16 @@
     "maxJobs": 200,
     "monitoringNote": "京东官方校招门户（自研SPA，2027校招8月-11月网申）；公开API POST /api/wx/position/page?type=present 无需登录，JD全文在列表；方向白名单 采销物流/产品/运营/市场商务/职能/TET/基层管理/一线职能，剔除技术/设计/工程/保险金融/健康/一线销售/一线专业及财务法务风控纯销售"
   },
+  "byd": {
+    "company": "比亚迪",
+    "url": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+    "apiBase": "https://job.byd.com",
+    "graduationYear": "2027",
+    "pageSize": 100,
+    "maxPages": 5,
+    "maxJobs": 200,
+    "monitoringNote": "比亚迪2027届校招（寻找爱迪生，2026-08-19官宣）；公开API POST /portal-api/schoolPortal/queryPositionList（batch=2027+campusNature=008501应届生386岗）+ GET queryPosition?id=详情；类别白名单 人力资源/行政/公共关系/物流/计划/采购/销售支持/售后服务/生产运营 + 标题正反词过滤（保留翻译/外事/媒介/产品经理/市场营销等，剔除研发工程/财务法务/IT/纯销售）"
+  },
   "oppo": {
     "company": "OPPO",
     "url": "https://careers.oppo.com/university/oppo/campus/post",
