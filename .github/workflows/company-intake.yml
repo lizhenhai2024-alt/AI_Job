@@ -41,8 +41,29 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add config/company-requests.json src/data/company-requests.js config/official-sources.json src/data/source-registry.js
           git commit -m "data: process company intake - ${{ steps.intake.outputs.company }}"
-          git pull --rebase origin main
-          git push origin HEAD:main
+          # Multiple intake issues can run concurrently. Rebase conflicts are expected
+          # because generated registries are shared files. Retry from fresh main and
+          # deterministically re-run the intake/build instead of rebasing generated data.
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Concurrent intake updated main; retry $attempt/5 from fresh main."
+            git fetch origin main
+            git reset --hard origin/main
+            node scripts/process-company-intake.mjs "$GITHUB_EVENT_PATH"
+            npm run build:company-requests
+            npm run build:source-registry
+            npm run check
+            if git diff --quiet -- config/company-requests.json src/data/company-requests.js config/official-sources.json src/data/source-registry.js; then
+              echo "Another run already applied this intake."
+              exit 0
+            fi
+            git add config/company-requests.json src/data/company-requests.js config/official-sources.json src/data/source-registry.js
+            git commit -m "data: process company intake - ${{ steps.intake.outputs.company }}"
+          done
+          echo "Failed to publish intake after 5 concurrency retries." >&2
+          exit 1
       - name: Dispatch job refresh for managed source
         if: steps.intake.outputs.source_registered == 'true' || steps.intake.outputs.source_exists == 'true'
         env:
