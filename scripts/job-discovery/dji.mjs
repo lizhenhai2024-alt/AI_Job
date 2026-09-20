@@ -89,12 +89,13 @@ function decodeAttr(value = '') {
     .replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
 }
 
-// 从门户 URL 中解析 Moka 组织与站点 ID（默认 dji/143359）。
+// 从门户 URL 中解析 Moka 组织与站点 ID（默认 dji/143359）。base 固定为源站根域，
+// 列表/详情/SSR 相对路径由各调用方用 {base}/api|/campus-recruitment/... 自行拼接。
 export function parseDjiPortal(source = {}) {
   const url = String(source.url || `${PORTAL_BASE}${PORTAL_PATH}`).split('#')[0].replace(/\/$/, '');
   const m = url.match(/\/campus-recruitment\/([^/]+)\/(\d+)/);
   return {
-    base: url.split('?')[0],
+    base: new URL(url).origin,
     orgId: m?.[1] || DEFAULT_ORG_ID,
     siteId: m?.[2] || DEFAULT_SITE_ID
   };
@@ -303,6 +304,82 @@ export async function fetchDjiSsrViaPlaywright(chromium, portal) {
   }
 }
 
+// 标准域（app.mokahr.com）Playwright 分页通道：定制域 apply.careers.dji.com 被 WAF 按出口拦截
+// （Runner HTTP 404，web_fetch 服务端 200）时，Moka 标准域镜像对 Runner 可达（九号等 moka 源同域）。
+// 页面是 SPA：前端自行调用加密 API 并解密渲染；逐页点击分页器（30 行/页，5 页=139 岗），
+// 从 DOM 卡片结构化提取 id/title/职能/城市/完整 JD，合并去重后返回。
+const STANDARD_PORTAL_BASE = 'https://app.mokahr.com';
+const CARD_LINK_SEL = "a[href*='#/job/']";
+const CARD_TITLE_SEL = "[class*='title-']";
+const CARD_INFO_SEL = "[class*='Ellipsis-hiddenContent']";
+const CARD_JD_SEL = "[class*='short-description']";
+
+export async function fetchDjiStandardViaPlaywright(chromium, portal, { maxPages = 8 } = {}) {
+  const url = `${STANDARD_PORTAL_BASE}/campus_apply/${portal.orgId}/${portal.siteId}`;
+  let browser;
+  try {
+    browser = await chromium.launch({ headless: true, args: ['--no-sandbox'] });
+    const page = await browser.newPage({ locale: 'zh-CN' });
+    const consoleErrors = [];
+    page.on('console', (msg) => { if (msg.type() === 'error') consoleErrors.push(msg.text().slice(0, 160)); });
+    page.on('pageerror', (err) => consoleErrors.push(String(err?.message || err).slice(0, 160)));
+    await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+    await page.waitForTimeout(2500);
+    if (!(await page.$(CARD_LINK_SEL))) throw new Error(`standard portal no job cards url=${page.url()} title=${await page.title()} consoleErrors=${consoleErrors.join(' | ') || 'none'}`);
+
+    const jobsById = new Map();
+    const grabPage = async () => {
+      const cards = await page.evaluate((sels) => {
+        const out = [];
+        document.querySelectorAll(sels.link).forEach((a) => {
+          const id = String(a.getAttribute('href') || '').replace('#/job/', '');
+          const title = (a.querySelector(sels.title)?.textContent || '').trim();
+          const info = [...a.querySelectorAll(sels.info)].map((x) => (x.textContent || '').trim()).filter(Boolean);
+          // JD 从整卡 innerText 提取"职位简介"之后的完整文本（short-description 元素可能只含首行截断）。
+          const cardText = (a.innerText || '').replace(/\s+/g, ' ').trim();
+          const jdIdx = cardText.indexOf('职位简介');
+          let jd = jdIdx >= 0 ? cardText.slice(jdIdx).replace(/^职位简介\s*[:：]?\s*/, '') : '';
+          if (id && title) out.push({ id, title, zhineng: info[0] || '', location: info[1] || '', jd });
+        });
+        return out;
+      }, { link: CARD_LINK_SEL, title: CARD_TITLE_SEL, info: CARD_INFO_SEL, jd: CARD_JD_SEL });
+      for (const c of cards) jobsById.set(c.id, c);
+      return cards.length;
+    };
+
+    let first = await grabPage();
+    if (!first) throw new Error(`standard portal cards empty url=${page.url()}`);
+    // 点击后续分页（数字按钮 2..N），每次等待 SPA 数据渲染后抓取。
+    for (let p = 2; p <= maxPages + 1; p++) {
+      const clicked = await page.evaluate((pg) => {
+        const btns = [...document.querySelectorAll(".sd-Pagination-ul-9jXKq button, .sd-Pagination-item-4J_pS")];
+        const target = btns.find((b) => (b.textContent || '').trim() === String(pg));
+        if (target) { target.click(); return true; }
+        return false;
+      }, p);
+      if (!clicked) break;
+      await page.waitForTimeout(2200);
+      const n = await grabPage();
+      if (!n) break;
+      if (jobsById.size >= 300) break;
+    }
+
+    const jobs = [...jobsById.values()].map((c) => ({
+      id: c.id,
+      title: c.title,
+      zhineng: { name: c.zhineng },
+      locations: c.location ? [{ address: c.location }] : [],
+      jobDescription: c.jd || ''
+    }));
+    if (!jobs.length) throw new Error(`standard portal parsed 0 jobs url=${page.url()} consoleErrors=${consoleErrors.join(' | ') || 'none'}`);
+    return { jobs, total: jobs.length };
+  } catch (error) {
+    throw new Error(`Standard-portal Playwright ${error?.message || error}`);
+  } finally {
+    if (browser) await browser.close().catch(() => {});
+  }
+}
+
 function normalizeRow(job = {}) {
   const locations = Array.isArray(job.locations) ? job.locations : [];
   const address = locations.map((l) => String(l?.address || '')).filter(Boolean).join(' ');
@@ -403,6 +480,29 @@ export async function searchDjiJobs(profile, source = {}, { fetcher = fetch, chr
     console.warn(`[dji:${source.company || '大疆'}] API jobs/v2 failed: ${error?.message || error}; falling back to SSR init-data`);
   }
 
+  // 1.5) 标准域 Playwright 全量通道：定制域被 WAF 按出口拦截（HTTP 404/加密）时，Moka 标准域
+  // 镜像对 Runner 可达，逐页点击分页器从 DOM 取全量（139 岗）。API/SSR 即使部分命中也执行，
+  // 按 job id 幂等合并，保证完整覆盖；成功时覆盖 apiPath 标记。
+  if (chromium) {
+    try {
+      const std = await fetchDjiStandardViaPlaywright(chromium, portal);
+      let added = 0;
+      for (const job of std.jobs) {
+        const row = normalizeRow(job);
+        if (!row.id || seen.has(row.id)) continue;
+        seen.add(row.id);
+        rowsByKey.set(row.id, row);
+        listed++;
+        added++;
+      }
+      if (added) apiPath = apiPath === 'api' ? 'api+standard-portal' : 'standard-portal-via-playwright';
+      total = Math.max(total, std.total);
+    } catch (error) {
+      errors++;
+      console.warn(`[dji:${source.company || '大疆'}] standard-portal Playwright failed: ${error?.message || error}`);
+    }
+  }
+
   // 2) 回退/补充：SSR init-data（API 失败时至少覆盖首屏；API 成功时跳过）。
   //    直连失败（Runner 边缘拦截 HTTP 404）→ Playwright 渲染（Runner 可靠通道）→ jina 代理 GET 兜底。
   if (!seen.size) {
@@ -464,6 +564,10 @@ export async function searchDjiJobs(profile, source = {}, { fetcher = fetch, chr
       } catch (error) {
         detailErrors++;
       }
+    }
+    // 详情 API 不可达（加密/404）或返回空 JD 时，用标准域 DOM 卡片自带的完整 JD 兜底。
+    if (!detail?.jobDescription && row.raw?.jobDescription) {
+      detail = { ...detail, jobDescription: row.raw.jobDescription };
     }
     try {
       const job = parseDjiJob(source, row, detail, now);
