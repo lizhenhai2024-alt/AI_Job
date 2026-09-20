@@ -291,32 +291,51 @@ async function fetchTextViaPlaywright(chromium, url, label) {
     const page = await browser.newPage();
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
     await page.waitForTimeout(2500);
+    const diag = await page.evaluate(() => ({
+      url: location.href,
+      title: document.title,
+      bodyLen: document.body ? document.body.innerHTML.length : 0,
+      detailHrefs: (document.documentElement.outerHTML.match(/position\/detail/g) || []).length,
+      bodyStart: (document.body ? document.body.innerHTML.slice(0, 200) : '')
+    }));
     const html = await page.evaluate(() => document.documentElement.outerHTML);
     if (!html || html.length < 200) throw new Error(`empty/short playwright response (${html?.length || 0}B) ${label}`);
+    if (diag.detailHrefs === 0 && !html.includes('应届生招聘')) {
+      throw new Error(`playwright render likely blocked url=${diag.url} title=${diag.title} bodyLen=${diag.bodyLen} bodyStart=${diag.bodyStart.replace(/\s+/g, ' ').slice(0, 140)}`);
+    }
     return html;
   } finally {
     if (browser) await browser.close().catch(() => {});
   }
 }
 
-// 带回退的抓取：直连失败（HTTP 404/超时）→ Playwright 渲染 → jina 代理，并记录失败路径便于线上诊断。
-async function fetchTextWithFallback(fetcher, url, label, chromium = null) {
+// 带回退的抓取：直连失败（HTTP 404/超时）或直连 200 但 verify(html) 为 false（空壳/挑战页）时，
+// → Playwright 渲染 → jina 代理，并记录失败路径便于线上诊断。
+async function fetchTextWithFallback(fetcher, url, label, chromium = null, verify = null) {
   try {
-    return await fetchText(fetcher, url, label);
+    const html = await fetchText(fetcher, url, label);
+    if (!verify || verify(html)) return html;
+    throw new Error(`direct 200 but no job cards (${html.length}B) ${label}`);
   } catch (directError) {
     if (chromium) {
       try {
         const viaPw = await fetchTextViaPlaywright(chromium, url, label);
-        console.warn(`[lenovo] ${label}: direct(${directError?.message || directError}) -> playwright ok`);
-        return viaPw;
+        if (!verify || verify(viaPw)) {
+          console.warn(`[lenovo] ${label}: direct(${directError?.message || directError}) -> playwright ok`);
+          return viaPw;
+        }
+        throw new Error(`playwright render ok but no job cards ${label}`);
       } catch (pwError) {
         console.warn(`[lenovo] ${label}: playwright failed (${pwError?.message || pwError})`);
       }
     }
     try {
       const viaJina = await fetchTextViaJina(fetcher, url, label);
-      console.warn(`[lenovo] ${label}: direct(${directError?.message || directError}) -> jina ok`);
-      return viaJina;
+      if (!verify || verify(viaJina)) {
+        console.warn(`[lenovo] ${label}: direct(${directError?.message || directError}) -> jina ok`);
+        return viaJina;
+      }
+      throw new Error(`jina render ok but no job cards ${label}`);
     } catch (jinaError) {
       throw new Error(`${label}: direct(${directError?.message || directError}) playwright(${chromium ? 'failed' : 'n/a'}) jina(${jinaError?.message || jinaError})`);
     }
@@ -340,8 +359,9 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
   const seen = new Set();
 
   try {
+    const verifyList = (html) => parseLenovoListHtml(source, html).length > 0;
     // 1) 未筛选总览页：拿“共N个岗位”总数 + 首屏卡片（兜底捕捉任何未枚举到的在范围岗位）。
-    const overview = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1`, 'overview', chromium);
+    const overview = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1`, 'overview', chromium, verifyList);
     pages++;
     for (const row of parseLenovoListHtml(source, overview)) {
       if (seen.has(row.id)) continue;
@@ -354,7 +374,7 @@ export async function searchLenovoJobs(profile, source = {}, { fetcher = fetch, 
       if (pages >= pageLimit || seen.size >= jobLimit) break;
       let html;
       try {
-        html = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1&jobTypeName=${encodeURIComponent(category)}`, `category:${category}`, chromium);
+        html = await fetchTextWithFallback(fetcher, `${baseUrl}/position?projectType=1&jobTypeName=${encodeURIComponent(category)}`, `category:${category}`, chromium, verifyList);
         pages++;
       } catch (error) {
         errors++;

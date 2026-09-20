@@ -264,13 +264,16 @@ export async function fetchDjiSsrJobs(fetcher, portal, { referer = '' } = {}) {
 
 // Playwright 渲染通道：Runner 直连/API 被边缘 WAF 拦截（HTTP 404，web_fetch 服务端同 URL 200）时，
 // 用 Chromium 真实渲染门户页取 init-data——与 moka/bytedance 在 Runner 上被证明可靠的通道一致。
-// 返回 { jobs, total }；失败抛错由调用方记录。
+// 返回 { jobs, total }；空页/无数据抛错（带诊断），让调用方记录失败并走下一回退。
 export async function fetchDjiSsrViaPlaywright(chromium, portal) {
   const url = `${portal.base}/campus-recruitment/${portal.orgId}/${portal.siteId}?locale=zh-CN`;
   let browser;
   try {
     browser = await chromium.launch({ headless: true, args: ['--no-sandbox'] });
     const page = await browser.newPage();
+    const consoleErrors = [];
+    page.on('console', (msg) => { if (msg.type() === 'error') consoleErrors.push(msg.text().slice(0, 200)); });
+    page.on('pageerror', (err) => consoleErrors.push(String(err?.message || err).slice(0, 200)));
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
     await page.waitForSelector('#init-data', { timeout: 15000 }).catch(() => {});
     // 页面 JS（TurboApply）可能已拉取更完整列表，优先读 window.TurboApply.data。
@@ -279,11 +282,21 @@ export async function fetchDjiSsrViaPlaywright(chromium, portal) {
       return d ? { jobs: Array.isArray(d.jobs) ? d.jobs : [], total: Number(d.jobStats?.total) || 0 } : null;
     });
     if (turbo && turbo.jobs.length) return turbo;
+    const diag = await page.evaluate(() => ({
+      url: location.href,
+      title: document.title,
+      hasInitData: !!document.querySelector('#init-data'),
+      initDataLen: (document.querySelector('#init-data')?.value || '').length,
+      hasApp: !!document.querySelector('#app'),
+      bodyLen: document.body ? document.body.innerHTML.length : 0,
+      bodyStart: (document.body ? document.body.innerHTML.slice(0, 300) : '')
+    }));
     const html = await page.evaluate(() => document.documentElement.outerHTML);
     const parsed = parseDjiInitData(html);
     if (parsed && parsed.jobs.length) return parsed;
-    return { jobs: [], total: 0 };
+    throw new Error(`Playwright SSR empty page url=${diag.url} title=${diag.title} hasInitData=${diag.hasInitData} initDataLen=${diag.initDataLen} hasApp=${diag.hasApp} bodyLen=${diag.bodyLen} bodyStart=${diag.bodyStart.replace(/\s+/g, ' ').slice(0, 160)} consoleErrors=${consoleErrors.join(' | ') || 'none'}`);
   } catch (error) {
+    if (error instanceof Error && error.message.startsWith('Playwright SSR empty')) throw error;
     throw new Error(`Playwright SSR ${error?.message || error}`);
   } finally {
     if (browser) await browser.close().catch(() => {});

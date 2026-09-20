@@ -65,30 +65,38 @@ function languagesFrom(text = '') {
 }
 
 // 获取 2027 应届校招项目（美的星）的 projectRuleId；找不到时回退到配置值。
+// project/list 偶发网络失败（Runner 间歇性 fetch failed）：内部重试 2 次退避，仍失败则用配置 fallback 兜底。
 export async function resolveMideaRuleId(fetcher, { fallback = '', session = '2027', projectType = '1' } = {}) {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), 20000);
-  try {
-    const response = await fetcher(PROJECT_API, {
-      method: 'GET',
-      headers: {
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        accept: 'application/json, text/plain, */*',
-        'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
-      },
-      signal: controller.signal
-    });
-    if (!response.ok) throw new Error(`HTTP ${response.status} project/list`);
-    const json = await response.json();
-    const projects = Array.isArray(json?.data) ? json.data : [];
-    const star = projects.find((p) => String(p.numberOfSessions) === session && String(p.projectType) === String(projectType) && p.projectRuleId);
-    if (star) return { ruleId: star.projectRuleId, name: star.projectRuleName, total: Number(star.number) || 0 };
-    return { ruleId: fallback, name: `session ${session} project not found`, total: 0 };
-  } catch (error) {
-    return { ruleId: fallback, name: `resolve failed: ${error?.message || error}`, total: 0 };
-  } finally {
-    clearTimeout(timer);
+  let lastError = '';
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 20000);
+    try {
+      const response = await fetcher(PROJECT_API, {
+        method: 'GET',
+        headers: {
+          'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          accept: 'application/json, text/plain, */*',
+          'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8'
+        },
+        signal: controller.signal
+      });
+      if (!response.ok) throw new Error(`HTTP ${response.status} project/list`);
+      const json = await response.json();
+      const projects = Array.isArray(json?.data) ? json.data : [];
+      const star = projects.find((p) => String(p.numberOfSessions) === session && String(p.projectType) === String(projectType) && p.projectRuleId);
+      if (star) return { ruleId: star.projectRuleId, name: star.projectRuleName, total: Number(star.number) || 0 };
+      return { ruleId: fallback, name: `session ${session} project not found`, total: 0 };
+    } catch (error) {
+      lastError = error?.message || String(error);
+      if (attempt < 3) await new Promise((r) => setTimeout(r, 1500 * attempt));
+    } finally {
+      clearTimeout(timer);
+    }
   }
+  if (!fallback) return { ruleId: '', name: `resolve failed: ${lastError}`, total: 0 };
+  console.warn(`[midea] project/list failed after retries (${lastError}); using configured ruleId fallback`);
+  return { ruleId: fallback, name: `fallback after: ${lastError}`, total: 0 };
 }
 
 // 分页拉取岗位列表；列表即含完整 JD。

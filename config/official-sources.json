@@ -960,6 +960,7 @@
     "pageSize": 20,
     "maxPages": 12,
     "maxJobs": 300,
+    "projectRuleId": "055bb05d-1957-4ea0-bb21-873ca0164d84",
     "campaignLabel": "2027届美的星校园招聘",
     "monitoringNote": "美的官方校招门户（自研IHR系统SPA，newpower.midea.com/schoolOut）；公开JSON API无鉴权：GET /backend/school/position/common/project/list?status=1 取2027届美的星项目ruleId（页面默认展示的是校企合作实习通道projectType=7，须按sessions=2027/type=1过滤），POST /backend/school/position/common/position/list 分页拉取（pageSize上限20，2027届共148岗）；列表即含完整JD无需详情；适配器按职类白名单（供应链物流类/国内营销类/海外营销类/管理类）+标题剔除（销售/解决方案工程师/技术支持/物流营销/知识产权等）"
   },
