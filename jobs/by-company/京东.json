@@ -1,0 +1,3770 @@
+{
+  "company": "京东",
+  "count": 41,
+  "updatedAt": "2026-09-20T10:46:25.416Z",
+  "jobs": [
+    {
+      "id": "jd-c662966ed333",
+      "company": "京东",
+      "title": "销售运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、武汉、西安、深圳、成都、杭州、南京、广州、厦门、上海、苏州、长沙、重庆",
+      "jobDescription": "1. 参与销售项目的全过程，协助客户经理完成商务洽谈和项目方案设计； 2. 承接并分析企业用户需求，制定相应的运营方案；保证项目顺利开展，提高运作效率，实现大项目的规范化，流程化管理，促进客户产出最大化； 3. 通过线上线下运营策略协调公司内各个部门的资源，解决客户采购中遇到的问题； 4. 定期分析客户数据，优化产品，不断提升大客户的服务质量水平、持续提升客户的满意度，使客户价值最大化； 5. 客户需求的深度挖掘和销售潜力的渗透拉升； 6. 客户关系的日常维护与加深； 7. AI应用探索：主动运用AI工具辅助销售数据分析、运营方案制定与客户分析，提升销售运营精准度。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 熟练应用EXCEL等办公工具，有良好的信息收集和数据分析能力； 3. 具备敏锐的洞察力、良好的沟通协调能力； 4. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助运营分析及方案撰写；有使用AI工具支持销售运营的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 参与销售项目的全过程，协助客户经理完成商务洽谈和项目方案设计； 2. 承接并分析企业用户需求，制定相应的运营方案；保证项目顺利开展，提高运作效率，实现大项目的规范化，流程化管理，促进客户产出最大化； 3. 通过线上线下运营策略协调公司内各个部门的资源，解决客户采购中遇到的问题； 4. 定期分析客户数据，优化产品，不断提升大客户的服务质量水平、持续提升客户的满意度，使客户价值最大化； 5. 客户需求的深度挖掘和销售潜力的渗透拉升； 6. 客户关系的日常维护与加深； 7. AI应用探索：主动运用AI工具辅助销售数据分析、运营方案制定与客户分析，提升销售运营精准度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 熟练应用EXCEL等办公工具，有良好的信息收集和数据分析能力； 3. 具备敏锐的洞察力、良好的沟通协调能力； 4. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助运营分析及方案撰写；有使用AI工具支持销售运营的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "客户关系",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-353741bb78a0",
+      "company": "京东",
+      "title": "物流运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 物流管理、物流工程、数学与统计学、管理科学与工程、经管类等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆、成都、广州、长沙、北京、西安、武汉、东莞、厦门、上海、杭州、深圳、天津",
+      "jobDescription": "1. 系统参与京东物流仓储供应链、快递快运、运力等业务条线的业务流程，包括但不限于：仓储运营、配送运营、冷链运营、保税仓、服装运营、医药运营、指挥调度、流程设计、流程优化等方向工作； 2. 参与京东物流相关业务条线的经营管理工作，包括但不限于：成本收入管理、质量改善、能力提升等方向工作； 3. 深入参与或负责仓储运营、快递快运业务运营相关业务模块的项目，通过实际项目管理提升个人能力与经验，继而持续推动业务改善； 4. AI应用探索：关注AI在物流运营领域的创新应用，尝试运用AI工具辅助运营数据分析、异常诊断与流程优化，提升现场运营效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、数学与统计学、管理科学与工程、经管类等相关专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识； 6. 具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程； 7. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助运营数据分析和流程诊断；有AI工具辅助运营改善项目的实践经历者优先； 8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 系统参与京东物流仓储供应链、快递快运、运力等业务条线的业务流程，包括但不限于：仓储运营、配送运营、冷链运营、保税仓、服装运营、医药运营、指挥调度、流程设计、流程优化等方向工作； 2. 参与京东物流相关业务条线的经营管理工作，包括但不限于：成本收入管理、质量改善、能力提升等方向工作； 3. 深入参与或负责仓储运营、快递快运业务运营相关业务模块的项目，通过实际项目管理提升个人能力与经验，继而持续推动业务改善； 4. AI应用探索：关注AI在物流运营领域的创新应用，尝试运用AI工具辅助运营数据分析、异常诊断与流程优化，提升现场运营效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、数学与统计学、管理科学与工程、经管类等相关专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识； 6. 具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程； 7. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助运营数据分析和流程诊断；有AI工具辅助运营改善项目的实践经历者优先； 8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 物流管理、物流工程、数学与统计学、管理科学与工程、经管类等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "项目管理",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-6279a986eb0a",
+      "company": "京东",
+      "title": "采销（电商运营）",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、深圳、上海、苏州、广州、成都、武汉、西安、佛山、厦门、南京、杭州",
+      "jobDescription": "1. 目标达成：负责POP类目或自营商品的销售和运营工作，制定销售计划及相应预算，达成GMV和贡献利润等核心指标； 2. 业务操盘：制定所负责品牌的操盘竞争策略，做好竞争对手的对比，争取渠道资源确保京东商品竞争力和资源获取最大化； 3. 渠道管理：对供应商进行分级管理，与现有供应商的维护好合作关系，积极引入具有潜力的新供应商； 4. 数据运营：日常运营数据监控及分析，归纳总结商家运营问题，运用平台化运营方式提出并落实解决方案；借助AI工具提升数据分析与运营决策效率； 5. 沟通谈判：负责与供应商谈判，与厂家短期建立起信任和合作，从厂家争取到产品支持、投放支持、费用支持、人力支持，最终实现销售最大化； 6. AI应用探索：主动关注AI在电商运营领域的创新应用，尝试运用AI工具优化工作流程，提升运营效率与质量。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的理解、语言表达和沟通协调能力，个人沟通能力及谈判技巧突出； 3. 有一定抗压能力，具有强的学习能力、责任心、原则性和团队合作精神理念； 4. 具备生意头脑，参加/喜欢过商业营销大赛，social达人更有优势； 5. 具备良好的数据敏感度，熟练使用Excel等数据处理工具，了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助工作；有AI工具辅助完成分析报告或运营决策的实践经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 目标达成：负责POP类目或自营商品的销售和运营工作，制定销售计划及相应预算，达成GMV和贡献利润等核心指标； 2. 业务操盘：制定所负责品牌的操盘竞争策略，做好竞争对手的对比，争取渠道资源确保京东商品竞争力和资源获取最大化； 3. 渠道管理：对供应商进行分级管理，与现有供应商的维护好合作关系，积极引入具有潜力的新供应商； 4. 数据运营：日常运营数据监控及分析，归纳总结商家运营问题，运用平台化运营方式提出并落实解决方案；借助AI工具提升数据分析与运营决策效率； 5. 沟通谈判：负责与供应商谈判，与厂家短期建立起信任和合作，从厂家争取到产品支持、投放支持、费用支持、人力支持，最终实现销售最大化； 6. AI应用探索：主动关注AI在电商运营领域的创新应用，尝试运用AI工具优化工作流程，提升运营效率与质量。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的理解、语言表达和沟通协调能力，个人沟通能力及谈判技巧突出； 3. 有一定抗压能力，具有强的学习能力、责任心、原则性和团队合作精神理念； 4. 具备生意头脑，参加/喜欢过商业营销大赛，social达人更有优势； 5. 具备良好的数据敏感度，熟练使用Excel等数据处理工具，了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助工作；有AI工具辅助完成分析报告或运营决策的实践经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商",
+        "数据",
+        "营销",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-df60418cc67c",
+      "company": "京东",
+      "title": "人力资源（专业方向）",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、杭州、广州、重庆、上海、厦门、西安、成都、长沙、武汉",
+      "jobDescription": "1. 系统参与公司人力资源某一个或几个领域的业务流程，包括但不限于：招聘、HRBP、培训、组织发展、绩效、员工关系、薪酬、企业文化等； 2. 深入参与或负责人力资源相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3. 与协同部门保持有效沟通，推动最新人才策略落地，为组织发展提供支持； 4. AI应用探索：主动关注AI在HR领域的应用，尝试运用AI工具辅助简历筛选、员工数据分析或培训材料制作等，提升HR工作效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 了解人力资源各模块基本工作，熟悉了解TA、HRBP、ER、C&B、OC&OD等一个或多个模块专业知识，有相关实习经验优先； 3. 学习能力强，具备良好的逻辑思维和思考力； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助文档撰写、数据整理与人选沟通；有使用AI工具优化HR流程的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 系统参与公司人力资源某一个或几个领域的业务流程，包括但不限于：招聘、HRBP、培训、组织发展、绩效、员工关系、薪酬、企业文化等； 2. 深入参与或负责人力资源相关模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3. 与协同部门保持有效沟通，推动最新人才策略落地，为组织发展提供支持； 4. AI应用探索：主动关注AI在HR领域的应用，尝试运用AI工具辅助简历筛选、员工数据分析或培训材料制作等，提升HR工作效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 了解人力资源各模块基本工作，熟悉了解TA、HRBP、ER、C&B、OC&OD等一个或多个模块专业知识，有相关实习经验优先； 3. 学习能力强，具备良好的逻辑思维和思考力； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助文档撰写、数据整理与人选沟通；有使用AI工具优化HR流程的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-4ce077c176f8",
+      "company": "京东",
+      "title": "项目与流程管理",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、长沙、深圳、西安、广州、杭州、厦门、上海",
+      "jobDescription": "1、项目规划建设：参与业务项目的规划与设计，梳理业务流程、规则及SOP，推动业务标准化、自动化及线上化建设，提升业务规范性与运营效率； 2、项目推进执行：统筹重点项目的推进与落地，协调内外部资源，跟进项目进度与各环节的对接，确保项目按时保质交付； 3、流程诊断优化：分析现有业务流程痛点与瓶颈，设计优化方案并推动实施，通过数据监控与效果评估，持续提升作业效率与服务质量； 4、沟通协同支持：与技术产研、业务、销售渠道等多部门沟通业务需求，建立高效的沟通与项目协作机制，为业务开展和项目实施提供支持； 5、效果评估汇报：对项目与流程运行效果进行跟踪分析和复盘沉淀，形成汇报思路，为管理决策提供依据，促进闭环管理； 6、AI应用探索：主动运用AI工具辅助流程分析、项目管理与数据整理，探索AI在流程优化和项目管理中的创新应用，提升工作效率。",
+      "jobRequirements": "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、熟练应用EXCEL等办公工具，有良好的逻辑思考、数据处理和结构化分析能力； 3、具备良好的沟通协调能力和项目管理意识，有一定抗压能力，具有强的学习能力、责任心和团队合作精神； 4、了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助流程分析、项目管理与数据整理；有利用AI工具提升工作效率的经历者优先； 5、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1、项目规划建设：参与业务项目的规划与设计，梳理业务流程、规则及SOP，推动业务标准化、自动化及线上化建设，提升业务规范性与运营效率； 2、项目推进执行：统筹重点项目的推进与落地，协调内外部资源，跟进项目进度与各环节的对接，确保项目按时保质交付； 3、流程诊断优化：分析现有业务流程痛点与瓶颈，设计优化方案并推动实施，通过数据监控与效果评估，持续提升作业效率与服务质量； 4、沟通协同支持：与技术产研、业务、销售渠道等多部门沟通业务需求，建立高效的沟通与项目协作机制，为业务开展和项目实施提供支持； 5、效果评估汇报：对项目与流程运行效果进行跟踪分析和复盘沉淀，形成汇报思路，为管理决策提供依据，促进闭环管理； 6、AI应用探索：主动运用AI工具辅助流程分析、项目管理与数据整理，探索AI在流程优化和项目管理中的创新应用，提升工作效率。\n1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、熟练应用EXCEL等办公工具，有良好的逻辑思考、数据处理和结构化分析能力； 3、具备良好的沟通协调能力和项目管理意识，有一定抗压能力，具有强的学习能力、责任心和团队合作精神； 4、了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助流程分析、项目管理与数据整理；有利用AI工具提升工作效率的经历者优先； 5、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-fcd337a3b943",
+      "company": "京东",
+      "title": "营销运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、市场营销、广告、商科、统计学等相关学科背景优先，热爱互联网和营销",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、天津、深圳、上海、广州",
+      "jobDescription": "1、营销策略与活动执行：结合行业动态和业务目标，参与营销方案策划与活动执行，统筹内外部资源，把控活动进度与质量，达成销售、流量、用户增长等目标； 2、流量与渠道运营：负责频道、搜索、推荐等场域的流量运营，拓展站内外渠道，优化流量分配机制，提升流量承接效率与转化效果； 3、商品运营：参与商品全生命周期管理，优化货品结构与选品策略，提升商品竞争力与销售转化； 4、数据分析与优化：监控流量、用户、活动等核心指标，分析复盘并输出优化策略，提升营销活动的投资回报率（ROI）； 5、AI应用探索：主动运用AI工具辅助数据分析、活动策划与效果复盘，提升营销运营效率。",
+      "jobRequirements": "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、市场营销、广告、商科、统计学等相关学科背景优先，热爱互联网和营销； 3、学习能力强，善于接纳新鲜事物，对市场有敏锐嗅觉，对用户有洞察； 4、具备良好的数据敏感度，熟练应用EXCEL等办公工具，能通过数据分析发现问题并输出策略； 5、有逻辑，有创意，有表达能力，善于沟通协作，能够推动跨团队资源协同，实现目标达成； 6、熟练使用AI工具（如通用对话式AI、智能数据分析平台、AI创意工具等）辅助数据分析和营销策划；有AIGC营销或数据运营实践经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1、营销策略与活动执行：结合行业动态和业务目标，参与营销方案策划与活动执行，统筹内外部资源，把控活动进度与质量，达成销售、流量、用户增长等目标； 2、流量与渠道运营：负责频道、搜索、推荐等场域的流量运营，拓展站内外渠道，优化流量分配机制，提升流量承接效率与转化效果； 3、商品运营：参与商品全生命周期管理，优化货品结构与选品策略，提升商品竞争力与销售转化； 4、数据分析与优化：监控流量、用户、活动等核心指标，分析复盘并输出优化策略，提升营销活动的投资回报率（ROI）； 5、AI应用探索：主动运用AI工具辅助数据分析、活动策划与效果复盘，提升营销运营效率。\n1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、市场营销、广告、商科、统计学等相关学科背景优先，热爱互联网和营销； 3、学习能力强，善于接纳新鲜事物，对市场有敏锐嗅觉，对用户有洞察； 4、具备良好的数据敏感度，熟练应用EXCEL等办公工具，能通过数据分析发现问题并输出策略； 5、有逻辑，有创意，有表达能力，善于沟通协作，能够推动跨团队资源协同，实现目标达成； 6、熟练使用AI工具（如通用对话式AI、智能数据分析平台、AI创意工具等）辅助数据分析和营销策划；有AIGC营销或数据运营实践经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、市场营销、广告、商科、统计学等相关学科背景优先，热爱互联网和营销"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-1979bccac541",
+      "company": "京东",
+      "title": "服务运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、物流管理、供应链管理、工业工程、信息管理、数据分析、电子商务、工商管理、计算机等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海、武汉、北京、西安、成都、重庆、广州",
+      "jobDescription": "1、服务履约质量监控：围绕家电家居安装、充电桩服务、家庭维修、3C服务、搬家等一站式服务场景，参与下单、预约、派单、上门、完工、评价等全链路履约质量监控，通过数据分析识别服务超时、履约异常、客诉等问题，推动流程优化与运营规则完善； 2、异常管理与指标建设：围绕服务履约中的异常问题，参与流程梳理、运营指标体系建设与数据监控，推动问题发现、响应和改善闭环，提升服务交付稳定性与用户体验； 3、系统需求与项目推进：从服务运营和用户体验视角识别业务能力缺口，参与业务需求文档撰写，推动预约、派单、履约跟踪、异常处理、质检评价等系统功能优化，跟进项目进度、风险识别与上线验收； 4、直营站点运营支持：参与京东服务直营服务站点的规划、筹建与运营支持，围绕站点布局、人员配置、作业流程、服务标准、成本效率等要素，推动站点运营机制与服务标准持续优化； 5、AI应用探索：主动运用AI工具辅助数据分析、异常归因、流程诊断与需求文档撰写，探索AI在智能调度、异常预警、用户反馈分析等场景的应用，提升服务运营效率与数智化水平。",
+      "jobRequirements": "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、物流管理、供应链管理、工业工程、信息管理、数据分析、电子商务、工商管理、计算机等相关专业优先； 3、熟练使用Excel、PPT等办公软件，具备基础的数据分析、问题归因和报告撰写能力，能够通过数据发现问题并提出改善思路； 4、热爱服务行业，对到家服务、家电家居服务、安装维修等领域有兴趣，愿意长期深耕服务运营管理方向； 5、具备较强的逻辑思维、流程规划和沟通协同能力，能够从用户体验、服务履约、系统能力等角度分析问题，并协同上下游推动问题解决； 6、熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析、流程诊断与需求文档撰写；有AI工具应用实践经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1、服务履约质量监控：围绕家电家居安装、充电桩服务、家庭维修、3C服务、搬家等一站式服务场景，参与下单、预约、派单、上门、完工、评价等全链路履约质量监控，通过数据分析识别服务超时、履约异常、客诉等问题，推动流程优化与运营规则完善； 2、异常管理与指标建设：围绕服务履约中的异常问题，参与流程梳理、运营指标体系建设与数据监控，推动问题发现、响应和改善闭环，提升服务交付稳定性与用户体验； 3、系统需求与项目推进：从服务运营和用户体验视角识别业务能力缺口，参与业务需求文档撰写，推动预约、派单、履约跟踪、异常处理、质检评价等系统功能优化，跟进项目进度、风险识别与上线验收； 4、直营站点运营支持：参与京东服务直营服务站点的规划、筹建与运营支持，围绕站点布局、人员配置、作业流程、服务标准、成本效率等要素，推动站点运营机制与服务标准持续优化； 5、AI应用探索：主动运用AI工具辅助数据分析、异常归因、流程诊断与需求文档撰写，探索AI在智能调度、异常预警、用户反馈分析等场景的应用，提升服务运营效率与数智化水平。\n1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、物流管理、供应链管理、工业工程、信息管理、数据分析、电子商务、工商管理、计算机等相关专业优先； 3、熟练使用Excel、PPT等办公软件，具备基础的数据分析、问题归因和报告撰写能力，能够通过数据发现问题并提出改善思路； 4、热爱服务行业，对到家服务、家电家居服务、安装维修等领域有兴趣，愿意长期深耕服务运营管理方向； 5、具备较强的逻辑思维、流程规划和沟通协同能力，能够从用户体验、服务履约、系统能力等角度分析问题，并协同上下游推动问题解决； 6、熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析、流程诊断与需求文档撰写；有AI工具应用实践经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、物流管理、供应链管理、工业工程、信息管理、数据分析、电子商务、工商管理、计算机等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-c60eeaae30f6",
+      "company": "京东",
+      "title": "市场营销",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 市场营销、新闻传播、广告、商科等相关学科背景优先，并热爱互联网和营销",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、苏州、上海、武汉、广州、深圳",
+      "jobDescription": "1. 根据部门业务运营规划和市场节奏，结合时事热点形成营销方案，策划相关主题活动，包括但不限于媒介投放、社群搭建与运营、团长管理与激活、用户运营、内容活动营销、品牌推广等； 2. 同总部及区域各部门保持高效沟通，筹备营销活动所需资源，按时启动并把控营销活动的整体执行进度； 3. 定期收集客户反馈，根据营销数据制作可视化报表，分析客户需求，为业务提出合理化的运营建议； 4. AI应用探索：主动运用AI工具辅助创意构思、热点分析、效果预测与数据可视化，提升营销策划创新力与执行效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销、新闻传播、广告、商科等相关学科背景优先，并热爱互联网和营销； 3. 学习能力强，善于接纳新鲜事物，适应新环境； 4. 对市场有敏锐嗅觉，对视觉创意有审美，对社会有洞察，对媒体、渠道如数家珍； 5. 有逻辑，有创意，有表达能力，善于沟通协作，能够推进落地，实现目标达成； 6. 熟练使用AI工具（如通用对话式AI、AI创意工具等）辅助方案策划与数据分析；有AIGC营销实践经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 根据部门业务运营规划和市场节奏，结合时事热点形成营销方案，策划相关主题活动，包括但不限于媒介投放、社群搭建与运营、团长管理与激活、用户运营、内容活动营销、品牌推广等； 2. 同总部及区域各部门保持高效沟通，筹备营销活动所需资源，按时启动并把控营销活动的整体执行进度； 3. 定期收集客户反馈，根据营销数据制作可视化报表，分析客户需求，为业务提出合理化的运营建议； 4. AI应用探索：主动运用AI工具辅助创意构思、热点分析、效果预测与数据可视化，提升营销策划创新力与执行效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销、新闻传播、广告、商科等相关学科背景优先，并热爱互联网和营销； 3. 学习能力强，善于接纳新鲜事物，适应新环境； 4. 对市场有敏锐嗅觉，对视觉创意有审美，对社会有洞察，对媒体、渠道如数家珍； 5. 有逻辑，有创意，有表达能力，善于沟通协作，能够推进落地，实现目标达成； 6. 熟练使用AI工具（如通用对话式AI、AI创意工具等）辅助方案策划与数据分析；有AIGC营销实践经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 市场营销、新闻传播、广告、商科等相关学科背景优先，并热爱互联网和营销"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-1f515b0aabad",
+      "company": "京东",
+      "title": "客户体验提升",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、成都、天津、上海、深圳",
+      "jobDescription": "1. 负责客户体验声音的统筹管理，构建体验声音管理体系。深挖体验问题，输出产品、流程、系统、机制等核心改善场景、案例和关键问题点，提炼改善建议和改善项目，监控改善闭环； 2. 负责挖掘数据背后的体验问题，对于具体业务问题，能够与产品BP形成联动，组织开展专项分析项目，提供决策依据； 3. 通过对产品功能、运营环节的拆解和梳理，完善产品体验指标体系、推动产品体验指标体系开发和完善；对产品全流程进行专项场景分析，从机制、流程、系统的角度提出优化建议； 4. 主导用户体验及行为调研洞察相关项目，结合业务数据及用户行为数据研究用户画像、分析用户需求，输出用户体验研究报告； 5. 沉淀体验方法论与价值观，置入于产品及业务运营的全流程； 6. AI应用探索：主动运用AI工具辅助体验数据分析、用户情感分析与报告撰写，挖掘深层次体验问题，提升体验改善效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对数字、数据敏感，具备良好的逻辑思维，进行数据的分析和处理； 3. 有良好的用户sense，具备优秀的项目管理与项目推动能力； 4. 能够充分利用用户体验调研的方法论，制定研究方案、转化客户声音、推进研究过程、独立完成研究报告； 5. 具备一定的分析市场、洞察用户体验痛点等问题的专业能力； 6. 能使用EXCEL、R语言、统计学、SPSS，熟悉掌握数据库原理及使用； 7. 具备严谨的逻辑思维能力和较强学习能力者优先； 8. 熟练使用AI工具（如通用对话式AI、数据分析AI等）辅助体验分析及报告输出；有利用AI工具进行用户反馈挖掘的经历者优先； 9. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 10. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责客户体验声音的统筹管理，构建体验声音管理体系。深挖体验问题，输出产品、流程、系统、机制等核心改善场景、案例和关键问题点，提炼改善建议和改善项目，监控改善闭环； 2. 负责挖掘数据背后的体验问题，对于具体业务问题，能够与产品BP形成联动，组织开展专项分析项目，提供决策依据； 3. 通过对产品功能、运营环节的拆解和梳理，完善产品体验指标体系、推动产品体验指标体系开发和完善；对产品全流程进行专项场景分析，从机制、流程、系统的角度提出优化建议； 4. 主导用户体验及行为调研洞察相关项目，结合业务数据及用户行为数据研究用户画像、分析用户需求，输出用户体验研究报告； 5. 沉淀体验方法论与价值观，置入于产品及业务运营的全流程； 6. AI应用探索：主动运用AI工具辅助体验数据分析、用户情感分析与报告撰写，挖掘深层次体验问题，提升体验改善效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对数字、数据敏感，具备良好的逻辑思维，进行数据的分析和处理； 3. 有良好的用户sense，具备优秀的项目管理与项目推动能力； 4. 能够充分利用用户体验调研的方法论，制定研究方案、转化客户声音、推进研究过程、独立完成研究报告； 5. 具备一定的分析市场、洞察用户体验痛点等问题的专业能力； 6. 能使用EXCEL、R语言、统计学、SPSS，熟悉掌握数据库原理及使用； 7. 具备严谨的逻辑思维能力和较强学习能力者优先； 8. 熟练使用AI工具（如通用对话式AI、数据分析AI等）辅助体验分析及报告输出；有利用AI工具进行用户反馈挖掘的经历者优先； 9. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 10. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-c3889efdf619",
+      "company": "京东",
+      "title": "供应链运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、苏州",
+      "jobDescription": "1. 完成各项库存指标报告的统计，如现货、周转、滞销和成本，对各项指标进行监控和预警； 2. 针对问题点进行初步的分析，提出合理的改善思路和建议协助进行采购管理及采购在途库存跟进分析及执行； 3. 协助进行供应商管理，分析供应商履约表现、提出改善方案并跟进； 4. AI应用探索：关注AI在供应链计划运营中的应用，运用AI工具辅助数据处理、指标预测与异常预警，提升运营分析效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的逻辑思考、沟通表达能力，善于协调资源达成目标，学习能力强，能够快速掌握新的知识； 3. 熟练应用EXCEL等办公工具，有良好的流程分析、问题解决和数据处理能力，了解Python基础知识，熟悉Spyder、Jupyter等的使用； 4. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和指标监控；有AI工具辅助库存分析或运营决策的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 完成各项库存指标报告的统计，如现货、周转、滞销和成本，对各项指标进行监控和预警； 2. 针对问题点进行初步的分析，提出合理的改善思路和建议协助进行采购管理及采购在途库存跟进分析及执行； 3. 协助进行供应商管理，分析供应商履约表现、提出改善方案并跟进； 4. AI应用探索：关注AI在供应链计划运营中的应用，运用AI工具辅助数据处理、指标预测与异常预警，提升运营分析效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的逻辑思考、沟通表达能力，善于协调资源达成目标，学习能力强，能够快速掌握新的知识； 3. 熟练应用EXCEL等办公工具，有良好的流程分析、问题解决和数据处理能力，了解Python基础知识，熟悉Spyder、Jupyter等的使用； 4. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和指标监控；有AI工具辅助库存分析或运营决策的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-a341d61efe48",
+      "company": "京东",
+      "title": "商业分析",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、武汉、上海",
+      "jobDescription": "1. 行业核心数据分析：依托目前渠道，月度行业竞对经营情况，深入分析背后的原因，供业务部门参考借鉴； 2. 对管理层和业务部门进行数据需求支持，挖掘分析主题，开展数据分析工作，基于数据分析结果，为管理层和业务部门提供运营策略分析和业务优化建议； 3. 行业动态追踪：针对主要产品的核心行业动态进行追踪，及时输出信息，供业务部门参考借鉴； 4. 创新模式研究报告：针对行业创新的模式进行研究，供业务部门参考； 5. 监控、分析日常商业营运达成情况，推动各部门优化作业； 6. AI应用探索：主动运用AI工具辅助数据挖掘、行业研究及分析报告生成，提升商业洞察效率与深度。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业； 3. 掌握数据获取、处理、建模、分析、可视化等相关能力，掌握SQL、Python、R、SPSS、Power BI、Tableau等； 4. 具有良好的逻辑能力，能够独立的拆解、分析问题，并根据数据等信息对业务的实际发展提供支持； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助分析建模与报告撰写；有利用AI工具提升商业分析效率的实践经历； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 行业核心数据分析：依托目前渠道，月度行业竞对经营情况，深入分析背后的原因，供业务部门参考借鉴； 2. 对管理层和业务部门进行数据需求支持，挖掘分析主题，开展数据分析工作，基于数据分析结果，为管理层和业务部门提供运营策略分析和业务优化建议； 3. 行业动态追踪：针对主要产品的核心行业动态进行追踪，及时输出信息，供业务部门参考借鉴； 4. 创新模式研究报告：针对行业创新的模式进行研究，供业务部门参考； 5. 监控、分析日常商业营运达成情况，推动各部门优化作业； 6. AI应用探索：主动运用AI工具辅助数据挖掘、行业研究及分析报告生成，提升商业洞察效率与深度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业； 3. 掌握数据获取、处理、建模、分析、可视化等相关能力，掌握SQL、Python、R、SPSS、Power BI、Tableau等； 4. 具有良好的逻辑能力，能够独立的拆解、分析问题，并根据数据等信息对业务的实际发展提供支持； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助分析建模与报告撰写；有利用AI工具提升商业分析效率的实践经历； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-0370a4331e9d",
+      "company": "京东",
+      "title": "数据分析",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、长沙、厦门、广州、西安、杭州、上海",
+      "jobDescription": "1. 构建指标与数据分析体系，建立完整、科学的数据化运营体系； 2. 深入理解业务需求，通过数据分析为业务决策、产品方向、运营策略提供数据分析支持；完成对业务关键指标的监控及异常波动等分析工作，并不断主动思考、反馈数据发现的各类业务问题，推进解决优化； 3. 定期归纳总结、复盘，将有效的分析框架快速沉淀为数据模型、数据产品，提升相关团队作业效率； 4. 积极和业务方充分沟通，主动发掘和探索业务的机会点，基于数据输出相关分析和建议，并积极推动落地； 5. AI应用探索：主动运用AI工具辅助数据探索、自动可视化及分析模型构建，提升分析效率与洞察深度。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业； 3. 掌握数据获取、处理、建模分析、可视化等相关能力，掌握SQL，Python，R，SPSS、Power BI、Tableau等一个或多个工具； 4. 具有良好的逻辑能力，能够独立的拆解、分析问题，并根据数据等信息对业务的实际发展提供支持； 5. 熟练使用AI工具（如通用对话式AI、Copilot等）辅助SQL/Python代码生成与数据分析；有利用AI工具优化数据分析流程的实践经历； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 构建指标与数据分析体系，建立完整、科学的数据化运营体系； 2. 深入理解业务需求，通过数据分析为业务决策、产品方向、运营策略提供数据分析支持；完成对业务关键指标的监控及异常波动等分析工作，并不断主动思考、反馈数据发现的各类业务问题，推进解决优化； 3. 定期归纳总结、复盘，将有效的分析框架快速沉淀为数据模型、数据产品，提升相关团队作业效率； 4. 积极和业务方充分沟通，主动发掘和探索业务的机会点，基于数据输出相关分析和建议，并积极推动落地； 5. AI应用探索：主动运用AI工具辅助数据探索、自动可视化及分析模型构建，提升分析效率与洞察深度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业； 3. 掌握数据获取、处理、建模分析、可视化等相关能力，掌握SQL，Python，R，SPSS、Power BI、Tableau等一个或多个工具； 4. 具有良好的逻辑能力，能够独立的拆解、分析问题，并根据数据等信息对业务的实际发展提供支持； 5. 熟练使用AI工具（如通用对话式AI、Copilot等）辅助SQL/Python代码生成与数据分析；有利用AI工具优化数据分析流程的实践经历； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-00b14f037cdd",
+      "company": "京东",
+      "title": "内容运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 负责用户内容运营工作，包括但不限于PGC、UGC、MCN合作内容、大咖牛人输出的内容； 2. 策划并输出与产品服务定位匹配的体系化、高质量原创内容，通过各维度的内容运营提升用户粘性与活跃度效果，有效支持用户运营相关业务环节的指标提升； 3. 针对优质内容进行精选、包装、专题制作及推荐，引导用户持续关注和浏览； 4. 了解实时热点、行业动向，熟悉用户行为变化并不断优化内容运营策略； 5. 发掘和维护平台内的优质内容作者，跟进并产生内容合作； 6. AI应用探索：主动运用AI内容生成工具辅助素材创作、热点捕捉与内容分发，提升内容生产效率与传播效果。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对内容媒体与渠道如数家珍，热爱互联网、新媒体行业，对CPS等有一定认知； 3. 具备较强的行业市场分析、营销、策划、推广能力； 4. 积极主动有责任心，具有主动思考和学习能力，有优秀的PPT编写能力优先；具备良好的沟通技巧和组织协调能力，细致耐心的工作态度，能够协调各方资源达成目标，富有激情和创造性； 5. 熟练使用AI工具（如通用对话式AI、AI写作助手等）辅助内容策划与生产；有AIGC相关实践经历（如AI生成图文、视频素材等）者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责用户内容运营工作，包括但不限于PGC、UGC、MCN合作内容、大咖牛人输出的内容； 2. 策划并输出与产品服务定位匹配的体系化、高质量原创内容，通过各维度的内容运营提升用户粘性与活跃度效果，有效支持用户运营相关业务环节的指标提升； 3. 针对优质内容进行精选、包装、专题制作及推荐，引导用户持续关注和浏览； 4. 了解实时热点、行业动向，熟悉用户行为变化并不断优化内容运营策略； 5. 发掘和维护平台内的优质内容作者，跟进并产生内容合作； 6. AI应用探索：主动运用AI内容生成工具辅助素材创作、热点捕捉与内容分发，提升内容生产效率与传播效果。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对内容媒体与渠道如数家珍，热爱互联网、新媒体行业，对CPS等有一定认知； 3. 具备较强的行业市场分析、营销、策划、推广能力； 4. 积极主动有责任心，具有主动思考和学习能力，有优秀的PPT编写能力优先；具备良好的沟通技巧和组织协调能力，细致耐心的工作态度，能够协调各方资源达成目标，富有激情和创造性； 5. 熟练使用AI工具（如通用对话式AI、AI写作助手等）辅助内容策划与生产；有AIGC相关实践经历（如AI生成图文、视频素材等）者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "内容运营"
+      ],
+      "skills": [
+        "内容运营",
+        "市场分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "营销",
+        "客户",
+        "传播"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-20ba93da1566",
+      "company": "京东",
+      "title": "人事运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历，人力资源管理、工商管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、西安、天津、上海、武汉、长沙、重庆、成都、东莞、广州",
+      "jobDescription": "1.负责保公积金、入离职等业务的实操交付与流程梳理，明确时间节点、操作规范及交付标准，支撑从属地交付到共享集中交付的平稳过渡； 2.结合交付模式和结果，识别问题和可改善项，推进优化完善，对业务交付效率和质量负责； 3.负责深耕属地社保公积金政策，制定实操指引并做好更新维护，并提供属地业务政策咨询支持。； 4.负责属地社保供应商管理及与外部部门的对接协调； 5.负责员工人事相关业务咨询答疑。​",
+      "jobRequirements": "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历，人力资源管理、工商管理等相关专业优先； 2.具备基础人力知识，熟练使用 Excel 等办公软件，对社保公积金政策有初步了解，有HR相关实习经验优先；​ 3.逻辑清晰，有流程梳理与问题分析能力；沟通协调力强，责任心与抗压性好，具备团队精神与强学习力。",
+      "JD": "1.负责保公积金、入离职等业务的实操交付与流程梳理，明确时间节点、操作规范及交付标准，支撑从属地交付到共享集中交付的平稳过渡； 2.结合交付模式和结果，识别问题和可改善项，推进优化完善，对业务交付效率和质量负责； 3.负责深耕属地社保公积金政策，制定实操指引并做好更新维护，并提供属地业务政策咨询支持。； 4.负责属地社保供应商管理及与外部部门的对接协调； 5.负责员工人事相关业务咨询答疑。​\n1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历，人力资源管理、工商管理等相关专业优先； 2.具备基础人力知识，熟练使用 Excel 等办公软件，对社保公积金政策有初步了解，有HR相关实习经验优先；​ 3.逻辑清晰，有流程梳理与问题分析能力；沟通协调力强，责任心与抗压性好，具备团队精神与强学习力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历，人力资源管理、工商管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-ae9b8fedc82b",
+      "company": "京东",
+      "title": "产品运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都、北京、上海、深圳、天津",
+      "jobDescription": "1. 负责产品规划设计，专注于某一类线上产品的运营； 2. 围绕线上产品全生命周期，通过活动策划、内容组织、数据分析、内外部资源拓展等多种运营手段，拉升产品用户增长、加大用户使用深度； 3. 提升各产品的注册量、用户访问深度、用户访问频次、用户关系对数量、发帖量等指标，实现商业价值转化； 4. AI应用探索：主动运用AI工具辅助运营数据分析、活动效果评估与用户反馈分析，提升运营决策效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对研发体系全链路有一定了解，对设计、业务有一定认知； 3. 具有优秀的逻辑思维能力、系统分析能力、突出的数据分析能力，乐于思考，并勇于尝试将思考转化为落地的执行方案； 4. 喜欢挑战，热爱价值创造，认同京东的商业理念； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据处理与运营方案撰写；有使用AI工具提升运营效果的实践经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责产品规划设计，专注于某一类线上产品的运营； 2. 围绕线上产品全生命周期，通过活动策划、内容组织、数据分析、内外部资源拓展等多种运营手段，拉升产品用户增长、加大用户使用深度； 3. 提升各产品的注册量、用户访问深度、用户访问频次、用户关系对数量、发帖量等指标，实现商业价值转化； 4. AI应用探索：主动运用AI工具辅助运营数据分析、活动效果评估与用户反馈分析，提升运营决策效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对研发体系全链路有一定了解，对设计、业务有一定认知； 3. 具有优秀的逻辑思维能力、系统分析能力、突出的数据分析能力，乐于思考，并勇于尝试将思考转化为落地的执行方案； 4. 喜欢挑战，热爱价值创造，认同京东的商业理念； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据处理与运营方案撰写；有使用AI工具提升运营效果的实践经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品运营"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-f872703e39af",
+      "company": "京东",
+      "title": "供应链规划",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、西安、厦门、上海",
+      "jobDescription": "1. 负责商品供应链的模式研究与创新，识别提高供应链效率、效果和效能的机会，制定并应用实施供应链策略、设计方案、模型、流程以提高供应链效率； 2. 负责供应链“端到端”的运营提效，包括计划、采购、库存、仓配、质控等管理和运营工作； 3. AI应用探索：主动关注AI在供应链规划领域的创新应用，尝试运用AI工具辅助供应链建模、预测分析与流程优化，提升规划效率与决策质量。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的逻辑思考、数据处理和解决问题能力，善于结构化思考； 3. 有一定抗压能力，具有强的学习能力、责任心、原则性和团队合作精神理念； 4. 熟练应用EXCEL等办公工具，有良好的流程分析能力； 5. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和流程建模；有AI工具辅助供应链分析或优化项目经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责商品供应链的模式研究与创新，识别提高供应链效率、效果和效能的机会，制定并应用实施供应链策略、设计方案、模型、流程以提高供应链效率； 2. 负责供应链“端到端”的运营提效，包括计划、采购、库存、仓配、质控等管理和运营工作； 3. AI应用探索：主动关注AI在供应链规划领域的创新应用，尝试运用AI工具辅助供应链建模、预测分析与流程优化，提升规划效率与决策质量。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的逻辑思考、数据处理和解决问题能力，善于结构化思考； 3. 有一定抗压能力，具有强的学习能力、责任心、原则性和团队合作精神理念； 4. 熟练应用EXCEL等办公工具，有良好的流程分析能力； 5. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和流程建模；有AI工具辅助供应链分析或优化项目经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-ba3b53d488a7",
+      "company": "京东",
+      "title": "招标采购",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、广州、成都、杭州、上海、武汉、西安、深圳",
+      "jobDescription": "1. 集团间接性采购全流程管理：包括根据业务需求制定采购计划、跟进招采流程、输出采购结果等工作，保证物流供应、库存水平控制和成本控制，满足公司的采购要求； 2. 供应商管理：采购执行过程中投标单位的资料收集、整理与审核，组织相关考察，定期组织对供应商的执行情况进行评价； 3. 商务支持：跟进招采履约、商务结算、数据分析，及其他招采运营支持性工作； 4. AI应用探索：主动关注AI在采购领域的应用，尝试运用AI工具辅助供应商寻源、报价分析与采购数据分析，提升采购效率与透明度。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 执行力强，良好的理解、语言表达和沟通协调能力； 3. 具有较强的学习能力、责任心、原则性和团队合作精神； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助招投标文档处理及数据分析；有使用AI工具支持采购工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 集团间接性采购全流程管理：包括根据业务需求制定采购计划、跟进招采流程、输出采购结果等工作，保证物流供应、库存水平控制和成本控制，满足公司的采购要求； 2. 供应商管理：采购执行过程中投标单位的资料收集、整理与审核，组织相关考察，定期组织对供应商的执行情况进行评价； 3. 商务支持：跟进招采履约、商务结算、数据分析，及其他招采运营支持性工作； 4. AI应用探索：主动关注AI在采购领域的应用，尝试运用AI工具辅助供应商寻源、报价分析与采购数据分析，提升采购效率与透明度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 执行力强，良好的理解、语言表达和沟通协调能力； 3. 具有较强的学习能力、责任心、原则性和团队合作精神； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 了解并能使用AI工具（如通用对话式AI）辅助招投标文档处理及数据分析；有使用AI工具支持采购工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "合同",
+          "物流执行",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-94d09cbd9dfc",
+      "company": "京东",
+      "title": "用户运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、上海",
+      "jobDescription": "1. 负责制定整体用户增长策略，搭建可持续性用户成长体系，并执行落地计划； 2. 负责渠道、品牌等时间维度的拉新、复购策略，根据用户行为反馈进行数据分析，发现不同生命周期用户增长干预原因； 3. 联动研发、业务体系等资源提升用户增长； 4. 形成运营方法论，并赋能给相关品牌运营； 5. AI应用探索：主动运用AI工具辅助用户数据分析、增长策略挖掘与自动化运营，提升用户增长效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 有良好的信息收集和数据分析能力； 3. 对用户敏感度较高； 4. 了解并可使用AI工具（如通用对话式AI、智能数据分析平台等）进行用户分析及策略构思；有使用AI工具辅助用户运营的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责制定整体用户增长策略，搭建可持续性用户成长体系，并执行落地计划； 2. 负责渠道、品牌等时间维度的拉新、复购策略，根据用户行为反馈进行数据分析，发现不同生命周期用户增长干预原因； 3. 联动研发、业务体系等资源提升用户增长； 4. 形成运营方法论，并赋能给相关品牌运营； 5. AI应用探索：主动运用AI工具辅助用户数据分析、增长策略挖掘与自动化运营，提升用户增长效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 有良好的信息收集和数据分析能力； 3. 对用户敏感度较高； 4. 了解并可使用AI工具（如通用对话式AI、智能数据分析平台等）进行用户分析及策略构思；有使用AI工具辅助用户运营的实践经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "用户运营"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "用户",
+        "数据",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-fa0988cc5376",
+      "company": "京东",
+      "title": "客服运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都、北京、武汉",
+      "jobDescription": "1、服务资源统筹：参与客服中心服务资源的统筹与管控，协助人力预估、排班优化与现场运营监控，实现服务流量与资源匹配，保障KPI达成与业务平稳运行； 2、服务质量监控：监控人效、产能、响应时长、满意度等运营数据，对异常情况实时追踪与预警，输出诊断报告，提出资源与流程优化建议； 3、体验改善与流程优化：分析客户需求与高频客诉痛点，制定体验改善策略，联动业务部门推动服务流程与系统优化，提升客户满意度与忠诚度； 4、客诉与风险管理：监控客户VOC与舆情动态，识别潜在风险并启动预警，协助处理紧急客诉与突发风险事件，推动问题溯源整改，降低业务风险； 5、AI应用探索：主动运用AI工具辅助运营数据分析、流程诊断与改善方案设计，提升服务运营效率与质量。",
+      "jobRequirements": "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、熟练使用Excel、PPT等办公软件，具备一定的数据分析能力和报告撰写能力； 3、热爱互联网行业并愿意长期深耕，具有强烈的事业心、进取心、责任心，对工作充满激情； 4、具备良好的逻辑思维与客户洞察力，对服务体验有敏感度，善于发现和解决问题； 5、有很强的沟通协调能力、学习能力和推进能力，有很好的责任心和抗压能力； 6、了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析与流程优化；有利用AI工具提升运营效率的经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1、服务资源统筹：参与客服中心服务资源的统筹与管控，协助人力预估、排班优化与现场运营监控，实现服务流量与资源匹配，保障KPI达成与业务平稳运行； 2、服务质量监控：监控人效、产能、响应时长、满意度等运营数据，对异常情况实时追踪与预警，输出诊断报告，提出资源与流程优化建议； 3、体验改善与流程优化：分析客户需求与高频客诉痛点，制定体验改善策略，联动业务部门推动服务流程与系统优化，提升客户满意度与忠诚度； 4、客诉与风险管理：监控客户VOC与舆情动态，识别潜在风险并启动预警，协助处理紧急客诉与突发风险事件，推动问题溯源整改，降低业务风险； 5、AI应用探索：主动运用AI工具辅助运营数据分析、流程诊断与改善方案设计，提升服务运营效率与质量。\n1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、熟练使用Excel、PPT等办公软件，具备一定的数据分析能力和报告撰写能力； 3、热爱互联网行业并愿意长期深耕，具有强烈的事业心、进取心、责任心，对工作充满激情； 4、具备良好的逻辑思维与客户洞察力，对服务体验有敏感度，善于发现和解决问题； 5、有很强的沟通协调能力、学习能力和推进能力，有很好的责任心和抗压能力； 6、了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析与流程优化；有利用AI工具提升运营效率的经历者优先； 7、对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-05b30b37f77e",
+      "company": "京东",
+      "title": "平台运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 市场营销类、经济类、管理类、国际贸易等领域相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、成都",
+      "jobDescription": "1. 负责平台型产品策略的制定与落地； 2. 建设并完善平台运营工具，具备整合平台资源的能力，持续优化业务流程，提升平台整体运营效率； 3. 负责部门级项目的统筹与推进，协调各部门的工作衔接与配合，整合内外部资源，为项目目标达成负责； 4. 了解市场趋势、关注行业动态，及时基于自身业务发展情况及市场变化提供策略建议及决策支持； 5. AI应用探索：主动运用AI工具辅助数据分析、市场趋势洞察与策略优化，提升平台运营决策效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销类、经济类、管理类、国际贸易等领域相关专业优先； 3. 有较好的数据分析、沟通和表达能力，对复杂项目能够快速理解并清晰表达； 4. 具备优秀的学习与认知能力，能够快速成长，有效支撑业务发展； 5. 有知名电商实习经验者优先； 6. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助业务分析及报告撰写；有利用AI工具提升运营策略产出效率的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责平台型产品策略的制定与落地； 2. 建设并完善平台运营工具，具备整合平台资源的能力，持续优化业务流程，提升平台整体运营效率； 3. 负责部门级项目的统筹与推进，协调各部门的工作衔接与配合，整合内外部资源，为项目目标达成负责； 4. 了解市场趋势、关注行业动态，及时基于自身业务发展情况及市场变化提供策略建议及决策支持； 5. AI应用探索：主动运用AI工具辅助数据分析、市场趋势洞察与策略优化，提升平台运营决策效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销类、经济类、管理类、国际贸易等领域相关专业优先； 3. 有较好的数据分析、沟通和表达能力，对复杂项目能够快速理解并清晰表达； 4. 具备优秀的学习与认知能力，能够快速成长，有效支撑业务发展； 5. 有知名电商实习经验者优先； 6. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助业务分析及报告撰写；有利用AI工具提升运营策略产出效率的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 市场营销类、经济类、管理类、国际贸易等领域相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-ab91b98e1897",
+      "company": "京东",
+      "title": "商家运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、成都",
+      "jobDescription": "1. 负责开放平台日常运营和管理工作，制定清晰的运营策略，有效整合各种营销资源，组织商家参与各类活动，打造良好的卖家生态； 2. 对商家进行分级管理，有针对性的对商家进行培训指导，提升运营综合实力及销售转化； 3. 定期分析销售及活动数据，准确为商家店铺进行诊断，并结合实际情况制定系统性的销售提升方案； 4. 收集市场信息和消费者反馈，及时调整品类运营策略，把握市场机会点； 5. AI应用探索：主动运用AI工具辅助商家数据分析、诊断报告生成与培训支持，提升商家运营效率与满意度。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对商业经营有浓厚兴趣，擅长思考，懂得创新； 3. 积极乐观、善于沟通，向往人际关系；有自驱力，爱折腾，看到目标就一定不放弃； 4. 有市场调研、数据分析、供应链管理等实习经验者优先； 5. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助商家数据分析与运营指导；有AI工具应用于商业分析的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责开放平台日常运营和管理工作，制定清晰的运营策略，有效整合各种营销资源，组织商家参与各类活动，打造良好的卖家生态； 2. 对商家进行分级管理，有针对性的对商家进行培训指导，提升运营综合实力及销售转化； 3. 定期分析销售及活动数据，准确为商家店铺进行诊断，并结合实际情况制定系统性的销售提升方案； 4. 收集市场信息和消费者反馈，及时调整品类运营策略，把握市场机会点； 5. AI应用探索：主动运用AI工具辅助商家数据分析、诊断报告生成与培训支持，提升商家运营效率与满意度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对商业经营有浓厚兴趣，擅长思考，懂得创新； 3. 积极乐观、善于沟通，向往人际关系；有自驱力，爱折腾，看到目标就一定不放弃； 4. 有市场调研、数据分析、供应链管理等实习经验者优先； 5. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助商家数据分析与运营指导；有AI工具应用于商业分析的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "营销",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-a5b8eaf5bb19",
+      "company": "京东",
+      "title": "门店督导",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海、长沙、北京、成都、武汉、西安、杭州、广州、佛山、南京、东莞、重庆、天津",
+      "jobDescription": "1.负责区域内品牌门店的日常拜访，梳理门店类型与合作模式，熟悉合同条款内容，确保各项合作政策有效落地执行。 2.深入了解平台类目结构、价格体系及模式分布，协助门店优化选品与定价，提升经营效率。 3.精准传达各类营销活动与优惠政策，推动门店参与，帮助门店享受低价采购与高效履约的下单体验。 4.熟悉区域门店运营流程，按照公司要求制定并执行巡店计划，及时发现并反馈门店运营中的问题。",
+      "jobRequirements": "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历； 2.热爱互联网，愿意从事零售行业，具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情； 3.具备优秀的沟通协调能力，善于团队合作，有较强的执行力，关注细节； 4.善于适应快速变化的环境，具备较强承压与情绪管理能力，有韧劲； 5.爱岗敬业，诚实守信，较强的服务意识和责任心，富有热情、耐心。",
+      "JD": "1.负责区域内品牌门店的日常拜访，梳理门店类型与合作模式，熟悉合同条款内容，确保各项合作政策有效落地执行。 2.深入了解平台类目结构、价格体系及模式分布，协助门店优化选品与定价，提升经营效率。 3.精准传达各类营销活动与优惠政策，推动门店参与，帮助门店享受低价采购与高效履约的下单体验。 4.熟悉区域门店运营流程，按照公司要求制定并执行巡店计划，及时发现并反馈门店运营中的问题。\n1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历； 2.热爱互联网，愿意从事零售行业，具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情； 3.具备优秀的沟通协调能力，善于团队合作，有较强的执行力，关注细节； 4.善于适应快速变化的环境，具备较强承压与情绪管理能力，有韧劲； 5.爱岗敬业，诚实守信，较强的服务意识和责任心，富有热情、耐心。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同",
+          "客户关系",
+          "物流执行",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-1d6af27a3880",
+      "company": "京东",
+      "title": "产研项目管理",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 按照公司项目管理流程对项目进行全生命周期项目管理,包括业务条线上的项目集管理。进行项目立项、排期、进度跟踪、质量管控、风险预警评估、结项等项目过程管理，以及对应项目管理系统的使用； 2. 为公司项目落地提供有力支持，保证决策在各部门、团队快速传递并有效执行；深入理解业务，识别组织效率/项目交付过程/研发管理等领域的问题，提供分析建议以支持决策，推进方案实施； 3. 参与项目需求优先级分析、ROI指标的论证及项目立项评审等，需要制定合理的整体项目计划、控制项目总体成本，项目结项后效果跟踪、评估； 4. AI应用探索：主动运用AI工具辅助项目进度跟踪、风险识别与数据分析，提升项目管理透明度与协同效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对互联网极度热爱，具备敏捷的洞察和思维能力，并且有把思考变为现实以满足项目需求的勇气和能力； 3. 优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力； 4. 极强的跨部门沟通能力、组织协调和问题解决的能力，突出的抗压能力，学习适应能力； 5. 熟练使用AI工具（如通用对话式AI）辅助项目文档整理、会议纪要与风险分析；有利用AI工具优化项目管理流程的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 按照公司项目管理流程对项目进行全生命周期项目管理,包括业务条线上的项目集管理。进行项目立项、排期、进度跟踪、质量管控、风险预警评估、结项等项目过程管理，以及对应项目管理系统的使用； 2. 为公司项目落地提供有力支持，保证决策在各部门、团队快速传递并有效执行；深入理解业务，识别组织效率/项目交付过程/研发管理等领域的问题，提供分析建议以支持决策，推进方案实施； 3. 参与项目需求优先级分析、ROI指标的论证及项目立项评审等，需要制定合理的整体项目计划、控制项目总体成本，项目结项后效果跟踪、评估； 4. AI应用探索：主动运用AI工具辅助项目进度跟踪、风险识别与数据分析，提升项目管理透明度与协同效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对互联网极度热爱，具备敏捷的洞察和思维能力，并且有把思考变为现实以满足项目需求的勇气和能力； 3. 优秀的创造力、想象力、逻辑思维与系统分析能力，突出的文字组织能力和沟通能力； 4. 极强的跨部门沟通能力、组织协调和问题解决的能力，突出的抗压能力，学习适应能力； 5. 熟练使用AI工具（如通用对话式AI）辅助项目文档整理、会议纪要与风险分析；有利用AI工具优化项目管理流程的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [
+          "技术评估"
+        ],
+        "businessDuties": [
+          "商务测算",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-43c446d6634e",
+      "company": "京东",
+      "title": "物业管理",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 系统参与物业管理部某一个业务板块的业务流程，包括但不限于：仓建管理部物业、公建管理部物业； 2. 深入参与或负责与各外部协同部门各种需求的沟通、协调与对接，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3. AI应用探索：主动关注AI在物业管理领域的应用，尝试运用AI工具辅助设施管理、能耗分析及报修处理，提升物业管理智能化水平。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的专业背景，较好的逻辑思维和团队合作意识； 3. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 4. 了解并能使用AI工具（如通用对话式AI）辅助数据分析及报告撰写；有使用AI工具支持物业运营的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 系统参与物业管理部某一个业务板块的业务流程，包括但不限于：仓建管理部物业、公建管理部物业； 2. 深入参与或负责与各外部协同部门各种需求的沟通、协调与对接，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3. AI应用探索：主动关注AI在物业管理领域的应用，尝试运用AI工具辅助设施管理、能耗分析及报修处理，提升物业管理智能化水平。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 良好的专业背景，较好的逻辑思维和团队合作意识； 3. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 4. 了解并能使用AI工具（如通用对话式AI）辅助数据分析及报告撰写；有使用AI工具支持物业运营的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-008a0f2158e9",
+      "company": "京东",
+      "title": "解决方案",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都、北京、重庆、厦门、上海、杭州、广州",
+      "jobDescription": "1. 负责向客户提供业务架构、应用架构及系统解决方案设计等专业服务； 2. 负责项目售前阶段的需求分析、方案交流、方案设计、招投标等工作，根据客户需求设计个性化的解决方案； 3. 负责跟踪研究产业和行业数字化技术趋势和动态，结合京东智能供应链技术产品与服务优势，制定行业拓展策略与打法，并形成行业研究报告，为行业解决方案和产品设计出指导性建议和长期规划； 4. 赋能生态合作伙伴，进行方案的培训和宣讲； 5. 负责竞争对手的竞争性研究分析，并提出竞争性策略，给出解决方案； 6. 负责跟进行业技术最新动态，并推动新技术在产品和系统的应用落地； 7. AI应用探索：主动运用AI工具辅助行业研究、方案撰写与数据分析，提升解决方案输出效率与竞争力。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对云计算、智慧物流、供应链等前沿技术领域有较好的理解，能够在方案中充分运用所掌握的概念和知识；有敏锐的商业意识； 3. 对计算机软件、管理信息系统、软件应用架构具有体系化的知识储备； 4. 能够组织编写针对客户行业的解决方案，有较强的文档编写和演讲能力； 5. 具备团队合作经验，乐于分享，学习能力强，抗压能力强； 6. 熟练使用AI工具（如通用对话式AI、智能研究平台等）辅助行业调研与方案编写；有利用AI工具提升售前效率的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责向客户提供业务架构、应用架构及系统解决方案设计等专业服务； 2. 负责项目售前阶段的需求分析、方案交流、方案设计、招投标等工作，根据客户需求设计个性化的解决方案； 3. 负责跟踪研究产业和行业数字化技术趋势和动态，结合京东智能供应链技术产品与服务优势，制定行业拓展策略与打法，并形成行业研究报告，为行业解决方案和产品设计出指导性建议和长期规划； 4. 赋能生态合作伙伴，进行方案的培训和宣讲； 5. 负责竞争对手的竞争性研究分析，并提出竞争性策略，给出解决方案； 6. 负责跟进行业技术最新动态，并推动新技术在产品和系统的应用落地； 7. AI应用探索：主动运用AI工具辅助行业研究、方案撰写与数据分析，提升解决方案输出效率与竞争力。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对云计算、智慧物流、供应链等前沿技术领域有较好的理解，能够在方案中充分运用所掌握的概念和知识；有敏锐的商业意识； 3. 对计算机软件、管理信息系统、软件应用架构具有体系化的知识储备； 4. 能够组织编写针对客户行业的解决方案，有较强的文档编写和演讲能力； 5. 具备团队合作经验，乐于分享，学习能力强，抗压能力强； 6. 熟练使用AI工具（如通用对话式AI、智能研究平台等）辅助行业调研与方案编写；有利用AI工具提升售前效率的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-e7e0a9b02068",
+      "company": "京东",
+      "title": "商务拓展",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、重庆、厦门、广州、成都",
+      "jobDescription": "1. 负责相应业务的商务拓展，对项目结果负责，对内跨部门协调，保证与合作伙伴的合作顺利落地； 2. 负责公司某项目的商务合作； 3. 分析产品趋势、业务特征，挖掘合作的新需求点，制定新的拓展计划； 4. 客户第一，能成为客户忠实的商业伙伴，能洞悉实际需求，并充分整合内部资源，推进项目落地进而实现共赢； 5. AI应用探索：主动运用AI工具辅助行业分析、合作方案构思与谈判准备，提升商务拓展成功率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 具备良好的人际关系处理能力，有优秀的沟通能力以及谈判技巧； 3. 正直，勇敢，有韧性，敢创新，负责任，强落地； 4. 热爱互联网，有优秀的沟通谈判能力，擅长协作； 5. 学习能力强，有一定的分析能力，有逻辑，有框架； 6. 了解并能使用AI工具（如通用对话式AI）辅助市场调研、竞品分析与商务文档撰写；有利用AI工具提升商务工作效率的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责相应业务的商务拓展，对项目结果负责，对内跨部门协调，保证与合作伙伴的合作顺利落地； 2. 负责公司某项目的商务合作； 3. 分析产品趋势、业务特征，挖掘合作的新需求点，制定新的拓展计划； 4. 客户第一，能成为客户忠实的商业伙伴，能洞悉实际需求，并充分整合内部资源，推进项目落地进而实现共赢； 5. AI应用探索：主动运用AI工具辅助行业分析、合作方案构思与谈判准备，提升商务拓展成功率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 具备良好的人际关系处理能力，有优秀的沟通能力以及谈判技巧； 3. 正直，勇敢，有韧性，敢创新，负责任，强落地； 4. 热爱互联网，有优秀的沟通谈判能力，擅长协作； 5. 学习能力强，有一定的分析能力，有逻辑，有框架； 6. 了解并能使用AI工具（如通用对话式AI）辅助市场调研、竞品分析与商务文档撰写；有利用AI工具提升商务工作效率的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-24aadad5a829",
+      "company": "京东",
+      "title": "广告运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 市场营销类、经济类、数学、统计学等理工科、管理类、国际贸易等领域相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 通过了解商户广告投放的需求、目标，设计达成路径，为商户提供针对性解决方案； 2. 了解广告运营核心领域的流程与职能； 3. 负责售前、售中、售后的全链路跟进落地，对内协同多种资源达成运营目标； 4. 建立从定义问题、分析问题、解决问题的运营方法论，持续提升运营能力与效率； 5. AI应用探索：主动运用AI工具辅助广告创意分析、投放效果预测与优化，提升广告运营精准度与效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销类、经济类、数学、统计学等理工科、管理类、国际贸易等领域相关专业优先； 3. 有较好的数据分析、沟通和表达能力，对复杂项目能够快速理解并清晰表达； 4. 具备优秀的学习与认知能力，能够快速成长，有效支撑业务发展； 5. 有知名电商、媒体平台、广告公司实习经验者优先； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助广告数据分析与优化建议产出；有使用AI工具辅助广告运营的实践经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 通过了解商户广告投放的需求、目标，设计达成路径，为商户提供针对性解决方案； 2. 了解广告运营核心领域的流程与职能； 3. 负责售前、售中、售后的全链路跟进落地，对内协同多种资源达成运营目标； 4. 建立从定义问题、分析问题、解决问题的运营方法论，持续提升运营能力与效率； 5. AI应用探索：主动运用AI工具辅助广告创意分析、投放效果预测与优化，提升广告运营精准度与效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 市场营销类、经济类、数学、统计学等理工科、管理类、国际贸易等领域相关专业优先； 3. 有较好的数据分析、沟通和表达能力，对复杂项目能够快速理解并清晰表达； 4. 具备优秀的学习与认知能力，能够快速成长，有效支撑业务发展； 5. 有知名电商、媒体平台、广告公司实习经验者优先； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助广告数据分析与优化建议产出；有使用AI工具辅助广告运营的实践经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 市场营销类、经济类、数学、统计学等理工科、管理类、国际贸易等领域相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-69e74506b5da",
+      "company": "京东",
+      "title": "技术产品经理",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 计算机、人工智能、自动化、统计学、心理学、交互设计等相关背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、成都、深圳、上海",
+      "jobDescription": "常规方向： 1. 负责B端、C端产品策划工作，基于内部或外部客户业务需要，设计技术产品架构，明确产品功能需求； 2. 跟进研发开发、测试，完成产品上线和功能迭代； 3. 关注行业动态，定期产出有价值情报信息，定期产出提炼为可能的解决方案。 AI方向： 1. 参与AI产品的全流程设计，包括用户需求调研、场景挖掘、原型设计及MVP验证； 2. 构建AI产品效果评估体系，包括评估指标、测评数据集设计、效果归因及优化策略制定； 3. 基于A/B测试、用户行为和反馈数据，推动产品持续优化迭代； 4. 关注AI行业动态与竞品动向，输出差异化分析与产品洞察报告。 5. AI应用探索（通用）：主动运用AI工具（如智能原型工具、数据分析平台、用户反馈分析工具等）提升产品调研、设计与决策效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 计算机、人工智能、自动化、统计学、心理学、交互设计等相关背景优先； 3. 对产品开发、设计、测试、运营等有一定了解；AI方向需对AI技术有基础认知，对AI产品、生成式技术应用充满热情； 4. 具备大局观，逻辑思维能力强，主动性高，有高效的执行力，具备优秀的理解、沟通与协调能力，有一定的文字表达能力； 5. 熟练使用通用AI工具（如对话式AI）辅助需求分析、竞品调研与文档撰写；有使用AI原型设计工具的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "常规方向： 1. 负责B端、C端产品策划工作，基于内部或外部客户业务需要，设计技术产品架构，明确产品功能需求； 2. 跟进研发开发、测试，完成产品上线和功能迭代； 3. 关注行业动态，定期产出有价值情报信息，定期产出提炼为可能的解决方案。 AI方向： 1. 参与AI产品的全流程设计，包括用户需求调研、场景挖掘、原型设计及MVP验证； 2. 构建AI产品效果评估体系，包括评估指标、测评数据集设计、效果归因及优化策略制定； 3. 基于A/B测试、用户行为和反馈数据，推动产品持续优化迭代； 4. 关注AI行业动态与竞品动向，输出差异化分析与产品洞察报告。 5. AI应用探索（通用）：主动运用AI工具（如智能原型工具、数据分析平台、用户反馈分析工具等）提升产品调研、设计与决策效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 计算机、人工智能、自动化、统计学、心理学、交互设计等相关背景优先； 3. 对产品开发、设计、测试、运营等有一定了解；AI方向需对AI技术有基础认知，对AI产品、生成式技术应用充满热情； 4. 具备大局观，逻辑思维能力强，主动性高，有高效的执行力，具备优秀的理解、沟通与协调能力，有一定的文字表达能力； 5. 熟练使用通用AI工具（如对话式AI）辅助需求分析、竞品调研与文档撰写；有使用AI原型设计工具的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 计算机、人工智能、自动化、统计学、心理学、交互设计等相关背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-ce582c02aaa4",
+      "company": "京东",
+      "title": "公共事务",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、上海、西安、广州、武汉、成都",
+      "jobDescription": "1.政府关系协助：协助建立并维护与政府部门的日常联系，参与各类政府接待和外访； 2.基础信息收集：参与政府拜访、接待活动，完成会议记录和资料准备工作； 3.项目申报支持：协助准备政府项目申报资料，参与资料、数据收集和整理工作； 4. AI应用探索：主动关注AI在公关领域的应用，尝试运用AI工具辅助舆情监控、传播分析及内容策划，提升公关响应速度与效果。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 有较强媒体策划能力、撰稿能力、执行力，能够根据需要制定相应媒体方案并推动实施； 3. 有严谨的逻辑思维能力，对互联网有较强的理解力，具有较强的团队合作能力和良好的沟通能力； 4. 为人正直，善于沟通，有学习的热情和积极性，具有上进心； 5. 了解并能使用AI工具（如通用对话式AI、舆情分析AI等）辅助传播监测与报告撰写；有利用AI工具支持公关工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1.政府关系协助：协助建立并维护与政府部门的日常联系，参与各类政府接待和外访； 2.基础信息收集：参与政府拜访、接待活动，完成会议记录和资料准备工作； 3.项目申报支持：协助准备政府项目申报资料，参与资料、数据收集和整理工作； 4. AI应用探索：主动关注AI在公关领域的应用，尝试运用AI工具辅助舆情监控、传播分析及内容策划，提升公关响应速度与效果。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 有较强媒体策划能力、撰稿能力、执行力，能够根据需要制定相应媒体方案并推动实施； 3. 有严谨的逻辑思维能力，对互联网有较强的理解力，具有较强的团队合作能力和良好的沟通能力； 4. 为人正直，善于沟通，有学习的热情和积极性，具有上进心； 5. 了解并能使用AI工具（如通用对话式AI、舆情分析AI等）辅助传播监测与报告撰写；有利用AI工具支持公关工作的经历者优先； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "数据",
+        "客户",
+        "公关",
+        "传播"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-dd5dd3bc2769",
+      "company": "京东",
+      "title": "物流产品服务",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 物流管理、物流工程、管理科学与工程、经管类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 负责为外部客户提供物流类产品或服务的定制化解决方案的方案设计； 2. 负责配合项目落地运营中的产品解决方案的服务及交付； 3. 通过招投标精准支持、项目售后保障、有偿服务支持和阶段性项目支持，为公司识别项目售后阶段风险； 4. 沉淀标准售后产品，快速复制推广，助力公司实现经营目标； 5. AI应用探索：主动运用AI工具辅助方案设计、数据分析与客户需求挖掘，提升解决方案匹配度与交付效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 具有良好的逻辑思维和沟通能力，良好的团队协作意识； 5. 具有高效的执行力，能够积极主动的思考、解决问题； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助客户需求分析与方案撰写；有利用AI工具优化物流解决方案的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 负责为外部客户提供物流类产品或服务的定制化解决方案的方案设计； 2. 负责配合项目落地运营中的产品解决方案的服务及交付； 3. 通过招投标精准支持、项目售后保障、有偿服务支持和阶段性项目支持，为公司识别项目售后阶段风险； 4. 沉淀标准售后产品，快速复制推广，助力公司实现经营目标； 5. AI应用探索：主动运用AI工具辅助方案设计、数据分析与客户需求挖掘，提升解决方案匹配度与交付效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 具有良好的逻辑思维和沟通能力，良好的团队协作意识； 5. 具有高效的执行力，能够积极主动的思考、解决问题； 6. 了解并能使用AI工具（如通用对话式AI、智能数据分析平台等）辅助客户需求分析与方案撰写；有利用AI工具优化物流解决方案的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 物流管理、物流工程、管理科学与工程、经管类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-5571b8ee11f6",
+      "company": "京东",
+      "title": "客服管理储备",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.专业不限，要求热爱电子商务、物流和服务行业等，具有强烈的事业心、进取心、责任心,并对生活充满正能量",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都、广州、上海、武汉",
+      "jobDescription": "1.新锐之星是京东战略性人才招募及发展项目，希望通过1-3年时间培养出支撑京东基层业务长远发展的基石人才； 2.通过轮岗提升管理以及统筹能力，积累一线客服各类业务经验，深入理解公司客服业务环节，发现潜在问题并形成解决方案、推动落地改善； 3.负责公司客服团队的运营管理，对团队业绩交付、团队发展、文化传承负责，提升服务质量，提高客户满意度，保证良好运营质量和客户体验。",
+      "jobRequirements": "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历； 2.专业不限，要求热爱电子商务、物流和服务行业等，具有强烈的事业心、进取心、责任心,并对生活充满正能量； 3.具备优秀的沟通协调能力,出色的解决问题的能力,善于团队合作,并能主动学习与创新； 4.乐于接受挑战,善于适应快速变化的环境,具备优秀的抗压能力,较强的吃苦耐劳精神； 5.具备持续学习的热情，能够积极主动的思考解决问题，善于总结学习所得，不断优化流程。",
+      "JD": "1.新锐之星是京东战略性人才招募及发展项目，希望通过1-3年时间培养出支撑京东基层业务长远发展的基石人才； 2.通过轮岗提升管理以及统筹能力，积累一线客服各类业务经验，深入理解公司客服业务环节，发现潜在问题并形成解决方案、推动落地改善； 3.负责公司客服团队的运营管理，对团队业绩交付、团队发展、文化传承负责，提升服务质量，提高客户满意度，保证良好运营质量和客户体验。\n1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历； 2.专业不限，要求热爱电子商务、物流和服务行业等，具有强烈的事业心、进取心、责任心,并对生活充满正能量； 3.具备优秀的沟通协调能力,出色的解决问题的能力,善于团队合作,并能主动学习与创新； 4.乐于接受挑战,善于适应快速变化的环境,具备优秀的抗压能力,较强的吃苦耐劳精神； 5.具备持续学习的热情，能够积极主动的思考解决问题，善于总结学习所得，不断优化流程。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.专业不限，要求热爱电子商务、物流和服务行业等，具有强烈的事业心、进取心、责任心,并对生活充满正能量"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-447211d98c53",
+      "company": "京东",
+      "title": "人才交付",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都、武汉、北京",
+      "jobDescription": "1、负责开展人才交付工作，根据业务发展需求，执行招聘计划，以满足组织对人才的需求； 2、通过多渠道挖掘与筛选候选人，进行初步评估，确保人才质量与岗位要求的匹配； 3、负责组织面试、跟进面试流程，提供专业的招聘服务，确保招聘流程的顺利进行； 4、定期总结招聘数据，分析招聘效果，为招聘策略的优化提供数据支持； 5、与团队成员紧密合作，共同提升招聘效率与质量，助力业务快速发展。",
+      "jobRequirements": "1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、了解人力资源各模块基本工作，有相关实习经验优先； 3、学习能力强，具备良好的逻辑思维和思考力； 4、熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1、负责开展人才交付工作，根据业务发展需求，执行招聘计划，以满足组织对人才的需求； 2、通过多渠道挖掘与筛选候选人，进行初步评估，确保人才质量与岗位要求的匹配； 3、负责组织面试、跟进面试流程，提供专业的招聘服务，确保招聘流程的顺利进行； 4、定期总结招聘数据，分析招聘效果，为招聘策略的优化提供数据支持； 5、与团队成员紧密合作，共同提升招聘效率与质量，助力业务快速发展。\n1、2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2、了解人力资源各模块基本工作，有相关实习经验优先； 3、学习能力强，具备良好的逻辑思维和思考力； 4、熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5、符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-9a7f22530623",
+      "company": "京东",
+      "title": "物流规划与实施",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 物流管理、物流工程、管理科学与工程、经管类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆、北京、长沙、厦门、广州、成都、武汉、西安、上海、杭州",
+      "jobDescription": "1. 根据公司业务及战略，系统参与京东物流规划工作，包括但不限于：战略研究、全球枢纽规划、智能仓网规划、快递快运网络规划、陆铁空力规划、路由规划、时效规划、系统规划、库内设计和规划、供应链预测与计划、生鲜产地规划、产业带规划等； 2. 深入参与或负责物流规划模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3. 负责快递快运供应链行业模式调研、动态规划课题研究，按场景推动作业流程再造及落地； 4. 根据货量及时效要求，合理配置及整合运力资源；建立线路及运力监测体系，及时发现问题并推动改善落地； 5. AI应用探索：主动关注AI在物流规划与优化中的应用，尝试运用AI工具辅助网络仿真、需求预测与资源配置优化，提升规划科学性。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识； 6. 具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程； 7. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和规划建模；有AI工具辅助物流规划或优化项目经历者优先； 8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 根据公司业务及战略，系统参与京东物流规划工作，包括但不限于：战略研究、全球枢纽规划、智能仓网规划、快递快运网络规划、陆铁空力规划、路由规划、时效规划、系统规划、库内设计和规划、供应链预测与计划、生鲜产地规划、产业带规划等； 2. 深入参与或负责物流规划模块的项目，通过实际项目管理和推动来锻炼、提升专业能力和个人经验； 3. 负责快递快运供应链行业模式调研、动态规划课题研究，按场景推动作业流程再造及落地； 4. 根据货量及时效要求，合理配置及整合运力资源；建立线路及运力监测体系，及时发现问题并推动改善落地； 5. AI应用探索：主动关注AI在物流规划与优化中的应用，尝试运用AI工具辅助网络仿真、需求预测与资源配置优化，提升规划科学性。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 物流管理、物流工程、管理科学与工程、经管类专业优先； 3. 热爱电商物流行业并愿意长期深耕电商物流行业。具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情，有志成为京东该行业领域领军人才； 4. 熟练应用EXCEL等办公工具，有良好的信息收集和分析能力； 5. 具有良好的逻辑思维和沟通能力，良好的担当和团队协作意识； 6. 具备持续学习的热情，能够积极主动的思考解决问题；善于总结学习所得，不断优化流程； 7. 了解并能使用至少一种AI工具（如通用对话式AI、智能数据分析平台等）辅助数据分析和规划建模；有AI工具辅助物流规划或优化项目经历者优先； 8. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 9. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 物流管理、物流工程、管理科学与工程、经管类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "项目管理",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "电商",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-7cdbc2e9b3d3",
+      "company": "京东",
+      "title": "战略",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "（含战略规划方向、战略投资方向） 1. 根据京东战略规划，收集、分析宏观数据，跟进市场走势，掌握行业情况，输出行业趋势研究报告、市场洞见和机会建议、推动专题研究，支持战略规划制定； 2. 结合各业务推进的实际情况，研究行业趋势，解析相关政策，洞察相关行业及细分市场规模，剖析产业链。进行竞对分析并跟踪，挖掘市场机会点及技术创新机会点； 3. 参与制定核心战略板块的总体战略规划与布局，形成可实施性方案，推动并协同各业务部门有效推进重点项目落地； 4. 组织并完成专项研究项目，对所负责领域进行持续性跟踪研究，通过跨体系跨部门的团队合作、协调、沟通及资源整合，推动项目小组群策群力完成负责的项目或事项； 5. AI应用探索：主动运用AI工具辅助情报收集、数据分析与战略报告撰写，提升战略研究效率与洞察深度。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 热爱互联网，熟悉互联网的主要发展方向和概念并有敏锐的市场意识，对科技行业有自己的思考和见解； 3. 熟悉实证研究的方法论，具备分析统计知识和研究能力； 4. 良好的口头及书面表达能力，组织协调能力强，具备商业意识，优秀的沟通协调能力； 5. 有较强的逻辑归纳推理能力、文档撰写能力和信息收集能力； 6. 熟练使用AI工具（如通用对话式AI、智能研究平台等）辅助信息整合与报告输出；有利用AI工具支持战略研究项目的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "（含战略规划方向、战略投资方向） 1. 根据京东战略规划，收集、分析宏观数据，跟进市场走势，掌握行业情况，输出行业趋势研究报告、市场洞见和机会建议、推动专题研究，支持战略规划制定； 2. 结合各业务推进的实际情况，研究行业趋势，解析相关政策，洞察相关行业及细分市场规模，剖析产业链。进行竞对分析并跟踪，挖掘市场机会点及技术创新机会点； 3. 参与制定核心战略板块的总体战略规划与布局，形成可实施性方案，推动并协同各业务部门有效推进重点项目落地； 4. 组织并完成专项研究项目，对所负责领域进行持续性跟踪研究，通过跨体系跨部门的团队合作、协调、沟通及资源整合，推动项目小组群策群力完成负责的项目或事项； 5. AI应用探索：主动运用AI工具辅助情报收集、数据分析与战略报告撰写，提升战略研究效率与洞察深度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 热爱互联网，熟悉互联网的主要发展方向和概念并有敏锐的市场意识，对科技行业有自己的思考和见解； 3. 熟悉实证研究的方法论，具备分析统计知识和研究能力； 4. 良好的口头及书面表达能力，组织协调能力强，具备商业意识，优秀的沟通协调能力； 5. 有较强的逻辑归纳推理能力、文档撰写能力和信息收集能力； 6. 熟练使用AI工具（如通用对话式AI、智能研究平台等）辅助信息整合与报告输出；有利用AI工具支持战略研究项目的经历者优先； 7. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 8. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-f81ad21023e5",
+      "company": "京东",
+      "title": "线下业态规划运营",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 工商管理、市场营销、建筑设计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 制定线下门店的区域布局规划和业态规划，包含门店定位、店面规模、目标客群、商品组合等； 2. 建立门店营运及门店工程、装潢、陈列等一系列标准和规范，为门店的标准化营运提供指导； 3. AI应用探索：主动运用AI工具辅助市场调研、商圈分析及业态规划方案输出，提升规划科学性。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 工商管理、市场营销、建筑设计等相关专业优先； 3. 思维清晰，逻辑性强，分析问题全面、客观，善于沟通协同； 4. 了解并能使用AI工具（如通用对话式AI）辅助业态分析及方案策划；有使用AI工具辅助商业规划的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 制定线下门店的区域布局规划和业态规划，包含门店定位、店面规模、目标客群、商品组合等； 2. 建立门店营运及门店工程、装潢、陈列等一系列标准和规范，为门店的标准化营运提供指导； 3. AI应用探索：主动运用AI工具辅助市场调研、商圈分析及业态规划方案输出，提升规划科学性。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 工商管理、市场营销、建筑设计等相关专业优先； 3. 思维清晰，逻辑性强，分析问题全面、客观，善于沟通协同； 4. 了解并能使用AI工具（如通用对话式AI）辅助业态分析及方案策划；有使用AI工具辅助商业规划的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 工商管理、市场营销、建筑设计等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-1fe19fcfe5f8",
+      "company": "京东",
+      "title": "用工渠道拓展",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.负责一线用工保障工作，根据岗位职责范围按需保障到位； 2.负责一线用工招聘渠道的开发、运营、效能提升，对招聘渠道进行日常运营与效果分析； 3.跟进整体招聘流程，有效控制与优化人均招聘成本； 4.与团队成员紧密合作，共同提升招聘效率与质量，助力业务快速发展。",
+      "jobRequirements": "1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先； 2.具有良好的服务意识和团队意识； 3.具有拼搏精神，有责任心； 4.学习能力，具有较强的沟通协调能力及学习能力； 5.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1.负责一线用工保障工作，根据岗位职责范围按需保障到位； 2.负责一线用工招聘渠道的开发、运营、效能提升，对招聘渠道进行日常运营与效果分析； 3.跟进整体招聘流程，有效控制与优化人均招聘成本； 4.与团队成员紧密合作，共同提升招聘效率与质量，助力业务快速发展。\n1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先； 2.具有良好的服务意识和团队意识； 3.具有拼搏精神，有责任心； 4.学习能力，具有较强的沟通协调能力及学习能力； 5.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "客户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-b6618f48d424",
+      "company": "京东",
+      "title": "客服支持储备",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "成都、天津",
+      "jobDescription": "1.为京东服务团队运营工作保驾护航，主要聚焦服务业务量预测及排班管理、员工培训及能力提升等多模块方向； 2.结合业务流程和客户建议，整体复盘并提交优化建议， 赋能京东服务团队，提升客户体验感； 3.负责客户服务能力提升和优化，制定流程优化方案，推动客户服务工作高质量完成，促进业务升级。",
+      "jobRequirements": "1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历，学习能力强，数据敏感度高； 2.良好的逻辑思维及归纳总结能力和强烈的工作责任感和使命感； 3.有敏锐的风险、风控意识，具备良好的跨部门沟通能力。",
+      "JD": "1.为京东服务团队运营工作保驾护航，主要聚焦服务业务量预测及排班管理、员工培训及能力提升等多模块方向； 2.结合业务流程和客户建议，整体复盘并提交优化建议， 赋能京东服务团队，提升客户体验感； 3.负责客户服务能力提升和优化，制定流程优化方案，推动客户服务工作高质量完成，促进业务升级。\n1.2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历，学习能力强，数据敏感度高； 2.良好的逻辑思维及归纳总结能力和强烈的工作责任感和使命感； 3.有敏锐的风险、风控意识，具备良好的跨部门沟通能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-70f54c2abc15",
+      "company": "京东",
+      "title": "综合方向",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本硕学历不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1-集训&轮岗：集训&轮岗时间为半年，集训&轮岗期间的工作地包含北京、宿迁等城市。集训期间会经历超100场培训，通过集训将会完成从学生向优秀职场人的转身。轮岗期间会在客服/物流一线深入实践，同时会在总部核心业务部门进行轮岗学习，通过轮岗学习建立对业务全流程的视角和理解； 2-定岗：公司的定岗导向是“热爱、擅长、坚定”，可自由定岗至各BGBU的前台业务岗位（对业务营收、利润和用户体验有直接贡献的部门岗位），例如采销类、解决方案类、运营类、商务拓展类、金融类、客服体验类、工程类等岗位，届时将结合个人志向和公司需求确认具体的部门、岗位和工作地。",
+      "jobRequirements": "1-2026年10月1日至2027年9月30日期间毕业，统招本硕学历不限，本硕同级同薪； 2-有志于在零售/科技/物流/健康/工业/产发/国际等BGBU内各类产业的to C/to B/to G业务领域发展，对商业世界有浓厚的兴趣并拥有相应的知识储备； 3-拥有较强的好奇心，具备良好的学习能力；不惧困难，敢想敢干； 4-积极拥抱AI，主动学习AI工具并在实践场景中应用提效； 5-对京东的商业模式有了解，认同京东价值观与商业价值并愿意为其长期努力； 6-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1-集训&轮岗：集训&轮岗时间为半年，集训&轮岗期间的工作地包含北京、宿迁等城市。集训期间会经历超100场培训，通过集训将会完成从学生向优秀职场人的转身。轮岗期间会在客服/物流一线深入实践，同时会在总部核心业务部门进行轮岗学习，通过轮岗学习建立对业务全流程的视角和理解； 2-定岗：公司的定岗导向是“热爱、擅长、坚定”，可自由定岗至各BGBU的前台业务岗位（对业务营收、利润和用户体验有直接贡献的部门岗位），例如采销类、解决方案类、运营类、商务拓展类、金融类、客服体验类、工程类等岗位，届时将结合个人志向和公司需求确认具体的部门、岗位和工作地。\n1-2026年10月1日至2027年9月30日期间毕业，统招本硕学历不限，本硕同级同薪； 2-有志于在零售/科技/物流/健康/工业/产发/国际等BGBU内各类产业的to C/to B/to G业务领域发展，对商业世界有浓厚的兴趣并拥有相应的知识储备； 3-拥有较强的好奇心，具备良好的学习能力；不惧困难，敢想敢干； 4-积极拥抱AI，主动学习AI工具并在实践场景中应用提效； 5-对京东的商业模式有了解，认同京东价值观与商业价值并愿意为其长期努力； 6-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "统招本硕学历不限"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "用户",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-04",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-7a4cc621f8f6",
+      "company": "京东",
+      "title": "产品方向",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本硕学历不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1-集训&轮岗：集训&轮岗时间为半年，集训&轮岗期间的工作地包含北京、宿迁等城市。集训期间会经历超100场培训，通过集训将会完成从学生向优秀职场人的转身。轮岗期间会在客服/物流一线深入实践，同时会在产品及其上下游部门进行轮岗学习，通过轮岗学习建立对业务全流程的视角和理解，有利于产品在真实数据和商业环境中的落地； 2-定岗：公司的定岗导向是“热爱、擅长、坚定”，以供大家自由选择定岗至各BGBU的核心产品岗位（含AI、C端、B端、AI等产品经理岗位），届时将结合个人志向和公司需求确认具体的部门、岗位和工作地。",
+      "jobRequirements": "1-2026年10月1日至2027年9月30日期间毕业，统招本硕学历不限； 2-对互联网、AI行业及产品有极大热情，熟悉国内互联网和AI发展历程及现状，了解国内国际先进的产品理念、形态及模式； 3.深刻理解模型理论及Agent等关键概念，能以AI Native视角驱动产品方案。具备AI落地经验，善于通过数据推演，有技术信仰，将技术边界转化为创造真实用户价值的产品能力； 4-具备敏锐的用户洞察和商业思维，能够勇于推陈出新，善于把握及探索产品背后的商业价值； 5-对京东的商业模式有了解，认同京东价值观与商业价值并愿意为其长期努力； 6-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1-集训&轮岗：集训&轮岗时间为半年，集训&轮岗期间的工作地包含北京、宿迁等城市。集训期间会经历超100场培训，通过集训将会完成从学生向优秀职场人的转身。轮岗期间会在客服/物流一线深入实践，同时会在产品及其上下游部门进行轮岗学习，通过轮岗学习建立对业务全流程的视角和理解，有利于产品在真实数据和商业环境中的落地； 2-定岗：公司的定岗导向是“热爱、擅长、坚定”，以供大家自由选择定岗至各BGBU的核心产品岗位（含AI、C端、B端、AI等产品经理岗位），届时将结合个人志向和公司需求确认具体的部门、岗位和工作地。\n1-2026年10月1日至2027年9月30日期间毕业，统招本硕学历不限； 2-对互联网、AI行业及产品有极大热情，熟悉国内互联网和AI发展历程及现状，了解国内国际先进的产品理念、形态及模式； 3.深刻理解模型理论及Agent等关键概念，能以AI Native视角驱动产品方案。具备AI落地经验，善于通过数据推演，有技术信仰，将技术边界转化为创造真实用户价值的产品能力； 4-具备敏锐的用户洞察和商业思维，能够勇于推陈出新，善于把握及探索产品背后的商业价值； 5-对京东的商业模式有了解，认同京东价值观与商业价值并愿意为其长期努力； 6-符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "统招本硕学历不限"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-04",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-83f3a69b95bd",
+      "company": "京东",
+      "title": "行政",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 参与制定行政部工作发展规划、计划与预算方案； 2. 参与制定行政管理规章制度及督促、检查制度的贯彻执行； 3. 组织、协调公司年会、员工活动、市场类活动及各类会议； 4. 组织好来客接待和相关的外联工作； 5. 对职场内设备的使用、维修等情况进行管理； 6. 负责公司安保、消防管理、劳动保护以及环境建设； 7. AI应用探索：主动关注AI在行政管理领域的应用，尝试运用AI工具辅助会议管理、文档处理与行政事务自动化，提升行政服务效率。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对互联网极度热爱，具备敏捷的洞察和思维能力； 3. 乐观开朗，积极向上，沟通能力和抗压能力强； 4. 了解并能使用AI工具（如通用对话式AI）辅助文档撰写、日程协调与信息整理；有使用AI工具提升行政办公效率的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 参与制定行政部工作发展规划、计划与预算方案； 2. 参与制定行政管理规章制度及督促、检查制度的贯彻执行； 3. 组织、协调公司年会、员工活动、市场类活动及各类会议； 4. 组织好来客接待和相关的外联工作； 5. 对职场内设备的使用、维修等情况进行管理； 6. 负责公司安保、消防管理、劳动保护以及环境建设； 7. AI应用探索：主动关注AI在行政管理领域的应用，尝试运用AI工具辅助会议管理、文档处理与行政事务自动化，提升行政服务效率。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 对互联网极度热爱，具备敏捷的洞察和思维能力； 3. 乐观开朗，积极向上，沟通能力和抗压能力强； 4. 了解并能使用AI工具（如通用对话式AI）辅助文档撰写、日程协调与信息整理；有使用AI工具提升行政办公效率的经历者优先； 5. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 6. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日至2027年9月30日期间毕业"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-788450015da3",
+      "company": "京东",
+      "title": "店长储备",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、上海、天津、广州、深圳、长沙、成都、西安、重庆、杭州、苏州、南京、武汉",
+      "jobDescription": "1.轮岗期间学习线上线下多渠道商业知识，管理技能以及企业文化类培训，通过培训实操相结合，快速掌握全渠道业务经营方法； 2.负责部门销售预算及各项管理指标完成，进行每周每月的经营分析及整改措施并落实； 3.负责本部门商品的盘点、排面整理，美陈，价签标识管理，库存管理等工作； 4.负责本部门人员管理，包括日常排班，工作职责安排，人才梯队建设等。",
+      "jobRequirements": "1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历； 2.热爱互联网，愿意从事零售行业，具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情； 3.具备优秀的沟通协调能力，善于团队合作，有较强的执行力，关注细节； 4.善于适应快速变化的环境，具备较强承压与情绪管理能力，有韧劲； 5.爱岗敬业，诚实守信，较强的服务意识和责任心，富有热情、耐心。",
+      "JD": "1.轮岗期间学习线上线下多渠道商业知识，管理技能以及企业文化类培训，通过培训实操相结合，快速掌握全渠道业务经营方法； 2.负责部门销售预算及各项管理指标完成，进行每周每月的经营分析及整改措施并落实； 3.负责本部门商品的盘点、排面整理，美陈，价签标识管理，库存管理等工作； 4.负责本部门人员管理，包括日常排班，工作职责安排，人才梯队建设等。\n1.2026年10月1日-2027年9月30日期间毕业，统招本科及以上学历； 2.热爱互联网，愿意从事零售行业，具有强烈的事业心、进取心、责任心，并对生活充满正能量，对工作充满激情； 3.具备优秀的沟通协调能力，善于团队合作，有较强的执行力，关注细节； 4.善于适应快速变化的环境，具备较强承压与情绪管理能力，有韧劲； 5.爱岗敬业，诚实守信，较强的服务意识和责任心，富有热情、耐心。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2026年10月1日-2027年9月30日期间毕业"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-08-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    }
+  ]
+}

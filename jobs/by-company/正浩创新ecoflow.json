@@ -1,7 +1,7 @@
 {
   "company": "正浩创新EcoFlow",
   "count": 44,
-  "updatedAt": "2026-09-20T09:59:44.742Z",
+  "updatedAt": "2026-09-20T10:46:25.416Z",
   "jobs": [
     {
       "id": "ecoflow-7677582809493735743",
@@ -3494,7 +3494,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "设计相关专业优先",
+        "raw": "27届本科及以上学历优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3504,18 +3504,20 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "jobDescription": "1、负责软硬件产品不同终端的app设计，能兼顾交互及UI，可偏向任意一类； 2、提升产品的用户体验，能从最原始的需求落实到最终的设计方案； 3、利用自身的设计和品位，帮助和推动团队提升整体的产品质量； 4、强烈的自驱力和学习能力，熟悉ios及Android开发流程。",
-      "jobRequirements": "1、2027届获得本科及以上学历，设计相关专业优先； 2、有独立思维和较强的逻辑思维。",
-      "JD": "1、负责软硬件产品不同终端的app设计，能兼顾交互及UI，可偏向任意一类； 2、提升产品的用户体验，能从最原始的需求落实到最终的设计方案； 3、利用自身的设计和品位，帮助和推动团队提升整体的产品质量； 4、强烈的自驱力和学习能力，熟悉ios及Android开发流程。\n1、2027届获得本科及以上学历，设计相关专业优先； 2、有独立思维和较强的逻辑思维。",
+      "jobDescription": "1、具备动效基础设计能力、对交互与产品体验有兴趣，能够理解动效与状态、交互、反馈和真实产品运行之间的关系，并逐渐把设计从视觉表现推进到可执行体验； 2、参与 App、Web、智能硬件 HMI 等产品动效与交互设计； 3、使用 AE、Rive、ProtoPie、Figma、AI Coding 等工具进行原型和体验验证； 4、与 UX、工程师协作，将动效和交互推进到真实产品； 5、参与 Rive、ProtoPie、AI Coding等 AI 新工作流探索。",
+      "jobRequirements": "1、27届本科及以上学历优先； 2、拥有扎实的动效基础，对交互动效设计有良好判断； 3、具备基本的 UI 视觉能力，理解布局、层级、字体与色彩等基础设计审美能力； 4、对交互体验敏感，能够思考“用户操作—系统状态—反馈”之间的关系；能解释自己的设计判断，而不只是展示最终效果； 5、对新工具、新技术和新的设计实现方式保持学习兴趣。 加分项： 1、有 Rive、ProtoPie、Lottie 等经验者优先； 2、接触过 HTML / CSS / JavaScript 或 React / React Native者优先； 3、使用过 AI Coding 工具者优先； 4、有 Creative Coding、3D、智能硬件或多模态交互经验者优先。",
+      "JD": "1、具备动效基础设计能力、对交互与产品体验有兴趣，能够理解动效与状态、交互、反馈和真实产品运行之间的关系，并逐渐把设计从视觉表现推进到可执行体验； 2、参与 App、Web、智能硬件 HMI 等产品动效与交互设计； 3、使用 AE、Rive、ProtoPie、Figma、AI Coding 等工具进行原型和体验验证； 4、与 UX、工程师协作，将动效和交互推进到真实产品； 5、参与 Rive、ProtoPie、AI Coding等 AI 新工作流探索。\n1、27届本科及以上学历优先； 2、拥有扎实的动效基础，对交互动效设计有良好判断； 3、具备基本的 UI 视觉能力，理解布局、层级、字体与色彩等基础设计审美能力； 4、对交互体验敏感，能够思考“用户操作—系统状态—反馈”之间的关系；能解释自己的设计判断，而不只是展示最终效果； 5、对新工具、新技术和新的设计实现方式保持学习兴趣。 加分项： 1、有 Rive、ProtoPie、Lottie 等经验者优先； 2、接触过 HTML / CSS / JavaScript 或 React / React Native者优先； 3、使用过 AI Coding 工具者优先； 4、有 Creative Coding、3D、智能硬件或多模态交互经验者优先。",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
         "majorClauses": [
-          "设计相关专业优先"
+          "27届本科及以上学历优先"
         ],
         "eligibilityClauses": [
-          "2027届获得本科及以上学历"
+          "27届本科及以上学历优先"
         ],
-        "technicalDuties": [],
+        "technicalDuties": [
+          "开发实现"
+        ],
         "businessDuties": []
       },
       "roleFamily": [

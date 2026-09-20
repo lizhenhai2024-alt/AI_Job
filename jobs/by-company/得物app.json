@@ -1,7 +1,7 @@
 {
   "company": "得物App",
-  "count": 130,
-  "updatedAt": "2026-09-20T09:59:44.742Z",
+  "count": 131,
+  "updatedAt": "2026-09-20T10:46:25.416Z",
   "jobs": [
     {
       "id": "feishu-96da49-7670381893178853695",
@@ -1700,101 +1700,6 @@
       "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
     },
     {
-      "id": "feishu-96da49-7670431050971711798",
-      "company": "得物App",
-      "title": "【27届校招】供应链-规划运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，物流工程、工业工程、供应链管理等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 储能产能静态能力管理；负责全国各园区库容的日常监控与预警，跟踪库容利用率等核心指标；按季度完成库容、产能盘点，输出盘点报告，识别能力风险点；维护库容、产能数据台账，确保数据准确性和时效性 2. 数据获取与分析；在业务评估需求下，快速从相关系统中调取数据（库存、订单、产能等）；对数据进行清洗与整理，输出结构化的分析结果，支撑评估讨论；逐步掌握团队常用的数据工具与看板体系 3. 跨部门协调执行；按照既定流程与机制，协同仓储、采购、财务等部门推进常规事项；如库容调整审批流、服务商数据对接、项目进展跟踪等。",
-      "jobRequirements": "1.2027届应届生，本科及以上学历，物流工程、工业工程、供应链管理等相关专业优先； 2.熟练掌握 Excel（数据透视表、VLOOKUP/XLOOKUP、基础图表），至少了解一种数据分析工具（SQL / Python / R 均可） 3.深耕对供应链 / 仓储物流方向意愿度强，具备主动探索与学习力； 4.目标执行力突出，能够完整跟进落地全流程工作；具备结构化思维，能将模糊问题拆解为可执行的步骤； 5.逻辑表达清晰，能跨团队有效协同、高效对齐项目进度与信息；严谨细致，责任心强，具备极强的数据敏感度，数据处理类工作严谨审慎，有效规避数据差错。",
-      "JD": "1. 储能产能静态能力管理；负责全国各园区库容的日常监控与预警，跟踪库容利用率等核心指标；按季度完成库容、产能盘点，输出盘点报告，识别能力风险点；维护库容、产能数据台账，确保数据准确性和时效性 2. 数据获取与分析；在业务评估需求下，快速从相关系统中调取数据（库存、订单、产能等）；对数据进行清洗与整理，输出结构化的分析结果，支撑评估讨论；逐步掌握团队常用的数据工具与看板体系 3. 跨部门协调执行；按照既定流程与机制，协同仓储、采购、财务等部门推进常规事项；如库容调整审批流、服务商数据对接、项目进展跟踪等。\n1.2027届应届生，本科及以上学历，物流工程、工业工程、供应链管理等相关专业优先； 2.熟练掌握 Excel（数据透视表、VLOOKUP/XLOOKUP、基础图表），至少了解一种数据分析工具（SQL / Python / R 均可） 3.深耕对供应链 / 仓储物流方向意愿度强，具备主动探索与学习力； 4.目标执行力突出，能够完整跟进落地全流程工作；具备结构化思维，能将模糊问题拆解为可执行的步骤； 5.逻辑表达清晰，能跨团队有效协同、高效对齐项目进度与信息；严谨细致，责任心强，具备极强的数据敏感度，数据处理类工作严谨审慎，有效规避数据差错。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，物流工程、工业工程、供应链管理等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "2027届应届生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据",
-        "供应链",
-        "物流"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670431050971711798/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
       "id": "feishu-96da49-7670554967485483274",
       "company": "得物App",
       "title": "【27届校招】中台运营（效率&精益）",
@@ -2079,6 +1984,101 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670542281771305252/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
+      "id": "feishu-96da49-7670431050971711798",
+      "company": "得物App",
+      "title": "【27届校招】供应链-规划运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，物流工程、工业工程、供应链管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 储能产能静态能力管理；负责全国各园区库容的日常监控与预警，跟踪库容利用率等核心指标；按季度完成库容、产能盘点，输出盘点报告，识别能力风险点；维护库容、产能数据台账，确保数据准确性和时效性 2. 数据获取与分析；在业务评估需求下，快速从相关系统中调取数据（库存、订单、产能等）；对数据进行清洗与整理，输出结构化的分析结果，支撑评估讨论；逐步掌握团队常用的数据工具与看板体系 3. 跨部门协调执行；按照既定流程与机制，协同仓储、采购、财务等部门推进常规事项；如库容调整审批流、服务商数据对接、项目进展跟踪等。",
+      "jobRequirements": "1.2027届应届生，本科及以上学历，物流工程、工业工程、供应链管理等相关专业优先； 2.熟练掌握 Excel（数据透视表、VLOOKUP/XLOOKUP、基础图表），至少了解一种数据分析工具（SQL / Python / R 均可） 3.深耕对供应链 / 仓储物流方向意愿度强，具备主动探索与学习力； 4.目标执行力突出，能够完整跟进落地全流程工作；具备结构化思维，能将模糊问题拆解为可执行的步骤； 5.逻辑表达清晰，能跨团队有效协同、高效对齐项目进度与信息；严谨细致，责任心强，具备极强的数据敏感度，数据处理类工作严谨审慎，有效规避数据差错。",
+      "JD": "1. 储能产能静态能力管理；负责全国各园区库容的日常监控与预警，跟踪库容利用率等核心指标；按季度完成库容、产能盘点，输出盘点报告，识别能力风险点；维护库容、产能数据台账，确保数据准确性和时效性 2. 数据获取与分析；在业务评估需求下，快速从相关系统中调取数据（库存、订单、产能等）；对数据进行清洗与整理，输出结构化的分析结果，支撑评估讨论；逐步掌握团队常用的数据工具与看板体系 3. 跨部门协调执行；按照既定流程与机制，协同仓储、采购、财务等部门推进常规事项；如库容调整审批流、服务商数据对接、项目进展跟踪等。\n1.2027届应届生，本科及以上学历，物流工程、工业工程、供应链管理等相关专业优先； 2.熟练掌握 Excel（数据透视表、VLOOKUP/XLOOKUP、基础图表），至少了解一种数据分析工具（SQL / Python / R 均可） 3.深耕对供应链 / 仓储物流方向意愿度强，具备主动探索与学习力； 4.目标执行力突出，能够完整跟进落地全流程工作；具备结构化思维，能将模糊问题拆解为可执行的步骤； 5.逻辑表达清晰，能跨团队有效协同、高效对齐项目进度与信息；严谨细致，责任心强，具备极强的数据敏感度，数据处理类工作严谨审慎，有效规避数据差错。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，物流工程、工业工程、供应链管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届应届生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670431050971711798/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
@@ -6787,6 +6787,99 @@
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670370902987049225/detail",
       "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
+      "id": "feishu-96da49-7687560709170170139",
+      "company": "得物App",
+      "title": "【27届校招】供应链-网络规划",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届应届生，本科及以上，物流/供应链/运筹/统计/计算机相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、参与全国仓网布局规划，基于成本、时效设计供需匹配的仓网拓扑结构 2、参与履约模式规划，设计从卖家到买家的全链路履约方案 3、参与配送承运商择配策略优化，在成本/时效/体验之间寻找全局最优解 4、用数据驱动策略迭代，输出可落地的优化方案",
+      "jobRequirements": "1、2027届应届生，本科及以上，物流/供应链/运筹/统计/计算机相关专业优先 2、SQL扎实，Python能上手做分析 3、逻辑清晰，能把模糊问题拆成可量化的分析框架 4、对供应链优化有兴趣，有自驱力，愿意钻研 5、有供应链/物流/电商实习经验、运筹优化或网络优化相关学习经验、有AI/ML基础之一者优先",
+      "JD": "1、参与全国仓网布局规划，基于成本、时效设计供需匹配的仓网拓扑结构 2、参与履约模式规划，设计从卖家到买家的全链路履约方案 3、参与配送承运商择配策略优化，在成本/时效/体验之间寻找全局最优解 4、用数据驱动策略迭代，输出可落地的优化方案\n1、2027届应届生，本科及以上，物流/供应链/运筹/统计/计算机相关专业优先 2、SQL扎实，Python能上手做分析 3、逻辑清晰，能把模糊问题拆成可量化的分析框架 4、对供应链优化有兴趣，有自驱力，愿意钻研 5、有供应链/物流/电商实习经验、运筹优化或网络优化相关学习经验、有AI/ML基础之一者优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届应届生，本科及以上，物流/供应链/运筹/统计/计算机相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "电商",
+        "数据",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7687560709170170139/detail",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

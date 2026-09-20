@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T09:59:44.742Z",
-  "totalJobs": 5681,
-  "totalCompanies": 124,
+  "updatedAt": "2026-09-20T10:46:25.416Z",
+  "totalJobs": 5722,
+  "totalCompanies": 125,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -80,7 +80,7 @@
       "company": "得物App",
       "slug": "得物app",
       "file": "jobs/by-company/得物app.json",
-      "count": 130
+      "count": 131
     },
     {
       "company": "德勤中国",
@@ -215,6 +215,12 @@
       "count": 24
     },
     {
+      "company": "京东",
+      "slug": "京东",
+      "file": "jobs/by-company/京东.json",
+      "count": 41
+    },
+    {
       "company": "京东方",
       "slug": "京东方",
       "file": "jobs/by-company/京东方.json",
@@ -290,7 +296,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 46
+      "count": 45
     },
     {
       "company": "蒙牛",
