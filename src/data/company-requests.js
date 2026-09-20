@@ -36,14 +36,14 @@ export const companyRequests = [
       "品牌/内容/运营"
     ],
     "note": "CareerPilot自动链接巡检发现该公司 17 条历史岗位URL已返回404/410。请重新识别官方ATS/校招入口，刷新2027届当前岗位及officialURL；不要复用已失效URL。",
-    "requestedAt": "2026-09-20T15:33:39Z",
-    "updatedAt": "2026-09-20T15:33:56.939Z",
+    "requestedAt": "2026-09-20T15:34:01Z",
+    "updatedAt": "2026-09-20T15:34:18.242Z",
     "status": "待发现官方招聘入口",
     "provider": "",
     "sourceRegistered": false,
     "analysis": "未提供官方招聘链接；页面探针：未提供官方招聘链接",
-    "issueNumber": 141,
-    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/141",
+    "issueNumber": 154,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/154",
     "sourceAlreadyExists": false
   },
   {
