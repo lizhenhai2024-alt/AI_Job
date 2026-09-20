@@ -1,7 +1,7 @@
 {
   "company": "新芯股份",
   "count": 12,
-  "updatedAt": "2026-09-20T00:43:53.933Z",
+  "updatedAt": "2026-09-20T03:41:02.710Z",
   "jobs": [
     {
       "id": "beisen-7f42e6669c9a",
@@ -701,7 +701,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -715,11 +715,11 @@
       "jobRequirements": "1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力； 3.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
       "JD": "1. 管理外包岗位的物料收发存操作，负责仓库物料账目； 2. 负责叉车及仓库相关设备工具的保养维修以及年检； 3. 制定仓库相关安全规定，管理仓库现场，确保人员，环境以及财产安全； 4. 接待来自于内外部的各种审核以及检查； 5. 配合其他部门，解决仓库相关问题。\n1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力； 3.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -782,7 +782,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -796,11 +796,11 @@
       "jobRequirements": "1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力； 3.有较强的安全责任意识和监工经验。； 4.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
       "JD": "1.了解设备生产模式，熟悉半导体生产工艺流程，建立标准产能计算模型； 2.动态产能评估、瓶颈分析及改善跟进； 3.中长期产能和投资规划及分析； 4.持续监控工厂OEE，核准机台OEE参数标准并进行改进，持续完善OEE系统； 5.制定设备安装周期标准, 掌控产能爬坡进度。\n1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力； 3.有较强的安全责任意识和监工经验。； 4.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -863,7 +863,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -877,10 +877,12 @@
       "jobRequirements": "1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力 3.有较强的安全责任意识和监工经验 4.熟练使用CAD 软件； 5.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
       "JD": "1.了解半导体生产工艺流程以及设备生产模式 2.负责工厂设施布局及优化，包含FAB，办公室，仓库，实验室区域规划与设计； 3.负责审核施工包商图纸，优化现场布局，协调处理现场干涉问题； 4.负责设备搬入计划的安排与协调，设计搬入动线，设置暂存区，协调现场异常处； 5.协助生产设备二次配，结合现场绘勘情况，优化附属设备布局；\n1.本科及以上学历； 2.具有良好人际沟通能力和协调能力、计划执行能力 3.有较强的安全责任意识和监工经验 4.熟练使用CAD 软件； 5.较强的逻辑思维能力、学习能力、分析解决问题能力及抗压能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -944,7 +946,7 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "硕士及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -958,15 +960,15 @@
       "jobRequirements": "1.硕士及以上学历； 2.具备较强的文字写作能力，能独立撰写新闻稿、活动方案、总结报告等。 3.具备独立策划并执行各类活动的能力，有大型活动组织经验者优先。 4.具有一定艺术特长（如摄影、视频剪辑、主持等）优先。 5.责任心强，善于沟通协调，能适应阶段性加班及活动筹备压力。",
       "JD": "1.党建事务：协助落实党组织“三会一课”、主题党日、组织生活会等党建工作；负责党员发展、教育培训、管理及党组织关系转接；维护党建信息系统，做好党内统计与台账管理。 2.工会工作：独立策划并组织工会各类文化体育活动；负责活动方案制定、预算编制、现场执行及后期宣传；做好活动物资采购、场地协调、人员组织等全流程管理。 3.综合支持：完成上级交办的其他党群相关工作。\n1.硕士及以上学历； 2.具备较强的文字写作能力，能独立撰写新闻稿、活动方案、总结报告等。 3.具备独立策划并执行各类活动的能力，有大型活动组织经验者优先。 4.具有一定艺术特长（如摄影、视频剪辑、主持等）优先。 5.责任心强，善于沟通协调，能适应阶段性加班及活动筹备压力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历；"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届-XMC-党群专员(J11654)"
         ],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

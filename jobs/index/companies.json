@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T00:43:53.933Z",
-  "totalJobs": 5485,
-  "totalCompanies": 120,
+  "updatedAt": "2026-09-20T03:41:02.710Z",
+  "totalJobs": 5531,
+  "totalCompanies": 123,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -63,6 +63,12 @@
       "slug": "达能",
       "file": "jobs/by-company/达能.json",
       "count": 4
+    },
+    {
+      "company": "大疆",
+      "slug": "大疆",
+      "file": "jobs/by-company/大疆.json",
+      "count": 14
     },
     {
       "company": "得力集团",
@@ -215,6 +221,12 @@
       "count": 59
     },
     {
+      "company": "京人才·新未来——京新药业",
+      "slug": "京人才-新未来-京新药业",
+      "file": "jobs/by-company/京人才-新未来-京新药业.json",
+      "count": 10
+    },
+    {
       "company": "科大讯飞",
       "slug": "科大讯飞",
       "file": "jobs/by-company/科大讯飞.json",
@@ -230,7 +242,7 @@
       "company": "岚图汽车",
       "slug": "岚图汽车",
       "file": "jobs/by-company/岚图汽车.json",
-      "count": 20
+      "count": 19
     },
     {
       "company": "蓝思科技",
@@ -243,6 +255,12 @@
       "slug": "莉莉丝游戏",
       "file": "jobs/by-company/莉莉丝游戏.json",
       "count": 2
+    },
+    {
+      "company": "联想",
+      "slug": "联想",
+      "file": "jobs/by-company/联想.json",
+      "count": 23
     },
     {
       "company": "零跑汽车",
@@ -296,7 +314,7 @@
       "company": "宁德时代新能源科技股份有限公司",
       "slug": "宁德时代新能源科技股份",
       "file": "jobs/by-company/宁德时代新能源科技股份.json",
-      "count": 90
+      "count": 91
     },
     {
       "company": "宁德新能源科技有限公司",
@@ -488,7 +506,7 @@
       "company": "蔚来",
       "slug": "蔚来",
       "file": "jobs/by-company/蔚来.json",
-      "count": 188
+      "count": 189
     },
     {
       "company": "小红书",
@@ -644,7 +662,7 @@
       "company": "中微半导体设备股份有限公司",
       "slug": "中微半导体设备股份",
       "file": "jobs/by-company/中微半导体设备股份.json",
-      "count": 6
+      "count": 4
     },
     {
       "company": "中信科移动",

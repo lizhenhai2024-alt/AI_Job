@@ -409,6 +409,10 @@ export const sourceRegistry = [
     "company": "办公地址"
   },
   {
+    "provider": "beisen",
+    "company": "京人才·新未来——京新药业"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },

@@ -1,7 +1,7 @@
 {
   "company": "创维集团",
   "count": 36,
-  "updatedAt": "2026-09-20T00:43:53.933Z",
+  "updatedAt": "2026-09-20T03:41:02.710Z",
   "jobs": [
     {
       "id": "hotjob-450bb2d6c2ee",
@@ -600,7 +600,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/detail?postId=6a9699a55e09b14b274f5747&recruitType=1",
-      "publishedAt": "2026-09-18",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-27",
@@ -1272,6 +1272,106 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
     },
     {
+      "id": "hotjob-3262b7c32f27",
+      "company": "创维集团",
+      "title": "储能海外销售经理（数字公司）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先）",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 负责公司储能产品在海外市场（欧洲、东南亚、中东等区域）的推广与销售 2. 通过LinkedIn、国际展会、B2B平台等多渠道开发海外客户 3. 制作英文商务文件：报价单、技术方案、标书等 4. 跟进国际贸易全流程，协调外贸单证与物流 5. 参加国际储能展会，现场客户接待与需求挖掘 6. 收集海外市场政策（补贴、关税、准入认证等）和竞品情报，输出市场分析报告",
+      "jobRequirements": "1. 本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先） 2. 英语CET-6及以上，口语流利，可作为工作语言（能独立与海外客户电话/视频沟通） 3. 熟悉或愿意学习国际贸易基本流程（FOB/CIF/DDP等贸易术语、信用证/LC结算等） 4. 具备跨文化沟通能力，能适应海外出差和时差工作 5. 有外贸公司/海外展会实习经历，或有海外交换/留学经历者优先 6. 抗压能力强，自我驱动力高",
+      "JD": "1. 负责公司储能产品在海外市场（欧洲、东南亚、中东等区域）的推广与销售 2. 通过LinkedIn、国际展会、B2B平台等多渠道开发海外客户 3. 制作英文商务文件：报价单、技术方案、标书等 4. 跟进国际贸易全流程，协调外贸单证与物流 5. 参加国际储能展会，现场客户接待与需求挖掘 6. 收集海外市场政策（补贴、关税、准入认证等）和竞品情报，输出市场分析报告\n1. 本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先） 2. 英语CET-6及以上，口语流利，可作为工作语言（能独立与海外客户电话/视频沟通） 3. 熟悉或愿意学习国际贸易基本流程（FOB/CIF/DDP等贸易术语、信用证/LC结算等） 4. 具备跨文化沟通能力，能适应海外出差和时差工作 5. 有外贸公司/海外展会实习经历，或有海外交换/留学经历者优先 6. 抗压能力强，自我驱动力高",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先）"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语",
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "跨文化",
+        "客户",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "纯销售",
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/detail?postId=6a96efbde804fa0faefafd60&recruitType=1",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-27",
+      "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-3a96da4ebfe7",
       "company": "创维集团",
       "title": "国际管培（非洲籍）",
@@ -1467,106 +1567,6 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-07-31",
-      "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-3262b7c32f27",
-      "company": "创维集团",
-      "title": "储能海外销售经理（数字公司）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先）",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 负责公司储能产品在海外市场（欧洲、东南亚、中东等区域）的推广与销售 2. 通过LinkedIn、国际展会、B2B平台等多渠道开发海外客户 3. 制作英文商务文件：报价单、技术方案、标书等 4. 跟进国际贸易全流程，协调外贸单证与物流 5. 参加国际储能展会，现场客户接待与需求挖掘 6. 收集海外市场政策（补贴、关税、准入认证等）和竞品情报，输出市场分析报告",
-      "jobRequirements": "1. 本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先） 2. 英语CET-6及以上，口语流利，可作为工作语言（能独立与海外客户电话/视频沟通） 3. 熟悉或愿意学习国际贸易基本流程（FOB/CIF/DDP等贸易术语、信用证/LC结算等） 4. 具备跨文化沟通能力，能适应海外出差和时差工作 5. 有外贸公司/海外展会实习经历，或有海外交换/留学经历者优先 6. 抗压能力强，自我驱动力高",
-      "JD": "1. 负责公司储能产品在海外市场（欧洲、东南亚、中东等区域）的推广与销售 2. 通过LinkedIn、国际展会、B2B平台等多渠道开发海外客户 3. 制作英文商务文件：报价单、技术方案、标书等 4. 跟进国际贸易全流程，协调外贸单证与物流 5. 参加国际储能展会，现场客户接待与需求挖掘 6. 收集海外市场政策（补贴、关税、准入认证等）和竞品情报，输出市场分析报告\n1. 本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先） 2. 英语CET-6及以上，口语流利，可作为工作语言（能独立与海外客户电话/视频沟通） 3. 熟悉或愿意学习国际贸易基本流程（FOB/CIF/DDP等贸易术语、信用证/LC结算等） 4. 具备跨文化沟通能力，能适应海外出差和时差工作 5. 有外贸公司/海外展会实习经历，或有海外交换/留学经历者优先 6. 抗压能力强，自我驱动力高",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，专业不限（国际贸易、英语、新能源等相关专业优先）"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "销售"
-      ],
-      "skills": [
-        "英语",
-        "市场分析"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "市场",
-        "跨文化",
-        "客户",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化"
-      ],
-      "riskTags": [
-        "纯销售",
-        "海外出差",
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/detail?postId=6a96efbde804fa0faefafd60&recruitType=1",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-23",
       "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
       "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2138,6 +2138,101 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
     },
     {
+      "id": "hotjob-82a3333f3771",
+      "company": "创维集团",
+      "title": "储能国内销售经理（数字公司）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，专业不限（电气工程、新能源、材料、市场营销等相关专业优先）",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 负责公司储能产品（工商业储能、户用储能等）在国内市场的客户开发与渠道拓展 2. 通过电话、行业展会、招投标等多渠道挖掘潜在客户，建立并维护客户档案 3. 配合销售经理完成项目报价、技术方案对接、商务谈判及合同签约全流程 4. 跟进项目交付进度，协调内部技术支持与交付团队响应客户需求 5. 收集行业政策、市场动态和竞品信息，定期输出市场分析报告 6. 维护客户长期关系，推动项目复购与转介绍",
+      "jobRequirements": "1. 本科及以上学历，专业不限（电气工程、新能源、材料、市场营销等相关专业优先） 2. 对新能源/储能行业有热情，愿意长期深耕 3. 沟通表达能力强，具备一定的商务谈判意识 4. 抗压能力好，能适应国内出差（项目现场跟进） 5. 有销售实习经历或学生会/社团干部经验者优先 6. 持C1驾照者优先",
+      "JD": "1. 负责公司储能产品（工商业储能、户用储能等）在国内市场的客户开发与渠道拓展 2. 通过电话、行业展会、招投标等多渠道挖掘潜在客户，建立并维护客户档案 3. 配合销售经理完成项目报价、技术方案对接、商务谈判及合同签约全流程 4. 跟进项目交付进度，协调内部技术支持与交付团队响应客户需求 5. 收集行业政策、市场动态和竞品信息，定期输出市场分析报告 6. 维护客户长期关系，推动项目复购与转介绍\n1. 本科及以上学历，专业不限（电气工程、新能源、材料、市场营销等相关专业优先） 2. 对新能源/储能行业有热情，愿意长期深耕 3. 沟通表达能力强，具备一定的商务谈判意识 4. 抗压能力好，能适应国内出差（项目现场跟进） 5. 有销售实习经历或学生会/社团干部经验者优先 6. 持C1驾照者优先",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，专业不限（电气工程、新能源、材料、市场营销等相关专业优先）"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销",
+        "客户",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "纯销售",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/detail?postId=6a96efc1829af219b7d75d32&recruitType=1",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-27",
+      "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-ac42cfc25f28",
       "company": "创维集团",
       "title": "海外销售经理（美洲）-深圳",
@@ -2240,101 +2335,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
     },
     {
-      "id": "hotjob-82a3333f3771",
-      "company": "创维集团",
-      "title": "储能国内销售经理（数字公司）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，专业不限（电气工程、新能源、材料、市场营销等相关专业优先）",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 负责公司储能产品（工商业储能、户用储能等）在国内市场的客户开发与渠道拓展 2. 通过电话、行业展会、招投标等多渠道挖掘潜在客户，建立并维护客户档案 3. 配合销售经理完成项目报价、技术方案对接、商务谈判及合同签约全流程 4. 跟进项目交付进度，协调内部技术支持与交付团队响应客户需求 5. 收集行业政策、市场动态和竞品信息，定期输出市场分析报告 6. 维护客户长期关系，推动项目复购与转介绍",
-      "jobRequirements": "1. 本科及以上学历，专业不限（电气工程、新能源、材料、市场营销等相关专业优先） 2. 对新能源/储能行业有热情，愿意长期深耕 3. 沟通表达能力强，具备一定的商务谈判意识 4. 抗压能力好，能适应国内出差（项目现场跟进） 5. 有销售实习经历或学生会/社团干部经验者优先 6. 持C1驾照者优先",
-      "JD": "1. 负责公司储能产品（工商业储能、户用储能等）在国内市场的客户开发与渠道拓展 2. 通过电话、行业展会、招投标等多渠道挖掘潜在客户，建立并维护客户档案 3. 配合销售经理完成项目报价、技术方案对接、商务谈判及合同签约全流程 4. 跟进项目交付进度，协调内部技术支持与交付团队响应客户需求 5. 收集行业政策、市场动态和竞品信息，定期输出市场分析报告 6. 维护客户长期关系，推动项目复购与转介绍\n1. 本科及以上学历，专业不限（电气工程、新能源、材料、市场营销等相关专业优先） 2. 对新能源/储能行业有热情，愿意长期深耕 3. 沟通表达能力强，具备一定的商务谈判意识 4. 抗压能力好，能适应国内出差（项目现场跟进） 5. 有销售实习经历或学生会/社团干部经验者优先 6. 持C1驾照者优先",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，专业不限（电气工程、新能源、材料、市场营销等相关专业优先）"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "销售"
-      ],
-      "skills": [
-        "市场分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "营销",
-        "客户",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "纯销售",
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/detail?postId=6a96efc1829af219b7d75d32&recruitType=1",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-23",
-      "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
-    },
-    {
       "id": "hotjob-e6d1c1e73513",
       "company": "创维集团",
       "title": "采购商务经理（数字公司）",
@@ -2415,10 +2415,10 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/detail?postId=6a96efee5e09b14b275079da&recruitType=1",
-      "publishedAt": "2026-09-16",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-23",
+      "deadline": "2026-09-27",
       "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
       "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2451,16 +2451,11 @@
       "jobRequirements": "1. 熟练使用Office办公软件，精通Excel数据统计、台账制作，会操作ERP、MES系统者优先。 2. 了解注塑原材料、辅料及生产物料流转流程，熟悉工厂物控、仓储基本工作逻辑者优先。 3. 做事细心严谨、条理清晰，具备良好的数据敏感度和统筹能力，能高效对接各部门协调物料问题。",
       "JD": "1、对接客户下达订单，核对交期、产品规格并下达生产计划； 2、跟进注塑车间生产进度，协调物料保障正常排产，把控出货节点； 3、跟进原料、包材采购到货，管控库存避免缺料或物料积压； 4、核对出货单据、物流安排，处理交期异常并同步客户反馈。\n1. 熟练使用Office办公软件，精通Excel数据统计、台账制作，会操作ERP、MES系统者优先。 2. 了解注塑原材料、辅料及生产物料流转流程，熟悉工厂物控、仓储基本工作逻辑者优先。 3. 做事细心严谨、条理清晰，具备良好的数据敏感度和统筹能力，能高效对接各部门协调物料问题。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-27"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "物流执行"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

@@ -1,7 +1,7 @@
 {
   "company": "中国太平保险集团",
   "count": 118,
-  "updatedAt": "2026-09-20T00:43:53.933Z",
+  "updatedAt": "2026-09-20T03:41:02.710Z",
   "jobs": [
     {
       "id": "beisen-48d4c78c739f",
@@ -8872,7 +8872,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -8886,11 +8886,11 @@
       "jobRequirements": "1.本科及以上学历； 2.了解终端运维、终端安全、合规管理等工作内容； 3.了解服务质量管控体系；了解终端安全管控工具、安全基线，了解金融行业信息安全、数据合规相关法规及监管要求； 4.具备良好的文字编辑能力，熟悉使用AI工具，擅于写作和总结； 5.具备良好的沟通表达能力，工作严谨细致； 6.具体较好的抗压能力，能在多任务并行情况下保持条理性，按时完成交办工作； 7.具备持续学习能力，主动跟踪行业安全动态与新技术应用。",
       "JD": "1.协助终端管理系统、视频会议系统、远程桌面平台的日常运维、策略配置、状态监控，保障运维平台稳定运行； 2.执行架构规划标准，落实终端相关系统的安装、配置部署、版本升级、补丁更新等常态化运维工作； 3.落地终端架构规划管理岗制定的技术创新实施规划，开展端运维技术、智能管控等新技术、新工具的试点部署、调试优化与日常运维； 4.推进终端自动化运维、批量部署、策略下发及状态管控，提升运维标准化、自动化水平； 5.协同终端安全管理岗，落实终端安全管理要求，配合完成安全基线加固、漏洞整改、策略配置及风险隐患治理。 6.对接一线终端技术服务专员，提供后台技术支撑、问题排查指导，同步一线运维问题，加强前后台协同，保障运维服务顺畅衔接； 7.记录运维台账、故障案例、运行数据，定期开展运维分析、问题复盘及经验沉淀； 8.配合完成各类专项检查、审计自查、业务保障及应急演练相关运维支撑； 9.完成领导交办的其他工作事项。\n1.本科及以上学历； 2.了解终端运维、终端安全、合规管理等工作内容； 3.了解服务质量管控体系；了解终端安全管控工具、安全基线，了解金融行业信息安全、数据合规相关法规及监管要求； 4.具备良好的文字编辑能力，熟悉使用AI工具，擅于写作和总结； 5.具备良好的沟通表达能力，工作严谨细致； 6.具体较好的抗压能力，能在多任务并行情况下保持条理性，按时完成交办工作； 7.具备持续学习能力，主动跟踪行业安全动态与新技术应用。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9126,7 +9126,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "擁有精算、統計、投資、會計或風險管理本科或以上學歷；Graduate 2026 or 2027 from any accredited university, bachelor's degree or above, major in actuarial science, statistics, accounting or risk management",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9140,15 +9140,19 @@
       "jobRequirements": "- 2026/2027应届毕业生，擁有精算、統計、投資、會計或風險管理本科或以上學歷 - 具有良好溝通能力、編寫報告能力（中文及英文），擅於交流 - 工作认真勤奋，积极主动 - 优秀中英文沟通能力，拥普通話能力尤佳 - 申請者需要是香港永久居民或持有有效香港簽證以合法於香港工作 - Graduate 2026 or 2027 from any accredited university, bachelor's degree or above, major in actuarial science, statistics, accounting or risk management - Possess strong communication skills, report writing (both Chinese and English), interpersonal skills, and the ability to influence at a senior level - Professional working attitude is required - Excellent command of written and spoken Chinese and English including Putonghua - Job applicants must be HK permanent residents or hold valid Hong Kong visa for employment (such as Top Talent Pass Scheme, IANG, General Employment Policy, Admission Scheme for Mainland Talents and Professionals, Quality Migrants Admission Scheme, etc)",
       "JD": "- 協助檢視、監測及匯報財務風險的狀況、和相關緩釋措施，包括但不限於財務風險事件及各類風險指標 - 協助管理公司風險偏好 - 協助进行各种全面風險管理報告的編製，定期監測公司風險偏好執行情況 - 協助公司全面風險管理制度及政策的重檢、傳導和執行監控 - 協助推廣風險管理意識和三道防線風險管理機制，提升公司內部風險管理文化 - Assisting reviewing, monitoring and reporting of financial risks (status and mitigation plans, including but not limited to financial risk events and key risk indicators - Assisting in managing Company Risk Appetite - Assisting regular risk reports preparation, so as to monitor the execution of the company Risk Appetite - Assisting the maintenance and conduction of risk management policies, and monitoring the execution of relevant responsibilities - Assisting in risk management and 3-line of defense culture promotion within the company and its subsidiaries\n- 2026/2027应届毕业生，擁有精算、統計、投資、會計或風險管理本科或以上學歷 - 具有良好溝通能力、編寫報告能力（中文及英文），擅於交流 - 工作认真勤奋，积极主动 - 优秀中英文沟通能力，拥普通話能力尤佳 - 申請者需要是香港永久居民或持有有效香港簽證以合法於香港工作 - Graduate 2026 or 2027 from any accredited university, bachelor's degree or above, major in actuarial science, statistics, accounting or risk management - Possess strong communication skills, report writing (both Chinese and English), interpersonal skills, and the ability to influence at a senior level - Professional working attitude is required - Excellent command of written and spoken Chinese and English including Putonghua - Job applicants must be HK permanent residents or hold valid Hong Kong visa for employment (such as Top Talent Pass Scheme, IANG, General Employment Policy, Admission Scheme for Mainland Talents and Professionals, Quality Migrants Admission Scheme, etc)",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "擁有精算、統計、投資、會計或風險管理本科或以上學歷",
+          "Graduate 2026 or 2027 from any accredited university, bachelor's degree or above, major in actuarial science, statistics, accounting or risk management"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2026/2027应届毕业生",
+          "申請者需要是香港永久居民或持有有效香港簽證以合法於香港工作",
+          "Graduate 2026 or 2027 from any accredited university, bachelor's degree or above",
+          "Job applicants must be HK permanent residents or hold valid Hong Kong visa for employment (such as Top Talent Pass Scheme, IANG, General Employment Policy, Admission Scheme for Mainland Talents and Professionals, Quality Migrants Admission Scheme, etc)"
         ],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -9209,7 +9213,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "major in Archival Studies, Corporate Governance or a related field；bachelor's degree or above",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9223,10 +9227,14 @@
       "jobRequirements": "- Graduate 2026 or 2027 from any accredited university, bachelor's degree or above, major in Archival Studies, Corporate Governance or a related field, with excellent academic record - Preference will be given to candidates with relevant internship experiences gained from government agencies or state-owned entreprises - Strong communication, organizational and analytical skills - Strong motivated with a strong sense of initiative and a fast learning ability - Proactive, presentable, detail-oriented and able to manage multiple tasks efficiently - Proficent in MS Office (word, excel, powerpoint) - Excellent command of written and spoken Chinese and English including Putonghua - Job applicants must be HK permanent residents or hold valid Hong Kong visa for employment (such as Top Talent Pass Scheme, IANG, General Employment Policy, Admission Scheme for Mainland Talents and Professionals, Quality Migrants Admission Scheme, etc)",
       "JD": "- Develop and implement records policies and organize annual filings. - Arrange meetings, prepare agendas, take minutes, and track action items. - Handle company documents, meeting materials, and internal news publications. - Assist in corporate governance, authorization structures, and regulatory reporting. - Manage corporate licenses, seals, and company registration work. - Provide first-line support for major incidents and reporting. - Offer general administrative support and other assigned duties.\n- Graduate 2026 or 2027 from any accredited university, bachelor's degree or above, major in Archival Studies, Corporate Governance or a related field, with excellent academic record - Preference will be given to candidates with relevant internship experiences gained from government agencies or state-owned entreprises - Strong communication, organizational and analytical skills - Strong motivated with a strong sense of initiative and a fast learning ability - Proactive, presentable, detail-oriented and able to manage multiple tasks efficiently - Proficent in MS Office (word, excel, powerpoint) - Excellent command of written and spoken Chinese and English including Putonghua - Job applicants must be HK permanent residents or hold valid Hong Kong visa for employment (such as Top Talent Pass Scheme, IANG, General Employment Policy, Admission Scheme for Mainland Talents and Professionals, Quality Migrants Admission Scheme, etc)",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "major in Archival Studies, Corporate Governance or a related field",
+          "bachelor's degree or above"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Graduate 2026 or 2027 from any accredited university",
+          "Job applicants must be HK permanent residents or hold valid Hong Kong visa for employment (such as Top Talent Pass Scheme, IANG, General Employment Policy, Admission Scheme for Mainland Talents and Professionals, Quality Migrants Admission Scheme, etc)"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -9290,7 +9298,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Degree holder or equivalent",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9304,10 +9312,12 @@
       "jobRequirements": "1. Degree holder or equivalent 2. Proficient in both written and spoken Chinese and English 3. Excellent communication & collaboration skill 4. Strong Analytic skill and Detail Oriente 5. Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (Top Talent Pass Scheme, IANG, Quality Migrants or Dependant, etc.)",
       "JD": "1. Assist in analyzing data and materials for reinsurance treaty underwriting 2. Assist with business-related document processing, including creating internal records, filing and archiving documents 3. Perform other ad hoc tasks and projects assigned\n1. Degree holder or equivalent 2. Proficient in both written and spoken Chinese and English 3. Excellent communication & collaboration skill 4. Strong Analytic skill and Detail Oriente 5. Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (Top Talent Pass Scheme, IANG, Quality Migrants or Dependant, etc.)",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Degree holder or equivalent"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (Top Talent Pass Scheme, IANG, Quality Migrants or Dependant, etc.)"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -9371,7 +9381,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9385,11 +9395,11 @@
       "jobRequirements": "1.本科及以上学历； 2.具备出色逻辑思维能力、语言表达能力，执行力强，工作细致、耐心； 3.认可寿险行业并致力于在行业深耕、发展。",
       "JD": "1.负责开展公司政策、制度的宣导和文化的传播； 2.负责组织、实施所在四级机构的制式及非制式培训； 3.参与培训课程的规划、编制、执行与日常授课，完成所在分支机构培训部门安排的教学任务； 4.协助所在四级机构负责人策划、组织与实施各种会议经营:早会、夕会及月度经菅分析会。\n1.本科及以上学历； 2.具备出色逻辑思维能力、语言表达能力，执行力强，工作细致、耐心； 3.认可寿险行业并致力于在行业深耕、发展。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

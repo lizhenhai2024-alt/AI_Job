@@ -1,7 +1,7 @@
 {
   "company": "小米",
   "count": 230,
-  "updatedAt": "2026-09-20T00:43:53.933Z",
+  "updatedAt": "2026-09-20T03:41:02.710Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -16340,11 +16340,9 @@
       "jobRequirements": "1. 热爱摄影，对好的影像有自己的理解与认知； 2. 具备一定的产品思维，能理解成功数码影像产品的底层逻辑； 3. 了解影像软硬件技术的原理，特别是AI的影像技术； 4. 了解行业影像趋势和各手机厂商影像特点。",
       "JD": "1. 协助手机影像抓拍赛道规划与需求定义； 2. 挖掘和洞察未来影像机会与行业趋势； 3. 深入分析当前影像优劣势并给出追赶策略。\n1. 热爱摄影，对好的影像有自己的理解与认知； 2. 具备一定的产品思维，能理解成功数码影像产品的底层逻辑； 3. 了解影像软硬件技术的原理，特别是AI的影像技术； 4. 了解行业影像趋势和各手机厂商影像特点。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -16590,7 +16588,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "大学本科及以上，安全管理类专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -16604,11 +16602,11 @@
       "jobRequirements": "1、大学本科及以上，安全管理类专业优先； 2、熟练运用Office办公软件； 3、具备较强的组织和学习能力； 4、具备较强的问题界定和分析能力，有一定的问题预判和处理能力； 5、积极主动，有责任心，具有良好的敬业精神和团队合作精神。",
       "JD": "1.对各类安全事故进行调查处理，并对事故发生情况进行统计和分析。 2.组织并参与各类应急预案的制订及演练。 3.在广泛深入的调查基础上，分析事故的发生率，了解员工的心态情绪及对安全生产的认识，开展安全培训教育及宣传工作。\n1、大学本科及以上，安全管理类专业优先； 2、熟练运用Office办公软件； 3、具备较强的组织和学习能力； 4、具备较强的问题界定和分析能力，有一定的问题预判和处理能力； 5、积极主动，有责任心，具有良好的敬业精神和团队合作精神。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上，安全管理类专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -16780,11 +16778,9 @@
       "jobRequirements": "1.勇于接受挑战，具有强烈的学习热情和进取心。 2.热爱销售行业，有消费类电子行业实习经验优先； 3.善于沟通，跨部门协同能力强，能高效推动工作落地； 4.逻辑清晰、执行力强，具备较强的数据分析能力及问题解决能力。 5.中文可作为工作语言优先。 1.Proactive challenger with strong learning agility and career advancement drive. 2.Passionate about sales operations; prior internship experience in consumer electronics preferred. 3.Skilled communicator with cross-departmental coordination expertise to ensure 4.operational implementation efficiency. 5.Structured thinker with execution focus, demonstrating robust data analytics and root-cause solutioning capabilities. 6.Professional working proficiency in Chinese (written/oral) is preferred.",
       "JD": "1. 目标管理：手机/PAD品类目标分解，周别、月别、季度别跟进目标达成 ； 2. 产品管理：负责手机/PAD产品生命周期管理，对导入期、成长期、成熟期和退市期进行产品规划管理，根据产品上市节奏、卖点、竞品分析等输出米家侧上市方案，拉通相关部门，对米家新品上市执行及结果交付负责； 3. 销售管理：对手机/PAD品类的销售额负责，定期整理汇报销售分析、复盘总结、品类操盘策略与分析； 4. 市场洞察：收集市场/行业/竞品等信息，进行产品分析及定位，制定相应的爆品计划及推动落地, 输出产品零售策略，监控产品生命周期内的销量情况，总结规律与打法。 Target Governance Deconstruct smartphone/tablet category objectives and ensure milestone achievement through weekly/monthly/quarterly performance tracking. Product Lifecycle Management Oversee end-to-end product lifecycle management (launch, growth, maturity, phase-out stages). Develop Mi Ecosystem-specific commercialization strategies aligned with launch timelines, product USPs, and competitive analysis. Drive cross-functional collaboration to ensure flawless product rollout and outcome delivery. Sales Operations Accountable for smartphone/tablet category revenue targets. Produce regular analytical reports including sales diagnostics, performance retrospectives, and category-specific operational strategies. Market Intelligence Conduct comprehensive market/competitive intelligence analysis to inform product positioning. Formulate blockbuster product roadmaps with executable tactics, develop retail strategies, monitor lifecycle sales performance, and institutionalize proven operational methodologies.\n1.勇于接受挑战，具有强烈的学习热情和进取心。 2.热爱销售行业，有消费类电子行业实习经验优先； 3.善于沟通，跨部门协同能力强，能高效推动工作落地； 4.逻辑清晰、执行力强，具备较强的数据分析能力及问题解决能力。 5.中文可作为工作语言优先。 1.Proactive challenger with strong learning agility and career advancement drive. 2.Passionate about sales operations; prior internship experience in consumer electronics preferred. 3.Skilled communicator with cross-departmental coordination expertise to ensure 4.operational implementation efficiency. 5.Structured thinker with execution focus, demonstrating robust data analytics and root-cause solutioning capabilities. 6.Professional working proficiency in Chinese (written/oral) is preferred.",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -16950,7 +16946,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor’s degree or above, any major accepted, with a preference for Marketing, Business Administration, Economics, or related fields.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -16964,11 +16960,11 @@
       "jobRequirements": "Bachelor’s degree or above, any major accepted, with a preference for Marketing, Business Administration, Economics, or related fields. Strong interest in the retail industry, willing to start from the basics and grow quickly into retail management talent. Strong learning, analytical, and problem-solving skills. Excellent communication and teamwork abilities, strong stress tolerance, and the ability to handle multiple tasks in a fast-paced environment. Proactive, with a strong sense of responsibility and execution. Proficiency in English as a working language; fluency in Chinese is a plus.",
       "JD": "Learn and participate in various retail functions, such as new product launches, field construction, and inventory management. Gradually engage in and learn about operational tasks such as budget control, cost management, and revenue enhancement. Participate in market research to understand local consumer behavior and competitive landscape, providing optimization suggestions for retail operations. Master data analysis, RMS systems, and other tools to manage field operations effectively. Assist in managing and motivating the team, supporting performance management and employee development.\nBachelor’s degree or above, any major accepted, with a preference for Marketing, Business Administration, Economics, or related fields. Strong interest in the retail industry, willing to start from the basics and grow quickly into retail management talent. Strong learning, analytical, and problem-solving skills. Excellent communication and teamwork abilities, strong stress tolerance, and the ability to handle multiple tasks in a fast-paced environment. Proactive, with a strong sense of responsibility and execution. Proficiency in English as a working language; fluency in Chinese is a plus.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor’s degree or above, any major accepted, with a preference for Marketing, Business Administration, Economics, or related fields."
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -17037,7 +17033,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Recent graduate from a respected university with strong academic performance; bachelor's degree or above.；College or Bachelor degree or above, good image and temperament",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -17051,10 +17047,13 @@
       "jobRequirements": "Strong willingness to work in retail, with excellent learning ability, good teamwork spirit and a strong sense of ownership. Recent graduate from a respected university with strong academic performance; bachelor's degree or above. Passionate about technology, smartphones, and smart devices. Eager to learn and grow in a dynamic tech company. Proactive, detail-oriented, and a strong communicator. Proficient in English, Chinese, and Spanish. ,1. Strong willingness to engage in retail, strong learning ability, good spirit of cooperation and ownership 2. understanding Xiaomi New Retail 3. College or Bachelor degree or above, good image and temperament",
       "JD": "Oversee timely store construction, managing site selection, design, decoration and opening end-to-end; coordinate internal teams to ensure on-time, high-quality project delivery. Manage store operations by implementing strategies for staffing, inventory and customer service to optimize efficiency and quality; execute sales/promotional plans to boost brand image and performance; monitor data to adjust strategies for goal achievement. Lead store team management and training, developing plans to enhance overall team quality and service standards. Conduct regular market research on competitors and trends to inform store development; analyze customer feedback and propose improvements to elevate experience.,1. Provide superior customer experience: Receive customers warmly and friendly, understand their needs, and provide personalized solutions that exceed their expectations. 2. Product experts: In-depth understanding of all Xiaomi product hardware and software knowledge, service knowledge, and being able to explain its functions and advantages to customers clearly and concisely, is the person of the store team to learn and find product help. 3. Sales and service: Actively listen to customer needs, recommend suitable products and services, complete store sales targets, and be able to handle customer consultation and technical support at the same time. 4. Teamwork: Work closely with team members to create a positive working atmosphere and provide customers with a seamless service experience. 5. Assist store management: Assist the store manager in managing the daily operations of the store, such as sales analysis, display arrangement, customer service, inventory, and activity formulation and execution. 6. Keep learning: Actively participate in the company organized training, and constantly learn new product knowledge, sales techniques and service concepts to maintain a leading position.\nStrong willingness to work in retail, with excellent learning ability, good teamwork spirit and a strong sense of ownership. Recent graduate from a respected university with strong academic performance; bachelor's degree or above. Passionate about technology, smartphones, and smart devices. Eager to learn and grow in a dynamic tech company. Proactive, detail-oriented, and a strong communicator. Proficient in English, Chinese, and Spanish. ,1. Strong willingness to engage in retail, strong learning ability, good spirit of cooperation and ownership 2. understanding Xiaomi New Retail 3. College or Bachelor degree or above, good image and temperament",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Recent graduate from a respected university with strong academic performance; bachelor's degree or above.",
+          "College or Bachelor degree or above, good image and temperament"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Recent graduate from a respected university with strong academic performance; bachelor's degree or above."
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -17439,10 +17438,10 @@
       "jobRequirements": "1. Have a certain knowledge and understanding of Xiaomi 2. Strong communication skills, outgoing personality, strong ability to coordinate resources, and strong willingness to grow 3. Have an active sense, be good at discovering and solving problems, and be able to propose reasonable improvement plans 4. Preference for operators who understand or are interested 5. Xiaomi agrees with its values \"6. Fluent in English, which can be used as a working language 7. Bonus points: Microsoft Excel ability, data analytics ability, love hardware products, Xiaomi fans",
       "JD": "Responsibilities Overview: We welcome fresh graduates who are interested in the retail industry to join us and create a better future together! Multi-channel retail management: Learn and master the company's retail channel operation model, participate in channel analysis and strategy adjustment. New retail model exploration: In-depth understanding of online and offline integration and new retail trends, participate in new retail project practice. Strategic operation analysis: Use data analytics to mine market opportunities and risks, and provide data support and strategy suggestions for retail business. Future opportunities: 1. Deeply participate in the formulation and execution of multi-channel retail strategies. 2. Participate in the innovative practice of international new retail and the development of the company's retail business. 3. Fully participate in all aspects of retail management to ensure the stable development of the business。\n1. Have a certain knowledge and understanding of Xiaomi 2. Strong communication skills, outgoing personality, strong ability to coordinate resources, and strong willingness to grow 3. Have an active sense, be good at discovering and solving problems, and be able to propose reasonable improvement plans 4. Preference for operators who understand or are interested 5. Xiaomi agrees with its values \"6. Fluent in English, which can be used as a working language 7. Bonus points: Microsoft Excel ability, data analytics ability, love hardware products, Xiaomi fans",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "We welcome fresh graduates who are interested in the retail industry to join us and create a better future together!"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -17512,9 +17511,11 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "硕士及以上，低温与制冷专业，有热泵系统课题经验佳",
+        "hardRestriction": true,
+        "hardClauses": [
+          "低温与制冷专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -17526,11 +17527,11 @@
       "jobRequirements": "1.硕士及以上，低温与制冷专业，有热泵系统课题经验佳； 2.良好的沟通能力，乐于学习和分享，具有责任感和团队精神。",
       "JD": "1.根据项目需求设计热管理系统，审核供应商方案； 2.根据整车热管理需求，支持系统零部件选型； 3.参与环模/路试实验，支持试验调试和问题解决。\n1.硕士及以上，低温与制冷专业，有热泵系统课题经验佳； 2.良好的沟通能力，乐于学习和分享，具有责任感和团队精神。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上，低温与制冷专业，有热泵系统课题经验佳"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -17598,7 +17599,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，物流、企业管理、工业工程等专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -17612,15 +17613,13 @@
       "jobRequirements": "1、本科及以上学历，物流、企业管理、工业工程等专业优先； 2、具备良好的西语听说读写能力，可使用西语开展日常工作沟通、文档处理与业务协作 3、热爱物流和电子商务行业，具有强烈的事业心、进取心和责任心，并对生活充满正能量，对工作充满激情，有志成为小米物流的管理人才或者专业人才； 4、具备优秀的沟通协调能力，出色的解决问题能力，善于团队合作，并能主动学习与创新。",
       "JD": "岗位描述： 1、跟进国内及海外物流、仓储、运输的日常工作； 2、按照仓储、运输业务的具体模块职能要求，进行业务的学习、掌握、熟练、并可以独立完成领导安排的工作内容； 3、物流数据进行日常汇总、整理与分析； 6、对项目中的具体工作负责，进行文档处理、对于跨部门协作、对外沟通的工作进行妥善的沟通推动、及时反馈、资源协调。\n1、本科及以上学历，物流、企业管理、工业工程等专业优先； 2、具备良好的西语听说读写能力，可使用西语开展日常工作沟通、文档处理与业务协作 3、热爱物流和电子商务行业，具有强烈的事业心、进取心和责任心，并对生活充满正能量，对工作充满激情，有志成为小米物流的管理人才或者专业人才； 4、具备优秀的沟通协调能力，出色的解决问题能力，善于团队合作，并能主动学习与创新。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，物流、企业管理、工业工程等专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -17871,7 +17870,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -17885,14 +17884,12 @@
       "jobRequirements": "任职要求： 1、本科及以上学历； 2、有投资、证券等金融行业实习经验优先； 3、善于沟通协作，快速发现事物本质，做事细致且执行力强、有责任心、有保密意识。",
       "JD": "岗位描述： 1 协助部门进行相关行业的行业研究，辅助投资决策； 2、协助部门进行尽职调查，完成投资交割； 3、协助对目标公司进行尽职调查，编制尽职调查报告； 5、参与相关的谈判工作和投资结构设计； 6、参与投后管理，跟踪被投资公司的业务、产品、财务等情况； 7、推动被投资公司和小米之间的业务交叉支持； 8、参与小米其他相关投资业务的管理工作。\n任职要求： 1、本科及以上学历； 2、有投资、证券等金融行业实习经验优先； 3、善于沟通协作，快速发现事物本质，做事细致且执行力强、有责任心、有保密意识。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
-        "technicalDuties": [
-          "结构/原理"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -18154,11 +18151,9 @@
       "jobRequirements": "1、逻辑思维清晰； 2、对数据敏感，关注AI能力； 3、有校园实操活动案例 ； 4、主观能动性强。",
       "JD": "1、需求与计划：根据生产计划，制定并发布零部件物料需求计划，确保生产物料准时、准确供应； 2、库存管理：监控库存水位，设定和安全库存标准，实施库存控制，优化周转率，减少资金占用； 3、到货协调：跟踪供应商交付绩效，协调物料到货节奏，处理到货异常，确保生产线不断料； 4、生产支持：与生产、物流部门密切配合，处理生产线物料异常，支持生产计划顺利执行； 5、系统操作：熟练运用SAP/ERP等系统进行物料需求计划（MRP）的运行和主数据维护。\n1、逻辑思维清晰； 2、对数据敏感，关注AI能力； 3、有校园实操活动案例 ； 4、主观能动性强。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -18241,14 +18236,10 @@
       "jobRequirements": "1、熟练Go/C/C++/Java/Shell/Python至少一种编程语言，有Ruby/Bash经验更好； 2、熟悉Linux/Unix系统； 3、熟悉软件开发方法/流程，理解软件设计，开发，测试，发布过程； 4、持续学习，不断追求更好，不断挑战自己，包括：产品/架构/方案/流程/编码； 5、乐于分享，具备服务精神，良好的沟通能力和团队合作精神； 6、优秀的分析和解决问题能力，勇于解决难题，有”问题到我为止“的精神。",
       "JD": "1、我们为小米的站点稳定性提供系统和工具，是稳定性工程专家； 2、实践DevOps , Google SRE 和 AI Ops 的工程思想； 3、站在软件生命周期全局考虑如何保障系统健壮性，稳定性，并通过软件工程技术为站点保驾护航； 4、站在用户/工程师的角度提供易用的工具和平台产品，不断完善使用体验； 5、负责集团基础软件/工具/平台的设计和研发，维护小米各项业务的稳定运行； 6、按照优秀的工程实践完成需求，设计，编码，测试，发布的软件开发流程； 7、按照标准编写设计/开发/运维/用户文。\n1、熟练Go/C/C++/Java/Shell/Python至少一种编程语言，有Ruby/Bash经验更好； 2、熟悉Linux/Unix系统； 3、熟悉软件开发方法/流程，理解软件设计，开发，测试，发布过程； 4、持续学习，不断追求更好，不断挑战自己，包括：产品/架构/方案/流程/编码； 5、乐于分享，具备服务精神，良好的沟通能力和团队合作精神； 6、优秀的分析和解决问题能力，勇于解决难题，有”问题到我为止“的精神。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -18329,11 +18320,9 @@
       "jobRequirements": "1、熟练掌握Golang/Python语言及常用开发框架与工具，熟悉Linux开发环境； 2、扎实的编程能力，熟悉常用算法和数据结构； 3、有良好的分析和解决问题能力，对解决有挑战的问题充满热情； 4、有强烈的上进心，自我驱动，学习适应能力强； 5、掌握云原生技术或公有云技术，有KV数据库开发经验者优先。",
       "JD": "1、负责MySQL、Redis、OceanBase等关系型和缓存数据库的运维，资源部署、工单需求、故障排查、7*24小时oncall； 2、参与数据库架构的方案讨论和设计，根据业务需求落地数据库方案； 3、负责数据库平台、周边工具的研发工作。\n1、熟练掌握Golang/Python语言及常用开发框架与工具，熟悉Linux开发环境； 2、扎实的编程能力，熟悉常用算法和数据结构； 3、有良好的分析和解决问题能力，对解决有挑战的问题充满热情； 4、有强烈的上进心，自我驱动，学习适应能力强； 5、掌握云原生技术或公有云技术，有KV数据库开发经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -18489,7 +18478,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -18503,14 +18492,12 @@
       "jobRequirements": "任职要求： 1、本科及以上学历； 2、有投资、证券等金融行业实习经验优先； 3、善于沟通协作，快速发现事物本质，做事细致且执行力强、有责任心、有保密意识。",
       "JD": "岗位描述： 1 协助部门进行相关行业的行业研究，辅助投资决策； 2、协助部门进行尽职调查，完成投资交割； 3、协助对目标公司进行尽职调查，编制尽职调查报告； 5、参与相关的谈判工作和投资结构设计； 6、参与投后管理，跟踪被投资公司的业务、产品、财务等情况； 7、推动被投资公司和小米之间的业务交叉支持； 8、参与小米其他相关投资业务的管理工作。\n任职要求： 1、本科及以上学历； 2、有投资、证券等金融行业实习经验优先； 3、善于沟通协作，快速发现事物本质，做事细致且执行力强、有责任心、有保密意识。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
         ],
-        "technicalDuties": [
-          "结构/原理"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -18665,7 +18652,7 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "硕士及以上学历，机械、车辆、工程相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -18679,11 +18666,11 @@
       "jobRequirements": "1.硕士及以上学历，机械、车辆、工程相关专业优先； 2.热爱驾驶，关注汽车行业信息和趋势发展； 3.学习能力强，主观能动性好，快速适应岗位要求； 4.具备较强的团队协同能力和沟通逻辑。",
       "JD": "1.负责协助产品经理进行产品规划及落地； 2.参与汽车领域行业、用户和竞品调研，深度挖掘用户需求并转化为可落地的产品解决方案； 3.协同研发、测试、设计等相关团队，推动方案落地及功能交付； 4.配合团队持续提升相关领域的用户体验及质量； 5.负责跟进用户反馈问题并进行分析，推进问题解决、优化用户体验。\n1.硕士及以上学历，机械、车辆、工程相关专业优先； 2.热爱驾驶，关注汽车行业信息和趋势发展； 3.学习能力强，主观能动性好，快速适应岗位要求； 4.具备较强的团队协同能力和沟通逻辑。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，机械、车辆、工程相关专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -18839,9 +18826,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，安全工程专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "安全工程专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -18853,15 +18842,13 @@
       "jobRequirements": "1.本科及以上学历，安全工程专业； 2.较强的组织策划能力及沟通协调能力； 3.熟悉安全管理相关知识，熟悉安全等相关法律法规标准。",
       "JD": "1.管理.协调公司生产作业范围内安全生产管理.消防安全管理.职业健康管理工作，贯彻执行国家.和公司有关安全生产的法律.法规.方针.政策等内容； 2.落实公司监督考评，定期或不定期的指导.监督.检查生产安全情况并出具检查报告，跟进安全事故隐患的整改情况； 3.制定生产作业区域工作规划.目标，并跟进落实； 4.落实公司合规管理，及时收集国家新出台的有关安全生产方面的法规.文件； 5.落实公司事故管理各项规定。\n1.本科及以上学历，安全工程专业； 2.较强的组织策划能力及沟通协调能力； 3.熟悉安全管理相关知识，熟悉安全等相关法律法规标准。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，安全工程专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -19035,11 +19022,9 @@
       "jobRequirements": "竞品对标分析工程师-汽车 产品类 1. 负责竞品知识库运维，竞品属性趋势分析，竞企、竞品情报研究与搜集； 2. 负责竞品车辆的购买、租赁与管理；负责竞品数据、资讯资源的运维； 3. 负责项目竞品筛选，技术竞品、市场竞品的策略制定，收集竞品对标需求，制定对标计划，组织全维度对标；支持竞品评价活动的组织与开展； 4. 负责组织竞品用户体验活动，推进竞品用户体验建议库的建立与落地； 5. 负责组织竞品拆解和零部件对标活动，推进系统及零部件成本对标的分析与开展。 1. 熟悉汽车行业，了解整车各系统知识及产品开发流程； 2. 具有较强的学习能力和信息猎取能力； 3. 具有较强的行业洞察能力，对汽车行业的发展趋势和新技术应用有较深的了解； 4. 具备较强的逻辑思维能力，对整车系统零部件成本和VAVE有一定的了解； 5. 责任心强，良好的对外沟通和团队协作能力，并具备良好的分析和解决问题的能力。",
       "JD": "1. 负责竞品知识库运维，竞品属性趋势分析，竞企、竞品情报研究与搜集； 2. 负责竞品车辆的购买、租赁与管理；负责竞品数据、资讯资源的运维； 3. 负责项目竞品筛选，技术竞品、市场竞品的策略制定，收集竞品对标需求，制定对标计划，组织全维度对标；支持竞品评价活动的组织与开展； 4. 负责组织竞品用户体验活动，推进竞品用户体验建议库的建立与落地； 5. 负责组织竞品拆解和零部件对标活动，推进系统及零部件成本对标的分析与开展。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -19216,11 +19201,9 @@
       "jobRequirements": "1.具备良好的模拟集成电路和射频集成电路的基础知识； 2.具备良好的电路分析能力，如运放，LNA,MIXER,DA,PA,PLLVCO，ADC,DAC等； 3.熟练使用cadence设计工具套件，熟悉后仿真验证流程，熟练使用EM仿真工具； 4.熟练使用主要的射频和微波测试仪器； 5.通过CET-4，英文读写流利； 6.具有良好的沟通能力和团队合作能力。",
       "JD": "1.根据设计规范设计射频和毫米波集成电路模块如LNA.MIXER,PLLVCO,DA,PA,ABB,ADC,DAC等； 2.指导版图工程师进行版图设计； 3.根据设计结果完成设计文档和测试方案； 4.辅助测试工程师进行芯片问题的debug工作。\n1.具备良好的模拟集成电路和射频集成电路的基础知识； 2.具备良好的电路分析能力，如运放，LNA,MIXER,DA,PA,PLLVCO，ADC,DAC等； 3.熟练使用cadence设计工具套件，熟悉后仿真验证流程，熟练使用EM仿真工具； 4.熟练使用主要的射频和微波测试仪器； 5.通过CET-4，英文读写流利； 6.具有良好的沟通能力和团队合作能力。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -19378,7 +19361,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "国内外设计院校，本科及以上学历，工业设计专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -19392,11 +19375,11 @@
       "jobRequirements": "1.国内外设计院校，本科及以上学历，工业设计专业优先； 2.出色的造型能力，通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 3.对美学有高度欣赏，具备激进的创造力，关注细节； 4.具有良好的沟通能力和团队协作精神。 请务必上传作品集！！！",
       "JD": "1.新产品外观创新设计，确保设计符合小米战略和市场趋势；提升产品用户体验； 2.与工程师、产品经理等团队成员紧密合作，推动设计理念从概念到落地实现； 3.在设计中运用创造力，提出新颖的设计理念和解决方案； 4.保持对设计趋势和技术的敏锐洞察，不断推动创新。\n1.国内外设计院校，本科及以上学历，工业设计专业优先； 2.出色的造型能力，通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 3.对美学有高度欣赏，具备激进的创造力，关注细节； 4.具有良好的沟通能力和团队协作精神。 请务必上传作品集！！！",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "国内外设计院校，本科及以上学历，工业设计专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -19466,7 +19449,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "国内外知名设计院校,本科及以上学历,工业设计专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -19480,11 +19463,11 @@
       "jobRequirements": "任职要求： 1.国内外知名设计院校,本科及以上学历,工业设计专业优先； 2.出色的表达能力,通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 3.出色的色彩感知能力,对时尚和流行趋势有兴趣和洞察； 4.对美学有高度欣赏,具备激进的创造力,关注细节； 5.具有良好的沟通能力和团队协作精神 请务必上传作品集！！！",
       "JD": "1.产品外观创新设计,能从用户角度出发,持续提升产品外观精致度和使用体验 2.保持创造力,对设计趋势和技术相关领域保持洞察力 3.设计理念的梳理以及2D及3D图面表达 4.跨部门合作,推动设计从概念到落地\n任职要求： 1.国内外知名设计院校,本科及以上学历,工业设计专业优先； 2.出色的表达能力,通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 3.出色的色彩感知能力,对时尚和流行趋势有兴趣和洞察； 4.对美学有高度欣赏,具备激进的创造力,关注细节； 5.具有良好的沟通能力和团队协作精神 请务必上传作品集！！！",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "国内外知名设计院校,本科及以上学历,工业设计专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -19553,7 +19536,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "国内外知名设计院校,本科及以上学历,工业设计专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -19567,11 +19550,11 @@
       "jobRequirements": "任职要求： 1.国内外知名设计院校,本科及以上学历,工业设计专业优先； 2.出色的造型能力,通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 3.对美学有高度欣赏,具备激进的创造力,关注细节； 4.具有良好的沟通能力和团队协作精神； 请务必上传作品集！！！",
       "JD": "1.前期的设计研究工作,包括竞品分析、目标使用人群、使用环境、设计意向板等； 2.新产品外观创新设计,确保设计符合小米战略和市场趋势；提升产品用户体验； 3.设计理念的梳理以及2D及3D图面表达； 4.与研发人员合作,推动产品设计至生产过程中涉及到的产品外观问题。\n任职要求： 1.国内外知名设计院校,本科及以上学历,工业设计专业优先； 2.出色的造型能力,通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 3.对美学有高度欣赏,具备激进的创造力,关注细节； 4.具有良好的沟通能力和团队协作精神； 请务必上传作品集！！！",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "国内外知名设计院校,本科及以上学历,工业设计专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -19640,7 +19623,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "国内外知名设计院校，本科及以上学历，工业设计专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -19650,15 +19633,15 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "jobDescription": "1.产品外观创新设计,能从用户角度出发,持续提升产品外观精致度和使用体验 2.保持创造力,对设计趋势和技术相关领域保持洞察力 3.设计理念的梳理以及2D及3D图面表达 4.跨部门合作,推动设计从概念到落地",
-      "jobRequirements": "1.国内外知名设计院校,本科及以上学历,工业设计专业优先； 2.出色的表达能力,通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 3.对美学有高度欣赏,具备激进的创造力,关注细节； 4.具有良好的沟通能力和团队协作精神 请务必上传作品集！ 请务必上传作品集！！！",
-      "JD": "1.产品外观创新设计,能从用户角度出发,持续提升产品外观精致度和使用体验 2.保持创造力,对设计趋势和技术相关领域保持洞察力 3.设计理念的梳理以及2D及3D图面表达 4.跨部门合作,推动设计从概念到落地\n1.国内外知名设计院校,本科及以上学历,工业设计专业优先； 2.出色的表达能力,通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 3.对美学有高度欣赏,具备激进的创造力,关注细节； 4.具有良好的沟通能力和团队协作精神 请务必上传作品集！ 请务必上传作品集！！！",
+      "jobDescription": "1.参与手机产品CMF趋势研究，跟踪色彩、材料、表面处理工艺的前沿动态，输出趋势报告与设计提案； 2.参与手机整机及部件的CMF方案设计，包括色彩、材质、纹理、镀膜、印刷及表面处理工艺等； 3.完成CMF设计表达，包括渲染图、工艺说明、色板、设计看板及提案文件； 4.与ID、结构、工艺、供应链、质量等团队协作，跟进手板、打样、试产及量产落地； 5.参与色彩库、材料库、工艺库及样品库的建立与维护，协助制定CMF相关标准； 6.参与跨品类CMF协同，支持小米全生态产品设计语言的一致性。",
+      "jobRequirements": "1.国内外知名设计院校，本科及以上学历，工业设计专业优先； 2.对CMF设计有浓厚兴趣，具备色彩理论、材料特性及表面处理工艺的基础认知； 3.出色的表达能力,通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 4.对美学有高度欣赏，具备激进的创造力，关注细节； 5.具有良好的沟通能力和团队协作精神。",
+      "JD": "1.参与手机产品CMF趋势研究，跟踪色彩、材料、表面处理工艺的前沿动态，输出趋势报告与设计提案； 2.参与手机整机及部件的CMF方案设计，包括色彩、材质、纹理、镀膜、印刷及表面处理工艺等； 3.完成CMF设计表达，包括渲染图、工艺说明、色板、设计看板及提案文件； 4.与ID、结构、工艺、供应链、质量等团队协作，跟进手板、打样、试产及量产落地； 5.参与色彩库、材料库、工艺库及样品库的建立与维护，协助制定CMF相关标准； 6.参与跨品类CMF协同，支持小米全生态产品设计语言的一致性。\n1.国内外知名设计院校，本科及以上学历，工业设计专业优先； 2.对CMF设计有浓厚兴趣，具备色彩理论、材料特性及表面处理工艺的基础认知； 3.出色的表达能力,通过手绘、三维模型、渲染、快速模型有效地传达设计理念； 4.对美学有高度欣赏，具备激进的创造力，关注细节； 5.具有良好的沟通能力和团队协作精神。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "国内外知名设计院校，本科及以上学历，工业设计专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -19667,8 +19650,7 @@
       ],
       "skills": [],
       "experienceKeywords": [
-        "用户",
-        "洞察",
+        "供应链",
         "招聘"
       ],
       "preferenceTags": [],
@@ -19727,7 +19709,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "国内外知名设计院校,本科及以上学历,工业设计专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -19741,11 +19723,11 @@
       "jobRequirements": "任职要求： 1.国内外知名设计院校,本科及以上学历,工业设计专业优先； 2.出色的设计表达能力,通过手绘、三维模型、渲染、快速模型等有效地传达设计理念； 3.良好等审美,对时尚和流行趋势有兴趣和洞察； 4.具有良好的沟通能力和团队协作精神; 请务必上传作品集！！！",
       "JD": "1.手机/平板/通用配件外观设计,协助支持设计执行落地. 2.在设计中运用创造力,提出新颖的设计理念和解决方案。 3.设计趋势、设计调研等梳理以及2D及3D图面表达; 4.协助完成团队配件项目的设计需求;\n任职要求： 1.国内外知名设计院校,本科及以上学历,工业设计专业优先； 2.出色的设计表达能力,通过手绘、三维模型、渲染、快速模型等有效地传达设计理念； 3.良好等审美,对时尚和流行趋势有兴趣和洞察； 4.具有良好的沟通能力和团队协作精神; 请务必上传作品集！！！",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "国内外知名设计院校,本科及以上学历,工业设计专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -20114,11 +20096,9 @@
       "jobRequirements": "1、能高效理解产品和交互设计思路，敏锐判断视觉设计的可行性； 2、重视细节，追求像素级精神，热爱交互小动画； 3、在技术和产品高强度压力下，有视觉设计底线； 4、对前沿设计探索感兴趣，自我驱动力强，能用设计效果准确表达想法； 5、精通 Photoshop、AI 、sketch等视觉设计软件。 ！！！请务必上传作品集！！！",
       "JD": "1、负责相关产品的UI设计，版本迭代中的新功能设计及界面维护优化； 2、把握用户需求，发挥自己的设计创意； 3、与其他项目组配合完成相关设计工作； 4、时刻分析监控流行产品设计趋势，研究目标用户审美倾向并优化现有产品。\n1、能高效理解产品和交互设计思路，敏锐判断视觉设计的可行性； 2、重视细节，追求像素级精神，热爱交互小动画； 3、在技术和产品高强度压力下，有视觉设计底线； 4、对前沿设计探索感兴趣，自我驱动力强，能用设计效果准确表达想法； 5、精通 Photoshop、AI 、sketch等视觉设计软件。 ！！！请务必上传作品集！！！",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -20203,10 +20183,10 @@
       "jobRequirements": "- 数学兴趣优先：了解线性代数、几何基础知识，愿意在实践中深化应用 - 代码可培养：接触过任意编程语言（Python/JS等），不要求精通但需愿意深入学习 - 技术接触面：满足以下任意一项即可： - 写过基础Shader/用过Shader图形工具（如Shader Graph） - 尝试过DCC工具（Blender/Maya/C4D等）的脚本/插件开发 - 用CSS/H5 Canvas实现过简单动态效果 - 在Unity/UE等引擎中调整过材质效果 核心特质 - 好奇心驱动：对光影、运动、材质等物理现象有兴趣，乐于用数字手段模拟现实 - 创作表达欲：有通过代码或工具创作动态作品的经历（需提供作品集，含过程稿/习作均可） - 基础审美力：能分辨视觉设计的协调性，关注移动端界面设计趋势 应届生专属通道 - 无经验也欢迎！如果你满足： - 有图形学/设计相关课程作业或自学项目 - 能展示个人创作集（技术Demo、动效练习、插画代码化作品等） - 强烈希望成为技术美术设计师，并愿意投入学习",
       "JD": "1. 运用Shader、DCC工具（如Blender/C4D/Houdini/TouchDesigner）、CSS/H5等技术，参与手机操作系统视觉特效与动态界面的创作； 2. 协助优化系统动效与渲染方案，提升视觉体验的流畅性与表现力； 3. 探索代码驱动的艺术表达形式，尝试实现基础物理模拟、粒子交互等创新效果； 4. 与工程师协作推进方案落地，学习跨设备适配与性能优化方法。\n- 数学兴趣优先：了解线性代数、几何基础知识，愿意在实践中深化应用 - 代码可培养：接触过任意编程语言（Python/JS等），不要求精通但需愿意深入学习 - 技术接触面：满足以下任意一项即可： - 写过基础Shader/用过Shader图形工具（如Shader Graph） - 尝试过DCC工具（Blender/Maya/C4D等）的脚本/插件开发 - 用CSS/H5 Canvas实现过简单动态效果 - 在Unity/UE等引擎中调整过材质效果 核心特质 - 好奇心驱动：对光影、运动、材质等物理现象有兴趣，乐于用数字手段模拟现实 - 创作表达欲：有通过代码或工具创作动态作品的经历（需提供作品集，含过程稿/习作均可） - 基础审美力：能分辨视觉设计的协调性，关注移动端界面设计趋势 应届生专属通道 - 无经验也欢迎！如果你满足： - 有图形学/设计相关课程作业或自学项目 - 能展示个人创作集（技术Demo、动效练习、插画代码化作品等） - 强烈希望成为技术美术设计师，并愿意投入学习",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "应届生专属通道 - 无经验也欢迎！如果你满足： - 有图形学/设计相关课程作业或自学项目 - 能展示个人创作集（技术Demo、动效练习、插画代码化作品等） - 强烈希望成为技术美术设计师，并愿意投入学习"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -20275,9 +20255,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科或以上学历；；供应链相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "供应链相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -20289,11 +20271,12 @@
       "jobRequirements": "1、本科或以上学历； 2、供应链相关专业 3、具备良好的综合分析能力，协调和处理问题的能力，敏锐的观察能力和准确的判断能力； 4、较强的跨团队协调能力，有激情活力并且有个人的想法，较强的执行的能力与人际沟通能力、责任心强； 5、善于思考、学习能力强、熟练使用office办公软件。",
       "JD": "1、负责售后压合原材和NA物料的交付，及压合工厂的业务管理 2、计划基础数据管理 3、定期对备件库存进行分析，合理优化库存，达成库存周转率指标； 4、异常业务处理，紧急事件的跟进完成，确保时效； 5、业务相关部门的协调，流程完善，标准梳理。\n1、本科或以上学历； 2、供应链相关专业 3、具备良好的综合分析能力，协调和处理问题的能力，敏锐的观察能力和准确的判断能力； 4、较强的跨团队协调能力，有激情活力并且有个人的想法，较强的执行的能力与人际沟通能力、责任心强； 5、善于思考、学习能力强、熟练使用office办公软件。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科或以上学历；",
+          "供应链相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

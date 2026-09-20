@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T00:42:39.803Z",
+  "updatedAt": "2026-09-20T03:15:47.407Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -973,8 +973,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T00:42:39.803Z",
-      "nextCheckAfter": "2026-09-21T00:42:39.808Z"
+      "lastCheckedAt": "2026-09-20T03:15:47.407Z",
+      "nextCheckAfter": "2026-09-21T03:15:47.414Z"
     },
     "广州地铁": {
       "name": "广州地铁集团有限公司",
@@ -1777,7 +1777,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095333599614771202",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-20T00:42:39.803Z",
+      "lastCheckedAt": "2026-09-20T03:15:47.407Z",
       "nextCheckAfter": ""
     },
     "北方华创": {
@@ -2403,7 +2403,22 @@
         "sourceUrl": "https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VMUXSN7",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-19T17:47:31.354Z",
+      "lastCheckedAt": "2026-09-20T03:15:47.407Z",
+      "nextCheckAfter": ""
+    },
+    "京人才新未来——京新药业": {
+      "name": "京人才·新未来——京新药业",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://jingxinpharm.zhiye.com/campus",
+      "reason": "高校详情页明确给出北森招聘入口",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119087.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-09-20T03:15:47.407Z",
       "nextCheckAfter": ""
     }
   },
@@ -2415,10 +2430,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 2,
-    "sourcesAdded": 0,
+    "candidates": 4,
+    "sourcesAdded": 1,
     "sourcesRepaired": 0,
     "queued": 1,
-    "updatedAt": "2026-09-20T00:42:39.803Z"
+    "updatedAt": "2026-09-20T03:15:47.407Z"
   }
 }

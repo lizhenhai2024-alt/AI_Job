@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
   "count": 158,
-  "updatedAt": "2026-09-20T00:43:53.933Z",
+  "updatedAt": "2026-09-20T03:41:02.710Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7663476504336992531",
@@ -13006,14 +13006,10 @@
       "jobRequirements": "1、有产品基本能力（可理解需求、调研分析和设计需求） 2、具备灵活性，对数据敏感； 3、沟通能力强； 4、熟知AI Agent/AI大模型基本原理；",
       "JD": "1、协助推进充电渠道互联互通产品对接，包含启停对接/跨平台结算对接/端外体验提升； 2、收集整理充电行业互联互通竞品动态、完成行业调研分析和需求推进落地； 3、协助推进补贴合规产品对接，为充电合规负责、以提升充电政府补贴为目标推进工作； 3、将AI与互联互通渠道对接结合，提高对接人效、AI校准补贴规则提升人效和补贴金额；\n1、有产品基本能力（可理解需求、调研分析和设计需求） 2、具备灵活性，对数据敏感； 3、沟通能力强； 4、熟知AI Agent/AI大模型基本原理；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -13510,7 +13506,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "较好学习过数字电路，集成电路，信号与系统，线性代数，计算机原理，C语言等课程",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -13524,14 +13520,12 @@
       "jobRequirements": "1. 较好学习过数字电路，集成电路，信号与系统，线性代数，计算机原理，C语言等课程 2. 熟悉数字集成电路的开发流程 3. 能够熟练使用Verilog编写代码，并搭建testbench运行仿真测试 4. 熟悉流行的验证方法学（UVM，SVA等） 5. 能够独立完成一个SOC子领域的全流程验证工作",
       "JD": "1.参与大型SOC的功能验证 2.根据feature制定验证计划，分解测试点 3.使用systemverilog/uvm搭建 Testbench，编写testcase，完成coverage收敛 4.支持架构设计，代码设计，原型开发过程中的验证工作\n1. 较好学习过数字电路，集成电路，信号与系统，线性代数，计算机原理，C语言等课程 2. 熟悉数字集成电路的开发流程 3. 能够熟练使用Verilog编写代码，并搭建testbench运行仿真测试 4. 熟悉流行的验证方法学（UVM，SVA等） 5. 能够独立完成一个SOC子领域的全流程验证工作",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "较好学习过数字电路，集成电路，信号与系统，线性代数，计算机原理，C语言等课程"
         ],
-        "technicalDuties": [
-          "开发实现"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -13595,7 +13589,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "较好学习过数字电路，集成电路，信号与系统，线性代数，计算机原理，C语言等课程",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -13609,14 +13603,12 @@
       "jobRequirements": "1. 较好学习过数字电路，集成电路，信号与系统，线性代数，计算机原理，C语言等课程 2. 熟悉数字集成电路的开发流程 3. 能够熟练使用Verilog编写代码，并搭建testbench运行仿真测试 4. 熟悉流行的验证方法学（UVM，SVA等） 5. 能够独立完成一个全新模块的全流程验证工作",
       "JD": "1.参与核心IP模块功能的开发和验证 2.根据产品feature制定验证计划，分解测试点 3.使用systemverilog/uvm搭建 Testbench，编写testcase，完成coverage收敛 4.支持架构设计，代码设计，原型开发过程中的验证工作\n1. 较好学习过数字电路，集成电路，信号与系统，线性代数，计算机原理，C语言等课程 2. 熟悉数字集成电路的开发流程 3. 能够熟练使用Verilog编写代码，并搭建testbench运行仿真测试 4. 熟悉流行的验证方法学（UVM，SVA等） 5. 能够独立完成一个全新模块的全流程验证工作",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "较好学习过数字电路，集成电路，信号与系统，线性代数，计算机原理，C语言等课程"
         ],
-        "technicalDuties": [
-          "开发实现"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -13694,14 +13686,10 @@
       "jobRequirements": "1、精通 C/C++, 熟悉 Linux 开发环境, 掌握 CMake, Git 等工程化工具, 必须具备良好的代码风格与调试能力. 2、深入理解 CPU/GPU 并行计算原理(如 SIMD/SIMT 架构), 有 CUDA/OpenCL/OpenMP 等编程经验者优先, 能独立完成简单算子的汇编实现者优先. 3、扎实的线性代数(矩阵运算, 特征分解), 数值分析(精度优化、数值稳定性)基础, 了解深度学习基本算子(卷积, 池化, 矩阵乘法等)的数学模型. 4、有独立进行过大模型算子优化相关工作成果者优先.",
       "JD": "1、基于类 cuda 环境, 设计并实现高性能算子, 例如 gemm, Attention, FFN, CNN 等. 2、结合芯片微架构特性进行极致调优, 优化核心算子性能逼近理论设计上限. 3、开发性能评估工具, 并总结性能测试报告. 4、编写算子设计文档与交付文档，保障算子库的稳定性与可维护性。\n1、精通 C/C++, 熟悉 Linux 开发环境, 掌握 CMake, Git 等工程化工具, 必须具备良好的代码风格与调试能力. 2、深入理解 CPU/GPU 并行计算原理(如 SIMD/SIMT 架构), 有 CUDA/OpenCL/OpenMP 等编程经验者优先, 能独立完成简单算子的汇编实现者优先. 3、扎实的线性代数(矩阵运算, 特征分解), 数值分析(精度优化、数值稳定性)基础, 了解深度学习基本算子(卷积, 池化, 矩阵乘法等)的数学模型. 4、有独立进行过大模型算子优化相关工作成果者优先.",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -13765,9 +13753,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，雕塑等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "雕塑等相关专业"
+        ]
       },
       "language": {
         "raw": "英语",
@@ -13779,14 +13769,12 @@
       "jobRequirements": "1、本科及以上学历，雕塑等相关专业； 2、具备优秀的立体造型能力和三维空间想象力，能够准确把握形态与比例关系； 3、对油泥模型或硬质模型制作有浓厚兴趣，动手能力强，有课程作品或个人创作经验； 4、注重细节，对造型美感有执着的追求，愿意在反复打磨中提升作品品质； 5、积极主动，责任心强，具备良好的沟通意识和团队协作精神； 6、具备基础英文能力优先考虑。",
       "JD": "1、参与汽车内外饰油泥模型的制作与搭建，协助完成从设计草图到三维实体的转化； 2、学习并参与基础的数据编程与机床加工操作； 3、协助团队进行硬质模型及展车制作的过程跟踪，记录并反馈进度与质量问题。\n1、本科及以上学历，雕塑等相关专业； 2、具备优秀的立体造型能力和三维空间想象力，能够准确把握形态与比例关系； 3、对油泥模型或硬质模型制作有浓厚兴趣，动手能力强，有课程作品或个人创作经验； 4、注重细节，对造型美感有执着的追求，愿意在反复打磨中提升作品品质； 5、积极主动，责任心强，具备良好的沟通意识和团队协作精神； 6、具备基础英文能力优先考虑。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，雕塑等相关专业"
         ],
-        "technicalDuties": [
-          "质量技术"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -14133,7 +14121,7 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
+        "raw": "硕士及以上学历，掌握NVH基本理论知识",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -14147,11 +14135,11 @@
       "jobRequirements": "1、硕士及以上学历，掌握NVH基本理论知识； 2、具备一定的NVH试验/仿真基础； 3、了解汽车构造。",
       "JD": "1、负责整车NVH开发、标杆竞品NVH性能的研究； 2、负责NVH目标的设定及分解； 3、负责热管理、声品质NVH相关的DMU检查； 4、负责NVH的调校； 5、对NVH实车达标负责。\n1、硕士及以上学历，掌握NVH基本理论知识； 2、具备一定的NVH试验/仿真基础； 3、了解汽车构造。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，掌握NVH基本理论知识"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -14303,9 +14291,11 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "硕士及以上学历，有相关光电系统/声学系统/域控制器/智能座舱等技术学习背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "有相关光电系统/声学系统/域控制器/智能座舱等技术学习背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -14317,11 +14307,11 @@
       "jobRequirements": "1、硕士及以上学历，有相关光电系统/声学系统/域控制器/智能座舱等技术学习背景； 2、对电子电器产品工作原理及其其开发流程有一定了解； 3、具备较强的项目协调管理能力，能协助方案评审、任务分解、计划制定等; 4、具备AI意识，且熟练使用AI工具者优先。",
       "JD": "1、协助组织电子电器经验&管理，项目&质量，VAVE会议，组织日常问题的技术推进会，技术委员会，预算申请，质量专项评审等会议； 2.管理和跟进电子电器各车型项目开发过程中的问题跟进，推动问题按期解决； 3.协助电子电器质量&体系的改进和优化；\n1、硕士及以上学历，有相关光电系统/声学系统/域控制器/智能座舱等技术学习背景； 2、对电子电器产品工作原理及其其开发流程有一定了解； 3、具备较强的项目协调管理能力，能协助方案评审、任务分解、计划制定等; 4、具备AI意识，且熟练使用AI工具者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，有相关光电系统/声学系统/域控制器/智能座舱等技术学习背景"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

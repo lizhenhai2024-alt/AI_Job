@@ -1,7 +1,7 @@
 {
   "company": "普渡机器人",
   "count": 17,
-  "updatedAt": "2026-09-20T00:43:53.933Z",
+  "updatedAt": "2026-09-20T03:41:02.710Z",
   "jobs": [
     {
       "id": "beisen-611d82dc80e3",
@@ -1561,7 +1561,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1575,11 +1575,11 @@
       "jobRequirements": "1. 本科以上学历，有智能硬件类、机器人行业采购跟单实习经验优先； 2. 工作细心，认真负责，态度积极； 3. 执行能力强、跨组织沟通协作能力强，有积极解决问题的态度和方法，可接受短期出差； 4. 熟练操作办公软件及office软件。",
       "JD": "1. 根据PMC需求下达采购订单，将提货需求计划外发供应商并拿到物料交期回复； 2．跟进采购订单交付过程中订单变更、交期、品质等异常事宜； 3. 负责订单盖章归档，根据付款条件与供应商对账，申请付款及每月记录分析； 4. 供应商管理，维护供应商关系，保证物料生产等项目计划及时进行； 5. 完成部门安排的其他工作。\n1. 本科以上学历，有智能硬件类、机器人行业采购跟单实习经验优先； 2. 工作细心，认真负责，态度积极； 3. 执行能力强、跨组织沟通协作能力强，有积极解决问题的态度和方法，可接受短期出差； 4. 熟练操作办公软件及office软件。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

@@ -1,7 +1,7 @@
 {
   "company": "国科微电子股份有限公司",
   "count": 2,
-  "updatedAt": "2026-09-20T00:43:53.933Z",
+  "updatedAt": "2026-09-20T03:41:02.710Z",
   "jobs": [
     {
       "id": "beisen-22e86b6a0764",
@@ -95,9 +95,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "硕士学历，模拟IC设计方向，精通Cadence、Virtuoso/Spectre。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "模拟IC设计方向"
+        ]
       },
       "language": {
         "raw": "",
@@ -109,10 +111,12 @@
       "jobRequirements": "1.硕士学历，模拟IC设计方向，精通Cadence、Virtuoso/Spectre。 2.深入理解高速电路设计，有过DDR PHY项目经验者优先 3.沟通学习能力强，工作细致。",
       "JD": "1.设计DDR PHY中的高速模拟电路（如DDR I/O、PLL、DLL、均衡器EQ）； 2.优化接收端（RX）与发送端（TX）的SI/PI性能； 3.指导版图设计，确保匹配性（八边形法则）及抗ESD能力。\n1.硕士学历，模拟IC设计方向，精通Cadence、Virtuoso/Spectre。 2.深入理解高速电路设计，有过DDR PHY项目经验者优先 3.沟通学习能力强，工作细致。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士学历，模拟IC设计方向，精通Cadence、Virtuoso/Spectre。"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "（2027届）"
         ],
         "technicalDuties": [],
         "businessDuties": []
