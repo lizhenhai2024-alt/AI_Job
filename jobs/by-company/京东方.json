@@ -1,7 +1,7 @@
 {
   "company": "京东方",
-  "count": 61,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "count": 62,
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "beisen-2be429ffbb1a",
@@ -3265,6 +3265,95 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://campus.boe.com/campus/detail?jobAdId=5008f327-5eb9-42f9-991b-685d5b7b06e1",
       "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→在线测评→（部分岗位AI面试）→面试→签约→体检→入职",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网京东方2027校招 | https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=ff28a962b62d4eddaf1d68767e0c054d | 2026-09-17"
+    },
+    {
+      "id": "beisen-fed93df2dc1b",
+      "company": "京东方",
+      "title": "【智慧医工】生活管家（成都）(J54618)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "养老管理、物业管理、心理学、社会工作、护理学或酒店管理等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "养老管理、物业管理、心理学、社会工作、护理学或酒店管理等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "成都",
+      "jobDescription": "1、按照标准化流程执行居民入住退住的办理、物品代购/代取、出行协助、活动咨询与报名、房间维护维修协调、保洁服务协调、餐饮服务协调、访客接待协调； 2、向居民提供关于社区的各项规章制度、服务流程、设施使用、活动安排、周边信息（交通、购物、景点） 等的准确咨询，解答居民在日常生活中遇到的基础疑问，不能解答的问题及时上报； 3、及时向居民传达社区的重要通知、将收集到的居民反馈、需求或建议，及时、准确地整理上报给上级主管或相关部门，参与服务流程优化的讨论； 4、定期（如每日）对所负责楼栋/区域的居民进行例行巡访或电话关怀，主动询问其生活状况和需求，掌握居民的个人背景信息；在居民需要时，提供短暂的陪伴聊天、倾听，给予情感慰藉和精神关怀。 5、遇到居民突发状况（如身体不适、意外摔倒、情绪异常等），第一时间上报并响应，进行初步安抚，协助现场处理。",
+      "jobRequirements": "学历要求 1、本科应届毕业生 专业要求 2、养老管理、物业管理、心理学、社会工作、护理学或酒店管理等相关专业 技能要求 3、办公软件操作、基础礼仪、协调沟通、应急处理、风险防控 素质要求 4、服务意识、心力韧性、亲和力 英文要求 5、有较好的英语能力（英语四级及以上）。",
+      "JD": "1、按照标准化流程执行居民入住退住的办理、物品代购/代取、出行协助、活动咨询与报名、房间维护维修协调、保洁服务协调、餐饮服务协调、访客接待协调； 2、向居民提供关于社区的各项规章制度、服务流程、设施使用、活动安排、周边信息（交通、购物、景点） 等的准确咨询，解答居民在日常生活中遇到的基础疑问，不能解答的问题及时上报； 3、及时向居民传达社区的重要通知、将收集到的居民反馈、需求或建议，及时、准确地整理上报给上级主管或相关部门，参与服务流程优化的讨论； 4、定期（如每日）对所负责楼栋/区域的居民进行例行巡访或电话关怀，主动询问其生活状况和需求，掌握居民的个人背景信息；在居民需要时，提供短暂的陪伴聊天、倾听，给予情感慰藉和精神关怀。 5、遇到居民突发状况（如身体不适、意外摔倒、情绪异常等），第一时间上报并响应，进行初步安抚，协助现场处理。\n学历要求 1、本科应届毕业生 专业要求 2、养老管理、物业管理、心理学、社会工作、护理学或酒店管理等相关专业 技能要求 3、办公软件操作、基础礼仪、协调沟通、应急处理、风险防控 素质要求 4、服务意识、心力韧性、亲和力 英文要求 5、有较好的英语能力（英语四级及以上）。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "养老管理、物业管理、心理学、社会工作、护理学或酒店管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "本科应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、按照标准化流程执行居民入住退住的办理、物品代购/代取、出行协助、活动咨询与报名"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://campus.boe.com/campus/detail?jobAdId=55c0fb6c-e077-4c3a-8255-14e62deeae59",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

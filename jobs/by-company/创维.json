@@ -1,7 +1,7 @@
 {
   "company": "创维集团",
   "count": 36,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "hotjob-450bb2d6c2ee",
@@ -3087,12 +3087,9 @@
       "jobRequirements": "1. 熟悉CNC加工基本原理，掌握UG、Mastercam、Powermill等任意一款编程软件，会CAD识图、建模优先。 2. 了解模具钢材质、常用刀具特性、基础切削参数，懂模具零件、型腔、型芯加工流程者优先。",
       "JD": "1、负责模具编程（拆电极）工作，按时保质进行数控加工程序的编制与电极的合理拆分； 2、加工进度跟进记录，定期跟踪CNC、EDM加工中的工件，与操作员沟通程序参数、电极拆分的合理性； 3、参与加工工艺的制定与优化，提升加工效率和质量； 4、整理归档加工程序及相关技术资料。\n1. 熟悉CNC加工基本原理，掌握UG、Mastercam、Powermill等任意一款编程软件，会CAD识图、建模优先。 2. 了解模具钢材质、常用刀具特性、基础切削参数，懂模具零件、型腔、型芯加工流程者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-27"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -3159,7 +3156,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "统招本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3173,12 +3170,11 @@
       "jobRequirements": "1.良好的沟通能力、学习能力，灵活性和可塑性强，抗压能力强 2.可以接受出差 3.统招本科及以上学历",
       "JD": "1、负责公司组件光伏产品的销售及推广，完成销售指标 2、开拓新市场，发展新客户，增加产品销售范围 3、负责市场信息的收集及竞争对手的分析 4、客户关系维护，积极促进合作关系 5、了解光伏行业的国家政策和行业动态 加入我们，享受以下福利： 生活补贴：住房、餐饮、交通、通讯全方位覆盖。 带薪休假：年假、病假，工作生活两不误。 节日关怀：节假日、生日礼金，感受公司温暖。 健康关怀：定期体检，关注你的健康。 团队活动：丰富的团建，增强团队凝聚力。\n1.良好的沟通能力、学习能力，灵活性和可塑性强，抗压能力强 2.可以接受出差 3.统招本科及以上学历",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2027-07-31"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "统招本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -3352,17 +3348,11 @@
       "jobRequirements": "1. 熟练使用Office办公软件，擅长表格数据统计、单据整理，打字流畅，会ERP系统操作优先。 2. 了解塑胶产品、注塑生产基本流程者优先，具备基础订单核对、数据核查能力。 3. 性格耐心细致、责任心强，抗压能力好，善于沟通协调，能高效对接各部门处理问题。",
       "JD": "1、对接客户下达订单，核对交期、产品规格并下达生产计划； 2、跟进注塑车间生产进度，协调物料保障正常排产，把控出货节点； 3、跟进原料、包材采购到货，管控库存避免缺料或物料积压； 4、核对出货单据、物流安排，处理交期异常并同步客户反馈。\n1. 熟练使用Office办公软件，擅长表格数据统计、单据整理，打字流畅，会ERP系统操作优先。 2. 了解塑胶产品、注塑生产基本流程者优先，具备基础订单核对、数据核查能力。 3. 性格耐心细致、责任心强，抗压能力好，善于沟通协调，能高效对接各部门处理问题。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-09-27"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通",
-          "物流执行"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

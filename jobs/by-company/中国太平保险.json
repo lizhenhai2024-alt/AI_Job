@@ -1,7 +1,7 @@
 {
   "company": "中国太平保险集团",
   "count": 118,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "beisen-48d4c78c739f",
@@ -9548,7 +9548,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，IT相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9562,11 +9562,11 @@
       "jobRequirements": "1.本科及以上学历，IT相关专业优先； 2.能熟练使用办公操作软件，文字写作能力较强、沟通表达能力强； 3.有亲和力，抗压能力强，组织协调能力强； 4.党员优先。 更多校招信息请关注微信公众号【太平人寿微招聘】",
       "JD": "1.负责科技工具推广工作，指导机构使用，收集反馈工具使用情况； 2.负责数据管理与数据治理工作； 3.负责分公司日常终端、会议系统及各类业务系统用户侧保障支持工作，及时响应、处理、上报异常情况； 4.负责IT资产管理工作，包括申请、审核、采购、验收与分配，定期进行资产盘点； 5.配合日常信息化预算的编制及使用管理，及时监控和调整IT预算，保障预算的正确和有序使用； 6.负责信息安全策略的推进及分公司日常终端信息安全管理及安全培训等工作； 7.负责协调内外部资源，落地数字化转型各项工作； 8.完成领导交办的其他工作。\n1.本科及以上学历，IT相关专业优先； 2.能熟练使用办公操作软件，文字写作能力较强、沟通表达能力强； 3.有亲和力，抗压能力强，组织协调能力强； 4.党员优先。 更多校招信息请关注微信公众号【太平人寿微招聘】",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，IT相关专业优先"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -9632,7 +9632,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Degree holder or above, preferably in Finance, Accounting or related disciplines",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9646,10 +9646,12 @@
       "jobRequirements": "1. Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.) 2. Degree holder or above, preferably in Finance, Accounting or related disciplines 3. Strong communication skills with a professional and tactful approach to debt collection 4. Attentive to details, good interpersonal, organizational skills, self-motivated and active team player 5. Good command of English and Cantonese",
       "JD": "Process daily premium payment received via various channels and make commission payments Handle payment inquiries from policyholders, insurance agents and insurance brokers Assist supervisor to monitor aging reports and proactively follow up on overdue premiums Prepare monthly statements and receipts Collaborate with internal departments to resolve billing discrepancies Perform ad-hoc projects or duties as assigned\n1. Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.) 2. Degree holder or above, preferably in Finance, Accounting or related disciplines 3. Strong communication skills with a professional and tactful approach to debt collection 4. Attentive to details, good interpersonal, organizational skills, self-motivated and active team player 5. Good command of English and Cantonese",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Degree holder or above, preferably in Finance, Accounting or related disciplines"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.)"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -9711,7 +9713,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Degree holder or above, preferably in Law, Risk Management, Accounting or related disciplines",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -9725,10 +9727,12 @@
       "jobRequirements": "1. Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.) 2. Degree holder or above, preferably in Law, Risk Management, Accounting or related disciplines 3. Experience in compliance, audit or risk management field, with exposure to the insurance company and/or financial services company, is preferred 4. Good knowledge of Companies Ordinance, Insurance Ordinance, other relevant regulatory requirements 5. Good communication and strong analytical skills 6. Able to work independently and responsible 7. Good command of written and spoken English and Chinese",
       "JD": "1. Assist in reviewing the legal documentation and commercial agreements 2. Provide assistance and support to ensure the Company’s policies and procedures are in compliance with all local regulatory requirements 3. Provide assistance and support to ensure effective development, monitoring, and enforcement of compliance procedures and policies are in place 4. Assist in development of ERM system and implementation the risk frameworks, policies, guidelines / procedures and methodologies to identify, measure, control and report on all risk categories across the company 5. Participation in various ad-hoc projects\n1. Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.) 2. Degree holder or above, preferably in Law, Risk Management, Accounting or related disciplines 3. Experience in compliance, audit or risk management field, with exposure to the insurance company and/or financial services company, is preferred 4. Good knowledge of Companies Ordinance, Insurance Ordinance, other relevant regulatory requirements 5. Good communication and strong analytical skills 6. Able to work independently and responsible 7. Good command of written and spoken English and Chinese",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Degree holder or above, preferably in Law, Risk Management, Accounting or related disciplines"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Hong Kong permanent residents or non-permanent residents but must hold a valid work visa (IANG, Quality Migrants or Dependant, etc.)"
         ],
         "technicalDuties": [],
         "businessDuties": []

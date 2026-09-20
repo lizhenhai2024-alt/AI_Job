@@ -1,7 +1,7 @@
 {
   "company": "海信",
-  "count": 116,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "count": 117,
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "beisen-a185f48e311b",
@@ -698,7 +698,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9ee0e028-6dcc-4f77-b199-789ccc0c1f7e",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -791,7 +791,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f0be9a8c-0048-4b98-b362-957abdc4595f",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -886,7 +886,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=0fcb4b2a-a4ec-49b2-a34c-659672666ebd",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1748,7 +1748,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=68d0b251-d693-4277-9ea5-4f2f54df73d2",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2249,6 +2249,201 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
+      "id": "beisen-0816a00abe94",
+      "company": "海信",
+      "title": "销售管培生（中央空调）（J45009）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上",
+        "hardRestriction": true,
+        "hardClauses": [
+          "市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1、深度学习公司销售政策、销售数据分析、产品上市等工作内容； 2、根据个人意愿和公司需求分配到全球的营销分支机构参与市场拓展工作。",
+      "jobRequirements": "1、本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "JD": "1、深度学习公司销售政策、销售数据分析、产品上市等工作内容； 2、根据个人意愿和公司需求分配到全球的营销分支机构参与市场拓展工作。\n1、本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=983f9885-cc19-422d-8bda-31767c6b3f4f",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-113c0738e391",
+      "company": "海信",
+      "title": "海外产品营销(J44569)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历：本科及以上学历；；专业：市场营销、经济类、管理类、外语类等相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业：市场营销、经济类、管理类、外语类等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "佛山",
+      "jobDescription": "1、产品策划：结合品牌定位、产品定位、产品上市进度、功能参数，确定各品类及各序列产品的主推方向，据此制定产品策划策略，确保策划成果符合海信品牌调性、产品定位及市场需求； 2、产品推广：负责整体产品推广项目的推进和管理，调动产品、销售、市场、业务、售后部门为产品推广服务，推动各部门推广过程中的问题解决； 3、产品培训：负责海外产品营销培训体系搭建、标准化课件与资源库沉淀，结合产品与竞品优势提炼销售卖点，落地全球各类培训活动，赋能海外终端高效价值营销与销售转化。",
+      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：市场营销、经济类、管理类、外语类等相关专业； 4、胜任力要求：具有敏锐的市场洞察力以及分析能力，工作严谨认真且执行力强，善于沟通和协调资源，可独立思考并解决问题，具备较强的抗压能力，有相关实习经验者优先； 5、外语水平：英语六级及以上，听说读写流利。",
+      "JD": "1、产品策划：结合品牌定位、产品定位、产品上市进度、功能参数，确定各品类及各序列产品的主推方向，据此制定产品策划策略，确保策划成果符合海信品牌调性、产品定位及市场需求； 2、产品推广：负责整体产品推广项目的推进和管理，调动产品、销售、市场、业务、售后部门为产品推广服务，推动各部门推广过程中的问题解决； 3、产品培训：负责海外产品营销培训体系搭建、标准化课件与资源库沉淀，结合产品与竞品优势提炼销售卖点，落地全球各类培训活动，赋能海外终端高效价值营销与销售转化。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：市场营销、经济类、管理类、外语类等相关专业； 4、胜任力要求：具有敏锐的市场洞察力以及分析能力，工作严谨认真且执行力强，善于沟通和协调资源，可独立思考并解决问题，具备较强的抗压能力，有相关实习经验者优先； 5、外语水平：英语六级及以上，听说读写流利。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历：本科及以上学历；",
+          "专业：市场营销、经济类、管理类、外语类等相关专业；"
+        ],
+        "eligibilityClauses": [
+          "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）；"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=c2d7c581-6270-4ef1-99b6-8dccb0625aa5",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
       "id": "beisen-073891dd97c1",
       "company": "海信",
       "title": "零售管理（市场推广方向）(J44588)",
@@ -2635,201 +2830,6 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=00597706-8fe8-4d26-84f0-268d007e9449",
       "publishedAt": "2026-09-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-113c0738e391",
-      "company": "海信",
-      "title": "海外产品营销(J44569)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "学历：本科及以上学历；；专业：市场营销、经济类、管理类、外语类等相关专业；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业：市场营销、经济类、管理类、外语类等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "佛山",
-      "jobDescription": "1、产品策划：结合品牌定位、产品定位、产品上市进度、功能参数，确定各品类及各序列产品的主推方向，据此制定产品策划策略，确保策划成果符合海信品牌调性、产品定位及市场需求； 2、产品推广：负责整体产品推广项目的推进和管理，调动产品、销售、市场、业务、售后部门为产品推广服务，推动各部门推广过程中的问题解决； 3、产品培训：负责海外产品营销培训体系搭建、标准化课件与资源库沉淀，结合产品与竞品优势提炼销售卖点，落地全球各类培训活动，赋能海外终端高效价值营销与销售转化。",
-      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：市场营销、经济类、管理类、外语类等相关专业； 4、胜任力要求：具有敏锐的市场洞察力以及分析能力，工作严谨认真且执行力强，善于沟通和协调资源，可独立思考并解决问题，具备较强的抗压能力，有相关实习经验者优先； 5、外语水平：英语六级及以上，听说读写流利。",
-      "JD": "1、产品策划：结合品牌定位、产品定位、产品上市进度、功能参数，确定各品类及各序列产品的主推方向，据此制定产品策划策略，确保策划成果符合海信品牌调性、产品定位及市场需求； 2、产品推广：负责整体产品推广项目的推进和管理，调动产品、销售、市场、业务、售后部门为产品推广服务，推动各部门推广过程中的问题解决； 3、产品培训：负责海外产品营销培训体系搭建、标准化课件与资源库沉淀，结合产品与竞品优势提炼销售卖点，落地全球各类培训活动，赋能海外终端高效价值营销与销售转化。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：市场营销、经济类、管理类、外语类等相关专业； 4、胜任力要求：具有敏锐的市场洞察力以及分析能力，工作严谨认真且执行力强，善于沟通和协调资源，可独立思考并解决问题，具备较强的抗压能力，有相关实习经验者优先； 5、外语水平：英语六级及以上，听说读写流利。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历：本科及以上学历；",
-          "专业：市场营销、经济类、管理类、外语类等相关专业；"
-        ],
-        "eligibilityClauses": [
-          "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）；"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "产品营销"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目",
-        "市场",
-        "营销",
-        "品牌"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=c2d7c581-6270-4ef1-99b6-8dccb0625aa5",
-      "publishedAt": "2026-09-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-0816a00abe94",
-      "company": "海信",
-      "title": "销售管培生（中央空调）（J45009）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上",
-        "hardRestriction": true,
-        "hardClauses": [
-          "市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "全国",
-      "jobDescription": "1、深度学习公司销售政策、销售数据分析、产品上市等工作内容； 2、根据个人意愿和公司需求分配到全球的营销分支机构参与市场拓展工作。",
-      "jobRequirements": "1、本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
-      "JD": "1、深度学习公司销售政策、销售数据分析、产品上市等工作内容； 2、根据个人意愿和公司需求分配到全球的营销分支机构参与市场拓展工作。\n1、本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，市场营销/新闻类/经管类/暖通/能动/建环/制冷与低温等相关专业，英语四级及以上"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "内容",
-        "市场",
-        "数据",
-        "营销"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=983f9885-cc19-422d-8bda-31767c6b3f4f",
-      "publishedAt": "2026-09-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3490,7 +3490,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9c05916e-d11e-4221-acf5-e4193aecfcc2",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3893,105 +3893,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
-      "id": "beisen-94f404c270d7",
-      "company": "海信",
-      "title": "产品策略(J44657)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "市场营销、工商管理、经济学、金融、统计学、数学、电子商务等相关专业优先；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市",
-      "jobDescription": "1、产品操盘： 协助制定产品年度 / 季度 / 月度销售目标，跟踪目标达成进度；参与产品 SKU 组合规划、价格策略、库存周转与产品生命周期管理；协助产品上市（New Product Launch）全流程：立项评审、上市节奏、铺货跟踪、生命周期复盘；协同销售、电商、供应链等部门，确保产品上市计划高效落地； 2、营销政策制定： 协助制定年度 / 季度 / 月度营销政策框架（含渠道政策、价格政策、促销政策、返利政策等）；参与重要营销节点（618、双 11、年货节等）政策方案的设计与执行复盘；跟踪各区域、各渠道政策执行情况，输出政策效果评估与优化建议 配合销售一线开展政策宣贯、问题答疑与执行支持； 3、经营分析： 搭建并维护经营数据看板（销售、库存、毛利、份额、动销等核心指标）；定期输出周 / 月 / 季度经营分析报告，识别业绩驱动因素与风险点；开展市场与竞品数据监测（行业大盘、竞品动态、渠道结构），为产品与营销决策提供输入 配合财务、供应链完成利润测算、费用核算与经营改善专项分析。",
-      "jobRequirements": "1、市场营销、工商管理、经济学、金融、统计学、数学、电子商务等相关专业优先； 2、逻辑严谨，结构化思维强，对数据敏感，具备数据处理与分析能力； 3、熟练使用 Excel（数据透视、函数、图表），具备基础 PPT 呈现能力； 4、学习力强，对家电 / 厨电行业及商业经营有热情与好奇心，善于沟通协调，能在跨部门项目中主动推进。",
-      "JD": "1、产品操盘： 协助制定产品年度 / 季度 / 月度销售目标，跟踪目标达成进度；参与产品 SKU 组合规划、价格策略、库存周转与产品生命周期管理；协助产品上市（New Product Launch）全流程：立项评审、上市节奏、铺货跟踪、生命周期复盘；协同销售、电商、供应链等部门，确保产品上市计划高效落地； 2、营销政策制定： 协助制定年度 / 季度 / 月度营销政策框架（含渠道政策、价格政策、促销政策、返利政策等）；参与重要营销节点（618、双 11、年货节等）政策方案的设计与执行复盘；跟踪各区域、各渠道政策执行情况，输出政策效果评估与优化建议 配合销售一线开展政策宣贯、问题答疑与执行支持； 3、经营分析： 搭建并维护经营数据看板（销售、库存、毛利、份额、动销等核心指标）；定期输出周 / 月 / 季度经营分析报告，识别业绩驱动因素与风险点；开展市场与竞品数据监测（行业大盘、竞品动态、渠道结构），为产品与营销决策提供输入 配合财务、供应链完成利润测算、费用核算与经营改善专项分析。\n1、市场营销、工商管理、经济学、金融、统计学、数学、电子商务等相关专业优先； 2、逻辑严谨，结构化思维强，对数据敏感，具备数据处理与分析能力； 3、熟练使用 Excel（数据透视、函数、图表），具备基础 PPT 呈现能力； 4、学习力强，对家电 / 厨电行业及商业经营有热情与好奇心，善于沟通协调，能在跨部门项目中主动推进。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "市场营销、工商管理、经济学、金融、统计学、数学、电子商务等相关专业优先；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": [
-          "商务测算",
-          "资料/流程"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "PPT",
-        "电商"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "电商",
-        "数据",
-        "营销",
-        "供应链"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9a69ed23-5e61-4a49-b7f4-090b6668deae",
-      "publishedAt": "2026-09-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
       "id": "beisen-d156638c0127",
       "company": "海信",
       "title": "人力资源管理(J44684)",
@@ -4075,7 +3976,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=0dec6c16-2ede-455a-a5b7-23f46dbfc035",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -4167,7 +4068,106 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=7a9de45c-56ca-4093-a0f2-c161b3558f6c",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-94f404c270d7",
+      "company": "海信",
+      "title": "产品策略(J44657)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "市场营销、工商管理、经济学、金融、统计学、数学、电子商务等相关专业优先；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、产品操盘： 协助制定产品年度 / 季度 / 月度销售目标，跟踪目标达成进度；参与产品 SKU 组合规划、价格策略、库存周转与产品生命周期管理；协助产品上市（New Product Launch）全流程：立项评审、上市节奏、铺货跟踪、生命周期复盘；协同销售、电商、供应链等部门，确保产品上市计划高效落地； 2、营销政策制定： 协助制定年度 / 季度 / 月度营销政策框架（含渠道政策、价格政策、促销政策、返利政策等）；参与重要营销节点（618、双 11、年货节等）政策方案的设计与执行复盘；跟踪各区域、各渠道政策执行情况，输出政策效果评估与优化建议 配合销售一线开展政策宣贯、问题答疑与执行支持； 3、经营分析： 搭建并维护经营数据看板（销售、库存、毛利、份额、动销等核心指标）；定期输出周 / 月 / 季度经营分析报告，识别业绩驱动因素与风险点；开展市场与竞品数据监测（行业大盘、竞品动态、渠道结构），为产品与营销决策提供输入 配合财务、供应链完成利润测算、费用核算与经营改善专项分析。",
+      "jobRequirements": "1、市场营销、工商管理、经济学、金融、统计学、数学、电子商务等相关专业优先； 2、逻辑严谨，结构化思维强，对数据敏感，具备数据处理与分析能力； 3、熟练使用 Excel（数据透视、函数、图表），具备基础 PPT 呈现能力； 4、学习力强，对家电 / 厨电行业及商业经营有热情与好奇心，善于沟通协调，能在跨部门项目中主动推进。",
+      "JD": "1、产品操盘： 协助制定产品年度 / 季度 / 月度销售目标，跟踪目标达成进度；参与产品 SKU 组合规划、价格策略、库存周转与产品生命周期管理；协助产品上市（New Product Launch）全流程：立项评审、上市节奏、铺货跟踪、生命周期复盘；协同销售、电商、供应链等部门，确保产品上市计划高效落地； 2、营销政策制定： 协助制定年度 / 季度 / 月度营销政策框架（含渠道政策、价格政策、促销政策、返利政策等）；参与重要营销节点（618、双 11、年货节等）政策方案的设计与执行复盘；跟踪各区域、各渠道政策执行情况，输出政策效果评估与优化建议 配合销售一线开展政策宣贯、问题答疑与执行支持； 3、经营分析： 搭建并维护经营数据看板（销售、库存、毛利、份额、动销等核心指标）；定期输出周 / 月 / 季度经营分析报告，识别业绩驱动因素与风险点；开展市场与竞品数据监测（行业大盘、竞品动态、渠道结构），为产品与营销决策提供输入 配合财务、供应链完成利润测算、费用核算与经营改善专项分析。\n1、市场营销、工商管理、经济学、金融、统计学、数学、电子商务等相关专业优先； 2、逻辑严谨，结构化思维强，对数据敏感，具备数据处理与分析能力； 3、熟练使用 Excel（数据透视、函数、图表），具备基础 PPT 呈现能力； 4、学习力强，对家电 / 厨电行业及商业经营有热情与好奇心，善于沟通协调，能在跨部门项目中主动推进。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "市场营销、工商管理、经济学、金融、统计学、数学、电子商务等相关专业优先；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "PPT",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "营销",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9a69ed23-5e61-4a49-b7f4-090b6668deae",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -4550,6 +4550,281 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
+      "id": "beisen-582e9c632a56",
+      "company": "海信",
+      "title": "质量保证工程师（测评管理）(J45132)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历：本科及以上；；专业要求：制冷、能动、电控等相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求：制冷、能动、电控等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市·黄岛区",
+      "jobDescription": "1、负责新品项目的测试需求分解、设计方案评审、风险点识别以及测试策划，统筹全专业方向的测评； 2、负责新品项目的过程跟踪和数据分析、问题点闭环管理； 3、负责新品项目的整体把控，对新产品的测试质量和产品设计质量负责； 4、负责维护相关产品线的测评标准，保障测评标准的适应性和全面性。",
+      "jobRequirements": "1、学历：本科及以上； 2、专业要求：制冷、能动、电控等相关专业； 3、技能要求：专业技术知识掌握良好，熟练office软件，英语4级以上（6级优先）； 4、素质要求：思维活跃、勇于创新、敢于挑战。",
+      "JD": "1、负责新品项目的测试需求分解、设计方案评审、风险点识别以及测试策划，统筹全专业方向的测评； 2、负责新品项目的过程跟踪和数据分析、问题点闭环管理； 3、负责新品项目的整体把控，对新产品的测试质量和产品设计质量负责； 4、负责维护相关产品线的测评标准，保障测评标准的适应性和全面性。\n1、学历：本科及以上； 2、专业要求：制冷、能动、电控等相关专业； 3、技能要求：专业技术知识掌握良好，熟练office软件，英语4级以上（6级优先）； 4、素质要求：思维活跃、勇于创新、敢于挑战。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历：本科及以上；",
+          "专业要求：制冷、能动、电控等相关专业；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=a32d24f9-d39e-4ba6-8580-1f05f2d1b544",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-5e8317b44990",
+      "company": "海信",
+      "title": "安全管理工程师(J45060)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "专业：安全工程、环境工程等相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业：安全工程、环境工程等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "jobDescription": "1、负责安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2、制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3、外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4、日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。",
+      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）； 2、学历：本科及以上学历； 3、专业：安全工程、环境工程等相关专业； 4、能力要求：熟练使用office办公软件，工作认真细致，责任心强，具有良好的团队精神和沟通协作能力以及抗压能力； 5、外语水平：大学英语四级及以上或小语种同等水平以上。",
+      "JD": "1、负责安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2、制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3、外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4、日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。\n1、院校：国内普通高等院校（2027年毕业）； 2、学历：本科及以上学历； 3、专业：安全工程、环境工程等相关专业； 4、能力要求：熟练使用office办公软件，工作认真细致，责任心强，具有良好的团队精神和沟通协作能力以及抗压能力； 5、外语水平：大学英语四级及以上或小语种同等水平以上。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业：安全工程、环境工程等相关专业；"
+        ],
+        "eligibilityClauses": [
+          "院校：国内普通高等院校（2027年毕业）；",
+          "学历：本科及以上学历；"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=564e1731-e45f-4205-b72f-a10bfc3f4489",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-9852ffea3a36",
+      "company": "海信",
+      "title": "营销培训（中央空调）(J45040)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，英语四级以上，暖通/能动/建环/制冷与低温等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "暖通/能动/建环/制冷与低温等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、负责分公司产品力的落地，产品更新，以及新产品的竞争力分析、当地化推广、答疑； 2、负责公司内部销售团队培训，完成销售工程师初、中级课程的认证，等分公司内部培训； 3、负责搭建当地渠道培训体系，本地化培训资料的编写，并形成一套清晰的渠道新人培训课程。",
+      "jobRequirements": "1、本科及以上学历，英语四级以上，暖通/能动/建环/制冷与低温等相关专业； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "JD": "1、负责分公司产品力的落地，产品更新，以及新产品的竞争力分析、当地化推广、答疑； 2、负责公司内部销售团队培训，完成销售工程师初、中级课程的认证，等分公司内部培训； 3、负责搭建当地渠道培训体系，本地化培训资料的编写，并形成一套清晰的渠道新人培训课程。\n1、本科及以上学历，英语四级以上，暖通/能动/建环/制冷与低温等相关专业； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，英语四级以上，暖通/能动/建环/制冷与低温等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=0fbddc7f-ec91-4513-ab8d-e3cbbaad02bb",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
       "id": "beisen-e1e20b2e7d43",
       "company": "海信",
       "title": "海外零售管理(J44570)",
@@ -4753,6 +5028,100 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
+      "id": "beisen-916a0b03255e",
+      "company": "海信",
+      "title": "产品策略(J45051)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "专业：专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、跟踪与分析市场动态： 负责收集、整理竞品的市场活动、产品价格及政策信息，并分析其变化趋势。 2、支持对标与策略研究： 协助进行我品与竞品的对标分析，为产品规划及价格政策的制定提供数据支持和初步建议。 3、参与策略优化与调整： 根据经营数据和市场分析结果，参与研讨并协助执行价格策略与资源投放的优化调整。 4、撰写分析报告： 定期撰写市场监测与经营分析报告，清晰呈现研究发现，为团队决策提供参考。",
+      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限； 4、技能要求：熟练操作办公软件； 5、素质要求：有较强归纳总结能力，对数据敏感，工作严谨、细致、责任心强，有较好人际沟通能力； 6、外语水平：四级及以上。",
+      "JD": "1、跟踪与分析市场动态： 负责收集、整理竞品的市场活动、产品价格及政策信息，并分析其变化趋势。 2、支持对标与策略研究： 协助进行我品与竞品的对标分析，为产品规划及价格政策的制定提供数据支持和初步建议。 3、参与策略优化与调整： 根据经营数据和市场分析结果，参与研讨并协助执行价格策略与资源投放的优化调整。 4、撰写分析报告： 定期撰写市场监测与经营分析报告，清晰呈现研究发现，为团队决策提供参考。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限； 4、技能要求：熟练操作办公软件； 5、素质要求：有较强归纳总结能力，对数据敏感，工作严谨、细致、责任心强，有较好人际沟通能力； 6、外语水平：四级及以上。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业：专业不限"
+        ],
+        "eligibilityClauses": [
+          "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）",
+          "学历：本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、跟踪与分析市场动态： 负责收集、整理竞品的市场活动、产品价格及政策信息，并分析"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=7b4af223-190e-4e53-97c8-a857988b8b37",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
       "id": "beisen-ee3a886c4ae6",
       "company": "海信",
       "title": "产品策略（激光器方向）(J44934)",
@@ -4938,375 +5307,6 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f162bab6-0dcc-4b24-a720-135d3e1a6bba",
       "publishedAt": "2026-09-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-582e9c632a56",
-      "company": "海信",
-      "title": "质量保证工程师（测评管理）(J45132)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "学历：本科及以上；；专业要求：制冷、能动、电控等相关专业；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业要求：制冷、能动、电控等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市·黄岛区",
-      "jobDescription": "1、负责新品项目的测试需求分解、设计方案评审、风险点识别以及测试策划，统筹全专业方向的测评； 2、负责新品项目的过程跟踪和数据分析、问题点闭环管理； 3、负责新品项目的整体把控，对新产品的测试质量和产品设计质量负责； 4、负责维护相关产品线的测评标准，保障测评标准的适应性和全面性。",
-      "jobRequirements": "1、学历：本科及以上； 2、专业要求：制冷、能动、电控等相关专业； 3、技能要求：专业技术知识掌握良好，熟练office软件，英语4级以上（6级优先）； 4、素质要求：思维活跃、勇于创新、敢于挑战。",
-      "JD": "1、负责新品项目的测试需求分解、设计方案评审、风险点识别以及测试策划，统筹全专业方向的测评； 2、负责新品项目的过程跟踪和数据分析、问题点闭环管理； 3、负责新品项目的整体把控，对新产品的测试质量和产品设计质量负责； 4、负责维护相关产品线的测评标准，保障测评标准的适应性和全面性。\n1、学历：本科及以上； 2、专业要求：制冷、能动、电控等相关专业； 3、技能要求：专业技术知识掌握良好，熟练office软件，英语4级以上（6级优先）； 4、素质要求：思维活跃、勇于创新、敢于挑战。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历：本科及以上；",
-          "专业要求：制冷、能动、电控等相关专业；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=a32d24f9-d39e-4ba6-8580-1f05f2d1b544",
-      "publishedAt": "2026-09-19",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-5e8317b44990",
-      "company": "海信",
-      "title": "安全管理工程师(J45060)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "专业：安全工程、环境工程等相关专业；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业：安全工程、环境工程等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "jobDescription": "1、负责安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2、制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3、外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4、日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。",
-      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）； 2、学历：本科及以上学历； 3、专业：安全工程、环境工程等相关专业； 4、能力要求：熟练使用office办公软件，工作认真细致，责任心强，具有良好的团队精神和沟通协作能力以及抗压能力； 5、外语水平：大学英语四级及以上或小语种同等水平以上。",
-      "JD": "1、负责安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2、制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3、外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4、日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。\n1、院校：国内普通高等院校（2027年毕业）； 2、学历：本科及以上学历； 3、专业：安全工程、环境工程等相关专业； 4、能力要求：熟练使用office办公软件，工作认真细致，责任心强，具有良好的团队精神和沟通协作能力以及抗压能力； 5、外语水平：大学英语四级及以上或小语种同等水平以上。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "专业：安全工程、环境工程等相关专业；"
-        ],
-        "eligibilityClauses": [
-          "院校：国内普通高等院校（2027年毕业）；",
-          "学历：本科及以上学历；"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=564e1731-e45f-4205-b72f-a10bfc3f4489",
-      "publishedAt": "2026-09-19",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-9852ffea3a36",
-      "company": "海信",
-      "title": "营销培训（中央空调）(J45040)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，英语四级以上，暖通/能动/建环/制冷与低温等相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "暖通/能动/建环/制冷与低温等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市",
-      "jobDescription": "1、负责分公司产品力的落地，产品更新，以及新产品的竞争力分析、当地化推广、答疑； 2、负责公司内部销售团队培训，完成销售工程师初、中级课程的认证，等分公司内部培训； 3、负责搭建当地渠道培训体系，本地化培训资料的编写，并形成一套清晰的渠道新人培训课程。",
-      "jobRequirements": "1、本科及以上学历，英语四级以上，暖通/能动/建环/制冷与低温等相关专业； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
-      "JD": "1、负责分公司产品力的落地，产品更新，以及新产品的竞争力分析、当地化推广、答疑； 2、负责公司内部销售团队培训，完成销售工程师初、中级课程的认证，等分公司内部培训； 3、负责搭建当地渠道培训体系，本地化培训资料的编写，并形成一套清晰的渠道新人培训课程。\n1、本科及以上学历，英语四级以上，暖通/能动/建环/制冷与低温等相关专业； 2、具备较强的创新意识和良好的表达能力，善于协调组织整合资源，充满活力和动力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，英语四级以上，暖通/能动/建环/制冷与低温等相关专业"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "营销"
-      ],
-      "preferenceTags": [
-        "跨文化"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=0fbddc7f-ec91-4513-ab8d-e3cbbaad02bb",
-      "publishedAt": "2026-09-19",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-916a0b03255e",
-      "company": "海信",
-      "title": "产品策略(J45051)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "专业：专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市",
-      "jobDescription": "1、跟踪与分析市场动态： 负责收集、整理竞品的市场活动、产品价格及政策信息，并分析其变化趋势。 2、支持对标与策略研究： 协助进行我品与竞品的对标分析，为产品规划及价格政策的制定提供数据支持和初步建议。 3、参与策略优化与调整： 根据经营数据和市场分析结果，参与研讨并协助执行价格策略与资源投放的优化调整。 4、撰写分析报告： 定期撰写市场监测与经营分析报告，清晰呈现研究发现，为团队决策提供参考。",
-      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限； 4、技能要求：熟练操作办公软件； 5、素质要求：有较强归纳总结能力，对数据敏感，工作严谨、细致、责任心强，有较好人际沟通能力； 6、外语水平：四级及以上。",
-      "JD": "1、跟踪与分析市场动态： 负责收集、整理竞品的市场活动、产品价格及政策信息，并分析其变化趋势。 2、支持对标与策略研究： 协助进行我品与竞品的对标分析，为产品规划及价格政策的制定提供数据支持和初步建议。 3、参与策略优化与调整： 根据经营数据和市场分析结果，参与研讨并协助执行价格策略与资源投放的优化调整。 4、撰写分析报告： 定期撰写市场监测与经营分析报告，清晰呈现研究发现，为团队决策提供参考。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限； 4、技能要求：熟练操作办公软件； 5、素质要求：有较强归纳总结能力，对数据敏感，工作严谨、细致、责任心强，有较好人际沟通能力； 6、外语水平：四级及以上。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "专业：专业不限"
-        ],
-        "eligibilityClauses": [
-          "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）",
-          "学历：本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "市场分析"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "市场",
-        "数据"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1、跟踪与分析市场动态： 负责收集、整理竞品的市场活动、产品价格及政策信息，并分析"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=7b4af223-190e-4e53-97c8-a857988b8b37",
-      "publishedAt": "2026-09-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7269,6 +7269,386 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
+      "id": "beisen-a532b87ffacf",
+      "company": "海信",
+      "title": "渠道管理（C端）(J45049)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历：本科及以上学历；；专业：专业不限；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、‌负责下沉渠道运营，‌包括线上推广、‌活动策划等，‌以提高店铺商品的曝光率和转化率，对店铺商品进行优化和推广，‌通过数据分析不断优化和调整产品推广策略，‌以提升销售效果及销售额； 2、‌根据营销计划，‌完成营销活动的推广工作，‌包括新品上市、‌促销等，能够有效地策划和执行各种营销活动，‌以吸引更多的消费者，‌增加销售额； 3、‌负责店铺的日常维护和管理，‌做好客户关系的维系和维护，包括定期收集竞争对手的产品信息并进行分析和总结，‌以及处理日常客户关系，‌提供客情关系维护服务支持工作； 4、负责拓展和运营KA客户及渠道伙伴的管理工作，‌提升合作伙伴的数量与质量，维护合作体系稳定，‌协调内外部资源，‌推进业务开展；‌ 5、‌持续监控所负责的重点区域、‌重点终端运营情况，‌并进行针对性改善及指导，‌以提升终端运营能力，‌确保达成年度销售目标。",
+      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限； 4、技能要求：熟练操作办公软件； 5、素质要求：有较强归纳总结能力，对数据敏感，工作严谨、细致、责任心强，有较好人际沟通能力； 6、外语水平：四级及以上。",
+      "JD": "1、‌负责下沉渠道运营，‌包括线上推广、‌活动策划等，‌以提高店铺商品的曝光率和转化率，对店铺商品进行优化和推广，‌通过数据分析不断优化和调整产品推广策略，‌以提升销售效果及销售额； 2、‌根据营销计划，‌完成营销活动的推广工作，‌包括新品上市、‌促销等，能够有效地策划和执行各种营销活动，‌以吸引更多的消费者，‌增加销售额； 3、‌负责店铺的日常维护和管理，‌做好客户关系的维系和维护，包括定期收集竞争对手的产品信息并进行分析和总结，‌以及处理日常客户关系，‌提供客情关系维护服务支持工作； 4、负责拓展和运营KA客户及渠道伙伴的管理工作，‌提升合作伙伴的数量与质量，维护合作体系稳定，‌协调内外部资源，‌推进业务开展；‌ 5、‌持续监控所负责的重点区域、‌重点终端运营情况，‌并进行针对性改善及指导，‌以提升终端运营能力，‌确保达成年度销售目标。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限； 4、技能要求：熟练操作办公软件； 5、素质要求：有较强归纳总结能力，对数据敏感，工作严谨、细致、责任心强，有较好人际沟通能力； 6、外语水平：四级及以上。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历：本科及以上学历；",
+          "专业：专业不限；"
+        ],
+        "eligibilityClauses": [
+          "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）；"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=58e2e3e9-7dcd-4e02-89c9-630f2ad5027b",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-6013b0161860",
+      "company": "海信",
+      "title": "销售经理(J44983)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，暖通/建环/能动/制冷与低温等相关专业，英语四级及以上",
+        "hardRestriction": true,
+        "hardClauses": [
+          "暖通/建环/能动/制冷与低温等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1、根据区域特点建立有效经销网络、进行品牌推广与维护； 2、参加招投标并给予经销商技术支持，为用户提供完善的空调系统解决方案； 3、实现公司销售目标，并使区域市场健康成长。",
+      "jobRequirements": "1、本科及以上学历，暖通/建环/能动/制冷与低温等相关专业，英语四级及以上； 2、充满活力和动力，勇于挑战自我，具备较好的沟通表达能力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "JD": "1、根据区域特点建立有效经销网络、进行品牌推广与维护； 2、参加招投标并给予经销商技术支持，为用户提供完善的空调系统解决方案； 3、实现公司销售目标，并使区域市场健康成长。\n1、本科及以上学历，暖通/建环/能动/制冷与低温等相关专业，英语四级及以上； 2、充满活力和动力，勇于挑战自我，具备较好的沟通表达能力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，暖通/建环/能动/制冷与低温等相关专业，英语四级及以上"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "用户",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=3d3082e6-0f8e-4a15-b850-e1a1663dd4bf",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-71f73ab3ff64",
+      "company": "海信",
+      "title": "暖通设计工程师(J44970)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，建环/暖通/能动/制冷及低温工程专业，英语4级及以上",
+        "hardRestriction": true,
+        "hardClauses": [
+          "建环/暖通/能动/制冷及低温工程专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1、负责中央空调项目的设计和图纸审核； 2、为产品合理应用于工程提供技术支持，为产品推介进行技术交流； 3、针对培训对象，制作培训课件，制作通用资料，提供市场所需基本资料； 4、负责现场问题分析。",
+      "jobRequirements": "1、本科及以上学历，建环/暖通/能动/制冷及低温工程专业，英语4级及以上； 2、具有扎实系统全面的专业基础知识； 3、善于学习，具有良好的技术沟通能力和团队合作精神。",
+      "JD": "1、负责中央空调项目的设计和图纸审核； 2、为产品合理应用于工程提供技术支持，为产品推介进行技术交流； 3、针对培训对象，制作培训课件，制作通用资料，提供市场所需基本资料； 4、负责现场问题分析。\n1、本科及以上学历，建环/暖通/能动/制冷及低温工程专业，英语4级及以上； 2、具有扎实系统全面的专业基础知识； 3、善于学习，具有良好的技术沟通能力和团队合作精神。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，建环/暖通/能动/制冷及低温工程专业，英语4级及以上"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=bd25d00d-acfc-4ca8-b904-b3c395c171d3",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-4f46156695d8",
+      "company": "海信",
+      "title": "质量管理工程师(J44582)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "3、专业：专业不限，理工类相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、质量管理：负责海外市场质量信息跟踪、异常质量投诉的分级管理，包括质量问题调查、分析、解决和预防工作，对接产品公司研发与规划，推进海外市场质量问题管理闭环； 2、服务管理：负责海外服务网络管理、海外服务商全生命周期与评价体系管理、海外服务费用管理，监控海外服务质量，提升海外售后服务水平； 3、技术支持：对海外分公司和海外服务商提供日常技术支持，包括维修技术标准制定、技术资料下发、技术类培训组织和终端反馈的技术问题协调解决等； 4、备件管理：负责海外市场备件管理，包括备件订单交付管理，备件库存预警管理与备件指标趋势管理，持续优化备件供应效率及质量，提升终端服务品质。",
+      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限，理工类相关专业优先； 4、胜任力要求：逻辑性强，思路清晰，沟通、组织、协调、计划能力强，具备较强的抗压能力，有相关实习经验者优先； 5、外语水平：英语六级及以上，具有较强的听说读写能力。",
+      "JD": "1、质量管理：负责海外市场质量信息跟踪、异常质量投诉的分级管理，包括质量问题调查、分析、解决和预防工作，对接产品公司研发与规划，推进海外市场质量问题管理闭环； 2、服务管理：负责海外服务网络管理、海外服务商全生命周期与评价体系管理、海外服务费用管理，监控海外服务质量，提升海外售后服务水平； 3、技术支持：对海外分公司和海外服务商提供日常技术支持，包括维修技术标准制定、技术资料下发、技术类培训组织和终端反馈的技术问题协调解决等； 4、备件管理：负责海外市场备件管理，包括备件订单交付管理，备件库存预警管理与备件指标趋势管理，持续优化备件供应效率及质量，提升终端服务品质。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限，理工类相关专业优先； 4、胜任力要求：逻辑性强，思路清晰，沟通、组织、协调、计划能力强，具备较强的抗压能力，有相关实习经验者优先； 5、外语水平：英语六级及以上，具有较强的听说读写能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "3、专业：专业不限，理工类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9d532ce2-73ea-493e-9583-0b624e35124d",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
       "id": "beisen-fb62ab95a323",
       "company": "海信",
       "title": "销售经理（全国）(J45816)",
@@ -7565,10 +7945,12 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
-      "id": "beisen-4f46156695d8",
+      "id": "beisen-b63303698c76",
       "company": "海信",
-      "title": "质量管理工程师(J44582)",
+      "title": "安全管理工程师(J41071)",
       "graduationYear": [
+        "2025",
+        "2026",
         "2027"
       ],
       "education": {
@@ -7577,128 +7959,29 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "3、专业：专业不限，理工类相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "3.专业：安全工程等专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "3.专业：安全工程等专业"
+        ]
       },
       "language": {
         "raw": "英语",
         "english": true,
         "minorLanguageRequired": false
       },
-      "location": "山东省·青岛市",
-      "jobDescription": "1、质量管理：负责海外市场质量信息跟踪、异常质量投诉的分级管理，包括质量问题调查、分析、解决和预防工作，对接产品公司研发与规划，推进海外市场质量问题管理闭环； 2、服务管理：负责海外服务网络管理、海外服务商全生命周期与评价体系管理、海外服务费用管理，监控海外服务质量，提升海外售后服务水平； 3、技术支持：对海外分公司和海外服务商提供日常技术支持，包括维修技术标准制定、技术资料下发、技术类培训组织和终端反馈的技术问题协调解决等； 4、备件管理：负责海外市场备件管理，包括备件订单交付管理，备件库存预警管理与备件指标趋势管理，持续优化备件供应效率及质量，提升终端服务品质。",
-      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限，理工类相关专业优先； 4、胜任力要求：逻辑性强，思路清晰，沟通、组织、协调、计划能力强，具备较强的抗压能力，有相关实习经验者优先； 5、外语水平：英语六级及以上，具有较强的听说读写能力。",
-      "JD": "1、质量管理：负责海外市场质量信息跟踪、异常质量投诉的分级管理，包括质量问题调查、分析、解决和预防工作，对接产品公司研发与规划，推进海外市场质量问题管理闭环； 2、服务管理：负责海外服务网络管理、海外服务商全生命周期与评价体系管理、海外服务费用管理，监控海外服务质量，提升海外售后服务水平； 3、技术支持：对海外分公司和海外服务商提供日常技术支持，包括维修技术标准制定、技术资料下发、技术类培训组织和终端反馈的技术问题协调解决等； 4、备件管理：负责海外市场备件管理，包括备件订单交付管理，备件库存预警管理与备件指标趋势管理，持续优化备件供应效率及质量，提升终端服务品质。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限，理工类相关专业优先； 4、胜任力要求：逻辑性强，思路清晰，沟通、组织、协调、计划能力强，具备较强的抗压能力，有相关实习经验者优先； 5、外语水平：英语六级及以上，具有较强的听说读写能力。",
+      "location": "山东省·青岛市·平度市",
+      "jobDescription": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。",
+      "jobRequirements": "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
+      "JD": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。\n1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [
-          "3、专业：专业不限，理工类相关专业优先"
+          "3.专业：安全工程等专业；"
         ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "质量技术"
-        ],
-        "businessDuties": [
-          "国际业务"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "市场",
-        "营销"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化",
-        "出海"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9d532ce2-73ea-493e-9583-0b624e35124d",
-      "publishedAt": "2026-09-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-a532b87ffacf",
-      "company": "海信",
-      "title": "渠道管理（C端）(J45049)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "学历：本科及以上学历；；专业：专业不限；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市",
-      "jobDescription": "1、‌负责下沉渠道运营，‌包括线上推广、‌活动策划等，‌以提高店铺商品的曝光率和转化率，对店铺商品进行优化和推广，‌通过数据分析不断优化和调整产品推广策略，‌以提升销售效果及销售额； 2、‌根据营销计划，‌完成营销活动的推广工作，‌包括新品上市、‌促销等，能够有效地策划和执行各种营销活动，‌以吸引更多的消费者，‌增加销售额； 3、‌负责店铺的日常维护和管理，‌做好客户关系的维系和维护，包括定期收集竞争对手的产品信息并进行分析和总结，‌以及处理日常客户关系，‌提供客情关系维护服务支持工作； 4、负责拓展和运营KA客户及渠道伙伴的管理工作，‌提升合作伙伴的数量与质量，维护合作体系稳定，‌协调内外部资源，‌推进业务开展；‌ 5、‌持续监控所负责的重点区域、‌重点终端运营情况，‌并进行针对性改善及指导，‌以提升终端运营能力，‌确保达成年度销售目标。",
-      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限； 4、技能要求：熟练操作办公软件； 5、素质要求：有较强归纳总结能力，对数据敏感，工作严谨、细致、责任心强，有较好人际沟通能力； 6、外语水平：四级及以上。",
-      "JD": "1、‌负责下沉渠道运营，‌包括线上推广、‌活动策划等，‌以提高店铺商品的曝光率和转化率，对店铺商品进行优化和推广，‌通过数据分析不断优化和调整产品推广策略，‌以提升销售效果及销售额； 2、‌根据营销计划，‌完成营销活动的推广工作，‌包括新品上市、‌促销等，能够有效地策划和执行各种营销活动，‌以吸引更多的消费者，‌增加销售额； 3、‌负责店铺的日常维护和管理，‌做好客户关系的维系和维护，包括定期收集竞争对手的产品信息并进行分析和总结，‌以及处理日常客户关系，‌提供客情关系维护服务支持工作； 4、负责拓展和运营KA客户及渠道伙伴的管理工作，‌提升合作伙伴的数量与质量，维护合作体系稳定，‌协调内外部资源，‌推进业务开展；‌ 5、‌持续监控所负责的重点区域、‌重点终端运营情况，‌并进行针对性改善及指导，‌以提升终端运营能力，‌确保达成年度销售目标。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、专业：专业不限； 4、技能要求：熟练操作办公软件； 5、素质要求：有较强归纳总结能力，对数据敏感，工作严谨、细致、责任心强，有较好人际沟通能力； 6、外语水平：四级及以上。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历：本科及以上学历；",
-          "专业：专业不限；"
-        ],
-        "eligibilityClauses": [
-          "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）；"
+          "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）；",
+          "2.学历：本科及以上学历；"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -7707,14 +7990,10 @@
         "其他"
       ],
       "skills": [
-        "数据分析"
+        "英语"
       ],
       "experienceKeywords": [
-        "海外",
-        "运营",
-        "数据",
-        "营销",
-        "客户"
+        "海外"
       ],
       "preferenceTags": [
         "国际业务"
@@ -7751,8 +8030,8 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=58e2e3e9-7dcd-4e02-89c9-630f2ad5027b",
-      "publishedAt": "2026-09-19",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f53d5699-973c-4cd1-9159-b5f9bab92686",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -7762,9 +8041,9 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
-      "id": "beisen-6013b0161860",
+      "id": "beisen-3c41c60bf793",
       "company": "海信",
-      "title": "销售经理(J44983)",
+      "title": "南京营销中心-营销培训(J45895)",
       "graduationYear": [
         "2027"
       ],
@@ -7774,132 +8053,37 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "本科及以上学历，暖通/建环/能动/制冷与低温等相关专业，英语四级及以上",
-        "hardRestriction": true,
-        "hardClauses": [
-          "暖通/建环/能动/制冷与低温等相关专业"
-        ]
+        "raw": "2、专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
-        "raw": "英语",
-        "english": true,
+        "raw": "",
+        "english": false,
         "minorLanguageRequired": false
       },
-      "location": "全国",
-      "jobDescription": "1、根据区域特点建立有效经销网络、进行品牌推广与维护； 2、参加招投标并给予经销商技术支持，为用户提供完善的空调系统解决方案； 3、实现公司销售目标，并使区域市场健康成长。",
-      "jobRequirements": "1、本科及以上学历，暖通/建环/能动/制冷与低温等相关专业，英语四级及以上； 2、充满活力和动力，勇于挑战自我，具备较好的沟通表达能力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
-      "JD": "1、根据区域特点建立有效经销网络、进行品牌推广与维护； 2、参加招投标并给予经销商技术支持，为用户提供完善的空调系统解决方案； 3、实现公司销售目标，并使区域市场健康成长。\n1、本科及以上学历，暖通/建环/能动/制冷与低温等相关专业，英语四级及以上； 2、充满活力和动力，勇于挑战自我，具备较好的沟通表达能力； 3、知识面宽，具备较强的学习能力，能不断充实提高自己。",
+      "location": "南京",
+      "jobDescription": "1、负责公司营销培训平台的管理； 2、负责产品、营销培训课程的开发、培训材料的输出； 3、负责培训指导与管理； 4、负责新产品巡回落地培训及分公司培训支撑。",
+      "jobRequirements": "1、27届毕业生，本科及以上学历； 2、专业不限； 3、熟练使用Office办公软件； 4、较强的市场营销意识，良好的沟通能力、学习能力，以及组织、协调能力。",
+      "JD": "1、负责公司营销培训平台的管理； 2、负责产品、营销培训课程的开发、培训材料的输出； 3、负责培训指导与管理； 4、负责新产品巡回落地培训及分公司培训支撑。\n1、27届毕业生，本科及以上学历； 2、专业不限； 3、熟练使用Office办公软件； 4、较强的市场营销意识，良好的沟通能力、学习能力，以及组织、协调能力。",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "regex-v1",
         "majorClauses": [
-          "本科及以上学历，暖通/建环/能动/制冷与低温等相关专业，英语四级及以上"
+          "2、专业不限"
         ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "销售"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "用户",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "纯销售"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=3d3082e6-0f8e-4a15-b850-e1a1663dd4bf",
-      "publishedAt": "2026-09-19",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-71f73ab3ff64",
-      "company": "海信",
-      "title": "暖通设计工程师(J44970)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，建环/暖通/能动/制冷及低温工程专业，英语4级及以上",
-        "hardRestriction": true,
-        "hardClauses": [
-          "建环/暖通/能动/制冷及低温工程专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "全国",
-      "jobDescription": "1、负责中央空调项目的设计和图纸审核； 2、为产品合理应用于工程提供技术支持，为产品推介进行技术交流； 3、针对培训对象，制作培训课件，制作通用资料，提供市场所需基本资料； 4、负责现场问题分析。",
-      "jobRequirements": "1、本科及以上学历，建环/暖通/能动/制冷及低温工程专业，英语4级及以上； 2、具有扎实系统全面的专业基础知识； 3、善于学习，具有良好的技术沟通能力和团队合作精神。",
-      "JD": "1、负责中央空调项目的设计和图纸审核； 2、为产品合理应用于工程提供技术支持，为产品推介进行技术交流； 3、针对培训对象，制作培训课件，制作通用资料，提供市场所需基本资料； 4、负责现场问题分析。\n1、本科及以上学历，建环/暖通/能动/制冷及低温工程专业，英语4级及以上； 2、具有扎实系统全面的专业基础知识； 3、善于学习，具有良好的技术沟通能力和团队合作精神。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，建环/暖通/能动/制冷及低温工程专业，英语4级及以上"
+        "eligibilityClauses": [
+          "招聘对象：2027届"
         ],
-        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
         "其他"
       ],
-      "skills": [
-        "英语"
-      ],
+      "skills": [],
       "experienceKeywords": [
-        "项目",
-        "市场"
+        "市场",
+        "营销"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -7934,8 +8118,8 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=bd25d00d-acfc-4ca8-b904-b3c395c171d3",
-      "publishedAt": "2026-09-19",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=c972d995-f79f-4762-8999-5345fbb754c8",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -8121,102 +8305,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=a9c8281f-6f46-4629-a272-8c7e87f88a75",
-      "publishedAt": "2026-09-16",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
-      "id": "beisen-b63303698c76",
-      "company": "海信",
-      "title": "安全管理工程师(J41071)",
-      "graduationYear": [
-        "2025",
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "3.专业：安全工程等专业；",
-        "hardRestriction": true,
-        "hardClauses": [
-          "3.专业：安全工程等专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市·平度市",
-      "jobDescription": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。",
-      "jobRequirements": "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
-      "JD": "1.安全环保工作方案和相关安全环保制度文件，建立、健全公司职业安全健康和环境管理体系，并确保正常运行； 2.制定安全级安全教育并组织开展新员工的三级安全教育培训工作及对日常安全作业状态监督检查指导； 3.外来施工及生产现场安全管控、检查、提出整改意见及考核结果拟制； 4.日常安全、消防、环保检查、以及各级安全、消防、环保检查的开展以及检查问题的整改闭环的监督执行及日常考核结果拟制。\n1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）； 2.学历：本科及以上学历； 3.专业：安全工程等专业； 4.技能要求：熟练使用office等办公软件； 5.素质要求：学生会、班干部优先； 6.外语水平：大学英语四级及以上或小语种同等水平以上。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "3.专业：安全工程等专业；"
-        ],
-        "eligibilityClauses": [
-          "1.院校：国内普通高等院校（2026年毕业）或教育部承认的海外高等院校（2025年或2026年毕业）；",
-          "2.学历：本科及以上学历；"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=f53d5699-973c-4cd1-9159-b5f9bab92686",
       "publishedAt": "2026-09-16",
       "lastVerified": "",
       "sourceType": "official",
@@ -10064,105 +10152,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
     },
     {
-      "id": "beisen-74a1738ff321",
-      "company": "海信",
-      "title": "渠道管理(J44655)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市",
-      "jobDescription": "1、渠道规划与拓展： 分析区域市场容量，制定渠道开发策略；推进不同渠道市场覆盖； 2、客户关系维护：分级管理核心客户，组织高层互访与战略会议；解决渠道冲突，维护价格秩序与利润空间； 3、绩效监控与支持：制定渠道激励政策，核算返利与费用兑现；提供产品、培训支持，提升渠道销售能力。",
-      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、具备较强的团队合作能力和沟通协调能力； 4、做事细心踏实，精神积极向上，态度认真负责； 5、有较强的执行力、抗压能力和自驱力，充满正能量。",
-      "JD": "1、渠道规划与拓展： 分析区域市场容量，制定渠道开发策略；推进不同渠道市场覆盖； 2、客户关系维护：分级管理核心客户，组织高层互访与战略会议；解决渠道冲突，维护价格秩序与利润空间； 3、绩效监控与支持：制定渠道激励政策，核算返利与费用兑现；提供产品、培训支持，提升渠道销售能力。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、具备较强的团队合作能力和沟通协调能力； 4、做事细心踏实，精神积极向上，态度认真负责； 5、有较强的执行力、抗压能力和自驱力，充满正能量。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）",
-          "本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "客户关系",
-          "商务测算"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "海外",
-        "市场",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "纯销售",
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9e6aaa3d-dcbd-4901-b498-e098989ccc84",
-      "publishedAt": "2026-09-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
-      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
-    },
-    {
       "id": "beisen-796cd55833d7",
       "company": "海信",
       "title": "TCP管理工程师(J45131)",
@@ -10239,7 +10228,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=519b1730-854c-434d-a7c4-aa80563544b2",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -10333,7 +10322,7 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=1c6e4ec4-95fb-4a65-9a8c-57634d83c6f2",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -10426,7 +10415,106 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=43531571-a04e-486f-b5a5-302cd1e5328c",
-      "publishedAt": "2026-09-19",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历筛选→线上测评（研发技术类需笔试）→AI面试（含英语口语）→无领导小组面试→专业/综合面试→总部面试→offer及签约",
+      "recruitmentProcessEvidence": "E2 | 广东外语外贸大学就业信息网海信全球营销中心校招 | https://career.gdufs.edu.cn/web/Index/jobs-brief-detail?id=VHUXSN0 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心海信信动力计划校招 | https://career.nankai.edu.cn/correcruit/content/id/115685.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-74a1738ff321",
+      "company": "海信",
+      "title": "渠道管理(J44655)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、渠道规划与拓展： 分析区域市场容量，制定渠道开发策略；推进不同渠道市场覆盖； 2、客户关系维护：分级管理核心客户，组织高层互访与战略会议；解决渠道冲突，维护价格秩序与利润空间； 3、绩效监控与支持：制定渠道激励政策，核算返利与费用兑现；提供产品、培训支持，提升渠道销售能力。",
+      "jobRequirements": "1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、具备较强的团队合作能力和沟通协调能力； 4、做事细心踏实，精神积极向上，态度认真负责； 5、有较强的执行力、抗压能力和自驱力，充满正能量。",
+      "JD": "1、渠道规划与拓展： 分析区域市场容量，制定渠道开发策略；推进不同渠道市场覆盖； 2、客户关系维护：分级管理核心客户，组织高层互访与战略会议；解决渠道冲突，维护价格秩序与利润空间； 3、绩效监控与支持：制定渠道激励政策，核算返利与费用兑现；提供产品、培训支持，提升渠道销售能力。\n1、院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）； 2、学历：本科及以上学历； 3、具备较强的团队合作能力和沟通协调能力； 4、做事细心踏实，精神积极向上，态度认真负责； 5、有较强的执行力、抗压能力和自驱力，充满正能量。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）",
+          "本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系",
+          "商务测算"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "纯销售",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobs.hisense.com/campus/detail?jobAdId=9e6aaa3d-dcbd-4901-b498-e098989ccc84",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -10804,9 +10892,11 @@
         "masterRequired": true
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "学历要求：硕士及以上学历；；专业要求：光学工程等相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业要求：光学工程等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -10818,11 +10908,12 @@
       "jobRequirements": "1.学历要求：硕士及以上学历； 2.专业要求：光学工程等相关专业； 3.技能要求：掌握光学系统知识，熟练使用办公软件，掌握光学设计软件virtualab、Zemax、Pracepro、Lighttools、Code V其中一款； 4.素质要求：具有较好的沟通能力和协调能力，工作严谨、进取心和责任心强、具有团队精神和协作精神。",
       "JD": "1.根据项目要求负责相关光学设计、元件选购、测试； 2.团队协作进行测试环境的搭建并进行光学评测相关实验； 3.协同结构工程师进行光学结构的设计，给出光学方面对结构的需求； 4.技术预研的开发支持； 5.根据项目需求，组织团队，进行项目推进。\n1.学历要求：硕士及以上学历； 2.专业要求：光学工程等相关专业； 3.技能要求：掌握光学系统知识，熟练使用办公软件，掌握光学设计软件virtualab、Zemax、Pracepro、Lighttools、Code V其中一款； 4.素质要求：具有较好的沟通能力和协调能力，工作严谨、进取心和责任心强、具有团队精神和协作精神。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历要求：硕士及以上学历；",
+          "专业要求：光学工程等相关专业；"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

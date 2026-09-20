@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
-  "totalJobs": 5616,
-  "totalCompanies": 123,
+  "updatedAt": "2026-09-20T08:22:18.607Z",
+  "totalJobs": 5678,
+  "totalCompanies": 124,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -104,7 +104,7 @@
       "company": "东风汽车集团有限公司",
       "slug": "东风汽车集团",
       "file": "jobs/by-company/东风汽车集团.json",
-      "count": 10
+      "count": 14
     },
     {
       "company": "多维联合集团",
@@ -164,7 +164,7 @@
       "company": "海信",
       "slug": "海信",
       "file": "jobs/by-company/海信.json",
-      "count": 116
+      "count": 117
     },
     {
       "company": "杭州宇树科技股份有限公司",
@@ -218,13 +218,19 @@
       "company": "京东方",
       "slug": "京东方",
       "file": "jobs/by-company/京东方.json",
-      "count": 61
+      "count": 62
     },
     {
       "company": "京人才·新未来——京新药业",
       "slug": "京人才-新未来-京新药业",
       "file": "jobs/by-company/京人才-新未来-京新药业.json",
-      "count": 10
+      "count": 9
+    },
+    {
+      "company": "九号公司",
+      "slug": "九号",
+      "file": "jobs/by-company/九号.json",
+      "count": 56
     },
     {
       "company": "科大讯飞",
@@ -284,7 +290,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 45
+      "count": 46
     },
     {
       "company": "蒙牛",
@@ -464,7 +470,7 @@
       "company": "泰康保险",
       "slug": "泰康保险",
       "file": "jobs/by-company/泰康保险.json",
-      "count": 233
+      "count": 234
     },
     {
       "company": "特斯拉中国",
@@ -494,7 +500,7 @@
       "company": "万兴科技",
       "slug": "万兴科技",
       "file": "jobs/by-company/万兴科技.json",
-      "count": 24
+      "count": 25
     },
     {
       "company": "微步在线",
@@ -512,7 +518,7 @@
       "company": "小红书",
       "slug": "小红书",
       "file": "jobs/by-company/小红书.json",
-      "count": 33
+      "count": 32
     },
     {
       "company": "小米",
@@ -524,7 +530,7 @@
       "company": "小鹏汽车",
       "slug": "小鹏汽车",
       "file": "jobs/by-company/小鹏汽车.json",
-      "count": 160
+      "count": 161
     },
     {
       "company": "携程集团",
@@ -554,7 +560,7 @@
       "company": "新华三集团",
       "slug": "新华三",
       "file": "jobs/by-company/新华三.json",
-      "count": 9
+      "count": 8
     },
     {
       "company": "新浪集团",
@@ -590,7 +596,7 @@
       "company": "伊利",
       "slug": "伊利",
       "file": "jobs/by-company/伊利.json",
-      "count": 2
+      "count": 3
     },
     {
       "company": "英科医疗/英科再生",
@@ -662,7 +668,7 @@
       "company": "中微半导体设备股份有限公司",
       "slug": "中微半导体设备股份",
       "file": "jobs/by-company/中微半导体设备股份.json",
-      "count": 8
+      "count": 6
     },
     {
       "company": "中信科移动",

@@ -1,7 +1,7 @@
 {
   "company": "赛轮轮胎",
   "count": 44,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "beisen-ccaee1161b20",
@@ -3325,11 +3325,9 @@
       "jobRequirements": "1、优秀的沟通表达能力，能清晰的表述自己的观点； 2、良好的逻辑思维、分析能力，能够快速迅速抓住问题重点； 3、具备较强的客户服务意识 4、具备良好的情绪管理能力，遇事冷静沉着； 5、具备较强的团队合作能力； 6、具备较强的学习能力",
       "JD": "负责处理中国区订单的全流程跟踪，包括：订单接收、评审、交付承诺；订单跟踪、订单异常处理以及退换货处理；跨部门协同，确保订单及时高效交付\n1、优秀的沟通表达能力，能清晰的表述自己的观点； 2、良好的逻辑思维、分析能力，能够快速迅速抓住问题重点； 3、具备较强的客户服务意识 4、具备良好的情绪管理能力，遇事冷静沉着； 5、具备较强的团队合作能力； 6、具备较强的学习能力",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -3411,11 +3409,9 @@
       "jobRequirements": "1.具备优秀的综合素质、优秀的语言表达能力、抗压能力 2.细致认真，较强的人际能力 3.市场营销相关经验，车企活动经验，赛车活动经验 4.对赛车有热情，感兴趣",
       "JD": "1、协助维护赛事运营商和轮胎代理商； 2、完成运动轮胎订单及进销存管理； 3、完成汽车赛事或超跑活动现场轮胎运营工作； 4、跟进车企合作项目运营。\n1.具备优秀的综合素质、优秀的语言表达能力、抗压能力 2.细致认真，较强的人际能力 3.市场营销相关经验，车企活动经验，赛车活动经验 4.对赛车有热情，感兴趣",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -3873,14 +3869,10 @@
       "jobRequirements": "1.具备大数据处理、数据仓库、数据湖和相关技术领域的实践经验。 2.熟练使用至少一种编程语言，如Java、Python，特别是在数据处理和分析方面的应用。 3.熟悉Hadoop生态系统的关键技术，如Hadoop、Hive、Spark、Flink、湖结构等",
       "JD": "1.负责集团核心数据模型设计、开发及运维；BI、Report等数据可视化 2.参与大数据数据治理平台的调研设计，负责开发落地 3.参与大数据技术平台的调研、运维\n1.具备大数据处理、数据仓库、数据湖和相关技术领域的实践经验。 2.熟练使用至少一种编程语言，如Java、Python，特别是在数据处理和分析方面的应用。 3.熟悉Hadoop生态系统的关键技术，如Hadoop、Hive、Spark、Flink、湖结构等",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -3960,11 +3952,9 @@
       "jobRequirements": "1.工作认真、细致，责任心强； 2.工作热情、亲和力强； 3.学习能力强、有创新意识，持续提升服务水平。 4.熟练使用OFFICE等办公软件及基础办公设备",
       "JD": "1.负责行政后勤业务全面管理，包括接待、办公资产、办公用品、礼品、车辆、宿舍、物业等； 2.负责集团行政类业务规章制度、流程、标准的优化完善； 3.负责集团行政类活动策划方案等文案编写并组织实施； 4.负责完成上级交办的其他任务或其它部门需协助的工作。\n1.工作认真、细致，责任心强； 2.工作热情、亲和力强； 3.学习能力强、有创新意识，持续提升服务水平。 4.熟练使用OFFICE等办公软件及基础办公设备",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

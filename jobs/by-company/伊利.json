@@ -1,7 +1,7 @@
 {
   "company": "伊利",
-  "count": 2,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "count": 3,
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "hotjob-4ffae5662eb7",
@@ -93,6 +93,94 @@
       "deadline": "2027-06-30"
     },
     {
+      "id": "hotjob-d07ddca1e5b2",
+      "company": "伊利",
+      "title": "伊利2027届校招-销售培训生（婴幼儿北部）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；专业不限，市场营销、工商管理、经济贸易等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "呼和浩特市-赛罕区",
+      "jobDescription": "销售领域培养具有领导力和营销专业技能的培训生项目，通过专业岗位历练，深入参与经销商管理、门店管理等，迅速成长为负责销售领域重要管理工作的经理，并为未来成为销售领域的核心管理人才做好准备。",
+      "jobRequirements": "1、本科及以上学历，2027年应届毕业生，专业不限，市场营销、工商管理、经济贸易等相关专业优先； 2、通过CET4，学习成绩前50%； 3、积极、乐观、向上，具有较强的创新能力与团队合作精神，承压能力强，市场敏感度高； 4、具有良好的沟通能力，具备强烈的进取心； 5、有学生会，社团，挑战杯等经历的优先； 6、有个人特长如音乐、舞蹈、演讲等的优先。 简历接收周期：2026-09-20~2027-03-31",
+      "JD": "销售领域培养具有领导力和营销专业技能的培训生项目，通过专业岗位历练，深入参与经销商管理、门店管理等，迅速成长为负责销售领域重要管理工作的经理，并为未来成为销售领域的核心管理人才做好准备。\n1、本科及以上学历，2027年应届毕业生，专业不限，市场营销、工商管理、经济贸易等相关专业优先； 2、通过CET4，学习成绩前50%； 3、积极、乐观、向上，具有较强的创新能力与团队合作精神，承压能力强，市场敏感度高； 4、具有良好的沟通能力，具备强烈的进取心； 5、有学生会，社团，挑战杯等经历的优先； 6、有个人特长如音乐、舞蹈、演讲等的优先。 简历接收周期：2026-09-20~2027-03-31",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历",
+          "专业不限，市场营销、工商管理、经济贸易等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027年应届毕业生",
+          "简历接收周期：2026-09-20~2027-03-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销",
+        "沟通"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6-8k/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
+      },
+      "salary": "6-8k/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-20"
+    },
+    {
       "id": "hotjob-639daaca8b38",
       "company": "伊利",
       "title": "伊利2027届校招-党群综合部专训生（总部）",
@@ -105,7 +193,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "专业不限，文科类相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -119,11 +207,13 @@
       "jobRequirements": "1、2026 届、2027届本科及以上学历毕业生 2、专业不限，文科类相关专业优先 3、语言表达能力好，擅长对内对外沟通；做事导向清晰，可高效统筹资源、协调多方推进工作；沟通亲和力强，主动开展人际交流 工作地点：呼和浩特，可接受工作地点全国统筹调配 简历接收周期：2026-07-04~2026-09-30",
       "JD": "1、负责各类会议、活动的全流程策划与落地实施，包括现场管控、流程设计及效果评估，保障活动品质与成效。 2、负责行政基础管理相关工作，完善行政管理制度与体系建设，高效处理各项日常行政事务。 3、协助开展党团建设、工会活动及相关综合性工作，做好内部协调与外事对接。\n1、2026 届、2027届本科及以上学历毕业生 2、专业不限，文科类相关专业优先 3、语言表达能力好，擅长对内对外沟通；做事导向清晰，可高效统筹资源、协调多方推进工作；沟通亲和力强，主动开展人际交流 工作地点：呼和浩特，可接受工作地点全国统筹调配 简历接收周期：2026-07-04~2026-09-30",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业不限，文科类相关专业优先"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2029-09-16"
+          "2026 届、2027届本科及以上学历毕业生",
+          "简历接收周期：2026-07-04~2026-09-30"
         ],
         "technicalDuties": [],
         "businessDuties": []

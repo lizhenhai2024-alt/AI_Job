@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
   "count": 96,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "hotjob-d65647bdbe01",
@@ -289,7 +289,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a0a1ad6db7cf833b5b6&recruitType=1",
-      "publishedAt": "2026-09-18",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-27",
@@ -1398,7 +1398,7 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a1c1ad6db7cf833b5ec&recruitType=1",
-      "publishedAt": "2026-09-18",
+      "publishedAt": "2026-09-20",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-27",
@@ -2659,6 +2659,199 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-e2a29ebd5c26",
+      "company": "TCL华星光电",
+      "title": "产品经理管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；；专业不限，理工电子类优先；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 协助区域规划负责人，进行区域市场竞争/机会分析、制定区域组合策略； 2. 协助区域规划负责人，进行区域产品商业计划管理，以月度为单位回顾组合策略及产品生命周期经营情况，找出差距推动改善； 3. 协助区域规划负责人，进行区域市场需求管理，收集、分析、分解市场需求，统一管理、分发及需求落地； 4. 协助区域规划产品线负责人，进行产品Charter定义输出（产品定位、核心功能定义、新商业模式探索、营销策略、销量/收入/利润、上市时间）联合销售、市场、研发与制造等全链条，确保输出有竞争力的产品。",
+      "jobRequirements": "1. 本科及以上学历； 2. 专业不限，理工电子类优先； 3. 对数据信息具备较强敏锐度，善于总结归纳，对电子产品兴趣浓烈，善于发掘用户需求； 4. 英语六级，听说读写能力良好； 5. 产品经理管培生入职后会到营销线或研发线轮岗，营销线轮岗期间工作城市为全国，研发线轮岗期间工作城市为惠州，轮岗结束后定岗至产品经理岗，工作地点为深圳市。",
+      "JD": "1. 协助区域规划负责人，进行区域市场竞争/机会分析、制定区域组合策略； 2. 协助区域规划负责人，进行区域产品商业计划管理，以月度为单位回顾组合策略及产品生命周期经营情况，找出差距推动改善； 3. 协助区域规划负责人，进行区域市场需求管理，收集、分析、分解市场需求，统一管理、分发及需求落地； 4. 协助区域规划产品线负责人，进行产品Charter定义输出（产品定位、核心功能定义、新商业模式探索、营销策略、销量/收入/利润、上市时间）联合销售、市场、研发与制造等全链条，确保输出有竞争力的产品。\n1. 本科及以上学历； 2. 专业不限，理工电子类优先； 3. 对数据信息具备较强敏锐度，善于总结归纳，对电子产品兴趣浓烈，善于发掘用户需求； 4. 英语六级，听说读写能力良好； 5. 产品经理管培生入职后会到营销线或研发线轮岗，营销线轮岗期间工作城市为全国，研发线轮岗期间工作城市为惠州，轮岗结束后定岗至产品经理岗，工作地点为深圳市。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；",
+          "专业不限，理工电子类优先；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5a968cc6f624f73614b&recruitType=1",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-27",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-ee258ae61ee5",
+      "company": "TCL华星光电",
+      "title": "产品推广",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历：本科及以上学历，市场营销、新闻传播等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 负责产品推广策略制定：基于公司核心品类战略方向，能够通过策略洞察（市场、行业、用户、竞品、我品）找出机会点，输出电视/显示器/Sound Bar等品类或单品的核心推广策略； 2. 负责产品推广素材内容策划与输出：基于产品核心推广策略，结合推广素材使用场景（含官网 & 线上传播/线下终端&展会等场景），能够进行推广素材（图文/视频等）文案内容和推广素材形式策划，并利用内外部资源将推广素材进行输出； 3. 终端展示赋能：基于单品/品类的核心推广策略，包括:全球终端标准化建设及全球重点展会方案支持等。",
+      "jobRequirements": "1. 学历：本科及以上学历，市场营销、新闻传播等专业优先； 2. 特质：逻辑思维、沟通理解能力、学习能力和公众演讲能力强，以及时间观念强； 3. 兴趣：对科技产品感兴趣，愿意研究产品技术，或者对自媒体/网络传播有相关认知或经验； 4. 技能：英语能力6级以上，能够进行流利的口语交流（有国外留学/生活经历者，可考虑加分）；能熟练使用基础办公软件（PPT制作能力、Excel数据分析能力等）。",
+      "JD": "1. 负责产品推广策略制定：基于公司核心品类战略方向，能够通过策略洞察（市场、行业、用户、竞品、我品）找出机会点，输出电视/显示器/Sound Bar等品类或单品的核心推广策略； 2. 负责产品推广素材内容策划与输出：基于产品核心推广策略，结合推广素材使用场景（含官网 & 线上传播/线下终端&展会等场景），能够进行推广素材（图文/视频等）文案内容和推广素材形式策划，并利用内外部资源将推广素材进行输出； 3. 终端展示赋能：基于单品/品类的核心推广策略，包括:全球终端标准化建设及全球重点展会方案支持等。\n1. 学历：本科及以上学历，市场营销、新闻传播等专业优先； 2. 特质：逻辑思维、沟通理解能力、学习能力和公众演讲能力强，以及时间观念强； 3. 兴趣：对科技产品感兴趣，愿意研究产品技术，或者对自媒体/网络传播有相关认知或经验； 4. 技能：英语能力6级以上，能够进行流利的口语交流（有国外留学/生活经历者，可考虑加分）；能熟练使用基础办公软件（PPT制作能力、Excel数据分析能力等）。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历：本科及以上学历，市场营销、新闻传播等专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "PPT",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a161ad6db7cf833b5da&recruitType=1",
+      "publishedAt": "2026-09-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-23",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-73f3824012ac",
       "company": "TCL华星光电",
       "title": "海外销售管培生（西语）",
@@ -2847,199 +3040,6 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-09-27",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-e2a29ebd5c26",
-      "company": "TCL华星光电",
-      "title": "产品经理管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历；；专业不限，理工电子类优先；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 协助区域规划负责人，进行区域市场竞争/机会分析、制定区域组合策略； 2. 协助区域规划负责人，进行区域产品商业计划管理，以月度为单位回顾组合策略及产品生命周期经营情况，找出差距推动改善； 3. 协助区域规划负责人，进行区域市场需求管理，收集、分析、分解市场需求，统一管理、分发及需求落地； 4. 协助区域规划产品线负责人，进行产品Charter定义输出（产品定位、核心功能定义、新商业模式探索、营销策略、销量/收入/利润、上市时间）联合销售、市场、研发与制造等全链条，确保输出有竞争力的产品。",
-      "jobRequirements": "1. 本科及以上学历； 2. 专业不限，理工电子类优先； 3. 对数据信息具备较强敏锐度，善于总结归纳，对电子产品兴趣浓烈，善于发掘用户需求； 4. 英语六级，听说读写能力良好； 5. 产品经理管培生入职后会到营销线或研发线轮岗，营销线轮岗期间工作城市为全国，研发线轮岗期间工作城市为惠州，轮岗结束后定岗至产品经理岗，工作地点为深圳市。",
-      "JD": "1. 协助区域规划负责人，进行区域市场竞争/机会分析、制定区域组合策略； 2. 协助区域规划负责人，进行区域产品商业计划管理，以月度为单位回顾组合策略及产品生命周期经营情况，找出差距推动改善； 3. 协助区域规划负责人，进行区域市场需求管理，收集、分析、分解市场需求，统一管理、分发及需求落地； 4. 协助区域规划产品线负责人，进行产品Charter定义输出（产品定位、核心功能定义、新商业模式探索、营销策略、销量/收入/利润、上市时间）联合销售、市场、研发与制造等全链条，确保输出有竞争力的产品。\n1. 本科及以上学历； 2. 专业不限，理工电子类优先； 3. 对数据信息具备较强敏锐度，善于总结归纳，对电子产品兴趣浓烈，善于发掘用户需求； 4. 英语六级，听说读写能力良好； 5. 产品经理管培生入职后会到营销线或研发线轮岗，营销线轮岗期间工作城市为全国，研发线轮岗期间工作城市为惠州，轮岗结束后定岗至产品经理岗，工作地点为深圳市。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历；",
-          "专业不限，理工电子类优先；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "用户",
-        "数据",
-        "营销",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5a968cc6f624f73614b&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-27",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-ee258ae61ee5",
-      "company": "TCL华星光电",
-      "title": "产品推广",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "学历：本科及以上学历，市场营销、新闻传播等专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 负责产品推广策略制定：基于公司核心品类战略方向，能够通过策略洞察（市场、行业、用户、竞品、我品）找出机会点，输出电视/显示器/Sound Bar等品类或单品的核心推广策略； 2. 负责产品推广素材内容策划与输出：基于产品核心推广策略，结合推广素材使用场景（含官网 & 线上传播/线下终端&展会等场景），能够进行推广素材（图文/视频等）文案内容和推广素材形式策划，并利用内外部资源将推广素材进行输出； 3. 终端展示赋能：基于单品/品类的核心推广策略，包括:全球终端标准化建设及全球重点展会方案支持等。",
-      "jobRequirements": "1. 学历：本科及以上学历，市场营销、新闻传播等专业优先； 2. 特质：逻辑思维、沟通理解能力、学习能力和公众演讲能力强，以及时间观念强； 3. 兴趣：对科技产品感兴趣，愿意研究产品技术，或者对自媒体/网络传播有相关认知或经验； 4. 技能：英语能力6级以上，能够进行流利的口语交流（有国外留学/生活经历者，可考虑加分）；能熟练使用基础办公软件（PPT制作能力、Excel数据分析能力等）。",
-      "JD": "1. 负责产品推广策略制定：基于公司核心品类战略方向，能够通过策略洞察（市场、行业、用户、竞品、我品）找出机会点，输出电视/显示器/Sound Bar等品类或单品的核心推广策略； 2. 负责产品推广素材内容策划与输出：基于产品核心推广策略，结合推广素材使用场景（含官网 & 线上传播/线下终端&展会等场景），能够进行推广素材（图文/视频等）文案内容和推广素材形式策划，并利用内外部资源将推广素材进行输出； 3. 终端展示赋能：基于单品/品类的核心推广策略，包括:全球终端标准化建设及全球重点展会方案支持等。\n1. 学历：本科及以上学历，市场营销、新闻传播等专业优先； 2. 特质：逻辑思维、沟通理解能力、学习能力和公众演讲能力强，以及时间观念强； 3. 兴趣：对科技产品感兴趣，愿意研究产品技术，或者对自媒体/网络传播有相关认知或经验； 4. 技能：英语能力6级以上，能够进行流利的口语交流（有国外留学/生活经历者，可考虑加分）；能熟练使用基础办公软件（PPT制作能力、Excel数据分析能力等）。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历：本科及以上学历，市场营销、新闻传播等专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析",
-        "PPT",
-        "文案"
-      ],
-      "experienceKeywords": [
-        "内容",
-        "市场",
-        "用户",
-        "数据",
-        "营销",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a161ad6db7cf833b5da&recruitType=1",
-      "publishedAt": "2026-09-18",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-08-23",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",

@@ -1,7 +1,7 @@
 {
   "company": "小米",
   "count": 236,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -20992,7 +20992,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor degree, Fresh graduate",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -21006,10 +21006,12 @@
       "jobRequirements": "1.Bachelor degree, Fresh graduate; 2.Passion for technology, gadget and smartphones; 3.Enthusiastic and positive, good communication skills, interested in developing into a management position; 4.Good stress resistance and self-motivation; 5.Willing to learn and accept challenges, adapt to changes; 6.English can be used as working language.",
       "JD": "1.Provide administrative and logistical support to sales teams across a specific region; 2.Coordinate sales activities and ensure alignment with regional sales strategies; 3.Analyze regional sales data to identify trends and opportunities; 4.Build and maintain relationships with regional partners and distributors; 5.Provide sales forecasting and reporting; 6.Contribute to the development and execution of regional sales plans; 7.Gain exposure to different regional markets and sales dynamics.\n1.Bachelor degree, Fresh graduate; 2.Passion for technology, gadget and smartphones; 3.Enthusiastic and positive, good communication skills, interested in developing into a management position; 4.Good stress resistance and self-motivation; 5.Willing to learn and accept challenges, adapt to changes; 6.English can be used as working language.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor degree, Fresh graduate"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Fresh graduate"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -21191,14 +21193,10 @@
       "jobRequirements": "1、熟练Go/C/C++/Java/Shell/Python至少一种编程语言，有Ruby/Bash经验更好； 2、熟悉Linux/Unix系统； 3、熟悉软件开发方法/流程，理解软件设计，开发，测试，发布过程； 4、持续学习，不断追求更好，不断挑战自己，包括：产品/架构/方案/流程/编码； 5、乐于分享，具备服务精神，良好的沟通能力和团队合作精神； 6、优秀的分析和解决问题能力，勇于解决难题，有”问题到我为止“的精神。",
       "JD": "1、我们为小米的站点稳定性提供系统和工具，是稳定性工程专家； 2、实践DevOps , Google SRE 和 AI Ops 的工程思想； 3、站在软件生命周期全局考虑如何保障系统健壮性，稳定性，并通过软件工程技术为站点保驾护航； 4、站在用户/工程师的角度提供易用的工具和平台产品，不断完善使用体验； 5、负责集团基础软件/工具/平台的设计和研发，维护小米各项业务的稳定运行； 6、按照优秀的工程实践完成需求，设计，编码，测试，发布的软件开发流程； 7、按照标准编写设计/开发/运维/用户文。\n1、熟练Go/C/C++/Java/Shell/Python至少一种编程语言，有Ruby/Bash经验更好； 2、熟悉Linux/Unix系统； 3、熟悉软件开发方法/流程，理解软件设计，开发，测试，发布过程； 4、持续学习，不断追求更好，不断挑战自己，包括：产品/架构/方案/流程/编码； 5、乐于分享，具备服务精神，良好的沟通能力和团队合作精神； 6、优秀的分析和解决问题能力，勇于解决难题，有”问题到我为止“的精神。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -21265,7 +21263,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor degree",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -21279,10 +21277,12 @@
       "jobRequirements": "1.Bachelor degree, Fresh graduate; 2.Passion for technology, gadget and smartphones; 3.Enthusiastic and positive, good communication skills, interested in developing into a management position; 4.Good stress resistance and self-motivation; 5.Willing to learn and accept challenges, adapt to changes; 6.Chinese/English can be used as working language.",
       "JD": "1.Provide administrative and logistical support to sales teams across a specific region; 2.Coordinate sales activities and ensure alignment with regional sales strategies; 3.Analyze regional sales data to identify trends and opportunities; 4.Build and maintain relationships with regional partners and distributors; 5.Provide sales forecasting and reporting; 6.Contribute to the development and execution of regional sales plans; 7.Gain exposure to different regional markets and sales dynamics.\n1.Bachelor degree, Fresh graduate; 2.Passion for technology, gadget and smartphones; 3.Enthusiastic and positive, good communication skills, interested in developing into a management position; 4.Good stress resistance and self-motivation; 5.Willing to learn and accept challenges, adapt to changes; 6.Chinese/English can be used as working language.",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor degree"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Fresh graduate"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -21350,7 +21350,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor’s degree or above.",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -21364,11 +21364,11 @@
       "jobRequirements": "1.Bachelor’s degree or above. 2.English can be used as the working language. Good communication, coordination, data analysis, and problem-solving skills. 3.Responsible, detail-oriented, results-driven",
       "JD": "1.Support the daily management of promoters, supervisors, and outsourced retail teams. Track sell-out performance, attendance, store coverage, and other key Field Force KPIs. 2.Coordinate promoter recruitment, onboarding, training, incentives, and performance evaluation. 3.Conduct regular store visits to check product display, POSM, demo devices, and promoter performance. 4.Support new product launches, retail campaigns, and frontline execution. Work closely with sales teams, retailers, distributors, and agencies to resolve operational issues. 5.Prepare regular Field Force reports and provide improvement recommendations.\n1.Bachelor’s degree or above. 2.English can be used as the working language. Good communication, coordination, data analysis, and problem-solving skills. 3.Responsible, detail-oriented, results-driven",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor’s degree or above."
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -21435,7 +21435,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历；Bachelor degree or above",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -21449,11 +21449,12 @@
       "jobRequirements": "热爱零售行业，学习能力突出，具备良好团队协作能力与主人翁意识； 拥有一线零售经验优先，熟悉小米新零售模式者优先； 具备手机或消费电子行业门店销售经验优先； 本科及以上学历 Strong willingness to engage in retail, strong learning ability, good spirit of cooperation and ownership First-line retail experience is preferred, understanding Xiaomi New Retail is preferred Store sales experience in the mobile phone industry or consumer electronics industry is better Bachelor degree or above",
       "JD": "1.热情接待顾客，了解顾客需求，提供专业的产品咨询和推荐与服务演示。 2.熟练掌握门店所有产品知识，包括功能、配置、价格等，并能清晰地向顾客讲解。 3.积极完成个人销售目标，并协助团队达成门店销售指标。 4.处理顾客投诉和售后问题，提供优质的售后服务，维护顾客关系。 5.维护小米品牌和店面的形象。保持门店环境整洁，商品陈列整齐，营造良好的购物氛围。 6.积极参与公司组织的培训和活动，不断提升自身销售技巧和产品知识。 7.完成上级领导交办的其他任务。 1. Warmly receive customers, understand customer needs, and provide professional product consultation, recommendations and service demonstrations. 2. Proficient in all product knowledge in the store, including functions, configuration, prices, etc., and can clearly explain to customers. 3. Actively complete personal sales targets and assist the team to achieve store sales targets. 4. Handle customer complaints and after-sales problems, provide high-quality after-sales services, and maintain customer relationships. 5. Maintain the image of the Xiaomi brand and storefront. Keep the store environment clean, display the products neatly, and create a good shopping atmosphere. 6. Actively participate in the company organized training and activities, and continuously improve sales techniques and product knowledge. 7. Complete other tasks assigned by leaders.\n热爱零售行业，学习能力突出，具备良好团队协作能力与主人翁意识； 拥有一线零售经验优先，熟悉小米新零售模式者优先； 具备手机或消费电子行业门店销售经验优先； 本科及以上学历 Strong willingness to engage in retail, strong learning ability, good spirit of cooperation and ownership First-line retail experience is preferred, understanding Xiaomi New Retail is preferred Store sales experience in the mobile phone industry or consumer electronics industry is better Bachelor degree or above",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历",
+          "Bachelor degree or above"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -21629,11 +21630,9 @@
       "jobRequirements": "1. From reputable University 2. Good communication 3. Target oriented with strong problem solving mindset 4. Good communication in English",
       "JD": "1. Oversee overall achievement of Xiaomi Sales at specific KA Account Channel 2. Responsible for overall Sell-In to KA direct channel and Sell-Out Achievement for all categories, mainly Smartphone, TV, and AIoT 3. Analyze growth opportunities and perform the improvement to achieve overall sales target by assessing the aspect of retail, stock, people, and promotion 4. Collaborate with related Dept. and develop positive cross collaboration to achive sales target\n1. From reputable University 2. Good communication 3. Target oriented with strong problem solving mindset 4. Good communication in English",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -21714,11 +21713,9 @@
       "jobRequirements": "1. 对移动互联网生态有基本了解和喜好，熟悉主流APP的功能体验； 2. 逻辑清晰，有较强的需求分析和文档撰写能力； 3. 对AI工作流有一定的技能掌握； 4. 自驱力强，对自我有比较严格的提升要求。",
       "JD": "1. 开发者产研流程管理：负责智慧卡片和快应用从接入、开发、测试、审核到上架的全流程管理，持续优化开发者上架体验和效率； 2. 平台产品设计：参与开发者平台（开放平台、审核后台、数据、平台开发者工具）的产品规划与需求设计，推动平台能力迭代； 3. 跨部门协作：协同桌面、系统UI、搜索、负一屏、支付、安全等内部团队，推进卡片在各系统入口的接入落地； 4. 开发者生态管理：跟踪开发者接入进度，协调解决接入过程中的技术与产品问题，维护开发者关系。\n1. 对移动互联网生态有基本了解和喜好，熟悉主流APP的功能体验； 2. 逻辑清晰，有较强的需求分析和文档撰写能力； 3. 对AI工作流有一定的技能掌握； 4. 自驱力强，对自我有比较严格的提升要求。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -21800,15 +21797,11 @@
       "jobRequirements": "1.技能要求：具备一定的产品设计和原型制作能力，熟练使用Axure、Figma等工具； 2.素质要求：具备较好的逻辑思维能力和问题解决能力，能够快速理解复杂的业务需求；具备较强的学习能力和自我驱动力，能够快速适应新的工作环境和任务要求；对B端产品有浓厚的兴趣和热情，有相关实习经验者优先； 3.经验要求：有负责过B端产品或AI产品经验优先；熟悉行业，对行业场景，行业用户需求进行分析和提炼，为B端用户提供系统级解决方案。",
       "JD": "1.需求调研与分析：负责收集并整理业务需求，能独立完成需求文档； 2.产品设计与规划：参与C、B端产品的功能设计和流程规划，绘制产品原型图，撰写详细的产品功能说明书；能够发现所负责模块体验问题并快速给出解决方案去优化； 3.项目跟进与协调：跟进产品开发进度，及时解决项目中出现的问题和风险；与跨部门团队进行沟通协调，确保项目按时交付，达成预期目标； 4.市场调研与竞品分析：关注竞品和行业动态，结合用户需求和反馈，推动产品和服务的进化。\n1.技能要求：具备一定的产品设计和原型制作能力，熟练使用Axure、Figma等工具； 2.素质要求：具备较好的逻辑思维能力和问题解决能力，能够快速理解复杂的业务需求；具备较强的学习能力和自我驱动力，能够快速适应新的工作环境和任务要求；对B端产品有浓厚的兴趣和热情，有相关实习经验者优先； 3.经验要求：有负责过B端产品或AI产品经验优先；熟悉行业，对行业场景，行业用户需求进行分析和提炼，为B端用户提供系统级解决方案。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"

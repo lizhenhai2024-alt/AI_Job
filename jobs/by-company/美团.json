@@ -1,7 +1,7 @@
 {
   "company": "美团",
-  "count": 45,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "count": 46,
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "meituan-40620033afbf",
@@ -999,6 +999,95 @@
         "市场",
         "数据",
         "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
+    {
+      "id": "meituan-f80e61748b1e",
+      "company": "美团",
+      "title": "廉正AI运营岗",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 探索LLM、AIGC在职业道德方向面向全体员工的应用； 2. 基于行业调研、数据分析与用户洞察，选用模型； 3. 协同算法能力设计产品策略，建设知识库、prompt和工作流； 4. 基于阶段性目标，完善数据监测和质量评估机制，持续收集用户反馈，迭代策略及评估方法，持续提升核心指标和对话效果。",
+      "jobRequirements": "1. 对AI充满热爱，具备较强的产品思维和用户导向，能够深入理解用户需求并转化为产品的功能和设计； 2. 具备数据分析和问题解决的能力，善于通过数据找出问题根源并提出合理的解决方案。 3. 对互联网产品和技术有一定的了解，能够理解和解释技术实现的原理和方法。 4. 具备优秀的沟通与协调能力，能够与多个团队进行合作，并有效推动项目的进展。具备一定的项目管理和团队协作经验，能够有效地管理和协调项目资源. 岗位亮点: 1. 有价值：参与大型企业治理，成为行业紧缺的ESG人才； 2. 有成长：团队管理扁平，鼓励个人学习成长，工作氛围开放包容； 3. 有机会：可与多个关键部门合作，拓展职业网络； 4. 有意义：通过促进大型企业廉正水平提升，对社会产生积极影响。 具备以下优先： 1. 有对话机器人类产品设计经验优先（C/B不限）。 2. 过往经历涉及到跨团队协作、算法密切协同优先。 3. 对AI大模型有深入了解，有成功应用者优先。",
+      "JD": "1. 探索LLM、AIGC在职业道德方向面向全体员工的应用； 2. 基于行业调研、数据分析与用户洞察，选用模型； 3. 协同算法能力设计产品策略，建设知识库、prompt和工作流； 4. 基于阶段性目标，完善数据监测和质量评估机制，持续收集用户反馈，迭代策略及评估方法，持续提升核心指标和对话效果。\n1. 对AI充满热爱，具备较强的产品思维和用户导向，能够深入理解用户需求并转化为产品的功能和设计； 2. 具备数据分析和问题解决的能力，善于通过数据找出问题根源并提出合理的解决方案。 3. 对互联网产品和技术有一定的了解，能够理解和解释技术实现的原理和方法。 4. 具备优秀的沟通与协调能力，能够与多个团队进行合作，并有效推动项目的进展。具备一定的项目管理和团队协作经验，能够有效地管理和协调项目资源. 岗位亮点: 1. 有价值：参与大型企业治理，成为行业紧缺的ESG人才； 2. 有成长：团队管理扁平，鼓励个人学习成长，工作氛围开放包容； 3. 有机会：可与多个关键部门合作，拓展职业网络； 4. 有意义：通过促进大型企业廉正水平提升，对社会产生积极影响。 具备以下优先： 1. 有对话机器人类产品设计经验优先（C/B不限）。 2. 过往经历涉及到跨团队协作、算法密切协同优先。 3. 对AI大模型有深入了解，有成功应用者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -4013,14 +4102,10 @@
       "jobRequirements": "1. Builder 心态：不满足于现状，喜欢从 0 到 1 搭东西，做出来比写方案更让你兴奋。 2. AI 实操能力：用过 Prompt Engineering、Agent 及自动化工作流搭建，或有 Vibe Coding（用自然语言驱动 AI 写代码）实践经验，习惯把 AI 当成解决问题的第一工具。 3. 结构化思考：逻辑清晰，能基于数据和调研定义问题，给出可落地的方案。 4. 协作落地能力：动手能力强，能与业务线招聘团队、产品、研发多方协同，把想法推到上线。 岗位亮点 1. 正在发生的 AI 团队：这不是\"未来要做 AI\"的团队，而是正在用 AI 重建招聘全流程的团队。入职即参与实战项目，不是观摩。 2. 公司级视角：站在整个美团的维度规划招聘，覆盖上万面试官、百万候选人，你做的事会影响整家公司的人才质量。 3. 跨领域成长：团队工作横跨 AI / 产品 / 数据 / 财务 / 培训，不会被困在单一赛道，职业路径远比传统 HR 宽。 4. 稀缺复合能力:「懂招聘 × 能造 AI 工具」是当前市场最稀缺的交叉能力。2 年后你同时具备招聘业务判断力和 AI 工具构建能力，这个组合在市场上极为稀缺。 5. 真正的价值感：你不是在写方案后等审批，而是直接把方案变成产品、跑在线上、看到数据变化——做的事能被度量、能被感知",
       "JD": "这是一个属于人力资源（HR）序列的岗位——我们重视HR的战略价值，也期待与拥抱AI的你一起，重新定义未来的人力资源工作。 以 AI native 的视角，重新定义美团招聘体系。你不只是招聘流程的执行者，更是用 AI 重塑招聘的 Builder。 1. 招聘 AI 建设方向：参与招聘场景中 AI Agent 的设计、搭建与迭代（如智能初筛、自动化寻访、候选人交互 Agent），推动从原型验证到规模化落地。 2. 招聘数字化方向：用 AI 让数据资产发挥更大价值，发现问题、定义指标、验证方案——在质量、效率、体验和成本四个维度驱动招聘升级。 3. 渠道智能化方向：在万级规模人才寻访工作中，探索 AI 如何重构渠道运营逻辑，让每一分钱的招聘投入更精准。 4. 候选人体验方向：用 AI 重构候选人全流程触点，提升响应速度和个性化体验，让雇主品牌在每一次交互中被感知。\n1. Builder 心态：不满足于现状，喜欢从 0 到 1 搭东西，做出来比写方案更让你兴奋。 2. AI 实操能力：用过 Prompt Engineering、Agent 及自动化工作流搭建，或有 Vibe Coding（用自然语言驱动 AI 写代码）实践经验，习惯把 AI 当成解决问题的第一工具。 3. 结构化思考：逻辑清晰，能基于数据和调研定义问题，给出可落地的方案。 4. 协作落地能力：动手能力强，能与业务线招聘团队、产品、研发多方协同，把想法推到上线。 岗位亮点 1. 正在发生的 AI 团队：这不是\"未来要做 AI\"的团队，而是正在用 AI 重建招聘全流程的团队。入职即参与实战项目，不是观摩。 2. 公司级视角：站在整个美团的维度规划招聘，覆盖上万面试官、百万候选人，你做的事会影响整家公司的人才质量。 3. 跨领域成长：团队工作横跨 AI / 产品 / 数据 / 财务 / 培训，不会被困在单一赛道，职业路径远比传统 HR 宽。 4. 稀缺复合能力:「懂招聘 × 能造 AI 工具」是当前市场最稀缺的交叉能力。2 年后你同时具备招聘业务判断力和 AI 工具构建能力，这个组合在市场上极为稀缺。 5. 真正的价值感：你不是在写方案后等审批，而是直接把方案变成产品、跑在线上、看到数据变化——做的事能被度量、能被感知",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -4091,7 +4176,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "Bachelor's degree or above, with overseas study/living experience, able to use English as the working language",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4105,11 +4190,11 @@
       "jobRequirements": "Job Requirements： 1. Bachelor's degree or above, with overseas study/living experience, able to use English as the working language; 2. Adaptable, highly independent and resilient under pressure, able to get things done in resource-limited settings; 3. Reliable and grounded, skilled in cross-cultural communication, passionate about international business; 4. AI Capability: Able to leverage AI tools to overcome language barriers and support administrative delivery. Preferred: Internship at Chinese companies, or international / cross-cultural project experience; knowledge of and interest in the Latin American (Brazil) / Middle Eastern (Saudi Arabia) market or overseas expansion. Role Highlights： 1. A rare chance to gain international administrative experience, deeply involved in Meituan's overseas market-entry journey; 2. Build an overseas office from 0 to 1, combining a strong sense of achievement with rapid growth; 3. Develop cross-cultural collaboration and independent execut",
       "JD": "Job Responsibilities： 1. Country Administrative Delivery: Own the country-level administrative service delivery for the local office, ensuring day-to-day workplace operations and living support; 2. Market-Entry Project Support: Support the country-launch team on operations, leasing and fit-out, building the local office from 0 to 1; 3. Local Vendor & Team Management: Work with local vendors and the Local Hire team to localize services, balancing HQ standards with local realities; 4. Cross-Cultural Collaboration & AI Enablement: Bridge HQ and local office, and use AI tools to overcome language barriers and improve cross-timezone collaboration.\nJob Requirements： 1. Bachelor's degree or above, with overseas study/living experience, able to use English as the working language; 2. Adaptable, highly independent and resilient under pressure, able to get things done in resource-limited settings; 3. Reliable and grounded, skilled in cross-cultural communication, passionate about international business; 4. AI Capability: Able to leverage AI tools to overcome language barriers and support administrative delivery. Preferred: Internship at Chinese companies, or international / cross-cultural project experience; knowledge of and interest in the Latin American (Brazil) / Middle Eastern (Saudi Arabia) market or overseas expansion. Role Highlights： 1. A rare chance to gain international administrative experience, deeply involved in Meituan's overseas market-entry journey; 2. Build an overseas office from 0 to 1, combining a strong sense of achievement with rapid growth; 3. Develop cross-cultural collaboration and independent execut",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor's degree or above, with overseas study/living experience, able to use English as the working language"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },

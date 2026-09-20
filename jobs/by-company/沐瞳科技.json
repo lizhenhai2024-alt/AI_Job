@@ -1,7 +1,7 @@
 {
   "company": "沐瞳科技",
   "count": 60,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "feishu-c93cd7-7669720585748482358",
@@ -3379,7 +3379,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2027届获得大学本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3393,10 +3393,12 @@
       "jobRequirements": "1. 2027届获得大学本科及以上学历，获得游戏相关奖项或荣誉优先； 2. 了解AI的发展现状，擅长各类主流AI工具，使用AI制作过小游戏或者游戏相关的工具优先考虑（提供作品）; 3. 对游戏有极致的热爱，主流的主机游戏，动作游戏，卡牌游戏有较多的涉猎，并擅长对其美术表达，核心玩法有自己的理解和总结; 4. 逻辑能力强，能口头及书面清晰表达出复杂问题，并能结构化地陈述； 5. 对unity引擎有基础的了解。",
       "JD": "1. 负责游戏制作中的资源管理; 2. 负责游戏中主线、活动玩法中的“机关、怪物、Boss”的表现设计与跟进工作; 3. 负责以上内容美术需求文档的撰写、沟通、跟进、验收与后续调优工作; 4. 负责制作内容所需的功能开发工具的设计及验收。\n1. 2027届获得大学本科及以上学历，获得游戏相关奖项或荣誉优先； 2. 了解AI的发展现状，擅长各类主流AI工具，使用AI制作过小游戏或者游戏相关的工具优先考虑（提供作品）; 3. 对游戏有极致的热爱，主流的主机游戏，动作游戏，卡牌游戏有较多的涉猎，并擅长对其美术表达，核心玩法有自己的理解和总结; 4. 逻辑能力强，能口头及书面清晰表达出复杂问题，并能结构化地陈述； 5. 对unity引擎有基础的了解。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届获得大学本科及以上学历"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届获得大学本科及以上学历"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -3465,7 +3467,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2027届获得大学本科及以上学历，有游戏相关特殊奖项或成就者特例考虑",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3479,10 +3481,12 @@
       "jobRequirements": "1.2027届获得大学本科及以上学历，有游戏相关特殊奖项或成就者特例考虑； 2.逻辑能力强，能口头及书面清晰表达出复杂问题，并能结构化地陈述； 3.具备较强的审美能力，有自己的审美逻辑； 4.热爱游戏，有丰富的游戏经验，对塔防游戏和卡牌游戏有深入研究的优先； 5.熟练使用AI和文档处理软件； 6.责任心强，善于沟通，开放合作。",
       "JD": "1.负责游戏关卡、相关怪物的玩法、表现设计与跟进工作; 2.负责以上内容在策划文档需求撰写、沟通、跟进、验收与后续调优工作; 3.负责相关内容的工具等相关内容设计与跟进验收。\n1.2027届获得大学本科及以上学历，有游戏相关特殊奖项或成就者特例考虑； 2.逻辑能力强，能口头及书面清晰表达出复杂问题，并能结构化地陈述； 3.具备较强的审美能力，有自己的审美逻辑； 4.热爱游戏，有丰富的游戏经验，对塔防游戏和卡牌游戏有深入研究的优先； 5.熟练使用AI和文档处理软件； 6.责任心强，善于沟通，开放合作。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届获得大学本科及以上学历，有游戏相关特殊奖项或成就者特例考虑"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届获得大学本科及以上学历，有游戏相关特殊奖项或成就者特例考虑"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -3641,7 +3645,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "2027届获得大学本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -3655,14 +3659,14 @@
       "jobRequirements": "1. 2027届获得大学本科及以上学历； 2. 良好的学习能力，逻辑分析能力，抗压能力强，对成功和失败的经验有总结思考并且有改进的意识； 3. 有独立思考能力，在游戏现象背后有自己深入见解或独到观点； 4. 对游戏狂热，有广泛的游戏涉猎（常玩主机游戏的更佳），在至少一款MOBA类型游戏上有较深度的体验(500场以上)； 5. 有使用AI agent进行文档、UI、代码设计编写的经验者优先。",
       "JD": "我们致力于打造顶级的创新型游戏，拥有一支充满激情和创造力的团队。在这里，您将有机会参与到最前沿的游戏开发项目中，与行业内顶尖人才一起，为玩家带来前所未有的游戏体验。 职位描述 1. 负责游戏内系统功能的设计及开发跟进； 2. 与交互和美术配合，保证系统功能在游戏内有合理的操作体验和视觉表现； 3. 积极参与产品相关设计及优化工作，关注产品表现，参与产品测试，不断发现产品不足及有待提高的方面。\n1. 2027届获得大学本科及以上学历； 2. 良好的学习能力，逻辑分析能力，抗压能力强，对成功和失败的经验有总结思考并且有改进的意识； 3. 有独立思考能力，在游戏现象背后有自己深入见解或独到观点； 4. 对游戏狂热，有广泛的游戏涉猎（常玩主机游戏的更佳），在至少一款MOBA类型游戏上有较深度的体验(500场以上)； 5. 有使用AI agent进行文档、UI、代码设计编写的经验者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届获得大学本科及以上学历"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "2027届获得大学本科及以上学历"
         ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -3997,9 +4001,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "美术相关专业本科及以上学历",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术相关专业本科及以上学历"
+        ]
       },
       "language": {
         "raw": "",
@@ -4011,11 +4017,11 @@
       "jobRequirements": "1. 美术相关专业本科及以上学历； 2. 理解MOBA竞技底层逻辑与45度俯视角下游戏场景设计需求 3. 良好的审美能力 4.熟练掌握Photoshop、Painter等绘图软件，一定的3D辅助制作和搭建能力，手绘能力强； 5.可以较好的适应各种设计风格和题材的变化； 6.基本功扎实，具备优秀的造型能力、设计能力和色彩控制能力； 7.有很强的责任心，善于沟通，工作投入度高，配合团队完成目标； 8.有很强的学习能力，主动研究或学习新的技术运用到工作中； 9.熟练使用AI能力拓展设计边界和提高细化效率，熟练掌握 Banana，Stable Diffusion（WebUI/ComfyUI） 节点工作流及 Midjourney。 10.热爱游戏行业，热爱竞技类游戏。",
       "JD": "1、负责MOBA类游戏内场景原画设计； 2、负责道具，地表，展示场景等原画设计； 3、配合美术负责人，尝试各类场景概念预演。\n1. 美术相关专业本科及以上学历； 2. 理解MOBA竞技底层逻辑与45度俯视角下游戏场景设计需求 3. 良好的审美能力 4.熟练掌握Photoshop、Painter等绘图软件，一定的3D辅助制作和搭建能力，手绘能力强； 5.可以较好的适应各种设计风格和题材的变化； 6.基本功扎实，具备优秀的造型能力、设计能力和色彩控制能力； 7.有很强的责任心，善于沟通，工作投入度高，配合团队完成目标； 8.有很强的学习能力，主动研究或学习新的技术运用到工作中； 9.熟练使用AI能力拓展设计边界和提高细化效率，熟练掌握 Banana，Stable Diffusion（WebUI/ComfyUI） 节点工作流及 Midjourney。 10.热爱游戏行业，热爱竞技类游戏。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "美术相关专业本科及以上学历"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4082,9 +4088,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科及以上学历，美术、视觉传达、数字媒体、动画、游戏设计等相关专业。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术、视觉传达、数字媒体、动画、游戏设计等相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4096,10 +4104,12 @@
       "jobRequirements": "1.本科及以上学历，美术、视觉传达、数字媒体、动画、游戏设计等相关专业。 2.扎实的美术基础，具备良好的造型、色彩、构图及设计能力。 3.热爱游戏，对游戏视觉表现和设计趋势保持敏锐观察。 4.熟练使用 Photoshop、Blender 等常用设计软件。 5.熟悉至少一种AI创作工具，并能够将AI融入设计流程，提高创作效率。 6.具备优秀的学习能力、沟通能力和团队协作意识。 7.对设计品质有追求，善于思考并乐于持续优化作品。 加分项（满足任意一项即可） 1.熟悉 Midjourney、Flux、Stable Diffusion、ComfyUI、Seedance、Runway 等AI工具，并有完整作品案例。 2.有角色、场景、IP设定、世界观设计等相关作品。 3.能独立完成从创意发想到视觉提案的完整设计流程。 4.熟悉3D辅助设计（Blender、Cinema4D等）。 5.有游戏Demo、Game Jam、商业项目或个人独立创作经历。 6.了解LoRA训练、ControlNet、风格一致性、AI工作流搭建等相关技术。 我们期待这样的你 热爱游戏，也热爱创造。 对新技术保持好奇，愿意尝试AI带来的设计变革。 不局限于执行，更愿意思考\"为什么这样设计\"。 既有创意，也有把创意落地的能力。 简历投递要求 请附上以下内容： 1.个人作品集（PDF或网页链接）。 2.角色概念设计作品。 3.场景概念设计作品。 4.AI辅助创作案例（包含Prompt、迭代过程、最终成果更佳）。 5.如有个人项目、独立游戏、商业作品请一并提供。",
       "JD": "1.参与游戏项目视觉风格探索，与策划、美术团队共同完成世界观视觉设定。 2.负责游戏角色、场景、道具等概念设计，输出高质量设计方案及视觉提案。 3.运用AI创作工具（Midjourney、Flux、Stable Diffusion、ComfyUI、Seedance等）进行视觉探索、方案迭代及设计提效。 4.根据项目需求，快速完成不同风格的概念设计，包括但不限于写实、二次元、卡通、幻想等。 5.配合角色原画、场景原画、3D、美术特效等团队，持续优化设计方案，保证最终落地效果。 6.关注游戏美术及AI创作前沿趋势，积极探索新的设计流程和创作方式。\n1.本科及以上学历，美术、视觉传达、数字媒体、动画、游戏设计等相关专业。 2.扎实的美术基础，具备良好的造型、色彩、构图及设计能力。 3.热爱游戏，对游戏视觉表现和设计趋势保持敏锐观察。 4.熟练使用 Photoshop、Blender 等常用设计软件。 5.熟悉至少一种AI创作工具，并能够将AI融入设计流程，提高创作效率。 6.具备优秀的学习能力、沟通能力和团队协作意识。 7.对设计品质有追求，善于思考并乐于持续优化作品。 加分项（满足任意一项即可） 1.熟悉 Midjourney、Flux、Stable Diffusion、ComfyUI、Seedance、Runway 等AI工具，并有完整作品案例。 2.有角色、场景、IP设定、世界观设计等相关作品。 3.能独立完成从创意发想到视觉提案的完整设计流程。 4.熟悉3D辅助设计（Blender、Cinema4D等）。 5.有游戏Demo、Game Jam、商业项目或个人独立创作经历。 6.了解LoRA训练、ControlNet、风格一致性、AI工作流搭建等相关技术。 我们期待这样的你 热爱游戏，也热爱创造。 对新技术保持好奇，愿意尝试AI带来的设计变革。 不局限于执行，更愿意思考\"为什么这样设计\"。 既有创意，也有把创意落地的能力。 简历投递要求 请附上以下内容： 1.个人作品集（PDF或网页链接）。 2.角色概念设计作品。 3.场景概念设计作品。 4.AI辅助创作案例（包含Prompt、迭代过程、最终成果更佳）。 5.如有个人项目、独立游戏、商业作品请一并提供。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，美术、视觉传达、数字媒体、动画、游戏设计等相关专业。"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "【2027届秋招】"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -4183,11 +4193,9 @@
       "jobRequirements": "1. 能操作PS等软件绘制设计特效; 2. 思路开阔，爱好广泛，性格开朗，善于沟通和表达; 3. 热爱游戏，了解MOBA游戏者优先；",
       "JD": "1. 根据皮肤形象，绘制技能特效设计稿； 2. 参与管线内特效设计的落地和协作，确保技能特效实现设计效果； 3. 配合导师探索新的特效表现效果和设计；\n1. 能操作PS等软件绘制设计特效; 2. 思路开阔，爱好广泛，性格开朗，善于沟通和表达; 3. 热爱游戏，了解MOBA游戏者优先；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4438,7 +4446,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "具备本科以上学历且有良好的美术基础，热爱学习和创作。",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4452,10 +4460,12 @@
       "jobRequirements": "1.具备本科以上学历且有良好的美术基础，热爱学习和创作。 2.熟练掌握AIGC，PS，平板等绘画工具。 3.对ACG和AI漫剧有着浓厚的兴趣，并且有相关动态类作品（或个人IP静态作品）。 4.具备较强的表达欲，喜欢与人沟通，并喜好把自己的所想和作品介绍给他人。",
       "JD": "1.按照角色皮肤设计，可以完成写实类气氛图/立绘插图。 2.能够完成立绘/插画的细节完善和设计优化。 3.应用AI等工具生成创意视频/短片故事CG。 4.根据策划文案，梳理创意想法脑暴报告文档。\n1.具备本科以上学历且有良好的美术基础，热爱学习和创作。 2.熟练掌握AIGC，PS，平板等绘画工具。 3.对ACG和AI漫剧有着浓厚的兴趣，并且有相关动态类作品（或个人IP静态作品）。 4.具备较强的表达欲，喜欢与人沟通，并喜好把自己的所想和作品介绍给他人。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "具备本科以上学历且有良好的美术基础，热爱学习和创作。"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "【2027届秋招】"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -4525,9 +4535,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "美术专业出身，并且能提供使用unity引擎制作的写实风格特效作品",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术专业出身"
+        ]
       },
       "language": {
         "raw": "",
@@ -4539,11 +4551,11 @@
       "jobRequirements": "1.具备较强的学习能力和上进的探索精神，美术与技术双修； 2.丰富的视觉阅历，想象力丰富，拥有良好的静态思维和动态思维； 3.热爱游戏，有责任心，良好沟通能力，并善于团队合作； 4.能熟练使用Unity引擎制作3d特效，并能使用制作特效所需元素的辅助工具如：Photoshop，3dmax，Ae等。 【加分项】 1.美术专业出身，并且能提供使用unity引擎制作的写实风格特效作品； 2.至少有过一段Unity3D特效实习经验。",
       "JD": "1.按照设定与需求，使用unity引擎粒子系统制作游戏中写实特效，包括但不限于角色技能，怪物技能，场景等效果； 2.按照排期计划准时完成工作内容； 3.需要不断地自我学习和提升来满足越来越高的质量要求。\n1.具备较强的学习能力和上进的探索精神，美术与技术双修； 2.丰富的视觉阅历，想象力丰富，拥有良好的静态思维和动态思维； 3.热爱游戏，有责任心，良好沟通能力，并善于团队合作； 4.能熟练使用Unity引擎制作3d特效，并能使用制作特效所需元素的辅助工具如：Photoshop，3dmax，Ae等。 【加分项】 1.美术专业出身，并且能提供使用unity引擎制作的写实风格特效作品； 2.至少有过一段Unity3D特效实习经验。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "美术专业出身，并且能提供使用unity引擎制作的写实风格特效作品"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4625,10 +4637,10 @@
       "jobRequirements": "1. 熟悉maya动画模块； 2. 理解运动规律（角色肢体动态、重力传递、力学表现）； 3. 具有个人作品，可以体现运动流畅性、角色性格表达、镜头设计能力； 4. 参与过1-2个完整项目（实习/毕设/比赛）优先； 5. 对角色性格、动态表现有独特见解； 6. 对unity引擎动画模块有一定了解； 7. 有较好的沟通能力，具有团队合作精神，有责任心，做事认真细致； 8. 能够独立完成角色绑定、蒙皮、关键帧动画设计最佳。",
       "JD": "1. 按照设定与需求，可以完成写实类动作制作与修改； 2. 负责Unity引擎动作资源的导入导出与简单设置； 3. 可以按照排期计划准时完成工作内容。\n1. 熟悉maya动画模块； 2. 理解运动规律（角色肢体动态、重力传递、力学表现）； 3. 具有个人作品，可以体现运动流畅性、角色性格表达、镜头设计能力； 4. 参与过1-2个完整项目（实习/毕设/比赛）优先； 5. 对角色性格、动态表现有独特见解； 6. 对unity引擎动画模块有一定了解； 7. 有较好的沟通能力，具有团队合作精神，有责任心，做事认真细致； 8. 能够独立完成角色绑定、蒙皮、关键帧动画设计最佳。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "【2027届秋招】"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -4698,7 +4710,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科或研究生在读，美术或设计相关专业优先，具备扎实的造型与色彩基础，拥有良好的审美判断与持续学习能力；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4712,14 +4724,14 @@
       "jobRequirements": "1.本科或研究生在读，美术或设计相关专业优先，具备扎实的造型与色彩基础，拥有良好的审美判断与持续学习能力； 2.具备熟练的数位板手绘进行方案稿输出设计，并且掌握至少一款3D软件辅助设计；作品集中需有一定完成度的场景设计练习，且能体现对工业或场景结构设计能力的作品； 3.热爱动作类游戏，对日系科幻风格或者相关动画有较强兴趣，具备优秀的游戏美术分析与视觉专研能力； 4.具备清晰的沟通表达能力与主动推进能力，能够以概念设计身份参与跨部门协作，为项目提供美术建议并推动设计落地。 【加分项】 1.有写实科幻或场景概念设计相关项目经验（含课程项目、实习或实际开发经历），参与过具体的场景概念相关设计落地工作； 2.对日本工业设计、特摄作品或相关科幻作品有系统性研究，能够清晰表达个人理解； 3.对场景概念设计领域有持续关注，熟悉行业优秀设计案例，具备主动收集与整理视觉参考的习惯，并具有一定审美积累。 【你将获得】 1.系统参与高品质写实动作类游戏场景概念设计从前期探索到落地的完整开发流程经验； 2.在真实项目中参与场景概念设计相关管线工作，获得资深的美术指导，项目内高频的设计经验与行业信息交流； 3.建立系统性的场景概念设计方法论，包括设计拆解、结构设计与落地表达能力。",
       "JD": "1.协助/参与游戏项目场景与组件的概念设计工作，围绕玩法与世界观需求，参与从前期概念探索到场景落地方案的设计支持； 2.参与前期场景概念的创意探索与讨论，通过草图快速表达设计想法，协助团队完成场景视觉方案的构建，并参与后续方案的持续优化与完善； 3.对日系科幻风格游戏的视觉调研与设计学习，收集并拆解相关参考，参与项目场景美术风格的延展与视觉体系构建； 4.输出结构清晰、具备可落地性的场景概念设计方案，为3D制作团队提供明确的结构与制作依据，并配合场景相关美术职能（动画、特效、TA等）完善场景表现。\n1.本科或研究生在读，美术或设计相关专业优先，具备扎实的造型与色彩基础，拥有良好的审美判断与持续学习能力； 2.具备熟练的数位板手绘进行方案稿输出设计，并且掌握至少一款3D软件辅助设计；作品集中需有一定完成度的场景设计练习，且能体现对工业或场景结构设计能力的作品； 3.热爱动作类游戏，对日系科幻风格或者相关动画有较强兴趣，具备优秀的游戏美术分析与视觉专研能力； 4.具备清晰的沟通表达能力与主动推进能力，能够以概念设计身份参与跨部门协作，为项目提供美术建议并推动设计落地。 【加分项】 1.有写实科幻或场景概念设计相关项目经验（含课程项目、实习或实际开发经历），参与过具体的场景概念相关设计落地工作； 2.对日本工业设计、特摄作品或相关科幻作品有系统性研究，能够清晰表达个人理解； 3.对场景概念设计领域有持续关注，熟悉行业优秀设计案例，具备主动收集与整理视觉参考的习惯，并具有一定审美积累。 【你将获得】 1.系统参与高品质写实动作类游戏场景概念设计从前期探索到落地的完整开发流程经验； 2.在真实项目中参与场景概念设计相关管线工作，获得资深的美术指导，项目内高频的设计经验与行业信息交流； 3.建立系统性的场景概念设计方法论，包括设计拆解、结构设计与落地表达能力。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科或研究生在读，美术或设计相关专业优先，具备扎实的造型与色彩基础，拥有良好的审美判断与持续学习能力；"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "本科或研究生在读，美术或设计相关专业优先，具备扎实的造型与色彩基础，拥有良好的审美判断与持续学习能力；"
         ],
-        "technicalDuties": [
-          "结构/原理"
-        ],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -4786,9 +4798,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科或研究生在读，美术相关专业，造型与色彩基础扎实，整体审美优秀，具备良好的艺术理解力和自我提升动力",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -4800,10 +4814,12 @@
       "jobRequirements": "1.本科或研究生在读，美术相关专业，造型与色彩基础扎实，整体审美优秀，具备良好的艺术理解力和自我提升动力; 2.乐于接受新鲜事物，学习能力强，需要有相关角色美术作品，展现出对图形、工业科幻的一些理解; 3.热爱动作类游戏，对日系科幻风格或者相关动画有较强兴趣，具备优秀的游戏美术分析与视觉专研能力; 4.具备清晰的沟通表达能力与主动推进事物的动力，以概念设计身份能深度参与项目多部门工作流程，给出美术建议，确保设计内容落地。 【加分项] 1.参与过写实科幻风格项目的开发经验，参与过具体的角色概念相关设计落地工作； 2.对日本工业设计、特摄动画等过深入研究，并且有自己的理解； 3.有较多的概念阅图积累，有审美积累。 【你将获得】 1.掌握PC动作类游戏从概念设计到实机落地的完整经验; 2.积累深度参与各管线工作、与程序/动画/特效等多工种紧密协作推进复杂战斗需求落地的项目实战经验。",
       "JD": "1.协助/参与游戏项目角色概念设计工作，针对玩法和项目风格，协助/参与从草图到完整角色视觉探索的角色概念设计； 2.参与前期角色概念探索，协助/参与设计讨论与方案沟通，通过草图快速表达设计思路，协助/推进设计方案的迭代与优化； 3.对日系科幻风格（如EVA、死亡搁浅、合金装备等）的视觉调研与设计学习，拆解与收集相关参考，参与项目整体角色风格设计延展延展，探索前所未有的高品质主机游戏视觉表现； 4.输出角色设计图，为3D团队提供结构清晰、可落地的设计参考，协助动画、特效完善场景表现。\n1.本科或研究生在读，美术相关专业，造型与色彩基础扎实，整体审美优秀，具备良好的艺术理解力和自我提升动力; 2.乐于接受新鲜事物，学习能力强，需要有相关角色美术作品，展现出对图形、工业科幻的一些理解; 3.热爱动作类游戏，对日系科幻风格或者相关动画有较强兴趣，具备优秀的游戏美术分析与视觉专研能力; 4.具备清晰的沟通表达能力与主动推进事物的动力，以概念设计身份能深度参与项目多部门工作流程，给出美术建议，确保设计内容落地。 【加分项] 1.参与过写实科幻风格项目的开发经验，参与过具体的角色概念相关设计落地工作； 2.对日本工业设计、特摄动画等过深入研究，并且有自己的理解； 3.有较多的概念阅图积累，有审美积累。 【你将获得】 1.掌握PC动作类游戏从概念设计到实机落地的完整经验; 2.积累深度参与各管线工作、与程序/动画/特效等多工种紧密协作推进复杂战斗需求落地的项目实战经验。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科或研究生在读，美术相关专业，造型与色彩基础扎实，整体审美优秀，具备良好的艺术理解力和自我提升动力"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "本科或研究生在读"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -4887,11 +4903,9 @@
       "jobRequirements": "1.有良好的美术绘画基础，熟练使用各类数字绘图工具，熟练使用Photoshop进行绘图和拆图； 2.对AI有高接受度和包容度，愿意积极主动去学习市面上各类主流AIGC工具，如Nanobanana、GPT image 2等； 3.自驱力强，有主动尝试的意愿及动力，拥有良好的沟通表达能力，有优秀的学习能力，能够快速吸收并掌握新的设计方法、流程和工具； 4.热爱ACG文化，对不同美术风格的游戏均有涉猎，对于Q版、欧美奇幻、二次元等美术风格接受度高； 加分项 有AI作品，对游戏PV游戏动画感兴趣者优先；",
       "JD": "1.配合PV编导对产出的AI原画进行细节调整和拆图补图； 2.配合PV编导完成视频中所需的原画素材在故事板的基础上进行绘制和优化调整； 3.根据游戏PV的剧本和方案要求，运用AI工具产出视频中可用的原画素材，并进行优化调整至符合要求到可以使使用；\n1.有良好的美术绘画基础，熟练使用各类数字绘图工具，熟练使用Photoshop进行绘图和拆图； 2.对AI有高接受度和包容度，愿意积极主动去学习市面上各类主流AIGC工具，如Nanobanana、GPT image 2等； 3.自驱力强，有主动尝试的意愿及动力，拥有良好的沟通表达能力，有优秀的学习能力，能够快速吸收并掌握新的设计方法、流程和工具； 4.热爱ACG文化，对不同美术风格的游戏均有涉猎，对于Q版、欧美奇幻、二次元等美术风格接受度高； 加分项 有AI作品，对游戏PV游戏动画感兴趣者优先；",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -4958,9 +4972,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "美术、设计、动画、数字媒体等相关专业背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术、设计、动画、数字媒体等相关专业背景"
+        ]
       },
       "language": {
         "raw": "",
@@ -4972,10 +4988,12 @@
       "jobRequirements": "1. 美术、设计、动画、数字媒体等相关专业背景； 2. 对游戏特效设计/制作有明确的兴趣和热情，愿意以此为职业方向； 3. 提供一份作品集，能体现你的审美取向与创作热情 a. 插画、概念设计、动态图形、短片、引擎 Demo、Game Jam 作品均可； b. 不要求有商业项目经验，个人创作、学校作业、练习作品都欢迎； 4. 具备基础的手绘能力或视觉表达能力； 5. 对现实世界中物体的运动规律、节奏与动态有基本的观察与感知； 6. 沟通表达清晰，乐于与团队协作。 加分项 1. 熟悉 Unity3D / UE5 任一引擎的特效制作流程； 2. 熟悉 DCC 软件（Maya / Blender / 3ds Max / PS 等），能自主制作模型与贴图； 3. 了解材质编写、蓝图脚本等技术向知识； 4. 对风格化项目（尤其是 Lovania 这类风格）有强烈的参与热情。",
       "JD": "1. 在导师带领下，参与项目美术风格的提炼与特效品质标杆的打磨； 2. 配合原画设计敲定制作方案，参与卡通/风格化特效的创作； 3. 从特效概念设计出发，逐步掌握从初版到最终版的全流程制作； 4. 与程序、策划协作，了解特效在游戏内的落地逻辑；\n1. 美术、设计、动画、数字媒体等相关专业背景； 2. 对游戏特效设计/制作有明确的兴趣和热情，愿意以此为职业方向； 3. 提供一份作品集，能体现你的审美取向与创作热情 a. 插画、概念设计、动态图形、短片、引擎 Demo、Game Jam 作品均可； b. 不要求有商业项目经验，个人创作、学校作业、练习作品都欢迎； 4. 具备基础的手绘能力或视觉表达能力； 5. 对现实世界中物体的运动规律、节奏与动态有基本的观察与感知； 6. 沟通表达清晰，乐于与团队协作。 加分项 1. 熟悉 Unity3D / UE5 任一引擎的特效制作流程； 2. 熟悉 DCC 软件（Maya / Blender / 3ds Max / PS 等），能自主制作模型与贴图； 3. 了解材质编写、蓝图脚本等技术向知识； 4. 对风格化项目（尤其是 Lovania 这类风格）有强烈的参与热情。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "美术、设计、动画、数字媒体等相关专业背景"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "【2027届秋招】"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5058,11 +5076,9 @@
       "jobRequirements": "1. 擅长场景设计，有扎实手绘功底。 2. 精通Photoshop等绘图工具，有Blender等3D建模软件可加分。 3. 有较强的团队沟通能力、理解能力，积极配合。 加分项 1. 对游戏美术风格化有较高的审美和创新能力。 2. 有丰富的多平台游戏游玩经验，对游戏风格、品质和创作思维有认知。 3. 熟悉多平台（PC、移动端或主机等）游戏场景设计思路。",
       "JD": "1. 根据LOVANIA游戏IP已有的风格标杆，负责设计符合世界观和游玩体验的游戏场景，确保风格的统一性。 2. 根据项目玩法和游戏体验设计人文建筑与功能物件等。 3. 设计风格需兼顾多平台开发，与上下游协作，把控场景整体品质。\n1. 擅长场景设计，有扎实手绘功底。 2. 精通Photoshop等绘图工具，有Blender等3D建模软件可加分。 3. 有较强的团队沟通能力、理解能力，积极配合。 加分项 1. 对游戏美术风格化有较高的审美和创新能力。 2. 有丰富的多平台游戏游玩经验，对游戏风格、品质和创作思维有认知。 3. 熟悉多平台（PC、移动端或主机等）游戏场景设计思路。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5130,9 +5146,11 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "本科学历及以上，美术相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "美术相关专业"
+        ]
       },
       "language": {
         "raw": "",
@@ -5144,11 +5162,11 @@
       "jobRequirements": "1. 本科学历及以上，美术相关专业 2. 较深入的使用UE/Unity商业引擎的场景美术基础模块。 3. 熟悉 3DMAX/Maya 等主流3D游戏建模软件、Adobe Substance Painter、Adobe Photoshop，Toolbag 等纹理烘焙软件 4. 有 3D 场景模型全流程制作相关经验 5. 具备扎实的光照色彩理论构图及比例关系等美术基础能力 6. 有3D关卡游戏游玩经验，有较深入的游戏关卡美术理解能力 7. 有良好的团队协作能力 加分项： 1. 有参与过游戏类型的毕设创作或游戏项目开发的经验 2. 在校有参加过美术专业比赛并有奖项记录 3. 有组织过大型校园或社会实践活动",
       "JD": "1. 参与项目3D场景关卡美术的生产与制作 2. 能够理解适应风格化场景的创作思路，适应项目规则和制作流程 3. 根据关卡策划案，搭建美术白盒场景 4. 协同跨部门团队，对接理解3D场景美术需求，提供3D场景美术支持并转化为具体的落地方案 5. 理解并结合场景实际落地效果，调整模型和贴图\n1. 本科学历及以上，美术相关专业 2. 较深入的使用UE/Unity商业引擎的场景美术基础模块。 3. 熟悉 3DMAX/Maya 等主流3D游戏建模软件、Adobe Substance Painter、Adobe Photoshop，Toolbag 等纹理烘焙软件 4. 有 3D 场景模型全流程制作相关经验 5. 具备扎实的光照色彩理论构图及比例关系等美术基础能力 6. 有3D关卡游戏游玩经验，有较深入的游戏关卡美术理解能力 7. 有良好的团队协作能力 加分项： 1. 有参与过游戏类型的毕设创作或游戏项目开发的经验 2. 在校有参加过美术专业比赛并有奖项记录 3. 有组织过大型校园或社会实践活动",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科学历及以上，美术相关专业"
         ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -5216,7 +5234,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "本科及以上学历，美术功底扎实，精通色彩、光影、动态节奏与质感表现，对游戏特效视觉韵律有良好把控力；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -5230,10 +5248,12 @@
       "jobRequirements": "1. 本科及以上学历，美术功底扎实，精通色彩、光影、动态节奏与质感表现，对游戏特效视觉韵律有良好把控力； 2. 掌握Unity3D / 虚幻5（UE5）任意一款引擎，精通粒子、材质、特效调试等核心功能； 3. 熟练使用3Dmax、PS、AE等特效常用软件，可独立完成基础特效全流程制作； 4. 学习能力、执行力强，能快速适配项目需求，配合迭代修改； 5. 加分项：掌握双引擎、有特效实训/独立作品、熟悉特效性能优化者优先。",
       "JD": "1. 负责游戏各类unity3D特效制作，技能、场景、或ui动效，贴合项目废土末日美术风格； 2. 配合团队完成特效落地、优化迭代，把控特效视觉效果与运行性能； 3. 跟进项目进度，高效完成特效制作、修改及优化相关工作。\n1. 本科及以上学历，美术功底扎实，精通色彩、光影、动态节奏与质感表现，对游戏特效视觉韵律有良好把控力； 2. 掌握Unity3D / 虚幻5（UE5）任意一款引擎，精通粒子、材质、特效调试等核心功能； 3. 熟练使用3Dmax、PS、AE等特效常用软件，可独立完成基础特效全流程制作； 4. 学习能力、执行力强，能快速适配项目需求，配合迭代修改； 5. 加分项：掌握双引擎、有特效实训/独立作品、熟悉特效性能优化者优先。",
       "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，美术功底扎实，精通色彩、光影、动态节奏与质感表现，对游戏特效视觉韵律有良好把控力；"
+        ],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "【2027届秋招】"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -5493,10 +5513,10 @@
       "jobRequirements": "Requirements: - Fresh graduates with demonstrated esports/gaming immersion strongly encouraged - Strong understanding of MLBB and the competitive esports landscape — you understand the product, the scene, and fandom, not just marketing theory. - Strong communication and relationship instincts; comfortable being the youngest person in a room of team owners, talent, and partners. - Strong analytical foundation — comfortable turning campaign and viewership data into actionable insights. - Language: professional fluency in English required. Fluency in an additional SEA language (Thai, Khmer, Burmese, Vietnamese, Laos, Bahasa) is a strong advantage, particularly for the Mekong cluster. - High-ownership, ambiguity-tolerant, and highly mobile - this is a builder's role across markets still being built, with regional travel expected.",
       "JD": "Responsibilities: 1、Marketing (primary anchor) - Coordinate and support end-to-end campaign execution across incubation markets — adapting regional marketing frameworks to each market's audience behavior, language, and platform mix. - Build and maintain a comprehensive map of KOLs, streamers, and community channels across markets; support relationship management through local partners and agencies. - Track cross-market campaign performance against viewership, engagement, and PCU targets, and translate data into next-cycle recommendations. - Serve as the marketing coordination point between regional frameworks and on-the-ground local execution partners. 2、Business Development (secondary scope) - Support sponsorship and partnership pipeline development across markets - prospecting, deck preparation, and partner research across regional and local brands, telcos, and media. - Assist in structuring and tracking deal terms across the standard revenue lines: sponsorship, media/broadcast, merchandise, and in-game activation. - Coordinate partner deliverables and act as execution support for signed deals across territories. 3、Market Operations Exposure - Rotate through tournament operations, broadcast coordination, and community management to build end-to-end ecosystem literacy. - Support stakeholder coordination across each local scene: teams, talent, production vendors, and government/regulatory touchpoints where relevant.\nRequirements: - Fresh graduates with demonstrated esports/gaming immersion strongly encouraged - Strong understanding of MLBB and the competitive esports landscape — you understand the product, the scene, and fandom, not just marketing theory. - Strong communication and relationship instincts; comfortable being the youngest person in a room of team owners, talent, and partners. - Strong analytical foundation — comfortable turning campaign and viewership data into actionable insights. - Language: professional fluency in English required. Fluency in an additional SEA language (Thai, Khmer, Burmese, Vietnamese, Laos, Bahasa) is a strong advantage, particularly for the Mekong cluster. - High-ownership, ambiguity-tolerant, and highly mobile - this is a builder's role across markets still being built, with regional travel expected.",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [],
         "eligibilityClauses": [
-          "招聘对象：2027届"
+          "Fresh graduates with demonstrated esports/gaming immersion strongly encouraged"
         ],
         "technicalDuties": [],
         "businessDuties": []

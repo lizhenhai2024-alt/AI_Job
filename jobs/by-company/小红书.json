@@ -1,7 +1,7 @@
 {
   "company": "小红书",
-  "count": 33,
-  "updatedAt": "2026-09-20T05:18:12.772Z",
+  "count": 32,
+  "updatedAt": "2026-09-20T08:22:18.607Z",
   "jobs": [
     {
       "id": "xiaohongshu-672eb0889f17",
@@ -2122,99 +2122,6 @@
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22030",
       "publishedAt": "2026-09-19",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-043ed744842f",
-      "company": "小红书",
-      "title": "【2027校招】多媒体设计师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "REDesign，小红书视觉团队。 我们负责品牌与视觉，覆盖社区、交易、商业、生活方式独立品牌等多个业务的视觉设计，每一次视觉输出都要进入真实的用户视野。 一支正在积极实践\"AI 时代设计师\"的团队。AI 正在改变工具和工作方式，也让设计师对画面、语境和表达的感受变得更重要。我们希望在变化中，继续做出属于此刻，也值得被记住的视觉。 工作职责 1.隶属于REDesign视觉部门多媒体设计组，负责公司视觉及动态创意相关，覆盖运营活动、品牌内外宣传、IP 设计、大型会议等多个场景； 2.参与项目提案，驾驭多种设计风格，从前期分镜脚本到最终动态交付一路把控； 3.深度理解需求思路与产品逻辑，抓住重点并分清优先级；作品上线后跟踪结果，做出相应调整。",
-      "jobRequirements": "1.本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先； 2.AI-native，熟悉市面上常用的多模态生成工具，能够将 AIGC 融入多媒体创意与制作流程，并推动工作流与方法沉淀；具有一定产品思维及执行力，有 AI Coding 相关实践者优先； 3.精通 2D、3D 动态设计， 熟悉 C4D、Blender、AE、PS 等相关设计软件； 4.热爱设计，良好审美，责任感强，良好的沟通能力和团队协作精神。",
-      "JD": "REDesign，小红书视觉团队。 我们负责品牌与视觉，覆盖社区、交易、商业、生活方式独立品牌等多个业务的视觉设计，每一次视觉输出都要进入真实的用户视野。 一支正在积极实践\"AI 时代设计师\"的团队。AI 正在改变工具和工作方式，也让设计师对画面、语境和表达的感受变得更重要。我们希望在变化中，继续做出属于此刻，也值得被记住的视觉。 工作职责 1.隶属于REDesign视觉部门多媒体设计组，负责公司视觉及动态创意相关，覆盖运营活动、品牌内外宣传、IP 设计、大型会议等多个场景； 2.参与项目提案，驾驭多种设计风格，从前期分镜脚本到最终动态交付一路把控； 3.深度理解需求思路与产品逻辑，抓住重点并分清优先级；作品上线后跟踪结果，做出相应调整。\n1.本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先； 2.AI-native，熟悉市面上常用的多模态生成工具，能够将 AIGC 融入多媒体创意与制作流程，并推动工作流与方法沉淀；具有一定产品思维及执行力，有 AI Coding 相关实践者优先； 3.精通 2D、3D 动态设计， 熟悉 C4D、Blender、AE、PS 等相关设计软件； 4.热爱设计，良好审美，责任感强，良好的沟通能力和团队协作精神。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "本科及以上学历，艺术设计、平面设计、数字媒体等相关教育背景优先"
-        ],
-        "eligibilityClauses": [
-          "【2027校招】"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "品牌",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22157",
-      "publishedAt": "2026-09-17",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
