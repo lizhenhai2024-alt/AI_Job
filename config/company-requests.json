@@ -1,5 +1,28 @@
 [
   {
+    "id": "intake-9137747f7167",
+    "name": "极兔速递",
+    "careerUrl": "",
+    "focus": [
+      "2027届校招",
+      "英语本科",
+      "国际业务",
+      "海外电商",
+      "GTM",
+      "品牌/内容/运营"
+    ],
+    "note": "CareerPilot自动链接巡检发现该公司 2 条历史岗位URL已返回404/410。请重新识别官方ATS/校招入口，刷新2027届当前岗位及officialURL；不要复用已失效URL。",
+    "requestedAt": "2026-09-20T15:34:24Z",
+    "updatedAt": "2026-09-20T22:01:39.315Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "未提供官方招聘链接；页面探针：未提供官方招聘链接",
+    "issueNumber": 162,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/162",
+    "sourceAlreadyExists": false
+  },
+  {
     "id": "intake-1201b9605c7a",
     "name": "德赛西威",
     "careerUrl": "",
@@ -19281,25 +19304,6 @@
     "provider": "",
     "sourceRegistered": false,
     "analysis": "无独立校招专区，官网招聘页兜底；"
-  },
-  {
-    "id": "intake-9137747f7167",
-    "name": "极兔速递(J&T)",
-    "careerUrl": "https://jtexpress.jobs.feishu.cn/478610/m/position/list",
-    "focus": [
-      "国际业务",
-      "海外营销",
-      "品牌市场",
-      "运营",
-      "HR"
-    ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027“繁星计划”全球校招已开放，含小语种管培；",
-    "requestedAt": "2026-09-15T08:00:00Z",
-    "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
-    "provider": "feishu",
-    "sourceRegistered": false,
-    "analysis": "2027“繁星计划”全球校招已开放，含小语种管培；"
   },
   {
     "id": "intake-6eb69df3f3fe",
