@@ -113,12 +113,15 @@ export function isInternshipRole(job = {}) {
 // 战略、商业分析等业务方向时，即使含“软件/硬件/技术工程师”等字样（如“软件产品经理”“物料技术工程师”）
 // 也按业务岗对待，避免被 PROFESSIONAL_TITLE_RX 的“软件/硬件/技术工程师”字面匹配误杀。
 // 技术研发岗（软件开发工程师/硬件工程师等）不含本豁免关键词，仍按专业岗剔除。
-const BUSINESS_ROLE_TITLE_RX = /产品经理|产品运营|产品营销|产品策划|产品项目管理|市场培训生|电商培训生|市场营销|新媒体|内容营销|品牌|供应链|采购|商务|人力资源|HRBP|HRIS|SSC|薪酬|培训方向|项目管理|战略|商业分析|经营分析|运营岗|服务管理|质量管理|供应商质量|物料|生产制造|工业工程|制造工程|产品售后服务|供应链计划/;
+const BUSINESS_ROLE_TITLE_RX = /产品经理|产品运营|产品营销|产品策划|产品项目管理|市场培训生|电商培训生|市场营销|新媒体|内容营销|品牌营销|品牌管理|品牌运营|品牌传播|品牌策划|供应链|采购|商务|人力资源|HRBP|HRIS|SSC|薪酬|培训方向|项目管理|战略|商业分析|经营分析|运营岗|服务管理|质量管理|供应商质量|物料|生产制造|工业工程|制造工程|产品售后服务|供应链计划/;
 
 export function isOutOfScopeProfessionalRole(job = {}) {
   const title = String(job?.title || '').trim();
-  // 明确业务岗优先豁免（“软件产品经理”是产品岗，不是软件研发岗）。
-  if (BUSINESS_ROLE_TITLE_RX.test(title)) return false;
+  if (BUSINESS_ROLE_TITLE_RX.test(title)) {
+    // 业务/产品岗标题：仅跳过 title 字面专业岗匹配（“软件产品经理”因含“软件”被误杀），
+    // JD 硬性专业门槛判断保持生效（CATL 工程 PM 等明确要求理工科背景的仍剔除）。
+    return hasHardOutOfScopeProfessionalMajor(job);
+  }
   if (PROFESSIONAL_TITLE_RX.test(title) || TECH_RESEARCH_TITLE_RX.test(title)) return true;
   return hasHardOutOfScopeProfessionalMajor(job);
 }
