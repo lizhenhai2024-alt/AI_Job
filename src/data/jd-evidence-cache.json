@@ -31806,5 +31806,74 @@
    "客户关系",
    "资料/流程"
   ]
+ },
+ "byd-4e416203a32b:20e89d9727c7fe2c:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士学历，优先人力资源相关专业；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "byd-a53ed96f92dd:1a9263e9563bad7e:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "理工类专业、供应链管理、物流管理类专业优先",
+   "理工类专业、供应链管理、物流管理类、葡萄牙语、西班牙语等专业优先。"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "物流执行",
+   "资料/流程",
+   "国际业务"
+  ]
+ },
+ "byd-7f34cb053021:094acc1008910ba2:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士学历，人力资源管理，企业管理等相关专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "byd-3c1be18bd9ba:88fd81da2caf3586:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "专业：葡语相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "学历：本科"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "跨文化沟通",
+   "资料/流程",
+   "翻译/本地化"
+  ]
+ },
+ "byd-86f5aff5501b:4e5fb1a7d4b68ff4:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [
+   "技术评估",
+   "结构/原理"
+  ],
+  "businessDuties": []
+ },
+ "byd-f8f6f720b636:03494a3931a7948c:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "葡语相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "翻译/本地化",
+   "资料/流程"
+  ]
  }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T10:46:25.416Z",
-  "totalJobs": 5722,
-  "totalCompanies": 125,
+  "updatedAt": "2026-09-20T12:49:58.071Z",
+  "totalJobs": 5750,
+  "totalCompanies": 126,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -45,6 +45,12 @@
       "slug": "宝洁",
       "file": "jobs/by-company/宝洁.json",
       "count": 6
+    },
+    {
+      "company": "比亚迪",
+      "slug": "比亚迪",
+      "file": "jobs/by-company/比亚迪.json",
+      "count": 45
     },
     {
       "company": "传音控股",
@@ -248,7 +254,7 @@
       "company": "快手",
       "slug": "快手",
       "file": "jobs/by-company/快手.json",
-      "count": 82
+      "count": 83
     },
     {
       "company": "岚图汽车",
@@ -296,7 +302,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 45
+      "count": 46
     },
     {
       "company": "蒙牛",
@@ -740,7 +746,7 @@
       "company": "Shopee",
       "slug": "shopee",
       "file": "jobs/by-company/shopee.json",
-      "count": 24
+      "count": 5
     },
     {
       "company": "TCL华星光电",
