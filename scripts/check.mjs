@@ -19,6 +19,7 @@ const required = [
   'scripts/job-discovery/meituan.mjs', 'scripts/job-discovery/lenovo.mjs', 'scripts/job-discovery/dji.mjs', 'scripts/job-discovery/midea.mjs', 'scripts/job-discovery/ninebot.mjs', 'scripts/job-discovery/pinduoduo.mjs', 'scripts/job-discovery/kuaishou.mjs',
   'scripts/job-discovery/xiaohongshu.mjs', 'scripts/job-discovery/ctrip.mjs',
   'scripts/job-discovery/oppo.mjs', 'scripts/job-discovery/topband.mjs',
+  'scripts/job-discovery/jd.mjs',
   'scripts/job-discovery/source-candidates.mjs', 'scripts/job-discovery/source-health.mjs',
   'scripts/refresh-jobs.mjs', 'scripts/refresh-jobs-scoped.mjs', 'scripts/check-compensation.mjs', 'scripts/discover-company-sources.mjs',
   'scripts/import-company-library.mjs', 'scripts/build-source-registry.mjs', 'scripts/build-company-requests.mjs', 'scripts/build-source-discovery.mjs',

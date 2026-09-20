@@ -1085,6 +1085,16 @@
       "websitePath": "Colgate_Palmolive_Careers"
     }
   ],
+  "jd": {
+    "company": "京东",
+    "url": "https://campus.jd.com/#/jobs",
+    "apiBase": "https://campus.jd.com",
+    "graduationYear": "2027",
+    "pageSize": 100,
+    "maxPages": 5,
+    "maxJobs": 200,
+    "monitoringNote": "京东官方校招门户（自研SPA，2027校招8月-11月网申）；公开API POST /api/wx/position/page?type=present 无需登录，JD全文在列表；方向白名单 采销物流/产品/运营/市场商务/职能/TET/基层管理/一线职能，剔除技术/设计/工程/保险金融/健康/一线销售/一线专业及财务法务风控纯销售"
+  },
   "oppo": {
     "company": "OPPO",
     "url": "https://careers.oppo.com/university/oppo/campus/post",

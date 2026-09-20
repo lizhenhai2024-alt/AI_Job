@@ -605,6 +605,10 @@ export const sourceRegistry = [
     "company": "高露洁"
   },
   {
+    "provider": "jd",
+    "company": "京东"
+  },
+  {
     "provider": "oppo",
     "company": "OPPO"
   }
