@@ -1,5 +1,28 @@
 [
   {
+    "id": "intake-b3744279cb5b",
+    "name": "拓竹科技",
+    "careerUrl": "",
+    "focus": [
+      "2027届校招",
+      "英语本科",
+      "国际业务",
+      "海外电商",
+      "GTM",
+      "品牌/内容/运营"
+    ],
+    "note": "CareerPilot自动链接巡检发现该公司 20 条历史岗位URL已返回404/410。请重新识别官方ATS/校招入口，刷新2027届当前岗位及officialURL；不要复用已失效URL。",
+    "requestedAt": "2026-09-20T15:33:54Z",
+    "updatedAt": "2026-09-20T21:58:54.199Z",
+    "status": "待发现官方招聘入口",
+    "provider": "",
+    "sourceRegistered": false,
+    "analysis": "未提供官方招聘链接；页面探针：未提供官方招聘链接",
+    "issueNumber": 150,
+    "issueUrl": "https://github.com/lizhenhai2024-alt/AI_Job/issues/150",
+    "sourceAlreadyExists": false
+  },
+  {
     "id": "intake-2be446577762",
     "name": "小米",
     "careerUrl": "",
@@ -17980,25 +18003,6 @@
     "provider": "beisen",
     "sourceRegistered": false,
     "analysis": "入口正常但校招职位为0，2027届尚未开岗（已核验）；"
-  },
-  {
-    "id": "intake-b3744279cb5b",
-    "name": "拓竹科技",
-    "careerUrl": "https://bambulab.jobs.feishu.cn/campus",
-    "focus": [
-      "国际业务",
-      "海外营销",
-      "品牌市场",
-      "运营",
-      "HR"
-    ],
-    "note": "2026-09-15 全库校招网址核验补充（主投池）：2027届秋招已开放，含市场营销岗；",
-    "requestedAt": "2026-09-15T08:00:00Z",
-    "updatedAt": "2026-09-15T08:00:00Z",
-    "status": "待适配招聘源",
-    "provider": "feishu",
-    "sourceRegistered": false,
-    "analysis": "2027届秋招已开放，含市场营销岗；"
   },
   {
     "id": "intake-320527497d91",
