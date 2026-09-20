@@ -323,9 +323,10 @@ export async function fetchDjiStandardViaPlaywright(chromium, portal, { maxPages
     const consoleErrors = [];
     page.on('console', (msg) => { if (msg.type() === 'error') consoleErrors.push(msg.text().slice(0, 160)); });
     page.on('pageerror', (err) => consoleErrors.push(String(err?.message || err).slice(0, 160)));
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
-    await page.waitForTimeout(2500);
-    if (!(await page.$(CARD_LINK_SEL))) throw new Error(`standard portal no job cards url=${page.url()} title=${await page.title()} consoleErrors=${consoleErrors.join(' | ') || 'none'}`);
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 90000 });
+    // 首屏 SPA 数据渲染：等待岗位卡片出现（networkidle 在 Runner 上会因持续轮询/长连接超时，不能用）。
+    await page.waitForSelector(CARD_LINK_SEL, { timeout: 45000 });
+    await page.waitForTimeout(2000);
 
     const jobsById = new Map();
     const grabPage = async () => {
@@ -358,7 +359,12 @@ export async function fetchDjiStandardViaPlaywright(chromium, portal, { maxPages
         return false;
       }, p);
       if (!clicked) break;
-      await page.waitForTimeout(2200);
+      // 等 SPA 分页完成（当前激活页码变为目标页），再抓取本页卡片。
+      await page.waitForFunction((pg) => {
+        const active = document.querySelector('.sd-Pagination-item-4J_pS.sd-Pagination-is-active-1EFsg');
+        return active && (active.textContent || '').trim() === String(pg);
+      }, p, { timeout: 20000 }).catch(() => {});
+      await page.waitForTimeout(1500);
       const n = await grabPage();
       if (!n) break;
       if (jobsById.size >= 300) break;
