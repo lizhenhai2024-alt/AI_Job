@@ -1,7 +1,7 @@
 {
   "company": "比亚迪",
-  "count": 49,
-  "updatedAt": "2026-09-21T15:53:34.483Z",
+  "count": 45,
+  "updatedAt": "2026-09-21T20:06:36.926Z",
   "jobs": [
     {
       "id": "byd-15eee88d6334",
@@ -889,6 +889,202 @@
       "deadline": ""
     },
     {
+      "id": "byd-a53ed96f92dd",
+      "company": "比亚迪",
+      "title": "高级供应链管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "理工类专业、供应链管理、物流管理类专业优先；理工类专业、供应链管理、物流管理类、葡萄牙语、西班牙语等专业优先。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语、葡萄牙语",
+        "english": true,
+        "minorLanguageRequired": true
+      },
+      "location": "深圳",
+      "jobDescription": "1、主导收集并研究集团采购管理相关文件，定期组织宣导培训和考试； 2、主导研究并宣导采购体系流程、规则变更，确保采购体系在事业部的执行落地； 3、主导建立并推动供应商全生命周期管理，推动物料降本和交付，优化供应商； 4、主导调查并控制采购业务风险，定期输出内审报告，并推动整改闭环。 5、主导制定并优化SRM系统、云平台信息系统，确保供应链信息系统的稳定性和可靠性，提供准确、及时的供应链信息。\n1、调研和分析海外当地供应链情况，参与建立和完善符合当地的采购流程制度； 2、负责海外供应商全生命周期的管理，包含从导入到退出，过程绩效考核，分级管理，扶优扶强等； 3、负责海外重点品类的健康度分析，推动海外采购业务需求整合，促进降本增效； 4、拉通供应链从端到端的信息流，推动海外信息化系统的搭建，助力海外采购力的提升。",
+      "jobRequirements": "知识技能要求：1、有较强的的执行力、工作责任心，思路清晰，逻辑思维能力强；2、抗压能力强，具备较强的沟通协调能力及语言表达能力； 学历要求：硕士； 外语要求：CET-4优先； 专业要求：理工类专业、供应链管理、物流管理类专业优先\n知识技能要求：1、有较强的的执行力、工作责任心，思路清晰，逻辑思维能力强；2、抗压能力强，具备较强的沟通协调能力及语言表达能力；3、接受外派/海外出差优先； 学历要求：硕士； 外语要求：英语/葡萄牙语/西班牙语能作为工作语言优先； 专业要求：理工类专业、供应链管理、物流管理类、葡萄牙语、西班牙语等专业优先。",
+      "JD": "1、主导收集并研究集团采购管理相关文件，定期组织宣导培训和考试； 2、主导研究并宣导采购体系流程、规则变更，确保采购体系在事业部的执行落地； 3、主导建立并推动供应商全生命周期管理，推动物料降本和交付，优化供应商； 4、主导调查并控制采购业务风险，定期输出内审报告，并推动整改闭环。 5、主导制定并优化SRM系统、云平台信息系统，确保供应链信息系统的稳定性和可靠性，提供准确、及时的供应链信息。\n1、调研和分析海外当地供应链情况，参与建立和完善符合当地的采购流程制度； 2、负责海外供应商全生命周期的管理，包含从导入到退出，过程绩效考核，分级管理，扶优扶强等； 3、负责海外重点品类的健康度分析，推动海外采购业务需求整合，促进降本增效； 4、拉通供应链从端到端的信息流，推动海外信息化系统的搭建，助力海外采购力的提升。\n知识技能要求：1、有较强的的执行力、工作责任心，思路清晰，逻辑思维能力强；2、抗压能力强，具备较强的沟通协调能力及语言表达能力； 学历要求：硕士； 外语要求：CET-4优先； 专业要求：理工类专业、供应链管理、物流管理类专业优先\n知识技能要求：1、有较强的的执行力、工作责任心，思路清晰，逻辑思维能力强；2、抗压能力强，具备较强的沟通协调能力及语言表达能力；3、接受外派/海外出差优先； 学历要求：硕士； 外语要求：英语/葡萄牙语/西班牙语能作为工作语言优先； 专业要求：理工类专业、供应链管理、物流管理类、葡萄牙语、西班牙语等专业优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "理工类专业、供应链管理、物流管理类专业优先",
+          "理工类专业、供应链管理、物流管理类、葡萄牙语、西班牙语等专业优先。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行",
+          "资料/流程",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "比亚迪2027届校园招聘官网",
+      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+      "publishedAt": "2026-09-11",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "byd-053d9c61fe62",
+      "company": "比亚迪",
+      "title": "高级市场研究专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "具备较强的报告撰写与呈现能力 学历要求：本科及以上学历 外语要求：CET-4及以上优先 专业要求：数学/统计学/车辆工程/市场营销等相关专业优先；学历要求：硕士 外语要求：CET-6优先 专业要求：电气工程及其自动化、新能源科学与工程、材料电化学、能源与动力工程优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "一、岗位职责 1、负责对市场数据进行分析，洞察市场趋势和异常，识别风险和机会； 2、根据公司战略，制作深入的专题研究报告，有效支持公司业务； 3、对国内上市新车进行综合性的产品竞争力分析，识别威胁性并洞察产品趋势； 4、通过店端走访、公开信息等多种触点对市场信息搜集归纳，并结合市场情况进行总结提炼； 5、负责与公司相关部门、行业协会等建立常态化沟通渠道，并进行高效协作与信息互联\n1、跟踪国内外储能行业政策、海外市场准入规则，研判市场需求与机会。 2、负责储能产品市场端策略：产品定位、场景与客户划分、差异化卖点梳理，推进新品上市及全生命周期市场策略。 3、开展竞品对标，拆解竞品产品、方案、宣传及策略，输出竞品报告； 4、策划全套产品营销工具：Datasheet、方案PPT、案例集、销售话术；输出展会、发布会产品内容，开展销售赋能培训，完成技术语言市场化转化。",
+      "jobRequirements": "二、职位要求 知识技能要求：具备扎实的数据分析与逻辑推理能力；熟悉Excel数据分析功能，了解SQL或Python者优先；具备较强的报告撰写与呈现能力 学历要求：本科及以上学历 外语要求：CET-4及以上优先 专业要求：数学/统计学/车辆工程/市场营销等相关专业优先\n知识技能要求：1. 理解储能系统架构，熟悉BESS/PCS/EMS、构网/跟网、液冷、电芯关键指标。 2. 熟悉国内配储、电力市场规则，了解海外重点储能市场准入要求。 3. 具备市场细分、产品定位、差异化策略思维，可输出可落地推广方案。 4. 独立完成竞品调研拆解，输出业务导向分析结论。 5. 擅长技术内容通俗化转化，可独立策划各类产品营销物料。 学历要求：硕士 外语要求：CET-6优先 专业要求：电气工程及其自动化、新能源科学与工程、材料电化学、能源与动力工程优先",
+      "JD": "一、岗位职责 1、负责对市场数据进行分析，洞察市场趋势和异常，识别风险和机会； 2、根据公司战略，制作深入的专题研究报告，有效支持公司业务； 3、对国内上市新车进行综合性的产品竞争力分析，识别威胁性并洞察产品趋势； 4、通过店端走访、公开信息等多种触点对市场信息搜集归纳，并结合市场情况进行总结提炼； 5、负责与公司相关部门、行业协会等建立常态化沟通渠道，并进行高效协作与信息互联\n1、跟踪国内外储能行业政策、海外市场准入规则，研判市场需求与机会。 2、负责储能产品市场端策略：产品定位、场景与客户划分、差异化卖点梳理，推进新品上市及全生命周期市场策略。 3、开展竞品对标，拆解竞品产品、方案、宣传及策略，输出竞品报告； 4、策划全套产品营销工具：Datasheet、方案PPT、案例集、销售话术；输出展会、发布会产品内容，开展销售赋能培训，完成技术语言市场化转化。\n二、职位要求 知识技能要求：具备扎实的数据分析与逻辑推理能力；熟悉Excel数据分析功能，了解SQL或Python者优先；具备较强的报告撰写与呈现能力 学历要求：本科及以上学历 外语要求：CET-4及以上优先 专业要求：数学/统计学/车辆工程/市场营销等相关专业优先\n知识技能要求：1. 理解储能系统架构，熟悉BESS/PCS/EMS、构网/跟网、液冷、电芯关键指标。 2. 熟悉国内配储、电力市场规则，了解海外重点储能市场准入要求。 3. 具备市场细分、产品定位、差异化策略思维，可输出可落地推广方案。 4. 独立完成竞品调研拆解，输出业务导向分析结论。 5. 擅长技术内容通俗化转化，可独立策划各类产品营销物料。 学历要求：硕士 外语要求：CET-6优先 专业要求：电气工程及其自动化、新能源科学与工程、材料电化学、能源与动力工程优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "具备较强的报告撰写与呈现能力 学历要求：本科及以上学历 外语要求：CET-4及以上优先 专业要求：数学/统计学/车辆工程/市场营销等相关专业优先",
+          "学历要求：硕士 外语要求：CET-6优先 专业要求：电气工程及其自动化、新能源科学与工程、材料电化学、能源与动力工程优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "PPT",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "比亚迪2027届校园招聘官网",
+      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+      "publishedAt": "2026-09-04",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "byd-d5da12b5beba",
       "company": "比亚迪",
       "title": "业务开发专员",
@@ -1163,87 +1359,6 @@
       "source": "比亚迪2027届校园招聘官网",
       "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
       "publishedAt": "2026-08-14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "byd-a53ed96f92dd",
-      "company": "比亚迪",
-      "title": "高级供应链管理工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：采购。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：采购。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-09-11",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1788,6 +1903,89 @@
       "deadline": ""
     },
     {
+      "id": "byd-5b98243ffa69",
+      "company": "比亚迪",
+      "title": "绩效管理专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "知识技能要求：熟练使用办公软件，具备良好的沟通能力 学历要求：本科 外语要求：CET-4 专业要求：不限，统计学/工商管理/人力资源管理等专业优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "具备良好的沟通能力 学历要求：本科 外语要求：CET-4 专业要求：不限"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1.参与制定、完善绩效考核与薪酬激励方案； 2.组织绩效考核实施，跟进考核指标设定、考核评分完成、考核结果反馈等； 3.落实绩效薪酬激励方案，完成奖励发放与复盘工作； 4.参与处理绩效考核与薪酬激励相关的咨询与申诉问题。",
+      "jobRequirements": "知识技能要求：熟练使用办公软件，具备良好的沟通能力 学历要求：本科 外语要求：CET-4 专业要求：不限，统计学/工商管理/人力资源管理等专业优先",
+      "JD": "1.参与制定、完善绩效考核与薪酬激励方案； 2.组织绩效考核实施，跟进考核指标设定、考核评分完成、考核结果反馈等； 3.落实绩效薪酬激励方案，完成奖励发放与复盘工作； 4.参与处理绩效考核与薪酬激励相关的咨询与申诉问题。\n知识技能要求：熟练使用办公软件，具备良好的沟通能力 学历要求：本科 外语要求：CET-4 专业要求：不限，统计学/工商管理/人力资源管理等专业优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "知识技能要求：熟练使用办公软件，具备良好的沟通能力 学历要求：本科 外语要求：CET-4 专业要求：不限，统计学/工商管理/人力资源管理等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "比亚迪2027届校园招聘官网",
+      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+      "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "byd-604add9b4916",
       "company": "比亚迪",
       "title": "高级活动营销专员",
@@ -2232,6 +2430,99 @@
       "deadline": ""
     },
     {
+      "id": "byd-14201187540e",
+      "company": "比亚迪",
+      "title": "产品策略专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "知识技能要求：熟悉汽车行业知识，具备良好的数据处理技能、逻辑思维能力以及跨部门沟通协作能力 学历要求：本科 外语要求：CET-4优先 专业要求：机械类、设计类、工商管理类专业优先；学历要求: 本科 专业要求：车辆工程、汽车服务工程等相关专业优先 外语要求：CET-4优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责车型产品的客户需求获取、分析及输入，确保竞争力； 2、负责制定车型产品的车型规划、量价规划及投资分析，确保规划的合理性； 3、负责制定车型产品的配置方案、价格政策及相关联政策，确保政策的合理性； 4、负责车型产品的全生命周期管理，包含：配置变更、改款、换代等，确保项目落地推进； 5、负责车型产品的竞品研究及掌握竞品产品动态，为产品策略提供参考数据； 6、负责车型产品各项工作推动，如：生产导入进度、品质改善、核税及上牌协调、降低成本等，确保各项工作顺利开展。\n1、负责产品定义，通过市场调研、竞品分析制定产品竞争策略，进行产品全生命周期管理 2、负责根据车辆信息，进行系统产品信息管理，编辑新车型产品导入系统准确无误 3、负责组织参加大型车展，调研竞品新车型配置趋势，确保完成调研输出 4、负责市场分析，本品及竞品调研，输出市场调研报告，用户调研报告等",
+      "jobRequirements": "知识技能要求：熟悉汽车行业知识，具备良好的数据处理技能、逻辑思维能力以及跨部门沟通协作能力 学历要求：本科 外语要求：CET-4优先 专业要求：机械类、设计类、工商管理类专业优先\n学历要求: 本科 专业要求：车辆工程、汽车服务工程等相关专业优先 外语要求：CET-4优先",
+      "JD": "1、负责车型产品的客户需求获取、分析及输入，确保竞争力； 2、负责制定车型产品的车型规划、量价规划及投资分析，确保规划的合理性； 3、负责制定车型产品的配置方案、价格政策及相关联政策，确保政策的合理性； 4、负责车型产品的全生命周期管理，包含：配置变更、改款、换代等，确保项目落地推进； 5、负责车型产品的竞品研究及掌握竞品产品动态，为产品策略提供参考数据； 6、负责车型产品各项工作推动，如：生产导入进度、品质改善、核税及上牌协调、降低成本等，确保各项工作顺利开展。\n1、负责产品定义，通过市场调研、竞品分析制定产品竞争策略，进行产品全生命周期管理 2、负责根据车辆信息，进行系统产品信息管理，编辑新车型产品导入系统准确无误 3、负责组织参加大型车展，调研竞品新车型配置趋势，确保完成调研输出 4、负责市场分析，本品及竞品调研，输出市场调研报告，用户调研报告等\n知识技能要求：熟悉汽车行业知识，具备良好的数据处理技能、逻辑思维能力以及跨部门沟通协作能力 学历要求：本科 外语要求：CET-4优先 专业要求：机械类、设计类、工商管理类专业优先\n学历要求: 本科 专业要求：车辆工程、汽车服务工程等相关专业优先 外语要求：CET-4优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "知识技能要求：熟悉汽车行业知识，具备良好的数据处理技能、逻辑思维能力以及跨部门沟通协作能力 学历要求：本科 外语要求：CET-4优先 专业要求：机械类、设计类、工商管理类专业优先",
+          "学历要求: 本科 专业要求：车辆工程、汽车服务工程等相关专业优先 外语要求：CET-4优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "市场分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "比亚迪2027届校园招聘官网",
+      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+      "publishedAt": "2026-08-14",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "byd-5b057fee20c9",
       "company": "比亚迪",
       "title": "高级规划管理专员",
@@ -2319,166 +2610,6 @@
       "deadline": ""
     },
     {
-      "id": "byd-053d9c61fe62",
-      "company": "比亚迪",
-      "title": "高级市场研究专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：销售支持。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：销售支持。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "市场"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-09-04",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "byd-4f39be43bbca",
-      "company": "比亚迪",
-      "title": "高级培训专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：人力资源。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：人力资源。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "byd-22eae4e2bd26",
       "company": "比亚迪",
       "title": "高级外事专员",
@@ -2530,85 +2661,6 @@
         "国际业务",
         "跨文化"
       ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "byd-5b98243ffa69",
-      "company": "比亚迪",
-      "title": "绩效管理专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：人力资源。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：人力资源。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
       "riskTags": [],
       "headcount": {
         "disclosed": false,
@@ -3641,87 +3693,6 @@
       "deadline": ""
     },
     {
-      "id": "byd-84d5b3627950",
-      "company": "比亚迪",
-      "title": "商务专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "惠州、深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：销售支持。工作地：惠州、深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：销售支持。工作地：惠州、深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "商务"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-09-04",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "byd-ae26a6efc1b6",
       "company": "比亚迪",
       "title": "高级业务培训专员",
@@ -3908,85 +3879,6 @@
       "deadline": ""
     },
     {
-      "id": "byd-a7f6317599a2",
-      "company": "比亚迪",
-      "title": "备件专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "惠州、深圳、长沙",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：计划。工作地：惠州、深圳、长沙。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：计划。工作地：惠州、深圳、长沙。投递前请打开比亚迪校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-08-14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "byd-0d5d63a128e6",
       "company": "比亚迪",
       "title": "高级物控专员",
@@ -3999,7 +3891,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1.硕士学历，机械类、电气工程及其自动化、数据科学、统计学专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4009,23 +3901,29 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：计划。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：计划。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
+      "jobDescription": "物料全生命周期管理，料号申请，料号审核，备件评审，物料选型，标准化体系推广。",
+      "jobRequirements": "1.硕士学历，机械类、电气工程及其自动化、数据科学、统计学专业优先；2.具备良好的组织统筹、沟通协调与文字表达能力，逻辑清晰，责任心强，能承受工作压力",
+      "JD": "物料全生命周期管理，料号申请，料号审核，备件评审，物料选型，标准化体系推广。\n1.硕士学历，机械类、电气工程及其自动化、数据科学、统计学专业优先；2.具备良好的组织统筹、沟通协调与文字表达能力，逻辑清晰，责任心强，能承受工作压力",
       "jdEvidence": {
         "source": "regex-v1",
-        "majorClauses": [],
+        "majorClauses": [
+          "1.硕士学历，机械类、电气工程及其自动化、数据科学、统计学专业优先"
+        ],
         "eligibilityClauses": [
           "招聘对象：2027届"
         ],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "跨文化沟通"
+        ]
       },
       "roleFamily": [
         "其他"
       ],
       "skills": [],
-      "experienceKeywords": [],
+      "experienceKeywords": [
+        "数据"
+      ],
       "preferenceTags": [],
       "riskTags": [],
       "headcount": {
@@ -4088,16 +3986,17 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：计划。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：计划。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
+      "jobDescription": "负责新车型冲压同步工程分析、工艺方案规划: 负责新车型冲压工艺及模具结构图纸会签: 负责冲压模具新技术、新工艺及新材料的研究、开发与应用。",
+      "jobRequirements": "具备技能或能力(包括计算机能力)：1、能够熟练的操作各种办公软件；2、有良好的语言沟通能力和人际关系技巧。",
+      "JD": "负责新车型冲压同步工程分析、工艺方案规划: 负责新车型冲压工艺及模具结构图纸会签: 负责冲压模具新技术、新工艺及新材料的研究、开发与应用。\n具备技能或能力(包括计算机能力)：1、能够熟练的操作各种办公软件；2、有良好的语言沟通能力和人际关系技巧。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "技术评估",
+          "结构/原理"
         ],
-        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
@@ -4226,164 +4125,6 @@
       "source": "比亚迪2027届校园招聘官网",
       "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
       "publishedAt": "2026-08-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "byd-14201187540e",
-      "company": "比亚迪",
-      "title": "产品策略专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：销售支持。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：销售支持。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-08-14",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "byd-64bb23743cbf",
-      "company": "比亚迪",
-      "title": "高级服务策略专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "比亚迪2027届校园招聘岗位；类别：售后服务。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "比亚迪2027届校园招聘岗位；类别：售后服务。工作地：深圳。投递前请打开比亚迪校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-08-14",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

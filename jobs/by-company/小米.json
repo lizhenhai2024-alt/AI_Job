@@ -1,7 +1,7 @@
 {
   "company": "小米",
-  "count": 236,
-  "updatedAt": "2026-09-21T15:53:34.483Z",
+  "count": 238,
+  "updatedAt": "2026-09-21T20:06:36.926Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -7560,6 +7560,95 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7670882803018828059",
+      "company": "小米",
+      "title": "营销传播经理 Storyteller",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "Bachelor and/or Masters degree(s) in Communications, Marketing or a closely related field from a top-­tier university.",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "Work with hardware and product teams to understand and analyze new Xiaomi products. Develop product positioning and messaging that differentiates Xiaomi products in the various international markets. Craft an end-­to-­end launch keynote for our spokespersons and higher management. That includes developing a product story in different international markets, setting guidelines for product render videos and images, on top of any relevant materials that will be used in the launch presentation. Distill well-­researched technical data points and transform them into bite­-sized, easy-­to-­understand layman speak using the gift of user scenarios and simple analogies. Work closely with various teams (designers, videographers, planners, web developers, etc.) to bring each visual and message to life, but also work independently to DIY product marketing creatives during crunch time.",
+      "jobRequirements": "Fluent/native-­level English with working level Chinese. Proficient in English copywriting. Bachelor and/or Masters degree(s) in Communications, Marketing or a closely related field from a top-­tier university. 3+ years of hardware product marketing or branding experience. Strong design sense and proficient user of basic graphics tools such as Keynote and photoshop, with the ability to cut simple assets and visual resources, convert images between formats, create high­-quality presentations, product sheets and generally deliver on simple design tasks without any assistance. Strong communication and organization skills to work cross­-functionally in a structured and clear manner to influence outcomes. Ability to effectively operate in a fast­-paced environment and to work on multiple projects simultaneously in a constantly evolving context.",
+      "JD": "Work with hardware and product teams to understand and analyze new Xiaomi products. Develop product positioning and messaging that differentiates Xiaomi products in the various international markets. Craft an end-­to-­end launch keynote for our spokespersons and higher management. That includes developing a product story in different international markets, setting guidelines for product render videos and images, on top of any relevant materials that will be used in the launch presentation. Distill well-­researched technical data points and transform them into bite­-sized, easy-­to-­understand layman speak using the gift of user scenarios and simple analogies. Work closely with various teams (designers, videographers, planners, web developers, etc.) to bring each visual and message to life, but also work independently to DIY product marketing creatives during crunch time.\nFluent/native-­level English with working level Chinese. Proficient in English copywriting. Bachelor and/or Masters degree(s) in Communications, Marketing or a closely related field from a top-­tier university. 3+ years of hardware product marketing or branding experience. Strong design sense and proficient user of basic graphics tools such as Keynote and photoshop, with the ability to cut simple assets and visual resources, convert images between formats, create high­-quality presentations, product sheets and generally deliver on simple design tasks without any assistance. Strong communication and organization skills to work cross­-functionally in a structured and clear manner to influence outcomes. Ability to effectively operate in a fast­-paced environment and to work on multiple projects simultaneously in a constantly evolving context.",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "Bachelor and/or Masters degree(s) in Communications, Marketing or a closely related field from a top-­tier university."
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670882803018828059/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7670935464878377266",
       "company": "小米",
       "title": "服务运营专员-法语-外派",
@@ -8854,6 +8943,112 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884491640752430/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7670883858238621961",
+      "company": "小米",
+      "title": "大客户经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2026/2027 届本科或硕士毕业生，专业不限；电子工程、通信、计算机、市场营销、商科等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、产品价值研究与洞察 ：深入研究公司核心产品、前沿技术及行业趋势，从用户、客户及商业视角理解产品，挖掘产品核心竞争力与差异化价值，形成具有洞察力的产品观点和价值主张。 2、产品价值传播与客户影响 ：将优秀的产品与技术转化为清晰、有感染力的商业语言，参与面向全球重点客户的产品宣讲、产品体验及业务交流，帮助客户真正理解产品价值，推动优秀产品获得更多客户认可与商业机会。 3、重点客户日常跟进：协助客户负责人维护 S/A 级客户的日常对接 —— 参与客户拜访、会议纪要、需求收集与跟进；熟悉客户的组织架构、决策链和关键人并进行业务对接。 4、商务支持与合同协助：协助准备客户年度框架协议、定价政策和渠道条款的材料；参与商务谈判，回应客户诉求、推动重要项目落地。 5、全球一线销售赋能 ：面向国际业务一线销售团队建立产品与销售赋能体系，通过产品培训、案例分享、销售工具及标准化内容，将产品能力转化为一线销售能力，持续提升团队 \"懂产品、讲产品、卖产品\" 的能力。 6、高质量内容与知识体系建设 ：围绕产品、行业及客户需求，打造高质量的产品故事、客户 Presentation、培训课程及销售赋能内容，将复杂的产品和技术转化为简单、专业、有说服力的表达，并沉淀为可规模化复制的知识资产。 7、全球业务协同与项目实践 ：参与国际业务重点项目，与产品、GTM、销售、市场及全球一线团队深度协作，在真实的全球客户和商业场景中推动产品价值落地。",
+      "jobRequirements": "2026/2027 届本科或硕士毕业生，专业不限；电子工程、通信、计算机、市场营销、商科等相关专业优先； 英语优秀，能够将英语作为工作语言，具备较好的英文听说读写能力； 真正喜欢科技和消费电子产品，愿意研究手机、AI、智能汽车、智能家居等产品； 具备较强的 Presentation 能力，愿意站在客户和几十甚至上百人面前进行产品宣讲； 对 ToB 业务有热情，擅长跟客户打交道； 抗压和执行力强：能接受快节奏、多线程、跨时区协作，具备自驱力； 商业敏感度：对数字、生意逻辑、商务谈判有天然兴趣，可以从客户谈话中寻找商机； 具备优秀的逻辑思维和信息提炼能力，能够把复杂问题讲简单； 熟练使用 PowerPoint，具备较好的审美、排版和 Storytelling 能力； 学习能力强，愿意快速学习新产品、新技术和新业务； 性格积极主动，有责任心，能够推动事情落地。 加分项 有海外留学 / 交换经历或较强的跨文化沟通能力； 有英语演讲、辩论、主持、培训等经验； 是手机、汽车、数码、AI 等领域的 \"产品发烧友\"； 有消费电子、互联网、科技公司实习经历； 有 ToB 销售、BD、客户经理、大客户项目相关实习； 做过产品发布、产品测评、科技类自媒体或视频内容； 熟悉 Photoshop、Figma、Canva、Premiere 等内容工具； 熟练使用 ChatGPT 等 AI 工具提升研究、内容和 PPT 制作效率； 参加过商业案例比赛、模拟谈判、学生会外联或创业项目，有 \"跟人打交道、把事谈成\" 的经历。",
+      "JD": "1、产品价值研究与洞察 ：深入研究公司核心产品、前沿技术及行业趋势，从用户、客户及商业视角理解产品，挖掘产品核心竞争力与差异化价值，形成具有洞察力的产品观点和价值主张。 2、产品价值传播与客户影响 ：将优秀的产品与技术转化为清晰、有感染力的商业语言，参与面向全球重点客户的产品宣讲、产品体验及业务交流，帮助客户真正理解产品价值，推动优秀产品获得更多客户认可与商业机会。 3、重点客户日常跟进：协助客户负责人维护 S/A 级客户的日常对接 —— 参与客户拜访、会议纪要、需求收集与跟进；熟悉客户的组织架构、决策链和关键人并进行业务对接。 4、商务支持与合同协助：协助准备客户年度框架协议、定价政策和渠道条款的材料；参与商务谈判，回应客户诉求、推动重要项目落地。 5、全球一线销售赋能 ：面向国际业务一线销售团队建立产品与销售赋能体系，通过产品培训、案例分享、销售工具及标准化内容，将产品能力转化为一线销售能力，持续提升团队 \"懂产品、讲产品、卖产品\" 的能力。 6、高质量内容与知识体系建设 ：围绕产品、行业及客户需求，打造高质量的产品故事、客户 Presentation、培训课程及销售赋能内容，将复杂的产品和技术转化为简单、专业、有说服力的表达，并沉淀为可规模化复制的知识资产。 7、全球业务协同与项目实践 ：参与国际业务重点项目，与产品、GTM、销售、市场及全球一线团队深度协作，在真实的全球客户和商业场景中推动产品价值落地。\n2026/2027 届本科或硕士毕业生，专业不限；电子工程、通信、计算机、市场营销、商科等相关专业优先； 英语优秀，能够将英语作为工作语言，具备较好的英文听说读写能力； 真正喜欢科技和消费电子产品，愿意研究手机、AI、智能汽车、智能家居等产品； 具备较强的 Presentation 能力，愿意站在客户和几十甚至上百人面前进行产品宣讲； 对 ToB 业务有热情，擅长跟客户打交道； 抗压和执行力强：能接受快节奏、多线程、跨时区协作，具备自驱力； 商业敏感度：对数字、生意逻辑、商务谈判有天然兴趣，可以从客户谈话中寻找商机； 具备优秀的逻辑思维和信息提炼能力，能够把复杂问题讲简单； 熟练使用 PowerPoint，具备较好的审美、排版和 Storytelling 能力； 学习能力强，愿意快速学习新产品、新技术和新业务； 性格积极主动，有责任心，能够推动事情落地。 加分项 有海外留学 / 交换经历或较强的跨文化沟通能力； 有英语演讲、辩论、主持、培训等经验； 是手机、汽车、数码、AI 等领域的 \"产品发烧友\"； 有消费电子、互联网、科技公司实习经历； 有 ToB 销售、BD、客户经理、大客户项目相关实习； 做过产品发布、产品测评、科技类自媒体或视频内容； 熟悉 Photoshop、Figma、Canva、Premiere 等内容工具； 熟练使用 ChatGPT 等 AI 工具提升研究、内容和 PPT 制作效率； 参加过商业案例比赛、模拟谈判、学生会外联或创业项目，有 \"跟人打交道、把事谈成\" 的经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2026/2027 届本科或硕士毕业生，专业不限",
+          "电子工程、通信、计算机、市场营销、商科等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "跨文化",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670883858238621961/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -16689,7 +16884,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1.2027 届应届毕业生，专业不限，摄影、美术、视觉传达、数字媒体、工业设计、图像处理、计算机或相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -16699,13 +16894,17 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "jobDescription": "1. 协助手机影像抓拍赛道规划与需求定义； 2. 挖掘和洞察未来影像机会与行业趋势； 3. 深入分析当前影像优劣势并给出追赶策略。",
-      "jobRequirements": "1. 热爱摄影，对好的影像有自己的理解与认知； 2. 具备一定的产品思维，能理解成功数码影像产品的底层逻辑； 3. 了解影像软硬件技术的原理，特别是AI的影像技术； 4. 了解行业影像趋势和各手机厂商影像特点。",
-      "JD": "1. 协助手机影像抓拍赛道规划与需求定义； 2. 挖掘和洞察未来影像机会与行业趋势； 3. 深入分析当前影像优劣势并给出追赶策略。\n1. 热爱摄影，对好的影像有自己的理解与认知； 2. 具备一定的产品思维，能理解成功数码影像产品的底层逻辑； 3. 了解影像软硬件技术的原理，特别是AI的影像技术； 4. 了解行业影像趋势和各手机厂商影像特点。",
+      "jobDescription": "校招影像产品岗，聚焦手机人像拍照、人像抓拍体验，参与人像影像功能定义、效果打磨与项目落地，协同算法、光学、硬件、测试团队，打造具备竞争力的人像摄影体验。 岗位职责： 1.开展人像影像竞品与用研，洞察未来影像机会、输出行业趋势、竞品分析报告，挖掘用户人像拍摄场景痛点； 2.协助完成人像相关（人像肤色、人像抓拍等）赛道规划与需求定义，撰写产品需求文档； 3.跨团队协同，参与需求评审、效果联调，跟进人像及抓拍效果研发并验收； 收集用户、评测反馈，持续迭代人像成像效果，输出优化方案； 4.跟踪 AI 人像、计算摄影前沿技术，参与新技术产品化预研评估。 岗位亮点： 1.专属导师带教，深度参与手机人像影像核心项目； 2.接触光学、计算摄影、AI 人像前沿技术； 3.完整影像产品全流程历练，快速成长为影像产品专家。",
+      "jobRequirements": "1.2027 届应届毕业生，专业不限，摄影、美术、视觉传达、数字媒体、工业设计、图像处理、计算机或相关专业优先；欢迎有摄影或影像评测积累的跨专业同学投递； 2.热爱摄影，偏好人像拍摄，具备基础成像知识，对好的影像有自己的理解与认知； 3.具备一定的产品思维，能理解成功数码影像产品的底层逻辑； 4.了解影像软硬件技术的原理，特别是AI的影像技术； 5.逻辑清晰，具备文档撰写能力，能独立完成影像主观评测与对比分析； 加分项： 1.有摄影创作、影像评测相关经验； 2.精通 PS、Lightroom 等主流修图工具； 3.了解图像质量评价方法。",
+      "JD": "校招影像产品岗，聚焦手机人像拍照、人像抓拍体验，参与人像影像功能定义、效果打磨与项目落地，协同算法、光学、硬件、测试团队，打造具备竞争力的人像摄影体验。 岗位职责： 1.开展人像影像竞品与用研，洞察未来影像机会、输出行业趋势、竞品分析报告，挖掘用户人像拍摄场景痛点； 2.协助完成人像相关（人像肤色、人像抓拍等）赛道规划与需求定义，撰写产品需求文档； 3.跨团队协同，参与需求评审、效果联调，跟进人像及抓拍效果研发并验收； 收集用户、评测反馈，持续迭代人像成像效果，输出优化方案； 4.跟踪 AI 人像、计算摄影前沿技术，参与新技术产品化预研评估。 岗位亮点： 1.专属导师带教，深度参与手机人像影像核心项目； 2.接触光学、计算摄影、AI 人像前沿技术； 3.完整影像产品全流程历练，快速成长为影像产品专家。\n1.2027 届应届毕业生，专业不限，摄影、美术、视觉传达、数字媒体、工业设计、图像处理、计算机或相关专业优先；欢迎有摄影或影像评测积累的跨专业同学投递； 2.热爱摄影，偏好人像拍摄，具备基础成像知识，对好的影像有自己的理解与认知； 3.具备一定的产品思维，能理解成功数码影像产品的底层逻辑； 4.了解影像软硬件技术的原理，特别是AI的影像技术； 5.逻辑清晰，具备文档撰写能力，能独立完成影像主观评测与对比分析； 加分项： 1.有摄影创作、影像评测相关经验； 2.精通 PS、Lightroom 等主流修图工具； 3.了解图像质量评价方法。",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.2027 届应届毕业生，专业不限，摄影、美术、视觉传达、数字媒体、工业设计、图像处理、计算机或相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -16714,6 +16913,8 @@
       ],
       "skills": [],
       "experienceKeywords": [
+        "项目",
+        "用户",
         "洞察",
         "招聘"
       ],
@@ -19827,9 +20028,9 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "jobDescription": "概括 想象一下您在这里能做什么！ 在小米,新想法可以很快变成非凡的产品、服务和客户体验。 对工作充满真诚热爱,您将取得的成就前所未有。 充满活力、勤奋的员工和鼓舞人心的创新技术是这里的常态。 在这里工作的人通过小米的硬件和软件产品影响整个行业。 加入我们,帮助推出下一个突破性的小米产品。 本团队正在开展小米AI领域的硬件/软件协同设计创新,以实现高效AI推理 我们正在寻找一位积极主动的研究工程师加入我们的团队,他/她应具有强大的AI系统背景和软件开发实践经验。 该职位的理想人选是一位研究人员和工程师,他/她将不断突破现有界限,并以影响小米内部外部合作伙伴和更广泛的研究社区来实现设想。 描述 - 构造与竞争对手的量化比较的测试模型和制定合理合理的KPI - 量化度量AI算法流程中的负载、瓶颈点,并且可视化的呈现结果 - 研究和开发 关键业务的AI算法、推理速度优化方法,实现高效的端侧AI,包括但不限于 Vision,NLP,OCR,LLM - 与 算法开发团队、AI芯片团队合作,将工作成果产品化 - 逐步优化改进最终实现端侧AI领域的技术领先 职位要求 职位要求 1. Python/PyTorch 编程专家 2. 出色的沟通和写作能力 3. 计算机科学/计算机工程或相关领域的硕士、博士 加分项经验 - 具有端侧AI性能、精度优化经验 - 具有大规模模型训练/调整经验 - 具有后端编译、软硬件协同设计和/或性能优化经验 - 了解 AI 加速和架构 - 了解 CUDA/GPU 和编程 - 了解 NPU 编译器、微架构、性能优化方法",
-      "jobRequirements": "概括 想象一下您在这里能做什么！ 在小米,新想法可以很快变成非凡的产品、服务和客户体验。 对工作充满真诚热爱,您将取得的成就前所未有。 充满活力、勤奋的员工和鼓舞人心的创新技术是这里的常态。 在这里工作的人通过小米的硬件和软件产品影响整个行业。 加入我们,帮助推出下一个突破性的小米产品。 本团队正在开展小米AI领域的硬件/软件协同设计创新,以实现高效AI推理 我们正在寻找一位积极主动的研究工程师加入我们的团队,他/她应具有强大的AI系统背景和软件开发实践经验。 该职位的理想人选是一位研究人员和工程师,他/她将不断突破现有界限,并以影响小米内部外部合作伙伴和更广泛的研究社区来实现设想。 描述 - 构造与竞争对手的量化比较的测试模型和制定合理合理的KPI - 量化度量AI算法流程中的负载、瓶颈点,并且可视化的呈现结果 - 研究和开发 关键业务的AI算法、推理速度优化方法,实现高效的端侧AI,包括但不限于 Vision,NLP,OCR,LLM - 与 算法开发团队、AI芯片团队合作,将工作成果产品化 - 逐步优化改进最终实现端侧AI领域的技术领先 职位要求 职位要求 1. Python/PyTorch 编程专家 2. 出色的沟通和写作能力 3. 计算机科学/计算机工程或相关领域的硕士、博士 加分项经验 - 具有端侧AI性能、精度优化经验 - 具有大规模模型训练/调整经验 - 具有后端编译、软硬件协同设计和/或性能优化经验 - 了解 AI 加速和架构 - 了解 CUDA/GPU 和编程 - 了解 NPU 编译器、微架构、性能优化方法",
-      "JD": "概括 想象一下您在这里能做什么！ 在小米,新想法可以很快变成非凡的产品、服务和客户体验。 对工作充满真诚热爱,您将取得的成就前所未有。 充满活力、勤奋的员工和鼓舞人心的创新技术是这里的常态。 在这里工作的人通过小米的硬件和软件产品影响整个行业。 加入我们,帮助推出下一个突破性的小米产品。 本团队正在开展小米AI领域的硬件/软件协同设计创新,以实现高效AI推理 我们正在寻找一位积极主动的研究工程师加入我们的团队,他/她应具有强大的AI系统背景和软件开发实践经验。 该职位的理想人选是一位研究人员和工程师,他/她将不断突破现有界限,并以影响小米内部外部合作伙伴和更广泛的研究社区来实现设想。 描述 - 构造与竞争对手的量化比较的测试模型和制定合理合理的KPI - 量化度量AI算法流程中的负载、瓶颈点,并且可视化的呈现结果 - 研究和开发 关键业务的AI算法、推理速度优化方法,实现高效的端侧AI,包括但不限于 Vision,NLP,OCR,LLM - 与 算法开发团队、AI芯片团队合作,将工作成果产品化 - 逐步优化改进最终实现端侧AI领域的技术领先 职位要求 职位要求 1. Python/PyTorch 编程专家 2. 出色的沟通和写作能力 3. 计算机科学/计算机工程或相关领域的硕士、博士 加分项经验 - 具有端侧AI性能、精度优化经验 - 具有大规模模型训练/调整经验 - 具有后端编译、软硬件协同设计和/或性能优化经验 - 了解 AI 加速和架构 - 了解 CUDA/GPU 和编程 - 了解 NPU 编译器、微架构、性能优化方法",
+      "jobDescription": "概括 想象一下您在这里能做什么！ 在小米,新想法可以很快变成非凡的产品、服务和客户体验。 对工作充满真诚热爱,您将取得的成就前所未有。 充满活力、勤奋的员工和鼓舞人心的创新技术是这里的常态。 在这里工作的人通过小米的硬件和软件产品影响整个行业。 加入我们,帮助推出下一个突破性的小米产品。 本团队正在开展小米AI领域的硬件/软件协同设计创新,以实现高效AI推理 我们正在寻找一位积极主动的研究工程师加入我们的团队,他/她应具有强大的AI系统背景和软件开发实践经验。 该职位的理想人选是一位研究人员和工程师,他/她将不断突破现有界限,并以影响小米内部外部合作伙伴和更广泛的研究社区来实现设想。 描述 - 构造与竞争对手的量化比较的测试模型和制定合理合理的KPI - 量化度量AI算法流程中的负载、瓶颈点,并且可视化的呈现结果 - 研究和开发 关键业务的AI算法、推理速度优化方法,实现高效的端侧AI,包括但不限于 Vision,NLP,OCR,LLM - 与 算法开发团队、AI芯片团队合作,将工作成果产品化 - 逐步优化改进最终实现端侧AI领域的技术领先",
+      "jobRequirements": "1. Python/PyTorch 编程专家 2. 出色的沟通和写作能力 3. 计算机科学/计算机工程或相关领域的硕士、博士 加分项经验 - 具有端侧AI性能、精度优化经验 - 具有大规模模型训练/调整经验 - 具有后端编译、软硬件协同设计和/或性能优化经验 - 了解 AI 加速和架构 - 了解 CUDA/GPU 和编程 - 了解 NPU 编译器、微架构、性能优化方法",
+      "JD": "概括 想象一下您在这里能做什么！ 在小米,新想法可以很快变成非凡的产品、服务和客户体验。 对工作充满真诚热爱,您将取得的成就前所未有。 充满活力、勤奋的员工和鼓舞人心的创新技术是这里的常态。 在这里工作的人通过小米的硬件和软件产品影响整个行业。 加入我们,帮助推出下一个突破性的小米产品。 本团队正在开展小米AI领域的硬件/软件协同设计创新,以实现高效AI推理 我们正在寻找一位积极主动的研究工程师加入我们的团队,他/她应具有强大的AI系统背景和软件开发实践经验。 该职位的理想人选是一位研究人员和工程师,他/她将不断突破现有界限,并以影响小米内部外部合作伙伴和更广泛的研究社区来实现设想。 描述 - 构造与竞争对手的量化比较的测试模型和制定合理合理的KPI - 量化度量AI算法流程中的负载、瓶颈点,并且可视化的呈现结果 - 研究和开发 关键业务的AI算法、推理速度优化方法,实现高效的端侧AI,包括但不限于 Vision,NLP,OCR,LLM - 与 算法开发团队、AI芯片团队合作,将工作成果产品化 - 逐步优化改进最终实现端侧AI领域的技术领先\n1. Python/PyTorch 编程专家 2. 出色的沟通和写作能力 3. 计算机科学/计算机工程或相关领域的硕士、博士 加分项经验 - 具有端侧AI性能、精度优化经验 - 具有大规模模型训练/调整经验 - 具有后端编译、软硬件协同设计和/或性能优化经验 - 了解 AI 加速和架构 - 了解 CUDA/GPU 和编程 - 了解 NPU 编译器、微架构、性能优化方法",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
