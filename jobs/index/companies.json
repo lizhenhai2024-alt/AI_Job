@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T18:00:34.960Z",
-  "totalJobs": 5754,
-  "totalCompanies": 128,
+  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "totalJobs": 5713,
+  "totalCompanies": 127,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -45,12 +45,6 @@
       "slug": "宝洁",
       "file": "jobs/by-company/宝洁.json",
       "count": 6
-    },
-    {
-      "company": "比亚迪",
-      "slug": "比亚迪",
-      "file": "jobs/by-company/比亚迪.json",
-      "count": 45
     },
     {
       "company": "传音控股",
@@ -722,7 +716,7 @@
       "company": "字节跳动",
       "slug": "字节跳动",
       "file": "jobs/by-company/字节跳动.json",
-      "count": 145
+      "count": 149
     },
     {
       "company": "Babycare",

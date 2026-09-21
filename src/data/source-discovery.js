@@ -63,7 +63,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://jobs.hisense.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 jobs.hisense.com 尚无自动抓取适配器；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-20T05:16:55.164Z",
+    "lastCheckedAt": "2026-09-21T00:16:49.440Z",
     "nextCheckAfter": ""
   },
   {
@@ -382,7 +382,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://jingxinpharm.zhiye.com/campus",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-20T18:00:32.224Z",
+    "lastCheckedAt": "2026-09-21T00:16:49.440Z",
     "nextCheckAfter": ""
   },
   {
@@ -514,8 +514,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://job.lzlj.com/campus",
     "reason": "已发现公司官方招聘入口，但当前站点 job.lzlj.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-20T18:00:32.224Z",
-    "nextCheckAfter": "2026-09-21T18:00:32.229Z"
+    "lastCheckedAt": "2026-09-21T00:16:49.440Z",
+    "nextCheckAfter": "2026-09-22T00:16:49.444Z"
   },
   {
     "name": "绿联",
@@ -767,7 +767,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://shantui.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-20T18:00:32.224Z",
+    "lastCheckedAt": "2026-09-21T00:16:49.440Z",
     "nextCheckAfter": ""
   },
   {
@@ -987,8 +987,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-20T18:00:32.224Z",
-    "nextCheckAfter": "2026-09-21T18:00:32.230Z"
+    "lastCheckedAt": "2026-09-21T00:16:49.440Z",
+    "nextCheckAfter": "2026-09-22T00:16:49.445Z"
   },
   {
     "name": "招商银行股份有限公司长沙分行",
@@ -1064,8 +1064,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://job.10086.cn/touch/personal/campus/campus_job_list.html?cId=103",
     "reason": "已发现公司官方招聘入口，但当前站点 job.10086.cn 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-20T18:00:32.224Z",
-    "nextCheckAfter": "2026-09-21T18:00:32.229Z"
+    "lastCheckedAt": "2026-09-21T00:16:49.440Z",
+    "nextCheckAfter": "2026-09-22T00:16:49.444Z"
   },
   {
     "name": "中国银行大连市分行",
@@ -1323,7 +1323,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-20T22:26:24.802Z",
+  "updatedAt": "2026-09-21T00:16:49.440Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

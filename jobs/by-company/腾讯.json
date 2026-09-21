@@ -1,7 +1,7 @@
 {
   "company": "腾讯",
   "count": 52,
-  "updatedAt": "2026-09-20T18:00:34.960Z",
+  "updatedAt": "2026-09-21T00:16:53.004Z",
   "jobs": [
     {
       "id": "tencent-ccda7553f831",
@@ -2705,96 +2705,6 @@
       "hasAssessmentEvidence": "E1 | 腾讯校招官网FAQ | https://join.qq.com/detail.html?id=288 | 2026-09-17"
     },
     {
-      "id": "tencent-83f34a6597a5",
-      "company": "腾讯",
-      "title": "AI产品经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "腾讯 2027 校园招聘岗位（职类：产品）；BG：CDG CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "腾讯 2027 校园招聘岗位（职类：产品）；BG：CDG CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "用户",
-        "数据",
-        "客户",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "腾讯校招官网join.qq.com 2027校园招聘",
-      "officialURL": "https://join.qq.com/post_detail.html?postid=1283126456553382912",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→在线测评→AI初面→多轮专业面→HR面→Offer发放",
-      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026828/200204.shtm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 腾讯校招官网FAQ | https://join.qq.com/detail.html?id=288 | 2026-09-17"
-    },
-    {
       "id": "tencent-70b81e8701b1",
       "company": "腾讯",
       "title": "游戏策划培训生",
@@ -3508,9 +3418,9 @@
         "minorLanguageRequired": false
       },
       "location": "深圳",
-      "jobDescription": "腾讯 2027 校园招聘岗位（职类：职能）；BG：CDG CSIG PCG TEG WXG S1。投递前请打开官方职位页确认最新状态。",
+      "jobDescription": "腾讯 2027 校园招聘岗位（职类：职能）；BG：CDG CSIG IEG PCG TEG WXG S1。投递前请打开官方职位页确认最新状态。",
       "jobRequirements": "",
-      "JD": "腾讯 2027 校园招聘岗位（职类：职能）；BG：CDG CSIG PCG TEG WXG S1。投递前请打开官方职位页确认最新状态。",
+      "JD": "腾讯 2027 校园招聘岗位（职类：职能）；BG：CDG CSIG IEG PCG TEG WXG S1。投递前请打开官方职位页确认最新状态。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -4617,6 +4527,96 @@
       "annualSalary": "未披露",
       "source": "腾讯校招官网join.qq.com 2027校园招聘",
       "officialURL": "https://join.qq.com/post_detail.html?postid=1294711245765017600",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→在线测评→AI初面→多轮专业面→HR面→Offer发放",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026828/200204.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 腾讯校招官网FAQ | https://join.qq.com/detail.html?id=288 | 2026-09-17"
+    },
+    {
+      "id": "tencent-83f34a6597a5",
+      "company": "腾讯",
+      "title": "AI产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "腾讯 2027 校园招聘岗位（职类：产品）；BG：CDG CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
+      "jobRequirements": "",
+      "JD": "腾讯 2027 校园招聘岗位（职类：产品）；BG：CDG CSIG IEG PCG TEG WXG。投递前请打开官方职位页确认最新状态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "数据",
+        "客户",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "腾讯校招官网join.qq.com 2027校园招聘",
+      "officialURL": "https://join.qq.com/post_detail.html?postid=1283126456553382912",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
