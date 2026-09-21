@@ -1,8 +1,186 @@
 {
   "company": "得力集团",
-  "count": 9,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "count": 13,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
+    {
+      "id": "moka-f76666399cc4",
+      "company": "得力集团",
+      "title": "跨境电商运营管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "公司官方 Moka 校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobRequirements": "",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/96a8199c-643a-4503-940a-5e3b37a0fdd4",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/招聘会投递→线上测评→初试→复试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（吉林大学就业网） | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17"
+    },
+    {
+      "id": "moka-93ee8ae1f2e2",
+      "company": "得力集团",
+      "title": "电商运营管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "公司官方 Moka 校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobRequirements": "",
+      "JD": "公司官方 Moka 校招岗位；识别关键词：电商。投递前请打开官方职位页确认完整职责与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/dfb693c3-d9d4-4c38-90ea-2984f1c4e4f9",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/招聘会投递→线上测评→初试→复试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（吉林大学就业网） | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17"
+    },
     {
       "id": "moka-ae8368500c57",
       "company": "得力集团",
@@ -165,6 +343,172 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/0745547c-c479-470e-a9ec-155ca92d7c1b",
       "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/招聘会投递→线上测评→初试→复试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（吉林大学就业网） | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17"
+    },
+    {
+      "id": "moka-1e66d0ab0acf",
+      "company": "得力集团",
+      "title": "采购管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobRequirements": "",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/ca0329e1-e219-4d13-8dfe-ec5997f1a5ff",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/招聘会投递→线上测评→初试→复试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（吉林大学就业网） | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=35d967eaac4f4b5fb1bdc019305c7fd9 | 2026-09-17"
+    },
+    {
+      "id": "moka-e1b6b9ffe971",
+      "company": "得力集团",
+      "title": "产品企划管培生（AI）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobRequirements": "",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/nbdeli/70019#/job/982401d8-d33b-4481-91ad-299d7899c32d",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

@@ -1,7 +1,7 @@
 {
   "company": "京东",
   "count": 41,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
     {
       "id": "jd-c662966ed333",
@@ -942,98 +942,6 @@
       "deadline": ""
     },
     {
-      "id": "jd-a341d61efe48",
-      "company": "京东",
-      "title": "商业分析",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京、武汉、上海",
-      "jobDescription": "1. 行业核心数据分析：依托目前渠道，月度行业竞对经营情况，深入分析背后的原因，供业务部门参考借鉴； 2. 对管理层和业务部门进行数据需求支持，挖掘分析主题，开展数据分析工作，基于数据分析结果，为管理层和业务部门提供运营策略分析和业务优化建议； 3. 行业动态追踪：针对主要产品的核心行业动态进行追踪，及时输出信息，供业务部门参考借鉴； 4. 创新模式研究报告：针对行业创新的模式进行研究，供业务部门参考； 5. 监控、分析日常商业营运达成情况，推动各部门优化作业； 6. AI应用探索：主动运用AI工具辅助数据挖掘、行业研究及分析报告生成，提升商业洞察效率与深度。",
-      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业； 3. 掌握数据获取、处理、建模、分析、可视化等相关能力，掌握SQL、Python、R、SPSS、Power BI、Tableau等； 4. 具有良好的逻辑能力，能够独立的拆解、分析问题，并根据数据等信息对业务的实际发展提供支持； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助分析建模与报告撰写；有利用AI工具提升商业分析效率的实践经历； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-      "JD": "1. 行业核心数据分析：依托目前渠道，月度行业竞对经营情况，深入分析背后的原因，供业务部门参考借鉴； 2. 对管理层和业务部门进行数据需求支持，挖掘分析主题，开展数据分析工作，基于数据分析结果，为管理层和业务部门提供运营策略分析和业务优化建议； 3. 行业动态追踪：针对主要产品的核心行业动态进行追踪，及时输出信息，供业务部门参考借鉴； 4. 创新模式研究报告：针对行业创新的模式进行研究，供业务部门参考； 5. 监控、分析日常商业营运达成情况，推动各部门优化作业； 6. AI应用探索：主动运用AI工具辅助数据挖掘、行业研究及分析报告生成，提升商业洞察效率与深度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业； 3. 掌握数据获取、处理、建模、分析、可视化等相关能力，掌握SQL、Python、R、SPSS、Power BI、Tableau等； 4. 具有良好的逻辑能力，能够独立的拆解、分析问题，并根据数据等信息对业务的实际发展提供支持； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助分析建模与报告撰写；有利用AI工具提升商业分析效率的实践经历； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "京东官方2027校园招聘官网",
-      "officialURL": "https://campus.jd.com/#/jobs",
-      "publishedAt": "2026-07-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "jd-0370a4331e9d",
       "company": "京东",
       "title": "数据分析",
@@ -1491,6 +1399,98 @@
       "source": "京东官方2027校园招聘官网",
       "officialURL": "https://campus.jd.com/#/jobs",
       "publishedAt": "2026-07-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "jd-a341d61efe48",
+      "company": "京东",
+      "title": "商业分析",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京、上海",
+      "jobDescription": "1. 行业核心数据分析：依托目前渠道，月度行业竞对经营情况，深入分析背后的原因，供业务部门参考借鉴； 2. 对管理层和业务部门进行数据需求支持，挖掘分析主题，开展数据分析工作，基于数据分析结果，为管理层和业务部门提供运营策略分析和业务优化建议； 3. 行业动态追踪：针对主要产品的核心行业动态进行追踪，及时输出信息，供业务部门参考借鉴； 4. 创新模式研究报告：针对行业创新的模式进行研究，供业务部门参考； 5. 监控、分析日常商业营运达成情况，推动各部门优化作业； 6. AI应用探索：主动运用AI工具辅助数据挖掘、行业研究及分析报告生成，提升商业洞察效率与深度。",
+      "jobRequirements": "1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业； 3. 掌握数据获取、处理、建模、分析、可视化等相关能力，掌握SQL、Python、R、SPSS、Power BI、Tableau等； 4. 具有良好的逻辑能力，能够独立的拆解、分析问题，并根据数据等信息对业务的实际发展提供支持； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助分析建模与报告撰写；有利用AI工具提升商业分析效率的实践经历； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "JD": "1. 行业核心数据分析：依托目前渠道，月度行业竞对经营情况，深入分析背后的原因，供业务部门参考借鉴； 2. 对管理层和业务部门进行数据需求支持，挖掘分析主题，开展数据分析工作，基于数据分析结果，为管理层和业务部门提供运营策略分析和业务优化建议； 3. 行业动态追踪：针对主要产品的核心行业动态进行追踪，及时输出信息，供业务部门参考借鉴； 4. 创新模式研究报告：针对行业创新的模式进行研究，供业务部门参考； 5. 监控、分析日常商业营运达成情况，推动各部门优化作业； 6. AI应用探索：主动运用AI工具辅助数据挖掘、行业研究及分析报告生成，提升商业洞察效率与深度。\n1. 2026年10月1日至2027年9月30日期间毕业，统招本科及以上学历； 2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业； 3. 掌握数据获取、处理、建模、分析、可视化等相关能力，掌握SQL、Python、R、SPSS、Power BI、Tableau等； 4. 具有良好的逻辑能力，能够独立的拆解、分析问题，并根据数据等信息对业务的实际发展提供支持； 5. 熟练使用AI工具（如通用对话式AI、智能数据分析平台等）辅助分析建模与报告撰写；有利用AI工具提升商业分析效率的实践经历； 6. 对AI新技术保持好奇心，乐于主动学习并快速掌握新的AI知识和功能，积极拥抱新技术； 7. 符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 统计学、应用数学、经济、商业分析、运筹学、信息管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "京东官方2027校园招聘官网",
+      "officialURL": "https://campus.jd.com/#/jobs",
+      "publishedAt": "2026-07-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

@@ -1,7 +1,7 @@
 {
   "company": "新芯股份",
-  "count": 13,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "count": 12,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
     {
       "id": "beisen-7f42e6669c9a",
@@ -345,90 +345,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=c2f5d4b2-b495-4fb8-b18a-5ad4bf31cbc4",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-0e45cdabc301",
-      "company": "新芯股份",
-      "title": "2027届-XMC-产品研发设计工程师(J11652)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1、负责新产品设计验证； 2、负责新产品量产CP&FT测试及相关报告编写； 3、负责新产品特性数据收集及分析，以及量产良率提升及各种应用需求的失效分析； 4、保证产品正常ES&CS及日常产品维护工作。 5、负责客户服务。",
-      "jobRequirements": "1、具备一定的半导体物理知识。 2、熟练掌握各种办公软件的操作。 3、不错的英语口语能力，沟通与协调能力。 4、良好的学习能力。",
-      "JD": "1、负责新产品设计验证； 2、负责新产品量产CP&FT测试及相关报告编写； 3、负责新产品特性数据收集及分析，以及量产良率提升及各种应用需求的失效分析； 4、保证产品正常ES&CS及日常产品维护工作。 5、负责客户服务。\n1、具备一定的半导体物理知识。 2、熟练掌握各种办公软件的操作。 3、不错的英语口语能力，沟通与协调能力。 4、良好的学习能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://whxmc.zhiye.com/campus/detail?jobAdId=380205d9-50b3-4c90-a358-be52855f9796",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

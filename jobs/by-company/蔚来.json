@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
   "count": 194,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -17676,106 +17676,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7673026784783321371",
-      "company": "蔚来",
-      "title": "校招-总装数字化工程师（MF3）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "1. 基础背景 硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、数据科学、智能制造等相关专业的应届毕业生优先",
-        "hardRestriction": true,
-        "hardClauses": [
-          "1. 基础背景 硕士及以上学历"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "合肥",
-      "jobDescription": "1.具备独立的数字化、智能制造逻辑认知，能够结合车间生产现状输出个人数字化落地思路； 2.负责数字化系统在车间的应用开发推进，按质高效交付； 3.收集车间现场的数字化业务需求场景需求及相关问题点，建立完善问题推进机制及管理清单并跟踪闭环； 4.负责车间智能化新项目的落地实施，拉通公司智能化及数字化团队、ME资源，高效推进智能化场景落地； 5.负责车间数字化硬件的管理（包括采买、收货、转固及资产管理等）。",
-      "jobRequirements": "1. 基础背景 硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、数据科学、智能制造等相关专业的应届毕业生优先。 2. 核心技术能力（开发+数据+视觉） 编程开发能力：熟练使用Python，了解C#/C++等工业开发语言；有完整的代码开发经验，能独立完成脚本/工具的编写、调试与文档输出。 AI视觉算法基础：了解OpenCV、YOLO等常用计算机视觉算法，有目标检测、图像分类、缺陷识别、OCR等相关课程设计/竞赛/项目经验优先；熟悉PyTorch/TensorFlow等深度学习框架，能完成简单模型的训练、优化与部署。 数据处理能力：熟练使用SQL进行数据查询与分析，掌握Pandas、Numpy等数据处理工具；了解数据标注、数据清洗、数据治理的基本流程，能协助完成工业产线数据的标准化与质量管控。 工业场景适配：了解MES、SCADA等工业系统基础概念，有智能制造、工业互联网、产线自动化相关项目/实习经验者优先。 Agent开发及应用：熟练应用各种开源或付费大模型的API调用，能够自主搭建小场景Agent，协助业务完成降本增效。 3. 综合素质 具备良好的跨部门沟通能力，能主动配合产线、工艺、质量团队推进项目落地； 学习能力强，愿意快速学习汽车制造工艺、工业软件、产线自动化相关知识； 做事严谨细致，对数据质量、模型精度有高要求，有较强的责任心与抗压能力。",
-      "JD": "1.具备独立的数字化、智能制造逻辑认知，能够结合车间生产现状输出个人数字化落地思路； 2.负责数字化系统在车间的应用开发推进，按质高效交付； 3.收集车间现场的数字化业务需求场景需求及相关问题点，建立完善问题推进机制及管理清单并跟踪闭环； 4.负责车间智能化新项目的落地实施，拉通公司智能化及数字化团队、ME资源，高效推进智能化场景落地； 5.负责车间数字化硬件的管理（包括采买、收货、转固及资产管理等）。\n1. 基础背景 硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、数据科学、智能制造等相关专业的应届毕业生优先。 2. 核心技术能力（开发+数据+视觉） 编程开发能力：熟练使用Python，了解C#/C++等工业开发语言；有完整的代码开发经验，能独立完成脚本/工具的编写、调试与文档输出。 AI视觉算法基础：了解OpenCV、YOLO等常用计算机视觉算法，有目标检测、图像分类、缺陷识别、OCR等相关课程设计/竞赛/项目经验优先；熟悉PyTorch/TensorFlow等深度学习框架，能完成简单模型的训练、优化与部署。 数据处理能力：熟练使用SQL进行数据查询与分析，掌握Pandas、Numpy等数据处理工具；了解数据标注、数据清洗、数据治理的基本流程，能协助完成工业产线数据的标准化与质量管控。 工业场景适配：了解MES、SCADA等工业系统基础概念，有智能制造、工业互联网、产线自动化相关项目/实习经验者优先。 Agent开发及应用：熟练应用各种开源或付费大模型的API调用，能够自主搭建小场景Agent，协助业务完成降本增效。 3. 综合素质 具备良好的跨部门沟通能力，能主动配合产线、工艺、质量团队推进项目落地； 学习能力强，愿意快速学习汽车制造工艺、工业软件、产线自动化相关知识； 做事严谨细致，对数据质量、模型精度有高要求，有较强的责任心与抗压能力。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 基础背景 硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、数据科学、智能制造等相关专业的应届毕业生优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "SQL",
-        "跨部门沟通"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026784783321371/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7673026521368889626",
       "company": "蔚来",
       "title": "校招-车身数字化工程师（MF3）",
@@ -17866,6 +17766,106 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026521368889626/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673026784783321371",
+      "company": "蔚来",
+      "title": "校招-总装数字化工程师（MF3）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1. 基础背景 硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、数据科学、智能制造等相关专业的应届毕业生优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "1. 基础背景 硕士及以上学历"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "合肥",
+      "jobDescription": "1.具备独立的数字化、智能制造逻辑认知，能够结合车间生产现状输出个人数字化落地思路； 2.负责数字化系统在车间的应用开发推进，按质高效交付； 3.收集车间现场的数字化业务需求场景需求及相关问题点，建立完善问题推进机制及管理清单并跟踪闭环； 4.负责车间智能化新项目的落地实施，拉通公司智能化及数字化团队、ME资源，高效推进智能化场景落地； 5.负责车间数字化硬件的管理（包括采买、收货、转固及资产管理等）。",
+      "jobRequirements": "1. 基础背景 硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、数据科学、智能制造等相关专业的应届毕业生优先。 2. 核心技术能力（开发+数据+视觉） 编程开发能力：熟练使用Python，了解C#/C++等工业开发语言；有完整的代码开发经验，能独立完成脚本/工具的编写、调试与文档输出。 AI视觉算法基础：了解OpenCV、YOLO等常用计算机视觉算法，有目标检测、图像分类、缺陷识别、OCR等相关课程设计/竞赛/项目经验优先；熟悉PyTorch/TensorFlow等深度学习框架，能完成简单模型的训练、优化与部署。 数据处理能力：熟练使用SQL进行数据查询与分析，掌握Pandas、Numpy等数据处理工具；了解数据标注、数据清洗、数据治理的基本流程，能协助完成工业产线数据的标准化与质量管控。 工业场景适配：了解MES、SCADA等工业系统基础概念，有智能制造、工业互联网、产线自动化相关项目/实习经验者优先。 Agent开发及应用：熟练应用各种开源或付费大模型的API调用，能够自主搭建小场景Agent，协助业务完成降本增效。 3. 综合素质 具备良好的跨部门沟通能力，能主动配合产线、工艺、质量团队推进项目落地； 学习能力强，愿意快速学习汽车制造工艺、工业软件、产线自动化相关知识； 做事严谨细致，对数据质量、模型精度有高要求，有较强的责任心与抗压能力。",
+      "JD": "1.具备独立的数字化、智能制造逻辑认知，能够结合车间生产现状输出个人数字化落地思路； 2.负责数字化系统在车间的应用开发推进，按质高效交付； 3.收集车间现场的数字化业务需求场景需求及相关问题点，建立完善问题推进机制及管理清单并跟踪闭环； 4.负责车间智能化新项目的落地实施，拉通公司智能化及数字化团队、ME资源，高效推进智能化场景落地； 5.负责车间数字化硬件的管理（包括采买、收货、转固及资产管理等）。\n1. 基础背景 硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、数据科学、智能制造等相关专业的应届毕业生优先。 2. 核心技术能力（开发+数据+视觉） 编程开发能力：熟练使用Python，了解C#/C++等工业开发语言；有完整的代码开发经验，能独立完成脚本/工具的编写、调试与文档输出。 AI视觉算法基础：了解OpenCV、YOLO等常用计算机视觉算法，有目标检测、图像分类、缺陷识别、OCR等相关课程设计/竞赛/项目经验优先；熟悉PyTorch/TensorFlow等深度学习框架，能完成简单模型的训练、优化与部署。 数据处理能力：熟练使用SQL进行数据查询与分析，掌握Pandas、Numpy等数据处理工具；了解数据标注、数据清洗、数据治理的基本流程，能协助完成工业产线数据的标准化与质量管控。 工业场景适配：了解MES、SCADA等工业系统基础概念，有智能制造、工业互联网、产线自动化相关项目/实习经验者优先。 Agent开发及应用：熟练应用各种开源或付费大模型的API调用，能够自主搭建小场景Agent，协助业务完成降本增效。 3. 综合素质 具备良好的跨部门沟通能力，能主动配合产线、工艺、质量团队推进项目落地； 学习能力强，愿意快速学习汽车制造工艺、工业软件、产线自动化相关知识； 做事严谨细致，对数据质量、模型精度有高要求，有较强的责任心与抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 基础背景 硕士及以上学历，计算机科学与技术、软件工程、人工智能、自动化、数据科学、智能制造等相关专业的应届毕业生优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026784783321371/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

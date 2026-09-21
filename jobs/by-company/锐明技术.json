@@ -1,7 +1,7 @@
 {
   "company": "锐明技术",
-  "count": 8,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "count": 9,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
     {
       "id": "beisen-3f6a083571bb",
@@ -91,6 +91,107 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=2182da2d-678f-4d66-9fc0-1fffef407920",
       "publishedAt": "2026-09-01",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→简历筛选→在线测评→面试→签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（东北大学就业网） | http://job.neu.edu.cn/campus/view/id/562885 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | http://job.neu.edu.cn/campus/view/id/562885 | 2026-09-17"
+    },
+    {
+      "id": "beisen-dfc9839269d6",
+      "company": "锐明技术",
+      "title": "国际商务专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上，应届毕业生，国贸、英语、供应链、工工、电子等专业优先，优秀者专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、越南语",
+        "english": true,
+        "minorLanguageRequired": true
+      },
+      "location": "越南",
+      "jobDescription": "1. 负责海外客户接待、工厂参观、现场英文沟通，处理日常英文邮件，制作中英文商务、汇报材料； 2. 跟进海外项目全流程，对接直接及终端客户，落实样品、验证、试产、量产、交付全节点； 3. 联动项目、质量、供应链、制造等跨部门，闭环跟进行动项，及时识别反馈项目风险； 4. 维护订单、交付及项目台账，系统学习电子制造相关业务知识。",
+      "jobRequirements": "1. 本科及以上，应届毕业生，国贸、英语、供应链、工工、电子等专业优先，优秀者专业不限； 2. 英语听说读写良好，可处理英文邮件、参与英文会议，看重实际沟通能力； 3. 熟练 Office，具备基础数据整理、材料输出能力； 4. 细致负责，主动跟进，具备事项闭环意识，愿意学习制造与项目相关知识； 5. 接受跨文化环境，可长期驻越南工作，越南语流利； 6. 有外贸 / 供应链 / 制造实习经历优先。",
+      "JD": "1. 负责海外客户接待、工厂参观、现场英文沟通，处理日常英文邮件，制作中英文商务、汇报材料； 2. 跟进海外项目全流程，对接直接及终端客户，落实样品、验证、试产、量产、交付全节点； 3. 联动项目、质量、供应链、制造等跨部门，闭环跟进行动项，及时识别反馈项目风险； 4. 维护订单、交付及项目台账，系统学习电子制造相关业务知识。\n1. 本科及以上，应届毕业生，国贸、英语、供应链、工工、电子等专业优先，优秀者专业不限； 2. 英语听说读写良好，可处理英文邮件、参与英文会议，看重实际沟通能力； 3. 熟练 Office，具备基础数据整理、材料输出能力； 4. 细致负责，主动跟进，具备事项闭环意识，愿意学习制造与项目相关知识； 5. 接受跨文化环境，可长期驻越南工作，越南语流利； 6. 有外贸 / 供应链 / 制造实习经历优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上，应届毕业生，国贸、英语、供应链、工工、电子等专业优先，优秀者专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "数据",
+        "跨文化",
+        "营销",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责海外客户接待、工厂参观、现场英文沟通，处理日常英文邮件，制作中英文商务、"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-15K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-15K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "10K-15K 元/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://streamax.zhiye.com/campus/detail?jobAdId=18f89ccc-1745-45f5-8f02-9b4ed928eb85",
+      "publishedAt": "2026-09-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

@@ -1,7 +1,7 @@
 {
   "company": "联想",
-  "count": 26,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "count": 25,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
     {
       "id": "lenovo-97d2f880a143",
@@ -2249,96 +2249,6 @@
       "annualSalary": "未披露",
       "source": "联想官方2027校招官网",
       "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2405",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "lenovo-15d1e1b869f9",
-      "company": "联想",
-      "title": "软件产品经理-相机体验方向",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业为计算机软件、应用数学等相关领域"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.参与手机相机及影像软件体验的全链路产品设计，覆盖用户调研与场景分析、竞品体验与需求定义、原型设计及方案落地，并持续跟进版本迭代与效果验证。\n 2.深入洞察用户在拍摄、成像、后期编辑、内容分享等完整影像流程中的真实体验痛点，系统梳理用户反馈与数据表现，将体验问题转化为清晰、可落地的产品方案。\n 3.积极投入 AI 影像体验的前沿探索，围绕 AI 拍摄辅助、智能场景识别、照片理解、影像增强、内容生成与编辑等方向，参与创新功能的构思、验证与原型构建。\n 4.参与产品价值的提炼与表达，撰写面向内外部团队的产品沟通材料，帮助团队、合作伙伴及用户更清晰地理解相机体验的核心价值。",
-      "jobRequirements": "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域。\n 2.对手机相机、摄影艺术、影像处理技术以及AI 影像应用有浓厚兴趣，乐于关注行业动态与新技术趋势。\n 3.具备较强的用户同理心，能够从真实用户的使用场景和情感出发，理性判断产品功能的价值与优先级。\n 4.对体验细节高度敏感，具备一定的审美素养和产品判断力，能够敏锐识别交互与视觉层面的优化机会点。",
-      "JD": "1.参与手机相机及影像软件体验的全链路产品设计，覆盖用户调研与场景分析、竞品体验与需求定义、原型设计及方案落地，并持续跟进版本迭代与效果验证。\n 2.深入洞察用户在拍摄、成像、后期编辑、内容分享等完整影像流程中的真实体验痛点，系统梳理用户反馈与数据表现，将体验问题转化为清晰、可落地的产品方案。\n 3.积极投入 AI 影像体验的前沿探索，围绕 AI 拍摄辅助、智能场景识别、照片理解、影像增强、内容生成与编辑等方向，参与创新功能的构思、验证与原型构建。\n 4.参与产品价值的提炼与表达，撰写面向内外部团队的产品沟通材料，帮助团队、合作伙伴及用户更清晰地理解相机体验的核心价值。\n1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域。\n 2.对手机相机、摄影艺术、影像处理技术以及AI 影像应用有浓厚兴趣，乐于关注行业动态与新技术趋势。\n 3.具备较强的用户同理心，能够从真实用户的使用场景和情感出发，理性判断产品功能的价值与优先级。\n 4.对体验细节高度敏感，具备一定的审美素养和产品判断力，能够敏锐识别交互与视觉层面的优化机会点。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.毕业时间为2026年9月至2027年8月的海内外应届毕业生，专业为计算机软件、应用数学等相关领域"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "毕业时间窗口：2026-09 至 2027-08"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "用户",
-        "数据",
-        "产品"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "联想官方2027校招官网",
-      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2358",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

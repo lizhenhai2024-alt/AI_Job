@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
-  "totalJobs": 5713,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
+  "totalJobs": 5873,
   "totalCompanies": 127,
   "companies": [
     {
       "company": "阿里巴巴",
       "slug": "阿里巴巴",
       "file": "jobs/by-company/阿里巴巴.json",
-      "count": 117
+      "count": 115
     },
     {
       "company": "安克创新",
       "slug": "安克创新",
       "file": "jobs/by-company/安克创新.json",
-      "count": 55
+      "count": 54
     },
     {
       "company": "傲基科技",
@@ -32,7 +32,7 @@
       "company": "奥马冰箱",
       "slug": "奥马冰箱",
       "file": "jobs/by-company/奥马冰箱.json",
-      "count": 10
+      "count": 11
     },
     {
       "company": "宝宝巴士",
@@ -45,6 +45,12 @@
       "slug": "宝洁",
       "file": "jobs/by-company/宝洁.json",
       "count": 6
+    },
+    {
+      "company": "比亚迪",
+      "slug": "比亚迪",
+      "file": "jobs/by-company/比亚迪.json",
+      "count": 49
     },
     {
       "company": "传音控股",
@@ -74,7 +80,7 @@
       "company": "得力集团",
       "slug": "得力",
       "file": "jobs/by-company/得力.json",
-      "count": 9
+      "count": 13
     },
     {
       "company": "得物App",
@@ -128,7 +134,7 @@
       "company": "歌尔股份",
       "slug": "歌尔",
       "file": "jobs/by-company/歌尔.json",
-      "count": 26
+      "count": 27
     },
     {
       "company": "格兰仕",
@@ -164,7 +170,7 @@
       "company": "海信",
       "slug": "海信",
       "file": "jobs/by-company/海信.json",
-      "count": 117
+      "count": 118
     },
     {
       "company": "杭州宇树科技股份有限公司",
@@ -194,7 +200,7 @@
       "company": "吉利汽车",
       "slug": "吉利汽车",
       "file": "jobs/by-company/吉利汽车.json",
-      "count": 236
+      "count": 295
     },
     {
       "company": "极兔速递",
@@ -230,13 +236,13 @@
       "company": "京人才·新未来——京新药业",
       "slug": "京人才-新未来-京新药业",
       "file": "jobs/by-company/京人才-新未来-京新药业.json",
-      "count": 10
+      "count": 9
     },
     {
       "company": "九号公司",
       "slug": "九号",
       "file": "jobs/by-company/九号.json",
-      "count": 56
+      "count": 57
     },
     {
       "company": "科大讯飞",
@@ -254,7 +260,7 @@
       "company": "岚图汽车",
       "slug": "岚图汽车",
       "file": "jobs/by-company/岚图汽车.json",
-      "count": 21
+      "count": 23
     },
     {
       "company": "蓝思科技",
@@ -272,7 +278,7 @@
       "company": "联想",
       "slug": "联想",
       "file": "jobs/by-company/联想.json",
-      "count": 26
+      "count": 25
     },
     {
       "company": "零跑汽车",
@@ -281,16 +287,10 @@
       "count": 27
     },
     {
-      "company": "泸州老窖股份有限公司",
-      "slug": "泸州老窖股份",
-      "file": "jobs/by-company/泸州老窖股份.json",
-      "count": 1
-    },
-    {
       "company": "绿盟科技",
       "slug": "绿盟科技",
       "file": "jobs/by-company/绿盟科技.json",
-      "count": 100
+      "count": 107
     },
     {
       "company": "美的",
@@ -332,7 +332,7 @@
       "company": "宁德时代新能源科技股份有限公司",
       "slug": "宁德时代新能源科技股份",
       "file": "jobs/by-company/宁德时代新能源科技股份.json",
-      "count": 93
+      "count": 91
     },
     {
       "company": "宁德新能源科技有限公司",
@@ -350,7 +350,7 @@
       "company": "拼多多",
       "slug": "拼多多",
       "file": "jobs/by-company/拼多多.json",
-      "count": 28
+      "count": 29
     },
     {
       "company": "普渡机器人",
@@ -386,7 +386,7 @@
       "company": "锐明技术",
       "slug": "锐明技术",
       "file": "jobs/by-company/锐明技术.json",
-      "count": 8
+      "count": 9
     },
     {
       "company": "赛力斯",
@@ -455,6 +455,12 @@
       "count": 10
     },
     {
+      "company": "石头科技",
+      "slug": "石头科技",
+      "file": "jobs/by-company/石头科技.json",
+      "count": 1
+    },
+    {
       "company": "水羊集团御泥坊",
       "slug": "水羊集团御泥坊",
       "file": "jobs/by-company/水羊集团御泥坊.json",
@@ -482,13 +488,13 @@
       "company": "泰康保险",
       "slug": "泰康保险",
       "file": "jobs/by-company/泰康保险.json",
-      "count": 234
+      "count": 236
     },
     {
       "company": "特斯拉中国",
       "slug": "特斯拉中国",
       "file": "jobs/by-company/特斯拉中国.json",
-      "count": 145
+      "count": 143
     },
     {
       "company": "腾讯",
@@ -542,7 +548,7 @@
       "company": "小鹏汽车",
       "slug": "小鹏汽车",
       "file": "jobs/by-company/小鹏汽车.json",
-      "count": 161
+      "count": 162
     },
     {
       "company": "携程集团",
@@ -590,7 +596,7 @@
       "company": "新芯股份",
       "slug": "新芯",
       "file": "jobs/by-company/新芯.json",
-      "count": 13
+      "count": 12
     },
     {
       "company": "星源材质",
@@ -608,7 +614,7 @@
       "company": "伊利",
       "slug": "伊利",
       "file": "jobs/by-company/伊利.json",
-      "count": 3
+      "count": 43
     },
     {
       "company": "英科医疗/英科再生",
@@ -677,12 +683,6 @@
       "count": 118
     },
     {
-      "company": "中国移动供应链管理中心2027",
-      "slug": "中国移动供应链管理中心2027",
-      "file": "jobs/by-company/中国移动供应链管理中心2027.json",
-      "count": 1
-    },
-    {
       "company": "中微半导体设备股份有限公司",
       "slug": "中微半导体设备股份",
       "file": "jobs/by-company/中微半导体设备股份.json",
@@ -716,7 +716,7 @@
       "company": "字节跳动",
       "slug": "字节跳动",
       "file": "jobs/by-company/字节跳动.json",
-      "count": 149
+      "count": 150
     },
     {
       "company": "Babycare",

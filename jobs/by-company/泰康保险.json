@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 234,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "count": 236,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -2480,91 +2480,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=d9eee738-81f1-40d6-9b87-4a3bda177e3a",
-      "publishedAt": "2026-06-10",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-8f214066a529",
-      "company": "泰康保险",
-      "title": "之家-儒园-综合经营【2027届】(J65281)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·济南市",
-      "jobDescription": "1、参与当地养老市场分析及客户分析； 2、参与重大市场推广、客户宣传活动的策划组织； 3、进行线上品牌宣传活动，树立良好的品牌形象； 4、协助进行销售团队的考核、激励及培训； 5、完成客户信息、销售合同的日常管理工作，与服务团队协同做好居民的服务对接，进行服务流程优化。",
-      "jobRequirements": "1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力有耐心； 3、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
-      "JD": "1、参与当地养老市场分析及客户分析； 2、参与重大市场推广、客户宣传活动的策划组织； 3、进行线上品牌宣传活动，树立良好的品牌形象； 4、协助进行销售团队的考核、激励及培训； 5、完成客户信息、销售合同的日常管理工作，与服务团队协同做好居民的服务对接，进行服务流程优化。\n1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力有耐心； 3、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "市场分析"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "品牌",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1、参与当地养老市场分析及客户分析； 2、参与重大市场推广、客户宣传活动的策划组织"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=679a5e0e-b74d-4cc3-acdf-420c8e4bc857",
       "publishedAt": "2026-06-10",
       "lastVerified": "",
       "sourceType": "official",
@@ -6193,6 +6108,95 @@
       "deadline": ""
     },
     {
+      "id": "beisen-f4f2261a04b0",
+      "company": "泰康保险",
+      "title": "人寿-深圳分公司-企划（2026校招）(J89388)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，保险、金融等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1.组发企划方案协助：协助撰写专项组发企划方案，配套当下经营节奏，输出适配机构落地的企划内容。 2.组发专项活动推动落地：负责项目活动的全流程落地推动，统筹活动筹备、过程组织、落地执行全流程，保障组发活动有效落地、达成经营目标。 3.组发项目过程督导与预警：常态化开展组发项目的数据追踪、进度核查、机构督导工作，实时监控各团队、各机构组发指标达成情况，对进度滞后、指标异常情况及时预警、跟进整改、闭环反馈。 4.组发氛围营造与激励落地：围绕组发工作需求，完成活动海报、激励文案、荣誉公示、氛围造势等配套物料制作及宣导工作，营造积极的队伍发展氛围，激发团队展业、增员积极性。 5.组发数据统计与复盘迭代：阶段性统计汇总组发核心数据，整理数据台账，完成阶段性组发工作复盘分析，输出复盘报告与优化建议，为队伍经营决策、企划迭代提供数据支撑。 6.组发创说会专项协助：重点协助开展创业说明会的全流程工作，包含会前筹备、物料准备、人员邀约协助、会中现场执行、会后数据统计与跟进，支撑公司增员引流、人力队伍扩容核心组发工作。 7.其他组发相关工作：承接部门交办的队伍建设、人力培育、机构组发帮扶等临时性专项工作，配合完成组发条线各类专项工作落地。",
+      "jobRequirements": "1.本科及以上学历，保险、金融等相关专业优先； 2.熟练使用OFFICE软件具备极强的执行力与责任心，做事细致严谨，高效落地各类工作； 3.具备良好的沟通协调能力，可顺畅对接内部部门、一线团队，高效完成活动推动、督导跟进、问题对接工作； 4.逻辑思维清晰，善于数据复盘、总结工作问题，能够持续优化活动流程与企划推动动作； 主动性强、积极上进，具备良好的团队协作意识，服从部门工作安排，专注队伍发展类专项工作。",
+      "JD": "1.组发企划方案协助：协助撰写专项组发企划方案，配套当下经营节奏，输出适配机构落地的企划内容。 2.组发专项活动推动落地：负责项目活动的全流程落地推动，统筹活动筹备、过程组织、落地执行全流程，保障组发活动有效落地、达成经营目标。 3.组发项目过程督导与预警：常态化开展组发项目的数据追踪、进度核查、机构督导工作，实时监控各团队、各机构组发指标达成情况，对进度滞后、指标异常情况及时预警、跟进整改、闭环反馈。 4.组发氛围营造与激励落地：围绕组发工作需求，完成活动海报、激励文案、荣誉公示、氛围造势等配套物料制作及宣导工作，营造积极的队伍发展氛围，激发团队展业、增员积极性。 5.组发数据统计与复盘迭代：阶段性统计汇总组发核心数据，整理数据台账，完成阶段性组发工作复盘分析，输出复盘报告与优化建议，为队伍经营决策、企划迭代提供数据支撑。 6.组发创说会专项协助：重点协助开展创业说明会的全流程工作，包含会前筹备、物料准备、人员邀约协助、会中现场执行、会后数据统计与跟进，支撑公司增员引流、人力队伍扩容核心组发工作。 7.其他组发相关工作：承接部门交办的队伍建设、人力培育、机构组发帮扶等临时性专项工作，配合完成组发条线各类专项工作落地。\n1.本科及以上学历，保险、金融等相关专业优先； 2.熟练使用OFFICE软件具备极强的执行力与责任心，做事细致严谨，高效落地各类工作； 3.具备良好的沟通协调能力，可顺畅对接内部部门、一线团队，高效完成活动推动、督导跟进、问题对接工作； 4.逻辑思维清晰，善于数据复盘、总结工作问题，能够持续优化活动流程与企划推动动作； 主动性强、积极上进，具备良好的团队协作意识，服从部门工作安排，专注队伍发展类专项工作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，保险、金融等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.组发企划方案协助：协助撰写专项组发企划方案，配套当下经营节奏，输出适配机构落地"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=0562a496-519d-411a-bed0-674d145a7ccd",
+      "publishedAt": "2026-09-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-5f25ef7106e9",
       "company": "泰康保险",
       "title": "人寿-内蒙古分公司-招聘与员工关系岗位（2027校招）(J89337)",
@@ -7210,95 +7214,6 @@
       "deadline": "2027-08-31"
     },
     {
-      "id": "beisen-d1ead28c1031",
-      "company": "泰康保险",
-      "title": "资产-本部-资产配置研究（27校招）(J78141)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "2.金融、量化相关专业背景",
-        "hardRestriction": true,
-        "hardClauses": [
-          "2.金融、量化相关专业背景"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.对股票、债券等大类资产及固收子类品种进行体系化的研究，撰写分析报告、推荐策略并跟踪策略表现； 2.密切跟踪市场及走势，及时提示投资机会和风险； 3.根据投资业务具体需求，进行专题策略研究。",
-      "jobRequirements": "1.硕士及以上学历； 2.金融、量化相关专业背景； 3.具备较强的数理分析能力，精通至少一门（Python、Matlab等）常用编程工具； 4.工作勤勉、踏实、细致，对数据敏感性高；具备高度的责任心、较强的抗压力和团队合作精神。",
-      "JD": "1.对股票、债券等大类资产及固收子类品种进行体系化的研究，撰写分析报告、推荐策略并跟踪策略表现； 2.密切跟踪市场及走势，及时提示投资机会和风险； 3.根据投资业务具体需求，进行专题策略研究。\n1.硕士及以上学历； 2.金融、量化相关专业背景； 3.具备较强的数理分析能力，精通至少一门（Python、Matlab等）常用编程工具； 4.工作勤勉、踏实、细致，对数据敏感性高；具备高度的责任心、较强的抗压力和团队合作精神。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2.金融、量化相关专业背景"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-11-30"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "市场",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=e04ac3b8-739d-4fad-9c5c-962f6f1760f5",
-      "publishedAt": "2026-09-09",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-11-30"
-    },
-    {
       "id": "beisen-ddbb28958d48",
       "company": "泰康保险",
       "title": "资产-本部-信用评估研究（27校招）(J81642)",
@@ -7645,6 +7560,95 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=5aa22ae4-cd9e-41d0-a389-3fd33d0f1bcb",
+      "publishedAt": "2026-09-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-11-30"
+    },
+    {
+      "id": "beisen-d1ead28c1031",
+      "company": "泰康保险",
+      "title": "资产-本部-资产配置研究（27校招）(J78141)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2.金融、量化相关专业背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "2.金融、量化相关专业背景"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.对股票、债券等大类资产及固收子类品种进行体系化的研究，撰写分析报告、推荐策略并跟踪策略表现； 2.密切跟踪市场及走势，及时提示投资机会和风险； 3.根据投资业务具体需求，进行专题策略研究。",
+      "jobRequirements": "1.硕士及以上学历； 2.金融、量化相关专业背景； 3.具备较强的数理分析能力，精通至少一门（Python、Matlab等）常用编程工具； 4.工作勤勉、踏实、细致，对数据敏感性高；具备高度的责任心、较强的抗压力和团队合作精神。",
+      "JD": "1.对股票、债券等大类资产及固收子类品种进行体系化的研究，撰写分析报告、推荐策略并跟踪策略表现； 2.密切跟踪市场及走势，及时提示投资机会和风险； 3.根据投资业务具体需求，进行专题策略研究。\n1.硕士及以上学历； 2.金融、量化相关专业背景； 3.具备较强的数理分析能力，精通至少一门（Python、Matlab等）常用编程工具； 4.工作勤勉、踏实、细致，对数据敏感性高；具备高度的责任心、较强的抗压力和团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.金融、量化相关专业背景"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-11-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=e04ac3b8-739d-4fad-9c5c-962f6f1760f5",
       "publishedAt": "2026-09-09",
       "lastVerified": "",
       "sourceType": "official",
@@ -10544,6 +10548,91 @@
       "deadline": ""
     },
     {
+      "id": "beisen-8f214066a529",
+      "company": "泰康保险",
+      "title": "之家-儒园-综合经营【2027届】(J65281)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1、为客户提供沉浸体验式营销活动，负责活动产品设计、实施流程对接、文创产品采买等； 2、负责VIP客户接待、体验馆讲解等工作； 3、负责体验馆的运营管理，如客户参观排期、场地管理等。",
+      "jobRequirements": "1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力有耐心； 3、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
+      "JD": "1、为客户提供沉浸体验式营销活动，负责活动产品设计、实施流程对接、文创产品采买等； 2、负责VIP客户接待、体验馆讲解等工作； 3、负责体验馆的运营管理，如客户参观排期、场地管理等。\n1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力有耐心； 3、有较强的统计分析能力，或具备媒体宣传、活动策划经验。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、为客户提供沉浸体验式营销活动，负责活动产品设计、实施流程对接、文创产品采买等；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=679a5e0e-b74d-4cc3-acdf-420c8e4bc857",
+      "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-e3edf1448cdf",
       "company": "泰康保险",
       "title": "之家-鹏园-医生【2027届】(J85485)",
@@ -11692,6 +11781,87 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2028-06-08"
+    },
+    {
+      "id": "beisen-ff8e32304566",
+      "company": "泰康保险",
+      "title": "医疗-宁波泰康医院-护士-2027(J89472)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "拥有护理专业本科及以上学历",
+        "hardRestriction": true,
+        "hardClauses": [
+          "拥有护理专业本科及以上学历"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "jobDescription": "1. 负责病人的日常护理，包括但不限于生命体征监测、给药、输液等； 2. 协助医生进行诊断和治疗过程中的各项准备工作； 3. 保持病房环境清洁，确保医疗设备的正常运行与维护； 4. 及时记录并报告病人病情变化情况，参与制定或调整护理计划； 5. 向患者及其家属提供健康教育指导。",
+      "jobRequirements": "1. 拥有护理专业本科及以上学历； 2. 具备良好的沟通能力和服务意识，能够耐心细致地对待每一位患者； 3. 熟悉基础护理操作流程，掌握急救知识及技能者优先考虑； 4. 遵守职业道德规范，具备较强的责任心和团队合作精神； 5. 能够适应轮班制度。",
+      "JD": "1. 负责病人的日常护理，包括但不限于生命体征监测、给药、输液等； 2. 协助医生进行诊断和治疗过程中的各项准备工作； 3. 保持病房环境清洁，确保医疗设备的正常运行与维护； 4. 及时记录并报告病人病情变化情况，参与制定或调整护理计划； 5. 向患者及其家属提供健康教育指导。\n1. 拥有护理专业本科及以上学历； 2. 具备良好的沟通能力和服务意识，能够耐心细致地对待每一位患者； 3. 熟悉基础护理操作流程，掌握急救知识及技能者优先考虑； 4. 遵守职业道德规范，具备较强的责任心和团队合作精神； 5. 能够适应轮班制度。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "拥有护理专业本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "15",
+        "min": 15,
+        "max": 15,
+        "scope": "job",
+        "display": "15人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15 15 1. 负责病人的日常护理，包括但不限于生命体征监测、给药、输液等； 2. 协助医"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=d06a61ae-e0cb-4bfb-b8c2-571eb7e07b3a",
+      "publishedAt": "2026-09-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
       "id": "beisen-d5c02a9c2b2c",
@@ -16970,87 +17140,6 @@
       "deadline": "2027-07-31"
     },
     {
-      "id": "beisen-f566a6122a3c",
-      "company": "泰康保险",
-      "title": "之家-琴园-运动指导师【2027届】(J85494)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历,运动康复、运动人体科学、运动医学、体能训线练等专业优先,条件优异者可放宽至社会体育指导、体育教育专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "条件优异者可放宽至社会体育指导、体育教育专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "山东省·青岛市",
-      "jobDescription": "1、为居民提供相关评估并提供科学的运康训练方案,帮助居民通过运动保持并提升身心机能; 2、为居民提供一对一运动健康训练及团体运动健康训练; 3、参与组织运动文化赛事与运康服务推广活动; 4、保障场馆、设施使用安全,排除安全隐患,必要时制止危险操作。 5、对常见的运动损伤进行初步应急处理。",
-      "jobRequirements": "1、本科及以上学历,运动康复、运动人体科学、运动医学、体能训线练等专业优先,条件优异者可放宽至社会体育指导、体育教育专业; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、具备扎实的专业知识和沟通协调能力。",
-      "JD": "1、为居民提供相关评估并提供科学的运康训练方案,帮助居民通过运动保持并提升身心机能; 2、为居民提供一对一运动健康训练及团体运动健康训练; 3、参与组织运动文化赛事与运康服务推广活动; 4、保障场馆、设施使用安全,排除安全隐患,必要时制止危险操作。 5、对常见的运动损伤进行初步应急处理。\n1、本科及以上学历,运动康复、运动人体科学、运动医学、体能训线练等专业优先,条件优异者可放宽至社会体育指导、体育教育专业; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、具备扎实的专业知识和沟通协调能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历,运动康复、运动人体科学、运动医学、体能训线练等专业优先,条件优异者可放宽至社会体育指导、体育教育专业"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "5",
-        "min": 5,
-        "max": 5,
-        "scope": "job",
-        "display": "5人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "5 5 1、为居民提供相关评估并提供科学的运康训练方案,帮助居民通过运动保持并提升身心机能"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=e3ac94a3-2830-4cf3-9b45-321a927b97e6",
-      "publishedAt": "2026-06-10",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-07-31"
-    },
-    {
       "id": "beisen-1d0dc218a2b1",
       "company": "泰康保险",
       "title": "之家-琴园-文娱活动师【2027届】(J85493)",
@@ -19176,6 +19265,87 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
+    },
+    {
+      "id": "beisen-f566a6122a3c",
+      "company": "泰康保险",
+      "title": "之家-琴园-运动指导师【2027届】(J85494)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历,运动康复、运动人体科学、运动医学、体能训线练等专业优先,条件优异者可放宽至社会体育指导、体育教育专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "条件优异者可放宽至社会体育指导、体育教育专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、为居民提供相关评估并提供科学的运康训练方案,帮助居民通过运动保持并提升身心机能; 2、为居民提供一对一运动健康训练及团体运动健康训练; 3、参与组织运动文化赛事与运康服务推广活动; 4、保障场馆、设施使用安全,排除安全隐患,必要时制止危险操作。 5、对常见的运动损伤进行初步应急处理。",
+      "jobRequirements": "1、本科及以上学历,运动康复、运动人体科学、运动医学、体能训线练等专业优先,条件优异者可放宽至社会体育指导、体育教育专业; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、具备扎实的专业知识和沟通协调能力。",
+      "JD": "1、为居民提供相关评估并提供科学的运康训练方案,帮助居民通过运动保持并提升身心机能; 2、为居民提供一对一运动健康训练及团体运动健康训练; 3、参与组织运动文化赛事与运康服务推广活动; 4、保障场馆、设施使用安全,排除安全隐患,必要时制止危险操作。 5、对常见的运动损伤进行初步应急处理。\n1、本科及以上学历,运动康复、运动人体科学、运动医学、体能训线练等专业优先,条件优异者可放宽至社会体育指导、体育教育专业; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、具备扎实的专业知识和沟通协调能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历,运动康复、运动人体科学、运动医学、体能训线练等专业优先,条件优异者可放宽至社会体育指导、体育教育专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、为居民提供相关评估并提供科学的运康训练方案,帮助居民通过运动保持并提升身心机能"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=e3ac94a3-2830-4cf3-9b45-321a927b97e6",
+      "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-07-31"
     },
     {
       "id": "beisen-0aa14e3fbabb",

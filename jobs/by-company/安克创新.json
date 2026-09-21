@@ -1,7 +1,7 @@
 {
   "company": "安克创新",
-  "count": 55,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "count": 54,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
     {
       "id": "anker-77955f08f358",
@@ -1722,105 +1722,6 @@
       "annualSalary": "未披露",
       "source": "安克创新官方2027校招官网",
       "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7672319725510363411",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
-      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
-    },
-    {
-      "id": "anker-6e3285c1159b",
-      "company": "安克创新",
-      "title": "文案本地化能力建设专员-深圳",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，管理学、心理学、数据科学、工程等背景均可",
-        "hardRestriction": true,
-        "hardClauses": [
-          "管理学、心理学、数据科学、工程等背景均可"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "你将参与： 1. 使用 AI 工具（文本、图像、视频生成）参与内容从创意到制作的全流程。 2. 探索不同 AI 工具的组合方式，找到更快、更好产出内容的路径。 3. 研究 prompt 设计如何影响创意结果，形成可复用的方法 4. 参与端到端的视频工作流（Brief → 拍摄 / AI 制作 → 后期 → 交付）。 5. 识别哪些环节可以用 AI 提速、哪些不能：并给出方法。 6. 参与建设 AI 工作流工具，测试什么在实战中真的有效。",
-      "jobRequirements": "1. 2027届毕业生，本科及以上学历，管理学、心理学、数据科学、工程等背景均可。 2. 对 AI 如何变革内容、创意和营销充满好奇，愿意在快速变化、有时模糊的环境中工作。 3. 对系统、流程和\"事物如何运作\"感兴趣，而非仅关注最终产出。 4. 通过课程作业、个人项目、实习或自学接触过生成式 AI 工具。 5. 对内容、品牌、设计、媒体、科技或数字产品感兴趣。 6. 有跨文化或多语言工作经验。 7. 参与内容的未来：成为 AI 如何重塑全球组织创意工作的一部分。 8. 在实践中学习：直接接触真实内容、真实工具和真实工作流。 9. 长期成长：清晰设计的通往高级内容、AI 和领导力角色的路径。 10. 全球视野：在重视文化意识和多元观点的环境中工作。",
-      "JD": "你将参与： 1. 使用 AI 工具（文本、图像、视频生成）参与内容从创意到制作的全流程。 2. 探索不同 AI 工具的组合方式，找到更快、更好产出内容的路径。 3. 研究 prompt 设计如何影响创意结果，形成可复用的方法 4. 参与端到端的视频工作流（Brief → 拍摄 / AI 制作 → 后期 → 交付）。 5. 识别哪些环节可以用 AI 提速、哪些不能：并给出方法。 6. 参与建设 AI 工作流工具，测试什么在实战中真的有效。\n1. 2027届毕业生，本科及以上学历，管理学、心理学、数据科学、工程等背景均可。 2. 对 AI 如何变革内容、创意和营销充满好奇，愿意在快速变化、有时模糊的环境中工作。 3. 对系统、流程和\"事物如何运作\"感兴趣，而非仅关注最终产出。 4. 通过课程作业、个人项目、实习或自学接触过生成式 AI 工具。 5. 对内容、品牌、设计、媒体、科技或数字产品感兴趣。 6. 有跨文化或多语言工作经验。 7. 参与内容的未来：成为 AI 如何重塑全球组织创意工作的一部分。 8. 在实践中学习：直接接触真实内容、真实工具和真实工作流。 9. 长期成长：清晰设计的通往高级内容、AI 和领导力角色的路径。 10. 全球视野：在重视文化意识和多元观点的环境中工作。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，管理学、心理学、数据科学、工程等背景均可"
-        ],
-        "eligibilityClauses": [
-          "2027届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "文案"
-      ],
-      "experienceKeywords": [
-        "内容",
-        "项目",
-        "数据",
-        "跨文化",
-        "营销",
-        "品牌"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "跨文化"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "安克创新官方2027校招官网",
-      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7672319381960329499",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -4295,9 +4196,9 @@
       "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
     },
     {
-      "id": "anker-a75fa9d35d05",
+      "id": "anker-02a350ae13db",
       "company": "安克创新",
-      "title": "政府事务专员-深圳",
+      "title": "政府事务专员-深圳/长沙",
       "graduationYear": [
         "2027"
       ],

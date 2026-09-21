@@ -1,7 +1,7 @@
 {
   "company": "九号公司",
-  "count": 56,
-  "updatedAt": "2026-09-21T00:16:53.004Z",
+  "count": 57,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
   "jobs": [
     {
       "id": "ninebot-02f1cade5c0f",
@@ -1411,6 +1411,100 @@
       "annualSalary": "未披露",
       "source": "九号公司官方2027校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/9af68429-d5c6-4e16-adc3-2607fb8a1965",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "ninebot-69d4288f717c",
+      "company": "九号公司",
+      "title": "计划专员（商用出行）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "工业工程、供应链管理、物流管理、统计学、数学、运筹学、计算机、机械工程、工商管理等相关专业优先 数据分析：具备良好的数据敏感度与逻辑思维，熟练使用Excel（数据透视表、函数）",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "岗位职责： 1、需求计划管理：协助收集销售预测与市场需求信息，参与编制月度/周度需求计划，跟踪预测准确率并分析偏差原因，参与S&OP产销协同会议。 2、生产与物料计划：根据需求与库存状况协助制定主生产计划（MPS）与物料需求计划（MRP），跟踪物料齐套与生产执行进度，识别交付风险并协调跨部门资源解决。 3、库存与运营分析：协助管理原材料、半成品及成品库存，参与制定安全库存策略；定期输出供销存报表、计划达成率、库存周转率等核心KPI分析。 4、跨部门协同：与销售、采购、生产、仓储、物流等部门紧密协作，响应订单异常与紧急需求，保障端到端供应链顺畅与客户交付。 任职要求： 学历专业：2027届应届毕业生，本科及以上学历；工业工程、供应链管理、物流管理、统计学、数学、运筹学、计算机、机械工程、工商管理等相关专业优先 数据分析：具备良好的数据敏感度与逻辑思维，熟练使用Excel（数据透视表、函数）；有SQL、Python、Power BI使用经验者优先 综合素质：较强的沟通协调与跨部门协作能力，工作细致、责任心强，具备良好的学习能力与自驱力，能承受一定工作压力 英语能力：CET-4及以上，能阅读英文业务文档；英语听说能力良好者优先（公司业务全球化） 加分项：有供应链/计划/物流相关实习经历；数学建模或数据分析竞赛获奖；了解ERP系统（SAP、Oracle等）基本操作",
+      "jobRequirements": "",
+      "JD": "岗位职责： 1、需求计划管理：协助收集销售预测与市场需求信息，参与编制月度/周度需求计划，跟踪预测准确率并分析偏差原因，参与S&OP产销协同会议。 2、生产与物料计划：根据需求与库存状况协助制定主生产计划（MPS）与物料需求计划（MRP），跟踪物料齐套与生产执行进度，识别交付风险并协调跨部门资源解决。 3、库存与运营分析：协助管理原材料、半成品及成品库存，参与制定安全库存策略；定期输出供销存报表、计划达成率、库存周转率等核心KPI分析。 4、跨部门协同：与销售、采购、生产、仓储、物流等部门紧密协作，响应订单异常与紧急需求，保障端到端供应链顺畅与客户交付。 任职要求： 学历专业：2027届应届毕业生，本科及以上学历；工业工程、供应链管理、物流管理、统计学、数学、运筹学、计算机、机械工程、工商管理等相关专业优先 数据分析：具备良好的数据敏感度与逻辑思维，熟练使用Excel（数据透视表、函数）；有SQL、Python、Power BI使用经验者优先 综合素质：较强的沟通协调与跨部门协作能力，工作细致、责任心强，具备良好的学习能力与自驱力，能承受一定工作压力 英语能力：CET-4及以上，能阅读英文业务文档；英语听说能力良好者优先（公司业务全球化） 加分项：有供应链/计划/物流相关实习经历；数学建模或数据分析竞赛获奖；了解ERP系统（SAP、Oracle等）基本操作",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "工业工程、供应链管理、物流管理、统计学、数学、运筹学、计算机、机械工程、工商管理等相关专业优先 数据分析：具备良好的数据敏感度与逻辑思维，熟练使用Excel（数据透视表、函数）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "九号公司官方2027校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/ninebot/45627?locale=zh-CN#/job/c9d3ed62-aeb0-4b8a-8005-93833152d7ae",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

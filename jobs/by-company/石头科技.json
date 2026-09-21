@@ -1,0 +1,105 @@
+{
+  "company": "石头科技",
+  "count": 1,
+  "updatedAt": "2026-09-21T15:53:34.483Z",
+  "jobs": [
+    {
+      "id": "beisen-5250c7b42249",
+      "company": "石头科技",
+      "title": "海外销售岗(拉美）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利可商务沟通，掌握西语小语种",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 协助开发拉美潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务谈判，推进订单落地。 2. 跟踪区域销售指标完成情况，拆解渠道目标，定期复盘生意数据，挖掘增量机会，识别渠道风险。 3. 配合新品导入工作，向渠道客户传递产品卖点，协同营销团队落地渠道促销、培训、市场推广活动。 4. 持续调研拉美市场竞品动态、渠道政策、价格体系，输出竞品分析报告，支撑业务策略调整。 5. 联动供应链、财务、售后团队，保障订单交付，处理客户客诉与业务问题，维护长期客户信任。",
+      "jobRequirements": "1. 本科及以上应届生，英语流利可商务沟通，掌握西语小语种。 2. 具备强基础数据分析能力，逻辑沟通能力，擅长跨文化沟通，目标感强，拥有商务谈判潜力，目标感和韧性较强。 3. 学习能力强，愿意深耕拉美市场，有海外商务、跨境销售实习经历优先。",
+      "JD": "1. 协助开发拉美潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务谈判，推进订单落地。 2. 跟踪区域销售指标完成情况，拆解渠道目标，定期复盘生意数据，挖掘增量机会，识别渠道风险。 3. 配合新品导入工作，向渠道客户传递产品卖点，协同营销团队落地渠道促销、培训、市场推广活动。 4. 持续调研拉美市场竞品动态、渠道政策、价格体系，输出竞品分析报告，支撑业务策略调整。 5. 联动供应链、财务、售后团队，保障订单交付，处理客户客诉与业务问题，维护长期客户信任。\n1. 本科及以上应届生，英语流利可商务沟通，掌握西语小语种。 2. 具备强基础数据分析能力，逻辑沟通能力，擅长跨文化沟通，目标感强，拥有商务谈判潜力，目标感和韧性较强。 3. 学习能力强，愿意深耕拉美市场，有海外商务、跨境销售实习经历优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利可商务沟通，掌握西语小语种"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "跨文化",
+        "营销",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 协助开发拉美潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务谈判，推进"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=25d07d9c-5b8a-4c1c-bf6a-d70b1cc5cd91",
+      "publishedAt": "2026-09-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    }
+  ]
+}
