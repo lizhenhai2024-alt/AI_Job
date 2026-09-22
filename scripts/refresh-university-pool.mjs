@@ -220,6 +220,7 @@ export function buildUniversitySourceHealth(result, updatedAt, legacyBySchool = 
       publishedJobs: currentJobs,
       cachedJobs: usingCache ? cachedJobs : 0,
       errors,
+      lastError: String(portal.lastError || ''),
       lastAttempt: updatedAt,
       lastSuccess: currentJobs > 0 ? updatedAt : String(legacy.updatedAt || ''),
     };
