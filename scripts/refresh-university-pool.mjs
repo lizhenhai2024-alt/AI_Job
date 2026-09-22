@@ -185,27 +185,25 @@ export async function buildUniversityPool({
   };
 }
 
-async function writeOutputs(result, updatedAt) {
+export async function writeOutputs(result, updatedAt) {
+  // 兜底：先读既有 by-university 文件；本次没有抓到结果的学校沿用旧记录，
+  // 避免某校列表/接口临时失败时把已有数据清空（如湖南大学 JS 渲染页场景）。
+  const legacyBySchool = new Map();
+  try {
+    for (const file of await fs.readdir(byUniversityDir)) {
+      if (!file.endsWith('.json')) continue;
+      try {
+        const body = JSON.parse(await fs.readFile(path.join(byUniversityDir, file), 'utf8'));
+        if (body?.school && Array.isArray(body.jobs) && body.jobs.length) {
+          legacyBySchool.set(body.school, body.jobs);
+        }
+      } catch { /* ignore broken legacy file */ }
+    }
+  } catch { /* byUniversityDir may not exist */ }
+
   await fs.mkdir(indexDir, { recursive: true });
   await fs.rm(byUniversityDir, { recursive: true, force: true });
   await fs.mkdir(byUniversityDir, { recursive: true });
-
-  const schoolNames = result.sources.map((x) => x.school);
-  await fs.writeFile(
-    path.join(indexDir, 'university-jobs.json'),
-    `${JSON.stringify(payload(result.jobs, updatedAt, 'all-target-universities', schoolNames), null, 2)}\n`,
-    'utf8',
-  );
-  await fs.writeFile(
-    path.join(indexDir, 'university-elite-jobs.json'),
-    `${JSON.stringify(payload(result.eliteJobs, updatedAt, '985-211-double-first-class', schoolNames), null, 2)}\n`,
-    'utf8',
-  );
-  await fs.writeFile(
-    path.join(indexDir, 'university-specialty-jobs.json'),
-    `${JSON.stringify(payload(result.specialtyJobs, updatedAt, 'language-business-specialty', schoolNames), null, 2)}\n`,
-    'utf8',
-  );
 
   const bySchool = new Map();
   for (const job of result.jobs) {
@@ -213,6 +211,31 @@ async function writeOutputs(result, updatedAt) {
     if (!bySchool.has(school)) bySchool.set(school, []);
     bySchool.get(school).push(job);
   }
+  for (const [school, legacyJobs] of legacyBySchool) {
+    if (!bySchool.has(school)) bySchool.set(school, legacyJobs);
+  }
+
+  const allJobs = [...bySchool.values()].flat();
+  const eliteJobs = allJobs.filter((job) => job.universityElite);
+  const specialtyJobs = allJobs.filter((job) => job.universitySpecialty);
+  const schoolNames = [...bySchool.keys()];
+
+  await fs.writeFile(
+    path.join(indexDir, 'university-jobs.json'),
+    `${JSON.stringify(payload(allJobs, updatedAt, 'all-target-universities', schoolNames), null, 2)}\n`,
+    'utf8',
+  );
+  await fs.writeFile(
+    path.join(indexDir, 'university-elite-jobs.json'),
+    `${JSON.stringify(payload(eliteJobs, updatedAt, '985-211-double-first-class', schoolNames), null, 2)}\n`,
+    'utf8',
+  );
+  await fs.writeFile(
+    path.join(indexDir, 'university-specialty-jobs.json'),
+    `${JSON.stringify(payload(specialtyJobs, updatedAt, 'language-business-specialty', schoolNames), null, 2)}\n`,
+    'utf8',
+  );
+
   const manifest = [];
   for (const [school, schoolJobs] of [...bySchool.entries()].sort((a, b) => a[0].localeCompare(b[0], 'zh-CN'))) {
     const slug = slugifyCompany(school);

@@ -5,6 +5,95 @@ import { CITY_NAMES, htmlToText, classifyRole, detectSkills, detectRisks, should
 const DEFAULT_MAX_LINKS = 36;
 const RECRUIT_LINK_RX = /2027\s*届|27\s*届|校园招聘|校招|秋招|招聘简章|招聘公告|招聘信息|宣讲/i;
 const SKIP_LINK_RX = /登录|注册|联系我们|政策|手续|下载|新闻|通知公告|邀请函|生源信息|双选会邀请|招聘活动邀请/i;
+// 官方宣讲会 API 通道：部分高校列表页为 JS 渲染（如湖南大学 scc.hnu.edu.cn），
+// 静态 HTML 提取不到宣讲链接。配置 apiUrl 后，改走官方 /module/getcareers 接口
+// 直接取 JSON（与 CareerPilot 同源），再把每条宣讲会映射为详情页候选链接。
+const HNU_URL_ORIGIN = 'https://scc.hnu.edu.cn/';
+const HNU_API_URL = 'https://scc.hnu.edu.cn/module/getcareers?start_page=1&start=1&count=100&k=&panel_name=&type=inner&day=&panel_id=&professionals=&work_city=&is_yun_career=';
+const HNU_API_REFERER = 'https://scc.hnu.edu.cn/module/careers?menu_id=3231';
+
+async function fetchHnuFutureApi(source, now = new Date()) {
+  const res = await fetch(source.apiUrl || HNU_API_URL, {
+    headers: {
+      'user-agent': 'Mozilla/5.0 Chrome/124 Safari/537.36',
+      'referer': HNU_API_REFERER,
+      'accept': 'application/json,text/plain,*/*',
+    },
+    signal: AbortSignal.timeout(25000),
+  });
+  if (!res.ok) throw new Error('HNU API HTTP ' + res.status);
+  const payload = await res.json();
+  const items = Array.isArray(payload) ? payload : (payload?.data || []);
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const jobs = [];
+  const seen = new Set();
+  const sourceName = `${source.school}就业信息网`;
+  const listUrl = (source.listUrls || [])[0] || HNU_URL_ORIGIN;
+  for (const x of items) {
+    if (!x || typeof x !== 'object') continue;
+    const day = String(x.meet_day || '').trim();
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) continue;
+    const d = new Date(day + 'T00:00:00');
+    if (Number.isNaN(d.getTime()) || d < today) continue; // 只保留今天及以后的场次
+    const meet = String(x.meet_name || '').trim();
+    if (/军官|公务员|事业单位|部委|选调/.test(meet)) continue;
+    const status = String(x.career_status || '');
+    if (/取消|暂停/.test(status)) continue;
+    const cid = String(x.career_talk_id || '').trim();
+    if (!cid || seen.has(cid)) continue;
+    seen.add(cid);
+    const company = cleanCompanyCandidate(String(x.company_name || '').trim());
+    if (!isPlausibleUniversityCompany(company, source)) continue;
+    const time = String(x.meet_time || '').trim();
+    const address = String(x.address || '').trim();
+    const url = 'https://scc.hnu.edu.cn/detail/career?id=' + cid;
+    const description = `${source.school}就业信息网发布 ${day} 校园宣讲会：${company}，宣讲时间 ${time}，宣讲地点 ${address}。详情见 ${url}`;
+    const id = `university-${crypto.createHash('sha1').update(`${source.school}|${company}|${day}|${url}`).digest('hex').slice(0, 14)}`;
+    jobs.push({
+      id,
+      company,
+      title: company,
+      universityTalk: true,
+      roleFamily: ['其他'],
+      city: '待核',
+      graduationYear: String(source.apiCohort || '2027'),
+      skills: [],
+      languages: [],
+      experienceKeywords: [],
+      preferenceTags: [],
+      riskTags: [],
+      source: sourceName,
+      sourceType: 'secondary',
+      sourceChannel: 'university',
+      sourceUrl: url,
+      verification: '高校就业信息网官方发布 · 待公司官网复核',
+      sourceEvidence: [
+        { label: sourceName, url: listUrl },
+        { label: `${source.school}宣讲会详情`, url },
+      ],
+      universitySource: {
+        school: source.school,
+        segments: source.segments || [],
+        priority: Number(source.priority || 0),
+      },
+      publishedAt: day,
+      deadline: '',
+      description,
+      JD: description,
+      jobDescription: description,
+      status: '推荐',
+      discoveredAt: now.toISOString(),
+      closed: false,
+      _searchText: description,
+    });
+  }
+  // API 通道返回的是结构化记录（不抓详情页、无抓取成本），且单次最多返回 100 条，
+  // 全部保留；不受 maxLinks 截断，避免 9/24、9/28 等较远场次被前 40 条挤掉。
+  return jobs;
+}
+
+
 const NON_COMPANY_RX = /^(?:待核公司|就业办\d*|就业办|就业处|就业指导中心|就业创业中心|招生就业处|招生就业办|学生就业|学生工作处|人才服务中心|毕业生就业|关于做好|关于开展|关于组织|通知|公告|邀请函|感谢贵单位|尊敬的用人单位|各用人单位|各学院|各位同学|就业补贴|求职补贴|一次性求职补贴)$/i;
 const NON_COMPANY_START_RX = /^(?:就业办\d*|就业办|就业处|就业指导中心|就业创业中心|招生就业处|招生就业办|学生就业|学生工作处|人才服务中心|毕业生就业)(?:\b|\s|[:：]|\d|$)/i;
 const NON_COMPANY_CONTAINS_RX = /(?:就业创业工作|毕业生一次性求职补贴|求职补贴申报|校园招聘正式启动$|秋季学期校园招聘正式启动$|工商查询$)/i;
@@ -172,7 +261,7 @@ export function parseUniversityJobPage({ html, url, source, now = new Date() }) 
     title: heading,
     roleFamily,
     city: cityFromUniversityText(cohortText),
-    graduationYear: is2027(cohortText) ? '2027' : '',
+    graduationYear: source.apiCohort || (is2027(cohortText) ? '2027' : ''),
     skills,
     languages: languageFromText(cohortText),
     experienceKeywords: [],
@@ -224,7 +313,7 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
   maxSchools = universityConfig.maxActiveSchools || 12
 } = {}) {
   const sources = (universityConfig.schools || [])
-    .filter((source) => source?.enabled && Array.isArray(source.listUrls) && source.listUrls.length)
+    .filter((source) => source?.enabled && (source.apiUrl || (Array.isArray(source.listUrls) && source.listUrls.length)))
     .sort((a, b) => Number(b.priority || 0) - Number(a.priority || 0) || String(a.school).localeCompare(String(b.school), 'zh-CN'))
     .slice(0, Math.max(1, Number(maxSchools) || 12));
 
@@ -237,7 +326,39 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
   for (const source of sources) {
     const candidates = [];
     let portalErrors = 0;
-    for (const listUrl of source.listUrls) {
+    if (source.apiUrl) {
+      // 官方 API 通道：直接返回结构化宣讲会记录（JD 仅含宣讲信息），
+      // 不抓详情页全文，避免整页专业术语被 isOutOfScopeProfessionalRole 误判。
+      let apiJobs = [];
+      try {
+        apiJobs = await fetchHnuFutureApi(source, now);
+      } catch {
+        portalErrors += 1;
+      }
+      listed += apiJobs.length;
+      const kept = [];
+      for (const job of apiJobs) {
+        if (!isPlausibleUniversityJob(job, source)) continue;
+        if (!shouldKeep(job, profile, now)) continue;
+        kept.push(job);
+      }
+      detailed += kept.length;
+      errors += portalErrors;
+      const deduped = dedupeJobs(kept);
+      allJobs.push(...deduped);
+      perPortal[source.school] = {
+        company: source.school,
+        listPages: (source.listUrls || []).length,
+        listed: apiJobs.length,
+        detailed: kept.length,
+        keptJobs: deduped.length,
+        errors: portalErrors,
+        priority: Number(source.priority || 0),
+        segments: source.segments || []
+      };
+      continue;
+    }
+    for (const listUrl of source.listUrls || []) {
       try {
         const html = await fetcher(listUrl);
         candidates.push(...extractUniversityRecruitLinks(html, listUrl, source));
@@ -261,7 +382,7 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
     allJobs.push(...jobs);
     perPortal[source.school] = {
       company: source.school,
-      listPages: source.listUrls.length,
+      listPages: (source.listUrls || []).length,
       listed: unique.length,
       detailed: rows.length,
       keptJobs: jobs.length,

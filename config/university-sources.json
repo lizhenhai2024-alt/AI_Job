@@ -16,7 +16,7 @@
     {"school":"上海对外经贸大学","segments":["外语外贸特色高校"],"priority":115,"enabled":true,"verified":true,"listUrls":["https://job.suibe.edu.cn/"],"allowedBases":["https://job.suibe.edu.cn/"],"maxLinks":36},
     {"school":"北京语言大学","segments":["外语外贸特色高校"],"priority":114,"enabled":true,"verified":true,"listUrls":["https://jobs.blcu.edu.cn/"],"detailUrlPattern":"/front/showContent\\.jspa","maxLinks":36},
     {"school":"南开大学","segments":["985","211","双一流"],"priority":105,"enabled":true,"verified":true,"listUrls":["https://career.nankai.edu.cn/correcruit/index.html"],"detailUrlPattern":"/correcruit/","maxLinks":40},
-    {"school":"湖南大学","segments":["985","211","双一流"],"priority":103,"enabled":true,"verified":true,"listUrls":["https://scc.hnu.edu.cn/"],"detailUrlPattern":"/detail/(online|career)","maxLinks":40},
+    {"school":"湖南大学","segments":["985","211","双一流"],"priority":103,"enabled":true,"verified":true,"listUrls":["https://scc.hnu.edu.cn/"],"detailUrlPattern":"/detail/(online|career)","maxLinks":40,"apiUrl":"https://scc.hnu.edu.cn/module/getcareers?start_page=1&start=1&count=100&k=&panel_name=&type=inner&day=&panel_id=&professionals=&work_city=&is_yun_career=","apiCohort":"2027"},
 
     {"school":"北京第二外国语学院","segments":["外语外贸特色高校"],"priority":113,"enabled":true,"verified":true,"listUrls":["https://jiuye.bisu.edu.cn/"],"detailUrlPattern":"/frontpage/bisu/html/recruitmentinfoForm\\.html\\?positionDetailId=[a-f0-9]+","maxLinks":35},
     {"school":"四川外国语大学","segments":["外语外贸特色高校"],"priority":112,"enabled":true,"verified":true,"listUrls":["https://sisu.cqbys.com/"],"detailUrlPattern":"/largefairs/view/id/\\d+/domain/sisu","maxLinks":35},

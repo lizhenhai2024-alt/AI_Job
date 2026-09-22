@@ -116,6 +116,9 @@ export function isInternshipRole(job = {}) {
 const BUSINESS_ROLE_TITLE_RX = /产品经理|产品运营|产品营销|产品策划|产品项目管理|市场培训生|电商培训生|市场营销|新媒体|内容营销|品牌营销|品牌管理|品牌运营|品牌传播|品牌策划|供应链|采购|商务|人力资源|HRBP|HRIS|SSC|薪酬|培训方向|项目管理|战略|商业分析|经营分析|运营岗|服务管理|质量管理|供应商质量|物料|生产制造|工业工程|制造工程|产品售后服务|供应链计划/;
 
 export function isOutOfScopeProfessionalRole(job = {}) {
+  // 高校官方宣讲会记录：title 为公司名、无具体岗位信息，不按岗位范围过滤
+  // （避免公司名中的"电子/电气/集成电路/证券"等词被 PROFESSIONAL_TITLE_RX 误杀）。
+  if (job?.universityTalk) return false;
   const title = String(job?.title || '').trim();
   if (BUSINESS_ROLE_TITLE_RX.test(title)) {
     // 业务/产品岗标题：仅跳过 title 字面专业岗匹配（“软件产品经理”因含“软件”被误杀），
