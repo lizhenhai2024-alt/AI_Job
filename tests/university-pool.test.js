@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import {
   buildUniversityPool,
   buildUniversitySourceHealth,
+  filterLegacyUniversityJobs,
   isPublishableUniversityRecord,
   selectUniversityPoolSources,
   universityPoolType,
@@ -38,6 +39,16 @@ test('publisher rejects obvious policy prose and page-section headings without a
   }), false);
   assert.equal(isPublishableUniversityRecord({ company: '示例科技有限公司', title: '海外业务培训生' }), true);
 });
+
+
+test('cached fallback is revalidated so old employment news cannot survive a new filter', () => {
+  const jobs = filterLegacyUniversityJobs([
+    { company: '国际关系学院举办', title: '国际关系学院举办2027届毕业生就业动员大会' },
+    { company: '示例科技有限公司', title: '2027届海外业务培训生' },
+  ]);
+  assert.deepEqual(jobs.map((x) => x.company), ['示例科技有限公司']);
+});
+
 
 test('dedicated pool keeps university provenance, drops professional roles, and quarantines bundled recruitment briefs', async () => {
   const pages = new Map([
