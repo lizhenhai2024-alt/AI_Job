@@ -1,8 +1,18 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-21T01:15:46.561Z",
-  "totalUniversities": 4,
+  "updatedAt": "2026-09-22T00:28:51.000Z",
+  "totalUniversities": 5,
   "universities": [
+    {
+      "school": "中山大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "count": 5,
+      "file": "jobs/by-university/中山大学.json"
+    },
     {
       "school": "北京语言大学",
       "segments": [
@@ -10,16 +20,6 @@
       ],
       "count": 2,
       "file": "jobs/by-university/北京语言大学.json"
-    },
-    {
-      "school": "山东大学",
-      "segments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "count": 1,
-      "file": "jobs/by-university/山东大学.json"
     },
     {
       "school": "四川大学",
@@ -32,14 +32,24 @@
       "file": "jobs/by-university/四川大学.json"
     },
     {
-      "school": "中山大学",
+      "school": "山东大学",
       "segments": [
         "985",
         "211",
         "双一流"
       ],
-      "count": 5,
-      "file": "jobs/by-university/中山大学.json"
+      "count": 1,
+      "file": "jobs/by-university/山东大学.json"
+    },
+    {
+      "school": "湖南大学",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "count": 25,
+      "file": "jobs/by-university/湖南大学.json"
     }
   ]
 }
