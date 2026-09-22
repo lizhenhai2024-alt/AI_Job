@@ -185,6 +185,61 @@ export async function buildUniversityPool({
   };
 }
 
+export function buildUniversitySourceHealth(result, updatedAt, legacyBySchool = new Map()) {
+  const currentBySchool = new Map();
+  for (const job of result.jobs || []) {
+    const school = job.universitySchool || 'unknown';
+    currentBySchool.set(school, (currentBySchool.get(school) || 0) + 1);
+  }
+  const perPortal = result.stats?.perPortal || {};
+  const schools = (result.sources || []).map((source) => {
+    const school = source.school || '';
+    const portal = perPortal[school] || {};
+    const currentJobs = Number(currentBySchool.get(school) || 0);
+    const legacy = legacyBySchool.get(school) || {};
+    const cachedJobs = Array.isArray(legacy.jobs) ? legacy.jobs.length : 0;
+    const errors = Number(portal.errors || 0);
+    const usingCache = currentJobs === 0 && cachedJobs > 0;
+    const status = currentJobs > 0
+      ? 'OK'
+      : usingCache
+        ? 'CACHED'
+        : errors > 0
+          ? 'ERROR'
+          : 'ZERO';
+    return {
+      school,
+      status,
+      sourceMode: source.apiUrl ? 'api' : 'html',
+      segments: Array.isArray(source.segments) ? source.segments : [],
+      priority: Number(source.priority || 0),
+      listPages: Number(portal.listPages ?? (source.listUrls || []).length),
+      listed: Number(portal.listed || 0),
+      detailed: Number(portal.detailed || 0),
+      keptJobs: Number(portal.keptJobs || 0),
+      publishedJobs: currentJobs,
+      cachedJobs: usingCache ? cachedJobs : 0,
+      errors,
+      lastAttempt: updatedAt,
+      lastSuccess: currentJobs > 0 ? updatedAt : String(legacy.updatedAt || ''),
+    };
+  });
+  const statusCounts = Object.fromEntries(
+    ['OK', 'ZERO', 'ERROR', 'CACHED'].map((status) => [
+      status,
+      schools.filter((row) => row.status === status).length,
+    ]),
+  );
+  return {
+    schemaVersion: 1,
+    updatedAt,
+    sourcePool: 'university-employment',
+    totalSchools: schools.length,
+    statusCounts,
+    schools,
+  };
+}
+
 export async function writeOutputs(result, updatedAt) {
   // 兜底：先读既有 by-university 文件；本次没有抓到结果的学校沿用旧记录，
   // 避免某校列表/接口临时失败时把已有数据清空（如湖南大学 JS 渲染页场景）。
@@ -195,7 +250,7 @@ export async function writeOutputs(result, updatedAt) {
       try {
         const body = JSON.parse(await fs.readFile(path.join(byUniversityDir, file), 'utf8'));
         if (body?.school && Array.isArray(body.jobs) && body.jobs.length) {
-          legacyBySchool.set(body.school, body.jobs);
+          legacyBySchool.set(body.school, { jobs: body.jobs, updatedAt: body.updatedAt || '' });
         }
       } catch { /* ignore broken legacy file */ }
     }
@@ -211,8 +266,9 @@ export async function writeOutputs(result, updatedAt) {
     if (!bySchool.has(school)) bySchool.set(school, []);
     bySchool.get(school).push(job);
   }
-  for (const [school, legacyJobs] of legacyBySchool) {
-    if (!bySchool.has(school)) bySchool.set(school, legacyJobs);
+  const health = buildUniversitySourceHealth(result, updatedAt, legacyBySchool);
+  for (const [school, legacy] of legacyBySchool) {
+    if (!bySchool.has(school)) bySchool.set(school, legacy.jobs);
   }
 
   const allJobs = [...bySchool.values()].flat();
@@ -233,6 +289,11 @@ export async function writeOutputs(result, updatedAt) {
   await fs.writeFile(
     path.join(indexDir, 'university-specialty-jobs.json'),
     `${JSON.stringify(payload(specialtyJobs, updatedAt, 'language-business-specialty', schoolNames), null, 2)}\n`,
+    'utf8',
+  );
+  await fs.writeFile(
+    path.join(indexDir, 'university-source-health.json'),
+    `${JSON.stringify(health, null, 2)}\n`,
     'utf8',
   );
 
