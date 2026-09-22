@@ -1,7 +1,7 @@
 {
   "company": "万兴科技",
-  "count": 25,
-  "updatedAt": "2026-09-22T14:16:23.003Z",
+  "count": 27,
+  "updatedAt": "2026-09-22T18:38:00.607Z",
   "jobs": [
     {
       "id": "beisen-a4360e393298",
@@ -497,6 +497,102 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=123ca92c-19b3-4c8b-b71f-1edfbf85ade4",
       "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-7d23eecc8c1a",
+      "company": "万兴科技",
+      "title": "招聘运营专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历在读，人力资源管理、心理学、工商管理、市场营销、数据分析等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "jobDescription": "1、招聘渠道管理：协助维护招聘渠道、招聘系统及相关工具资源，跟进渠道投放、简历质量、转化效果等数据，支持渠道优化与招聘效率提升。 2、人才库与企微私域运营：负责人才库规则梳理、定期维护与激活；运营企业微信私域触点，支持岗位推荐、内容触达、活动通知与互动转化。 3、面试官管理与流程支持：维护面试官信息、面试安排规则及面试反馈跟进机制，支持面试官沟通提醒、培训协同和数据统计，推动面试流程顺畅高效。 4、完成导师安排的其他事项，支持招聘运营相关工作落地。",
+      "jobRequirements": "1、本科及以上学历在读，人力资源管理、心理学、工商管理、市场营销、数据分析等相关专业优先；可以尽快到岗者优先。 2、对招聘、人力资源运营、用户运营或数据运营感兴趣，有招聘相关实习经历者优先。 3、具备良好的信息整理、数据处理和逻辑分析能力，擅长用AI工具处理日常工作。 4、沟通表达清晰，执行力强，能主动跟进事项并推动闭环；细致耐心，有服务意识和候选人体验意识。学习能力强、责任心在线，能适应多任务并行。",
+      "JD": "1、招聘渠道管理：协助维护招聘渠道、招聘系统及相关工具资源，跟进渠道投放、简历质量、转化效果等数据，支持渠道优化与招聘效率提升。 2、人才库与企微私域运营：负责人才库规则梳理、定期维护与激活；运营企业微信私域触点，支持岗位推荐、内容触达、活动通知与互动转化。 3、面试官管理与流程支持：维护面试官信息、面试安排规则及面试反馈跟进机制，支持面试官沟通提醒、培训协同和数据统计，推动面试流程顺畅高效。 4、完成导师安排的其他事项，支持招聘运营相关工作落地。\n1、本科及以上学历在读，人力资源管理、心理学、工商管理、市场营销、数据分析等相关专业优先；可以尽快到岗者优先。 2、对招聘、人力资源运营、用户运营或数据运营感兴趣，有招聘相关实习经历者优先。 3、具备良好的信息整理、数据处理和逻辑分析能力，擅长用AI工具处理日常工作。 4、沟通表达清晰，执行力强，能主动跟进事项并推动闭环；细致耐心，有服务意识和候选人体验意识。学习能力强、责任心在线，能适应多任务并行。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历在读，人力资源管理、心理学、工商管理、市场营销、数据分析等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-22K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 22000,
+        "annualMin": 180000,
+        "annualMax": 264000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.2万/月",
+        "annualDisplay": "18万–26.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-22K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "15K-22K 元/月",
+      "monthlySalary": "1.5万–2.2万/月",
+      "annualSalary": "18万–26.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=c89e4cbf-9be2-4842-85fe-b0f3617b9d01",
+      "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1068,23 +1164,23 @@
       },
       "compensation": {
         "disclosed": true,
-        "raw": "30K-50K 元/月",
-        "monthlyMin": 30000,
-        "monthlyMax": 50000,
-        "annualMin": 360000,
-        "annualMax": 600000,
+        "raw": "15K-30K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 30000,
+        "annualMin": 180000,
+        "annualMax": 360000,
         "salaryMonths": 12,
         "monthlyEstimated": false,
         "annualEstimated": true,
-        "monthlyDisplay": "3万–5万/月",
-        "annualDisplay": "36万–60万/年（按12薪推算）",
+        "monthlyDisplay": "1.5万–3万/月",
+        "annualDisplay": "18万–36万/年（按12薪推算）",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "30K-50K 元/月 公司官方北森校招岗位；识别关键词：英语、Exc"
+        "evidence": "15K-30K 元/月 公司官方北森校招岗位；识别关键词：英语、Exc"
       },
-      "salary": "30K-50K 元/月",
-      "monthlySalary": "3万–5万/月",
-      "annualSalary": "36万–60万/年（按12薪推算）",
+      "salary": "15K-30K 元/月",
+      "monthlySalary": "1.5万–3万/月",
+      "annualSalary": "18万–36万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=a6ec27bf-8bbd-4add-bc11-e1ebf00f5fa7",
       "publishedAt": "2026-08-18",
@@ -1863,6 +1959,97 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=94628fb9-2b9c-4ea0-9246-a9e3f7940859",
       "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
+      "id": "beisen-0dcf3a6c7e54",
+      "company": "万兴科技",
+      "title": "薪酬专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、在校本科生或研究生，人力资源管理、行政管理、财务等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "jobDescription": "1、 协助处理员工考勤数据统计、异常核对及月度考勤报表HRIS配置； 2、 支持社保、公积金申报、增减员操作及日常事务性工作； 3.、整理员工考勤及社保档案信息，确保数据录入准确性与及时性； 4.、配合完成薪酬核算基础工作，如数据校对、表单整理等； 5、协助处理员工关于考勤、社保政策的咨询与答疑； 6、 参与部门其他临时性事务支持。",
+      "jobRequirements": "1、在校本科生或研究生，人力资源管理、行政管理、财务等相关专业优先； 2、熟练使用Excel（基础函数、表格制作）及办公软件； 3、对数据敏感，工作细致耐心，具备基础的数据处理能力。",
+      "JD": "1、 协助处理员工考勤数据统计、异常核对及月度考勤报表HRIS配置； 2、 支持社保、公积金申报、增减员操作及日常事务性工作； 3.、整理员工考勤及社保档案信息，确保数据录入准确性与及时性； 4.、配合完成薪酬核算基础工作，如数据校对、表单整理等； 5、协助处理员工关于考勤、社保政策的咨询与答疑； 6、 参与部门其他临时性事务支持。\n1、在校本科生或研究生，人力资源管理、行政管理、财务等相关专业优先； 2、熟练使用Excel（基础函数、表格制作）及办公软件； 3、对数据敏感，工作细致耐心，具备基础的数据处理能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、在校本科生或研究生，人力资源管理、行政管理、财务等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "12K-20K 元/月",
+        "monthlyMin": 12000,
+        "monthlyMax": 20000,
+        "annualMin": 144000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.2万–2万/月",
+        "annualDisplay": "14.4万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "12K-20K 元/月 公司官方北森校招岗位；识别关键词：Excel。"
+      },
+      "salary": "12K-20K 元/月",
+      "monthlySalary": "1.2万–2万/月",
+      "annualSalary": "14.4万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=e4dc0787-7bc5-4bd7-bb16-0f6aa84fff63",
+      "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

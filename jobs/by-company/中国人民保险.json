@@ -1,7 +1,7 @@
 {
   "company": "中国人民保险集团",
-  "count": 230,
-  "updatedAt": "2026-09-22T14:16:23.003Z",
+  "count": 231,
+  "updatedAt": "2026-09-22T18:38:00.607Z",
   "jobs": [
     {
       "id": "beisen-3466b7ea75ff",
@@ -7571,9 +7571,9 @@
       "deadline": ""
     },
     {
-      "id": "beisen-99a1128226d7",
+      "id": "beisen-4abb64a3f4b7",
       "company": "中国人民保险集团",
-      "title": "人保财险-吉林分公司-综合类-客户经理岗-2027届校招（长春经济支公司）(J80520)",
+      "title": "人保财险-吉林分公司-综合类-客户经理岗-2027届校招（长春区县支公司）(J80519)",
       "graduationYear": [
         "2027"
       ],
@@ -7599,7 +7599,7 @@
       "jobRequirements": "经济、金融、管理、理工等相关专业； 具有良好的政治素质和道德品行； 具有较强的事业心和责任感，具有符合岗位要求的工作能力； 遵章守纪，无违规违纪行为，无不良从业记录和处罚记录。",
       "JD": "1.根据销售政策和业务规范，开展公关协调和展业活动，不断开拓业务领域，确保业务的续转和增长。 2.完成公司下达的年度保费任务；对外宣传公司品牌形象； 3.熟悉公司业务，加强客户服务沟通，为客户做好承保理赔等相关咨询服务工作。\n经济、金融、管理、理工等相关专业； 具有良好的政治素质和道德品行； 具有较强的事业心和责任感，具有符合岗位要求的工作能力； 遵章守纪，无违规违纪行为，无不良从业记录和处罚记录。",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [
           "经济、金融、管理、理工等相关专业；"
         ],
@@ -7607,7 +7607,9 @@
           "2027届校招"
         ],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "客户关系"
+        ]
       },
       "roleFamily": [
         "销售"
@@ -7650,7 +7652,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=2de23b06-4423-44f7-bdc6-f34c213fad12",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=1d071896-8dd4-419e-86f9-f8955d0e02a3",
       "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
@@ -8759,6 +8761,92 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=f637ee53-2771-4d8e-80fc-0f029298f501",
+      "publishedAt": "2026-08-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-99a1128226d7",
+      "company": "中国人民保险集团",
+      "title": "人保财险-吉林分公司-综合类-客户经理岗-2027届校招（长春经济支公司）(J80520)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "经济、金融、管理、理工等相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "经济、金融、管理、理工等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "吉林省·长春市",
+      "jobDescription": "1.根据销售政策和业务规范，开展公关协调和展业活动，不断开拓业务领域，确保业务的续转和增长。 2.完成公司下达的年度保费任务；对外宣传公司品牌形象； 3.熟悉公司业务，加强客户服务沟通，为客户做好承保理赔等相关咨询服务工作。",
+      "jobRequirements": "经济、金融、管理、理工等相关专业； 具有良好的政治素质和道德品行； 具有较强的事业心和责任感，具有符合岗位要求的工作能力； 遵章守纪，无违规违纪行为，无不良从业记录和处罚记录。",
+      "JD": "1.根据销售政策和业务规范，开展公关协调和展业活动，不断开拓业务领域，确保业务的续转和增长。 2.完成公司下达的年度保费任务；对外宣传公司品牌形象； 3.熟悉公司业务，加强客户服务沟通，为客户做好承保理赔等相关咨询服务工作。\n经济、金融、管理、理工等相关专业； 具有良好的政治素质和道德品行； 具有较强的事业心和责任感，具有符合岗位要求的工作能力； 遵章守纪，无违规违纪行为，无不良从业记录和处罚记录。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "经济、金融、管理、理工等相关专业；"
+        ],
+        "eligibilityClauses": [
+          "2027届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.根据销售政策和业务规范，开展公关协调和展业活动，不断开拓业务领域，确保业务的续"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=2de23b06-4423-44f7-bdc6-f34c213fad12",
       "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",

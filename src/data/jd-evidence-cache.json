@@ -33497,5 +33497,142 @@
   "businessDuties": [
    "资料/流程"
   ]
+ },
+ "hotjob-448548fd3c6d:26f45abde8cba1f2:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "全日制统招本科及以上学历，工科、商科类专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-3c548e426d19:f680d3d8bbcfea57:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "教育、经管、市场等相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上，教育、经管、市场等相关专业优先"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-aab4b7101aee:d2dc944922ffa7ce:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "27校招-管培生（品牌营销方向）"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-e3d174a31268:68e7fb6e03f0975b:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [
+   "问题根因"
+  ],
+  "businessDuties": []
+ },
+ "bytedance-6a9823943d81:29215bf7d3d17200:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系"
+  ]
+ },
+ "beisen-7479f41c26f6:54eccf6f02bffbad:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "专业：经管类/人资类等相关专业；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-4e8d2321adee:49f4bc97ce70be08:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": [
+   "合同",
+   "客户关系",
+   "资料/流程"
+  ]
+ },
+ "beisen-22cc10641c2f:a2fa3a20abc00cc9:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "数据类专业优先。"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-6f911647bdf9:463c11ae7b602093:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历，机电一体化，电机及电器类专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [
+   "问题根因",
+   "技术评估",
+   "结构/原理",
+   "模型/算法",
+   "开发实现"
+  ],
+  "businessDuties": []
+ },
+ "beisen-4bbe6f9aed91:1afca53ff03f5a92:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，持有相应教师资格证优先；"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-2d80cbbf239e:e7ac4c412d010437:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "简历接收周期：2026-09-01~2027-07-01",
+   "伊利2027届校招-销售培训生（冷饮鲁豫）"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系",
+   "合同",
+   "资料/流程"
+  ]
+ },
+ "beisen-4abb64a3f4b7:6e051a08cf3578d2:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "经济、金融、管理、理工等相关专业；"
+  ],
+  "eligibilityClauses": [
+   "2027届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系"
+  ]
  }
 }

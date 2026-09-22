@@ -1323,7 +1323,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-22T18:05:04.761Z",
+  "updatedAt": "2026-09-22T18:37:54.884Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

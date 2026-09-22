@@ -1,7 +1,7 @@
 {
   "company": "石头科技",
-  "count": 1,
-  "updatedAt": "2026-09-22T14:16:23.003Z",
+  "count": 2,
+  "updatedAt": "2026-09-22T18:38:00.607Z",
   "jobs": [
     {
       "id": "beisen-5250c7b42249",
@@ -97,6 +97,93 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=25d07d9c-5b8a-4c1c-bf6a-d70b1cc5cd91",
       "publishedAt": "2026-09-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-6f911647bdf9",
+      "company": "石头科技",
+      "title": "专项技术经理（机电）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科以上学历，机电一体化，电机及电器类专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "电机及电器类专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "苏州",
+      "jobDescription": "职位描述 1. 根据扫地机器人和洗地机产品使用场景进行电机和泵的设计方案制定，与核心方案选型； 2. 进行电机驱动设计及方案审核； 3. 判断电机及齿轮箱与泵体设计的合理性与规范性，熟悉其生产工艺与常见失效模式，负责编制或审核DFMEA； 4. 对电机结构/性能/可靠性优化提出有效建议",
+      "jobRequirements": "职位要求 1.本科以上学历，机电一体化，电机及电器类专业，熟悉各种电机原理及特性，掌握各种电机驱动方法，了解电机驱动算法； 2.掌握电机电磁、结构、热设计原理，熟悉永磁电机、交流电机、步进电机有限元分析，结构力学分析，电机温升计算； 3. 熟悉电机测试相关规范 4. 了解电机设计相关的材料和工艺，以及电机机械结构和装配，以及齿轮箱设计； 5. 针对电机寿命、噪音、阻力、能效等优化能提出有效建议 ； 6. 良好的沟通能力，强目标感和韧性；",
+      "JD": "职位描述 1. 根据扫地机器人和洗地机产品使用场景进行电机和泵的设计方案制定，与核心方案选型； 2. 进行电机驱动设计及方案审核； 3. 判断电机及齿轮箱与泵体设计的合理性与规范性，熟悉其生产工艺与常见失效模式，负责编制或审核DFMEA； 4. 对电机结构/性能/可靠性优化提出有效建议\n职位要求 1.本科以上学历，机电一体化，电机及电器类专业，熟悉各种电机原理及特性，掌握各种电机驱动方法，了解电机驱动算法； 2.掌握电机电磁、结构、热设计原理，熟悉永磁电机、交流电机、步进电机有限元分析，结构力学分析，电机温升计算； 3. 熟悉电机测试相关规范 4. 了解电机设计相关的材料和工艺，以及电机机械结构和装配，以及齿轮箱设计； 5. 针对电机寿命、噪音、阻力、能效等优化能提出有效建议 ； 6. 良好的沟通能力，强目标感和韧性；",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科以上学历，机电一体化，电机及电器类专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [
+          "问题根因",
+          "技术评估",
+          "结构/原理",
+          "模型/算法",
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 职位描述 1. 根据扫地机器人和洗地机产品使用场景进行电机和泵的设计方案制定，与核"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=875df958-0f4c-4712-97e2-6330db206250",
+      "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

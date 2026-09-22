@@ -1,7 +1,7 @@
 {
   "company": "零跑汽车",
-  "count": 27,
-  "updatedAt": "2026-09-22T14:16:23.003Z",
+  "count": 28,
+  "updatedAt": "2026-09-22T18:38:00.607Z",
   "jobs": [
     {
       "id": "beisen-05c12c1b7748",
@@ -735,6 +735,100 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://leapmotor.zhiye.com/campus/detail?jobAdId=93cd63d0-e803-47da-8395-fc4a92854883",
       "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（以岗位需求为准）→面试（初复试）→OFFER/三方（10月开启）",
+      "recruitmentProcessEvidence": "E2 | 零跑汽车官方校招门户 | https://leapmotor.zhiye.com/campus | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 零跑汽车官方校招Q&A | https://leapmotor.zhiye.com/intern | 2026-09-17"
+    },
+    {
+      "id": "beisen-4e8d2321adee",
+      "company": "零跑汽车",
+      "title": "27校招-渠道建设专员(J17886)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "岗位职责： 对接建设经理，协同制定门店验收计划，并据此分解、设定月度验收目标，跟踪进度确保达成； 负责新入网经销商相关协议及合同管理，包括《建设意向协议书》《经销合同》的签订，以及保证金退款、授权书申请等手续的办理； 负责门店BI系统的日常维护与数据管理，推动验收周期、建设成本等关键信息的线上化录入、更新与统计分析； 负责门店建设全周期档案的收集、整理与归档，确保信息完整、可追溯； 统筹相关供应商物料费用的付款申请，按流程提报并跟进审批，保障结算及时准确。",
+      "jobRequirements": "任职要求： 本科及以上学历，具有2年以上汽车品牌相关工作经验，熟悉渠道建设或中台支持业务流程； 具备较强的抗压能力和高度的责任心，能适应快节奏、高强度的工作环境，并能接受周末临时性工作支持； 具备优秀的跨部门沟通与协调能力，善于推动多方协作； 熟练使用Office等常用办公软件，具备一定的数据处理和文档管理能力。",
+      "JD": "岗位职责： 对接建设经理，协同制定门店验收计划，并据此分解、设定月度验收目标，跟踪进度确保达成； 负责新入网经销商相关协议及合同管理，包括《建设意向协议书》《经销合同》的签订，以及保证金退款、授权书申请等手续的办理； 负责门店BI系统的日常维护与数据管理，推动验收周期、建设成本等关键信息的线上化录入、更新与统计分析； 负责门店建设全周期档案的收集、整理与归档，确保信息完整、可追溯； 统筹相关供应商物料费用的付款申请，按流程提报并跟进审批，保障结算及时准确。\n任职要求： 本科及以上学历，具有2年以上汽车品牌相关工作经验，熟悉渠道建设或中台支持业务流程； 具备较强的抗压能力和高度的责任心，能适应快节奏、高强度的工作环境，并能接受周末临时性工作支持； 具备优秀的跨部门沟通与协调能力，善于推动多方协作； 熟练使用Office等常用办公软件，具备一定的数据处理和文档管理能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同",
+          "客户关系",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位职责： 对接建设经理，协同制定门店验收计划，并据此分解、设定月度验收目标，跟踪"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://leapmotor.zhiye.com/campus/detail?jobAdId=18367a92-f325-4a20-bc34-ee406d63ff63",
+      "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

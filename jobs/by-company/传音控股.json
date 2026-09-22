@@ -1,7 +1,7 @@
 {
   "company": "传音控股",
-  "count": 77,
-  "updatedAt": "2026-09-22T14:16:23.003Z",
+  "count": 78,
+  "updatedAt": "2026-09-22T18:38:00.607Z",
   "jobs": [
     {
       "id": "beisen-839bd7f42841",
@@ -3106,6 +3106,98 @@
       "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
     },
     {
+      "id": "beisen-22cc10641c2f",
+      "company": "传音控股",
+      "title": "销售管理专员(J20499)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "数据类专业优先。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1.协助产品组合分析，联动产品及销售把控新老品迭代节奏。 2.参与销售预测、目标拆解及全链路需求管理（AOP-DRP-SI-ST-SO-DOS）。 3.协助定价策略制定，监控返利执行与经营达成。 4.跟进GTM策略执行，协同销售制定策略并复盘优化。 5.监控库存健康度，推动滞销/超期库存处理。",
+      "jobRequirements": "1.数据类专业优先。 2.英语听说读写流利，能作为工作语言，且能够接受频繁出差海外/常驻海外。 3.逻辑清晰，表达能力强，有进取心。 4.熟练使用 Office 办公软件，数据敏感，具备较强数据分析与经营意识。 5.有销售管理/销售运营/GTM实习经验，或消费类硬件公司实习经验者优先。",
+      "JD": "1.协助产品组合分析，联动产品及销售把控新老品迭代节奏。 2.参与销售预测、目标拆解及全链路需求管理（AOP-DRP-SI-ST-SO-DOS）。 3.协助定价策略制定，监控返利执行与经营达成。 4.跟进GTM策略执行，协同销售制定策略并复盘优化。 5.监控库存健康度，推动滞销/超期库存处理。\n1.数据类专业优先。 2.英语听说读写流利，能作为工作语言，且能够接受频繁出差海外/常驻海外。 3.逻辑清晰，表达能力强，有进取心。 4.熟练使用 Office 办公软件，数据敏感，具备较强数据分析与经营意识。 5.有销售管理/销售运营/GTM实习经验，或消费类硬件公司实习经验者优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "数据类专业优先。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.协助产品组合分析，联动产品及销售把控新老品迭代节奏。 2.参与销售预测、目标拆"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=0fd25240-522b-407b-a09b-8644e9559a80",
+      "publishedAt": "2026-09-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
       "id": "beisen-7725131cf8a9",
       "company": "传音控股",
       "title": "AI投放增长专员(J20389)",
@@ -4038,97 +4130,6 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=f3a74239-6298-42f6-9c3c-49426cf93bdd",
       "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
-      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
-    },
-    {
-      "id": "beisen-bbf193f60bfc",
-      "company": "传音控股",
-      "title": "基带工程师（上海）(J20271)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查； 2、独立使用硬件相关专业仪器搭建测试环境完成信号时序&电源&功耗&EMC等指标调测； 3、在工程师指导下对项目开发中硬件系统&电源&充电&外设接口&EMC&可靠性等模块的初级问题进行原因分析并解决； 4、参与手机生产&售后不良分析及改善。",
-      "jobRequirements": "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先; 2、熟悉数电&模电&电路原理等核心知识，了解单片机系统及外接接口; 3、学习能力、抗压能力强，有拼搏精神; 4、有良好的团队合作能力和语音表达能力。 5、英语四级及以上,具备基本的读写能力",
-      "JD": "1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查； 2、独立使用硬件相关专业仪器搭建测试环境完成信号时序&电源&功耗&EMC等指标调测； 3、在工程师指导下对项目开发中硬件系统&电源&充电&外设接口&EMC&可靠性等模块的初级问题进行原因分析并解决； 4、参与手机生产&售后不良分析及改善。\n1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先; 2、熟悉数电&模电&电路原理等核心知识，了解单片机系统及外接接口; 3、学习能力、抗压能力强，有拼搏精神; 4、有良好的团队合作能力和语音表达能力。 5、英语四级及以上,具备基本的读写能力",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "4",
-        "min": 4,
-        "max": 4,
-        "scope": "job",
-        "display": "4人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "4 4 1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=0651bf8a-5e40-4121-8075-70e9bc6d02c1",
-      "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -5472,6 +5473,97 @@
       "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
     },
     {
+      "id": "beisen-bbf193f60bfc",
+      "company": "传音控股",
+      "title": "基带工程师（上海）(J20271)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查； 2、独立使用硬件相关专业仪器搭建测试环境完成信号时序&电源&功耗&EMC等指标调测； 3、在工程师指导下对项目开发中硬件系统&电源&充电&外设接口&EMC&可靠性等模块的初级问题进行原因分析并解决； 4、参与手机生产&售后不良分析及改善。",
+      "jobRequirements": "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先; 2、熟悉数电&模电&电路原理等核心知识，了解单片机系统及外接接口; 3、学习能力、抗压能力强，有拼搏精神; 4、有良好的团队合作能力和语音表达能力。 5、英语四级及以上,具备基本的读写能力",
+      "JD": "1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查； 2、独立使用硬件相关专业仪器搭建测试环境完成信号时序&电源&功耗&EMC等指标调测； 3、在工程师指导下对项目开发中硬件系统&电源&充电&外设接口&EMC&可靠性等模块的初级问题进行原因分析并解决； 4、参与手机生产&售后不良分析及改善。\n1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先; 2、熟悉数电&模电&电路原理等核心知识，了解单片机系统及外接接口; 3、学习能力、抗压能力强，有拼搏精神; 4、有良好的团队合作能力和语音表达能力。 5、英语四级及以上,具备基本的读写能力",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=0651bf8a-5e40-4121-8075-70e9bc6d02c1",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
       "id": "beisen-f829e7930f04",
       "company": "传音控股",
       "title": "生产计划工程师（深圳）(J20322)",
@@ -5928,97 +6020,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=25bf1950-e8dc-4b4b-9e51-2a70c4fc9f39",
-      "publishedAt": "2026-08-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
-      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
-    },
-    {
-      "id": "beisen-9cb19d707ad7",
-      "company": "传音控股",
-      "title": "基带工程师（重庆）(J20270)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "jobDescription": "1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查； 2、独立使用硬件相关专业仪器搭建测试环境完成信号时序&电源&功耗&EMC等指标调测； 3、在工程师指导下对项目开发中硬件系统&电源&充电&外设接口&EMC&可靠性等模块的初级问题进行原因分析并解决； 4、参与手机生产&售后不良分析及改善。",
-      "jobRequirements": "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先; 2、熟悉数电&模电&电路原理等核心知识，了解单片机系统及外接接口; 3、学习能力、抗压能力强，有拼搏精神; 4、有良好的团队合作能力和语音表达能力。 5、英语四级及以上,具备基本的读写能力",
-      "JD": "1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查； 2、独立使用硬件相关专业仪器搭建测试环境完成信号时序&电源&功耗&EMC等指标调测； 3、在工程师指导下对项目开发中硬件系统&电源&充电&外设接口&EMC&可靠性等模块的初级问题进行原因分析并解决； 4、参与手机生产&售后不良分析及改善。\n1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先; 2、熟悉数电&模电&电路原理等核心知识，了解单片机系统及外接接口; 3、学习能力、抗压能力强，有拼搏精神; 4、有良好的团队合作能力和语音表达能力。 5、英语四级及以上,具备基本的读写能力",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "8",
-        "min": 8,
-        "max": 8,
-        "scope": "job",
-        "display": "8人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "8 8 1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=6da92b42-58e6-4c0f-b0e2-3293dfc716f1",
       "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",
@@ -6943,6 +6944,97 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=6ed91dc0-2c51-4ddb-b7e7-de17cc22a1d6",
+      "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-9cb19d707ad7",
+      "company": "传音控股",
+      "title": "基带工程师（重庆）(J20270)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查； 2、独立使用硬件相关专业仪器搭建测试环境完成信号时序&电源&功耗&EMC等指标调测； 3、在工程师指导下对项目开发中硬件系统&电源&充电&外设接口&EMC&可靠性等模块的初级问题进行原因分析并解决； 4、参与手机生产&售后不良分析及改善。",
+      "jobRequirements": "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先; 2、熟悉数电&模电&电路原理等核心知识，了解单片机系统及外接接口; 3、学习能力、抗压能力强，有拼搏精神; 4、有良好的团队合作能力和语音表达能力。 5、英语四级及以上,具备基本的读写能力",
+      "JD": "1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查； 2、独立使用硬件相关专业仪器搭建测试环境完成信号时序&电源&功耗&EMC等指标调测； 3、在工程师指导下对项目开发中硬件系统&电源&充电&外设接口&EMC&可靠性等模块的初级问题进行原因分析并解决； 4、参与手机生产&售后不良分析及改善。\n1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先; 2、熟悉数电&模电&电路原理等核心知识，了解单片机系统及外接接口; 3、学习能力、抗压能力强，有拼搏精神; 4、有良好的团队合作能力和语音表达能力。 5、英语四级及以上,具备基本的读写能力",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历应届毕业生,电子、通信、计算机、自动化等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "8",
+        "min": 8,
+        "max": 8,
+        "scope": "job",
+        "display": "8人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8 8 1、参与基带电路（系统&电源&充电&传感器&外设接口等）原理图及PCB布局布线检查"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=6da92b42-58e6-4c0f-b0e2-3293dfc716f1",
       "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",

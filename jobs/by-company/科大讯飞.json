@@ -1,7 +1,7 @@
 {
   "company": "科大讯飞",
-  "count": 49,
-  "updatedAt": "2026-09-22T14:16:23.003Z",
+  "count": 51,
+  "updatedAt": "2026-09-22T18:38:00.607Z",
   "jobs": [
     {
       "id": "beisen-537ce5ca3df0",
@@ -99,6 +99,104 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=a0d15fb0-829d-46c2-9661-219578ed7ebb",
       "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-c34bf46a3bb4",
+      "company": "科大讯飞",
+      "title": "电商运营经理-商业分析方向(J14410)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，统计学、电子商务、计算机、市场营销等相关专业背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "安徽省·合肥市",
+      "jobDescription": "1、核心数据监控：负责电商店铺客服全链路的运营数据统计，重点监控询单转化率、静默下单转化、退款挽回率等核心指标，确保数据准确及时。 2、竞品与行业分析：定期开展行业趋势追踪及核心竞品调研，深入对标竞品的服务策略、询单打法与挽退机制，挖掘优劣势。",
+      "jobRequirements": "1、本科及以上学历，统计学、电子商务、计算机、市场营销等相关专业背景优先；拥有良好的数理统计基础。 2、熟练使用Excel等办公软件进行复杂数据统计与分析；具备良好的数据可视化呈现能力。 3、具备互联网、电商行业相关的数据分析或运营实习经验者优先。 4、具备极强的逻辑思维与洞察力，善于通过数据驱动业务决策；学习能力强，具备良好的跨部门沟通协作意识，能快速适应业务变化。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "JD": "1、核心数据监控：负责电商店铺客服全链路的运营数据统计，重点监控询单转化率、静默下单转化、退款挽回率等核心指标，确保数据准确及时。 2、竞品与行业分析：定期开展行业趋势追踪及核心竞品调研，深入对标竞品的服务策略、询单打法与挽退机制，挖掘优劣势。\n1、本科及以上学历，统计学、电子商务、计算机、市场营销等相关专业背景优先；拥有良好的数理统计基础。 2、熟练使用Excel等办公软件进行复杂数据统计与分析；具备良好的数据可视化呈现能力。 3、具备互联网、电商行业相关的数据分析或运营实习经验者优先。 4、具备极强的逻辑思维与洞察力，善于通过数据驱动业务决策；学习能力强，具备良好的跨部门沟通协作意识，能快速适应业务变化。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，统计学、电子商务、计算机、市场营销等相关专业背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "跨部门沟通",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "电商",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=77705498-fc0e-4f02-9428-f871f93b047e",
+      "publishedAt": "2026-09-11",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -287,6 +385,102 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=38d815c6-5cc7-4433-8a06-7042685f4fb7",
       "publishedAt": "2026-08-04",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-3c548e426d19",
+      "company": "科大讯飞",
+      "title": "市场经理-培训与项目策划方向(J14575)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "教育、经管、市场等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "安徽省·合肥市",
+      "jobDescription": "1、协助前端岗位能力研究，参与调研访谈、数据整理及能力画像的初步设计，参与训战课程体系的内容研发，协助课程大纲编写、学习路径图整理及课件制作 2、协助业务经验萃取与转化，整理案例、话术、工具，输出课程素材及作战手册 3、培训运营：推进训战项目全流程运营，训前筹备、演练组织、现场助教、通关考核、训后评估 4、内容传播：参与训战项目宣传，采用线上学习、短视频、图文等形式进行内容运营，放大训战影响力 5、支持重点客户演示方案开发，协助收集竞品信息、整理演示脚本及对抗话术库",
+      "jobRequirements": "1、2027届本科及以上，教育、经管、市场等相关专业优先 2、逻辑清晰，具备结构化思考和文字归纳能力，能把复杂信息梳理成条理内容 3、沟通力好，能主动对接多部门收集信息，有访谈或调研经历者加分 4、自驱力强，抗压，能多任务协调 5、能用AI工具高效完成资料梳理与内容产出 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "JD": "1、协助前端岗位能力研究，参与调研访谈、数据整理及能力画像的初步设计，参与训战课程体系的内容研发，协助课程大纲编写、学习路径图整理及课件制作 2、协助业务经验萃取与转化，整理案例、话术、工具，输出课程素材及作战手册 3、培训运营：推进训战项目全流程运营，训前筹备、演练组织、现场助教、通关考核、训后评估 4、内容传播：参与训战项目宣传，采用线上学习、短视频、图文等形式进行内容运营，放大训战影响力 5、支持重点客户演示方案开发，协助收集竞品信息、整理演示脚本及对抗话术库\n1、2027届本科及以上，教育、经管、市场等相关专业优先 2、逻辑清晰，具备结构化思考和文字归纳能力，能把复杂信息梳理成条理内容 3、沟通力好，能主动对接多部门收集信息，有访谈或调研经历者加分 4、自驱力强，抗压，能多任务协调 5、能用AI工具高效完成资料梳理与内容产出 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "教育、经管、市场等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上，教育、经管、市场等相关专业优先"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "内容运营"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=f46f74dc-975f-468e-a602-248ea4869983",
+      "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

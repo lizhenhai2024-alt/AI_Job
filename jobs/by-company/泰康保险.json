@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 236,
-  "updatedAt": "2026-09-22T14:16:23.003Z",
+  "count": 244,
+  "updatedAt": "2026-09-22T18:38:00.607Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -1610,6 +1610,91 @@
       "deadline": ""
     },
     {
+      "id": "beisen-b45e06027ba0",
+      "company": "泰康保险",
+      "title": "人寿-海南分公司(大健康运营部)投诉管理（2027校招）(J89528)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "海南省·海口市",
+      "jobDescription": "对接监管和总公司各项政策规定与制度要求，建立健全分公司投诉管理制度体系，持续优化完善分公司投诉处理机制，妥善处理客户投诉问题，严控风险。 根据投诉审批权限，及时有效处理所辖机构各类投诉事件，妥善协调处理各类投诉案件，做好所辖机构突发事件的风险管控和化解工作。 对接监管，按时落实各项工作汇报要求，跟踪投诉事件后续处理进程。 组织相关部门提前部署应对满期、退保风险，组织对重大案件的协调处理。 加强投诉业务数据分析，建立闭环管理与溯源改善机制，实施差异化管控措施，在分公司层面推动问题前置解决，推动分公司提升合规经营管理水平。 落实抽检要求，开展内审、自查自检，抽查抽访，提升投诉队伍合规作业水平。 加强分支机构队伍建设，加强投诉系列培训，提升处理人员专业管理水平；协助指导中支机构妥善处理各类投诉件。",
+      "jobRequirements": "本科以上学历",
+      "JD": "对接监管和总公司各项政策规定与制度要求，建立健全分公司投诉管理制度体系，持续优化完善分公司投诉处理机制，妥善处理客户投诉问题，严控风险。 根据投诉审批权限，及时有效处理所辖机构各类投诉事件，妥善协调处理各类投诉案件，做好所辖机构突发事件的风险管控和化解工作。 对接监管，按时落实各项工作汇报要求，跟踪投诉事件后续处理进程。 组织相关部门提前部署应对满期、退保风险，组织对重大案件的协调处理。 加强投诉业务数据分析，建立闭环管理与溯源改善机制，实施差异化管控措施，在分公司层面推动问题前置解决，推动分公司提升合规经营管理水平。 落实抽检要求，开展内审、自查自检，抽查抽访，提升投诉队伍合规作业水平。 加强分支机构队伍建设，加强投诉系列培训，提升处理人员专业管理水平；协助指导中支机构妥善处理各类投诉件。\n本科以上学历",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 对接监管和总公司各项政策规定与制度要求，建立健全分公司投诉管理制度体系，持续优化完"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=9f9fd2c2-98e9-4b3d-a480-5866e945085c",
+      "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-f181d6df2c5f",
       "company": "泰康保险",
       "title": "之家-全国-市场营销(J62619)",
@@ -2481,6 +2566,180 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=d9eee738-81f1-40d6-9b87-4a3bda177e3a",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-728227170bd8",
+      "company": "泰康保险",
+      "title": "人寿-江西分公司保单运营岗（2027校招）(J89503)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "一、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江西省·南昌市/赣州市",
+      "jobDescription": "一、保单服务：负责保单运营处理与管理，包括业务管理、培训宣导、指标追踪、系统操作、业务支持等工作，保障保单运营各项工作有序落地； 二、在线化推动：承担保单在线化功能的引导与宣导，推动承保受理、保全受理、回执回访、双录等保单服务环节在线化水平的持续提升； 三、合规风控：负责承保及保全内控合规管理，落实公司合规管理及当地监管要求，防范业务风险。",
+      "jobRequirements": "一、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业； 二、熟练掌握OFFICE、WPS 等办公软件的使用； 三、具备较强的组织协调能力、表达沟通能力、行为管理能力和抗压能力。",
+      "JD": "一、保单服务：负责保单运营处理与管理，包括业务管理、培训宣导、指标追踪、系统操作、业务支持等工作，保障保单运营各项工作有序落地； 二、在线化推动：承担保单在线化功能的引导与宣导，推动承保受理、保全受理、回执回访、双录等保单服务环节在线化水平的持续提升； 三、合规风控：负责承保及保全内控合规管理，落实公司合规管理及当地监管要求，防范业务风险。\n一、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业； 二、熟练掌握OFFICE、WPS 等办公软件的使用； 三、具备较强的组织协调能力、表达沟通能力、行为管理能力和抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "一、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 一、保单服务：负责保单运营处理与管理，包括业务管理、培训宣导、指标追踪、系统操作、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=8c7c8058-5500-443f-9bc7-a680bb0d93cd",
+      "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-cf524cc6b3bf",
+      "company": "泰康保险",
+      "title": "人寿陕西分公司大健康运营部保单运营(J89521)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.专业不限，经管类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "jobDescription": "1.对接总公司保单运营政策及要求，推动督导各项制度、规则与流程有效落地，满足客户及业务队伍服务需求，支持业务发展。 2.负责所辖机构保单运营服务工作，包括业务处理及管理、培训宣导、指标追踪、系统操作、业务支持等工作，保障保单运营各项工作有序3.负责新契约的初审、受理、扫描、问题件、个案处理与管理。 4.负责保全业务受理、问题件、相关通知书邮寄、个案处理与管理。 5.负责回执、回访、双录、保单打印、确认函等业务处理及管理。 6.负责保单相关档案管理，承担档案归档工作，提供档案调阅服务。",
+      "jobRequirements": "1.本科及以上学历2027届应届毕业生 2.专业不限，经管类专业优先 3.良好的沟通表达能力和抗压能力",
+      "JD": "1.对接总公司保单运营政策及要求，推动督导各项制度、规则与流程有效落地，满足客户及业务队伍服务需求，支持业务发展。 2.负责所辖机构保单运营服务工作，包括业务处理及管理、培训宣导、指标追踪、系统操作、业务支持等工作，保障保单运营各项工作有序3.负责新契约的初审、受理、扫描、问题件、个案处理与管理。 4.负责保全业务受理、问题件、相关通知书邮寄、个案处理与管理。 5.负责回执、回访、双录、保单打印、确认函等业务处理及管理。 6.负责保单相关档案管理，承担档案归档工作，提供档案调阅服务。\n1.本科及以上学历2027届应届毕业生 2.专业不限，经管类专业优先 3.良好的沟通表达能力和抗压能力",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.专业不限，经管类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.对接总公司保单运营政策及要求，推动督导各项制度、规则与流程有效落地，满足客户及"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=53e06552-bda3-4e9a-882d-57c3763f36f9",
+      "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -11783,6 +12042,251 @@
       "deadline": "2028-06-08"
     },
     {
+      "id": "beisen-eaf0251f5a06",
+      "company": "泰康保险",
+      "title": "人寿-海南分公司(银行保险部)渠道管理（2027校招）(J89527)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "海南省·海口市",
+      "jobDescription": "1.起草渠道的相关合作制度和文件，渠道关系公关维护 2.渠道年度销售任务的计划、分解与追踪实施 3.渠道培训方案的制定、宣导并组织实施 4.对渠道竞赛方案进行追踪、总结，定期提出可行性分析报告。 5.渠道会议组织经营 6.渠道合规经营管理 7.负责渠道数据的收集，建立顺畅的渠道沟通；",
+      "jobRequirements": "本科以上学历",
+      "JD": "1.起草渠道的相关合作制度和文件，渠道关系公关维护 2.渠道年度销售任务的计划、分解与追踪实施 3.渠道培训方案的制定、宣导并组织实施 4.对渠道竞赛方案进行追踪、总结，定期提出可行性分析报告。 5.渠道会议组织经营 6.渠道合规经营管理 7.负责渠道数据的收集，建立顺畅的渠道沟通；\n本科以上学历",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.起草渠道的相关合作制度和文件，渠道关系公关维护 2.渠道年度销售任务的计划、分"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=6b80b667-523b-495d-9a2a-4fd6b5a13364",
+      "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2ea7c9d41a7f",
+      "company": "泰康保险",
+      "title": "人寿陕西分公司续期收展部续期管理(J89525)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、专业不限，经管类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "jobDescription": "1、分公司续期管理制度研讨制定、调整、升级与完善，不断优化续期管理办法,强化业务品质管理，确保队伍及指标的正确经营方向和结果 2、负责分公司续期收费内外勤队伍管理、实施培训计划，建设荣誉体系，不断提升分公司续期收费内外勤的收费能力，助力续期各项指标达成 3、制定分公司续期品质管理办法，追踪落实情况，完善品质管理各项制度 4、负责分公司首期保单品质的管控，包括：自保件管理、新人专属产品管理、短期契约替换管理，确保分公司续期品质得到有效管控 5、负责对下辖机构续期内勤进行管理，根据《续期业务管理规定》对续期内勤进行日常管理，不断提升内勤队伍的技能",
+      "jobRequirements": "1、本科及以上学/2027届应届毕业生 2、专业不限，经管类专业优先 3、良好的沟通表达能力和较强的责任心 4、熟练使用各种办公软件",
+      "JD": "1、分公司续期管理制度研讨制定、调整、升级与完善，不断优化续期管理办法,强化业务品质管理，确保队伍及指标的正确经营方向和结果 2、负责分公司续期收费内外勤队伍管理、实施培训计划，建设荣誉体系，不断提升分公司续期收费内外勤的收费能力，助力续期各项指标达成 3、制定分公司续期品质管理办法，追踪落实情况，完善品质管理各项制度 4、负责分公司首期保单品质的管控，包括：自保件管理、新人专属产品管理、短期契约替换管理，确保分公司续期品质得到有效管控 5、负责对下辖机构续期内勤进行管理，根据《续期业务管理规定》对续期内勤进行日常管理，不断提升内勤队伍的技能\n1、本科及以上学/2027届应届毕业生 2、专业不限，经管类专业优先 3、良好的沟通表达能力和较强的责任心 4、熟练使用各种办公软件",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业不限，经管类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、分公司续期管理制度研讨制定、调整、升级与完善，不断优化续期管理办法,强化业务品"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=9ea112c7-631c-4f46-8f8f-2d78d2a7a304",
+      "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-81402ac61ac4",
+      "company": "泰康保险",
+      "title": "人寿陕西分公司续期服务部续期管理(J89517)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、专业不限，经管类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "jobDescription": "1、续收数据的提取及下发 2、续收指标的追踪与督导 3、续收业务系统的维护、监控及培训 4、满期转保追踪督导 5、定期撰写报告并进行详细分析",
+      "jobRequirements": "1、本科及以上学历2027届应届毕业生 2、专业不限，经管类专业优先 3、能熟练使用各种办公软件 4、良好的沟通能力和较强的责任心",
+      "JD": "1、续收数据的提取及下发 2、续收指标的追踪与督导 3、续收业务系统的维护、监控及培训 4、满期转保追踪督导 5、定期撰写报告并进行详细分析\n1、本科及以上学历2027届应届毕业生 2、专业不限，经管类专业优先 3、能熟练使用各种办公软件 4、良好的沟通能力和较强的责任心",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业不限，经管类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、续收数据的提取及下发 2、续收指标的追踪与督导 3、续收业务系统的维护、监控及"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=1ff3aaab-6478-49f1-8c84-10871601348c",
+      "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-ff8e32304566",
       "company": "泰康保险",
       "title": "医疗-宁波泰康医院-护士-2027(J89472)",
@@ -14211,6 +14715,177 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=c19a7905-ea8a-41e4-aad9-319b17c4d9a6",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b6a406723479",
+      "company": "泰康保险",
+      "title": "人寿-海南分公司（组发培训部）培训管理（2027校招）(J89228)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科或以上学历，金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "海南省·海口市",
+      "jobDescription": "统筹部门整体培训工作规划及相关费用预算； 分公司本部及下辖机构培训费用预算审批及培训费用执行率的追踪、考核； 追踪、考核各中支/本部； 制定并修订分公司教材管理相关制度； 开展教材征订使用管理，协助总公司维护教材专业资料库； 及时审核、定期抽检中支/本部举办各类培训班教材，确保合规性； 结合培训管理系统，落实培训管理各项工作要求，培训中支/本部培训系统管理员； 维护和管理培训管理系统和线上培训平台； 规划建立培训会报体系，组织实施各类现场及远程培训工作会议； 规划、制定、统筹实施分公司培训系列管理干部及部门新员工培养。",
+      "jobRequirements": "本科或以上学历，金融、保险、市场、教育等相关专业",
+      "JD": "统筹部门整体培训工作规划及相关费用预算； 分公司本部及下辖机构培训费用预算审批及培训费用执行率的追踪、考核； 追踪、考核各中支/本部； 制定并修订分公司教材管理相关制度； 开展教材征订使用管理，协助总公司维护教材专业资料库； 及时审核、定期抽检中支/本部举办各类培训班教材，确保合规性； 结合培训管理系统，落实培训管理各项工作要求，培训中支/本部培训系统管理员； 维护和管理培训管理系统和线上培训平台； 规划建立培训会报体系，组织实施各类现场及远程培训工作会议； 规划、制定、统筹实施分公司培训系列管理干部及部门新员工培养。\n本科或以上学历，金融、保险、市场、教育等相关专业",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "本科或以上学历，金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 统筹部门整体培训工作规划及相关费用预算； 分公司本部及下辖机构培训费用预算审批及培"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=44bde3b6-2802-423e-b5ed-664a7b5913d0",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a76a62a166f9",
+      "company": "泰康保险",
+      "title": "人寿-海南分公司（三亚中支）企划督导（2027校招）(J89229)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科或以上学历，金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "海南省·三亚市",
+      "jobDescription": "根据分公司要求，制定合理的企划和业务推动方案，促进营销队伍提升销售业绩； 组织开展各项市场推广活动，助力业务发展； 指导支公司、营业部各项营销活动的开展和落实； 反馈机构各项业务活动进度和问题； 按要求收集统计报送个险业绩指标； 组织产品相关培训、训练； 利用总分公司新产品的包装和行销辅助工具，制定新产品推动激励方案；",
+      "jobRequirements": "本科或以上学历，金融、保险、市场、教育等相关专业",
+      "JD": "根据分公司要求，制定合理的企划和业务推动方案，促进营销队伍提升销售业绩； 组织开展各项市场推广活动，助力业务发展； 指导支公司、营业部各项营销活动的开展和落实； 反馈机构各项业务活动进度和问题； 按要求收集统计报送个险业绩指标； 组织产品相关培训、训练； 利用总分公司新产品的包装和行销辅助工具，制定新产品推动激励方案；\n本科或以上学历，金融、保险、市场、教育等相关专业",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "本科或以上学历，金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 根据分公司要求，制定合理的企划和业务推动方案，促进营销队伍提升销售业绩； 组织开展"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=f705c666-9c8e-4a4a-8a2c-3220fecb716b",
       "publishedAt": "2026-09-10",
       "lastVerified": "",
       "sourceType": "official",

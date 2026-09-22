@@ -1,7 +1,7 @@
 {
   "company": "京东",
-  "count": 41,
-  "updatedAt": "2026-09-22T14:16:23.003Z",
+  "count": 40,
+  "updatedAt": "2026-09-22T18:38:00.607Z",
   "jobs": [
     {
       "id": "jd-c662966ed333",
@@ -3235,94 +3235,6 @@
       "source": "京东官方2027校园招聘官网",
       "officialURL": "https://campus.jd.com/#/jobs",
       "publishedAt": "2026-07-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "jd-1fe19fcfe5f8",
-      "company": "京东",
-      "title": "用工渠道拓展",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.负责一线用工保障工作，根据岗位职责范围按需保障到位； 2.负责一线用工招聘渠道的开发、运营、效能提升，对招聘渠道进行日常运营与效果分析； 3.跟进整体招聘流程，有效控制与优化人均招聘成本； 4.与团队成员紧密合作，共同提升招聘效率与质量，助力业务快速发展。",
-      "jobRequirements": "1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先； 2.具有良好的服务意识和团队意识； 3.具有拼搏精神，有责任心； 4.学习能力，具有较强的沟通协调能力及学习能力； 5.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-      "JD": "1.负责一线用工保障工作，根据岗位职责范围按需保障到位； 2.负责一线用工招聘渠道的开发、运营、效能提升，对招聘渠道进行日常运营与效果分析； 3.跟进整体招聘流程，有效控制与优化人均招聘成本； 4.与团队成员紧密合作，共同提升招聘效率与质量，助力业务快速发展。\n1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先； 2.具有良好的服务意识和团队意识； 3.具有拼搏精神，有责任心； 4.学习能力，具有较强的沟通协调能力及学习能力； 5.符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.2026年10月1日-2027年9月30日期间毕业，本科及以上学历，专业不限，人力资源相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "客户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "京东官方2027校园招聘官网",
-      "officialURL": "https://campus.jd.com/#/jobs",
-      "publishedAt": "2026-08-17",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
