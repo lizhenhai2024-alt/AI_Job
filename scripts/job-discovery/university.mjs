@@ -3,6 +3,12 @@ import { fetchText } from './nowcoder.mjs';
 import { CITY_NAMES, htmlToText, classifyRole, detectSkills, detectRisks, shouldKeep, dedupeJobs, is2027, isClosed } from './core.mjs';
 
 const DEFAULT_MAX_LINKS = 36;
+const UNIVERSITY_BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0 Safari/537.36';
+
+async function fetchUniversityText(url) {
+  return fetchText(url, { timeoutMs: 25000, userAgent: UNIVERSITY_BROWSER_UA });
+}
+
 const RECRUIT_LINK_RX = /2027\s*届|27\s*届|校园招聘|校招|秋招|招聘简章|招聘公告|招聘信息|宣讲/i;
 const SKIP_LINK_RX = /登录|注册|联系我们|政策|手续|下载|新闻|通知公告|邀请函|生源信息|双选会邀请|招聘活动邀请/i;
 // 官方宣讲会 API 通道：部分高校列表页为 JS 渲染（如湖南大学 scc.hnu.edu.cn），
@@ -307,7 +313,7 @@ async function mapLimit(items, limit, mapper) {
 }
 
 export async function searchUniversityJobs(profile, universityConfig = {}, {
-  fetcher = fetchText,
+  fetcher = fetchUniversityText,
   now = new Date(),
   concurrency = 4,
   maxSchools = universityConfig.maxActiveSchools || 12
