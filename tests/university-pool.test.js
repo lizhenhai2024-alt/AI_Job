@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import fs from 'node:fs';
 
 import {
   buildUniversityPool,
@@ -9,6 +10,7 @@ import {
   selectUniversityPoolSources,
   universityPoolType,
 } from '../scripts/refresh-university-pool.mjs';
+import { parseUniversityJobPage } from '../scripts/job-discovery/university.mjs';
 
 const config = {
   schools: [
@@ -47,6 +49,29 @@ test('cached fallback is revalidated so old employment news cannot survive a new
     { company: '示例科技有限公司', title: '2027届海外业务培训生' },
   ]);
   assert.deepEqual(jobs.map((x) => x.company), ['示例科技有限公司']);
+});
+
+
+
+test('GDUFS source uses the live job list and job detail pattern', () => {
+  const sourceConfig = JSON.parse(fs.readFileSync('config/university-sources.json', 'utf8'));
+  const source = sourceConfig.schools.find((x) => x.school === '广东外语外贸大学');
+  assert.deepEqual(source.listUrls, ['https://career.gdufs.edu.cn/web/Index/job-list']);
+  assert.equal(source.detailUrlPattern, '/web/Index/job-detail');
+  assert.equal(source.apiCohort, '2027');
+});
+
+test('university job detail extracts employer from Enterprise Info section', () => {
+  const job = parseUniversityJobPage({
+    html: '<html><h1>海外销售</h1><body><div>企业信息</div><div>Company Info</div><h4>得力集团有限公司</h4><div>岗位要求：英语CET6及以上。工作地点：深圳。</div></body></html>',
+    url: 'https://career.gdufs.edu.cn/web/Index/job-detail?id=11133',
+    source: { school: '广东外语外贸大学', apiCohort: '2027', listUrls: ['https://career.gdufs.edu.cn/web/Index/job-list'] },
+    now: new Date('2026-09-22T00:00:00Z'),
+  });
+  assert.equal(job.company, '得力集团有限公司');
+  assert.equal(job.title, '海外销售');
+  assert.equal(job.graduationYear, '2027');
+  assert.deepEqual(job.languages, ['英语']);
 });
 
 
