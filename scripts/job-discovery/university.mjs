@@ -332,14 +332,16 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
   for (const source of sources) {
     const candidates = [];
     let portalErrors = 0;
+    let lastError = '';
     if (source.apiUrl) {
       // 官方 API 通道：直接返回结构化宣讲会记录（JD 仅含宣讲信息），
       // 不抓详情页全文，避免整页专业术语被 isOutOfScopeProfessionalRole 误判。
       let apiJobs = [];
       try {
         apiJobs = await fetchHnuFutureApi(source, now);
-      } catch {
+      } catch (error) {
         portalErrors += 1;
+        lastError = String(error?.message || error || 'unknown university API error');
       }
       listed += apiJobs.length;
       const kept = [];
@@ -359,6 +361,7 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
         detailed: kept.length,
         keptJobs: deduped.length,
         errors: portalErrors,
+        lastError,
         priority: Number(source.priority || 0),
         segments: source.segments || []
       };
@@ -368,8 +371,9 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
       try {
         const html = await fetcher(listUrl);
         candidates.push(...extractUniversityRecruitLinks(html, listUrl, source));
-      } catch {
+      } catch (error) {
         portalErrors += 1;
+        lastError = String(error?.message || error || 'unknown university list error');
       }
     }
     const unique = [...new Map(candidates.map((item) => [item.url, item])).values()].slice(0, Number(source.maxLinks || DEFAULT_MAX_LINKS));
@@ -381,8 +385,12 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
       return shouldKeep(job, profile, now) ? job : null;
     });
     detailed += rows.length;
-    const rowErrors = rows.filter((row) => row?.error).length;
+    const failedRows = rows.filter((row) => row?.error);
+    const rowErrors = failedRows.length;
     portalErrors += rowErrors;
+    if (!lastError && failedRows.length) {
+      lastError = String(failedRows[0].error?.message || failedRows[0].error || 'unknown university detail error');
+    }
     errors += portalErrors;
     const jobs = dedupeJobs(rows.filter((row) => row && !row.error));
     allJobs.push(...jobs);
@@ -393,6 +401,7 @@ export async function searchUniversityJobs(profile, universityConfig = {}, {
       detailed: rows.length,
       keptJobs: jobs.length,
       errors: portalErrors,
+      lastError,
       priority: Number(source.priority || 0),
       segments: source.segments || []
     };
