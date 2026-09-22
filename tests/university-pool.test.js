@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 
 import {
   buildUniversityPool,
+  buildUniversitySourceHealth,
   isPublishableUniversityRecord,
   selectUniversityPoolSources,
   universityPoolType,
@@ -66,4 +67,37 @@ test('dedicated pool keeps university provenance, drops professional roles, and 
   assert.ok(result.jobs.every((x) => !/某银行2027届秋季校园招聘/.test(x.title)));
   assert.ok(result.jobs.every((x) => x.jobDescription.includes('2027届')));
   assert.ok(result.jobs.every((x) => JSON.stringify(x.graduationYear) === JSON.stringify(['2027'])));
+});
+
+
+test('source health distinguishes current success, zero/error, and cached fallback', () => {
+  const updatedAt = '2026-09-22T05:00:00.000Z';
+  const sources = [
+    { school: '成功大学', segments: ['双一流'], priority: 100, listUrls: ['https://ok.edu/list'] },
+    { school: '空结果大学', segments: ['双一流'], priority: 90, listUrls: ['https://zero.edu/list'] },
+    { school: '失败大学', segments: ['外语外贸特色高校'], priority: 80, listUrls: ['https://error.edu/list'] },
+    { school: '缓存大学', segments: ['外语外贸特色高校'], priority: 70, listUrls: ['https://cached.edu/list'] },
+  ];
+  const result = {
+    sources,
+    jobs: [{ universitySchool: '成功大学' }],
+    stats: {
+      perPortal: {
+        成功大学: { listed: 3, detailed: 3, keptJobs: 1, errors: 0, listPages: 1 },
+        空结果大学: { listed: 0, detailed: 0, keptJobs: 0, errors: 0, listPages: 1 },
+        失败大学: { listed: 0, detailed: 0, keptJobs: 0, errors: 1, listPages: 1 },
+        缓存大学: { listed: 0, detailed: 0, keptJobs: 0, errors: 1, listPages: 1 },
+      },
+    },
+  };
+  const legacy = new Map([
+    ['缓存大学', { jobs: [{ title: '旧岗位' }], updatedAt: '2026-09-21T05:00:00.000Z' }],
+  ]);
+  const health = buildUniversitySourceHealth(result, updatedAt, legacy);
+  assert.equal(health.totalSchools, 4);
+  assert.deepEqual(health.statusCounts, { OK: 1, ZERO: 1, ERROR: 1, CACHED: 1 });
+  assert.equal(health.schools.find((x) => x.school === '成功大学').lastSuccess, updatedAt);
+  assert.equal(health.schools.find((x) => x.school === '缓存大学').cachedJobs, 1);
+  assert.equal(health.schools.find((x) => x.school === '缓存大学').lastSuccess, '2026-09-21T05:00:00.000Z');
+  assert.equal(health.schools.find((x) => x.school === '失败大学').status, 'ERROR');
 });
