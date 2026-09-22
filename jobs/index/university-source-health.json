@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T06:05:18.519Z",
+  "updatedAt": "2026-09-22T06:54:35.761Z",
   "sourcePool": "university-employment",
   "totalSchools": 36,
   "statusCounts": {
@@ -12,7 +12,7 @@
   "schools": [
     {
       "school": "北京外国语大学",
-      "status": "ZERO",
+      "status": "ERROR",
       "sourceMode": "html",
       "segments": [
         "211",
@@ -26,9 +26,9 @@
       "keptJobs": 0,
       "publishedJobs": 0,
       "cachedJobs": 0,
-      "errors": 0,
-      "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "errors": 1,
+      "lastError": "fetch failed",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -49,8 +49,8 @@
       "cachedJobs": 1,
       "errors": 3,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:01:16.507Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:05:18.519Z"
     },
     {
       "school": "上海外国语大学",
@@ -70,7 +70,7 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -84,15 +84,15 @@
       ],
       "priority": 105,
       "listPages": 1,
-      "listed": 0,
-      "detailed": 0,
-      "keptJobs": 0,
+      "listed": 16,
+      "detailed": 16,
+      "keptJobs": 1,
       "publishedJobs": 0,
       "cachedJobs": 7,
-      "errors": 1,
+      "errors": 14,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:01:16.507Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:05:18.519Z"
     },
     {
       "school": "湖南大学",
@@ -112,8 +112,8 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:05:18.519Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:54:35.761Z"
     },
     {
       "school": "北京大学",
@@ -133,7 +133,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -154,7 +154,7 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "HTTP 404 Not Found for https://student.career.fudan.edu.cn/teach_.air_type==",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -175,7 +175,7 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -196,12 +196,12 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
       "school": "清华大学",
-      "status": "CACHED",
+      "status": "OK",
       "sourceMode": "html",
       "segments": [
         "985",
@@ -210,15 +210,15 @@
       ],
       "priority": 100,
       "listPages": 1,
-      "listed": 0,
-      "detailed": 0,
-      "keptJobs": 0,
-      "publishedJobs": 0,
-      "cachedJobs": 1,
-      "errors": 1,
+      "listed": 16,
+      "detailed": 16,
+      "keptJobs": 1,
+      "publishedJobs": 1,
+      "cachedJobs": 0,
+      "errors": 8,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:01:16.507Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:54:35.761Z"
     },
     {
       "school": "厦门大学",
@@ -238,8 +238,8 @@
       "cachedJobs": 1,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:01:16.507Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:05:18.519Z"
     },
     {
       "school": "上海交通大学",
@@ -259,7 +259,7 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -280,7 +280,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -301,7 +301,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -322,7 +322,7 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -343,8 +343,8 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:05:18.519Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:54:35.761Z"
     },
     {
       "school": "重庆大学",
@@ -364,7 +364,7 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -385,7 +385,7 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -406,8 +406,8 @@
       "cachedJobs": 3,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:01:16.507Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:05:18.519Z"
     },
     {
       "school": "四川大学",
@@ -427,8 +427,8 @@
       "cachedJobs": 1,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:01:16.507Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:05:18.519Z"
     },
     {
       "school": "西安交通大学",
@@ -448,7 +448,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -468,7 +468,7 @@
       "cachedJobs": 0,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -488,8 +488,8 @@
       "cachedJobs": 1,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:01:16.507Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:05:18.519Z"
     },
     {
       "school": "中南财经政法大学",
@@ -508,7 +508,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -528,12 +528,12 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
       "school": "北京航空航天大学",
-      "status": "ZERO",
+      "status": "ERROR",
       "sourceMode": "html",
       "segments": [
         "985",
@@ -547,9 +547,9 @@
       "keptJobs": 0,
       "publishedJobs": 0,
       "cachedJobs": 0,
-      "errors": 0,
-      "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "errors": 1,
+      "lastError": "fetch failed",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -570,7 +570,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -591,7 +591,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -603,14 +603,14 @@
       ],
       "priority": 120,
       "listPages": 2,
-      "listed": 16,
-      "detailed": 16,
-      "keptJobs": 3,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
       "publishedJobs": 0,
       "cachedJobs": 0,
-      "errors": 1,
+      "errors": 2,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -629,7 +629,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -648,8 +648,8 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:05:18.519Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:54:35.761Z"
     },
     {
       "school": "北京第二外国语学院",
@@ -667,7 +667,7 @@
       "cachedJobs": 0,
       "errors": 0,
       "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
@@ -686,31 +686,31 @@
       "cachedJobs": 1,
       "errors": 1,
       "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
-      "lastSuccess": "2026-09-22T06:01:16.507Z"
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
+      "lastSuccess": "2026-09-22T06:05:18.519Z"
     },
     {
       "school": "西安外国语大学",
-      "status": "OK",
+      "status": "CACHED",
       "sourceMode": "html",
       "segments": [
         "外语外贸特色高校"
       ],
       "priority": 111,
       "listPages": 1,
-      "listed": 16,
-      "detailed": 16,
-      "keptJobs": 1,
-      "publishedJobs": 1,
-      "cachedJobs": 0,
-      "errors": 0,
-      "lastError": "",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 1,
+      "errors": 1,
+      "lastError": "fetch failed",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": "2026-09-22T06:05:18.519Z"
     },
     {
       "school": "天津外国语大学",
-      "status": "ERROR",
+      "status": "ZERO",
       "sourceMode": "html",
       "segments": [
         "外语外贸特色高校"
@@ -722,14 +722,14 @@
       "keptJobs": 0,
       "publishedJobs": 0,
       "cachedJobs": 0,
-      "errors": 1,
-      "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "errors": 0,
+      "lastError": "",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     },
     {
       "school": "大连外国语大学",
-      "status": "ERROR",
+      "status": "ZERO",
       "sourceMode": "html",
       "segments": [
         "外语外贸特色高校"
@@ -741,9 +741,9 @@
       "keptJobs": 0,
       "publishedJobs": 0,
       "cachedJobs": 0,
-      "errors": 1,
-      "lastError": "fetch failed",
-      "lastAttempt": "2026-09-22T06:05:18.519Z",
+      "errors": 0,
+      "lastError": "",
+      "lastAttempt": "2026-09-22T06:54:35.761Z",
       "lastSuccess": ""
     }
   ]
