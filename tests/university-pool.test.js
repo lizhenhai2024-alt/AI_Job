@@ -32,6 +32,10 @@ test('publisher rejects obvious policy prose and page-section headings without a
     title: '办公地址',
   }), false);
   assert.equal(isPublishableUniversityRecord({ company: '示例科技有限公司', title: '联系方式' }), false);
+  assert.equal(isPublishableUniversityRecord({
+    company: '国际关系学院举办',
+    title: '国际关系学院举办2027届毕业生就业动员大会',
+  }), false);
   assert.equal(isPublishableUniversityRecord({ company: '示例科技有限公司', title: '海外业务培训生' }), true);
 });
 
