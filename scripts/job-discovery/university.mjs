@@ -190,6 +190,10 @@ function extractCompany(title = '', text = '', source = {}) {
     const cleaned = cleanCompanyCandidate(explicit);
     if (isPlausibleUniversityCompany(cleaned, source)) return cleaned;
   }
+  const companyInfo = cleanCompanyCandidate(
+    String(text).match(/企业信息\s*(?:Company Info\s*)?([^\n。；;]{2,100})/i)?.[1]?.trim() || ''
+  );
+  if (companyInfo && isPlausibleUniversityCompany(companyInfo, source)) return companyInfo;
   const bracket = cleanCompanyCandidate(String(text).match(/〖([^〗]{2,50})〗/)?.[1]?.trim() || '');
   if (bracket && !/就业|大学|中心/.test(bracket) && isPlausibleUniversityCompany(bracket, source)) return bracket;
   const prefix = cleanCompanyCandidate(String(title)

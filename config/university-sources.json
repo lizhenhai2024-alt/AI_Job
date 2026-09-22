@@ -9,7 +9,7 @@
   },
   "maxActiveSchools": 12,
   "schools": [
-    {"school":"广东外语外贸大学","segments":["外语外贸特色高校"],"priority":120,"enabled":true,"verified":true,"listUrls":["https://career.gdufs.edu.cn/index.php/web/Index/jobs-brief-list","https://career.gdufs.edu.cn/web/Index/index"],"detailUrlPattern":"/web/Index/jobs-brief-detail","maxLinks":40},
+    {"school":"广东外语外贸大学","segments":["外语外贸特色高校"],"priority":120,"enabled":true,"verified":true,"listUrls":["https://career.gdufs.edu.cn/web/Index/job-list"],"detailUrlPattern":"/web/Index/job-detail","apiCohort":"2027","maxLinks":40},
     {"school":"北京外国语大学","segments":["211","双一流","外语外贸特色高校"],"priority":119,"enabled":true,"verified":true,"listUrls":["https://jyzd.bfsu.edu.cn/"],"detailUrlPattern":"/front/zpxx\\.jspa","maxLinks":40},
     {"school":"对外经济贸易大学","segments":["211","双一流","外语外贸特色高校"],"priority":118,"enabled":true,"verified":true,"listUrls":["https://career.uibe.edu.cn/"],"allowedBases":["https://aeo.uibe.edu.cn/"],"detailUrlPattern":"/front/showContent\\.jspa","maxLinks":36},
     {"school":"上海外国语大学","segments":["211","双一流","外语外贸特色高校"],"priority":116,"enabled":true,"verified":true,"listUrls":["https://career.shisu.edu.cn/"],"maxLinks":36},
