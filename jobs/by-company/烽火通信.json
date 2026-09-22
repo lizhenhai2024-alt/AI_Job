@@ -1,494 +1,8 @@
 {
   "company": "烽火通信",
-  "count": 11,
-  "updatedAt": "2026-09-21T20:06:36.926Z",
+  "count": 13,
+  "updatedAt": "2026-09-22T14:16:23.003Z",
   "jobs": [
-    {
-      "id": "moka-16c74c576853",
-      "company": "烽火通信",
-      "title": "采购管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jobRequirements": "",
-      "JD": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/e61cd849-497a-4d4a-8771-5ad8b0dd37cf",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-61b9d0e47567",
-      "company": "烽火通信",
-      "title": "采购管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jobRequirements": "",
-      "JD": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/98e8d2a0-181c-4a22-8492-2f5f93f2fff2",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-db6fb5ad8316",
-      "company": "烽火通信",
-      "title": "采购管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jobRequirements": "",
-      "JD": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/92c62807-f9a7-4bc6-a43a-90db2f8dc85d",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-b3c58b3f90f1",
-      "company": "烽火通信",
-      "title": "采购管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jobRequirements": "",
-      "JD": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/b5a78354-78e7-4102-8b58-d1146bc45a4f",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-653027c210c1",
-      "company": "烽火通信",
-      "title": "采购管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jobRequirements": "",
-      "JD": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/5b60d40b-c370-4559-8ef7-e29ece12ced6",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-73746fea0078",
-      "company": "烽火通信",
-      "title": "采购管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jobRequirements": "",
-      "JD": "采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/56bd4a16-7176-4797-8289-a3d1a2789d7e",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
     {
       "id": "moka-4d2316268cbc",
       "company": "烽火通信",
@@ -568,6 +82,686 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/1997fdf6-a63d-4836-9f27-2d46e14db392",
       "publishedAt": "2026-08-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-8ac698e189ca",
+      "company": "烽火通信",
+      "title": "售前解决方案经理（海外）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jobRequirements": "",
+      "JD": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/51c42462-8b2c-4769-a446-175ae1c4cade",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-16c74c576853",
+      "company": "烽火通信",
+      "title": "售前解决方案经理（海外）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jobRequirements": "",
+      "JD": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/e61cd849-497a-4d4a-8771-5ad8b0dd37cf",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-61b9d0e47567",
+      "company": "烽火通信",
+      "title": "售前解决方案经理（海外）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jobRequirements": "",
+      "JD": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/98e8d2a0-181c-4a22-8492-2f5f93f2fff2",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-db6fb5ad8316",
+      "company": "烽火通信",
+      "title": "售前解决方案经理（海外）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jobRequirements": "",
+      "JD": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/92c62807-f9a7-4bc6-a43a-90db2f8dc85d",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-b3c58b3f90f1",
+      "company": "烽火通信",
+      "title": "售前解决方案经理（海外）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jobRequirements": "",
+      "JD": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/b5a78354-78e7-4102-8b58-d1146bc45a4f",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-9cf39cef10af",
+      "company": "烽火通信",
+      "title": "售前解决方案经理（海外）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jobRequirements": "",
+      "JD": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/4391d258-4078-4b7d-a59c-84fc4efc7e18",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-653027c210c1",
+      "company": "烽火通信",
+      "title": "售前解决方案经理（海外）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jobRequirements": "",
+      "JD": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/5b60d40b-c370-4559-8ef7-e29ece12ced6",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-73746fea0078",
+      "company": "烽火通信",
+      "title": "售前解决方案经理（海外）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jobRequirements": "",
+      "JD": "售前解决方案经理（海外） 发布于 2026-08-19 急 采购管培生 发布于 2026-08-19 急 技术支持工程师（小语种） 发布于 2026-08-19 急 电源工程师 发布于 2026-08-19 急 散热工程师 发布于 2026-08-19 急 光模块/器件工程师 发布于 2026-08-19 急 生产测试工程师 发布于 2026-08-19 急 光纤光缆研发工程师（博士） 发布于 2026-08-19 急 光模块/器件工程师（博士） 发布于 2026-08-19 急 软件开发工程师-H5 发布于 2026-08-19 急 PCB工程师 发布于 2026-08-19",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/whfhtx/73922#/job/56bd4a16-7176-4797-8289-a3d1a2789d7e",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

@@ -1,7 +1,7 @@
 {
   "company": "中兴通讯",
-  "count": 6,
-  "updatedAt": "2026-09-21T20:06:36.926Z",
+  "count": 7,
+  "updatedAt": "2026-09-22T14:16:23.003Z",
   "jobs": [
     {
       "id": "moka-3313e6e9ae7a",
@@ -254,6 +254,91 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/zte/46903#/job/74c9f705-00f2-4fdb-988c-7fa29907800f",
       "publishedAt": "2026-08-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→综合测评（所有岗位）→岗位笔试（部分岗位）→专业面试→综合面试→终试洽谈→签约",
+      "recruitmentProcessEvidence": "E1 | 中兴通讯官方校招流程页 | https://job.zte.com.cn/cn/campus-recruitment/School_Recruitment_Announcement/process.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 中兴通讯官方校招FAQ | https://job.zte.com.cn/cn/campus-recruitment/faq.html/ | 2026-09-17"
+    },
+    {
+      "id": "moka-936e03d099ee",
+      "company": "中兴通讯",
+      "title": "行政管理经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "运营支撑类",
+      "jobRequirements": "",
+      "JD": "运营支撑类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/zte/46903#/job/1543a4d6-3d1d-454e-8007-3e4f3747cb37",
+      "publishedAt": "2025-09-01",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

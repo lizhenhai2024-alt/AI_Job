@@ -1,7 +1,7 @@
 {
   "company": "特斯拉中国",
-  "count": 143,
-  "updatedAt": "2026-09-21T20:06:36.926Z",
+  "count": 141,
+  "updatedAt": "2026-09-22T14:16:23.003Z",
   "jobs": [
     {
       "id": "moka-989aa3b76b0c",
@@ -1049,6 +1049,164 @@
       "deadline": ""
     },
     {
+      "id": "moka-1efd34f882a4",
+      "company": "特斯拉中国",
+      "title": "2027届-服务专家-上海",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "2027届-服务专家-上海 发布于 2026-09-18 服务 服务 | 上海市 上海市",
+      "jobRequirements": "",
+      "JD": "2027届-服务专家-上海 发布于 2026-09-18 服务 服务 | 上海市 上海市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/b269bec9-231f-40e3-b531-9568188d02bd",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-323ebc73e091",
+      "company": "特斯拉中国",
+      "title": "0-2年毕业生-企业综合事务部专员，策划设计方向-上海",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jobRequirements": "",
+      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/2211e937-2fc4-4402-b925-09665d25b245",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "moka-163960145f47",
       "company": "特斯拉中国",
       "title": "2027届-电驱制造工程师-上海",
@@ -1201,164 +1359,6 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/c1062ee6-2bf5-40a3-990d-374d5fdad1e3",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-323ebc73e091",
-      "company": "特斯拉中国",
-      "title": "0-2年毕业生-企业综合事务部专员，策划设计方向-上海",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "jobRequirements": "",
-      "JD": "公司官方 Moka 校招岗位；投递前请打开官方职位页确认完整职责与截止日期。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/2211e937-2fc4-4402-b925-09665d25b245",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-fc23ca042ecb",
-      "company": "特斯拉中国",
-      "title": "2027届-服务专家-苏州",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "苏州",
-      "jobDescription": "2027届-服务专家-苏州",
-      "jobRequirements": "",
-      "JD": "2027届-服务专家-苏州",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/479bd088-51a3-4466-830a-6ee2841fade2",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -1754,6 +1754,85 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/7423c2d9-447e-41e0-8aaa-12691a58461d",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-fc23ca042ecb",
+      "company": "特斯拉中国",
+      "title": "2027届-服务专家-苏州",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "苏州",
+      "jobDescription": "2027届-服务专家-苏州 发布于 2026-09-16 服务 服务 | 江苏·苏州市 江苏·苏州市",
+      "jobRequirements": "",
+      "JD": "2027届-服务专家-苏州 发布于 2026-09-16 服务 服务 | 江苏·苏州市 江苏·苏州市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/479bd088-51a3-4466-830a-6ee2841fade2",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -4227,85 +4306,6 @@
       "deadline": ""
     },
     {
-      "id": "moka-ac0b07d7d0c6",
-      "company": "特斯拉中国",
-      "title": "0-2年毕业生-开闭件工程师，玻璃-上海",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "0-2年毕业生-开闭件工程师，玻璃-上海 发布于 2026-07-09 产品研发创新中心 产品研发创新中心 | 上海市 上海市",
-      "jobRequirements": "",
-      "JD": "0-2年毕业生-开闭件工程师，玻璃-上海 发布于 2026-07-09 产品研发创新中心 产品研发创新中心 | 上海市 上海市",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/8fdaa8ad-e9ea-4c38-b19a-1e4dbdc434f0",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "moka-a088c51e1c18",
       "company": "特斯拉中国",
       "title": "0-2年毕业生-助理特斯拉顾问-北京",
@@ -4328,9 +4328,9 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "jobDescription": "0-2年毕业生-助理特斯拉顾问-北京 发布于 2026-06-29 销售/交付 销售/交付 | 北京市 北京市",
+      "jobDescription": "0-2年毕业生-助理特斯拉顾问-北京 发布于 2026-06-29 销售/交付 销售/交付",
       "jobRequirements": "",
-      "JD": "0-2年毕业生-助理特斯拉顾问-北京 发布于 2026-06-29 销售/交付 销售/交付 | 北京市 北京市",
+      "JD": "0-2年毕业生-助理特斯拉顾问-北京 发布于 2026-06-29 销售/交付 销售/交付",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -4537,85 +4537,6 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/737d45ac-a6b0-461a-b38f-338583a430da",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-3db68b40fe40",
-      "company": "特斯拉中国",
-      "title": "2027届-开闭件工程师，玻璃-上海",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "发布于 2026-09-16 产品研发创新中心 产品研发创新中心 | 上海市 上海市",
-      "jobRequirements": "",
-      "JD": "发布于 2026-09-16 产品研发创新中心 产品研发创新中心 | 上海市 上海市",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/57ac1d7a-9952-4710-887f-1d20cf301485",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -5260,9 +5181,9 @@
       "deadline": ""
     },
     {
-      "id": "moka-1efd34f882a4",
+      "id": "moka-ac0b07d7d0c6",
       "company": "特斯拉中国",
-      "title": "2027届-服务专家-上海",
+      "title": "0-2年毕业生-开闭件工程师，玻璃-上海",
       "graduationYear": [
         "2027"
       ],
@@ -5282,9 +5203,9 @@
         "minorLanguageRequired": false
       },
       "location": "上海",
-      "jobDescription": "上海服务 Shanghai Service 服务 丰翔路1358号",
+      "jobDescription": "研发-车辆工程 Vehicle Engineering 产品研发创新中心 上海市浦东新区正嘉路1188号，特斯拉上海超级工厂",
       "jobRequirements": "",
-      "JD": "上海服务 Shanghai Service 服务 丰翔路1358号",
+      "JD": "研发-车辆工程 Vehicle Engineering 产品研发创新中心 上海市浦东新区正嘉路1188号，特斯拉上海超级工厂",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -5332,8 +5253,87 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/b269bec9-231f-40e3-b531-9568188d02bd",
-      "publishedAt": "2026-09-17",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/8fdaa8ad-e9ea-4c38-b19a-1e4dbdc434f0",
+      "publishedAt": "2026-07-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-1cf9b28e2561",
+      "company": "特斯拉中国",
+      "title": "2027届-技术服务专家-海口",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "2027届-技术服务专家-海口 发布于 2026-09-18 服务 服务 | 海南·海口市 海南·海口市",
+      "jobRequirements": "",
+      "JD": "2027届-技术服务专家-海口 发布于 2026-09-18 服务 服务 | 海南·海口市 海南·海口市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/eb2f0381-3950-484d-a679-8898cb15d7a9",
+      "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -5412,85 +5412,6 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/8b50f661-eaa1-4ab3-be17-6b5078c33542",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-1317a52917f7",
-      "company": "特斯拉中国",
-      "title": "2027届-服务专家-南京",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "南京",
-      "jobDescription": "2027届-服务专家-南京",
-      "jobRequirements": "",
-      "JD": "2027届-服务专家-南京",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/214e2d9f-0d68-4cba-8362-2e1ea1e53e92",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -5886,6 +5807,85 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/fe3ea148-648e-4387-a763-94e0f34bfb79",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-1317a52917f7",
+      "company": "特斯拉中国",
+      "title": "2027届-服务专家-南京",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "2027届-服务专家-南京 发布于 2026-09-16 服务 服务 | 江苏·南京市 江苏·南京市",
+      "jobRequirements": "",
+      "JD": "2027届-服务专家-南京 发布于 2026-09-16 服务 服务 | 江苏·南京市 江苏·南京市",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/214e2d9f-0d68-4cba-8362-2e1ea1e53e92",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -8758,9 +8758,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "0-2年毕业生-助理特斯拉顾问（销售方向）-青岛 发布于 2026-05-12 销售/交付 销售/交付 | 山东·青岛市 山东·青岛市",
+      "jobDescription": "0-2年毕业生-助理特斯拉顾问（销售方向）-青岛 发布于 2026-05-12 销售/交付 销售/交付",
       "jobRequirements": "",
-      "JD": "0-2年毕业生-助理特斯拉顾问（销售方向）-青岛 发布于 2026-05-12 销售/交付 销售/交付 | 山东·青岛市 山东·青岛市",
+      "JD": "0-2年毕业生-助理特斯拉顾问（销售方向）-青岛 发布于 2026-05-12 销售/交付 销售/交付",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -9469,9 +9469,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "0-2年毕业生-助理特斯拉顾问-遵义 发布于 2026-02-04 销售/交付 销售/交付 | 贵州·遵义市 贵州·遵义市",
+      "jobDescription": "0-2年毕业生-助理特斯拉顾问-遵义 发布于 2026-02-04 销售/交付 销售/交付",
       "jobRequirements": "",
-      "JD": "0-2年毕业生-助理特斯拉顾问-遵义 发布于 2026-02-04 销售/交付 销售/交付 | 贵州·遵义市 贵州·遵义市",
+      "JD": "0-2年毕业生-助理特斯拉顾问-遵义 发布于 2026-02-04 销售/交付 销售/交付",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -9627,9 +9627,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "0-2年毕业生-助理特斯拉顾问-贵阳 发布于 2026-02-04 销售/交付 销售/交付 | 贵州·贵阳市 贵州·贵阳市",
+      "jobDescription": "0-2年毕业生-助理特斯拉顾问-贵阳 发布于 2026-02-04 销售/交付 销售/交付",
       "jobRequirements": "",
-      "JD": "0-2年毕业生-助理特斯拉顾问-贵阳 发布于 2026-02-04 销售/交付 销售/交付 | 贵州·贵阳市 贵州·贵阳市",
+      "JD": "0-2年毕业生-助理特斯拉顾问-贵阳 发布于 2026-02-04 销售/交付 销售/交付",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -9706,9 +9706,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "0-2年毕业生-助理特斯拉顾问（销售方向）-山东 发布于 2026-02-04 销售/交付 销售/交付 | 山东·济南市 山东·滨州市 山东·烟台市等9个地点 山东·济南市 山东·滨州市 山东·烟台市等9个地点",
+      "jobDescription": "0-2年毕业生-助理特斯拉顾问（销售方向）-山东 发布于 2026-02-04 销售/交付 销售/交付",
       "jobRequirements": "",
-      "JD": "0-2年毕业生-助理特斯拉顾问（销售方向）-山东 发布于 2026-02-04 销售/交付 销售/交付 | 山东·济南市 山东·滨州市 山东·烟台市等9个地点 山东·济南市 山东·滨州市 山东·烟台市等9个地点",
+      "JD": "0-2年毕业生-助理特斯拉顾问（销售方向）-山东 发布于 2026-02-04 销售/交付 销售/交付",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -11180,164 +11180,6 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/42ee64ce-9ecd-4227-9885-d6edea3d25e1",
       "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-24d110d41eb0",
-      "company": "特斯拉中国",
-      "title": "0-2年毕业生-维修技师-贵阳",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "发布于 2026-07-28 服务 服务 | 贵州·贵阳市 贵州·贵阳市",
-      "jobRequirements": "",
-      "JD": "发布于 2026-07-28 服务 服务 | 贵州·贵阳市 贵州·贵阳市",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/f878240b-fea1-4667-9dfc-2335d0e5552a",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "moka-1cf9b28e2561",
-      "company": "特斯拉中国",
-      "title": "2027届-技术服务专家-海口",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "南区服务 South Service 服务 金盘路2-8号海口龙华特斯拉中心",
-      "jobRequirements": "",
-      "JD": "南区服务 South Service 服务 金盘路2-8号海口龙华特斯拉中心",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/tesla/41460#/job/eb2f0381-3950-484d-a679-8898cb15d7a9",
-      "publishedAt": "2026-09-17",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

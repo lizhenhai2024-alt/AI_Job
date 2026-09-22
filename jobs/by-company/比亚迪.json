@@ -1,7 +1,7 @@
 {
   "company": "比亚迪",
-  "count": 45,
-  "updatedAt": "2026-09-21T20:06:36.926Z",
+  "count": 48,
+  "updatedAt": "2026-09-22T14:16:23.003Z",
   "jobs": [
     {
       "id": "byd-15eee88d6334",
@@ -1903,6 +1903,96 @@
       "deadline": ""
     },
     {
+      "id": "byd-c5d1775e857b",
+      "company": "比亚迪",
+      "title": "售后经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历要求：本科 外语要求：CET62 专业要求：英语、西班牙语、项目管理；电气，自动化，机械，电子，软件工程专业优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历要求：本科 外语要求：CET62 专业要求：英语、西班牙语、项目管理"
+        ]
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": true
+      },
+      "location": "深圳",
+      "jobDescription": "1、售后项目合同质保条款合同评估，项目交付调试人员工作安排及项目进度把控； 2、交付后的项目质保管理，延保及转保等业务； 3、交付后的项目年度维护管理，服务商服务报告等； 4、处理售后有关的客诉问题，及客户变更需求处理。",
+      "jobRequirements": "知识技能要求： 熟练掌握产品故障处理及相关指导文件的编写，熟练的储能产品知识； 学历要求：本科 外语要求：CET62 专业要求：英语、西班牙语、项目管理；电气，自动化，机械，电子，软件工程专业优先",
+      "JD": "1、售后项目合同质保条款合同评估，项目交付调试人员工作安排及项目进度把控； 2、交付后的项目质保管理，延保及转保等业务； 3、交付后的项目年度维护管理，服务商服务报告等； 4、处理售后有关的客诉问题，及客户变更需求处理。\n知识技能要求： 熟练掌握产品故障处理及相关指导文件的编写，熟练的储能产品知识； 学历要求：本科 外语要求：CET62 专业要求：英语、西班牙语、项目管理；电气，自动化，机械，电子，软件工程专业优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "学历要求：本科 外语要求：CET62 专业要求：英语、西班牙语、项目管理",
+          "电气，自动化，机械，电子，软件工程专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "比亚迪2027届校园招聘官网",
+      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+      "publishedAt": "2026-09-04",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "byd-5b98243ffa69",
       "company": "比亚迪",
       "title": "绩效管理专员",
@@ -3693,6 +3783,96 @@
       "deadline": ""
     },
     {
+      "id": "byd-1b05c57a938a",
+      "company": "比亚迪",
+      "title": "高级客诉管理专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历要求：硕士 外语要求：CET-6 专业要求：不限，英语、日语专业优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历要求：硕士 外语要求：CET-6 专业要求：不限"
+        ]
+      },
+      "language": {
+        "raw": "英语、日语",
+        "english": true,
+        "minorLanguageRequired": true
+      },
+      "location": "深圳",
+      "jobDescription": "1.组织评估客户售后要求 2.主导售后方案的制定和执行 3.处理重大和突发售后事件 4.提升客户满意度 5.管控和提升客诉事件关闭率 6.主导内部各相关部门协同售后服务品质改善",
+      "jobRequirements": "学历要求：硕士 外语要求：CET-6 专业要求：不限，英语、日语专业优先。有海外留学经历者优先",
+      "JD": "1.组织评估客户售后要求 2.主导售后方案的制定和执行 3.处理重大和突发售后事件 4.提升客户满意度 5.管控和提升客诉事件关闭率 6.主导内部各相关部门协同售后服务品质改善\n学历要求：硕士 外语要求：CET-6 专业要求：不限，英语、日语专业优先。有海外留学经历者优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "学历要求：硕士 外语要求：CET-6 专业要求：不限，英语、日语专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "比亚迪2027届校园招聘官网",
+      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+      "publishedAt": "2026-09-04",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "byd-ae26a6efc1b6",
       "company": "比亚迪",
       "title": "高级业务培训专员",
@@ -3786,6 +3966,91 @@
       "source": "比亚迪2027届校园招聘官网",
       "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
       "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "byd-41593a7c9c9f",
+      "company": "比亚迪",
+      "title": "高级核价工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "知识技能要求：熟悉运用办公软件 学历要求：本科 外语要求：英语四级 专业要求：理工科优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、通过市场价格水平调研、物料成本分析、供应商价格调研，来制定价格水平。 2、负责采购系统的成本统筹、分析归类同类物料并协助集中谈价。 3、负责CBOM的核算。 4、招标物料标底价、竞价物料起拍价的制定。 5、比价采购物料价格合理性审批。 6、内审现有重点物料的价格，重新对标进行梳理。 7、 领导交办的其他工作。 8、遵守公司信息安全管理规定，积极响应落实公司信息安全策略。",
+      "jobRequirements": "知识技能要求：熟悉运用办公软件 学历要求：本科 外语要求：英语四级 专业要求：理工科优先",
+      "JD": "1、通过市场价格水平调研、物料成本分析、供应商价格调研，来制定价格水平。 2、负责采购系统的成本统筹、分析归类同类物料并协助集中谈价。 3、负责CBOM的核算。 4、招标物料标底价、竞价物料起拍价的制定。 5、比价采购物料价格合理性审批。 6、内审现有重点物料的价格，重新对标进行梳理。 7、 领导交办的其他工作。 8、遵守公司信息安全管理规定，积极响应落实公司信息安全策略。\n知识技能要求：熟悉运用办公软件 学历要求：本科 外语要求：英语四级 专业要求：理工科优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "知识技能要求：熟悉运用办公软件 学历要求：本科 外语要求：英语四级 专业要求：理工科优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "比亚迪2027届校园招聘官网",
+      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+      "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
