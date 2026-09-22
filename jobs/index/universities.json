@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T06:59:41.133Z",
-  "totalUniversities": 11,
+  "updatedAt": "2026-09-22T07:21:19.453Z",
+  "totalUniversities": 12,
   "universities": [
     {
       "school": "北京语言大学",
@@ -20,6 +20,14 @@
       ],
       "count": 1,
       "file": "jobs/by-university/对外经济贸易大学.json"
+    },
+    {
+      "school": "广东外语外贸大学",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "count": 6,
+      "file": "jobs/by-university/广东外语外贸大学.json"
     },
     {
       "school": "湖南大学",
