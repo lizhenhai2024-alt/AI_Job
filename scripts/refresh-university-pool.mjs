@@ -78,6 +78,12 @@ export function isPublishableUniversityRecord(job = {}) {
   return true;
 }
 
+export function filterLegacyUniversityJobs(jobs = []) {
+  return (Array.isArray(jobs) ? jobs : [])
+    .filter(isPublishableUniversityRecord)
+    .filter((job) => !isOutOfScopeProfessionalRole(job));
+}
+
 function targetCohort(job = {}, fallback = []) {
   const raw = job.graduationYear ?? job.graduationYears ?? '';
   const values = new Set(String(Array.isArray(raw) ? raw.join(' ') : raw).match(/20\d{2}/g) || []);
@@ -253,7 +259,8 @@ export async function writeOutputs(result, updatedAt) {
       try {
         const body = JSON.parse(await fs.readFile(path.join(byUniversityDir, file), 'utf8'));
         if (body?.school && Array.isArray(body.jobs) && body.jobs.length) {
-          legacyBySchool.set(body.school, { jobs: body.jobs, updatedAt: body.updatedAt || '' });
+          const jobs = filterLegacyUniversityJobs(body.jobs);
+          if (jobs.length) legacyBySchool.set(body.school, { jobs, updatedAt: body.updatedAt || '' });
         }
       } catch { /* ignore broken legacy file */ }
     }
