@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T01:40:12.586Z",
-  "totalUniversities": 11,
+  "updatedAt": "2026-09-22T06:01:16.507Z",
+  "totalUniversities": 12,
   "universities": [
     {
       "school": "北京语言大学",
@@ -12,13 +12,23 @@
       "file": "jobs/by-university/北京语言大学.json"
     },
     {
+      "school": "对外经济贸易大学",
+      "segments": [
+        "211",
+        "双一流",
+        "外语外贸特色高校"
+      ],
+      "count": 1,
+      "file": "jobs/by-university/对外经济贸易大学.json"
+    },
+    {
       "school": "湖南大学",
       "segments": [
         "985",
         "211",
         "双一流"
       ],
-      "count": 93,
+      "count": 95,
       "file": "jobs/by-university/湖南大学.json"
     },
     {

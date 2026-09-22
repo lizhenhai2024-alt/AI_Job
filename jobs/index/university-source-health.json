@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-22T06:01:16.507Z",
+  "sourcePool": "university-employment",
+  "totalSchools": 36,
+  "statusCounts": {
+    "OK": 4,
+    "ZERO": 12,
+    "ERROR": 12,
+    "CACHED": 8
+  },
+  "schools": [
+    {
+      "school": "北京外国语大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "211",
+        "双一流",
+        "外语外贸特色高校"
+      ],
+      "priority": 119,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "对外经济贸易大学",
+      "status": "OK",
+      "sourceMode": "html",
+      "segments": [
+        "211",
+        "双一流",
+        "外语外贸特色高校"
+      ],
+      "priority": 118,
+      "listPages": 1,
+      "listed": 16,
+      "detailed": 16,
+      "keptJobs": 1,
+      "publishedJobs": 1,
+      "cachedJobs": 0,
+      "errors": 2,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T06:01:16.507Z"
+    },
+    {
+      "school": "上海外国语大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "211",
+        "双一流",
+        "外语外贸特色高校"
+      ],
+      "priority": 116,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "南开大学",
+      "status": "CACHED",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 105,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 7,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T01:40:12.586Z"
+    },
+    {
+      "school": "湖南大学",
+      "status": "OK",
+      "sourceMode": "api",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 103,
+      "listPages": 1,
+      "listed": 96,
+      "detailed": 96,
+      "keptJobs": 95,
+      "publishedJobs": 95,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T06:01:16.507Z"
+    },
+    {
+      "school": "北京大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "复旦大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 1,
+      "detailed": 1,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "华中科技大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "南京大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "清华大学",
+      "status": "CACHED",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 1,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T01:40:12.586Z"
+    },
+    {
+      "school": "厦门大学",
+      "status": "CACHED",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 1,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T01:40:12.586Z"
+    },
+    {
+      "school": "上海交通大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "武汉大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "浙江大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "中国人民大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "中山大学",
+      "status": "OK",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 100,
+      "listPages": 1,
+      "listed": 16,
+      "detailed": 16,
+      "keptJobs": 5,
+      "publishedJobs": 5,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T06:01:16.507Z"
+    },
+    {
+      "school": "重庆大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 98,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "哈尔滨工业大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 98,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "山东大学",
+      "status": "CACHED",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 98,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 3,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T01:40:12.586Z"
+    },
+    {
+      "school": "四川大学",
+      "status": "CACHED",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 98,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 1,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T01:40:12.586Z"
+    },
+    {
+      "school": "西安交通大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 98,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "上海财经大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "211",
+        "双一流"
+      ],
+      "priority": 97,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "西南财经大学",
+      "status": "CACHED",
+      "sourceMode": "html",
+      "segments": [
+        "211",
+        "双一流"
+      ],
+      "priority": 97,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 1,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T01:40:12.586Z"
+    },
+    {
+      "school": "中南财经政法大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "211",
+        "双一流"
+      ],
+      "priority": 97,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "中央财经大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "211",
+        "双一流"
+      ],
+      "priority": 97,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "北京航空航天大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 96,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "北京理工大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 96,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "东南大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "priority": 96,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "广东外语外贸大学",
+      "status": "ERROR",
+      "sourceMode": "html",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "priority": 120,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "上海对外经贸大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "priority": 115,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "北京语言大学",
+      "status": "OK",
+      "sourceMode": "html",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "priority": 114,
+      "listPages": 1,
+      "listed": 16,
+      "detailed": 16,
+      "keptJobs": 6,
+      "publishedJobs": 2,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T06:01:16.507Z"
+    },
+    {
+      "school": "北京第二外国语学院",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "priority": 113,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "四川外国语大学",
+      "status": "CACHED",
+      "sourceMode": "html",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "priority": 112,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 1,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T01:40:12.586Z"
+    },
+    {
+      "school": "西安外国语大学",
+      "status": "CACHED",
+      "sourceMode": "html",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "priority": 111,
+      "listPages": 1,
+      "listed": 0,
+      "detailed": 0,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 1,
+      "errors": 1,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": "2026-09-22T01:40:12.586Z"
+    },
+    {
+      "school": "天津外国语大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "priority": 110,
+      "listPages": 1,
+      "listed": 5,
+      "detailed": 5,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    },
+    {
+      "school": "大连外国语大学",
+      "status": "ZERO",
+      "sourceMode": "html",
+      "segments": [
+        "外语外贸特色高校"
+      ],
+      "priority": 109,
+      "listPages": 1,
+      "listed": 5,
+      "detailed": 5,
+      "keptJobs": 0,
+      "publishedJobs": 0,
+      "cachedJobs": 0,
+      "errors": 0,
+      "lastAttempt": "2026-09-22T06:01:16.507Z",
+      "lastSuccess": ""
+    }
+  ]
+}
