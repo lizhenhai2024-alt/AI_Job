@@ -85,7 +85,7 @@ test('source health distinguishes current success, zero/error, and cached fallba
       perPortal: {
         成功大学: { listed: 3, detailed: 3, keptJobs: 1, errors: 0, listPages: 1 },
         空结果大学: { listed: 0, detailed: 0, keptJobs: 0, errors: 0, listPages: 1 },
-        失败大学: { listed: 0, detailed: 0, keptJobs: 0, errors: 1, listPages: 1 },
+        失败大学: { listed: 0, detailed: 0, keptJobs: 0, errors: 1, lastError: 'HTTP 403 for https://error.edu/list', listPages: 1 },
         缓存大学: { listed: 0, detailed: 0, keptJobs: 0, errors: 1, listPages: 1 },
       },
     },
@@ -100,4 +100,5 @@ test('source health distinguishes current success, zero/error, and cached fallba
   assert.equal(health.schools.find((x) => x.school === '缓存大学').cachedJobs, 1);
   assert.equal(health.schools.find((x) => x.school === '缓存大学').lastSuccess, '2026-09-21T05:00:00.000Z');
   assert.equal(health.schools.find((x) => x.school === '失败大学').status, 'ERROR');
+  assert.equal(health.schools.find((x) => x.school === '失败大学').lastError, 'HTTP 403 for https://error.edu/list');
 });
