@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
-  "count": 163,
-  "updatedAt": "2026-09-23T00:25:29.491Z",
+  "count": 167,
+  "updatedAt": "2026-09-23T14:25:44.296Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7663476504336992531",
@@ -1868,6 +1868,105 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239846137383219/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7688557200969746726",
+      "company": "小鹏汽车",
+      "title": "【27届校招】AI项目交付运营培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，且能连续实习 3–4 个月，统计学、计算机、车辆工程、物流等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、负责交付智能助手的知识质检与治理，核心保障回复准确率达标，推动缺知识补充与知识库标准化：缺知识补充与知识治理，按报表意图分类梳理高频缺知识，补充并结构化知识条目，推进\"更新→审核→上线\"闭环； 2、依托数据分析结合 AI 工具，挖掘小P 回复问题（badcase），输出质检与优化方案：开展小P 回复滚动质检：按意图分类抽检回复，标注 badcase，建立质检记录并推动问题闭环； 3、配合交付业务与系统团队，完成知识梳理、结构化维护及上线协同工作：协同交付一线、业务、系统开发等跨部门团队，跟进知识与回复问题的修复落地； 4、推动物流AI化应用：推动物流数据及运营AI提效。",
+      "jobRequirements": "1、本科及以上学历，且能连续实习 3–4 个月，统计学、计算机、车辆工程、物流等相关专业优先； 2、核心能力要求 ：① 知识治理与质检能力：细心、有耐心，文字表达清晰、逻辑性强，能准确判断回复问题类型并归纳规律；有内容审核/标注、知识库维护经验者优先； ② 数据分析 + AI 应用能力：会用 Excel（函数/数据透视表）做数据分析，能运用 AI 工具辅助整理、归因； 3、逻辑清晰，具备良好的跨部门沟通与事项跟进能力，能适配交付业务波动节奏； 4、加分项：有内容审核/标注、知识库或 FAQ 维护经验；了解大模型问答、Prompt 或知识库逻辑； 熟悉汽车交付、上牌、金融、保险、物流等流程。",
+      "JD": "1、负责交付智能助手的知识质检与治理，核心保障回复准确率达标，推动缺知识补充与知识库标准化：缺知识补充与知识治理，按报表意图分类梳理高频缺知识，补充并结构化知识条目，推进\"更新→审核→上线\"闭环； 2、依托数据分析结合 AI 工具，挖掘小P 回复问题（badcase），输出质检与优化方案：开展小P 回复滚动质检：按意图分类抽检回复，标注 badcase，建立质检记录并推动问题闭环； 3、配合交付业务与系统团队，完成知识梳理、结构化维护及上线协同工作：协同交付一线、业务、系统开发等跨部门团队，跟进知识与回复问题的修复落地； 4、推动物流AI化应用：推动物流数据及运营AI提效。\n1、本科及以上学历，且能连续实习 3–4 个月，统计学、计算机、车辆工程、物流等相关专业优先； 2、核心能力要求 ：① 知识治理与质检能力：细心、有耐心，文字表达清晰、逻辑性强，能准确判断回复问题类型并归纳规律；有内容审核/标注、知识库维护经验者优先； ② 数据分析 + AI 应用能力：会用 Excel（函数/数据透视表）做数据分析，能运用 AI 工具辅助整理、归因； 3、逻辑清晰，具备良好的跨部门沟通与事项跟进能力，能适配交付业务波动节奏； 4、加分项：有内容审核/标注、知识库或 FAQ 维护经验；了解大模型问答、Prompt 或知识库逻辑； 熟悉汽车交付、上牌、金融、保险、物流等流程。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，且能连续实习 3–4 个月，统计学、计算机、车辆工程、物流等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "数据",
+        "物流"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7688557200969746726/detail",
+      "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -12268,11 +12367,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "硕士",
-        "masterRequired": true
+        "min": "本科",
+        "masterRequired": false
       },
       "major": {
-        "raw": "1、硕士及以上学历，车辆工程、机械、机电、通讯、自动化等相关专业优先",
+        "raw": "1、本科及以上学历，车辆工程、机械、机电、通讯、自动化等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -12283,12 +12382,12 @@
       },
       "location": "广州",
       "jobDescription": "1、负责车辆自动驾驶功能的测试验证，执行公司自动驾驶产品的测试方案规划、实施，并根据测试结果编制测试报告； 2、负责车辆试验开发过程中的故障排查，车辆维护，测试准备、车辆诊断通讯，场景分析等； 3、负责自动驾驶测试问题的分析及推进； 4、支持自动驾驶先行开发项目的测试方案编制及测试实施。",
-      "jobRequirements": "1、硕士及以上学历，车辆工程、机械、机电、通讯、自动化等相关专业优先； 2、熟悉车辆结构及车辆动力学基础，熟悉基础控制理论，车辆CAN/LIN通讯协议，擅长数据分析及统计； 3、熟悉常用工具Matlab、Python、ROS、Linux等; 4、具备驾驶证，有相关驾驶经验者优先； 5、积极主动，优秀的沟通能力和团队合作、敬业奉献，热爱自动驾驶； 6、熟练使用AI工具者优先。",
-      "JD": "1、负责车辆自动驾驶功能的测试验证，执行公司自动驾驶产品的测试方案规划、实施，并根据测试结果编制测试报告； 2、负责车辆试验开发过程中的故障排查，车辆维护，测试准备、车辆诊断通讯，场景分析等； 3、负责自动驾驶测试问题的分析及推进； 4、支持自动驾驶先行开发项目的测试方案编制及测试实施。\n1、硕士及以上学历，车辆工程、机械、机电、通讯、自动化等相关专业优先； 2、熟悉车辆结构及车辆动力学基础，熟悉基础控制理论，车辆CAN/LIN通讯协议，擅长数据分析及统计； 3、熟悉常用工具Matlab、Python、ROS、Linux等; 4、具备驾驶证，有相关驾驶经验者优先； 5、积极主动，优秀的沟通能力和团队合作、敬业奉献，热爱自动驾驶； 6、熟练使用AI工具者优先。",
+      "jobRequirements": "1、本科及以上学历，车辆工程、机械、机电、通讯、自动化等相关专业优先； 2、熟悉车辆结构及车辆动力学基础，熟悉基础控制理论，车辆CAN/LIN通讯协议，擅长数据分析及统计； 3、熟悉常用工具Matlab、Python、ROS、Linux等; 4、具备驾驶证，有相关驾驶经验者优先； 5、积极主动，优秀的沟通能力和团队合作、敬业奉献，热爱自动驾驶； 6、熟练使用AI工具者优先。",
+      "JD": "1、负责车辆自动驾驶功能的测试验证，执行公司自动驾驶产品的测试方案规划、实施，并根据测试结果编制测试报告； 2、负责车辆试验开发过程中的故障排查，车辆维护，测试准备、车辆诊断通讯，场景分析等； 3、负责自动驾驶测试问题的分析及推进； 4、支持自动驾驶先行开发项目的测试方案编制及测试实施。\n1、本科及以上学历，车辆工程、机械、机电、通讯、自动化等相关专业优先； 2、熟悉车辆结构及车辆动力学基础，熟悉基础控制理论，车辆CAN/LIN通讯协议，擅长数据分析及统计； 3、熟悉常用工具Matlab、Python、ROS、Linux等; 4、具备驾驶证，有相关驾驶经验者优先； 5、积极主动，优秀的沟通能力和团队合作、敬业奉献，热爱自动驾驶； 6、熟练使用AI工具者优先。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
-          "1、硕士及以上学历，车辆工程、机械、机电、通讯、自动化等相关专业优先"
+          "1、本科及以上学历，车辆工程、机械、机电、通讯、自动化等相关专业优先"
         ],
         "eligibilityClauses": [
           "招聘对象：2027届"
@@ -12358,11 +12457,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "硕士",
-        "masterRequired": true
+        "min": "本科",
+        "masterRequired": false
       },
       "major": {
-        "raw": "1、硕士及以上学历，计算机、电子信息、自动化、车辆工程、软件工程等相关专业优先",
+        "raw": "1、本科及以上学历，计算机、电子信息、自动化、车辆工程、软件工程等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -12373,12 +12472,12 @@
       },
       "location": "广州",
       "jobDescription": "1、根据整车项目计划及开发需求，参与设计整车软件开发测试计划及发布计划，拉通上下游业务节奏对齐； 2、负责整车功能集成验证策划工作，依据功能设计方案或功能需求文档进行测试用例设计、测试策划方案/测试大纲等技术文档生成； 3、基于测试方案执行测试需求和测试用例，对整车各项功能进行系统性测试验证； 4、参与问题记录与闭环跟踪，输出测试报告； 5、协助搭建测试环境，支持实车或台架测试任务的开展； 6、与业务上下游（研发、开发、质量、项目）团队协作，推动问题定位与解决，确保车辆各子系统（如动力、智驾、车身、域控等）之间功能运行稳定，满足整车软件发布要求； 7、参与部门新技术能力建设、测试业务与AI技术结合应用落地（如结合大模型开发调试skills/agent日常工作应用生成等）。",
-      "jobRequirements": "1、硕士及以上学历，计算机、电子信息、自动化、车辆工程、软件工程等相关专业优先； 2、掌握至少一种编程语言，如 Python 或 C++，有脚本开发经验者优先； 3、了解基本的软件测试流程与方法，对车载电子系统或智能网联汽车有浓厚兴趣； 4、学习能力强，具备良好的逻辑思维、沟通能力和团队协作意识； 5、有实习或项目经验涉及汽车测试、嵌入式系统、自动化测试者优先。 6、具备良好的英语读写能力优先； 7、熟练使用AI工具者优先。",
-      "JD": "1、根据整车项目计划及开发需求，参与设计整车软件开发测试计划及发布计划，拉通上下游业务节奏对齐； 2、负责整车功能集成验证策划工作，依据功能设计方案或功能需求文档进行测试用例设计、测试策划方案/测试大纲等技术文档生成； 3、基于测试方案执行测试需求和测试用例，对整车各项功能进行系统性测试验证； 4、参与问题记录与闭环跟踪，输出测试报告； 5、协助搭建测试环境，支持实车或台架测试任务的开展； 6、与业务上下游（研发、开发、质量、项目）团队协作，推动问题定位与解决，确保车辆各子系统（如动力、智驾、车身、域控等）之间功能运行稳定，满足整车软件发布要求； 7、参与部门新技术能力建设、测试业务与AI技术结合应用落地（如结合大模型开发调试skills/agent日常工作应用生成等）。\n1、硕士及以上学历，计算机、电子信息、自动化、车辆工程、软件工程等相关专业优先； 2、掌握至少一种编程语言，如 Python 或 C++，有脚本开发经验者优先； 3、了解基本的软件测试流程与方法，对车载电子系统或智能网联汽车有浓厚兴趣； 4、学习能力强，具备良好的逻辑思维、沟通能力和团队协作意识； 5、有实习或项目经验涉及汽车测试、嵌入式系统、自动化测试者优先。 6、具备良好的英语读写能力优先； 7、熟练使用AI工具者优先。",
+      "jobRequirements": "1、本科及以上学历，计算机、电子信息、自动化、车辆工程、软件工程等相关专业优先； 2、掌握至少一种编程语言，如 Python 或 C++，有脚本开发经验者优先； 3、了解基本的软件测试流程与方法，对车载电子系统或智能网联汽车有浓厚兴趣； 4、学习能力强，具备良好的逻辑思维、沟通能力和团队协作意识； 5、有实习或项目经验涉及汽车测试、嵌入式系统、自动化测试者优先。 6、具备良好的英语读写能力优先； 7、熟练使用AI工具者优先。",
+      "JD": "1、根据整车项目计划及开发需求，参与设计整车软件开发测试计划及发布计划，拉通上下游业务节奏对齐； 2、负责整车功能集成验证策划工作，依据功能设计方案或功能需求文档进行测试用例设计、测试策划方案/测试大纲等技术文档生成； 3、基于测试方案执行测试需求和测试用例，对整车各项功能进行系统性测试验证； 4、参与问题记录与闭环跟踪，输出测试报告； 5、协助搭建测试环境，支持实车或台架测试任务的开展； 6、与业务上下游（研发、开发、质量、项目）团队协作，推动问题定位与解决，确保车辆各子系统（如动力、智驾、车身、域控等）之间功能运行稳定，满足整车软件发布要求； 7、参与部门新技术能力建设、测试业务与AI技术结合应用落地（如结合大模型开发调试skills/agent日常工作应用生成等）。\n1、本科及以上学历，计算机、电子信息、自动化、车辆工程、软件工程等相关专业优先； 2、掌握至少一种编程语言，如 Python 或 C++，有脚本开发经验者优先； 3、了解基本的软件测试流程与方法，对车载电子系统或智能网联汽车有浓厚兴趣； 4、学习能力强，具备良好的逻辑思维、沟通能力和团队协作意识； 5、有实习或项目经验涉及汽车测试、嵌入式系统、自动化测试者优先。 6、具备良好的英语读写能力优先； 7、熟练使用AI工具者优先。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
-          "1、硕士及以上学历，计算机、电子信息、自动化、车辆工程、软件工程等相关专业优先"
+          "1、本科及以上学历，计算机、电子信息、自动化、车辆工程、软件工程等相关专业优先"
         ],
         "eligibilityClauses": [
           "招聘对象：2027届"
@@ -12720,6 +12819,263 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239728122169651/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7688668214435662143",
+      "company": "小鹏汽车",
+      "title": "【27届校招】智造专业培训生（焊装品质方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "要求：本科及以上学历，机械工程、车辆工程等专业背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、新车型投产试作工作的组织与设备安调实施； 2、负责焊装厂产品变更对接、工艺变更下达及实施管理； 3、焊装生产工艺流程、工艺技术文件、标准工时的制定与过程管理，工艺数据库的规划与建立； 4、负责焊装工艺参数的定期监控、记录和调整，维护工艺参数的有效性； 5、负责焊装厂工艺管理、维护，生产过程中工艺、质量、技术问题的处理、制定纠正、预防措施，并参与重大质量事故解决；",
+      "jobRequirements": "要求：本科及以上学历，机械工程、车辆工程等专业背景优先",
+      "JD": "1、新车型投产试作工作的组织与设备安调实施； 2、负责焊装厂产品变更对接、工艺变更下达及实施管理； 3、焊装生产工艺流程、工艺技术文件、标准工时的制定与过程管理，工艺数据库的规划与建立； 4、负责焊装工艺参数的定期监控、记录和调整，维护工艺参数的有效性； 5、负责焊装厂工艺管理、维护，生产过程中工艺、质量、技术问题的处理、制定纠正、预防措施，并参与重大质量事故解决；\n要求：本科及以上学历，机械工程、车辆工程等专业背景优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "要求：本科及以上学历，机械工程、车辆工程等专业背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7688668214435662143/detail",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7688668207674509631",
+      "company": "小鹏汽车",
+      "title": "【27届校招】行政培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限，中文、设计、行政管理、新闻专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、在岗学习后勤和办公两大模块业务，由前辈带教，作为业务B角储备。 2、学习AI及实践运用，在文宣、结算、物业运维等模块落地，提质增效。",
+      "jobRequirements": "1、本科及以上学历，专业不限，中文、设计、行政管理、新闻专业优先。 2、良好的沟通能力，亲和力强，有大学社团管理经验优先 3、熟练使用办公软件，有使用ai工具搭建小程序等经验优先。",
+      "JD": "1、在岗学习后勤和办公两大模块业务，由前辈带教，作为业务B角储备。 2、学习AI及实践运用，在文宣、结算、物业运维等模块落地，提质增效。\n1、本科及以上学历，专业不限，中文、设计、行政管理、新闻专业优先。 2、良好的沟通能力，亲和力强，有大学社团管理经验优先 3、熟练使用办公软件，有使用ai工具搭建小程序等经验优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限，中文、设计、行政管理、新闻专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7688668207674509631/detail",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7688668054083782966",
+      "company": "小鹏汽车",
+      "title": "【27届校招】武汉总装设备培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科学历,电气工程、自动化、机器人、工业智能、机械等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "武汉",
+      "jobDescription": "岗位职责: 1、负责新设备选型,方案编制,图纸会签、安装调试以及验收等相关工作。 2、负责编制生产线设备改善、优化方案,提升生产线运行效率。 3、负责编制设备备件清单和备件采购等备件管理相关工作。 4、负责编制设备管理基准书,指导、监督班组设备维保工作。 5、负责设备的故障抢修,制定再发防止对策,并对班组人员提供培训和支持。",
+      "jobRequirements": "任职要求: 1、本科学历,电气工程、自动化、机器人、工业智能、机械等相关专业优先。 2、开朗乐观、敢于/乐于主动与人沟通;具主动性、乐于学习;踏实实干、求真务实 3、具备较好执压能力、沟通表达能力、组织协调能力、推动力,CET4及以上。 4、对汽车制造、设备管理、设备故障分析及改进等具备浓厚兴趣,希相关实习/见习经历的优先。",
+      "JD": "岗位职责: 1、负责新设备选型,方案编制,图纸会签、安装调试以及验收等相关工作。 2、负责编制生产线设备改善、优化方案,提升生产线运行效率。 3、负责编制设备备件清单和备件采购等备件管理相关工作。 4、负责编制设备管理基准书,指导、监督班组设备维保工作。 5、负责设备的故障抢修,制定再发防止对策,并对班组人员提供培训和支持。\n任职要求: 1、本科学历,电气工程、自动化、机器人、工业智能、机械等相关专业优先。 2、开朗乐观、敢于/乐于主动与人沟通;具主动性、乐于学习;踏实实干、求真务实 3、具备较好执压能力、沟通表达能力、组织协调能力、推动力,CET4及以上。 4、对汽车制造、设备管理、设备故障分析及改进等具备浓厚兴趣,希相关实习/见习经历的优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科学历,电气工程、自动化、机器人、工业智能、机械等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7688668054083782966/detail",
+      "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -13367,89 +13723,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
     },
     {
-      "id": "feishu-1fdf6e-7663476455758891305",
-      "company": "小鹏汽车",
-      "title": "【27届校招】充电产品经理培训生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、协助推进充电渠道互联互通产品对接，包含启停对接/跨平台结算对接/端外体验提升； 2、收集整理充电行业互联互通竞品动态、完成行业调研分析和需求推进落地； 3、协助推进补贴合规产品对接，为充电合规负责、以提升充电政府补贴为目标推进工作； 3、将AI与互联互通渠道对接结合，提高对接人效、AI校准补贴规则提升人效和补贴金额；",
-      "jobRequirements": "1、有产品基本能力（可理解需求、调研分析和设计需求） 2、具备灵活性，对数据敏感； 3、沟通能力强； 4、熟知AI Agent/AI大模型基本原理；",
-      "JD": "1、协助推进充电渠道互联互通产品对接，包含启停对接/跨平台结算对接/端外体验提升； 2、收集整理充电行业互联互通竞品动态、完成行业调研分析和需求推进落地； 3、协助推进补贴合规产品对接，为充电合规负责、以提升充电政府补贴为目标推进工作； 3、将AI与互联互通渠道对接结合，提高对接人效、AI校准补贴规则提升人效和补贴金额；\n1、有产品基本能力（可理解需求、调研分析和设计需求） 2、具备灵活性，对数据敏感； 3、沟通能力强； 4、熟知AI Agent/AI大模型基本原理；",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小鹏汽车官方飞书招聘",
-      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476455758891305/detail",
-      "publishedAt": "2026-07-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
-    },
-    {
       "id": "feishu-1fdf6e-7663476241387637046",
       "company": "小鹏汽车",
       "title": "【27届校招】资产培训生",
@@ -13527,6 +13800,89 @@
       "annualSalary": "未披露",
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476241387637046/detail",
+      "publishedAt": "2026-07-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7663476455758891305",
+      "company": "小鹏汽车",
+      "title": "【27届校招】充电产品经理培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、协助推进充电渠道互联互通产品对接，包含启停对接/跨平台结算对接/端外体验提升； 2、收集整理充电行业互联互通竞品动态、完成行业调研分析和需求推进落地； 3、协助推进补贴合规产品对接，为充电合规负责、以提升充电政府补贴为目标推进工作； 3、将AI与互联互通渠道对接结合，提高对接人效、AI校准补贴规则提升人效和补贴金额；",
+      "jobRequirements": "1、有产品基本能力（可理解需求、调研分析和设计需求） 2、具备灵活性，对数据敏感； 3、沟通能力强； 4、熟知AI Agent/AI大模型基本原理；",
+      "JD": "1、协助推进充电渠道互联互通产品对接，包含启停对接/跨平台结算对接/端外体验提升； 2、收集整理充电行业互联互通竞品动态、完成行业调研分析和需求推进落地； 3、协助推进补贴合规产品对接，为充电合规负责、以提升充电政府补贴为目标推进工作； 3、将AI与互联互通渠道对接结合，提高对接人效、AI校准补贴规则提升人效和补贴金额；\n1、有产品基本能力（可理解需求、调研分析和设计需求） 2、具备灵活性，对数据敏感； 3、沟通能力强； 4、熟知AI Agent/AI大模型基本原理；",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476455758891305/detail",
       "publishedAt": "2026-07-17",
       "lastVerified": "",
       "sourceType": "official",

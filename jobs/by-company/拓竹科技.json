@@ -1,7 +1,7 @@
 {
   "company": "拓竹科技",
   "count": 39,
-  "updatedAt": "2026-09-23T00:25:29.491Z",
+  "updatedAt": "2026-09-23T14:25:44.296Z",
   "jobs": [
     {
       "id": "feishu-817ef7-7670526133745748267",
@@ -1104,100 +1104,6 @@
       "hasAssessmentEvidence": "E3 | 北京化工大学就业网校招公告 | https://jobmob.buct.edu.cn/xiaozhao/details.html?id=3713e783-404a-48c7-c68e-17c2461ffb88 | 2026-09-17"
     },
     {
-      "id": "feishu-817ef7-7670507853891455273",
-      "company": "拓竹科技",
-      "title": "服务运营 - 培训方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历在校生，人力资源、心理学、统计学、管理学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 培训项目落地与执行： 协助完成各类培训项目（如新员工培训、业务技能培训等）的前期筹备、现场组织与跟进，包括但不限于场地协调、物料准备、讲师对接及日程安排； 2. 培训运营管理： 负责培训现场的秩序维护、签到管理、互动答疑及课后反馈收集，确保培训项目的顺利交付与良好的学员体验； 3. 培训数据分析： 负责整理和统计培训相关数据（如出勤率、考试通过率、满意度问卷等），熟练使用Excel等工具进行数据清洗与分析，并协助输出培训效果评估报告； 4. 培训资源维护： 协助维护线上培训学习平台，进行课程上架、数据后台管理及日常答疑。",
-      "jobRequirements": "1. 本科及以上学历在校生，人力资源、心理学、统计学、管理学等相关专业优先； 2. 具备培训运营、活动运营、用户运营等经验，能够独立跟进项目执行细节； 3. 具备良好的数据分析能力，能熟练使用 Excel（如VLOOKUP、数据透视表等）进行数据处理与图表制作； 4. 具备较强的执行力和责任心，做事细致严谨；拥有良好的沟通协调能力和团队合作精神，能灵活应对突发状况。",
-      "JD": "1. 培训项目落地与执行： 协助完成各类培训项目（如新员工培训、业务技能培训等）的前期筹备、现场组织与跟进，包括但不限于场地协调、物料准备、讲师对接及日程安排； 2. 培训运营管理： 负责培训现场的秩序维护、签到管理、互动答疑及课后反馈收集，确保培训项目的顺利交付与良好的学员体验； 3. 培训数据分析： 负责整理和统计培训相关数据（如出勤率、考试通过率、满意度问卷等），熟练使用Excel等工具进行数据清洗与分析，并协助输出培训效果评估报告； 4. 培训资源维护： 协助维护线上培训学习平台，进行课程上架、数据后台管理及日常答疑。\n1. 本科及以上学历在校生，人力资源、心理学、统计学、管理学等相关专业优先； 2. 具备培训运营、活动运营、用户运营等经验，能够独立跟进项目执行细节； 3. 具备良好的数据分析能力，能熟练使用 Excel（如VLOOKUP、数据透视表等）进行数据处理与图表制作； 4. 具备较强的执行力和责任心，做事细致严谨；拥有良好的沟通协调能力和团队合作精神，能灵活应对突发状况。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历在校生，人力资源、心理学、统计学、管理学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "本科及以上学历在校生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "业务运营"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "拓竹科技官方飞书招聘",
-      "officialURL": "https://bambulab.jobs.feishu.cn/campus/m/position/7670507853891455273/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "1分钟极简网申→简历初筛→3~4轮面试→Offer沟通",
-      "recruitmentProcessEvidence": "E3 | 武汉本地宝转载官方校招公告 | http://wh.bendibao.com/job/2026817/199816.shtm | 2026-09-17",
-      "hasAssessment": "无",
-      "hasAssessmentEvidence": "E3 | 北京化工大学就业网校招公告 | https://jobmob.buct.edu.cn/xiaozhao/details.html?id=3713e783-404a-48c7-c68e-17c2461ffb88 | 2026-09-17"
-    },
-    {
       "id": "feishu-817ef7-7670503612532050202",
       "company": "拓竹科技",
       "title": "零售培训生",
@@ -1287,6 +1193,100 @@
       "annualSalary": "未披露",
       "source": "拓竹科技官方飞书招聘",
       "officialURL": "https://bambulab.jobs.feishu.cn/campus/m/position/7670503612532050202/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "1分钟极简网申→简历初筛→3~4轮面试→Offer沟通",
+      "recruitmentProcessEvidence": "E3 | 武汉本地宝转载官方校招公告 | http://wh.bendibao.com/job/2026817/199816.shtm | 2026-09-17",
+      "hasAssessment": "无",
+      "hasAssessmentEvidence": "E3 | 北京化工大学就业网校招公告 | https://jobmob.buct.edu.cn/xiaozhao/details.html?id=3713e783-404a-48c7-c68e-17c2461ffb88 | 2026-09-17"
+    },
+    {
+      "id": "feishu-817ef7-7670507853891455273",
+      "company": "拓竹科技",
+      "title": "服务运营 - 培训方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历在校生，人力资源、心理学、统计学、管理学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 培训项目落地与执行： 协助完成各类培训项目（如新员工培训、业务技能培训等）的前期筹备、现场组织与跟进，包括但不限于场地协调、物料准备、讲师对接及日程安排； 2. 培训运营管理： 负责培训现场的秩序维护、签到管理、互动答疑及课后反馈收集，确保培训项目的顺利交付与良好的学员体验； 3. 培训数据分析： 负责整理和统计培训相关数据（如出勤率、考试通过率、满意度问卷等），熟练使用Excel等工具进行数据清洗与分析，并协助输出培训效果评估报告； 4. 培训资源维护： 协助维护线上培训学习平台，进行课程上架、数据后台管理及日常答疑。",
+      "jobRequirements": "1. 本科及以上学历在校生，人力资源、心理学、统计学、管理学等相关专业优先； 2. 具备培训运营、活动运营、用户运营等经验，能够独立跟进项目执行细节； 3. 具备良好的数据分析能力，能熟练使用 Excel（如VLOOKUP、数据透视表等）进行数据处理与图表制作； 4. 具备较强的执行力和责任心，做事细致严谨；拥有良好的沟通协调能力和团队合作精神，能灵活应对突发状况。",
+      "JD": "1. 培训项目落地与执行： 协助完成各类培训项目（如新员工培训、业务技能培训等）的前期筹备、现场组织与跟进，包括但不限于场地协调、物料准备、讲师对接及日程安排； 2. 培训运营管理： 负责培训现场的秩序维护、签到管理、互动答疑及课后反馈收集，确保培训项目的顺利交付与良好的学员体验； 3. 培训数据分析： 负责整理和统计培训相关数据（如出勤率、考试通过率、满意度问卷等），熟练使用Excel等工具进行数据清洗与分析，并协助输出培训效果评估报告； 4. 培训资源维护： 协助维护线上培训学习平台，进行课程上架、数据后台管理及日常答疑。\n1. 本科及以上学历在校生，人力资源、心理学、统计学、管理学等相关专业优先； 2. 具备培训运营、活动运营、用户运营等经验，能够独立跟进项目执行细节； 3. 具备良好的数据分析能力，能熟练使用 Excel（如VLOOKUP、数据透视表等）进行数据处理与图表制作； 4. 具备较强的执行力和责任心，做事细致严谨；拥有良好的沟通协调能力和团队合作精神，能灵活应对突发状况。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历在校生，人力资源、心理学、统计学、管理学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "本科及以上学历在校生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "拓竹科技官方飞书招聘",
+      "officialURL": "https://bambulab.jobs.feishu.cn/campus/m/position/7670507853891455273/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
@@ -1572,95 +1572,6 @@
       "hasAssessmentEvidence": "E3 | 北京化工大学就业网校招公告 | https://jobmob.buct.edu.cn/xiaozhao/details.html?id=3713e783-404a-48c7-c68e-17c2461ffb88 | 2026-09-17"
     },
     {
-      "id": "feishu-817ef7-7670505711990245668",
-      "company": "拓竹科技",
-      "title": "服务运营 - 数据分析",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 接手并持续优化现有售后数据看板，快速理解业务背景，承接存量需求与日常排障； 2. 从零搭建售后业务域指标体系，与业务方对齐指标口径，覆盖从局部流程到全链路的指标框架； 3. 设计并落地数据应用方案，包括业务量预测、异常预警、绩效分析等； 4. 深入售后业务流程，通过数据交叉分析发现效率提升与体验优化的机会点，输出可执行的洞察； 5. 协同数据开发获取数据资源，推动数据在售后业务决策中的落地应用。",
-      "jobRequirements": "必要条件 1. 熟练使用 SQL，能独立完成复杂查询、多表关联与数据加工； 2. 具备指标体系设计能力，理解指标背后的业务逻辑，不止于执行； 3. 熟悉至少一种数据可视化工具，能独立搭建和维护业务看板； 4. 对售后/客服业务流程有基本认知，能将数据与实际业务场景结合分析； 5. 严谨细致，有刨根问底的习惯，不满足于\"数据跑出来了\"。 加分项 1. 掌握 Python，能做数据处理和探索性分析； 2. 有业务量预测或统计预测模型经验。",
-      "JD": "1. 接手并持续优化现有售后数据看板，快速理解业务背景，承接存量需求与日常排障； 2. 从零搭建售后业务域指标体系，与业务方对齐指标口径，覆盖从局部流程到全链路的指标框架； 3. 设计并落地数据应用方案，包括业务量预测、异常预警、绩效分析等； 4. 深入售后业务流程，通过数据交叉分析发现效率提升与体验优化的机会点，输出可执行的洞察； 5. 协同数据开发获取数据资源，推动数据在售后业务决策中的落地应用。\n必要条件 1. 熟练使用 SQL，能独立完成复杂查询、多表关联与数据加工； 2. 具备指标体系设计能力，理解指标背后的业务逻辑，不止于执行； 3. 熟悉至少一种数据可视化工具，能独立搭建和维护业务看板； 4. 对售后/客服业务流程有基本认知，能将数据与实际业务场景结合分析； 5. 严谨细致，有刨根问底的习惯，不满足于\"数据跑出来了\"。 加分项 1. 掌握 Python，能做数据处理和探索性分析； 2. 有业务量预测或统计预测模型经验。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "业务运营"
-      ],
-      "skills": [
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "数据",
-        "客户",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "拓竹科技官方飞书招聘",
-      "officialURL": "https://bambulab.jobs.feishu.cn/campus/m/position/7670505711990245668/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "1分钟极简网申→简历初筛→3~4轮面试→Offer沟通",
-      "recruitmentProcessEvidence": "E3 | 武汉本地宝转载官方校招公告 | http://wh.bendibao.com/job/2026817/199816.shtm | 2026-09-17",
-      "hasAssessment": "无",
-      "hasAssessmentEvidence": "E3 | 北京化工大学就业网校招公告 | https://jobmob.buct.edu.cn/xiaozhao/details.html?id=3713e783-404a-48c7-c68e-17c2461ffb88 | 2026-09-17"
-    },
-    {
       "id": "feishu-817ef7-7670444063112120602",
       "company": "拓竹科技",
       "title": "采购交付",
@@ -1746,6 +1657,95 @@
       "annualSalary": "未披露",
       "source": "拓竹科技官方飞书招聘",
       "officialURL": "https://bambulab.jobs.feishu.cn/campus/m/position/7670444063112120602/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "1分钟极简网申→简历初筛→3~4轮面试→Offer沟通",
+      "recruitmentProcessEvidence": "E3 | 武汉本地宝转载官方校招公告 | http://wh.bendibao.com/job/2026817/199816.shtm | 2026-09-17",
+      "hasAssessment": "无",
+      "hasAssessmentEvidence": "E3 | 北京化工大学就业网校招公告 | https://jobmob.buct.edu.cn/xiaozhao/details.html?id=3713e783-404a-48c7-c68e-17c2461ffb88 | 2026-09-17"
+    },
+    {
+      "id": "feishu-817ef7-7670505711990245668",
+      "company": "拓竹科技",
+      "title": "服务运营 - 数据分析",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 接手并持续优化现有售后数据看板，快速理解业务背景，承接存量需求与日常排障； 2. 从零搭建售后业务域指标体系，与业务方对齐指标口径，覆盖从局部流程到全链路的指标框架； 3. 设计并落地数据应用方案，包括业务量预测、异常预警、绩效分析等； 4. 深入售后业务流程，通过数据交叉分析发现效率提升与体验优化的机会点，输出可执行的洞察； 5. 协同数据开发获取数据资源，推动数据在售后业务决策中的落地应用。",
+      "jobRequirements": "必要条件 1. 熟练使用 SQL，能独立完成复杂查询、多表关联与数据加工； 2. 具备指标体系设计能力，理解指标背后的业务逻辑，不止于执行； 3. 熟悉至少一种数据可视化工具，能独立搭建和维护业务看板； 4. 对售后/客服业务流程有基本认知，能将数据与实际业务场景结合分析； 5. 严谨细致，有刨根问底的习惯，不满足于\"数据跑出来了\"。 加分项 1. 掌握 Python，能做数据处理和探索性分析； 2. 有业务量预测或统计预测模型经验。",
+      "JD": "1. 接手并持续优化现有售后数据看板，快速理解业务背景，承接存量需求与日常排障； 2. 从零搭建售后业务域指标体系，与业务方对齐指标口径，覆盖从局部流程到全链路的指标框架； 3. 设计并落地数据应用方案，包括业务量预测、异常预警、绩效分析等； 4. 深入售后业务流程，通过数据交叉分析发现效率提升与体验优化的机会点，输出可执行的洞察； 5. 协同数据开发获取数据资源，推动数据在售后业务决策中的落地应用。\n必要条件 1. 熟练使用 SQL，能独立完成复杂查询、多表关联与数据加工； 2. 具备指标体系设计能力，理解指标背后的业务逻辑，不止于执行； 3. 熟悉至少一种数据可视化工具，能独立搭建和维护业务看板； 4. 对售后/客服业务流程有基本认知，能将数据与实际业务场景结合分析； 5. 严谨细致，有刨根问底的习惯，不满足于\"数据跑出来了\"。 加分项 1. 掌握 Python，能做数据处理和探索性分析； 2. 有业务量预测或统计预测模型经验。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "拓竹科技官方飞书招聘",
+      "officialURL": "https://bambulab.jobs.feishu.cn/campus/m/position/7670505711990245668/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",

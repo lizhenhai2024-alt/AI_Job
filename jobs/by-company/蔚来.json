@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
   "count": 194,
-  "updatedAt": "2026-09-23T00:25:29.491Z",
+  "updatedAt": "2026-09-23T14:25:44.296Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -3170,110 +3170,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7675584005013752070",
-      "company": "蔚来",
-      "title": "校招-商务拓展",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届获得本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、俄语、泰语",
-        "english": true,
-        "minorLanguageRequired": true
-      },
-      "location": "上海",
-      "jobDescription": "1、协助上级完成区域市场、竞品调研工作，整理汇总市场行情、竞品动作、终端客户反馈等信息，形成基础分析资料，支撑产品迭代、营销策略调整决策落地。 2、配合拆解区域批发、零售销售目标，跟进个人及渠道月度 / 季度销售进度，落实销售执行动作，做好日常数据统计、过程跟进，助力整体业绩指标完成。 3、协助对接区域总代，及时响应渠道日常需求，同步拉通公司内部各部门解决渠道问题；参与空白市场摸排、新客户、新渠道初步开发洽谈工作。 4、维护存量合作客户客情，做好日常沟通回访，收集客户诉求，提升渠道及终端客户满意度，协助搭建、完善本地销售网络。 5、完成上级交办的其他区域市场、销售相关辅助工作。",
-      "jobRequirements": "1、2027届获得本科及以上学历，拥有汽车、销售、外贸、跨境渠道等相关实习经验为佳，愿意深耕新能源汽车出海赛道。 2、具备商务英语读写沟通能力；熟练掌握第二外语能力（俄语、泰语、粤语等）为佳。 3、具备基础数据整理、信息搜集能力，逻辑清晰，愿意学习市场分析、渠道运营、销售规划相关工作方法。 4、沟通表达顺畅，具备基础商务对接、谈判意识，擅长对内跨部门协同、对外客户沟通。 5、目标感强，做事踏实主动，能承受基础业绩压力，执行力强。 6、能够接受 40% 及以上频次出差，适配海外 / 东南亚区域外勤工作模式。",
-      "JD": "1、协助上级完成区域市场、竞品调研工作，整理汇总市场行情、竞品动作、终端客户反馈等信息，形成基础分析资料，支撑产品迭代、营销策略调整决策落地。 2、配合拆解区域批发、零售销售目标，跟进个人及渠道月度 / 季度销售进度，落实销售执行动作，做好日常数据统计、过程跟进，助力整体业绩指标完成。 3、协助对接区域总代，及时响应渠道日常需求，同步拉通公司内部各部门解决渠道问题；参与空白市场摸排、新客户、新渠道初步开发洽谈工作。 4、维护存量合作客户客情，做好日常沟通回访，收集客户诉求，提升渠道及终端客户满意度，协助搭建、完善本地销售网络。 5、完成上级交办的其他区域市场、销售相关辅助工作。\n1、2027届获得本科及以上学历，拥有汽车、销售、外贸、跨境渠道等相关实习经验为佳，愿意深耕新能源汽车出海赛道。 2、具备商务英语读写沟通能力；熟练掌握第二外语能力（俄语、泰语、粤语等）为佳。 3、具备基础数据整理、信息搜集能力，逻辑清晰，愿意学习市场分析、渠道运营、销售规划相关工作方法。 4、沟通表达顺畅，具备基础商务对接、谈判意识，擅长对内跨部门协同、对外客户沟通。 5、目标感强，做事踏实主动，能承受基础业绩压力，执行力强。 6、能够接受 40% 及以上频次出差，适配海外 / 东南亚区域外勤工作模式。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "客户关系",
-          "资料/流程",
-          "国际业务"
-        ]
-      },
-      "roleFamily": [
-        "销售"
-      ],
-      "skills": [
-        "英语",
-        "市场分析"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "运营",
-        "市场",
-        "数据",
-        "营销",
-        "客户",
-        "招聘",
-        "商务"
-      ],
-      "preferenceTags": [
-        "国际业务",
-        "出海"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7675584005013752070/detail",
-      "publishedAt": "2026-08-19",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7675579975345473835",
       "company": "蔚来",
       "title": "校招-大区运营管理（储备）",
@@ -3564,6 +3460,110 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7675579612047739174/detail",
+      "publishedAt": "2026-08-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7675584005013752070",
+      "company": "蔚来",
+      "title": "校招-商务拓展",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届获得本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、俄语、泰语",
+        "english": true,
+        "minorLanguageRequired": true
+      },
+      "location": "上海",
+      "jobDescription": "1、协助上级完成区域市场、竞品调研工作，整理汇总市场行情、竞品动作、终端客户反馈等信息，形成基础分析资料，支撑产品迭代、营销策略调整决策落地。 2、配合拆解区域批发、零售销售目标，跟进个人及渠道月度 / 季度销售进度，落实销售执行动作，做好日常数据统计、过程跟进，助力整体业绩指标完成。 3、协助对接区域总代，及时响应渠道日常需求，同步拉通公司内部各部门解决渠道问题；参与空白市场摸排、新客户、新渠道初步开发洽谈工作。 4、维护存量合作客户客情，做好日常沟通回访，收集客户诉求，提升渠道及终端客户满意度，协助搭建、完善本地销售网络。 5、完成上级交办的其他区域市场、销售相关辅助工作。",
+      "jobRequirements": "1、2027届获得本科及以上学历，拥有汽车、销售、外贸、跨境渠道等相关实习经验为佳，愿意深耕新能源汽车出海赛道。 2、具备商务英语读写沟通能力；熟练掌握第二外语能力（俄语、泰语、粤语等）为佳。 3、具备基础数据整理、信息搜集能力，逻辑清晰，愿意学习市场分析、渠道运营、销售规划相关工作方法。 4、沟通表达顺畅，具备基础商务对接、谈判意识，擅长对内跨部门协同、对外客户沟通。 5、目标感强，做事踏实主动，能承受基础业绩压力，执行力强。 6、能够接受 40% 及以上频次出差，适配海外 / 东南亚区域外勤工作模式。",
+      "JD": "1、协助上级完成区域市场、竞品调研工作，整理汇总市场行情、竞品动作、终端客户反馈等信息，形成基础分析资料，支撑产品迭代、营销策略调整决策落地。 2、配合拆解区域批发、零售销售目标，跟进个人及渠道月度 / 季度销售进度，落实销售执行动作，做好日常数据统计、过程跟进，助力整体业绩指标完成。 3、协助对接区域总代，及时响应渠道日常需求，同步拉通公司内部各部门解决渠道问题；参与空白市场摸排、新客户、新渠道初步开发洽谈工作。 4、维护存量合作客户客情，做好日常沟通回访，收集客户诉求，提升渠道及终端客户满意度，协助搭建、完善本地销售网络。 5、完成上级交办的其他区域市场、销售相关辅助工作。\n1、2027届获得本科及以上学历，拥有汽车、销售、外贸、跨境渠道等相关实习经验为佳，愿意深耕新能源汽车出海赛道。 2、具备商务英语读写沟通能力；熟练掌握第二外语能力（俄语、泰语、粤语等）为佳。 3、具备基础数据整理、信息搜集能力，逻辑清晰，愿意学习市场分析、渠道运营、销售规划相关工作方法。 4、沟通表达顺畅，具备基础商务对接、谈判意识，擅长对内跨部门协同、对外客户沟通。 5、目标感强，做事踏实主动，能承受基础业绩压力，执行力强。 6、能够接受 40% 及以上频次出差，适配海外 / 东南亚区域外勤工作模式。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系",
+          "资料/流程",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "英语",
+        "市场分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "市场",
+        "数据",
+        "营销",
+        "客户",
+        "招聘",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7675584005013752070/detail",
       "publishedAt": "2026-08-19",
       "lastVerified": "",
       "sourceType": "official",

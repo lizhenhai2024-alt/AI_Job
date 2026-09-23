@@ -1,7 +1,7 @@
 {
   "company": "联想",
   "count": 25,
-  "updatedAt": "2026-09-23T00:25:29.491Z",
+  "updatedAt": "2026-09-23T14:25:44.296Z",
   "jobs": [
     {
       "id": "lenovo-97d2f880a143",
@@ -189,103 +189,6 @@
       "deadline": ""
     },
     {
-      "id": "lenovo-085b3ac02c17",
-      "company": "联想",
-      "title": "质量管理",
-      "graduationYear": [
-        "2026",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，计算机、电子机械等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1.负责联想相关产品全生命周期的质量管理，制定并实施质量改善方案，确保产品品质符合标准\n 2.参与产品前期设计优化，协同跨部门团队保障产品准时交付，满足需求、成本、时间及质量要求\n 3.建立并持续完善质量管理流程与标准，推动质量管理体系的规范化与高效化\n 4.定期开展产品质量监控与数据分析，识别改进机会并提出有效解决方案",
-      "jobRequirements": "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，计算机、电子机械等相关专业优先\n 2.具备良好的自我学习与提升能力，能够快速掌握新知识与新技能\n 有质量或项目管理相关实习经验者优先，如质量控制、项目助理等岗位经历\n 3.拥有严谨的质量意识和问题分析能力，能够发现并解决质量问题\n 4.具备良好的沟通协调能力，能与跨部门团队高效协作，思维缜密，逻辑清晰，善于流程优化与标准化建设\n 该岗位目前在深圳地点简历急需，欢迎感兴趣的同学积极投递！",
-      "JD": "1.负责联想相关产品全生命周期的质量管理，制定并实施质量改善方案，确保产品品质符合标准\n 2.参与产品前期设计优化，协同跨部门团队保障产品准时交付，满足需求、成本、时间及质量要求\n 3.建立并持续完善质量管理流程与标准，推动质量管理体系的规范化与高效化\n 4.定期开展产品质量监控与数据分析，识别改进机会并提出有效解决方案\n1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，计算机、电子机械等相关专业优先\n 2.具备良好的自我学习与提升能力，能够快速掌握新知识与新技能\n 有质量或项目管理相关实习经验者优先，如质量控制、项目助理等岗位经历\n 3.拥有严谨的质量意识和问题分析能力，能够发现并解决质量问题\n 4.具备良好的沟通协调能力，能与跨部门团队高效协作，思维缜密，逻辑清晰，善于流程优化与标准化建设\n 该岗位目前在深圳地点简历急需，欢迎感兴趣的同学积极投递！",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，计算机、电子机械等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "毕业时间窗口：2026-09 至 2027-08"
-        ],
-        "technicalDuties": [
-          "质量技术"
-        ],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "供应链",
-        "产品"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "联想官方2027校招官网",
-      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2392",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "lenovo-4ede5a9135aa",
       "company": "联想",
       "title": "供应链规划",
@@ -371,6 +274,103 @@
       "annualSalary": "未披露",
       "source": "联想官方2027校招官网",
       "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2390",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "lenovo-085b3ac02c17",
+      "company": "联想",
+      "title": "质量管理",
+      "graduationYear": [
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，计算机、电子机械等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "合肥",
+      "jobDescription": "1.负责联想相关产品全生命周期的质量管理，制定并实施质量改善方案，确保产品品质符合标准\n 2.参与产品前期设计优化，协同跨部门团队保障产品准时交付，满足需求、成本、时间及质量要求\n 3.建立并持续完善质量管理流程与标准，推动质量管理体系的规范化与高效化\n 4.定期开展产品质量监控与数据分析，识别改进机会并提出有效解决方案",
+      "jobRequirements": "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，计算机、电子机械等相关专业优先\n 2.具备良好的自我学习与提升能力，能够快速掌握新知识与新技能\n 有质量或项目管理相关实习经验者优先，如质量控制、项目助理等岗位经历\n 3.拥有严谨的质量意识和问题分析能力，能够发现并解决质量问题\n 4.具备良好的沟通协调能力，能与跨部门团队高效协作，思维缜密，逻辑清晰，善于流程优化与标准化建设\n 该岗位目前在深圳地点简历急需，欢迎感兴趣的同学积极投递！",
+      "JD": "1.负责联想相关产品全生命周期的质量管理，制定并实施质量改善方案，确保产品品质符合标准\n 2.参与产品前期设计优化，协同跨部门团队保障产品准时交付，满足需求、成本、时间及质量要求\n 3.建立并持续完善质量管理流程与标准，推动质量管理体系的规范化与高效化\n 4.定期开展产品质量监控与数据分析，识别改进机会并提出有效解决方案\n1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，计算机、电子机械等相关专业优先\n 2.具备良好的自我学习与提升能力，能够快速掌握新知识与新技能\n 有质量或项目管理相关实习经验者优先，如质量控制、项目助理等岗位经历\n 3.拥有严谨的质量意识和问题分析能力，能够发现并解决质量问题\n 4.具备良好的沟通协调能力，能与跨部门团队高效协作，思维缜密，逻辑清晰，善于流程优化与标准化建设\n 该岗位目前在深圳地点简历急需，欢迎感兴趣的同学积极投递！",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.毕业时间为2026年9月至2027年8月期间的海内外应届毕业生，计算机、电子机械等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "毕业时间窗口：2026-09 至 2027-08"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链",
+        "产品"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "联想官方2027校招官网",
+      "officialURL": "https://talent.lenovo.com.cn/position/detail?id=2392",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

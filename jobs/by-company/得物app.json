@@ -1,7 +1,7 @@
 {
   "company": "得物App",
   "count": 131,
-  "updatedAt": "2026-09-23T00:25:29.491Z",
+  "updatedAt": "2026-09-23T14:25:44.296Z",
   "jobs": [
     {
       "id": "feishu-96da49-7670381893178853695",
@@ -1011,104 +1011,6 @@
       "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
     },
     {
-      "id": "feishu-96da49-7670383285297858858",
-      "company": "得物App",
-      "title": "【27届校招】商家经营策略运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 数据分析：基于商品上新-成长-打爆的商品成长链路，通过数据分析监控核心业务指标分析及异常数据预警； 2. 机会洞察：具备平台内外部趋势洞察视角，通过商家调研及商品成长案例分析，产出商品差异化成长路径，推动商品成长； 3. 方法论沉淀：针对商家经营链路中实际的痛点，结合商品特征制定分层运营策略，沉淀成长方法论体系； 4. 内容运营：基于方法论的平台主张，根据商家需求及痛点持续做内容的迭代及延展，适配不同渠道的宣发需求； 5. 商家推广：洞察商家日常喜闻乐见的渠道及沟通方式做持续推广，跟踪方法论使用效率反馈，做持续迭代及应用。",
-      "jobRequirements": "1. 2027届应届生，本科及以上学历； 2. 具备电商相关行业的实习经历优先； 3. 掌握基本的数据处理、分析技能，具备SQL能力者优先； 4. 热爱运动与时尚潮流，思维敏捷，逻辑清晰，工作认真负责，沟通协调能力强，具备强烈的目标感和责任感。",
-      "JD": "1. 数据分析：基于商品上新-成长-打爆的商品成长链路，通过数据分析监控核心业务指标分析及异常数据预警； 2. 机会洞察：具备平台内外部趋势洞察视角，通过商家调研及商品成长案例分析，产出商品差异化成长路径，推动商品成长； 3. 方法论沉淀：针对商家经营链路中实际的痛点，结合商品特征制定分层运营策略，沉淀成长方法论体系； 4. 内容运营：基于方法论的平台主张，根据商家需求及痛点持续做内容的迭代及延展，适配不同渠道的宣发需求； 5. 商家推广：洞察商家日常喜闻乐见的渠道及沟通方式做持续推广，跟踪方法论使用效率反馈，做持续迭代及应用。\n1. 2027届应届生，本科及以上学历； 2. 具备电商相关行业的实习经历优先； 3. 掌握基本的数据处理、分析技能，具备SQL能力者优先； 4. 热爱运动与时尚潮流，思维敏捷，逻辑清晰，工作认真负责，沟通协调能力强，具备强烈的目标感和责任感。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届应届生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "内容运营",
-        "SQL",
-        "电商"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "电商",
-        "数据",
-        "洞察",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670383285297858858/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
       "id": "feishu-96da49-7670423980151032118",
       "company": "得物App",
       "title": "【27届校招】供应链售后运营岗",
@@ -1200,6 +1102,104 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670423980151032118/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
+      "id": "feishu-96da49-7670383285297858858",
+      "company": "得物App",
+      "title": "【27届校招】商家经营策略运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 数据分析：基于商品上新-成长-打爆的商品成长链路，通过数据分析监控核心业务指标分析及异常数据预警； 2. 机会洞察：具备平台内外部趋势洞察视角，通过商家调研及商品成长案例分析，产出商品差异化成长路径，推动商品成长； 3. 方法论沉淀：针对商家经营链路中实际的痛点，结合商品特征制定分层运营策略，沉淀成长方法论体系； 4. 内容运营：基于方法论的平台主张，根据商家需求及痛点持续做内容的迭代及延展，适配不同渠道的宣发需求； 5. 商家推广：洞察商家日常喜闻乐见的渠道及沟通方式做持续推广，跟踪方法论使用效率反馈，做持续迭代及应用。",
+      "jobRequirements": "1. 2027届应届生，本科及以上学历； 2. 具备电商相关行业的实习经历优先； 3. 掌握基本的数据处理、分析技能，具备SQL能力者优先； 4. 热爱运动与时尚潮流，思维敏捷，逻辑清晰，工作认真负责，沟通协调能力强，具备强烈的目标感和责任感。",
+      "JD": "1. 数据分析：基于商品上新-成长-打爆的商品成长链路，通过数据分析监控核心业务指标分析及异常数据预警； 2. 机会洞察：具备平台内外部趋势洞察视角，通过商家调研及商品成长案例分析，产出商品差异化成长路径，推动商品成长； 3. 方法论沉淀：针对商家经营链路中实际的痛点，结合商品特征制定分层运营策略，沉淀成长方法论体系； 4. 内容运营：基于方法论的平台主张，根据商家需求及痛点持续做内容的迭代及延展，适配不同渠道的宣发需求； 5. 商家推广：洞察商家日常喜闻乐见的渠道及沟通方式做持续推广，跟踪方法论使用效率反馈，做持续迭代及应用。\n1. 2027届应届生，本科及以上学历； 2. 具备电商相关行业的实习经历优先； 3. 掌握基本的数据处理、分析技能，具备SQL能力者优先； 4. 热爱运动与时尚潮流，思维敏捷，逻辑清晰，工作认真负责，沟通协调能力强，具备强烈的目标感和责任感。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届应届生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "内容运营",
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "电商",
+        "数据",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670383285297858858/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
@@ -7482,6 +7482,103 @@
       "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
     },
     {
+      "id": "feishu-96da49-7670388935374211366",
+      "company": "得物App",
+      "title": "【27届校招】商品运营-奢品&箱包",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 包袋/奢鞋服类目的流行趋势：了解包袋/奢鞋服类目的流行趋势；能快速洞察平台相应品类商品的基建运营问题优化点，主动发起相应规范梳理及优化的项目推进和落地； 2. 对包袋/奢鞋服的商品管理/商详/规格优化等有运营经验，可通过数据及用户原声洞察问题，并能够对问题进行串联整合，形成系统化可落地的优化方案； 3. 利用AI提升商详选购体验：通过AI提炼影响消费者购买决策因子的信息，联动基建产品应用到商详； 4. 协同行业运营、体验中台、供应链等多部门，对现有履约相关规则持续迭代，优化运营问题。",
+      "jobRequirements": "1. 2027届应届生，本科及以上学历； 2. 热爱潮流文化，具有敏锐的潮流和品牌触觉； 3. 较强的执行力及解决问题的能力，能快速融入团队，责任心强，具有较好的跨部门沟通能力； 4. 机会洞察能力佳，逻辑/数据分析力强。",
+      "JD": "1. 包袋/奢鞋服类目的流行趋势：了解包袋/奢鞋服类目的流行趋势；能快速洞察平台相应品类商品的基建运营问题优化点，主动发起相应规范梳理及优化的项目推进和落地； 2. 对包袋/奢鞋服的商品管理/商详/规格优化等有运营经验，可通过数据及用户原声洞察问题，并能够对问题进行串联整合，形成系统化可落地的优化方案； 3. 利用AI提升商详选购体验：通过AI提炼影响消费者购买决策因子的信息，联动基建产品应用到商详； 4. 协同行业运营、体验中台、供应链等多部门，对现有履约相关规则持续迭代，优化运营问题。\n1. 2027届应届生，本科及以上学历； 2. 热爱潮流文化，具有敏锐的潮流和品牌触觉； 3. 较强的执行力及解决问题的能力，能快速融入团队，责任心强，具有较好的跨部门沟通能力； 4. 机会洞察能力佳，逻辑/数据分析力强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届应届生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "品牌",
+        "供应链",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670388935374211366/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
       "id": "feishu-96da49-7670553753736743209",
       "company": "得物App",
       "title": "【27届校招】用户体验运营",
@@ -8131,103 +8228,6 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670391599005141294/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
-      "id": "feishu-96da49-7670388935374211366",
-      "company": "得物App",
-      "title": "【27届校招】商品运营-奢品&箱包",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 包袋/奢鞋服类目的流行趋势：了解包袋/奢鞋服类目的流行趋势；能快速洞察平台相应品类商品的基建运营问题优化点，主动发起相应规范梳理及优化的项目推进和落地； 2. 对包袋/奢鞋服的商品管理/商详/规格优化等有运营经验，可通过数据及用户原声洞察问题，并能够对问题进行串联整合，形成系统化可落地的优化方案； 3. 利用AI提升商详选购体验：通过AI提炼影响消费者购买决策因子的信息，联动基建产品应用到商详； 4. 协同行业运营、体验中台、供应链等多部门，对现有履约相关规则持续迭代，优化运营问题。",
-      "jobRequirements": "1. 2027届应届生，本科及以上学历； 2. 热爱潮流文化，具有敏锐的潮流和品牌触觉； 3. 较强的执行力及解决问题的能力，能快速融入团队，责任心强，具有较好的跨部门沟通能力； 4. 机会洞察能力佳，逻辑/数据分析力强。",
-      "JD": "1. 包袋/奢鞋服类目的流行趋势：了解包袋/奢鞋服类目的流行趋势；能快速洞察平台相应品类商品的基建运营问题优化点，主动发起相应规范梳理及优化的项目推进和落地； 2. 对包袋/奢鞋服的商品管理/商详/规格优化等有运营经验，可通过数据及用户原声洞察问题，并能够对问题进行串联整合，形成系统化可落地的优化方案； 3. 利用AI提升商详选购体验：通过AI提炼影响消费者购买决策因子的信息，联动基建产品应用到商详； 4. 协同行业运营、体验中台、供应链等多部门，对现有履约相关规则持续迭代，优化运营问题。\n1. 2027届应届生，本科及以上学历； 2. 热爱潮流文化，具有敏锐的潮流和品牌触觉； 3. 较强的执行力及解决问题的能力，能快速融入团队，责任心强，具有较好的跨部门沟通能力； 4. 机会洞察能力佳，逻辑/数据分析力强。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届应届生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "跨部门沟通"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "品牌",
-        "供应链",
-        "洞察",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670388935374211366/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
@@ -9605,193 +9605,6 @@
       "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
     },
     {
-      "id": "feishu-96da49-7670389443916335411",
-      "company": "得物App",
-      "title": "【27届校招】价格策略运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 负责优化当前平台价格体系，推动和行业、中台合作，提升整体平台价格竞争力； 2. 通过对价格指标分析，能有效输出品类/商品的分析报告，为定价控价决策提供数据支持； 3. 跨部门合作：结合平台营销活动，能够铺捉到有效的降价路径，并落地形成一定方法论； 4. 对商家在得物的经营模式进行分析，制定适配不同类型商家的差异化方案； 5. 有行业内价格管控经验加分。",
-      "jobRequirements": "1. 2027届应届生，本科及以上学历； 3. 逻辑清晰，善于表达； 3. 有较强SQL能力，熟练掌握excel各种功能。",
-      "JD": "1. 负责优化当前平台价格体系，推动和行业、中台合作，提升整体平台价格竞争力； 2. 通过对价格指标分析，能有效输出品类/商品的分析报告，为定价控价决策提供数据支持； 3. 跨部门合作：结合平台营销活动，能够铺捉到有效的降价路径，并落地形成一定方法论； 4. 对商家在得物的经营模式进行分析，制定适配不同类型商家的差异化方案； 5. 有行业内价格管控经验加分。\n1. 2027届应届生，本科及以上学历； 3. 逻辑清晰，善于表达； 3. 有较强SQL能力，熟练掌握excel各种功能。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届应届生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据",
-        "营销",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670389443916335411/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
-      "id": "feishu-96da49-7670375197174761755",
-      "company": "得物App",
-      "title": "【27届校招】男装运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 商家运营：建立商家分层管理体系，针对不同层级商家匹配业务场景，完成商家日常运营动作跟进并探索成熟商家运营经验，打造商圈show case并复制推广； 2. 商品运营：以消费者需求和全年生活场景为出发点，结合流行趋势&平台销售数据分析，以季节维度前置与品牌沟通规划商品开发方案。",
-      "jobRequirements": "1. 2027届应届生，本科及以上学历； 2. 对潮流品牌有玩家属性或者本身为潮人属性候选人优先； 3. 具备较好的语言表达能力、数据分析能力及办公工具使用能力； 4. 有互联网平台货服装品牌见习经历优先。",
-      "JD": "1. 商家运营：建立商家分层管理体系，针对不同层级商家匹配业务场景，完成商家日常运营动作跟进并探索成熟商家运营经验，打造商圈show case并复制推广； 2. 商品运营：以消费者需求和全年生活场景为出发点，结合流行趋势&平台销售数据分析，以季节维度前置与品牌沟通规划商品开发方案。\n1. 2027届应届生，本科及以上学历； 2. 对潮流品牌有玩家属性或者本身为潮人属性候选人优先； 3. 具备较好的语言表达能力、数据分析能力及办公工具使用能力； 4. 有互联网平台货服装品牌见习经历优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届应届生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据",
-        "品牌",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670375197174761755/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
       "id": "feishu-96da49-7670447186966300937",
       "company": "得物App",
       "title": "【27届校招】供应链储备管理岗（上海/广州/廊坊/沈阳/成都/贵阳/咸阳/武汉）",
@@ -10156,6 +9969,100 @@
       "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
     },
     {
+      "id": "feishu-96da49-7670389443916335411",
+      "company": "得物App",
+      "title": "【27届校招】价格策略运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 负责优化当前平台价格体系，推动和行业、中台合作，提升整体平台价格竞争力； 2. 通过对价格指标分析，能有效输出品类/商品的分析报告，为定价控价决策提供数据支持； 3. 跨部门合作：结合平台营销活动，能够铺捉到有效的降价路径，并落地形成一定方法论； 4. 对商家在得物的经营模式进行分析，制定适配不同类型商家的差异化方案； 5. 有行业内价格管控经验加分。",
+      "jobRequirements": "1. 2027届应届生，本科及以上学历； 3. 逻辑清晰，善于表达； 3. 有较强SQL能力，熟练掌握excel各种功能。",
+      "JD": "1. 负责优化当前平台价格体系，推动和行业、中台合作，提升整体平台价格竞争力； 2. 通过对价格指标分析，能有效输出品类/商品的分析报告，为定价控价决策提供数据支持； 3. 跨部门合作：结合平台营销活动，能够铺捉到有效的降价路径，并落地形成一定方法论； 4. 对商家在得物的经营模式进行分析，制定适配不同类型商家的差异化方案； 5. 有行业内价格管控经验加分。\n1. 2027届应届生，本科及以上学历； 3. 逻辑清晰，善于表达； 3. 有较强SQL能力，熟练掌握excel各种功能。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届应届生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "营销",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670389443916335411/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
       "id": "feishu-96da49-7670389403533740294",
       "company": "得物App",
       "title": "【27届校招】供应链-安防管理（上海）",
@@ -10420,6 +10327,99 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670377973409483051/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
+      "id": "feishu-96da49-7670375197174761755",
+      "company": "得物App",
+      "title": "【27届校招】男装运营",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 商家运营：建立商家分层管理体系，针对不同层级商家匹配业务场景，完成商家日常运营动作跟进并探索成熟商家运营经验，打造商圈show case并复制推广； 2. 商品运营：以消费者需求和全年生活场景为出发点，结合流行趋势&平台销售数据分析，以季节维度前置与品牌沟通规划商品开发方案。",
+      "jobRequirements": "1. 2027届应届生，本科及以上学历； 2. 对潮流品牌有玩家属性或者本身为潮人属性候选人优先； 3. 具备较好的语言表达能力、数据分析能力及办公工具使用能力； 4. 有互联网平台货服装品牌见习经历优先。",
+      "JD": "1. 商家运营：建立商家分层管理体系，针对不同层级商家匹配业务场景，完成商家日常运营动作跟进并探索成熟商家运营经验，打造商圈show case并复制推广； 2. 商品运营：以消费者需求和全年生活场景为出发点，结合流行趋势&平台销售数据分析，以季节维度前置与品牌沟通规划商品开发方案。\n1. 2027届应届生，本科及以上学历； 2. 对潮流品牌有玩家属性或者本身为潮人属性候选人优先； 3. 具备较好的语言表达能力、数据分析能力及办公工具使用能力； 4. 有互联网平台货服装品牌见习经历优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届应届生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670375197174761755/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
