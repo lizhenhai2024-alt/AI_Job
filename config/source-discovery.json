@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T22:57:07.632Z",
+  "updatedAt": "2026-09-23T00:25:25.841Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -979,8 +979,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-22T14:09:27.732Z",
-      "nextCheckAfter": "2026-09-23T14:09:27.736Z"
+      "lastCheckedAt": "2026-09-23T00:25:25.841Z",
+      "nextCheckAfter": "2026-09-24T00:25:25.845Z"
     },
     "广州地铁": {
       "name": "广州地铁集团有限公司",
@@ -1783,7 +1783,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095333599614771202",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-22T14:09:27.732Z",
+      "lastCheckedAt": "2026-09-23T00:25:25.841Z",
       "nextCheckAfter": ""
     },
     "北方华创": {
@@ -2466,10 +2466,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 0,
+    "candidates": 2,
     "sourcesAdded": 0,
     "sourcesRepaired": 0,
-    "queued": 0,
-    "updatedAt": "2026-09-22T18:37:54.884Z"
+    "queued": 1,
+    "updatedAt": "2026-09-23T00:25:25.841Z"
   }
 }

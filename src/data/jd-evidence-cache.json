@@ -33634,5 +33634,16 @@
   "businessDuties": [
    "客户关系"
   ]
+ },
+ "bytedance-4b67f7d6f7df:39bc4c7460ebd27d:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历；"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历；"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }
