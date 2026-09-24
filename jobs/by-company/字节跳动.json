@@ -1,7 +1,7 @@
 {
   "company": "字节跳动",
-  "count": 160,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 168,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "bytedance-4fc8391024f5",
@@ -2005,101 +2005,6 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
-      "id": "bytedance-8714e7c1a50f",
-      "company": "字节跳动",
-      "title": "用户增长产品经理 - 抖音电商",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引入优质合作伙伴，为商家变现提供多元的选择。 1、负责抖音电商大盘用户增长，对电商用户规模的持续增长、全网电商用户的抖音渗透负责； 2、以用户规模增长目标为导向，通过数据分析及用户研究，明确所负责的增长业务的核心方向及手段； 3、与算法部门深度合作，通过迭代补贴模型、流量分发等多种策略手段，持续提升电商获客效率和质量； 4、关注用户生命周期价值和增长成本投入，进行专项问题分析，能够从数据中获取洞察，指导策略迭代和算法优化。",
-      "jobRequirements": "1、2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先； 2、有用户增长、推荐、广告等策略领域的相关实习经验优先，有较强的数据分析能力，善于从数据中发现问题并制定策略，熟练使用AB实验机制验证策略效果； 3、了解产品的用户增长方法，有电商用户同理心，对前沿的电商增长模式发展有自我理解，能保持创新和演变思考； 4、目标导向，有良好的跨部门沟通和资源整合能力，对探索新业务方向有热情。",
-      "JD": "团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引入优质合作伙伴，为商家变现提供多元的选择。 1、负责抖音电商大盘用户增长，对电商用户规模的持续增长、全网电商用户的抖音渗透负责； 2、以用户规模增长目标为导向，通过数据分析及用户研究，明确所负责的增长业务的核心方向及手段； 3、与算法部门深度合作，通过迭代补贴模型、流量分发等多种策略手段，持续提升电商获客效率和质量； 4、关注用户生命周期价值和增长成本投入，进行专项问题分析，能够从数据中获取洞察，指导策略迭代和算法优化。\n1、2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先； 2、有用户增长、推荐、广告等策略领域的相关实习经验优先，有较强的数据分析能力，善于从数据中发现问题并制定策略，熟练使用AB实验机制验证策略效果； 3、了解产品的用户增长方法，有电商用户同理心，对前沿的电商增长模式发展有自我理解，能保持创新和演变思考； 4、目标导向，有良好的跨部门沟通和资源整合能力，对探索新业务方向有热情。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先"
-        ],
-        "eligibilityClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "用户运营"
-      ],
-      "skills": [
-        "数据分析",
-        "跨部门沟通",
-        "电商"
-      ],
-      "experienceKeywords": [
-        "电商",
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "字节跳动官方2027校招官网",
-      "officialURL": "https://jobs.bytedance.com/campus",
-      "publishedAt": "2026-07-30",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
-      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
-    },
-    {
       "id": "bytedance-ec8393e93e7c",
       "company": "字节跳动",
       "title": "AI产品运营 - TikTok Shop",
@@ -2163,6 +2068,101 @@
       "preferenceTags": [
         "国际业务"
       ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-8714e7c1a50f",
+      "company": "字节跳动",
+      "title": "用户增长产品经理 - 抖音电商",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引入优质合作伙伴，为商家变现提供多元的选择。 1、负责抖音电商大盘用户增长，对电商用户规模的持续增长、全网电商用户的抖音渗透负责； 2、以用户规模增长目标为导向，通过数据分析及用户研究，明确所负责的增长业务的核心方向及手段； 3、与算法部门深度合作，通过迭代补贴模型、流量分发等多种策略手段，持续提升电商获客效率和质量； 4、关注用户生命周期价值和增长成本投入，进行专项问题分析，能够从数据中获取洞察，指导策略迭代和算法优化。",
+      "jobRequirements": "1、2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先； 2、有用户增长、推荐、广告等策略领域的相关实习经验优先，有较强的数据分析能力，善于从数据中发现问题并制定策略，熟练使用AB实验机制验证策略效果； 3、了解产品的用户增长方法，有电商用户同理心，对前沿的电商增长模式发展有自我理解，能保持创新和演变思考； 4、目标导向，有良好的跨部门沟通和资源整合能力，对探索新业务方向有热情。",
+      "JD": "团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引入优质合作伙伴，为商家变现提供多元的选择。 1、负责抖音电商大盘用户增长，对电商用户规模的持续增长、全网电商用户的抖音渗透负责； 2、以用户规模增长目标为导向，通过数据分析及用户研究，明确所负责的增长业务的核心方向及手段； 3、与算法部门深度合作，通过迭代补贴模型、流量分发等多种策略手段，持续提升电商获客效率和质量； 4、关注用户生命周期价值和增长成本投入，进行专项问题分析，能够从数据中获取洞察，指导策略迭代和算法优化。\n1、2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先； 2、有用户增长、推荐、广告等策略领域的相关实习经验优先，有较强的数据分析能力，善于从数据中发现问题并制定策略，熟练使用AB实验机制验证策略效果； 3、了解产品的用户增长方法，有电商用户同理心，对前沿的电商增长模式发展有自我理解，能保持创新和演变思考； 4、目标导向，有良好的跨部门沟通和资源整合能力，对探索新业务方向有热情。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "2027届获得本科及以上学历，数学、统计学、经济学、计算机等相关学历背景优先"
+        ],
+        "eligibilityClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "用户运营"
+      ],
+      "skills": [
+        "数据分析",
+        "跨部门沟通",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "电商",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
       "riskTags": [],
       "headcount": {
         "disclosed": false,
@@ -6545,6 +6545,106 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
+      "id": "bytedance-8dd6d4a1dc27",
+      "company": "字节跳动",
+      "title": "AI内容设计师 - TikTok Shop",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、2027届获得硕士及以上学位，英语、新闻、传媒、设计、人机交互等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：TikTok Shop 是 TikTok 旗下的内容电商。平台汇聚全球优质商家与创作者，通过短视频、直播等多场景连接消费者，让新奇好物畅销全球，让美好生活触手可得。目前团队分布在美国、英国、法国、印尼、墨西哥、中国等全球多个国家和地区，在这里你将有机会深入国际业务场景，面向全世界商家及用户，和跨区域团队协作，共同探索创新购物模式。期待和优秀的你一起创造更多可能！ 1、遵循风格指南，为国际电商产品撰写双语界面文案； 2、负责上传文案至内容管理平台以支持本地化翻译； 3、与跨部门团队协作提升产品和功能体验； 4、参加内容设计和产品设计相关会议。",
+      "jobRequirements": "1、2027届获得硕士及以上学位，英语、新闻、传媒、设计、人机交互等相关专业优先； 2、优秀的英文写作与口语沟通能力； 3、能在指导下区分项目优先级； 4、具有独立思考能力，能够主动提问、澄清问题； 5、具有优秀的团队协作能力； 6、有与设计、本地化和研发团队合作的相关实习经验加分。",
+      "JD": "团队介绍：TikTok Shop 是 TikTok 旗下的内容电商。平台汇聚全球优质商家与创作者，通过短视频、直播等多场景连接消费者，让新奇好物畅销全球，让美好生活触手可得。目前团队分布在美国、英国、法国、印尼、墨西哥、中国等全球多个国家和地区，在这里你将有机会深入国际业务场景，面向全世界商家及用户，和跨区域团队协作，共同探索创新购物模式。期待和优秀的你一起创造更多可能！ 1、遵循风格指南，为国际电商产品撰写双语界面文案； 2、负责上传文案至内容管理平台以支持本地化翻译； 3、与跨部门团队协作提升产品和功能体验； 4、参加内容设计和产品设计相关会议。\n1、2027届获得硕士及以上学位，英语、新闻、传媒、设计、人机交互等相关专业优先； 2、优秀的英文写作与口语沟通能力； 3、能在指导下区分项目优先级； 4、具有独立思考能力，能够主动提问、澄清问题； 5、具有优秀的团队协作能力； 6、有与设计、本地化和研发团队合作的相关实习经验加分。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得硕士及以上学位，英语、新闻、传媒、设计、人机交互等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "文案",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "电商",
+        "用户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
       "id": "bytedance-18048adc5db0",
       "company": "字节跳动",
       "title": "KA营销活动运营 - 抖音生活服务",
@@ -6633,6 +6733,108 @@
       "source": "字节跳动官方2027校招官网",
       "officialURL": "https://jobs.bytedance.com/campus",
       "publishedAt": "2026-07-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-4a5cee4d50f2",
+      "company": "字节跳动",
+      "title": "商品产品经理（AI方向） - TikTok Shop",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机、数学、统计学相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：TikTok Shop 是 TikTok 旗下的内容电商。平台汇聚全球优质商家与创作者，通过短视频、直播等多场景连接消费者，让新奇好物畅销全球，让美好生活触手可得。目前团队分布在美国、英国、法国、印尼、墨西哥、中国等全球多个国家和地区，在这里你将有机会深入国际业务场景，面向全世界商家及用户，和跨区域团队协作，共同探索创新购物模式。期待和优秀的你一起创造更多可能！ 1、参与商品相关产品能力建设，包括但不限于商品发布、商品基础、商机中心，商品成长等模块； 2、输出分析报告、产品思路，沉淀供给侧策略认知，持续迭代供给洞察与商机招募相关产品能力； 3、参与AI诊断分析报告、AI Agent对话交互等AI相关产品方案设计，落地供给侧智能化能力建设； 4、和产品、业务、研发、数据等多方团队紧密协同，持续跟进方案落地，围绕优质商品供给、转化类核心指标持续迭代优化。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机、数学、统计学相关专业优先； 2、拥有产品、研发、DS、策略分析、策略运营相关实习/项目经历优先； 3、逻辑思路清晰，具备独立撰写数据分析报告、方案总结与对外沟通表达能力； 4、英语读写流利，可作为日常工作语言，有国际化学习经历优先； 5、优秀跨团队协调沟通能力，责任心强，主动推进事项落地，结果导向。",
+      "JD": "团队介绍：TikTok Shop 是 TikTok 旗下的内容电商。平台汇聚全球优质商家与创作者，通过短视频、直播等多场景连接消费者，让新奇好物畅销全球，让美好生活触手可得。目前团队分布在美国、英国、法国、印尼、墨西哥、中国等全球多个国家和地区，在这里你将有机会深入国际业务场景，面向全世界商家及用户，和跨区域团队协作，共同探索创新购物模式。期待和优秀的你一起创造更多可能！ 1、参与商品相关产品能力建设，包括但不限于商品发布、商品基础、商机中心，商品成长等模块； 2、输出分析报告、产品思路，沉淀供给侧策略认知，持续迭代供给洞察与商机招募相关产品能力； 3、参与AI诊断分析报告、AI Agent对话交互等AI相关产品方案设计，落地供给侧智能化能力建设； 4、和产品、业务、研发、数据等多方团队紧密协同，持续跟进方案落地，围绕优质商品供给、转化类核心指标持续迭代优化。\n1、2027届获得本科及以上学历，计算机、数学、统计学相关专业优先； 2、拥有产品、研发、DS、策略分析、策略运营相关实习/项目经历优先； 3、逻辑思路清晰，具备独立撰写数据分析报告、方案总结与对外沟通表达能力； 4、英语读写流利，可作为日常工作语言，有国际化学习经历优先； 5、优秀跨团队协调沟通能力，责任心强，主动推进事项落地，结果导向。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机、数学、统计学相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "电商",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -6937,6 +7139,110 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
+      "id": "bytedance-32936905e13c",
+      "company": "字节跳动",
+      "title": "AI产品经理（直播治理方向） - TikTok",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机、人工智能、数据科学、统计学、信息管理、公共政策、法律、新闻传播、外语等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：TikTok是一个覆盖150个国家和地区的国际短视频平台，我们希望通过TikTok发现真实、有趣的瞬间，让生活更美好。TikTok在全球各地设有办公室，全球总部位于洛杉矶和新加坡，办公地点还包括纽约、伦敦、都柏林、巴黎、柏林、迪拜、雅加达、首尔和东京等多个城市。 1、参与安全策略规划：参与TikTok直播场景的安全策略产品工作，了解和分析直播生态中的内容违规、欺诈作弊、未成年人保护、危险行为（如分心驾驶）等风险，协助制定并持续优化全生命周期风控策略； 2、推动产品方案落地：协助将安全管控需求转化为清晰的产品逻辑和系统方案，参与建设“机器算法拦截—人工审核介入—用户教育与申诉”的全链路产品闭环； 3、开展数据分析与策略优化：参与直播安全核心指标体系建设，通过数据分析、用户反馈和负面案例研究，追踪策略的召回率、准确率、打扰率等关键指标，并通过A/B测试等方式持续提升策略效果； 4、参与跨团队协作：与全球运营、法务、公关、算法模型和工程研发等团队紧密合作，协助推动跨部门项目按计划落地； 5、关注合规与本地化：持续关注不同国家和地区的政策法规、文化差异及用户习惯，协助优化直播安全策略，满足各地区的合规和本地化需求； 6、探索AI创新应用：关注大语言模型及多模态技术的发展，探索AI在复杂违规语境理解、风险内容识别、人工审核提效和黑灰产对抗等直播安全场景中的应用。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机、人工智能、数据科学、统计学、信息管理、公共政策、法律、新闻传播、外语等相关专业优先； 2、对互联网产品、直播生态、内容治理、风险控制或信任与安全领域有浓厚兴趣，具备较强的用户意识和风险敏感度； 3、逻辑思维清晰，对数据敏感，具备基础的数据分析能力；熟悉SQL、Python或其他数据分析工具者优先； 4、关注人工智能、大语言模型及多模态技术，了解AI的基本原理和典型应用；有AI产品、内容治理或风控方向的课程项目、科研、竞赛或实习经历者优先； 5、具备良好的产品思维、沟通协作能力和项目推进意识，能够快速理解复杂问题，并将其拆解为可执行的解决方案； 6、具备全球化视野和跨文化沟通意识，英语可作为工作语言，能够进行顺畅的书面及口语沟通。",
+      "JD": "团队介绍：TikTok是一个覆盖150个国家和地区的国际短视频平台，我们希望通过TikTok发现真实、有趣的瞬间，让生活更美好。TikTok在全球各地设有办公室，全球总部位于洛杉矶和新加坡，办公地点还包括纽约、伦敦、都柏林、巴黎、柏林、迪拜、雅加达、首尔和东京等多个城市。 1、参与安全策略规划：参与TikTok直播场景的安全策略产品工作，了解和分析直播生态中的内容违规、欺诈作弊、未成年人保护、危险行为（如分心驾驶）等风险，协助制定并持续优化全生命周期风控策略； 2、推动产品方案落地：协助将安全管控需求转化为清晰的产品逻辑和系统方案，参与建设“机器算法拦截—人工审核介入—用户教育与申诉”的全链路产品闭环； 3、开展数据分析与策略优化：参与直播安全核心指标体系建设，通过数据分析、用户反馈和负面案例研究，追踪策略的召回率、准确率、打扰率等关键指标，并通过A/B测试等方式持续提升策略效果； 4、参与跨团队协作：与全球运营、法务、公关、算法模型和工程研发等团队紧密合作，协助推动跨部门项目按计划落地； 5、关注合规与本地化：持续关注不同国家和地区的政策法规、文化差异及用户习惯，协助优化直播安全策略，满足各地区的合规和本地化需求； 6、探索AI创新应用：关注大语言模型及多模态技术的发展，探索AI在复杂违规语境理解、风险内容识别、人工审核提效和黑灰产对抗等直播安全场景中的应用。\n1、2027届获得本科及以上学历，计算机、人工智能、数据科学、统计学、信息管理、公共政策、法律、新闻传播、外语等相关专业优先； 2、对互联网产品、直播生态、内容治理、风险控制或信任与安全领域有浓厚兴趣，具备较强的用户意识和风险敏感度； 3、逻辑思维清晰，对数据敏感，具备基础的数据分析能力；熟悉SQL、Python或其他数据分析工具者优先； 4、关注人工智能、大语言模型及多模态技术，了解AI的基本原理和典型应用；有AI产品、内容治理或风控方向的课程项目、科研、竞赛或实习经历者优先； 5、具备良好的产品思维、沟通协作能力和项目推进意识，能够快速理解复杂问题，并将其拆解为可执行的解决方案； 6、具备全球化视野和跨文化沟通意识，英语可作为工作语言，能够进行顺畅的书面及口语沟通。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机、人工智能、数据科学、统计学、信息管理、公共政策、法律、新闻传播、外语等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "用户",
+        "数据",
+        "跨文化",
+        "公关",
+        "传播"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
       "id": "bytedance-d12f05a346b3",
       "company": "字节跳动",
       "title": "达人运营 - 抖音电商",
@@ -7125,6 +7431,101 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
+      "id": "bytedance-2f3a8e51a78c",
+      "company": "字节跳动",
+      "title": "乳饮冲调行业运营 - 抖音电商",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届获得本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引入优质合作伙伴，为商家变现提供多元的选择。 1、结合抖音内容特性，制定行业在抖音产品内的完整策略，根据乳饮冲调行业的特性、发展阶段及市场趋势制定行业策略及商家在字节跳动系内的发展运营策略； 2、对乳饮冲调行业兴趣度高，有较强的好奇心和快速学习的能力； 3、了解抖音的短视频和直播流量规律，关注内容电商的玩法。",
+      "jobRequirements": "1、2027届获得本科及以上学历； 2、数据敏感度好，有行业运营、类目运营、商品运营等实习经验优先，对平台侧商家商品运营有好奇心，有过复杂项目的支持经验； 3、自我驱动力强，主动学习，有团队合作精神，良好的协同能力。",
+      "JD": "团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引入优质合作伙伴，为商家变现提供多元的选择。 1、结合抖音内容特性，制定行业在抖音产品内的完整策略，根据乳饮冲调行业的特性、发展阶段及市场趋势制定行业策略及商家在字节跳动系内的发展运营策略； 2、对乳饮冲调行业兴趣度高，有较强的好奇心和快速学习的能力； 3、了解抖音的短视频和直播流量规律，关注内容电商的玩法。\n1、2027届获得本科及以上学历； 2、数据敏感度好，有行业运营、类目运营、商品运营等实习经验优先，对平台侧商家商品运营有好奇心，有过复杂项目的支持经验； 3、自我驱动力强，主动学习，有团队合作精神，良好的协同能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "电商",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-09-15",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
       "id": "bytedance-6a9823943d81",
       "company": "字节跳动",
       "title": "滋补保健类目商业化运营 - 抖音电商",
@@ -7182,101 +7583,6 @@
       "preferenceTags": [
         "国际业务"
       ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "字节跳动官方2027校招官网",
-      "officialURL": "https://jobs.bytedance.com/campus",
-      "publishedAt": "2026-09-15",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
-      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
-    },
-    {
-      "id": "bytedance-2f3a8e51a78c",
-      "company": "字节跳动",
-      "title": "乳饮冲调行业运营 - 抖音电商",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届获得本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引入优质合作伙伴，为商家变现提供多元的选择。 1、结合抖音内容特性，制定行业在抖音产品内的完整策略，根据乳饮冲调行业的特性、发展阶段及市场趋势制定行业策略及商家在字节跳动系内的发展运营策略； 2、对乳饮冲调行业兴趣度高，有较强的好奇心和快速学习的能力； 3、了解抖音的短视频和直播流量规律，关注内容电商的玩法。",
-      "jobRequirements": "1、2027届获得本科及以上学历； 2、数据敏感度好，有行业运营、类目运营、商品运营等实习经验优先，对平台侧商家商品运营有好奇心，有过复杂项目的支持经验； 3、自我驱动力强，主动学习，有团队合作精神，良好的协同能力。",
-      "JD": "团队介绍：抖音电商以“总能发现好东西”为主张，致力于成为用户发现丰富好物的首选平台。众多抖音创作者通过短视频、直播、商城等丰富的形式，给用户提供更个性化、更生动、更高效的消费体验。同时，抖音电商积极引入优质合作伙伴，为商家变现提供多元的选择。 1、结合抖音内容特性，制定行业在抖音产品内的完整策略，根据乳饮冲调行业的特性、发展阶段及市场趋势制定行业策略及商家在字节跳动系内的发展运营策略； 2、对乳饮冲调行业兴趣度高，有较强的好奇心和快速学习的能力； 3、了解抖音的短视频和直播流量规律，关注内容电商的玩法。\n1、2027届获得本科及以上学历； 2、数据敏感度好，有行业运营、类目运营、商品运营等实习经验优先，对平台侧商家商品运营有好奇心，有过复杂项目的支持经验； 3、自我驱动力强，主动学习，有团队合作精神，良好的协同能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "电商"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "市场",
-        "电商",
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
       "riskTags": [],
       "headcount": {
         "disclosed": false,
@@ -9243,100 +9549,6 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
-      "id": "bytedance-bce552275cee",
-      "company": "字节跳动",
-      "title": "抖音视频安全治理策略 - 抖音社区治理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "团队介绍：抖音致力于打造一个开放、积极、多元、友善的平台，鼓励表达、沟通和记录，激发创造，丰富人们的精神世界，让现实生活更美好。我们通过AI算法驱动的个性化推荐与智能创作工具，满足用户表达、学习、娱乐、社交、消费等需求。回顾抖音一路走来的历程，我们在帮助亿万用户记录美好生活的过程中，努力变得更好。抖音社区治理团队负责抖音的社区治理工作，包括视频、直播等多体裁的内容治理，以及安全产品中台能力建设。 1、负责抖音内容安全治理策略体系建设，协同产品、算法、审核、运营等团队，推进问题发现、定义、识别、处置和复盘机制落地； 2、围绕内容安全风险与业务场景，参与治理策略设计和能力建设，平衡内容治理效果与业务发展诉求，持续优化审核链路和处置效率； 3、基于内容特征、用户行为、消费路径及风险表现进行分析，识别潜在治理问题，制定内容处置策略并推动迭代； 4、结合数据分析、策略评估和业务反馈，参与治理项目目标拆解、优先级判断及跨团队协作推进，产出可持续优化方案； 5、关注大模型在内容理解、风险识别、策略辅助分析等方向的应用，探索将大模型能力融入治理策略设计、问题归因和效率提升场景。",
-      "jobRequirements": "1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先； 2、具备较强的内容理解能力和文字敏感度，对内容安全、社区生态、平台治理等方向有兴趣，认真负责，主观能动性强； 3、具备基础的数据分析能力，能通过数据发现问题、验证判断并总结规律，有SQL/Python/数据分析项目经验优先； 4、逻辑思维清晰，善于拆解问题并推动解决，具备良好的沟通协作能力和一定产品思维； 5、大模型应用实践经验优先：包括提示词设计、AI工具使用、文本理解/分类/归因场景实践，或参与过大模型相关项目；不要求深度算法背景，需具备主动学习和业务应用意识。",
-      "JD": "团队介绍：抖音致力于打造一个开放、积极、多元、友善的平台，鼓励表达、沟通和记录，激发创造，丰富人们的精神世界，让现实生活更美好。我们通过AI算法驱动的个性化推荐与智能创作工具，满足用户表达、学习、娱乐、社交、消费等需求。回顾抖音一路走来的历程，我们在帮助亿万用户记录美好生活的过程中，努力变得更好。抖音社区治理团队负责抖音的社区治理工作，包括视频、直播等多体裁的内容治理，以及安全产品中台能力建设。 1、负责抖音内容安全治理策略体系建设，协同产品、算法、审核、运营等团队，推进问题发现、定义、识别、处置和复盘机制落地； 2、围绕内容安全风险与业务场景，参与治理策略设计和能力建设，平衡内容治理效果与业务发展诉求，持续优化审核链路和处置效率； 3、基于内容特征、用户行为、消费路径及风险表现进行分析，识别潜在治理问题，制定内容处置策略并推动迭代； 4、结合数据分析、策略评估和业务反馈，参与治理项目目标拆解、优先级判断及跨团队协作推进，产出可持续优化方案； 5、关注大模型在内容理解、风险识别、策略辅助分析等方向的应用，探索将大模型能力融入治理策略设计、问题归因和效率提升场景。\n1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先； 2、具备较强的内容理解能力和文字敏感度，对内容安全、社区生态、平台治理等方向有兴趣，认真负责，主观能动性强； 3、具备基础的数据分析能力，能通过数据发现问题、验证判断并总结规律，有SQL/Python/数据分析项目经验优先； 4、逻辑思维清晰，善于拆解问题并推动解决，具备良好的沟通协作能力和一定产品思维； 5、大模型应用实践经验优先：包括提示词设计、AI工具使用、文本理解/分类/归因场景实践，或参与过大模型相关项目；不要求深度算法背景，需具备主动学习和业务应用意识。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "字节跳动官方2027校招官网",
-      "officialURL": "https://jobs.bytedance.com/campus",
-      "publishedAt": "2026-07-30",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
-      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
-    },
-    {
       "id": "bytedance-1fa460f948fd",
       "company": "字节跳动",
       "title": "达人产品经理 - TikTok Shop",
@@ -9435,6 +9647,100 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
+      "id": "bytedance-54200a1fcba0",
+      "company": "字节跳动",
+      "title": "抖音人审安全运营 - 抖音社区治理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，统计学/数学/计算机/信息管理/工业工程等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "团队介绍：抖音致力于打造一个开放、积极、多元、友善的平台，鼓励表达、沟通和记录，激发创造，丰富人们的精神世界，让现实生活更美好。我们通过AI算法驱动的个性化推荐与智能创作工具，满足用户表达、学习、娱乐、社交、消费等需求。回顾抖音一路走来的历程，我们在帮助亿万用户记录美好生活的过程中，努力变得更好。抖音社区治理团队负责抖音的社区治理工作，包括视频、直播等多体裁的内容治理，以及安全产品中台能力建设。 1、负责人审流程诊断与优化：基于链路数据与一线反馈，定位策略链路问题、效率瓶颈与潜在风险点，输出并跟进优化方案落地； 2、负责人审队列与分流策略设计：结合内容类型、风险等级与审核指标等维度，协助设计/优化人审队列规则与调度策略，提升人审资源利用率与处理效率； 3、数据分析与指标运营：跟进审核时效、积压、命中率、申诉/复审等指标，进行异常排查与归因分析，推动策略与流程迭代闭环； 4、跨团队协同与项目推进：对接治理策略/标准/研发/审核团队，基于业务诉求与痛点，推动跨团队联动机制，保障项目按计划落地； 5、关注大模型在指标监控、辅助分析等场景应用，探索大模型能力融入人审策略设计、问题归因、效率提升等场景。",
+      "jobRequirements": "1、2027届获得本科及以上学历，统计学/数学/计算机/信息管理/工业工程等相关专业优先； 2、对内容治理、风险识别与社区生态有基础认知与兴趣；数据分析能力扎实：能围绕审核时效、积压、命中率、申诉/复审等指标做分层分析、异常排查与归因；掌握SQL者优先； 3、具备较强的沟通协作与项目推进能力：能对齐多方诉求、拆解目标与计划、协调资源并推动落地，对结果负责； 4、逻辑清晰、学习能力强，能快速理解业务规则/风险类型，愿意深入一线理解审核链路与真实痛点；具备良好的结构化表达与文档能力（能输出策略方案/专题复盘）； 5、了解大模型在文本理解/抽取/分类/总结等方向的应用边界，能使用Prompt工程做辅助研判/提效尝试；有RAG/知识库检索辅助、评测集构建或负面案例归因相关实践者优先。",
+      "JD": "团队介绍：抖音致力于打造一个开放、积极、多元、友善的平台，鼓励表达、沟通和记录，激发创造，丰富人们的精神世界，让现实生活更美好。我们通过AI算法驱动的个性化推荐与智能创作工具，满足用户表达、学习、娱乐、社交、消费等需求。回顾抖音一路走来的历程，我们在帮助亿万用户记录美好生活的过程中，努力变得更好。抖音社区治理团队负责抖音的社区治理工作，包括视频、直播等多体裁的内容治理，以及安全产品中台能力建设。 1、负责人审流程诊断与优化：基于链路数据与一线反馈，定位策略链路问题、效率瓶颈与潜在风险点，输出并跟进优化方案落地； 2、负责人审队列与分流策略设计：结合内容类型、风险等级与审核指标等维度，协助设计/优化人审队列规则与调度策略，提升人审资源利用率与处理效率； 3、数据分析与指标运营：跟进审核时效、积压、命中率、申诉/复审等指标，进行异常排查与归因分析，推动策略与流程迭代闭环； 4、跨团队协同与项目推进：对接治理策略/标准/研发/审核团队，基于业务诉求与痛点，推动跨团队联动机制，保障项目按计划落地； 5、关注大模型在指标监控、辅助分析等场景应用，探索大模型能力融入人审策略设计、问题归因、效率提升等场景。\n1、2027届获得本科及以上学历，统计学/数学/计算机/信息管理/工业工程等相关专业优先； 2、对内容治理、风险识别与社区生态有基础认知与兴趣；数据分析能力扎实：能围绕审核时效、积压、命中率、申诉/复审等指标做分层分析、异常排查与归因；掌握SQL者优先； 3、具备较强的沟通协作与项目推进能力：能对齐多方诉求、拆解目标与计划、协调资源并推动落地，对结果负责； 4、逻辑清晰、学习能力强，能快速理解业务规则/风险类型，愿意深入一线理解审核链路与真实痛点；具备良好的结构化表达与文档能力（能输出策略方案/专题复盘）； 5、了解大模型在文本理解/抽取/分类/总结等方向的应用边界，能使用Prompt工程做辅助研判/提效尝试；有RAG/知识库检索辅助、评测集构建或负面案例归因相关实践者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，统计学/数学/计算机/信息管理/工业工程等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
       "id": "bytedance-bbf4a9ac49dd",
       "company": "字节跳动",
       "title": "达人策略运营（平台撮合方向） - 抖音生活服务",
@@ -9480,6 +9786,100 @@
       ],
       "experienceKeywords": [
         "运营",
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-bce552275cee",
+      "company": "字节跳动",
+      "title": "抖音视频安全治理策略 - 抖音社区治理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "团队介绍：抖音致力于打造一个开放、积极、多元、友善的平台，鼓励表达、沟通和记录，激发创造，丰富人们的精神世界，让现实生活更美好。我们通过AI算法驱动的个性化推荐与智能创作工具，满足用户表达、学习、娱乐、社交、消费等需求。回顾抖音一路走来的历程，我们在帮助亿万用户记录美好生活的过程中，努力变得更好。抖音社区治理团队负责抖音的社区治理工作，包括视频、直播等多体裁的内容治理，以及安全产品中台能力建设。 1、负责抖音内容安全治理策略体系建设，协同产品、算法、审核、运营等团队，推进问题发现、定义、识别、处置和复盘机制落地； 2、围绕内容安全风险与业务场景，参与治理策略设计和能力建设，平衡内容治理效果与业务发展诉求，持续优化审核链路和处置效率； 3、基于内容特征、用户行为、消费路径及风险表现进行分析，识别潜在治理问题，制定内容处置策略并推动迭代； 4、结合数据分析、策略评估和业务反馈，参与治理项目目标拆解、优先级判断及跨团队协作推进，产出可持续优化方案； 5、关注大模型在内容理解、风险识别、策略辅助分析等方向的应用，探索将大模型能力融入治理策略设计、问题归因和效率提升场景。",
+      "jobRequirements": "1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先； 2、具备较强的内容理解能力和文字敏感度，对内容安全、社区生态、平台治理等方向有兴趣，认真负责，主观能动性强； 3、具备基础的数据分析能力，能通过数据发现问题、验证判断并总结规律，有SQL/Python/数据分析项目经验优先； 4、逻辑思维清晰，善于拆解问题并推动解决，具备良好的沟通协作能力和一定产品思维； 5、大模型应用实践经验优先：包括提示词设计、AI工具使用、文本理解/分类/归因场景实践，或参与过大模型相关项目；不要求深度算法背景，需具备主动学习和业务应用意识。",
+      "JD": "团队介绍：抖音致力于打造一个开放、积极、多元、友善的平台，鼓励表达、沟通和记录，激发创造，丰富人们的精神世界，让现实生活更美好。我们通过AI算法驱动的个性化推荐与智能创作工具，满足用户表达、学习、娱乐、社交、消费等需求。回顾抖音一路走来的历程，我们在帮助亿万用户记录美好生活的过程中，努力变得更好。抖音社区治理团队负责抖音的社区治理工作，包括视频、直播等多体裁的内容治理，以及安全产品中台能力建设。 1、负责抖音内容安全治理策略体系建设，协同产品、算法、审核、运营等团队，推进问题发现、定义、识别、处置和复盘机制落地； 2、围绕内容安全风险与业务场景，参与治理策略设计和能力建设，平衡内容治理效果与业务发展诉求，持续优化审核链路和处置效率； 3、基于内容特征、用户行为、消费路径及风险表现进行分析，识别潜在治理问题，制定内容处置策略并推动迭代； 4、结合数据分析、策略评估和业务反馈，参与治理项目目标拆解、优先级判断及跨团队协作推进，产出可持续优化方案； 5、关注大模型在内容理解、风险识别、策略辅助分析等方向的应用，探索将大模型能力融入治理策略设计、问题归因和效率提升场景。\n1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先； 2、具备较强的内容理解能力和文字敏感度，对内容安全、社区生态、平台治理等方向有兴趣，认真负责，主观能动性强； 3、具备基础的数据分析能力，能通过数据发现问题、验证判断并总结规律，有SQL/Python/数据分析项目经验优先； 4、逻辑思维清晰，善于拆解问题并推动解决，具备良好的沟通协作能力和一定产品思维； 5、大模型应用实践经验优先：包括提示词设计、AI工具使用、文本理解/分类/归因场景实践，或参与过大模型相关项目；不要求深度算法背景，需具备主动学习和业务应用意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，专业不限，统计学/计算机/数据科学等理工专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
         "项目",
         "用户",
         "数据"
@@ -10778,6 +11178,198 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
+      "id": "bytedance-7c788eedb411",
+      "company": "字节跳动",
+      "title": "安全策略产品经理 - 今日头条",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "团队介绍：产品覆盖今日头条、头条极速版等各类产品，为上亿用户持续提供优质的资讯、视频等服务。我们通过建立良好的内容生态，鼓励优质的原创内容，为创作者提供优质的服务和创作体验，促进创作和交流，同时我们致力于通过尽可能丰富的内容体裁和尽可能多的分发方式，连接人与信息，丰富大家的精神生活，让人们看到更大的世界。 1、为今日头条及今日头条系APP安全负责，利用专业能力提供安全解决方案并落地执行； 2、深入理解业务模型，对用户体验敏锐，基于对业务的理解制定安全策略，兼顾体验与安全； 3、密切配合技术、运营团队，通过大量数据分析和调研，确定优化方向，促进业务核心指标达成，推进和跟进全链路安全体系，动态评估及合理应对产品安全风险。",
+      "jobRequirements": "1、2027届获得本科及以上学历，专业不限； 2、沟通表达能力强，善于团队协作； 3、熟悉内容型产品，具备复杂策略类产品设计基础和实战经验者优先； 4、有数学建模、数据分析经验并能熟练掌握SQL、Excel、R或者Python等数据分析工具者优先； 5、善于思考，有很强的逻辑思维能力和解决问题的能力、能理解和抽象业务逻辑。",
+      "JD": "团队介绍：产品覆盖今日头条、头条极速版等各类产品，为上亿用户持续提供优质的资讯、视频等服务。我们通过建立良好的内容生态，鼓励优质的原创内容，为创作者提供优质的服务和创作体验，促进创作和交流，同时我们致力于通过尽可能丰富的内容体裁和尽可能多的分发方式，连接人与信息，丰富大家的精神生活，让人们看到更大的世界。 1、为今日头条及今日头条系APP安全负责，利用专业能力提供安全解决方案并落地执行； 2、深入理解业务模型，对用户体验敏锐，基于对业务的理解制定安全策略，兼顾体验与安全； 3、密切配合技术、运营团队，通过大量数据分析和调研，确定优化方向，促进业务核心指标达成，推进和跟进全链路安全体系，动态评估及合理应对产品安全风险。\n1、2027届获得本科及以上学历，专业不限； 2、沟通表达能力强，善于团队协作； 3、熟悉内容型产品，具备复杂策略类产品设计基础和实战经验者优先； 4、有数学建模、数据分析经验并能熟练掌握SQL、Excel、R或者Python等数据分析工具者优先； 5、善于思考，有很强的逻辑思维能力和解决问题的能力、能理解和抽象业务逻辑。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-91d79bb7f17a",
+      "company": "字节跳动",
+      "title": "AI产品经理（广告策略方向） - 抖音生活服务",
+      "graduationYear": [
+        "2025",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机、统计学、市场营销、产品相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：抖音生活服务依托抖音POI （Point of Interest）、短视频、直播、搜索等，以“激发线下生意，丰富美好生活”为使命，致力于成为最值得信赖的生活服务平台，为用户提供更丰富、独特的生活体验，为合作伙伴提供包容且公平的健康营商生态。截至2025年底，抖音生活服务业务已覆盖400+城市，超过1500万家动销门店。抖音生活服务将继续携手生态伙伴，为用户提供值得心动的商品和服务。 1、参与本地生活商家AI营销体系建设，基于大模型、AIGC能力，赋能商家完成营销内容生成、智能活动配置、优惠策略智能推荐，通过AI能力降低中小商家营销操作门槛，提升营销工具使用规模与业务转化效果； 2、深度理解不同行业商家经营痛点，结合AI产品能力，输出面向商家的智能化营销解决方案，参与AI营销玩法的方案设计、落地验证与迭代优化； 3、通过数据分析、商家反馈挖掘AI产品落地过程中的问题，对AI能力的业务效果、商家体验负责，驱动产品、算法团队持续迭代大模型应用、智能策略能力； 4、协同产品、算法、研发、业务运营多团队，推进AI营销功能从需求、试点上线到规模化落地全流程，沉淀可复用的AI营销业务方法论； 5、跟踪行业AIGC、智能营销前沿趋势，探索大模型在优惠券、活动创编、商家经营诊断等场景下创新落地机会。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机、统计学、市场营销、产品相关专业优先； 2、对大模型/AIGC/AI商业化落地有浓厚兴趣，有AI项目、大模型产品实践、营销活动、运营项目经历优先，不限于课程项目、竞赛、实习； 3、具备良好数据分析能力，善于从数据中发现业务问题，逻辑清晰，能够把业务诉求转化为可落地的产品/运营方案； 4、同理心强，能够站B端商家视角思考问题，有较强跨团队协同能力，自驱力强，愿意参与AI产品从0到1落地； 5、有本地生活、电商、商业化营销相关实习经历加分。",
+      "JD": "团队介绍：抖音生活服务依托抖音POI （Point of Interest）、短视频、直播、搜索等，以“激发线下生意，丰富美好生活”为使命，致力于成为最值得信赖的生活服务平台，为用户提供更丰富、独特的生活体验，为合作伙伴提供包容且公平的健康营商生态。截至2025年底，抖音生活服务业务已覆盖400+城市，超过1500万家动销门店。抖音生活服务将继续携手生态伙伴，为用户提供值得心动的商品和服务。 1、参与本地生活商家AI营销体系建设，基于大模型、AIGC能力，赋能商家完成营销内容生成、智能活动配置、优惠策略智能推荐，通过AI能力降低中小商家营销操作门槛，提升营销工具使用规模与业务转化效果； 2、深度理解不同行业商家经营痛点，结合AI产品能力，输出面向商家的智能化营销解决方案，参与AI营销玩法的方案设计、落地验证与迭代优化； 3、通过数据分析、商家反馈挖掘AI产品落地过程中的问题，对AI能力的业务效果、商家体验负责，驱动产品、算法团队持续迭代大模型应用、智能策略能力； 4、协同产品、算法、研发、业务运营多团队，推进AI营销功能从需求、试点上线到规模化落地全流程，沉淀可复用的AI营销业务方法论； 5、跟踪行业AIGC、智能营销前沿趋势，探索大模型在优惠券、活动创编、商家经营诊断等场景下创新落地机会。\n1、2027届获得本科及以上学历，计算机、统计学、市场营销、产品相关专业优先； 2、对大模型/AIGC/AI商业化落地有浓厚兴趣，有AI项目、大模型产品实践、营销活动、运营项目经历优先，不限于课程项目、竞赛、实习； 3、具备良好数据分析能力，善于从数据中发现业务问题，逻辑清晰，能够把业务诉求转化为可落地的产品/运营方案； 4、同理心强，能够站B端商家视角思考问题，有较强跨团队协同能力，自驱力强，愿意参与AI产品从0到1落地； 5、有本地生活、电商、商业化营销相关实习经历加分。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机、统计学、市场营销、产品相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "电商",
+        "用户",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
       "id": "bytedance-5db952424f33",
       "company": "字节跳动",
       "title": "用户产品经理 - 抖音生活服务",
@@ -11058,6 +11650,100 @@
       "source": "字节跳动官方2027校招官网",
       "officialURL": "https://jobs.bytedance.com/campus",
       "publishedAt": "2026-07-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-2c07c21503fc",
+      "company": "字节跳动",
+      "title": "广告产品经理 - Global Ads Core",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届获得本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "团队介绍：广告核心团队在不同的广告投放阶段建立关键的变现机制 1. 我们建立排序、出价、预算、样式、诊断和其他框架，作为中台，使其他广告团队能够并行迭代他们的产品。 2. 我们实施流量策略，在用户体验的约束下实现收入的持续增长，实现广告主受众的深度探索。 3. 我们的模型驱动自动化解决方案从头到尾优化广告投放性能。 1、负责国际化广告产品设计开发，跟进需求开发和上线，并协调推动相关业务团队高质量执行； 2、负责对广告效果度量相关数据进行整理、验证和分析，提升产品开发效率和客户体验； 3、通过数据分析、需求收集、用户反馈，发现并优化潜在需求，提出优化建议； 4、对数据问题进行诊断和排查，解决数据披露上暴露的问题，增强客户信赖。",
+      "jobRequirements": "1、2027届获得本科及以上学历； 2、具备流利地道的英语听说读写能力； 3、良好的自我驱动力，能够在工作环境中处理多项任务； 4、较强的逻辑思维能力，善于分析处理数据。",
+      "JD": "团队介绍：广告核心团队在不同的广告投放阶段建立关键的变现机制 1. 我们建立排序、出价、预算、样式、诊断和其他框架，作为中台，使其他广告团队能够并行迭代他们的产品。 2. 我们实施流量策略，在用户体验的约束下实现收入的持续增长，实现广告主受众的深度探索。 3. 我们的模型驱动自动化解决方案从头到尾优化广告投放性能。 1、负责国际化广告产品设计开发，跟进需求开发和上线，并协调推动相关业务团队高质量执行； 2、负责对广告效果度量相关数据进行整理、验证和分析，提升产品开发效率和客户体验； 3、通过数据分析、需求收集、用户反馈，发现并优化潜在需求，提出优化建议； 4、对数据问题进行诊断和排查，解决数据披露上暴露的问题，增强客户信赖。\n1、2027届获得本科及以上学历； 2、具备流利地道的英语听说读写能力； 3、良好的自我驱动力，能够在工作环境中处理多项任务； 4、较强的逻辑思维能力，善于分析处理数据。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -12190,6 +12876,99 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
+      "id": "bytedance-ec5e3e7208eb",
+      "company": "字节跳动",
+      "title": "安全策略产品经理 - 番茄小说",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "团队介绍：番茄小说是抖音在 2019 年推出的免费阅读产品，致力于为读者提供优质的阅读体验。番茄小说拥有海量正版小说，涵盖言情、都市、玄幻、悬疑等主流网文类型，以及大量热剧原著和经典出版物，支持用户看书、听书。 1、参与番茄系内容安全的产品需求分析和规划，设计产品原型，并撰写需求文档； 2、负责产品方案的设计、分析、落地，为项目节点负责，并持续进行功能优化和策略迭代； 3、具备较好的数据分析能力，对产品运营数据进行追踪和分析，制定优化方案并推动产品持续迭代； 4、与研发、运营等部门密切合作，推进产品的快速升级，保证产品按时、高质量上线。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机等相关专业优先； 2、熟悉内容型产品，具备复杂策略类产品设计基础和实战经验者优先； 3、具有较强逻辑思维能力和数据敏感性，独立思考，并善于创造性解决问题； 4、有较强的沟通能力，有同理心，并有取舍的判断力； 5、对工作有责任心、积极主动完成工作，接地气。",
+      "JD": "团队介绍：番茄小说是抖音在 2019 年推出的免费阅读产品，致力于为读者提供优质的阅读体验。番茄小说拥有海量正版小说，涵盖言情、都市、玄幻、悬疑等主流网文类型，以及大量热剧原著和经典出版物，支持用户看书、听书。 1、参与番茄系内容安全的产品需求分析和规划，设计产品原型，并撰写需求文档； 2、负责产品方案的设计、分析、落地，为项目节点负责，并持续进行功能优化和策略迭代； 3、具备较好的数据分析能力，对产品运营数据进行追踪和分析，制定优化方案并推动产品持续迭代； 4、与研发、运营等部门密切合作，推进产品的快速升级，保证产品按时、高质量上线。\n1、2027届获得本科及以上学历，计算机等相关专业优先； 2、熟悉内容型产品，具备复杂策略类产品设计基础和实战经验者优先； 3、具有较强逻辑思维能力和数据敏感性，独立思考，并善于创造性解决问题； 4、有较强的沟通能力，有同理心，并有取舍的判断力； 5、对工作有责任心、积极主动完成工作，接地气。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-09-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
       "id": "bytedance-b2cf505892b9",
       "company": "字节跳动",
       "title": "AI策略产品（抖音AI产品人才校招） - 抖音增长",
@@ -12663,99 +13442,6 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
-      "id": "bytedance-7c1036f167c8",
-      "company": "字节跳动",
-      "title": "AI产品经理（广告策略方向） - 抖音生活服务",
-      "graduationYear": [
-        "2025",
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届获得本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "团队介绍：抖音生活服务依托抖音POI （Point of Interest）、短视频、直播、搜索等，以“激发线下生意，丰富美好生活”为使命，致力于成为最值得信赖的生活服务平台，为用户提供更丰富、独特的生活体验，为合作伙伴提供包容且公平的健康营商生态。截至2025年底，抖音生活服务业务已覆盖400+城市，超过1500万家动销门店。抖音生活服务将继续携手生态伙伴，为用户提供值得心动的商品和服务。 1、结合本地生活行业营销需求，产出适配行业的广告方案，并持续对流量、投放等环节策略进行优化； 2、协助完成行业商业产品功能的需求设计、项目推动以及后续优化，促进行业核心数据增长； 3、优化和创新广告售卖模式及广告产品形态，完善广告投放及广告主服务能力； 4、有效完成内部资源协调和沟通，推动跨部门合作。",
-      "jobRequirements": "1、2027届获得本科及以上学历； 2、具有一定的产品调研能力和数据分析能力； 3、具有良好的沟通协调能力，责任心强，踏实敬业，逻辑清晰； 4、有生活服务或广告产品相关实习经历者优先考虑。",
-      "JD": "团队介绍：抖音生活服务依托抖音POI （Point of Interest）、短视频、直播、搜索等，以“激发线下生意，丰富美好生活”为使命，致力于成为最值得信赖的生活服务平台，为用户提供更丰富、独特的生活体验，为合作伙伴提供包容且公平的健康营商生态。截至2025年底，抖音生活服务业务已覆盖400+城市，超过1500万家动销门店。抖音生活服务将继续携手生态伙伴，为用户提供值得心动的商品和服务。 1、结合本地生活行业营销需求，产出适配行业的广告方案，并持续对流量、投放等环节策略进行优化； 2、协助完成行业商业产品功能的需求设计、项目推动以及后续优化，促进行业核心数据增长； 3、优化和创新广告售卖模式及广告产品形态，完善广告投放及广告主服务能力； 4、有效完成内部资源协调和沟通，推动跨部门合作。\n1、2027届获得本科及以上学历； 2、具有一定的产品调研能力和数据分析能力； 3、具有良好的沟通协调能力，责任心强，踏实敬业，逻辑清晰； 4、有生活服务或广告产品相关实习经历者优先考虑。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届获得本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据",
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "字节跳动官方2027校招官网",
-      "officialURL": "https://jobs.bytedance.com/campus",
-      "publishedAt": "2026-07-31",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
-      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
-    },
-    {
       "id": "bytedance-9d7093cb1371",
       "company": "字节跳动",
       "title": "平台产品经理 - 抖音生活服务",
@@ -12850,97 +13536,6 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
-      "id": "bytedance-d99c1d129e2d",
-      "company": "字节跳动",
-      "title": "空间计算渲染框架工程师 - 移动OS",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "团队介绍：我们隶属于产品研发与工程架构部，是字节跳动在智能硬件领域的软件技术攻坚力量—— 聚焦 AI 与智能硬件的深度融合，如豆包手机助手等；以 “让人与设备的交互更自然、更便捷” 为目标，探索前沿 AI 技术的落地场景，打造行业领先的智能硬件综合解决方案。 在这里，你将与一支顶尖技术团队并肩： - 直击 AI 与硬件结合的核心技术难题，参与从 “技术探索” 到 “场景落地” 的全链路研发； - 主导或深度参与关键技术突破，用创新定义智能硬件的交互未来； - 站在行业前沿，将技术理想转化为千万用户可感知的产品体验。 如果你心怀对技术的热忱，渴望在 AI 与智能硬件的赛道上突破自我、创造价值，我们期待你的加入，与我们一起解锁更多技术可能，共筑智能交互的新生态！ 1、负责2D、Web、3D渲染框架相关模块开发与维护； 2、负责空间计算SDK的功能实现，为开发者提供Native SDK； 3、交互和感知：开发和优化场景感知、场景交互、场景生成相关能力； 4、优化性能和工具：利用GPU和多核CPU提升帧率、延迟、清晰度等指标，以及参与引擎相关工具的开发。",
-      "jobRequirements": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先； 2、具备良好的C++语言基础，熟悉常用数据结构和算法，熟悉设计模式； 3、有良好的英文听说读写能力，可以使用英语进行日常沟通； 4、优秀的问题解决能力，注重代码质量和性能；具备良好的沟通与团队协作能力，对新技术充满热情。 加分项： 1、有使用C++开发Android Native层经验者优先； 2、有图形渲染开发经验或者论文发表优先。",
-      "JD": "团队介绍：我们隶属于产品研发与工程架构部，是字节跳动在智能硬件领域的软件技术攻坚力量—— 聚焦 AI 与智能硬件的深度融合，如豆包手机助手等；以 “让人与设备的交互更自然、更便捷” 为目标，探索前沿 AI 技术的落地场景，打造行业领先的智能硬件综合解决方案。 在这里，你将与一支顶尖技术团队并肩： - 直击 AI 与硬件结合的核心技术难题，参与从 “技术探索” 到 “场景落地” 的全链路研发； - 主导或深度参与关键技术突破，用创新定义智能硬件的交互未来； - 站在行业前沿，将技术理想转化为千万用户可感知的产品体验。 如果你心怀对技术的热忱，渴望在 AI 与智能硬件的赛道上突破自我、创造价值，我们期待你的加入，与我们一起解锁更多技术可能，共筑智能交互的新生态！ 1、负责2D、Web、3D渲染框架相关模块开发与维护； 2、负责空间计算SDK的功能实现，为开发者提供Native SDK； 3、交互和感知：开发和优化场景感知、场景交互、场景生成相关能力； 4、优化性能和工具：利用GPU和多核CPU提升帧率、延迟、清晰度等指标，以及参与引擎相关工具的开发。\n1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先； 2、具备良好的C++语言基础，熟悉常用数据结构和算法，熟悉设计模式； 3、有良好的英文听说读写能力，可以使用英语进行日常沟通； 4、优秀的问题解决能力，注重代码质量和性能；具备良好的沟通与团队协作能力，对新技术充满热情。 加分项： 1、有使用C++开发Android Native层经验者优先； 2、有图形渲染开发经验或者论文发表优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "用户",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "字节跳动官方2027校招官网",
-      "officialURL": "https://jobs.bytedance.com/campus",
-      "publishedAt": "2026-07-29",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
-      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
-    },
-    {
       "id": "bytedance-3890ced8eaf5",
       "company": "字节跳动",
       "title": "AI产品经理（抖音AI产品人才校招） - 抖音基础体验",
@@ -12988,6 +13583,97 @@
         "项目",
         "用户",
         "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-d99c1d129e2d",
+      "company": "字节跳动",
+      "title": "空间计算渲染框架工程师 - 移动OS",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "团队介绍：我们隶属于产品研发与工程架构部，是字节跳动在智能硬件领域的软件技术攻坚力量—— 聚焦 AI 与智能硬件的深度融合，如豆包手机助手等；以 “让人与设备的交互更自然、更便捷” 为目标，探索前沿 AI 技术的落地场景，打造行业领先的智能硬件综合解决方案。 在这里，你将与一支顶尖技术团队并肩： - 直击 AI 与硬件结合的核心技术难题，参与从 “技术探索” 到 “场景落地” 的全链路研发； - 主导或深度参与关键技术突破，用创新定义智能硬件的交互未来； - 站在行业前沿，将技术理想转化为千万用户可感知的产品体验。 如果你心怀对技术的热忱，渴望在 AI 与智能硬件的赛道上突破自我、创造价值，我们期待你的加入，与我们一起解锁更多技术可能，共筑智能交互的新生态！ 1、负责2D、Web、3D渲染框架相关模块开发与维护； 2、负责空间计算SDK的功能实现，为开发者提供Native SDK； 3、交互和感知：开发和优化场景感知、场景交互、场景生成相关能力； 4、优化性能和工具：利用GPU和多核CPU提升帧率、延迟、清晰度等指标，以及参与引擎相关工具的开发。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先； 2、具备良好的C++语言基础，熟悉常用数据结构和算法，熟悉设计模式； 3、有良好的英文听说读写能力，可以使用英语进行日常沟通； 4、优秀的问题解决能力，注重代码质量和性能；具备良好的沟通与团队协作能力，对新技术充满热情。 加分项： 1、有使用C++开发Android Native层经验者优先； 2、有图形渲染开发经验或者论文发表优先。",
+      "JD": "团队介绍：我们隶属于产品研发与工程架构部，是字节跳动在智能硬件领域的软件技术攻坚力量—— 聚焦 AI 与智能硬件的深度融合，如豆包手机助手等；以 “让人与设备的交互更自然、更便捷” 为目标，探索前沿 AI 技术的落地场景，打造行业领先的智能硬件综合解决方案。 在这里，你将与一支顶尖技术团队并肩： - 直击 AI 与硬件结合的核心技术难题，参与从 “技术探索” 到 “场景落地” 的全链路研发； - 主导或深度参与关键技术突破，用创新定义智能硬件的交互未来； - 站在行业前沿，将技术理想转化为千万用户可感知的产品体验。 如果你心怀对技术的热忱，渴望在 AI 与智能硬件的赛道上突破自我、创造价值，我们期待你的加入，与我们一起解锁更多技术可能，共筑智能交互的新生态！ 1、负责2D、Web、3D渲染框架相关模块开发与维护； 2、负责空间计算SDK的功能实现，为开发者提供Native SDK； 3、交互和感知：开发和优化场景感知、场景交互、场景生成相关能力； 4、优化性能和工具：利用GPU和多核CPU提升帧率、延迟、清晰度等指标，以及参与引擎相关工具的开发。\n1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先； 2、具备良好的C++语言基础，熟悉常用数据结构和算法，熟悉设计模式； 3、有良好的英文听说读写能力，可以使用英语进行日常沟通； 4、优秀的问题解决能力，注重代码质量和性能；具备良好的沟通与团队协作能力，对新技术充满热情。 加分项： 1、有使用C++开发Android Native层经验者优先； 2、有图形渲染开发经验或者论文发表优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机、软件工程等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "用户",
+        "数据",
+        "客户"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -15237,6 +15923,97 @@
       "source": "字节跳动官方2027校招官网",
       "officialURL": "https://jobs.bytedance.com/campus",
       "publishedAt": "2026-07-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-300fee69cb20",
+      "company": "字节跳动",
+      "title": "存储SRE - AI算力基础设施",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机、软件工程、通信等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "团队介绍：字节跳动基础设施部门，负责字节跳动的全栈算力基础设施，从芯片服务器产研、到超大规模数据中心，到传统云平台和如今的AI Native Cloud，全方位为抖音、豆包、今日头条、飞书、火山引擎等各类产品提供领先、稳定的百万量级大规模算力基础设施服务。我们的领域涵盖数据中心建设、内核操作系统开发、服务器集群管理、高速网络通信、EB级数据存储体系、搜索型数据库探索、基于LLM的AI基础设施的研发调度与治理等，致力于打造业界领先的、面向LLM的AI云原生基础设施架构与产品矩阵。 1、专注存储领域，为应用、技术组件、基础设施等提供选型、设计、开发、容量规划、调优、故障处理； 2、为业务系统提供基于可用性、可扩展性的决策支持，参与业务系统设计和实施； 3、定位、处理、管理故障，优化导致故障发生的相关组件； 4、参与设计并实现能够保障线上大规模集群迭代的自动化运营平台； 5、提高各组件资源利用率、提升服务SLA标准。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机、软件工程、通信等相关专业优先； 2、具备善于思考、积极乐观的特质，敢于面对挑战、自驱学习； 3、熟悉至少1门开发语言（Go、C/C++、Java、Python、JavaScript等）； 4、扎实的计算机软件基础知识；熟悉Linux负载模型、资源模型、网络IO模型等。 加分项 1、熟悉Codex、Claude Code、TRAE等AI Coding工具，将AI深度融入编码、调试、测试、文档和协作流程，主动用AI重构个人工作方式与研发习惯，并完成过生产级项目的开发上线与运营； 2、对于存储领域典型产品与场景，有一定了解。",
+      "JD": "团队介绍：字节跳动基础设施部门，负责字节跳动的全栈算力基础设施，从芯片服务器产研、到超大规模数据中心，到传统云平台和如今的AI Native Cloud，全方位为抖音、豆包、今日头条、飞书、火山引擎等各类产品提供领先、稳定的百万量级大规模算力基础设施服务。我们的领域涵盖数据中心建设、内核操作系统开发、服务器集群管理、高速网络通信、EB级数据存储体系、搜索型数据库探索、基于LLM的AI基础设施的研发调度与治理等，致力于打造业界领先的、面向LLM的AI云原生基础设施架构与产品矩阵。 1、专注存储领域，为应用、技术组件、基础设施等提供选型、设计、开发、容量规划、调优、故障处理； 2、为业务系统提供基于可用性、可扩展性的决策支持，参与业务系统设计和实施； 3、定位、处理、管理故障，优化导致故障发生的相关组件； 4、参与设计并实现能够保障线上大规模集群迭代的自动化运营平台； 5、提高各组件资源利用率、提升服务SLA标准。\n1、2027届获得本科及以上学历，计算机、软件工程、通信等相关专业优先； 2、具备善于思考、积极乐观的特质，敢于面对挑战、自驱学习； 3、熟悉至少1门开发语言（Go、C/C++、Java、Python、JavaScript等）； 4、扎实的计算机软件基础知识；熟悉Linux负载模型、资源模型、网络IO模型等。 加分项 1、熟悉Codex、Claude Code、TRAE等AI Coding工具，将AI深度融入编码、调试、测试、文档和协作流程，主动用AI重构个人工作方式与研发习惯，并完成过生产级项目的开发上线与运营； 2、对于存储领域典型产品与场景，有一定了解。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机、软件工程、通信等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-07-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

@@ -1,10 +1,10 @@
 {
   "company": "Babycare",
-  "count": 28,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 29,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
-      "id": "beisen-f1216c0ca009",
+      "id": "beisen-c4b21c074156",
       "company": "Babycare",
       "title": "2027校招-销售运营管培生",
       "graduationYear": [
@@ -16,7 +16,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "本科及以上学历，电子商务、市场营销等相关专业优先",
+        "raw": "1、本科及以上学历，电子商务、市场营销等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -30,12 +30,12 @@
       "jobRequirements": "我们希望你： 1、本科及以上学历，电子商务、市场营销等相关专业优先； 2、对电商行业有浓厚的兴趣和热情，具备一定的电商知识和技能； 3、具备良好的沟通能力和团队合作精神，能够与不同部门的人员有效协作； 4、有较强的学习能力和适应能力，能够快速掌握新知识和技能； 5、具备一定的数据分析能力，熟练使用 Excel、PowerPoint 等办公软件。 JOIN US : 如果你心怀炙热，对各种最新鲜的销售运营策略感兴趣，加入我们, 一起为爱重新设计。",
       "JD": "我们需要你： 1、协助销售部门的运营管理：如线上店铺日常运营、监控店铺数据等； 2、参与销售部门的推广与营销活动：如协助制定电商渠道的推广策略，执行推广活动等； 3、数据分析与报告：收集和整理销售数据，运用数据分析工具进行分析，为销售决策提供数据支持。\n我们希望你： 1、本科及以上学历，电子商务、市场营销等相关专业优先； 2、对电商行业有浓厚的兴趣和热情，具备一定的电商知识和技能； 3、具备良好的沟通能力和团队合作精神，能够与不同部门的人员有效协作； 4、有较强的学习能力和适应能力，能够快速掌握新知识和技能； 5、具备一定的数据分析能力，熟练使用 Excel、PowerPoint 等办公软件。 JOIN US : 如果你心怀炙热，对各种最新鲜的销售运营策略感兴趣，加入我们, 一起为爱重新设计。",
       "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "source": "regex-v1",
         "majorClauses": [
-          "本科及以上学历，电子商务、市场营销等相关专业优先"
+          "1、本科及以上学历，电子商务、市场营销等相关专业优先"
         ],
         "eligibilityClauses": [
-          "2027校招-销售运营管培生"
+          "招聘对象：2027届"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -89,8 +89,8 @@
       "monthlySalary": "9.5k–1.45万/月",
       "annualSalary": "11.4万–17.4万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=a7f048bc-7193-4ae9-8003-c1b422745bae",
-      "publishedAt": "2026-09-08",
+      "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=c4296288-ae70-4a58-a6ea-03f68840ad68",
+      "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -939,6 +939,107 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=5981ca12-e01f-4a39-869f-8f64a82fc99c",
       "publishedAt": "2026-07-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申(2026/7/31启动)→线下宣讲会(9/21起)→面试环节(9/23起，线上/线下)→Offer(11月起)→入职(2027/7)",
+      "recruitmentProcessEvidence": "E3 | 浙大就业平台校招流程原文 | https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?dwxxid=JG1202310&xjhbh=0e00805aad83114100dcbf01fbfc0b0e | 2026-09-17",
+      "hasAssessment": "待核实",
+      "hasAssessmentEvidence": "E4 | PreTalent历史校招测评攻略 | https://www.pretalent.com.cn/blog/pretalent-babycare-2024 | 2026-09-17"
+    },
+    {
+      "id": "beisen-69827f6a1316",
+      "company": "Babycare",
+      "title": "2027校招-供应链管培生（欧美）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届本科及以上学历，物流管理、供应链管理、国际贸易等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "我们需要你： 1、统筹国际仓储、跨境物流及清关运作，管控物流时效、损耗与成本； 2、编制全球供应计划，依据需求预测管控库存，保障物料稳定供给； 3、 负责供应链全价值链管控，落实海外合规要求，推进全链路降本； 4.、联动海内外上下游，跟进供应商管理，汇总数据并优化供应链体系。",
+      "jobRequirements": "我们希望你： 1、2027届本科及以上学历，物流管理、供应链管理、国际贸易等相关专业优先； 2、对国际物流、供应链运营有浓厚兴趣，愿意长期发展； 3、英语读写能力良好（CET-6及以上、IELTS总分 ≥ 6.0或TOEFL≥ 80 分）； 4、具备良好的逻辑分析能力和数据分析能力， 沟通协调能力强，责任心强。 JOIN US :如果你心怀炙热，有志开拓海外全球市场，加入我们, 一起为爱重新设计。",
+      "JD": "我们需要你： 1、统筹国际仓储、跨境物流及清关运作，管控物流时效、损耗与成本； 2、编制全球供应计划，依据需求预测管控库存，保障物料稳定供给； 3、 负责供应链全价值链管控，落实海外合规要求，推进全链路降本； 4.、联动海内外上下游，跟进供应商管理，汇总数据并优化供应链体系。\n我们希望你： 1、2027届本科及以上学历，物流管理、供应链管理、国际贸易等相关专业优先； 2、对国际物流、供应链运营有浓厚兴趣，愿意长期发展； 3、英语读写能力良好（CET-6及以上、IELTS总分 ≥ 6.0或TOEFL≥ 80 分）； 4、具备良好的逻辑分析能力和数据分析能力， 沟通协调能力强，责任心强。 JOIN US :如果你心怀炙热，有志开拓海外全球市场，加入我们, 一起为爱重新设计。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，物流管理、供应链管理、国际贸易等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 我们需要你： 1、统筹国际仓储、跨境物流及清关运作，管控物流时效、损耗与成本； 2"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9.5K-14.5K 元/月",
+        "monthlyMin": 9500,
+        "monthlyMax": 14500,
+        "annualMin": 114000,
+        "annualMax": 174000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9.5k–1.45万/月",
+        "annualDisplay": "11.4万–17.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9.5K-14.5K 元/月 公司官方北森校招岗位；识别关键词：英语、数据分"
+      },
+      "salary": "9.5K-14.5K 元/月",
+      "monthlySalary": "9.5k–1.45万/月",
+      "annualSalary": "11.4万–17.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=0719fde0-638a-416a-bdf8-c24c798a2352",
+      "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

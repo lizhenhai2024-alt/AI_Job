@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 244,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 262,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -180,6 +180,102 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-11-30"
+    },
+    {
+      "id": "beisen-13251724e3d5",
+      "company": "泰康保险",
+      "title": "之家-津园-品牌宣传【2027届】(J89587)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、有较强的沟通协调能力和统计分析能力，专业基础扎实，责任心强，熟练应用办公软件和数据统计工具",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业基础扎实"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1. 开展公司网站内容运营工作，技术层面上，与IT部门紧密合作并完成网站后台的更补。 2. 定期更新官微，完成从活动策划、文案书写、后台操作等全程网络运作，保障客户黏性。 3. 完成公司宣传材料，包括宣传手册、折页、海报等的制作。 4. 完成市场品牌指示物的设计和定制。 5. 及时并有序的维护市场合作关系，比如定期拜访联络等。 6. 完成各类围绕活跃品牌、提升品牌和发展品牌的推广活动。 7. 企业文化的宣传，品牌养老从业人员形象的塑造和维护。 8. 收集、分析市场信息、动态，协助制定和完成新的推广计划。",
+      "jobRequirements": "1、统招本科及以上学历； 2、有较强的沟通协调能力和统计分析能力，专业基础扎实，责任心强，熟练应用办公软件和数据统计工具。",
+      "JD": "1. 开展公司网站内容运营工作，技术层面上，与IT部门紧密合作并完成网站后台的更补。 2. 定期更新官微，完成从活动策划、文案书写、后台操作等全程网络运作，保障客户黏性。 3. 完成公司宣传材料，包括宣传手册、折页、海报等的制作。 4. 完成市场品牌指示物的设计和定制。 5. 及时并有序的维护市场合作关系，比如定期拜访联络等。 6. 完成各类围绕活跃品牌、提升品牌和发展品牌的推广活动。 7. 企业文化的宣传，品牌养老从业人员形象的塑造和维护。 8. 收集、分析市场信息、动态，协助制定和完成新的推广计划。\n1、统招本科及以上学历； 2、有较强的沟通协调能力和统计分析能力，专业基础扎实，责任心强，熟练应用办公软件和数据统计工具。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、有较强的沟通协调能力和统计分析能力，专业基础扎实，责任心强，熟练应用办公软件和数据统计工具"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-05-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "内容运营",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "数据",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1. 开展公司网站内容运营工作，技术层面上，与IT部门紧密合作并完成网站后台的更补"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=5fe8b65b-9bf4-46ac-9a70-88d1e7c70e6d",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-05-31"
     },
     {
       "id": "beisen-8b66d4a1b81b",
@@ -789,6 +885,101 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=58206605-2f89-4d5b-98d6-baea434bb2dc",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-fa43bae8fd50",
+      "company": "泰康保险",
+      "title": "之家-燕园-超体经营【2027届】(J89570)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027 届统招本科及以上应届毕业生，工商管理、旅游管理、公共管理、社会工作、酒店管理等相关专业优先，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 负责燕园社区 VIP 客户、渠道客户、政企参访接待、园区讲解、参观排期统筹，执行标准化接待礼仪与体验流程，做好参观记录与客户信息登记企查查。 2. 负责体验入住、短期试住业务的预约、资源协调、现场跟进，落地长者体验服务，挖掘客户养老需求，配合业务转化。 3. 参与老年大学、社区文娱、康养沙龙等业态运营：活动策划、场地协调、讲师对接、学员服务，丰富社区经营业态。 4. 收集经营数据，完成参观量、体验入住、活动营收等数据统计，撰写经营简报，参与预算、成本与资源管控。 5. 跨部门协同，联动营销、护理、后勤、行政团队；对接外部政企、社区、异业渠道，维护合作关系，落地总部经营相关制度与项目。 6. 完成领导交办的其他经营类、接待类专项工作。",
+      "jobRequirements": "1. 2027 届统招本科及以上应届毕业生，工商管理、旅游管理、公共管理、社会工作、酒店管理等相关专业优先，专业不限。 2. 认同泰康长寿社区理念，热爱养老大健康行业，服务意识强，有亲和力、耐心，形象气质良好。 3. 普通话标准，表达流畅，擅长沟通，具备较强的现场应变、统筹协调能力；熟练 Office（PPT、Excel）。 4. 具备活动策划、客户接待、社团运营、会展相关实习经历优先；英语流利优先。 5. 责任心强，目标感强，抗压能力良好，愿意在医养社区长期成长，接受轮岗学习。",
+      "JD": "1. 负责燕园社区 VIP 客户、渠道客户、政企参访接待、园区讲解、参观排期统筹，执行标准化接待礼仪与体验流程，做好参观记录与客户信息登记企查查。 2. 负责体验入住、短期试住业务的预约、资源协调、现场跟进，落地长者体验服务，挖掘客户养老需求，配合业务转化。 3. 参与老年大学、社区文娱、康养沙龙等业态运营：活动策划、场地协调、讲师对接、学员服务，丰富社区经营业态。 4. 收集经营数据，完成参观量、体验入住、活动营收等数据统计，撰写经营简报，参与预算、成本与资源管控。 5. 跨部门协同，联动营销、护理、后勤、行政团队；对接外部政企、社区、异业渠道，维护合作关系，落地总部经营相关制度与项目。 6. 完成领导交办的其他经营类、接待类专项工作。\n1. 2027 届统招本科及以上应届毕业生，工商管理、旅游管理、公共管理、社会工作、酒店管理等相关专业优先，专业不限。 2. 认同泰康长寿社区理念，热爱养老大健康行业，服务意识强，有亲和力、耐心，形象气质良好。 3. 普通话标准，表达流畅，擅长沟通，具备较强的现场应变、统筹协调能力；熟练 Office（PPT、Excel）。 4. 具备活动策划、客户接待、社团运营、会展相关实习经历优先；英语流利优先。 5. 责任心强，目标感强，抗压能力良好，愿意在医养社区长期成长，接受轮岗学习。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027 届统招本科及以上应届毕业生，工商管理、旅游管理、公共管理、社会工作、酒店管理等相关专业优先，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "10",
+        "min": 10,
+        "max": 10,
+        "scope": "job",
+        "display": "10人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10 10 1. 负责燕园社区 VIP 客户、渠道客户、政企参访接待、园区讲解、参观排期统筹"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=916d7f6d-6281-43be-a50f-8b9505fc2cab",
+      "publishedAt": "2026-09-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1605,6 +1796,266 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=cf598afb-77af-421b-925c-47711b989672",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d1af20ea32ad",
+      "company": "泰康保险",
+      "title": "养老-浙江-养老金运营（2027校招）(J89555)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.大学本科及以上学历，2027届应届生投递，保险、精算、经济、金融、人力资源、行政管理等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "岗位职责： 1、处理日常年金运营相关工作，负责协调管理机构及时处理客户业务，确保业务的及时性、准确性。 2、负责年金运营风险管控，根据公司要求开展年金业务风险排查。 3、负责日常运营业务相关资料存档管理及信息收集，做好客户信息数据管理。 4、负责年金客户信息披露，定期为客户提供受托报告。 5、按规定提供年金数据支持，向监管部门报送年金业务数据及报告。 6、落实执行受托客户服务相关工作，包含客户答疑、企业及个人日常业务指导、VIP平台的推广和使用等，提升客户满意度。",
+      "jobRequirements": "1.大学本科及以上学历，2027届应届生投递，保险、精算、经济、金融、人力资源、行政管理等专业优先。 2.拥有较强的学习能力、良好的沟通能力和团队精神。 3.既往有金融行业实习经验者优先。",
+      "JD": "岗位职责： 1、处理日常年金运营相关工作，负责协调管理机构及时处理客户业务，确保业务的及时性、准确性。 2、负责年金运营风险管控，根据公司要求开展年金业务风险排查。 3、负责日常运营业务相关资料存档管理及信息收集，做好客户信息数据管理。 4、负责年金客户信息披露，定期为客户提供受托报告。 5、按规定提供年金数据支持，向监管部门报送年金业务数据及报告。 6、落实执行受托客户服务相关工作，包含客户答疑、企业及个人日常业务指导、VIP平台的推广和使用等，提升客户满意度。\n1.大学本科及以上学历，2027届应届生投递，保险、精算、经济、金融、人力资源、行政管理等专业优先。 2.拥有较强的学习能力、良好的沟通能力和团队精神。 3.既往有金融行业实习经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.大学本科及以上学历，2027届应届生投递，保险、精算、经济、金融、人力资源、行政管理等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-09-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位职责： 1、处理日常年金运营相关工作，负责协调管理机构及时处理客户业务，确保业"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=c8e1149d-5480-431f-81b7-5b73797c29bd",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-30"
+    },
+    {
+      "id": "beisen-a524f0d6041a",
+      "company": "泰康保险",
+      "title": "养老-浙江-职域业务支持岗（2027校招）(J89556)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.基础条件：本科及以上学历，财经类院校保险金融相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "1.业务支持：作为业务的战略伙伴，深入一线，诊断业务痛点。通过优化工作流程、迭代销售工具与策略，为业务团队提供全方位的运营支持，驱动业务效率与落地质量的持续提升。 2.技术赋能：负责业务领域内成功案例与实践的系统性萃取、沉淀与标准化。策划并组织专项培训、经验分享会等赋能活动动，推动优秀经验在团队内的有效传承与规模化复制。 3.训战体系：负责搭建并持续完善分公司层面的业务支持体系与“训战结合”的人才培养体系。根据业务发展需求，精准设计并组织实施针对性的训战项目，以提升团队整体作战能力，夯实业务发展根基。 4.流程管控：参与业务方案的整体设计与活动策划，并统筹销售全全流程的管控工作。通过建立和规范各环节的执行标准(SOP)，确保业务运营过程的有序、合规与高效。",
+      "jobRequirements": "任职资格: 1.基础条件：本科及以上学历，财经类院校保险金融相关专业优先。 2.既往经验：在校有社团、学生会组织经验者优先，有金融行业实习经验者优先。 3.职业技能：具备基础数据分析能力，能通过数据发现问题并提出优化建议，熟练掌握掌握office，精通PPT制作优先。 4.具备敏锐的问题解决能力与持续学习习惯，愿意深入一线精准定位业务痛点，并通过不断迭代知识储备输出系统化的解决方案。 5.拥有良好的沟通协作能力与追求优秀的内驱动力，能够有效推动跨部门合作与经验落地，始终保持高标准自我要求，致力于通过持续优化实现业务突破。",
+      "JD": "1.业务支持：作为业务的战略伙伴，深入一线，诊断业务痛点。通过优化工作流程、迭代销售工具与策略，为业务团队提供全方位的运营支持，驱动业务效率与落地质量的持续提升。 2.技术赋能：负责业务领域内成功案例与实践的系统性萃取、沉淀与标准化。策划并组织专项培训、经验分享会等赋能活动动，推动优秀经验在团队内的有效传承与规模化复制。 3.训战体系：负责搭建并持续完善分公司层面的业务支持体系与“训战结合”的人才培养体系。根据业务发展需求，精准设计并组织实施针对性的训战项目，以提升团队整体作战能力，夯实业务发展根基。 4.流程管控：参与业务方案的整体设计与活动策划，并统筹销售全全流程的管控工作。通过建立和规范各环节的执行标准(SOP)，确保业务运营过程的有序、合规与高效。\n任职资格: 1.基础条件：本科及以上学历，财经类院校保险金融相关专业优先。 2.既往经验：在校有社团、学生会组织经验者优先，有金融行业实习经验者优先。 3.职业技能：具备基础数据分析能力，能通过数据发现问题并提出优化建议，熟练掌握掌握office，精通PPT制作优先。 4.具备敏锐的问题解决能力与持续学习习惯，愿意深入一线精准定位业务痛点，并通过不断迭代知识储备输出系统化的解决方案。 5.拥有良好的沟通协作能力与追求优秀的内驱动力，能够有效推动跨部门合作与经验落地，始终保持高标准自我要求，致力于通过持续优化实现业务突破。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.基础条件：本科及以上学历，财经类院校保险金融相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-09-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.业务支持：作为业务的战略伙伴，深入一线，诊断业务痛点。通过优化工作流程、迭代销"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=b9668111-0f6f-4b13-83e8-4f78315d685a",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-30"
+    },
+    {
+      "id": "beisen-a23ebe86e668",
+      "company": "泰康保险",
+      "title": "人寿-江西分公司人力资源专员（2027校招）(J89543)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "一、2027 年应届毕业生，本科及以上学历，工商管理、心理学、法学等管理类相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江西省·南昌市",
+      "jobDescription": "一、招聘管理： 1.制定年度招聘计划，组织实施招聘活动，确保公司人员配置满足业务需求； 2.开展招聘需求分析，编制职位说明书，优化招聘流程，提升招聘效率； 3.积极参加省内外校园双选会、专场宣讲会，扩大招聘渠道，完善内外部招聘网络。 二、培训管理： 1.建立和完善公司内勤员工培训体系； 2.组织制定并实施内勤员工年度培训计划。",
+      "jobRequirements": "一、2027 年应届毕业生，本科及以上学历，工商管理、心理学、法学等管理类相关专业优先； 二、熟练掌握OFFICE、WPS 等办公软件的使用； 三、具备较强的组织协调能力、表达沟通能力、行为管理能力和抗压能力。",
+      "JD": "一、招聘管理： 1.制定年度招聘计划，组织实施招聘活动，确保公司人员配置满足业务需求； 2.开展招聘需求分析，编制职位说明书，优化招聘流程，提升招聘效率； 3.积极参加省内外校园双选会、专场宣讲会，扩大招聘渠道，完善内外部招聘网络。 二、培训管理： 1.建立和完善公司内勤员工培训体系； 2.组织制定并实施内勤员工年度培训计划。\n一、2027 年应届毕业生，本科及以上学历，工商管理、心理学、法学等管理类相关专业优先； 二、熟练掌握OFFICE、WPS 等办公软件的使用； 三、具备较强的组织协调能力、表达沟通能力、行为管理能力和抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "一、2027 年应届毕业生，本科及以上学历，工商管理、心理学、法学等管理类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 一、招聘管理： 1.制定年度招聘计划，组织实施招聘活动，确保公司人员配置满足业务需"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=0d730847-1dd3-40c3-a06d-fcc27e100da3",
+      "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -2566,6 +3017,184 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=d9eee738-81f1-40d6-9b87-4a3bda177e3a",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0402259ee224",
+      "company": "泰康保险",
+      "title": "之家-燕园-运行保障管理【2027届】(J89571)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027 届统招本科及以上应届毕业生，机电工程、自动化、安全工程、环境工程、物业管理、土木工程等工科 / 物业相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 学习燕园社区机电、暖通、给排水、消防、弱电等设施设备管理，参与设备日常巡检、维保计划落地，记录设备运行台账，及时跟进故障报修。 2. 参与社区安全管理：消防安全、治安秩序、应急管理，协助组织消防演练、安全隐患排查，完善应急预案，保障长者居住安全。 3. 负责后勤板块（环境保洁、绿化、物业、能耗管理）的协同管控，跟踪水电气能耗数据，推进社区节能管理。 4. 对接维保供应商，跟进维保质量验收、供应商管理；参与后勤、安全相关制度流程修订、落地与品质检查。 5. 跨部门协同，响应社区、护理、医疗板块后勤保障需求，处理后勤类投诉与突发事件，保障社区稳定运行。 6. 运行保障板块资料归档、数据统计、月报整理，完成后勤保障专项工作，作为后勤 / 物业 / 安全管理储备人才培养。",
+      "jobRequirements": "1. 2027 届统招本科及以上应届毕业生，机电工程、自动化、安全工程、环境工程、物业管理、土木工程等工科 / 物业相关专业优先。 2. 了解楼宇机电、消防、后勤安全基础常识，熟悉设备运维、安全生产基础知识优先。 3. 细心严谨，安全意识强，具备较强风险识别能力，擅长现场问题排查与跨部门沟通。 4. 熟练 Office，能看懂基础工程图纸，具备良好的文档整理、台账管理能力。 5. 责任心强，吃苦耐劳，具备应急处置意识，认同养老行业，愿意从事社区后勤运营管理方向，接受园区现场巡检工作。",
+      "JD": "1. 学习燕园社区机电、暖通、给排水、消防、弱电等设施设备管理，参与设备日常巡检、维保计划落地，记录设备运行台账，及时跟进故障报修。 2. 参与社区安全管理：消防安全、治安秩序、应急管理，协助组织消防演练、安全隐患排查，完善应急预案，保障长者居住安全。 3. 负责后勤板块（环境保洁、绿化、物业、能耗管理）的协同管控，跟踪水电气能耗数据，推进社区节能管理。 4. 对接维保供应商，跟进维保质量验收、供应商管理；参与后勤、安全相关制度流程修订、落地与品质检查。 5. 跨部门协同，响应社区、护理、医疗板块后勤保障需求，处理后勤类投诉与突发事件，保障社区稳定运行。 6. 运行保障板块资料归档、数据统计、月报整理，完成后勤保障专项工作，作为后勤 / 物业 / 安全管理储备人才培养。\n1. 2027 届统招本科及以上应届毕业生，机电工程、自动化、安全工程、环境工程、物业管理、土木工程等工科 / 物业相关专业优先。 2. 了解楼宇机电、消防、后勤安全基础常识，熟悉设备运维、安全生产基础知识优先。 3. 细心严谨，安全意识强，具备较强风险识别能力，擅长现场问题排查与跨部门沟通。 4. 熟练 Office，能看懂基础工程图纸，具备良好的文档整理、台账管理能力。 5. 责任心强，吃苦耐劳，具备应急处置意识，认同养老行业，愿意从事社区后勤运营管理方向，接受园区现场巡检工作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027 届统招本科及以上应届毕业生，机电工程、自动化、安全工程、环境工程、物业管理、土木工程等工科 / 物业相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "10",
+        "min": 10,
+        "max": 10,
+        "scope": "job",
+        "display": "10人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10 10 1. 学习燕园社区机电、暖通、给排水、消防、弱电等设施设备管理，参与设备日常巡检"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=7deb79c1-4533-43ae-a5dd-a1ceb0fe34e6",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-3e616cf36732",
+      "company": "泰康保险",
+      "title": "之家-燕园-餐饮管理【2027届】(J89572)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027 届统招本科及以上应届毕业生，酒店管理、餐饮管理、食品科学与工程、食品营养与健康、健康服务与管理等相关专业优先，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 参与社区餐饮全流程运营管理，学习长者适老膳食管理，包含自助餐厅、包厢、护理病区送餐、特殊治疗餐的统筹安排，落实餐饮服务标准化流程。 2. 协助开展菜品研发、菜单设计，结合长者慢病、咀嚼吞咽特点，配合营养师优化适老菜品，组织试餐、收集居民用餐反馈，持续提升餐食满意度。 3. 协助食材验收、库存管控、成本核算，做好食材消耗台账，管控食材损耗；参与餐饮预算编制、营收与成本数据分析，输出餐饮经营简报。 4. 落实食品安全与卫生管理，监督厨房、餐厅环境卫生、餐具消杀，落实食品留样、食材存储规范，配合食品安全自查、隐患整改，守住长者饮食安全底线。 5. 负责餐饮相关活动保障，社区开放日、客户参访、节日家宴、长者主题美食活动的策划与现场落地，做好参访客户餐饮体验接待。 6. 收集住户意见、处理餐饮相关投诉，协同护理、医疗、后勤团队，优化送餐、就餐服务；协助餐饮团队培训、服务督导，提升一线餐饮服务能力。 7. 完成餐饮资料归档、供应商对接、物料管理，完成餐饮板块专项任务，作为养老社区餐饮管理后备人才培养。",
+      "jobRequirements": "1. 2027 届统招本科及以上应届毕业生，酒店管理、餐饮管理、食品科学与工程、食品营养与健康、健康服务与管理等相关专业优先，专业不限。 2. 认同泰康长寿社区理念，热爱养老行业，理解长者用餐需求，耐心细致，服务意识强，共情能力良好。 3. 熟悉餐饮运营、食品安全基础常识，了解营养学、膳食搭配基础知识优先；有酒店餐饮、团餐、食堂运营相关实习经历优先。 4. 具备良好沟通协调能力，擅长现场统筹，能够处理现场突发情况；熟练 Office，能做数据统计、报表整理",
+      "JD": "1. 参与社区餐饮全流程运营管理，学习长者适老膳食管理，包含自助餐厅、包厢、护理病区送餐、特殊治疗餐的统筹安排，落实餐饮服务标准化流程。 2. 协助开展菜品研发、菜单设计，结合长者慢病、咀嚼吞咽特点，配合营养师优化适老菜品，组织试餐、收集居民用餐反馈，持续提升餐食满意度。 3. 协助食材验收、库存管控、成本核算，做好食材消耗台账，管控食材损耗；参与餐饮预算编制、营收与成本数据分析，输出餐饮经营简报。 4. 落实食品安全与卫生管理，监督厨房、餐厅环境卫生、餐具消杀，落实食品留样、食材存储规范，配合食品安全自查、隐患整改，守住长者饮食安全底线。 5. 负责餐饮相关活动保障，社区开放日、客户参访、节日家宴、长者主题美食活动的策划与现场落地，做好参访客户餐饮体验接待。 6. 收集住户意见、处理餐饮相关投诉，协同护理、医疗、后勤团队，优化送餐、就餐服务；协助餐饮团队培训、服务督导，提升一线餐饮服务能力。 7. 完成餐饮资料归档、供应商对接、物料管理，完成餐饮板块专项任务，作为养老社区餐饮管理后备人才培养。\n1. 2027 届统招本科及以上应届毕业生，酒店管理、餐饮管理、食品科学与工程、食品营养与健康、健康服务与管理等相关专业优先，专业不限。 2. 认同泰康长寿社区理念，热爱养老行业，理解长者用餐需求，耐心细致，服务意识强，共情能力良好。 3. 熟悉餐饮运营、食品安全基础常识，了解营养学、膳食搭配基础知识优先；有酒店餐饮、团餐、食堂运营相关实习经历优先。 4. 具备良好沟通协调能力，擅长现场统筹，能够处理现场突发情况；熟练 Office，能做数据统计、报表整理",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027 届统招本科及以上应届毕业生，酒店管理、餐饮管理、食品科学与工程、食品营养与健康、健康服务与管理等相关专业优先，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "7",
+        "min": 7,
+        "max": 7,
+        "scope": "job",
+        "display": "7人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7 7 1. 参与社区餐饮全流程运营管理，学习长者适老膳食管理，包含自助餐厅、包厢、护理病"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=68fc4e2c-1e49-495a-94ca-1c2bd8e1e7e4",
+      "publishedAt": "2026-09-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -6362,6 +6991,172 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=823f02e1-9b9d-434a-8da6-5f833dc3d831",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f5e889f52518",
+      "company": "泰康保险",
+      "title": "之家-津园-综合经营【2027届】(J89584)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1、为客户提供沉浸体验式营销活动，负责活动产品设计、实施流程对接、文创产品采买等； 2、负责VIP客户接待、体验馆讲解等工作； 3、负责体验馆的运营管理，如客户参观排期、场地管理等。",
+      "jobRequirements": "1、对养老行业有热情，具备服务意识，有亲和力，有耐心； 2、形象气质佳，普通话标准，具备良好的口头表达能力和沟通协调能力。",
+      "JD": "1、为客户提供沉浸体验式营销活动，负责活动产品设计、实施流程对接、文创产品采买等； 2、负责VIP客户接待、体验馆讲解等工作； 3、负责体验馆的运营管理，如客户参观排期、场地管理等。\n1、对养老行业有热情，具备服务意识，有亲和力，有耐心； 2、形象气质佳，普通话标准，具备良好的口头表达能力和沟通协调能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、为客户提供沉浸体验式营销活动，负责活动产品设计、实施流程对接、文创产品采买等；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=cbfa130d-411d-45d2-bca5-336a5ae92e32",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-05-31"
+    },
+    {
+      "id": "beisen-57a755a5282b",
+      "company": "泰康保险",
+      "title": "之家-福园-营销支持【2027届】(J89423)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市·晋安区",
+      "jobDescription": "1、各业态库存盘点及销控，日常业绩追踪及会议，督导支持工作和物料管理。 2、社区营销费用的管理、使用及跟踪。 3、客户预订合同或意向书、客户入住合同的管理。 4、统筹安排入住评估时间，配合制定入住评估计划。 5、销售系统的管理、稽核，通过系统建立社区准客户及正式客户的销售相关档案，按照操作规程为有需求的部门提供完整、有效客户信息。 6、配合社区相关部门进行迁居协调工作。 7、销售、渠道业绩统计和考核，行为管理及预警，奖金核算及申请，参与销售团队培训的组织工作。 8、各类渠道佣金的计提、发放工作。 9、社区销售序列日常行政、财务报销的对接和安排。 10、市场活动协调、支持，配合公司品牌宣传活动。 11、完成领导交办的其他工作。",
+      "jobRequirements": "1、统招本科及以上学历 2、熟练使用电脑和办公软件。 3、坚忍不拔，敬业奉献，有持续学习能力，有较强的服务意识。 4、较好的文字表达及数据处理能力，团队合作及沟通能力强。 5、性格外向，形象气质佳，热情、真诚、耐心，有亲和力，具备良好的礼仪规范。",
+      "JD": "1、各业态库存盘点及销控，日常业绩追踪及会议，督导支持工作和物料管理。 2、社区营销费用的管理、使用及跟踪。 3、客户预订合同或意向书、客户入住合同的管理。 4、统筹安排入住评估时间，配合制定入住评估计划。 5、销售系统的管理、稽核，通过系统建立社区准客户及正式客户的销售相关档案，按照操作规程为有需求的部门提供完整、有效客户信息。 6、配合社区相关部门进行迁居协调工作。 7、销售、渠道业绩统计和考核，行为管理及预警，奖金核算及申请，参与销售团队培训的组织工作。 8、各类渠道佣金的计提、发放工作。 9、社区销售序列日常行政、财务报销的对接和安排。 10、市场活动协调、支持，配合公司品牌宣传活动。 11、完成领导交办的其他工作。\n1、统招本科及以上学历 2、熟练使用电脑和办公软件。 3、坚忍不拔，敬业奉献，有持续学习能力，有较强的服务意识。 4、较好的文字表达及数据处理能力，团队合作及沟通能力强。 5、性格外向，形象气质佳，热情、真诚、耐心，有亲和力，具备良好的礼仪规范。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "统招本科及以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "营销",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、各业态库存盘点及销控，日常业绩追踪及会议，督导支持工作和物料管理。 2、社区营"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=34e26626-aeec-41b8-b882-73d0f54946d1",
+      "publishedAt": "2026-09-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -12040,6 +12835,738 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2028-06-08"
+    },
+    {
+      "id": "beisen-130c19f143cf",
+      "company": "泰康保险",
+      "title": "泰康养老-甘肃-合规法律与风险管理岗(J89597)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2. 法学、金融、审计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "甘肃省·兰州市",
+      "jobDescription": "1. 负责分公司合同审核，提供法律合规咨询与风险评估。 2. 协助处理诉讼仲裁、纠纷调解、法律咨询等事项。 3. 配合开展合规检查、评估评价、合规风险监测及合规事件处理，跟进问题整改与内控缺陷修复。 4. 负责反洗钱识别、风险评级、自查培训、监管对接等专项工作。 5. 监控操作风险、声誉风险等风险指标，撰写合规风控报告，对接各类监管检查。 6. 完成总、分公司、领导交办的其他工作事项。",
+      "jobRequirements": "1. 2027届本科及以上应届生。 2. 法学、金融、审计等相关专业优先。 3. 逻辑清晰、文字功底扎实，做事严谨细致、原则性强、有责任心。 4. 沟通协调和表达能力良好，熟练使用办公软件。 5. 通过国家统一法律职业资格考试（A证）者优先；有律所、法院、金融机构合规或法务实习经历者优先。",
+      "JD": "1. 负责分公司合同审核，提供法律合规咨询与风险评估。 2. 协助处理诉讼仲裁、纠纷调解、法律咨询等事项。 3. 配合开展合规检查、评估评价、合规风险监测及合规事件处理，跟进问题整改与内控缺陷修复。 4. 负责反洗钱识别、风险评级、自查培训、监管对接等专项工作。 5. 监控操作风险、声誉风险等风险指标，撰写合规风控报告，对接各类监管检查。 6. 完成总、分公司、领导交办的其他工作事项。\n1. 2027届本科及以上应届生。 2. 法学、金融、审计等相关专业优先。 3. 逻辑清晰、文字功底扎实，做事严谨细致、原则性强、有责任心。 4. 沟通协调和表达能力良好，熟练使用办公软件。 5. 通过国家统一法律职业资格考试（A证）者优先；有律所、法院、金融机构合规或法务实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2. 法学、金融、审计等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同",
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 负责分公司合同审核，提供法律合规咨询与风险评估。 2. 协助处理诉讼仲裁、纠"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=9ba8c4a0-f557-48ec-ad63-fc31c2493903",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0a01922f71a3",
+      "company": "泰康保险",
+      "title": "之家-津园-生活管家【2027届】(J89580)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，老年服务、护理、医疗、社工、家政等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "老年服务、护理、医疗、社工、家政等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1、参与居民评估和服务方案的制定，协调资源提供各项生活服务和特约服务； 2、与医疗、活动、餐饮等专业团队进行居民服务的沟通协调，为各专业提供服务产品开发的建议； 3、协助进行家属沟通和社区共建，促进居民、家属与社区互信关系的建立和融合。",
+      "jobRequirements": "1、本科及以上学历，老年服务、护理、医疗、社工、家政等相关专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、有较强的沟通和应变能力，善于处理突发情况、解决矛盾冲突，熟练应用办公、制图、视频等相关办公软件。",
+      "JD": "1、参与居民评估和服务方案的制定，协调资源提供各项生活服务和特约服务； 2、与医疗、活动、餐饮等专业团队进行居民服务的沟通协调，为各专业提供服务产品开发的建议； 3、协助进行家属沟通和社区共建，促进居民、家属与社区互信关系的建立和融合。\n1、本科及以上学历，老年服务、护理、医疗、社工、家政等相关专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、有较强的沟通和应变能力，善于处理突发情况、解决矛盾冲突，熟练应用办公、制图、视频等相关办公软件。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，老年服务、护理、医疗、社工、家政等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、参与居民评估和服务方案的制定，协调资源提供各项生活服务和特约服务； 2、与医疗"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=a09298a3-79ba-4774-804c-19ea1d2b8076",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-06-30"
+    },
+    {
+      "id": "beisen-02d94455aff8",
+      "company": "泰康保险",
+      "title": "之家-津园-社工【2027届】(J89581)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，社会工作相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "社会工作相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1、结合居民需求、风险评价及意愿，组织实施专业个案或小组活动。 2、召开定期的个案研讨，为居民制定和更新服务方案，协调安排并参与居民的各类评估。 3、协调外部资源，为居民提供社工、法律等方面的服务。",
+      "jobRequirements": "1、本科及以上学历，社会工作相关专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力，熟练应用办公、制图、视频等相关办公软件。",
+      "JD": "1、结合居民需求、风险评价及意愿，组织实施专业个案或小组活动。 2、召开定期的个案研讨，为居民制定和更新服务方案，协调安排并参与居民的各类评估。 3、协调外部资源，为居民提供社工、法律等方面的服务。\n1、本科及以上学历，社会工作相关专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力，熟练应用办公、制图、视频等相关办公软件。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，社会工作相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、结合居民需求、风险评价及意愿，组织实施专业个案或小组活动。 2、召开定期的个案"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=eb7d49f9-33ea-4ffa-b867-4682bc3ec318",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-06-30"
+    },
+    {
+      "id": "beisen-42842b116d1c",
+      "company": "泰康保险",
+      "title": "之家-津园-文娱活动师【2027届】(J89582)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；有社工专业背景者优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1、研究居民的课程与活动需求，设计、开发并组织艺术、益智、休闲等各类活动； 2、协助居民创建和发展各类俱乐部，开展自主活动； 3、参与社区居民大型庆典活动的组织策划。",
+      "jobRequirements": "1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、有社工专业背景者优先，有文艺特长或文体活动组织经验优先。",
+      "JD": "1、研究居民的课程与活动需求，设计、开发并组织艺术、益智、休闲等各类活动； 2、协助居民创建和发展各类俱乐部，开展自主活动； 3、参与社区居民大型庆典活动的组织策划。\n1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、有社工专业背景者优先，有文艺特长或文体活动组织经验优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历",
+          "有社工专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "【2027届】"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、研究居民的课程与活动需求，设计、开发并组织艺术、益智、休闲等各类活动； 2、协"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=19383d9b-a8ab-455f-9c82-09ee2ff83bde",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-05-31"
+    },
+    {
+      "id": "beisen-107806e3c20c",
+      "company": "泰康保险",
+      "title": "之家-津园-运动指导师【2027届】(J89583)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "条件优异者可放宽至社会体育指导、体育教育专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1、为居民提供相关评估并提供科学的运康训练方案，帮助居民通过运动保持并提升身心机能； 2、为居民提供一对一运动健康训练及团体运动健康训练； 3、参与组织运动文化赛事与运康服务推广活动； 4、保障场馆、设施使用安全，排除安全隐患，必要时制止危险操作。 5、对常见的运动损伤进行初步应急处理。",
+      "jobRequirements": "1、本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力。",
+      "JD": "1、为居民提供相关评估并提供科学的运康训练方案，帮助居民通过运动保持并提升身心机能； 2、为居民提供一对一运动健康训练及团体运动健康训练； 3、参与组织运动文化赛事与运康服务推广活动； 4、保障场馆、设施使用安全，排除安全隐患，必要时制止危险操作。 5、对常见的运动损伤进行初步应急处理。\n1、本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、为居民提供相关评估并提供科学的运康训练方案，帮助居民通过运动保持并提升身心机能"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=557be64a-0637-49fb-96b4-0aa0383cc6e1",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-05-31"
+    },
+    {
+      "id": "beisen-72b938a5c2a3",
+      "company": "泰康保险",
+      "title": "之家-津园医院-医生【2027届】(J89588)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，老年科/全科/康复科专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1、在科主任及上级医师指导下，认真做好各项医疗工作，协助科主任做好各项行政管理工作，具有良好的服务意识和服务态度。 2、对所管病员全面负责，查房时详细汇报病员的病情，提出诊治意见；严格执行上级医师的诊治决定；密切观察病情变化；严格执行值班制度。 3、认真写好书面文书。检查和修改实习医师的病史记录及有关记录。 4、向上级医师及时报告所分管的病人诊断、治疗情况及病情变化，提出需要转科或出院的意见，遇有疑难病例及时请示上级医师，不得推诿病人甚至贻误病情。 5、认真执行医院的各项规章制度和技术操作常规。",
+      "jobRequirements": "1．本科及以上学历，老年科/全科/康复科专业优先； 2．掌握一定的老年病基础理论，掌握相关的临床药理学、药物毒理学等知识，熟悉与本专业密切相关学科的理论知识； 3．掌握常见老年科疾病的临床症状及诊断治疗手段，了解老年科专业国内外现状及发展趋势，不断汲取新理论、新知识、新技术，并用于医疗实践和科学研究，了解老年科近年来的发展； 4．具有执业医师资格。",
+      "JD": "1、在科主任及上级医师指导下，认真做好各项医疗工作，协助科主任做好各项行政管理工作，具有良好的服务意识和服务态度。 2、对所管病员全面负责，查房时详细汇报病员的病情，提出诊治意见；严格执行上级医师的诊治决定；密切观察病情变化；严格执行值班制度。 3、认真写好书面文书。检查和修改实习医师的病史记录及有关记录。 4、向上级医师及时报告所分管的病人诊断、治疗情况及病情变化，提出需要转科或出院的意见，遇有疑难病例及时请示上级医师，不得推诿病人甚至贻误病情。 5、认真执行医院的各项规章制度和技术操作常规。\n1．本科及以上学历，老年科/全科/康复科专业优先； 2．掌握一定的老年病基础理论，掌握相关的临床药理学、药物毒理学等知识，熟悉与本专业密切相关学科的理论知识； 3．掌握常见老年科疾病的临床症状及诊断治疗手段，了解老年科专业国内外现状及发展趋势，不断汲取新理论、新知识、新技术，并用于医疗实践和科学研究，了解老年科近年来的发展； 4．具有执业医师资格。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，老年科/全科/康复科专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、在科主任及上级医师指导下，认真做好各项医疗工作，协助科主任做好各项行政管理工作"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=54b545ce-7bde-4a7f-8282-7bd3192e2d92",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-05-31"
+    },
+    {
+      "id": "beisen-4f0b24f02034",
+      "company": "泰康保险",
+      "title": "之家-津园-护士【2027届】(J89589)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，护理专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "1、协助居民照护计划制定与执行，照护风险识别与管理； 2、协助护理部门内部制度梳理、流程优化、运营分析、效率提升等工作； 3、专业技能培训的组织实施； 4、照护质量管理体系优化与改进，照护质量的监管。",
+      "jobRequirements": "1、本科及以上学历，护理专业优先； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力。",
+      "JD": "1、协助居民照护计划制定与执行，照护风险识别与管理； 2、协助护理部门内部制度梳理、流程优化、运营分析、效率提升等工作； 3、专业技能培训的组织实施； 4、照护质量管理体系优化与改进，照护质量的监管。\n1、本科及以上学历，护理专业优先； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，护理专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、协助居民照护计划制定与执行，照护风险识别与管理； 2、协助护理部门内部制度梳理"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=121a4c31-d60f-40af-a836-9deda30bef1e",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-05-31"
+    },
+    {
+      "id": "beisen-0c5a18d9bc29",
+      "company": "泰康保险",
+      "title": "之家-福园-文娱活动师【2027届】(J89534)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；有社工专业背景者优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市·晋安区",
+      "jobDescription": "1、研究居民的课程与活动需求,设计、开发并组织艺术、益智、休闲等各类活动; 2、协助居民创建和发展各类俱乐部,开展自主活动; 3、参与社区居民大型庆典活动的组织策划。",
+      "jobRequirements": "1、本科及以上学历; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、有社工专业背景者优先,有文艺特长或文体活动组织经验优先。",
+      "JD": "1、研究居民的课程与活动需求,设计、开发并组织艺术、益智、休闲等各类活动; 2、协助居民创建和发展各类俱乐部,开展自主活动; 3、参与社区居民大型庆典活动的组织策划。\n1、本科及以上学历; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、有社工专业背景者优先,有文艺特长或文体活动组织经验优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历",
+          "有社工专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "【2027届】"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、研究居民的课程与活动需求,设计、开发并组织艺术、益智、休闲等各类活动; 2、协"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=9605ae66-1106-4784-9362-f7db1cb063ee",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-07e3b5279bcb",
+      "company": "泰康保险",
+      "title": "人寿 - 江苏分公司 - 法律岗 （2027届校招）(J89573)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，法学、审计专业优先，持有法律职业资格证书者优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "【岗位职责】 1、协助部门经理处理分支机构各类民事、刑事和重大司法案件，按要求上报案件信息； 2、开展保险业务全流程合规审查，识别承保、理赔及资金运用中的法律风险； 3、按照问责处罚管理制度的授权，对分支机构违法违规问题的问责处罚，包括但不限于稽核重大问题、举报案件、重大行政处罚、司法案件及其他重大违法违规问题； 4、组织全员法律法规培训，监测监管政策动态，及时预警并应对合规风险事件； 5、审核分支机构日常经营需签署的各类合同。",
+      "jobRequirements": "【任职要求】 1、本科及以上学历，法学、审计专业优先，持有法律职业资格证书者优先； 2、熟悉国家法律法规及企业内控规范，掌握公文写作技巧，能独立起草各类报告文件； 3、2027届应届毕业生； 4、原则性强，保密意识高，善于思考，认真细致，有较强的责任心。",
+      "JD": "【岗位职责】 1、协助部门经理处理分支机构各类民事、刑事和重大司法案件，按要求上报案件信息； 2、开展保险业务全流程合规审查，识别承保、理赔及资金运用中的法律风险； 3、按照问责处罚管理制度的授权，对分支机构违法违规问题的问责处罚，包括但不限于稽核重大问题、举报案件、重大行政处罚、司法案件及其他重大违法违规问题； 4、组织全员法律法规培训，监测监管政策动态，及时预警并应对合规风险事件； 5、审核分支机构日常经营需签署的各类合同。\n【任职要求】 1、本科及以上学历，法学、审计专业优先，持有法律职业资格证书者优先； 2、熟悉国家法律法规及企业内控规范，掌握公文写作技巧，能独立起草各类报告文件； 3、2027届应届毕业生； 4、原则性强，保密意识高，善于思考，认真细致，有较强的责任心。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，法学、审计专业优先，持有法律职业资格证书者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 【岗位职责】 1、协助部门经理处理分支机构各类民事、刑事和重大司法案件，按要求上报"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=744959ae-db91-4c07-bcd3-23f1d04b4571",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
       "id": "beisen-eaf0251f5a06",

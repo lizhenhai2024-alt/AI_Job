@@ -1,7 +1,7 @@
 {
   "company": "中国太平保险集团",
   "count": 118,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "beisen-48d4c78c739f",
@@ -167,6 +167,95 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://cntp.zhiye.com/campus/detail?jobAdId=21ae59f4-be55-4139-a835-922f3c1c7473",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-417dbb1a3e59",
+      "company": "中国太平保险集团",
+      "title": "太平人寿-重庆分公司-市场营销类管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "【培训讲师方向】 岗位职责： 1、分析业务员培训需求，制定营销队伍培训规划； 2、根据培训规划组织实施销售队伍培训活动； 3、负责销售队伍的管理，关注销售队伍的成长和团队发展。 【业务推动方向】 岗位职责： 1、所辖单位激励方案拟定和执行； 2、业务进度的管理、协调及跟进； 3、业务员考核追踪与辅导； 4、会议经营及各类活动策划、主持主讲等。 【营销企划方向】 岗位职责： 1、公司激励方案拟定和执行； 2、业务推动企划活动组织与安排； 3、业务一线行销需求分析与建议； 4、与企划活动组织与执行相关的外部单位合作洽谈。 【数据分析方向】 岗位职责： 1、根据市场信息、公司数据，分析各项业务指标； 2、报表制作与发送，公司经营情况分析报告撰写； 3、为各类业务激励方案提供数据支持，提出改善的建议和方案； 4、负责对分公司业务计划执行情况进行追踪预测。",
+      "jobRequirements": "1.本科及以上学历； 2.专业不限； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.较强的协调和解决问题能力，具备责任心和开拓创新精神； 5.良好的团队协作精神、沟通表达及学习能力； 6.上进心强，能承受一定的工作压力。",
+      "JD": "【培训讲师方向】 岗位职责： 1、分析业务员培训需求，制定营销队伍培训规划； 2、根据培训规划组织实施销售队伍培训活动； 3、负责销售队伍的管理，关注销售队伍的成长和团队发展。 【业务推动方向】 岗位职责： 1、所辖单位激励方案拟定和执行； 2、业务进度的管理、协调及跟进； 3、业务员考核追踪与辅导； 4、会议经营及各类活动策划、主持主讲等。 【营销企划方向】 岗位职责： 1、公司激励方案拟定和执行； 2、业务推动企划活动组织与安排； 3、业务一线行销需求分析与建议； 4、与企划活动组织与执行相关的外部单位合作洽谈。 【数据分析方向】 岗位职责： 1、根据市场信息、公司数据，分析各项业务指标； 2、报表制作与发送，公司经营情况分析报告撰写； 3、为各类业务激励方案提供数据支持，提出改善的建议和方案； 4、负责对分公司业务计划执行情况进行追踪预测。\n1.本科及以上学历； 2.专业不限； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.较强的协调和解决问题能力，具备责任心和开拓创新精神； 5.良好的团队协作精神、沟通表达及学习能力； 6.上进心强，能承受一定的工作压力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 【培训讲师方向】 岗位职责： 1、分析业务员培训需求，制定营销队伍培训规划； 2、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://cntp.zhiye.com/campus/detail?jobAdId=afc9462e-8d45-4aee-be4b-d9a7cc3787a3",
       "publishedAt": "2026-08-17",
       "lastVerified": "",
       "sourceType": "official",
@@ -429,93 +518,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://cntp.zhiye.com/campus/detail?jobAdId=4552a516-bc42-4d3e-9e53-3583810d90d9",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-417dbb1a3e59",
-      "company": "中国太平保险集团",
-      "title": "太平人寿-重庆分公司-市场营销类管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历；；专业不限；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "重庆",
-      "jobDescription": "根据公司整体培养方案： 1.积极参与新锐培养计划； 2.通过基层轮岗、导师带教、全方位实践培训，了解公司运营及工作情况，拥有“基层经验，全局视野”； 3.通过管培生考核后，成为太平人寿未来业务发展所需要的优秀人才。",
-      "jobRequirements": "1.本科及以上学历； 2.专业不限； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.较强的协调和解决问题能力，具备责任心和开拓创新精神； 5.良好的团队协作精神、沟通表达及学习能力； 6.上进心强，能承受一定的工作压力。",
-      "JD": "根据公司整体培养方案： 1.积极参与新锐培养计划； 2.通过基层轮岗、导师带教、全方位实践培训，了解公司运营及工作情况，拥有“基层经验，全局视野”； 3.通过管培生考核后，成为太平人寿未来业务发展所需要的优秀人才。\n1.本科及以上学历； 2.专业不限； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.较强的协调和解决问题能力，具备责任心和开拓创新精神； 5.良好的团队协作精神、沟通表达及学习能力； 6.上进心强，能承受一定的工作压力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历；",
-          "专业不限；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "市场"
-      ],
-      "skills": [
-        "Excel",
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "3",
-        "min": 3,
-        "max": 3,
-        "scope": "job",
-        "display": "3人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "3 3 根据公司整体培养方案： 1.积极参与新锐培养计划； 2.通过基层轮岗、导师带教、全"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://cntp.zhiye.com/campus/detail?jobAdId=afc9462e-8d45-4aee-be4b-d9a7cc3787a3",
       "publishedAt": "2026-08-17",
       "lastVerified": "",
       "sourceType": "official",
@@ -1475,7 +1477,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "本科及以上学历；专业不限",
+        "raw": "2.专业不限",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -1485,20 +1487,19 @@
         "minorLanguageRequired": false
       },
       "location": "重庆",
-      "jobDescription": "根据公司整体培养方案： 1.积极参与新锐培养计划； 2.通过基层轮岗、导师带教、全方位实践培训，了解公司运营及工作情况，拥有“基层经验，全局视野”； 3.通过管培生考核后，成为太平人寿未来业务发展所需要的优秀人才。",
+      "jobDescription": "1、投保单初审和转帐授权书、收据、银行进帐单处理； 2、保单下发及回执管理问题件管理，保单受理、审核、录入，简单保全申请处理，银保通投保单催缴； 3、理赔受理、审核，理赔系统立案、理赔调查、客户咨询及纠纷处理、结案处理等； 4、客户关系管理工作规则与实施。",
       "jobRequirements": "1.本科及以上学历； 2.专业不限； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.较强的协调和解决问题能力，具备责任心和开拓创新精神； 5.良好的团队协作精神、沟通表达及学习能力； 6.上进心强，能承受一定的工作压力。",
-      "JD": "根据公司整体培养方案： 1.积极参与新锐培养计划； 2.通过基层轮岗、导师带教、全方位实践培训，了解公司运营及工作情况，拥有“基层经验，全局视野”； 3.通过管培生考核后，成为太平人寿未来业务发展所需要的优秀人才。\n1.本科及以上学历； 2.专业不限； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.较强的协调和解决问题能力，具备责任心和开拓创新精神； 5.良好的团队协作精神、沟通表达及学习能力； 6.上进心强，能承受一定的工作压力。",
+      "JD": "1、投保单初审和转帐授权书、收据、银行进帐单处理； 2、保单下发及回执管理问题件管理，保单受理、审核、录入，简单保全申请处理，银保通投保单催缴； 3、理赔受理、审核，理赔系统立案、理赔调查、客户咨询及纠纷处理、结案处理等； 4、客户关系管理工作规则与实施。\n1.本科及以上学历； 2.专业不限； 3.熟练使用和操作WORD、EXCEL、PPT等办公系统软件； 4.较强的协调和解决问题能力，具备责任心和开拓创新精神； 5.良好的团队协作精神、沟通表达及学习能力； 6.上进心强，能承受一定的工作压力。",
       "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "source": "regex-v1",
         "majorClauses": [
-          "本科及以上学历",
-          "专业不限"
+          "2.专业不限"
         ],
-        "eligibilityClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
         "technicalDuties": [],
-        "businessDuties": [
-          "资料/流程"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -1508,7 +1509,8 @@
         "PPT"
       ],
       "experienceKeywords": [
-        "运营"
+        "运营",
+        "客户"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -1521,7 +1523,7 @@
         "display": "1人",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "1 1 根据公司整体培养方案： 1.积极参与新锐培养计划； 2.通过基层轮岗、导师带教、全"
+        "evidence": "1 1 1、投保单初审和转帐授权书、收据、银行进帐单处理； 2、保单下发及回执管理问题件管"
       },
       "compensation": {
         "disclosed": false,

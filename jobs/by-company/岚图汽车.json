@@ -1,7 +1,7 @@
 {
   "company": "岚图汽车",
-  "count": 20,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 19,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "moka-911c60023c3b",
@@ -195,6 +195,91 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/20c38056-d892-41a2-a1ca-ebb6807ac6a6",
       "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
+    },
+    {
+      "id": "moka-57984f804be1",
+      "company": "岚图汽车",
+      "title": "产品营销经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "产品作战中心 后台 岚图汽车科技园（沌阳大道110号）",
+      "jobRequirements": "",
+      "JD": "产品作战中心 后台 岚图汽车科技园（沌阳大道110号）",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/7cbc4df2-40f5-42e7-bb6e-5d1f6dca3935",
+      "publishedAt": "2026-09-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1463,172 +1548,6 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/b65704a2-486b-4d6c-b6ea-c47286e977f9",
       "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
-    },
-    {
-      "id": "moka-8aa5de4244f5",
-      "company": "岚图汽车",
-      "title": "制造管理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "制造管理 智能制造（合同制）",
-      "jobRequirements": "",
-      "JD": "制造管理 智能制造（合同制）",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/35001356-90bc-4af2-bc09-4b69c9b1fdde",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
-    },
-    {
-      "id": "moka-8358422ea719",
-      "company": "岚图汽车",
-      "title": "质量保证",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "质量保证 智能制造（合同制）",
-      "jobRequirements": "",
-      "JD": "质量保证 智能制造（合同制）",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/3d941d2c-23b6-4ce5-a29a-c3442b8185b5",
-      "publishedAt": "2026-08-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

@@ -1,8 +1,210 @@
 {
   "company": "美团",
-  "count": 46,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 50,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
+    {
+      "id": "meituan-42b460de9e82",
+      "company": "美团",
+      "title": "【国际化业务】销售运营岗/Sales Operations Specialist",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "： 本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "科威特城",
+      "jobDescription": "作为专业化的职能团队，在这里你可以与美团销售团队紧密配合，为前线业务提供销售策略和运营工作。如果你对以下任意一个方向感兴趣，欢迎网申这个岗位。 岗位职责： 供给策略运营： 基于业务策略或项目目标，分析市场需求与竞争格局，完成销售策略的拆解与落地执行。 营销策略运营： 基于业务策略、用户需求与商家需求，通过洞察与创意策划，推动营销项目落地。 销售数据分析： 围绕销售策略提供数据支持与分析，监测业务表现，预测业务趋势。 销售效能优化： 制定并优化标准化销售流程，搭建并持续迭代销售与管理工具。 业务培训与沟通： 基于销售团队与商家的能力水平和业务痛点，完善培训体系，搭建并运营沟通渠道。 AI 探索与应用： 探索 AI 在销售运营场景中的应用，如借助大模型辅助竞对分析、策略文案生成、智能化培训内容生产、自动化数据洞察等，持续提升运营效率。",
+      "jobRequirements": "岗位要求： 本科及以上学历，专业不限。 以客户为中心，保持学习心态与好奇心，主动思考并解决问题。 具备项目管理与执行能力，善于沟通表达，有同理心（校园活动、社团管理、实践项目经历是很好的加分项）。 具备商家需求调研能力，能通过市场洞察识别达成业务目标的关键驱动因素与行动抓手。 具备基础运营与数据分析能力，能通过数据发现业务问题，并将一线解决方案标准化、可视化、流程化。 有使用 AI 工具辅助运营工作的经验，乐于探索 AI 在销售场景中的应用。 可将英语作为工作语言，能支持跨国家/地区的业务沟通。",
+      "JD": "作为专业化的职能团队，在这里你可以与美团销售团队紧密配合，为前线业务提供销售策略和运营工作。如果你对以下任意一个方向感兴趣，欢迎网申这个岗位。 岗位职责： 供给策略运营： 基于业务策略或项目目标，分析市场需求与竞争格局，完成销售策略的拆解与落地执行。 营销策略运营： 基于业务策略、用户需求与商家需求，通过洞察与创意策划，推动营销项目落地。 销售数据分析： 围绕销售策略提供数据支持与分析，监测业务表现，预测业务趋势。 销售效能优化： 制定并优化标准化销售流程，搭建并持续迭代销售与管理工具。 业务培训与沟通： 基于销售团队与商家的能力水平和业务痛点，完善培训体系，搭建并运营沟通渠道。 AI 探索与应用： 探索 AI 在销售运营场景中的应用，如借助大模型辅助竞对分析、策略文案生成、智能化培训内容生产、自动化数据洞察等，持续提升运营效率。\n岗位要求： 本科及以上学历，专业不限。 以客户为中心，保持学习心态与好奇心，主动思考并解决问题。 具备项目管理与执行能力，善于沟通表达，有同理心（校园活动、社团管理、实践项目经历是很好的加分项）。 具备商家需求调研能力，能通过市场洞察识别达成业务目标的关键驱动因素与行动抓手。 具备基础运营与数据分析能力，能通过数据发现业务问题，并将一线解决方案标准化、可视化、流程化。 有使用 AI 工具辅助运营工作的经验，乐于探索 AI 在销售场景中的应用。 可将英语作为工作语言，能支持跨国家/地区的业务沟通。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "： 本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "海外运营",
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "项目管理",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
+    {
+      "id": "meituan-62f679711ac2",
+      "company": "美团",
+      "title": "【国际化业务】AI产品运营岗/AI Product Operations Specialist",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "科威特城",
+      "jobDescription": "岗位职责：在这里你有机会参与美团的各类运营岗位，可以全方位感受运营的魅力！惊喜无处不在！如果你对以下任意一个方向感兴趣，欢迎网申这个岗位。 1. 用户运营：以用户为中心，遵循用户的需求设置运营活动与规则，制定运营策略与运营目标，并能够做好全过程的项目推进，目标管理，进度管理和执行落地，通过数据对效果进行评估。持续增加用户洞察、为用户创造更多价值的方式实现用户健康增长。 2. 商家及供给运营：以商家/骑手/司机/供应商为运营主体，通过对行业和市场的理解，运用科学合理的方式制定相应策略，传递公司和平台的价值主张，实现业务渗透、规模增长、结构优化、生态治理等，同时提升商家/骑手/司机/供应商的活跃度、经营效率、服务水平与经营收益。 3. 内容运营：以内容/信息/数据的生产、消费、业务应用为核心，开展UGC、PGC、POI运营管理、新媒体运营，搭建良性生产循环，持续提升所在业务关键维度的指标，如内容数量、浏览量、内容互动数、内容传播数、信息及数据的质量等。 4. 工具系统运营：围绕内部用户，通过基础数据分析和建设、系统开发和使用、规则流程或政策制定、培训指导、现场支持等方式推动各方效率提升。 5. 体验运营：作为助手，为体验问题定位、分析、解决、评估提供全流程支持；站在客户服务体验视角，关注服务工具的迭代和运营，与业务共同推进服务工具的效率和体验；不断推动完善体验评估数据产品，与业务共建高效的体验评估产品工具。",
+      "jobRequirements": "工作要求: 1. 本科及以上学历； 2. 对用户侧信息有充分的敏感度，最懂他们的心； 3. 喜欢O2O行业，善于思考富有创意； 4. 强烈的目标导向和分解、落地的能力，强大的执行力确保目标达成； 5. 良好的团队合作意识、能有效组织和协调跨职能、跨部门资源，解决问题，达成目标。 6. 可将英语作为工作语言，能支持跨国家/地区的业务沟通。 加分项： 1. 熟练使用SQL、Python； 2. 有互联网领域的体验研究项目经验，有较好的研究落地成果及相关业务效果数据优先。",
+      "JD": "岗位职责：在这里你有机会参与美团的各类运营岗位，可以全方位感受运营的魅力！惊喜无处不在！如果你对以下任意一个方向感兴趣，欢迎网申这个岗位。 1. 用户运营：以用户为中心，遵循用户的需求设置运营活动与规则，制定运营策略与运营目标，并能够做好全过程的项目推进，目标管理，进度管理和执行落地，通过数据对效果进行评估。持续增加用户洞察、为用户创造更多价值的方式实现用户健康增长。 2. 商家及供给运营：以商家/骑手/司机/供应商为运营主体，通过对行业和市场的理解，运用科学合理的方式制定相应策略，传递公司和平台的价值主张，实现业务渗透、规模增长、结构优化、生态治理等，同时提升商家/骑手/司机/供应商的活跃度、经营效率、服务水平与经营收益。 3. 内容运营：以内容/信息/数据的生产、消费、业务应用为核心，开展UGC、PGC、POI运营管理、新媒体运营，搭建良性生产循环，持续提升所在业务关键维度的指标，如内容数量、浏览量、内容互动数、内容传播数、信息及数据的质量等。 4. 工具系统运营：围绕内部用户，通过基础数据分析和建设、系统开发和使用、规则流程或政策制定、培训指导、现场支持等方式推动各方效率提升。 5. 体验运营：作为助手，为体验问题定位、分析、解决、评估提供全流程支持；站在客户服务体验视角，关注服务工具的迭代和运营，与业务共同推进服务工具的效率和体验；不断推动完善体验评估数据产品，与业务共建高效的体验评估产品工具。\n工作要求: 1. 本科及以上学历； 2. 对用户侧信息有充分的敏感度，最懂他们的心； 3. 喜欢O2O行业，善于思考富有创意； 4. 强烈的目标导向和分解、落地的能力，强大的执行力确保目标达成； 5. 良好的团队合作意识、能有效组织和协调跨职能、跨部门资源，解决问题，达成目标。 6. 可将英语作为工作语言，能支持跨国家/地区的业务沟通。 加分项： 1. 熟练使用SQL、Python； 2. 有互联网领域的体验研究项目经验，有较好的研究落地成果及相关业务效果数据优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品运营",
+        "海外运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "内容运营",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "客户",
+        "传播"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
     {
       "id": "meituan-57a980a4d2fa",
       "company": "美团",
@@ -1137,6 +1339,102 @@
       "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
     },
     {
+      "id": "meituan-a38b8f4d1e86",
+      "company": "美团",
+      "title": "【国际化业务】大客户合作岗/Key Account Specialist",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "迪拜",
+      "jobDescription": "岗位职责： 销售目标管理： 拆解连锁品牌团队的业务目标，识别影响目标达成的关键销售指标；搭建目标管理指标体系，借助高效的数据工具和组织机制，对连锁品牌团队的销售目标进行日、周、月维度的跟踪管理。 经营分析： 综合行业、竞对、商家等多方信息输入，洞察连锁品牌的增长空间与竞争机会点。 销售策略拆解： 通过经营分析与业务探索，识别业务增长机会，制定可落地的销售策略及一线执行路径。 项目管理： 运用项目管理方法，推动关键业务目标与策略的有效落地；分析并快速评估连锁品牌团队目标的可行性与风险，整合策略、产品、运营等团队资源，助力连锁品牌团队达成业务目标。",
+      "jobRequirements": "岗位要求： 数据分析能力： 熟练使用各类分析工具/软件，能够开展多维度分析并做出有依据的业务判断（有实习或课程项目中的数据分析经验者优先）。 市场洞察力： 对市场与行业信息保持敏感，能够捕捉发展趋势并形成策略思考。 项目管理能力： 善于沟通表达，具备较强的协调推动能力、团队意识与组织能力（校园活动组织、社团管理、实践项目经历是很好的加分项）。 英语能力： 可将英语作为工作语言，能支持跨国家/地区的业务沟通。 岗位亮点： 创业团队氛围： 处于业务快速成长期，有大量参与核心项目的机会，个人成长速度快。 跨文化体验： 有机会接触不同国家、语言与文化，在国际化业务场景中拓宽视野。",
+      "JD": "岗位职责： 销售目标管理： 拆解连锁品牌团队的业务目标，识别影响目标达成的关键销售指标；搭建目标管理指标体系，借助高效的数据工具和组织机制，对连锁品牌团队的销售目标进行日、周、月维度的跟踪管理。 经营分析： 综合行业、竞对、商家等多方信息输入，洞察连锁品牌的增长空间与竞争机会点。 销售策略拆解： 通过经营分析与业务探索，识别业务增长机会，制定可落地的销售策略及一线执行路径。 项目管理： 运用项目管理方法，推动关键业务目标与策略的有效落地；分析并快速评估连锁品牌团队目标的可行性与风险，整合策略、产品、运营等团队资源，助力连锁品牌团队达成业务目标。\n岗位要求： 数据分析能力： 熟练使用各类分析工具/软件，能够开展多维度分析并做出有依据的业务判断（有实习或课程项目中的数据分析经验者优先）。 市场洞察力： 对市场与行业信息保持敏感，能够捕捉发展趋势并形成策略思考。 项目管理能力： 善于沟通表达，具备较强的协调推动能力、团队意识与组织能力（校园活动组织、社团管理、实践项目经历是很好的加分项）。 英语能力： 可将英语作为工作语言，能支持跨国家/地区的业务沟通。 岗位亮点： 创业团队氛围： 处于业务快速成长期，有大量参与核心项目的机会，个人成长速度快。 跨文化体验： 有机会接触不同国家、语言与文化，在国际化业务场景中拓宽视野。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "跨文化",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
+    {
       "id": "meituan-b7123998aacf",
       "company": "美团",
       "title": "城市运营管理储备岗",
@@ -1403,6 +1701,103 @@
       "source": "美团官方2027校招官网",
       "officialURL": "https://zhaopin.meituan.com/web/campus",
       "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
+    {
+      "id": "meituan-242de2b3f071",
+      "company": "美团",
+      "title": "【国际化业务】商业分析师（BA/DS）/Business Analyst",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳；4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "迪拜",
+      "jobDescription": "岗位职责 : 1. 参与业务规划、策略制定、经营分析，为复杂的商业问题设计解决方案； 2. 使用一流的数据分析工具和技能，洞察商业规律、用户需求，为业务出谋划策； 3. 参与建设业界一流水平的公司级实验中台，为重大实验决策提供科学方案支撑（数据科学方向）； 4. 探索大模型在商业分析场景的应用，如利用LLM辅助行业研究、自动化报告生成、智能数据洞察、自然语言数据查询等。",
+      "jobRequirements": "工作要求 : 1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳； 2. 聪明严谨、积极有韧性，乐于面对挑战、具备优秀的分析能力； 3. 具备充分的好奇心，有钻研的精神，喜欢从数据中发现问题、分析规律更佳；对商业运作模式和企业经营感兴趣； 4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳； 5. 了解大语言模型的基本能力，对AI赋能商业分析有探索兴趣，有使用AI工具辅助数据分析或报告撰写的经验者优先。 6. 可将英语作为工作语言，能支持跨国家/地区的业务沟通。 具备以下经验者优先： 1. 有使用AI工具辅助商业研究的实践经验，如利用大模型进行行业报告生成、数据可视化、用户调研分析等； 2. 了解Text-to-SQL、自然语言数据分析等AI+数据分析前沿方向； 3. 了解主流 Agent 开发框架（如 LangChain、Dify 等），有将 Agent 应用于数据分析或商业研究场景的经验。 【岗位亮点】 1. 距离决策者最近的岗位，数据规律将有机会驱动业务核心决策； 2. 多元化的业务场景，丰富的商业视角和实战土壤； 3. 体系化的人才培养机制； 4. 大模型与商业分析深度融合，可参与构建AI增强的智能分析平台。",
+      "JD": "岗位职责 : 1. 参与业务规划、策略制定、经营分析，为复杂的商业问题设计解决方案； 2. 使用一流的数据分析工具和技能，洞察商业规律、用户需求，为业务出谋划策； 3. 参与建设业界一流水平的公司级实验中台，为重大实验决策提供科学方案支撑（数据科学方向）； 4. 探索大模型在商业分析场景的应用，如利用LLM辅助行业研究、自动化报告生成、智能数据洞察、自然语言数据查询等。\n工作要求 : 1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳； 2. 聪明严谨、积极有韧性，乐于面对挑战、具备优秀的分析能力； 3. 具备充分的好奇心，有钻研的精神，喜欢从数据中发现问题、分析规律更佳；对商业运作模式和企业经营感兴趣； 4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳； 5. 了解大语言模型的基本能力，对AI赋能商业分析有探索兴趣，有使用AI工具辅助数据分析或报告撰写的经验者优先。 6. 可将英语作为工作语言，能支持跨国家/地区的业务沟通。 具备以下经验者优先： 1. 有使用AI工具辅助商业研究的实践经验，如利用大模型进行行业报告生成、数据可视化、用户调研分析等； 2. 了解Text-to-SQL、自然语言数据分析等AI+数据分析前沿方向； 3. 了解主流 Agent 开发框架（如 LangChain、Dify 等），有将 Agent 应用于数据分析或商业研究场景的经验。 【岗位亮点】 1. 距离决策者最近的岗位，数据规律将有机会驱动业务核心决策； 2. 多元化的业务场景，丰富的商业视角和实战土壤； 3. 体系化的人才培养机制； 4. 大模型与商业分析深度融合，可参与构建AI增强的智能分析平台。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，数学、统计、计算机、工科、商科等相关专业背景更佳",
+          "4. 数据科学（DS方向）具备计算机背景或经济学和理工科双学位专业背景更佳"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2439,6 +2834,106 @@
       "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
     },
     {
+      "id": "meituan-c2249287e78f",
+      "company": "美团",
+      "title": "【国际化业务】招商采购岗",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "国内外院校本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "岗位职责 : 1. 负责市场洞察，借助数据分析工具洞察市场趋势和客户需求，制定品类清单为选品做准备； 2. 负责商品管理，利用智能化选品工具进行选品上品、新品引入及开发、品质管理和库存管理等相关工作； 3. 负责供应商管理，包括供应商寻源、招商、谈判、履约跟进和日常管理； 4. 负责不断优化成本结构，建立价格竞争力，联动上下游主导或参与商品销售定价； 5. 负责通过营销方式联动销售促进销售目标达成。",
+      "jobRequirements": "工作要求： 1. 具有较强的学习能力，善于思考迭代； 2. 具有较强的沟通、协同、推动影响力； 3. 具有较强的逻辑思考能力，善于定位问题和结构化思考； 4. 积极主动，有较强的自驱力，目标导向，诚信正直； 5. 对AI辅助工具有一定了解，愿意借助智能化工具提升工作效率，具备数据分析意识； 6.接受长期驻外工作，愿意前往沙特利雅得或中东其他国家长期发展，拥抱跨文化工作环境，英语可作为工作语言 7.国内外院校本科及以上学历，毕业时间在 2025 年 6 月 1 日至 2027 年 10 月 31 日之间 岗位亮点： 1.出海最前线，参与Keemart全球化零售从 0 到 1 的开拓 2.业务高速发展期，校招生专属的高速成长通道与广阔晋升空间",
+      "JD": "岗位职责 : 1. 负责市场洞察，借助数据分析工具洞察市场趋势和客户需求，制定品类清单为选品做准备； 2. 负责商品管理，利用智能化选品工具进行选品上品、新品引入及开发、品质管理和库存管理等相关工作； 3. 负责供应商管理，包括供应商寻源、招商、谈判、履约跟进和日常管理； 4. 负责不断优化成本结构，建立价格竞争力，联动上下游主导或参与商品销售定价； 5. 负责通过营销方式联动销售促进销售目标达成。\n工作要求： 1. 具有较强的学习能力，善于思考迭代； 2. 具有较强的沟通、协同、推动影响力； 3. 具有较强的逻辑思考能力，善于定位问题和结构化思考； 4. 积极主动，有较强的自驱力，目标导向，诚信正直； 5. 对AI辅助工具有一定了解，愿意借助智能化工具提升工作效率，具备数据分析意识； 6.接受长期驻外工作，愿意前往沙特利雅得或中东其他国家长期发展，拥抱跨文化工作环境，英语可作为工作语言 7.国内外院校本科及以上学历，毕业时间在 2025 年 6 月 1 日至 2027 年 10 月 31 日之间 岗位亮点： 1.出海最前线，参与Keemart全球化零售从 0 到 1 的开拓 2.业务高速发展期，校招生专属的高速成长通道与广阔晋升空间",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "国内外院校本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "毕业时间在 2025 年 6 月 1 日至 2027 年 10 月 31 日之间"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "跨文化",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "长期驻外"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
+    {
       "id": "meituan-8ec4d6f884e6",
       "company": "美团",
       "title": "营销顾问/商务拓展",
@@ -3399,97 +3894,6 @@
         "市场",
         "数据",
         "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
-      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
-    },
-    {
-      "id": "meituan-a96586a59373",
-      "company": "美团",
-      "title": "AI组织转型（组织发展）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "专业不限，重要的是你用什么方法思考，而不是你学过什么专业",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "这是一个属于人力资源（HR）序列的岗位——我们重视HR的战略价值，也期待与拥抱AI的你一起，重新定义未来的人力资源工作。 1. 战略研究：基于公司发展战略和组织能力长期建设需求，深入研究AI对组织生产关系和人才策略的影响，识别组织能力和人才发展上需要被关注的问题与机会，推动相关问题的讨论与改变发生。 2. 方案设计：结合不同业务的差异化性质、发展阶段和管理需求，综合数据分析、内部访谈、外部对标等手段，持续识别和发现组织能力和人才发展上需要被关注的问题/机会，并能够促进相关问题的讨论，撬动改变发生； 3. 前瞻探索：围绕AI与组织的前沿话题，设计探索性的产品、工具与机制（如HRAI产品），推动从概念验证到实际落地的全链路工作。 4. 制度与项目推进：参与公司组织与人才发展领域的政策制度迭代及年度重点项目（如组织与人才盘点、职级评审、HC预算规划等），运用访谈调研、数据分析和外部对标为决策提供依据。",
-      "jobRequirements": "1. 愿力：对AI如何改变组织运作有清晰的构想和独立思考，不满足于\"AI是工具\"的浅层理解，愿意追问\"AI在改变什么底层逻辑\"。如果你写过关于AI与组织/工作/人的思考笔记或博客，欢迎附在简历里。 2. 创造力：在更高层次的创造性突破上，AI目前仍有限——它擅长整合已有信息，但提出新方向、定义新问题、设计新路径，依然是人的主场。我们看中的不只是\"会用AI\"，而是能看见AI还看不到的东西。 3. 判断力：在高度复杂、充满不确定性的环境中，依然能做出高质量决策。具体来说，能判断\"这件事AI能不能做、该不该做\"，能识别前沿的变化和真正的机会，也能主动迎接挑战，与不同利益相关方共同推进问题解决。 4. 同理心：极度关注客户，善于理解不同业务、管理者和员工的实际体验与需求，具备敏锐的问题捕捉能力。能站在对方视角看问题，而不是站在自己的专业视角提方案。 5. 跨领域思维：具备跨学科视野或跨领域好奇心，能同时用技术和管理的语言理解问题。专业不限，重要的是你用什么方法思考，而不是你学过什么专业。 【岗位亮点】 1. 直接参与AI时代的组织变革：不是旁观者，而是参与者——你的研究成果可能直接影响公司级人才政策和组织决策，这是传统OD岗位很难给到的参与深度。 2. 成长曲线陡峭：总部专业团队，直接接触公司级战略项目，与资深管理者对话，快速建立全局视野和组织洞察力。 3. 前沿探索空间：不局限于传统管理领域，有机会做AI+组织的前瞻性研究，甚至独立设计并推动产品化工具的落地。 4. 团队文化务实：团队专业且开放，愿意提供培养人的责任和机会，主管+Mentor+Buddy全程帮助成长，成长路径清晰。",
-      "JD": "这是一个属于人力资源（HR）序列的岗位——我们重视HR的战略价值，也期待与拥抱AI的你一起，重新定义未来的人力资源工作。 1. 战略研究：基于公司发展战略和组织能力长期建设需求，深入研究AI对组织生产关系和人才策略的影响，识别组织能力和人才发展上需要被关注的问题与机会，推动相关问题的讨论与改变发生。 2. 方案设计：结合不同业务的差异化性质、发展阶段和管理需求，综合数据分析、内部访谈、外部对标等手段，持续识别和发现组织能力和人才发展上需要被关注的问题/机会，并能够促进相关问题的讨论，撬动改变发生； 3. 前瞻探索：围绕AI与组织的前沿话题，设计探索性的产品、工具与机制（如HRAI产品），推动从概念验证到实际落地的全链路工作。 4. 制度与项目推进：参与公司组织与人才发展领域的政策制度迭代及年度重点项目（如组织与人才盘点、职级评审、HC预算规划等），运用访谈调研、数据分析和外部对标为决策提供依据。\n1. 愿力：对AI如何改变组织运作有清晰的构想和独立思考，不满足于\"AI是工具\"的浅层理解，愿意追问\"AI在改变什么底层逻辑\"。如果你写过关于AI与组织/工作/人的思考笔记或博客，欢迎附在简历里。 2. 创造力：在更高层次的创造性突破上，AI目前仍有限——它擅长整合已有信息，但提出新方向、定义新问题、设计新路径，依然是人的主场。我们看中的不只是\"会用AI\"，而是能看见AI还看不到的东西。 3. 判断力：在高度复杂、充满不确定性的环境中，依然能做出高质量决策。具体来说，能判断\"这件事AI能不能做、该不该做\"，能识别前沿的变化和真正的机会，也能主动迎接挑战，与不同利益相关方共同推进问题解决。 4. 同理心：极度关注客户，善于理解不同业务、管理者和员工的实际体验与需求，具备敏锐的问题捕捉能力。能站在对方视角看问题，而不是站在自己的专业视角提方案。 5. 跨领域思维：具备跨学科视野或跨领域好奇心，能同时用技术和管理的语言理解问题。专业不限，重要的是你用什么方法思考，而不是你学过什么专业。 【岗位亮点】 1. 直接参与AI时代的组织变革：不是旁观者，而是参与者——你的研究成果可能直接影响公司级人才政策和组织决策，这是传统OD岗位很难给到的参与深度。 2. 成长曲线陡峭：总部专业团队，直接接触公司级战略项目，与资深管理者对话，快速建立全局视野和组织洞察力。 3. 前沿探索空间：不局限于传统管理领域，有机会做AI+组织的前瞻性研究，甚至独立设计并推动产品化工具的落地。 4. 团队文化务实：团队专业且开放，愿意提供培养人的责任和机会，主管+Mentor+Buddy全程帮助成长，成长路径清晰。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "专业不限，重要的是你用什么方法思考，而不是你学过什么专业"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
         "客户"
       ],
       "preferenceTags": [],

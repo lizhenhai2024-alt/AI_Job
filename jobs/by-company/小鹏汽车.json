@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
-  "count": 167,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 169,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7663476504336992531",
@@ -3458,6 +3458,100 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239806305224969/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7688929213491120403",
+      "company": "小鹏汽车",
+      "title": "【27届校招】海外制造（KD）订单管理培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "【岗位描述】 1、海外工厂产能的规划与协调，保障生产资源的合理配置； 2、参与海外整车订单的预测、接收与校验，并协助月度生产计划的编制与发布； 3、跟进KD订单的出货进度，整理并分析相关数据，制作KD采购/销售合同（英文）； 4、制定与提升生产与供应链各环节的齐套率，风险识别及预警，推动问题协调与解决； 5、支持供应链管理，包括供货风险的协调、On-Time Delivery（OTD）的平衡，及项目供应链风险的识别和处理； 6、整理和跟进海外KD订单的申报、生产、出口、运输等环节，并进行相关数据统计与分析，推动整体交付进展； 7、完成上级安排的其他KD订单相关支持工作； 【任职要求】 1、本科及以上学历，可全职实习或能尽快到岗者优先考虑； 2、了解产销协同管理、生产计划管理、国际贸易等相关知识，有相关实习/课程项目经验者优先； 3、具备强烈责任心，学习能力强，执行力高，具备良好的沟通能力、协调能力和团队合作精神； 4、具有较强的数据整理与分析能力，数字化工具、AI工具熟练掌握者优先； 5、具备良好的英语听说读写能力，能够作为工作语言进行日常交流。",
+      "jobRequirements": "",
+      "JD": "【岗位描述】 1、海外工厂产能的规划与协调，保障生产资源的合理配置； 2、参与海外整车订单的预测、接收与校验，并协助月度生产计划的编制与发布； 3、跟进KD订单的出货进度，整理并分析相关数据，制作KD采购/销售合同（英文）； 4、制定与提升生产与供应链各环节的齐套率，风险识别及预警，推动问题协调与解决； 5、支持供应链管理，包括供货风险的协调、On-Time Delivery（OTD）的平衡，及项目供应链风险的识别和处理； 6、整理和跟进海外KD订单的申报、生产、出口、运输等环节，并进行相关数据统计与分析，推动整体交付进展； 7、完成上级安排的其他KD订单相关支持工作； 【任职要求】 1、本科及以上学历，可全职实习或能尽快到岗者优先考虑； 2、了解产销协同管理、生产计划管理、国际贸易等相关知识，有相关实习/课程项目经验者优先； 3、具备强烈责任心，学习能力强，执行力高，具备良好的沟通能力、协调能力和团队合作精神； 4、具有较强的数据整理与分析能力，数字化工具、AI工具熟练掌握者优先； 5、具备良好的英语听说读写能力，能够作为工作语言进行日常交流。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7688929213491120403/detail",
+      "publishedAt": "2026-09-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -6932,93 +7026,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
     },
     {
-      "id": "feishu-1fdf6e-7663476510304880932",
-      "company": "小鹏汽车",
-      "title": "【27届校招】人才发展培训生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，人力资源、理工科及外语专业背景优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、负责公司人才培养与发展，人才发展体系建设，包括但不限于人才评价标准建设、试用期管理、转正管理等； 2、负责所辖团队的领导力、预备干部、校招生及新员工培训，负责培训前中后全流程管理，包括需求调研、课程开发、执行培训、长效跟踪等； 3、根据公司管理导向，推动人才发展板块的AI建设、机制搭建、方案设计、预算管理、线上平台建设及流程推进和日常运营； 4、引入外部优秀实践，结合公司业务现状及导向，优化迭代各项制度、规则、方案设计。",
-      "jobRequirements": "1、本科及以上学历，人力资源、理工科及外语专业背景优先； 2、具备较强的学习能力、推动力和执行力，可以快速学习和适应新领域新环境； 3、心态开放有韧性，为人细心谨慎、踏实，能够积极面对各种变化； 4、具体AI+思维，能组织主持中大型活动。",
-      "JD": "1、负责公司人才培养与发展，人才发展体系建设，包括但不限于人才评价标准建设、试用期管理、转正管理等； 2、负责所辖团队的领导力、预备干部、校招生及新员工培训，负责培训前中后全流程管理，包括需求调研、课程开发、执行培训、长效跟踪等； 3、根据公司管理导向，推动人才发展板块的AI建设、机制搭建、方案设计、预算管理、线上平台建设及流程推进和日常运营； 4、引入外部优秀实践，结合公司业务现状及导向，优化迭代各项制度、规则、方案设计。\n1、本科及以上学历，人力资源、理工科及外语专业背景优先； 2、具备较强的学习能力、推动力和执行力，可以快速学习和适应新领域新环境； 3、心态开放有韧性，为人细心谨慎、踏实，能够积极面对各种变化； 4、具体AI+思维，能组织主持中大型活动。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，人力资源、理工科及外语专业背景优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小鹏汽车官方飞书招聘",
-      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476510304880932/detail",
-      "publishedAt": "2026-07-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
-    },
-    {
       "id": "feishu-1fdf6e-7663476516461857065",
       "company": "小鹏汽车",
       "title": "【27届校招】终端市场培训生",
@@ -7379,6 +7386,93 @@
       "annualSalary": "未披露",
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476510305224996/detail",
+      "publishedAt": "2026-07-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7663476510304880932",
+      "company": "小鹏汽车",
+      "title": "【27届校招】人才发展培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科学历，人力资源、理工科及外语专业背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、负责公司人才培养与发展，人才发展体系建设，包括但不限于人才评价标准建设、试用期管理、转正管理等； 2、负责所辖团队的领导力、预备干部、校招生及新员工培训，负责培训前中后全流程管理，包括需求调研、课程开发、执行培训、长效跟踪等； 3、根据公司管理导向，推动人才发展板块的AI建设、机制搭建、方案设计、预算管理、线上平台建设及流程推进和日常运营； 4、引入外部优秀实践，结合公司业务现状及导向，优化迭代各项制度、规则、方案设计。",
+      "jobRequirements": "1、本科学历，人力资源、理工科及外语专业背景优先； 2、具备较强的学习能力、推动力和执行力，可以快速学习和适应新领域新环境； 3、心态开放有韧性，为人细心谨慎、踏实，能够积极面对各种变化； 4、具体AI+思维，能组织主持中大型活动。",
+      "JD": "1、负责公司人才培养与发展，人才发展体系建设，包括但不限于人才评价标准建设、试用期管理、转正管理等； 2、负责所辖团队的领导力、预备干部、校招生及新员工培训，负责培训前中后全流程管理，包括需求调研、课程开发、执行培训、长效跟踪等； 3、根据公司管理导向，推动人才发展板块的AI建设、机制搭建、方案设计、预算管理、线上平台建设及流程推进和日常运营； 4、引入外部优秀实践，结合公司业务现状及导向，优化迭代各项制度、规则、方案设计。\n1、本科学历，人力资源、理工科及外语专业背景优先； 2、具备较强的学习能力、推动力和执行力，可以快速学习和适应新领域新环境； 3、心态开放有韧性，为人细心谨慎、踏实，能够积极面对各种变化； 4、具体AI+思维，能组织主持中大型活动。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科学历，人力资源、理工科及外语专业背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7663476510304880932/detail",
       "publishedAt": "2026-07-17",
       "lastVerified": "",
       "sourceType": "official",
@@ -12828,6 +12922,100 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
     },
     {
+      "id": "feishu-1fdf6e-7688913722198411570",
+      "company": "小鹏汽车",
+      "title": "【27届校招】大数据开发培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、 2027届校招生，本科以上学历，数据科学相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1 、参与公司智能湖仓建设，利用AI大模型进行智能建模，数据清洗与自动化报表生成，助力企业数据价值挖掘与数据资产变现； 2 、参与营销服、制造、供应链业务数据赋能场景落地方案的实施，协助解决实时和离线计算中性能，功能等问题； 3、 参与公司数据治理智能化相关能力建设，利用AI技术提升大数据平台产出及时性、准确性、一致性。",
+      "jobRequirements": "1、 2027届校招生，本科以上学历，数据科学相关专业优先； 2 、熟悉SQL、Python语言，有使用Ai coding独立完成项目经验者优先； 3 、了解agent基本原理，熟悉agent使用与优化，有开发skill经验者优先； 4 、良好的沟通表达能力和问题解决能力； 5、 积极主动，善于学习，拥抱变化。",
+      "JD": "1 、参与公司智能湖仓建设，利用AI大模型进行智能建模，数据清洗与自动化报表生成，助力企业数据价值挖掘与数据资产变现； 2 、参与营销服、制造、供应链业务数据赋能场景落地方案的实施，协助解决实时和离线计算中性能，功能等问题； 3、 参与公司数据治理智能化相关能力建设，利用AI技术提升大数据平台产出及时性、准确性、一致性。\n1、 2027届校招生，本科以上学历，数据科学相关专业优先； 2 、熟悉SQL、Python语言，有使用Ai coding独立完成项目经验者优先； 3 、了解agent基本原理，熟悉agent使用与优化，有开发skill经验者优先； 4 、良好的沟通表达能力和问题解决能力； 5、 积极主动，善于学习，拥抱变化。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、 2027届校招生，本科以上学历，数据科学相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "营销",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7688913722198411570/detail",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
       "id": "feishu-1fdf6e-7688668214435662143",
       "company": "小鹏汽车",
       "title": "【27届校招】智造专业培训生（焊装品质方向）",
@@ -13640,7 +13828,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、本科及以上学历，数学、金融学、经济学等优先",
+        "raw": "1、本科学历，数学、金融学、经济学等优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -13651,12 +13839,12 @@
       },
       "location": "广州",
       "jobDescription": "1、金融业务洞察与策略：深入研究当地金融市场动态及行业竞争态势，结合公司产品特点，提出针对性的应对方案；依据公司战略及区域情况，制定合理的金融业务策略，推动创新金融产品在区域落地，确保金融渗透率目标达成； 2、业务分析与问题解决：收集和分析业务情况，发现业务运营中存在的问题，并提出切实可行的解决方案和改进措施； 3、区域金融业务跟进：协助销售/交付处理金融相关问题等，推动客户金融申请、放款和贷后流程，确保流程的顺畅进行；与当地合作金融机构保持密切沟通和协作，协调解决客户在金融申请过程中遇到的问题，提高客户满意度； 4、金融培训与输出：通过门店走访、线上线下沟通等多种方式，向销售输出金融最新产品信息、业务流程和销售话术培训； 5、联合营销活动开展：与当地合作金融机构开展联合市场活动，如试驾会、线上曝光等。",
-      "jobRequirements": "1、本科及以上学历，数学、金融学、经济学等优先； 2、注重结果，抗压能力强；优秀的沟通协调能力、培训能力、问题解决能力; 3、较好的客户导向意识和服务意识，工作积极主动，有强烈责任感，有较好的团队意识； 4、该岗位会先广州总部集中培训，后续根据岗位情况，进行全国调配，优先安排二三线城市（调配时间待定），如不接受调配，请勿投递。",
-      "JD": "1、金融业务洞察与策略：深入研究当地金融市场动态及行业竞争态势，结合公司产品特点，提出针对性的应对方案；依据公司战略及区域情况，制定合理的金融业务策略，推动创新金融产品在区域落地，确保金融渗透率目标达成； 2、业务分析与问题解决：收集和分析业务情况，发现业务运营中存在的问题，并提出切实可行的解决方案和改进措施； 3、区域金融业务跟进：协助销售/交付处理金融相关问题等，推动客户金融申请、放款和贷后流程，确保流程的顺畅进行；与当地合作金融机构保持密切沟通和协作，协调解决客户在金融申请过程中遇到的问题，提高客户满意度； 4、金融培训与输出：通过门店走访、线上线下沟通等多种方式，向销售输出金融最新产品信息、业务流程和销售话术培训； 5、联合营销活动开展：与当地合作金融机构开展联合市场活动，如试驾会、线上曝光等。\n1、本科及以上学历，数学、金融学、经济学等优先； 2、注重结果，抗压能力强；优秀的沟通协调能力、培训能力、问题解决能力; 3、较好的客户导向意识和服务意识，工作积极主动，有强烈责任感，有较好的团队意识； 4、该岗位会先广州总部集中培训，后续根据岗位情况，进行全国调配，优先安排二三线城市（调配时间待定），如不接受调配，请勿投递。",
+      "jobRequirements": "1、本科学历，数学、金融学、经济学等优先； 2、注重结果，抗压能力强；优秀的沟通协调能力、培训能力、问题解决能力; 3、较好的客户导向意识和服务意识，工作积极主动，有强烈责任感，有较好的团队意识； 4、该岗位会先广州总部集中培训，后续根据岗位情况，进行全国调配，优先安排二三线城市（调配时间待定），如不接受调配，请勿投递。",
+      "JD": "1、金融业务洞察与策略：深入研究当地金融市场动态及行业竞争态势，结合公司产品特点，提出针对性的应对方案；依据公司战略及区域情况，制定合理的金融业务策略，推动创新金融产品在区域落地，确保金融渗透率目标达成； 2、业务分析与问题解决：收集和分析业务情况，发现业务运营中存在的问题，并提出切实可行的解决方案和改进措施； 3、区域金融业务跟进：协助销售/交付处理金融相关问题等，推动客户金融申请、放款和贷后流程，确保流程的顺畅进行；与当地合作金融机构保持密切沟通和协作，协调解决客户在金融申请过程中遇到的问题，提高客户满意度； 4、金融培训与输出：通过门店走访、线上线下沟通等多种方式，向销售输出金融最新产品信息、业务流程和销售话术培训； 5、联合营销活动开展：与当地合作金融机构开展联合市场活动，如试驾会、线上曝光等。\n1、本科学历，数学、金融学、经济学等优先； 2、注重结果，抗压能力强；优秀的沟通协调能力、培训能力、问题解决能力; 3、较好的客户导向意识和服务意识，工作积极主动，有强烈责任感，有较好的团队意识； 4、该岗位会先广州总部集中培训，后续根据岗位情况，进行全国调配，优先安排二三线城市（调配时间待定），如不接受调配，请勿投递。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
-          "1、本科及以上学历，数学、金融学、经济学等优先"
+          "1、本科学历，数学、金融学、经济学等优先"
         ],
         "eligibilityClauses": [
           "招聘对象：2027届"

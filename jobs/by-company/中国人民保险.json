@@ -1,7 +1,7 @@
 {
   "company": "中国人民保险集团",
-  "count": 231,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 232,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "beisen-3466b7ea75ff",
@@ -1221,6 +1221,97 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=57076b0c-9b40-4364-b96c-ba58db4c8c5b",
       "publishedAt": "2026-08-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-55dcead2a02c",
+      "company": "中国人民保险集团",
+      "title": "人保财险-江苏分公司-综合类-本部技术岗-2027届校招（宿迁市分公司）(J80730)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历；；财经类、管理类、文学类等相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "财经类、管理类、文学类等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江苏省·宿迁市",
+      "jobDescription": "1.承担企划、宣传等综合性支撑工作，统筹各类活动策划、方案编制落地、品牌宣传运营、文案采编、物料统筹等工作; 2.做好跨部门、机构协同对接，完成材料汇总、资料归档及上级交办的其他综合事务。",
+      "jobRequirements": "1.大学本科及以上学历； 2.财经类、管理类、文学类等相关专业； 3.具有较强的文字写作能力、数据分析能力和沟通协调能力，中共党员优先。",
+      "JD": "1.承担企划、宣传等综合性支撑工作，统筹各类活动策划、方案编制落地、品牌宣传运营、文案采编、物料统筹等工作; 2.做好跨部门、机构协同对接，完成材料汇总、资料归档及上级交办的其他综合事务。\n1.大学本科及以上学历； 2.财经类、管理类、文学类等相关专业； 3.具有较强的文字写作能力、数据分析能力和沟通协调能力，中共党员优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "大学本科及以上学历；",
+          "财经类、管理类、文学类等相关专业；"
+        ],
+        "eligibilityClauses": [
+          "2027届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.承担企划、宣传等综合性支撑工作，统筹各类活动策划、方案编制落地、品牌宣传运营、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=f0c2b069-8834-4686-899e-4f464c7fadc0",
+      "publishedAt": "2026-09-24",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

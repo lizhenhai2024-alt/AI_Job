@@ -1,7 +1,7 @@
 {
   "company": "赛轮轮胎",
-  "count": 44,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 46,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "beisen-ccaee1161b20",
@@ -392,6 +392,97 @@
       "hasAssessmentEvidence": "E2 | 官方校招简章 | https://myjob.dlmu.edu.cn/campus/view/id/868435 | 2026-09-17"
     },
     {
+      "id": "beisen-d4b05cc60311",
+      "company": "赛轮轮胎",
+      "title": "人力资源管理岗（沈阳新和平工厂）(J16077)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、人力资源管理、工商管理、社会学、数学、统计学等管理类专业或语言类专业,本科及以上学历，英语能力优秀者优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、人力资源管理、工商管理、社会学、数学、统计学等管理类专业或语言类专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "辽宁省·沈阳市",
+      "jobDescription": "1、负责人力资源组织发展、人才培养与人才发展、人事运营等某一模块工作，如招聘、培训、绩效、薪酬、效能、HRBP； 2、规划执行区域人力资源开发与管理工作,参与拟定各类人力资源规划方案,协助体系建设； 3、协助执行人力资源各项实务的操作流程和各类规章制度的实施，并监督各项计划的实施。",
+      "jobRequirements": "1、人力资源管理、工商管理、社会学、数学、统计学等管理类专业或语言类专业,本科及以上学历，英语能力优秀者优先； 2、为人亲和踏实，眼界开阔，善于沟通表达和人际交往； 3、思维逻辑清晰、分析能力强； 4、具备较强的具备较强的执行力、工作主动性，善于思考，有补位意识； 5、优秀的沟通表达能力，能清晰的表述自己的观点； 6、接受国内外出差或外派",
+      "JD": "1、负责人力资源组织发展、人才培养与人才发展、人事运营等某一模块工作，如招聘、培训、绩效、薪酬、效能、HRBP； 2、规划执行区域人力资源开发与管理工作,参与拟定各类人力资源规划方案,协助体系建设； 3、协助执行人力资源各项实务的操作流程和各类规章制度的实施，并监督各项计划的实施。\n1、人力资源管理、工商管理、社会学、数学、统计学等管理类专业或语言类专业,本科及以上学历，英语能力优秀者优先； 2、为人亲和踏实，眼界开阔，善于沟通表达和人际交往； 3、思维逻辑清晰、分析能力强； 4、具备较强的具备较强的执行力、工作主动性，善于思考，有补位意识； 5、优秀的沟通表达能力，能清晰的表述自己的观点； 6、接受国内外出差或外派",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、人力资源管理、工商管理、社会学、数学、统计学等管理类专业或语言类专业,本科及以上学历，英语能力优秀者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sailuntire.zhiye.com/campus/detail?jobAdId=41a886da-ff02-4fe8-a4ec-5b477bac28e8",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评→面试沟通→发放offer→录用签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（大连海事大学就业网） | https://myjob.dlmu.edu.cn/campus/view/id/868435 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://myjob.dlmu.edu.cn/campus/view/id/868435 | 2026-09-17"
+    },
+    {
       "id": "beisen-a75043d4fa8e",
       "company": "赛轮轮胎",
       "title": "人力资源管理岗（东营工厂）(J16072)",
@@ -507,9 +598,9 @@
         "minorLanguageRequired": false
       },
       "location": "辽宁省·沈阳市",
-      "jobDescription": "1、负责人力资源组织发展、人才培养与人才发展、人事运营等某一模块工作，如招聘、培训、绩效、薪酬、效能、HRBP； 2、规划执行区域人力资源开发与管理工作,参与拟定各类人力资源规划方案,协助体系建设； 3、协助执行人力资源各项实务的操作流程和各类规章制度的实施，并监督各项计划的实施。 任职资格",
+      "jobDescription": "1、负责人力资源组织发展、人才培养与人才发展、人事运营等某一模块工作，如招聘、培训、绩效、薪酬、效能、HRBP； 2、规划执行区域人力资源开发与管理工作,参与拟定各类人力资源规划方案,协助体系建设； 3、协助执行人力资源各项实务的操作流程和各类规章制度的实施，并监督各项计划的实施。",
       "jobRequirements": "1、人力资源管理、工商管理、社会学、数学、统计学等管理类专业或语言类专业,本科及以上学历，英语能力优秀者优先； 2、为人亲和踏实，眼界开阔，善于沟通表达和人际交往； 3、思维逻辑清晰、分析能力强； 4、具备较强的具备较强的执行力、工作主动性，善于思考，有补位意识； 5、优秀的沟通表达能力，能清晰的表述自己的观点； 6、接受国内外出差或外派",
-      "JD": "1、负责人力资源组织发展、人才培养与人才发展、人事运营等某一模块工作，如招聘、培训、绩效、薪酬、效能、HRBP； 2、规划执行区域人力资源开发与管理工作,参与拟定各类人力资源规划方案,协助体系建设； 3、协助执行人力资源各项实务的操作流程和各类规章制度的实施，并监督各项计划的实施。 任职资格\n1、人力资源管理、工商管理、社会学、数学、统计学等管理类专业或语言类专业,本科及以上学历，英语能力优秀者优先； 2、为人亲和踏实，眼界开阔，善于沟通表达和人际交往； 3、思维逻辑清晰、分析能力强； 4、具备较强的具备较强的执行力、工作主动性，善于思考，有补位意识； 5、优秀的沟通表达能力，能清晰的表述自己的观点； 6、接受国内外出差或外派",
+      "JD": "1、负责人力资源组织发展、人才培养与人才发展、人事运营等某一模块工作，如招聘、培训、绩效、薪酬、效能、HRBP； 2、规划执行区域人力资源开发与管理工作,参与拟定各类人力资源规划方案,协助体系建设； 3、协助执行人力资源各项实务的操作流程和各类规章制度的实施，并监督各项计划的实施。\n1、人力资源管理、工商管理、社会学、数学、统计学等管理类专业或语言类专业,本科及以上学历，英语能力优秀者优先； 2、为人亲和踏实，眼界开阔，善于沟通表达和人际交往； 3、思维逻辑清晰、分析能力强； 4、具备较强的具备较强的执行力、工作主动性，善于思考，有补位意识； 5、优秀的沟通表达能力，能清晰的表述自己的观点； 6、接受国内外出差或外派",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
@@ -2003,6 +2094,102 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://sailuntire.zhiye.com/campus/detail?jobAdId=5cbb8230-e344-4389-8c95-fb5186d8ecf0",
       "publishedAt": "2026-08-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评→面试沟通→发放offer→录用签约",
+      "recruitmentProcessEvidence": "E2 | 官方校招简章（大连海事大学就业网） | https://myjob.dlmu.edu.cn/campus/view/id/868435 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 官方校招简章 | https://myjob.dlmu.edu.cn/campus/view/id/868435 | 2026-09-17"
+    },
+    {
+      "id": "beisen-0731e641e3d4",
+      "company": "赛轮轮胎",
+      "title": "生产计划管理岗（沈阳工厂）(J16074)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、工业工程、精益管理、供应链管理、物流管理等相关专业，英语过四级",
+        "hardRestriction": true,
+        "hardClauses": [
+          "1、工业工程、精益管理、供应链管理、物流管理等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "辽宁省·沈阳市",
+      "jobDescription": "1、IE专业管理：识别生产过程中改善及浪费，组织各制造系统开展精益改善活动 2、工装模具分析：组织协助各制造系统开展产能核定及生产工装需求核定 3、生产产能优化：按照目前设备产能情况制定产能发挥计划，使产量达到最优，对新设备及改善项目进行生产效率验收 4、生产数据标准：负责集团内工厂对标，对生产数据进行标准化记录 5、生产欠产分析：负责生产风险控制手册编制，对风险进行体系梳理 6、生产过程统计：协助制定合理的生产过程指标，对生产指标进行跟踪及改善验证 7、生产计划编制：根据客户需求，结合生产过程能力及制造资源配置，安排机台生产计划",
+      "jobRequirements": "1、工业工程、精益管理、供应链管理、物流管理等相关专业，英语过四级； 2、优秀的沟通表达能力，能清晰的表述自己的观点； 3、优秀的逻辑思维、分析能力，能够快速迅速抓住问题重点； 4、具备一定的项目计划、控制与流程管理能力； 5、具备较强的执行力和抗压能力。",
+      "JD": "1、IE专业管理：识别生产过程中改善及浪费，组织各制造系统开展精益改善活动 2、工装模具分析：组织协助各制造系统开展产能核定及生产工装需求核定 3、生产产能优化：按照目前设备产能情况制定产能发挥计划，使产量达到最优，对新设备及改善项目进行生产效率验收 4、生产数据标准：负责集团内工厂对标，对生产数据进行标准化记录 5、生产欠产分析：负责生产风险控制手册编制，对风险进行体系梳理 6、生产过程统计：协助制定合理的生产过程指标，对生产指标进行跟踪及改善验证 7、生产计划编制：根据客户需求，结合生产过程能力及制造资源配置，安排机台生产计划\n1、工业工程、精益管理、供应链管理、物流管理等相关专业，英语过四级； 2、优秀的沟通表达能力，能清晰的表述自己的观点； 3、优秀的逻辑思维、分析能力，能够快速迅速抓住问题重点； 4、具备一定的项目计划、控制与流程管理能力； 5、具备较强的执行力和抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、工业工程、精益管理、供应链管理、物流管理等相关专业，英语过四级"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sailuntire.zhiye.com/campus/detail?jobAdId=2f6a7e2d-1a61-4d05-8103-c27cdf786390",
+      "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

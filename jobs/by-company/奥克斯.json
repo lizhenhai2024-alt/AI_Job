@@ -1,7 +1,7 @@
 {
   "company": "奥克斯集团",
   "count": 20,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "beisen-5ef6f799d9ba",
@@ -186,94 +186,6 @@
       "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
     },
     {
-      "id": "beisen-7d5a273c6cd4",
-      "company": "奥克斯集团",
-      "title": "【2027秋】空调-国内市场营销(家用空调方向)(J16386)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科应届生，四级及以上优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "全国",
-      "jobDescription": "1.市场开拓与客群挖掘； 2.订单跟进、落地及售后全过程闭环； 3.业绩复盘与客情维护。",
-      "jobRequirements": "1.本科应届生，四级及以上优先； 2.外向善沟通，有营销经历优先（推广/地推/创业/拓客）； 3.肯苦，能长期出差，服从公司全国派遣； 4.业务素养高，强执行力，快速掌握全流程工作。",
-      "JD": "1.市场开拓与客群挖掘； 2.订单跟进、落地及售后全过程闭环； 3.业绩复盘与客情维护。\n1.本科应届生，四级及以上优先； 2.外向善沟通，有营销经历优先（推广/地推/创业/拓客）； 3.肯苦，能长期出差，服从公司全国派遣； 4.业务素养高，强执行力，快速掌握全流程工作。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科应届生，四级及以上优先"
-        ],
-        "eligibilityClauses": [
-          "本科应届生，四级及以上优先"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "市场"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "市场",
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=e4ab3520-68d7-4ae3-9b76-ecc6167779bd",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
-      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
-    },
-    {
       "id": "beisen-b2bd180d1a33",
       "company": "奥克斯集团",
       "title": "【2027秋】空调-海外技术营销工程师(商用空调方向)(J16394)",
@@ -358,6 +270,94 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=ac2307e8-56ad-4295-a336-cacf353f4cb6",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
+      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-7d5a273c6cd4",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-国内市场营销(家用空调方向)(J16386)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科应届生，四级及以上优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1.市场开拓与客群挖掘； 2.订单跟进、落地及售后全过程闭环； 3.业绩复盘与客情维护。",
+      "jobRequirements": "1.本科应届生，四级及以上优先； 2.外向善沟通，有营销经历优先（推广/地推/创业/拓客）； 3.肯苦，能长期出差，服从公司全国派遣； 4.业务素养高，强执行力，快速掌握全流程工作。",
+      "JD": "1.市场开拓与客群挖掘； 2.订单跟进、落地及售后全过程闭环； 3.业绩复盘与客情维护。\n1.本科应届生，四级及以上优先； 2.外向善沟通，有营销经历优先（推广/地推/创业/拓客）； 3.肯苦，能长期出差，服从公司全国派遣； 4.业务素养高，强执行力，快速掌握全流程工作。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科应届生，四级及以上优先"
+        ],
+        "eligibilityClauses": [
+          "本科应届生，四级及以上优先"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=e4ab3520-68d7-4ae3-9b76-ecc6167779bd",
       "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",
@@ -636,6 +636,92 @@
       "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
     },
     {
+      "id": "beisen-aded21877953",
+      "company": "奥克斯集团",
+      "title": "【2027秋】空调-国内技术营销工程师(J16388)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省·宁波市",
+      "jobDescription": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。",
+      "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "JD": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=f41af41f-00e0-433f-a1dc-d66a7d415f2d",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
+      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
+    },
+    {
       "id": "beisen-916cd6de8576",
       "company": "奥克斯集团",
       "title": "【2027秋】空调-电商专员(J16387)",
@@ -718,92 +804,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=61ce8c75-1cf1-4dee-bced-746617a5ea1b",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
-      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
-    },
-    {
-      "id": "beisen-aded21877953",
-      "company": "奥克斯集团",
-      "title": "【2027秋】空调-国内技术营销工程师(J16388)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "浙江省·宁波市",
-      "jobDescription": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。",
-      "jobRequirements": "1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
-      "JD": "1、负责中心项目拓展，广辟业务渠道； 2、跟进闭环中心未达指标，助力完成销售目标； 3、负责内部及中心重点项目的方案设计、审核； 4、负责招投标项目支持及招投标分析； 5、负责产品技术资料制作及整理。\n1、专业知识扎实，工作积极主动，具有较强的责任心，肯苦、细致； 2、能够熟练运用CAD、天正、鸿业等制图程序，word、excel等办公软件处理各项工作事务； 3、具有较强的沟通协调和文字表达能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=f41af41f-00e0-433f-a1dc-d66a7d415f2d",
       "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",
@@ -1088,6 +1088,98 @@
       "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
     },
     {
+      "id": "beisen-4beb554bff54",
+      "company": "奥克斯集团",
+      "title": "【2027秋】电能-国内技术营销工程师(J16414)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，电子电气、自动化类相关专业优先，",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1、学习并掌握公司的产品知识、销售技巧和市场动态，为客户提供专业的销售服务； 2、负责完善辖区内渠道销售体系； 3、负责推进各项指标的达成； 4、负责管辖区域内非电市场重点客户的开拓和维护； 5、负责管辖区域内市场突发事件应对，销售风险管控。",
+      "jobRequirements": "1、本科及以上学历，电子电气、自动化类相关专业优先， 2、具备良好的沟通能力、表达能力和团队合作精神。 3、具有较强的学习能力和适应能力，能够快速掌握新知识和新技能。 4、具有较强的责任心和执行力，能够按时完成工作任务。 5、具有一定的抗压能力，适应公司文化，能够在高强度的工作环境下保持良好的心态。",
+      "JD": "1、学习并掌握公司的产品知识、销售技巧和市场动态，为客户提供专业的销售服务； 2、负责完善辖区内渠道销售体系； 3、负责推进各项指标的达成； 4、负责管辖区域内非电市场重点客户的开拓和维护； 5、负责管辖区域内市场突发事件应对，销售风险管控。\n1、本科及以上学历，电子电气、自动化类相关专业优先， 2、具备良好的沟通能力、表达能力和团队合作精神。 3、具有较强的学习能力和适应能力，能够快速掌握新知识和新技能。 4、具有较强的责任心和执行力，能够按时完成工作任务。 5、具有一定的抗压能力，适应公司文化，能够在高强度的工作环境下保持良好的心态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，电子电气、自动化类相关专业优先，"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "纯销售",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=4f66ddaa-94dc-4e2b-813e-0c13eebf5842",
+      "publishedAt": "2026-08-25",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
+      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
+    },
+    {
       "id": "beisen-2ad811d8a66b",
       "company": "奥克斯集团",
       "title": "【2027秋】空调-海外后台管理(家用空调推广)(J16393)",
@@ -1258,98 +1350,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=3f6c5ec2-3114-4214-b0e7-6aa9ff6575b6",
-      "publishedAt": "2026-08-25",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→笔试→AI测评→专面→offer",
-      "recruitmentProcessEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 西安理工大学就业信息网奥克斯校招 | https://job.xaut.edu.cn/info/1091/6133.htm | 2026-09-17"
-    },
-    {
-      "id": "beisen-4beb554bff54",
-      "company": "奥克斯集团",
-      "title": "【2027秋】电能-国内技术营销工程师(J16414)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，电子电气、自动化类相关专业优先，",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "全国",
-      "jobDescription": "1、学习并掌握公司的产品知识、销售技巧和市场动态，为客户提供专业的销售服务； 2、负责完善辖区内渠道销售体系； 3、负责推进各项指标的达成； 4、负责管辖区域内非电市场重点客户的开拓和维护； 5、负责管辖区域内市场突发事件应对，销售风险管控。",
-      "jobRequirements": "1、本科及以上学历，电子电气、自动化类相关专业优先， 2、具备良好的沟通能力、表达能力和团队合作精神。 3、具有较强的学习能力和适应能力，能够快速掌握新知识和新技能。 4、具有较强的责任心和执行力，能够按时完成工作任务。 5、具有一定的抗压能力，适应公司文化，能够在高强度的工作环境下保持良好的心态。",
-      "JD": "1、学习并掌握公司的产品知识、销售技巧和市场动态，为客户提供专业的销售服务； 2、负责完善辖区内渠道销售体系； 3、负责推进各项指标的达成； 4、负责管辖区域内非电市场重点客户的开拓和维护； 5、负责管辖区域内市场突发事件应对，销售风险管控。\n1、本科及以上学历，电子电气、自动化类相关专业优先， 2、具备良好的沟通能力、表达能力和团队合作精神。 3、具有较强的学习能力和适应能力，能够快速掌握新知识和新技能。 4、具有较强的责任心和执行力，能够按时完成工作任务。 5、具有一定的抗压能力，适应公司文化，能够在高强度的工作环境下保持良好的心态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，电子电气、自动化类相关专业优先，"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "市场",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "纯销售",
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://auxgroup.zhiye.com/campus/detail?jobAdId=4f66ddaa-94dc-4e2b-813e-0c13eebf5842",
       "publishedAt": "2026-08-25",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "三一集团",
-  "count": 56,
-  "updatedAt": "2026-09-23T14:25:44.296Z",
+  "count": 57,
+  "updatedAt": "2026-09-24T14:20:39.630Z",
   "jobs": [
     {
       "id": "beisen-be3d41955a75",
@@ -1764,6 +1764,200 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
     },
     {
+      "id": "beisen-65612a55cdd5",
+      "company": "三一集团",
+      "title": "国际服务工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "jobDescription": "1、负责海外产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理海外客户问题并协调研发、质量和配件资源，推动问题闭环。 3、开展代理商或本地服务人员技术培训和服务能力建设。 4、维护海外服务记录和客户关系，分析故障数据并推动产品改善。",
+      "jobRequirements": "1、学历与专业：本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先。 2、技能要求：掌握产品结构、故障诊断和维修方法，具备英语沟通、海外现场支持及客户培训能力。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
+      "JD": "1、负责海外产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理海外客户问题并协调研发、质量和配件资源，推动问题闭环。 3、开展代理商或本地服务人员技术培训和服务能力建设。 4、维护海外服务记录和客户关系，分析故障数据并推动产品改善。\n1、学历与专业：本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先。 2、技能要求：掌握产品结构、故障诊断和维修方法，具备英语沟通、海外现场支持及客户培训能力。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "46",
+        "min": 46,
+        "max": 46,
+        "scope": "job",
+        "display": "46人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "46 46 1、负责海外产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理海外客户问"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=58cecc6a-c9a1-48e4-af96-faf068a26dfc",
+      "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
+    },
+    {
+      "id": "beisen-4a0d9b5f393b",
+      "company": "三一集团",
+      "title": "国内营销经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历与专业：本科及以上；市场营销、工商管理、国际贸易及机械、车辆、电气等相关专业优先。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历与专业：本科及以上"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、根据岗位方向承担国内区域销售、大客户直销，或通过营销管培轮岗开展客户开发和销售全流程管理。 2、负责国内目标区域或行业的市场开拓、客户及渠道开发维护，完成销售目标。 3、分析客户需求和竞争态势，制定销售策略、商务方案和推进计划。 4、推进报价、合同、金融、订单、交付和回款等销售全流程工作。 5、维护客户关系和业务数据，协同服务团队提升客户满意度。",
+      "jobRequirements": "1、学历与专业：本科及以上；市场营销、工商管理、国际贸易及机械、车辆、电气等相关专业优先。 2、技能要求：具备国内市场开拓、客户开发、商务沟通、方案与合同管理能力；同时需具备区域销售、大客户管理、渠道开发和销售全流程管理方法。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
+      "JD": "1、根据岗位方向承担国内区域销售、大客户直销，或通过营销管培轮岗开展客户开发和销售全流程管理。 2、负责国内目标区域或行业的市场开拓、客户及渠道开发维护，完成销售目标。 3、分析客户需求和竞争态势，制定销售策略、商务方案和推进计划。 4、推进报价、合同、金融、订单、交付和回款等销售全流程工作。 5、维护客户关系和业务数据，协同服务团队提升客户满意度。\n1、学历与专业：本科及以上；市场营销、工商管理、国际贸易及机械、车辆、电气等相关专业优先。 2、技能要求：具备国内市场开拓、客户开发、商务沟通、方案与合同管理能力；同时需具备区域销售、大客户管理、渠道开发和销售全流程管理方法。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历与专业：本科及以上；市场营销、工商管理、国际贸易及机械、车辆、电气等相关专业优先。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "65",
+        "min": 65,
+        "max": 65,
+        "scope": "job",
+        "display": "65人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "65 65 1、根据岗位方向承担国内区域销售、大客户直销，或通过营销管培轮岗开展客户开发和销"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=3e9f79ee-0711-4f03-aebf-8fd0a5203106",
+      "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
+    },
+    {
       "id": "beisen-efae0c326969",
       "company": "三一集团",
       "title": "国际融资专员",
@@ -2721,200 +2915,6 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
     },
     {
-      "id": "beisen-65612a55cdd5",
-      "company": "三一集团",
-      "title": "国际服务工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "长沙",
-      "jobDescription": "1、负责海外产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理海外客户问题并协调研发、质量和配件资源，推动问题闭环。 3、开展代理商或本地服务人员技术培训和服务能力建设。 4、维护海外服务记录和客户关系，分析故障数据并推动产品改善。",
-      "jobRequirements": "1、学历与专业：本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先。 2、技能要求：掌握产品结构、故障诊断和维修方法，具备英语沟通、海外现场支持及客户培训能力。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
-      "JD": "1、负责海外产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理海外客户问题并协调研发、质量和配件资源，推动问题闭环。 3、开展代理商或本地服务人员技术培训和服务能力建设。 4、维护海外服务记录和客户关系，分析故障数据并推动产品改善。\n1、学历与专业：本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先。 2、技能要求：掌握产品结构、故障诊断和维修方法，具备英语沟通、海外现场支持及客户培训能力。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "海外出差",
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "46",
-        "min": 46,
-        "max": 46,
-        "scope": "job",
-        "display": "46人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "46 46 1、负责海外产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理海外客户问"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=58cecc6a-c9a1-48e4-af96-faf068a26dfc",
-      "publishedAt": "2026-08-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
-    },
-    {
-      "id": "beisen-4a0d9b5f393b",
-      "company": "三一集团",
-      "title": "国内营销经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "学历与专业：本科及以上；市场营销、工商管理、国际贸易及机械、车辆、电气等相关专业优先。",
-        "hardRestriction": true,
-        "hardClauses": [
-          "学历与专业：本科及以上"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、根据岗位方向承担国内区域销售、大客户直销，或通过营销管培轮岗开展客户开发和销售全流程管理。 2、负责国内目标区域或行业的市场开拓、客户及渠道开发维护，完成销售目标。 3、分析客户需求和竞争态势，制定销售策略、商务方案和推进计划。 4、推进报价、合同、金融、订单、交付和回款等销售全流程工作。 5、维护客户关系和业务数据，协同服务团队提升客户满意度。",
-      "jobRequirements": "1、学历与专业：本科及以上；市场营销、工商管理、国际贸易及机械、车辆、电气等相关专业优先。 2、技能要求：具备国内市场开拓、客户开发、商务沟通、方案与合同管理能力；同时需具备区域销售、大客户管理、渠道开发和销售全流程管理方法。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
-      "JD": "1、根据岗位方向承担国内区域销售、大客户直销，或通过营销管培轮岗开展客户开发和销售全流程管理。 2、负责国内目标区域或行业的市场开拓、客户及渠道开发维护，完成销售目标。 3、分析客户需求和竞争态势，制定销售策略、商务方案和推进计划。 4、推进报价、合同、金融、订单、交付和回款等销售全流程工作。 5、维护客户关系和业务数据，协同服务团队提升客户满意度。\n1、学历与专业：本科及以上；市场营销、工商管理、国际贸易及机械、车辆、电气等相关专业优先。 2、技能要求：具备国内市场开拓、客户开发、商务沟通、方案与合同管理能力；同时需具备区域销售、大客户管理、渠道开发和销售全流程管理方法。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历与专业：本科及以上；市场营销、工商管理、国际贸易及机械、车辆、电气等相关专业优先。"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "海外出差",
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "65",
-        "min": 65,
-        "max": 65,
-        "scope": "job",
-        "display": "65人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "65 65 1、根据岗位方向承担国内区域销售、大客户直销，或通过营销管培轮岗开展客户开发和销"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=3e9f79ee-0711-4f03-aebf-8fd0a5203106",
-      "publishedAt": "2026-08-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
-    },
-    {
       "id": "beisen-434b02802b4e",
       "company": "三一集团",
       "title": "国际营销技术专员",
@@ -3110,9 +3110,9 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
     },
     {
-      "id": "beisen-bd36628505ab",
+      "id": "beisen-d6cfb709c990",
       "company": "三一集团",
-      "title": "制造管理专员",
+      "title": "培训专员",
       "graduationYear": [
         "2027"
       ],
@@ -3122,40 +3122,40 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
+        "raw": "学历与专业：本科学历；人力资源管理、教育学等相关专业优先。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历与专业：本科学历"
+        ]
       },
       "language": {
-        "raw": "",
-        "english": false,
+        "raw": "英语",
+        "english": true,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "jobDescription": "1、根据岗位方向承担制造现场运营、生产调度、生产计划，或制造管培轮岗中的安全、质量、交付、成本和效率管理。 2、负责生产计划、排产调度、人员物料和现场资源协调。 3、跟踪安全、质量、交付、成本和效率指标，识别异常并推动闭环。 4、组织新产品导入、产能爬坡和跨部门协同，保障生产任务达成。 5、推进现场标准化、精益改善、数字化和班组管理能力提升。",
-      "jobRequirements": "1、学历与专业：本科及以上；工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先。 2、技能要求：了解生产计划、现场管理、精益生产和制造数据分析，熟悉ERP/MES者优先；同时需具备生产计划、排产调度、现场运营、精益改善及制造数据分析方法。 3、软性素质：责任心和现场意识强，具备执行推动、沟通协调、异常处理和持续改善意识。 4、其他补充：能够适应生产现场工作和必要的业务安排；有制造、质量、安全或精益改善相关实习及项目经历者优先。",
-      "JD": "1、根据岗位方向承担制造现场运营、生产调度、生产计划，或制造管培轮岗中的安全、质量、交付、成本和效率管理。 2、负责生产计划、排产调度、人员物料和现场资源协调。 3、跟踪安全、质量、交付、成本和效率指标，识别异常并推动闭环。 4、组织新产品导入、产能爬坡和跨部门协同，保障生产任务达成。 5、推进现场标准化、精益改善、数字化和班组管理能力提升。\n1、学历与专业：本科及以上；工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先。 2、技能要求：了解生产计划、现场管理、精益生产和制造数据分析，熟悉ERP/MES者优先；同时需具备生产计划、排产调度、现场运营、精益改善及制造数据分析方法。 3、软性素质：责任心和现场意识强，具备执行推动、沟通协调、异常处理和持续改善意识。 4、其他补充：能够适应生产现场工作和必要的业务安排；有制造、质量、安全或精益改善相关实习及项目经历者优先。",
+      "location": "长沙",
+      "jobDescription": "1、协助收集业务部门培训需求，整理培训对象、学习目标和课程安排，支持制定及推进培训计划。 2、组织培训项目实施，协调讲师、学员、场地和线上平台，完成通知、报名、签到及现场支持，跟进培训进度与问题处理。 3、支持中英文培训沟通与资料整理，根据项目需要使用英语对接讲师或学员，参与课程介绍及活动串场。 4、协助制作和更新课件、培训海报、宣传文案及视频等学习材料，维护课程资料和学习资源。 5、收集培训反馈、考核及学习数据，维护培训台账，协助开展效果评估、项目复盘和改进跟踪。",
+      "jobRequirements": "1、学历与专业：本科学历；人力资源管理、教育学等相关专业优先。 2、技能要求：英语可作为工作语言，能够开展日常口头沟通及书面交流；具备基本的文案撰写、资料整理及办公软件使用能力；具备活动主持、海报设计或视频拍摄剪辑能力者优先。 3、软性素质：积极主动、乐于沟通，具备良好的组织协调、服务意识和团队协作能力；工作认真细致、责任心强，能够推动培训任务落实。 4、其他补充：有培训组织、校园活动策划或主持、新媒体内容制作等实习或实践经历者优先；对人才培养与培训运营有兴趣，愿意持续学习。",
+      "JD": "1、协助收集业务部门培训需求，整理培训对象、学习目标和课程安排，支持制定及推进培训计划。 2、组织培训项目实施，协调讲师、学员、场地和线上平台，完成通知、报名、签到及现场支持，跟进培训进度与问题处理。 3、支持中英文培训沟通与资料整理，根据项目需要使用英语对接讲师或学员，参与课程介绍及活动串场。 4、协助制作和更新课件、培训海报、宣传文案及视频等学习材料，维护课程资料和学习资源。 5、收集培训反馈、考核及学习数据，维护培训台账，协助开展效果评估、项目复盘和改进跟踪。\n1、学历与专业：本科学历；人力资源管理、教育学等相关专业优先。 2、技能要求：英语可作为工作语言，能够开展日常口头沟通及书面交流；具备基本的文案撰写、资料整理及办公软件使用能力；具备活动主持、海报设计或视频拍摄剪辑能力者优先。 3、软性素质：积极主动、乐于沟通，具备良好的组织协调、服务意识和团队协作能力；工作认真细致、责任心强，能够推动培训任务落实。 4、其他补充：有培训组织、校园活动策划或主持、新媒体内容制作等实习或实践经历者优先；对人才培养与培训运营有兴趣，愿意持续学习。",
       "jdEvidence": {
-        "source": "regex-v1",
+        "source": "llm:deepseek:deepseek-flash",
         "majorClauses": [
-          "工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先"
+          "学历与专业：本科学历；人力资源管理、教育学等相关专业优先。"
         ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
+        "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
       ],
       "skills": [
-        "数据分析"
+        "英语",
+        "文案"
       ],
       "experienceKeywords": [
         "运营",
+        "内容",
         "项目",
         "数据"
       ],
@@ -3163,14 +3163,14 @@
       "riskTags": [],
       "headcount": {
         "disclosed": true,
-        "raw": "42",
-        "min": 42,
-        "max": 42,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
         "scope": "job",
-        "display": "42人",
+        "display": "4人",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "42 42 1、根据岗位方向承担制造现场运营、生产调度、生产计划，或制造管培轮岗中的安全、质"
+        "evidence": "4 4 1、协助收集业务部门培训需求，整理培训对象、学习目标和课程安排，支持制定及推进培训"
       },
       "compensation": {
         "disclosed": false,
@@ -3192,8 +3192,8 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=31c2d91f-f5da-450d-805c-74a123bfbf44",
-      "publishedAt": "2026-08-26",
+      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=54ad6ddc-c470-4581-8fe3-43f734dadc95",
+      "publishedAt": "2026-09-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3285,6 +3285,194 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=97627322-249e-4776-a21f-e0afbe04624a",
+      "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
+    },
+    {
+      "id": "beisen-0cdae6b4de77",
+      "company": "三一集团",
+      "title": "国内服务工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责国内产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理客户问题并协调研发、质量和配件资源，推动问题快速闭环。 3、开展客户、代理商或服务人员的技术培训和能力建设。 4、维护服务记录和客户关系，分析故障数据并推动产品与服务改善。",
+      "jobRequirements": "1、学历与专业：本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先。 2、技能要求：掌握设备或车辆结构原理、故障诊断和维修方法，具备现场问题解决及客户沟通能力。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
+      "JD": "1、负责国内产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理客户问题并协调研发、质量和配件资源，推动问题快速闭环。 3、开展客户、代理商或服务人员的技术培训和能力建设。 4、维护服务记录和客户关系，分析故障数据并推动产品与服务改善。\n1、学历与专业：本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先。 2、技能要求：掌握设备或车辆结构原理、故障诊断和维修方法，具备现场问题解决及客户沟通能力。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "海外出差",
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "269",
+        "min": 269,
+        "max": 269,
+        "scope": "job",
+        "display": "269人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "269 269 1、负责国内产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理客户问题"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=77be8498-46ad-476c-b14c-0355422ac048",
+      "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
+    },
+    {
+      "id": "beisen-bd36628505ab",
+      "company": "三一集团",
+      "title": "制造管理专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、根据岗位方向承担制造现场运营、生产调度、生产计划，或制造管培轮岗中的安全、质量、交付、成本和效率管理。 2、负责生产计划、排产调度、人员物料和现场资源协调。 3、跟踪安全、质量、交付、成本和效率指标，识别异常并推动闭环。 4、组织新产品导入、产能爬坡和跨部门协同，保障生产任务达成。 5、推进现场标准化、精益改善、数字化和班组管理能力提升。",
+      "jobRequirements": "1、学历与专业：本科及以上；工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先。 2、技能要求：了解生产计划、现场管理、精益生产和制造数据分析，熟悉ERP/MES者优先；同时需具备生产计划、排产调度、现场运营、精益改善及制造数据分析方法。 3、软性素质：责任心和现场意识强，具备执行推动、沟通协调、异常处理和持续改善意识。 4、其他补充：能够适应生产现场工作和必要的业务安排；有制造、质量、安全或精益改善相关实习及项目经历者优先。",
+      "JD": "1、根据岗位方向承担制造现场运营、生产调度、生产计划，或制造管培轮岗中的安全、质量、交付、成本和效率管理。 2、负责生产计划、排产调度、人员物料和现场资源协调。 3、跟踪安全、质量、交付、成本和效率指标，识别异常并推动闭环。 4、组织新产品导入、产能爬坡和跨部门协同，保障生产任务达成。 5、推进现场标准化、精益改善、数字化和班组管理能力提升。\n1、学历与专业：本科及以上；工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先。 2、技能要求：了解生产计划、现场管理、精益生产和制造数据分析，熟悉ERP/MES者优先；同时需具备生产计划、排产调度、现场运营、精益改善及制造数据分析方法。 3、软性素质：责任心和现场意识强，具备执行推动、沟通协调、异常处理和持续改善意识。 4、其他补充：能够适应生产现场工作和必要的业务安排；有制造、质量、安全或精益改善相关实习及项目经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "工业工程、机械工程、车辆工程、制造工程、企业管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "42",
+        "min": 42,
+        "max": 42,
+        "scope": "job",
+        "display": "42人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "42 42 1、根据岗位方向承担制造现场运营、生产调度、生产计划，或制造管培轮岗中的安全、质"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=31c2d91f-f5da-450d-805c-74a123bfbf44",
       "publishedAt": "2026-08-26",
       "lastVerified": "",
       "sourceType": "official",
@@ -3670,101 +3858,6 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
     },
     {
-      "id": "beisen-0cdae6b4de77",
-      "company": "三一集团",
-      "title": "国内服务工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、负责国内产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理客户问题并协调研发、质量和配件资源，推动问题快速闭环。 3、开展客户、代理商或服务人员的技术培训和能力建设。 4、维护服务记录和客户关系，分析故障数据并推动产品与服务改善。",
-      "jobRequirements": "1、学历与专业：本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先。 2、技能要求：掌握设备或车辆结构原理、故障诊断和维修方法，具备现场问题解决及客户沟通能力。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
-      "JD": "1、负责国内产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理客户问题并协调研发、质量和配件资源，推动问题快速闭环。 3、开展客户、代理商或服务人员的技术培训和能力建设。 4、维护服务记录和客户关系，分析故障数据并推动产品与服务改善。\n1、学历与专业：本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先。 2、技能要求：掌握设备或车辆结构原理、故障诊断和维修方法，具备现场问题解决及客户沟通能力。 3、软性素质：客户意识和目标意识强，具备沟通表达、关系维护、团队协作、自我驱动和抗压能力。 4、其他补充：国际或驻外方向需具备岗位要求的英语/小语种沟通能力，并能接受必要的海外出差或驻外安排；有相关实习、项目或行业经历者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上；机械、车辆工程、电气、自动化、新能源等相关专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "项目",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "海外出差",
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "269",
-        "min": 269,
-        "max": 269,
-        "scope": "job",
-        "display": "269人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "269 269 1、负责国内产品安装调试、维修保养、故障诊断和现场技术支持。 2、受理客户问题"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=77be8498-46ad-476c-b14c-0355422ac048",
-      "publishedAt": "2026-08-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
-    },
-    {
       "id": "beisen-63755509e49e",
       "company": "三一集团",
       "title": "安全环保工程师（HSE）",
@@ -3847,6 +3940,95 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=8c20531d-c81b-423f-a6f4-7742be63eea7",
+      "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
+    },
+    {
+      "id": "beisen-31f4b97f8703",
+      "company": "三一集团",
+      "title": "电驱系统工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "电气工程、车辆工程、自动化、功率电子等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "苏州",
+      "jobDescription": "1、负责电驱系统需求分析、架构方案、参数匹配和关键部件选型。 2、开展系统接口、功率与效率分析，输出设计规范和技术文件。 3、参与台架及整机测试、控制标定和故障诊断，推动性能与可靠性问题闭环。 4、推进电驱系统效率、功率密度、成本及平台化优化。",
+      "jobRequirements": "1、学历与专业：硕士及以上；电气工程、车辆工程、自动化、功率电子等相关专业优先。 2、技能要求：掌握电驱系统架构、逆变器及整车匹配基础，能够开展方案设计、参数匹配、标定与测试。 3、软性素质：逻辑清晰、严谨负责，具备持续学习、工程问题分析、跨专业沟通和团队协作能力。 4、其他补充：有相关科研、竞赛、实习或项目经历者优先；能够根据项目需要配合试制、测试、现场调试或短期出差。",
+      "JD": "1、负责电驱系统需求分析、架构方案、参数匹配和关键部件选型。 2、开展系统接口、功率与效率分析，输出设计规范和技术文件。 3、参与台架及整机测试、控制标定和故障诊断，推动性能与可靠性问题闭环。 4、推进电驱系统效率、功率密度、成本及平台化优化。\n1、学历与专业：硕士及以上；电气工程、车辆工程、自动化、功率电子等相关专业优先。 2、技能要求：掌握电驱系统架构、逆变器及整车匹配基础，能够开展方案设计、参数匹配、标定与测试。 3、软性素质：逻辑清晰、严谨负责，具备持续学习、工程问题分析、跨专业沟通和团队协作能力。 4、其他补充：有相关科研、竞赛、实习或项目经历者优先；能够根据项目需要配合试制、测试、现场调试或短期出差。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "电气工程、车辆工程、自动化、功率电子等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "问题根因"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "31",
+        "min": 31,
+        "max": 31,
+        "scope": "job",
+        "display": "31人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "31 31 1、负责电驱系统需求分析、架构方案、参数匹配和关键部件选型。 2、开展系统接口、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=09ce633e-0a3f-43ac-b9c9-34c6bfd1928d",
       "publishedAt": "2026-08-26",
       "lastVerified": "",
       "sourceType": "official",
@@ -5008,95 +5190,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=191c3e22-a686-424e-8095-8f7e757d48ba",
-      "publishedAt": "2026-08-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→测评→HR面试→专面/终面→OFFER",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网三一校招 | https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=1495b60a048c4fdfa833d8630c85e0e6 | 2026-09-17"
-    },
-    {
-      "id": "beisen-31f4b97f8703",
-      "company": "三一集团",
-      "title": "电驱系统工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "电气工程、车辆工程、自动化、功率电子等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "苏州",
-      "jobDescription": "1、负责电驱系统需求分析、架构方案、参数匹配和关键部件选型。 2、开展系统接口、功率与效率分析，输出设计规范和技术文件。 3、参与台架及整机测试、控制标定和故障诊断，推动性能与可靠性问题闭环。 4、推进电驱系统效率、功率密度、成本及平台化优化。",
-      "jobRequirements": "1、学历与专业：硕士及以上；电气工程、车辆工程、自动化、功率电子等相关专业优先。 2、技能要求：掌握电驱系统架构、逆变器及整车匹配基础，能够开展方案设计、参数匹配、标定与测试。 3、软性素质：逻辑清晰、严谨负责，具备持续学习、工程问题分析、跨专业沟通和团队协作能力。 4、其他补充：有相关科研、竞赛、实习或项目经历者优先；能够根据项目需要配合试制、测试、现场调试或短期出差。",
-      "JD": "1、负责电驱系统需求分析、架构方案、参数匹配和关键部件选型。 2、开展系统接口、功率与效率分析，输出设计规范和技术文件。 3、参与台架及整机测试、控制标定和故障诊断，推动性能与可靠性问题闭环。 4、推进电驱系统效率、功率密度、成本及平台化优化。\n1、学历与专业：硕士及以上；电气工程、车辆工程、自动化、功率电子等相关专业优先。 2、技能要求：掌握电驱系统架构、逆变器及整车匹配基础，能够开展方案设计、参数匹配、标定与测试。 3、软性素质：逻辑清晰、严谨负责，具备持续学习、工程问题分析、跨专业沟通和团队协作能力。 4、其他补充：有相关科研、竞赛、实习或项目经历者优先；能够根据项目需要配合试制、测试、现场调试或短期出差。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "电气工程、车辆工程、自动化、功率电子等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "问题根因"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "31",
-        "min": 31,
-        "max": 31,
-        "scope": "job",
-        "display": "31人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "31 31 1、负责电驱系统需求分析、架构方案、参数匹配和关键部件选型。 2、开展系统接口、"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://sany.zhiye.com/campus/detail?jobAdId=09ce633e-0a3f-43ac-b9c9-34c6bfd1928d",
       "publishedAt": "2026-08-26",
       "lastVerified": "",
       "sourceType": "official",
