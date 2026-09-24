@@ -683,6 +683,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
+    "name": "日丰企业集团有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://rifengdz.zhiye.com/campus",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-09-24T18:59:13.111Z",
+    "nextCheckAfter": ""
+  },
+  {
     "name": "睿联技术",
     "status": "主投",
     "state": "needs_adapter",
@@ -767,7 +778,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://shantui.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-24T14:19:38.412Z",
+    "lastCheckedAt": "2026-09-24T18:59:13.111Z",
     "nextCheckAfter": ""
   },
   {
@@ -987,8 +998,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-24T14:19:38.412Z",
-    "nextCheckAfter": "2026-09-25T14:19:38.416Z"
+    "lastCheckedAt": "2026-09-24T18:59:13.111Z",
+    "nextCheckAfter": "2026-09-25T18:59:13.125Z"
   },
   {
     "name": "招商银行股份有限公司长沙分行",
@@ -1066,6 +1077,17 @@ export const sourceDiscovery = [
     "attempts": 0,
     "lastCheckedAt": "2026-09-21T00:16:49.440Z",
     "nextCheckAfter": "2026-09-22T00:16:49.444Z"
+  },
+  {
+    "name": "中国移动通信集团广东有限公司汕尾分公司",
+    "status": "高校自动发现",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://job.10086.cn/",
+    "reason": "已发现公司官方招聘入口，但当前站点 job.10086.cn 尚无自动抓取适配器",
+    "attempts": 0,
+    "lastCheckedAt": "2026-09-24T18:59:13.111Z",
+    "nextCheckAfter": "2026-09-25T18:59:13.126Z"
   },
   {
     "name": "中国银行大连市分行",
@@ -1323,7 +1345,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-24T18:25:35.752Z",
+  "updatedAt": "2026-09-24T18:59:13.111Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

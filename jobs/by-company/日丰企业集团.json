@@ -1,0 +1,534 @@
+{
+  "company": "日丰企业集团有限公司",
+  "count": 6,
+  "updatedAt": "2026-09-24T19:23:42.300Z",
+  "jobs": [
+    {
+      "id": "university-d9d534daa2a9a5",
+      "company": "日丰企业集团有限公司",
+      "title": "宣讲单位：日丰企业集团有限公司 工商查询",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "佛山",
+      "jobDescription": "西安外国语大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "西安外国语大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销",
+        "内容运营",
+        "HR",
+        "市场"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "文案"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "西安外国语大学就业信息网",
+      "officialURL": "http://jiuye.xisu.edu.cn/detail/career?id=719242",
+      "publishedAt": "2026-10-14",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f15dab326662",
+      "company": "日丰企业集团有限公司",
+      "title": "【2027届】供应链岗(J13212)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、专业能力优秀，对数据敏感，有EXCEL数据统计及分析的基础",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "佛山",
+      "jobDescription": "【岗位职责】： 负责供需计划制定、采购协调及仓储物流全供应链管理等工作。",
+      "jobRequirements": "【任职要求】： 1、物流管理等相关专业，2027届本科及以上毕业生； 2、专业能力优秀，对数据敏感，有EXCEL数据统计及分析的基础。 工作地点：佛山",
+      "JD": "【岗位职责】： 负责供需计划制定、采购协调及仓储物流全供应链管理等工作。\n【任职要求】： 1、物流管理等相关专业，2027届本科及以上毕业生； 2、专业能力优秀，对数据敏感，有EXCEL数据统计及分析的基础。 工作地点：佛山",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业能力优秀，对数据敏感，有EXCEL数据统计及分析的基础"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-11-01"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 【岗位职责】： 负责供需计划制定、采购协调及仓储物流全供应链管理等工作。 【任职要"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://rifengdz.zhiye.com/campus/detail?jobAdId=c1363b14-82d7-4119-8d68-8d5299f96269",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-11-01"
+    },
+    {
+      "id": "beisen-f2ff3fb6a3d1",
+      "company": "日丰企业集团有限公司",
+      "title": "【2027届】海外营销岗(J13202)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.国际贸易或英语（CET6及以上）、小语种等相关专业，2027届本科毕业生",
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.国际贸易或英语（CET6及以上）、小语种等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "佛山",
+      "jobDescription": "【岗位职责】： 负责海外市场客户开发与关系维护，完成区域销售目标。",
+      "jobRequirements": "【任职资格】： 1.国际贸易或英语（CET6及以上）、小语种等相关专业，2027届本科毕业生； 2. 学习意愿强，能快速掌握产品知识、业务知识与行业逻辑。 工作地点：海外驻外/佛山",
+      "JD": "【岗位职责】： 负责海外市场客户开发与关系维护，完成区域销售目标。\n【任职资格】： 1.国际贸易或英语（CET6及以上）、小语种等相关专业，2027届本科毕业生； 2. 学习意愿强，能快速掌握产品知识、业务知识与行业逻辑。 工作地点：海外驻外/佛山",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.国际贸易或英语（CET6及以上）、小语种等相关专业，2027届本科毕业生"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-11-01"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://rifengdz.zhiye.com/campus/detail?jobAdId=1a72545d-9293-43f0-a70a-c7046de18f8d",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-11-01"
+    },
+    {
+      "id": "beisen-1040f5a6916e",
+      "company": "日丰企业集团有限公司",
+      "title": "【2027届】国内营销岗(J13201)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、专业不限，2027届本科毕业生",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "【岗位职责】： 1、学习公司产品知识和营销策略，完成区域市场的营销过程指标和整体销量目标； 2、策划推进营销活动方案落地执行，定期对区域市场进行调研分析和信息反馈。",
+      "jobRequirements": "【任职要求】： 1、专业不限，2027届本科毕业生； 2、性格活泼开朗，具备良好的沟通表达、执行能力、目标管理及团队合作能力。",
+      "JD": "【岗位职责】： 1、学习公司产品知识和营销策略，完成区域市场的营销过程指标和整体销量目标； 2、策划推进营销活动方案落地执行，定期对区域市场进行调研分析和信息反馈。\n【任职要求】： 1、专业不限，2027届本科毕业生； 2、性格活泼开朗，具备良好的沟通表达、执行能力、目标管理及团队合作能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、专业不限，2027届本科毕业生"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "82",
+        "min": 82,
+        "max": 82,
+        "scope": "job",
+        "display": "82人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "82 82 【岗位职责】： 1、学习公司产品知识和营销策略，完成区域市场的营销过程指标和整体"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://rifengdz.zhiye.com/campus/detail?jobAdId=05d350ea-fabc-419d-8a79-95543862b5df",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-56d03e7c8951",
+      "company": "日丰企业集团有限公司",
+      "title": "【2027届】校园大使(J13220)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "①日丰校园代言人：宣传与推广日丰校招咨询及雇主品牌。 ②日丰人才推荐官：推荐优秀同学，反馈同学们述求及声音，助力日丰校招。 ③日丰校园联络官：搭建校企沟通桥梁，管理并维护就业社群。",
+      "jobRequirements": "我们期望你是 1.在校本科、研究生均可参加（具备就业办、社团、学生会和班干部经验同学优先）； 2.熟悉校园各类宣传渠道（就业群、校园达人、社群等），能快速多渠道宣传公司信息； 3.超级E人，性格积极开朗，细心认真，责任心强，乐于沟通分享，高效执行； 4.主动了解并认可日丰企业文化及价值观；； 成为校园大使，你将收获 1.丰厚报酬：除校招大使专属津贴外，还有额外推荐激励等你拿 2.校招直通卡：可直接参加日丰校招复试，快人一步 3.实习履历：可开予实习证明，多一份亮眼履历 4.校招辅导：资深HR提供专属求职辅导面试技巧 校园大使面试流程（各线路自行安排） 简历投递--HR面试--录用通知--培训赋能--正式运营",
+      "JD": "①日丰校园代言人：宣传与推广日丰校招咨询及雇主品牌。 ②日丰人才推荐官：推荐优秀同学，反馈同学们述求及声音，助力日丰校招。 ③日丰校园联络官：搭建校企沟通桥梁，管理并维护就业社群。\n我们期望你是 1.在校本科、研究生均可参加（具备就业办、社团、学生会和班干部经验同学优先）； 2.熟悉校园各类宣传渠道（就业群、校园达人、社群等），能快速多渠道宣传公司信息； 3.超级E人，性格积极开朗，细心认真，责任心强，乐于沟通分享，高效执行； 4.主动了解并认可日丰企业文化及价值观；； 成为校园大使，你将收获 1.丰厚报酬：除校招大使专属津贴外，还有额外推荐激励等你拿 2.校招直通卡：可直接参加日丰校招复试，快人一步 3.实习履历：可开予实习证明，多一份亮眼履历 4.校招辅导：资深HR提供专属求职辅导面试技巧 校园大使面试流程（各线路自行安排） 简历投递--HR面试--录用通知--培训赋能--正式运营",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "2027届",
+          "在校本科、研究生均可参加"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://rifengdz.zhiye.com/campus/detail?jobAdId=ecac2e4b-813b-4625-8938-53750e7ab1b4",
+      "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-10-03"
+    },
+    {
+      "id": "beisen-0fefea669dc6",
+      "company": "日丰企业集团有限公司",
+      "title": "【2027届】设计岗(J13215)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "空间设计等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "空间设计等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "佛山",
+      "jobDescription": "【岗位职责】： 1、负责日丰集团各产品线产品的工业设计工作； 2、分析研究产品的市场趋势，洞悉用户痛点，挖掘消费者需求，探索新的设计创新点； 3、承接产品经理设计需求，配合结构技术同事以及供应商完成落地效果及量产跟进确认 。",
+      "jobRequirements": "【任职要求】： 1、空间设计等相关专业，2027届本科毕业生； 2、对造型、色彩、工艺、表面处理有充分的感知和把握能力。 工作地点：佛山",
+      "JD": "【岗位职责】： 1、负责日丰集团各产品线产品的工业设计工作； 2、分析研究产品的市场趋势，洞悉用户痛点，挖掘消费者需求，探索新的设计创新点； 3、承接产品经理设计需求，配合结构技术同事以及供应商完成落地效果及量产跟进确认 。\n【任职要求】： 1、空间设计等相关专业，2027届本科毕业生； 2、对造型、色彩、工艺、表面处理有充分的感知和把握能力。 工作地点：佛山",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "空间设计等相关专业"
+        ],
+        "eligibilityClauses": [
+          "【2027届】",
+          "2027届本科毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 【岗位职责】： 1、负责日丰集团各产品线产品的工业设计工作； 2、分析研究产品的市"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://rifengdz.zhiye.com/campus/detail?jobAdId=77d2ccb4-c8bb-4de6-9153-e183300a2ddc",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    }
+  ]
+}
