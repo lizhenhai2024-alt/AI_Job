@@ -1,7 +1,7 @@
 {
   "company": "小米",
-  "count": 240,
-  "updatedAt": "2026-09-25T14:41:36.716Z",
+  "count": 241,
+  "updatedAt": "2026-09-25T19:15:57.039Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -9050,6 +9050,94 @@
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670919111258523914/detail",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7689291997559884086",
+      "company": "小米",
+      "title": "Channel Finance BP （CDI）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "Bachelor's degree or above in Finance, Accounting, or a related field.",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、法语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "巴黎",
+      "jobDescription": "1.Responsible for end-to-end financial process management at the national level for channels, including channel transaction management, budgeting, ledger maintenance, settlement, reconciliation, accounting treatment, as well as the construction and analysis of key business performance profit and loss models for channels. 2.Gain an in-depth understanding of and participate in channel business processes, including developing independent insights into channel business operations; summarize cu",
+      "jobRequirements": "1. Bachelor's degree or above in Finance, Accounting, or a related field. 2. Preferably experience in Financial Planning & Analysis (FP&A) 3. Proficient in office software, especially Excel. 4. Strong numerical sensitivity with excellent problem identification and resolution skills 5. Responsible, strong communication skills, goal-oriented, with excellent analytical and summarization abilities 6. Fluent in English and Chinese. Proficiency in French is a plus",
+      "JD": "1.Responsible for end-to-end financial process management at the national level for channels, including channel transaction management, budgeting, ledger maintenance, settlement, reconciliation, accounting treatment, as well as the construction and analysis of key business performance profit and loss models for channels. 2.Gain an in-depth understanding of and participate in channel business processes, including developing independent insights into channel business operations; summarize cu\n1. Bachelor's degree or above in Finance, Accounting, or a related field. 2. Preferably experience in Financial Planning & Analysis (FP&A) 3. Proficient in office software, especially Excel. 4. Strong numerical sensitivity with excellent problem identification and resolution skills 5. Responsible, strong communication skills, goal-oriented, with excellent analytical and summarization abilities 6. Fluent in English and Chinese. Proficiency in French is a plus",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "Bachelor's degree or above in Finance, Accounting, or a related field."
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7689291997559884086/detail",
+      "publishedAt": "2026-09-25",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
