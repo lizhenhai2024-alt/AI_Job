@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
   "count": 194,
-  "updatedAt": "2026-09-25T00:43:07.619Z",
+  "updatedAt": "2026-09-25T14:41:36.716Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -4967,95 +4967,6 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
-      "id": "feishu-49f725-7673027365039409417",
-      "company": "蔚来",
-      "title": "校招-技术合作（政企合作）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "硕士及以上学历优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 对接行业机构、科研院所、政府智库等的合作伙伴关系，开展技术交流，寻求合作机会； 2. 整合、协调公司内部资源，挖掘科技创新内容，围绕核心技术方向及战略，申请与管理各类政府科技项目，撰写有关申报、执行及验收等材料。",
-      "jobRequirements": "1. 硕士及以上学历优先； 2. 扎实的中文写作功底，具备撰写各类项目报告和综合性文字材料的能力； 3. 优秀的项目管理能力，参与过政府科技项目或有PMP认证优先考虑； 4. 善于沟通，逻辑能力强；有项目合作、咨询、业务拓展经验者优先考虑； 5. 具备良好的执行力和团队合作能力。",
-      "JD": "1. 对接行业机构、科研院所、政府智库等的合作伙伴关系，开展技术交流，寻求合作机会； 2. 整合、协调公司内部资源，挖掘科技创新内容，围绕核心技术方向及战略，申请与管理各类政府科技项目，撰写有关申报、执行及验收等材料。\n1. 硕士及以上学历优先； 2. 扎实的中文写作功底，具备撰写各类项目报告和综合性文字材料的能力； 3. 优秀的项目管理能力，参与过政府科技项目或有PMP认证优先考虑； 4. 善于沟通，逻辑能力强；有项目合作、咨询、业务拓展经验者优先考虑； 5. 具备良好的执行力和团队合作能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "硕士及以上学历优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "内容",
-        "项目",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027365039409417/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
       "id": "feishu-49f725-7673027365039114505",
       "company": "蔚来",
       "title": "校招-技术合作（高校合作）",
@@ -5902,6 +5813,95 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026923669637427/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673027365039409417",
+      "company": "蔚来",
+      "title": "校招-技术合作（政企合作）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 对接行业机构、科研院所、政府智库等的合作伙伴关系，开展技术交流，寻求合作机会； 2. 整合、协调公司内部资源，挖掘科技创新内容，围绕核心技术方向及战略，申请与管理各类政府科技项目，撰写有关申报、执行及验收等材料。",
+      "jobRequirements": "1. 硕士及以上学历优先； 2. 扎实的中文写作功底，具备撰写各类项目报告和综合性文字材料的能力； 3. 优秀的项目管理能力，参与过政府科技项目或有PMP认证优先考虑； 4. 善于沟通，逻辑能力强；有项目合作、咨询、业务拓展经验者优先考虑； 5. 具备良好的执行力和团队合作能力。",
+      "JD": "1. 对接行业机构、科研院所、政府智库等的合作伙伴关系，开展技术交流，寻求合作机会； 2. 整合、协调公司内部资源，挖掘科技创新内容，围绕核心技术方向及战略，申请与管理各类政府科技项目，撰写有关申报、执行及验收等材料。\n1. 硕士及以上学历优先； 2. 扎实的中文写作功底，具备撰写各类项目报告和综合性文字材料的能力； 3. 优秀的项目管理能力，参与过政府科技项目或有PMP认证优先考虑； 4. 善于沟通，逻辑能力强；有项目合作、咨询、业务拓展经验者优先考虑； 5. 具备良好的执行力和团队合作能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027365039409417/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",
