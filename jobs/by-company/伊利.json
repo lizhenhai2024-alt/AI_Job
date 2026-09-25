@@ -1,7 +1,7 @@
 {
   "company": "伊利",
   "count": 147,
-  "updatedAt": "2026-09-24T19:23:42.300Z",
+  "updatedAt": "2026-09-25T00:43:07.619Z",
   "jobs": [
     {
       "id": "hotjob-6e1b171c25fa",
@@ -467,96 +467,6 @@
       "deadline": "2026-09-25"
     },
     {
-      "id": "hotjob-72f3d8e44179",
-      "company": "伊利",
-      "title": "伊利2027届校招-市场培训生（冷饮北京）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "硕士及以上学历；专业不限，市场营销、广告学、传播学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "基于公司未来的战略及业务发展需求，通过基层全方位历练、结合公司全维度专业/管理素质赋能等成长路径，培养成为该领域专业人士/管理人员。 1、协助直接上级制定品牌行销计划，规划促销活动，推动新品上市进程，达成产品年度目标；协助推进已有品牌改进专案的进行、协调各部门关系； 2、负责了解本竞品信息、消费者对产品的满意度与改进方向，从消费者需求、产品质量控制风险的角度对老品进行优化； 3、负责提出新品上市的调研需求，获取消费者体验感知信息，确认产品口味、包装方向； 4、基于品牌传播目标，提出整合营销项目需求，规划营销节点与方向。",
-      "jobRequirements": "1、硕士及以上学历，2027届毕业生，专业不限，市场营销、广告学、传播学等相关专业优先； 2、CET6及以上/雅思6.0及以上/托福60分及以上； 3、对市场营销充满热情，对新事物有好奇心且有较强的学习能力和统筹协调能力 简历接收周期：2026-09-08~2027-06-30",
-      "JD": "基于公司未来的战略及业务发展需求，通过基层全方位历练、结合公司全维度专业/管理素质赋能等成长路径，培养成为该领域专业人士/管理人员。 1、协助直接上级制定品牌行销计划，规划促销活动，推动新品上市进程，达成产品年度目标；协助推进已有品牌改进专案的进行、协调各部门关系； 2、负责了解本竞品信息、消费者对产品的满意度与改进方向，从消费者需求、产品质量控制风险的角度对老品进行优化； 3、负责提出新品上市的调研需求，获取消费者体验感知信息，确认产品口味、包装方向； 4、基于品牌传播目标，提出整合营销项目需求，规划营销节点与方向。\n1、硕士及以上学历，2027届毕业生，专业不限，市场营销、广告学、传播学等相关专业优先； 2、CET6及以上/雅思6.0及以上/托福60分及以上； 3、对市场营销充满热情，对新事物有好奇心且有较强的学习能力和统筹协调能力 简历接收周期：2026-09-08~2027-06-30",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "硕士及以上学历",
-          "专业不限，市场营销、广告学、传播学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "2027届毕业生",
-          "简历接收周期：2026-09-08~2027-06-30"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "营销",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "12K-13K",
-        "monthlyMin": 12000,
-        "monthlyMax": 13000,
-        "annualMin": 144000,
-        "annualMax": 156000,
-        "salaryMonths": 12,
-        "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "1.2万–1.3万/月",
-        "annualDisplay": "14.4万–15.6万/年（按12薪推算）",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "12K-13K 公司官方 HotJob 校招岗位（伊利）；已读取完整职"
-      },
-      "salary": "12K-13K",
-      "monthlySalary": "1.2万–1.3万/月",
-      "annualSalary": "14.4万–15.6万/年（按12薪推算）",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "publishedAt": "2026-09-15",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-09-08"
-    },
-    {
       "id": "hotjob-47cd10518919",
       "company": "伊利",
       "title": "伊利2027届校招-电商培训生（冷饮北京）",
@@ -614,6 +524,96 @@
         "供应链",
         "沟通",
         "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "12K-13K",
+        "monthlyMin": 12000,
+        "monthlyMax": 13000,
+        "annualMin": 144000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.2万–1.3万/月",
+        "annualDisplay": "14.4万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "12K-13K 公司官方 HotJob 校招岗位（伊利）；已读取完整职"
+      },
+      "salary": "12K-13K",
+      "monthlySalary": "1.2万–1.3万/月",
+      "annualSalary": "14.4万–15.6万/年（按12薪推算）",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
+      "publishedAt": "2026-09-15",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-08"
+    },
+    {
+      "id": "hotjob-72f3d8e44179",
+      "company": "伊利",
+      "title": "伊利2027届校招-市场培训生（冷饮北京）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历；专业不限，市场营销、广告学、传播学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "基于公司未来的战略及业务发展需求，通过基层全方位历练、结合公司全维度专业/管理素质赋能等成长路径，培养成为该领域专业人士/管理人员。 1、协助直接上级制定品牌行销计划，规划促销活动，推动新品上市进程，达成产品年度目标；协助推进已有品牌改进专案的进行、协调各部门关系； 2、负责了解本竞品信息、消费者对产品的满意度与改进方向，从消费者需求、产品质量控制风险的角度对老品进行优化； 3、负责提出新品上市的调研需求，获取消费者体验感知信息，确认产品口味、包装方向； 4、基于品牌传播目标，提出整合营销项目需求，规划营销节点与方向。",
+      "jobRequirements": "1、硕士及以上学历，2027届毕业生，专业不限，市场营销、广告学、传播学等相关专业优先； 2、CET6及以上/雅思6.0及以上/托福60分及以上； 3、对市场营销充满热情，对新事物有好奇心且有较强的学习能力和统筹协调能力 简历接收周期：2026-09-08~2027-06-30",
+      "JD": "基于公司未来的战略及业务发展需求，通过基层全方位历练、结合公司全维度专业/管理素质赋能等成长路径，培养成为该领域专业人士/管理人员。 1、协助直接上级制定品牌行销计划，规划促销活动，推动新品上市进程，达成产品年度目标；协助推进已有品牌改进专案的进行、协调各部门关系； 2、负责了解本竞品信息、消费者对产品的满意度与改进方向，从消费者需求、产品质量控制风险的角度对老品进行优化； 3、负责提出新品上市的调研需求，获取消费者体验感知信息，确认产品口味、包装方向； 4、基于品牌传播目标，提出整合营销项目需求，规划营销节点与方向。\n1、硕士及以上学历，2027届毕业生，专业不限，市场营销、广告学、传播学等相关专业优先； 2、CET6及以上/雅思6.0及以上/托福60分及以上； 3、对市场营销充满热情，对新事物有好奇心且有较强的学习能力和统筹协调能力 简历接收周期：2026-09-08~2027-06-30",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "硕士及以上学历",
+          "专业不限，市场营销、广告学、传播学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届毕业生",
+          "简历接收周期：2026-09-08~2027-06-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销",
+        "品牌"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -1107,95 +1107,6 @@
       "deadline": "2027-09-24"
     },
     {
-      "id": "hotjob-2bec1d3b9c10",
-      "company": "伊利",
-      "title": "伊利2027届校招-销售培训生（婴幼儿浙北）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "专业不限，市场营销、工商管理、经济贸易等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "jobDescription": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。",
-      "jobRequirements": "1、2027届本科及以上学历毕业生； 2、专业不限，市场营销、工商管理、经济贸易等相关专业优先； 3、英语四级（425分以上）； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-21~2027-06-30",
-      "JD": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。\n1、2027届本科及以上学历毕业生； 2、专业不限，市场营销、工商管理、经济贸易等相关专业优先； 3、英语四级（425分以上）； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-21~2027-06-30",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "专业不限，市场营销、工商管理、经济贸易等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "2027届本科及以上学历毕业生",
-          "简历接收周期：2026-09-21~2027-06-30"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "6-8k/月",
-        "monthlyMin": 6000,
-        "monthlyMax": 8000,
-        "annualMin": 72000,
-        "annualMax": 96000,
-        "salaryMonths": 12,
-        "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "6k–8k/月",
-        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
-      },
-      "salary": "6-8k/月",
-      "monthlySalary": "6k–8k/月",
-      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "publishedAt": "2026-09-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-25"
-    },
-    {
       "id": "hotjob-62f01a4d9684",
       "company": "伊利",
       "title": "伊利2027届校招-销售专训生（成人营养品广东）",
@@ -1287,6 +1198,189 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-09-23"
+    },
+    {
+      "id": "hotjob-c94e990f1696",
+      "company": "伊利",
+      "title": "伊利2027届校招-销售培训生（成人营养品广东）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历要求：2027届应届毕业生，本科及以上学历；；专业要求：专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "基于公司未来的战略及业务发展需求，通过终端销售实践、渠道管理历练、区域轮岗、全维度管理素质赋能等途径，3-5年培养成为销售区域经理，5-8年培养成为销售领域核心管理人员。 岗位职责： 1、参与系统化业务培训，掌握行业、产品及渠道销售核心技能； 2、协助完成市场调研、竞品分析、终端拜访及促销活动执行； 3、配合销售团队维护经销商与终端客户关系，收集并反馈市场信息； 4、按计划完成阶段性销售目标与工作汇报； 5、积极参加集团及事业部组织的专业培训项目，深入学习企业文化与业务模式，建立战略级岗位认知体系，按期完成培训结果交付并反馈相关材料。",
+      "jobRequirements": "1、学历要求：2027届应届毕业生，本科及以上学历； 2、专业要求：专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平； 3、相关实习经历及技能要求：具有学生会社团干部经验、主导策划项目活动经验、快消企业销售经验或创业经验者优先；具备良好的沟通表达与公众演讲能力； 4、个人特征要求：成就动机强、竞争意识突出、外向自信、善于沟通、目标导向、吃苦耐劳、坚韧性强。 简历接收周期：2026-09-21~2027-06-30",
+      "JD": "基于公司未来的战略及业务发展需求，通过终端销售实践、渠道管理历练、区域轮岗、全维度管理素质赋能等途径，3-5年培养成为销售区域经理，5-8年培养成为销售领域核心管理人员。 岗位职责： 1、参与系统化业务培训，掌握行业、产品及渠道销售核心技能； 2、协助完成市场调研、竞品分析、终端拜访及促销活动执行； 3、配合销售团队维护经销商与终端客户关系，收集并反馈市场信息； 4、按计划完成阶段性销售目标与工作汇报； 5、积极参加集团及事业部组织的专业培训项目，深入学习企业文化与业务模式，建立战略级岗位认知体系，按期完成培训结果交付并反馈相关材料。\n1、学历要求：2027届应届毕业生，本科及以上学历； 2、专业要求：专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平； 3、相关实习经历及技能要求：具有学生会社团干部经验、主导策划项目活动经验、快消企业销售经验或创业经验者优先；具备良好的沟通表达与公众演讲能力； 4、个人特征要求：成就动机强、竞争意识突出、外向自信、善于沟通、目标导向、吃苦耐劳、坚韧性强。 简历接收周期：2026-09-21~2027-06-30",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历要求：2027届应届毕业生，本科及以上学历；",
+          "专业要求：专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平；"
+        ],
+        "eligibilityClauses": [
+          "2027届应届毕业生，本科及以上学历；",
+          "简历接收周期：2026-09-21~2027-06-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "营销",
+        "客户",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6-8k/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
+      },
+      "salary": "6-8k/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-25"
+    },
+    {
+      "id": "hotjob-2bec1d3b9c10",
+      "company": "伊利",
+      "title": "伊利2027届校招-销售培训生（婴幼儿浙北）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "专业不限，市场营销、工商管理、经济贸易等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。",
+      "jobRequirements": "1、2027届本科及以上学历毕业生； 2、专业不限，市场营销、工商管理、经济贸易等相关专业优先； 3、英语四级（425分以上）； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-21~2027-06-30",
+      "JD": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。\n1、2027届本科及以上学历毕业生； 2、专业不限，市场营销、工商管理、经济贸易等相关专业优先； 3、英语四级（425分以上）； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-21~2027-06-30",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业不限，市场营销、工商管理、经济贸易等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历毕业生",
+          "简历接收周期：2026-09-21~2027-06-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6-8k/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
+      },
+      "salary": "6-8k/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-25"
     },
     {
       "id": "hotjob-c3e856f28e20",
@@ -1416,100 +1510,6 @@
         "eligibilityClauses": [
           "2027届应届毕业生，本科及以上学历；",
           "简历接收周期：2026-09-23~2027-07-10"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "营销",
-        "客户",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "纯销售"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "6-8k/月",
-        "monthlyMin": 6000,
-        "monthlyMax": 8000,
-        "annualMin": 72000,
-        "annualMax": 96000,
-        "salaryMonths": 12,
-        "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "6k–8k/月",
-        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
-      },
-      "salary": "6-8k/月",
-      "monthlySalary": "6k–8k/月",
-      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "publishedAt": "2026-09-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-09-25"
-    },
-    {
-      "id": "hotjob-c94e990f1696",
-      "company": "伊利",
-      "title": "伊利2027届校招-销售培训生（成人营养品广东）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "学历要求：2027届应届毕业生，本科及以上学历；；专业要求：专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "基于公司未来的战略及业务发展需求，通过终端销售实践、渠道管理历练、区域轮岗、全维度管理素质赋能等途径，3-5年培养成为销售区域经理，5-8年培养成为销售领域核心管理人员。 岗位职责： 1、参与系统化业务培训，掌握行业、产品及渠道销售核心技能； 2、协助完成市场调研、竞品分析、终端拜访及促销活动执行； 3、配合销售团队维护经销商与终端客户关系，收集并反馈市场信息； 4、按计划完成阶段性销售目标与工作汇报； 5、积极参加集团及事业部组织的专业培训项目，深入学习企业文化与业务模式，建立战略级岗位认知体系，按期完成培训结果交付并反馈相关材料。",
-      "jobRequirements": "1、学历要求：2027届应届毕业生，本科及以上学历； 2、专业要求：专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平； 3、相关实习经历及技能要求：具有学生会社团干部经验、主导策划项目活动经验、快消企业销售经验或创业经验者优先；具备良好的沟通表达与公众演讲能力； 4、个人特征要求：成就动机强、竞争意识突出、外向自信、善于沟通、目标导向、吃苦耐劳、坚韧性强。 简历接收周期：2026-09-21~2027-06-30",
-      "JD": "基于公司未来的战略及业务发展需求，通过终端销售实践、渠道管理历练、区域轮岗、全维度管理素质赋能等途径，3-5年培养成为销售区域经理，5-8年培养成为销售领域核心管理人员。 岗位职责： 1、参与系统化业务培训，掌握行业、产品及渠道销售核心技能； 2、协助完成市场调研、竞品分析、终端拜访及促销活动执行； 3、配合销售团队维护经销商与终端客户关系，收集并反馈市场信息； 4、按计划完成阶段性销售目标与工作汇报； 5、积极参加集团及事业部组织的专业培训项目，深入学习企业文化与业务模式，建立战略级岗位认知体系，按期完成培训结果交付并反馈相关材料。\n1、学历要求：2027届应届毕业生，本科及以上学历； 2、专业要求：专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平； 3、相关实习经历及技能要求：具有学生会社团干部经验、主导策划项目活动经验、快消企业销售经验或创业经验者优先；具备良好的沟通表达与公众演讲能力； 4、个人特征要求：成就动机强、竞争意识突出、外向自信、善于沟通、目标导向、吃苦耐劳、坚韧性强。 简历接收周期：2026-09-21~2027-06-30",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历要求：2027届应届毕业生，本科及以上学历；",
-          "专业要求：专业不限，市场营销、工商管理、数字化等相关专业优先，英语四级及以上水平；"
-        ],
-        "eligibilityClauses": [
-          "2027届应届毕业生，本科及以上学历；",
-          "简历接收周期：2026-09-21~2027-06-30"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1943,186 +1943,6 @@
       "deadline": "2026-09-25"
     },
     {
-      "id": "hotjob-57444ed4ecac",
-      "company": "伊利",
-      "title": "伊利2027届校招-销售专训生（奶酪上海）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届毕业本科及以上学历；专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。",
-      "jobRequirements": "1、2027届毕业本科及以上学历； 2、英语四级（425分以上）； 3、专业不限； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-22~2027-06-30",
-      "JD": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。\n1、2027届毕业本科及以上学历； 2、英语四级（425分以上）； 3、专业不限； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-22~2027-06-30",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "2027届毕业本科及以上学历",
-          "专业不限"
-        ],
-        "eligibilityClauses": [
-          "2027届毕业本科及以上学历",
-          "简历接收周期：2026-09-22~2027-06-30"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "客户关系"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "6-8k/月",
-        "monthlyMin": 6000,
-        "monthlyMax": 8000,
-        "annualMin": 72000,
-        "annualMax": 96000,
-        "salaryMonths": 12,
-        "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "6k–8k/月",
-        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
-      },
-      "salary": "6-8k/月",
-      "monthlySalary": "6k–8k/月",
-      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "publishedAt": "2026-09-22",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-09-22"
-    },
-    {
-      "id": "hotjob-6a2f74f1de4a",
-      "company": "伊利",
-      "title": "伊利2027届校招-销售专训生（奶酪B2C湖北）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2027届毕业本科及以上学历；专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "武汉",
-      "jobDescription": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。",
-      "jobRequirements": "1、2027届毕业本科及以上学历； 2、英语四级（425分以上）； 3、专业不限； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-22~2027-06-10",
-      "JD": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。\n1、2027届毕业本科及以上学历； 2、英语四级（425分以上）； 3、专业不限； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-22~2027-06-10",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [
-          "2027届毕业本科及以上学历",
-          "专业不限"
-        ],
-        "eligibilityClauses": [
-          "2027届毕业本科及以上学历",
-          "简历接收周期：2026-09-22~2027-06-10"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "6-8k/月",
-        "monthlyMin": 6000,
-        "monthlyMax": 8000,
-        "annualMin": 72000,
-        "annualMax": 96000,
-        "salaryMonths": 12,
-        "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "6k–8k/月",
-        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
-      },
-      "salary": "6-8k/月",
-      "monthlySalary": "6k–8k/月",
-      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
-      "publishedAt": "2026-09-22",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-09-22"
-    },
-    {
       "id": "hotjob-f366bb7537a9",
       "company": "伊利",
       "title": "伊利2027届校招-销售专训生（奶酪B2B湖南）",
@@ -2212,9 +2032,9 @@
       "deadline": "2027-09-22"
     },
     {
-      "id": "hotjob-9349b34c4bb6",
+      "id": "hotjob-57444ed4ecac",
       "company": "伊利",
-      "title": "伊利2027届校招-渠道培训生（婴幼儿+销售部）",
+      "title": "伊利2027届校招-销售专训生（奶酪上海）",
       "graduationYear": [
         "2027"
       ],
@@ -2224,7 +2044,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "2027届本科及以上学历毕业生；专业不限；",
+        "raw": "2027届毕业本科及以上学历；专业不限",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -2233,22 +2053,23 @@
         "english": true,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "jobDescription": "1. 负责系统联名合作项目全周期运营管理，依据项目章程推动各营销总部协同执行并呈现成果； 2. 跟进联名系统业绩目标及基础特权日常达成进度；规划超级品牌月、赋能特权活动资源分配并追踪落地； 3. 统筹营销费用管理，完成赠品等物料采购（下单、虚拟出入库）及费用核销； 4. 梳理定制化产品经营现状，推动其在联名系统有效落地，保障项目高效运转。",
-      "jobRequirements": "1.2027届本科及以上学历毕业生；专业不限； 2.通过大学英语四级（425分以上）； 3.有学生会、社团管理工作经验及组织策划大型活动经验者优先； 4.统筹跨部门资源、沟通高效、积极进取、抗压性强； 简历接收周期：2026-09-22~2027-07-31",
-      "JD": "1. 负责系统联名合作项目全周期运营管理，依据项目章程推动各营销总部协同执行并呈现成果； 2. 跟进联名系统业绩目标及基础特权日常达成进度；规划超级品牌月、赋能特权活动资源分配并追踪落地； 3. 统筹营销费用管理，完成赠品等物料采购（下单、虚拟出入库）及费用核销； 4. 梳理定制化产品经营现状，推动其在联名系统有效落地，保障项目高效运转。\n1.2027届本科及以上学历毕业生；专业不限； 2.通过大学英语四级（425分以上）； 3.有学生会、社团管理工作经验及组织策划大型活动经验者优先； 4.统筹跨部门资源、沟通高效、积极进取、抗压性强； 简历接收周期：2026-09-22~2027-07-31",
+      "location": "上海",
+      "jobDescription": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。",
+      "jobRequirements": "1、2027届毕业本科及以上学历； 2、英语四级（425分以上）； 3、专业不限； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-22~2027-06-30",
+      "JD": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。\n1、2027届毕业本科及以上学历； 2、英语四级（425分以上）； 3、专业不限； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-22~2027-06-30",
       "jdEvidence": {
         "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
         "majorClauses": [
-          "2027届本科及以上学历毕业生；专业不限；"
+          "2027届毕业本科及以上学历",
+          "专业不限"
         ],
         "eligibilityClauses": [
-          "2027届本科及以上学历毕业生",
-          "简历接收周期：2026-09-22~2027-07-31"
+          "2027届毕业本科及以上学历",
+          "简历接收周期：2026-09-22~2027-06-30"
         ],
         "technicalDuties": [],
         "businessDuties": [
-          "资料/流程"
+          "客户关系"
         ]
       },
       "roleFamily": [
@@ -2259,16 +2080,11 @@
       ],
       "experienceKeywords": [
         "运营",
-        "项目",
-        "市场",
         "营销",
-        "品牌",
-        "沟通"
+        "客户"
       ],
       "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
+      "riskTags": [],
       "headcount": {
         "disclosed": false,
         "raw": "",
@@ -2282,29 +2098,29 @@
       },
       "compensation": {
         "disclosed": true,
-        "raw": "10-15k/月",
-        "monthlyMin": 10000,
-        "monthlyMax": 15000,
-        "annualMin": 120000,
-        "annualMax": 180000,
+        "raw": "6-8k/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
         "salaryMonths": 12,
         "monthlyEstimated": false,
         "annualEstimated": true,
-        "monthlyDisplay": "1万–1.5万/月",
-        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "10-15k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
+        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
       },
-      "salary": "10-15k/月",
-      "monthlySalary": "1万–1.5万/月",
-      "annualSalary": "12万–18万/年（按12薪推算）",
+      "salary": "6-8k/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
       "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-09-25"
+      "deadline": "2027-09-22"
     },
     {
       "id": "hotjob-f837994feffd",
@@ -3138,6 +2954,95 @@
       "deadline": "2027-09-22"
     },
     {
+      "id": "hotjob-6a2f74f1de4a",
+      "company": "伊利",
+      "title": "伊利2027届校招-销售专训生（奶酪B2C湖北）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届毕业本科及以上学历；专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "武汉",
+      "jobDescription": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。",
+      "jobRequirements": "1、2027届毕业本科及以上学历； 2、英语四级（425分以上）； 3、专业不限； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-22~2027-06-10",
+      "JD": "通过深入参与卖场业务运营、新兴渠道模式探索及经销商管理工作，快速成长为具有结构化销售管理思维、能独立管理大客户及操盘城市销售运营的管理者，并为未来成为营销领域的核心管理人才做好准备。\n1、2027届毕业本科及以上学历； 2、英语四级（425分以上）； 3、专业不限； 4、有学生会、社团组织管理工作经验及销售相关岗位实习经验优先。 简历接收周期：2026-09-22~2027-06-10",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "2027届毕业本科及以上学历",
+          "专业不限"
+        ],
+        "eligibilityClauses": [
+          "2027届毕业本科及以上学历",
+          "简历接收周期：2026-09-22~2027-06-10"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6-8k/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6-8k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
+      },
+      "salary": "6-8k/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
+      "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-22"
+    },
+    {
       "id": "hotjob-634c3931ee08",
       "company": "伊利",
       "title": "伊利2027届校招-销售专训生（奶酪浙江）",
@@ -3395,6 +3300,101 @@
       "salary": "6-8k/月",
       "monthlySalary": "6k–8k/月",
       "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
+      "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-09-25"
+    },
+    {
+      "id": "hotjob-9349b34c4bb6",
+      "company": "伊利",
+      "title": "伊利2027届校招-渠道培训生（婴幼儿+销售部）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届本科及以上学历毕业生；专业不限；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 负责系统联名合作项目全周期运营管理，依据项目章程推动各营销总部协同执行并呈现成果； 2. 跟进联名系统业绩目标及基础特权日常达成进度；规划超级品牌月、赋能特权活动资源分配并追踪落地； 3. 统筹营销费用管理，完成赠品等物料采购（下单、虚拟出入库）及费用核销； 4. 梳理定制化产品经营现状，推动其在联名系统有效落地，保障项目高效运转。",
+      "jobRequirements": "1.2027届本科及以上学历毕业生；专业不限； 2.通过大学英语四级（425分以上）； 3.有学生会、社团管理工作经验及组织策划大型活动经验者优先； 4.统筹跨部门资源、沟通高效、积极进取、抗压性强； 简历接收周期：2026-09-22~2027-07-31",
+      "JD": "1. 负责系统联名合作项目全周期运营管理，依据项目章程推动各营销总部协同执行并呈现成果； 2. 跟进联名系统业绩目标及基础特权日常达成进度；规划超级品牌月、赋能特权活动资源分配并追踪落地； 3. 统筹营销费用管理，完成赠品等物料采购（下单、虚拟出入库）及费用核销； 4. 梳理定制化产品经营现状，推动其在联名系统有效落地，保障项目高效运转。\n1.2027届本科及以上学历毕业生；专业不限； 2.通过大学英语四级（425分以上）； 3.有学生会、社团管理工作经验及组织策划大型活动经验者优先； 4.统筹跨部门资源、沟通高效、积极进取、抗压性强； 简历接收周期：2026-09-22~2027-07-31",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "2027届本科及以上学历毕业生；专业不限；"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历毕业生",
+          "简历接收周期：2026-09-22~2027-07-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "营销",
+        "品牌",
+        "沟通"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10-15k/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10-15k/月 公司官方 HotJob 校招岗位（伊利）；已读取完"
+      },
+      "salary": "10-15k/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://yili.hotjob.cn/wt/yili/web/index/CompyiliPageindex_campus",
       "publishedAt": "2026-09-22",
