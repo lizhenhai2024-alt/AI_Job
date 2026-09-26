@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T13:05:34.884Z",
+  "updatedAt": "2026-09-26T13:52:00.322Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -979,8 +979,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2096846038697164802",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-26T00:49:50.417Z",
-      "nextCheckAfter": "2026-09-27T00:49:50.421Z"
+      "lastCheckedAt": "2026-09-26T13:52:00.322Z",
+      "nextCheckAfter": "2026-09-27T13:52:00.326Z"
     },
     "广州地铁": {
       "name": "广州地铁集团有限公司",
@@ -1783,7 +1783,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2095333599614771202",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-26T00:49:50.417Z",
+      "lastCheckedAt": "2026-09-26T13:52:00.322Z",
       "nextCheckAfter": ""
     },
     "北方华创": {
@@ -2469,7 +2469,7 @@
         "sourceUrl": "http://jiuye.xisu.edu.cn/detail/career?id=719242",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-25T00:43:04.728Z",
+      "lastCheckedAt": "2026-09-26T13:52:00.322Z",
       "nextCheckAfter": ""
     },
     "移动通信广东汕尾分公司": {
@@ -2484,8 +2484,8 @@
         "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11168",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-09-24T18:59:13.111Z",
-      "nextCheckAfter": "2026-09-25T18:59:13.126Z"
+      "lastCheckedAt": "2026-09-26T13:52:00.322Z",
+      "nextCheckAfter": "2026-09-27T13:52:00.327Z"
     }
   },
   "lastRun": {
@@ -2496,10 +2496,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 2,
+    "candidates": 8,
     "sourcesAdded": 0,
     "sourcesRepaired": 0,
-    "queued": 1,
-    "updatedAt": "2026-09-26T00:49:50.417Z"
+    "queued": 6,
+    "updatedAt": "2026-09-26T13:52:00.322Z"
   }
 }

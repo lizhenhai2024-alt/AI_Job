@@ -1,8 +1,97 @@
 {
   "company": "日丰企业集团有限公司",
-  "count": 5,
-  "updatedAt": "2026-09-26T00:49:53.340Z",
+  "count": 6,
+  "updatedAt": "2026-09-26T13:52:02.769Z",
   "jobs": [
+    {
+      "id": "university-d9d534daa2a9a5",
+      "company": "日丰企业集团有限公司",
+      "title": "宣讲单位：日丰企业集团有限公司 工商查询",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "佛山",
+      "jobDescription": "西安外国语大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "西安外国语大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销",
+        "内容运营",
+        "HR",
+        "市场"
+      ],
+      "skills": [
+        "英语",
+        "Excel",
+        "数据分析",
+        "文案"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "西安外国语大学就业信息网",
+      "officialURL": "http://jiuye.xisu.edu.cn/detail/career?id=719242",
+      "publishedAt": "2026-10-14",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": ""
+    },
     {
       "id": "beisen-f15dab326662",
       "company": "日丰企业集团有限公司",
