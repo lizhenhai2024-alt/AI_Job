@@ -778,7 +778,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://shantui.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-27T00:38:51.815Z",
+    "lastCheckedAt": "2026-09-27T14:50:16.915Z",
     "nextCheckAfter": ""
   },
   {
@@ -998,8 +998,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://career.cmbchina.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 career.cmbchina.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-09-27T00:38:51.815Z",
-    "nextCheckAfter": "2026-09-28T00:38:51.819Z"
+    "lastCheckedAt": "2026-09-27T14:50:16.915Z",
+    "nextCheckAfter": "2026-09-28T14:50:16.918Z"
   },
   {
     "name": "招商银行股份有限公司长沙分行",
@@ -1345,7 +1345,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-27T13:58:22.486Z",
+  "updatedAt": "2026-09-27T14:50:16.915Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
