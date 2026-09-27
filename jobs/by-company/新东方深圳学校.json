@@ -1,7 +1,7 @@
 {
   "company": "新东方深圳学校",
-  "count": 434,
-  "updatedAt": "2026-09-27T14:50:19.862Z",
+  "count": 461,
+  "updatedAt": "2026-09-27T19:02:50.619Z",
   "jobs": [
     {
       "id": "beisen-123667d26f64",
@@ -706,6 +706,99 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=b80812ab-2386-4fd9-8641-b621c048c845",
       "publishedAt": "2026-06-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-252d973ba68a",
+      "company": "新东方深圳学校",
+      "title": "西安-运营管培生-27校招(J67219)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "jobDescription": "1、参与1年定制化运营管培生培养计划，在导师带教下轮岗学习运营核心业务模块（教学运营、学员服务、市场推广等）； 2、参与运营数据分析与项目执行，完成各阶段培养任务与考核； 3、跟踪运营指标与学员反馈，输出分析报告并提出改进建议； 4、培养期内服从培训、轮岗与考核的统一安排，结业参加竞聘，优先竞聘运营储备管理岗；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、学习能力强，适应能力与抗压能力强，能接受轮岗带来的工作内容与节奏变化； 3、沟通协调能力好，执行力强，具备团队协作精神； 4、认同新东方企业文化，愿意长期深耕教育行业； 【优先条件】 1、有学生干部或大型活动组织经验； 2、有教育行业实习经历。 【薪酬与培养】 薪酬：综合8-15k/月，月度保底8k；培养：1年定制化培养，结业优先竞聘运营储备管理岗。",
+      "JD": "1、参与1年定制化运营管培生培养计划，在导师带教下轮岗学习运营核心业务模块（教学运营、学员服务、市场推广等）； 2、参与运营数据分析与项目执行，完成各阶段培养任务与考核； 3、跟踪运营指标与学员反馈，输出分析报告并提出改进建议； 4、培养期内服从培训、轮岗与考核的统一安排，结业参加竞聘，优先竞聘运营储备管理岗；\n1、本科及以上学历，专业不限； 2、学习能力强，适应能力与抗压能力强，能接受轮岗带来的工作内容与节奏变化； 3、沟通协调能力好，执行力强，具备团队协作精神； 4、认同新东方企业文化，愿意长期深耕教育行业； 【优先条件】 1、有学生干部或大型活动组织经验； 2、有教育行业实习经历。 【薪酬与培养】 薪酬：综合8-15k/月，月度保底8k；培养：1年定制化培养，结业优先竞聘运营储备管理岗。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "15",
+        "min": 15,
+        "max": 15,
+        "scope": "job",
+        "display": "15人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15 15 1、参与1年定制化运营管培生培养计划，在导师带教下轮岗学习运营核心业务模块（教学"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-13K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 13000,
+        "annualMin": 96000,
+        "annualMax": 156000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.3万/月",
+        "annualDisplay": "9.6万–15.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-13K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "8K-13K 元/月",
+      "monthlySalary": "8k–1.3万/月",
+      "annualSalary": "9.6万–15.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=f34e3d89-265a-4e4b-96c7-015c8effcded",
+      "publishedAt": "2026-09-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1771,6 +1864,184 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=b450ebde-b297-4a78-8f75-198d5cd88a3e",
       "publishedAt": "2026-07-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-38125a0f35b7",
+      "company": "新东方深圳学校",
+      "title": "重庆-新媒体运营-27校招(J67242)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，提升用户活跃度与转化率； 3、完成图文、视频等内容创作与发布，打造品牌影响力； 4、监控并分析转化数据，持续优化运营策略；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、熟悉微信、抖音、B站等新媒体平台运营玩法； 3、具备优秀的文案功底与内容创作能力； 4、数据敏感度高，熟练使用Office办公软件； 【优先条件】 1、有新媒体账号运营或爆款内容案例； 2、有教育行业线上运营实习经验。",
+      "JD": "1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，提升用户活跃度与转化率； 3、完成图文、视频等内容创作与发布，打造品牌影响力； 4、监控并分析转化数据，持续优化运营策略；\n1、本科及以上学历，专业不限； 2、熟悉微信、抖音、B站等新媒体平台运营玩法； 3、具备优秀的文案功底与内容创作能力； 4、数据敏感度高，熟练使用Office办公软件； 【优先条件】 1、有新媒体账号运营或爆款内容案例； 2、有教育行业线上运营实习经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "内容运营"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；识别关键词：文案。投递前"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=12f9bbf4-ce28-4cd3-8607-c4a7c6872df7",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-62ff9aa31d37",
+      "company": "新东方深圳学校",
+      "title": "重庆-市场专员-27校招(J67236)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动，提升品牌知名度与影响力； 3、负责品牌推广与物料管理，保障活动落地执行； 4、收集市场线索并支持转化，助力业务获客目标；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通协调能力强，执行力强； 3、吃苦耐劳，抗压能力强，能适应市场活动执行节奏； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有校园社团或学生会组织经验； 2、有市场推广或活动执行实习经验。",
+      "JD": "1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动，提升品牌知名度与影响力； 3、负责品牌推广与物料管理，保障活动落地执行； 4、收集市场线索并支持转化，助力业务获客目标；\n1、本科及以上学历，专业不限； 2、沟通协调能力强，执行力强； 3、吃苦耐劳，抗压能力强，能适应市场活动执行节奏； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有校园社团或学生会组织经验； 2、有市场推广或活动执行实习经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "产品营销",
+        "市场"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=4971aaff-24ef-4d8f-a5e4-421689157f90",
+      "publishedAt": "2026-09-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -2975,6 +3246,184 @@
       "deadline": ""
     },
     {
+      "id": "beisen-0563d8bebdc8",
+      "company": "新东方深圳学校",
+      "title": "上海-线上运营-27校招(J67230)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，提升用户活跃度与转化率； 3、完成图文、视频等内容创作与发布，打造品牌影响力； 4、监控并分析转化数据，持续优化运营策略；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、熟悉微信、抖音、B站等新媒体平台运营玩法； 3、具备优秀的文案功底与内容创作能力； 4、数据敏感度高，熟练使用Office办公软件； 【优先条件】 1、有新媒体账号运营或爆款内容案例； 2、有教育行业线上运营实习经验。",
+      "JD": "1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，提升用户活跃度与转化率； 3、完成图文、视频等内容创作与发布，打造品牌影响力； 4、监控并分析转化数据，持续优化运营策略；\n1、本科及以上学历，专业不限； 2、熟悉微信、抖音、B站等新媒体平台运营玩法； 3、具备优秀的文案功底与内容创作能力； 4、数据敏感度高，熟练使用Office办公软件； 【优先条件】 1、有新媒体账号运营或爆款内容案例； 2、有教育行业线上运营实习经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；识别关键词：文案。投递前"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=aaf16d71-ee99-45f3-b4b8-bd47e99987fe",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-da51a468d863",
+      "company": "新东方深圳学校",
+      "title": "重庆-市场营销专员-27校招(J67243)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动，提升品牌知名度与影响力； 3、负责品牌推广与物料管理，保障活动落地执行； 4、收集市场线索并支持转化，助力业务获客目标；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通协调能力强，执行力强； 3、吃苦耐劳，抗压能力强，能适应市场活动执行节奏； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有校园社团或学生会组织经验； 2、有市场推广或活动执行实习经验。",
+      "JD": "1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动，提升品牌知名度与影响力； 3、负责品牌推广与物料管理，保障活动落地执行； 4、收集市场线索并支持转化，助力业务获客目标；\n1、本科及以上学历，专业不限； 2、沟通协调能力强，执行力强； 3、吃苦耐劳，抗压能力强，能适应市场活动执行节奏； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有校园社团或学生会组织经验； 2、有市场推广或活动执行实习经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=653403c2-d2d4-4a57-b980-cea190f4baef",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-516495b73573",
       "company": "新东方深圳学校",
       "title": "27届提前批-门店运营培训生(J61023)",
@@ -3327,6 +3776,271 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=57642ba1-9cc7-40f1-9fa2-d57790027e55",
       "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2505ccec4ac4",
+      "company": "新东方深圳学校",
+      "title": "南宁-专升本线上运营-27校招(J67211)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广西壮族自治区·南宁市",
+      "jobDescription": "1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，提升用户活跃度与转化率； 3、完成图文、视频等内容创作与发布，打造品牌影响力； 4、监控并分析转化数据，持续优化运营策略；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、熟悉微信、抖音、B站等新媒体平台运营玩法； 3、具备优秀的文案功底与内容创作能力； 4、数据敏感度高，熟练使用Office办公软件； 【优先条件】 1、有新媒体账号运营或爆款内容案例； 2、有教育行业线上运营实习经验。",
+      "JD": "1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，提升用户活跃度与转化率； 3、完成图文、视频等内容创作与发布，打造品牌影响力； 4、监控并分析转化数据，持续优化运营策略；\n1、本科及以上学历，专业不限； 2、熟悉微信、抖音、B站等新媒体平台运营玩法； 3、具备优秀的文案功底与内容创作能力； 4、数据敏感度高，熟练使用Office办公软件； 【优先条件】 1、有新媒体账号运营或爆款内容案例； 2、有教育行业线上运营实习经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；识别关键词：文案。投递前"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=c6140dd7-5e18-4533-9113-3283c4689b2b",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-690e149888b2",
+      "company": "新东方深圳学校",
+      "title": "呼和浩特-市场-27校招(J67221)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "jobDescription": "1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动，提升品牌知名度与影响力； 3、负责品牌推广与物料管理，保障活动落地执行； 4、收集市场线索并支持转化，助力业务获客目标；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通协调能力强，执行力强； 3、吃苦耐劳，抗压能力强，能适应市场活动执行节奏； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有校园社团或学生会组织经验； 2、有市场推广或活动执行实习经验。",
+      "JD": "1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动，提升品牌知名度与影响力； 3、负责品牌推广与物料管理，保障活动落地执行； 4、收集市场线索并支持转化，助力业务获客目标；\n1、本科及以上学历，专业不限； 2、沟通协调能力强，执行力强； 3、吃苦耐劳，抗压能力强，能适应市场活动执行节奏； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有校园社团或学生会组织经验； 2、有市场推广或活动执行实习经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责校园渠道的开拓与维护，建立并维护高校合作关系； 2、策划并执行市场推广活动"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=c6390849-0bb0-43a4-bd82-dc2ba9d23e46",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c8afe8bd2fc5",
+      "company": "新东方深圳学校",
+      "title": "上海-四六级顾问-27校招(J67232)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "JD": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；\n1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=6c7532e8-f3fe-4f81-85b1-838880092cc9",
+      "publishedAt": "2026-09-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -4380,6 +5094,180 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=72d84a48-00de-455c-b88e-f863356379bd",
       "publishedAt": "2026-07-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a3933ccfc405",
+      "company": "新东方深圳学校",
+      "title": "上海-考研顾问-27校招(J67231)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "JD": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；\n1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=b9a73d19-5dc7-4470-9082-54a18f23cad0",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1e78eabaa8be",
+      "company": "新东方深圳学校",
+      "title": "重庆-四六级学习顾问-27校招(J67241)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "JD": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；\n1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=57a3c521-8055-461f-a71e-66a278ce0fbb",
+      "publishedAt": "2026-09-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -7448,6 +8336,525 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=5b0249ce-ad91-4986-b5e3-c41bc1a10694",
       "publishedAt": "2026-07-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f53be60bf7de",
+      "company": "新东方深圳学校",
+      "title": "南宁-考研&专升本顾问-27校招(J67212)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广西壮族自治区·南宁市",
+      "jobDescription": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "JD": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；\n1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=f66f19b8-adca-404d-8166-3e3d9ca93dd2",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-060d5d05d7c9",
+      "company": "新东方深圳学校",
+      "title": "呼和浩特-网运-27校招(J67220)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "jobDescription": "1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，提升用户活跃度与转化率； 3、完成图文、视频等内容创作与发布，打造品牌影响力； 4、监控并分析转化数据，持续优化运营策略；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、熟悉微信、抖音、B站等新媒体平台运营玩法； 3、具备优秀的文案功底与内容创作能力； 4、数据敏感度高，熟练使用Office办公软件； 【优先条件】 1、有新媒体账号运营或爆款内容案例； 2、有教育行业线上运营实习经验。",
+      "JD": "1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，提升用户活跃度与转化率； 3、完成图文、视频等内容创作与发布，打造品牌影响力； 4、监控并分析转化数据，持续优化运营策略；\n1、本科及以上学历，专业不限； 2、熟悉微信、抖音、B站等新媒体平台运营玩法； 3、具备优秀的文案功底与内容创作能力； 4、数据敏感度高，熟练使用Office办公软件； 【优先条件】 1、有新媒体账号运营或爆款内容案例； 2、有教育行业线上运营实习经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责公众号、短视频等新媒体平台的内容策划与日常运营； 2、策划并执行线上活动，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；识别关键词：文案。投递前"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=4a0ffac7-dc0e-46aa-b3d8-68d27d7bb34c",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-046579f18315",
+      "company": "新东方深圳学校",
+      "title": "呼和浩特-顾问-27校招(J67222)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "jobDescription": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "JD": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；\n1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=6f0b51cd-d3dc-4ab3-8221-18dec1527286",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a277c0f5e11e",
+      "company": "新东方深圳学校",
+      "title": "重庆-走读-学习顾问-27校招(J67239)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "JD": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；\n1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=ba4bbe18-872b-450f-9db5-065696f870c6",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-10337b3f0003",
+      "company": "新东方深圳学校",
+      "title": "重庆-学习顾问-27校招(J67238)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "JD": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；\n1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=1de41fec-4a62-4f65-8194-5377d2646a98",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-82aa2ced6404",
+      "company": "新东方深圳学校",
+      "title": "重庆-考研集训营-学习顾问-27校招(J67240)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "JD": "1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完成课程销售签约，达成销售业绩目标； 3、配合市场活动的策划与执行，支持获客与转化； 4、维护学员关系，定期回访，提升学员满意度； 5、负责学员续费与转介绍，挖掘学员长期学习需求；\n1、本科及以上学历，专业不限； 2、沟通表达能力强，亲和力好，客户服务意识强； 3、目标感强，抗压能力强，执行力强； 4、热爱教育行业，认同新东方企业文化； 【优先条件】 1、有教育行业课程咨询或销售实习经验； 2、有成功签约或续费转介绍案例。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责学员到访接待与课程咨询，深入了解学员需求，定制个性化课程学习方案； 2、完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-20K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 20000,
+        "annualMin": 180000,
+        "annualMax": 240000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2万/月",
+        "annualDisplay": "18万–24万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-20K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-20K 元/月",
+      "monthlySalary": "1.5万–2万/月",
+      "annualSalary": "18万–24万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=2f4f1f58-1eb9-4544-b157-a2d95c1712a2",
+      "publishedAt": "2026-09-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -11509,6 +12916,285 @@
       "deadline": ""
     },
     {
+      "id": "beisen-63d42e476ddb",
+      "company": "新东方深圳学校",
+      "title": "北京-考研英语教师-27校招(J67216)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语相关专业（英语/翻译/学科教学）"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "JD": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=cae6dae3-5f79-4784-82ca-75432dda6bc4",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ce70b40406ee",
+      "company": "新东方深圳学校",
+      "title": "上海-四六级英语教师-27校招(J67227)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语相关专业（英语/翻译/学科教学）"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、承担四六级英语科目的班课、小班及一对一教学工作，结合四六级英语命题规律与考试特点，制定科学的教学计划； 2、深入研究四六级英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，六级高分者优先）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有四六级英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "JD": "1、承担四六级英语科目的班课、小班及一对一教学工作，结合四六级英语命题规律与考试特点，制定科学的教学计划； 2、深入研究四六级英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，六级高分者优先）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有四六级英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、承担四六级英语科目的班课、小班及一对一教学工作，结合四六级英语命题规律与考试特"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=46d7244e-ba0a-4aed-9448-d2699c5cdcb0",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-138f532b4218",
+      "company": "新东方深圳学校",
+      "title": "上海-考研英语教师-27校招(J67226)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语相关专业（英语/翻译/学科教学）"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "JD": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "4",
+        "min": 4,
+        "max": 4,
+        "scope": "job",
+        "display": "4人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4 4 1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=b57cfa7d-a836-49d6-b1aa-3b61cb455a65",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-47342e559619",
       "company": "新东方深圳学校",
       "title": "安徽国际—AP/A-Level教师(J37160)",
@@ -14189,6 +15875,641 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=0be922e2-16c8-45d3-a21a-3569089a5f92",
       "publishedAt": "2026-07-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-faa1e75fef44",
+      "company": "新东方深圳学校",
+      "title": "南宁-考研英语教师-27校招(J67209)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语相关专业（英语/翻译/学科教学）"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广西壮族自治区·南宁市",
+      "jobDescription": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "JD": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=c7cbc06c-587a-427b-b85e-8a0dbc68f989",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-125f4ddedde4",
+      "company": "新东方深圳学校",
+      "title": "北京-考研政治教师-27校招(J67217)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，政治学相关专业（政治学/思政/马理论）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "政治学相关专业（政治学/思政/马理论）"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，制定科学的教学计划； 2、深入研究考研政治考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，政治学相关专业（政治学/思政/马理论）； 2、政治理论功底扎实（考研政治70+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研政治教学或辅导经验； 2、有高校思政或党务工作经历。",
+      "JD": "1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，制定科学的教学计划； 2、深入研究考研政治考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，政治学相关专业（政治学/思政/马理论）； 2、政治理论功底扎实（考研政治70+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研政治教学或辅导经验； 2、有高校思政或党务工作经历。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士及以上学历，政治学相关专业（政治学/思政/马理论）"
+        ],
+        "eligibilityClauses": [
+          "27校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=7c197734-f750-4760-948f-c70f60aea584",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f952ddf885f2",
+      "company": "新东方深圳学校",
+      "title": "呼和浩特-考研英语教师-27校招(J67224)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语相关专业（英语/翻译/学科教学）"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "jobDescription": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "JD": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=faab1b8d-da5b-4f91-a148-b9fa8760fd8e",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c68675eb9d39",
+      "company": "新东方深圳学校",
+      "title": "上海-考研政治教师-27校招(J67228)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，政治学相关专业（政治学/思政/马理论）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "政治学相关专业（政治学/思政/马理论）"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，制定科学的教学计划； 2、深入研究考研政治考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，政治学相关专业（政治学/思政/马理论）； 2、政治理论功底扎实（考研政治70+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研政治教学或辅导经验； 2、有高校思政或党务工作经历。",
+      "JD": "1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，制定科学的教学计划； 2、深入研究考研政治考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，政治学相关专业（政治学/思政/马理论）； 2、政治理论功底扎实（考研政治70+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研政治教学或辅导经验； 2、有高校思政或党务工作经历。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士及以上学历，政治学相关专业（政治学/思政/马理论）"
+        ],
+        "eligibilityClauses": [
+          "上海-考研政治教师-27校招(J67228)"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=982df21a-28bf-4adc-988d-0ac547b673a3",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-2288e52e415d",
+      "company": "新东方深圳学校",
+      "title": "重庆-考研英语教师-27校招(J67246)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语相关专业（英语/翻译/学科教学）"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "JD": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=0ac4bc75-6841-4227-9bb8-f2d421288ca5",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0d42d40044e0",
+      "company": "新东方深圳学校",
+      "title": "重庆-考研英语口语教师-27校招(J67247)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语相关专业（英语/翻译/学科教学）"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、承担考研英语口语科目的班课、小班及一对一教学工作，结合考研英语口语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语口语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实，口语流利（专八或雅思7.5+者优先）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语口语教学或辅导经验； 2、有海外留学或交换经历。",
+      "JD": "1、承担考研英语口语科目的班课、小班及一对一教学工作，结合考研英语口语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语口语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实，口语流利（专八或雅思7.5+者优先）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语口语教学或辅导经验； 2、有海外留学或交换经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、承担考研英语口语科目的班课、小班及一对一教学工作，结合考研英语口语命题规律与考"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=8236869b-a8fb-4306-bf38-3b21295bab50",
+      "publishedAt": "2026-09-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b38991381781",
+      "company": "新东方深圳学校",
+      "title": "青岛-考研英语教师-27校招(J67248)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "英语相关专业（英语/翻译/学科教学）"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "JD": "1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，制定科学的教学计划； 2、深入研究考研英语考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）； 2、英语功底扎实（专八或雅思7.5+，考研英语一70+/英语二75+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研英语教学或辅导经验； 2、有海外留学或交换经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，英语相关专业（英语/翻译/学科教学）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、承担考研英语科目的班课、小班及一对一教学工作，结合考研英语命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=ece447aa-e12a-463b-9973-0eee560e8a36",
+      "publishedAt": "2026-09-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -27846,6 +30167,91 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=22294745-f958-4737-9ad5-4491e9a1d919",
       "publishedAt": "2026-06-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-013b4ca3fec4",
+      "company": "新东方深圳学校",
+      "title": "青岛-考研政治教师-27校招(J67250)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，政治学相关专业（政治学/思政/马理论）",
+        "hardRestriction": true,
+        "hardClauses": [
+          "政治学相关专业（政治学/思政/马理论）"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·青岛市",
+      "jobDescription": "1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，制定科学的教学计划； 2、深入研究考研政治考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；",
+      "jobRequirements": "1、硕士及以上学历，政治学相关专业（政治学/思政/马理论）； 2、政治理论功底扎实（考研政治70+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研政治教学或辅导经验； 2、有高校思政或党务工作经历。",
+      "JD": "1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，制定科学的教学计划； 2、深入研究考研政治考试大纲与历年真题，把握命题趋势，输出高质量的教研成果； 3、参与教研组讲义、教材、题库等教学资料的编写与更新； 4、定期参与磨课、试讲等教学研讨活动，持续优化授课方式与课堂效果； 5、负责学员课后答疑、作业批改与学习情况诊断，帮助学员达成目标分数；\n1、硕士及以上学历，政治学相关专业（政治学/思政/马理论）； 2、政治理论功底扎实（考研政治70+）； 3、热爱教育事业，表达能力强，逻辑清晰，富有感染力； 4、学习能力强，乐于钻研教学方法，具备团队合作精神； 5、工作认真负责，抗压能力强，认同新东方企业文化； 【优先条件】 1、有考研政治教学或辅导经验； 2、有高校思政或党务工作经历。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士及以上学历，政治学相关专业（政治学/思政/马理论）"
+        ],
+        "eligibilityClauses": [
+          "27校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、承担考研政治科目的班课、小班及一对一教学工作，结合考研政治命题规律与考试特点，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "20K-30K 元/月",
+        "monthlyMin": 20000,
+        "monthlyMax": 30000,
+        "annualMin": 240000,
+        "annualMax": 360000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "2万–3万/月",
+        "annualDisplay": "24万–36万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "20K-30K 元/月",
+      "monthlySalary": "2万–3万/月",
+      "annualSalary": "24万–36万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=3acd5315-7096-4d51-9386-d0312f8a7605",
+      "publishedAt": "2026-09-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
