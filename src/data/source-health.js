@@ -867,7 +867,7 @@ export const sourceHealth = {
       "company": "宁德新能源科技有限公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出75，源内保留75"
+      "reason": "HotJob源正常：列出40，源内保留40"
     },
     {
       "provider": "hotjob",
@@ -909,7 +909,7 @@ export const sourceHealth = {
       "company": "TCL华星光电",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出400，源内保留146"
+      "reason": "HotJob源正常：列出392，源内保留146"
     },
     {
       "provider": "hotjob",
@@ -935,9 +935,9 @@ export const sourceHealth = {
     {
       "provider": "alibaba",
       "company": "阿里巴巴",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量466，源内保留465"
     },
     {
       "provider": "tencent",
@@ -951,14 +951,14 @@ export const sourceHealth = {
       "company": "字节跳动",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量1000，源内保留209"
+      "reason": "官方源正常：本轮活动量1000，源内保留222"
     },
     {
       "provider": "meituan",
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量194，源内保留194"
+      "reason": "官方源正常：本轮活动量194，源内保留192"
     },
     {
       "provider": "lenovo",
@@ -1005,9 +1005,9 @@ export const sourceHealth = {
     {
       "provider": "xiaohongshu",
       "company": "小红书",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量171，源内保留170"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "ctrip",
@@ -1131,9 +1131,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "南开大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量31，源内保留6"
     },
     {
       "provider": "university",
@@ -1159,9 +1159,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "西安外国语大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量28，源内保留2"
     },
     {
       "provider": "university",
@@ -1473,13 +1473,13 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 144,
+    "healthy": 146,
     "empty": 7,
-    "error": 10,
+    "error": 8,
     "unknown": 49
   },
   "total": 210,
-  "healthy": 144,
-  "attention": 66,
-  "updatedAt": "2026-09-26T18:19:40.292Z"
+  "healthy": 146,
+  "attention": 64,
+  "updatedAt": "2026-09-27T00:38:50.975Z"
 };

@@ -34459,5 +34459,30 @@
   "eligibilityClauses": [],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "bytedance-0a9726e71ced:94eab3bfbc122163:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历；"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历；"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-dbaae8f1d2b4:c45bd7d37189e3b3:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [
+   "模型/算法",
+   "开发实现"
+  ],
+  "businessDuties": []
  }
 }
