@@ -220,6 +220,13 @@
       "graduationYear": "2027",
       "strictCohort": true,
       "monitoringNote": "高校就业网自动发现：南开大学；岗位级继续要求2027届证据；已纠正高校页面章节标题误识别，官方入口归属东风汽车集团有限公司"
+    },
+    {
+      "company": "兆易创新",
+      "url": "https://app.mokahr.com/campus-recruitment/gigadevice/92215",
+      "baseUrl": "https://app.mokahr.com",
+      "graduationYear": "2027",
+      "monitoringNote": "V5日报补充；Moka标准域 92215；门户热招默认展示2026春招，列表需按2027届过滤"
     }
   ],
   "beisen": [
@@ -582,6 +589,12 @@
       "baseUrl": "https://rifengdz.zhiye.com",
       "graduationYear": "2027",
       "monitoringNote": "高校就业网自动发现：西安外国语大学；后续由source health验证标准北森抓取"
+    },
+    {
+      "company": "优艾智合",
+      "baseUrl": "https://youibot1.zhiye.com",
+      "graduationYear": "2027",
+      "monitoringNote": "V5日报补充；2026-09-28探测校园招聘列表页可用（北森zhiye标准门户）"
     }
   ],
   "feishu": [
@@ -873,6 +886,14 @@
       "trustCohort2027": true,
       "projectEvidence": "歌尔股份2027届校园招聘（精英计划/歌尔之翼）",
       "monitoringNote": "歌尔股份官方HotJob自定义域名(goertek.hotjob.cn，SU63c50f8b0dcad47488052192)；2027届校招57岗，岗位名均带2027届前缀(projectId=106201)；web_fetch服务端验证可达，本机Node fetch TLS不稳定；多所高校就业网2026-09已发布2027届简章"
+    },
+    {
+      "company": "昂立教育",
+      "baseUrl": "https://wecruit.hotjob.cn",
+      "tenant": "63f380adbef57c71d9fd1735",
+      "url": "https://wecruit.hotjob.cn/SU63f380adbef57c71d9fd1735/mc/index",
+      "graduationYear": "2027",
+      "monitoringNote": "V5日报补充；2026-09-28探测时门户提示维护中，待健康检查确认"
     }
   ],
   "anker": {
