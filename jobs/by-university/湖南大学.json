@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T02:27:54.591Z",
+  "updatedAt": "2026-10-11T02:01:32.791Z",
   "sourcePool": "university-employment",
   "school": "湖南大学",
   "segments": [
@@ -10,468 +10,6 @@
   ],
   "totalJobs": 94,
   "jobs": [
-    {
-      "id": "university-b49d9a85371dbb",
-      "company": "国网新疆电力有限公司哈密供电公司",
-      "title": "国网新疆电力有限公司哈密供电公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：国网新疆电力有限公司哈密供电公司，宣讲时间 09:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=722992",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：国网新疆电力有限公司哈密供电公司，宣讲时间 09:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=722992",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-10",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=722992",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=722992"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
-      "id": "university-8eff3b35f6d44b",
-      "company": "郑州宇通集团有限公司",
-      "title": "郑州宇通集团有限公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：郑州宇通集团有限公司，宣讲时间 15:00，宣讲地点 教学楼A301。详情见 https://scc.hnu.edu.cn/detail/career?id=726005",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：郑州宇通集团有限公司，宣讲时间 15:00，宣讲地点 教学楼A301。详情见 https://scc.hnu.edu.cn/detail/career?id=726005",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-10",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=726005",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=726005"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
-      "id": "university-8c287b599e373f",
-      "company": "兴业银行股份有限公司长沙分行",
-      "title": "兴业银行股份有限公司长沙分行",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：兴业银行股份有限公司长沙分行，宣讲时间 15:00，宣讲地点 老食堂二楼204报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=722742",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：兴业银行股份有限公司长沙分行，宣讲时间 15:00，宣讲地点 老食堂二楼204报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=722742",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-10",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=722742",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=722742"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
-      "id": "university-f012a262638e0f",
-      "company": "长沙矿山研究院有限责任公司",
-      "title": "长沙矿山研究院有限责任公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：长沙矿山研究院有限责任公司，宣讲时间 15:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=723540",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：长沙矿山研究院有限责任公司，宣讲时间 15:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=723540",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-10",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=723540",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=723540"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
-      "id": "university-5574cc5d77a01e",
-      "company": "中车株洲电力机车有限公司",
-      "title": "中车株洲电力机车有限公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：中车株洲电力机车有限公司，宣讲时间 15:00，宣讲地点 复临舍106教室。详情见 https://scc.hnu.edu.cn/detail/career?id=719502",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：中车株洲电力机车有限公司，宣讲时间 15:00，宣讲地点 复临舍106教室。详情见 https://scc.hnu.edu.cn/detail/career?id=719502",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-10",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=719502",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=719502"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
-      "id": "university-592f0a9b34afd3",
-      "company": "瑞众人寿保险有限责任公司",
-      "title": "瑞众人寿保险有限责任公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：瑞众人寿保险有限责任公司，宣讲时间 15:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=723722",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-10 校园宣讲会：瑞众人寿保险有限责任公司，宣讲时间 15:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=723722",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-10",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=723722",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=723722"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
     {
       "id": "university-7e4ab86cad31b5",
       "company": "通威太阳能（盐城）有限公司",
@@ -1243,9 +781,9 @@
       "universitySpecialty": false
     },
     {
-      "id": "university-418d9ff9712b8b",
-      "company": "潍柴动力股份有限公司",
-      "title": "潍柴动力股份有限公司",
+      "id": "university-3e40fc6f8d7cd8",
+      "company": "深圳市东阳光实业发展有限公司",
+      "title": "深圳市东阳光实业发展有限公司",
       "graduationYear": [
         "2027"
       ],
@@ -1265,9 +803,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：潍柴动力股份有限公司，宣讲时间 19:00，宣讲地点 复临舍407教室。详情见 https://scc.hnu.edu.cn/detail/career?id=723465",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：深圳市东阳光实业发展有限公司，宣讲时间 19:00，宣讲地点 白泉河苑2栋105会议室。详情见 https://scc.hnu.edu.cn/detail/career?id=725590",
       "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：潍柴动力股份有限公司，宣讲时间 19:00，宣讲地点 复临舍407教室。详情见 https://scc.hnu.edu.cn/detail/career?id=723465",
+      "JD": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：深圳市东阳光实业发展有限公司，宣讲时间 19:00，宣讲地点 白泉河苑2栋105会议室。详情见 https://scc.hnu.edu.cn/detail/career?id=725590",
       "jdEvidence": {},
       "roleFamily": [
         "其他"
@@ -1289,7 +827,7 @@
       "deadline": "",
       "sourceChannel": "university",
       "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=723465",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=725590",
       "verification": "高校就业信息网官方发布 · 待公司官网复核",
       "sourceEvidence": [
         {
@@ -1298,7 +836,7 @@
         },
         {
           "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=723465"
+          "url": "https://scc.hnu.edu.cn/detail/career?id=725590"
         }
       ],
       "universitySource": {
@@ -1551,9 +1089,9 @@
       "universitySpecialty": false
     },
     {
-      "id": "university-88f100c0cdd818",
-      "company": "中化（福建）橡塑机械有限公司",
-      "title": "中化（福建）橡塑机械有限公司",
+      "id": "university-0a096e8f7c6751",
+      "company": "中国中化控股有限责任公司",
+      "title": "中国中化控股有限责任公司",
       "graduationYear": [
         "2027"
       ],
@@ -1573,9 +1111,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：中化（福建）橡塑机械有限公司，宣讲时间 19:00，宣讲地点 复临舍201报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=722700",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：中国中化控股有限责任公司，宣讲时间 19:00，宣讲地点 复临舍201报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=726291",
       "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：中化（福建）橡塑机械有限公司，宣讲时间 19:00，宣讲地点 复临舍201报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=722700",
+      "JD": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：中国中化控股有限责任公司，宣讲时间 19:00，宣讲地点 复临舍201报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=726291",
       "jdEvidence": {},
       "roleFamily": [
         "其他"
@@ -1597,7 +1135,7 @@
       "deadline": "",
       "sourceChannel": "university",
       "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=722700",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=726291",
       "verification": "高校就业信息网官方发布 · 待公司官网复核",
       "sourceEvidence": [
         {
@@ -1606,7 +1144,7 @@
         },
         {
           "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=722700"
+          "url": "https://scc.hnu.edu.cn/detail/career?id=726291"
         }
       ],
       "universitySource": {
@@ -1705,9 +1243,9 @@
       "universitySpecialty": false
     },
     {
-      "id": "university-af3266a8930394",
-      "company": "深圳市东阳光实业发展有限公司",
-      "title": "深圳市东阳光实业发展有限公司",
+      "id": "university-418d9ff9712b8b",
+      "company": "潍柴动力股份有限公司",
+      "title": "潍柴动力股份有限公司",
       "graduationYear": [
         "2027"
       ],
@@ -1727,9 +1265,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：深圳市东阳光实业发展有限公司，宣讲时间 19:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=719736",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：潍柴动力股份有限公司，宣讲时间 19:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=723465",
       "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：深圳市东阳光实业发展有限公司，宣讲时间 19:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=719736",
+      "JD": "湖南大学就业信息网发布 2026-10-12 校园宣讲会：潍柴动力股份有限公司，宣讲时间 19:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=723465",
       "jdEvidence": {},
       "roleFamily": [
         "其他"
@@ -1751,7 +1289,7 @@
       "deadline": "",
       "sourceChannel": "university",
       "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=719736",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=723465",
       "verification": "高校就业信息网官方发布 · 待公司官网复核",
       "sourceEvidence": [
         {
@@ -1760,7 +1298,7 @@
         },
         {
           "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=719736"
+          "url": "https://scc.hnu.edu.cn/detail/career?id=723465"
         }
       ],
       "universitySource": {
@@ -1915,83 +1453,6 @@
         {
           "label": "湖南大学宣讲会详情",
           "url": "https://scc.hnu.edu.cn/detail/career?id=718538"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
-      "id": "university-736e555dfd379f",
-      "company": "深圳迈塔兰斯科技有限公司",
-      "title": "深圳迈塔兰斯科技有限公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-13 校园宣讲会：深圳迈塔兰斯科技有限公司，宣讲时间 09:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=725456",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-13 校园宣讲会：深圳迈塔兰斯科技有限公司，宣讲时间 09:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=725456",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-13",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=725456",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=725456"
         }
       ],
       "universitySource": {
@@ -3707,83 +3168,6 @@
       "universitySpecialty": false
     },
     {
-      "id": "university-939672f5e3b6fe",
-      "company": "乔锋智能装备股份有限公司",
-      "title": "乔锋智能装备股份有限公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-14 校园宣讲会：乔锋智能装备股份有限公司，宣讲时间 09:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=714413",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-14 校园宣讲会：乔锋智能装备股份有限公司，宣讲时间 09:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=714413",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-14",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=714413",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=714413"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
       "id": "university-e73d47d58114ed",
       "company": "湖南坤核微电子有限公司",
       "title": "湖南坤核微电子有限公司",
@@ -4246,83 +3630,6 @@
       "universitySpecialty": false
     },
     {
-      "id": "university-9c7442436d9c48",
-      "company": "安永华明会计师事务所（特殊普通合伙）长沙分所",
-      "title": "安永华明会计师事务所（特殊普通合伙）长沙分所",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-14 校园宣讲会：安永华明会计师事务所（特殊普通合伙）长沙分所，宣讲时间 15:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=694558",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-14 校园宣讲会：安永华明会计师事务所（特殊普通合伙）长沙分所，宣讲时间 15:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=694558",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-14",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=694558",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=694558"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
       "id": "university-e1e1c7169f1963",
       "company": "株洲齿轮有限责任公司",
       "title": "株洲齿轮有限责任公司",
@@ -4379,83 +3686,6 @@
         {
           "label": "湖南大学宣讲会详情",
           "url": "https://scc.hnu.edu.cn/detail/career?id=719100"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
-      "id": "university-ee55e31819917a",
-      "company": "湖南星邦智能装备股份有限公司",
-      "title": "湖南星邦智能装备股份有限公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-14 校园宣讲会：湖南星邦智能装备股份有限公司，宣讲时间 15:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=722030",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-14 校园宣讲会：湖南星邦智能装备股份有限公司，宣讲时间 15:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=722030",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-14",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=722030",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=722030"
         }
       ],
       "universitySource": {
@@ -5786,83 +5016,6 @@
       "universitySpecialty": false
     },
     {
-      "id": "university-ea531b41d3cba8",
-      "company": "小米通讯技术有限公司",
-      "title": "小米通讯技术有限公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-15 校园宣讲会：小米通讯技术有限公司，宣讲时间 19:00，宣讲地点 复临舍401教室。详情见 https://scc.hnu.edu.cn/detail/career?id=725549",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-15 校园宣讲会：小米通讯技术有限公司，宣讲时间 19:00，宣讲地点 复临舍401教室。详情见 https://scc.hnu.edu.cn/detail/career?id=725549",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-15",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=725549",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=725549"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
       "id": "university-335b62012ecd89",
       "company": "广州农村商业银行股份有限公司",
       "title": "广州农村商业银行股份有限公司",
@@ -6073,6 +5226,83 @@
         {
           "label": "湖南大学宣讲会详情",
           "url": "https://scc.hnu.edu.cn/detail/career?id=714448"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-a6e3db030f9202",
+      "company": "华为技术有限公司",
+      "title": "华为技术有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-15 校园宣讲会：华为技术有限公司，宣讲时间 19:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=726008",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-15 校园宣讲会：华为技术有限公司，宣讲时间 19:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=726008",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-15",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=726008",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=726008"
         }
       ],
       "universitySource": {
@@ -6402,9 +5632,9 @@
       "universitySpecialty": false
     },
     {
-      "id": "university-38ce6e4b0a6dd2",
-      "company": "深圳市拉普拉斯能源技术有限公司",
-      "title": "深圳市拉普拉斯能源技术有限公司",
+      "id": "university-30803bb52cbf42",
+      "company": "中国石油化工股份有限公司荆门分公司",
+      "title": "中国石油化工股份有限公司荆门分公司",
       "graduationYear": [
         "2027"
       ],
@@ -6424,9 +5654,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：深圳市拉普拉斯能源技术有限公司，宣讲时间 09:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=715952",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：中国石油化工股份有限公司荆门分公司，宣讲时间 09:00，宣讲地点 复临舍106教室。详情见 https://scc.hnu.edu.cn/detail/career?id=726202",
       "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：深圳市拉普拉斯能源技术有限公司，宣讲时间 09:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=715952",
+      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：中国石油化工股份有限公司荆门分公司，宣讲时间 09:00，宣讲地点 复临舍106教室。详情见 https://scc.hnu.edu.cn/detail/career?id=726202",
       "jdEvidence": {},
       "roleFamily": [
         "其他"
@@ -6448,7 +5678,7 @@
       "deadline": "",
       "sourceChannel": "university",
       "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=715952",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=726202",
       "verification": "高校就业信息网官方发布 · 待公司官网复核",
       "sourceEvidence": [
         {
@@ -6457,7 +5687,7 @@
         },
         {
           "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=715952"
+          "url": "https://scc.hnu.edu.cn/detail/career?id=726202"
         }
       ],
       "universitySource": {
@@ -6479,9 +5709,9 @@
       "universitySpecialty": false
     },
     {
-      "id": "university-866a05ca7a3d2b",
-      "company": "华为技术有限公司",
-      "title": "华为技术有限公司",
+      "id": "university-0f9df920ca3e13",
+      "company": "深圳迈塔兰斯科技有限公司",
+      "title": "深圳迈塔兰斯科技有限公司",
       "graduationYear": [
         "2027"
       ],
@@ -6501,9 +5731,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：华为技术有限公司，宣讲时间 10:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=726008",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：深圳迈塔兰斯科技有限公司，宣讲时间 09:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=725456",
       "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：华为技术有限公司，宣讲时间 10:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=726008",
+      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：深圳迈塔兰斯科技有限公司，宣讲时间 09:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=725456",
       "jdEvidence": {},
       "roleFamily": [
         "其他"
@@ -6525,7 +5755,7 @@
       "deadline": "",
       "sourceChannel": "university",
       "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=726008",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=725456",
       "verification": "高校就业信息网官方发布 · 待公司官网复核",
       "sourceEvidence": [
         {
@@ -6534,7 +5764,7 @@
         },
         {
           "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=726008"
+          "url": "https://scc.hnu.edu.cn/detail/career?id=725456"
         }
       ],
       "universitySource": {
@@ -7018,6 +6248,83 @@
       "universitySpecialty": false
     },
     {
+      "id": "university-3e1d421a49b7a0",
+      "company": "小米通讯技术有限公司",
+      "title": "小米通讯技术有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：小米通讯技术有限公司，宣讲时间 19:00，宣讲地点 复临舍401教室。详情见 https://scc.hnu.edu.cn/detail/career?id=725549",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：小米通讯技术有限公司，宣讲时间 19:00，宣讲地点 复临舍401教室。详情见 https://scc.hnu.edu.cn/detail/career?id=725549",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=725549",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=725549"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
       "id": "university-2a89867d854cf2",
       "company": "湖南未来教育科技集团有限公司",
       "title": "湖南未来教育科技集团有限公司",
@@ -7228,6 +6535,699 @@
         {
           "label": "湖南大学宣讲会详情",
           "url": "https://scc.hnu.edu.cn/detail/career?id=715259"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-38ce6e4b0a6dd2",
+      "company": "深圳市拉普拉斯能源技术有限公司",
+      "title": "深圳市拉普拉斯能源技术有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：深圳市拉普拉斯能源技术有限公司，宣讲时间 19:00，宣讲地点 复临舍304教室。详情见 https://scc.hnu.edu.cn/detail/career?id=715952",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：深圳市拉普拉斯能源技术有限公司，宣讲时间 19:00，宣讲地点 复临舍304教室。详情见 https://scc.hnu.edu.cn/detail/career?id=715952",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=715952",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=715952"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-9bed6f2f1add3a",
+      "company": "杭州海兴电力科技股份有限公司",
+      "title": "杭州海兴电力科技股份有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：杭州海兴电力科技股份有限公司，宣讲时间 19:00，宣讲地点 复临舍207教室。详情见 https://scc.hnu.edu.cn/detail/career?id=722888",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：杭州海兴电力科技股份有限公司，宣讲时间 19:00，宣讲地点 复临舍207教室。详情见 https://scc.hnu.edu.cn/detail/career?id=722888",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=722888",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=722888"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-86d094df38501d",
+      "company": "深圳市大疆创新科技有限公司",
+      "title": "深圳市大疆创新科技有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：深圳市大疆创新科技有限公司，宣讲时间 19:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=723803",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：深圳市大疆创新科技有限公司，宣讲时间 19:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=723803",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=723803",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=723803"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-95d92540612cb6",
+      "company": "威胜集团有限公司",
+      "title": "威胜集团有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：威胜集团有限公司，宣讲时间 19:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=720058",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：威胜集团有限公司，宣讲时间 19:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=720058",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=720058",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=720058"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-347282c7e5c9fb",
+      "company": "粤芯半导体技术股份有限公司",
+      "title": "粤芯半导体技术股份有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：粤芯半导体技术股份有限公司，宣讲时间 19:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=694547",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-16 校园宣讲会：粤芯半导体技术股份有限公司，宣讲时间 19:00，宣讲地点 复临舍105教室。详情见 https://scc.hnu.edu.cn/detail/career?id=694547",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=694547",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=694547"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-b1392b8dff41c3",
+      "company": "中车大同电力机车有限公司",
+      "title": "中车大同电力机车有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：中车大同电力机车有限公司，宣讲时间 09:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=724430",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：中车大同电力机车有限公司，宣讲时间 09:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=724430",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=724430",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=724430"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-6e7b6bc41b33fe",
+      "company": "深圳市一博科技股份有限公司",
+      "title": "深圳市一博科技股份有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：深圳市一博科技股份有限公司，宣讲时间 09:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=723002",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：深圳市一博科技股份有限公司，宣讲时间 09:00，宣讲地点 学生就业指导中心329报告厅（海信报告厅）。详情见 https://scc.hnu.edu.cn/detail/career?id=723002",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=723002",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=723002"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-5d48b24e043143",
+      "company": "中建三局集团有限公司",
+      "title": "中建三局集团有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：中建三局集团有限公司，宣讲时间 09:00，宣讲地点 复临舍106教室。详情见 https://scc.hnu.edu.cn/detail/career?id=724649",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：中建三局集团有限公司，宣讲时间 09:00，宣讲地点 复临舍106教室。详情见 https://scc.hnu.edu.cn/detail/career?id=724649",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=724649",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=724649"
+        }
+      ],
+      "universitySource": {
+        "school": "湖南大学",
+        "segments": [
+          "985",
+          "211",
+          "双一流"
+        ],
+        "priority": 103
+      },
+      "universitySchool": "湖南大学",
+      "universitySegments": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "universityElite": true,
+      "universitySpecialty": false
+    },
+    {
+      "id": "university-fff70d0184d365",
+      "company": "中国机械工业集团有限公司",
+      "title": "中国机械工业集团有限公司",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：中国机械工业集团有限公司，宣讲时间 15:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=722469",
+      "jobRequirements": "",
+      "JD": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：中国机械工业集团有限公司，宣讲时间 15:00，宣讲地点 复临舍101报告厅。详情见 https://scc.hnu.edu.cn/detail/career?id=722469",
+      "jdEvidence": {},
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {},
+      "compensation": {},
+      "salary": "",
+      "monthlySalary": "",
+      "annualSalary": "",
+      "source": "university-employment",
+      "officialURL": "",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "",
+      "sourceChannel": "university",
+      "sourcePool": "university-employment",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=722469",
+      "verification": "高校就业信息网官方发布 · 待公司官网复核",
+      "sourceEvidence": [
+        {
+          "label": "湖南大学就业信息网",
+          "url": "https://scc.hnu.edu.cn/"
+        },
+        {
+          "label": "湖南大学宣讲会详情",
+          "url": "https://scc.hnu.edu.cn/detail/career?id=722469"
         }
       ],
       "universitySource": {
