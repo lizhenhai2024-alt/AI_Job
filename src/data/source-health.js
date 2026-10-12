@@ -951,7 +951,7 @@ export const sourceHealth = {
       "company": "TCL华星光电",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出392，源内保留142"
+      "reason": "HotJob源正常：列出390，源内保留142"
     },
     {
       "provider": "hotjob",
@@ -1000,14 +1000,14 @@ export const sourceHealth = {
       "company": "字节跳动",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量980，源内保留187"
+      "reason": "官方源正常：本轮活动量1000，源内保留182"
     },
     {
       "provider": "meituan",
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量196，源内保留194"
+      "reason": "官方源正常：本轮活动量196，源内保留192"
     },
     {
       "provider": "lenovo",
@@ -1056,7 +1056,7 @@ export const sourceHealth = {
       "company": "小红书",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量170，源内保留170"
+      "reason": "官方源正常：本轮活动量170，源内保留169"
     },
     {
       "provider": "ctrip",
@@ -1159,9 +1159,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "上海外国语大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量6，源内保留0"
     },
     {
       "provider": "university",
@@ -1522,13 +1522,13 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 152,
+    "healthy": 153,
     "empty": 10,
-    "error": 7,
+    "error": 6,
     "unknown": 48
   },
   "total": 217,
-  "healthy": 152,
-  "attention": 65,
-  "updatedAt": "2026-10-12T19:10:14.553Z"
+  "healthy": 153,
+  "attention": 64,
+  "updatedAt": "2026-10-12T22:38:19.396Z"
 };

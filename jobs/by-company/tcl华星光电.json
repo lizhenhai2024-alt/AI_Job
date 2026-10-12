@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
-  "count": 76,
-  "updatedAt": "2026-10-12T19:10:23.004Z",
+  "count": 77,
+  "updatedAt": "2026-10-12T22:38:24.453Z",
   "jobs": [
     {
       "id": "hotjob-779fe73e5dfa",
@@ -2969,6 +2969,98 @@
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a4768cc6f624f735070&recruitType=1",
       "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-10-20",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-443c22fe64e9",
+      "company": "TCL华星光电",
+      "title": "项目管理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、日语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "惠州",
+      "jobDescription": "1. 负责产品系列/产品统筹管理，协同问题解决、推进决策，确保交付达成； 2. 负责产品开发项目管理工作，按照项目管理过程启动、规划、执行、监控、收尾综合管理项目； 3. 主导制定主计划，并协调各领域子计划与主计划的匹配管理； 4. 监督计划的执行，及时进行偏差纠正； 5. 产品项目风险管理，组织团队识别并分析项目风险，并协同解决； 6. 组建项目团队，制定沟通管理计划，通过向上沟通，寻求决策； 7. 推进团队建设，识别项目运作中的痛点问题，并升级流程和机制，提升工作效率。",
+      "jobRequirements": "1. 本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑； 2. 优秀的沟通协调能力，团队管理能力，计划管理及推动能力； 3. 工作踏实有责任心，精通office办公软件，英语能力强优先。",
+      "JD": "1. 负责产品系列/产品统筹管理，协同问题解决、推进决策，确保交付达成； 2. 负责产品开发项目管理工作，按照项目管理过程启动、规划、执行、监控、收尾综合管理项目； 3. 主导制定主计划，并协调各领域子计划与主计划的匹配管理； 4. 监督计划的执行，及时进行偏差纠正； 5. 产品项目风险管理，组织团队识别并分析项目风险，并协同解决； 6. 组建项目团队，制定沟通管理计划，通过向上沟通，寻求决策； 7. 推进团队建设，识别项目运作中的痛点问题，并升级流程和机制，提升工作效率。\n1. 本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑； 2. 优秀的沟通协调能力，团队管理能力，计划管理及推动能力； 3. 工作踏实有责任心，精通office办公软件，英语能力强优先。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，专业不限，管理科学与工程等管理类专业、电子机械等工科类相关专业、日语专业等可以优先考虑"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a494315481304ccee74&recruitType=1",
+      "publishedAt": "2026-09-21",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-10-20",
