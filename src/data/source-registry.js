@@ -425,6 +425,18 @@ export const sourceRegistry = [
     "company": "优艾智合"
   },
   {
+    "provider": "beisen",
+    "company": "保利和润房地产投资顾问有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "深圳市杰和科技发展有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "湖南长银五八消费金融股份有限公司"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },
@@ -487,6 +499,10 @@ export const sourceRegistry = [
   {
     "provider": "feishu",
     "company": "新石器无人车"
+  },
+  {
+    "provider": "feishu",
+    "company": "深圳市艾丽斯卡文化创意有限公司"
   },
   {
     "provider": "hotjob",

@@ -1,7 +1,7 @@
 {
   "company": "科大讯飞",
-  "count": 51,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "count": 55,
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "beisen-537ce5ca3df0",
@@ -481,6 +481,98 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=f46f74dc-975f-468e-a602-248ea4869983",
       "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-145f0405c03c",
+      "company": "科大讯飞",
+      "title": "运营管理（大量HC）(J13443)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、专业不限，在设计、写作、数据分析等方面有一技之长优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "安徽省·合肥市",
+      "jobDescription": "1、根据部门年度战略规划与目标，对整体任务实现过程进行跟踪与管控，推动战略实施落地及校验； 2、协助开展部门运营管理工作，包括运营协作机制构建、制度与规范制定、体系与流程设计，形成组织沉淀； 3、参与部门年度重点项目工作推动，协助运营与预警，提升项目推进效率和资源联动； 4、内部POMP项目管理平台等系统基础维护等，做相应的数据分析与运营分析； 5、参与日常运营管理相关及部门安排的其它工作。",
+      "jobRequirements": "1、具有较好的组织协调和沟通表达能力； 2、专业不限，在设计、写作、数据分析等方面有一技之长优先； 3、主动性和积极性高，敢于接受新鲜事物和精益求精； 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "JD": "1、根据部门年度战略规划与目标，对整体任务实现过程进行跟踪与管控，推动战略实施落地及校验； 2、协助开展部门运营管理工作，包括运营协作机制构建、制度与规范制定、体系与流程设计，形成组织沉淀； 3、参与部门年度重点项目工作推动，协助运营与预警，提升项目推进效率和资源联动； 4、内部POMP项目管理平台等系统基础维护等，做相应的数据分析与运营分析； 5、参与日常运营管理相关及部门安排的其它工作。\n1、具有较好的组织协调和沟通表达能力； 2、专业不限，在设计、写作、数据分析等方面有一技之长优先； 3、主动性和积极性高，敢于接受新鲜事物和精益求精； 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业不限，在设计、写作、数据分析等方面有一技之长优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=08276514-8675-4d7f-801f-029f3f50cf0a",
+      "publishedAt": "2026-07-23",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1700,6 +1792,100 @@
       "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
     },
     {
+      "id": "beisen-e27c03d71979",
+      "company": "科大讯飞",
+      "title": "客户经理（大量HC）(J13416)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、重点院校本科及以上学历，计算机等相关工科专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "【投递提示】合肥、兰州、南昌、沈阳、石家庄、福州、郑州、长沙城市需求量大，投递竞争较小，欢迎投递！ 1、负责区域内教育、城市军团、医疗、政法军团、高教、企业等行业的商务拓展工作，包括目标客户的开发、维护、跟进，达成制定的商务目标； 2、定期拜访目标客户，挖掘客户需求并积极跟进，协调内外部资源制定合理方案，确保项目顺利落地。过程中负责方案展示、谈判、招投标、合同签定等相关工作； 3、建立大客户档案，确保各项资料完整，准确，并做好动态管理；",
+      "jobRequirements": "1、重点院校本科及以上学历，计算机等相关工科专业优先； 2、具备严密的逻辑思维，具有发现问题、分析问题和解决问题的能力；对数据敏感，拥有一定的数据分析能力； 3、具备较强的沟通能力和人际关系敏感性，性格外向，工作认真负责，抗压能力强，能根据团队实际需求完成业务跟进任务； 4、具备一定的业务创新能力，敢于表达及分享个人观点，有过学生会或社团管理经验或大型项目管理经验优先； 5、能够适应出差。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "JD": "【投递提示】合肥、兰州、南昌、沈阳、石家庄、福州、郑州、长沙城市需求量大，投递竞争较小，欢迎投递！ 1、负责区域内教育、城市军团、医疗、政法军团、高教、企业等行业的商务拓展工作，包括目标客户的开发、维护、跟进，达成制定的商务目标； 2、定期拜访目标客户，挖掘客户需求并积极跟进，协调内外部资源制定合理方案，确保项目顺利落地。过程中负责方案展示、谈判、招投标、合同签定等相关工作； 3、建立大客户档案，确保各项资料完整，准确，并做好动态管理；\n1、重点院校本科及以上学历，计算机等相关工科专业优先； 2、具备严密的逻辑思维，具有发现问题、分析问题和解决问题的能力；对数据敏感，拥有一定的数据分析能力； 3、具备较强的沟通能力和人际关系敏感性，性格外向，工作认真负责，抗压能力强，能根据团队实际需求完成业务跟进任务； 4、具备一定的业务创新能力，敢于表达及分享个人观点，有过学生会或社团管理经验或大型项目管理经验优先； 5、能够适应出差。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、重点院校本科及以上学历，计算机等相关工科专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=38203de4-99e6-4a78-97c0-f32f50a0039c",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
+    {
       "id": "beisen-acbdd9d38f78",
       "company": "科大讯飞",
       "title": "PMO经理-项目管理方向(J13553)",
@@ -1876,100 +2062,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=7438c192-246b-4619-bec9-666e757808dc",
-      "publishedAt": "2026-07-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
-      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
-    },
-    {
-      "id": "beisen-19710fe6bb4c",
-      "company": "科大讯飞",
-      "title": "客户经理(J13416)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、重点院校本科及以上学历，计算机等相关工科专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、负责区域内教育、城市军团、医疗、政法军团、高教、企业等行业的商务拓展工作，包括目标客户的开发、维护、跟进，达成制定的商务目标； 2、定期拜访目标客户，挖掘客户需求并积极跟进，协调内外部资源制定合理方案，确保项目顺利落地。过程中负责方案展示、谈判、招投标、合同签定等相关工作； 3、建立大客户档案，确保各项资料完整，准确，并做好动态管理；",
-      "jobRequirements": "1、重点院校本科及以上学历，计算机等相关工科专业优先； 2、具备严密的逻辑思维，具有发现问题、分析问题和解决问题的能力；对数据敏感，拥有一定的数据分析能力； 3、具备较强的沟通能力和人际关系敏感性，性格外向，工作认真负责，抗压能力强，能根据团队实际需求完成业务跟进任务； 4、具备一定的业务创新能力，敢于表达及分享个人观点，有过学生会或社团管理经验或大型项目管理经验优先； 5、能够适应出差。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
-      "JD": "1、负责区域内教育、城市军团、医疗、政法军团、高教、企业等行业的商务拓展工作，包括目标客户的开发、维护、跟进，达成制定的商务目标； 2、定期拜访目标客户，挖掘客户需求并积极跟进，协调内外部资源制定合理方案，确保项目顺利落地。过程中负责方案展示、谈判、招投标、合同签定等相关工作； 3、建立大客户档案，确保各项资料完整，准确，并做好动态管理；\n1、重点院校本科及以上学历，计算机等相关工科专业优先； 2、具备严密的逻辑思维，具有发现问题、分析问题和解决问题的能力；对数据敏感，拥有一定的数据分析能力； 3、具备较强的沟通能力和人际关系敏感性，性格外向，工作认真负责，抗压能力强，能根据团队实际需求完成业务跟进任务； 4、具备一定的业务创新能力，敢于表达及分享个人观点，有过学生会或社团管理经验或大型项目管理经验优先； 5、能够适应出差。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、重点院校本科及以上学历，计算机等相关工科专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "销售"
-      ],
-      "skills": [
-        "数据分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=38203de4-99e6-4a78-97c0-f32f50a0039c",
       "publishedAt": "2026-07-23",
       "lastVerified": "",
       "sourceType": "official",
@@ -2160,6 +2252,100 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=7889d6d5-e1ff-40c8-970c-5ecc1950cd70",
+      "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-19710fe6bb4c",
+      "company": "科大讯飞",
+      "title": "客户经理(J13416)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、重点院校本科及以上学历，计算机等相关工科专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责区域内教育、城市军团、医疗、政法军团、高教、企业等行业的商务拓展工作，包括目标客户的开发、维护、跟进，达成制定的商务目标； 2、定期拜访目标客户，挖掘客户需求并积极跟进，协调内外部资源制定合理方案，确保项目顺利落地。过程中负责方案展示、谈判、招投标、合同签定等相关工作； 3、建立大客户档案，确保各项资料完整，准确，并做好动态管理；",
+      "jobRequirements": "1、重点院校本科及以上学历，计算机等相关工科专业优先； 2、具备严密的逻辑思维，具有发现问题、分析问题和解决问题的能力；对数据敏感，拥有一定的数据分析能力； 3、具备较强的沟通能力和人际关系敏感性，性格外向，工作认真负责，抗压能力强，能根据团队实际需求完成业务跟进任务； 4、具备一定的业务创新能力，敢于表达及分享个人观点，有过学生会或社团管理经验或大型项目管理经验优先； 5、能够适应出差。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "JD": "1、负责区域内教育、城市军团、医疗、政法军团、高教、企业等行业的商务拓展工作，包括目标客户的开发、维护、跟进，达成制定的商务目标； 2、定期拜访目标客户，挖掘客户需求并积极跟进，协调内外部资源制定合理方案，确保项目顺利落地。过程中负责方案展示、谈判、招投标、合同签定等相关工作； 3、建立大客户档案，确保各项资料完整，准确，并做好动态管理；\n1、重点院校本科及以上学历，计算机等相关工科专业优先； 2、具备严密的逻辑思维，具有发现问题、分析问题和解决问题的能力；对数据敏感，拥有一定的数据分析能力； 3、具备较强的沟通能力和人际关系敏感性，性格外向，工作认真负责，抗压能力强，能根据团队实际需求完成业务跟进任务； 4、具备一定的业务创新能力，敢于表达及分享个人观点，有过学生会或社团管理经验或大型项目管理经验优先； 5、能够适应出差。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、重点院校本科及以上学历，计算机等相关工科专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=38203de4-99e6-4a78-97c0-f32f50a0039c",
       "publishedAt": "2026-07-23",
       "lastVerified": "",
       "sourceType": "official",
@@ -2834,6 +3020,192 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=0d8cc597-20ae-4077-9ea4-aac1318f1f62",
       "publishedAt": "2026-07-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-15f5ce5cfb97",
+      "company": "科大讯飞",
+      "title": "初中学科主讲老师-数学/英语/语文/物理/化学(J14685)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "初中学科主讲老师-数学/英语/语文/物理/化学(J14685)；1.2027届本科及以上毕业生，专业不限，师范类相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 课程产出：负责录播课程课件制作、录制打磨；完成直播备课，结合录播内容设计直播精讲、答疑拔高内容，持续迭代教学配套资料； 2. 教学交付：按排课完成直播授课，督促学员完成录播学习；跟进学员学情，保障课堂教学质量与学习闭环； 3. 协助首购转化：承担体验课授课，输出专业教学内容，做好试听学员学情点评，配合运营完成意向学员首购转化； 4. 负责续报留存：跟进在读学员学习情况，定期同步学情反馈，结合学员学习现状给出学习规划，协助完成学员续报工作； 5. 协同迭代复盘：收集学员反馈，参与磨课教研、教学复盘；输出教学相关数据，配合教研、运营团队优化课程与服务。",
+      "jobRequirements": "1.2027届本科及以上毕业生，专业不限，师范类相关专业优先； 2.对应学科基础知识扎实，能够快速理解并掌握课程体系； 3.对学科知识有较强的理解、迁移和分析能力； 4.普通话标准，语言表达清晰、有逻辑； 5.具备较强的语言组织和现场表达能力。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用",
+      "JD": "1. 课程产出：负责录播课程课件制作、录制打磨；完成直播备课，结合录播内容设计直播精讲、答疑拔高内容，持续迭代教学配套资料； 2. 教学交付：按排课完成直播授课，督促学员完成录播学习；跟进学员学情，保障课堂教学质量与学习闭环； 3. 协助首购转化：承担体验课授课，输出专业教学内容，做好试听学员学情点评，配合运营完成意向学员首购转化； 4. 负责续报留存：跟进在读学员学习情况，定期同步学情反馈，结合学员学习现状给出学习规划，协助完成学员续报工作； 5. 协同迭代复盘：收集学员反馈，参与磨课教研、教学复盘；输出教学相关数据，配合教研、运营团队优化课程与服务。\n1.2027届本科及以上毕业生，专业不限，师范类相关专业优先； 2.对应学科基础知识扎实，能够快速理解并掌握课程体系； 3.对学科知识有较强的理解、迁移和分析能力； 4.普通话标准，语言表达清晰、有逻辑； 5.具备较强的语言组织和现场表达能力。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "初中学科主讲老师-数学/英语/语文/物理/化学(J14685)",
+          "1.2027届本科及以上毕业生，专业不限，师范类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=997f2d5f-bf67-45df-86d4-f4213deb880a",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评→笔试（部分岗位）→线上面试（部分有AI面试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 武汉本地宝校招公告 | http://wh.bendibao.com/job/2026729/199351.shtm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 北林大就业网校招公告 | http://job.bjfu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=ce65ab96f52144299030ef1e9b2d94cd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-b1ad55268fdd",
+      "company": "科大讯飞",
+      "title": "学科教研员-语文/数学/英语/物理/化学/历史/地理方向（大量HC）(J14408)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "学科教研员-语文/数学/英语/物理/化学/历史/地理方向（大量HC）(J14408)",
+        "hardRestriction": true,
+        "hardClauses": [
+          "学科教研员-语文/数学/英语/物理/化学/历史/地理方向（大量HC）(J14408)"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.负责GB端/C端产品教研方案设计、落地与成效保障，协同打磨高质量学科体系标准与内容范式； 2.参与K12对应学科资源建设，对体系资源生产质量负责； 3.参与AI类教育教研产品设计，对AI能力边界及大模型在教育产品应用有个人思考； 4.具备产品化思维，参与市场、用户与竞品调研，可将教育产品逻辑转化为相关学科教研需求，依托用户数据和反馈持续迭代教研方案与教学资源。",
+      "jobRequirements": "1、硕士及以上学历，相关学科教学、教育学、教育技术学等专业优先； 2、了解对应学科课程标准及主流教材版本内容，有教学教研实习，或教学资源开发、课程建设等相关实践经历优先； 3、有大模型应用实践经验，能探索设计落地 AI 在相关场景的实际落地应用； 4、自驱力强，具有良好的逻辑思维、需求拆解与跨部门协调沟通能力，能承受一定工作压力，具备良好的团队协作精神。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "JD": "1.负责GB端/C端产品教研方案设计、落地与成效保障，协同打磨高质量学科体系标准与内容范式； 2.参与K12对应学科资源建设，对体系资源生产质量负责； 3.参与AI类教育教研产品设计，对AI能力边界及大模型在教育产品应用有个人思考； 4.具备产品化思维，参与市场、用户与竞品调研，可将教育产品逻辑转化为相关学科教研需求，依托用户数据和反馈持续迭代教研方案与教学资源。\n1、硕士及以上学历，相关学科教学、教育学、教育技术学等专业优先； 2、了解对应学科课程标准及主流教材版本内容，有教学教研实习，或教学资源开发、课程建设等相关实践经历优先； 3、有大模型应用实践经验，能探索设计落地 AI 在相关场景的实际落地应用； 4、自驱力强，具有良好的逻辑思维、需求拆解与跨部门协调沟通能力，能承受一定工作压力，具备良好的团队协作精神。 此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、笔试、初试、复试、终审等环节后录用。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "学科教研员-语文/数学/英语/物理/化学/历史/地理方向（大量HC）(J14408)"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://iflytek.zhiye.com/campus/detail?jobAdId=b509e1dc-dea7-4b41-bd6c-ed7f3d84f806",
+      "publishedAt": "2026-09-11",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

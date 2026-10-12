@@ -1,7 +1,7 @@
 {
   "company": "中国人民保险集团",
-  "count": 243,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "count": 245,
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "beisen-cae8c615acdd",
@@ -6840,6 +6840,87 @@
       "deadline": ""
     },
     {
+      "id": "beisen-8f37bad7d340",
+      "company": "中国人民保险集团",
+      "title": "人保寿险公司-青海省分公司-个险类-队伍发展岗-2027届校招(J80741)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "青海省·西宁市",
+      "jobDescription": "1.负责承接总公司个险渠道队伍建设规划，统筹增员发展、新人养成和主管经营，做好队伍发展阶段性规划和目标分解，明确队伍发展路径、重点方向和资源投入。 2.负责承接总公司队伍建设方案，设计本省队伍企划方案，协同相关岗位做好方案追踪管控。 3.负责做好本省队伍发展情况的经营分析，定期编制队伍建设分析报告。 4.负责牵头健康养老规划师队伍建设，协同相关岗位推进认证评定及权益支持政策落地。 5.负责落地晋升推动标准化动作体系，激发主管晋升意愿，督导机构落地规划面谈动作。 6.协同相关岗位推动准主管、主管组织发展技能提升，做好晋升答辩追踪和晋升预警。 7.负责牵头组织本省个险渠道季度晋升表彰活动。 8.完成领导交办的其他工作。",
+      "jobRequirements": "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先。 2.熟练运用各类办公软件； 3.熟悉相关法律法规和监管文件，并能熟练运用； 4.熟悉基本政策和监管机构的相关要求； 5.掌握并遵守公司的管理制度和流程； 6.能够独立运用专业知识于日常性和事务性工作中。",
+      "JD": "1.负责承接总公司个险渠道队伍建设规划，统筹增员发展、新人养成和主管经营，做好队伍发展阶段性规划和目标分解，明确队伍发展路径、重点方向和资源投入。 2.负责承接总公司队伍建设方案，设计本省队伍企划方案，协同相关岗位做好方案追踪管控。 3.负责做好本省队伍发展情况的经营分析，定期编制队伍建设分析报告。 4.负责牵头健康养老规划师队伍建设，协同相关岗位推进认证评定及权益支持政策落地。 5.负责落地晋升推动标准化动作体系，激发主管晋升意愿，督导机构落地规划面谈动作。 6.协同相关岗位推动准主管、主管组织发展技能提升，做好晋升答辩追踪和晋升预警。 7.负责牵头组织本省个险渠道季度晋升表彰活动。 8.完成领导交办的其他工作。\n1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先。 2.熟练运用各类办公软件； 3.熟悉相关法律法规和监管文件，并能熟练运用； 4.熟悉基本政策和监管机构的相关要求； 5.掌握并遵守公司的管理制度和流程； 6.能够独立运用专业知识于日常性和事务性工作中。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责承接总公司个险渠道队伍建设规划，统筹增员发展、新人养成和主管经营，做好队伍"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=74b9fd64-8ff0-46ef-9ae2-f6f081f5aa3b",
+      "publishedAt": "2026-09-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-9bd213ddbb62",
       "company": "中国人民保险集团",
       "title": "人保寿险公司-格尔木市中心支公司-银团类-督训管理岗-2027届校招(J80742)",
@@ -7012,87 +7093,6 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-04-25"
-    },
-    {
-      "id": "beisen-8f37bad7d340",
-      "company": "中国人民保险集团",
-      "title": "人保寿险公司-青海省分公司-个险类-队伍发展岗-2027届校招(J80741)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "青海省·西宁市",
-      "jobDescription": "1.负责承接总公司个险渠道队伍建设规划，统筹增员发展、新人养成和主管经营，做好队伍发展阶段性规划和目标分解，明确队伍发展路径、重点方向和资源投入。 2.负责承接总公司队伍建设方案，设计本省队伍企划方案，协同相关岗位做好方案追踪管控。 3.负责做好本省队伍发展情况的经营分析，定期编制队伍建设分析报告。 4.负责牵头健康养老规划师队伍建设，协同相关岗位推进认证评定及权益支持政策落地。 5.负责落地晋升推动标准化动作体系，激发主管晋升意愿，督导机构落地规划面谈动作。 6.协同相关岗位推动准主管、主管组织发展技能提升，做好晋升答辩追踪和晋升预警。 7.负责牵头组织本省个险渠道季度晋升表彰活动。 8.完成领导交办的其他工作。",
-      "jobRequirements": "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先。 2.熟练运用各类办公软件； 3.熟悉相关法律法规和监管文件，并能熟练运用； 4.熟悉基本政策和监管机构的相关要求； 5.掌握并遵守公司的管理制度和流程； 6.能够独立运用专业知识于日常性和事务性工作中。",
-      "JD": "1.负责承接总公司个险渠道队伍建设规划，统筹增员发展、新人养成和主管经营，做好队伍发展阶段性规划和目标分解，明确队伍发展路径、重点方向和资源投入。 2.负责承接总公司队伍建设方案，设计本省队伍企划方案，协同相关岗位做好方案追踪管控。 3.负责做好本省队伍发展情况的经营分析，定期编制队伍建设分析报告。 4.负责牵头健康养老规划师队伍建设，协同相关岗位推进认证评定及权益支持政策落地。 5.负责落地晋升推动标准化动作体系，激发主管晋升意愿，督导机构落地规划面谈动作。 6.协同相关岗位推动准主管、主管组织发展技能提升，做好晋升答辩追踪和晋升预警。 7.负责牵头组织本省个险渠道季度晋升表彰活动。 8.完成领导交办的其他工作。\n1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先。 2.熟练运用各类办公软件； 3.熟悉相关法律法规和监管文件，并能熟练运用； 4.熟悉基本政策和监管机构的相关要求； 5.掌握并遵守公司的管理制度和流程； 6.能够独立运用专业知识于日常性和事务性工作中。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1.负责承接总公司个险渠道队伍建设规划，统筹增员发展、新人养成和主管经营，做好队伍"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=74b9fd64-8ff0-46ef-9ae2-f6f081f5aa3b",
-      "publishedAt": "2026-09-30",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
     },
     {
       "id": "beisen-68b49658d903",
@@ -15811,6 +15811,172 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=4f973454-374c-450b-b11e-f9503cabd71f",
       "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-00c96dd5a89d",
+      "company": "中国人民保险集团",
+      "title": "人保寿险公司-青海省分公司-银团类-队伍发展岗-2027届校招(J78715)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，金融、经济、保险等专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、经济、保险等专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "青海省·西宁市",
+      "jobDescription": "1.负责制定全省团险渠道销售队伍发展规划，包括但不限于队伍规模、队伍布局以及队伍建设等； 2.负责全省团险渠道销售队伍招募、引进、培育、留存、晋升、退出等人员管理工作，保证团险销售队伍的低消耗和高产能； 3.负责全省团险渠道基本法的执行、管理与修订，发挥基本法在拉动晋升、降低成本、刚性管控的作用，负责渠道产品销售人员佣金及考核政策的制定； 4.负责全省团险渠道销售队伍基础管理、诚信品质与销售行为管理等； 5.负责全省团险渠道兼职讲师及督训队伍的建立、培养和管理工作； 6.负责建立团险渠道外勤人员的培训体系建设，研发制式化培训课程、培训教材，组织新人、主管、标准营业部培训等； 7.负责对接全省团险消费者权益保护各项工作落实和整改； 8.完成上级领导交办的其他工作。",
+      "jobRequirements": "1.本科及以上学历，金融、经济、保险等专业； 2.熟练运用各类办公软件； 3.熟悉基本政策和监管机构的相关要求； 4.掌握并遵守公司的管理制度和流程； 5.能够独立运用专业知识于日常性和事务性工作中。",
+      "JD": "1.负责制定全省团险渠道销售队伍发展规划，包括但不限于队伍规模、队伍布局以及队伍建设等； 2.负责全省团险渠道销售队伍招募、引进、培育、留存、晋升、退出等人员管理工作，保证团险销售队伍的低消耗和高产能； 3.负责全省团险渠道基本法的执行、管理与修订，发挥基本法在拉动晋升、降低成本、刚性管控的作用，负责渠道产品销售人员佣金及考核政策的制定； 4.负责全省团险渠道销售队伍基础管理、诚信品质与销售行为管理等； 5.负责全省团险渠道兼职讲师及督训队伍的建立、培养和管理工作； 6.负责建立团险渠道外勤人员的培训体系建设，研发制式化培训课程、培训教材，组织新人、主管、标准营业部培训等； 7.负责对接全省团险消费者权益保护各项工作落实和整改； 8.完成上级领导交办的其他工作。\n1.本科及以上学历，金融、经济、保险等专业； 2.熟练运用各类办公软件； 3.熟悉基本政策和监管机构的相关要求； 4.掌握并遵守公司的管理制度和流程； 5.能够独立运用专业知识于日常性和事务性工作中。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，金融、经济、保险等专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责制定全省团险渠道销售队伍发展规划，包括但不限于队伍规模、队伍布局以及队伍建"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=3610e604-3819-4909-8b69-26645c0184f9",
+      "publishedAt": "2026-07-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-add1c93b6e06",
+      "company": "中国人民保险集团",
+      "title": "人保寿险公司-青海省分公司-银团类-队伍发展岗-2027届校招(J78716)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "青海省·西宁市",
+      "jobDescription": "1.负责合作银行日常关系维护，包括手续费谈判、协议签署、业务推动等，及时掌握合作银行经营思路、业务动态、推动节奏等; 2.负责定期追踪公司在当地各合作银行行内竞争力排名、销售成本及业务品质等； 3.负责定期做好渠道分析，创新渠道合作模式； 4.负责制定各合作银行中长期发展规划及年度销售计划，督导分支机构完成任务目标； 5.负责合作渠道会议培训的组织，并向合作渠道提供相关材料与资料； 6.负责协助做好银保拜访工作，准备拜访资料和相关材料； 7.负责根据总公司网点分级分类管理规范，差异化开展网点服务和费用投放； 8.完成上级领导交办的其他工作。",
+      "jobRequirements": "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先。 2.熟练运用各类办公软件； 3.熟悉相关法律法规和监管文件，并能熟练运用； 4.熟悉基本政策和监管机构的相关要求； 5.掌握并遵守公司的管理制度和流程； 6.能够独立运用专业知识于日常性和事务性工作中。",
+      "JD": "1.负责合作银行日常关系维护，包括手续费谈判、协议签署、业务推动等，及时掌握合作银行经营思路、业务动态、推动节奏等; 2.负责定期追踪公司在当地各合作银行行内竞争力排名、销售成本及业务品质等； 3.负责定期做好渠道分析，创新渠道合作模式； 4.负责制定各合作银行中长期发展规划及年度销售计划，督导分支机构完成任务目标； 5.负责合作渠道会议培训的组织，并向合作渠道提供相关材料与资料； 6.负责协助做好银保拜访工作，准备拜访资料和相关材料； 7.负责根据总公司网点分级分类管理规范，差异化开展网点服务和费用投放； 8.完成上级领导交办的其他工作。\n1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先。 2.熟练运用各类办公软件； 3.熟悉相关法律法规和监管文件，并能熟练运用； 4.熟悉基本政策和监管机构的相关要求； 5.掌握并遵守公司的管理制度和流程； 6.能够独立运用专业知识于日常性和事务性工作中。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，经济、管理、金融、信息科技等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.负责合作银行日常关系维护，包括手续费谈判、协议签署、业务推动等，及时掌握合作银"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=57dde736-923d-42a0-ae66-593949f5eb02",
+      "publishedAt": "2026-07-31",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

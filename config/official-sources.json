@@ -595,6 +595,24 @@
       "baseUrl": "https://youibot1.zhiye.com",
       "graduationYear": "2027",
       "monitoringNote": "V5日报补充；2026-09-28探测校园招聘列表页可用（北森zhiye标准门户）"
+    },
+    {
+      "company": "保利和润房地产投资顾问有限公司",
+      "baseUrl": "https://polyharmony.zhiye.com",
+      "graduationYear": "2027",
+      "monitoringNote": "高校就业网自动发现：广东外语外贸大学；后续由source health验证标准北森抓取"
+    },
+    {
+      "company": "深圳市杰和科技发展有限公司",
+      "baseUrl": "https://giada.zhiye.com",
+      "graduationYear": "2027",
+      "monitoringNote": "高校就业网自动发现：广东外语外贸大学；后续由source health验证标准北森抓取"
+    },
+    {
+      "company": "湖南长银五八消费金融股份有限公司",
+      "baseUrl": "https://cscb.zhiye.com",
+      "graduationYear": "2027",
+      "monitoringNote": "高校就业网自动发现：南开大学；后续由source health验证标准北森抓取"
     }
   ],
   "feishu": [
@@ -760,6 +778,17 @@
       "pageSize": 100,
       "maxPages": 30,
       "maxJobs": 3000
+    },
+    {
+      "company": "深圳市艾丽斯卡文化创意有限公司",
+      "baseUrl": "https://o4bl6lvhcp.jobs.feishu.cn",
+      "websitePath": "213238",
+      "graduationYear": "2027",
+      "detailTemplate": "https://o4bl6lvhcp.jobs.feishu.cn/213238/m/position/{id}/detail",
+      "pageSize": 100,
+      "maxPages": 30,
+      "maxJobs": 3000,
+      "monitoringNote": "高校就业网自动发现：广东外语外贸大学"
     }
   ],
   "hotjob": [

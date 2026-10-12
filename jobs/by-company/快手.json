@@ -1,7 +1,7 @@
 {
   "company": "快手",
   "count": 83,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "kuaishou-12f8df8d0013",
@@ -573,6 +573,101 @@
       "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
     },
     {
+      "id": "kuaishou-a4602185165a",
+      "company": "快手",
+      "title": "用户产品经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责各端产品从规划、设计、制作、开发、测试到最终上线整个产品周期，并对产品数据负责；\n2、负责产品需求文档的撰写及产品原型绘制，协助开发团队理解和掌握需求，对产品需求方向和易用性负责；\n3、负责项目周期和进度把控，确保项目进度，快速、高效推进功能上线；\n4、与运营、市场等团队紧密配合，完成产品目标的达成，在产品层面对合作类项目予以支持。",
+      "jobRequirements": "",
+      "JD": "1、负责各端产品从规划、设计、制作、开发、测试到最终上线整个产品周期，并对产品数据负责；\n2、负责产品需求文档的撰写及产品原型绘制，协助开发团队理解和掌握需求，对产品需求方向和易用性负责；\n3、负责项目周期和进度把控，确保项目进度，快速、高效推进功能上线；\n4、与运营、市场等团队紧密配合，完成产品目标的达成，在产品层面对合作类项目予以支持。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "市场分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=34fc1971e4fd4f88be0132f005a7e025",
+      "publishedAt": "2026-08-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
+    },
+    {
       "id": "kuaishou-f710ded3e555",
       "company": "快手",
       "title": "营销策略运营",
@@ -659,101 +754,6 @@
       "annualSalary": "未披露",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=4d9eeacd84a7469aa72290c7a7892565",
-      "publishedAt": "2026-08-09",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
-    },
-    {
-      "id": "kuaishou-a4602185165a",
-      "company": "快手",
-      "title": "用户产品经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、负责各端产品从规划、设计、制作、开发、测试到最终上线整个产品周期，并对产品数据负责；\n2、负责产品需求文档的撰写及产品原型绘制，协助开发团队理解和掌握需求，对产品需求方向和易用性负责；\n3、负责项目周期和进度把控，确保项目进度，快速、高效推进功能上线；\n4、与运营、市场等团队紧密配合，完成产品目标的达成，在产品层面对合作类项目予以支持。",
-      "jobRequirements": "",
-      "JD": "1、负责各端产品从规划、设计、制作、开发、测试到最终上线整个产品周期，并对产品数据负责；\n2、负责产品需求文档的撰写及产品原型绘制，协助开发团队理解和掌握需求，对产品需求方向和易用性负责；\n3、负责项目周期和进度把控，确保项目进度，快速、高效推进功能上线；\n4、与运营、市场等团队紧密配合，完成产品目标的达成，在产品层面对合作类项目予以支持。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，专业不限"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "市场分析",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=34fc1971e4fd4f88be0132f005a7e025",
       "publishedAt": "2026-08-09",
       "lastVerified": "",
       "sourceType": "official",
@@ -4220,6 +4220,93 @@
       "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
     },
     {
+      "id": "kuaishou-4782949b9487",
+      "company": "快手",
+      "title": "HR-BP类",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "5、本科及以上学历，不限专业",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "加入快手HRBP团队，你将成为业务团队的战略合作伙伴，深度参与公司核心业务发展，在复杂多变的业务场景中锻炼全局视角和解决问题的能力；探索AI在组织诊断、人才洞察等场景的应用，快速成长为具备战略思维的HR专家，助力组织与个人共同成功。\n\n【这个岗位在做什么】\n1、深入了解业务与组织现状，协助负责人梳理组织设计和人员落位，推动落地，提升团队效能；\n2、关注人才配置合理性，设计人才成长路径，为全周期培养提供支持；\n3、推动人力资源项目在业务部门落地，建立有效沟通渠道，帮助管理者提升团队凝聚力；\n4、不仅是AI的应用者，更要牵引业务侧拥抱AI落地，让AI深度融入组织场景中。\n\n【为什么是快手】 \n组织问题没有标准答案，AI也没有，在这里你既可以探索和应用AI看清问题，同时也来解AI回答不了的问题，读懂人、判断组织、推动改变，你是那个让改变真正发生的人。",
+      "jobRequirements": "",
+      "JD": "加入快手HRBP团队，你将成为业务团队的战略合作伙伴，深度参与公司核心业务发展，在复杂多变的业务场景中锻炼全局视角和解决问题的能力；探索AI在组织诊断、人才洞察等场景的应用，快速成长为具备战略思维的HR专家，助力组织与个人共同成功。\n\n【这个岗位在做什么】\n1、深入了解业务与组织现状，协助负责人梳理组织设计和人员落位，推动落地，提升团队效能；\n2、关注人才配置合理性，设计人才成长路径，为全周期培养提供支持；\n3、推动人力资源项目在业务部门落地，建立有效沟通渠道，帮助管理者提升团队凝聚力；\n4、不仅是AI的应用者，更要牵引业务侧拥抱AI落地，让AI深度融入组织场景中。\n\n【为什么是快手】 \n组织问题没有标准答案，AI也没有，在这里你既可以探索和应用AI看清问题，同时也来解AI回答不了的问题，读懂人、判断组织、推动改变，你是那个让改变真正发生的人。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "5、本科及以上学历，不限专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=59ed4cb841f143eb84fd806c926e269f",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
+    },
+    {
       "id": "kuaishou-2201b7b845d9",
       "company": "快手",
       "title": "游戏系统策划-外观方向",
@@ -4301,93 +4388,6 @@
       "annualSalary": "未披露",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=3c086d3d44184e228b5a9862c84d0ecc",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
-    },
-    {
-      "id": "kuaishou-4782949b9487",
-      "company": "快手",
-      "title": "HR-BP类",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "5、本科及以上学历，不限专业",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "加入快手HRBP团队，你将成为业务团队的战略合作伙伴，深度参与公司核心业务发展，在复杂多变的业务场景中锻炼全局视角和解决问题的能力；探索AI在组织诊断、人才洞察等场景的应用，快速成长为具备战略思维的HR专家，助力组织与个人共同成功。\n\n【这个岗位在做什么】\n1、深入了解业务与组织现状，协助负责人梳理组织设计和人员落位，推动落地，提升团队效能；\n2、关注人才配置合理性，设计人才成长路径，为全周期培养提供支持；\n3、推动人力资源项目在业务部门落地，建立有效沟通渠道，帮助管理者提升团队凝聚力；\n4、不仅是AI的应用者，更要牵引业务侧拥抱AI落地，让AI深度融入组织场景中。\n\n【为什么是快手】 \n组织问题没有标准答案，AI也没有，在这里你既可以探索和应用AI看清问题，同时也来解AI回答不了的问题，读懂人、判断组织、推动改变，你是那个让改变真正发生的人。",
-      "jobRequirements": "",
-      "JD": "加入快手HRBP团队，你将成为业务团队的战略合作伙伴，深度参与公司核心业务发展，在复杂多变的业务场景中锻炼全局视角和解决问题的能力；探索AI在组织诊断、人才洞察等场景的应用，快速成长为具备战略思维的HR专家，助力组织与个人共同成功。\n\n【这个岗位在做什么】\n1、深入了解业务与组织现状，协助负责人梳理组织设计和人员落位，推动落地，提升团队效能；\n2、关注人才配置合理性，设计人才成长路径，为全周期培养提供支持；\n3、推动人力资源项目在业务部门落地，建立有效沟通渠道，帮助管理者提升团队凝聚力；\n4、不仅是AI的应用者，更要牵引业务侧拥抱AI落地，让AI深度融入组织场景中。\n\n【为什么是快手】 \n组织问题没有标准答案，AI也没有，在这里你既可以探索和应用AI看清问题，同时也来解AI回答不了的问题，读懂人、判断组织、推动改变，你是那个让改变真正发生的人。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "5、本科及以上学历，不限专业"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=59ed4cb841f143eb84fd806c926e269f",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",
@@ -4853,9 +4853,9 @@
       "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
     },
     {
-      "id": "kuaishou-143247561145",
+      "id": "kuaishou-3249e3ad96f1",
       "company": "快手",
-      "title": "策略产品经理-社区治理",
+      "title": "游戏数值策划",
       "graduationYear": [
         "2027"
       ],
@@ -4865,7 +4865,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1. 计算机、统计学、社会学或新闻传播等相关专业优先",
+        "raw": "",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4874,15 +4874,13 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "北京",
-      "jobDescription": "1. 协助进行快手社区内容的治理工作（分为安全或生态两个方向），从问题发现、识别处置到效果监控的全流程治理；\n2. 深入了解快手的社区内容场景（包括不限于短视频/直播/评论/搜索等），基于内外部反馈和业务数据，设计合理有效的治理策略方案，并对策略效果进行持续评估；\n3. 与算法、平台产品等上下游团队完善治理运营平台系统，对风控策略体系进持续迭代。",
+      "location": "杭州",
+      "jobDescription": "1、设置游戏角色、游戏资源的数值体系;\n2、分析游戏的数值变化，提出恰当的解决方案。",
       "jobRequirements": "",
-      "JD": "1. 协助进行快手社区内容的治理工作（分为安全或生态两个方向），从问题发现、识别处置到效果监控的全流程治理；\n2. 深入了解快手的社区内容场景（包括不限于短视频/直播/评论/搜索等），基于内外部反馈和业务数据，设计合理有效的治理策略方案，并对策略效果进行持续评估；\n3. 与算法、平台产品等上下游团队完善治理运营平台系统，对风控策略体系进持续迭代。",
+      "JD": "1、设置游戏角色、游戏资源的数值体系;\n2、分析游戏的数值变化，提出恰当的解决方案。",
       "jdEvidence": {
         "source": "regex-v1",
-        "majorClauses": [
-          "1. 计算机、统计学、社会学或新闻传播等相关专业优先"
-        ],
+        "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届"
         ],
@@ -4893,12 +4891,9 @@
         "其他"
       ],
       "skills": [
-        "数据分析",
-        "SQL"
+        "数据分析"
       ],
       "experienceKeywords": [
-        "运营",
-        "内容",
         "数据"
       ],
       "preferenceTags": [],
@@ -4934,7 +4929,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=9b1e6a452ad548afa7c14d76b2bb38f1",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=bfa24b23f4654d398987549e7ad61b56",
       "publishedAt": "2026-08-09",
       "lastVerified": "",
       "sourceType": "official",
@@ -5024,6 +5019,98 @@
       "annualSalary": "未披露",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=b4b3684d249b4e6ba76e86483b72d7a2",
+      "publishedAt": "2026-08-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
+    },
+    {
+      "id": "kuaishou-143247561145",
+      "company": "快手",
+      "title": "策略产品经理-社区治理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 计算机、统计学、社会学或新闻传播等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 协助进行快手社区内容的治理工作（分为安全或生态两个方向），从问题发现、识别处置到效果监控的全流程治理；\n2. 深入了解快手的社区内容场景（包括不限于短视频/直播/评论/搜索等），基于内外部反馈和业务数据，设计合理有效的治理策略方案，并对策略效果进行持续评估；\n3. 与算法、平台产品等上下游团队完善治理运营平台系统，对风控策略体系进持续迭代。",
+      "jobRequirements": "",
+      "JD": "1. 协助进行快手社区内容的治理工作（分为安全或生态两个方向），从问题发现、识别处置到效果监控的全流程治理；\n2. 深入了解快手的社区内容场景（包括不限于短视频/直播/评论/搜索等），基于内外部反馈和业务数据，设计合理有效的治理策略方案，并对策略效果进行持续评估；\n3. 与算法、平台产品等上下游团队完善治理运营平台系统，对风控策略体系进持续迭代。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 计算机、统计学、社会学或新闻传播等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "快手官方2027校招官网",
+      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=9b1e6a452ad548afa7c14d76b2bb38f1",
       "publishedAt": "2026-08-09",
       "lastVerified": "",
       "sourceType": "official",
@@ -5304,93 +5391,6 @@
       "annualSalary": "未披露",
       "source": "快手官方2027校招官网",
       "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=9aef0bcb2d824ce68247bc14f325a046",
-      "publishedAt": "2026-08-09",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递→测评（认知测评+AI素养测评）→简历筛选→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 浙江大学就业服务平台 | https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5A03D470E12EAD6FE0653A68DD0E9B18 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 牛客网校招内推帖 | https://m.nowcoder.com/feed/main/detail/4de1ce25780a4bed9063225a1b415794 | 2026-09-17"
-    },
-    {
-      "id": "kuaishou-3249e3ad96f1",
-      "company": "快手",
-      "title": "游戏数值策划",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "jobDescription": "1、设置游戏角色、游戏资源的数值体系;\n2、分析游戏的数值变化，提出恰当的解决方案。",
-      "jobRequirements": "",
-      "JD": "1、设置游戏角色、游戏资源的数值体系;\n2、分析游戏的数值变化，提出恰当的解决方案。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "快手官方2027校招官网",
-      "officialURL": "https://campus.kuaishou.cn#/campus/jobDetail?positionId=bfa24b23f4654d398987549e7ad61b56",
       "publishedAt": "2026-08-09",
       "lastVerified": "",
       "sourceType": "official",

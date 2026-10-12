@@ -1,7 +1,7 @@
 {
   "company": "Babycare",
-  "count": 31,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "count": 32,
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "beisen-c4b21c074156",
@@ -560,6 +560,102 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=f021a8ea-c5de-4c79-af28-bd8a072bebbc",
       "publishedAt": "2026-07-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申(2026/7/31启动)→线下宣讲会(9/21起)→面试环节(9/23起，线上/线下)→Offer(11月起)→入职(2027/7)",
+      "recruitmentProcessEvidence": "E3 | 浙大就业平台校招流程原文 | https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?dwxxid=JG1202310&xjhbh=0e00805aad83114100dcbf01fbfc0b0e | 2026-09-17",
+      "hasAssessment": "待核实",
+      "hasAssessmentEvidence": "E4 | PreTalent历史校招测评攻略 | https://www.pretalent.com.cn/blog/pretalent-babycare-2024 | 2026-09-17"
+    },
+    {
+      "id": "beisen-f6c002fa2e23",
+      "company": "Babycare",
+      "title": "2027校招-产品经理管培生（电动行李箱)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，工业设计专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "我们需要你： 1、产品企划：进行市场分析，历史销售数据分析，竞品分析、用户调研， 收集技术储备，输出产品企划roadmap; 2、产品开发：输出产品定义方案，制定新品开发计划；参与制定产品技术要求和测试标准，完成产品测试，保证产品实现和成本把控； 3、商业实现：持续进行成本优化、降本增效；输出产品核心卖点； 4、项目管理：熟悉产品开发管控流程， 协调内外资源，推进产品开发。",
+      "jobRequirements": "我们希望你： 1、本科及以上学历，工业设计专业优先； 2、具备较强的逻辑思维、沟通表达能力以及较强的创新能力； 3、具备应变性、抗压性，乐观、自信、有责任心； 4、熟练使用Office等办公软件。 JOIN US : 如果你心怀炙热，对打造行业爆品感兴趣，加入我们，一起为爱重新设计。",
+      "JD": "我们需要你： 1、产品企划：进行市场分析，历史销售数据分析，竞品分析、用户调研， 收集技术储备，输出产品企划roadmap; 2、产品开发：输出产品定义方案，制定新品开发计划；参与制定产品技术要求和测试标准，完成产品测试，保证产品实现和成本把控； 3、商业实现：持续进行成本优化、降本增效；输出产品核心卖点； 4、项目管理：熟悉产品开发管控流程， 协调内外资源，推进产品开发。\n我们希望你： 1、本科及以上学历，工业设计专业优先； 2、具备较强的逻辑思维、沟通表达能力以及较强的创新能力； 3、具备应变性、抗压性，乐观、自信、有责任心； 4、熟练使用Office等办公软件。 JOIN US : 如果你心怀炙热，对打造行业爆品感兴趣，加入我们，一起为爱重新设计。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，工业设计专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027校招-产品经理管培生（电动行李箱)"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "市场分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 我们需要你： 1、产品企划：进行市场分析，历史销售数据分析，竞品分析、用户调研， "
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "10K-15K 元/月",
+        "monthlyMin": 10000,
+        "monthlyMax": 15000,
+        "annualMin": 120000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1万–1.5万/月",
+        "annualDisplay": "12万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10K-15K 元/月 公司官方北森校招岗位；识别关键词：数据分析、市"
+      },
+      "salary": "10K-15K 元/月",
+      "monthlySalary": "1万–1.5万/月",
+      "annualSalary": "12万–18万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=d9a237d5-91d5-4595-a598-bc09c4e22395",
+      "publishedAt": "2026-10-12",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

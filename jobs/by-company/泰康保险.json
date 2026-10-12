@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 302,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "count": 307,
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -620,6 +620,95 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=2e85db45-2da0-42e9-806f-65e36568aa8e",
       "publishedAt": "2026-09-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d52c82374a00",
+      "company": "泰康保险",
+      "title": "养老-山东-运营管培生（27届校招）(J89917)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1、获客产品统筹管理：统筹管理各类获客产品（包括短期险及健康服务产品），通过项目调研、客户访谈与数据分析，识别业务痛点与客户需求，提供针对性产品支持方案和产品创新。 2、产品策略制定、宣导与培训： 结合机构发展阶段与实际业务需求，筛选适配产品形成应用方案。组织宣导产品知识培训，助力队伍准确把握产品内容及使用思路。 3、产品全流程管理：负责产品投保全流程系统支持、流程问题处理及凭证打印、单证管理、数据管理等运营工作 4、员福业务核保管理：负责员工福利业务的日常定价、承保与系统审核，严格执行核保规则与业务标准，确保业务承保质量与合规。",
+      "jobRequirements": "保险、医学相关专业优先",
+      "JD": "1、获客产品统筹管理：统筹管理各类获客产品（包括短期险及健康服务产品），通过项目调研、客户访谈与数据分析，识别业务痛点与客户需求，提供针对性产品支持方案和产品创新。 2、产品策略制定、宣导与培训： 结合机构发展阶段与实际业务需求，筛选适配产品形成应用方案。组织宣导产品知识培训，助力队伍准确把握产品内容及使用思路。 3、产品全流程管理：负责产品投保全流程系统支持、流程问题处理及凭证打印、单证管理、数据管理等运营工作 4、员福业务核保管理：负责员工福利业务的日常定价、承保与系统审核，严格执行核保规则与业务标准，确保业务承保质量与合规。\n保险、医学相关专业优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、获客产品统筹管理：统筹管理各类获客产品（包括短期险及健康服务产品），通过项目调"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=2f2b1497-0730-40e1-bbba-c3bf9873f6c1",
+      "publishedAt": "2026-10-12",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -1711,6 +1800,92 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=f5cdf0f1-bee2-44a7-925b-bd59588f4651",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-75bce2e3f972",
+      "company": "泰康保险",
+      "title": "人寿-山东分公司-管培生（2027年校招）(J89928)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.2027年应届本科或以上学历，金融、保险、经济类、管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市/淄博市/枣庄市/东营市/烟台市/泰安市/济宁市/潍坊市/威海市/日照市/临沂市/德州市/聊城市/滨州市/菏泽市",
+      "jobDescription": "轮岗学习保险业务全流程，协助部门完成业务支持、数据分析及项目推动，参与专项任务并接受系统化培训。 全省各机构轮岗1-2年。",
+      "jobRequirements": "1.2027年应届本科或以上学历，金融、保险、经济类、管理等相关专业优先。 2.认同保险行业，认同泰康企业文化。 3.品学兼优，良好的沟通和表达能力，较强的自我成长意愿，良好的团队协作能力。 4.学生干部及具有社团活动经验者优先，有保险相关实习工作经验者优先。",
+      "JD": "轮岗学习保险业务全流程，协助部门完成业务支持、数据分析及项目推动，参与专项任务并接受系统化培训。 全省各机构轮岗1-2年。\n1.2027年应届本科或以上学历，金融、保险、经济类、管理等相关专业优先。 2.认同保险行业，认同泰康企业文化。 3.品学兼优，良好的沟通和表达能力，较强的自我成长意愿，良好的团队协作能力。 4.学生干部及具有社团活动经验者优先，有保险相关实习工作经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.2027年应届本科或以上学历，金融、保险、经济类、管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=6284c498-2cf5-4e1e-87f6-36cb037e95c3",
+      "publishedAt": "2026-10-12",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -13631,6 +13806,255 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2028-06-08"
+    },
+    {
+      "id": "beisen-7f1b6f1b46e6",
+      "company": "泰康保险",
+      "title": "人寿-山东分公司-法律合规岗位（2027年校招）(J89926)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027年应届本科或以上学历，法律、审计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·德州市/日照市",
+      "jobDescription": "跟踪监管政策、提示合规风险，组织合规培训、落实监管部署，开展合规报告问责与反洗钱等相关工作。",
+      "jobRequirements": "1. 2027年应届本科或以上学历，法律、审计等相关专业优先。 2. 具备良好的沟通协调能力和服务意识。 3. 工作细致认真，责任心强，具备良好的时间管理和多任务处理能力。 4. 具备较强的学习能力和团队合作精神。",
+      "JD": "跟踪监管政策、提示合规风险，组织合规培训、落实监管部署，开展合规报告问责与反洗钱等相关工作。\n1. 2027年应届本科或以上学历，法律、审计等相关专业优先。 2. 具备良好的沟通协调能力和服务意识。 3. 工作细致认真，责任心强，具备良好的时间管理和多任务处理能力。 4. 具备较强的学习能力和团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027年应届本科或以上学历，法律、审计等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 跟踪监管政策、提示合规风险，组织合规培训、落实监管部署，开展合规报告问责与反洗钱等"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=fbb3aa72-1047-423a-8097-51c30118e5b9",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7be1deeef4f0",
+      "company": "泰康保险",
+      "title": "人寿-山东分公司-物控岗位（2027年校招）(J89922)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027年应届本科或以上学历，专业不限，管理类、建筑类等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "统筹分公司职场预算编制、物控管理及资产盘点等综合工作 。",
+      "jobRequirements": "1. 2027年应届本科或以上学历，专业不限，管理类、建筑类等相关专业优先 。 2. 具备良好的沟通协调能力和服务意识。 3. 工作细致认真，责任心强，具备良好的时间管理和多任务处理能力。 4. 具备较强的学习能力和团队合作精神。",
+      "JD": "统筹分公司职场预算编制、物控管理及资产盘点等综合工作 。\n1. 2027年应届本科或以上学历，专业不限，管理类、建筑类等相关专业优先 。 2. 具备良好的沟通协调能力和服务意识。 3. 工作细致认真，责任心强，具备良好的时间管理和多任务处理能力。 4. 具备较强的学习能力和团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027年应届本科或以上学历，专业不限，管理类、建筑类等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 统筹分公司职场预算编制、物控管理及资产盘点等综合工作 。 1. 2027年应届本科"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=8ef97270-8a93-42af-8d24-c0df93345ce6",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d97d9973228b",
+      "company": "泰康保险",
+      "title": "人寿-贵州分公司-大健康服务(J89940)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "贵州省·贵阳市/安顺市/毕节市/黔东南苗族侗族自治州/黔南布依族苗族自治州",
+      "jobDescription": "承担机构大健康服务落地工作，负责医疗健康网络拓展维护、理赔服务推广及理赔业务管理、提供驻点服务及业务支持相关工作，管控风险，支持业务。",
+      "jobRequirements": "1.2027届本科及以上学历； 2.责任心强，敬业度高，吃苦耐劳，具有较强的组织协调能力、沟通能力和抗压能力； 3.有志在保险行业长期发展，认可泰康企业文化。",
+      "JD": "承担机构大健康服务落地工作，负责医疗健康网络拓展维护、理赔服务推广及理赔业务管理、提供驻点服务及业务支持相关工作，管控风险，支持业务。\n1.2027届本科及以上学历； 2.责任心强，敬业度高，吃苦耐劳，具有较强的组织协调能力、沟通能力和抗压能力； 3.有志在保险行业长期发展，认可泰康企业文化。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "2027届本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 承担机构大健康服务落地工作，负责医疗健康网络拓展维护、理赔服务推广及理赔业务管理、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=f7736ed6-81af-4fcd-830c-b95e7e053b13",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
       "id": "beisen-a024f9720b86",

@@ -1,7 +1,7 @@
 {
   "company": "小红书",
   "count": 32,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "xiaohongshu-cd19bb446345",
@@ -608,6 +608,190 @@
       "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
     },
     {
+      "id": "xiaohongshu-7c1325cc5e9d",
+      "company": "小红书",
+      "title": "【2027校招】安全运营校招生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年应届毕业生，专业不限，电子信息、信息安全、数据科学、法学、社会学、公共管理等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "安全运营的核心目标是为公司业务发展创造安全空间，通过保障机制和治理策略，推动各项业务沿着安全稳健的道路发展，确保平台内容的安全可靠。兼顾用户体验的同时，维护小红书整体经营安全。 安全运营校招生要做的是： 1、结合安全治理需求，制定内容安全策略，对相关问题进行深度研究并推动规则执行落地。 2、搭建专项指标体系，通过指标监控和数据分析，及时发现异常数据，研判异常背后的动因，提出解决策略并推动业务优化。 3、分析行业政策、梳理商业业务流程，搭建规则体系、控制风险，为公司商业业务发展保驾护航。 4、面对模糊、复杂的治理问题，能界定风险边界、拆解为可落地可考核的方案，并善用 AI 等工具提升研究与执行效率。",
+      "jobRequirements": "1、2027年应届毕业生，专业不限，电子信息、信息安全、数据科学、法学、社会学、公共管理等专业优先。 2、具有安全、风控、内容治理相关实习经验者优先。 3、逻辑清晰，兼具数据分析与人文洞察，学习能力强，有韧性，突破能力强。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
+      "JD": "安全运营的核心目标是为公司业务发展创造安全空间，通过保障机制和治理策略，推动各项业务沿着安全稳健的道路发展，确保平台内容的安全可靠。兼顾用户体验的同时，维护小红书整体经营安全。 安全运营校招生要做的是： 1、结合安全治理需求，制定内容安全策略，对相关问题进行深度研究并推动规则执行落地。 2、搭建专项指标体系，通过指标监控和数据分析，及时发现异常数据，研判异常背后的动因，提出解决策略并推动业务优化。 3、分析行业政策、梳理商业业务流程，搭建规则体系、控制风险，为公司商业业务发展保驾护航。 4、面对模糊、复杂的治理问题，能界定风险边界、拆解为可落地可考核的方案，并善用 AI 等工具提升研究与执行效率。\n1、2027年应届毕业生，专业不限，电子信息、信息安全、数据科学、法学、社会学、公共管理等专业优先。 2、具有安全、风控、内容治理相关实习经验者优先。 3、逻辑清晰，兼具数据分析与人文洞察，学习能力强，有韧性，突破能力强。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年应届毕业生，专业不限，电子信息、信息安全、数据科学、法学、社会学、公共管理等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22159",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-cc26c0950b2d",
+      "company": "小红书",
+      "title": "【2027校招】公共品牌与公众沟通校招生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年应届毕业生，专业不限，哲学、社会学、政治学、人类学、新闻传播、公共管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "公共品牌与公众沟通是公司向外发声的主要角色，以建立外界对小红书及其各项业务的正向认知为目标。 通过寻找、塑造、创新公众所喜闻乐见的表达方式，站在人文与科技的十字路口，讲述小红书特色的真实动人故事，向外传递小红书上的初心与坚守，促进人与人的真实链接、真诚沟通。 公共品牌与公众沟通校招生要做的是： 1、学习通过与不同媒体渠道的良性互动，对公司品牌及业务进行宣传和沟通，保护公司声誉，寻找舆论场上的长期伙伴并持续维护。 2、探索并尝试更具互动性、代入感的传播方式，发掘小红书上的好内容，策划具有小红书特色的精品传播，助力公众对品牌好感度的提升。",
+      "jobRequirements": "1、2027年应届毕业生，专业不限，哲学、社会学、政治学、人类学、新闻传播、公共管理等相关专业优先。 2、有在小红书或其他社区平台有个人账号运营经验者优先。 3、学习能力强，积极外向，善于沟通，有韧性，突破能力强。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
+      "JD": "公共品牌与公众沟通是公司向外发声的主要角色，以建立外界对小红书及其各项业务的正向认知为目标。 通过寻找、塑造、创新公众所喜闻乐见的表达方式，站在人文与科技的十字路口，讲述小红书特色的真实动人故事，向外传递小红书上的初心与坚守，促进人与人的真实链接、真诚沟通。 公共品牌与公众沟通校招生要做的是： 1、学习通过与不同媒体渠道的良性互动，对公司品牌及业务进行宣传和沟通，保护公司声誉，寻找舆论场上的长期伙伴并持续维护。 2、探索并尝试更具互动性、代入感的传播方式，发掘小红书上的好内容，策划具有小红书特色的精品传播，助力公众对品牌好感度的提升。\n1、2027年应届毕业生，专业不限，哲学、社会学、政治学、人类学、新闻传播、公共管理等相关专业优先。 2、有在小红书或其他社区平台有个人账号运营经验者优先。 3、学习能力强，积极外向，善于沟通，有韧性，突破能力强。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年应届毕业生，专业不限，哲学、社会学、政治学、人类学、新闻传播、公共管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22160",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
       "id": "xiaohongshu-e5a472d7ba1a",
       "company": "小红书",
       "title": "【2027校招】Growth Builder-Product & Experimentation",
@@ -894,190 +1078,6 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22197",
-      "publishedAt": "2026-09-22",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-cc26c0950b2d",
-      "company": "小红书",
-      "title": "【2027校招】公共品牌与公众沟通校招生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、2027年应届毕业生，专业不限，哲学、社会学、政治学、人类学、新闻传播、公共管理等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "公共品牌与公众沟通是公司向外发声的主要角色，以建立外界对小红书及其各项业务的正向认知为目标。 通过寻找、塑造、创新公众所喜闻乐见的表达方式，站在人文与科技的十字路口，讲述小红书特色的真实动人故事，向外传递小红书上的初心与坚守，促进人与人的真实链接、真诚沟通。 公共品牌与公众沟通校招生要做的是： 1、学习通过与不同媒体渠道的良性互动，对公司品牌及业务进行宣传和沟通，保护公司声誉，寻找舆论场上的长期伙伴并持续维护。 2、探索并尝试更具互动性、代入感的传播方式，发掘小红书上的好内容，策划具有小红书特色的精品传播，助力公众对品牌好感度的提升。",
-      "jobRequirements": "1、2027年应届毕业生，专业不限，哲学、社会学、政治学、人类学、新闻传播、公共管理等相关专业优先。 2、有在小红书或其他社区平台有个人账号运营经验者优先。 3、学习能力强，积极外向，善于沟通，有韧性，突破能力强。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
-      "JD": "公共品牌与公众沟通是公司向外发声的主要角色，以建立外界对小红书及其各项业务的正向认知为目标。 通过寻找、塑造、创新公众所喜闻乐见的表达方式，站在人文与科技的十字路口，讲述小红书特色的真实动人故事，向外传递小红书上的初心与坚守，促进人与人的真实链接、真诚沟通。 公共品牌与公众沟通校招生要做的是： 1、学习通过与不同媒体渠道的良性互动，对公司品牌及业务进行宣传和沟通，保护公司声誉，寻找舆论场上的长期伙伴并持续维护。 2、探索并尝试更具互动性、代入感的传播方式，发掘小红书上的好内容，策划具有小红书特色的精品传播，助力公众对品牌好感度的提升。\n1、2027年应届毕业生，专业不限，哲学、社会学、政治学、人类学、新闻传播、公共管理等相关专业优先。 2、有在小红书或其他社区平台有个人账号运营经验者优先。 3、学习能力强，积极外向，善于沟通，有韧性，突破能力强。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、2027年应届毕业生，专业不限，哲学、社会学、政治学、人类学、新闻传播、公共管理等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "用户",
-        "品牌",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22160",
-      "publishedAt": "2026-09-22",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-7c1325cc5e9d",
-      "company": "小红书",
-      "title": "【2027校招】安全运营校招生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、2027年应届毕业生，专业不限，电子信息、信息安全、数据科学、法学、社会学、公共管理等专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "安全运营的核心目标是为公司业务发展创造安全空间，通过保障机制和治理策略，推动各项业务沿着安全稳健的道路发展，确保平台内容的安全可靠。兼顾用户体验的同时，维护小红书整体经营安全。 安全运营校招生要做的是： 1、结合安全治理需求，制定内容安全策略，对相关问题进行深度研究并推动规则执行落地。 2、搭建专项指标体系，通过指标监控和数据分析，及时发现异常数据，研判异常背后的动因，提出解决策略并推动业务优化。 3、分析行业政策、梳理商业业务流程，搭建规则体系、控制风险，为公司商业业务发展保驾护航。 4、面对模糊、复杂的治理问题，能界定风险边界、拆解为可落地可考核的方案，并善用 AI 等工具提升研究与执行效率。",
-      "jobRequirements": "1、2027年应届毕业生，专业不限，电子信息、信息安全、数据科学、法学、社会学、公共管理等专业优先。 2、具有安全、风控、内容治理相关实习经验者优先。 3、逻辑清晰，兼具数据分析与人文洞察，学习能力强，有韧性，突破能力强。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
-      "JD": "安全运营的核心目标是为公司业务发展创造安全空间，通过保障机制和治理策略，推动各项业务沿着安全稳健的道路发展，确保平台内容的安全可靠。兼顾用户体验的同时，维护小红书整体经营安全。 安全运营校招生要做的是： 1、结合安全治理需求，制定内容安全策略，对相关问题进行深度研究并推动规则执行落地。 2、搭建专项指标体系，通过指标监控和数据分析，及时发现异常数据，研判异常背后的动因，提出解决策略并推动业务优化。 3、分析行业政策、梳理商业业务流程，搭建规则体系、控制风险，为公司商业业务发展保驾护航。 4、面对模糊、复杂的治理问题，能界定风险边界、拆解为可落地可考核的方案，并善用 AI 等工具提升研究与执行效率。\n1、2027年应届毕业生，专业不限，电子信息、信息安全、数据科学、法学、社会学、公共管理等专业优先。 2、具有安全、风控、内容治理相关实习经验者优先。 3、逻辑清晰，兼具数据分析与人文洞察，学习能力强，有韧性，突破能力强。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、2027年应届毕业生，专业不限，电子信息、信息安全、数据科学、法学、社会学、公共管理等专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "用户",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22159",
       "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",
@@ -1749,6 +1749,97 @@
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22162",
       "publishedAt": "2026-09-22",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-82385e2edd0e",
+      "company": "小红书",
+      "title": "【2027校招】公共事务校招生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、参与面向相关机构与公众的沟通实践，独立完成对外沟通材料、议题梳理、汇报方案等内容，确保每一次对外表达都专业、准确；1、2027年应届毕业生，专业不限，公共管理、社会学、法学、新闻传播、经济学、政治学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "公共事务是公司与外部世界建立理解与信任的桥梁，通过持续的研究判断与精准的沟通表达，让公司的价值被看见、被理解、被认同。 公共事务校招生要做的是： 1、持续追踪宏观政策、行业法规及社会热点动态，结合公司业务，输出有观点、有判断的分析简报与策略建议。 2、参与面向相关机构与公众的沟通实践，独立完成对外沟通材料、议题梳理、汇报方案等内容，确保每一次对外表达都专业、准确。 3、围绕公司业务与社会议题的交汇点开展深度研究，撰写有洞察、有说服力的公共沟通内容，用扎实的信息和清晰的逻辑支撑公司的对外表达。 4、策划并执行公共事务相关活动与项目，通过有创意、有温度的沟通方式，提升外界对公司的认知度与信任感。",
+      "jobRequirements": "1、2027年应届毕业生，专业不限，公共管理、社会学、法学、新闻传播、经济学、政治学等相关专业优先。 2、有政策研究、公共事务、智库、媒体、企业公关或相关实习经验者优先。 3、敏锐的判断力与信息甄别能力，善于从繁杂信息中提炼关键洞察；逻辑清晰、表达出色，能独立完成高质量的分析报告与沟通材料。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
+      "JD": "公共事务是公司与外部世界建立理解与信任的桥梁，通过持续的研究判断与精准的沟通表达，让公司的价值被看见、被理解、被认同。 公共事务校招生要做的是： 1、持续追踪宏观政策、行业法规及社会热点动态，结合公司业务，输出有观点、有判断的分析简报与策略建议。 2、参与面向相关机构与公众的沟通实践，独立完成对外沟通材料、议题梳理、汇报方案等内容，确保每一次对外表达都专业、准确。 3、围绕公司业务与社会议题的交汇点开展深度研究，撰写有洞察、有说服力的公共沟通内容，用扎实的信息和清晰的逻辑支撑公司的对外表达。 4、策划并执行公共事务相关活动与项目，通过有创意、有温度的沟通方式，提升外界对公司的认知度与信任感。\n1、2027年应届毕业生，专业不限，公共管理、社会学、法学、新闻传播、经济学、政治学等相关专业优先。 2、有政策研究、公共事务、智库、媒体、企业公关或相关实习经验者优先。 3、敏锐的判断力与信息甄别能力，善于从繁杂信息中提炼关键洞察；逻辑清晰、表达出色，能独立完成高质量的分析报告与沟通材料。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、参与面向相关机构与公众的沟通实践，独立完成对外沟通材料、议题梳理、汇报方案等内容，确保每一次对外表达都专业、准确",
+          "1、2027年应届毕业生，专业不限，公共管理、社会学、法学、新闻传播、经济学、政治学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "用户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22158",
+      "publishedAt": "2026-10-12",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2573,97 +2664,6 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22161",
-      "publishedAt": "2026-09-22",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-82385e2edd0e",
-      "company": "小红书",
-      "title": "【2027校招】公共事务校招生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2、参与面向相关机构与公众的沟通实践，独立完成对外沟通材料、议题梳理、汇报方案等内容，确保每一次对外表达都专业、准确；1、2027年应届毕业生，专业不限，公共管理、社会学、法学、新闻传播、经济学、政治学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "公共事务是公司与外部世界建立理解与信任的桥梁，通过持续的研究判断与精准的沟通表达，让公司的价值被看见、被理解、被认同。 公共事务校招生要做的是： 1、持续追踪宏观政策、行业法规及社会热点动态，结合公司业务，输出有观点、有判断的分析简报与策略建议。 2、参与面向相关机构与公众的沟通实践，独立完成对外沟通材料、议题梳理、汇报方案等内容，确保每一次对外表达都专业、准确。 3、围绕公司业务与社会议题的交汇点开展深度研究，撰写有洞察、有说服力的公共沟通内容，用扎实的信息和清晰的逻辑支撑公司的对外表达。 4、策划并执行公共事务相关活动与项目，通过有创意、有温度的沟通方式，提升外界对公司的认知度与信任感。",
-      "jobRequirements": "1、2027年应届毕业生，专业不限，公共管理、社会学、法学、新闻传播、经济学、政治学等相关专业优先。 2、有政策研究、公共事务、智库、媒体、企业公关或相关实习经验者优先。 3、敏锐的判断力与信息甄别能力，善于从繁杂信息中提炼关键洞察；逻辑清晰、表达出色，能独立完成高质量的分析报告与沟通材料。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
-      "JD": "公共事务是公司与外部世界建立理解与信任的桥梁，通过持续的研究判断与精准的沟通表达，让公司的价值被看见、被理解、被认同。 公共事务校招生要做的是： 1、持续追踪宏观政策、行业法规及社会热点动态，结合公司业务，输出有观点、有判断的分析简报与策略建议。 2、参与面向相关机构与公众的沟通实践，独立完成对外沟通材料、议题梳理、汇报方案等内容，确保每一次对外表达都专业、准确。 3、围绕公司业务与社会议题的交汇点开展深度研究，撰写有洞察、有说服力的公共沟通内容，用扎实的信息和清晰的逻辑支撑公司的对外表达。 4、策划并执行公共事务相关活动与项目，通过有创意、有温度的沟通方式，提升外界对公司的认知度与信任感。\n1、2027年应届毕业生，专业不限，公共管理、社会学、法学、新闻传播、经济学、政治学等相关专业优先。 2、有政策研究、公共事务、智库、媒体、企业公关或相关实习经验者优先。 3、敏锐的判断力与信息甄别能力，善于从繁杂信息中提炼关键洞察；逻辑清晰、表达出色，能独立完成高质量的分析报告与沟通材料。 4、认同小红书的价值观：向上、走进用户、开放心态、务实、担当。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2、参与面向相关机构与公众的沟通实践，独立完成对外沟通材料、议题梳理、汇报方案等内容，确保每一次对外表达都专业、准确",
-          "1、2027年应届毕业生，专业不限，公共管理、社会学、法学、新闻传播、经济学、政治学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "内容",
-        "项目",
-        "用户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22158",
       "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "中国路桥",
-  "count": 157,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "count": 158,
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "beisen-fef4dd791a1e",
@@ -889,6 +889,98 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=d95e3edd-08ff-4376-83c2-9c247d4a719e",
       "publishedAt": "2026-09-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c11231f6ad27",
+      "company": "中国路桥",
+      "title": "智慧交通规划岗(J48503)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1. 深入研究国家及地方智慧交通、新基建、数字经济的相关政策与发展规划，撰写行业分析报告，为公司战略决策提供依据; 2. 负责智慧交通类投资项目的市场调研、需求分析、商业模式设计、技术可行性研究及初步方案规划，撰写项目建议书、可行性研究报告; 3.牵头编制智慧交通顶层设计方案、专项规划及详细规划，明确建设目标、技术路径、架构设计、实施步骤和投资估算; 4.探索智慧交通应用场景，策划创新性的解决方案和投资项目; 5.与政府主管部门、行业专家、合作单位等进行技术交流和方案汇报，推动项目规划和立项。",
+      "jobRequirements": "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业； 2.对智慧交通产业有深刻的理解和敏锐的洞察力，具宏观分析、系统规划和报告撰写能力; 3.具备优秀的PPT制作和演讲汇报能力，能清晰、专业地呈现复杂规划方案； 4.具备强大的信息搜集、数据处理和财务分析能力，能独立完成项目可行性研究； 5.拥有出色的沟通协调、资源整合能力和项目管理潜力。",
+      "JD": "1. 深入研究国家及地方智慧交通、新基建、数字经济的相关政策与发展规划，撰写行业分析报告，为公司战略决策提供依据; 2. 负责智慧交通类投资项目的市场调研、需求分析、商业模式设计、技术可行性研究及初步方案规划，撰写项目建议书、可行性研究报告; 3.牵头编制智慧交通顶层设计方案、专项规划及详细规划，明确建设目标、技术路径、架构设计、实施步骤和投资估算; 4.探索智慧交通应用场景，策划创新性的解决方案和投资项目; 5.与政府主管部门、行业专家、合作单位等进行技术交流和方案汇报，推动项目规划和立项。\n1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业； 2.对智慧交通产业有深刻的理解和敏锐的洞察力，具宏观分析、系统规划和报告撰写能力; 3.具备优秀的PPT制作和演讲汇报能力，能清晰、专业地呈现复杂规划方案； 4.具备强大的信息搜集、数据处理和财务分析能力，能独立完成项目可行性研究； 5.拥有出色的沟通协调、资源整合能力和项目管理潜力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "PPT",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 深入研究国家及地方智慧交通、新基建、数字经济的相关政策与发展规划，撰写行业分"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=e40a2d93-ff66-4cce-a7e5-95014ceff88a",
+      "publishedAt": "2026-08-30",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

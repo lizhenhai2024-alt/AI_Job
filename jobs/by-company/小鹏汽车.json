@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
-  "count": 193,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "count": 197,
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7663476504336992531",
@@ -1972,6 +1972,96 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239846137383219/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7695752193638533412",
+      "company": "小鹏汽车",
+      "title": "【27届校招】公关培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、小鹏汽车品牌及产品传播规划及全案策略制定、落地及效果评估； 2、产品全生命周期公关传播管理，与市场部协同有效识别产品亮点及传播渠道，产品传播线上线下活动策划； 3、媒体关系维护，公关活动策划、跨界媒体资源及合作项目的沟通管理； 4、优秀的文案及撰稿能力，媒体QA撰写、稿件审核及二次修订； 5、产品媒介策略输出及执行，以互联网媒介为主，含排期、效果监测等； 6、汽车市场及标杆、竞品企业动态关注及行业分析； 7、掌握社交平台的新媒体营销模式玩法，负责新媒体social传播策划。",
+      "jobRequirements": "1、1年以上品牌营销产品公关经验； 2、热爱汽车行业，对汽车行业竞争格局，发展趋势，消费人群区格维度等有独立见解，具有汽车行业品牌策略、营销策略等相关工作经验优先； 3、具有扎实的品牌策略框架理念基础及实操经验，掌握用户调研，品牌创意工作的核心方法；对各营销板块（传播，活动，数字营销，用户运营等）都有一定的业务认知； 4、良好的统筹管理能力、协调能力、沟通组织能力； 5、责任心强，乐于从事挑战性的工作。",
+      "JD": "1、小鹏汽车品牌及产品传播规划及全案策略制定、落地及效果评估； 2、产品全生命周期公关传播管理，与市场部协同有效识别产品亮点及传播渠道，产品传播线上线下活动策划； 3、媒体关系维护，公关活动策划、跨界媒体资源及合作项目的沟通管理； 4、优秀的文案及撰稿能力，媒体QA撰写、稿件审核及二次修订； 5、产品媒介策略输出及执行，以互联网媒介为主，含排期、效果监测等； 6、汽车市场及标杆、竞品企业动态关注及行业分析； 7、掌握社交平台的新媒体营销模式玩法，负责新媒体social传播策划。\n1、1年以上品牌营销产品公关经验； 2、热爱汽车行业，对汽车行业竞争格局，发展趋势，消费人群区格维度等有独立见解，具有汽车行业品牌策略、营销策略等相关工作经验优先； 3、具有扎实的品牌策略框架理念基础及实操经验，掌握用户调研，品牌创意工作的核心方法；对各营销板块（传播，活动，数字营销，用户运营等）都有一定的业务认知； 4、良好的统筹管理能力、协调能力、沟通组织能力； 5、责任心强，乐于从事挑战性的工作。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "用户",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7695752193638533412/detail",
+      "publishedAt": "2026-10-12",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -10455,7 +10545,7 @@
     {
       "id": "feishu-1fdf6e-7685301319297599790",
       "company": "小鹏汽车",
-      "title": "【27届校招】培训运营培训生",
+      "title": "【27届校招】培训运营培训生（售后）",
       "graduationYear": [
         "2027"
       ],
@@ -10479,19 +10569,15 @@
       "jobRequirements": "1、学历专业：本科或以上，汽车服务工程等汽车相关专业优先； 2、技能要求：熟练使用办公软件，具有较好语言逻辑和文字功底、能够进行简单课件制作；熟悉剪映等视频编辑软件，了解线上课程制作流程； 3、能力素质：沟通表达能力强，责任心、耐心佳，时间管理出色，学习与协作能力优。",
       "JD": "1、培训支持：协助培训师完成培训实施，包括培训学员通知、答疑、监考等内容；培训时负责跟踪学员学习状态、小组讨论、实操任务完成进度，及时处理突发问题，确保线上培训顺利开展； 2、沟通反馈：通过线上渠道与学员保持沟通，解答基础疑问，收集课程反馈并整理提交，助力优化培训内容； 3、作业管理：通过骁龙系统跟踪学员课后作业，分类整理，依据标准初步评审并给出建议，辅助完成最终评定； 4、课件制作：协助制作线上培训课件、视频，运用视频编辑软件处理素材，优化线上课程展示效果；将培训资料分类上传更新，做好线上资料的更新与维护。\n1、学历专业：本科或以上，汽车服务工程等汽车相关专业优先； 2、技能要求：熟练使用办公软件，具有较好语言逻辑和文字功底、能够进行简单课件制作；熟悉剪映等视频编辑软件，了解线上课程制作流程； 3、能力素质：沟通表达能力强，责任心、耐心佳，时间管理出色，学习与协作能力优。",
       "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [
           "本科或以上，汽车服务工程等汽车相关专业优先"
         ],
         "eligibilityClauses": [
-          "27届校招"
+          "【27届校招】"
         ],
-        "technicalDuties": [
-          "开发实现"
-        ],
-        "businessDuties": [
-          "资料/流程"
-        ]
+        "technicalDuties": [],
+        "businessDuties": []
       },
       "roleFamily": [
         "其他"
@@ -11573,102 +11659,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
     },
     {
-      "id": "feishu-1fdf6e-7658239811220343049",
-      "company": "小鹏汽车",
-      "title": "【27届校招】用户研究培训生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "1、硕士及以上学历，心理学、社会学、营销类、车辆工程类专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1. 参与所负责车型全生命周期（从机会洞察到上市复盘）调研；通过定性与定量相结合的研究手段，主动识别业务难点，纠偏产品方向。 2. 超越感性挖掘，运用结构化思维将用户需求转化为可量化的机会与风险；对需求进行优先级排序，为高层提供经得起推敲的数据驱动决策依据。",
-      "jobRequirements": "1、硕士及以上学历，心理学、社会学、营销类、车辆工程类专业优先；逻辑清晰，学习能力强，信息检索与资料整理能力突出； 2、有汽车/新能源行业相关实习、课程项目、研究报告、咨询/规划类经历优先；无相关经历但对行业强兴趣、可快速上手亦可； 3、对汽车基础知识有了解，能理解品牌/产品规划基本概念；对智能座舱、智能驾驶、三电等方向有基本认知更佳；具备撰写或协助撰写调研/可研/行业分析材料的能力（含PPT/Word）。",
-      "JD": "1. 参与所负责车型全生命周期（从机会洞察到上市复盘）调研；通过定性与定量相结合的研究手段，主动识别业务难点，纠偏产品方向。 2. 超越感性挖掘，运用结构化思维将用户需求转化为可量化的机会与风险；对需求进行优先级排序，为高层提供经得起推敲的数据驱动决策依据。\n1、硕士及以上学历，心理学、社会学、营销类、车辆工程类专业优先；逻辑清晰，学习能力强，信息检索与资料整理能力突出； 2、有汽车/新能源行业相关实习、课程项目、研究报告、咨询/规划类经历优先；无相关经历但对行业强兴趣、可快速上手亦可； 3、对汽车基础知识有了解，能理解品牌/产品规划基本概念；对智能座舱、智能驾驶、三电等方向有基本认知更佳；具备撰写或协助撰写调研/可研/行业分析材料的能力（含PPT/Word）。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、硕士及以上学历，心理学、社会学、营销类、车辆工程类专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "资料/流程"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "用户",
-        "数据",
-        "营销",
-        "品牌",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小鹏汽车官方飞书招聘",
-      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239811220343049/detail",
-      "publishedAt": "2026-07-03",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
-    },
-    {
       "id": "feishu-1fdf6e-7658239795777014066",
       "company": "小鹏汽车",
       "title": "【27届校招】培训运营培训生（校企合作方向）",
@@ -11848,6 +11838,285 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239550104029449/detail",
       "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7658239811220343049",
+      "company": "小鹏汽车",
+      "title": "【27届校招】用户研究培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，心理学、社会学、营销类、车辆工程类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1. 参与所负责车型全生命周期（从机会洞察到上市复盘）调研；通过定性与定量相结合的研究手段，主动识别业务难点，纠偏产品方向。 2. 超越感性挖掘，运用结构化思维将用户需求转化为可量化的机会与风险；对需求进行优先级排序，为高层提供经得起推敲的数据驱动决策依据。",
+      "jobRequirements": "1、硕士及以上学历，心理学、社会学、营销类、车辆工程类专业优先；逻辑清晰，学习能力强，信息检索与资料整理能力突出； 2、有汽车/新能源行业相关实习、课程项目、研究报告、咨询/规划类经历优先；无相关经历但对行业强兴趣、可快速上手亦可； 3、对汽车基础知识有了解，能理解品牌/产品规划基本概念；对智能座舱、智能驾驶、三电等方向有基本认知更佳；具备撰写或协助撰写调研/可研/行业分析材料的能力（含PPT/Word）。",
+      "JD": "1. 参与所负责车型全生命周期（从机会洞察到上市复盘）调研；通过定性与定量相结合的研究手段，主动识别业务难点，纠偏产品方向。 2. 超越感性挖掘，运用结构化思维将用户需求转化为可量化的机会与风险；对需求进行优先级排序，为高层提供经得起推敲的数据驱动决策依据。\n1、硕士及以上学历，心理学、社会学、营销类、车辆工程类专业优先；逻辑清晰，学习能力强，信息检索与资料整理能力突出； 2、有汽车/新能源行业相关实习、课程项目、研究报告、咨询/规划类经历优先；无相关经历但对行业强兴趣、可快速上手亦可； 3、对汽车基础知识有了解，能理解品牌/产品规划基本概念；对智能座舱、智能驾驶、三电等方向有基本认知更佳；具备撰写或协助撰写调研/可研/行业分析材料的能力（含PPT/Word）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，心理学、社会学、营销类、车辆工程类专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "PPT"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7658239811220343049/detail",
+      "publishedAt": "2026-07-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7695686895612168475",
+      "company": "小鹏汽车",
+      "title": "【27届校招】制造专业培训生（工艺质量管理方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、负责部门级流程体系的结构化、标准化； 2、负责策划、推进工艺关键流程改善活动； 3、参与审核工艺体系流程相关活动； 4、支持推进部门流程体系、质量管理的相关业务。",
+      "jobRequirements": "1、本科及以上学历； 2、具有较强的外部沟通、协调能力、抗压能力； 3、熟悉掌握多维表格、画板、EXCEL、VISO等办公软件应用。",
+      "JD": "1、负责部门级流程体系的结构化、标准化； 2、负责策划、推进工艺关键流程改善活动； 3、参与审核工艺体系流程相关活动； 4、支持推进部门流程体系、质量管理的相关业务。\n1、本科及以上学历； 2、具有较强的外部沟通、协调能力、抗压能力； 3、熟悉掌握多维表格、画板、EXCEL、VISO等办公软件应用。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "【27届校招】"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7695686895612168475/detail",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-1fdf6e-7695624933589862699",
+      "company": "小鹏汽车",
+      "title": "【27届校招】海外产品规划培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，机械/车辆工程等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、负责全面深度研究并持续追踪全球主流汽车制造厂商的全球战略、产品布局、技术发展趋势及市场表现等，形成主流汽车制造厂商的深度研究报告，并根据研究结论支持管理层战略决策； 2、负责全面系统性的收集目标市场国家特殊化的客户需求，追踪主要竞争对手新产品发布及市场口碑反馈收集，搜集整理本品客户用户反馈及用车习惯等市场信息，协助产品经理对后续产品竞争力提升改进做信息支持； 3、负责归纳整理针对目标市场国家的宏观政策变化、政治经济人文变化、生活习惯及消费文化差异性等对市场的影响，建立健全对目标市场国家的深度一体化认知和持续迭代更新； 4、搭建目标市场研究框架和信息库，储备目标市场知识及客户洞见，为深耕市场及后续车型的迭代构建知识基础。",
+      "jobRequirements": "1、本科及以上学历，机械/车辆工程等专业优先； 2、熟练的英文听说读写能力；具有海外生活/学历经历优先； 3、良好的沟通表达能力和团队合作意识； 4、热爱汽车，充满激情，乐于创新和面对挑战； 5、自驱力强、思路清晰、具备良好的信息搜集与分析能力、任务分解能力。",
+      "JD": "1、负责全面深度研究并持续追踪全球主流汽车制造厂商的全球战略、产品布局、技术发展趋势及市场表现等，形成主流汽车制造厂商的深度研究报告，并根据研究结论支持管理层战略决策； 2、负责全面系统性的收集目标市场国家特殊化的客户需求，追踪主要竞争对手新产品发布及市场口碑反馈收集，搜集整理本品客户用户反馈及用车习惯等市场信息，协助产品经理对后续产品竞争力提升改进做信息支持； 3、负责归纳整理针对目标市场国家的宏观政策变化、政治经济人文变化、生活习惯及消费文化差异性等对市场的影响，建立健全对目标市场国家的深度一体化认知和持续迭代更新； 4、搭建目标市场研究框架和信息库，储备目标市场知识及客户洞见，为深耕市场及后续车型的迭代构建知识基础。\n1、本科及以上学历，机械/车辆工程等专业优先； 2、熟练的英文听说读写能力；具有海外生活/学历经历优先； 3、良好的沟通表达能力和团队合作意识； 4、热爱汽车，充满激情，乐于创新和面对挑战； 5、自驱力强、思路清晰、具备良好的信息搜集与分析能力、任务分解能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，机械/车辆工程等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "用户",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7695624933589862699/detail",
+      "publishedAt": "2026-10-12",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -14833,6 +15102,97 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
     },
     {
+      "id": "feishu-1fdf6e-7695753616820996361",
+      "company": "小鹏汽车",
+      "title": "【27届校招】座椅培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1.座椅系统的设计开发：典型/详细断面设计，实体结构设计、OTS认可等； 2.相关技术资料：包括报价资料、系统设计任务书、BOM表、INTERFACE、DVP、设计总结、设计指南、专利以及其他项目/部门资料的编制； 3.座椅系统开发、试制、验证及量产准备； 4.座椅系统供应商调研、导入、管控及项目开发推进等供应商管理； 5.座椅系统的前瞻技术探索和研究； 6.座椅舒适性、精致工艺的提升研究与推动。",
+      "jobRequirements": "1.座椅系统的设计开发：典型/详细断面设计，实体结构设计、OTS认可等； 2.相关技术资料：包括报价资料、系统设计任务书、BOM表、INTERFACE、DVP、设计总结、设计指南、专利以及其他项目/部门资料的编制； 3.座椅系统开发、试制、验证及量产准备； 4.座椅系统供应商调研、导入、管控及项目开发推进等供应商管理； 5.座椅系统的前瞻技术探索和研究； 6.座椅舒适性、精致工艺的提升研究与推动。",
+      "JD": "1.座椅系统的设计开发：典型/详细断面设计，实体结构设计、OTS认可等； 2.相关技术资料：包括报价资料、系统设计任务书、BOM表、INTERFACE、DVP、设计总结、设计指南、专利以及其他项目/部门资料的编制； 3.座椅系统开发、试制、验证及量产准备； 4.座椅系统供应商调研、导入、管控及项目开发推进等供应商管理； 5.座椅系统的前瞻技术探索和研究； 6.座椅舒适性、精致工艺的提升研究与推动。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "【27届校招】"
+        ],
+        "technicalDuties": [
+          "结构/原理",
+          "开发实现"
+        ],
+        "businessDuties": [
+          "商务测算",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7695753616820996361/detail",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
       "id": "feishu-1fdf6e-7694234985302182171",
       "company": "小鹏汽车",
       "title": "【27届校招】智造专业培训生（生产技术方向）",
@@ -17229,11 +17589,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "硕士",
-        "masterRequired": true
+        "min": "本科",
+        "masterRequired": false
       },
       "major": {
-        "raw": "硕士及以上学历，掌握NVH基本理论知识",
+        "raw": "本科及以上学历",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -17244,15 +17604,19 @@
       },
       "location": "广州",
       "jobDescription": "1、负责整车NVH开发、标杆竞品NVH性能的研究； 2、负责NVH目标的设定及分解； 3、负责热管理、声品质NVH相关的DMU检查； 4、负责NVH的调校； 5、对NVH实车达标负责。",
-      "jobRequirements": "1、硕士及以上学历，掌握NVH基本理论知识； 2、具备一定的NVH试验/仿真基础； 3、了解汽车构造。",
-      "JD": "1、负责整车NVH开发、标杆竞品NVH性能的研究； 2、负责NVH目标的设定及分解； 3、负责热管理、声品质NVH相关的DMU检查； 4、负责NVH的调校； 5、对NVH实车达标负责。\n1、硕士及以上学历，掌握NVH基本理论知识； 2、具备一定的NVH试验/仿真基础； 3、了解汽车构造。",
+      "jobRequirements": "1、本科及以上学历，掌握NVH基本理论知识； 2、具备一定的NVH试验/仿真基础； 3、了解汽车构造。",
+      "JD": "1、负责整车NVH开发、标杆竞品NVH性能的研究； 2、负责NVH目标的设定及分解； 3、负责热管理、声品质NVH相关的DMU检查； 4、负责NVH的调校； 5、对NVH实车达标负责。\n1、本科及以上学历，掌握NVH基本理论知识； 2、具备一定的NVH试验/仿真基础； 3、了解汽车构造。",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [
-          "硕士及以上学历，掌握NVH基本理论知识"
+          "本科及以上学历"
         ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
+        "eligibilityClauses": [
+          "【27届校招】"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
         "businessDuties": []
       },
       "roleFamily": [

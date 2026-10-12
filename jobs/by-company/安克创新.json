@@ -1,7 +1,7 @@
 {
   "company": "安克创新",
   "count": 56,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "anker-77955f08f358",
@@ -871,6 +871,103 @@
       "annualSalary": "未披露",
       "source": "安克创新官方2027校招官网",
       "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7676005986402224435",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
+      "id": "anker-304239ea5cd2",
+      "company": "安克创新",
+      "title": "员工体验策划专员 -深圳",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 管理、市场营销、传播、数据分析、心理学、体验设计等相关专业背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 员工洞察：通过访谈、问卷、现场观察，发现不同人群在生活/办公环境场景的真实需求。 2. 活动策划与落地：围绕公司文化设计体验活动和参与机制，全程跟进执行与复盘。 3. 空间与场景运营：参与七系咖啡厅，咖啡文化、健康福利、社团等场景的体验规划与优化。 4. 平台与内容运营：参与生活平台触点运营，策划订阅号内容，配合文化 IP 联动。 5. 数据复盘：分析满意度、NPS、使用行为，输出复盘报告，推动持续改进。",
+      "jobRequirements": "1. 管理、市场营销、传播、数据分析、心理学、体验设计等相关专业背景优先 2. 具备策略与逻辑思维力，能从文化战略视角拆解体验问题 3. 具备体验运营设计力，热爱活动组织，对空间氛围与员工感受敏感 4. 具备数据分析与AI应用力，熟练使用AI工具辅助策划与内容生成 5. 具备沟通协调力与创新共创力，善于跨部门推进项目落地 6. 思维结构化，兼具分析理性与创意感性，审美能力强",
+      "JD": "1. 员工洞察：通过访谈、问卷、现场观察，发现不同人群在生活/办公环境场景的真实需求。 2. 活动策划与落地：围绕公司文化设计体验活动和参与机制，全程跟进执行与复盘。 3. 空间与场景运营：参与七系咖啡厅，咖啡文化、健康福利、社团等场景的体验规划与优化。 4. 平台与内容运营：参与生活平台触点运营，策划订阅号内容，配合文化 IP 联动。 5. 数据复盘：分析满意度、NPS、使用行为，输出复盘报告，推动持续改进。\n1. 管理、市场营销、传播、数据分析、心理学、体验设计等相关专业背景优先 2. 具备策略与逻辑思维力，能从文化战略视角拆解体验问题 3. 具备体验运营设计力，热爱活动组织，对空间氛围与员工感受敏感 4. 具备数据分析与AI应用力，熟练使用AI工具辅助策划与内容生成 5. 具备沟通协调力与创新共创力，善于跨部门推进项目落地 6. 思维结构化，兼具分析理性与创意感性，审美能力强",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 管理、市场营销、传播、数据分析、心理学、体验设计等相关专业背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "内容运营"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7676001264878307603",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -1845,6 +1942,103 @@
       "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
     },
     {
+      "id": "anker-de6c14cd4ebe",
+      "company": "安克创新",
+      "title": "行政专员-深圳",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 负责办公职场环境综合管理和运营，基于用户体验角度积极思考，持续迭代和优化环境 2. 负责供应商的全生命周期管理，监督跟进制度的落地执行。 3. 负责行政SSC模块管理和能力建设，如客服质量管理提升、会务支持和接待流程化建设等 4. 协助行政制度的体系搭建，参与流程优化相关辅助工作。 5. 协助日常行政事务处理，包括办公资源管理、固定资产管理、预算制定和成本管理等。 6. 基于业务板块开展跨部门协作，如与IT、基建、HR合作推动项目按目标落地。 7. 收集日常运营与员工建议，分析数据并形成周期性运营报告。",
+      "jobRequirements": "1. 具有良好的跨文化沟通能力和业务协同能力，能主动积极洞察需求、深入理解业务、帮助目标达成和业务成功 2. 具有良好的沟通表达能力和服务意识，工作细致、责任心强，愿意站在用户角度做优化 3. 具有良好的学习能力，主动学习和探索AI工具提升工作效率，主动学习工作中所需的技能和知识 4. 具有项目推进和落地执行能力，对承接的工作内容能完整落地并主动反馈 5. 能熟练使用Office办公软件，具备基础方案提供、数据分析和处理能力 6. 有行政管理、人力资源管理、运营管理、项目管理等相关实习或活动经验的人员优先 7. 性格积极开放，善于与人打交道，具备团队精神。",
+      "JD": "1. 负责办公职场环境综合管理和运营，基于用户体验角度积极思考，持续迭代和优化环境 2. 负责供应商的全生命周期管理，监督跟进制度的落地执行。 3. 负责行政SSC模块管理和能力建设，如客服质量管理提升、会务支持和接待流程化建设等 4. 协助行政制度的体系搭建，参与流程优化相关辅助工作。 5. 协助日常行政事务处理，包括办公资源管理、固定资产管理、预算制定和成本管理等。 6. 基于业务板块开展跨部门协作，如与IT、基建、HR合作推动项目按目标落地。 7. 收集日常运营与员工建议，分析数据并形成周期性运营报告。\n1. 具有良好的跨文化沟通能力和业务协同能力，能主动积极洞察需求、深入理解业务、帮助目标达成和业务成功 2. 具有良好的沟通表达能力和服务意识，工作细致、责任心强，愿意站在用户角度做优化 3. 具有良好的学习能力，主动学习和探索AI工具提升工作效率，主动学习工作中所需的技能和知识 4. 具有项目推进和落地执行能力，对承接的工作内容能完整落地并主动反馈 5. 能熟练使用Office办公软件，具备基础方案提供、数据分析和处理能力 6. 有行政管理、人力资源管理、运营管理、项目管理等相关实习或活动经验的人员优先 7. 性格积极开放，善于与人打交道，具备团队精神。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "合同",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "用户",
+        "数据",
+        "跨文化"
+      ],
+      "preferenceTags": [
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7672316515744221490",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
       "id": "anker-17c5afc5e41c",
       "company": "安克创新",
       "title": "财经费控专员-长沙",
@@ -2716,103 +2910,6 @@
       "annualSalary": "未披露",
       "source": "安克创新官方2027校招官网",
       "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7676412287578917129",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
-      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
-    },
-    {
-      "id": "anker-304239ea5cd2",
-      "company": "安克创新",
-      "title": "员工体验策划专员 -深圳",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 2027届毕业生，本科及以上学历及以上，管理、市场营销、传播、数据分析、心理学等相关专业背景优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "你将参与：1.活动策划与落地：基于文化战略，设计员工体验活动方案与参与机制，全流程推进执行。 2.空间体验运营：负责咖啡厅、展厅等七系空间的服务体验规划与优化，提升员工日常幸福感。 3.福利礼品规划：主导半年度员工礼品福利的主题策划、选品与落地，结合员工画像设计差异化方案。 4.数据洞察与分析：收集并分析员工满意度、幸福指数等体验数据，形成复盘报告，驱动方案持续优化。 5.AI辅助创新：运用AI工具进行内容策划、创意生成与员工反馈分析，提升策划效率与质量 6.文化IP开发：参与公司文化IP产品的开发与设计，提升品牌在员工中的露出与好感度。",
-      "jobRequirements": "1. 2027届毕业生，本科及以上学历及以上，管理、市场营销、传播、数据分析、心理学等相关专业背景优先 2.具备策略与逻辑思维力，能从文化战略视角拆解体验问题 3.具备体验运营设计力，热爱活动组织，对空间氛围与员工感受敏感 4.具备数据分析与AI应用力，熟练使用AI工具辅助策划与内容生成 5.具备沟通协调力与创新共创力，善于跨部门推进项目落地 6.思维结构化，兼具分析理性与创意感性，审美能力强",
-      "JD": "你将参与：1.活动策划与落地：基于文化战略，设计员工体验活动方案与参与机制，全流程推进执行。 2.空间体验运营：负责咖啡厅、展厅等七系空间的服务体验规划与优化，提升员工日常幸福感。 3.福利礼品规划：主导半年度员工礼品福利的主题策划、选品与落地，结合员工画像设计差异化方案。 4.数据洞察与分析：收集并分析员工满意度、幸福指数等体验数据，形成复盘报告，驱动方案持续优化。 5.AI辅助创新：运用AI工具进行内容策划、创意生成与员工反馈分析，提升策划效率与质量 6.文化IP开发：参与公司文化IP产品的开发与设计，提升品牌在员工中的露出与好感度。\n1. 2027届毕业生，本科及以上学历及以上，管理、市场营销、传播、数据分析、心理学等相关专业背景优先 2.具备策略与逻辑思维力，能从文化战略视角拆解体验问题 3.具备体验运营设计力，热爱活动组织，对空间氛围与员工感受敏感 4.具备数据分析与AI应用力，熟练使用AI工具辅助策划与内容生成 5.具备沟通协调力与创新共创力，善于跨部门推进项目落地 6.思维结构化，兼具分析理性与创意感性，审美能力强",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 2027届毕业生，本科及以上学历及以上，管理、市场营销、传播、数据分析、心理学等相关专业背景优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "安克创新官方2027校招官网",
-      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7676001264878307603",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -4851,94 +4948,6 @@
       "annualSalary": "未披露",
       "source": "安克创新官方2027校招官网",
       "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7672317352243333414",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
-      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
-    },
-    {
-      "id": "anker-de6c14cd4ebe",
-      "company": "安克创新",
-      "title": "行政专员-深圳",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 2027届毕业生，本科及以上学历，行政管理、人力资源管理、工商管理等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "你将参与： 1. 负责日常办公环境的维护和管理，费用预算管理； 2. 参与组织和策划公司内部活动，如大型司庆活动等，增强团队凝聚力； 3. 参与处理行政事务，如行政管理文件的起草、归档和传递，以及各类报表的统计和整理； 4. 协调和管理各类办公设施和设备，确保其正常运行和维护； 5. 运营协调央厨项目：参与统筹央厨生产、仓储、分发各环节衔接，确保健康餐品从采购到交付的高效运作。",
-      "jobRequirements": "1. 2027届毕业生，本科及以上学历，行政管理、人力资源管理、工商管理等相关专业优先。",
-      "JD": "你将参与： 1. 负责日常办公环境的维护和管理，费用预算管理； 2. 参与组织和策划公司内部活动，如大型司庆活动等，增强团队凝聚力； 3. 参与处理行政事务，如行政管理文件的起草、归档和传递，以及各类报表的统计和整理； 4. 协调和管理各类办公设施和设备，确保其正常运行和维护； 5. 运营协调央厨项目：参与统筹央厨生产、仓储、分发各环节衔接，确保健康餐品从采购到交付的高效运作。\n1. 2027届毕业生，本科及以上学历，行政管理、人力资源管理、工商管理等相关专业优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 2027届毕业生，本科及以上学历，行政管理、人力资源管理、工商管理等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "安克创新官方2027校招官网",
-      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7672316515744221490",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

@@ -67,6 +67,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": ""
   },
   {
+    "name": "保利和润房地产投资顾问有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://polyharmony.zhiye.com/",
+    "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-12T18:44:26.467Z",
+    "nextCheckAfter": ""
+  },
+  {
     "name": "北方华创",
     "status": "主投",
     "state": "needs_adapter",
@@ -285,6 +296,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-16T06:34:22.425Z",
     "nextCheckAfter": "2026-09-19T06:34:22.425Z"
+  },
+  {
+    "name": "湖南长银五八消费金融股份有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://cscb.zhiye.com/campus/jobs",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-12T18:44:26.467Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "虎牙",
@@ -793,6 +815,28 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
+    "name": "深圳市艾丽斯卡文化创意有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "feishu",
+    "officialUrl": "https://o4bl6lvhcp.jobs.feishu.cn/213238",
+    "reason": "高校详情页明确给出飞书招聘入口；等价官方源已存在",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-12T18:44:26.467Z",
+    "nextCheckAfter": ""
+  },
+  {
+    "name": "深圳市杰和科技发展有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://giada.zhiye.com/",
+    "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-12T18:44:26.467Z",
+    "nextCheckAfter": ""
+  },
+  {
     "name": "施耐德",
     "status": "主投",
     "state": "needs_adapter",
@@ -921,8 +965,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.sf-express.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.sf-express.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-12T02:16:56.537Z",
-    "nextCheckAfter": "2026-10-13T02:16:56.542Z"
+    "lastCheckedAt": "2026-10-12T18:44:26.467Z",
+    "nextCheckAfter": "2026-10-13T18:44:26.470Z"
   },
   {
     "name": "一加",
@@ -1033,6 +1077,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-19T07:49:09.810Z",
     "nextCheckAfter": "2026-09-22T07:49:09.810Z"
+  },
+  {
+    "name": "之江实验室",
+    "status": "高校自动发现",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://talents.zhejianglab.com/",
+    "reason": "已发现公司官方招聘入口，但当前站点 talents.zhejianglab.com 尚无自动抓取适配器",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-12T18:44:26.467Z",
+    "nextCheckAfter": "2026-10-13T18:44:26.489Z"
   },
   {
     "name": "致欧家居",
@@ -1356,7 +1411,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-12T09:12:46.711Z",
+  "updatedAt": "2026-10-12T18:44:26.467Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

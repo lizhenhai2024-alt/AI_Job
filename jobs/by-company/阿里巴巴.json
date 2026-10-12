@@ -1,7 +1,7 @@
 {
   "company": "阿里巴巴",
-  "count": 120,
-  "updatedAt": "2026-10-12T02:17:57.676Z",
+  "count": 119,
+  "updatedAt": "2026-10-12T19:10:23.004Z",
   "jobs": [
     {
       "id": "alibaba-56983b82e44a",
@@ -897,7 +897,7 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "北京",
+      "location": "杭州",
       "jobDescription": "1、负责跨境电商平台的海外广告投放策略制定与执行，优化广告效果，提升新用户规模； 2、分析广告数据，挖掘用户行为模式，为特定国家用户增长提供数据支持和策略建议； 3、与站内用增、行业、创意团队紧密合作，确保广告创意与目标市场匹配，提高用户参与度； 4、监控广告投放效果，及时调整广告策略，应对市场变化，确保广告目标达成； 5、参与 AI 模型的指标跟踪、灰度发布与效果监控；协助评估模型的稳定性、可用性及输出一致性，确保在线服务的健康运行。",
       "jobRequirements": "1、本科及以上学历，计算机、人工智能、统计学、数学、信息管理、数据科学等相关专业优先； 2、熟练掌握 SQL，具备独立进行数据分析、特征理解与实验评估的能力；熟悉 Python（Pandas/Numpy）或常见机器学习指标（AUC/F1等）者优先； 3、对大模型、多模态生成有浓厚兴趣及深度体验，了解 AIGC 基本原理及工作流（如 ComfyUI、RAG 等）； 4、具备出色的逻辑思维与结构化拆解能力，能将复杂的业务现象抽象为算法可解决的问题；对互联网运营指标有系统性理解； 5、 自驱力强，拥有强烈的好奇心与责任感；具备优秀的跨团队沟通协作能力及抗压性，能作为技术与业务间的桥梁推动项目进展。",
       "JD": "1、负责跨境电商平台的海外广告投放策略制定与执行，优化广告效果，提升新用户规模； 2、分析广告数据，挖掘用户行为模式，为特定国家用户增长提供数据支持和策略建议； 3、与站内用增、行业、创意团队紧密合作，确保广告创意与目标市场匹配，提高用户参与度； 4、监控广告投放效果，及时调整广告策略，应对市场变化，确保广告目标达成； 5、参与 AI 模型的指标跟踪、灰度发布与效果监控；协助评估模型的稳定性、可用性及输出一致性，确保在线服务的健康运行。\n1、本科及以上学历，计算机、人工智能、统计学、数学、信息管理、数据科学等相关专业优先； 2、熟练掌握 SQL，具备独立进行数据分析、特征理解与实验评估的能力；熟悉 Python（Pandas/Numpy）或常见机器学习指标（AUC/F1等）者优先； 3、对大模型、多模态生成有浓厚兴趣及深度体验，了解 AIGC 基本原理及工作流（如 ComfyUI、RAG 等）； 4、具备出色的逻辑思维与结构化拆解能力，能将复杂的业务现象抽象为算法可解决的问题；对互联网运营指标有系统性理解； 5、 自驱力强，拥有强烈的好奇心与责任感；具备优秀的跨团队沟通协作能力及抗压性，能作为技术与业务间的桥梁推动项目进展。",
@@ -2735,99 +2735,6 @@
       "annualSalary": "未披露",
       "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
       "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199908380006",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→测评/笔试（部分职类）→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 北师大就业网校招公告 | https://career.bnu.edu.cn/frontpage/mobile/dist/index.html#/recruitmentinfoForm?positionDetailId=20df7750b996483790e460f51854994b | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 中国地质大学就业网校招公告 | https://jiuye.cugb.edu.cn/Zhaopin/xiaozhao.html?id=8a53b06b-670b-0721-65e4-b6bf87f600af | 2026-09-17"
-    },
-    {
-      "id": "alibaba-139edc215d3d",
-      "company": "阿里巴巴",
-      "title": "流量运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，综合类院校、商科类院校优秀毕业生优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、驱动联盟广告业务增长：负责联盟广告生态的流量拓展与预算管理，制定并执行增长策略，提升广告主投放规模及媒体方变现效率，达成核心业务指标； 2、生态伙伴引入与关系管理：主动挖掘并引入高价值流量方或预算方，建立并维护长期稳定的合作关系，推动合作深度与广度； 3、产品系统能力建设：深入理解联盟广告业务逻辑，结合内外部需求（如反作弊、归因、结算、数据回传等），协同产品、技术团队推动运营工具、数据看板、自动化流程等系统能力落地，提升运营效率； 4、流程标准化与持续优化：基于业务发展与市场变化，梳理并优化联盟广告接入、审核、投放、结算、复盘等全链路标准操作流程（SOP），建立可复制、可监控、可迭代的运营机制； 5、数据驱动决策与策略调优：通过多维数据分析，识别业务瓶颈与增长机会，输出可执行的优化方案，并推动A/B测试验证与规模化应用。",
-      "jobRequirements": "1、本科及以上学历，综合类院校、商科类院校优秀毕业生优先； 2、核心能力：具备优秀的跨团队沟通与项目推动力，能高效协调产品、技术、商务、数据等多方资源；对广告联盟生态有深刻理解，数据敏感度高，能独立产出业务洞察报告； 3、加分项：对产品设计逻辑或技术感兴趣（如API对接、埋点规范、数据管道等），能与研发团队高效对话；具备一定的宏观运营规划能力； 4、软性素质：结果导向，自驱力强，能在复杂环境中快速厘清优先级；善于建立信任、乐于协作。",
-      "JD": "1、驱动联盟广告业务增长：负责联盟广告生态的流量拓展与预算管理，制定并执行增长策略，提升广告主投放规模及媒体方变现效率，达成核心业务指标； 2、生态伙伴引入与关系管理：主动挖掘并引入高价值流量方或预算方，建立并维护长期稳定的合作关系，推动合作深度与广度； 3、产品系统能力建设：深入理解联盟广告业务逻辑，结合内外部需求（如反作弊、归因、结算、数据回传等），协同产品、技术团队推动运营工具、数据看板、自动化流程等系统能力落地，提升运营效率； 4、流程标准化与持续优化：基于业务发展与市场变化，梳理并优化联盟广告接入、审核、投放、结算、复盘等全链路标准操作流程（SOP），建立可复制、可监控、可迭代的运营机制； 5、数据驱动决策与策略调优：通过多维数据分析，识别业务瓶颈与增长机会，输出可执行的优化方案，并推动A/B测试验证与规模化应用。\n1、本科及以上学历，综合类院校、商科类院校优秀毕业生优先； 2、核心能力：具备优秀的跨团队沟通与项目推动力，能高效协调产品、技术、商务、数据等多方资源；对广告联盟生态有深刻理解，数据敏感度高，能独立产出业务洞察报告； 3、加分项：对产品设计逻辑或技术感兴趣（如API对接、埋点规范、数据管道等），能与研发团队高效对话；具备一定的宏观运营规划能力； 4、软性素质：结果导向，自驱力强，能在复杂环境中快速厘清优先级；善于建立信任、乐于协作。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，综合类院校、商科类院校优秀毕业生优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "数据",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "阿里巴巴官方校招官网campus-talent 2027校园招聘",
-      "officialURL": "https://campus-talent.alibaba.com/campus/position/detail?id=199908180001",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
