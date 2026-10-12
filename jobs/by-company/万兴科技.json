@@ -1,7 +1,7 @@
 {
   "company": "万兴科技",
-  "count": 27,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 28,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "beisen-a4360e393298",
@@ -1968,6 +1968,99 @@
       "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
     },
     {
+      "id": "beisen-121e9ff66623",
+      "company": "万兴科技",
+      "title": "干部招聘专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届本科或硕士研究生，人力资源、工商管理、心理学、计算机等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、根据干部招聘及高层次人才招聘需求，理解岗位画像与任职要求，开展简历筛选、人才搜索、候选人推荐及意向沟通工作。 2、负责候选人招聘流程跟进，包括面试邀约、面试安排、面试反馈收集、候选人沟通及进度维护等。 3、协助开展目标人才市场盘点与研究，关注重点行业、目标企业及人才分布情况，持续完善人才库。 4、负责招聘渠道的开拓与维护，及时更新招聘信息，协助提升干部及高层次人才招聘触达效率。 5、协助开展招聘数据统计、过程分析及阶段性复盘，支持招聘数据看板和相关汇报材料的整理。",
+      "jobRequirements": "1、2027届本科或硕士研究生，人力资源、工商管理、心理学、计算机等相关专业优先。 2、对干部招聘、高层次人才招聘或人才研究工作有兴趣，具备较强的学习能力，能够快速理解岗位需求和人才画像。 3、具备良好的沟通协调能力，能够耐心、准确地完成候选人意向沟通及招聘流程跟进。 4、为人正直，亲和力好，工作认真、细致、负责，具备较强的抗压能力和执行力。 5、具备良好的团队协作意识和服务意识，能够与业务部门、候选人及外部招聘渠道保持有效沟通。 6、有招聘、猎头、人才测评、校园招聘或人才市场研究相关实习经历者优先。",
+      "JD": "1、根据干部招聘及高层次人才招聘需求，理解岗位画像与任职要求，开展简历筛选、人才搜索、候选人推荐及意向沟通工作。 2、负责候选人招聘流程跟进，包括面试邀约、面试安排、面试反馈收集、候选人沟通及进度维护等。 3、协助开展目标人才市场盘点与研究，关注重点行业、目标企业及人才分布情况，持续完善人才库。 4、负责招聘渠道的开拓与维护，及时更新招聘信息，协助提升干部及高层次人才招聘触达效率。 5、协助开展招聘数据统计、过程分析及阶段性复盘，支持招聘数据看板和相关汇报材料的整理。\n1、2027届本科或硕士研究生，人力资源、工商管理、心理学、计算机等相关专业优先。 2、对干部招聘、高层次人才招聘或人才研究工作有兴趣，具备较强的学习能力，能够快速理解岗位需求和人才画像。 3、具备良好的沟通协调能力，能够耐心、准确地完成候选人意向沟通及招聘流程跟进。 4、为人正直，亲和力好，工作认真、细致、负责，具备较强的抗压能力和执行力。 5、具备良好的团队协作意识和服务意识，能够与业务部门、候选人及外部招聘渠道保持有效沟通。 6、有招聘、猎头、人才测评、校园招聘或人才市场研究相关实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科或硕士研究生，人力资源、工商管理、心理学、计算机等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "13K-15K 元/月",
+        "monthlyMin": 13000,
+        "monthlyMax": 15000,
+        "annualMin": 156000,
+        "annualMax": 180000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.3万–1.5万/月",
+        "annualDisplay": "15.6万–18万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "13K-15K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "13K-15K 元/月",
+      "monthlySalary": "1.3万–1.5万/月",
+      "annualSalary": "15.6万–18万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=e7158ff3-7194-4020-b73a-b10cd3ed89f0",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "秋招直招：网申/内推→在线测评→面试(3-4轮)→Offer速递→三方签约；实习转正通道另含实习入职/答辩",
+      "recruitmentProcessEvidence": "E3 | 兰州大学/南开大学就业网校招简章 | https://job.lzu.edu.cn/html/22/article/2026/91240.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 万兴科技校招FAQ官方页 | https://www.wondershare.cn/campus-faq.html | 2026-09-17"
+    },
+    {
       "id": "beisen-0dcf3a6c7e54",
       "company": "万兴科技",
       "title": "薪酬专员",
@@ -2129,23 +2222,23 @@
       },
       "compensation": {
         "disclosed": true,
-        "raw": "25K-30K 元/月",
-        "monthlyMin": 25000,
-        "monthlyMax": 30000,
-        "annualMin": 300000,
-        "annualMax": 360000,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
         "salaryMonths": 12,
         "monthlyEstimated": false,
         "annualEstimated": true,
-        "monthlyDisplay": "2.5万–3万/月",
-        "annualDisplay": "30万–36万/年（按12薪推算）",
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "25K-30K 元/月 公司官方北森校招岗位；识别关键词：数据分析、文"
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；识别关键词：数据分析、文"
       },
-      "salary": "25K-30K 元/月",
-      "monthlySalary": "2.5万–3万/月",
-      "annualSalary": "30万–36万/年（按12薪推算）",
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=cc1761f0-ec29-4fd7-bd52-c19200d38edf",
       "publishedAt": "2026-08-18",
@@ -2405,23 +2498,23 @@
       },
       "compensation": {
         "disclosed": true,
-        "raw": "25K-30K 元/月",
-        "monthlyMin": 25000,
-        "monthlyMax": 30000,
-        "annualMin": 300000,
-        "annualMax": 360000,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
         "salaryMonths": 12,
         "monthlyEstimated": false,
         "annualEstimated": true,
-        "monthlyDisplay": "2.5万–3万/月",
-        "annualDisplay": "30万–36万/年（按12薪推算）",
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "25K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
       },
-      "salary": "25K-30K 元/月",
-      "monthlySalary": "2.5万–3万/月",
-      "annualSalary": "30万–36万/年（按12薪推算）",
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=c5f03106-8c29-45cf-be6c-633eb7bc49f7",
       "publishedAt": "2026-08-18",
@@ -2499,23 +2592,23 @@
       },
       "compensation": {
         "disclosed": true,
-        "raw": "25K-30K 元/月",
-        "monthlyMin": 25000,
-        "monthlyMax": 30000,
-        "annualMin": 300000,
-        "annualMax": 360000,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
         "salaryMonths": 12,
         "monthlyEstimated": false,
         "annualEstimated": true,
-        "monthlyDisplay": "2.5万–3万/月",
-        "annualDisplay": "30万–36万/年（按12薪推算）",
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "25K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
       },
-      "salary": "25K-30K 元/月",
-      "monthlySalary": "2.5万–3万/月",
-      "annualSalary": "30万–36万/年（按12薪推算）",
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=c98b1456-947e-4222-9f3e-2be7c6771f63",
       "publishedAt": "2026-08-18",
@@ -2590,23 +2683,23 @@
       },
       "compensation": {
         "disclosed": true,
-        "raw": "25K-30K 元/月",
-        "monthlyMin": 25000,
-        "monthlyMax": 30000,
-        "annualMin": 300000,
-        "annualMax": 360000,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
         "salaryMonths": 12,
         "monthlyEstimated": false,
         "annualEstimated": true,
-        "monthlyDisplay": "2.5万–3万/月",
-        "annualDisplay": "30万–36万/年（按12薪推算）",
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "25K-30K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
       },
-      "salary": "25K-30K 元/月",
-      "monthlySalary": "2.5万–3万/月",
-      "annualSalary": "30万–36万/年（按12薪推算）",
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://wondersharecampus.zhiye.com/campus/detail?jobAdId=0c8c5d8c-6398-4db2-914a-fe752c2bd4e1",
       "publishedAt": "2026-08-18",

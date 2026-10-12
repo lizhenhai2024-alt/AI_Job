@@ -914,6 +914,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-18T22:53:49.671Z"
   },
   {
+    "name": "一、公司简介",
+    "status": "高校自动发现",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://campus.sf-express.com/",
+    "reason": "已发现公司官方招聘入口，但当前站点 campus.sf-express.com 尚无自动抓取适配器",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-12T02:16:56.537Z",
+    "nextCheckAfter": "2026-10-13T02:16:56.542Z"
+  },
+  {
     "name": "一加",
     "status": "主投",
     "state": "needs_adapter",
@@ -1345,7 +1356,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-09-28T08:42:04.378Z",
+  "updatedAt": "2026-10-12T02:16:56.537Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

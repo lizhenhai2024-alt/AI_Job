@@ -1,7 +1,7 @@
 {
   "company": "歌尔股份",
-  "count": 27,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 28,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "hotjob-0e9cfcff81ec",
@@ -102,7 +102,7 @@
       "publishedAt": "2026-06-23",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-05"
+      "deadline": "2026-10-19"
     },
     {
       "id": "hotjob-15080096c4b4",
@@ -282,7 +282,7 @@
       "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-05"
+      "deadline": "2026-10-19"
     },
     {
       "id": "hotjob-3422c929a5ba",
@@ -386,96 +386,7 @@
       "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-05"
-    },
-    {
-      "id": "hotjob-7be1fb06d2d5",
-      "company": "歌尔股份",
-      "title": "2027届校招-供应商开发岗（精英、歌尔之翼）(048752)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "方向1：供应商开发 - 上海/深圳/青岛/济南/潍坊 1、供应商选择与评估：物料选型、评估和导入，维护和发展优质供应商关系； 2、价格协商与合同管理：与供应商进行价格协商，确保获得具有竞争力的价格。管理采购合同，确保合同条款的履行和风险管理； 3、质量控制与供应商绩效评估：监督物料的质量，并与供应商合作解决质量问题。定期对供应商进行绩效评估，确保优质供应链的稳定性和持续改进； 4、市场分析和趋势预测：对主要原材料进行市场分析和趋势预测，识别和管理供应商的各种潜在风险。 方向2：采购业务管理 - 潍坊 1、协助搭建供应商资源池管理体系，参与品类策略制定，支持供应商分级分类及动态优化，助力供应链资源质量持续提升； 2、参与物料招投标流程推广与执行，协助开展供应商绩效评估及改进方案落地； 3、支持采购合同全生命周期管理，包括合同模板标准化优化、档案数字化归档及合规性审查； 4、基于业务需求，协同跨部门资源调配，推动采购资源高效匹配与流程优化。",
-      "jobRequirements": "1、英语听说读写熟练，可进行口语沟通； 2、敏锐的市场洞察力和成本分析能力； 3、优秀的谈判技巧与跨文化沟通能力。",
-      "JD": "方向1：供应商开发 - 上海/深圳/青岛/济南/潍坊 1、供应商选择与评估：物料选型、评估和导入，维护和发展优质供应商关系； 2、价格协商与合同管理：与供应商进行价格协商，确保获得具有竞争力的价格。管理采购合同，确保合同条款的履行和风险管理； 3、质量控制与供应商绩效评估：监督物料的质量，并与供应商合作解决质量问题。定期对供应商进行绩效评估，确保优质供应链的稳定性和持续改进； 4、市场分析和趋势预测：对主要原材料进行市场分析和趋势预测，识别和管理供应商的各种潜在风险。 方向2：采购业务管理 - 潍坊 1、协助搭建供应商资源池管理体系，参与品类策略制定，支持供应商分级分类及动态优化，助力供应链资源质量持续提升； 2、参与物料招投标流程推广与执行，协助开展供应商绩效评估及改进方案落地； 3、支持采购合同全生命周期管理，包括合同模板标准化优化、档案数字化归档及合规性审查； 4、基于业务需求，协同跨部门资源调配，推动采购资源高效匹配与流程优化。\n1、英语听说读写熟练，可进行口语沟通； 2、敏锐的市场洞察力和成本分析能力； 3、优秀的谈判技巧与跨文化沟通能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "市场分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "跨文化",
-        "供应链",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "跨文化"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://goertek.hotjob.cn/SU63c50f8b0dcad47488052192/mc/detail?postId=6a1536dae791100f0a0900b4&recruitType=1",
-      "publishedAt": "2026-06-23",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-10-05"
+      "deadline": "2026-10-19"
     },
     {
       "id": "hotjob-7ca1abe9da86",
@@ -912,7 +823,7 @@
       "publishedAt": "2026-06-23",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-05"
+      "deadline": "2026-10-19"
     },
     {
       "id": "hotjob-84a982a81028",
@@ -1002,7 +913,7 @@
       "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-05"
+      "deadline": "2026-10-19"
     },
     {
       "id": "hotjob-0e0924790924",
@@ -1089,7 +1000,7 @@
       "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-05"
+      "deadline": "2026-10-19"
     },
     {
       "id": "hotjob-427aec6d838f",
@@ -1173,7 +1084,7 @@
       "publishedAt": "2026-08-24",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-05"
+      "deadline": "2026-10-19"
     },
     {
       "id": "hotjob-9b972ef88d3f",
@@ -1712,7 +1623,7 @@
         "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
-          "投递截止：2026-10-05"
+          "投递截止：2026-10-19"
         ],
         "technicalDuties": [],
         "businessDuties": []
@@ -1767,7 +1678,177 @@
       "publishedAt": "2026-06-23",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-05"
+      "deadline": "2026-10-19"
+    },
+    {
+      "id": "hotjob-45cf44953ed5",
+      "company": "歌尔股份",
+      "title": "2027届校招-暖通工程岗（歌尔之翼）(050520)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "潍坊市",
+      "jobDescription": "1、 监控工程施工过程，发现质量问题及时推动解决；把控工程成果质量，对质量偏差进行纠正； 2、 参加工程节点验收（材料进场，分部分项验收，单位工程验收）； 3、 编制工程进度计划，根据计划把控项目进度； 4、 对工程出现的进度偏差及时进行分析，并采取相应纠正措施； 5、 根据项目预算，把控建设成本； 6、 负责项目的安全和文明施工； 7、 负责管理项目现场变更和签证。",
+      "jobRequirements": "/",
+      "JD": "1、 监控工程施工过程，发现质量问题及时推动解决；把控工程成果质量，对质量偏差进行纠正； 2、 参加工程节点验收（材料进场，分部分项验收，单位工程验收）； 3、 编制工程进度计划，根据计划把控项目进度； 4、 对工程出现的进度偏差及时进行分析，并采取相应纠正措施； 5、 根据项目预算，把控建设成本； 6、 负责项目的安全和文明施工； 7、 负责管理项目现场变更和签证。\n/",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-09-30"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://goertek.hotjob.cn/SU63c50f8b0dcad47488052192/mc/detail?postId=6abcc237b6fae46f676fa2aa&recruitType=1",
+      "publishedAt": "2026-09-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-30"
+    },
+    {
+      "id": "hotjob-b400aa68c7c3",
+      "company": "歌尔股份",
+      "title": "2027届校招-土建工程岗（歌尔之翼）(050519)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "潍坊市",
+      "jobDescription": "1、 监控工程施工过程，发现质量问题及时推动解决；把控工程成果质量，对质量偏差进行纠正； 2、 参加工程节点验收（材料进场，分部分项验收，单位工程验收）； 3、 编制工程进度计划，根据计划把控项目进度； 4、 对工程出现的进度偏差及时进行分析，并采取相应纠正措施； 5、 根据项目预算，把控建设成本； 6、 负责项目的安全和文明施工； 7、 负责管理项目现场变更和签证。",
+      "jobRequirements": "/",
+      "JD": "1、 监控工程施工过程，发现质量问题及时推动解决；把控工程成果质量，对质量偏差进行纠正； 2、 参加工程节点验收（材料进场，分部分项验收，单位工程验收）； 3、 编制工程进度计划，根据计划把控项目进度； 4、 对工程出现的进度偏差及时进行分析，并采取相应纠正措施； 5、 根据项目预算，把控建设成本； 6、 负责项目的安全和文明施工； 7、 负责管理项目现场变更和签证。\n/",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-09-30"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://goertek.hotjob.cn/SU63c50f8b0dcad47488052192/mc/detail?postId=6abcc026f0cfabf2b4dd40ca&recruitType=1",
+      "publishedAt": "2026-09-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-30"
     },
     {
       "id": "hotjob-57e499391d2f",

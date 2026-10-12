@@ -1,7 +1,7 @@
 {
   "company": "蒙牛",
-  "count": 82,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 83,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "beisen-2e516434951d",
@@ -379,100 +379,6 @@
       "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
     },
     {
-      "id": "beisen-a760b23c4e5d",
-      "company": "蒙牛",
-      "title": "市场未来星（品牌方向）(J67601)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "教育程度：硕士及以上学历，英语六级以上，有较强的英语听说读写能力；；专业要求：市场营销、广告学、传播学、新闻学等专业优先；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 品牌策略洞察：协助研判行业趋势与市场机会，开展竞品追踪、消费者调研分析，围绕品牌目标参与制定传播策略与执行计划，支撑品牌规划落地。 2. 内容传播运营：联动研发、销售等跨部门团队，挖掘品牌故事与标杆案例，开展内容生产与对外传播，传递品牌价值；搭建维护营销素材资源库。 3. 营销活动执行：参与品牌营销活动策划与落地，协助设计基础媒介投放方案，跟进项目全流程进度与执行效果。 4. 产品项目协同：跟进新品上市全流程，梳理关键节点与协同机制，对接内部资源，保障项目高效推进。 5. 数据复盘支持：基础数据整理反馈，协助开展品牌盈利核算与项目效果复盘，输出基础分析结论。",
-      "jobRequirements": "1、教育程度：硕士及以上学历，英语六级以上，有较强的英语听说读写能力； 2、专业要求：市场营销、广告学、传播学、新闻学等专业优先； 3、技能水平：故事策划、采写能力强，对品牌传播、市场传播有经验和见解； 4、实习经验：有品牌、市场营销相关经验优先； 5、综合素质要求：具备较强的跨部门协调、沟通能力，能快速融入团队。",
-      "JD": "1. 品牌策略洞察：协助研判行业趋势与市场机会，开展竞品追踪、消费者调研分析，围绕品牌目标参与制定传播策略与执行计划，支撑品牌规划落地。 2. 内容传播运营：联动研发、销售等跨部门团队，挖掘品牌故事与标杆案例，开展内容生产与对外传播，传递品牌价值；搭建维护营销素材资源库。 3. 营销活动执行：参与品牌营销活动策划与落地，协助设计基础媒介投放方案，跟进项目全流程进度与执行效果。 4. 产品项目协同：跟进新品上市全流程，梳理关键节点与协同机制，对接内部资源，保障项目高效推进。 5. 数据复盘支持：基础数据整理反馈，协助开展品牌盈利核算与项目效果复盘，输出基础分析结论。\n1、教育程度：硕士及以上学历，英语六级以上，有较强的英语听说读写能力； 2、专业要求：市场营销、广告学、传播学、新闻学等专业优先； 3、技能水平：故事策划、采写能力强，对品牌传播、市场传播有经验和见解； 4、实习经验：有品牌、市场营销相关经验优先； 5、综合素质要求：具备较强的跨部门协调、沟通能力，能快速融入团队。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "教育程度：硕士及以上学历，英语六级以上，有较强的英语听说读写能力；",
-          "专业要求：市场营销、广告学、传播学、新闻学等专业优先；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1. 品牌策略洞察：协助研判行业趋势与市场机会，开展竞品追踪、消费者调研分析，围绕"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c045457a-b70a-401d-b1ca-fc995b5e1b81",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
       "id": "beisen-13bd293adf13",
       "company": "蒙牛",
       "title": "人力资源未来星（国际化）(J67631)",
@@ -559,100 +465,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c784fea1-e7d2-4ac7-8e80-ac14f5c0b2c3",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
-      "id": "beisen-8cdb3adc577f",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67634)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "学历专业：硕士及以上学历，采购、供应链、财务、食品 / 乳品等相关专业。",
-        "hardRestriction": true,
-        "hardClauses": [
-          "学历专业：硕士及以上学历",
-          "采购、供应链、财务、食品 / 乳品等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1. 通过集团多部门轮岗培养，系统学习采购、供应链、成本、合规全维度业务知识体系。 2. 跟踪供应链行业趋势、市场行情及物料价格动态，整理品类业务数据；协助开展品类分析、成本研判，配合优化采购策略及年度采购规划，搭建供应链行业认知与商业思维。 3. 参与供应商寻源、筛选及资质审核，拓展供应链资源；协助开展供应商全生命周期管理，包含准入、日常维护、绩效评级与考核优化，完善供应商档案资料。 4. 参与采购全流程轮岗实操，对接业务需求，梳理采购计划，跟进物料履约交付，保障物资供应；协助比价议价、招标对接，参与成本分析及降本落地工作。 5. 学习采购质量与风控体系，协助采购全流程质量监管，跟进物料验收及质量问题整改；识别供应链交付、质量类潜在风险，协助完善风险预警及应对机制。 6. 严格执行阳光采购、合规采购制度，熟练操作采购、ERP 相关业务系统。 7. 参与部门专项培养及轮岗学习，持续提升采购专业能力与跨部门协同统筹能力。",
-      "jobRequirements": "1. 学历专业：硕士及以上学历，采购、供应链、财务、食品 / 乳品等相关专业。 2. 能力素养：具备市场洞察与成本风控意识，逻辑缜密；擅长数据整理、行情分析、问题复盘与方案优化；熟练使用 Office，可独立完成数据分析、工作总结及专项报告撰写。 3. 综合素质：具备良好商务谈判、跨部门沟通协调及团队协作能力，执行力强，能够承受工作压力；愿意接受供应链全模块轮岗及一线业务实操；主动好学、责任心强，具备商业思维，有长期深耕供应链领域的职业意愿。 4. 优先条件：有采购、供应链、物流、供应商管理相关实习经历优先；熟悉招投标流程、成本管控、供应链体系优先；熟练使用 ERP 系统优先。 5. 职业素养：认同阳光采购、合规经营准则，恪守职业底线，工作严谨认真；服从公司轮岗培养及岗位调配安排。 6. 语言能力：英语可作为工作语言。",
-      "JD": "1. 通过集团多部门轮岗培养，系统学习采购、供应链、成本、合规全维度业务知识体系。 2. 跟踪供应链行业趋势、市场行情及物料价格动态，整理品类业务数据；协助开展品类分析、成本研判，配合优化采购策略及年度采购规划，搭建供应链行业认知与商业思维。 3. 参与供应商寻源、筛选及资质审核，拓展供应链资源；协助开展供应商全生命周期管理，包含准入、日常维护、绩效评级与考核优化，完善供应商档案资料。 4. 参与采购全流程轮岗实操，对接业务需求，梳理采购计划，跟进物料履约交付，保障物资供应；协助比价议价、招标对接，参与成本分析及降本落地工作。 5. 学习采购质量与风控体系，协助采购全流程质量监管，跟进物料验收及质量问题整改；识别供应链交付、质量类潜在风险，协助完善风险预警及应对机制。 6. 严格执行阳光采购、合规采购制度，熟练操作采购、ERP 相关业务系统。 7. 参与部门专项培养及轮岗学习，持续提升采购专业能力与跨部门协同统筹能力。\n1. 学历专业：硕士及以上学历，采购、供应链、财务、食品 / 乳品等相关专业。 2. 能力素养：具备市场洞察与成本风控意识，逻辑缜密；擅长数据整理、行情分析、问题复盘与方案优化；熟练使用 Office，可独立完成数据分析、工作总结及专项报告撰写。 3. 综合素质：具备良好商务谈判、跨部门沟通协调及团队协作能力，执行力强，能够承受工作压力；愿意接受供应链全模块轮岗及一线业务实操；主动好学、责任心强，具备商业思维，有长期深耕供应链领域的职业意愿。 4. 优先条件：有采购、供应链、物流、供应商管理相关实习经历优先；熟悉招投标流程、成本管控、供应链体系优先；熟练使用 ERP 系统优先。 5. 职业素养：认同阳光采购、合规经营准则，恪守职业底线，工作严谨认真；服从公司轮岗培养及岗位调配安排。 6. 语言能力：英语可作为工作语言。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "学历专业：硕士及以上学历，采购、供应链、财务、食品 / 乳品等相关专业。"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "数据分析",
-        "跨部门沟通"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "数据",
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1. 通过集团多部门轮岗培养，系统学习采购、供应链、成本、合规全维度业务知识体系。"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=1320d30d-8f7f-438b-b9a8-166d8fc98cd2",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
@@ -935,6 +747,194 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=e7ecb819-3f0d-4619-8bc2-fdd54e7032c0",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-a760b23c4e5d",
+      "company": "蒙牛",
+      "title": "市场未来星（品牌方向）(J67601)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "教育程度：硕士及以上学历，英语六级以上，有较强的英语听说读写能力；；专业要求：市场营销、广告学、传播学、新闻学等专业优先；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 品牌策略洞察：协助研判行业趋势与市场机会，开展竞品追踪、消费者调研分析，围绕品牌目标参与制定传播策略与执行计划，支撑品牌规划落地。 2. 内容传播运营：联动研发、销售等跨部门团队，挖掘品牌故事与标杆案例，开展内容生产与对外传播，传递品牌价值；搭建维护营销素材资源库。 3. 营销活动执行：参与品牌营销活动策划与落地，协助设计基础媒介投放方案，跟进项目全流程进度与执行效果。 4. 产品项目协同：跟进新品上市全流程，梳理关键节点与协同机制，对接内部资源，保障项目高效推进。 5. 数据复盘支持：基础数据整理反馈，协助开展品牌盈利核算与项目效果复盘，输出基础分析结论。",
+      "jobRequirements": "1、教育程度：硕士及以上学历，英语六级以上，有较强的英语听说读写能力； 2、专业要求：市场营销、广告学、传播学、新闻学等专业优先； 3、技能水平：故事策划、采写能力强，对品牌传播、市场传播有经验和见解； 4、实习经验：有品牌、市场营销相关经验优先； 5、综合素质要求：具备较强的跨部门协调、沟通能力，能快速融入团队。",
+      "JD": "1. 品牌策略洞察：协助研判行业趋势与市场机会，开展竞品追踪、消费者调研分析，围绕品牌目标参与制定传播策略与执行计划，支撑品牌规划落地。 2. 内容传播运营：联动研发、销售等跨部门团队，挖掘品牌故事与标杆案例，开展内容生产与对外传播，传递品牌价值；搭建维护营销素材资源库。 3. 营销活动执行：参与品牌营销活动策划与落地，协助设计基础媒介投放方案，跟进项目全流程进度与执行效果。 4. 产品项目协同：跟进新品上市全流程，梳理关键节点与协同机制，对接内部资源，保障项目高效推进。 5. 数据复盘支持：基础数据整理反馈，协助开展品牌盈利核算与项目效果复盘，输出基础分析结论。\n1、教育程度：硕士及以上学历，英语六级以上，有较强的英语听说读写能力； 2、专业要求：市场营销、广告学、传播学、新闻学等专业优先； 3、技能水平：故事策划、采写能力强，对品牌传播、市场传播有经验和见解； 4、实习经验：有品牌、市场营销相关经验优先； 5、综合素质要求：具备较强的跨部门协调、沟通能力，能快速融入团队。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "教育程度：硕士及以上学历，英语六级以上，有较强的英语听说读写能力；",
+          "专业要求：市场营销、广告学、传播学、新闻学等专业优先；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 品牌策略洞察：协助研判行业趋势与市场机会，开展竞品追踪、消费者调研分析，围绕"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=c045457a-b70a-401d-b1ca-fc995b5e1b81",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-8cdb3adc577f",
+      "company": "蒙牛",
+      "title": "供应链未来星(J67634)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "学历专业：硕士及以上学历，采购、供应链、财务、食品 / 乳品等相关专业。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "学历专业：硕士及以上学历",
+          "采购、供应链、财务、食品 / 乳品等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 通过集团多部门轮岗培养，系统学习采购、供应链、成本、合规全维度业务知识体系。 2. 跟踪供应链行业趋势、市场行情及物料价格动态，整理品类业务数据；协助开展品类分析、成本研判，配合优化采购策略及年度采购规划，搭建供应链行业认知与商业思维。 3. 参与供应商寻源、筛选及资质审核，拓展供应链资源；协助开展供应商全生命周期管理，包含准入、日常维护、绩效评级与考核优化，完善供应商档案资料。 4. 参与采购全流程轮岗实操，对接业务需求，梳理采购计划，跟进物料履约交付，保障物资供应；协助比价议价、招标对接，参与成本分析及降本落地工作。 5. 学习采购质量与风控体系，协助采购全流程质量监管，跟进物料验收及质量问题整改；识别供应链交付、质量类潜在风险，协助完善风险预警及应对机制。 6. 严格执行阳光采购、合规采购制度，熟练操作采购、ERP 相关业务系统。 7. 参与部门专项培养及轮岗学习，持续提升采购专业能力与跨部门协同统筹能力。",
+      "jobRequirements": "1. 学历专业：硕士及以上学历，采购、供应链、财务、食品 / 乳品等相关专业。 2. 能力素养：具备市场洞察与成本风控意识，逻辑缜密；擅长数据整理、行情分析、问题复盘与方案优化；熟练使用 Office，可独立完成数据分析、工作总结及专项报告撰写。 3. 综合素质：具备良好商务谈判、跨部门沟通协调及团队协作能力，执行力强，能够承受工作压力；愿意接受供应链全模块轮岗及一线业务实操；主动好学、责任心强，具备商业思维，有长期深耕供应链领域的职业意愿。 4. 优先条件：有采购、供应链、物流、供应商管理相关实习经历优先；熟悉招投标流程、成本管控、供应链体系优先；熟练使用 ERP 系统优先。 5. 职业素养：认同阳光采购、合规经营准则，恪守职业底线，工作严谨认真；服从公司轮岗培养及岗位调配安排。 6. 语言能力：英语可作为工作语言。",
+      "JD": "1. 通过集团多部门轮岗培养，系统学习采购、供应链、成本、合规全维度业务知识体系。 2. 跟踪供应链行业趋势、市场行情及物料价格动态，整理品类业务数据；协助开展品类分析、成本研判，配合优化采购策略及年度采购规划，搭建供应链行业认知与商业思维。 3. 参与供应商寻源、筛选及资质审核，拓展供应链资源；协助开展供应商全生命周期管理，包含准入、日常维护、绩效评级与考核优化，完善供应商档案资料。 4. 参与采购全流程轮岗实操，对接业务需求，梳理采购计划，跟进物料履约交付，保障物资供应；协助比价议价、招标对接，参与成本分析及降本落地工作。 5. 学习采购质量与风控体系，协助采购全流程质量监管，跟进物料验收及质量问题整改；识别供应链交付、质量类潜在风险，协助完善风险预警及应对机制。 6. 严格执行阳光采购、合规采购制度，熟练操作采购、ERP 相关业务系统。 7. 参与部门专项培养及轮岗学习，持续提升采购专业能力与跨部门协同统筹能力。\n1. 学历专业：硕士及以上学历，采购、供应链、财务、食品 / 乳品等相关专业。 2. 能力素养：具备市场洞察与成本风控意识，逻辑缜密；擅长数据整理、行情分析、问题复盘与方案优化；熟练使用 Office，可独立完成数据分析、工作总结及专项报告撰写。 3. 综合素质：具备良好商务谈判、跨部门沟通协调及团队协作能力，执行力强，能够承受工作压力；愿意接受供应链全模块轮岗及一线业务实操；主动好学、责任心强，具备商业思维，有长期深耕供应链领域的职业意愿。 4. 优先条件：有采购、供应链、物流、供应商管理相关实习经历优先；熟悉招投标流程、成本管控、供应链体系优先；熟练使用 ERP 系统优先。 5. 职业素养：认同阳光采购、合规经营准则，恪守职业底线，工作严谨认真；服从公司轮岗培养及岗位调配安排。 6. 语言能力：英语可作为工作语言。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "学历专业：硕士及以上学历，采购、供应链、财务、食品 / 乳品等相关专业。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 通过集团多部门轮岗培养，系统学习采购、供应链、成本、合规全维度业务知识体系。"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=1320d30d-8f7f-438b-b9a8-166d8fc98cd2",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
@@ -2085,94 +2085,9 @@
       "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
     },
     {
-      "id": "beisen-e99f0b96d4ac",
+      "id": "beisen-f71c12f9c170",
       "company": "蒙牛",
-      "title": "人力资源未来星(J67592)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "专业要求：人力资源专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、负责常温人力资源相关政策及制度的落地与实施； 2、组织发展：负责所辖中心及部门的组织发展相关工作，包括组织架构优化调整、岗位设置及职责梳理、岗位价值评估工作；参与定编原则的制定与修改，根据组织架构设定，完成人员匹配；评估组织机构有效性，为组织效能提供建议； 3、人才发展：负责所辖中心及部门的管理及专业人才发展工作，包括组织开展所辖部门人才盘点工作，输出高潜名单及继任计划；组织开展所辖部门管理者选拔、任命、考核及管理者360评估、管理者职级回顾等工作；组织开展所辖部门专业职级晋升工作，搭建专业职级晋升通道，制定晋升标准与方案并组织实施；组织开展所辖部门未来星培养工作； 4、招聘管理：统筹所辖中心及部门招聘需求，制定招聘计划，组织、参与、配合招聘各环节工作； 5、学习发展：统筹所辖中心及部门培训需求，承接集团及事业部培训项目与课程，配合培训项目的落地实施； 6、绩效管理：负责所辖中心及部门的绩效工作，包括绩效合同设立、调整维护，系统操作、激励兑现及绩效工作发放； 7、薪酬福利管理：负责所辖中心及部门的薪酬、福利工作，包括薪资、福利发放，话补、兼职工资、加班费等核算、造发；负责所辖部门保险、公积金报表的提报工作； 8、人事管理：负责所辖中心及部门人员入职、异动、离职的手续办理；与共享对接系统维护，确保人员基础信息准确；出具工作餐补，进行定编与实际在岗分析等； 9、员工关系：负责所辖中心及部门员工关系及法律风险防控工作；负责所辖部门的假勤追踪审核、考勤反馈确认等工作； 10、HR项目：参与集团及事业部各项HR项目工作。",
-      "jobRequirements": "1、专业要求：人力资源专业优先 2、技能要求：熟悉办公软件、具备人际洞察力，担任过学生干部优先 3、综合素质要求：具备积极进取，有上进心，自驱力强等",
-      "JD": "1、负责常温人力资源相关政策及制度的落地与实施； 2、组织发展：负责所辖中心及部门的组织发展相关工作，包括组织架构优化调整、岗位设置及职责梳理、岗位价值评估工作；参与定编原则的制定与修改，根据组织架构设定，完成人员匹配；评估组织机构有效性，为组织效能提供建议； 3、人才发展：负责所辖中心及部门的管理及专业人才发展工作，包括组织开展所辖部门人才盘点工作，输出高潜名单及继任计划；组织开展所辖部门管理者选拔、任命、考核及管理者360评估、管理者职级回顾等工作；组织开展所辖部门专业职级晋升工作，搭建专业职级晋升通道，制定晋升标准与方案并组织实施；组织开展所辖部门未来星培养工作； 4、招聘管理：统筹所辖中心及部门招聘需求，制定招聘计划，组织、参与、配合招聘各环节工作； 5、学习发展：统筹所辖中心及部门培训需求，承接集团及事业部培训项目与课程，配合培训项目的落地实施； 6、绩效管理：负责所辖中心及部门的绩效工作，包括绩效合同设立、调整维护，系统操作、激励兑现及绩效工作发放； 7、薪酬福利管理：负责所辖中心及部门的薪酬、福利工作，包括薪资、福利发放，话补、兼职工资、加班费等核算、造发；负责所辖部门保险、公积金报表的提报工作； 8、人事管理：负责所辖中心及部门人员入职、异动、离职的手续办理；与共享对接系统维护，确保人员基础信息准确；出具工作餐补，进行定编与实际在岗分析等； 9、员工关系：负责所辖中心及部门员工关系及法律风险防控工作；负责所辖部门的假勤追踪审核、考勤反馈确认等工作； 10、HR项目：参与集团及事业部各项HR项目工作。\n1、专业要求：人力资源专业优先 2、技能要求：熟悉办公软件、具备人际洞察力，担任过学生干部优先 3、综合素质要求：具备积极进取，有上进心，自驱力强等",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "专业要求：人力资源专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "3",
-        "min": 3,
-        "max": 3,
-        "scope": "job",
-        "display": "3人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "3 3 1、负责常温人力资源相关政策及制度的落地与实施； 2、组织发展：负责所辖中心及部门"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a18d4257-9c72-4418-afe6-d80217a83489",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
-      "id": "beisen-3042e3af62ae",
-      "company": "蒙牛",
-      "title": "供应链未来星(J67599)",
+      "title": "供应链未来星（计划排产方向）(J67599)",
       "graduationYear": [
         "2027"
       ],
@@ -2256,6 +2171,91 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=da0d0487-c865-4532-9395-8d3d1b56d212",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-e99f0b96d4ac",
+      "company": "蒙牛",
+      "title": "人力资源未来星(J67592)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "专业要求：人力资源专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责常温人力资源相关政策及制度的落地与实施； 2、组织发展：负责所辖中心及部门的组织发展相关工作，包括组织架构优化调整、岗位设置及职责梳理、岗位价值评估工作；参与定编原则的制定与修改，根据组织架构设定，完成人员匹配；评估组织机构有效性，为组织效能提供建议； 3、人才发展：负责所辖中心及部门的管理及专业人才发展工作，包括组织开展所辖部门人才盘点工作，输出高潜名单及继任计划；组织开展所辖部门管理者选拔、任命、考核及管理者360评估、管理者职级回顾等工作；组织开展所辖部门专业职级晋升工作，搭建专业职级晋升通道，制定晋升标准与方案并组织实施；组织开展所辖部门未来星培养工作； 4、招聘管理：统筹所辖中心及部门招聘需求，制定招聘计划，组织、参与、配合招聘各环节工作； 5、学习发展：统筹所辖中心及部门培训需求，承接集团及事业部培训项目与课程，配合培训项目的落地实施； 6、绩效管理：负责所辖中心及部门的绩效工作，包括绩效合同设立、调整维护，系统操作、激励兑现及绩效工作发放； 7、薪酬福利管理：负责所辖中心及部门的薪酬、福利工作，包括薪资、福利发放，话补、兼职工资、加班费等核算、造发；负责所辖部门保险、公积金报表的提报工作； 8、人事管理：负责所辖中心及部门人员入职、异动、离职的手续办理；与共享对接系统维护，确保人员基础信息准确；出具工作餐补，进行定编与实际在岗分析等； 9、员工关系：负责所辖中心及部门员工关系及法律风险防控工作；负责所辖部门的假勤追踪审核、考勤反馈确认等工作； 10、HR项目：参与集团及事业部各项HR项目工作。",
+      "jobRequirements": "1、专业要求：人力资源专业优先 2、技能要求：熟悉办公软件、具备人际洞察力，担任过学生干部优先 3、综合素质要求：具备积极进取，有上进心，自驱力强等",
+      "JD": "1、负责常温人力资源相关政策及制度的落地与实施； 2、组织发展：负责所辖中心及部门的组织发展相关工作，包括组织架构优化调整、岗位设置及职责梳理、岗位价值评估工作；参与定编原则的制定与修改，根据组织架构设定，完成人员匹配；评估组织机构有效性，为组织效能提供建议； 3、人才发展：负责所辖中心及部门的管理及专业人才发展工作，包括组织开展所辖部门人才盘点工作，输出高潜名单及继任计划；组织开展所辖部门管理者选拔、任命、考核及管理者360评估、管理者职级回顾等工作；组织开展所辖部门专业职级晋升工作，搭建专业职级晋升通道，制定晋升标准与方案并组织实施；组织开展所辖部门未来星培养工作； 4、招聘管理：统筹所辖中心及部门招聘需求，制定招聘计划，组织、参与、配合招聘各环节工作； 5、学习发展：统筹所辖中心及部门培训需求，承接集团及事业部培训项目与课程，配合培训项目的落地实施； 6、绩效管理：负责所辖中心及部门的绩效工作，包括绩效合同设立、调整维护，系统操作、激励兑现及绩效工作发放； 7、薪酬福利管理：负责所辖中心及部门的薪酬、福利工作，包括薪资、福利发放，话补、兼职工资、加班费等核算、造发；负责所辖部门保险、公积金报表的提报工作； 8、人事管理：负责所辖中心及部门人员入职、异动、离职的手续办理；与共享对接系统维护，确保人员基础信息准确；出具工作餐补，进行定编与实际在岗分析等； 9、员工关系：负责所辖中心及部门员工关系及法律风险防控工作；负责所辖部门的假勤追踪审核、考勤反馈确认等工作； 10、HR项目：参与集团及事业部各项HR项目工作。\n1、专业要求：人力资源专业优先 2、技能要求：熟悉办公软件、具备人际洞察力，担任过学生干部优先 3、综合素质要求：具备积极进取，有上进心，自驱力强等",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "专业要求：人力资源专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、负责常温人力资源相关政策及制度的落地与实施； 2、组织发展：负责所辖中心及部门"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a18d4257-9c72-4418-afe6-d80217a83489",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
@@ -2957,6 +2957,102 @@
       "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
     },
     {
+      "id": "beisen-3042e3af62ae",
+      "company": "蒙牛",
+      "title": "供应链未来星(J67599)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2、专业要求：计算机与科学，电子信息工程等，",
+        "hardRestriction": true,
+        "hardClauses": [
+          "2、专业要求：计算机与科学"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "内蒙古自治区·呼和浩特市",
+      "jobDescription": "1，结合部门实际业务场景开展数据建模工作，搭建适配产销分析、产线/产能规划的数据模型，持续优化模型，提升数据洞察与分析预警能力，助力业务精细化管理； 2，数据标准化建设：建立统一、规范、可扩展的数据标准体系，确保部门内数据定义一致、格式规范、含义清晰，保障数据真实、准确、有效，为数据库建设与数据应用奠定基础； 3，数据库搭建：基于标准化成果，设计、开发并部署满足计划排产业务需求的数据库系统，实现多源数据的高效集成与存储； 4，数据库维护：保障数据库系统的稳定、安全、高效运行，持续优化，及时响应数据问题与部门数据提取需求。 5，跟进行业数据管理、建模及数字化新技术、新方法，持续优化数据库、数据模型及数字化转型方案，助力部门数字化升级。",
+      "jobRequirements": "1、教育程度：硕士及以上学历； 2、专业要求：计算机与科学，电子信息工程等， 3、技能水平：阅读英文方案能力、可独立完成数据分析、方案编写能力。 4、实习经验：有制造型企业供应链、智能制造、自动化相关实习经验者优先。 5、其他要求：具有较强的沟通能力、应变能力及抗压能力。",
+      "JD": "1，结合部门实际业务场景开展数据建模工作，搭建适配产销分析、产线/产能规划的数据模型，持续优化模型，提升数据洞察与分析预警能力，助力业务精细化管理； 2，数据标准化建设：建立统一、规范、可扩展的数据标准体系，确保部门内数据定义一致、格式规范、含义清晰，保障数据真实、准确、有效，为数据库建设与数据应用奠定基础； 3，数据库搭建：基于标准化成果，设计、开发并部署满足计划排产业务需求的数据库系统，实现多源数据的高效集成与存储； 4，数据库维护：保障数据库系统的稳定、安全、高效运行，持续优化，及时响应数据问题与部门数据提取需求。 5，跟进行业数据管理、建模及数字化新技术、新方法，持续优化数据库、数据模型及数字化转型方案，助力部门数字化升级。\n1、教育程度：硕士及以上学历； 2、专业要求：计算机与科学，电子信息工程等， 3、技能水平：阅读英文方案能力、可独立完成数据分析、方案编写能力。 4、实习经验：有制造型企业供应链、智能制造、自动化相关实习经验者优先。 5、其他要求：具有较强的沟通能力、应变能力及抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业要求：计算机与科学，电子信息工程等，"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1，结合部门实际业务场景开展数据建模工作，搭建适配产销分析、产线/产能规划的数据模"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=da0d0487-c865-4532-9395-8d3d1b56d212",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
       "id": "beisen-55e22ded45a7",
       "company": "蒙牛",
       "title": "销售未来星（国际化）(J67652)",
@@ -3259,103 +3355,6 @@
       "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
     },
     {
-      "id": "beisen-0cbcee2a6ec1",
-      "company": "蒙牛",
-      "title": "销售星动力(J67531)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先",
-        "hardRestriction": true,
-        "hardClauses": [
-          "① 学历专业：本科及以上学历应届毕业生"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商团队落实市场执行、物流配送资源配置标准； 协助开发经销商、配送商，汇总上报区域内经销商增减、变更信息 3.铺市/陈列/促销推广执行：指导经销商团队实施铺市计划、陈列计划、促销计划 4.信息化工作落地：负责整理、总结该区域市场信息，反馈工作落地效果 5.质量管理工作落地：依据销售质量管理体系标准，重点进行仓储、配送、渠道三大环节的质量风险管控 6.秩序管理监督：协助市场进行窜货管控 7.销售方案执行与费用管控：根据市场月度整体规划及销售费用预算，组织经销商按照销售管理费用制度合理使用费用",
-      "jobRequirements": "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先； ② 能力要求：具备良好的沟通表达、说服与逻辑思维能力；具备基础的市场洞察与数据分析能力；有快消行业实习经验、数字化工具使用经验、学生干部管理经验者优先； ③ 个性特征：外向开朗，主观能动性强，自驱力强，具备强责任感、抗压能力与学习能力； ④ 其他要求：需接受全国跨区域轮岗，愿意长期在快消销售领域发展。",
-      "JD": "1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商团队落实市场执行、物流配送资源配置标准； 协助开发经销商、配送商，汇总上报区域内经销商增减、变更信息 3.铺市/陈列/促销推广执行：指导经销商团队实施铺市计划、陈列计划、促销计划 4.信息化工作落地：负责整理、总结该区域市场信息，反馈工作落地效果 5.质量管理工作落地：依据销售质量管理体系标准，重点进行仓储、配送、渠道三大环节的质量风险管控 6.秩序管理监督：协助市场进行窜货管控 7.销售方案执行与费用管控：根据市场月度整体规划及销售费用预算，组织经销商按照销售管理费用制度合理使用费用\n① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先； ② 能力要求：具备良好的沟通表达、说服与逻辑思维能力；具备基础的市场洞察与数据分析能力；有快消行业实习经验、数字化工具使用经验、学生干部管理经验者优先； ③ 个性特征：外向开朗，主观能动性强，自驱力强，具备强责任感、抗压能力与学习能力； ④ 其他要求：需接受全国跨区域轮岗，愿意长期在快消销售领域发展。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "2",
-        "min": 2,
-        "max": 2,
-        "scope": "job",
-        "display": "2人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "2 2 1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6731f716-c023-4c43-89cc-087b8912bed2",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
       "id": "beisen-cd1c80338a8d",
       "company": "蒙牛",
       "title": "星动力-生产运营(J67571)",
@@ -3635,99 +3634,6 @@
       "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
     },
     {
-      "id": "beisen-45fc991263c4",
-      "company": "蒙牛",
-      "title": "销售未来星(J67596)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.教育程度：本科及以上，电子商务、市场营销、广告学相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1.基础运营：电商运营基础信息提报，更新物料信息，确保基础信息正确； 2.活动运营：根据促销选品、定额费用消耗情况，库存情况以及平台活动节奏，提前沟通京东力度，确定每日活动力度并跟进； 3.库存优化：临期商品消耗规划与消耗数据跟进，及时调整消化策略以减少出库降低损失，调优整体库存周转。 4.预算管理：管理定额费用、淘客推广费用，根据费用使用进度，调整商品销售节奏及费比效率； 5.运营管理：对站外淘客推广的损益、推广过程进行规划与过程优化； 6.销售管理：对站内整体GMV、利润、市占份额等指标负责，精细化运营的过程优化及改善。\"",
-      "jobRequirements": "1.教育程度：本科及以上，电子商务、市场营销、广告学相关专业优先； 2.技能水平：熟练运用办公软件，对于电商运营模式有一定的经验和见解； 3.实习经验：有电商运营经验或是互联网公司实习经验优先； 4.其他要求：细心、负责，心态积极。",
-      "JD": "1.基础运营：电商运营基础信息提报，更新物料信息，确保基础信息正确； 2.活动运营：根据促销选品、定额费用消耗情况，库存情况以及平台活动节奏，提前沟通京东力度，确定每日活动力度并跟进； 3.库存优化：临期商品消耗规划与消耗数据跟进，及时调整消化策略以减少出库降低损失，调优整体库存周转。 4.预算管理：管理定额费用、淘客推广费用，根据费用使用进度，调整商品销售节奏及费比效率； 5.运营管理：对站外淘客推广的损益、推广过程进行规划与过程优化； 6.销售管理：对站内整体GMV、利润、市占份额等指标负责，精细化运营的过程优化及改善。\"\n1.教育程度：本科及以上，电子商务、市场营销、广告学相关专业优先； 2.技能水平：熟练运用办公软件，对于电商运营模式有一定的经验和见解； 3.实习经验：有电商运营经验或是互联网公司实习经验优先； 4.其他要求：细心、负责，心态积极。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.教育程度：本科及以上，电子商务、市场营销、广告学相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "电商"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "电商",
-        "数据",
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "3",
-        "min": 3,
-        "max": 3,
-        "scope": "job",
-        "display": "3人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "3 3 1.基础运营：电商运营基础信息提报，更新物料信息，确保基础信息正确； 2.活动运营"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=444f3000-5e67-4d6d-a919-f546067121f0",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
       "id": "beisen-e5fdf3b3fd3c",
       "company": "蒙牛",
       "title": "研发未来星(J67620)",
@@ -3903,6 +3809,282 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=da936392-a044-4b66-b8d0-dc0b5c7d7065",
       "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-0cbcee2a6ec1",
+      "company": "蒙牛",
+      "title": "销售星动力(J67531)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "① 学历专业：本科及以上学历应届毕业生"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商团队落实市场执行、物流配送资源配置标准； 协助开发经销商、配送商，汇总上报区域内经销商增减、变更信息 3.铺市/陈列/促销推广执行：指导经销商团队实施铺市计划、陈列计划、促销计划 4.信息化工作落地：负责整理、总结该区域市场信息，反馈工作落地效果 5.质量管理工作落地：依据销售质量管理体系标准，重点进行仓储、配送、渠道三大环节的质量风险管控 6.秩序管理监督：协助市场进行窜货管控 7.销售方案执行与费用管控：根据市场月度整体规划及销售费用预算，组织经销商按照销售管理费用制度合理使用费用",
+      "jobRequirements": "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先； ② 能力要求：具备良好的沟通表达、说服与逻辑思维能力；具备基础的市场洞察与数据分析能力；有快消行业实习经验、数字化工具使用经验、学生干部管理经验者优先； ③ 个性特征：外向开朗，主观能动性强，自驱力强，具备强责任感、抗压能力与学习能力； ④ 其他要求：需接受全国跨区域轮岗，愿意长期在快消销售领域发展。",
+      "JD": "1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商团队落实市场执行、物流配送资源配置标准； 协助开发经销商、配送商，汇总上报区域内经销商增减、变更信息 3.铺市/陈列/促销推广执行：指导经销商团队实施铺市计划、陈列计划、促销计划 4.信息化工作落地：负责整理、总结该区域市场信息，反馈工作落地效果 5.质量管理工作落地：依据销售质量管理体系标准，重点进行仓储、配送、渠道三大环节的质量风险管控 6.秩序管理监督：协助市场进行窜货管控 7.销售方案执行与费用管控：根据市场月度整体规划及销售费用预算，组织经销商按照销售管理费用制度合理使用费用\n① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先； ② 能力要求：具备良好的沟通表达、说服与逻辑思维能力；具备基础的市场洞察与数据分析能力；有快消行业实习经验、数字化工具使用经验、学生干部管理经验者优先； ③ 个性特征：外向开朗，主观能动性强，自驱力强，具备强责任感、抗压能力与学习能力； ④ 其他要求：需接受全国跨区域轮岗，愿意长期在快消销售领域发展。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6731f716-c023-4c43-89cc-087b8912bed2",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-45fc991263c4",
+      "company": "蒙牛",
+      "title": "销售未来星(J67596)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.教育程度：本科及以上，电子商务、市场营销、广告学相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.基础运营：电商运营基础信息提报，更新物料信息，确保基础信息正确； 2.活动运营：根据促销选品、定额费用消耗情况，库存情况以及平台活动节奏，提前沟通京东力度，确定每日活动力度并跟进； 3.库存优化：临期商品消耗规划与消耗数据跟进，及时调整消化策略以减少出库降低损失，调优整体库存周转。 4.预算管理：管理定额费用、淘客推广费用，根据费用使用进度，调整商品销售节奏及费比效率； 5.运营管理：对站外淘客推广的损益、推广过程进行规划与过程优化； 6.销售管理：对站内整体GMV、利润、市占份额等指标负责，精细化运营的过程优化及改善。\"",
+      "jobRequirements": "1.教育程度：本科及以上，电子商务、市场营销、广告学相关专业优先； 2.技能水平：熟练运用办公软件，对于电商运营模式有一定的经验和见解； 3.实习经验：有电商运营经验或是互联网公司实习经验优先； 4.其他要求：细心、负责，心态积极。",
+      "JD": "1.基础运营：电商运营基础信息提报，更新物料信息，确保基础信息正确； 2.活动运营：根据促销选品、定额费用消耗情况，库存情况以及平台活动节奏，提前沟通京东力度，确定每日活动力度并跟进； 3.库存优化：临期商品消耗规划与消耗数据跟进，及时调整消化策略以减少出库降低损失，调优整体库存周转。 4.预算管理：管理定额费用、淘客推广费用，根据费用使用进度，调整商品销售节奏及费比效率； 5.运营管理：对站外淘客推广的损益、推广过程进行规划与过程优化； 6.销售管理：对站内整体GMV、利润、市占份额等指标负责，精细化运营的过程优化及改善。\"\n1.教育程度：本科及以上，电子商务、市场营销、广告学相关专业优先； 2.技能水平：熟练运用办公软件，对于电商运营模式有一定的经验和见解； 3.实习经验：有电商运营经验或是互联网公司实习经验优先； 4.其他要求：细心、负责，心态积极。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.教育程度：本科及以上，电子商务、市场营销、广告学相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "电商",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.基础运营：电商运营基础信息提报，更新物料信息，确保基础信息正确； 2.活动运营"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=444f3000-5e67-4d6d-a919-f546067121f0",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-998462ecdf19",
+      "company": "蒙牛",
+      "title": "研发未来星(J67612)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、参与协助全球低温中性乳制品发展趋势研究及新品开发战略制定; 2、全球低温乳制品相关标准研究，国家标准的学习、应用及反馈，参与国标制定与修订； 3、负责产品开发中原料标准的制定； 4、负责上市新产品、储备新产品开发方案的制定，产品研发及技术文件的制定； 5、负责现有产品的维护、升级、降本增效工作，并完成市场走访、竞品分析工作； 6、相关产品专利、论文等的撰写工作； 7、定期与市场部品牌经理等相关人员进行互动，并提供技术支持工作。",
+      "jobRequirements": "1.基础知识熟练能力：对所涉及的食品法规、技术标准等具备熟练掌握并使用的能力。 2.新技术的学习能力：通过书籍，媒体等工具学习及时了解新的加工工艺，新的设备，新的食品原料，并且具备新品技术为我所用的能力。 3.专业管理学科的能力：具备沟通协调、计划管理、压力管理、问题解决的能力。",
+      "JD": "1、参与协助全球低温中性乳制品发展趋势研究及新品开发战略制定; 2、全球低温乳制品相关标准研究，国家标准的学习、应用及反馈，参与国标制定与修订； 3、负责产品开发中原料标准的制定； 4、负责上市新产品、储备新产品开发方案的制定，产品研发及技术文件的制定； 5、负责现有产品的维护、升级、降本增效工作，并完成市场走访、竞品分析工作； 6、相关产品专利、论文等的撰写工作； 7、定期与市场部品牌经理等相关人员进行互动，并提供技术支持工作。\n1.基础知识熟练能力：对所涉及的食品法规、技术标准等具备熟练掌握并使用的能力。 2.新技术的学习能力：通过书籍，媒体等工具学习及时了解新的加工工艺，新的设备，新的食品原料，并且具备新品技术为我所用的能力。 3.专业管理学科的能力：具备沟通协调、计划管理、压力管理、问题解决的能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、参与协助全球低温中性乳制品发展趋势研究及新品开发战略制定; 2、全球低温乳制品"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=49011875-280b-48f6-a752-72c71a1bab32",
+      "publishedAt": "2026-10-10",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -4387,103 +4569,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=5607be2b-8ab9-4588-b714-ec84384ff34e",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
-      "id": "beisen-1ac680921cb2",
-      "company": "蒙牛",
-      "title": "销售星动力(J67530)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先",
-        "hardRestriction": true,
-        "hardClauses": [
-          "① 学历专业：本科及以上学历应届毕业生"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广西壮族自治区、贵州省、云南省",
-      "jobDescription": "1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商团队落实市场执行、物流配送资源配置标准； 协助开发经销商、配送商，汇总上报区域内经销商增减、变更信息 3.铺市/陈列/促销推广执行：指导经销商团队实施铺市计划、陈列计划、促销计划 4.信息化工作落地：负责整理、总结该区域市场信息，反馈工作落地效果 5.质量管理工作落地：依据销售质量管理体系标准，重点进行仓储、配送、渠道三大环节的质量风险管控 6.秩序管理监督：协助市场进行窜货管控 7.销售方案执行与费用管控：根据市场月度整体规划及销售费用预算，组织经销商按照销售管理费用制度合理使用费用",
-      "jobRequirements": "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先； ② 能力要求：具备良好的沟通表达、说服与逻辑思维能力；具备基础的市场洞察与数据分析能力；有快消行业实习经验、数字化工具使用经验、学生干部管理经验者优先； ③ 个性特征：外向开朗，主观能动性强，自驱力强，具备强责任感、抗压能力与学习能力； ④ 其他要求：需接受全国跨区域轮岗，愿意长期在快消销售领域发展。",
-      "JD": "1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商团队落实市场执行、物流配送资源配置标准； 协助开发经销商、配送商，汇总上报区域内经销商增减、变更信息 3.铺市/陈列/促销推广执行：指导经销商团队实施铺市计划、陈列计划、促销计划 4.信息化工作落地：负责整理、总结该区域市场信息，反馈工作落地效果 5.质量管理工作落地：依据销售质量管理体系标准，重点进行仓储、配送、渠道三大环节的质量风险管控 6.秩序管理监督：协助市场进行窜货管控 7.销售方案执行与费用管控：根据市场月度整体规划及销售费用预算，组织经销商按照销售管理费用制度合理使用费用\n① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先； ② 能力要求：具备良好的沟通表达、说服与逻辑思维能力；具备基础的市场洞察与数据分析能力；有快消行业实习经验、数字化工具使用经验、学生干部管理经验者优先； ③ 个性特征：外向开朗，主观能动性强，自驱力强，具备强责任感、抗压能力与学习能力； ④ 其他要求：需接受全国跨区域轮岗，愿意长期在快消销售领域发展。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "数据",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "3",
-        "min": 3,
-        "max": 3,
-        "scope": "job",
-        "display": "3人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "3 3 1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a7123171-efba-4f07-b3dd-34c828091466",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
@@ -6022,92 +6107,6 @@
       "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
     },
     {
-      "id": "beisen-998462ecdf19",
-      "company": "蒙牛",
-      "title": "研发未来星(J67612)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、参与协助全球低温中性乳制品发展趋势研究及新品开发战略制定; 2、全球低温乳制品相关标准研究，国家标准的学习、应用及反馈，参与国标制定与修订； 3、负责产品开发中原料标准的制定； 4、负责上市新产品、储备新产品开发方案的制定，产品研发及技术文件的制定； 5、负责现有产品的维护、升级、降本增效工作，并完成市场走访、竞品分析工作； 6、相关产品专利、论文等的撰写工作； 7、定期与市场部品牌经理等相关人员进行互动，并提供技术支持工作。",
-      "jobRequirements": "1.基础知识熟练能力：对所涉及的食品法规、技术标准等具备熟练掌握并使用的能力。 2.新技术的学习能力：通过书籍，媒体等工具学习及时了解新的加工工艺，新的设备，新的食品原料，并且具备新品技术为我所用的能力。 3.专业管理学科的能力：具备沟通协调、计划管理、压力管理、问题解决的能力。",
-      "JD": "1、参与协助全球低温中性乳制品发展趋势研究及新品开发战略制定; 2、全球低温乳制品相关标准研究，国家标准的学习、应用及反馈，参与国标制定与修订； 3、负责产品开发中原料标准的制定； 4、负责上市新产品、储备新产品开发方案的制定，产品研发及技术文件的制定； 5、负责现有产品的维护、升级、降本增效工作，并完成市场走访、竞品分析工作； 6、相关产品专利、论文等的撰写工作； 7、定期与市场部品牌经理等相关人员进行互动，并提供技术支持工作。\n1.基础知识熟练能力：对所涉及的食品法规、技术标准等具备熟练掌握并使用的能力。 2.新技术的学习能力：通过书籍，媒体等工具学习及时了解新的加工工艺，新的设备，新的食品原料，并且具备新品技术为我所用的能力。 3.专业管理学科的能力：具备沟通协调、计划管理、压力管理、问题解决的能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "市场",
-        "品牌"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1、参与协助全球低温中性乳制品发展趋势研究及新品开发战略制定; 2、全球低温乳制品"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=49011875-280b-48f6-a752-72c71a1bab32",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
-    },
-    {
       "id": "beisen-2478c6dffdaa",
       "company": "蒙牛",
       "title": "安全质量未来星(J67609)",
@@ -6376,6 +6375,103 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=6d903d32-d040-4e4a-889a-f1008101ded8",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申报名(8/28起)→商业能力测评(8/29起)→AI面试(8/30起)→面试(9月起)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 中国传媒大学/郑州本地宝校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 中国传媒大学就业网校招公告 | https://jy.cuc.edu.cn/frontpage/mobile/dist/index.html#/recruitmentFairForm?id=9ef2cd40bd5940519c3525f0bd0423bd& | 2026-09-17"
+    },
+    {
+      "id": "beisen-1ac680921cb2",
+      "company": "蒙牛",
+      "title": "销售星动力(J67530)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "① 学历专业：本科及以上学历应届毕业生"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广西壮族自治区、贵州省、云南省",
+      "jobDescription": "1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商团队落实市场执行、物流配送资源配置标准； 协助开发经销商、配送商，汇总上报区域内经销商增减、变更信息 3.铺市/陈列/促销推广执行：指导经销商团队实施铺市计划、陈列计划、促销计划 4.信息化工作落地：负责整理、总结该区域市场信息，反馈工作落地效果 5.质量管理工作落地：依据销售质量管理体系标准，重点进行仓储、配送、渠道三大环节的质量风险管控 6.秩序管理监督：协助市场进行窜货管控 7.销售方案执行与费用管控：根据市场月度整体规划及销售费用预算，组织经销商按照销售管理费用制度合理使用费用",
+      "jobRequirements": "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先； ② 能力要求：具备良好的沟通表达、说服与逻辑思维能力；具备基础的市场洞察与数据分析能力；有快消行业实习经验、数字化工具使用经验、学生干部管理经验者优先； ③ 个性特征：外向开朗，主观能动性强，自驱力强，具备强责任感、抗压能力与学习能力； ④ 其他要求：需接受全国跨区域轮岗，愿意长期在快消销售领域发展。",
+      "JD": "1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商团队落实市场执行、物流配送资源配置标准； 协助开发经销商、配送商，汇总上报区域内经销商增减、变更信息 3.铺市/陈列/促销推广执行：指导经销商团队实施铺市计划、陈列计划、促销计划 4.信息化工作落地：负责整理、总结该区域市场信息，反馈工作落地效果 5.质量管理工作落地：依据销售质量管理体系标准，重点进行仓储、配送、渠道三大环节的质量风险管控 6.秩序管理监督：协助市场进行窜货管控 7.销售方案执行与费用管控：根据市场月度整体规划及销售费用预算，组织经销商按照销售管理费用制度合理使用费用\n① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先； ② 能力要求：具备良好的沟通表达、说服与逻辑思维能力；具备基础的市场洞察与数据分析能力；有快消行业实习经验、数字化工具使用经验、学生干部管理经验者优先； ③ 个性特征：外向开朗，主观能动性强，自驱力强，具备强责任感、抗压能力与学习能力； ④ 其他要求：需接受全国跨区域轮岗，愿意长期在快消销售领域发展。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "① 学历专业：本科及以上学历应届毕业生，市场营销、工商管理、计算机、数字化等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.销售计划执行与达成：协同经销商团队达成销售目标 2.客户发展与管理：指导经销商"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mengniu.zhiye.com/campus/detail?jobAdId=a7123171-efba-4f07-b3dd-34c828091466",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",

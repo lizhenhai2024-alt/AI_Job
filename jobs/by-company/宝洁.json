@@ -1,7 +1,7 @@
 {
   "company": "宝洁",
-  "count": 6,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 8,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "phenom-7f177efee613",
@@ -81,6 +81,91 @@
       "source": "宝洁官方校招官网",
       "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/01ec572a-39cf-4cdd-b8da-18d4da55e02a",
       "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申及在线测评→两轮面试(9月起，无群面，全程视频面试)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 清华大学就业网校招公告 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxx?zpxxid=561473968 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 宝洁中国招聘官网招聘流程 | https://careers.pg.com.cn/cn/zh/hiring-process | 2026-09-17"
+    },
+    {
+      "id": "phenom-d9b9cc303f9c",
+      "company": "宝洁",
+      "title": "(Hongkong SAR) Campus Recruiting - 2027 P&G Graduate Program- Product Supply Manager",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "Hong Kong SAR",
+      "jobDescription": "宝洁官方校园招聘岗位；部门：供应链管理部。子类：Supply Network Operations/Logistics。简介：Become part of our team as a Product Supply Manager, where you will play a pivotal role in demand planning, customer logistics, and product supply chain operations. Collaborate with cross-functional t。投递前请打开官方校招页确认最新状态。",
+      "jobRequirements": "",
+      "JD": "宝洁官方校园招聘岗位；部门：供应链管理部。子类：Supply Network Operations/Logistics。简介：Become part of our team as a Product Supply Manager, where you will play a pivotal role in demand planning, customer logistics, and product supply chain operations. Collaborate with cross-functional t。投递前请打开官方校招页确认最新状态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "宝洁官方校招官网",
+      "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/dd56433c-002f-4554-8c15-81cb1924db51",
+      "publishedAt": "2026-08-17",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -347,89 +432,6 @@
       "hasAssessmentEvidence": "E2 | 宝洁中国招聘官网招聘流程 | https://careers.pg.com.cn/cn/zh/hiring-process | 2026-09-17"
     },
     {
-      "id": "phenom-88528e359918",
-      "company": "宝洁",
-      "title": "(Chinese Mainland) Campus Recruiting - Research & Development Scientist",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "Beijing",
-      "jobDescription": "宝洁官方校园招聘岗位；部门：研究发展部。子类：Research and Development。简介：We are recruiting a Research & Development Scientist to lead and support the product development process, transforming consumer needs into innovative solutions. The role involves collaborating across 。投递前请打开官方校招页确认最新状态。",
-      "jobRequirements": "",
-      "JD": "宝洁官方校园招聘岗位；部门：研究发展部。子类：Research and Development。简介：We are recruiting a Research & Development Scientist to lead and support the product development process, transforming consumer needs into innovative solutions. The role involves collaborating across 。投递前请打开官方校招页确认最新状态。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "宝洁官方校招官网",
-      "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/b4855b3b-9ddb-43ea-8354-388faff1e1e5",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申及在线测评→两轮面试(9月起，无群面，全程视频面试)→Offer发放(10月起)",
-      "recruitmentProcessEvidence": "E3 | 清华大学就业网校招公告 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxx?zpxxid=561473968 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 宝洁中国招聘官网招聘流程 | https://careers.pg.com.cn/cn/zh/hiring-process | 2026-09-17"
-    },
-    {
       "id": "phenom-46a53927f077",
       "company": "宝洁",
       "title": "(Hongkong SAR) Campus Recruiting - 2027 P&G Graduate Program- Finance Manager",
@@ -505,6 +507,174 @@
       "annualSalary": "未披露",
       "source": "宝洁官方校招官网",
       "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/477d7283-144c-4720-ac92-6c669dd8d899",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申及在线测评→两轮面试(9月起，无群面，全程视频面试)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 清华大学就业网校招公告 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxx?zpxxid=561473968 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 宝洁中国招聘官网招聘流程 | https://careers.pg.com.cn/cn/zh/hiring-process | 2026-09-17"
+    },
+    {
+      "id": "phenom-cf5b8cd5148c",
+      "company": "宝洁",
+      "title": "(Hongkong SAR) Campus Recruiting - 2027 P&G Graduate Program- Customer Business Development Manager",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "Hong Kong SAR",
+      "jobDescription": "宝洁官方校园招聘岗位；部门：销售部/客户生意发展部。子类：Sales/Customer Business Development。简介：Join us as a Sales Account Manager and play a pivotal role in building long-term customer partnerships and driving business growth. Take ownership from day one, develop and implement strategies, and c。投递前请打开官方校招页确认最新状态。",
+      "jobRequirements": "",
+      "JD": "宝洁官方校园招聘岗位；部门：销售部/客户生意发展部。子类：Sales/Customer Business Development。简介：Join us as a Sales Account Manager and play a pivotal role in building long-term customer partnerships and driving business growth. Take ownership from day one, develop and implement strategies, and c。投递前请打开官方校招页确认最新状态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "宝洁官方校招官网",
+      "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/66b27a61-9a08-4b63-a40c-64262b78cde1",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申及在线测评→两轮面试(9月起，无群面，全程视频面试)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 清华大学就业网校招公告 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxx?zpxxid=561473968 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 宝洁中国招聘官网招聘流程 | https://careers.pg.com.cn/cn/zh/hiring-process | 2026-09-17"
+    },
+    {
+      "id": "phenom-88528e359918",
+      "company": "宝洁",
+      "title": "(Chinese Mainland) Campus Recruiting - Research & Development Scientist",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "Beijing",
+      "jobDescription": "宝洁官方校园招聘岗位；部门：研究发展部。子类：Research and Development。简介：We are recruiting a Research & Development Scientist to lead and support the product development process, transforming consumer needs into innovative solutions. The role involves collaborating across 。投递前请打开官方校招页确认最新状态。",
+      "jobRequirements": "",
+      "JD": "宝洁官方校园招聘岗位；部门：研究发展部。子类：Research and Development。简介：We are recruiting a Research & Development Scientist to lead and support the product development process, transforming consumer needs into innovative solutions. The role involves collaborating across 。投递前请打开官方校招页确认最新状态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "宝洁官方校招官网",
+      "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/b4855b3b-9ddb-43ea-8354-388faff1e1e5",
       "publishedAt": "2026-08-17",
       "lastVerified": "",
       "sourceType": "official",

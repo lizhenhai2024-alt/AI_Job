@@ -1,7 +1,7 @@
 {
   "company": "中国路桥",
-  "count": 153,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 157,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "beisen-fef4dd791a1e",
@@ -533,6 +533,99 @@
       "deadline": ""
     },
     {
+      "id": "beisen-f890515ffc77",
+      "company": "中国路桥",
+      "title": "2027届校招中交路建北京分公司工程测绘岗(J49076)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "全日制本科及以上学历的2027年应届毕业生。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "（1）参加设计现场交桩、参与施工图现场核查工作。 （2）根据施工组织设计和施工进度安排，编制项目施工的测量计划和测量方案，并组织全体测量人员认真实施。 （3）组织设计图纸测量数据复核，进行现场放样，恢复定线。放样前认真查阅图纸，复核计算结果，要求掌握坐标和标高计算，熟练运用工程计算器中的计算程序。 （4）熟悉设计图纸及测量数据等，组织测量人员准确填写测量原始资料，记录好测量内容、时间和交底人员以备后查。 （5）严格按照测量、监测方案及专项施工方案来实施测量工作内容，有变更的内容向项目总工汇报，严禁自行更改工作内容和方式。 （6）积极配合现场施工生产，及时为施工提供测量服务，做好测量交底。 （7）熟悉测量控制点位置，并做好日常保护。 （8）在施工监测工作中，要熟悉监测点位置、监测频率，按照方案要求安装每一个监测点，根据监测频率严格执行监测工作，认真填写监测报告和监测图。保护好监测标志，定期进行检查，发现损坏及时上报，根据情况进行增添修复。 （9）测量原始数据记录清晰，签字完整，分类存档。能熟练运用EXCEL、WORD、CAD等常用软件进行资料编辑。 （10）定期保养仪器，防止仪器损坏，定期对所使用的仪器进行自检，自检记录妥善保管。 （11）及时完成领导交办的其他任务。",
+      "jobRequirements": "1．全日制本科及以上学历的2027年应届毕业生。 2．有志在建筑施工行业生产一线从事工程项目管理工作。 3．具备良好的道德修养、扎实的专业知识、较强的实践动手能力。 4．具备较好的理解、沟通和组织能力，具有较强团队协作和吃苦耐劳精神，服从分配。 5．具有能够胜任工作岗位的身体条件、五官端正、积极向上。 6. 中共党员、学生干部优先。",
+      "JD": "（1）参加设计现场交桩、参与施工图现场核查工作。 （2）根据施工组织设计和施工进度安排，编制项目施工的测量计划和测量方案，并组织全体测量人员认真实施。 （3）组织设计图纸测量数据复核，进行现场放样，恢复定线。放样前认真查阅图纸，复核计算结果，要求掌握坐标和标高计算，熟练运用工程计算器中的计算程序。 （4）熟悉设计图纸及测量数据等，组织测量人员准确填写测量原始资料，记录好测量内容、时间和交底人员以备后查。 （5）严格按照测量、监测方案及专项施工方案来实施测量工作内容，有变更的内容向项目总工汇报，严禁自行更改工作内容和方式。 （6）积极配合现场施工生产，及时为施工提供测量服务，做好测量交底。 （7）熟悉测量控制点位置，并做好日常保护。 （8）在施工监测工作中，要熟悉监测点位置、监测频率，按照方案要求安装每一个监测点，根据监测频率严格执行监测工作，认真填写监测报告和监测图。保护好监测标志，定期进行检查，发现损坏及时上报，根据情况进行增添修复。 （9）测量原始数据记录清晰，签字完整，分类存档。能熟练运用EXCEL、WORD、CAD等常用软件进行资料编辑。 （10）定期保养仪器，防止仪器损坏，定期对所使用的仪器进行自检，自检记录妥善保管。 （11）及时完成领导交办的其他任务。\n1．全日制本科及以上学历的2027年应届毕业生。 2．有志在建筑施工行业生产一线从事工程项目管理工作。 3．具备良好的道德修养、扎实的专业知识、较强的实践动手能力。 4．具备较好的理解、沟通和组织能力，具有较强团队协作和吃苦耐劳精神，服从分配。 5．具有能够胜任工作岗位的身体条件、五官端正、积极向上。 6. 中共党员、学生干部优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "全日制本科及以上学历的2027年应届毕业生。"
+        ],
+        "eligibilityClauses": [
+          "全日制本科及以上学历的2027年应届毕业生。"
+        ],
+        "technicalDuties": [
+          "结构/原理",
+          "开发实现"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "4.5K-6.5K 元/月",
+        "monthlyMin": 4500,
+        "monthlyMax": 6500,
+        "annualMin": 54000,
+        "annualMax": 78000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "4.5k–6.5k/月",
+        "annualDisplay": "5.4万–7.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4.5K-6.5K 元/月 公司官方北森校招岗位；识别关键词：Excel、"
+      },
+      "salary": "4.5K-6.5K 元/月",
+      "monthlySalary": "4.5k–6.5k/月",
+      "annualSalary": "5.4万–7.8万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=8ada2196-425d-46bf-9316-52caffdff3c4",
+      "publishedAt": "2026-10-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-0fb042b48e23",
       "company": "中国路桥",
       "title": "2027届校招振华重装生产管理岗(J48896)",
@@ -801,99 +894,6 @@
       "deadline": ""
     },
     {
-      "id": "beisen-c11231f6ad27",
-      "company": "中国路桥",
-      "title": "智慧交通规划岗(J48503)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "全国",
-      "jobDescription": "1. 深入研究国家及地方智慧交通、新基建、数字经济的相关政策与发展规划，撰写行业分析报告，为公司战略决策提供依据; 2. 负责智慧交通类投资项目的市场调研、需求分析、商业模式设计、技术可行性研究及初步方案规划，撰写项目建议书、可行性研究报告; 3.牵头编制智慧交通顶层设计方案、专项规划及详细规划，明确建设目标、技术路径、架构设计、实施步骤和投资估算; 4.探索智慧交通应用场景，策划创新性的解决方案和投资项目; 5.与政府主管部门、行业专家、合作单位等进行技术交流和方案汇报，推动项目规划和立项。",
-      "jobRequirements": "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业； 2.对智慧交通产业有深刻的理解和敏锐的洞察力，具宏观分析、系统规划和报告撰写能力; 3.具备优秀的PPT制作和演讲汇报能力，能清晰、专业地呈现复杂规划方案； 4.具备强大的信息搜集、数据处理和财务分析能力，能独立完成项目可行性研究； 5.拥有出色的沟通协调、资源整合能力和项目管理潜力。",
-      "JD": "1. 深入研究国家及地方智慧交通、新基建、数字经济的相关政策与发展规划，撰写行业分析报告，为公司战略决策提供依据; 2. 负责智慧交通类投资项目的市场调研、需求分析、商业模式设计、技术可行性研究及初步方案规划，撰写项目建议书、可行性研究报告; 3.牵头编制智慧交通顶层设计方案、专项规划及详细规划，明确建设目标、技术路径、架构设计、实施步骤和投资估算; 4.探索智慧交通应用场景，策划创新性的解决方案和投资项目; 5.与政府主管部门、行业专家、合作单位等进行技术交流和方案汇报，推动项目规划和立项。\n1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业； 2.对智慧交通产业有深刻的理解和敏锐的洞察力，具宏观分析、系统规划和报告撰写能力; 3.具备优秀的PPT制作和演讲汇报能力，能清晰、专业地呈现复杂规划方案； 4.具备强大的信息搜集、数据处理和财务分析能力，能独立完成项目可行性研究； 5.拥有出色的沟通协调、资源整合能力和项目管理潜力。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.学习智能交通、交通运输工程、交通运输规划与管理、城市规划（智慧城市方向）、产业经济学、信息管理、系统工程等相关专业"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届",
-          "投递截止：2026-10-10"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "PPT",
-        "项目管理"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1. 深入研究国家及地方智慧交通、新基建、数字经济的相关政策与发展规划，撰写行业分"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=e40a2d93-ff66-4cce-a7e5-95014ceff88a",
-      "publishedAt": "2026-08-30",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-10-10"
-    },
-    {
       "id": "beisen-e69f1e14e183",
       "company": "中国路桥",
       "title": "2027届校招四航局总承包工程技术岗(J48323)",
@@ -1064,6 +1064,185 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=40eceead-0940-4024-9e8a-6ce5e2c2d004",
       "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9cb5d75b9ad9",
+      "company": "中国路桥",
+      "title": "2027届校招中交路建北京分公司安全监督岗(J49075)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "全日制本科及以上学历的2027年应届毕业生。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "（1）负责对施工现场安全环保工作的监督和检查。 （2）贯彻执行职业健康安全生产安全法律、法规和其他要求及本企业规章制度。 （3）监督安全环保技术措施、安全环保交底和各岗位安全环保生产责任制的落实，参加安全环保检查，做好安全环保教育培训工作。 （4）做好施工现场的安全环保巡视。对各项安全防护设施和安全环保装置，经常性的检查，发现问题监督整改措施的落实。 （5）负责施工现场人员佩带和使用劳动保护及防护用品的监督检查。 （6）做好安全环保管理内业资料、记录工作，做到及时、真实、规范。 （7）有权对违章指挥、违章操作的行为人，按奖惩办法给予处罚；对冒险蛮干的人员及时教育，对不听从者有权停止其作业。 （8）负责项目危险源辨识、环境风险与隐患排查、重要环境因素等工作，对重大风险的控制措施及应急救援预案实施情况的监督。 （9）施工现场发生生产安全事故、突发环境事件等应做好记录、及时报告、保护现场、抢救伤员、配合调查，并监督纠正与预防措施的落实。 （10）负责每月生产安全事故、突发环境事件的统计报表和建立事故档案。",
+      "jobRequirements": "1．全日制本科及以上学历的2027年应届毕业生。 2．有志在建筑施工行业生产一线从事工程项目管理工作。 3．具备良好的道德修养、扎实的专业知识、较强的实践动手能力。 4．具备较好的理解、沟通和组织能力，具有较强团队协作和吃苦耐劳精神，服从分配。 5．具有能够胜任工作岗位的身体条件、五官端正、积极向上。 6. 中共党员、学生干部优先。",
+      "JD": "（1）负责对施工现场安全环保工作的监督和检查。 （2）贯彻执行职业健康安全生产安全法律、法规和其他要求及本企业规章制度。 （3）监督安全环保技术措施、安全环保交底和各岗位安全环保生产责任制的落实，参加安全环保检查，做好安全环保教育培训工作。 （4）做好施工现场的安全环保巡视。对各项安全防护设施和安全环保装置，经常性的检查，发现问题监督整改措施的落实。 （5）负责施工现场人员佩带和使用劳动保护及防护用品的监督检查。 （6）做好安全环保管理内业资料、记录工作，做到及时、真实、规范。 （7）有权对违章指挥、违章操作的行为人，按奖惩办法给予处罚；对冒险蛮干的人员及时教育，对不听从者有权停止其作业。 （8）负责项目危险源辨识、环境风险与隐患排查、重要环境因素等工作，对重大风险的控制措施及应急救援预案实施情况的监督。 （9）施工现场发生生产安全事故、突发环境事件等应做好记录、及时报告、保护现场、抢救伤员、配合调查，并监督纠正与预防措施的落实。 （10）负责每月生产安全事故、突发环境事件的统计报表和建立事故档案。\n1．全日制本科及以上学历的2027年应届毕业生。 2．有志在建筑施工行业生产一线从事工程项目管理工作。 3．具备良好的道德修养、扎实的专业知识、较强的实践动手能力。 4．具备较好的理解、沟通和组织能力，具有较强团队协作和吃苦耐劳精神，服从分配。 5．具有能够胜任工作岗位的身体条件、五官端正、积极向上。 6. 中共党员、学生干部优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "全日制本科及以上学历的2027年应届毕业生。"
+        ],
+        "eligibilityClauses": [
+          "全日制本科及以上学历的2027年应届毕业生。"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "4.5K-6.5K 元/月",
+        "monthlyMin": 4500,
+        "monthlyMax": 6500,
+        "annualMin": 54000,
+        "annualMax": 78000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "4.5k–6.5k/月",
+        "annualDisplay": "5.4万–7.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "4.5K-6.5K 元/月 公司官方北森校招岗位；识别关键词：项目管理。投"
+      },
+      "salary": "4.5K-6.5K 元/月",
+      "monthlySalary": "4.5k–6.5k/月",
+      "annualSalary": "5.4万–7.8万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=321888f8-e335-4787-b17f-5785432d4b0a",
+      "publishedAt": "2026-10-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1de4c1c450c3",
+      "company": "中国路桥",
+      "title": "2027届海外事业部技术岗位(J49033)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "全日制本科及以上学历：给排水或环境工程相关专业；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "全日制本科及以上学历：给排水或环境工程相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1.主要负责项目设计工作； 2.负责部分方案、施工图设计等相关工作，进行项目深化或扩初设计工作； 3.根据部门内工作需要，参与项目各项服务工作； 4.完成领导交办的其他事宜。",
+      "jobRequirements": "1.全日制本科及以上学历：给排水或环境工程相关专业； 2.CET-4及以上，CET-6优先；能读懂英文规范/图纸，具备基本口语交流能力。 3.熟练掌握相关专业制图软件和常用办公软件； 4.有较强的创意能力和良好的沟通协调能力； 5.专业基础知识扎实，成绩突出者优先。对本职工作有激情，好学上进，能灵活应对工作中各种问题； 6.遵纪守法，具有良好的神态素质和职业操守，具备吃苦耐劳的精神和较强的服务意识。",
+      "JD": "1.主要负责项目设计工作； 2.负责部分方案、施工图设计等相关工作，进行项目深化或扩初设计工作； 3.根据部门内工作需要，参与项目各项服务工作； 4.完成领导交办的其他事宜。\n1.全日制本科及以上学历：给排水或环境工程相关专业； 2.CET-4及以上，CET-6优先；能读懂英文规范/图纸，具备基本口语交流能力。 3.熟练掌握相关专业制图软件和常用办公软件； 4.有较强的创意能力和良好的沟通协调能力； 5.专业基础知识扎实，成绩突出者优先。对本职工作有激情，好学上进，能灵活应对工作中各种问题； 6.遵纪守法，具有良好的神态素质和职业操守，具备吃苦耐劳的精神和较强的服务意识。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "全日制本科及以上学历：给排水或环境工程相关专业；"
+        ],
+        "eligibilityClauses": [
+          "2027届海外事业部技术岗位(J49033)"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=03f4ed24-98ba-4644-b177-4ede067ed340",
+      "publishedAt": "2026-10-08",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -4846,6 +5025,178 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
+    },
+    {
+      "id": "beisen-6ab301520392",
+      "company": "中国路桥",
+      "title": "2027届校招管道公司党群干事岗(J49009)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上应届毕业生，顺利完成学业并取得双证",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "（1）负责党建日常工作，落实上级党委各项工作部署，结合“三会一课”、主题党日、组织生活会等制度要求，做好党员发展、组织关系转接、党费收缴等工作； （2）负责做好文稿撰写工作，参与工作总结汇报材料、制度文件的起草编制，做好会议会务、活动策划组织等保障工作； （3）负责新闻宣传工作，包括选题策划、素材深挖、稿件撰写和媒体账号的日常运营及维护； （4）负责落实工会、团委相关要求，协助开展职工服务、文体活动、青年素养提升等工作； （5）完成领导交办的其他工作。",
+      "jobRequirements": "1、本科及以上应届毕业生，顺利完成学业并取得双证； 2、团队合作意识强，有较强的沟通、协调和学习能力，身心健康； 3、具备良好的职业素养，诚实守信、责任心强； 4、认同公司的价值观及企业文化，志愿从事工程施工行业； 5、优先录取:中共党员、通过英语四六级等。 6、岗位任职要求具备的其他条件。",
+      "JD": "（1）负责党建日常工作，落实上级党委各项工作部署，结合“三会一课”、主题党日、组织生活会等制度要求，做好党员发展、组织关系转接、党费收缴等工作； （2）负责做好文稿撰写工作，参与工作总结汇报材料、制度文件的起草编制，做好会议会务、活动策划组织等保障工作； （3）负责新闻宣传工作，包括选题策划、素材深挖、稿件撰写和媒体账号的日常运营及维护； （4）负责落实工会、团委相关要求，协助开展职工服务、文体活动、青年素养提升等工作； （5）完成领导交办的其他工作。\n1、本科及以上应届毕业生，顺利完成学业并取得双证； 2、团队合作意识强，有较强的沟通、协调和学习能力，身心健康； 3、具备良好的职业素养，诚实守信、责任心强； 4、认同公司的价值观及企业文化，志愿从事工程施工行业； 5、优先录取:中共党员、通过英语四六级等。 6、岗位任职要求具备的其他条件。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上应届毕业生，顺利完成学业并取得双证"
+        ],
+        "eligibilityClauses": [
+          "2027届校招",
+          "本科及以上应届毕业生，顺利完成学业并取得双证"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-10K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 10000,
+        "annualMin": 96000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1万/月",
+        "annualDisplay": "9.6万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "8K-10K 元/月",
+      "monthlySalary": "8k–1万/月",
+      "annualSalary": "9.6万–12万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=4d71c428-7212-41dd-9609-fbe5b62befbd",
+      "publishedAt": "2026-09-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-07-01"
+    },
+    {
+      "id": "beisen-8c8fb5f79bee",
+      "company": "中国路桥",
+      "title": "“2027届校招管道公司工程管理岗(J49008)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上应届毕业生，顺利完成学业并取得双证",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "天津",
+      "jobDescription": "（1）熟悉相关专业施工验收规范、掌握施工工序及技术要求； （2）能读懂施工图、了解材料及准确计算工程量，能独立编制相关专业施工方案或参与编制施工组织设计； （3）熟悉项目相关专业管理的各个工作流程，能按公司制度进行现场技术管理，能独立负责项目相关专业的施工组织，并检查所属施工队伍的执行情况； （4）能编制现场各类施工变更及签证，处理现场技术问题，并参与质量事故的分析与处理； （5）参与组织竣工资料收集、整理、汇编、归档，办理竣工资料验交手续； （6）参与组织施工技术总结的编写，做好图纸及资料的收、发和保管工作； （7）参与组织工程检查、验交，参与组织保投产工作； （8）具备良好沟通表达能力，工作细致认真，责任心强，具有团队精神。 （9）完成领导临时交办的其他工作。",
+      "jobRequirements": "1、本科及以上应届毕业生，顺利完成学业并取得双证； 2、团队合作意识强，有较强的沟通、协调和学习能力，身心健康； 3、具备良好的职业素养，诚实守信、责任心强； 4、认同公司的价值观及企业文化，志愿从事工程施工行业； 5、优先录取:中共党员、通过英语四六级等。 6、岗位任职要求具备的其他条件。",
+      "JD": "（1）熟悉相关专业施工验收规范、掌握施工工序及技术要求； （2）能读懂施工图、了解材料及准确计算工程量，能独立编制相关专业施工方案或参与编制施工组织设计； （3）熟悉项目相关专业管理的各个工作流程，能按公司制度进行现场技术管理，能独立负责项目相关专业的施工组织，并检查所属施工队伍的执行情况； （4）能编制现场各类施工变更及签证，处理现场技术问题，并参与质量事故的分析与处理； （5）参与组织竣工资料收集、整理、汇编、归档，办理竣工资料验交手续； （6）参与组织施工技术总结的编写，做好图纸及资料的收、发和保管工作； （7）参与组织工程检查、验交，参与组织保投产工作； （8）具备良好沟通表达能力，工作细致认真，责任心强，具有团队精神。 （9）完成领导临时交办的其他工作。\n1、本科及以上应届毕业生，顺利完成学业并取得双证； 2、团队合作意识强，有较强的沟通、协调和学习能力，身心健康； 3、具备良好的职业素养，诚实守信、责任心强； 4、认同公司的价值观及企业文化，志愿从事工程施工行业； 5、优先录取:中共党员、通过英语四六级等。 6、岗位任职要求具备的其他条件。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上应届毕业生，顺利完成学业并取得双证"
+        ],
+        "eligibilityClauses": [
+          "2027届校招管道公司工程管理岗(J49008)",
+          "本科及以上应届毕业生，顺利完成学业并取得双证"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-10K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 10000,
+        "annualMin": 96000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1万/月",
+        "annualDisplay": "9.6万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-10K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "8K-10K 元/月",
+      "monthlySalary": "8k–1万/月",
+      "annualSalary": "9.6万–12万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=f7476229-9deb-40bb-81db-3753e02ba4c4",
+      "publishedAt": "2026-09-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-06-30"
     },
     {
       "id": "beisen-de97ac790975",

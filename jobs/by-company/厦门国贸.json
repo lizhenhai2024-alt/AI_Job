@@ -1,7 +1,7 @@
 {
   "company": "厦门国贸",
   "count": 13,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "beisen-5c3a344abcd5",
@@ -641,6 +641,175 @@
       "deadline": ""
     },
     {
+      "id": "beisen-9ae08f4c8254",
+      "company": "厦门国贸",
+      "title": "期货业务岗(J13657)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "职位详情 期货业务岗(J13657) 招聘单位：国贸资本 职位类别：国贸资本 招聘人数：若干 薪资范围：面议 发布时间：2026-10-08 结束时间： 工作地址：北京市,辽宁省-大连市,上海市,江苏省-苏州市,广东省-佛山市,山东省-济南市,福建省-泉州市-晋江市,福建省-宁德市,福建省-龙岩市,福建省-福州市 工作职责 1.搜集市场信息，开发客户资源，维护已有客户，做好客户服务工作。 2.向客户传递公司研究成果信息，并收集客户的反馈信息或个性化服务要求。 3.在规定时间内完成上级领导分配的业绩任务。 4.协助市场管理部营销活动的组织。 任职资格 1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先。 2.责任心强，具有良好的职业道德和团队合作精神，能服从分配。 3.具有较强的市场开拓能力和营销策划能力，有期货、证券及相关商品期货产业从业经验及一定客户、社会资源者优先。 4.具备期货从业资格证。",
+      "jobRequirements": "任职资格 1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先。 2.责任心强，具有良好的职业道德和团队合作精神，能服从分配。 3.具有较强的市场开拓能力和营销策划能力，有期货、证券及相关商品期货产业从业经验及一定客户、社会资源者优先。 4.具备期货从业资格证。",
+      "JD": "职位详情 期货业务岗(J13657) 招聘单位：国贸资本 职位类别：国贸资本 招聘人数：若干 薪资范围：面议 发布时间：2026-10-08 结束时间： 工作地址：北京市,辽宁省-大连市,上海市,江苏省-苏州市,广东省-佛山市,山东省-济南市,福建省-泉州市-晋江市,福建省-宁德市,福建省-龙岩市,福建省-福州市 工作职责 1.搜集市场信息，开发客户资源，维护已有客户，做好客户服务工作。 2.向客户传递公司研究成果信息，并收集客户的反馈信息或个性化服务要求。 3.在规定时间内完成上级领导分配的业绩任务。 4.协助市场管理部营销活动的组织。 任职资格 1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先。 2.责任心强，具有良好的职业道德和团队合作精神，能服从分配。 3.具有较强的市场开拓能力和营销策划能力，有期货、证券及相关商品期货产业从业经验及一定客户、社会资源者优先。 4.具备期货从业资格证。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://itgholding.zhiye.com/gmkgxzxq?jobId=311191574&key=gmgf&p=&p1=3^-1&p2=1^-1&job=campus",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-19a78726ec70",
+      "company": "厦门国贸",
+      "title": "融资租赁业务专员(J13659)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "职位详情 融资租赁业务专员(J13659) 招聘单位：国贸资本 职位类别：国贸资本 招聘人数：若干 薪资范围：面议 发布时间：2026-10-08 结束时间： 工作地址：福建省-厦门市,上海市,四川省-成都市,重庆市,新疆维吾尔自治区-乌鲁木齐市 工作职责 1.业务拓展和渠道开发。 2.项目尽调，报告撰写。 3.客户管理。 任职资格 1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知。 2.掌握基础数字化工具，具备数字化分析实操能力。 3.持续关注新能源、前沿未来产业赛道，具备行业认知与浓厚研究兴趣。 4.逻辑思维清晰，工作严谨负责，具备独立调研、书面分析报告撰写能力。 5.能承受一定的出差频率。",
+      "jobRequirements": "任职资格 1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知。 2.掌握基础数字化工具，具备数字化分析实操能力。 3.持续关注新能源、前沿未来产业赛道，具备行业认知与浓厚研究兴趣。 4.逻辑思维清晰，工作严谨负责，具备独立调研、书面分析报告撰写能力。 5.能承受一定的出差频率。",
+      "JD": "职位详情 融资租赁业务专员(J13659) 招聘单位：国贸资本 职位类别：国贸资本 招聘人数：若干 薪资范围：面议 发布时间：2026-10-08 结束时间： 工作地址：福建省-厦门市,上海市,四川省-成都市,重庆市,新疆维吾尔自治区-乌鲁木齐市 工作职责 1.业务拓展和渠道开发。 2.项目尽调，报告撰写。 3.客户管理。 任职资格 1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知。 2.掌握基础数字化工具，具备数字化分析实操能力。 3.持续关注新能源、前沿未来产业赛道，具备行业认知与浓厚研究兴趣。 4.逻辑思维清晰，工作严谨负责，具备独立调研、书面分析报告撰写能力。 5.能承受一定的出差频率。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://itgholding.zhiye.com/gmkgxzxq?jobId=311191570&key=gmgf&p=&p1=3^-1&p2=1^-1&job=campus",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-389f39acf3ac",
       "company": "厦门国贸",
       "title": "业务员（算力业务）(J13654)",
@@ -729,175 +898,6 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://itgholding.zhiye.com/gmkgxzxq?jobId=311181445&key=gmgf&p=&p1=3^-1&p2=1^-1&job=campus",
       "publishedAt": "2026-09-03",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-3dd8318128e7",
-      "company": "厦门国贸",
-      "title": "期货业务岗(J13657)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "职位详情 期货业务岗(J13657) 招聘单位：国贸资本 职位类别：国贸资本 招聘人数：若干 薪资范围：面议 发布时间：2026-09-02 结束时间： 工作地址：北京市,辽宁省-大连市,上海市,江苏省-苏州市,广东省-佛山市,山东省-济南市,福建省-泉州市-晋江市,福建省-宁德市,福建省-龙岩市 工作职责 1.搜集市场信息，开发客户资源，维护已有客户，做好客户服务工作。 2.向客户传递公司研究成果信息，并收集客户的反馈信息或个性化服务要求。 3.在规定时间内完成上级领导分配的业绩任务。 4.协助市场管理部营销活动的组织。 任职资格 1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先。 2.责任心强，具有良好的职业道德和团队合作精神，能服从分配。 3.具有较强的市场开拓能力和营销策划能力，有期货、证券及相关商品期货产业从业经验及一定客户、社会资源者优先。 4.具备期货从业资格证。",
-      "jobRequirements": "任职资格 1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先。 2.责任心强，具有良好的职业道德和团队合作精神，能服从分配。 3.具有较强的市场开拓能力和营销策划能力，有期货、证券及相关商品期货产业从业经验及一定客户、社会资源者优先。 4.具备期货从业资格证。",
-      "JD": "职位详情 期货业务岗(J13657) 招聘单位：国贸资本 职位类别：国贸资本 招聘人数：若干 薪资范围：面议 发布时间：2026-09-02 结束时间： 工作地址：北京市,辽宁省-大连市,上海市,江苏省-苏州市,广东省-佛山市,山东省-济南市,福建省-泉州市-晋江市,福建省-宁德市,福建省-龙岩市 工作职责 1.搜集市场信息，开发客户资源，维护已有客户，做好客户服务工作。 2.向客户传递公司研究成果信息，并收集客户的反馈信息或个性化服务要求。 3.在规定时间内完成上级领导分配的业绩任务。 4.协助市场管理部营销活动的组织。 任职资格 1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先。 2.责任心强，具有良好的职业道德和团队合作精神，能服从分配。 3.具有较强的市场开拓能力和营销策划能力，有期货、证券及相关商品期货产业从业经验及一定客户、社会资源者优先。 4.具备期货从业资格证。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.本科及以上学历，市场营销、金融、投资、经济、法律等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "市场",
-        "营销",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://itgholding.zhiye.com/gmkgxzxq?jobId=311180965&key=gmgf&p=&p1=3^-1&p2=1^-1&job=campus",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-d9f7c0959dd4",
-      "company": "厦门国贸",
-      "title": "融资租赁业务专员(J13659)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "职位详情 融资租赁业务专员(J13659) 招聘单位：国贸资本 职位类别：国贸资本 招聘人数：若干 薪资范围：面议 发布时间：2026-09-02 结束时间： 工作地址：福建省-厦门市,上海市 工作职责 1.业务拓展和渠道开发。 2.项目尽调，报告撰写。 3.客户管理。 任职资格 1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知。 2.掌握基础数字化工具，具备数字化分析实操能力。 3.持续关注新能源、前沿未来产业赛道，具备行业认知与浓厚研究兴趣。 4.逻辑思维清晰，工作严谨负责，具备独立调研、书面分析报告撰写能力。 5.能承受一定的出差频率。",
-      "jobRequirements": "任职资格 1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知。 2.掌握基础数字化工具，具备数字化分析实操能力。 3.持续关注新能源、前沿未来产业赛道，具备行业认知与浓厚研究兴趣。 4.逻辑思维清晰，工作严谨负责，具备独立调研、书面分析报告撰写能力。 5.能承受一定的出差频率。",
-      "JD": "职位详情 融资租赁业务专员(J13659) 招聘单位：国贸资本 职位类别：国贸资本 招聘人数：若干 薪资范围：面议 发布时间：2026-09-02 结束时间： 工作地址：福建省-厦门市,上海市 工作职责 1.业务拓展和渠道开发。 2.项目尽调，报告撰写。 3.客户管理。 任职资格 1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知。 2.掌握基础数字化工具，具备数字化分析实操能力。 3.持续关注新能源、前沿未来产业赛道，具备行业认知与浓厚研究兴趣。 4.逻辑思维清晰，工作严谨负责，具备独立调研、书面分析报告撰写能力。 5.能承受一定的出差频率。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1.本科及以上学历，金融专业优先，具备基础投资知识与行业认知"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://itgholding.zhiye.com/gmkgxzxq?jobId=311180964&key=gmgf&p=&p1=3^-1&p2=1^-1&job=campus",
-      "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

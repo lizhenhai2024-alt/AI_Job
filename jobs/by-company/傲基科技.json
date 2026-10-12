@@ -1,7 +1,7 @@
 {
   "company": "傲基科技",
   "count": 10,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "beisen-aab4b7101aee",
@@ -588,6 +588,100 @@
       "hasAssessmentEvidence": "E3 | 哈尔滨理工大学就业网校招公告 | https://jiuye.hrbust.edu.cn/preaching/index.jhtml?id=168633&isOutsideSchool=1 | 2026-09-17"
     },
     {
+      "id": "beisen-6e592d256076",
+      "company": "傲基科技",
+      "title": "27校招-数据分析岗",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科以上学历，数学、统计、计算机等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责亚马逊站内/外广告，结合产品目标、市场竞争情况建立广告投放方案； 2、管控广告各项指标，基于广告和业务数据不断调优； 3、跟进Amazon规则和政策更新，结合业绩数据调整广告策略； 4、负责广告、业务数据汇总及分析，定期呈现数据报告； 5、总结广告投放优化方法，挖掘更多投放策略，提高广告效果。",
+      "jobRequirements": "1、本科以上学历，数学、统计、计算机等相关专业优先； 2、熟悉Excel常用函数和数据透视表，对数据敏感； 3、熟悉Power BI、Tableau、BDP等BI工具； 4、熟练使用SQL，能独立进行数据清洗、处理和分析； 5、对Amazon/Google/Facebook广告运作逻辑有一定了解。",
+      "JD": "1、负责亚马逊站内/外广告，结合产品目标、市场竞争情况建立广告投放方案； 2、管控广告各项指标，基于广告和业务数据不断调优； 3、跟进Amazon规则和政策更新，结合业绩数据调整广告策略； 4、负责广告、业务数据汇总及分析，定期呈现数据报告； 5、总结广告投放优化方法，挖掘更多投放策略，提高广告效果。\n1、本科以上学历，数学、统计、计算机等相关专业优先； 2、熟悉Excel常用函数和数据透视表，对数据敏感； 3、熟悉Power BI、Tableau、BDP等BI工具； 4、熟练使用SQL，能独立进行数据清洗、处理和分析； 5、对Amazon/Google/Facebook广告运作逻辑有一定了解。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科以上学历，数学、统计、计算机等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=fe921033-a304-4052-9642-9ead08373429",
+      "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→笔试→AI测评→专业面试(初面/复面)→Offer→入职",
+      "recruitmentProcessEvidence": "E3 | 哈尔滨理工大学/湖南科技大学就业网校招公告 | https://jiuye.hrbust.edu.cn/preaching/index.jhtml?id=168633&isOutsideSchool=1 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 哈尔滨理工大学就业网校招公告 | https://jiuye.hrbust.edu.cn/preaching/index.jhtml?id=168633&isOutsideSchool=1 | 2026-09-17"
+    },
+    {
       "id": "beisen-54c44a0e6694",
       "company": "傲基科技",
       "title": "27校招-营销专员",
@@ -673,100 +767,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=b1f3e2c3-8ecc-4c52-89da-cb3c0bf08a1a",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→笔试→AI测评→专业面试(初面/复面)→Offer→入职",
-      "recruitmentProcessEvidence": "E3 | 哈尔滨理工大学/湖南科技大学就业网校招公告 | https://jiuye.hrbust.edu.cn/preaching/index.jhtml?id=168633&isOutsideSchool=1 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E3 | 哈尔滨理工大学就业网校招公告 | https://jiuye.hrbust.edu.cn/preaching/index.jhtml?id=168633&isOutsideSchool=1 | 2026-09-17"
-    },
-    {
-      "id": "beisen-6e592d256076",
-      "company": "傲基科技",
-      "title": "27校招-数据分析岗",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科以上学历，数学、统计、计算机等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、负责亚马逊站内/外广告，结合产品目标、市场竞争情况建立广告投放方案； 2、管控广告各项指标，基于广告和业务数据不断调优； 3、跟进Amazon规则和政策更新，结合业绩数据调整广告策略； 4、负责广告、业务数据汇总及分析，定期呈现数据报告； 5、总结广告投放优化方法，挖掘更多投放策略，提高广告效果。",
-      "jobRequirements": "1、本科以上学历，数学、统计、计算机等相关专业优先； 2、熟悉Excel常用函数和数据透视表，对数据敏感； 3、熟悉Power BI、Tableau、BDP等BI工具； 4、熟练使用SQL，能独立进行数据清洗、处理和分析； 5、对Amazon/Google/Facebook广告运作逻辑有一定了解。",
-      "JD": "1、负责亚马逊站内/外广告，结合产品目标、市场竞争情况建立广告投放方案； 2、管控广告各项指标，基于广告和业务数据不断调优； 3、跟进Amazon规则和政策更新，结合业绩数据调整广告策略； 4、负责广告、业务数据汇总及分析，定期呈现数据报告； 5、总结广告投放优化方法，挖掘更多投放策略，提高广告效果。\n1、本科以上学历，数学、统计、计算机等相关专业优先； 2、熟悉Excel常用函数和数据透视表，对数据敏感； 3、熟悉Power BI、Tableau、BDP等BI工具； 4、熟练使用SQL，能独立进行数据清洗、处理和分析； 5、对Amazon/Google/Facebook广告运作逻辑有一定了解。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科以上学历，数学、统计、计算机等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "市场",
-        "数据"
-      ],
-      "preferenceTags": [
-        "出海"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://aukeys.zhiye.com/campus/detail?jobAdId=fe921033-a304-4052-9642-9ead08373429",
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",

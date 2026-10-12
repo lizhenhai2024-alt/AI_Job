@@ -1,7 +1,7 @@
 {
   "company": "安克创新",
-  "count": 55,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 56,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "anker-77955f08f358",
@@ -3944,6 +3944,94 @@
       "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
     },
     {
+      "id": "anker-bc1e878a222d",
+      "company": "安克创新",
+      "title": "行政专员-长沙",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027届毕业生，本科及以上学历，行政管理、人力资源管理、工商管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "长沙",
+      "jobDescription": "你将参与： 1. 负责日常办公环境的维护和管理，费用预算管理； 2. 参与组织和策划公司内部活动，如大型司庆活动等，增强团队凝聚力； 3. 参与处理行政事务，如行政管理文件的起草、归档和传递，以及各类报表的统计和整理； 4. 协调和管理各类办公设施和设备，确保其正常运行和维护； 5. 运营协调央厨项目：参与统筹央厨生产、仓储、分发各环节衔接，确保健康餐品从采购到交付的高效运作。",
+      "jobRequirements": "1. 2027届毕业生，本科及以上学历，行政管理、人力资源管理、工商管理等相关专业优先。",
+      "JD": "你将参与： 1. 负责日常办公环境的维护和管理，费用预算管理； 2. 参与组织和策划公司内部活动，如大型司庆活动等，增强团队凝聚力； 3. 参与处理行政事务，如行政管理文件的起草、归档和传递，以及各类报表的统计和整理； 4. 协调和管理各类办公设施和设备，确保其正常运行和维护； 5. 运营协调央厨项目：参与统筹央厨生产、仓储、分发各环节衔接，确保健康餐品从采购到交付的高效运作。\n1. 2027届毕业生，本科及以上学历，行政管理、人力资源管理、工商管理等相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027届毕业生，本科及以上学历，行政管理、人力资源管理、工商管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "安克创新官方2027校招官网",
+      "officialURL": "https://career.anker.com.cn/larkJobDetail/?websiteId=6962795203808217351&jobId=7694108765382543652",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→测评&笔试→面试沟通(线上为主，部分终面线下)→Offer审批与发放",
+      "recruitmentProcessEvidence": "E2 | 安克创新校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
+    },
+    {
       "id": "anker-431b87011803",
       "company": "安克创新",
       "title": "失效分析工程师-深圳",
@@ -5130,9 +5218,9 @@
       "hasAssessmentEvidence": "E2 | 安克校招官网 | https://career.anker.com.cn/universities/recruitment/ | 2026-09-17；E4"
     },
     {
-      "id": "anker-e169ebdeba92",
+      "id": "anker-727402012577",
       "company": "安克创新",
-      "title": "AI软件产品经理（大健康）-深圳",
+      "title": "AI软件产品经理（健康穿戴）-深圳",
       "graduationYear": [
         "2027"
       ],

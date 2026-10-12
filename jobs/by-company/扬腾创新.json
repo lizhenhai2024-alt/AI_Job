@@ -1,7 +1,7 @@
 {
   "company": "扬腾创新",
-  "count": 12,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 13,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "beisen-24a901bca58f",
@@ -1091,6 +1091,97 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=f0e0b02e-56b3-40a6-b2b5-280e5108711b",
       "publishedAt": "2026-07-31",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "线上网申/现场投递→在线测评→面试→Offer发放→签约录用",
+      "recruitmentProcessEvidence": "E3 | 广外/北二外/中国地质大学就业网校招简章 | https://career.gdufs.edu.cn/index.php/web/Index/jobs-brief-detail?id=VSUXSMT | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广外就业网校招简章 | https://career.gdufs.edu.cn/index.php/web/Index/jobs-brief-detail?id=VSUXSMT | 2026-09-17"
+    },
+    {
+      "id": "beisen-5e40c1f6b0f7",
+      "company": "扬腾创新",
+      "title": "DevOps开发校招生(J13075)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "： ●学历背景：2026/2027届本科及以上，计算机、软件工程相关专业优先",
+        "hardRestriction": true,
+        "hardClauses": [
+          "： ●学历背景：2026/2027届本科及以上"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·福州市",
+      "jobDescription": "●DevOps体系建设 ：参与 DevOps 体系搭建与迭代，设计并实现持续集成/持续部署（CI/CD）流程，优化代码提交、构建、测试、部署全流程效率，保障研发交付质量与速度 ； ●基础设施与容器 ：负责服务器、容器（Docker / K8s）等基础设施的部署、维护与优化，监控资源占用情况，及时进行扩容、调优，保障系统稳定、高效运行； ●监控与稳定性：搭建并完善系统监控告警体系，覆盖服务状态、性能指标、异常日志等维度；快速响应并处置系统运行中的突发问题，主导根因分析与复盘，提升系统可靠性。",
+      "jobRequirements": "任职要求： ●学历背景：2026/2027届本科及以上，计算机、软件工程相关专业优先； ●技术能力：熟悉Python/Go等语言，了解Docker、K8s、Jenkins及CI/CD工具，具备基础运维与网络知识。 我们希望你有： ●技术创新精神：关注DevOps领域趋势并探索应用； ●效率导向思维：聚焦流程优化与自动化提升研发效率； ●抗压应变能力： 从容应对系统突发问题并快速处置； ●协同共赢意识：善于跨团队沟通推动DevOps理念落地。",
+      "JD": "●DevOps体系建设 ：参与 DevOps 体系搭建与迭代，设计并实现持续集成/持续部署（CI/CD）流程，优化代码提交、构建、测试、部署全流程效率，保障研发交付质量与速度 ； ●基础设施与容器 ：负责服务器、容器（Docker / K8s）等基础设施的部署、维护与优化，监控资源占用情况，及时进行扩容、调优，保障系统稳定、高效运行； ●监控与稳定性：搭建并完善系统监控告警体系，覆盖服务状态、性能指标、异常日志等维度；快速响应并处置系统运行中的突发问题，主导根因分析与复盘，提升系统可靠性。\n任职要求： ●学历背景：2026/2027届本科及以上，计算机、软件工程相关专业优先； ●技术能力：熟悉Python/Go等语言，了解Docker、K8s、Jenkins及CI/CD工具，具备基础运维与网络知识。 我们希望你有： ●技术创新精神：关注DevOps领域趋势并探索应用； ●效率导向思维：聚焦流程优化与自动化提升研发效率； ●抗压应变能力： 从容应对系统突发问题并快速处置； ●协同共赢意识：善于跨团队沟通推动DevOps理念落地。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "： ●学历背景：2026/2027届本科及以上，计算机、软件工程相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "问题根因"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 ●DevOps体系建设 ：参与 DevOps 体系搭建与迭代，设计并实现持续集成/"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "15K-25K 元/月",
+        "monthlyMin": 15000,
+        "monthlyMax": 25000,
+        "annualMin": 180000,
+        "annualMax": 300000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "1.5万–2.5万/月",
+        "annualDisplay": "18万–30万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15K-25K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "15K-25K 元/月",
+      "monthlySalary": "1.5万–2.5万/月",
+      "annualSalary": "18万–30万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://yangtenginnovation-compus.zhiye.com/campus/detail?jobAdId=29eb63fd-b7af-4b6e-82ad-adfabfd9d672",
+      "publishedAt": "2026-09-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

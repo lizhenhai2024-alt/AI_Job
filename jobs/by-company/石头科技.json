@@ -1,8 +1,1171 @@
 {
   "company": "石头科技",
-  "count": 2,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 16,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
+    {
+      "id": "beisen-102f89d8d660",
+      "company": "石头科技",
+      "title": "海外销售运营岗（拉美）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位介绍 为拉美销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运转，赋能一线销售达成业绩目标。 岗位职责 1. 负责拉美区域销售数据整合，制作周报/月报，完成销售预测、渠道进销存监控，识别业务异动。 2. 维护CRM客户数据库，保证客户信息、订单数据准确，协助渠道分级、客户台账管理。 3. 协助落地渠道政策、返利规则、销售流程，制作报价模板、销售工具包，赋能一线销售。 4. 跨部门协同供应链、财务团队，跟进订单履约、对账，协调解决交付、回款类业务卡点。 5. 支撑业务复盘会议，准备经营分析材料，沉淀运营流程，持续优化区域销售效率。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先。 2. 具备强数据分析能力，细心严谨，强数据意识，做事闭环。 3. 具备优秀的多方协同能力，强业务思维，强目标感和韧性。",
+      "JD": "岗位介绍 为拉美销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运转，赋能一线销售达成业绩目标。 岗位职责 1. 负责拉美区域销售数据整合，制作周报/月报，完成销售预测、渠道进销存监控，识别业务异动。 2. 维护CRM客户数据库，保证客户信息、订单数据准确，协助渠道分级、客户台账管理。 3. 协助落地渠道政策、返利规则、销售流程，制作报价模板、销售工具包，赋能一线销售。 4. 跨部门协同供应链、财务团队，跟进订单履约、对账，协调解决交付、回款类业务卡点。 5. 支撑业务复盘会议，准备经营分析材料，沉淀运营流程，持续优化区域销售效率。\n任职要求 1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先。 2. 具备强数据分析能力，细心严谨，强数据意识，做事闭环。 3. 具备优秀的多方协同能力，强业务思维，强目标感和韧性。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "海外运营",
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位介绍 为拉美销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=89eb9367-866f-46d4-9f46-596a94f542db",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-4328196d4d1f",
+      "company": "石头科技",
+      "title": "销售运营岗（欧洲）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位介绍 为欧洲销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运转，赋能一线销售达成业绩目标。 岗位职责 1. 负责欧洲区域销售数据整合，制作周报/月报，完成销售预测、渠道进销存监控，识别业务异动。 2. 维护CRM客户数据库，保证客户信息、订单数据准确，协助渠道分级、客户台账管理。 3. 协助落地渠道政策、返利规则、销售流程，制作报价模板、销售工具包，赋能一线销售。 4. 跨部门协同供应链、财务团队，跟进订单履约、对账，协调解决交付、回款类业务卡点。 5. 支撑业务复盘会议，准备经营分析材料，沉淀运营流程，持续优化区域销售效率。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先。 2. 具备强数据分析能力，细心严谨，强数据意识，做事闭环。 3. 具备优秀的多方协同能力，强业务思维，强目标导向和韧性。",
+      "JD": "岗位介绍 为欧洲销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运转，赋能一线销售达成业绩目标。 岗位职责 1. 负责欧洲区域销售数据整合，制作周报/月报，完成销售预测、渠道进销存监控，识别业务异动。 2. 维护CRM客户数据库，保证客户信息、订单数据准确，协助渠道分级、客户台账管理。 3. 协助落地渠道政策、返利规则、销售流程，制作报价模板、销售工具包，赋能一线销售。 4. 跨部门协同供应链、财务团队，跟进订单履约、对账，协调解决交付、回款类业务卡点。 5. 支撑业务复盘会议，准备经营分析材料，沉淀运营流程，持续优化区域销售效率。\n任职要求 1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先。 2. 具备强数据分析能力，细心严谨，强数据意识，做事闭环。 3. 具备优秀的多方协同能力，强业务思维，强目标导向和韧性。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位介绍 为欧洲销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=39a7da84-f8ab-46ce-84c1-2d6c8b076f2b",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a5310eac43d4",
+      "company": "石头科技",
+      "title": "海外营销管培生（欧洲）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位介绍 本岗位为欧洲区域业务核心人才储备项目，将在地区部多业务模块轮岗，覆盖市场、销售运营、国家销售、GTM 、零售等方向。目标为把管培生系统性培养成区域营销一把手，长期发展路径为国家经理、区域业务负责人等；期望候选人主动拥抱跨模块轮岗，深度理解欧洲全链路出海生意，未来独立操盘国家/区域/业务模块完整业务。 岗位职责 1. 多模块轮岗实践：依次进入 MKT、销售运营、国家销售、GTM、零售等岗位沉浸式学习，熟悉欧洲市场从新品上市、渠道拓展、零售落地、营销传播到经营复盘的完整业务闭环。 2. 轮岗期间承接模块内专项任务：参与市场调研、竞品分析、新品 GTM 项目、渠道商务对接、零售活动落地、销售数据复盘、本地化营销项目执行，输出调研报告、项目方案或复盘材料。 3. 跟随业务负责人参与区域经营会议，理解区域生意目标、利润、渠道管理等经营逻辑，建立全盘业务视角，不只局限单一职能。 4. 在轮岗中挖掘业务机会、识别业务风险，独立负责专项课题，输出可落地的业务优化方案，接受业务复盘与导师辅导。 5. 轮岗结束，结合个人能力、轮岗表现、业务缺口，定岗至欧洲区域营销 / 业务管理序列，持续向国家经理、业务负责人方向发展。",
+      "jobRequirements": "任职要求 1. 本科及以上，具备优秀学术背景、海外交换 / 留学经历优先。英语可作为商务工作语言，掌握德 / 法 / 意 / 北欧等小语种优先。 2. 愿意接受多职能轮岗，期待全面掌握业务全链路；对消费电子出海有强烈热情；有跨境电商、海外营销、海外销售相关实习经历优先。 3. 商业敏感度强，兼具商务沟通能力，适应跨时区沟通和跨文化氛围。 4. 自驱力强，强目标感和韧性，具备强数据分析能力，逻辑表达&深度思考能力，跨部门协作能力；具备善良，长期主义价值观。",
+      "JD": "岗位介绍 本岗位为欧洲区域业务核心人才储备项目，将在地区部多业务模块轮岗，覆盖市场、销售运营、国家销售、GTM 、零售等方向。目标为把管培生系统性培养成区域营销一把手，长期发展路径为国家经理、区域业务负责人等；期望候选人主动拥抱跨模块轮岗，深度理解欧洲全链路出海生意，未来独立操盘国家/区域/业务模块完整业务。 岗位职责 1. 多模块轮岗实践：依次进入 MKT、销售运营、国家销售、GTM、零售等岗位沉浸式学习，熟悉欧洲市场从新品上市、渠道拓展、零售落地、营销传播到经营复盘的完整业务闭环。 2. 轮岗期间承接模块内专项任务：参与市场调研、竞品分析、新品 GTM 项目、渠道商务对接、零售活动落地、销售数据复盘、本地化营销项目执行，输出调研报告、项目方案或复盘材料。 3. 跟随业务负责人参与区域经营会议，理解区域生意目标、利润、渠道管理等经营逻辑，建立全盘业务视角，不只局限单一职能。 4. 在轮岗中挖掘业务机会、识别业务风险，独立负责专项课题，输出可落地的业务优化方案，接受业务复盘与导师辅导。 5. 轮岗结束，结合个人能力、轮岗表现、业务缺口，定岗至欧洲区域营销 / 业务管理序列，持续向国家经理、业务负责人方向发展。\n任职要求 1. 本科及以上，具备优秀学术背景、海外交换 / 留学经历优先。英语可作为商务工作语言，掌握德 / 法 / 意 / 北欧等小语种优先。 2. 愿意接受多职能轮岗，期待全面掌握业务全链路；对消费电子出海有强烈热情；有跨境电商、海外营销、海外销售相关实习经历优先。 3. 商业敏感度强，兼具商务沟通能力，适应跨时区沟通和跨文化氛围。 4. 自驱力强，强目标感和韧性，具备强数据分析能力，逻辑表达&深度思考能力，跨部门协作能力；具备善良，长期主义价值观。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "跨文化沟通",
+          "客户关系",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "跨文化",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位介绍 本岗位为欧洲区域业务核心人才储备项目，将在地区部多业务模块轮岗，覆盖市场"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=f6160130-fe0e-4192-810c-0ea1ff95f6a0",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-98d7bf6e6349",
+      "company": "石头科技",
+      "title": "海外营销管培生（美洲）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "本岗位为美洲区域业务核心人才储备项目，将在地区部多业务模块轮岗，覆盖市场、销售运营、国家销售、GTM 、零售等方向。目标为把管培生系统性培养成区域营销一把手，长期发展路径为国家经理、区域业务负责人等；期望候选人主动拥抱跨模块轮岗，深度理解欧洲全链路出海生意，未来独立操盘国家/区域/业务模块完整业务。 1. 多模块轮岗实践：依次进入 MKT、销售运营、国家销售、GTM、零售等岗位沉浸式学习，熟悉欧洲市场从新品上市、渠道拓展、零售落地、营销传播到经营复盘的完整业务闭环。 2. 轮岗期间承接模块内专项任务：参与市场调研、竞品分析、新品 GTM 项目、渠道商务对接、零售活动落地、销售数据复盘、本地化营销项目执行，输出调研报告、项目方案或复盘材料。 3. 跟随业务负责人参与区域经营会议，理解区域生意目标、利润、渠道管理等经营逻辑，建立全盘业务视角，不只局限单一职能。 4. 在轮岗中挖掘业务机会、识别业务风险，独立负责专项课题，输出可落地的业务优化方案，接受业务复盘与导师辅导。 5. 轮岗结束，结合个人能力、轮岗表现、业务缺口，定岗至美洲洲区域营销 / 业务管理序列，持续向国家经理、业务负责人方向发展。",
+      "jobRequirements": "1. 本科及以上，具备优秀学术背景、海外交换 / 留学经历优先。英语可作为商务工作语言，有西语等小语种优先。 2. 愿意接受多职能轮岗，期待全面掌握业务全链路；对消费电子出海有强烈热情；有跨境电商、海外营销、海外销售相关实习经历优先。 3. 商业敏感度强，兼具商务沟通能力，适应跨时区沟通和跨文化氛围。 4. 自驱力强，强目标感和韧性，具备强数据分析能力，逻辑表达&深度思考能力，跨部门协作能力，目标感强；具备善良，长期主义价值观",
+      "JD": "本岗位为美洲区域业务核心人才储备项目，将在地区部多业务模块轮岗，覆盖市场、销售运营、国家销售、GTM 、零售等方向。目标为把管培生系统性培养成区域营销一把手，长期发展路径为国家经理、区域业务负责人等；期望候选人主动拥抱跨模块轮岗，深度理解欧洲全链路出海生意，未来独立操盘国家/区域/业务模块完整业务。 1. 多模块轮岗实践：依次进入 MKT、销售运营、国家销售、GTM、零售等岗位沉浸式学习，熟悉欧洲市场从新品上市、渠道拓展、零售落地、营销传播到经营复盘的完整业务闭环。 2. 轮岗期间承接模块内专项任务：参与市场调研、竞品分析、新品 GTM 项目、渠道商务对接、零售活动落地、销售数据复盘、本地化营销项目执行，输出调研报告、项目方案或复盘材料。 3. 跟随业务负责人参与区域经营会议，理解区域生意目标、利润、渠道管理等经营逻辑，建立全盘业务视角，不只局限单一职能。 4. 在轮岗中挖掘业务机会、识别业务风险，独立负责专项课题，输出可落地的业务优化方案，接受业务复盘与导师辅导。 5. 轮岗结束，结合个人能力、轮岗表现、业务缺口，定岗至美洲洲区域营销 / 业务管理序列，持续向国家经理、业务负责人方向发展。\n1. 本科及以上，具备优秀学术背景、海外交换 / 留学经历优先。英语可作为商务工作语言，有西语等小语种优先。 2. 愿意接受多职能轮岗，期待全面掌握业务全链路；对消费电子出海有强烈热情；有跨境电商、海外营销、海外销售相关实习经历优先。 3. 商业敏感度强，兼具商务沟通能力，适应跨时区沟通和跨文化氛围。 4. 自驱力强，强目标感和韧性，具备强数据分析能力，逻辑表达&深度思考能力，跨部门协作能力，目标感强；具备善良，长期主义价值观",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "国际业务"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "跨文化",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 本岗位为美洲区域业务核心人才储备项目，将在地区部多业务模块轮岗，覆盖市场、销售运营"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=b3f4e606-14e1-458f-838a-70acf8d308c8",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b725c278d2e3",
+      "company": "石头科技",
+      "title": "海外GTM岗（西欧）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位介绍 该岗位会在中台GTM，零售，MKT部门等轮岗学习系统知识，后深入一线，负责支撑新品从市场调研、策略制定到落地复盘的全流程GTM（Go-to-Market）工作，打通产品、销售、营销、渠道，把石头新品成功推向西欧多国市场。 岗位职责 1. 开展西欧市场用户画像、竞品、渠道、本地化合规调研，收集市场输入，协助输出新品上市方案，包含定价、渠道策略、营销资源规划。 2. 作为上市项目协调人，拉通销售、营销、产品、法务、供应链团队对齐上市时间线，推进项目里程碑落地。 3. 监控新品上市后的销售、转化、用户评价数据，组织跨部门复盘，定位增长瓶颈，迭代本地化上市策略。 4. 跟踪西欧区域法规、产品认证、包装本地化要求，保障产品符合当地市场准入规则。 5. 沉淀区域市场打法，输出市场洞察文档，为后续新品上市提供经验参考。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语流利。 2. 具备良好商业洞察力，擅长信息搜集、整合与结构化分析，逻辑思维突出。 3. 优秀跨部门项目协同能力，做事有规划，具备项目管理意识，结果导向。 4. 对消费电子品牌出海感兴趣，能够快速理解硬件产品卖点，有市场/GTM相关实习加分。",
+      "JD": "岗位介绍 该岗位会在中台GTM，零售，MKT部门等轮岗学习系统知识，后深入一线，负责支撑新品从市场调研、策略制定到落地复盘的全流程GTM（Go-to-Market）工作，打通产品、销售、营销、渠道，把石头新品成功推向西欧多国市场。 岗位职责 1. 开展西欧市场用户画像、竞品、渠道、本地化合规调研，收集市场输入，协助输出新品上市方案，包含定价、渠道策略、营销资源规划。 2. 作为上市项目协调人，拉通销售、营销、产品、法务、供应链团队对齐上市时间线，推进项目里程碑落地。 3. 监控新品上市后的销售、转化、用户评价数据，组织跨部门复盘，定位增长瓶颈，迭代本地化上市策略。 4. 跟踪西欧区域法规、产品认证、包装本地化要求，保障产品符合当地市场准入规则。 5. 沉淀区域市场打法，输出市场洞察文档，为后续新品上市提供经验参考。\n任职要求 1. 本科及以上应届生，英语流利。 2. 具备良好商业洞察力，擅长信息搜集、整合与结构化分析，逻辑思维突出。 3. 优秀跨部门项目协同能力，做事有规划，具备项目管理意识，结果导向。 4. 对消费电子品牌出海感兴趣，能够快速理解硬件产品卖点，有市场/GTM相关实习加分。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "GTM"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位介绍 该岗位会在中台GTM，零售，MKT部门等轮岗学习系统知识，后深入一线，负"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=ee5f4a2d-9704-4de8-b75f-f82db4915987",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-15c98076143b",
+      "company": "石头科技",
+      "title": "海外GTM岗（拉美）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利，掌握西语小语种优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位介绍 该岗位会在中台GTM，零售，MKT部门等轮岗学习系统知识，后深入一线，负责支撑新品从市场调研、策略制定到落地复盘的全流程GTM（Go-to-Market）工作，打通产品、销售、营销、渠道，把石头新品成功推向拉美多国市场。 岗位职责 1. 开展拉美市场用户画像、竞品、渠道、本地化合规调研，收集市场输入，协助输出新品上市方案，包含定价、渠道策略、营销资源规划。 2. 作为上市项目协调人，拉通销售、营销、产品、法务、供应链团队对齐上市时间线，推进项目里程碑落地。 3. 监控新品上市后的销售、转化、用户评价数据，组织跨部门复盘，定位增长瓶颈，迭代本地化上市策略。 4. 跟踪拉美区域法规、产品认证、包装本地化要求，保障产品符合当地市场准入规则。 5. 沉淀区域市场打法，输出市场洞察文档，为后续新品上市提供经验参考。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语流利，掌握西语小语种优先。 2. 具备良好商业洞察力，擅长信息搜集、整合与结构化分析，逻辑思维突出。 3. 优秀跨部门项目协同能力，做事有规划，具备项目管理意识，结果导向。 4. 对消费电子品牌出海感兴趣，能够快速理解硬件产品卖点，有市场/GTM相关实习加分。",
+      "JD": "岗位介绍 该岗位会在中台GTM，零售，MKT部门等轮岗学习系统知识，后深入一线，负责支撑新品从市场调研、策略制定到落地复盘的全流程GTM（Go-to-Market）工作，打通产品、销售、营销、渠道，把石头新品成功推向拉美多国市场。 岗位职责 1. 开展拉美市场用户画像、竞品、渠道、本地化合规调研，收集市场输入，协助输出新品上市方案，包含定价、渠道策略、营销资源规划。 2. 作为上市项目协调人，拉通销售、营销、产品、法务、供应链团队对齐上市时间线，推进项目里程碑落地。 3. 监控新品上市后的销售、转化、用户评价数据，组织跨部门复盘，定位增长瓶颈，迭代本地化上市策略。 4. 跟踪拉美区域法规、产品认证、包装本地化要求，保障产品符合当地市场准入规则。 5. 沉淀区域市场打法，输出市场洞察文档，为后续新品上市提供经验参考。\n任职要求 1. 本科及以上应届生，英语流利，掌握西语小语种优先。 2. 具备良好商业洞察力，擅长信息搜集、整合与结构化分析，逻辑思维突出。 3. 优秀跨部门项目协同能力，做事有规划，具备项目管理意识，结果导向。 4. 对消费电子品牌出海感兴趣，能够快速理解硬件产品卖点，有市场/GTM相关实习加分。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利，掌握西语小语种优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "GTM"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "供应链"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位介绍 该岗位会在中台GTM，零售，MKT部门等轮岗学习系统知识，后深入一线，负"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=c6efc8e7-d1f6-40ee-b861-d1e6f163abbf",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-204bfbd2534c",
+      "company": "石头科技",
+      "title": "海外整合营销岗（拉美）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利，西语能作为工作语言",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、西班牙语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位介绍 拉美区域整合营销储备岗，围绕品牌与新品目标，策划拉美本地化全域营销项目，覆盖社媒、KOL、线上广告、线下活动，提升Roborock在拉美市场品牌声量与转化。 岗位职责 1. 基于拉美市场用户特征，策划新品上市、大促节点的整合营销方案，统筹KOL合作、社媒内容、付费广告、线下活动落地。 2. 协同销售、GTM团队对齐营销目标，联动线上线下资源，支持渠道销售转化。 3. 跟踪营销投放数据（曝光、互动、引流转化），复盘营销效果，持续优化素材、渠道与投放策略。 4. 产出本地化营销内容brief，管理素材制作，适配拉美多国语言、文化差异，规避文化风险。 5. 监测竞品营销打法，收集用户舆情，输出营销洞察，迭代区域品牌打法。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语流利，西语能作为工作语言。 2. 熟悉海外主流社媒平台，具备创意策划能力，有品牌营销、内容策划实习加分。 3. 具备基础数据分析能力，项目落地执行能力强，能统筹多方资源推进项目。 4. 跨文化感知力强，对拉美文化感兴趣，适应跨时区沟通。",
+      "JD": "岗位介绍 拉美区域整合营销储备岗，围绕品牌与新品目标，策划拉美本地化全域营销项目，覆盖社媒、KOL、线上广告、线下活动，提升Roborock在拉美市场品牌声量与转化。 岗位职责 1. 基于拉美市场用户特征，策划新品上市、大促节点的整合营销方案，统筹KOL合作、社媒内容、付费广告、线下活动落地。 2. 协同销售、GTM团队对齐营销目标，联动线上线下资源，支持渠道销售转化。 3. 跟踪营销投放数据（曝光、互动、引流转化），复盘营销效果，持续优化素材、渠道与投放策略。 4. 产出本地化营销内容brief，管理素材制作，适配拉美多国语言、文化差异，规避文化风险。 5. 监测竞品营销打法，收集用户舆情，输出营销洞察，迭代区域品牌打法。\n任职要求 1. 本科及以上应届生，英语流利，西语能作为工作语言。 2. 熟悉海外主流社媒平台，具备创意策划能力，有品牌营销、内容策划实习加分。 3. 具备基础数据分析能力，项目落地执行能力强，能统筹多方资源推进项目。 4. 跨文化感知力强，对拉美文化感兴趣，适应跨时区沟通。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利，西语能作为工作语言"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "翻译/本地化"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "跨文化",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位介绍 拉美区域整合营销储备岗，围绕品牌与新品目标，策划拉美本地化全域营销项目，"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=0e900d6c-abe4-4db8-9943-1eb3ab308c90",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-04751d2953ce",
+      "company": "石头科技",
+      "title": "电商GTM岗（西欧）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语读写流利，可熟练阅读海外电商后台与竞品页面",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位职责 1. 调研西欧电商平台规则、平台竞品、消费者购买习惯，协助制定电商渠道专属新品上市方案，包含定价、Listing策略、推广资源排期。 2. 协同电商运营团队，对齐新品上线节奏，策划大促节点、新品首发的电商营销玩法。 3. 持续监控新品流量、点击率、转化率、评论数据，定期复盘，优化电商推广与产品卖点表达。 4. 联动线下渠道团队，平衡线上线下价格体系，规避渠道冲突风险。 5. 沉淀电商上市方法论，输出电商竞品分析与市场机会洞察。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语读写流利，可熟练阅读海外电商后台与竞品页面。 2. 了解跨境电商基础逻辑，对线上精品运营感兴趣，有亚马逊/电商运营实习经历优先。 3. 数据敏感度高，擅长从数据定位业务问题，结构化思考，具备项目推进能力。 4. 负责心强，主动积极，沟通&团队协调能力强，具备优秀的抗压能力与做事效率。",
+      "JD": "岗位职责 1. 调研西欧电商平台规则、平台竞品、消费者购买习惯，协助制定电商渠道专属新品上市方案，包含定价、Listing策略、推广资源排期。 2. 协同电商运营团队，对齐新品上线节奏，策划大促节点、新品首发的电商营销玩法。 3. 持续监控新品流量、点击率、转化率、评论数据，定期复盘，优化电商推广与产品卖点表达。 4. 联动线下渠道团队，平衡线上线下价格体系，规避渠道冲突风险。 5. 沉淀电商上市方法论，输出电商竞品分析与市场机会洞察。\n任职要求 1. 本科及以上应届生，英语读写流利，可熟练阅读海外电商后台与竞品页面。 2. 了解跨境电商基础逻辑，对线上精品运营感兴趣，有亚马逊/电商运营实习经历优先。 3. 数据敏感度高，擅长从数据定位业务问题，结构化思考，具备项目推进能力。 4. 负责心强，主动积极，沟通&团队协调能力强，具备优秀的抗压能力与做事效率。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语读写流利，可熟练阅读海外电商后台与竞品页面"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "GTM"
+      ],
+      "skills": [
+        "英语",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "市场",
+        "电商",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "出海"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位职责 1. 调研西欧电商平台规则、平台竞品、消费者购买习惯，协助制定电商渠道专"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=c6cb03cf-0a1a-469a-b5a3-1f2797d67e85",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-106724cd5741",
+      "company": "石头科技",
+      "title": "亚马逊运营（北美）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语读写优秀，可独立处理英文平台",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位职责 1. 负责北美亚马逊后台日常运维，包含Listing撰写与优化、A+页面维护、产品关键词调研。 2. 搭建与优化站内广告，监控ACoS、曝光、转化等指标，持续提升广告投放效率。 3. 管理FBA库存，做好备货预测，规避断货、库存积压风险；监控平台绩效指标，维护店铺健康。 4. 处理差评、A-to-Z索赔、产品安全合规等平台风险，维护产品评分。 5. 调研亚马逊竞品价格、推广策略，输出竞品分析，为产品定价、营销打法提供建议。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语读写优秀，可独立处理英文平台。 2. 对亚马逊精品运营模式有认知；数据敏感，耐心细致，擅长指标拆解，具备风险预判意识。 3. 学习能力强，目标导向，有跨境亚马逊运营实习经历优先。",
+      "JD": "岗位职责 1. 负责北美亚马逊后台日常运维，包含Listing撰写与优化、A+页面维护、产品关键词调研。 2. 搭建与优化站内广告，监控ACoS、曝光、转化等指标，持续提升广告投放效率。 3. 管理FBA库存，做好备货预测，规避断货、库存积压风险；监控平台绩效指标，维护店铺健康。 4. 处理差评、A-to-Z索赔、产品安全合规等平台风险，维护产品评分。 5. 调研亚马逊竞品价格、推广策略，输出竞品分析，为产品定价、营销打法提供建议。\n任职要求 1. 本科及以上应届生，英语读写优秀，可独立处理英文平台。 2. 对亚马逊精品运营模式有认知；数据敏感，耐心细致，擅长指标拆解，具备风险预判意识。 3. 学习能力强，目标导向，有跨境亚马逊运营实习经历优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语读写优秀，可独立处理英文平台"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位职责 1. 负责北美亚马逊后台日常运维，包含Listing撰写与优化、A+页面"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=8452256f-5f4c-4aab-a707-ec19d9e906fc",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-483f7bd27edc",
+      "company": "石头科技",
+      "title": "海外零售岗（北欧/波兰）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上，英语可作为工作语言",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、波兰语、瑞典语、挪威语、丹麦语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位介绍 作为北欧 & 波兰零售渠道业务储备力量，前期再零售各个模块轮岗，后续深度参与线下连锁零售渠道全链路业务，对接当地大型家电、家居连锁零售商，协助实现 Roborock 品牌在北欧、波兰线下市场的份额提升与品牌渗透，支撑区域零售生意目标。 岗位职责 1. 协助区域客户经理维护北欧、波兰线下连锁零售伙伴，跟进订单磋商、备货、交付、对账及回款全流程，及时响应客户商务诉求。 2. 跟踪零售渠道进销存数据，监控门店库存水位，识别断货/滞销风险，输出渠道库存分析与补货建议。 3. 调研区域线下零售市场格局、竞品定价、促销策略，协助制定门店陈列、节假日促销、新品上样方案，落地门店营销活动。 4. 参与线下客户拜访、行业展会，收集终端用户反馈，同步给产品、营销团队，输出定期市场简报。 5. 维护渠道资料、客户台账，协同内部供应链、营销、售后团队，解决渠道端业务卡点。",
+      "jobRequirements": "任职要求 1. 本科及以上，英语可作为工作语言；掌握丹麦语/瑞典语/挪威语/波兰语优先。 2. 具备强数据分析能力，项目跟踪执行能力，逻辑沟通表达能力；擅长跨文化沟通，目标感及韧性强 3. 细心负责，能接受短期海外出差、跨时区会议，有跨境零售实习经历加分。",
+      "JD": "岗位介绍 作为北欧 & 波兰零售渠道业务储备力量，前期再零售各个模块轮岗，后续深度参与线下连锁零售渠道全链路业务，对接当地大型家电、家居连锁零售商，协助实现 Roborock 品牌在北欧、波兰线下市场的份额提升与品牌渗透，支撑区域零售生意目标。 岗位职责 1. 协助区域客户经理维护北欧、波兰线下连锁零售伙伴，跟进订单磋商、备货、交付、对账及回款全流程，及时响应客户商务诉求。 2. 跟踪零售渠道进销存数据，监控门店库存水位，识别断货/滞销风险，输出渠道库存分析与补货建议。 3. 调研区域线下零售市场格局、竞品定价、促销策略，协助制定门店陈列、节假日促销、新品上样方案，落地门店营销活动。 4. 参与线下客户拜访、行业展会，收集终端用户反馈，同步给产品、营销团队，输出定期市场简报。 5. 维护渠道资料、客户台账，协同内部供应链、营销、售后团队，解决渠道端业务卡点。\n任职要求 1. 本科及以上，英语可作为工作语言；掌握丹麦语/瑞典语/挪威语/波兰语优先。 2. 具备强数据分析能力，项目跟踪执行能力，逻辑沟通表达能力；擅长跨文化沟通，目标感及韧性强 3. 细心负责，能接受短期海外出差、跨时区会议，有跨境零售实习经历加分。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上，英语可作为工作语言"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "跨文化",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "海外出差"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 岗位介绍 作为北欧 & 波兰零售渠道业务储备力量，前期再零售各个模块轮岗，后续深度"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=3fb8e690-35f6-4913-bbe2-d1f4fba1b902",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1cf01591e2df",
+      "company": "石头科技",
+      "title": "海外销售岗（西欧）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利可商务沟通，掌握德语/法语/荷兰语等小语种的优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、德语、法语、荷兰语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位职责 1. 协助开发西欧潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务谈判，推进订单落地。 2. 跟踪区域销售指标完成情况，拆解渠道目标，定期复盘生意数据，挖掘增量机会，识别渠道风险。 3. 配合新品导入工作，向渠道客户传递产品卖点，协同营销团队落地渠道促销、培训、市场推广活动。 4. 持续调研西欧市场竞品动态、渠道政策、价格体系，输出竞品分析报告，支撑业务策略调整。 5. 联动供应链、财务、售后团队，保障订单交付，处理客户客诉与业务问题，维护长期客户信任。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语流利可商务沟通，掌握德语/法语/荷兰语等小语种的优先。 2. 具备强基础数据分析能力，逻辑沟通能力，擅长跨文化沟通，目标感强，拥有商务谈判潜力，具备优秀的抗压能力。 3. 学习能力强，愿意深耕西欧市场，有海外商务、跨境销售实习经历优先。",
+      "JD": "岗位职责 1. 协助开发西欧潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务谈判，推进订单落地。 2. 跟踪区域销售指标完成情况，拆解渠道目标，定期复盘生意数据，挖掘增量机会，识别渠道风险。 3. 配合新品导入工作，向渠道客户传递产品卖点，协同营销团队落地渠道促销、培训、市场推广活动。 4. 持续调研西欧市场竞品动态、渠道政策、价格体系，输出竞品分析报告，支撑业务策略调整。 5. 联动供应链、财务、售后团队，保障订单交付，处理客户客诉与业务问题，维护长期客户信任。\n任职要求 1. 本科及以上应届生，英语流利可商务沟通，掌握德语/法语/荷兰语等小语种的优先。 2. 具备强基础数据分析能力，逻辑沟通能力，擅长跨文化沟通，目标感强，拥有商务谈判潜力，具备优秀的抗压能力。 3. 学习能力强，愿意深耕西欧市场，有海外商务、跨境销售实习经历优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利可商务沟通，掌握德语/法语/荷兰语等小语种的优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "数据",
+        "跨文化",
+        "营销",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位职责 1. 协助开发西欧潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=d20acfb1-1888-4b68-bddd-4765bc3cd1cc",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-4458cc44d265",
+      "company": "石头科技",
+      "title": "北美销售岗（渠道电商/线下）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利可商务沟通",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位职责 1. 协助开发北美潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务谈判，推进订单落地。 2. 跟踪区域销售指标完成情况，拆解渠道目标，定期复盘生意数据，挖掘增量机会，识别渠道风险。 3. 配合新品导入工作，向渠道客户传递产品卖点，协同营销团队落地渠道促销、培训、市场推广活动。 4. 持续调研北美市场竞品动态、渠道政策、价格体系，输出竞品分析报告，支撑业务策略调整。 5. 联动供应链、财务、售后团队，保障订单交付，处理客户客诉与业务问题，维护长期客户信任。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语流利可商务沟通。 2. 具备强基础数据分析能力，逻辑沟通能力，擅长跨文化沟通，目标感强，拥有商务谈判潜力，目标感和韧性较强。 3. 学习能力强，愿意深耕北美市场，有海外商务、跨境销售实习经历优先。",
+      "JD": "岗位职责 1. 协助开发北美潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务谈判，推进订单落地。 2. 跟踪区域销售指标完成情况，拆解渠道目标，定期复盘生意数据，挖掘增量机会，识别渠道风险。 3. 配合新品导入工作，向渠道客户传递产品卖点，协同营销团队落地渠道促销、培训、市场推广活动。 4. 持续调研北美市场竞品动态、渠道政策、价格体系，输出竞品分析报告，支撑业务策略调整。 5. 联动供应链、财务、售后团队，保障订单交付，处理客户客诉与业务问题，维护长期客户信任。\n任职要求 1. 本科及以上应届生，英语流利可商务沟通。 2. 具备强基础数据分析能力，逻辑沟通能力，擅长跨文化沟通，目标感强，拥有商务谈判潜力，目标感和韧性较强。 3. 学习能力强，愿意深耕北美市场，有海外商务、跨境销售实习经历优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利可商务沟通"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "市场",
+        "电商",
+        "数据",
+        "跨文化",
+        "营销",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化",
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 岗位职责 1. 协助开发北美潜在经销商，维护存量渠道客户，独立跟进询盘、报价、商务"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=fbd16f18-e0b2-4ed1-b4f3-e0601a04c725",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
     {
       "id": "beisen-5250c7b42249",
       "company": "石头科技",
@@ -100,6 +1263,173 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
+    },
+    {
+      "id": "beisen-b87978826e59",
+      "company": "石头科技",
+      "title": "27应届-数据标注工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、计算机、数据类、语言类相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、数据标注与处理 完成家居、户外环境场景内物体、行人、宠物等视觉数据筛选及标注工作，同时负责语音数据整理、转写、质检等处理任务， 保障数据集质量，支撑人工智能模型训练与效果优化。 2、模型评估与文档撰写 对各类 AI 模型输出结果进行测试、核验与综合评估，独立制定数据评估标准，规范记录评估过程， 按时撰写评估结果、问题汇总等正式文档。 3、数据源拓展及合作方管理 负责外部数据采集工作，同步项目需求，拓展数据来源；对接合作供应商，日常沟通对接、进度跟进与问题协调。 4、跨团队协作工作 对接研发团队开展需求沟通，共同商定标注规则、作业标准；反馈标注过程中的问题， 配合完成标注工具功能优化、流程调整等相关工作，保障项目高效推进。",
+      "jobRequirements": "1、计算机、数据类、语言类相关专业优先。 2、技能能力：数据标注、数据集处理、AI 数据相关工作经验。熟悉图像、语音类数据标注流程与质量标准， 3、具备基础电脑操作能力，熟练使用办公软件；有数据标注、数据处理、语音转写相关经验者优先。 4、职业素养：工作细心严谨，有较强的责任心与专注力，能严格执行标注、评估标准，把控数据质量。 5、沟通协作：具备良好的沟通表达能力，可顺畅对接研发团队、外部供应商，高效协调处理各类问题。 6、其他：理解能力强，学习速度快，具备良好执行力，能配合项目进度完成工作。",
+      "JD": "1、数据标注与处理 完成家居、户外环境场景内物体、行人、宠物等视觉数据筛选及标注工作，同时负责语音数据整理、转写、质检等处理任务， 保障数据集质量，支撑人工智能模型训练与效果优化。 2、模型评估与文档撰写 对各类 AI 模型输出结果进行测试、核验与综合评估，独立制定数据评估标准，规范记录评估过程， 按时撰写评估结果、问题汇总等正式文档。 3、数据源拓展及合作方管理 负责外部数据采集工作，同步项目需求，拓展数据来源；对接合作供应商，日常沟通对接、进度跟进与问题协调。 4、跨团队协作工作 对接研发团队开展需求沟通，共同商定标注规则、作业标准；反馈标注过程中的问题， 配合完成标注工具功能优化、流程调整等相关工作，保障项目高效推进。\n1、计算机、数据类、语言类相关专业优先。 2、技能能力：数据标注、数据集处理、AI 数据相关工作经验。熟悉图像、语音类数据标注流程与质量标准， 3、具备基础电脑操作能力，熟练使用办公软件；有数据标注、数据处理、语音转写相关经验者优先。 4、职业素养：工作细心严谨，有较强的责任心与专注力，能严格执行标注、评估标准，把控数据质量。 5、沟通协作：具备良好的沟通表达能力，可顺畅对接研发团队、外部供应商，高效协调处理各类问题。 6、其他：理解能力强，学习速度快，具备良好执行力，能配合项目进度完成工作。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、计算机、数据类、语言类相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、数据标注与处理 完成家居、户外环境场景内物体、行人、宠物等视觉数据筛选及标注工"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=0261ef85-df41-4331-9bc9-0786a7f9453a",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f31b2adaf934",
+      "company": "石头科技",
+      "title": "专项技术经理（机电）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科以上学历，机电一体化，电机及电器类专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "电机及电器类专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "职位描述 1. 根据扫地机器人和洗地机产品使用场景进行电机和泵的设计方案制定，与核心方案选型； 2. 进行电机驱动设计及方案审核； 3. 判断电机及齿轮箱与泵体设计的合理性与规范性，熟悉其生产工艺与常见失效模式，负责编制或审核DFMEA； 4. 对电机结构/性能/可靠性优化提出有效建议",
+      "jobRequirements": "职位要求 1.本科以上学历，机电一体化，电机及电器类专业，熟悉各种电机原理及特性，掌握各种电机驱动方法，了解电机驱动算法； 2.掌握电机电磁、结构、热设计原理，熟悉永磁电机、交流电机、步进电机有限元分析，结构力学分析，电机温升计算； 3. 熟悉电机测试相关规范 4. 了解电机设计相关的材料和工艺，以及电机机械结构和装配，以及齿轮箱设计； 5. 针对电机寿命、噪音、阻力、能效等优化能提出有效建议； 6. 良好的沟通能力，强目标感和韧性；",
+      "JD": "职位描述 1. 根据扫地机器人和洗地机产品使用场景进行电机和泵的设计方案制定，与核心方案选型； 2. 进行电机驱动设计及方案审核； 3. 判断电机及齿轮箱与泵体设计的合理性与规范性，熟悉其生产工艺与常见失效模式，负责编制或审核DFMEA； 4. 对电机结构/性能/可靠性优化提出有效建议\n职位要求 1.本科以上学历，机电一体化，电机及电器类专业，熟悉各种电机原理及特性，掌握各种电机驱动方法，了解电机驱动算法； 2.掌握电机电磁、结构、热设计原理，熟悉永磁电机、交流电机、步进电机有限元分析，结构力学分析，电机温升计算； 3. 熟悉电机测试相关规范 4. 了解电机设计相关的材料和工艺，以及电机机械结构和装配，以及齿轮箱设计； 5. 针对电机寿命、噪音、阻力、能效等优化能提出有效建议； 6. 良好的沟通能力，强目标感和韧性；",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历，机电一体化，电机及电器类专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 职位描述 1. 根据扫地机器人和洗地机产品使用场景进行电机和泵的设计方案制定，与核"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=9518e553-326c-400b-b6ff-ff6c8b1286e2",
+      "publishedAt": "2026-09-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-06-30"
     },
     {
       "id": "beisen-6f911647bdf9",

@@ -1,103 +1,8 @@
 {
   "company": "小红书",
-  "count": 33,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 32,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
-    {
-      "id": "xiaohongshu-672eb0889f17",
-      "company": "小红书",
-      "title": "【2027校招】IT运营项目经理",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "IT部负责公司对内日常工作及职场环境相关的系统，服务建设，为公司员工提供更好的工作环境和更高效的业务手段 岗位致力于在全球提供快捷有效的IT基础设备资源支持，并为公司的资产与财务管理合规建设提供基础能力",
-      "jobRequirements": "1、本科及以上学历； 2、流利英语读写能力，且英文可作为工作语言优先； 3、具备供应链管理，财务管理方面的基础知识； 4、能够熟练运用AI相关工具完成数据处理等工作； 5、有良好的服务意识及沟通能力，高度自驱。",
-      "JD": "IT部负责公司对内日常工作及职场环境相关的系统，服务建设，为公司员工提供更好的工作环境和更高效的业务手段 岗位致力于在全球提供快捷有效的IT基础设备资源支持，并为公司的资产与财务管理合规建设提供基础能力\n1、本科及以上学历； 2、流利英语读写能力，且英文可作为工作语言优先； 3、具备供应链管理，财务管理方面的基础知识； 4、能够熟练运用AI相关工具完成数据处理等工作； 5、有良好的服务意识及沟通能力，高度自驱。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "【2027校招】IT运营项目经理"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "项目管理"
-      ],
-      "skills": [
-        "英语"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据",
-        "供应链",
-        "招聘"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22034",
-      "publishedAt": "2026-09-22",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
     {
       "id": "xiaohongshu-cd19bb446345",
       "company": "小红书",
@@ -193,7 +98,7 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22525",
-      "publishedAt": "2026-09-23",
+      "publishedAt": "2026-10-10",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -492,7 +397,110 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22266",
-      "publishedAt": "2026-09-22",
+      "publishedAt": "2026-09-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
+    },
+    {
+      "id": "xiaohongshu-fad426925535",
+      "company": "小红书",
+      "title": "【2027校招】Growth Builder-Creator & Community",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ow",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语、泰语、印尼语、马来语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "我们在寻找真正喜欢内容、社区和人的应届毕业生。 你会参与全球市场的 creator 和 community growth，从找到第一批核心用户和创作者，到设计 creator 成长机制、组织社区活动，再到探索能够规模化复制的增长模式。 这个岗位不是传统的社区运营，也不是每天机械地联系达人和维护群聊。 我们希望你既懂人，也懂工具。你需要深入理解不同市场和内容文化，同时善于利用 AI、自动化和轻量技术手段，把原本高度依赖人工的 creator 和 community growth 做得更快、更聪明、更可规模化。 你会做什么 - 参与重点市场的 creator 和 community 冷启动及增长 - 挖掘、招募和运营有潜力的创作者、社区核心用户和合作伙伴 - 设计 creator onboarding、成长路径、激励机制和长期运营体系 - 深入不同内容圈层，理解用户、creator 和社区文化，发现新的增长机会 - 策划线上和线下社区活动，提升参与度、活跃度和社区连接 - 分析 creator、内容和社区数据，持续优化招募、成长和留存策略 - 与产品、市场、品牌等团队合作，将社区洞察转化为产品和增长方案 - 使用 AI 工具完成 creator sourcing、用户研究、内容分析、信息整理和项目推进 - 探索自动化 creator database、运营 workflow、内容监测和社区管理方式 - 独立负责部分市场或项目，从 0 到 1 建立可持续的 growth playbook",
+      "jobRequirements": "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ownership，面对不确定的问题能够自己找到切入点并开始行动 - 对技术和数据不排斥，愿意用新的方式解决传统运营问题 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，能够主动思考哪些事情不应该继续靠人工完成 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具做用户研究、内容分析、creator sourcing 和项目管理 - 能利用 AI 快速处理大量内容、creator 和用户信号，从中发现增长机会 - 会自己搭简单的自动化 workflow、数据抓取、creator database 或内部运营工具 - 有 vibe coding、no-code、light coding 或 agent workflow 相关经验 - 做过自己的内容账号、社区、工具、side project 或其他从 0 到 1 的项目 - 对最新 AI 产品、社交产品、creator tools 和内容趋势高度敏感 - 有校园社群、creator、community、活动或国际化项目经历 - 掌握第二外语，例如马来语、印尼语、泰语等",
+      "JD": "我们在寻找真正喜欢内容、社区和人的应届毕业生。 你会参与全球市场的 creator 和 community growth，从找到第一批核心用户和创作者，到设计 creator 成长机制、组织社区活动，再到探索能够规模化复制的增长模式。 这个岗位不是传统的社区运营，也不是每天机械地联系达人和维护群聊。 我们希望你既懂人，也懂工具。你需要深入理解不同市场和内容文化，同时善于利用 AI、自动化和轻量技术手段，把原本高度依赖人工的 creator 和 community growth 做得更快、更聪明、更可规模化。 你会做什么 - 参与重点市场的 creator 和 community 冷启动及增长 - 挖掘、招募和运营有潜力的创作者、社区核心用户和合作伙伴 - 设计 creator onboarding、成长路径、激励机制和长期运营体系 - 深入不同内容圈层，理解用户、creator 和社区文化，发现新的增长机会 - 策划线上和线下社区活动，提升参与度、活跃度和社区连接 - 分析 creator、内容和社区数据，持续优化招募、成长和留存策略 - 与产品、市场、品牌等团队合作，将社区洞察转化为产品和增长方案 - 使用 AI 工具完成 creator sourcing、用户研究、内容分析、信息整理和项目推进 - 探索自动化 creator database、运营 workflow、内容监测和社区管理方式 - 独立负责部分市场或项目，从 0 到 1 建立可持续的 growth playbook\n- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ownership，面对不确定的问题能够自己找到切入点并开始行动 - 对技术和数据不排斥，愿意用新的方式解决传统运营问题 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，能够主动思考哪些事情不应该继续靠人工完成 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具做用户研究、内容分析、creator sourcing 和项目管理 - 能利用 AI 快速处理大量内容、creator 和用户信号，从中发现增长机会 - 会自己搭简单的自动化 workflow、数据抓取、creator database 或内部运营工具 - 有 vibe coding、no-code、light coding 或 agent workflow 相关经验 - 做过自己的内容账号、社区、工具、side project 或其他从 0 到 1 的项目 - 对最新 AI 产品、社交产品、creator tools 和内容趋势高度敏感 - 有校园社群、creator、community、活动或国际化项目经历 - 掌握第二外语，例如马来语、印尼语、泰语等",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ow"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小红书官方2027校招官网",
+      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22274",
+      "publishedAt": "2026-09-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -695,7 +703,7 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22267",
-      "publishedAt": "2026-09-22",
+      "publishedAt": "2026-09-28",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -3021,95 +3029,6 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22181",
-      "publishedAt": "2026-09-22",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
-    {
-      "id": "xiaohongshu-0bda35dcefa8",
-      "company": "小红书",
-      "title": "【2027校招】RED Finance Trainee",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2. 专业不限，欢迎跨学科、复合背景",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "我们在找的是职能团队中的第一代AI Builder。 未来的职能组织，不再依靠大量重复劳动运转，而是进入职能×产品时代。Agent 处理标准化工作，人负责定义问题、设计系统、训练 Agent，并在不确定性中完成最终判断。 加入RFT，从第一天起 Own 一个真实 Topic，参与构建财务、税务、法务、投资与采购的下一代工作方式。 1. 在财务、税务、法务、投资、采购等团队中，解决具体的业务问题； 2. 独立负责一个真实业务Topic，完成从问题定义到方案落地的全过程； 3. 拆解业务流程，设计人与 AI Agent 协作的工作流； 4. 搭建并持续优化 Agent 工具，将专业判断沉淀为可复用、可运行的系统或Workflow。",
-      "jobRequirements": "1. 本科及以上学历，2026 年 9 月至 2027 年 9 月期间毕业； 2. 专业不限，欢迎跨学科、复合背景； 3. 具备较强的跨领域学习能力，能快速进入陌生领域并建立理解； 4. 逻辑清晰，能在复杂问题中拆解结构、定义关键问题； 5. 熟悉并实际使用过 AI 工具（如大语言模型、Agent、自动化工作流）。",
-      "JD": "我们在找的是职能团队中的第一代AI Builder。 未来的职能组织，不再依靠大量重复劳动运转，而是进入职能×产品时代。Agent 处理标准化工作，人负责定义问题、设计系统、训练 Agent，并在不确定性中完成最终判断。 加入RFT，从第一天起 Own 一个真实 Topic，参与构建财务、税务、法务、投资与采购的下一代工作方式。 1. 在财务、税务、法务、投资、采购等团队中，解决具体的业务问题； 2. 独立负责一个真实业务Topic，完成从问题定义到方案落地的全过程； 3. 拆解业务流程，设计人与 AI Agent 协作的工作流； 4. 搭建并持续优化 Agent 工具，将专业判断沉淀为可复用、可运行的系统或Workflow。\n1. 本科及以上学历，2026 年 9 月至 2027 年 9 月期间毕业； 2. 专业不限，欢迎跨学科、复合背景； 3. 具备较强的跨领域学习能力，能快速进入陌生领域并建立理解； 4. 逻辑清晰，能在复杂问题中拆解结构、定义关键问题； 5. 熟悉并实际使用过 AI 工具（如大语言模型、Agent、自动化工作流）。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2. 专业不限，欢迎跨学科、复合背景"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22151",
       "publishedAt": "2026-09-22",
       "lastVerified": "",
       "sourceType": "official",

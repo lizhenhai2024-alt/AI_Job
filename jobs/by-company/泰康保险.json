@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 262,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 302,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -625,6 +625,192 @@
       "deadline": ""
     },
     {
+      "id": "beisen-822c6019f675",
+      "company": "泰康保险",
+      "title": "人寿-浙江分公司-运营管理专员（2027年校招）(J89862)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，金融、财务、医学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "1、组织保全业务及附加价值服务的处理、回访问题件的处理、客户不满和报怨的处理； 2、定期完成业务经营分析报告，为决策者提供决策依据； 3、落实客户信息真实性管理及客户信息清理工作； 4、高效准确的进行客户各类保全业务申请的受理审核工作，完成权限范围内的保全业务处理，包括疑难保全案件的处理并及时追踪、反馈，把控公司整体业务风险； 5、结合本岗位工作对分支机构相关业务岗位的指导和协助工作，力求提升分公司整体业务指标； 6、贯彻执行新生活广场柜面服务标准制度，提升柜面满意度、提升客户体验。",
+      "jobRequirements": "1、本科及以上学历，金融、财务、医学等相关专业优先。 2、招收优秀应届生；有保险公司团险健康险、企业补充医疗、员工福利对接、保险经纪公司实习经验者优先录用。 3、熟练使用Office办公软件，精通Excel数据统计、台账整理、数据对比分析，具备优秀的方案撰写、资料整理能力；学习能力强，能够快速上手业务。 4、工作细致严谨、责任心强，具备良好的沟通表达、协调对接能力及服务意识；抗压能力良好，做事高效有条理，具备团队协作精神，能适配部门业务节奏。 5、工作踏实稳重，有良好的职业操守，具备长期稳定发展的意愿，认同保险行业及企业福利业务发展方向。",
+      "JD": "1、组织保全业务及附加价值服务的处理、回访问题件的处理、客户不满和报怨的处理； 2、定期完成业务经营分析报告，为决策者提供决策依据； 3、落实客户信息真实性管理及客户信息清理工作； 4、高效准确的进行客户各类保全业务申请的受理审核工作，完成权限范围内的保全业务处理，包括疑难保全案件的处理并及时追踪、反馈，把控公司整体业务风险； 5、结合本岗位工作对分支机构相关业务岗位的指导和协助工作，力求提升分公司整体业务指标； 6、贯彻执行新生活广场柜面服务标准制度，提升柜面满意度、提升客户体验。\n1、本科及以上学历，金融、财务、医学等相关专业优先。 2、招收优秀应届生；有保险公司团险健康险、企业补充医疗、员工福利对接、保险经纪公司实习经验者优先录用。 3、熟练使用Office办公软件，精通Excel数据统计、台账整理、数据对比分析，具备优秀的方案撰写、资料整理能力；学习能力强，能够快速上手业务。 4、工作细致严谨、责任心强，具备良好的沟通表达、协调对接能力及服务意识；抗压能力良好，做事高效有条理，具备团队协作精神，能适配部门业务节奏。 5、工作踏实稳重，有良好的职业操守，具备长期稳定发展的意愿，认同保险行业及企业福利业务发展方向。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，金融、财务、医学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-06-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、组织保全业务及附加价值服务的处理、回访问题件的处理、客户不满和报怨的处理； 2"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=610f40cc-d762-4900-916f-261b908c84d2",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-06-30"
+    },
+    {
+      "id": "beisen-992aa7f7125a",
+      "company": "泰康保险",
+      "title": "泰康口腔校招-市场运营（2027届）(J89715)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027届本科及以上学历，市场营销、新媒体、广告、新闻、公卫等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 负责抖音、小红书、视频号等新媒体平台的日常运营，策划选题、撰写科普文案、拍摄剪辑短视频，持续输出口腔健康相关内容； 2. 策划线上新媒体营销活动，跟进活动落地，监控账号数据（播放、互动、留资等），复盘优化内容与投放策略； 3. 挖掘用户需求，做好评论区、私信用户互动，传递口腔科普知识，提升品牌好感度与客户体验； 4. 配合市场团队，联动门诊，策划线上线下联动的科普活动，维护新媒体品牌形象； 5. 收集行业竞品新媒体动态，整理运营数据报表，持续优化新媒体运营方案。",
+      "jobRequirements": "1. 2027届本科及以上学历，市场营销、新媒体、广告、新闻、公卫等相关专业优先； 2. 热爱新媒体，熟悉小红书 / 抖音 / 视频号任一平台内容逻辑，有短视频、图文创作经验优先； 3. 具备良好文案功底，擅长内容策划，对热点敏感，有创意； 4. 具备基础数据分析能力，沟通协作能力强，学习能力强； 5. 对医疗健康、口腔行业感兴趣，做事严谨，有良好的合规意识。",
+      "JD": "1. 负责抖音、小红书、视频号等新媒体平台的日常运营，策划选题、撰写科普文案、拍摄剪辑短视频，持续输出口腔健康相关内容； 2. 策划线上新媒体营销活动，跟进活动落地，监控账号数据（播放、互动、留资等），复盘优化内容与投放策略； 3. 挖掘用户需求，做好评论区、私信用户互动，传递口腔科普知识，提升品牌好感度与客户体验； 4. 配合市场团队，联动门诊，策划线上线下联动的科普活动，维护新媒体品牌形象； 5. 收集行业竞品新媒体动态，整理运营数据报表，持续优化新媒体运营方案。\n1. 2027届本科及以上学历，市场营销、新媒体、广告、新闻、公卫等相关专业优先； 2. 热爱新媒体，熟悉小红书 / 抖音 / 视频号任一平台内容逻辑，有短视频、图文创作经验优先； 3. 具备良好文案功底，擅长内容策划，对热点敏感，有创意； 4. 具备基础数据分析能力，沟通协作能力强，学习能力强； 5. 对医疗健康、口腔行业感兴趣，做事严谨，有良好的合规意识。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027届本科及以上学历，市场营销、新媒体、广告、新闻、公卫等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-10-01"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=e78695a7-73ea-4445-8c7c-9da2e6d01dbd",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-10-01"
+    },
+    {
       "id": "beisen-bb7da7692b1e",
       "company": "泰康保险",
       "title": "泰康科技运营-产品经理岗(J89453)",
@@ -888,6 +1074,188 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
+    },
+    {
+      "id": "beisen-8ee9ba348b5e",
+      "company": "泰康保险",
+      "title": "泰康口腔校招-医院/门诊运营管理（2027届）(J89711)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 2027届本科及以上学历，公共卫生、市场营销、管理类、护理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 参与门店一线运营相关工作，熟悉门店业务流程，了解客户服务、市场、渠道等基础业务模块； 2. 跟随带教学习门店日常管理，协助开展团队协调、数据跟踪、活动落地等运营事务； 3. 在多岗位轮岗实践，持续积累业务经验，逐步独立承担岗位工作任务； 4. 结合培养路径，持续学习运营管理知识，成长为门店及机构运营管理骨干。",
+      "jobRequirements": "1. 2027届本科及以上学历，公共卫生、市场营销、管理类、护理等相关专业优先； 2. 具备良好的责任担当，愿意从一线做起，踏实务实，吃苦耐劳； 3. 善于沟通协调，有较强的学习能力、团队意识与抗压能力； 4. 对运营工作感兴趣，对数据敏感，愿意长期深耕医疗口腔行业； 5. 有学生干部经历、项目组织运营经验者优先。",
+      "JD": "1. 参与门店一线运营相关工作，熟悉门店业务流程，了解客户服务、市场、渠道等基础业务模块； 2. 跟随带教学习门店日常管理，协助开展团队协调、数据跟踪、活动落地等运营事务； 3. 在多岗位轮岗实践，持续积累业务经验，逐步独立承担岗位工作任务； 4. 结合培养路径，持续学习运营管理知识，成长为门店及机构运营管理骨干。\n1. 2027届本科及以上学历，公共卫生、市场营销、管理类、护理等相关专业优先； 2. 具备良好的责任担当，愿意从一线做起，踏实务实，吃苦耐劳； 3. 善于沟通协调，有较强的学习能力、团队意识与抗压能力； 4. 对运营工作感兴趣，对数据敏感，愿意长期深耕医疗口腔行业； 5. 有学生干部经历、项目组织运营经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 2027届本科及以上学历，公共卫生、市场营销、管理类、护理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-10-01"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "业务运营"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=03a41898-e253-4090-94da-559dd73d0dee",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-10-01"
+    },
+    {
+      "id": "beisen-886598a3f384",
+      "company": "泰康保险",
+      "title": "泰康口腔校招-人力资源管理（2027届）(J89716)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1.2027届硕士及以上学历，人力资源管理、心理学、工商管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1.参与招聘、培训、员工关系等人力资源工作； 2.协助开展人才发展、组织建设及人才培养项目； 3.参与人力资源数据分析与相关报告编制； 4.推动人力资源制度、流程及项目落地实施； 5.支持业务部门人才管理需求，提供人力资源专业支持。",
+      "jobRequirements": "1.2027届硕士及以上学历，人力资源管理、心理学、工商管理等相关专业优先； 2.具备良好的沟通协调能力、组织能力和服务意识： 3.对人力资源工作有浓厚兴趣，具备较强的数据分析和逻辑思维能力： 4.熟练使用Office办公软件，具备数据处理能力者优先； 5.责任心强，学习能力和执行力突出，具备良好的团队协作精神。",
+      "JD": "1.参与招聘、培训、员工关系等人力资源工作； 2.协助开展人才发展、组织建设及人才培养项目； 3.参与人力资源数据分析与相关报告编制； 4.推动人力资源制度、流程及项目落地实施； 5.支持业务部门人才管理需求，提供人力资源专业支持。\n1.2027届硕士及以上学历，人力资源管理、心理学、工商管理等相关专业优先； 2.具备良好的沟通协调能力、组织能力和服务意识： 3.对人力资源工作有浓厚兴趣，具备较强的数据分析和逻辑思维能力： 4.熟练使用Office办公软件，具备数据处理能力者优先； 5.责任心强，学习能力和执行力突出，具备良好的团队协作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.2027届硕士及以上学历，人力资源管理、心理学、工商管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-10-01"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=5dbec5d4-f5a7-4e53-bfb7-4d9ca71820c2",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-10-01"
     },
     {
       "id": "beisen-fa43bae8fd50",
@@ -3020,6 +3388,179 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
+    },
+    {
+      "id": "beisen-787a5959c71d",
+      "company": "泰康保险",
+      "title": "人寿-北京分公司-企划岗位（2027校招）(J89878)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科或以上学历，金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、根据总公司个险组织发展规划，协助制定并分解分公司工作计划和年度目标，确保达成； 2、根据分公司市场增员特点，配合组织发展节奏，制订组织发展政策、方案及下级机构分解方案，确保其积极有效地发挥作用。 3、定期追踪、督导与推动各项人力目标达成； 4、提出报表需求，进行报表数据分析，对分公司及下级机构组发现状与问题进行分析和提示； 5、定期对所辖机构组织发展推进情况进行考核、评估，形成考核结果并提交分公司领导参考; 6、研发设计组织发展工具，常态招募的企划宣传支持，如海报、视频、各类活动等宣传工具制作与推广； 7、负责推动落实辖区内人力发展的预算及费用管理。 8、其他上级领导交办事项。",
+      "jobRequirements": "1、本科或以上学历，金融、保险、市场、教育等相关专业； 2、熟悉寿险各种业务知识、丰富的寿险培训经验、具有较强的市场洞察力、组织协调能力、沟通能力和管理能力。",
+      "JD": "1、根据总公司个险组织发展规划，协助制定并分解分公司工作计划和年度目标，确保达成； 2、根据分公司市场增员特点，配合组织发展节奏，制订组织发展政策、方案及下级机构分解方案，确保其积极有效地发挥作用。 3、定期追踪、督导与推动各项人力目标达成； 4、提出报表需求，进行报表数据分析，对分公司及下级机构组发现状与问题进行分析和提示； 5、定期对所辖机构组织发展推进情况进行考核、评估，形成考核结果并提交分公司领导参考; 6、研发设计组织发展工具，常态招募的企划宣传支持，如海报、视频、各类活动等宣传工具制作与推广； 7、负责推动落实辖区内人力发展的预算及费用管理。 8、其他上级领导交办事项。\n1、本科或以上学历，金融、保险、市场、教育等相关专业； 2、熟悉寿险各种业务知识、丰富的寿险培训经验、具有较强的市场洞察力、组织协调能力、沟通能力和管理能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科或以上学历，金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、根据总公司个险组织发展规划，协助制定并分解分公司工作计划和年度目标，确保达成；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=8faf6e1a-f79c-40df-8054-57b067ed0c2c",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b05596e3fb90",
+      "company": "泰康保险",
+      "title": "泰康口腔校招-经营规划（2027届）(J89710)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，经管、医疗类相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "经管、医疗类相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1.负责公司年度经营指标的贯彻实施工作，确保规划的可执行及落地； 2.开展齿科行业发展趋势、用户行为、商业模式、盈利模式等研究分析，并形成专题研究报告； 3.承接战略落地的相关工作，完成相关报告撰写； 4.完成领导交办的其他事项。",
+      "jobRequirements": "1.硕士及以上学历，经管、医疗类相关专业； 2.2027届应届生，具有咨询公司实习经验者优先； 3.具有一定行业沉淀及敏锐的商业洞察力，细致耐心，思维敏捷，沟通能力强。",
+      "JD": "1.负责公司年度经营指标的贯彻实施工作，确保规划的可执行及落地； 2.开展齿科行业发展趋势、用户行为、商业模式、盈利模式等研究分析，并形成专题研究报告； 3.承接战略落地的相关工作，完成相关报告撰写； 4.完成领导交办的其他事项。\n1.硕士及以上学历，经管、医疗类相关专业； 2.2027届应届生，具有咨询公司实习经验者优先； 3.具有一定行业沉淀及敏锐的商业洞察力，细致耐心，思维敏捷，沟通能力强。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，经管、医疗类相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届应届生，具有咨询公司实习经验者优先"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=0931b814-7643-4503-ad36-3eb8cd4a0bc6",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-10-01"
     },
     {
       "id": "beisen-0402259ee224",
@@ -6994,6 +7535,261 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
+    },
+    {
+      "id": "beisen-25bdd1a62c62",
+      "company": "泰康保险",
+      "title": "人寿-河北分公司-招聘与员工关系岗（2027校招）(J89642)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科或以上学历，金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "河北省·石家庄市/唐山市/邢台市/承德市/衡水市/廊坊市/张家口市/邯郸市/秦皇岛市/沧州市/保定市",
+      "jobDescription": "一、招聘管理： 1.依据分公司的人力资源计划和各部门的招聘需求，组织开展招聘活动，满足人员需求； 2.指导与相关外部机构联系，搭建有效的招聘网络，指导中支的招聘工作； 二、员工关系管理： 1.员工关系管理：负责分公司员工的一档和二档保管整理，办理员工新进、晋升、异动、离职手续； 2.劳动争议的处理：负责处理员工与公司之间的劳动关系争议，参加劳动仲裁，保证劳动关系的合规性和合法性；",
+      "jobRequirements": "1、本科或以上学历，金融、保险、市场、教育等相关专业； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "一、招聘管理： 1.依据分公司的人力资源计划和各部门的招聘需求，组织开展招聘活动，满足人员需求； 2.指导与相关外部机构联系，搭建有效的招聘网络，指导中支的招聘工作； 二、员工关系管理： 1.员工关系管理：负责分公司员工的一档和二档保管整理，办理员工新进、晋升、异动、离职手续； 2.劳动争议的处理：负责处理员工与公司之间的劳动关系争议，参加劳动仲裁，保证劳动关系的合规性和合法性；\n1、本科或以上学历，金融、保险、市场、教育等相关专业； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科或以上学历，金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 一、招聘管理： 1.依据分公司的人力资源计划和各部门的招聘需求，组织开展招聘活动，"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=683a78c0-7f73-4c27-806e-2b562b07e812",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-17f945fb2841",
+      "company": "泰康保险",
+      "title": "人寿-北京分公司-大健康服务岗位（2027校招）(J89880)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，金融、保险、法律、数学、医学与统计专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、根据公司理赔各项政策规定，按要求执行理赔制度、规则与流程。 2、负责理赔时效管理，跟踪理赔案件全流程，对理赔特殊案件进行管理（包括拒付件、申诉件、超期件等），提升理赔时效。 3、负责理赔品质管理，管控高额赔付风险，完善品质管理体系，做好理赔案件管理，妥善处置理赔投诉、诉讼等。 4、对接理赔服务管理，包括理赔满意度管理、康乃馨理赔服务、探视服务、健保通服务、赔后慢病管理，绿通协助服务等，以服务促销售。 5、理赔服务宣传推广，包括销售人员理赔知识培训，理赔数据案例编写等。 6、负责健保通直赔、快赔及高端医疗直付案件的流程管理及客户沟通，追踪结案率等核心指标，管控服务品质。 7、负责分支机构个人与团体理赔业务管理，建立完善分级管理体系。 8、参与下辖机构队伍专业化建设，做好专业培训及常态化辅导。 9、落实理赔端内外部合规、客户信息真实性、风控及反洗钱等要求。 10、负责当地及下辖机构医疗健康网络拓展（健保通/体检/齿科/绿通/高端网络）、系统对接及网络维护（合作协议管理、供应商管理、服务费用管理等）。 11、对接自有医疗生态合作，包括泰康自建医院、诊所、已投资医院的项目合作等。 12、负责定点医院管理及医院信息维护，对高风险案件进行风险控制与管理。 13、协同落实总分公司个人医疗险销售支持的各项政策、举措。 14、提供个人医疗险及健康管理服务相关的销售赋能、专业培训。 15、负责总公司健康管理服务落地承接、分公司自主开展健康管理服务全流程管理实施。 16、推动当地医疗健康网络深度合作，萃取收集案例，进行宣传推广。 17、负责客户的就医安排、现场导诊陪诊、协助预授权、欠款追讨、投诉沟通等，对接管理陪诊服务供应商，保障服务品质和客户体验。 18、协同其他死差贡献型产品的销售支持。 19、其他上级领导交办事项。",
+      "jobRequirements": "本科及以上学历，金融、保险、法律、数学、医学与统计专业优先",
+      "JD": "1、根据公司理赔各项政策规定，按要求执行理赔制度、规则与流程。 2、负责理赔时效管理，跟踪理赔案件全流程，对理赔特殊案件进行管理（包括拒付件、申诉件、超期件等），提升理赔时效。 3、负责理赔品质管理，管控高额赔付风险，完善品质管理体系，做好理赔案件管理，妥善处置理赔投诉、诉讼等。 4、对接理赔服务管理，包括理赔满意度管理、康乃馨理赔服务、探视服务、健保通服务、赔后慢病管理，绿通协助服务等，以服务促销售。 5、理赔服务宣传推广，包括销售人员理赔知识培训，理赔数据案例编写等。 6、负责健保通直赔、快赔及高端医疗直付案件的流程管理及客户沟通，追踪结案率等核心指标，管控服务品质。 7、负责分支机构个人与团体理赔业务管理，建立完善分级管理体系。 8、参与下辖机构队伍专业化建设，做好专业培训及常态化辅导。 9、落实理赔端内外部合规、客户信息真实性、风控及反洗钱等要求。 10、负责当地及下辖机构医疗健康网络拓展（健保通/体检/齿科/绿通/高端网络）、系统对接及网络维护（合作协议管理、供应商管理、服务费用管理等）。 11、对接自有医疗生态合作，包括泰康自建医院、诊所、已投资医院的项目合作等。 12、负责定点医院管理及医院信息维护，对高风险案件进行风险控制与管理。 13、协同落实总分公司个人医疗险销售支持的各项政策、举措。 14、提供个人医疗险及健康管理服务相关的销售赋能、专业培训。 15、负责总公司健康管理服务落地承接、分公司自主开展健康管理服务全流程管理实施。 16、推动当地医疗健康网络深度合作，萃取收集案例，进行宣传推广。 17、负责客户的就医安排、现场导诊陪诊、协助预授权、欠款追讨、投诉沟通等，对接管理陪诊服务供应商，保障服务品质和客户体验。 18、协同其他死差贡献型产品的销售支持。 19、其他上级领导交办事项。\n本科及以上学历，金融、保险、法律、数学、医学与统计专业优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "本科及以上学历，金融、保险、法律、数学、医学与统计专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "客户关系"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、根据公司理赔各项政策规定，按要求执行理赔制度、规则与流程。 2、负责理赔时效管"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=0105ad65-3a0d-4328-b99e-ca0ac3c04cda",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7cb9a4f54097",
+      "company": "泰康保险",
+      "title": "泰康口腔校招-口腔健康管理（2027届）(J89714)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届本科及以上学历，口腔医学、护理学、公共卫生、健康管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 接待到店客户，开展口腔健康科普宣教，讲解口腔预防、日常维护等知识，建立客户口腔保健意识； 2. 全程跟进客户就诊流程，关注客户就诊感受，做好就诊前后关怀，优化客户就医体验； 3. 配合医生解读口腔检查情况，通俗讲解口腔健康问题与对应方案，客观解答客户疑问； 4. 建立客户健康档案，做好客户随访与长期口腔健康跟踪，维护客户关系； 5. 协助开展口腔健康科普活动，传递口腔健康理念，提升客户满意度。",
+      "jobRequirements": "1. 2027届本科及以上学历，口腔医学、护理学、公共卫生、健康管理等相关专业优先； 2. 热爱健康服务行业，善于沟通表达，耐心细致，共情能力强，重视客户感受； 3. 具备良好服务意识，愿意学习口腔专业知识，擅长科普宣教； 4. 逻辑清晰，有较强的客户服务意识，责任心强，团队协作良好。",
+      "JD": "1. 接待到店客户，开展口腔健康科普宣教，讲解口腔预防、日常维护等知识，建立客户口腔保健意识； 2. 全程跟进客户就诊流程，关注客户就诊感受，做好就诊前后关怀，优化客户就医体验； 3. 配合医生解读口腔检查情况，通俗讲解口腔健康问题与对应方案，客观解答客户疑问； 4. 建立客户健康档案，做好客户随访与长期口腔健康跟踪，维护客户关系； 5. 协助开展口腔健康科普活动，传递口腔健康理念，提升客户满意度。\n1. 2027届本科及以上学历，口腔医学、护理学、公共卫生、健康管理等相关专业优先； 2. 热爱健康服务行业，善于沟通表达，耐心细致，共情能力强，重视客户感受； 3. 具备良好服务意识，愿意学习口腔专业知识，擅长科普宣教； 4. 逻辑清晰，有较强的客户服务意识，责任心强，团队协作良好。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届本科及以上学历，口腔医学、护理学、公共卫生、健康管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=2630b574-c798-471e-beb4-1e5c0ef2921d",
+      "publishedAt": "2026-10-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-10-01"
     },
     {
       "id": "beisen-f5e889f52518",
@@ -12837,6 +13633,2525 @@
       "deadline": "2028-06-08"
     },
     {
+      "id": "beisen-a024f9720b86",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-太原本部-组训岗（2027校招）(J89844)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·太原市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=082474f0-ce23-4ba2-9033-ce21b87796b9",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-342b3f175843",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-晋中中支-组训岗（2027校招）(J89845)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·晋中市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=ecc41767-c423-4af7-8ae3-93434b051b76",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-5e3ffc0067db",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-运城中支-组训岗（2027校招）(J89846)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·运城市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=3558f6d6-74e1-494b-a743-b98d3e534016",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-eeccb0621961",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-长治中支-组训岗（2027校招）(J89847)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·长治市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=03c8720e-7171-414c-af2d-e7031b39e267",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-59a1b9011de6",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-晋城中支-组训岗（2027校招）(J89848)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·晋城市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=fad4cd83-1ae5-49d4-8e53-a04af33b75be",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-170dbf62f52c",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-吕梁中支-组训岗（2027校招）(J89849)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·吕梁市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=9a05a531-9167-447c-90fc-054078f80783",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c38d20f9a1b7",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-阳泉中支-组训岗（2027校招）(J89850)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·阳泉市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=dfba8e93-d7f2-4655-9345-37bf1b00bf7f",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-daca0ede91b9",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-朔州中支-组训岗（2027校招）(J89851)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·朔州市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=46194ed2-2297-413c-8bd5-9717ddb49c1e",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-19619c47db96",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-忻州中支-组训岗（2027校招）(J89852)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·忻州市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=d66c8d61-3d41-44fc-b037-42a0537c3cb3",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-22a579f607c5",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-大同中支-组训岗（2027校招）(J89853)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·大同市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=71ba8a0a-0f75-452c-ba3e-d46a1e3f87c0",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f56ab8125608",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司-临汾中支-组训岗（2027校招）(J89854)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·临汾市",
+      "jobDescription": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议",
+      "jobRequirements": "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "JD": "1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制定营销发展计划和推动方案，协助组织策划各类激励活动，编制和管理各类考核与业务统计报表。 3.组织实施职场训练及各类会议\n1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027年本科及以上学历应届毕业生，数学、统计、IT、医学、市场营销、电子商务、管理学、社会学、财务、法律等理工科相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1.推动各层级代理人晋升，辅导展业，推动组织业绩及人力发展目标的达成. 2.协助制"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=f6eaeaf4-55b1-4ef0-a9a3-456276426939",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-0f39c75c062e",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-眼科医师(J89762)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=a567a5d9-3d48-413b-ac6e-158ff2861163",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-32234836f4fd",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-心血管内科医师(J89773)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=74dff522-06c1-41d3-8c20-27ad1f204d64",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-661dbb366850",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-普通外科医师(J89776)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=53bd5615-4f6e-45e6-9db9-599c6d79af21",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-837f538511bd",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-神经外科医师(J89777)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=7c6b2017-df17-4a6e-af5c-846ab4052abd",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-13377530e5fe",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-骨科医师(J89778)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=666631e6-0c12-4233-a520-a08d99538d1c",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-725c6b4d84ec",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-泌尿外科医师(J89779)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=b9754c1c-8a3d-4c9c-9c3d-d655a258561c",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-91eb6b86f86a",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-妇产科医师(J89781)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=b29cd859-8286-4255-bc7d-11620c3187c9",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-54b190266369",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-肿瘤科医师(J89782)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=b119b65f-4e4e-4229-9853-84ff5a1f6d81",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-27c73a088fdc",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-麻醉科医师(J89788)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=a28b3097-5d6e-4ef7-8251-fba47645f46a",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-35985428f437",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-眼科医师(J89803)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=67b377bf-d21e-4df6-a3f3-5b14e7de7440",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-067528a6e999",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-消化内科医师(J89813)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=cedf227a-2069-47de-ac9c-9330374fb9db",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-587f0d4d7f54",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-心血管内科医师(J89814)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=e7704181-da5c-4058-aabb-40c479a97c7b",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1e86f3553fb3",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-普通外科医师(J89817)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=85bb5888-11bd-42b4-a8cb-a2af1c1980ea",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a7f04cdc7085",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-神经外科医师(J89818)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=b5cc3eab-30ba-4457-96bb-d2414b891c9a",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c375d67a90c4",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-骨科医师(J89819)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=04889290-50ac-45a9-bf7c-2822e2bb6956",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d1800e74ccf0",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-泌尿外科医师(J89820)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=2b8e506f-537e-4e06-9f96-b2866a09fca3",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-bcf13d649f05",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-妇产科医师(J89822)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=2ba3324f-b534-40ca-a6cb-6f0888caae74",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1c4a27530d3a",
+      "company": "泰康保险",
+      "title": "泰康医疗-泰康仙林鼓楼医院-肿瘤科医师(J89823)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "博士",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "负责科室医师相关工作",
+      "jobRequirements": "博士及以上学历，有相应的执业资格证书",
+      "JD": "负责科室医师相关工作\n博士及以上学历，有相应的执业资格证书",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责科室医师相关工作 博士及以上学历，有相应的执业资格证书 公司官方北森校招岗位；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=99fe203f-4082-4ecd-a2c4-c673b63b2ed3",
+      "publishedAt": "2026-10-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-82ecfadc12bc",
+      "company": "泰康保险",
+      "title": "人寿-河北分公司-组织发展岗（2027校招）(J89641)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1.2027届应届毕业生，本科及以上学历，数理统计、保险、金融、经济或市场营销相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "河北省·石家庄市/唐山市/秦皇岛市/保定市/沧州市/衡水市/承德市/邢台市/邯郸市/张家口市/廊坊市",
+      "jobDescription": "一、组发方案推动 1、根据分公司工作计划和年度目标，推动机构组发工作开展； 2、根据本地市场增员特点，配合组织发展节奏，制订组织发展政策、方案及下级机构分解方案，确保其积极有效地发挥作用。 二、组发技术开发与推动 1、总结、提炼人力发展优秀技术，并进行植入、推广，支持人力发展目标达成； 2、总结、提炼人力发展优秀案例，树立典型，并在分公司内推广。 三、荣誉体系建设：结合机构情况组织发展专项荣誉体系并推动落地。 四、优增优聘推动：落实总公司优增优育政策要求，制定机构相应分解政策并推动落实。 五、根据实际需求，对外勤团队及下级机构招募活动等的支持与赋能。 六、对新人出勤、转化、晋升的过程及结果管理，及时推动机构提升新人的有效率。",
+      "jobRequirements": "1.2027届应届毕业生，本科及以上学历，数理统计、保险、金融、经济或市场营销相关专业优先； 2.熟练掌握OFFICE操作和OA办公自动化管理； 3.较强的语言表达能力，文字处理能力，较强的组织协调能力和沟通能力。",
+      "JD": "一、组发方案推动 1、根据分公司工作计划和年度目标，推动机构组发工作开展； 2、根据本地市场增员特点，配合组织发展节奏，制订组织发展政策、方案及下级机构分解方案，确保其积极有效地发挥作用。 二、组发技术开发与推动 1、总结、提炼人力发展优秀技术，并进行植入、推广，支持人力发展目标达成； 2、总结、提炼人力发展优秀案例，树立典型，并在分公司内推广。 三、荣誉体系建设：结合机构情况组织发展专项荣誉体系并推动落地。 四、优增优聘推动：落实总公司优增优育政策要求，制定机构相应分解政策并推动落实。 五、根据实际需求，对外勤团队及下级机构招募活动等的支持与赋能。 六、对新人出勤、转化、晋升的过程及结果管理，及时推动机构提升新人的有效率。\n1.2027届应届毕业生，本科及以上学历，数理统计、保险、金融、经济或市场营销相关专业优先； 2.熟练掌握OFFICE操作和OA办公自动化管理； 3.较强的语言表达能力，文字处理能力，较强的组织协调能力和沟通能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1.2027届应届毕业生，本科及以上学历，数理统计、保险、金融、经济或市场营销相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "7",
+        "min": 7,
+        "max": 7,
+        "scope": "job",
+        "display": "7人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7 7 一、组发方案推动 1、根据分公司工作计划和年度目标，推动机构组发工作开展； 2、根"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=46b2de5d-d682-41d2-830b-b992ec3d9159",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b0adbf12e64f",
+      "company": "泰康保险",
+      "title": "人寿-江西分公司人员管理岗（2027校招）(J89607)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "一、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江西省·南昌市/萍乡市",
+      "jobDescription": "一、考核及佣金管理：负责执行公司营销员基本法，负责计算营销员佣金并发放； 二、合规及品质管理：负责营销员招募、签约、异动、复职等行为管理，协调解决各类业务纠纷，维护公司品牌形象； 三、队伍培训：负责公司营销管理人员培训工作，提高其专业及系统操作技能。",
+      "jobRequirements": "一、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业。 二、熟练掌握OFFICE、WPS 等办公软件的使用。 三、具备较强的组织协调能力、表达沟通能力、行为管理能力和抗压能力。",
+      "JD": "一、考核及佣金管理：负责执行公司营销员基本法，负责计算营销员佣金并发放； 二、合规及品质管理：负责营销员招募、签约、异动、复职等行为管理，协调解决各类业务纠纷，维护公司品牌形象； 三、队伍培训：负责公司营销管理人员培训工作，提高其专业及系统操作技能。\n一、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业。 二、熟练掌握OFFICE、WPS 等办公软件的使用。 三、具备较强的组织协调能力、表达沟通能力、行为管理能力和抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "一、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 一、考核及佣金管理：负责执行公司营销员基本法，负责计算营销员佣金并发放； 二、合规"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=892b74bf-3374-49a7-90ef-bebf72255e4e",
+      "publishedAt": "2026-09-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-130c19f143cf",
       "company": "泰康保险",
       "title": "泰康养老-甘肃-合规法律与风险管理岗(J89597)",
@@ -16944,8 +20259,8 @@
       },
       "location": "河北省·石家庄市/唐山市/邢台市/承德市/衡水市/廊坊市/张家口市/邯郸市/秦皇岛市/保定市/沧州市",
       "jobDescription": "1、按照总公司要求建立完善个险序列督导体系，有效的推动各层级业务进度；设计制定有效的的督导方案，保证方案的顺利执行，配合企划岗推动个险全年及各阶段业务进展； 2、组织好业务竞赛活动、会议； 监控日常个险业务，指导中支、支公司、营业部各项营销活动的开展和落实；反馈机构各项业务活动进度和问题；根据机构经营情况，进行现场督导，提供指导意见； 3、按总公司要求收集统计报送个险业绩指标；",
-      "jobRequirements": "本科或以上学历，金融、保险、市场、教育等相关专业；熟悉寿险各种业务知识、丰富的寿险培训经验、具有较强的市场洞察力、组织协调能力、沟通能力和管理能力。",
-      "JD": "1、按照总公司要求建立完善个险序列督导体系，有效的推动各层级业务进度；设计制定有效的的督导方案，保证方案的顺利执行，配合企划岗推动个险全年及各阶段业务进展； 2、组织好业务竞赛活动、会议； 监控日常个险业务，指导中支、支公司、营业部各项营销活动的开展和落实；反馈机构各项业务活动进度和问题；根据机构经营情况，进行现场督导，提供指导意见； 3、按总公司要求收集统计报送个险业绩指标；\n本科或以上学历，金融、保险、市场、教育等相关专业；熟悉寿险各种业务知识、丰富的寿险培训经验、具有较强的市场洞察力、组织协调能力、沟通能力和管理能力。",
+      "jobRequirements": "本科或以上学历，金融、保险、市场、教育等相关专业；具有较强的市场洞察力、组织协调能力、沟通能力和管理能力。",
+      "JD": "1、按照总公司要求建立完善个险序列督导体系，有效的推动各层级业务进度；设计制定有效的的督导方案，保证方案的顺利执行，配合企划岗推动个险全年及各阶段业务进展； 2、组织好业务竞赛活动、会议； 监控日常个险业务，指导中支、支公司、营业部各项营销活动的开展和落实；反馈机构各项业务活动进度和问题；根据机构经营情况，进行现场督导，提供指导意见； 3、按总公司要求收集统计报送个险业绩指标；\n本科或以上学历，金融、保险、市场、教育等相关专业；具有较强的市场洞察力、组织协调能力、沟通能力和管理能力。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [

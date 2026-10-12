@@ -1,7 +1,7 @@
 {
   "company": "岚图汽车",
-  "count": 19,
-  "updatedAt": "2026-09-28T00:43:08.810Z",
+  "count": 17,
+  "updatedAt": "2026-10-12T02:17:57.676Z",
   "jobs": [
     {
       "id": "moka-911c60023c3b",
@@ -279,7 +279,94 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/7cbc4df2-40f5-42e7-bb6e-5d1f6dca3935",
-      "publishedAt": "2026-09-24",
+      "publishedAt": "2026-10-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
+    },
+    {
+      "id": "moka-dcf0f5be8c37",
+      "company": "岚图汽车",
+      "title": "研发项目管理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "商品开发 产品研发类",
+      "jobRequirements": "",
+      "JD": "商品开发 产品研发类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/dfb6a6d4-c4b5-4711-990e-7971d28d1703",
+      "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -469,38 +556,34 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
     },
     {
-      "id": "moka-4ceb8643cc3d",
+      "id": "moka-7c91b8125a5a",
       "company": "岚图汽车",
-      "title": "追光-整车开发",
+      "title": "智能座舱",
       "graduationYear": [
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "博士",
+        "min": "",
         "masterRequired": false
       },
       "major": {
-        "raw": "专业要求车辆工程、机械工程、材料科学与工程、高分子材料、环境工程、人工智能、计算机科学与技术、控制科学与工程等相关专业博士学历",
-        "hardRestriction": true,
-        "hardClauses": [
-          "专业要求车辆工程、机械工程、材料科学与工程、高分子材料、环境工程、人工智能、计算机科学与技术、控制科学与工程等相关专业博士学历"
-        ]
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
       },
       "language": {
         "raw": "",
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "武汉",
-      "jobDescription": "发布于 2026-08-14 30 - 60 K/月 | 整车开发 整车开发 | 全职 全职 | 湖北·武汉市 湖北·武汉市 岗位职责整车性能集成研究方向：1、牵头整车多性能耦合机理研究，从物理本质层面，量化不同性能之间的影响路径、作用强度与非线性规律，构建机理与 AI 数据驱动融合的多性能协同优化模型，突破动力经济性、NVH、安全性能、热管理、空气动力学、底盘动力学、轻量化、耐久等跨性能耦合技术瓶颈；2、研发面向性能正向开发的智能代理模型与全局优化算法，替代传统高成本仿真迭代，形成可复用的集成设计方法论与算法工具链，支撑整车性能标杆达成。3、研究整车级性能目标向系统、零部件层级的正向分解方法，设计多性能解耦策略与优化架构（如协同优化法、目标级联法、多目标进化算法等），在几十上百个设计变量、数十项性能约束下，寻找全局最优的参数组合。整车平台架构与总布置开发研究方向：1、牵头搭建智能化数字模型，通过AI手段检索行业最新前沿技术及发展趋势，指导平台架构技术迭代路线制定。2、负责统筹空间布置、人机工程以及各系统布置匹配关系。牵头整车级布置创新设计并推动系统集成化、模块化开发为整车降本、减重、提效赋能。主导整车架构总布置创新设计与AI 智能化设计方法研究，牵头搭建总布置智能生成与自动校验工具链，推动总布置开发体系向数字化、智能化升级。3、基于平台定位，统筹整车NVH、安全、轻量化、热管理等核心性能，完成整车级性能目标拆解、系统边界定义。解决平台开发过程中多系统冲突、性能不匹配等技术难题，形成平台化解决方案与技术沉淀。任职要求1. 整车性能集成研究方向：深入掌握整车多性能耦合的物理本质与作用规律，精通 NVH、结构耐久、碰撞安全、动力经济性、热管理、空气动力学、底盘动力学中至少两类性能的开发理论与失效机理；具备从机理层面解析跨性能冲突、定位根因问题的能力。具备基于机器学习/深度学习的性能预测、代理模型构建、智能优化算法的研究与开发经验者优先；2. 整车平台架构与总布置开发研究方向：熟悉整车开发流程、整车平台架构开发逻辑、整车总布置开发体系，掌握整车人机工程、空间校核、整车性能集成关系。有AI 辅助布置生成、拓扑优化、空间智能规划相关研究或项目经历优先；4. 综合素养：具备独立科研攻关与技术落地能力，逻辑清晰、创新能力强，可对接研发、试验、量产全流程，有相关论文、专利、项目经验者优先。专业要求车辆工程、机械工程、材料科学与工程、高分子材料、环境工程、人工智能、计算机科学与技术、控制科学与工程等相关专业博士学历。 岗位职责 整车性能集成研究方向：1、牵头整车多性能耦合机理研究，从物理本质层面，量化不同性能之间的影响路径、作用强度与非线性规律，构建机理与 AI 数据驱动融合的多性能协同优化模型，突破动力经济性、NVH、安全性能、热管理、空气动力学、底盘动力学、轻量化、耐久等跨性能耦合技术瓶颈；2、研发面向性能正向开发的智能代理模型与全局优化算法，替代传统高成本仿真迭代，形成可复用的集成设计方法论与算法工具链，支撑整车性能标杆达成。3、研究整车级性能目标向系统、零部件层级的正向分解方法，设计多性能解耦策略与优化架构（如协同优化法、目标级联法、多目标进化算法等），在几十上百个设计变量、数十项性能约束下，寻找全局最优的参数组合。 整车平台架构与总布置开发研究方向：1、牵头搭建智能化数字模型，通过AI手段检索行业最新前沿技术及发展趋势，指导平台架构技术迭代路线制定。2、负责统筹空间布置、人机工程以及各系统布置匹配关系。牵头整车级布置创新设计并推动系统集成化、模块化开发为整车降本、减重、提效赋能。主导整车架构总布置创新设计与AI 智能化设计方法研究，牵头搭建总布置智能生成与自动校验工具链，推动总布置开发体系向数字化、智能化升级。3、基于平台定位，统筹整车NVH、安全、轻量化、热管理等核心性能，完成整车级性能目标拆解、系统边界定义。解决平台开发过程中多系统冲突、性能不匹配等技术难题，形成平台化解决方案与技术沉淀。 任职要求 1. 整车性能集成研究方向：深入掌握整车多性能耦合的物理本质与作用规律，精通 NVH、结构耐久、碰撞安全、动力经济性、热管理、空气动力学、底盘动力学中至少两类性能的开发理论与失效机理；具备从机理层面解析跨性能冲突、定位根因问题的能力。具备基于机器学习/深度学习的性能预测、代理模型构建、智能优化算法的研究与开发经验者优先； 2. 整车平台架构与总布置开发研究方向：熟悉整车开发流程、整车平台架构开发逻辑、整车总布置开发体系，掌握整车人机工程、空间校核、整车性能集成关系。有AI 辅助布置生成、拓扑优化、空间智能规划相关研究或项目经历优先； 4. 综合素养：具备独立科研攻关与技术落地能力，逻辑清晰、创新能力强，可对接研发、试验、量产全流程，有相关论文、专利、项目经验者优先。 专业要求 车辆工程、机械工程、材料科学与工程、高分子材料、环境工程、人工智能、计算机科学与技术、控制科学与工程等相关专业博士学历。 2027届追光计划允许投递3次，请选择适合的职位进行投递 立即投递",
+      "location": "北京",
+      "jobDescription": "智能座舱 产品研发类 北京市朝阳区乐成中心B座21层",
       "jobRequirements": "",
-      "JD": "发布于 2026-08-14 30 - 60 K/月 | 整车开发 整车开发 | 全职 全职 | 湖北·武汉市 湖北·武汉市 岗位职责整车性能集成研究方向：1、牵头整车多性能耦合机理研究，从物理本质层面，量化不同性能之间的影响路径、作用强度与非线性规律，构建机理与 AI 数据驱动融合的多性能协同优化模型，突破动力经济性、NVH、安全性能、热管理、空气动力学、底盘动力学、轻量化、耐久等跨性能耦合技术瓶颈；2、研发面向性能正向开发的智能代理模型与全局优化算法，替代传统高成本仿真迭代，形成可复用的集成设计方法论与算法工具链，支撑整车性能标杆达成。3、研究整车级性能目标向系统、零部件层级的正向分解方法，设计多性能解耦策略与优化架构（如协同优化法、目标级联法、多目标进化算法等），在几十上百个设计变量、数十项性能约束下，寻找全局最优的参数组合。整车平台架构与总布置开发研究方向：1、牵头搭建智能化数字模型，通过AI手段检索行业最新前沿技术及发展趋势，指导平台架构技术迭代路线制定。2、负责统筹空间布置、人机工程以及各系统布置匹配关系。牵头整车级布置创新设计并推动系统集成化、模块化开发为整车降本、减重、提效赋能。主导整车架构总布置创新设计与AI 智能化设计方法研究，牵头搭建总布置智能生成与自动校验工具链，推动总布置开发体系向数字化、智能化升级。3、基于平台定位，统筹整车NVH、安全、轻量化、热管理等核心性能，完成整车级性能目标拆解、系统边界定义。解决平台开发过程中多系统冲突、性能不匹配等技术难题，形成平台化解决方案与技术沉淀。任职要求1. 整车性能集成研究方向：深入掌握整车多性能耦合的物理本质与作用规律，精通 NVH、结构耐久、碰撞安全、动力经济性、热管理、空气动力学、底盘动力学中至少两类性能的开发理论与失效机理；具备从机理层面解析跨性能冲突、定位根因问题的能力。具备基于机器学习/深度学习的性能预测、代理模型构建、智能优化算法的研究与开发经验者优先；2. 整车平台架构与总布置开发研究方向：熟悉整车开发流程、整车平台架构开发逻辑、整车总布置开发体系，掌握整车人机工程、空间校核、整车性能集成关系。有AI 辅助布置生成、拓扑优化、空间智能规划相关研究或项目经历优先；4. 综合素养：具备独立科研攻关与技术落地能力，逻辑清晰、创新能力强，可对接研发、试验、量产全流程，有相关论文、专利、项目经验者优先。专业要求车辆工程、机械工程、材料科学与工程、高分子材料、环境工程、人工智能、计算机科学与技术、控制科学与工程等相关专业博士学历。 岗位职责 整车性能集成研究方向：1、牵头整车多性能耦合机理研究，从物理本质层面，量化不同性能之间的影响路径、作用强度与非线性规律，构建机理与 AI 数据驱动融合的多性能协同优化模型，突破动力经济性、NVH、安全性能、热管理、空气动力学、底盘动力学、轻量化、耐久等跨性能耦合技术瓶颈；2、研发面向性能正向开发的智能代理模型与全局优化算法，替代传统高成本仿真迭代，形成可复用的集成设计方法论与算法工具链，支撑整车性能标杆达成。3、研究整车级性能目标向系统、零部件层级的正向分解方法，设计多性能解耦策略与优化架构（如协同优化法、目标级联法、多目标进化算法等），在几十上百个设计变量、数十项性能约束下，寻找全局最优的参数组合。 整车平台架构与总布置开发研究方向：1、牵头搭建智能化数字模型，通过AI手段检索行业最新前沿技术及发展趋势，指导平台架构技术迭代路线制定。2、负责统筹空间布置、人机工程以及各系统布置匹配关系。牵头整车级布置创新设计并推动系统集成化、模块化开发为整车降本、减重、提效赋能。主导整车架构总布置创新设计与AI 智能化设计方法研究，牵头搭建总布置智能生成与自动校验工具链，推动总布置开发体系向数字化、智能化升级。3、基于平台定位，统筹整车NVH、安全、轻量化、热管理等核心性能，完成整车级性能目标拆解、系统边界定义。解决平台开发过程中多系统冲突、性能不匹配等技术难题，形成平台化解决方案与技术沉淀。 任职要求 1. 整车性能集成研究方向：深入掌握整车多性能耦合的物理本质与作用规律，精通 NVH、结构耐久、碰撞安全、动力经济性、热管理、空气动力学、底盘动力学中至少两类性能的开发理论与失效机理；具备从机理层面解析跨性能冲突、定位根因问题的能力。具备基于机器学习/深度学习的性能预测、代理模型构建、智能优化算法的研究与开发经验者优先； 2. 整车平台架构与总布置开发研究方向：熟悉整车开发流程、整车平台架构开发逻辑、整车总布置开发体系，掌握整车人机工程、空间校核、整车性能集成关系。有AI 辅助布置生成、拓扑优化、空间智能规划相关研究或项目经历优先； 4. 综合素养：具备独立科研攻关与技术落地能力，逻辑清晰、创新能力强，可对接研发、试验、量产全流程，有相关论文、专利、项目经验者优先。 专业要求 车辆工程、机械工程、材料科学与工程、高分子材料、环境工程、人工智能、计算机科学与技术、控制科学与工程等相关专业博士学历。 2027届追光计划允许投递3次，请选择适合的职位进行投递 立即投递",
+      "JD": "智能座舱 产品研发类 北京市朝阳区乐成中心B座21层",
       "jdEvidence": {
         "source": "regex-v1",
-        "majorClauses": [
-          "专业要求车辆工程、机械工程、材料科学与工程、高分子材料、环境工程、人工智能、计算机科学与技术、控制科学与工程等相关专业博士学历"
-        ],
+        "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届"
         ],
@@ -511,10 +594,7 @@
         "其他"
       ],
       "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "数据"
-      ],
+      "experienceKeywords": [],
       "preferenceTags": [],
       "riskTags": [],
       "headcount": {
@@ -529,27 +609,27 @@
         "evidence": ""
       },
       "compensation": {
-        "disclosed": true,
-        "raw": "30 - 60 K",
-        "monthlyMin": 30000,
-        "monthlyMax": 60000,
-        "annualMin": 360000,
-        "annualMax": 720000,
-        "salaryMonths": 12,
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
         "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "3万–6万/月",
-        "annualDisplay": "36万–72万/年（按12薪推算）",
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
         "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "30 - 60 K 公司官方 Moka 校招岗位；投递前请打开官方职位页确"
+        "confidence": "none",
+        "evidence": ""
       },
-      "salary": "30 - 60 K",
-      "monthlySalary": "3万–6万/月",
-      "annualSalary": "36万–72万/年（按12薪推算）",
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/5a7107f5-ae9a-4d0c-9bbb-7296a166e088",
-      "publishedAt": "",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/1a407cbd-8365-47e4-b12e-da9c4c6d8a9f",
+      "publishedAt": "2026-10-12",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -893,255 +973,6 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
     },
     {
-      "id": "moka-f05a51461879",
-      "company": "岚图汽车",
-      "title": "智能驾驶",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "智能驾驶 产品研发类",
-      "jobRequirements": "",
-      "JD": "智能驾驶 产品研发类",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/534b3ad5-25c4-49eb-855f-682e841b4ce6",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
-    },
-    {
-      "id": "moka-f3359da723d1",
-      "company": "岚图汽车",
-      "title": "动力系统",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "动力系统 产品研发类",
-      "jobRequirements": "",
-      "JD": "动力系统 产品研发类",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/8554e523-4c39-448f-a1df-7bf3d3cfe1e8",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
-    },
-    {
-      "id": "moka-94c947437117",
-      "company": "岚图汽车",
-      "title": "数字化发展",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "数字化发展 产品研发类",
-      "jobRequirements": "",
-      "JD": "数字化发展 产品研发类",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4777a4cb-471d-4406-ae5e-57806b6ea2ff",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
-    },
-    {
       "id": "moka-d3b2517a53aa",
       "company": "岚图汽车",
       "title": "智能产品平台",
@@ -1215,89 +1046,6 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4ff5484c-b028-4fbe-afb4-198159bfdec3",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
-    },
-    {
-      "id": "moka-e27a58524ceb",
-      "company": "岚图汽车",
-      "title": "产品企划与体验",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "产品企划与体验 产品研发类",
-      "jobRequirements": "",
-      "JD": "产品企划与体验 产品研发类",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/620d72c8-871b-43ae-bc4c-6a452f83dee1",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
@@ -1391,9 +1139,9 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
     },
     {
-      "id": "moka-dcf0f5be8c37",
+      "id": "moka-8aa5de4244f5",
       "company": "岚图汽车",
-      "title": "商品开发",
+      "title": "制造管理",
       "graduationYear": [
         "2027"
       ],
@@ -1413,9 +1161,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "商品开发 产品研发类",
+      "jobDescription": "制造管理 智能制造（合同制）",
       "jobRequirements": "",
-      "JD": "商品开发 产品研发类",
+      "JD": "制造管理 智能制造（合同制）",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -1463,7 +1211,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/dfb6a6d4-c4b5-4711-990e-7971d28d1703",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/35001356-90bc-4af2-bc09-4b69c9b1fdde",
       "publishedAt": "2026-08-27",
       "lastVerified": "",
       "sourceType": "official",
@@ -1474,9 +1222,9 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
     },
     {
-      "id": "moka-d5e0b1839d2b",
+      "id": "moka-4f022ec61563",
       "company": "岚图汽车",
-      "title": "造型中心",
+      "title": "制造技术",
       "graduationYear": [
         "2027"
       ],
@@ -1496,9 +1244,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "造型中心 产品研发类",
+      "jobDescription": "制造技术 智能制造（合同制）",
       "jobRequirements": "",
-      "JD": "造型中心 产品研发类",
+      "JD": "制造技术 智能制造（合同制）",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -1546,8 +1294,91 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/b65704a2-486b-4d6c-b6ea-c47286e977f9",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/daf1d07e-3deb-404a-8efd-4943e6a0d6be",
       "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
+    },
+    {
+      "id": "moka-4ceb8643cc3d",
+      "company": "岚图汽车",
+      "title": "追光-整车开发",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "整车开发 产品研发类",
+      "jobRequirements": "",
+      "JD": "整车开发 产品研发类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/5a7107f5-ae9a-4d0c-9bbb-7296a166e088",
+      "publishedAt": "2026-08-14",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
