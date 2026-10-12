@@ -161,6 +161,10 @@ export const sourceRegistry = [
     "company": "东风汽车集团有限公司"
   },
   {
+    "provider": "moka",
+    "company": "兆易创新"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },
@@ -417,6 +421,10 @@ export const sourceRegistry = [
     "company": "日丰企业集团有限公司"
   },
   {
+    "provider": "beisen",
+    "company": "优艾智合"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },
@@ -523,6 +531,10 @@ export const sourceRegistry = [
   {
     "provider": "hotjob",
     "company": "歌尔股份"
+  },
+  {
+    "provider": "hotjob",
+    "company": "昂立教育"
   },
   {
     "provider": "anker",
