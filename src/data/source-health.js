@@ -993,7 +993,7 @@ export const sourceHealth = {
       "company": "腾讯",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 12 个错误"
+      "reason": "来源抓取存在 11 个错误"
     },
     {
       "provider": "bytedance",
@@ -1005,9 +1005,9 @@ export const sourceHealth = {
     {
       "provider": "meituan",
       "company": "美团",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量196，源内保留193"
     },
     {
       "provider": "lenovo",
@@ -1145,9 +1145,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京外国语大学",
-      "status": "error",
+      "status": "unknown",
       "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "reason": "本轮缺少足够来源健康统计"
     },
     {
       "provider": "university",
@@ -1208,9 +1208,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "西安外国语大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量26，源内保留1"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
@@ -1524,11 +1524,11 @@ export const sourceHealth = {
   "counts": {
     "healthy": 148,
     "empty": 10,
-    "error": 12,
-    "unknown": 47
+    "error": 11,
+    "unknown": 48
   },
   "total": 217,
   "healthy": 148,
   "attention": 69,
-  "updatedAt": "2026-10-13T16:58:18.989Z"
+  "updatedAt": "2026-10-13T20:45:30.797Z"
 };
