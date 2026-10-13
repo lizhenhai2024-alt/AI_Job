@@ -1,7 +1,7 @@
 {
   "company": "小鹏汽车",
   "count": 197,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "feishu-1fdf6e-7663476504336992531",
@@ -11943,6 +11943,102 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
     },
     {
+      "id": "feishu-1fdf6e-7696060336318957867",
+      "company": "小鹏汽车",
+      "title": "【27届校招】检核提效培训生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、以OKR为载体，负责完善和运营公司各级目标从制定到复盘的机制； 2、联合数智化部门，构建目标管理的数智系统、AI工具 3、跟进对接的业务线进度与质量，及时预警风险问题，推动业务目标达成； 4、理解业务，洞察和挖掘业务中的风险点和低效环节，提出改善建议； 5、协助输出目标达成评估报告，支持战略复盘",
+      "jobRequirements": "1、本科及以上学历； 2、有想法非被动执行，善于沟通，逻辑思维、数据分析能力优良； 3、优先录用：27届可即时到岗、英文流利",
+      "JD": "1、以OKR为载体，负责完善和运营公司各级目标从制定到复盘的机制； 2、联合数智化部门，构建目标管理的数智系统、AI工具 3、跟进对接的业务线进度与质量，及时预警风险问题，推动业务目标达成； 4、理解业务，洞察和挖掘业务中的风险点和低效环节，提出改善建议； 5、协助输出目标达成评估报告，支持战略复盘\n1、本科及以上学历； 2、有想法非被动执行，善于沟通，逻辑思维、数据分析能力优良； 3、优先录用：27届可即时到岗、英文流利",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "27届校招",
+          "27届可即时到岗"
+        ],
+        "technicalDuties": [
+          "开发实现"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小鹏汽车官方飞书招聘",
+      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7696060336318957867/detail",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
+    },
+    {
       "id": "feishu-1fdf6e-7695686895612168475",
       "company": "小鹏汽车",
       "title": "【27届校招】制造专业培训生（工艺质量管理方向）",
@@ -12117,97 +12213,6 @@
       "source": "小鹏汽车官方飞书招聘",
       "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7695624933589862699/detail",
       "publishedAt": "2026-10-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→AI测评→笔试（部分岗位）→面试→offer→签约入职",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116251.html | 2026-09-17"
-    },
-    {
-      "id": "feishu-1fdf6e-7694941224676100406",
-      "company": "小鹏汽车",
-      "title": "【27届校招】检核提效培训生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "1、以OKR为载体，负责完善和运营公司各级目标从制定到复盘的机制； 2、联合数智化部门，构建目标管理的数智系统、AI工具 3、跟进对接的业务线进度与质量，及时预警风险问题，推动业务目标达成； 4、理解业务，洞察和挖掘业务中的风险点和低效环节，提出改善建议； 5、协助输出目标达成评估报告，支持战略复盘",
-      "jobRequirements": "1、本科及以上学历； 2、有想法非被动执行，善于沟通，逻辑思维、数据分析能力优良； 3、优先录用：27届可即时到岗、英文流利",
-      "JD": "1、以OKR为载体，负责完善和运营公司各级目标从制定到复盘的机制； 2、联合数智化部门，构建目标管理的数智系统、AI工具 3、跟进对接的业务线进度与质量，及时预警风险问题，推动业务目标达成； 4、理解业务，洞察和挖掘业务中的风险点和低效环节，提出改善建议； 5、协助输出目标达成评估报告，支持战略复盘\n1、本科及以上学历； 2、有想法非被动执行，善于沟通，逻辑思维、数据分析能力优良； 3、优先录用：27届可即时到岗、英文流利",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历；"
-        ],
-        "eligibilityClauses": [
-          "优先录用：27届可即时到岗、英文流利"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "数据",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小鹏汽车官方飞书招聘",
-      "officialURL": "https://xiaopeng.jobs.feishu.cn/campus/m/position/7694941224676100406/detail",
-      "publishedAt": "2026-10-10",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -14088,11 +14093,11 @@
       ],
       "education": {
         "raw": "",
-        "min": "硕士",
-        "masterRequired": true
+        "min": "本科",
+        "masterRequired": false
       },
       "major": {
-        "raw": "5、编制车身外饰相关技术文件、开发总结、问题复盘材料，沉淀专业知识与工程经验；1、硕士及以上学历，机械工程、车辆工程、材料工程等相关专业优先",
+        "raw": "5、编制车身外饰相关技术文件、开发总结、问题复盘材料，沉淀专业知识与工程经验；1、本科及以上学历，机械工程、车辆工程、材料工程等相关专业优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -14103,13 +14108,13 @@
       },
       "location": "广州",
       "jobDescription": "1、车身外饰不仅是“车的外观”，更是产品科技感、品质感和高级感的重要入口，是整车硬件架构平台的核心基石，是汽车物理AI的关键构成。 2、加入小鹏汽车车身外饰团队，你将有机会接触并参与 AI 调光玻璃、全景隔热隔音天幕、先进一体化压铸车体架构、全维安全车身系统、智能门盖系统、剪刀鹏翼门、智能交互前保、自适应空气动力学套件等前沿产品与技术方向，在真实车型项目中掌握车身外饰系统的工程实现，一同在物理AI世界中成就自我。 3、该岗位为车身外饰大类岗位，涵盖上车身、下车身、外饰、前后盖、车门、车身外饰集成等方向，参与具体模块的设计开发与项目交付。 你将参与： 1、负责车身或外饰相关零部件的正向设计开发，包括方案制定、结构设计、数据发布、试制验证及问题闭环； 2、参与车身外饰系统与造型、质量、供应商等多方协同，推动设计方案在整车项目中落地； 3、参与整车外观精致感知、结构可靠性、轻量化、制造可行性、装配匹配等工程问题分析与优化； 4、围绕玻璃系统、门盖系统、外饰系统、白车身结构、车身集成匹配等方向，参与新技术、新结构、新工艺的工程化落地； 5、编制车身外饰相关技术文件、开发总结、问题复盘材料，沉淀专业知识与工程经验。",
-      "jobRequirements": "我们希望你： 1、硕士及以上学历，机械工程、车辆工程、材料工程等相关专业优先； 2、具备良好的机械结构基础，熟悉三维建模、工程制图、材料/力学基础知识，有车身、外饰、结构设计、CAE、制造工艺等项目经历者优先； 3、具备一定英语读写能力，能够阅读和撰写日常工作所需英文资料，大学英语六级优先； 4、对智能电动车、车身结构、外饰设计开发等有兴趣，愿意在真实量产项目中解决复杂工程问题； 5、学习能力强，沟通协同意识好，能够主动拆解问题、推进闭环。",
-      "JD": "1、车身外饰不仅是“车的外观”，更是产品科技感、品质感和高级感的重要入口，是整车硬件架构平台的核心基石，是汽车物理AI的关键构成。 2、加入小鹏汽车车身外饰团队，你将有机会接触并参与 AI 调光玻璃、全景隔热隔音天幕、先进一体化压铸车体架构、全维安全车身系统、智能门盖系统、剪刀鹏翼门、智能交互前保、自适应空气动力学套件等前沿产品与技术方向，在真实车型项目中掌握车身外饰系统的工程实现，一同在物理AI世界中成就自我。 3、该岗位为车身外饰大类岗位，涵盖上车身、下车身、外饰、前后盖、车门、车身外饰集成等方向，参与具体模块的设计开发与项目交付。 你将参与： 1、负责车身或外饰相关零部件的正向设计开发，包括方案制定、结构设计、数据发布、试制验证及问题闭环； 2、参与车身外饰系统与造型、质量、供应商等多方协同，推动设计方案在整车项目中落地； 3、参与整车外观精致感知、结构可靠性、轻量化、制造可行性、装配匹配等工程问题分析与优化； 4、围绕玻璃系统、门盖系统、外饰系统、白车身结构、车身集成匹配等方向，参与新技术、新结构、新工艺的工程化落地； 5、编制车身外饰相关技术文件、开发总结、问题复盘材料，沉淀专业知识与工程经验。\n我们希望你： 1、硕士及以上学历，机械工程、车辆工程、材料工程等相关专业优先； 2、具备良好的机械结构基础，熟悉三维建模、工程制图、材料/力学基础知识，有车身、外饰、结构设计、CAE、制造工艺等项目经历者优先； 3、具备一定英语读写能力，能够阅读和撰写日常工作所需英文资料，大学英语六级优先； 4、对智能电动车、车身结构、外饰设计开发等有兴趣，愿意在真实量产项目中解决复杂工程问题； 5、学习能力强，沟通协同意识好，能够主动拆解问题、推进闭环。",
+      "jobRequirements": "我们希望你： 1、本科及以上学历，机械工程、车辆工程、材料工程等相关专业优先； 2、具备良好的机械结构基础，熟悉三维建模、工程制图、材料/力学基础知识，有车身、外饰、结构设计、CAE、制造工艺等项目经历者优先； 3、具备一定英语读写能力，能够阅读和撰写日常工作所需英文资料，大学英语六级优先； 4、对智能电动车、车身结构、外饰设计开发等有兴趣，愿意在真实量产项目中解决复杂工程问题； 5、学习能力强，沟通协同意识好，能够主动拆解问题、推进闭环。",
+      "JD": "1、车身外饰不仅是“车的外观”，更是产品科技感、品质感和高级感的重要入口，是整车硬件架构平台的核心基石，是汽车物理AI的关键构成。 2、加入小鹏汽车车身外饰团队，你将有机会接触并参与 AI 调光玻璃、全景隔热隔音天幕、先进一体化压铸车体架构、全维安全车身系统、智能门盖系统、剪刀鹏翼门、智能交互前保、自适应空气动力学套件等前沿产品与技术方向，在真实车型项目中掌握车身外饰系统的工程实现，一同在物理AI世界中成就自我。 3、该岗位为车身外饰大类岗位，涵盖上车身、下车身、外饰、前后盖、车门、车身外饰集成等方向，参与具体模块的设计开发与项目交付。 你将参与： 1、负责车身或外饰相关零部件的正向设计开发，包括方案制定、结构设计、数据发布、试制验证及问题闭环； 2、参与车身外饰系统与造型、质量、供应商等多方协同，推动设计方案在整车项目中落地； 3、参与整车外观精致感知、结构可靠性、轻量化、制造可行性、装配匹配等工程问题分析与优化； 4、围绕玻璃系统、门盖系统、外饰系统、白车身结构、车身集成匹配等方向，参与新技术、新结构、新工艺的工程化落地； 5、编制车身外饰相关技术文件、开发总结、问题复盘材料，沉淀专业知识与工程经验。\n我们希望你： 1、本科及以上学历，机械工程、车辆工程、材料工程等相关专业优先； 2、具备良好的机械结构基础，熟悉三维建模、工程制图、材料/力学基础知识，有车身、外饰、结构设计、CAE、制造工艺等项目经历者优先； 3、具备一定英语读写能力，能够阅读和撰写日常工作所需英文资料，大学英语六级优先； 4、对智能电动车、车身结构、外饰设计开发等有兴趣，愿意在真实量产项目中解决复杂工程问题； 5、学习能力强，沟通协同意识好，能够主动拆解问题、推进闭环。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
           "5、编制车身外饰相关技术文件、开发总结、问题复盘材料，沉淀专业知识与工程经验",
-          "1、硕士及以上学历，机械工程、车辆工程、材料工程等相关专业优先"
+          "1、本科及以上学历，机械工程、车辆工程、材料工程等相关专业优先"
         ],
         "eligibilityClauses": [
           "招聘对象：2027届"
@@ -18206,7 +18211,7 @@
     {
       "id": "feishu-1fdf6e-7686783666715380009",
       "company": "小鹏汽车",
-      "title": "【27届校招】智造培训生（电池品质方向-肇庆）",
+      "title": "【27届校招】智造专业培训生（电池品质方向-肇庆）",
       "graduationYear": [
         "2027"
       ],

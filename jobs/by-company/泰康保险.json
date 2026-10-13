@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 311,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "count": 312,
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -7885,6 +7885,91 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=823f02e1-9b9d-434a-8da6-5f833dc3d831",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7b7b7a9c79f9",
+      "company": "泰康保险",
+      "title": "人寿总公司-办公室/董办-新闻宣传岗（2027校招）(J89962)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士研究生及以上学历，金融、保险、中文、新闻等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、根据公司业务需要，对接各个业务部门，组织采写新闻稿件； 2、组织新闻媒体活动，建立并维护良好的媒体合作关系； 3、编写公司新闻宣传口径、审核分公司宣传活动； 4、负责官微等新媒体平台的日常运营、内容更新与维护，提升品牌影响力。",
+      "jobRequirements": "1、硕士研究生及以上学历，金融、保险、中文、新闻等相关专业优先； 2、具备扎实的文字功底和较强的沟通表达能力。",
+      "JD": "1、根据公司业务需要，对接各个业务部门，组织采写新闻稿件； 2、组织新闻媒体活动，建立并维护良好的媒体合作关系； 3、编写公司新闻宣传口径、审核分公司宣传活动； 4、负责官微等新媒体平台的日常运营、内容更新与维护，提升品牌影响力。\n1、硕士研究生及以上学历，金融、保险、中文、新闻等相关专业优先； 2、具备扎实的文字功底和较强的沟通表达能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士研究生及以上学历，金融、保险、中文、新闻等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、根据公司业务需要，对接各个业务部门，组织采写新闻稿件； 2、组织新闻媒体活动，"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=ed523270-e7ca-4caa-b23e-9d6de5276fac",
+      "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

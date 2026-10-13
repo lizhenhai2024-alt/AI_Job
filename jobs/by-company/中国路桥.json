@@ -1,7 +1,7 @@
 {
   "company": "中国路桥",
-  "count": 158,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "count": 159,
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "beisen-fef4dd791a1e",
@@ -5117,6 +5117,88 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
+    },
+    {
+      "id": "beisen-446ecf6537cd",
+      "company": "中国路桥",
+      "title": "2027届港机重工精益管理岗(J49102)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科学历，工业工程、机械等相关经验，中共党员优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1.设计和优化生产流程，提高生产效率和产品质量； 2. 应用精益思想改进制造过程，降低成本并增加产品价值； 3. 组织和推动团队进行问题识别和解决，实现持续改进； 4.负责配合人力资源人力招聘、劳动关系管理等部分事务性工作； 5.负责完成上级安排的其他工作任务。",
+      "jobRequirements": "1. 本科学历，工业工程、机械等相关经验，中共党员优先； 2. 具备良好的沟通和领导能力，能够有效带领团队完成任务。",
+      "JD": "1.设计和优化生产流程，提高生产效率和产品质量； 2. 应用精益思想改进制造过程，降低成本并增加产品价值； 3. 组织和推动团队进行问题识别和解决，实现持续改进； 4.负责配合人力资源人力招聘、劳动关系管理等部分事务性工作； 5.负责完成上级安排的其他工作任务。\n1. 本科学历，工业工程、机械等相关经验，中共党员优先； 2. 具备良好的沟通和领导能力，能够有效带领团队完成任务。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科学历，工业工程、机械等相关经验，中共党员优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-08-31"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "7K-10K 元/月",
+        "monthlyMin": 7000,
+        "monthlyMax": 10000,
+        "annualMin": 84000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "7k–1万/月",
+        "annualDisplay": "8.4万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "7K-10K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "7K-10K 元/月",
+      "monthlySalary": "7k–1万/月",
+      "annualSalary": "8.4万–12万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=2d7e7789-b8ed-487f-a538-4d0e5a0263a6",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-08-31"
     },
     {
       "id": "beisen-6ab301520392",

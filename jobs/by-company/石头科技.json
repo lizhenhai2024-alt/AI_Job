@@ -1,8 +1,101 @@
 {
   "company": "石头科技",
-  "count": 16,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "count": 17,
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
+    {
+      "id": "beisen-888f8ea85294",
+      "company": "石头科技",
+      "title": "海外销售运营岗（北美）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "岗位介绍 为北美销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运转，赋能一线销售达成业绩目标。 岗位职责 1. 负责北美区域销售数据整合，制作周报/月报，完成销售预测、渠道进销存监控，识别业务异动。 2. 维护CRM客户数据库，保证客户信息、订单数据准确，协助渠道分级、客户台账管理。 3. 协助落地渠道政策、返利规则、销售流程，制作报价模板、销售工具包，赋能一线销售。 4. 跨部门协同供应链、财务团队，跟进订单履约、对账，协调解决交付、回款类业务卡点。 5. 支撑业务复盘会议，准备经营分析材料，沉淀运营流程，持续优化区域销售效率。",
+      "jobRequirements": "任职要求 1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先。 2. 具备强数据分析能力，细心严谨，强数据意识，做事闭环。 3. 具备优秀的多方协同能力，强业务思维，强目标感和韧性。",
+      "JD": "岗位介绍 为北美销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运转，赋能一线销售达成业绩目标。 岗位职责 1. 负责北美区域销售数据整合，制作周报/月报，完成销售预测、渠道进销存监控，识别业务异动。 2. 维护CRM客户数据库，保证客户信息、订单数据准确，协助渠道分级、客户台账管理。 3. 协助落地渠道政策、返利规则、销售流程，制作报价模板、销售工具包，赋能一线销售。 4. 跨部门协同供应链、财务团队，跟进订单履约、对账，协调解决交付、回款类业务卡点。 5. 支撑业务复盘会议，准备经营分析材料，沉淀运营流程，持续优化区域销售效率。\n任职要求 1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先。 2. 具备强数据分析能力，细心严谨，强数据意识，做事闭环。 3. 具备优秀的多方协同能力，强业务思维，强目标感和韧性。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上应届生，英语流利且能作为工作语言，有一线销售/销售运营/数据分析实习优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "海外运营",
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 岗位介绍 为北美销售团队提供数据、流程、渠道管理全方面支撑，保障区域销售业务高效运"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://roborock.zhiye.com/campus/detail?jobAdId=9c7f0bb1-cccf-4944-af38-5de5667ebf0c",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
     {
       "id": "beisen-102f89d8d660",
       "company": "石头科技",

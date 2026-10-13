@@ -1,7 +1,7 @@
 {
   "company": "比亚迪",
   "count": 47,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "byd-15eee88d6334",
@@ -1463,92 +1463,6 @@
       "deadline": ""
     },
     {
-      "id": "byd-4e416203a32b",
-      "company": "比亚迪",
-      "title": "高级人才发展专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "硕士学历，优先人力资源相关专业；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1、负责干部岗位管理与干部任免发文台账管理； 2、负责参与干部梯队运营项目，提高干部梯队提拔率； 3、负责推动干部选拔、培养、任期、轮岗等生命周期管理工作； 4、负责推动科长选、育、用、留环节工作；",
-      "jobRequirements": "1、硕士学历，优先人力资源相关专业； 2、具备较强的逻辑思维和数据分析能力，熟练掌握办公软件； 3、有较强的项目设计和管理能力，较强的逻辑能力、跨部门沟通能力； 4、方案撰写能力强，具备较强的业务洞察能力和执行推动力。",
-      "JD": "1、负责干部岗位管理与干部任免发文台账管理； 2、负责参与干部梯队运营项目，提高干部梯队提拔率； 3、负责推动干部选拔、培养、任期、轮岗等生命周期管理工作； 4、负责推动科长选、育、用、留环节工作；\n1、硕士学历，优先人力资源相关专业； 2、具备较强的逻辑思维和数据分析能力，熟练掌握办公软件； 3、有较强的项目设计和管理能力，较强的逻辑能力、跨部门沟通能力； 4、方案撰写能力强，具备较强的业务洞察能力和执行推动力。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "硕士学历，优先人力资源相关专业；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "跨部门沟通"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "比亚迪2027届校园招聘官网",
-      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
-      "publishedAt": "2026-08-27",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
       "id": "byd-90376938d5e9",
       "company": "比亚迪",
       "title": "高级绩效管理专员",
@@ -1595,6 +1509,92 @@
       ],
       "experienceKeywords": [
         "运营",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "比亚迪2027届校园招聘官网",
+      "officialURL": "https://job.byd.com/portal/pc/#/school/schoolPositionList",
+      "publishedAt": "2026-08-27",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "byd-4e416203a32b",
+      "company": "比亚迪",
+      "title": "高级人才发展专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "硕士学历，优先人力资源相关专业；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1、负责干部岗位管理与干部任免发文台账管理； 2、负责参与干部梯队运营项目，提高干部梯队提拔率； 3、负责推动干部选拔、培养、任期、轮岗等生命周期管理工作； 4、负责推动科长选、育、用、留环节工作；",
+      "jobRequirements": "1、硕士学历，优先人力资源相关专业； 2、具备较强的逻辑思维和数据分析能力，熟练掌握办公软件； 3、有较强的项目设计和管理能力，较强的逻辑能力、跨部门沟通能力； 4、方案撰写能力强，具备较强的业务洞察能力和执行推动力。",
+      "JD": "1、负责干部岗位管理与干部任免发文台账管理； 2、负责参与干部梯队运营项目，提高干部梯队提拔率； 3、负责推动干部选拔、培养、任期、轮岗等生命周期管理工作； 4、负责推动科长选、育、用、留环节工作；\n1、硕士学历，优先人力资源相关专业； 2、具备较强的逻辑思维和数据分析能力，熟练掌握办公软件； 3、有较强的项目设计和管理能力，较强的逻辑能力、跨部门沟通能力； 4、方案撰写能力强，具备较强的业务洞察能力和执行推动力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士学历，优先人力资源相关专业；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
         "数据"
       ],
       "preferenceTags": [],

@@ -1,7 +1,7 @@
 {
   "company": "蜜雪冰城",
-  "count": 12,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "count": 14,
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "beisen-5b88f97dbdf7",
@@ -279,6 +279,191 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=521a532f-379b-43a3-b0c3-d32fb35a1d0a",
       "publishedAt": "2026-09-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→测评/初筛(投递后3日内完成测评)→初试→复试→Offer",
+      "recruitmentProcessEvidence": "E2 | 蜜雪冰城校招官网 | https://mxbc1997.zhiye.com/campus | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 蜜雪冰城校招官网 | https://mxbc1997.zhiye.com/campus | 2026-09-17"
+    },
+    {
+      "id": "beisen-94c5570a9279",
+      "company": "蜜雪冰城",
+      "title": "2027届校招-生产管理方向(J13417)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届本科及以上学历，生产管理等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "生产管理等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、负责辖区生产现场全面管理，统筹设备、人员及安全等资源，制定并执行生产计划，跟踪生产进度，确保生产流程顺畅与产品按时交付。 2、负责生产过程质量管控，监督质量控制执行，及时发现并解决生产异常问题，确保产品符合食品安全与质量管理体系要求。 3、负责生产流程与现场管理持续优化，改进管理方法，提升生产效率与管理水平，降低生产成本。 4、负责跨部门沟通与资源协调，推动生产任务高效完成，并落实生产安全、人员管理等相关工作。",
+      "jobRequirements": "1、2027届本科及以上学历，生产管理等相关专业; 2、具备良好的业务理解能力与逻辑思维; 3、出色的沟通表达与协调能力，能适应跨部门协作，有项目实践或社团组织经验者优先; 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "JD": "1、负责辖区生产现场全面管理，统筹设备、人员及安全等资源，制定并执行生产计划，跟踪生产进度，确保生产流程顺畅与产品按时交付。 2、负责生产过程质量管控，监督质量控制执行，及时发现并解决生产异常问题，确保产品符合食品安全与质量管理体系要求。 3、负责生产流程与现场管理持续优化，改进管理方法，提升生产效率与管理水平，降低生产成本。 4、负责跨部门沟通与资源协调，推动生产任务高效完成，并落实生产安全、人员管理等相关工作。\n1、2027届本科及以上学历，生产管理等相关专业; 2、具备良好的业务理解能力与逻辑思维; 3、出色的沟通表达与协调能力，能适应跨部门协作，有项目实践或社团组织经验者优先; 4、高度团队意识，认同蜜雪企业文化，对饮品行业有浓厚兴趣与发展热情。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "2027届本科及以上学历，生产管理等相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历"
+        ],
+        "technicalDuties": [
+          "问题根因"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-10K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 10000,
+        "annualMin": 72000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–1万/月",
+        "annualDisplay": "7.2万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-10K 元/月 公司官方北森校招岗位；识别关键词：跨部门沟通。"
+      },
+      "salary": "6K-10K 元/月",
+      "monthlySalary": "6k–1万/月",
+      "annualSalary": "7.2万–12万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=7ed69099-ee29-487e-9968-f4665b2610f0",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→测评/初筛(投递后3日内完成测评)→初试→复试→Offer",
+      "recruitmentProcessEvidence": "E2 | 蜜雪冰城校招官网 | https://mxbc1997.zhiye.com/campus | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 蜜雪冰城校招官网 | https://mxbc1997.zhiye.com/campus | 2026-09-17"
+    },
+    {
+      "id": "beisen-b19fdadbef7c",
+      "company": "蜜雪冰城",
+      "title": "2027届校招-工程造价方向(J13459)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届本科及以上学历，工程造价、工程管理、建筑装饰等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "河南省·郑州市",
+      "jobDescription": "1.能看懂装修施工图，熟悉装饰施工工序、清单计价等规则； 2.熟练 CAD、Excel（数据透视表、函数）、造价计量计价等软件； 3.熟悉装修材料、人工市场行情，工程量计算、组价能力强。",
+      "jobRequirements": "1.2027届本科及以上学历，工程造价、工程管理、建筑装饰等相关专业优先； 2.具备较强的数据敏感度、成本意识，细心严谨，差错管控能力强； 3.沟通协调能力强，能对接施工、供应商、加盟商处理造价争议； 4.注重团队合作，认同蜜雪文化，热爱茶饮事业。",
+      "JD": "1.能看懂装修施工图，熟悉装饰施工工序、清单计价等规则； 2.熟练 CAD、Excel（数据透视表、函数）、造价计量计价等软件； 3.熟悉装修材料、人工市场行情，工程量计算、组价能力强。\n1.2027届本科及以上学历，工程造价、工程管理、建筑装饰等相关专业优先； 2.具备较强的数据敏感度、成本意识，细心严谨，差错管控能力强； 3.沟通协调能力强，能对接施工、供应商、加盟商处理造价争议； 4.注重团队合作，认同蜜雪文化，热爱茶饮事业。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "2027届本科及以上学历，工程造价、工程管理、建筑装饰等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届本科及以上学历，工程造价、工程管理、建筑装饰等相关专业优先"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-9K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 9000,
+        "annualMin": 72000,
+        "annualMax": 108000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–9k/月",
+        "annualDisplay": "7.2万–10.8万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-9K 元/月 公司官方北森校招岗位；识别关键词：Excel。"
+      },
+      "salary": "6K-9K 元/月",
+      "monthlySalary": "6k–9k/月",
+      "annualSalary": "7.2万–10.8万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://mxbc1997.zhiye.com/campus/detail?jobAdId=369cba96-d7eb-4379-934a-d8ca2d318ee1",
+      "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

@@ -35928,5 +35928,119 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "feishu-7e6932-7696081044805830938:cc89d121133ea8a1:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "统招本科及以上学历，新闻、传播、英文等相关专业"
+  ],
+  "eligibilityClauses": [
+   "2027届"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "跨文化沟通",
+   "资料/流程"
+  ]
+ },
+ "beisen-6c329543ccd0:b3a0253e1f146f12:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "重点院校本科及以上学历，人力资源管理、心理学、教育等相关专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-94c5570a9279:9b52c991ea9e9cd3:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科及以上学历，生产管理等相关专业"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历"
+  ],
+  "technicalDuties": [
+   "问题根因"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "feishu-1fdf6e-7696060336318957867:b21fdd865bb7cc00:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "27届校招",
+   "27届可即时到岗"
+  ],
+  "technicalDuties": [
+   "开发实现"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "beisen-b19fdadbef7c:f717611ef1f62083:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届本科及以上学历，工程造价、工程管理、建筑装饰等相关专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历，工程造价、工程管理、建筑装饰等相关专业优先"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-5ba140a7a1e0:fce62dc452ff8b10:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "伊利2027届校招-电商培训生（酸奶北京）",
+   "简历接收周期：2026-10-13~2027-05-22"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-7e6932-7696081980006254875:4554bf5b17431f54:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "人力资源、经管类专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027 届应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "hotjob-14d0973fe3c2:180261ed7c02baf8:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "伊利2027届校招",
+   "简历接收周期：2026-10-13~2027-06-30"
+  ],
+  "technicalDuties": [
+   "技术评估"
+  ],
+  "businessDuties": [
+   "合同",
+   "客户关系",
+   "资料/流程"
+  ]
+ },
+ "hotjob-5833d0ed9df8:ee2322ce9dd18624:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "2027届秋招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

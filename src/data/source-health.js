@@ -104,14 +104,14 @@ export const sourceHealth = {
       "company": "特斯拉中国",
       "status": "healthy",
       "healthy": true,
-      "reason": "Moka源正常：发现360，源内保留180"
+      "reason": "Moka源正常：发现360，源内保留178"
     },
     {
       "provider": "moka",
       "company": "吉利汽车",
       "status": "healthy",
       "healthy": true,
-      "reason": "Moka源正常：发现360，源内保留327"
+      "reason": "Moka源正常：发现360，源内保留328"
     },
     {
       "provider": "moka",
@@ -125,7 +125,7 @@ export const sourceHealth = {
       "company": "智谱AI",
       "status": "healthy",
       "healthy": true,
-      "reason": "Moka源正常：发现24，源内保留8"
+      "reason": "Moka源正常：发现21，源内保留8"
     },
     {
       "provider": "moka",
@@ -146,7 +146,7 @@ export const sourceHealth = {
       "company": "博世中国",
       "status": "healthy",
       "healthy": true,
-      "reason": "Moka源正常：发现38，源内保留0"
+      "reason": "Moka源正常：发现37，源内保留0"
     },
     {
       "provider": "moka",
@@ -202,7 +202,7 @@ export const sourceHealth = {
       "company": "金山软件",
       "status": "healthy",
       "healthy": true,
-      "reason": "Moka源正常：发现46，源内保留30"
+      "reason": "Moka源正常：发现48，源内保留30"
     },
     {
       "provider": "moka",
@@ -356,7 +356,7 @@ export const sourceHealth = {
       "company": "Babycare",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描282，源内保留45"
+      "reason": "北森源正常：扫描284，源内保留45"
     },
     {
       "provider": "beisen",
@@ -370,7 +370,7 @@ export const sourceHealth = {
       "company": "锐明技术",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描89，源内保留32"
+      "reason": "北森源正常：扫描90，源内保留32"
     },
     {
       "provider": "beisen",
@@ -398,7 +398,7 @@ export const sourceHealth = {
       "company": "三一集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描144，源内保留97"
+      "reason": "北森源正常：扫描146，源内保留98"
     },
     {
       "provider": "beisen",
@@ -412,7 +412,7 @@ export const sourceHealth = {
       "company": "石头科技",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描113，源内保留38"
+      "reason": "北森源正常：扫描115，源内保留40"
     },
     {
       "provider": "beisen",
@@ -440,7 +440,7 @@ export const sourceHealth = {
       "company": "奥克斯集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描59，源内保留59"
+      "reason": "北森源正常：扫描58，源内保留58"
     },
     {
       "provider": "beisen",
@@ -475,28 +475,28 @@ export const sourceHealth = {
       "company": "金发科技",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描143，源内保留114"
+      "reason": "北森源正常：扫描144，源内保留114"
     },
     {
       "provider": "beisen",
       "company": "海信",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留405"
+      "reason": "北森源正常：扫描600，源内保留402"
     },
     {
       "provider": "beisen",
       "company": "京东方",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留563"
+      "reason": "北森源正常：扫描600，源内保留564"
     },
     {
       "provider": "beisen",
       "company": "南京埃斯顿自动化",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描66，源内保留21"
+      "reason": "北森源正常：扫描67，源内保留21"
     },
     {
       "provider": "beisen",
@@ -559,7 +559,7 @@ export const sourceHealth = {
       "company": "VESYNC",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描110，源内保留0"
+      "reason": "北森源正常：扫描111，源内保留0"
     },
     {
       "provider": "beisen",
@@ -573,14 +573,14 @@ export const sourceHealth = {
       "company": "蒙牛",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描219，源内保留112"
+      "reason": "北森源正常：扫描216，源内保留109"
     },
     {
       "provider": "beisen",
       "company": "泡泡玛特",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描323，源内保留23"
+      "reason": "北森源正常：扫描319，源内保留23"
     },
     {
       "provider": "beisen",
@@ -657,28 +657,28 @@ export const sourceHealth = {
       "company": "新东方深圳学校",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留471"
+      "reason": "北森源正常：扫描600，源内保留472"
     },
     {
       "provider": "beisen",
       "company": "中国人民保险集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留350"
+      "reason": "北森源正常：扫描600，源内保留354"
     },
     {
       "provider": "beisen",
       "company": "泰康保险",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留375"
+      "reason": "北森源正常：扫描600，源内保留372"
     },
     {
       "provider": "beisen",
       "company": "蜜雪冰城",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描58，源内保留24"
+      "reason": "北森源正常：扫描60，源内保留26"
     },
     {
       "provider": "beisen",
@@ -692,7 +692,7 @@ export const sourceHealth = {
       "company": "中国路桥",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留306"
+      "reason": "北森源正常：扫描600，源内保留305"
     },
     {
       "provider": "beisen",
@@ -713,7 +713,7 @@ export const sourceHealth = {
       "company": "赛力斯",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描327，源内保留100"
+      "reason": "北森源正常：扫描344，源内保留100"
     },
     {
       "provider": "beisen",
@@ -769,7 +769,7 @@ export const sourceHealth = {
       "company": "影石Insta360",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出348，正式2027候选11，筛选后11"
+      "reason": "官方飞书源正常：列出351，正式2027候选11，筛选后11"
     },
     {
       "provider": "feishu",
@@ -783,21 +783,21 @@ export const sourceHealth = {
       "company": "沐瞳科技",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出93，正式2027候选90，筛选后90"
+      "reason": "官方飞书源正常：列出92，正式2027候选89，筛选后89"
     },
     {
       "provider": "feishu",
       "company": "蔚来",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出881，正式2027候选428，筛选后427"
+      "reason": "官方飞书源正常：列出899，正式2027候选429，筛选后428"
     },
     {
       "provider": "feishu",
       "company": "小鹏汽车",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出603，正式2027候选506，筛选后501"
+      "reason": "官方飞书源正常：列出605，正式2027候选507，筛选后502"
     },
     {
       "provider": "feishu",
@@ -811,7 +811,7 @@ export const sourceHealth = {
       "company": "小米",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出781，正式2027候选777，筛选后756"
+      "reason": "官方飞书源正常：列出777，正式2027候选773，筛选后752"
     },
     {
       "provider": "feishu",
@@ -825,7 +825,7 @@ export const sourceHealth = {
       "company": "德赛西威",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方飞书源正常：列出109，正式2027候选108，筛选后107"
+      "reason": "官方飞书源正常：列出111，正式2027候选110，筛选后109"
     },
     {
       "provider": "feishu",
@@ -888,14 +888,14 @@ export const sourceHealth = {
       "company": "Decathlon",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出347，源内保留85"
+      "reason": "HotJob源正常：列出383，源内保留119"
     },
     {
       "provider": "hotjob",
       "company": "伊利",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出375，源内保留191"
+      "reason": "HotJob源正常：列出377，源内保留191"
     },
     {
       "provider": "hotjob",
@@ -909,7 +909,7 @@ export const sourceHealth = {
       "company": "宁德新能源科技有限公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出17，源内保留17"
+      "reason": "HotJob源正常：列出41，源内保留41"
     },
     {
       "provider": "hotjob",
@@ -937,7 +937,7 @@ export const sourceHealth = {
       "company": "新能安",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出76，源内保留76"
+      "reason": "HotJob源正常：列出84，源内保留84"
     },
     {
       "provider": "hotjob",
@@ -972,28 +972,28 @@ export const sourceHealth = {
       "company": "安克创新",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量496，源内保留183"
+      "reason": "官方源正常：本轮活动量495，源内保留183"
     },
     {
       "provider": "ecoflow",
       "company": "正浩创新EcoFlow",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量103，源内保留84"
+      "reason": "官方源正常：本轮活动量104，源内保留85"
     },
     {
       "provider": "alibaba",
       "company": "阿里巴巴",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量470，源内保留469"
     },
     {
       "provider": "tencent",
       "company": "腾讯",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 11 个错误"
+      "reason": "来源抓取存在 12 个错误"
     },
     {
       "provider": "bytedance",
@@ -1005,9 +1005,9 @@ export const sourceHealth = {
     {
       "provider": "meituan",
       "company": "美团",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量196，源内保留193"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "lenovo",
@@ -1028,7 +1028,7 @@ export const sourceHealth = {
       "company": "九号公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量109，源内保留80"
+      "reason": "官方源正常：本轮活动量110，源内保留81"
     },
     {
       "provider": "midea",
@@ -1049,14 +1049,14 @@ export const sourceHealth = {
       "company": "快手",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量279，源内保留279"
+      "reason": "官方源正常：本轮活动量278，源内保留278"
     },
     {
       "provider": "xiaohongshu",
       "company": "小红书",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量168，源内保留168"
+      "reason": "官方源正常：本轮活动量167，源内保留167"
     },
     {
       "provider": "ctrip",
@@ -1126,7 +1126,7 @@ export const sourceHealth = {
       "company": "比亚迪",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量384，源内保留81"
+      "reason": "官方源正常：本轮活动量383，源内保留81"
     },
     {
       "provider": "oppo",
@@ -1145,9 +1145,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京外国语大学",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
@@ -1208,9 +1208,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "西安外国语大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 3 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量26，源内保留1"
     },
     {
       "provider": "university",
@@ -1522,13 +1522,13 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 147,
+    "healthy": 148,
     "empty": 10,
     "error": 12,
-    "unknown": 48
+    "unknown": 47
   },
   "total": 217,
-  "healthy": 147,
-  "attention": 70,
-  "updatedAt": "2026-10-13T03:17:14.015Z"
+  "healthy": 148,
+  "attention": 69,
+  "updatedAt": "2026-10-13T16:58:18.989Z"
 };

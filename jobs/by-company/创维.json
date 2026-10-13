@@ -1,7 +1,7 @@
 {
   "company": "创维集团",
   "count": 38,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "hotjob-450bb2d6c2ee",
@@ -3070,98 +3070,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
     },
     {
-      "id": "hotjob-c27850123423",
-      "company": "创维集团",
-      "title": "生产计划工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，工业工程、物流管理、供应链管理等相关专业",
-        "hardRestriction": true,
-        "hardClauses": [
-          "工业工程、物流管理、供应链管理等相关专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "南京",
-      "jobDescription": "1、根据销售订单及滚动预测，编制月度/周度生产计划及日排程方案，并跟进执行情况； 2、协调处理生产过程中的计划异常（如物料短缺、设备故障、插单变更等），及时调整排产并确保订单按时交付； 3、监控生产进度与物料齐套情况，对接采购、仓储、生产等部门，保障物料供应与生产节奏的匹配； 4、参与产能评估与瓶颈分析，协助制定产能优化方案及中长期生产规划； 5、定期整理与输出生产计划执行报告，分析计划达成率及异常原因，推动问题闭环改善。",
-      "jobRequirements": "1、本科及以上学历，工业工程、物流管理、供应链管理等相关专业； 2、专业课成绩良好，具备良好的数据敏感度与逻辑思维能力；了解ERP系统逻辑及生产计划基本流程者优先； 3、精通Excel，能独立完成数据整理与分析报表； 4、 做事条理清晰、严谨细致，具备良好的沟通协调能力与团队合作精神，能与生产、采购、销售等部门高效协作； 5、责任心强，能适应工厂工作环境及生产旺季的快节奏。",
-      "JD": "1、根据销售订单及滚动预测，编制月度/周度生产计划及日排程方案，并跟进执行情况； 2、协调处理生产过程中的计划异常（如物料短缺、设备故障、插单变更等），及时调整排产并确保订单按时交付； 3、监控生产进度与物料齐套情况，对接采购、仓储、生产等部门，保障物料供应与生产节奏的匹配； 4、参与产能评估与瓶颈分析，协助制定产能优化方案及中长期生产规划； 5、定期整理与输出生产计划执行报告，分析计划达成率及异常原因，推动问题闭环改善。\n1、本科及以上学历，工业工程、物流管理、供应链管理等相关专业； 2、专业课成绩良好，具备良好的数据敏感度与逻辑思维能力；了解ERP系统逻辑及生产计划基本流程者优先； 3、精通Excel，能独立完成数据整理与分析报表； 4、 做事条理清晰、严谨细致，具备良好的沟通协调能力与团队合作精神，能与生产、采购、销售等部门高效协作； 5、责任心强，能适应工厂工作环境及生产旺季的快节奏。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，工业工程、物流管理、供应链管理等相关专业"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel"
-      ],
-      "experienceKeywords": [
-        "数据",
-        "供应链",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/detail?postId=6a980a7b5e09b14b2753a1bf&recruitType=1",
-      "publishedAt": "2026-09-02",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-09-02",
-      "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
-    },
-    {
       "id": "hotjob-dbae551eba41",
       "company": "创维集团",
       "title": "外贸业务助理",
@@ -3252,7 +3160,99 @@
       "publishedAt": "2026-09-02",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2027-09-02",
+      "deadline": "2026-10-20",
+      "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-c27850123423",
+      "company": "创维集团",
+      "title": "生产计划工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，工业工程、物流管理、供应链管理等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "工业工程、物流管理、供应链管理等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "南京",
+      "jobDescription": "1、根据销售订单及滚动预测，编制月度/周度生产计划及日排程方案，并跟进执行情况； 2、协调处理生产过程中的计划异常（如物料短缺、设备故障、插单变更等），及时调整排产并确保订单按时交付； 3、监控生产进度与物料齐套情况，对接采购、仓储、生产等部门，保障物料供应与生产节奏的匹配； 4、参与产能评估与瓶颈分析，协助制定产能优化方案及中长期生产规划； 5、定期整理与输出生产计划执行报告，分析计划达成率及异常原因，推动问题闭环改善。",
+      "jobRequirements": "1、本科及以上学历，工业工程、物流管理、供应链管理等相关专业； 2、专业课成绩良好，具备良好的数据敏感度与逻辑思维能力；了解ERP系统逻辑及生产计划基本流程者优先； 3、精通Excel，能独立完成数据整理与分析报表； 4、 做事条理清晰、严谨细致，具备良好的沟通协调能力与团队合作精神，能与生产、采购、销售等部门高效协作； 5、责任心强，能适应工厂工作环境及生产旺季的快节奏。",
+      "JD": "1、根据销售订单及滚动预测，编制月度/周度生产计划及日排程方案，并跟进执行情况； 2、协调处理生产过程中的计划异常（如物料短缺、设备故障、插单变更等），及时调整排产并确保订单按时交付； 3、监控生产进度与物料齐套情况，对接采购、仓储、生产等部门，保障物料供应与生产节奏的匹配； 4、参与产能评估与瓶颈分析，协助制定产能优化方案及中长期生产规划； 5、定期整理与输出生产计划执行报告，分析计划达成率及异常原因，推动问题闭环改善。\n1、本科及以上学历，工业工程、物流管理、供应链管理等相关专业； 2、专业课成绩良好，具备良好的数据敏感度与逻辑思维能力；了解ERP系统逻辑及生产计划基本流程者优先； 3、精通Excel，能独立完成数据整理与分析报表； 4、 做事条理清晰、严谨细致，具备良好的沟通协调能力与团队合作精神，能与生产、采购、销售等部门高效协作； 5、责任心强，能适应工厂工作环境及生产旺季的快节奏。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，工业工程、物流管理、供应链管理等相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "供应链",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://skyworth.hotjob.cn/SU668e3a541eb8050602c1b176/mc/detail?postId=6a980a7b5e09b14b2753a1bf&recruitType=1",
+      "publishedAt": "2026-09-02",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-10-20",
       "recruitmentProcess": "线上投递→简历筛选→笔试/测评（部分岗位）→专业面试→综合面试（人资面试）→企业适应性培训→offer",
       "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心创维校招简章 | https://career.nankai.edu.cn/correcruit/content/id/116942.html | 2026-09-17",
       "hasAssessment": "有",

@@ -1,7 +1,7 @@
 {
   "company": "宁德新能源科技有限公司",
   "count": 12,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "hotjob-55c123f10784",
@@ -906,6 +906,93 @@
       "deadline": "2027-03-04"
     },
     {
+      "id": "hotjob-5833d0ed9df8",
+      "company": "宁德新能源科技有限公司",
+      "title": "2027届秋招 客户品质工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "日语、韩语",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "宁德市",
+      "jobDescription": "1、处理客户投诉，包括与客户良好沟通、评估及控制外部风险、推动内部职能部门制定/实施有效的更正行动 2、当内部发现的问题存在逃逸至客户端的风险时，综合判断形势，必要时向上级提出召回等建议，以使问题对公司造成的损失最小 3、在新产品认证阶段，跟进每批样品的品质状况，协调相关部门解决发现的问题，以促成样品认证的顺利通过 4、当内部计划实施的产品设计、制造工艺及规格的变更中可能在客户端造成影响时做出正确判断/决定，以确保风险受控",
+      "jobRequirements": "1、极强的沟通能力，语言表达能力；会韩语或日语优先录用 2、良好的沟通协调能力及建立、维持人际关系的能力 3、优秀的数据统计分析能力，熟练使用DOE, JMP等软件 4、在质量控制/管理方面的思路清晰，坚持原则底线，具备品质系统稽核、现场品质稽核的能力 5、完善的逻辑思维能力及对问题的独立分析、判断、决策、解决能力 6、敏锐的洞察能力，清楚知道成品的使用场景和用户体验",
+      "JD": "1、处理客户投诉，包括与客户良好沟通、评估及控制外部风险、推动内部职能部门制定/实施有效的更正行动 2、当内部发现的问题存在逃逸至客户端的风险时，综合判断形势，必要时向上级提出召回等建议，以使问题对公司造成的损失最小 3、在新产品认证阶段，跟进每批样品的品质状况，协调相关部门解决发现的问题，以促成样品认证的顺利通过 4、当内部计划实施的产品设计、制造工艺及规格的变更中可能在客户端造成影响时做出正确判断/决定，以确保风险受控\n1、极强的沟通能力，语言表达能力；会韩语或日语优先录用 2、良好的沟通协调能力及建立、维持人际关系的能力 3、优秀的数据统计分析能力，熟练使用DOE, JMP等软件 4、在质量控制/管理方面的思路清晰，坚持原则底线，具备品质系统稽核、现场品质稽核的能力 5、完善的逻辑思维能力及对问题的独立分析、判断、决策、解决能力 6、敏锐的洞察能力，清楚知道成品的使用场景和用户体验",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "2027届秋招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "客户",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/mc/detail?postId=6acde242f0cfabf2b4eed549&recruitType=1",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-01-11"
+    },
+    {
       "id": "hotjob-27a63d250821",
       "company": "宁德新能源科技有限公司",
       "title": "2027届秋招 智造计划主管",
@@ -988,93 +1075,6 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/mc/detail?postId=6a7d710768cc6f624f3d8029&recruitType=1",
-      "publishedAt": "2026-08-11",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-03-04"
-    },
-    {
-      "id": "hotjob-9f83a3a1f8dd",
-      "company": "宁德新能源科技有限公司",
-      "title": "2027届秋招 客户品质工程师",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "日语、韩语",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "宁德市",
-      "jobDescription": "1、处理客户投诉，包括与客户良好沟通、评估及控制外部风险、推动内部职能部门制定/实施有效的更正行动 2、当内部发现的问题存在逃逸至客户端的风险时，综合判断形势，必要时向上级提出召回等建议，以使问题对公司造成的损失最小 3、在新产品认证阶段，跟进每批样品的品质状况，协调相关部门解决发现的问题，以促成样品认证的顺利通过 4、当内部计划实施的产品设计、制造工艺及规格的变更中可能在客户端造成影响时做出正确判断/决定，以确保风险受控",
-      "jobRequirements": "1、极强的沟通能力，语言表达能力；会韩语或日语优先录用 2、良好的沟通协调能力及建立、维持人际关系的能力 3、优秀的数据统计分析能力，熟练使用DOE, JMP等软件 4、在质量控制/管理方面的思路清晰，坚持原则底线，具备品质系统稽核、现场品质稽核的能力 5、完善的逻辑思维能力及对问题的独立分析、判断、决策、解决能力 6、敏锐的洞察能力，清楚知道成品的使用场景和用户体验",
-      "JD": "1、处理客户投诉，包括与客户良好沟通、评估及控制外部风险、推动内部职能部门制定/实施有效的更正行动 2、当内部发现的问题存在逃逸至客户端的风险时，综合判断形势，必要时向上级提出召回等建议，以使问题对公司造成的损失最小 3、在新产品认证阶段，跟进每批样品的品质状况，协调相关部门解决发现的问题，以促成样品认证的顺利通过 4、当内部计划实施的产品设计、制造工艺及规格的变更中可能在客户端造成影响时做出正确判断/决定，以确保风险受控\n1、极强的沟通能力，语言表达能力；会韩语或日语优先录用 2、良好的沟通协调能力及建立、维持人际关系的能力 3、优秀的数据统计分析能力，熟练使用DOE, JMP等软件 4、在质量控制/管理方面的思路清晰，坚持原则底线，具备品质系统稽核、现场品质稽核的能力 5、完善的逻辑思维能力及对问题的独立分析、判断、决策、解决能力 6、敏锐的洞察能力，清楚知道成品的使用场景和用户体验",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "2027届秋招"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "客户",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/mc/detail?postId=6a7d710743154813049a5999&recruitType=1",
       "publishedAt": "2026-08-11",
       "lastVerified": "",
       "sourceType": "official",

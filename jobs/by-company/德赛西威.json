@@ -1,7 +1,7 @@
 {
   "company": "德赛西威",
-  "count": 14,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "count": 16,
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "feishu-7e6932-7678553035187210522",
@@ -396,6 +396,110 @@
       "source": "德赛西威官方飞书招聘",
       "officialURL": "https://yesv-desaysv.jobs.feishu.cn/campus/m/position/7675254786145847594/detail",
       "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→在线测评→（部分岗位笔试/AI面试）→面试（一般1轮线上面试，部分岗位复试）→offer",
+      "recruitmentProcessEvidence": "E2 | 超级简历德赛西威2027校招解读 | https://www.chaojijianli.com/xiaozhao/desay-sv-2027-global-campus-recruitment-14528-e82811/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 超级简历德赛西威2027校招解读 | https://www.chaojijianli.com/xiaozhao/desay-sv-2027-global-campus-recruitment-14528-e82811/ | 2026-09-17"
+    },
+    {
+      "id": "feishu-7e6932-7696081044805830938",
+      "company": "德赛西威",
+      "title": "企业文化专员（2027届-惠州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "统招本科及以上学历，新闻、传播、英文等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "新闻、传播、英文等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "惠州",
+      "jobDescription": "1. 与公司企业文化建设，基于公司战略、业务需求完善文化落地体系并跟进相关工作； 2. 负责文化活动策划与活动运营，结合企业动态、业务重要节点、员工需求等完成相关文化活动落地，营造组织氛围； 3. 拉通区域推行文化落地，基于文化集团化管理，将文化深入全球各区域业务一线； 4. 做好内刊、微信服务号、全球园区宣传窗口及其他新媒体终端的渠道开发和运营管理工作； 5. 定期对企业文化工作效果进行调研分析与优化；",
+      "jobRequirements": "1.统招本科及以上学历，新闻、传播、英文等相关专业； 2.能用英文工作交流，有留学经验、海外/跨文化工作经验优先； 3.具有体系完善的品牌意识、优秀的文案稿件撰写能力，敏锐的传播热点感知力、出色的表达沟通和项目管理能力； 4.对视频、摄影、文字编辑有一定的了解与审美水准，会使用PS、剪映等图像视频相关软件优先； 5.具备较强的跨部门沟通协调能力、责任心、执行力及团队意识。",
+      "JD": "1. 与公司企业文化建设，基于公司战略、业务需求完善文化落地体系并跟进相关工作； 2. 负责文化活动策划与活动运营，结合企业动态、业务重要节点、员工需求等完成相关文化活动落地，营造组织氛围； 3. 拉通区域推行文化落地，基于文化集团化管理，将文化深入全球各区域业务一线； 4. 做好内刊、微信服务号、全球园区宣传窗口及其他新媒体终端的渠道开发和运营管理工作； 5. 定期对企业文化工作效果进行调研分析与优化；\n1.统招本科及以上学历，新闻、传播、英文等相关专业； 2.能用英文工作交流，有留学经验、海外/跨文化工作经验优先； 3.具有体系完善的品牌意识、优秀的文案稿件撰写能力，敏锐的传播热点感知力、出色的表达沟通和项目管理能力； 4.对视频、摄影、文字编辑有一定的了解与审美水准，会使用PS、剪映等图像视频相关软件优先； 5.具备较强的跨部门沟通协调能力、责任心、执行力及团队意识。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "统招本科及以上学历，新闻、传播、英文等相关专业"
+        ],
+        "eligibilityClauses": [
+          "2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理",
+        "跨部门沟通",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目",
+        "跨文化",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "德赛西威官方飞书招聘",
+      "officialURL": "https://yesv-desaysv.jobs.feishu.cn/campus/m/position/7696081044805830938/detail",
+      "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -880,6 +984,99 @@
       "source": "德赛西威官方飞书招聘",
       "officialURL": "https://yesv-desaysv.jobs.feishu.cn/campus/m/position/7675553260215748900/detail",
       "publishedAt": "2026-08-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→在线测评→（部分岗位笔试/AI面试）→面试（一般1轮线上面试，部分岗位复试）→offer",
+      "recruitmentProcessEvidence": "E2 | 超级简历德赛西威2027校招解读 | https://www.chaojijianli.com/xiaozhao/desay-sv-2027-global-campus-recruitment-14528-e82811/ | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 超级简历德赛西威2027校招解读 | https://www.chaojijianli.com/xiaozhao/desay-sv-2027-global-campus-recruitment-14528-e82811/ | 2026-09-17"
+    },
+    {
+      "id": "feishu-7e6932-7696081980006254875",
+      "company": "德赛西威",
+      "title": "招聘专员（2027届-惠州）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；人力资源、经管类专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "惠州",
+      "jobDescription": "1. 协助制定人才寻访策略，参与招聘岗位全流程交付，开展候选人寻访、沟通、面试跟进等工作； 2. 拓展并维护人才渠道，包括人才库、猎头、行业社群、专业平台等，搭建稳定人才供给来源； 3. 维护人才信息数据库，完成候选人信息收集、分类打标，动态更新人才信息； 4. 统计招聘相关数据，开展数据整理与分析，识别招聘卡点，输出改进建议，提升招聘效率。",
+      "jobRequirements": "1. 本科及以上学历，2027 届应届毕业生，人力资源、经管类专业优先； 2. 良好的英文听说能力，可阅读英文资料； 3. 积极主动，乐观坚韧，目标感强，能承受工作压力； 4. 优秀沟通协调能力，有信息整理、基础数据分析意识。",
+      "JD": "1. 协助制定人才寻访策略，参与招聘岗位全流程交付，开展候选人寻访、沟通、面试跟进等工作； 2. 拓展并维护人才渠道，包括人才库、猎头、行业社群、专业平台等，搭建稳定人才供给来源； 3. 维护人才信息数据库，完成候选人信息收集、分类打标，动态更新人才信息； 4. 统计招聘相关数据，开展数据整理与分析，识别招聘卡点，输出改进建议，提升招聘效率。\n1. 本科及以上学历，2027 届应届毕业生，人力资源、经管类专业优先； 2. 良好的英文听说能力，可阅读英文资料； 3. 积极主动，乐观坚韧，目标感强，能承受工作压力； 4. 优秀沟通协调能力，有信息整理、基础数据分析意识。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [
+          "本科及以上学历",
+          "人力资源、经管类专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027 届应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "德赛西威官方飞书招聘",
+      "officialURL": "https://yesv-desaysv.jobs.feishu.cn/campus/m/position/7696081980006254875/detail",
+      "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

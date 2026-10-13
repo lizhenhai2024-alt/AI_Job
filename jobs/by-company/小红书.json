@@ -1,112 +1,8 @@
 {
   "company": "小红书",
-  "count": 32,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "count": 31,
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
-    {
-      "id": "xiaohongshu-cd19bb446345",
-      "company": "小红书",
-      "title": "【2027校招】体验运营",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "7、本科及以上学历，专业不限；统计学、数学、计算机、经济学、心理学、社会学、新闻传播等相关背景优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "关于我们 社区与商业体验运营团队，关注小红书用户在社区使用与商业交易过程中的真实体验。 在社区侧，我们关注普通用户与创作者在内容浏览、搜索发现、内容发布、互动反馈、账号成长及社区规则理解与使用过程中的体验；在商业侧，我们关注广告主、商家、消费者和买手博主在广告投放、商家经营、交易履约及售后服务等环节中的体验问题。 团队通过用户反馈、行为数据和专项调研，识别影响用户体验与平台信任的关键问题；联动产品、策略、运营、客服、治理等团队，推动产品能力、平台规则、流程与服务机制持续优化。 我们也探索 AI 在体验洞察和用户服务中的应用，包括智能客服、知识库、内容理解及 Agent 等能力，让用户问题被更快识别、更有效解决，并持续减少重复发生。 你将负责 1、基于用户原声、VOC、工单、热线、问卷、评论反馈及行为数据，识别内容浏览、搜索、发布、互动、社区规则使用，以及广告投放、商家经营、交易售后等链路中的关键体验断点。 2、将复杂、分散的用户问题拆解为清晰的体验议题，结合定性反馈与定量数据输出分析报告，为产品、策略、运营和治理团队提供决策依据。 3、参与社区与商业体验专项的设计、推进和复盘，跟进解决方案落地，评估实际效果，推动问题形成闭环。 4、建立和迭代体验指标及评估口径，监测关键链路体验变化，对专项动作进行归因分析，用数据判断优先级与改善效果。 5、参与智能化体验能力建设，包括用户反馈的结构化分析、知识库、智能客服、内容理解及大模型 Agent 等方案的设计和落地。 6、与产品、策略、内容运营、商家运营、销售、客服、治理等团队协作，在规则制定、流程设计、产品迭代和应急响应中提供用户体验视角的支持。",
-      "jobRequirements": "1、具备数据分析能力，会使用 SQL 或愿意快速学习；能结合用户反馈、内容反馈与行为数据发现问题，并形成有结论、有证据、可落地的分析建议。 2、逻辑清晰、有用户视角和同理心，能够理解普通用户、创作者及商业用户的不同诉求；具备 ownership，愿意持续推动问题闭环。 3、对内容社区、平台治理、电商、广告或平台型产品有兴趣，关注内容生态、商业生态、平台规则及用户体验。 4、对 LLM、Agent、智能客服、知识库等 AI 应用有基础认知和兴趣；了解工具调用、工作流编排、知识库检索等概念者优先。 5、具备良好的沟通协作与项目推动能力，能够与产品、策略、运营、客服、治理等团队协作，在无直接汇报关系的情况下推动共识。 6、有内容社区、用户研究、平台治理、电商、广告、客户服务或数据分析相关实习/项目经历者优先。 7、本科及以上学历，专业不限；统计学、数学、计算机、经济学、心理学、社会学、新闻传播等相关背景优先。",
-      "JD": "关于我们 社区与商业体验运营团队，关注小红书用户在社区使用与商业交易过程中的真实体验。 在社区侧，我们关注普通用户与创作者在内容浏览、搜索发现、内容发布、互动反馈、账号成长及社区规则理解与使用过程中的体验；在商业侧，我们关注广告主、商家、消费者和买手博主在广告投放、商家经营、交易履约及售后服务等环节中的体验问题。 团队通过用户反馈、行为数据和专项调研，识别影响用户体验与平台信任的关键问题；联动产品、策略、运营、客服、治理等团队，推动产品能力、平台规则、流程与服务机制持续优化。 我们也探索 AI 在体验洞察和用户服务中的应用，包括智能客服、知识库、内容理解及 Agent 等能力，让用户问题被更快识别、更有效解决，并持续减少重复发生。 你将负责 1、基于用户原声、VOC、工单、热线、问卷、评论反馈及行为数据，识别内容浏览、搜索、发布、互动、社区规则使用，以及广告投放、商家经营、交易售后等链路中的关键体验断点。 2、将复杂、分散的用户问题拆解为清晰的体验议题，结合定性反馈与定量数据输出分析报告，为产品、策略、运营和治理团队提供决策依据。 3、参与社区与商业体验专项的设计、推进和复盘，跟进解决方案落地，评估实际效果，推动问题形成闭环。 4、建立和迭代体验指标及评估口径，监测关键链路体验变化，对专项动作进行归因分析，用数据判断优先级与改善效果。 5、参与智能化体验能力建设，包括用户反馈的结构化分析、知识库、智能客服、内容理解及大模型 Agent 等方案的设计和落地。 6、与产品、策略、内容运营、商家运营、销售、客服、治理等团队协作，在规则制定、流程设计、产品迭代和应急响应中提供用户体验视角的支持。\n1、具备数据分析能力，会使用 SQL 或愿意快速学习；能结合用户反馈、内容反馈与行为数据发现问题，并形成有结论、有证据、可落地的分析建议。 2、逻辑清晰、有用户视角和同理心，能够理解普通用户、创作者及商业用户的不同诉求；具备 ownership，愿意持续推动问题闭环。 3、对内容社区、平台治理、电商、广告或平台型产品有兴趣，关注内容生态、商业生态、平台规则及用户体验。 4、对 LLM、Agent、智能客服、知识库等 AI 应用有基础认知和兴趣；了解工具调用、工作流编排、知识库检索等概念者优先。 5、具备良好的沟通协作与项目推动能力，能够与产品、策略、运营、客服、治理等团队协作，在无直接汇报关系的情况下推动共识。 6、有内容社区、用户研究、平台治理、电商、广告、客户服务或数据分析相关实习/项目经历者优先。 7、本科及以上学历，专业不限；统计学、数学、计算机、经济学、心理学、社会学、新闻传播等相关背景优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "7、本科及以上学历，专业不限",
-          "统计学、数学、计算机、经济学、心理学、社会学、新闻传播等相关背景优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": [
-          "物流执行"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "内容运营",
-        "SQL",
-        "电商"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "电商",
-        "用户",
-        "数据",
-        "客户",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小红书官方2027校招官网",
-      "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22525",
-      "publishedAt": "2026-10-10",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→笔试→面试→Offer",
-      "recruitmentProcessEvidence": "E2 | 今日头条校招报道 | http://m.toutiao.com/group/7683117729359921727/ | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E4 | 抖音校招笔试攻略 | https://www.iesdouyin.com/share/video/7684619060755501684 | 2026-09-17"
-    },
     {
       "id": "xiaohongshu-33a97fbe4c28",
       "company": "小红书",
@@ -322,7 +218,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "本科及以上学历，不限专业",
+        "raw": "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ow",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -332,17 +228,23 @@
         "minorLanguageRequired": false
       },
       "location": "新加坡",
-      "jobDescription": "我们在寻找真正喜欢内容、社区和人的应届毕业生。 你会参与全球市场的 creator 和 community growth，从找到第一批核心用户和创作者，到设计 creator 成长机制、组织社区活动，再到探索能够规模化复制的增长模式。 这个岗位不是传统的社区运营，也不是每天机械地联系达人和维护群聊。 我们希望你既懂人，也懂工具。你需要深入理解不同市场和内容文化，同时善于利用 AI、自动化和轻量技术手段，把原本高度依赖人工的 creator 和 community growth 做得更快、更聪明、更可规模化。 你会做什么 - 参与重点市场的 creator 和 community 冷启动及增长 - 挖掘、招募和运营有潜力的创作者、社区核心用户和合作伙伴 - 设计 creator onboarding、成长路径、激励机制和长期运营体系 - 深入不同内容圈层，理解用户、creator 和社区文化，发现新的增长机会 - 策划线上和线下社区活动，提升参与度、活跃度和社区连接 - 分析 creator、内容和社区数据，持续优化招募、成长和留存策略 - 与产品、市场、品牌等团队合作，将社区洞察转化为产品和增长方案 - 使用 AI 工具完成 creator sourcing、用户研究、内容分析、信息整理和项目推进 - 探索自动化 creator database、运营 workflow、内容监测和社区管理方式 - 独立负责部分市场或项目，从 0 到 1 建立可持续的 growth playbook",
-      "jobRequirements": "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ownership，面对不确定的问题能够自己找到切入点并开始行动 - 对技术和数据不排斥，愿意用新的方式解决传统运营问题 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，能够主动思考哪些事情不应该继续靠人工完成 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具做用户研究、内容分析、creator sourcing 和项目管理 - 能利用 AI 快速处理大量内容、creator 和用户信号，从中发现增长机会 - 会自己搭简单的自动化 workflow、数据抓取、creator database 或内部运营工具 - 有 vibe coding、no-code、light coding 或 agent workflow 相关经验 - 做过自己的内容账号、社区、工具、side project 或其他从 0 到 1 的项目 - 对最新 AI 产品、社交产品、creator tools 和内容趋势高度敏感 - 有校园社群、creator、community、活动或国际化项目经历 - 掌握第二外语，例如马来语、印尼语、泰语等",
-      "JD": "我们在寻找真正喜欢内容、社区和人的应届毕业生。 你会参与全球市场的 creator 和 community growth，从找到第一批核心用户和创作者，到设计 creator 成长机制、组织社区活动，再到探索能够规模化复制的增长模式。 这个岗位不是传统的社区运营，也不是每天机械地联系达人和维护群聊。 我们希望你既懂人，也懂工具。你需要深入理解不同市场和内容文化，同时善于利用 AI、自动化和轻量技术手段，把原本高度依赖人工的 creator 和 community growth 做得更快、更聪明、更可规模化。 你会做什么 - 参与重点市场的 creator 和 community 冷启动及增长 - 挖掘、招募和运营有潜力的创作者、社区核心用户和合作伙伴 - 设计 creator onboarding、成长路径、激励机制和长期运营体系 - 深入不同内容圈层，理解用户、creator 和社区文化，发现新的增长机会 - 策划线上和线下社区活动，提升参与度、活跃度和社区连接 - 分析 creator、内容和社区数据，持续优化招募、成长和留存策略 - 与产品、市场、品牌等团队合作，将社区洞察转化为产品和增长方案 - 使用 AI 工具完成 creator sourcing、用户研究、内容分析、信息整理和项目推进 - 探索自动化 creator database、运营 workflow、内容监测和社区管理方式 - 独立负责部分市场或项目，从 0 到 1 建立可持续的 growth playbook\n- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ownership，面对不确定的问题能够自己找到切入点并开始行动 - 对技术和数据不排斥，愿意用新的方式解决传统运营问题 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，能够主动思考哪些事情不应该继续靠人工完成 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具做用户研究、内容分析、creator sourcing 和项目管理 - 能利用 AI 快速处理大量内容、creator 和用户信号，从中发现增长机会 - 会自己搭简单的自动化 workflow、数据抓取、creator database 或内部运营工具 - 有 vibe coding、no-code、light coding 或 agent workflow 相关经验 - 做过自己的内容账号、社区、工具、side project 或其他从 0 到 1 的项目 - 对最新 AI 产品、社交产品、creator tools 和内容趋势高度敏感 - 有校园社群、creator、community、活动或国际化项目经历 - 掌握第二外语，例如马来语、印尼语、泰语等",
+      "jobDescription": "我们在寻找真正喜欢内容、社区和人的应届毕业生。 你会参与全球市场的 creator 和 community growth，从找到第一批核心用户和创作者，到设计 creator 成长机制、组织社区活动，再到探索能够规模化复制的增长模式。 这个岗位不是传统的社区运营，也不是每天机械地联系达人和维护群聊。 我们希望你既懂人，也懂工具。你需要深入理解不同市场和内容文化，同时善于利用 AI、自动化和轻量技术手段，把原本高度依赖人工的 creator 和 community growth 做得更快、更聪明、更可规模化。 你会做什么 - 参与重点市场的 creator 和 community 冷启动及增长 - 挖掘、招募和运营有潜力的创作者、社区核心用户和合作伙伴 - 设计 creator onboarding、成长路径、激励机制和长期运营体系 - 深入不同内容圈层，理解用户、creator 和社区文化，发现新的增长机会 - 策划线上和线下社区活动，提升参与度、活跃度和社区连接 - 分析 creator、内容和社区数据，持续优化招募、成长和留存策略 - 与产品、市场、品牌等团队合作，将社区洞察转化为产品和增长方案 - 使用 AI 工具完成 creator sourcing、用户研究、内容分析、信息整理和项目推进 - 探索自动化 creator database、运营 workflow、内容监测和社区管理方式 - 独立负责部分市场或项目，从 0 到 1 建立可持续的 growth playbook We’re looking for recent graduates who are genuinely passionate about content, communities, and people. You’ll help grow our creator and community presence in global markets—from finding our first core users and creators, to designing creator development mechanisms and organizing community events, and exploring growth models that can be scaled and replicated. This is not a traditional community operations role, nor is it about mechanically reaching out to creators or maintaining group chats every day. We’re looking for someone who understands both people and tools. You should be able to develop a deep understanding of local markets and content cultures, while using AI, automation, and lightweight technical solutions to make creator and community growth faster, smarter, and more scalable. What You’ll Do - Contribute to creator and community seeding and growth in key markets - Identify, recruit, and engage promising creators, core community members, and partners - Design creator onboarding, development paths, incentive mechanisms, and long-term engagement programs - Immerse yourself in different content communities to understand users, creators, and community culture, and identify new growth opportunities - Plan online and offline community events to increase engagement, activity, and connection within communities - Analyze creator, content, and community data to continuously improve recruitment, development, and retention strategies - Work with Product, Marketing, Brand, and other teams to turn community insights into product and growth initiatives - Use AI tools for creator sourcing, user research, content analysis, information organization, and project execution - Explore ways to automate creator databases, operational workflows, content monitoring, and community management - Independently own selected markets or projects, building sustainable growth playbooks from the ground up",
+      "jobRequirements": "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ownership，面对不确定的问题能够自己找到切入点并开始行动 - 对技术和数据不排斥，愿意用新的方式解决传统运营问题 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，能够主动思考哪些事情不应该继续靠人工完成 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具做用户研究、内容分析、creator sourcing 和项目管理 - 能利用 AI 快速处理大量内容、creator 和用户信号，从中发现增长机会 - 会自己搭简单的自动化 workflow、数据抓取、creator database 或内部运营工具 - 有 vibe coding、no-code、light coding 或 agent workflow 相关经验 - 做过自己的内容账号、社区、工具、side project 或其他从 0 到 1 的项目 - 对最新 AI 产品、社交产品、creator tools 和内容趋势高度敏感 - 有校园社群、creator、community、活动或国际化项目经历 - 掌握第二外语，例如马来语、印尼语、泰语等 - Bachelor’s degree or above; all majors are welcome - Strong interest in and awareness of the creator economy, social media, community culture, and online content - Enjoy working with people, with strong organizational, communication, and execution skills - Curious about different countries, languages, and cultures, and willing to develop a deep understanding of local users - Strong sense of ownership and the ability to find a starting point and take action when facing ambiguity - Comfortable with technology and data, and willing to use new approaches to solve traditional operational challenges - Proficient in English as a working language - AI-native mindset, with the initiative to identify tasks that should no longer rely on manual work Preferred Qualifications - Proficient in using AI tools such as Codex, Cowork, and ChatGPT for user research, content analysis, creator sourcing, and project management - Able to process large volumes of content, creator, and user signals with AI and identify growth opportunities - Able to build simple automated workflows, data-scraping solutions, creator databases, or internal operations tools - Experience with vibe coding, no-code or low-code development, or agent workflows - Experience running a personal content account or building a community, tool, side project, or other initiative from 0 to 1 - Highly attuned to emerging AI products, social products, creator tools, and content trends - Experience with campus communities, creators, community programs, events, or international projects - Proficiency in a second language, such as Malay, Indonesian, or Thai",
+      "JD": "我们在寻找真正喜欢内容、社区和人的应届毕业生。 你会参与全球市场的 creator 和 community growth，从找到第一批核心用户和创作者，到设计 creator 成长机制、组织社区活动，再到探索能够规模化复制的增长模式。 这个岗位不是传统的社区运营，也不是每天机械地联系达人和维护群聊。 我们希望你既懂人，也懂工具。你需要深入理解不同市场和内容文化，同时善于利用 AI、自动化和轻量技术手段，把原本高度依赖人工的 creator 和 community growth 做得更快、更聪明、更可规模化。 你会做什么 - 参与重点市场的 creator 和 community 冷启动及增长 - 挖掘、招募和运营有潜力的创作者、社区核心用户和合作伙伴 - 设计 creator onboarding、成长路径、激励机制和长期运营体系 - 深入不同内容圈层，理解用户、creator 和社区文化，发现新的增长机会 - 策划线上和线下社区活动，提升参与度、活跃度和社区连接 - 分析 creator、内容和社区数据，持续优化招募、成长和留存策略 - 与产品、市场、品牌等团队合作，将社区洞察转化为产品和增长方案 - 使用 AI 工具完成 creator sourcing、用户研究、内容分析、信息整理和项目推进 - 探索自动化 creator database、运营 workflow、内容监测和社区管理方式 - 独立负责部分市场或项目，从 0 到 1 建立可持续的 growth playbook We’re looking for recent graduates who are genuinely passionate about content, communities, and people. You’ll help grow our creator and community presence in global markets—from finding our first core users and creators, to designing creator development mechanisms and organizing community events, and exploring growth models that can be scaled and replicated. This is not a traditional community operations role, nor is it about mechanically reaching out to creators or maintaining group chats every day. We’re looking for someone who understands both people and tools. You should be able to develop a deep understanding of local markets and content cultures, while using AI, automation, and lightweight technical solutions to make creator and community growth faster, smarter, and more scalable. What You’ll Do - Contribute to creator and community seeding and growth in key markets - Identify, recruit, and engage promising creators, core community members, and partners - Design creator onboarding, development paths, incentive mechanisms, and long-term engagement programs - Immerse yourself in different content communities to understand users, creators, and community culture, and identify new growth opportunities - Plan online and offline community events to increase engagement, activity, and connection within communities - Analyze creator, content, and community data to continuously improve recruitment, development, and retention strategies - Work with Product, Marketing, Brand, and other teams to turn community insights into product and growth initiatives - Use AI tools for creator sourcing, user research, content analysis, information organization, and project execution - Explore ways to automate creator databases, operational workflows, content monitoring, and community management - Independently own selected markets or projects, building sustainable growth playbooks from the ground up\n- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ownership，面对不确定的问题能够自己找到切入点并开始行动 - 对技术和数据不排斥，愿意用新的方式解决传统运营问题 - 英文可以作为工作语言 - 具备 AI-native 的工作习惯，能够主动思考哪些事情不应该继续靠人工完成 加分项 - 熟练使用 Codex、Cowork、ChatGPT 等 AI 工具做用户研究、内容分析、creator sourcing 和项目管理 - 能利用 AI 快速处理大量内容、creator 和用户信号，从中发现增长机会 - 会自己搭简单的自动化 workflow、数据抓取、creator database 或内部运营工具 - 有 vibe coding、no-code、light coding 或 agent workflow 相关经验 - 做过自己的内容账号、社区、工具、side project 或其他从 0 到 1 的项目 - 对最新 AI 产品、社交产品、creator tools 和内容趋势高度敏感 - 有校园社群、creator、community、活动或国际化项目经历 - 掌握第二外语，例如马来语、印尼语、泰语等 - Bachelor’s degree or above; all majors are welcome - Strong interest in and awareness of the creator economy, social media, community culture, and online content - Enjoy working with people, with strong organizational, communication, and execution skills - Curious about different countries, languages, and cultures, and willing to develop a deep understanding of local users - Strong sense of ownership and the ability to find a starting point and take action when facing ambiguity - Comfortable with technology and data, and willing to use new approaches to solve traditional operational challenges - Proficient in English as a working language - AI-native mindset, with the initiative to identify tasks that should no longer rely on manual work Preferred Qualifications - Proficient in using AI tools such as Codex, Cowork, and ChatGPT for user research, content analysis, creator sourcing, and project management - Able to process large volumes of content, creator, and user signals with AI and identify growth opportunities - Able to build simple automated workflows, data-scraping solutions, creator databases, or internal operations tools - Experience with vibe coding, no-code or low-code development, or agent workflows - Experience running a personal content account or building a community, tool, side project, or other initiative from 0 to 1 - Highly attuned to emerging AI products, social products, creator tools, and content trends - Experience with campus communities, creators, community programs, events, or international projects - Proficiency in a second language, such as Malay, Indonesian, or Thai",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "regex-v1",
         "majorClauses": [
-          "本科及以上学历，不限专业"
+          "- 本科及以上学历，不限专业 - 对 creator economy、社交媒体、社区文化和互联网内容高度敏感 - 喜欢和人打交道，同时具备很强的组织、沟通和推动能力 - 对不同国家、语言和文化有强烈好奇心，愿意深入理解本地用户 - 有 ow"
         ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -397,7 +299,7 @@
       "annualSalary": "未披露",
       "source": "小红书官方2027校招官网",
       "officialURL": "https://job.xiaohongshu.com/campus/position?positionId=22266",
-      "publishedAt": "2026-09-28",
+      "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

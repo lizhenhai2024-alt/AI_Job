@@ -1,7 +1,7 @@
 {
   "company": "新东方深圳学校",
-  "count": 463,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "count": 464,
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "beisen-123667d26f64",
@@ -2401,6 +2401,97 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=798809e3-3670-4ccf-ad19-c23057d5b28e",
       "publishedAt": "2026-08-04",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b8f04f2cf7d6",
+      "company": "新东方深圳学校",
+      "title": "泉州国际教育-管理培训生(J59719)",
+      "graduationYear": [
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限，2025年、2026年应届毕业生优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "福建省·泉州市",
+      "jobDescription": "1、参与公司各部门的轮岗实践，全面了解公司业务流程和运营模式； 2、协助部门经理完成日常管理工作，参与项目策划与执行； 3、分析和解决工作中遇到的问题，提出改进建议； 4、完成公司安排的各项培训任务，提升专业知识和管理技能； 5、参与公司组织的各类活动，展示个人才华和团队合作能力。",
+      "jobRequirements": "1、本科及以上学历，专业不限，2025年、2026年应届毕业生优先； 2、具备优秀的学习能力和沟通能力，善于运用各类工具技能； 3、具有团队合作精神和高度的责任感，能承受一定的工作压力； 4、具备良好的英语听说读写能力，有留学或海外实习经验者优先； 5、对教培行业发展有浓厚兴趣，愿意在管理领域长期发展。",
+      "JD": "1、参与公司各部门的轮岗实践，全面了解公司业务流程和运营模式； 2、协助部门经理完成日常管理工作，参与项目策划与执行； 3、分析和解决工作中遇到的问题，提出改进建议； 4、完成公司安排的各项培训任务，提升专业知识和管理技能； 5、参与公司组织的各类活动，展示个人才华和团队合作能力。\n1、本科及以上学历，专业不限，2025年、2026年应届毕业生优先； 2、具备优秀的学习能力和沟通能力，善于运用各类工具技能； 3、具有团队合作精神和高度的责任感，能承受一定的工作压力； 4、具备良好的英语听说读写能力，有留学或海外实习经验者优先； 5、对教培行业发展有浓厚兴趣，愿意在管理领域长期发展。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限，2025年、2026年应届毕业生优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "运营",
+        "项目"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、参与公司各部门的轮岗实践，全面了解公司业务流程和运营模式； 2、协助部门经理完"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-12K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 12000,
+        "annualMin": 96000,
+        "annualMax": 144000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1.2万/月",
+        "annualDisplay": "9.6万–14.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-12K 元/月 公司官方北森校招岗位；识别关键词：英语。投递前"
+      },
+      "salary": "8K-12K 元/月",
+      "monthlySalary": "8k–1.2万/月",
+      "annualSalary": "9.6万–14.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://xdf.zhiye.com/campus/detail?jobAdId=94d21abc-f77a-4062-a2ce-e506b8ce3384",
+      "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

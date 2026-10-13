@@ -1,7 +1,7 @@
 {
   "company": "字节跳动",
-  "count": 208,
-  "updatedAt": "2026-10-13T03:17:18.805Z",
+  "count": 209,
+  "updatedAt": "2026-10-13T16:59:20.651Z",
   "jobs": [
     {
       "id": "bytedance-4fc8391024f5",
@@ -12914,6 +12914,100 @@
       "source": "字节跳动官方2027校招官网",
       "officialURL": "https://jobs.bytedance.com/campus",
       "publishedAt": "2026-09-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-d0505dd9331b",
+      "company": "字节跳动",
+      "title": "AI数据运营（多模态AI助手方向） - AI数据与安全",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程、数据科学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "团队介绍：AI 数据与安全团队为 Seed 基座模型及 AI 原生应用提供跨模态数据服务，覆盖数据生产全流程，包含模型评估标准的制定、数据规模化生产、数据飞轮搭建，不断提升数据质量，支持模型快速迭代。 团队由产品经理、数据工程、数据运营等跨职能人才组成，并通过与 Seed 研究员、行业专家、全球顶尖数据供应商紧密合作，从真实场景中收集反馈并分析模型表现数据，解决 AI 前沿突破过程中的复杂数据问题，推动模型性能与用户体验的双重提升。我们既是帮助模型技术迭代的一线贡献者，也是模型和 AI 产品的一手用户。 1、深入参与多模态AI助手、硬件Agent等相关项目，负责意图Function Call或者Memory、工具调用、任务执行链路等方向的数据采集、生产与效果优化工作； 2、快速理解业务理想态和数据标准，沉淀Agent场景下的数据规范、评测标准和优化方法，为模型训练、Agent能力建设和项目迭代提供数据策略与建议； 3、围绕Agent开发项目中的突出问题进行专项攻坚，参与问题分析、数据补充、Prompt优化、Workflow设计、工具调用链路优化等工作，提升Agent在真实任务中的执行效果； 4、参与Skill开发、Agent能力开发和工作流搭建，包括需求理解、能力拆解、Prompt编写、工具编排、结果评估与持续优化等环节，提高团队在多场景Agent项目中的复用效率。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机、人工智能、软件工程、数据科学等相关专业优先； 2、理解Context、工具调用、Function Calling、Agent等基础能力和常见应用方式，熟练使用Python语言，具备对结构化数据的分析与建模能力，脚本开发和问题分析能力，能独立完成数据清洗、格式转换、批量处理、结果统计等工作； 3、有Agent开发、Skill开发、工作流搭建、AI工具调用、插件开发、自动化脚本开发等相关经验优先，提升模型在意图理解、信息抽取、任务执行、结果生成等场景下的准确性和稳定性； 4、有较强的自驱力、学习能力和沟通协作能力，具备一定自然语言类数据处理经验，熟悉LLM数据标注、数据评估、负面案例分析流程，能借助Claude Code、Codex、TRAE等AI工具完成代码生成、调试、数据处理。",
+      "JD": "团队介绍：AI 数据与安全团队为 Seed 基座模型及 AI 原生应用提供跨模态数据服务，覆盖数据生产全流程，包含模型评估标准的制定、数据规模化生产、数据飞轮搭建，不断提升数据质量，支持模型快速迭代。 团队由产品经理、数据工程、数据运营等跨职能人才组成，并通过与 Seed 研究员、行业专家、全球顶尖数据供应商紧密合作，从真实场景中收集反馈并分析模型表现数据，解决 AI 前沿突破过程中的复杂数据问题，推动模型性能与用户体验的双重提升。我们既是帮助模型技术迭代的一线贡献者，也是模型和 AI 产品的一手用户。 1、深入参与多模态AI助手、硬件Agent等相关项目，负责意图Function Call或者Memory、工具调用、任务执行链路等方向的数据采集、生产与效果优化工作； 2、快速理解业务理想态和数据标准，沉淀Agent场景下的数据规范、评测标准和优化方法，为模型训练、Agent能力建设和项目迭代提供数据策略与建议； 3、围绕Agent开发项目中的突出问题进行专项攻坚，参与问题分析、数据补充、Prompt优化、Workflow设计、工具调用链路优化等工作，提升Agent在真实任务中的执行效果； 4、参与Skill开发、Agent能力开发和工作流搭建，包括需求理解、能力拆解、Prompt编写、工具编排、结果评估与持续优化等环节，提高团队在多场景Agent项目中的复用效率。\n1、2027届获得本科及以上学历，计算机、人工智能、软件工程、数据科学等相关专业优先； 2、理解Context、工具调用、Function Calling、Agent等基础能力和常见应用方式，熟练使用Python语言，具备对结构化数据的分析与建模能力，脚本开发和问题分析能力，能独立完成数据清洗、格式转换、批量处理、结果统计等工作； 3、有Agent开发、Skill开发、工作流搭建、AI工具调用、插件开发、自动化脚本开发等相关经验优先，提升模型在意图理解、信息抽取、任务执行、结果生成等场景下的准确性和稳定性； 4、有较强的自驱力、学习能力和沟通协作能力，具备一定自然语言类数据处理经验，熟悉LLM数据标注、数据评估、负面案例分析流程，能借助Claude Code、Codex、TRAE等AI工具完成代码生成、调试、数据处理。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机、人工智能、软件工程、数据科学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-09-09",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
