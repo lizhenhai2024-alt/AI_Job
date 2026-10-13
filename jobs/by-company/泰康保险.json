@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 307,
-  "updatedAt": "2026-10-12T22:38:24.453Z",
+  "count": 311,
+  "updatedAt": "2026-10-13T03:17:18.805Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -2344,6 +2344,96 @@
       "deadline": ""
     },
     {
+      "id": "beisen-8cce476f3956",
+      "company": "泰康保险",
+      "title": "养老辽宁-年金运营岗（校园招聘）(J89951)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届毕业生，本科以上学历，金融、保险、经济相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、经济相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "辽宁省·沈阳市",
+      "jobDescription": "1.配合总公司进行合同签署相关工作，拟定企业年金管理合同及相关协议范本初稿，执行合同谈判、审核、签署、备案及档案管理工作。 2.负责合同续签管理，及时追踪存量客户顺延、续签等情况并跟进相关工作。 3.处理日常年金运营相关工作，负责协调管理机构及时处理客户业务，确保业务的及时性、准确性。 4.负责年金运营风险管控，根据公司要求开展年金业务风险排查。 5.负责日常运营业务相关资料存档管理及信息收集，做好客户信息数据管理。 6.负责年金客户信息披露，定期为客户提供受托报告。 7.按规定提供年金数据支持，向监管部门报送年金业务数据及报告。 8.落实执行受托客户服务相关工作，包含客户答疑、企业及个人日常业务指导、VIP平台的推广和使用等，提升客户满意度。 9.监管规定、总公司、上级领导交办的其他要求。",
+      "jobRequirements": "​1、2027届毕业生，本科以上学历，金融、保险、经济相关专业 2、思维力、组织力、内驱力俱佳，学生干部优先",
+      "JD": "1.配合总公司进行合同签署相关工作，拟定企业年金管理合同及相关协议范本初稿，执行合同谈判、审核、签署、备案及档案管理工作。 2.负责合同续签管理，及时追踪存量客户顺延、续签等情况并跟进相关工作。 3.处理日常年金运营相关工作，负责协调管理机构及时处理客户业务，确保业务的及时性、准确性。 4.负责年金运营风险管控，根据公司要求开展年金业务风险排查。 5.负责日常运营业务相关资料存档管理及信息收集，做好客户信息数据管理。 6.负责年金客户信息披露，定期为客户提供受托报告。 7.按规定提供年金数据支持，向监管部门报送年金业务数据及报告。 8.落实执行受托客户服务相关工作，包含客户答疑、企业及个人日常业务指导、VIP平台的推广和使用等，提升客户满意度。 9.监管规定、总公司、上级领导交办的其他要求。\n​1、2027届毕业生，本科以上学历，金融、保险、经济相关专业 2、思维力、组织力、内驱力俱佳，学生干部优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届毕业生，本科以上学历，金融、保险、经济相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "合同",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.配合总公司进行合同签署相关工作，拟定企业年金管理合同及相关协议范本初稿，执行合"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=e38575bb-1ed8-4556-9724-a332b4a5a22c",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-d1af20ea32ad",
       "company": "泰康保险",
       "title": "养老-浙江-养老金运营（2027校招）(J89555)",
@@ -3560,6 +3650,94 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=d9eee738-81f1-40d6-9b87-4a3bda177e3a",
       "publishedAt": "2026-06-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f7da4298d0d2",
+      "company": "泰康保险",
+      "title": "养老辽宁-职域业务支持岗（校园招聘）(J89950)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届毕业生，本科以上学历，金融、保险、经济相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、经济相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "辽宁省·沈阳市",
+      "jobDescription": "1.项目支持：结合总公司规划及分公司管理现状，落实各项技术支持、技术迭代工作，负责大区职域专业技术支持，全省性项目支持，整合项目经验进行部分流程或全流程的技术迭代。 2.萃取复制：总结项目经验，分析项目得失，依据分公司/大区的核心矛盾进行优秀经验的萃取与失败经验的改进，并进行优秀案例推广。 3.训战体系：建立分公司训战体系，根据分公司的项目经验，开发、执行、组织分公司项目的训战工作。 4.业务对接：衔接总分公司职域产品、业务政策，配合总公司进行政策宣导、活动衔接、产品需求、创新业务的反馈，参与配合数字化应用推动与反馈。 5.中台人员的管理与培养：指导各板块中台人员技能成长，并对支持工作进行辅导与评价，含带教笔记转接的要求、辅导，持续出列合格中台与具备营业部经理的督训人员。 6.提供行业合作项目支持，推动业务协同。 7.执行作战地图管理，建立数据分析台账，追踪打项目环节实施情况。 8.监管规定、总公司、上级领导交办的其他要求。",
+      "jobRequirements": "​1、2027届毕业生，本科以上学历，金融、保险、经济相关专业 2、思维力、组织力、内驱力俱佳，学生干部优先",
+      "JD": "1.项目支持：结合总公司规划及分公司管理现状，落实各项技术支持、技术迭代工作，负责大区职域专业技术支持，全省性项目支持，整合项目经验进行部分流程或全流程的技术迭代。 2.萃取复制：总结项目经验，分析项目得失，依据分公司/大区的核心矛盾进行优秀经验的萃取与失败经验的改进，并进行优秀案例推广。 3.训战体系：建立分公司训战体系，根据分公司的项目经验，开发、执行、组织分公司项目的训战工作。 4.业务对接：衔接总分公司职域产品、业务政策，配合总公司进行政策宣导、活动衔接、产品需求、创新业务的反馈，参与配合数字化应用推动与反馈。 5.中台人员的管理与培养：指导各板块中台人员技能成长，并对支持工作进行辅导与评价，含带教笔记转接的要求、辅导，持续出列合格中台与具备营业部经理的督训人员。 6.提供行业合作项目支持，推动业务协同。 7.执行作战地图管理，建立数据分析台账，追踪打项目环节实施情况。 8.监管规定、总公司、上级领导交办的其他要求。\n​1、2027届毕业生，本科以上学历，金融、保险、经济相关专业 2、思维力、组织力、内驱力俱佳，学生干部优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届毕业生，本科以上学历，金融、保险、经济相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1.项目支持：结合总公司规划及分公司管理现状，落实各项技术支持、技术迭代工作，负责"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=0cb6b6c0-6ca7-4109-b8da-e3cdb43360f3",
+      "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -13806,6 +13984,180 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2028-06-08"
+    },
+    {
+      "id": "beisen-1d078ca78593",
+      "company": "泰康保险",
+      "title": "人寿-河北分公司-人员管理岗（2027校招）(J89944)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "河北省·石家庄市/唐山市/邯郸市/张家口市/廊坊市/衡水市/承德市/邢台市/保定市/秦皇岛市/沧州市",
+      "jobDescription": "1、考核及佣金管理：负责执行公司营销员基本法，负责计算营销员佣金并发放； 2、合规及品质管理：负责营销员招募、签约、异动、复职等行为管理，协调解决各类业务纠纷，维护公司品牌形象； 3、队伍培训：负责公司营销管理人员培训工作，提高其专业及系统操作技能。",
+      "jobRequirements": "1、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业。 2、熟练掌握OFFICE、WPS 等办公软件的使用。 3、具备较强的组织协调能力、表达沟通能力、行为管理能力和抗压能力。",
+      "JD": "1、考核及佣金管理：负责执行公司营销员基本法，负责计算营销员佣金并发放； 2、合规及品质管理：负责营销员招募、签约、异动、复职等行为管理，协调解决各类业务纠纷，维护公司品牌形象； 3、队伍培训：负责公司营销管理人员培训工作，提高其专业及系统操作技能。\n1、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业。 2、熟练掌握OFFICE、WPS 等办公软件的使用。 3、具备较强的组织协调能力、表达沟通能力、行为管理能力和抗压能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 年应届毕业生，本科及以上学历，金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "营销",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、考核及佣金管理：负责执行公司营销员基本法，负责计算营销员佣金并发放； 2、合规"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=bf1e8e77-670e-4fdb-ad6c-56503b48261d",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-92cf62461e39",
+      "company": "泰康保险",
+      "title": "人寿-河北分公司-职能管理类（2027校招）(J89943)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科或以上学历，金融、保险、市场、教育等相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、保险、市场、教育等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "河北省·石家庄市/唐山市/秦皇岛市/保定市/沧州市/衡水市/承德市/邢台市/邯郸市/张家口市/廊坊市",
+      "jobDescription": "一、招聘管理： 1.依据分公司的人力资源计划和各部门的招聘需求，组织开展招聘活动，满足人员需求； 2.指导与相关外部机构联系，搭建有效的招聘网络，指导中支的招聘工作； 二、员工关系管理： 1.员工关系管理：负责分公司员工的一档和二档保管整理，办理员工新进、晋升、异动、离职手续； 2.劳动争议的处理：负责处理员工与公司之间的劳动关系争议，参加劳动仲裁，保证劳动关系的合规性和合法性； 三、财务管理岗 根据总分公司相关制度及工作要求，制定财务检查计划、指导与监督中支日常工作、召开财务会议及培训、推动财务人员轮岗及团队建设、管理全省财务印章等，以夯实财务基础管理，提升财务风险防范能力，优化财务队伍。",
+      "jobRequirements": "1、本科或以上学历，金融、保险、市场、教育等相关专业； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。 3、了解保险业及保险公司基础知识及相关法律法规，熟悉会计知识、财务基本理论； 了解会计准则；具备一定的报告撰写能力。",
+      "JD": "一、招聘管理： 1.依据分公司的人力资源计划和各部门的招聘需求，组织开展招聘活动，满足人员需求； 2.指导与相关外部机构联系，搭建有效的招聘网络，指导中支的招聘工作； 二、员工关系管理： 1.员工关系管理：负责分公司员工的一档和二档保管整理，办理员工新进、晋升、异动、离职手续； 2.劳动争议的处理：负责处理员工与公司之间的劳动关系争议，参加劳动仲裁，保证劳动关系的合规性和合法性； 三、财务管理岗 根据总分公司相关制度及工作要求，制定财务检查计划、指导与监督中支日常工作、召开财务会议及培训、推动财务人员轮岗及团队建设、管理全省财务印章等，以夯实财务基础管理，提升财务风险防范能力，优化财务队伍。\n1、本科或以上学历，金融、保险、市场、教育等相关专业； 2、学习能力强，逻辑思维清晰，较强的表达能力，强烈的责任感，优秀的团队合作精神。 3、了解保险业及保险公司基础知识及相关法律法规，熟悉会计知识、财务基本理论； 了解会计准则；具备一定的报告撰写能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科或以上学历，金融、保险、市场、教育等相关专业"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 一、招聘管理： 1.依据分公司的人力资源计划和各部门的招聘需求，组织开展招聘活动，"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=42a01250-f445-454f-a7aa-81c05e95db84",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
       "id": "beisen-7f1b6f1b46e6",

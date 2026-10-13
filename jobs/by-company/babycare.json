@@ -1,7 +1,7 @@
 {
   "company": "Babycare",
-  "count": 32,
-  "updatedAt": "2026-10-12T22:38:24.453Z",
+  "count": 33,
+  "updatedAt": "2026-10-13T03:17:18.805Z",
   "jobs": [
     {
       "id": "beisen-c4b21c074156",
@@ -1986,6 +1986,100 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=d8f4d700-bbd5-4ee8-a758-a33fd800a9ac",
       "publishedAt": "2026-07-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申(2026/7/31启动)→线下宣讲会(9/21起)→面试环节(9/23起，线上/线下)→Offer(11月起)→入职(2027/7)",
+      "recruitmentProcessEvidence": "E3 | 浙大就业平台校招流程原文 | https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?dwxxid=JG1202310&xjhbh=0e00805aad83114100dcbf01fbfc0b0e | 2026-09-17",
+      "hasAssessment": "待核实",
+      "hasAssessmentEvidence": "E4 | PreTalent历史校招测评攻略 | https://www.pretalent.com.cn/blog/pretalent-babycare-2024 | 2026-09-17"
+    },
+    {
+      "id": "beisen-14ca5a3f40ff",
+      "company": "Babycare",
+      "title": "2027校招-数据产品经理管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届应届毕业生，本科及以上学历，计算机、信息管理、软件工程、财务管理、会计、供应链管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "我们需要你： 1、协助梳理业务场景，识别数据需求与核心指标。 2、参与数据产品规划，包括数据看板、指标体系、标签体系、报表或数据服务。 3、撰写产品需求文档（PRD）、原型及业务规则，推动研发、数据、算法和运营协作落地。 4、跟踪产品上线后的使用情况、数据质量和业务效果，持续迭代优化。 5、协助进行竞品、行业及用户调研，支持产品策略制定。 6、在培养期内轮岗或参与多个项目，逐步承担独立的数据产品模块",
+      "jobRequirements": "我们希望你： 1、2027届应届毕业生，本科及以上学历，计算机、信息管理、软件工程、财务管理、会计、供应链管理等相关专业优先； 2、对企业数字化、ERP系统、财务信息化有浓厚兴趣，具备一定的产品思维和业务分析能力； 3、具备良好的逻辑分析能力和沟通协作能力，能够快速学习并推动问题解决； 4、有产品设计、ERP系统、数据分析、SQL/Python、低代码平台或AI工具使用经验者优先； 5、乐于接受挑战，具备较强的责任心、执行力及持续学习能力。 Join Us： 如果你对企业数字化、产品设计和AI应用充满热情，希望参与企业核心业务系统建设，欢迎加入我们！ 一起用数字化连接业务，用AI驱动创新，让每一次优化都创造更大的价值。",
+      "JD": "我们需要你： 1、协助梳理业务场景，识别数据需求与核心指标。 2、参与数据产品规划，包括数据看板、指标体系、标签体系、报表或数据服务。 3、撰写产品需求文档（PRD）、原型及业务规则，推动研发、数据、算法和运营协作落地。 4、跟踪产品上线后的使用情况、数据质量和业务效果，持续迭代优化。 5、协助进行竞品、行业及用户调研，支持产品策略制定。 6、在培养期内轮岗或参与多个项目，逐步承担独立的数据产品模块\n我们希望你： 1、2027届应届毕业生，本科及以上学历，计算机、信息管理、软件工程、财务管理、会计、供应链管理等相关专业优先； 2、对企业数字化、ERP系统、财务信息化有浓厚兴趣，具备一定的产品思维和业务分析能力； 3、具备良好的逻辑分析能力和沟通协作能力，能够快速学习并推动问题解决； 4、有产品设计、ERP系统、数据分析、SQL/Python、低代码平台或AI工具使用经验者优先； 5、乐于接受挑战，具备较强的责任心、执行力及持续学习能力。 Join Us： 如果你对企业数字化、产品设计和AI应用充满热情，希望参与企业核心业务系统建设，欢迎加入我们！ 一起用数字化连接业务，用AI驱动创新，让每一次优化都创造更大的价值。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届应届毕业生，本科及以上学历，计算机、信息管理、软件工程、财务管理、会计、供应链管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "用户",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 我们需要你： 1、协助梳理业务场景，识别数据需求与核心指标。 2、参与数据产品规划"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9.5K-14.5K 元/月",
+        "monthlyMin": 9500,
+        "monthlyMax": 14500,
+        "annualMin": 114000,
+        "annualMax": 174000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9.5k–1.45万/月",
+        "annualDisplay": "11.4万–17.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9.5K-14.5K 元/月 公司官方北森校招岗位；识别关键词：数据分析、S"
+      },
+      "salary": "9.5K-14.5K 元/月",
+      "monthlySalary": "9.5k–1.45万/月",
+      "annualSalary": "11.4万–17.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=27c41529-78af-4e8d-bdaa-5de5999d823c",
+      "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

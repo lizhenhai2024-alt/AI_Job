@@ -1,7 +1,7 @@
 {
   "company": "小米",
   "count": 242,
-  "updatedAt": "2026-10-12T22:38:24.453Z",
+  "updatedAt": "2026-10-13T03:17:18.805Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -21267,6 +21267,93 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7671490555750861107",
+      "company": "小米",
+      "title": "Channel Sales Specialist-local",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "Bachelor degree, Fresh graduate",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "莫斯科、曼谷、约翰内斯堡、迪拜、阿拉木图、利雅得",
+      "jobDescription": "1.Provide administrative and logistical support to sales teams across a specific region; 2.Coordinate sales activities and ensure alignment with regional sales strategies; 3.Analyze regional sales data to identify trends and opportunities; 4.Build and maintain relationships with regional partners and distributors; 5.Provide sales forecasting and reporting; 6.Contribute to the development and execution of regional sales plans; 7.Gain exposure to different regional markets and sales dynamics.",
+      "jobRequirements": "1.Bachelor degree, Fresh graduate; 2.Passion for technology, gadget and smartphones; 3.Enthusiastic and positive, good communication skills, interested in developing into a management position; 4.Good stress resistance and self-motivation; 5.Willing to learn and accept challenges, adapt to changes; 6.English can be used as working language.",
+      "JD": "1.Provide administrative and logistical support to sales teams across a specific region; 2.Coordinate sales activities and ensure alignment with regional sales strategies; 3.Analyze regional sales data to identify trends and opportunities; 4.Build and maintain relationships with regional partners and distributors; 5.Provide sales forecasting and reporting; 6.Contribute to the development and execution of regional sales plans; 7.Gain exposure to different regional markets and sales dynamics.\n1.Bachelor degree, Fresh graduate; 2.Passion for technology, gadget and smartphones; 3.Enthusiastic and positive, good communication skills, interested in developing into a management position; 4.Good stress resistance and self-motivation; 5.Willing to learn and accept challenges, adapt to changes; 6.English can be used as working language.",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "Bachelor degree, Fresh graduate"
+        ],
+        "eligibilityClauses": [
+          "Fresh graduate"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671490555750861107/detail",
+      "publishedAt": "2026-08-08",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7671524184715217193",
       "company": "小米",
       "title": "新零售校招生-安徽",
@@ -21346,93 +21433,6 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671524184715217193/detail",
-      "publishedAt": "2026-08-08",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
-      "id": "feishu-4031ce-7671490555750861107",
-      "company": "小米",
-      "title": "Channel Sales Specialist-local",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "Bachelor degree, Fresh graduate",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "莫斯科、曼谷、约翰内斯堡、迪拜、阿拉木图、利雅得",
-      "jobDescription": "1.Provide administrative and logistical support to sales teams across a specific region; 2.Coordinate sales activities and ensure alignment with regional sales strategies; 3.Analyze regional sales data to identify trends and opportunities; 4.Build and maintain relationships with regional partners and distributors; 5.Provide sales forecasting and reporting; 6.Contribute to the development and execution of regional sales plans; 7.Gain exposure to different regional markets and sales dynamics.",
-      "jobRequirements": "1.Bachelor degree, Fresh graduate; 2.Passion for technology, gadget and smartphones; 3.Enthusiastic and positive, good communication skills, interested in developing into a management position; 4.Good stress resistance and self-motivation; 5.Willing to learn and accept challenges, adapt to changes; 6.English can be used as working language.",
-      "JD": "1.Provide administrative and logistical support to sales teams across a specific region; 2.Coordinate sales activities and ensure alignment with regional sales strategies; 3.Analyze regional sales data to identify trends and opportunities; 4.Build and maintain relationships with regional partners and distributors; 5.Provide sales forecasting and reporting; 6.Contribute to the development and execution of regional sales plans; 7.Gain exposure to different regional markets and sales dynamics.\n1.Bachelor degree, Fresh graduate; 2.Passion for technology, gadget and smartphones; 3.Enthusiastic and positive, good communication skills, interested in developing into a management position; 4.Good stress resistance and self-motivation; 5.Willing to learn and accept challenges, adapt to changes; 6.English can be used as working language.",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "Bachelor degree, Fresh graduate"
-        ],
-        "eligibilityClauses": [
-          "Fresh graduate"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671490555750861107/detail",
       "publishedAt": "2026-08-08",
       "lastVerified": "",
       "sourceType": "official",

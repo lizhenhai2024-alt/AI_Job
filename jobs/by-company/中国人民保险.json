@@ -1,7 +1,7 @@
 {
   "company": "中国人民保险集团",
   "count": 245,
-  "updatedAt": "2026-10-12T22:38:24.453Z",
+  "updatedAt": "2026-10-13T03:17:18.805Z",
   "jobs": [
     {
       "id": "beisen-cae8c615acdd",
@@ -6416,6 +6416,90 @@
       "deadline": ""
     },
     {
+      "id": "beisen-ca67f8f4de0d",
+      "company": "中国人民保险集团",
+      "title": "人保财险公司-海南分公司-综合类-客户经理岗-2027届校招(J78349)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "海南省",
+      "jobDescription": "1、通过对外联系，拓展开发个人及公司业务； 2、完成公司下达年度保费任务； 3、对外宣传公司品牌形象； 4、熟悉公司业务，加强客服沟通，为客户做好承保理赔等相关咨询服务工作。 5、完成上级交办的其他事项等。 6、工作地点：海南省辖内各区县级支公司。录用人员根据公司业务需求及个人情况，在省内区县机构间统筹安排，须服从工作地点调配。",
+      "jobRequirements": "1.具有较好的服务意识、亲和力及沟通应变能力。 2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先。 3.大学本科及以上学历。",
+      "JD": "1、通过对外联系，拓展开发个人及公司业务； 2、完成公司下达年度保费任务； 3、对外宣传公司品牌形象； 4、熟悉公司业务，加强客服沟通，为客户做好承保理赔等相关咨询服务工作。 5、完成上级交办的其他事项等。 6、工作地点：海南省辖内各区县级支公司。录用人员根据公司业务需求及个人情况，在省内区县机构间统筹安排，须服从工作地点调配。\n1.具有较好的服务意识、亲和力及沟通应变能力。 2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先。 3.大学本科及以上学历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、通过对外联系，拓展开发个人及公司业务； 2、完成公司下达年度保费任务； 3、对"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=691c2092-d825-4e3e-b6bb-124060d10b04",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-488c8450fc66",
       "company": "中国人民保险集团",
       "title": "人保寿险-新疆分公司-综合类--队伍发展岗-2027届校招（博州中心支公司）(J80757)",
@@ -10297,90 +10381,6 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=ccea3884-21b7-4d6c-96af-99c93b2b2603",
       "publishedAt": "2026-08-20",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": ""
-    },
-    {
-      "id": "beisen-0e87a3472edc",
-      "company": "中国人民保险集团",
-      "title": "人保财险公司-海南分公司-综合类-客户经理岗-2027届校招(J78349)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "海南省",
-      "jobDescription": "1、通过对外联系，拓展开发个人及公司业务； 2、完成公司下达年度保费任务； 3、对外宣传公司品牌形象； 4、熟悉公司业务，加强客服沟通，为客户做好承保理赔等相关咨询服务工作。 5、完成上级交办的其他事项等。 6、工作地点：海南省辖内各区县级支公司。录用人员根据公司业务需求及个人情况，在省内区县机构间统筹安排，须服从工作地点调配。",
-      "jobRequirements": "1.具有较好的服务意识、亲和力及沟通应变能力。 2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先。 3.大学本科及以上学历。",
-      "JD": "1、通过对外联系，拓展开发个人及公司业务； 2、完成公司下达年度保费任务； 3、对外宣传公司品牌形象； 4、熟悉公司业务，加强客服沟通，为客户做好承保理赔等相关咨询服务工作。 5、完成上级交办的其他事项等。 6、工作地点：海南省辖内各区县级支公司。录用人员根据公司业务需求及个人情况，在省内区县机构间统筹安排，须服从工作地点调配。\n1.具有较好的服务意识、亲和力及沟通应变能力。 2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先。 3.大学本科及以上学历。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "2.科技、新能源、自动驾驶、医学、工程、农学、船舶、航运、贸易相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "销售"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "品牌",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1、通过对外联系，拓展开发个人及公司业务； 2、完成公司下达年度保费任务； 3、对"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=a4ae541f-a0f7-4f00-b19e-d341f343c547",
-      "publishedAt": "2026-08-17",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

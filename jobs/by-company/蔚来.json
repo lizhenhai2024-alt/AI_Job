@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
-  "count": 200,
-  "updatedAt": "2026-10-12T22:38:24.453Z",
+  "count": 201,
+  "updatedAt": "2026-10-13T03:17:18.805Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -7213,6 +7213,103 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026817334479154/detail",
+      "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7673026521368004890",
+      "company": "蔚来",
+      "title": "校招-供应链算法工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "计算机、人工智能、软件工程、数据科学、自动化、数学、统计学、运筹优化等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "业务背景 在汽车行业智能化与电动化趋势下，供应链已经成为企业核心竞争力之一。一辆汽车涉及上万个零部件及多个业务系统的全球协同，任何一个环节的信息不透明、风险识别不及时或决策滞后，都可能影响生产、库存、交付与成本。 团队正在建设面向新能源汽车供应链的新一代数据与 AI 能力体系，包括供应链数据底座、企业知识体系、Agent 平台与智能决策能力。我们希望通过 Data-driven 的方式推动供应链管理线上化，并结合 AI Co-pilot 与 Agentic AI，打造覆盖“监控、预警、分析、决策、执行”的供应链 Control Tower。 岗位将参与供应链 AI Agent 的设计、开发、评估与落地，服务于采购、计划、物流、库存及供应商管理等核心业务场景。 岗位职责 参与新能源汽车供应链场景 AI Agent 的设计与开发，将缺料分析、供应风险排查、库存诊断等业务问题拆解为可规划、可调用工具、可验证结果的智能任务。 基于 ReAct、Planning、Tool Calling、Memory 等机制，构建具备任务理解、步骤规划、知识检索、工具调用及结果校验能力的 Agent。 参与企业级 Agent Harness / Runtime 建设，包括 Tool / Skill 管理、Context 管理、任务状态管理、执行编排、失败重试、权限控制与运行可观测性等能力。 参与 Agent 评估体系建设，围绕任务成功率、工具调用准确率、知识检索质量、执行效率及结果可信度构建评测集，并通过失败案例分析持续优化系统。 参与供应链知识体系建设，包括 Ontology 建模、知识图谱、GraphRAG 和企业语义体系抽象，提升 Agent 对企业数据、知识及业务关系的理解能力。 与供应链、采购、计划、物流等业务团队，以及数据、产品和研发团队协同，推动 AI 能力在真实业务流程中落地并持续迭代。",
+      "jobRequirements": "岗位要求 本科及以上学历，硕士优先；计算机、人工智能、软件工程、数据科学、自动化、数学、统计学、运筹优化等相关专业优先。 具备扎实的计算机基础与工程能力，熟悉 Python，掌握常用数据结构与算法，具备良好的代码质量和系统设计意识。 理解 Agentic AI 与固定 Workflow Automation 的区别，了解任务规划、工具调用、上下文管理、知识检索、结果校验及长链路任务执行等核心机制。 通过课程、科研、竞赛、实习或个人项目，完成过至少一个包含大模型调用、RAG、Tool Calling 或任务编排的 AI 应用，并能够清晰说明其技术方案、评估方式与局限性。 具备良好的问题拆解和学习能力，能够将复杂业务问题抽象为数据、知识、工具及执行流程。 具备良好的沟通协作能力，对供应链、制造业及企业级 AI 应用有兴趣。 不要求候选人覆盖全部技术方向。具备其中一个方向的深入项目经验，并对其他方向有基本理解即可。 熟悉或接触过以下技术方向者优先 LangGraph、AutoGen、CrewAI、Semantic Kernel、OpenAI SDK、MCP（Model Context Protocol）等 Agent Framework / Runtime。 Prompt / Context Engineering、复杂 Tool Calling、任务状态管理、Agent Evaluation、Tracing 或长链路任务执行。 Ontology、知识图谱、GraphRAG、企业知识组织与语义抽象。 Neo4j、NebulaGraph、Milvus、pgvector、Weaviate 等图数据库或向量数据库。 Embedding、Reranking、Retrieval Pipeline、Text-to-SQL 或 Tool Calling Infrastructure。 API 与数据库集成、异步任务、日志监控、自动化测试或 AI 应用部署。 有真实 AI Agent 项目、开源项目、科研竞赛、企业实习，或供应链、汽车及制造业相关经验。",
+      "JD": "业务背景 在汽车行业智能化与电动化趋势下，供应链已经成为企业核心竞争力之一。一辆汽车涉及上万个零部件及多个业务系统的全球协同，任何一个环节的信息不透明、风险识别不及时或决策滞后，都可能影响生产、库存、交付与成本。 团队正在建设面向新能源汽车供应链的新一代数据与 AI 能力体系，包括供应链数据底座、企业知识体系、Agent 平台与智能决策能力。我们希望通过 Data-driven 的方式推动供应链管理线上化，并结合 AI Co-pilot 与 Agentic AI，打造覆盖“监控、预警、分析、决策、执行”的供应链 Control Tower。 岗位将参与供应链 AI Agent 的设计、开发、评估与落地，服务于采购、计划、物流、库存及供应商管理等核心业务场景。 岗位职责 参与新能源汽车供应链场景 AI Agent 的设计与开发，将缺料分析、供应风险排查、库存诊断等业务问题拆解为可规划、可调用工具、可验证结果的智能任务。 基于 ReAct、Planning、Tool Calling、Memory 等机制，构建具备任务理解、步骤规划、知识检索、工具调用及结果校验能力的 Agent。 参与企业级 Agent Harness / Runtime 建设，包括 Tool / Skill 管理、Context 管理、任务状态管理、执行编排、失败重试、权限控制与运行可观测性等能力。 参与 Agent 评估体系建设，围绕任务成功率、工具调用准确率、知识检索质量、执行效率及结果可信度构建评测集，并通过失败案例分析持续优化系统。 参与供应链知识体系建设，包括 Ontology 建模、知识图谱、GraphRAG 和企业语义体系抽象，提升 Agent 对企业数据、知识及业务关系的理解能力。 与供应链、采购、计划、物流等业务团队，以及数据、产品和研发团队协同，推动 AI 能力在真实业务流程中落地并持续迭代。\n岗位要求 本科及以上学历，硕士优先；计算机、人工智能、软件工程、数据科学、自动化、数学、统计学、运筹优化等相关专业优先。 具备扎实的计算机基础与工程能力，熟悉 Python，掌握常用数据结构与算法，具备良好的代码质量和系统设计意识。 理解 Agentic AI 与固定 Workflow Automation 的区别，了解任务规划、工具调用、上下文管理、知识检索、结果校验及长链路任务执行等核心机制。 通过课程、科研、竞赛、实习或个人项目，完成过至少一个包含大模型调用、RAG、Tool Calling 或任务编排的 AI 应用，并能够清晰说明其技术方案、评估方式与局限性。 具备良好的问题拆解和学习能力，能够将复杂业务问题抽象为数据、知识、工具及执行流程。 具备良好的沟通协作能力，对供应链、制造业及企业级 AI 应用有兴趣。 不要求候选人覆盖全部技术方向。具备其中一个方向的深入项目经验，并对其他方向有基本理解即可。 熟悉或接触过以下技术方向者优先 LangGraph、AutoGen、CrewAI、Semantic Kernel、OpenAI SDK、MCP（Model Context Protocol）等 Agent Framework / Runtime。 Prompt / Context Engineering、复杂 Tool Calling、任务状态管理、Agent Evaluation、Tracing 或长链路任务执行。 Ontology、知识图谱、GraphRAG、企业知识组织与语义抽象。 Neo4j、NebulaGraph、Milvus、pgvector、Weaviate 等图数据库或向量数据库。 Embedding、Reranking、Retrieval Pipeline、Text-to-SQL 或 Tool Calling Infrastructure。 API 与数据库集成、异步任务、日志监控、自动化测试或 AI 应用部署。 有真实 AI Agent 项目、开源项目、科研竞赛、企业实习，或供应链、汽车及制造业相关经验。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "计算机、人工智能、软件工程、数据科学、自动化、数学、统计学、运筹优化等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链",
+        "招聘",
+        "物流"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673026521368004890/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

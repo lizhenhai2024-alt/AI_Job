@@ -1,8 +1,110 @@
 {
   "company": "美团",
-  "count": 51,
-  "updatedAt": "2026-10-12T22:38:24.453Z",
+  "count": 52,
+  "updatedAt": "2026-10-13T03:17:18.805Z",
   "jobs": [
+    {
+      "id": "meituan-42b460de9e82",
+      "company": "美团",
+      "title": "【国际化业务】销售运营岗/Sales Operations Specialist",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "： 本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "科威特城",
+      "jobDescription": "作为专业化的职能团队，在这里你可以与美团销售团队紧密配合，为前线业务提供销售策略和运营工作。如果你对以下任意一个方向感兴趣，欢迎网申这个岗位。 岗位职责： 供给策略运营： 基于业务策略或项目目标，分析市场需求与竞争格局，完成销售策略的拆解与落地执行。 营销策略运营： 基于业务策略、用户需求与商家需求，通过洞察与创意策划，推动营销项目落地。 销售数据分析： 围绕销售策略提供数据支持与分析，监测业务表现，预测业务趋势。 销售效能优化： 制定并优化标准化销售流程，搭建并持续迭代销售与管理工具。 业务培训与沟通： 基于销售团队与商家的能力水平和业务痛点，完善培训体系，搭建并运营沟通渠道。 AI 探索与应用： 探索 AI 在销售运营场景中的应用，如借助大模型辅助竞对分析、策略文案生成、智能化培训内容生产、自动化数据洞察等，持续提升运营效率。",
+      "jobRequirements": "岗位要求： 本科及以上学历，专业不限。 以客户为中心，保持学习心态与好奇心，主动思考并解决问题。 具备项目管理与执行能力，善于沟通表达，有同理心（校园活动、社团管理、实践项目经历是很好的加分项）。 具备商家需求调研能力，能通过市场洞察识别达成业务目标的关键驱动因素与行动抓手。 具备基础运营与数据分析能力，能通过数据发现业务问题，并将一线解决方案标准化、可视化、流程化。 有使用 AI 工具辅助运营工作的经验，乐于探索 AI 在销售场景中的应用。 可将英语作为工作语言，能支持跨国家/地区的业务沟通。",
+      "JD": "作为专业化的职能团队，在这里你可以与美团销售团队紧密配合，为前线业务提供销售策略和运营工作。如果你对以下任意一个方向感兴趣，欢迎网申这个岗位。 岗位职责： 供给策略运营： 基于业务策略或项目目标，分析市场需求与竞争格局，完成销售策略的拆解与落地执行。 营销策略运营： 基于业务策略、用户需求与商家需求，通过洞察与创意策划，推动营销项目落地。 销售数据分析： 围绕销售策略提供数据支持与分析，监测业务表现，预测业务趋势。 销售效能优化： 制定并优化标准化销售流程，搭建并持续迭代销售与管理工具。 业务培训与沟通： 基于销售团队与商家的能力水平和业务痛点，完善培训体系，搭建并运营沟通渠道。 AI 探索与应用： 探索 AI 在销售运营场景中的应用，如借助大模型辅助竞对分析、策略文案生成、智能化培训内容生产、自动化数据洞察等，持续提升运营效率。\n岗位要求： 本科及以上学历，专业不限。 以客户为中心，保持学习心态与好奇心，主动思考并解决问题。 具备项目管理与执行能力，善于沟通表达，有同理心（校园活动、社团管理、实践项目经历是很好的加分项）。 具备商家需求调研能力，能通过市场洞察识别达成业务目标的关键驱动因素与行动抓手。 具备基础运营与数据分析能力，能通过数据发现业务问题，并将一线解决方案标准化、可视化、流程化。 有使用 AI 工具辅助运营工作的经验，乐于探索 AI 在销售场景中的应用。 可将英语作为工作语言，能支持跨国家/地区的业务沟通。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "： 本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "海外运营",
+        "业务运营"
+      ],
+      "skills": [
+        "英语",
+        "数据分析",
+        "项目管理",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-09-23",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
     {
       "id": "meituan-62f679711ac2",
       "company": "美团",
@@ -831,6 +933,97 @@
       "preferenceTags": [
         "国际业务"
       ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "美团官方2027校招官网",
+      "officialURL": "https://zhaopin.meituan.com/web/campus",
+      "publishedAt": "2026-08-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
+      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
+    },
+    {
+      "id": "meituan-e631648ad5f4",
+      "company": "美团",
+      "title": "供应链管理岗",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，物流管理、物流工程、农学、食品科学、工业工程、海洋、数据分析、商业分析、统计等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "【岗位职责】 1. 负责S&OP供应链计划：输出商品的发货计划，并通过提升计划准确率，帮助仓配物流及时安排用工； 2. 负责中长期规划：建立中长期的单量运营计划，并转译为单量产能，库存体积等，协同物流端有效实现仓容拓展决策，保障业务增长需求； 3. 负责商家备货：优化商家备货计划能力，降低商品售罄损失，并减少中心仓多货； 4. 负责库存运营：通过AI辅助完成SKU销量预测、库存水位预警、异常波动识别等工作； 5. 负责库存平衡：基于已有的库存总量，主动调拨，平衡商品库存在整体仓网内的分布，提升对消费者履约效率； 6. 负责解决方案：根据不同品类的独特发展需求，建立全链路履约方案，推进持续改善，支持可盈利性增长； 7. 负责履约方案: 致力于商家体验提升，物流降本提效，持续优化现有履约链路。",
+      "jobRequirements": "【岗位要求】 1. 本科及以上学历，物流管理、物流工程、农学、食品科学、工业工程、海洋、数据分析、商业分析、统计等相关专业优先； 2. 具有较强的逻辑思考能力与结构化思维，善于从复杂供应链链路中定位核心问题并推动解决方案； 3. 具备优秀的沟通能力与跨团队协同推动能力，结果导向，能有效推动多部门合作； 4. 具有较强的学习能力，积极主动，自驱向前； 5. 有韧性，乐观，勤于动手，敢于创新； 6. 对AI工具在行业的应用有一定了解或兴趣，具备学习意愿，善于将AI工具融入供应链运营的实际业务场景中。 【岗位亮点】 1. 供应链能力建设价值高：供给侧需要有无限接近和满足消费者的能力，对于需求计划、库存计划、补货管理专业能力建设；以及通过供应链条的整体优化最大化供给的弹性。这种能力区别于现在的远场电商/线下电商已有的供应链能力，也会成为未来即时零售的核心竞争力。 2. 供应链场景的复杂度能帮助在供应链专业上的深度拓展：供应链链路上的节点多，品类复杂，异常场景多，都对供应链规划/计划/执行能力上有更高的要求，是很好的专业深度挑战。、 3. 深度参与美团供应链AI化升级：在AI重塑供应链的关键窗口期，与算法/产品/技术团队共同探索智能计划体系，既有深度的供应链专业修炼，也有AI转型浪潮的先行视角。",
+      "JD": "【岗位职责】 1. 负责S&OP供应链计划：输出商品的发货计划，并通过提升计划准确率，帮助仓配物流及时安排用工； 2. 负责中长期规划：建立中长期的单量运营计划，并转译为单量产能，库存体积等，协同物流端有效实现仓容拓展决策，保障业务增长需求； 3. 负责商家备货：优化商家备货计划能力，降低商品售罄损失，并减少中心仓多货； 4. 负责库存运营：通过AI辅助完成SKU销量预测、库存水位预警、异常波动识别等工作； 5. 负责库存平衡：基于已有的库存总量，主动调拨，平衡商品库存在整体仓网内的分布，提升对消费者履约效率； 6. 负责解决方案：根据不同品类的独特发展需求，建立全链路履约方案，推进持续改善，支持可盈利性增长； 7. 负责履约方案: 致力于商家体验提升，物流降本提效，持续优化现有履约链路。\n【岗位要求】 1. 本科及以上学历，物流管理、物流工程、农学、食品科学、工业工程、海洋、数据分析、商业分析、统计等相关专业优先； 2. 具有较强的逻辑思考能力与结构化思维，善于从复杂供应链链路中定位核心问题并推动解决方案； 3. 具备优秀的沟通能力与跨团队协同推动能力，结果导向，能有效推动多部门合作； 4. 具有较强的学习能力，积极主动，自驱向前； 5. 有韧性，乐观，勤于动手，敢于创新； 6. 对AI工具在行业的应用有一定了解或兴趣，具备学习意愿，善于将AI工具融入供应链运营的实际业务场景中。 【岗位亮点】 1. 供应链能力建设价值高：供给侧需要有无限接近和满足消费者的能力，对于需求计划、库存计划、补货管理专业能力建设；以及通过供应链条的整体优化最大化供给的弹性。这种能力区别于现在的远场电商/线下电商已有的供应链能力，也会成为未来即时零售的核心竞争力。 2. 供应链场景的复杂度能帮助在供应链专业上的深度拓展：供应链链路上的节点多，品类复杂，异常场景多，都对供应链规划/计划/执行能力上有更高的要求，是很好的专业深度挑战。、 3. 深度参与美团供应链AI化升级：在AI重塑供应链的关键窗口期，与算法/产品/技术团队共同探索智能计划体系，既有深度的供应链专业修炼，也有AI转型浪潮的先行视角。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，物流管理、物流工程、农学、食品科学、工业工程、海洋、数据分析、商业分析、统计等相关专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "电商",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
       "riskTags": [],
       "headcount": {
         "disclosed": false,
@@ -3064,96 +3257,6 @@
         "项目",
         "市场",
         "用户",
-        "数据",
-        "营销",
-        "品牌",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
-      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
-    },
-    {
-      "id": "meituan-bb8175c31fa2",
-      "company": "美团",
-      "title": "城市大客户商务合作专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "岗位职责： 1. 负责美团本地生活行业知名品牌的商务合作拓展，全方位地进行服务品牌跟进与沟通；深挖客户需求，提供广告、在线交易等全案营销策略方案； 2. 通过行业数据分析，品牌经营数据分析，线上经营数据分析指导客户线上线下经营迭代，制定落地执行方案； 3. 借助AI工具辅助客户分层与策略制定，提升经营策略迭代效率； 4. 跨部门协作，完成售前准备、提案、上线及总结复盘； 5. 建立并深化客户关系，与公司各部门配合，及时处理客户的反馈和建议，提高客户满意度。",
-      "jobRequirements": "工作要求： 1. 本科及以上学历，有学生会任职经历、社会实践经验者优先； 2. 热爱互联网本地生活行业，能够适应互联网行业的快速发展，具备出色完成任务的能力； 3. 具备较强的人际沟通能力、逻辑思维能力、学习能力和韧性； 4. 具备AI工具应用意识，能主动使用AI辅助完成客户分析、方案撰写、数据洞察等日常工作，有实际使用经验者优先。",
-      "JD": "岗位职责： 1. 负责美团本地生活行业知名品牌的商务合作拓展，全方位地进行服务品牌跟进与沟通；深挖客户需求，提供广告、在线交易等全案营销策略方案； 2. 通过行业数据分析，品牌经营数据分析，线上经营数据分析指导客户线上线下经营迭代，制定落地执行方案； 3. 借助AI工具辅助客户分层与策略制定，提升经营策略迭代效率； 4. 跨部门协作，完成售前准备、提案、上线及总结复盘； 5. 建立并深化客户关系，与公司各部门配合，及时处理客户的反馈和建议，提高客户满意度。\n工作要求： 1. 本科及以上学历，有学生会任职经历、社会实践经验者优先； 2. 热爱互联网本地生活行业，能够适应互联网行业的快速发展，具备出色完成任务的能力； 3. 具备较强的人际沟通能力、逻辑思维能力、学习能力和韧性； 4. 具备AI工具应用意识，能主动使用AI辅助完成客户分析、方案撰写、数据洞察等日常工作，有实际使用经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
         "数据",
         "营销",
         "品牌",
