@@ -1,7 +1,7 @@
 {
   "company": "TCL华星光电",
   "count": 77,
-  "updatedAt": "2026-10-13T20:45:34.156Z",
+  "updatedAt": "2026-10-14T01:44:10.924Z",
   "jobs": [
     {
       "id": "hotjob-779fe73e5dfa",
@@ -193,7 +193,7 @@
       "publishedAt": "2026-09-21",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-20",
+      "deadline": "2026-10-21",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -898,7 +898,7 @@
       "publishedAt": "2026-09-21",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-20",
+      "deadline": "2026-10-21",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -2141,7 +2141,7 @@
       "publishedAt": "2026-09-21",
       "lastVerified": "",
       "sourceType": "official",
-      "deadline": "2026-10-20",
+      "deadline": "2026-10-21",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",
@@ -3555,94 +3555,6 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
-      "id": "hotjob-87c95ee5f3ef",
-      "company": "TCL华星光电",
-      "title": "HR管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "越南",
-      "jobDescription": "1. 负责招聘需求的收集与分析，协助制定招聘计划并开展招聘工作； 2. 通过高校、职业院校、招聘机构及线上渠道等建立和维护人才招聘渠道； 3. 拓展潜在人才资源，维护与院校、合作伙伴及相关机构的合作关系； 4. 统计、分析招聘数据，定期提交招聘及市场开发相关报告。",
-      "jobRequirements": "1. 中文听、说、读、写能力良好，可作为工作语言； 2. 具备良好的沟通协调能力、人际交往能力及团队合作精神； 3. 积极主动，学习能力强，责任心强，能够适应出差及不同工作环境。",
-      "JD": "1. 负责招聘需求的收集与分析，协助制定招聘计划并开展招聘工作； 2. 通过高校、职业院校、招聘机构及线上渠道等建立和维护人才招聘渠道； 3. 拓展潜在人才资源，维护与院校、合作伙伴及相关机构的合作关系； 4. 统计、分析招聘数据，定期提交招聘及市场开发相关报告。\n1. 中文听、说、读、写能力良好，可作为工作语言； 2. 具备良好的沟通协调能力、人际交往能力及团队合作精神； 3. 积极主动，学习能力强，责任心强，能够适应出差及不同工作环境。",
-      "jdEvidence": {
-        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
-        "majorClauses": [],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "HR"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "市场",
-        "数据",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a111ad6db7cf833b5ce&recruitType=1",
-      "publishedAt": "2026-10-13",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2026-10-21",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
       "id": "hotjob-ebb2a2bab0ad",
       "company": "TCL华星光电",
       "title": "服务技术管培生",
@@ -3730,6 +3642,94 @@
       "annualSalary": "未披露",
       "source": "公司官方HotJob校招官网",
       "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8aa5c51ad6db7cf833c207&recruitType=1",
+      "publishedAt": "2026-10-13",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2026-10-21",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
+      "id": "hotjob-87c95ee5f3ef",
+      "company": "TCL华星光电",
+      "title": "HR管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "越南",
+      "jobDescription": "1. 负责招聘需求的收集与分析，协助制定招聘计划并开展招聘工作； 2. 通过高校、职业院校、招聘机构及线上渠道等建立和维护人才招聘渠道； 3. 拓展潜在人才资源，维护与院校、合作伙伴及相关机构的合作关系； 4. 统计、分析招聘数据，定期提交招聘及市场开发相关报告。",
+      "jobRequirements": "1. 中文听、说、读、写能力良好，可作为工作语言； 2. 具备良好的沟通协调能力、人际交往能力及团队合作精神； 3. 积极主动，学习能力强，责任心强，能够适应出差及不同工作环境。",
+      "JD": "1. 负责招聘需求的收集与分析，协助制定招聘计划并开展招聘工作； 2. 通过高校、职业院校、招聘机构及线上渠道等建立和维护人才招聘渠道； 3. 拓展潜在人才资源，维护与院校、合作伙伴及相关机构的合作关系； 4. 统计、分析招聘数据，定期提交招聘及市场开发相关报告。\n1. 中文听、说、读、写能力良好，可作为工作语言； 2. 具备良好的沟通协调能力、人际交往能力及团队合作精神； 3. 积极主动，学习能力强，责任心强，能够适应出差及不同工作环境。",
+      "jdEvidence": {
+        "source": "llm:gemini-free-31:gemini-3.1-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a8a7a111ad6db7cf833b5ce&recruitType=1",
       "publishedAt": "2026-10-13",
       "lastVerified": "",
       "sourceType": "official",
@@ -4129,6 +4129,100 @@
       "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
     },
     {
+      "id": "hotjob-577d0acbe394",
+      "company": "TCL华星光电",
+      "title": "组织发展与干部管理专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "1. 组织发展项目支持 协助开展组织架构优化、岗位体系建设、职能梳理等工作； 参与组织诊断、员工敬业度调研、文化落地等专项项目； 协助制定并跟进组织发展年度计划与关键指标。 2. 干部管理与人才梯队建设 协助干部选拔、任用、考核与培养相关流程； 参与关键岗位人才盘点、继任计划制定与跟进； 协助组织干部培训、领导力发展项目及评估。 3. 数据分析与制度优化 收集、整理并分析组织与人才相关数据，形成分析报告； 协助优化干部管理制度、流程与工具。 4. 跨部门协作与专项任务 与招聘、培训、绩效等HR模块协作，推动综合性人力资源项目； 完成上级交办的其他工作任务。",
+      "jobRequirements": "1. 2027届应届毕业生，硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先 2. 具备良好的逻辑思维与数据分析能力；优秀的沟通协调能力与团队合作精神；学习能力强，能快速理解业务与组织运作； 3. 性格活泼外向，人际敏感度高，聪明好学，结果导向",
+      "JD": "1. 组织发展项目支持 协助开展组织架构优化、岗位体系建设、职能梳理等工作； 参与组织诊断、员工敬业度调研、文化落地等专项项目； 协助制定并跟进组织发展年度计划与关键指标。 2. 干部管理与人才梯队建设 协助干部选拔、任用、考核与培养相关流程； 参与关键岗位人才盘点、继任计划制定与跟进； 协助组织干部培训、领导力发展项目及评估。 3. 数据分析与制度优化 收集、整理并分析组织与人才相关数据，形成分析报告； 协助优化干部管理制度、流程与工具。 4. 跨部门协作与专项任务 与招聘、培训、绩效等HR模块协作，推动综合性人力资源项目； 完成上级交办的其他工作任务。\n1. 2027届应届毕业生，硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先 2. 具备良好的逻辑思维与数据分析能力；优秀的沟通协调能力与团队合作精神；学习能力强，能快速理解业务与组织运作； 3. 性格活泼外向，人际敏感度高，聪明好学，结果导向",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先"
+        ],
+        "eligibilityClauses": [
+          "2027届应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "沟通",
+        "分析"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方HotJob校招官网",
+      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a977879829af219b7d7cb50&recruitType=1",
+      "publishedAt": "2026-10-14",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-09-02",
+      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
+      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
+    },
+    {
       "id": "hotjob-d0da05308f83",
       "company": "TCL华星光电",
       "title": "计划专员",
@@ -4215,100 +4309,6 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2026-10-21",
-      "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
-      "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | TCL官方校招门户 | https://campus.tcl.com/campus/spring.html | 2026-09-17"
-    },
-    {
-      "id": "hotjob-577d0acbe394",
-      "company": "TCL华星光电",
-      "title": "组织发展与干部管理专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "硕士",
-        "masterRequired": true
-      },
-      "major": {
-        "raw": "硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "1. 组织发展项目支持 协助开展组织架构优化、岗位体系建设、职能梳理等工作； 参与组织诊断、员工敬业度调研、文化落地等专项项目； 协助制定并跟进组织发展年度计划与关键指标。 2. 干部管理与人才梯队建设 协助干部选拔、任用、考核与培养相关流程； 参与关键岗位人才盘点、继任计划制定与跟进； 协助组织干部培训、领导力发展项目及评估。 3. 数据分析与制度优化 收集、整理并分析组织与人才相关数据，形成分析报告； 协助优化干部管理制度、流程与工具。 4. 跨部门协作与专项任务 与招聘、培训、绩效等HR模块协作，推动综合性人力资源项目； 完成上级交办的其他工作任务。",
-      "jobRequirements": "1. 2027届应届毕业生，硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先 2. 具备良好的逻辑思维与数据分析能力；优秀的沟通协调能力与团队合作精神；学习能力强，能快速理解业务与组织运作； 3. 性格活泼外向，人际敏感度高，聪明好学，结果导向",
-      "JD": "1. 组织发展项目支持 协助开展组织架构优化、岗位体系建设、职能梳理等工作； 参与组织诊断、员工敬业度调研、文化落地等专项项目； 协助制定并跟进组织发展年度计划与关键指标。 2. 干部管理与人才梯队建设 协助干部选拔、任用、考核与培养相关流程； 参与关键岗位人才盘点、继任计划制定与跟进； 协助组织干部培训、领导力发展项目及评估。 3. 数据分析与制度优化 收集、整理并分析组织与人才相关数据，形成分析报告； 协助优化干部管理制度、流程与工具。 4. 跨部门协作与专项任务 与招聘、培训、绩效等HR模块协作，推动综合性人力资源项目； 完成上级交办的其他工作任务。\n1. 2027届应届毕业生，硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先 2. 具备良好的逻辑思维与数据分析能力；优秀的沟通协调能力与团队合作精神；学习能力强，能快速理解业务与组织运作； 3. 性格活泼外向，人际敏感度高，聪明好学，结果导向",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "硕士及以上学历，专业不限，新闻传播类专业，有品宣特长优先"
-        ],
-        "eligibilityClauses": [
-          "2027届应届毕业生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "沟通",
-        "分析"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方HotJob校招官网",
-      "officialURL": "https://wecruit.hotjob.cn/SU64893571bef57c16d356b99e/mc/detail?postId=6a977879829af219b7d7cb50&recruitType=1",
-      "publishedAt": "2026-10-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-09-02",
       "recruitmentProcess": "在线网申→在线测评→简历筛选→笔试（研发岗）→一面→二面→offer",
       "recruitmentProcessEvidence": "E2 | TCL招聘官网琥珀计划页 | https://zhaopin.tcl.com/campus/amber.html | 2026-09-17",
       "hasAssessment": "有",

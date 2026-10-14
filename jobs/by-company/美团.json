@@ -1,7 +1,7 @@
 {
   "company": "美团",
-  "count": 52,
-  "updatedAt": "2026-10-13T20:45:34.156Z",
+  "count": 51,
+  "updatedAt": "2026-10-14T01:44:10.924Z",
   "jobs": [
     {
       "id": "meituan-42b460de9e82",
@@ -3160,96 +3160,6 @@
         "项目",
         "市场",
         "用户",
-        "数据",
-        "营销",
-        "品牌",
-        "客户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "美团官方2027校招官网",
-      "officialURL": "https://zhaopin.meituan.com/web/campus",
-      "publishedAt": "2026-08-17",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申→集中笔试→AI面试（部分岗位）→面试→录用意向书",
-      "recruitmentProcessEvidence": "E1 | 美团招聘官网校招行程 | https://join.meituan.com/web/campus/schedule | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 美团招聘官网FAQ | https://job.meituan.com/web/question/campus | 2026-09-17"
-    },
-    {
-      "id": "meituan-bb8175c31fa2",
-      "company": "美团",
-      "title": "城市大客户商务合作专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "岗位职责： 1. 负责美团本地生活行业知名品牌的商务合作拓展，全方位地进行服务品牌跟进与沟通；深挖客户需求，提供广告、在线交易等全案营销策略方案； 2. 通过行业数据分析，品牌经营数据分析，线上经营数据分析指导客户线上线下经营迭代，制定落地执行方案； 3. 借助AI工具辅助客户分层与策略制定，提升经营策略迭代效率； 4. 跨部门协作，完成售前准备、提案、上线及总结复盘； 5. 建立并深化客户关系，与公司各部门配合，及时处理客户的反馈和建议，提高客户满意度。",
-      "jobRequirements": "工作要求： 1. 本科及以上学历，有学生会任职经历、社会实践经验者优先； 2. 热爱互联网本地生活行业，能够适应互联网行业的快速发展，具备出色完成任务的能力； 3. 具备较强的人际沟通能力、逻辑思维能力、学习能力和韧性； 4. 具备AI工具应用意识，能主动使用AI辅助完成客户分析、方案撰写、数据洞察等日常工作，有实际使用经验者优先。",
-      "JD": "岗位职责： 1. 负责美团本地生活行业知名品牌的商务合作拓展，全方位地进行服务品牌跟进与沟通；深挖客户需求，提供广告、在线交易等全案营销策略方案； 2. 通过行业数据分析，品牌经营数据分析，线上经营数据分析指导客户线上线下经营迭代，制定落地执行方案； 3. 借助AI工具辅助客户分层与策略制定，提升经营策略迭代效率； 4. 跨部门协作，完成售前准备、提案、上线及总结复盘； 5. 建立并深化客户关系，与公司各部门配合，及时处理客户的反馈和建议，提高客户满意度。\n工作要求： 1. 本科及以上学历，有学生会任职经历、社会实践经验者优先； 2. 热爱互联网本地生活行业，能够适应互联网行业的快速发展，具备出色完成任务的能力； 3. 具备较强的人际沟通能力、逻辑思维能力、学习能力和韧性； 4. 具备AI工具应用意识，能主动使用AI辅助完成客户分析、方案撰写、数据洞察等日常工作，有实际使用经验者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析"
-      ],
-      "experienceKeywords": [
         "数据",
         "营销",
         "品牌",

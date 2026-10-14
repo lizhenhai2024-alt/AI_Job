@@ -244,7 +244,7 @@ export const sourceHealth = {
       "company": "NVIDIA 英伟达",
       "status": "healthy",
       "healthy": true,
-      "reason": "Moka源正常：发现34，源内保留14"
+      "reason": "Moka源正常：发现35，源内保留14"
     },
     {
       "provider": "moka",
@@ -287,6 +287,13 @@ export const sourceHealth = {
       "status": "healthy",
       "healthy": true,
       "reason": "Moka源正常：发现43，源内保留42"
+    },
+    {
+      "provider": "moka",
+      "company": "一、招聘岗位",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "Moka源正常：发现58，源内保留0"
     },
     {
       "provider": "beisen",
@@ -489,7 +496,7 @@ export const sourceHealth = {
       "company": "京东方",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留564"
+      "reason": "北森源正常：扫描600，源内保留563"
     },
     {
       "provider": "beisen",
@@ -643,7 +650,7 @@ export const sourceHealth = {
       "company": "中国人寿",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留440"
+      "reason": "北森源正常：扫描600，源内保留441"
     },
     {
       "provider": "beisen",
@@ -678,7 +685,7 @@ export const sourceHealth = {
       "company": "蜜雪冰城",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描60，源内保留26"
+      "reason": "北森源正常：扫描58，源内保留26"
     },
     {
       "provider": "beisen",
@@ -763,6 +770,20 @@ export const sourceHealth = {
       "status": "healthy",
       "healthy": true,
       "reason": "北森源正常：扫描53，源内保留48"
+    },
+    {
+      "provider": "beisen",
+      "company": "电商独角兽",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描122，源内保留28"
+    },
+    {
+      "provider": "beisen",
+      "company": "大家保险集团",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "北森源正常：扫描304，源内保留49"
     },
     {
       "provider": "feishu",
@@ -902,14 +923,14 @@ export const sourceHealth = {
       "company": "创维集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出128，源内保留126"
+      "reason": "HotJob源正常：列出138，源内保留136"
     },
     {
       "provider": "hotjob",
       "company": "宁德新能源科技有限公司",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出41，源内保留41"
+      "reason": "HotJob源正常：列出15，源内保留15"
     },
     {
       "provider": "hotjob",
@@ -937,7 +958,7 @@ export const sourceHealth = {
       "company": "新能安",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出84，源内保留84"
+      "reason": "HotJob源正常：列出76，源内保留76"
     },
     {
       "provider": "hotjob",
@@ -951,7 +972,7 @@ export const sourceHealth = {
       "company": "TCL华星光电",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出400，源内保留144"
+      "reason": "HotJob源正常：列出390，源内保留142"
     },
     {
       "provider": "hotjob",
@@ -1145,16 +1166,16 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "北京外国语大学",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "university",
       "company": "对外经济贸易大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 2 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量25，源内保留1"
     },
     {
       "provider": "university",
@@ -1180,9 +1201,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "南开大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量30，源内保留9"
     },
     {
       "provider": "university",
@@ -1208,9 +1229,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "西安外国语大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量26，源内保留1"
     },
     {
       "provider": "university",
@@ -1522,13 +1543,13 @@ export const sourceHealth = {
     }
   ],
   "counts": {
-    "healthy": 148,
+    "healthy": 154,
     "empty": 10,
-    "error": 11,
-    "unknown": 48
+    "error": 9,
+    "unknown": 47
   },
-  "total": 217,
-  "healthy": 148,
-  "attention": 69,
-  "updatedAt": "2026-10-13T20:45:30.797Z"
+  "total": 220,
+  "healthy": 154,
+  "attention": 66,
+  "updatedAt": "2026-10-14T01:43:51.905Z"
 };

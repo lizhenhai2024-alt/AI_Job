@@ -165,6 +165,10 @@ export const sourceRegistry = [
     "company": "兆易创新"
   },
   {
+    "provider": "moka",
+    "company": "一、招聘岗位"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },
@@ -435,6 +439,14 @@ export const sourceRegistry = [
   {
     "provider": "beisen",
     "company": "湖南长银五八消费金融股份有限公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "电商独角兽"
+  },
+  {
+    "provider": "beisen",
+    "company": "大家保险集团"
   },
   {
     "provider": "feishu",

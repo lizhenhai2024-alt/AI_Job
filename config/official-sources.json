@@ -227,6 +227,13 @@
       "baseUrl": "https://app.mokahr.com",
       "graduationYear": "2027",
       "monitoringNote": "V5日报补充；Moka标准域 92215；门户热招默认展示2026春招，列表需按2027届过滤"
+    },
+    {
+      "company": "一、招聘岗位",
+      "url": "https://app.mokahr.com/campus-recruitment/easpring/102152",
+      "graduationYear": "2027",
+      "strictCohort": true,
+      "monitoringNote": "高校就业网自动发现：南开大学；岗位级继续要求2027届证据"
     }
   ],
   "beisen": [
@@ -611,6 +618,18 @@
     {
       "company": "湖南长银五八消费金融股份有限公司",
       "baseUrl": "https://cscb.zhiye.com",
+      "graduationYear": "2027",
+      "monitoringNote": "高校就业网自动发现：南开大学；后续由source health验证标准北森抓取"
+    },
+    {
+      "company": "电商独角兽",
+      "baseUrl": "https://huicecom.zhiye.com",
+      "graduationYear": "2027",
+      "monitoringNote": "高校就业网自动发现：南开大学；后续由source health验证标准北森抓取"
+    },
+    {
+      "company": "大家保险集团",
+      "baseUrl": "https://djbx.zhiye.com",
       "graduationYear": "2027",
       "monitoringNote": "高校就业网自动发现：南开大学；后续由source health验证标准北森抓取"
     }

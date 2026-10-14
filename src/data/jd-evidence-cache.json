@@ -36042,5 +36042,35 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "beisen-1419583b7d8f:0ca2f4c9f164bef6:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [
+   "问题根因"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
+ },
+ "beisen-73450c34abce:e4e43bddcc7a649b:gemini-3.1-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "硕士研究生及以上学历应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "硕士研究生及以上学历应届毕业生",
+   "通过初面后需实习考核"
+  ],
+  "technicalDuties": [
+   "问题根因",
+   "技术评估"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
  }
 }

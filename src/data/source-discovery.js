@@ -111,6 +111,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-16T10:55:22.110Z"
   },
   {
+    "name": "大家保险集团",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://djbx.zhiye.com/campus",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-14T01:17:26.976Z",
+    "nextCheckAfter": ""
+  },
+  {
     "name": "大疆",
     "status": "主投",
     "state": "needs_adapter",
@@ -142,6 +153,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-11T17:45:07.884Z",
     "nextCheckAfter": "2026-09-18T17:45:07.884Z"
+  },
+  {
+    "name": "电商独角兽",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://huicecom.zhiye.com/Campus",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-14T01:17:26.976Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "叠纸游戏",
@@ -287,6 +309,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-16T10:55:22.111Z"
   },
   {
+    "name": "虹科 | 寻找定义未来的合伙人",
+    "status": "高校自动发现",
+    "state": "needs_adapter",
+    "provider": "",
+    "officialUrl": "https://job.hkaco.com/",
+    "reason": "已发现公司官方招聘入口，但当前站点 job.hkaco.com 尚无自动抓取适配器",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-14T01:17:26.976Z",
+    "nextCheckAfter": "2026-10-15T01:17:26.983Z"
+  },
+  {
     "name": "虹软科技",
     "status": "主投",
     "state": "needs_adapter",
@@ -305,7 +338,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://cscb.zhiye.com/campus/jobs",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-12T22:38:20.311Z",
+    "lastCheckedAt": "2026-10-14T01:17:26.976Z",
     "nextCheckAfter": ""
   },
   {
@@ -965,8 +998,19 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.sf-express.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.sf-express.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-13T20:45:31.666Z",
-    "nextCheckAfter": "2026-10-14T20:45:31.670Z"
+    "lastCheckedAt": "2026-10-14T01:17:26.976Z",
+    "nextCheckAfter": "2026-10-15T01:17:26.983Z"
+  },
+  {
+    "name": "一、招聘岗位",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "moka",
+    "officialUrl": "https://app.mokahr.com/campus-recruitment/easpring/102152",
+    "reason": "高校详情页明确给出Moka校园招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-14T01:17:26.976Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "一加",
@@ -1411,7 +1455,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-13T20:45:31.666Z",
+  "updatedAt": "2026-10-14T01:17:26.976Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
