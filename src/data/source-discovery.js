@@ -1009,8 +1009,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.sf-express.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.sf-express.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-14T14:32:23.527Z",
-    "nextCheckAfter": "2026-10-15T14:32:23.530Z"
+    "lastCheckedAt": "2026-10-14T19:13:18.746Z",
+    "nextCheckAfter": "2026-10-15T19:13:18.750Z"
   },
   {
     "name": "一、招聘岗位",
@@ -1477,7 +1477,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-14T18:37:58.328Z",
+  "updatedAt": "2026-10-14T19:13:18.746Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
