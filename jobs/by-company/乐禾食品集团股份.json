@@ -1,0 +1,1073 @@
+{
+  "company": "乐禾食品集团股份有限公司",
+  "count": 12,
+  "updatedAt": "2026-10-14T14:58:33.030Z",
+  "jobs": [
+    {
+      "id": "beisen-ed606662d83e",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-供应链运营岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，供应链、物流相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1、明确重点品类，筛选供应商、比价对接，输出最优采购方案； 2、协助新主体工商注册，建立客户与供应商档案并动态维护； 3、收集采销、对账、付款单据并复核，每月输出数据复核报告、跟进差异； 4、审核供应商资质、核算毛利率、比价分析，每季度输出价格分析报告。",
+      "jobRequirements": "1、2027 应届毕业生，本科及以上学历，供应链、物流相关专业优先； 2、学习力强、有数据意识、能抗压协作； 3、Excel 熟练（VLOOKUP、数据透视表），有供应链相关实习经历优先； 4、接受到产地、批发市场调研和分子公司出差支援。",
+      "JD": "1、明确重点品类，筛选供应商、比价对接，输出最优采购方案； 2、协助新主体工商注册，建立客户与供应商档案并动态维护； 3、收集采销、对账、付款单据并复核，每月输出数据复核报告、跟进差异； 4、审核供应商资质、核算毛利率、比价分析，每季度输出价格分析报告。\n1、2027 应届毕业生，本科及以上学历，供应链、物流相关专业优先； 2、学习力强、有数据意识、能抗压协作； 3、Excel 熟练（VLOOKUP、数据透视表），有供应链相关实习经历优先； 4、接受到产地、批发市场调研和分子公司出差支援。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，供应链、物流相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027 应届毕业生，本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "合同",
+          "客户关系",
+          "物流执行",
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、明确重点品类，筛选供应商、比价对接，输出最优采购方案； 2、协助新主体工商注册"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：Excel。"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=91f42086-0a99-495b-be1c-14a070a4d9b0",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-72f8a80a6bf9",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-经营支持岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 届应届毕业生，本科及以上学历，供应链管理、财务管理、统计学相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "1、跟进区域内分公司经营结果与项目进度，对标总部/大区经营战略目标落实，实时跟踪销售、采购、运营端进展并协同总部提供支持； 2、收集并梳理分公司采购、销售、运营端数据，分析经营状况、提出改善建议，定期开展经营计划执行跟踪分析； 3、参与经营管理运营体系迭代与数字化落地，推动数字化进程合理发展； 4、梳理分公司内部制度与流程、完善规则机制，保障营销、运营及供应链端口衔接顺畅，并承担现场支援与持续赋能。",
+      "jobRequirements": "1、2027 届应届毕业生，本科及以上学历，供应链管理、财务管理、统计学相关专业优先； 2、具备一定的数据分析知识基础，逻辑清晰、对数据敏感； 3、沟通协调与闭环能力强、责任心佳，具备跨部门协同推进能力，接受区域内出差； 4、Excel 熟练，了解 SQL、Python 或 BI 等数据分析工具，有生鲜、零售行业实习经历优先。",
+      "JD": "1、跟进区域内分公司经营结果与项目进度，对标总部/大区经营战略目标落实，实时跟踪销售、采购、运营端进展并协同总部提供支持； 2、收集并梳理分公司采购、销售、运营端数据，分析经营状况、提出改善建议，定期开展经营计划执行跟踪分析； 3、参与经营管理运营体系迭代与数字化落地，推动数字化进程合理发展； 4、梳理分公司内部制度与流程、完善规则机制，保障营销、运营及供应链端口衔接顺畅，并承担现场支援与持续赋能。\n1、2027 届应届毕业生，本科及以上学历，供应链管理、财务管理、统计学相关专业优先； 2、具备一定的数据分析知识基础，逻辑清晰、对数据敏感； 3、沟通协调与闭环能力强、责任心佳，具备跨部门协同推进能力，接受区域内出差； 4、Excel 熟练，了解 SQL、Python 或 BI 等数据分析工具，有生鲜、零售行业实习经历优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届应届毕业生，本科及以上学历，供应链管理、财务管理、统计学相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "数据",
+        "营销",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、跟进区域内分公司经营结果与项目进度，对标总部/大区经营战略目标落实，实时跟踪销"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：Excel、"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=356083dd-4ea7-499b-b20f-a1f087f086ca",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d44ddc8ed19e",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-客户成功岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届及优秀往届生，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责",
+      "jobRequirements": "1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配。",
+      "JD": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责\n1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届及优秀往届生，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=3226b9ec-98e1-4f58-9968-516b0c07d0c4",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f80befc85627",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-人力资源岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "人力资源管理相关专业优先；本科及以上院校",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省",
+      "jobDescription": "1、承接业务需求输出招聘与配置方案，管理招聘渠道并推进内外部人才配置； 2、组织培训需求调研与培训项目落地，跟进人才发展项目与培训资源建设； 3、办理员工入离调转，支持绩效考核与薪酬核算落地。",
+      "jobRequirements": "1、2027 届应届毕业生，本科及以上院校，人力资源管理相关专业优先； 2、具备学习能力与思考力，有正能量与韧性，能在招聘压力下持续投入； 3、沟通协调与抗压能力强，能同时推进多线程事务； 4、有人力资源实习、学生会或社团干部经历优先。",
+      "JD": "1、承接业务需求输出招聘与配置方案，管理招聘渠道并推进内外部人才配置； 2、组织培训需求调研与培训项目落地，跟进人才发展项目与培训资源建设； 3、办理员工入离调转，支持绩效考核与薪酬核算落地。\n1、2027 届应届毕业生，本科及以上院校，人力资源管理相关专业优先； 2、具备学习能力与思考力，有正能量与韧性，能在招聘压力下持续投入； 3、沟通协调与抗压能力强，能同时推进多线程事务； 4、有人力资源实习、学生会或社团干部经历优先。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "人力资源管理相关专业优先",
+          "本科及以上院校"
+        ],
+        "eligibilityClauses": [
+          "2027 届应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、承接业务需求输出招聘与配置方案，管理招聘渠道并推进内外部人才配置； 2、组织培"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=4a395d0e-576f-4295-98fc-7bd8dea66328",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9de0f1cb2207",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-投资岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省",
+      "jobDescription": "1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告； 2、参与业务与法律板块尽职调查，识别风险点并输出规范建议； 3、跟踪食材供应链行业政策与法规动向，输出行业研究与竞对分析报告。",
+      "jobRequirements": "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先； 2、具备思考力与逻辑思维清晰，有上进心与韧性、能持续学习； 3、具备较强的信息检索、数据分析与书面表达能力，有会计师事务所或投研实习经历优先； 4、可接受项目尽调短期出差。",
+      "JD": "1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告； 2、参与业务与法律板块尽职调查，识别风险点并输出规范建议； 3、跟踪食材供应链行业政策与法规动向，输出行业研究与竞对分析报告。\n1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先； 2、具备思考力与逻辑思维清晰，有上进心与韧性、能持续学习； 3、具备较强的信息检索、数据分析与书面表达能力，有会计师事务所或投研实习经历优先； 4、可接受项目尽调短期出差。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=12df29d3-3573-452c-a079-c8f5de4c4df7",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-deb5ce94795c",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-客户管理岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 届应届毕业生，本科及以上院校，工商管理、企业管理、市场营销相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省",
+      "jobDescription": "1、协助搭建营销体系与营销赋能工具，输出标准化营销物料； 2、支持项目客户的食材配送业务开拓，跟进商机从接洽到签约落地； 3、管控合同合规管理与归档，输出定价测算与营销费用分析。",
+      "jobRequirements": "1、2027 届应届毕业生，本科及以上院校，工商管理、企业管理、市场营销相关专业优先； 2、抗压、沟通协调与团队协作能力强，具备数据分析意识与主动性，能耐心跟进长期客户； 3、具备较强的商务意识，有销售、市场类实习经历优先； 4、可接受分子公司出差支援。",
+      "JD": "1、协助搭建营销体系与营销赋能工具，输出标准化营销物料； 2、支持项目客户的食材配送业务开拓，跟进商机从接洽到签约落地； 3、管控合同合规管理与归档，输出定价测算与营销费用分析。\n1、2027 届应届毕业生，本科及以上院校，工商管理、企业管理、市场营销相关专业优先； 2、抗压、沟通协调与团队协作能力强，具备数据分析意识与主动性，能耐心跟进长期客户； 3、具备较强的商务意识，有销售、市场类实习经历优先； 4、可接受分子公司出差支援。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届应届毕业生，本科及以上院校，工商管理、企业管理、市场营销相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、协助搭建营销体系与营销赋能工具，输出标准化营销物料； 2、支持项目客户的食材配"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=676964dc-1b45-4298-b852-1ab5d37e4fc2",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d71445b98186",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-投标岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 届应届毕业生，本科及以上院校，工商管理、企业管理、市场营销相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省",
+      "jobDescription": "1、研究并输出标准化、模块化的投标方案，搭建投标产品库； 2、收集汇总招投标信息，分析招标文件并编制投标文件，对接分子公司投标资质； 3、跟进投标报价与开标数据分析，输出报价策略建议，管理投标费用与回款。",
+      "jobRequirements": "岗位要求 1、2027 届应届毕业生，本科及以上院校，工商管理、企业管理、市场营销相关专业优先； 2、细心、耐心、责任心强，逻辑清晰、办公软件熟练、文案功底扎实，能独立完成方案撰写； 3、有招投标实习经历优先； 4、能适应投标节点集中期的高强度节奏。",
+      "JD": "1、研究并输出标准化、模块化的投标方案，搭建投标产品库； 2、收集汇总招投标信息，分析招标文件并编制投标文件，对接分子公司投标资质； 3、跟进投标报价与开标数据分析，输出报价策略建议，管理投标费用与回款。\n岗位要求 1、2027 届应届毕业生，本科及以上院校，工商管理、企业管理、市场营销相关专业优先； 2、细心、耐心、责任心强，逻辑清晰、办公软件熟练、文案功底扎实，能独立完成方案撰写； 3、有招投标实习经历优先； 4、能适应投标节点集中期的高强度节奏。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届应届毕业生，本科及以上院校，工商管理、企业管理、市场营销相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、研究并输出标准化、模块化的投标方案，搭建投标产品库； 2、收集汇总招投标信息，"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：数据分析、文"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=9ec947a5-63d0-455d-80cf-d1136d647afc",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-588fd04cd816",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-采购岗（2027)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "供应链管理、物流相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省",
+      "jobDescription": "1、协助搭建集团各食材品类供应管理体系，推行供应商开发与管理策略； 2、基于数据分析开展品类毛利管理，输出毛利优化方案； 3、分析并指导分子公司供应商定价与客户报价，完善定价机制。",
+      "jobRequirements": "岗位要求 1、2027 届应届毕业生，本科及以上院校，供应链管理、物流相关专业优先； 2、具备经营思维与成本意识，沟通协调、抗压与团队协作能力强，能以数据分析驱动决策并持续学习； 3、有采购或供应链实习经历优先； 4、认同食材供应链行业，可适应产地、市场走访、分子公司出差支援； 5、需接受在总部培训后调派至大区、分子公司的安排。",
+      "JD": "1、协助搭建集团各食材品类供应管理体系，推行供应商开发与管理策略； 2、基于数据分析开展品类毛利管理，输出毛利优化方案； 3、分析并指导分子公司供应商定价与客户报价，完善定价机制。\n岗位要求 1、2027 届应届毕业生，本科及以上院校，供应链管理、物流相关专业优先； 2、具备经营思维与成本意识，沟通协调、抗压与团队协作能力强，能以数据分析驱动决策并持续学习； 3、有采购或供应链实习经历优先； 4、认同食材供应链行业，可适应产地、市场走访、分子公司出差支援； 5、需接受在总部培训后调派至大区、分子公司的安排。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "供应链管理、物流相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027 届应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、协助搭建集团各食材品类供应管理体系，推行供应商开发与管理策略； 2、基于数据分"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=0f31880a-544c-4d3d-9ebe-abeb84702f60",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c8ec41a36843",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-行政岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 届应届毕业生，本科及以上院校，行政管理、工商管理、档案管理相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省",
+      "jobDescription": "1、参与集团印章、档案与工商合规管理专项工作，落实合规自查、风险排查与保密管控工作； 2、协助集团行政统筹与制度体系建设：参与总部及分子公司行政全模块运营，梳理标准化流程、督查制度落地执行； 3、参与行政费用精细化管控，输出费用分析与优化方案； 4、统筹对外行政外联与日常保障：对接工商、市场监管等政企单位及物业、供应商，落地宿舍、食堂等后勤保障与上级交办专项工作。",
+      "jobRequirements": "1、2027 届应届毕业生，本科及以上院校，行政管理、工商管理、档案管理相关专业优先； 2、乐观积极、主动性强，细致严谨、服务意识强，能适应多线程并行的工作节奏； 3、有行政实习和学生干部经历优先。",
+      "JD": "1、参与集团印章、档案与工商合规管理专项工作，落实合规自查、风险排查与保密管控工作； 2、协助集团行政统筹与制度体系建设：参与总部及分子公司行政全模块运营，梳理标准化流程、督查制度落地执行； 3、参与行政费用精细化管控，输出费用分析与优化方案； 4、统筹对外行政外联与日常保障：对接工商、市场监管等政企单位及物业、供应商，落地宿舍、食堂等后勤保障与上级交办专项工作。\n1、2027 届应届毕业生，本科及以上院校，行政管理、工商管理、档案管理相关专业优先； 2、乐观积极、主动性强，细致严谨、服务意识强，能适应多线程并行的工作节奏； 3、有行政实习和学生干部经历优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届应届毕业生，本科及以上院校，行政管理、工商管理、档案管理相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、参与集团印章、档案与工商合规管理专项工作，落实合规自查、风险排查与保密管控工作"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=1a16242e-b8a5-4ec1-a71d-94ed1c129051",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-dfc67e745cc2",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-食安岗 (2027)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "食品科学与工程、食品质量与安全相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "全国",
+      "jobDescription": "工作内容 1、协助搭建并维护公司质量管理体系与食品安全体系，迭代完善食安标准； 2、对分子公司食安体系运行开展监管与赋能，推动落地执行； 3、处理分子公司食品安全投诉，追溯风险点并输出整改方案。",
+      "jobRequirements": "1、2027 届应届毕业生，本科及以上学历，食品科学与工程、食品质量与安全相关专业优先； 2、具备学习能力与思考力，有正能量与韧性、能持续精进体系； 3、原则性强，具备风险意识与问题追溯能力； 4、有食品企业实习、实验室检测或 ISO、HACCP 体系相关经历优先； 5、需接受在总部培训后调派至大区、分子公司的安排。",
+      "JD": "工作内容 1、协助搭建并维护公司质量管理体系与食品安全体系，迭代完善食安标准； 2、对分子公司食安体系运行开展监管与赋能，推动落地执行； 3、处理分子公司食品安全投诉，追溯风险点并输出整改方案。\n1、2027 届应届毕业生，本科及以上学历，食品科学与工程、食品质量与安全相关专业优先； 2、具备学习能力与思考力，有正能量与韧性、能持续精进体系； 3、原则性强，具备风险意识与问题追溯能力； 4、有食品企业实习、实验室检测或 ISO、HACCP 体系相关经历优先； 5、需接受在总部培训后调派至大区、分子公司的安排。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "食品科学与工程、食品质量与安全相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027 届应届毕业生，本科及以上学历，食品科学与工程、食品质量与安全相关专业优先"
+        ],
+        "technicalDuties": [
+          "问题根因"
+        ],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "内容"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 工作内容 1、协助搭建并维护公司质量管理体系与食品安全体系，迭代完善食安标准； 2"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=04499fbc-1d40-4fd4-86d9-9eeb89a7091d",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-096ce2a2488a",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-营运管理岗（2027)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 届应届毕业生，本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省、福建省、广西壮族自治区、海南省、江西省",
+      "jobDescription": "1、推进运营流程标准化与数字化在分子公司落地实行； 2、统筹分子公司人员、车辆、场站日常管理，提升运营效率； 3、深入现场支援，培训赋能一线并解决实际问题。",
+      "jobRequirements": "1、2027 届应届毕业生，本科及以上学历，专业不限； 2、有一定数据敏感性和分析能力，组织协调和推动闭环能力强； 3、有仓储、物流实习或学生干部经历优先； 4、乐观积极，有韧性，接受出差支援和夜班工作的。",
+      "JD": "1、推进运营流程标准化与数字化在分子公司落地实行； 2、统筹分子公司人员、车辆、场站日常管理，提升运营效率； 3、深入现场支援，培训赋能一线并解决实际问题。\n1、2027 届应届毕业生，本科及以上学历，专业不限； 2、有一定数据敏感性和分析能力，组织协调和推动闭环能力强； 3、有仓储、物流实习或学生干部经历优先； 4、乐观积极，有韧性，接受出差支援和夜班工作的。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届应届毕业生，本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 1、推进运营流程标准化与数字化在分子公司落地实行； 2、统筹分子公司人员、车辆、场"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=6c54343a-6abd-402f-b30a-9ebbc3ba5731",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ddb24fee8eb4",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "校园大使（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、大二-大四在校生优先，专业不限，本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省",
+      "jobDescription": "1、活动运营：积极转播乐禾校招咨询以及雇主品牌，协助公司HR联系院校就业办，统筹线下宣讲会并落地执行； 2、社群维护：运营校招微信群，定时对学生疑问进行解答； 3、英才推荐：推荐优秀的人才，成为校园伯乐。",
+      "jobRequirements": "任职资格: 1、大二-大四在校生优先，专业不限，本科及以上学历； 2、具备较强的沟通协调、组织管理能力，性格开朗，有良好的校园人脉和社团关系，院校学生会、团委、社团干部、班级干部优先； 3、喜欢接触新事物，拥有品牌宣传或社群运营经验优先； 4、工作认真负责，有责任心，富于激情，执行能力强，对乐禾有认同感。 岗位福利： 1、技能培训：活动策划落地，社群运营，雇主品牌宣传等全方位培训； 2、实习证明：成为校园大使即可获得乐禾校园大使聘书及乐禾食品集团【人力实习生】实习证明； 3、 校园大使津贴：通过参与活动累计积分即可兑换津贴。",
+      "JD": "1、活动运营：积极转播乐禾校招咨询以及雇主品牌，协助公司HR联系院校就业办，统筹线下宣讲会并落地执行； 2、社群维护：运营校招微信群，定时对学生疑问进行解答； 3、英才推荐：推荐优秀的人才，成为校园伯乐。\n任职资格: 1、大二-大四在校生优先，专业不限，本科及以上学历； 2、具备较强的沟通协调、组织管理能力，性格开朗，有良好的校园人脉和社团关系，院校学生会、团委、社团干部、班级干部优先； 3、喜欢接触新事物，拥有品牌宣传或社群运营经验优先； 4、工作认真负责，有责任心，富于激情，执行能力强，对乐禾有认同感。 岗位福利： 1、技能培训：活动策划落地，社群运营，雇主品牌宣传等全方位培训； 2、实习证明：成为校园大使即可获得乐禾校园大使聘书及乐禾食品集团【人力实习生】实习证明； 3、 校园大使津贴：通过参与活动累计积分即可兑换津贴。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、大二-大四在校生优先，专业不限，本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "1K-2K 元/月",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "1K-2K 元/月"
+      },
+      "salary": "1K-2K 元/月",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=738fe38c-d473-4f6c-b688-634cbbbda5eb",
+      "publishedAt": "2026-09-30",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    }
+  ]
+}

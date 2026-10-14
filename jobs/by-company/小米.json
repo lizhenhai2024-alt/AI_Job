@@ -1,7 +1,7 @@
 {
   "company": "小米",
   "count": 242,
-  "updatedAt": "2026-10-14T01:44:10.924Z",
+  "updatedAt": "2026-10-14T14:58:33.030Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -3589,100 +3589,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7671129798714460470",
-      "company": "小米",
-      "title": "中国区-市场营销管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "你会去思考：希望用户怎样认识这个产品、记住这个产品，又为什么愿意喜欢这个产品。围绕这个目标，你会参与梳理产品卖点、制定传播策略，也会把一个个想法真正变成用户能够看到和感受到的东西——可能是一场让人印象深刻的营销活动，一条刷屏的内容，一次有影响力的媒体传播，也可能是品牌在一次热点事件中的表达。 这个岗位既需要创意，也需要对市场、用户和产品保持敏感。你要知道用户在关注什么、行业正在发生什么、产品的功能是什么，再把这些洞察变成好的内容、营销和传播。 最有成就感的地方，是有一天你会发现：一个产品被更多人看见、记住和喜欢，其中有一些东西，是你亲手创造的。 职责包括： - 营销策略：参与产品全生命周期营销策略的制定和牵引落地； - 卖点梳理：负责产品卖点规划、竞对策略，将技术语言转化为用户语言； - 创意策划：负责营销创意活动及物料的策划与执行； - 媒介传播：负责跟媒体建联，参与制定和执行媒介投放策略； - 社交媒体运营：策划、产出新媒体平台传播内容，输出和执行种草策略。",
-      "jobRequirements": "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先； 2、具备基础的文案撰写与内容策划能力； 3、沟通能力强，创意敏锐，积极主动，有责任心且具备超强执行力； 4、对品牌营销、社交媒体、新媒体趋势有浓厚兴趣，具备良好的审美与内容感知力； 5、有校园活动策划、新媒体运营或市场实习经历者优先。",
-      "JD": "你会去思考：希望用户怎样认识这个产品、记住这个产品，又为什么愿意喜欢这个产品。围绕这个目标，你会参与梳理产品卖点、制定传播策略，也会把一个个想法真正变成用户能够看到和感受到的东西——可能是一场让人印象深刻的营销活动，一条刷屏的内容，一次有影响力的媒体传播，也可能是品牌在一次热点事件中的表达。 这个岗位既需要创意，也需要对市场、用户和产品保持敏感。你要知道用户在关注什么、行业正在发生什么、产品的功能是什么，再把这些洞察变成好的内容、营销和传播。 最有成就感的地方，是有一天你会发现：一个产品被更多人看见、记住和喜欢，其中有一些东西，是你亲手创造的。 职责包括： - 营销策略：参与产品全生命周期营销策略的制定和牵引落地； - 卖点梳理：负责产品卖点规划、竞对策略，将技术语言转化为用户语言； - 创意策划：负责营销创意活动及物料的策划与执行； - 媒介传播：负责跟媒体建联，参与制定和执行媒介投放策略； - 社交媒体运营：策划、产出新媒体平台传播内容，输出和执行种草策略。\n1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先； 2、具备基础的文案撰写与内容策划能力； 3、沟通能力强，创意敏锐，积极主动，有责任心且具备超强执行力； 4、对品牌营销、社交媒体、新媒体趋势有浓厚兴趣，具备良好的审美与内容感知力； 5、有校园活动策划、新媒体运营或市场实习经历者优先。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "市场"
-      ],
-      "skills": [
-        "文案"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "市场",
-        "用户",
-        "营销",
-        "品牌",
-        "洞察",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129798714460470/detail",
-      "publishedAt": "2026-08-07",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7671129707790240036",
       "company": "小米",
       "title": "采购专员",
@@ -6990,7 +6896,7 @@
     {
       "id": "feishu-4031ce-7675291819555490075",
       "company": "小米",
-      "title": "中国区-整车物流运输专员",
+      "title": "中国区-整车物流运输（总部）",
       "graduationYear": [
         "2027"
       ],
@@ -7000,7 +6906,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先",
+        "raw": "本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先；",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -7014,13 +6920,16 @@
       "jobRequirements": "1. 本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先； 2. 对整车物流/运输行业有兴趣，了解基本的物流运营流程； 3. 具备较强的学习能力和创新思维，关注用户价值； 4. 良好的沟通协调能力，能适应跨部门协作； 5. 熟练使用Excel、PPT等办公工具，有数据分析能力者优先； 6. 有车企/物流相关实习经验者优先；",
       "JD": "1. 协助工厂VDC到交付中心的一次物流运营管理，跟踪运输各项指标并参与改善； 2. 协助根据交付计划制定运输计划及运营策略，支撑交付目标达成； 3. 参与整车运输标准、SOP、培训体系的迭代与优化，保障运输运营质量和效率； 4. 协助供应商日常培训的组织与跟进，保障项目顺利推进； 5. 参与整车运输系统的需求整理与迭代优化，支持项目高效运转； 6. 支持各交付中心运输业务的开城输入与员工培训，确保顺利开城。\n1. 本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先； 2. 对整车物流/运输行业有兴趣，了解基本的物流运营流程； 3. 具备较强的学习能力和创新思维，关注用户价值； 4. 良好的沟通协调能力，能适应跨部门协作； 5. 熟练使用Excel、PPT等办公工具，有数据分析能力者优先； 6. 有车企/物流相关实习经验者优先；",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [
-          "本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先"
+          "本科及以上学历，物流管理、供应链管理、交通运输等相关专业优先；"
         ],
         "eligibilityClauses": [],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "物流执行",
+          "资料/流程"
+        ]
       },
       "roleFamily": [
         "其他"
@@ -7363,104 +7272,6 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671291316311247154/detail",
-      "publishedAt": "2026-08-07",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
-      "id": "feishu-4031ce-7671129801244231982",
-      "company": "小米",
-      "title": "中国区-销售管培生",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，理工科优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "你会参与一款产品完整的商业化过程：洞察市场和竞争、制定上市策略、参与品牌营销和销售政策，也会深入电商平台和小米之家，真正看到每一个策略如何转化为用户的选择和实际的经营结果。 同时，这也是一个需要很强全局视角的岗位。你需要和产品、研发、市场、销售、服务、交付等不同团队一起工作，共同解决产品走向市场过程中遇到的各种问题。 所以这个岗位最大的成就感，是你不只是完成某一个环节的工作，而是真正参与并推动一款产品从“被创造出来”到“获得市场成功”的全过程，并且能够清楚地看到自己的判断和行动，最终如何影响一款产品的商业结果。 职责包括： - 产品操盘：参与小米各品类产品从立项、定义、上市到退市的全生命周期管理，包括：基于市场洞察、竞争分析及渠道研究，制定产品定位、上市节奏、价格、营销及销售策略，并根据市场表现动态调整，对产品经营结果负责。 - 电商渠道操盘：与京东、天猫、抖音等电商销售渠道建立良好的合作关系，通过沟通谈判、产品运营、品类营销、活动玩法等电商销售运营动作落地，促进销售结果达成，助力电商销售渠道健康稳健发展。 - 小米之家零售操盘：围绕门店经营、用户运营、商品管理及重点业务项目，结合经营数据进行问题分析与策略优化，推动业务效率提升，助力门店经营业绩持续增长； - 商业项目过程管理：拉通产品研发、市场、销售、服务、交付，对产品在市场上的品牌塑造和商业成功负责，主动识别风险并解决问题。",
-      "jobRequirements": "1、本科及以上学历，理工科优先； 2、认真、目标感强，有韧性，较强的学习能力和自驱力； 3、具备良好的沟通能力，逻辑思维、系统性思维；擅长处理沟通协调工作，跨部门协作。",
-      "JD": "你会参与一款产品完整的商业化过程：洞察市场和竞争、制定上市策略、参与品牌营销和销售政策，也会深入电商平台和小米之家，真正看到每一个策略如何转化为用户的选择和实际的经营结果。 同时，这也是一个需要很强全局视角的岗位。你需要和产品、研发、市场、销售、服务、交付等不同团队一起工作，共同解决产品走向市场过程中遇到的各种问题。 所以这个岗位最大的成就感，是你不只是完成某一个环节的工作，而是真正参与并推动一款产品从“被创造出来”到“获得市场成功”的全过程，并且能够清楚地看到自己的判断和行动，最终如何影响一款产品的商业结果。 职责包括： - 产品操盘：参与小米各品类产品从立项、定义、上市到退市的全生命周期管理，包括：基于市场洞察、竞争分析及渠道研究，制定产品定位、上市节奏、价格、营销及销售策略，并根据市场表现动态调整，对产品经营结果负责。 - 电商渠道操盘：与京东、天猫、抖音等电商销售渠道建立良好的合作关系，通过沟通谈判、产品运营、品类营销、活动玩法等电商销售运营动作落地，促进销售结果达成，助力电商销售渠道健康稳健发展。 - 小米之家零售操盘：围绕门店经营、用户运营、商品管理及重点业务项目，结合经营数据进行问题分析与策略优化，推动业务效率提升，助力门店经营业绩持续增长； - 商业项目过程管理：拉通产品研发、市场、销售、服务、交付，对产品在市场上的品牌塑造和商业成功负责，主动识别风险并解决问题。\n1、本科及以上学历，理工科优先； 2、认真、目标感强，有韧性，较强的学习能力和自驱力； 3、具备良好的沟通能力，逻辑思维、系统性思维；擅长处理沟通协调工作，跨部门协作。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，理工科优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": [
-          "跨文化沟通"
-        ]
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "电商"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "市场",
-        "电商",
-        "用户",
-        "数据",
-        "营销",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129801244231982/detail",
       "publishedAt": "2026-08-07",
       "lastVerified": "",
       "sourceType": "official",
@@ -9590,6 +9401,103 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671293003588143386/detail",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7671129798714460470",
+      "company": "小米",
+      "title": "总部-市场方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、参与品牌策略与定位的制定，协助完成品牌传播方案的策划与落地执行； 2、负责整合营销活动的策划与执行，包括活动方案撰写、资源协调、现场统筹与效果评估； 3、内容创意与社交媒体运营，策划并产出品牌内容，管理官方社媒账号，提升品牌声量与用户互动； 4、媒介策略与投放执行，包括媒体资源开拓与维护、投放效果跟踪与优化； 5、收集并分析市场信息、行业趋势与竞品动态，输出用户洞察报告，为品牌决策提供数据支撑； 6、参与公关传播与舆情管理，协助处理品牌相关舆情事件，维护品牌形象。",
+      "jobRequirements": "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先； 2、熟练使用Office办公软件，具备基础的文案撰写与内容策划能力； 3、英语口语及书面表达能力良好，如会小语种优先考虑； 4、沟通能力强，创意敏锐，积极主动，有责任心且具备超强执行力； 5、对品牌营销、社交媒体、新媒体趋势有浓厚兴趣，具备良好的审美与内容感知力； 6、有校园活动策划、新媒体运营或市场实习经历者优先。",
+      "JD": "1、参与品牌策略与定位的制定，协助完成品牌传播方案的策划与落地执行； 2、负责整合营销活动的策划与执行，包括活动方案撰写、资源协调、现场统筹与效果评估； 3、内容创意与社交媒体运营，策划并产出品牌内容，管理官方社媒账号，提升品牌声量与用户互动； 4、媒介策略与投放执行，包括媒体资源开拓与维护、投放效果跟踪与优化； 5、收集并分析市场信息、行业趋势与竞品动态，输出用户洞察报告，为品牌决策提供数据支撑； 6、参与公关传播与舆情管理，协助处理品牌相关舆情事件，维护品牌形象。\n1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先； 2、熟练使用Office办公软件，具备基础的文案撰写与内容策划能力； 3、英语口语及书面表达能力良好，如会小语种优先考虑； 4、沟通能力强，创意敏锐，积极主动，有责任心且具备超强执行力； 5、对品牌营销、社交媒体、新媒体趋势有浓厚兴趣，具备良好的审美与内容感知力； 6、有校园活动策划、新媒体运营或市场实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129798714460470/detail",
       "publishedAt": "2026-08-07",
       "lastVerified": "",
       "sourceType": "official",
@@ -12058,7 +11966,7 @@
     {
       "id": "feishu-4031ce-7675292531886983475",
       "company": "小米",
-      "title": "中国区-汽车培训师",
+      "title": "中国区-汽车培训校招生",
       "graduationYear": [
         "2027"
       ],
@@ -12320,6 +12228,105 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295548247083310/detail",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7671129801244231982",
+      "company": "小米",
+      "title": "总部-销售方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责所辖区域/渠道的产品销售与目标达成，执行销售计划，完成月度、季度及年度销售指标； 2、渠道运营与客户关系管理，包括经销商/终端门店的开拓、维护与赋能，推动渠道健康增长； 3、零售门店运营与销售策略落地，包括门店陈列、促销活动策划与执行、销售话术优化； 4、收集并分析市场信息与竞品动态，输出销售数据报告，为区域销售决策提供数据支撑； 5、协调产销资源，对接订单管理、库存周转与物流配送，保障销售链条高效运转； 6、参与GTM（Go-To-Market）策略制定与执行，协同市场、产品、运营等多部门推动业务落地。",
+      "jobRequirements": "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先； 2、熟练使用Office办公软件，具备基本的数据分析能力； 3、沟通表达能力强，具备良好的商务谈判与客户关系维护能力； 4、目标导向，有强烈的自驱力和执行力； 5、具备团队协作精神，善于跨部门资源整合与协同推进； 6、英语可作为工作语言者优先，有销售实习或校园创业经历者优先。",
+      "JD": "1、负责所辖区域/渠道的产品销售与目标达成，执行销售计划，完成月度、季度及年度销售指标； 2、渠道运营与客户关系管理，包括经销商/终端门店的开拓、维护与赋能，推动渠道健康增长； 3、零售门店运营与销售策略落地，包括门店陈列、促销活动策划与执行、销售话术优化； 4、收集并分析市场信息与竞品动态，输出销售数据报告，为区域销售决策提供数据支撑； 5、协调产销资源，对接订单管理、库存周转与物流配送，保障销售链条高效运转； 6、参与GTM（Go-To-Market）策略制定与执行，协同市场、产品、运营等多部门推动业务落地。\n1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先； 2、熟练使用Office办公软件，具备基本的数据分析能力； 3、沟通表达能力强，具备良好的商务谈判与客户关系维护能力； 4、目标导向，有强烈的自驱力和执行力； 5、具备团队协作精神，善于跨部门资源整合与协同推进； 6、英语可作为工作语言者优先，有销售实习或校园创业经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "营销",
+        "客户",
+        "GTM",
+        "招聘",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129801244231982/detail",
       "publishedAt": "2026-08-07",
       "lastVerified": "",
       "sourceType": "official",

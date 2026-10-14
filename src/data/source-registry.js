@@ -449,6 +449,14 @@ export const sourceRegistry = [
     "company": "大家保险集团"
   },
   {
+    "provider": "beisen",
+    "company": "中国人民财产保险股份有限公司梅州市分公司"
+  },
+  {
+    "provider": "beisen",
+    "company": "乐禾食品集团股份有限公司"
+  },
+  {
     "provider": "feishu",
     "company": "影石Insta360"
   },

@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-12T22:38:20.311Z",
+    "lastCheckedAt": "2026-10-14T14:32:23.527Z",
     "nextCheckAfter": ""
   },
   {
@@ -516,6 +516,17 @@ export const sourceDiscovery = [
     "attempts": 1,
     "lastCheckedAt": "2026-09-09T05:31:20.646Z",
     "nextCheckAfter": "2026-09-16T05:31:20.646Z"
+  },
+  {
+    "name": "乐禾食品集团股份有限公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://lehe.zhiye.com/",
+    "reason": "高校详情页明确给出北森招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-14T14:32:23.527Z",
+    "nextCheckAfter": ""
   },
   {
     "name": "理想汽车",
@@ -998,8 +1009,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.sf-express.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.sf-express.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-14T01:17:26.976Z",
-    "nextCheckAfter": "2026-10-15T01:17:26.983Z"
+    "lastCheckedAt": "2026-10-14T14:32:23.527Z",
+    "nextCheckAfter": "2026-10-15T14:32:23.530Z"
   },
   {
     "name": "一、招聘岗位",
@@ -1175,6 +1186,17 @@ export const sourceDiscovery = [
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
     "lastCheckedAt": "2026-09-16T14:11:16.406Z",
+    "nextCheckAfter": ""
+  },
+  {
+    "name": "中国人民财产保险股份有限公司梅州市分公司",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "beisen",
+    "officialUrl": "https://picc1.zhiye.com/custom/campus?hideMenu=1&ky=&c1=&c2=30&d=&c=4414",
+    "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-14T14:32:23.527Z",
     "nextCheckAfter": ""
   },
   {
@@ -1455,7 +1477,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-14T13:43:46.279Z",
+  "updatedAt": "2026-10-14T14:32:23.527Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

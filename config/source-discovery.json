@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T13:43:46.279Z",
+  "updatedAt": "2026-10-14T14:32:23.527Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2493,8 +2493,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2100842873438781441",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-14T01:17:26.976Z",
-      "nextCheckAfter": "2026-10-15T01:17:26.983Z"
+      "lastCheckedAt": "2026-10-14T14:32:23.527Z",
+      "nextCheckAfter": "2026-10-15T14:32:23.530Z"
     },
     "深圳市艾丽斯卡文化创意": {
       "name": "深圳市艾丽斯卡文化创意有限公司",
@@ -2520,10 +2520,10 @@
       "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
       "universityEvidence": {
         "school": "广东外语外贸大学",
-        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11223",
+        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11276",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-12T22:38:20.311Z",
+      "lastCheckedAt": "2026-10-14T14:32:23.527Z",
       "nextCheckAfter": ""
     },
     "深圳市杰和发展": {
@@ -2630,6 +2630,36 @@
       },
       "lastCheckedAt": "2026-10-14T01:17:26.976Z",
       "nextCheckAfter": ""
+    },
+    "人民财产保险梅州市分公司": {
+      "name": "中国人民财产保险股份有限公司梅州市分公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://picc1.zhiye.com/custom/campus?hideMenu=1&ky=&c1=&c2=30&d=&c=4414",
+      "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
+      "universityEvidence": {
+        "school": "广东外语外贸大学",
+        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=9146",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-14T14:32:23.527Z",
+      "nextCheckAfter": ""
+    },
+    "乐禾食品": {
+      "name": "乐禾食品集团股份有限公司",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "beisen",
+      "officialUrl": "https://lehe.zhiye.com/",
+      "reason": "高校详情页明确给出北森招聘入口",
+      "universityEvidence": {
+        "school": "广东外语外贸大学",
+        "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=7431",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-14T14:32:23.527Z",
+      "nextCheckAfter": ""
     }
   },
   "lastRun": {
@@ -2640,10 +2670,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 6,
-    "sourcesAdded": 3,
+    "candidates": 8,
+    "sourcesAdded": 2,
     "sourcesRepaired": 0,
-    "queued": 2,
-    "updatedAt": "2026-10-14T01:17:26.976Z"
+    "queued": 1,
+    "updatedAt": "2026-10-14T14:32:23.527Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T01:44:10.924Z",
-  "totalJobs": 6309,
+  "updatedAt": "2026-10-14T14:58:33.030Z",
+  "totalJobs": 6519,
   "totalCompanies": 138,
   "companies": [
     {
@@ -80,7 +80,7 @@
       "company": "大家保险集团",
       "slug": "大家保险",
       "file": "jobs/by-company/大家保险.json",
-      "count": 20
+      "count": 19
     },
     {
       "company": "大疆",
@@ -119,12 +119,6 @@
       "count": 13
     },
     {
-      "company": "电商独角兽",
-      "slug": "电商独角兽",
-      "file": "jobs/by-company/电商独角兽.json",
-      "count": 1
-    },
-    {
       "company": "东风汽车集团有限公司",
       "slug": "东风汽车集团",
       "file": "jobs/by-company/东风汽车集团.json",
@@ -140,7 +134,7 @@
       "company": "烽火通信",
       "slug": "烽火通信",
       "file": "jobs/by-company/烽火通信.json",
-      "count": 11
+      "count": 10
     },
     {
       "company": "福耀玻璃",
@@ -197,16 +191,10 @@
       "count": 10
     },
     {
-      "company": "虹科 | 寻找定义未来的合伙人",
-      "slug": "虹科-寻找定义未来的合伙人",
-      "file": "jobs/by-company/虹科-寻找定义未来的合伙人.json",
-      "count": 1
-    },
-    {
       "company": "湖南长银五八消费金融股份有限公司",
       "slug": "湖南长银五八消费金融股份",
       "file": "jobs/by-company/湖南长银五八消费金融股份.json",
-      "count": 44
+      "count": 43
     },
     {
       "company": "华勤技术",
@@ -230,7 +218,7 @@
       "company": "吉利汽车",
       "slug": "吉利汽车",
       "file": "jobs/by-company/吉利汽车.json",
-      "count": 116
+      "count": 100
     },
     {
       "company": "极兔速递",
@@ -299,6 +287,12 @@
       "count": 11
     },
     {
+      "company": "乐禾食品集团股份有限公司",
+      "slug": "乐禾食品集团股份",
+      "file": "jobs/by-company/乐禾食品集团股份.json",
+      "count": 12
+    },
+    {
       "company": "莉莉丝游戏",
       "slug": "莉莉丝游戏",
       "file": "jobs/by-company/莉莉丝游戏.json",
@@ -314,13 +308,13 @@
       "company": "零跑汽车",
       "slug": "零跑汽车",
       "file": "jobs/by-company/零跑汽车.json",
-      "count": 40
+      "count": 41
     },
     {
       "company": "绿盟科技",
       "slug": "绿盟科技",
       "file": "jobs/by-company/绿盟科技.json",
-      "count": 107
+      "count": 93
     },
     {
       "company": "美的",
@@ -332,7 +326,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 51
+      "count": 54
     },
     {
       "company": "蒙牛",
@@ -362,7 +356,7 @@
       "company": "宁德时代新能源科技股份有限公司",
       "slug": "宁德时代新能源科技股份",
       "file": "jobs/by-company/宁德时代新能源科技股份.json",
-      "count": 87
+      "count": 83
     },
     {
       "company": "宁德新能源科技有限公司",
@@ -380,7 +374,7 @@
       "company": "拼多多",
       "slug": "拼多多",
       "file": "jobs/by-company/拼多多.json",
-      "count": 27
+      "count": 25
     },
     {
       "company": "普渡机器人",
@@ -470,7 +464,7 @@
       "company": "韶音科技",
       "slug": "韶音科技",
       "file": "jobs/by-company/韶音科技.json",
-      "count": 61
+      "count": 60
     },
     {
       "company": "深圳市艾丽斯卡文化创意有限公司",
@@ -536,13 +530,13 @@
       "company": "泰康保险",
       "slug": "泰康保险",
       "file": "jobs/by-company/泰康保险.json",
-      "count": 312
+      "count": 317
     },
     {
       "company": "特斯拉中国",
       "slug": "特斯拉中国",
       "file": "jobs/by-company/特斯拉中国.json",
-      "count": 141
+      "count": 137
     },
     {
       "company": "腾讯",
@@ -566,7 +560,7 @@
       "company": "万兴科技",
       "slug": "万兴科技",
       "file": "jobs/by-company/万兴科技.json",
-      "count": 28
+      "count": 29
     },
     {
       "company": "微步在线",
@@ -596,7 +590,7 @@
       "company": "小鹏汽车",
       "slug": "小鹏汽车",
       "file": "jobs/by-company/小鹏汽车.json",
-      "count": 197
+      "count": 200
     },
     {
       "company": "携程集团",
@@ -668,7 +662,7 @@
       "company": "伊利",
       "slug": "伊利",
       "file": "jobs/by-company/伊利.json",
-      "count": 157
+      "count": 158
     },
     {
       "company": "英科医疗/英科再生",
@@ -735,6 +729,12 @@
       "slug": "中国人民保险",
       "file": "jobs/by-company/中国人民保险.json",
       "count": 245
+    },
+    {
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "slug": "中国人民财产保险股份有限公司梅州市分",
+      "file": "jobs/by-company/中国人民财产保险股份有限公司梅州市分.json",
+      "count": 230
     },
     {
       "company": "中国人寿",
@@ -812,7 +812,7 @@
       "company": "SHEIN",
       "slug": "shein",
       "file": "jobs/by-company/shein.json",
-      "count": 40
+      "count": 39
     },
     {
       "company": "Shopee",
@@ -824,7 +824,7 @@
       "company": "TCL华星光电",
       "slug": "tcl华星光电",
       "file": "jobs/by-company/tcl华星光电.json",
-      "count": 77
+      "count": 78
     },
     {
       "company": "vivo",

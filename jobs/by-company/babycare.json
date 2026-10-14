@@ -1,7 +1,7 @@
 {
   "company": "Babycare",
   "count": 33,
-  "updatedAt": "2026-10-14T01:44:10.924Z",
+  "updatedAt": "2026-10-14T14:58:33.030Z",
   "jobs": [
     {
       "id": "beisen-c4b21c074156",
@@ -1720,6 +1720,95 @@
       "hasAssessmentEvidence": "E4 | PreTalent历史校招测评攻略 | https://www.pretalent.com.cn/blog/pretalent-babycare-2024 | 2026-09-17"
     },
     {
+      "id": "beisen-b58872877f8c",
+      "company": "Babycare",
+      "title": "2027校招-质量管理管培生（供应链QA）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，材料工程、机械模具、化工原料等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "我们需要你： 1、负责品类全链路质量管理，参与建立与维护品类质量管理体系； 2、负责对品类供应商管理，协同提升供应商质量保障能力； 3、洞悉行业发展动态，持续优化品类质量管理策略及方向； 4、根据质量数据动态，主导产品质量的持续改进及优化； 5、负责对产品质量问题及重大舆情事件的处理； 6、对接行业机构或标委会，参加与推动产品标准的建立与优化。",
+      "jobRequirements": "我们希望你： 1、本科及以上学历，材料工程、机械模具、化工原料等专业优先； 2、具备较强的逻辑思维、沟通表达能力以及严谨的工作态度； 3、具备应变性、抗压性，乐观、自信、有责任心； 4、熟练使用Office等办公软件。 JOIN US: 如果你心怀炙热，希望以高于行业标准的质量体系做出母婴产品，加入我们， 一起为爱重新设计。",
+      "JD": "我们需要你： 1、负责品类全链路质量管理，参与建立与维护品类质量管理体系； 2、负责对品类供应商管理，协同提升供应商质量保障能力； 3、洞悉行业发展动态，持续优化品类质量管理策略及方向； 4、根据质量数据动态，主导产品质量的持续改进及优化； 5、负责对产品质量问题及重大舆情事件的处理； 6、对接行业机构或标委会，参加与推动产品标准的建立与优化。\n我们希望你： 1、本科及以上学历，材料工程、机械模具、化工原料等专业优先； 2、具备较强的逻辑思维、沟通表达能力以及严谨的工作态度； 3、具备应变性、抗压性，乐观、自信、有责任心； 4、熟练使用Office等办公软件。 JOIN US: 如果你心怀炙热，希望以高于行业标准的质量体系做出母婴产品，加入我们， 一起为爱重新设计。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，材料工程、机械模具、化工原料等专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 我们需要你： 1、负责品类全链路质量管理，参与建立与维护品类质量管理体系； 2、负"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "9.5K-14.5K 元/月",
+        "monthlyMin": 9500,
+        "monthlyMax": 14500,
+        "annualMin": 114000,
+        "annualMax": 174000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "9.5k–1.45万/月",
+        "annualDisplay": "11.4万–17.4万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "9.5K-14.5K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "9.5K-14.5K 元/月",
+      "monthlySalary": "9.5k–1.45万/月",
+      "annualSalary": "11.4万–17.4万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=2203218e-0839-4ecf-8a6d-2c0357c97db6",
+      "publishedAt": "2026-07-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申(2026/7/31启动)→线下宣讲会(9/21起)→面试环节(9/23起，线上/线下)→Offer(11月起)→入职(2027/7)",
+      "recruitmentProcessEvidence": "E3 | 浙大就业平台校招流程原文 | https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?dwxxid=JG1202310&xjhbh=0e00805aad83114100dcbf01fbfc0b0e | 2026-09-17",
+      "hasAssessment": "待核实",
+      "hasAssessmentEvidence": "E4 | PreTalent历史校招测评攻略 | https://www.pretalent.com.cn/blog/pretalent-babycare-2024 | 2026-09-17"
+    },
+    {
       "id": "beisen-633e2e283493",
       "company": "Babycare",
       "title": "2027校招-产品经理管培生（洗护）",
@@ -1804,95 +1893,6 @@
       "annualSalary": "11.4万–17.4万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=f85eb88b-d463-461b-a986-e64186fc9824",
-      "publishedAt": "2026-07-28",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申(2026/7/31启动)→线下宣讲会(9/21起)→面试环节(9/23起，线上/线下)→Offer(11月起)→入职(2027/7)",
-      "recruitmentProcessEvidence": "E3 | 浙大就业平台校招流程原文 | https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?dwxxid=JG1202310&xjhbh=0e00805aad83114100dcbf01fbfc0b0e | 2026-09-17",
-      "hasAssessment": "待核实",
-      "hasAssessmentEvidence": "E4 | PreTalent历史校招测评攻略 | https://www.pretalent.com.cn/blog/pretalent-babycare-2024 | 2026-09-17"
-    },
-    {
-      "id": "beisen-b58872877f8c",
-      "company": "Babycare",
-      "title": "2027校招-质量管理管培生（供应链QA）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，材料工程、机械模具、化工原料等专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "杭州",
-      "jobDescription": "我们需要你： 1、负责品类全链路质量管理，参与建立与维护品类质量管理体系； 2、负责对品类供应商管理，协同提升供应商质量保障能力； 3、洞悉行业发展动态，持续优化品类质量管理策略及方向； 4、根据质量数据动态，主导产品质量的持续改进及优化； 5、负责对产品质量问题及重大舆情事件的处理； 6、对接行业机构或标委会，参加与推动产品标准的建立与优化。",
-      "jobRequirements": "我们希望你： 1、本科及以上学历，材料工程、机械模具、化工原料等专业优先； 2、具备较强的逻辑思维、沟通表达能力以及严谨的工作态度； 3、具备应变性、抗压性，乐观、自信、有责任心； 4、熟练使用Office等办公软件。 JOIN US: 如果你心怀炙热，希望以高于行业标准的质量体系做出母婴产品，加入我们， 一起为爱重新设计。",
-      "JD": "我们需要你： 1、负责品类全链路质量管理，参与建立与维护品类质量管理体系； 2、负责对品类供应商管理，协同提升供应商质量保障能力； 3、洞悉行业发展动态，持续优化品类质量管理策略及方向； 4、根据质量数据动态，主导产品质量的持续改进及优化； 5、负责对产品质量问题及重大舆情事件的处理； 6、对接行业机构或标委会，参加与推动产品标准的建立与优化。\n我们希望你： 1、本科及以上学历，材料工程、机械模具、化工原料等专业优先； 2、具备较强的逻辑思维、沟通表达能力以及严谨的工作态度； 3、具备应变性、抗压性，乐观、自信、有责任心； 4、熟练使用Office等办公软件。 JOIN US: 如果你心怀炙热，希望以高于行业标准的质量体系做出母婴产品，加入我们， 一起为爱重新设计。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，材料工程、机械模具、化工原料等专业优先"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "数据",
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "5",
-        "min": 5,
-        "max": 5,
-        "scope": "job",
-        "display": "5人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "5 5 我们需要你： 1、负责品类全链路质量管理，参与建立与维护品类质量管理体系； 2、负"
-      },
-      "compensation": {
-        "disclosed": true,
-        "raw": "9.5K-14.5K 元/月",
-        "monthlyMin": 9500,
-        "monthlyMax": 14500,
-        "annualMin": 114000,
-        "annualMax": 174000,
-        "salaryMonths": 12,
-        "monthlyEstimated": false,
-        "annualEstimated": true,
-        "monthlyDisplay": "9.5k–1.45万/月",
-        "annualDisplay": "11.4万–17.4万/年（按12薪推算）",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "9.5K-14.5K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
-      },
-      "salary": "9.5K-14.5K 元/月",
-      "monthlySalary": "9.5k–1.45万/月",
-      "annualSalary": "11.4万–17.4万/年（按12薪推算）",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://babycare.zhiye.com/campus/detail?jobAdId=2203218e-0839-4ecf-8a6d-2c0357c97db6",
       "publishedAt": "2026-07-28",
       "lastVerified": "",
       "sourceType": "official",
