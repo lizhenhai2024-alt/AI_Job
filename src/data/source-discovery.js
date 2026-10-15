@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-15T14:13:04.031Z",
+    "lastCheckedAt": "2026-10-15T18:58:01.518Z",
     "nextCheckAfter": ""
   },
   {
@@ -144,6 +144,17 @@ export const sourceDiscovery = [
     "nextCheckAfter": "2026-09-16T13:18:41.305Z"
   },
   {
+    "name": "德邦证券",
+    "status": "高校自动发现",
+    "state": "source_registered",
+    "provider": "moka",
+    "officialUrl": "https://app.mokahr.com/campus-recruitment/imtebon/74049#/jobs",
+    "reason": "高校详情页明确给出Moka校园招聘入口",
+    "attempts": 0,
+    "lastCheckedAt": "2026-10-15T18:58:01.518Z",
+    "nextCheckAfter": ""
+  },
+  {
     "name": "滴滴出行",
     "status": "主投",
     "state": "not_found",
@@ -160,9 +171,9 @@ export const sourceDiscovery = [
     "state": "source_registered",
     "provider": "beisen",
     "officialUrl": "https://huicecom.zhiye.com/Campus",
-    "reason": "高校详情页明确给出北森招聘入口",
+    "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-14T01:17:26.976Z",
+    "lastCheckedAt": "2026-10-15T18:58:01.518Z",
     "nextCheckAfter": ""
   },
   {
@@ -1009,8 +1020,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.sf-express.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.sf-express.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-15T14:13:04.031Z",
-    "nextCheckAfter": "2026-10-16T14:13:04.034Z"
+    "lastCheckedAt": "2026-10-15T18:58:01.518Z",
+    "nextCheckAfter": "2026-10-16T18:58:01.522Z"
   },
   {
     "name": "一、招聘岗位",
@@ -1196,7 +1207,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://picc1.zhiye.com/custom/campus?hideMenu=1&ky=&c1=&c2=30&d=&c=4414",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-15T14:13:04.031Z",
+    "lastCheckedAt": "2026-10-15T18:58:01.518Z",
     "nextCheckAfter": ""
   },
   {
@@ -1477,7 +1488,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-15T18:18:21.527Z",
+  "updatedAt": "2026-10-15T18:58:01.518Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,

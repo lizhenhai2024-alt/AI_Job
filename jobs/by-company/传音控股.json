@@ -1,7 +1,7 @@
 {
   "company": "传音控股",
-  "count": 78,
-  "updatedAt": "2026-10-15T14:13:18.915Z",
+  "count": 79,
+  "updatedAt": "2026-10-15T19:24:02.045Z",
   "jobs": [
     {
       "id": "beisen-839bd7f42841",
@@ -3945,6 +3945,100 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=5c8e8fd3-773b-44a7-9d23-8b5960dae145",
       "publishedAt": "2026-08-21",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→线上测评→专业笔试(部分岗位)→面试→发放Offer",
+      "recruitmentProcessEvidence": "E3 | 广东技术师范大学/中国矿大就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 广东技术师范大学就业网校招公告 | https://jyw.gpnu.edu.cn/info/1148/12362.htm | 2026-09-17"
+    },
+    {
+      "id": "beisen-3c1c4fe93d98",
+      "company": "传音控股",
+      "title": "数据分析师（AI语音助手）(J20554)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届本科及以上应届毕业生，统计学、数学、计算机、经济学、数据科学、信息管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "重庆",
+      "jobDescription": "1、参与AI语音助手核心业务数据的监控与报表维护，协助搭建并迭代每日监控体系，核心指标包括但不限于用户活跃情况、Token消耗量、用户满意度等，确保数据监控指标准确、及时； 2、协助跟踪核心指标异常波动（如Token消耗突增、人均使用下滑等），多维度进行归因分析，定位初步原因，并输出结论及优化建议； 3、参与业务数据分析，主动挖掘业务特征与潜在机会，帮助业务发现、分析和解决问题，助力优化产品力； 4、参与海量query的分类打标，辅助进行词频分析、情感分析与意图聚类，提炼高频使用场景与潜在需求； 5、参与埋点方案的设计与评审，根据业务需求和数据指标定义，梳理埋点事件、属性与上报字段，协助维护埋点文档，跟进埋点上线与数据验证，保障数据采集的完整性与准确性； 6、利用BI工具或Excel，从业务视角搭建与维护数据可视化看板，覆盖Token消耗趋势、意图覆盖分布、异常预警等核心模块，提升数据消费效率。",
+      "jobRequirements": "1、2027届本科及以上应届毕业生，统计学、数学、计算机、经济学、数据科学、信息管理等相关专业优先； 2、对数据分析有浓厚兴趣，具备扎实的统计学基础，理解假设检验、回归分析、聚类等常用方法； 3、掌握SQL，能完成基本的数据提取与处理；了解Python/R等分析工具，有数据分析、数据挖掘相关课程项目或实习经验者优先； 4、了解埋点基本原理与常见埋点方式（如代码埋点、可视化埋点、全埋点等），理解事件、属性、上报时机等核心概念，有埋点方案设计或数据采集相关课程项目/实习经验者优先； 5、对AI语音助手或智能交互产品有基本认知，理解Token消耗、意图识别、会话轮次等核心概念者加分；具备较强的业务敏感度，愿意将数据结论转化为业务建议； 6、了解BI工具（如Tableau、Power BI、FineBI、Quick BI等）或Excel，具备可视化看板搭建经验者优先； 7、具备良好的沟通与协同能力，能清晰表达分析结论；具备较强的自驱力与学习能力，能在快速变化的业务环境中主动推进工作。 【加分项】 有AI语音助手、智能客服、大模型应用等产品相关的实习或项目经验； 有完整的埋点方案设计经历，熟悉埋点文档规范与数据验证流程； 具备分品牌/机型等多维度下钻分析经验； 有从0到1搭建监控看板或数据体系的课程项目/实习经历；",
+      "JD": "1、参与AI语音助手核心业务数据的监控与报表维护，协助搭建并迭代每日监控体系，核心指标包括但不限于用户活跃情况、Token消耗量、用户满意度等，确保数据监控指标准确、及时； 2、协助跟踪核心指标异常波动（如Token消耗突增、人均使用下滑等），多维度进行归因分析，定位初步原因，并输出结论及优化建议； 3、参与业务数据分析，主动挖掘业务特征与潜在机会，帮助业务发现、分析和解决问题，助力优化产品力； 4、参与海量query的分类打标，辅助进行词频分析、情感分析与意图聚类，提炼高频使用场景与潜在需求； 5、参与埋点方案的设计与评审，根据业务需求和数据指标定义，梳理埋点事件、属性与上报字段，协助维护埋点文档，跟进埋点上线与数据验证，保障数据采集的完整性与准确性； 6、利用BI工具或Excel，从业务视角搭建与维护数据可视化看板，覆盖Token消耗趋势、意图覆盖分布、异常预警等核心模块，提升数据消费效率。\n1、2027届本科及以上应届毕业生，统计学、数学、计算机、经济学、数据科学、信息管理等相关专业优先； 2、对数据分析有浓厚兴趣，具备扎实的统计学基础，理解假设检验、回归分析、聚类等常用方法； 3、掌握SQL，能完成基本的数据提取与处理；了解Python/R等分析工具，有数据分析、数据挖掘相关课程项目或实习经验者优先； 4、了解埋点基本原理与常见埋点方式（如代码埋点、可视化埋点、全埋点等），理解事件、属性、上报时机等核心概念，有埋点方案设计或数据采集相关课程项目/实习经验者优先； 5、对AI语音助手或智能交互产品有基本认知，理解Token消耗、意图识别、会话轮次等核心概念者加分；具备较强的业务敏感度，愿意将数据结论转化为业务建议； 6、了解BI工具（如Tableau、Power BI、FineBI、Quick BI等）或Excel，具备可视化看板搭建经验者优先； 7、具备良好的沟通与协同能力，能清晰表达分析结论；具备较强的自驱力与学习能力，能在快速变化的业务环境中主动推进工作。 【加分项】 有AI语音助手、智能客服、大模型应用等产品相关的实习或项目经验； 有完整的埋点方案设计经历，熟悉埋点文档规范与数据验证流程； 具备分品牌/机型等多维度下钻分析经验； 有从0到1搭建监控看板或数据体系的课程项目/实习经历；",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上应届毕业生，统计学、数学、计算机、经济学、数据科学、信息管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、参与AI语音助手核心业务数据的监控与报表维护，协助搭建并迭代每日监控体系，核心"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://transsion.zhiye.com/campus/detail?jobAdId=4b89389c-aedd-472c-b639-cae5734c809f",
+      "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

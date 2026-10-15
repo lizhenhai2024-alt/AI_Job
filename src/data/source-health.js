@@ -296,6 +296,13 @@ export const sourceHealth = {
       "reason": "Moka源正常：发现58，源内保留0"
     },
     {
+      "provider": "moka",
+      "company": "德邦证券",
+      "status": "healthy",
+      "healthy": true,
+      "reason": "Moka源正常：发现27，源内保留0"
+    },
+    {
       "provider": "beisen",
       "company": "科大讯飞",
       "status": "healthy",
@@ -349,7 +356,7 @@ export const sourceHealth = {
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留187"
+      "reason": "北森源正常：扫描600，源内保留188"
     },
     {
       "provider": "beisen",
@@ -370,7 +377,7 @@ export const sourceHealth = {
       "company": "慧策集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描122，源内保留28"
+      "reason": "北森源正常：扫描122，源内保留34"
     },
     {
       "provider": "beisen",
@@ -433,7 +440,7 @@ export const sourceHealth = {
       "company": "传音控股",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描600，源内保留187"
+      "reason": "北森源正常：扫描600，源内保留188"
     },
     {
       "provider": "beisen",
@@ -580,7 +587,7 @@ export const sourceHealth = {
       "company": "蒙牛",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描213，源内保留107"
+      "reason": "北森源正常：扫描210，源内保留107"
     },
     {
       "provider": "beisen",
@@ -776,7 +783,7 @@ export const sourceHealth = {
       "company": "电商独角兽",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描122，源内保留28"
+      "reason": "北森源正常：扫描122，源内保留34"
     },
     {
       "provider": "beisen",
@@ -923,7 +930,7 @@ export const sourceHealth = {
       "company": "Decathlon",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出348，源内保留84"
+      "reason": "HotJob源正常：列出383，源内保留119"
     },
     {
       "provider": "hotjob",
@@ -937,7 +944,7 @@ export const sourceHealth = {
       "company": "创维集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出127，源内保留125"
+      "reason": "HotJob源正常：列出137，源内保留135"
     },
     {
       "provider": "hotjob",
@@ -972,7 +979,7 @@ export const sourceHealth = {
       "company": "新能安",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出75，源内保留75"
+      "reason": "HotJob源正常：列出83，源内保留83"
     },
     {
       "provider": "hotjob",
@@ -986,7 +993,7 @@ export const sourceHealth = {
       "company": "TCL华星光电",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出390，源内保留147"
+      "reason": "HotJob源正常：列出400，源内保留149"
     },
     {
       "provider": "hotjob",
@@ -1028,7 +1035,7 @@ export const sourceHealth = {
       "company": "腾讯",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 17 个错误"
+      "reason": "来源抓取存在 16 个错误"
     },
     {
       "provider": "bytedance",
@@ -1042,14 +1049,14 @@ export const sourceHealth = {
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量196，源内保留195"
+      "reason": "官方源正常：本轮活动量196，源内保留194"
     },
     {
       "provider": "lenovo",
       "company": "联想",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量84，源内保留28"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 2 个错误"
     },
     {
       "provider": "dji",
@@ -1173,9 +1180,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "广东外语外贸大学",
-      "status": "healthy",
-      "healthy": true,
-      "reason": "官方源正常：本轮活动量21，源内保留21"
+      "status": "error",
+      "healthy": false,
+      "reason": "来源抓取存在 3 个错误"
     },
     {
       "provider": "university",
@@ -1215,9 +1222,9 @@ export const sourceHealth = {
     {
       "provider": "university",
       "company": "南开大学",
-      "status": "error",
-      "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "status": "healthy",
+      "healthy": true,
+      "reason": "官方源正常：本轮活动量31，源内保留6"
     },
     {
       "provider": "university",
@@ -1559,11 +1566,11 @@ export const sourceHealth = {
   "counts": {
     "healthy": 158,
     "empty": 8,
-    "error": 8,
+    "error": 9,
     "unknown": 48
   },
-  "total": 222,
+  "total": 223,
   "healthy": 158,
-  "attention": 64,
-  "updatedAt": "2026-10-15T14:13:03.265Z"
+  "attention": 65,
+  "updatedAt": "2026-10-15T19:23:58.969Z"
 };

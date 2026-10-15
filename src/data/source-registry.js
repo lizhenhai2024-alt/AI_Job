@@ -169,6 +169,10 @@ export const sourceRegistry = [
     "company": "一、招聘岗位"
   },
   {
+    "provider": "moka",
+    "company": "德邦证券"
+  },
+  {
     "provider": "beisen",
     "company": "科大讯飞"
   },

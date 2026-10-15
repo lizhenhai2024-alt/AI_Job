@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T18:18:21.527Z",
+  "updatedAt": "2026-10-15T18:58:01.518Z",
   "companies": {
     "lazada": {
       "name": "Lazada",
@@ -2493,8 +2493,8 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zph.jspa?&tid=2100842873438781441",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-15T14:13:04.031Z",
-      "nextCheckAfter": "2026-10-16T14:13:04.034Z"
+      "lastCheckedAt": "2026-10-15T18:58:01.518Z",
+      "nextCheckAfter": "2026-10-16T18:58:01.522Z"
     },
     "深圳市艾丽斯卡文化创意": {
       "name": "深圳市艾丽斯卡文化创意有限公司",
@@ -2523,7 +2523,7 @@
         "sourceUrl": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-15T14:13:04.031Z",
+      "lastCheckedAt": "2026-10-15T18:58:01.518Z",
       "nextCheckAfter": ""
     },
     "深圳市杰和发展": {
@@ -2577,13 +2577,13 @@
       "state": "source_registered",
       "provider": "beisen",
       "officialUrl": "https://huicecom.zhiye.com/Campus",
-      "reason": "高校详情页明确给出北森招聘入口",
+      "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
       "universityEvidence": {
         "school": "南开大学",
-        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119725.html",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119786.html",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-14T01:17:26.976Z",
+      "lastCheckedAt": "2026-10-15T18:58:01.518Z",
       "nextCheckAfter": ""
     },
     "虹科|寻找定义未来的合伙人": {
@@ -2643,7 +2643,7 @@
         "sourceUrl": "https://career.gdufs.edu.cn/web/Index/job-detail?id=9146",
         "graduationYear": "2027"
       },
-      "lastCheckedAt": "2026-10-15T14:13:04.031Z",
+      "lastCheckedAt": "2026-10-15T18:58:01.518Z",
       "nextCheckAfter": ""
     },
     "乐禾食品": {
@@ -2660,6 +2660,21 @@
       },
       "lastCheckedAt": "2026-10-15T00:43:48.943Z",
       "nextCheckAfter": ""
+    },
+    "德邦证券": {
+      "name": "德邦证券",
+      "status": "高校自动发现",
+      "state": "source_registered",
+      "provider": "moka",
+      "officialUrl": "https://app.mokahr.com/campus-recruitment/imtebon/74049#/jobs",
+      "reason": "高校详情页明确给出Moka校园招聘入口",
+      "universityEvidence": {
+        "school": "南开大学",
+        "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/119785.html",
+        "graduationYear": "2027"
+      },
+      "lastCheckedAt": "2026-10-15T18:58:01.518Z",
+      "nextCheckAfter": ""
     }
   },
   "lastRun": {
@@ -2670,10 +2685,10 @@
     "forceRetry": false
   },
   "lastUniversityBridge": {
-    "candidates": 6,
-    "sourcesAdded": 0,
+    "candidates": 8,
+    "sourcesAdded": 1,
     "sourcesRepaired": 0,
     "queued": 1,
-    "updatedAt": "2026-10-15T14:13:04.031Z"
+    "updatedAt": "2026-10-15T18:58:01.518Z"
   }
 }
