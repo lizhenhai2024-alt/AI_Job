@@ -1,7 +1,7 @@
 {
   "company": "兆易创新",
-  "count": 9,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "count": 10,
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "moka-6f2953764aff",
@@ -91,7 +91,7 @@
       "deadline": ""
     },
     {
-      "id": "moka-d2cbaea04682",
+      "id": "moka-90622aa59ee3",
       "company": "兆易创新",
       "title": "数字设计工程师-2027届校招",
       "graduationYear": [
@@ -113,9 +113,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "MCU BU 其它 高新区天谷八路211号环普科技产业园G1座15楼 安定路5号城奥大厦6层",
+      "jobDescription": "PMU BU 其它 银泰城写字楼9号楼19层",
       "jobRequirements": "",
-      "JD": "MCU BU 其它 高新区天谷八路211号环普科技产业园G1座15楼 安定路5号城奥大厦6层",
+      "JD": "PMU BU 其它 银泰城写字楼9号楼19层",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -163,8 +163,8 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/gigadevice/92215#/job/637ef30b-4471-4f86-8247-adb24d7683dc",
-      "publishedAt": "2026-09-15",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/gigadevice/92215#/job/63514094-5d18-445e-a536-2e9e116e19ca",
+      "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -401,6 +401,85 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/gigadevice/92215#/job/791e959a-35ae-47dc-85d6-59a8852ddd7f",
+      "publishedAt": "2026-09-15",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-d2cbaea04682",
+      "company": "兆易创新",
+      "title": "数字设计工程师-2027届校招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "MCU BU 其它 高新区天谷八路211号环普科技产业园G1座15楼 安定路5号城奥大厦6层",
+      "jobRequirements": "",
+      "JD": "MCU BU 其它 高新区天谷八路211号环普科技产业园G1座15楼 安定路5号城奥大厦6层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/gigadevice/92215#/job/637ef30b-4471-4f86-8247-adb24d7683dc",
       "publishedAt": "2026-09-15",
       "lastVerified": "",
       "sourceType": "official",

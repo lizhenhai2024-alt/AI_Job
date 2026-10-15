@@ -1,7 +1,7 @@
 {
   "company": "中国路桥",
-  "count": 159,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "count": 160,
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "beisen-fef4dd791a1e",
@@ -1156,6 +1156,89 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=40eceead-0940-4024-9e8a-6ce5e2c2d004",
       "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b2e4d40909c8",
+      "company": "中国路桥",
+      "title": "2027届校招中交二航局一公司(J49106)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "沙特阿拉伯、阿联酋、科威特、尼日利亚、湖北省、海南省、山西省",
+      "jobDescription": "项目管理",
+      "jobRequirements": "2027届应届毕业生",
+      "JD": "项目管理\n2027届应届毕业生",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "20",
+        "min": 20,
+        "max": 20,
+        "scope": "job",
+        "display": "20人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20 20 项目管理 2027届应届毕业生 公司官方北森校招岗位；识别关键词：项目管理。投递"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "8K-10K 元/月",
+        "monthlyMin": 8000,
+        "monthlyMax": 10000,
+        "annualMin": 96000,
+        "annualMax": 120000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "8k–1万/月",
+        "annualDisplay": "9.6万–12万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "8K-10K 元/月 公司官方北森校招岗位；识别关键词：项目管理。投"
+      },
+      "salary": "8K-10K 元/月",
+      "monthlySalary": "8k–1万/月",
+      "annualSalary": "9.6万–12万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=bb77a6ec-bcb7-49b8-995f-5ea82f58c1b3",
+      "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

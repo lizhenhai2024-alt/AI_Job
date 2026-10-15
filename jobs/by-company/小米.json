@@ -1,7 +1,7 @@
 {
   "company": "小米",
   "count": 242,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -2930,6 +2930,103 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7671129798714460470",
+      "company": "小米",
+      "title": "中国区-市场营销管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、参与品牌策略与定位的制定，协助完成品牌传播方案的策划与落地执行； 2、负责整合营销活动的策划与执行，包括活动方案撰写、资源协调、现场统筹与效果评估； 3、内容创意与社交媒体运营，策划并产出品牌内容，管理官方社媒账号，提升品牌声量与用户互动； 4、媒介策略与投放执行，包括媒体资源开拓与维护、投放效果跟踪与优化； 5、收集并分析市场信息、行业趋势与竞品动态，输出用户洞察报告，为品牌决策提供数据支撑； 6、参与公关传播与舆情管理，协助处理品牌相关舆情事件，维护品牌形象。",
+      "jobRequirements": "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先； 2、熟练使用Office办公软件，具备基础的文案撰写与内容策划能力； 3、英语口语及书面表达能力良好，如会小语种优先考虑； 4、沟通能力强，创意敏锐，积极主动，有责任心且具备超强执行力； 5、对品牌营销、社交媒体、新媒体趋势有浓厚兴趣，具备良好的审美与内容感知力； 6、有校园活动策划、新媒体运营或市场实习经历者优先。",
+      "JD": "1、参与品牌策略与定位的制定，协助完成品牌传播方案的策划与落地执行； 2、负责整合营销活动的策划与执行，包括活动方案撰写、资源协调、现场统筹与效果评估； 3、内容创意与社交媒体运营，策划并产出品牌内容，管理官方社媒账号，提升品牌声量与用户互动； 4、媒介策略与投放执行，包括媒体资源开拓与维护、投放效果跟踪与优化； 5、收集并分析市场信息、行业趋势与竞品动态，输出用户洞察报告，为品牌决策提供数据支撑； 6、参与公关传播与舆情管理，协助处理品牌相关舆情事件，维护品牌形象。\n1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先； 2、熟练使用Office办公软件，具备基础的文案撰写与内容策划能力； 3、英语口语及书面表达能力良好，如会小语种优先考虑； 4、沟通能力强，创意敏锐，积极主动，有责任心且具备超强执行力； 5、对品牌营销、社交媒体、新媒体趋势有浓厚兴趣，具备良好的审美与内容感知力； 6、有校园活动策划、新媒体运营或市场实习经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [
+        "英语",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "市场",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "洞察"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129798714460470/detail",
+      "publishedAt": "2026-08-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7670934925583960329",
       "company": "小米",
       "title": "交付运营专员-local",
@@ -4992,6 +5089,105 @@
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934839563028755/detail",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7671129801244231982",
+      "company": "小米",
+      "title": "中国区-销售管培生",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责所辖区域/渠道的产品销售与目标达成，执行销售计划，完成月度、季度及年度销售指标； 2、渠道运营与客户关系管理，包括经销商/终端门店的开拓、维护与赋能，推动渠道健康增长； 3、零售门店运营与销售策略落地，包括门店陈列、促销活动策划与执行、销售话术优化； 4、收集并分析市场信息与竞品动态，输出销售数据报告，为区域销售决策提供数据支撑； 5、协调产销资源，对接订单管理、库存周转与物流配送，保障销售链条高效运转； 6、参与GTM（Go-To-Market）策略制定与执行，协同市场、产品、运营等多部门推动业务落地。",
+      "jobRequirements": "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先； 2、熟练使用Office办公软件，具备基本的数据分析能力； 3、沟通表达能力强，具备良好的商务谈判与客户关系维护能力； 4、目标导向，有强烈的自驱力和执行力； 5、具备团队协作精神，善于跨部门资源整合与协同推进； 6、英语可作为工作语言者优先，有销售实习或校园创业经历者优先。",
+      "JD": "1、负责所辖区域/渠道的产品销售与目标达成，执行销售计划，完成月度、季度及年度销售指标； 2、渠道运营与客户关系管理，包括经销商/终端门店的开拓、维护与赋能，推动渠道健康增长； 3、零售门店运营与销售策略落地，包括门店陈列、促销活动策划与执行、销售话术优化； 4、收集并分析市场信息与竞品动态，输出销售数据报告，为区域销售决策提供数据支撑； 5、协调产销资源，对接订单管理、库存周转与物流配送，保障销售链条高效运转； 6、参与GTM（Go-To-Market）策略制定与执行，协同市场、产品、运营等多部门推动业务落地。\n1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先； 2、熟练使用Office办公软件，具备基本的数据分析能力； 3、沟通表达能力强，具备良好的商务谈判与客户关系维护能力； 4、目标导向，有强烈的自驱力和执行力； 5、具备团队协作精神，善于跨部门资源整合与协同推进； 6、英语可作为工作语言者优先，有销售实习或校园创业经历者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "数据",
+        "营销",
+        "客户",
+        "GTM",
+        "招聘",
+        "商务"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129801244231982/detail",
+      "publishedAt": "2026-08-07",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -9411,103 +9607,6 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7671129798714460470",
-      "company": "小米",
-      "title": "总部-市场方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、参与品牌策略与定位的制定，协助完成品牌传播方案的策划与落地执行； 2、负责整合营销活动的策划与执行，包括活动方案撰写、资源协调、现场统筹与效果评估； 3、内容创意与社交媒体运营，策划并产出品牌内容，管理官方社媒账号，提升品牌声量与用户互动； 4、媒介策略与投放执行，包括媒体资源开拓与维护、投放效果跟踪与优化； 5、收集并分析市场信息、行业趋势与竞品动态，输出用户洞察报告，为品牌决策提供数据支撑； 6、参与公关传播与舆情管理，协助处理品牌相关舆情事件，维护品牌形象。",
-      "jobRequirements": "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先； 2、熟练使用Office办公软件，具备基础的文案撰写与内容策划能力； 3、英语口语及书面表达能力良好，如会小语种优先考虑； 4、沟通能力强，创意敏锐，积极主动，有责任心且具备超强执行力； 5、对品牌营销、社交媒体、新媒体趋势有浓厚兴趣，具备良好的审美与内容感知力； 6、有校园活动策划、新媒体运营或市场实习经历者优先。",
-      "JD": "1、参与品牌策略与定位的制定，协助完成品牌传播方案的策划与落地执行； 2、负责整合营销活动的策划与执行，包括活动方案撰写、资源协调、现场统筹与效果评估； 3、内容创意与社交媒体运营，策划并产出品牌内容，管理官方社媒账号，提升品牌声量与用户互动； 4、媒介策略与投放执行，包括媒体资源开拓与维护、投放效果跟踪与优化； 5、收集并分析市场信息、行业趋势与竞品动态，输出用户洞察报告，为品牌决策提供数据支撑； 6、参与公关传播与舆情管理，协助处理品牌相关舆情事件，维护品牌形象。\n1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先； 2、熟练使用Office办公软件，具备基础的文案撰写与内容策划能力； 3、英语口语及书面表达能力良好，如会小语种优先考虑； 4、沟通能力强，创意敏锐，积极主动，有责任心且具备超强执行力； 5、对品牌营销、社交媒体、新媒体趋势有浓厚兴趣，具备良好的审美与内容感知力； 6、有校园活动策划、新媒体运营或市场实习经历者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，新闻传播、广告学、市场营销、中文、新媒体等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "文案"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "市场",
-        "用户",
-        "数据",
-        "营销",
-        "品牌",
-        "洞察"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129798714460470/detail",
-      "publishedAt": "2026-08-07",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
       "id": "feishu-4031ce-7670935610878511410",
       "company": "小米",
       "title": "新零售管培生-外派",
@@ -12228,105 +12327,6 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671295548247083310/detail",
-      "publishedAt": "2026-08-07",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
-      "id": "feishu-4031ce-7671129801244231982",
-      "company": "小米",
-      "title": "总部-销售方向",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "1、负责所辖区域/渠道的产品销售与目标达成，执行销售计划，完成月度、季度及年度销售指标； 2、渠道运营与客户关系管理，包括经销商/终端门店的开拓、维护与赋能，推动渠道健康增长； 3、零售门店运营与销售策略落地，包括门店陈列、促销活动策划与执行、销售话术优化； 4、收集并分析市场信息与竞品动态，输出销售数据报告，为区域销售决策提供数据支撑； 5、协调产销资源，对接订单管理、库存周转与物流配送，保障销售链条高效运转； 6、参与GTM（Go-To-Market）策略制定与执行，协同市场、产品、运营等多部门推动业务落地。",
-      "jobRequirements": "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先； 2、熟练使用Office办公软件，具备基本的数据分析能力； 3、沟通表达能力强，具备良好的商务谈判与客户关系维护能力； 4、目标导向，有强烈的自驱力和执行力； 5、具备团队协作精神，善于跨部门资源整合与协同推进； 6、英语可作为工作语言者优先，有销售实习或校园创业经历者优先。",
-      "JD": "1、负责所辖区域/渠道的产品销售与目标达成，执行销售计划，完成月度、季度及年度销售指标； 2、渠道运营与客户关系管理，包括经销商/终端门店的开拓、维护与赋能，推动渠道健康增长； 3、零售门店运营与销售策略落地，包括门店陈列、促销活动策划与执行、销售话术优化； 4、收集并分析市场信息与竞品动态，输出销售数据报告，为区域销售决策提供数据支撑； 5、协调产销资源，对接订单管理、库存周转与物流配送，保障销售链条高效运转； 6、参与GTM（Go-To-Market）策略制定与执行，协同市场、产品、运营等多部门推动业务落地。\n1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先； 2、熟练使用Office办公软件，具备基本的数据分析能力； 3、沟通表达能力强，具备良好的商务谈判与客户关系维护能力； 4、目标导向，有强烈的自驱力和执行力； 5、具备团队协作精神，善于跨部门资源整合与协同推进； 6、英语可作为工作语言者优先，有销售实习或校园创业经历者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，市场营销、工商管理、国际贸易、经济学等相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "数据",
-        "营销",
-        "客户",
-        "GTM",
-        "招聘",
-        "商务"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7671129801244231982/detail",
       "publishedAt": "2026-08-07",
       "lastVerified": "",
       "sourceType": "official",

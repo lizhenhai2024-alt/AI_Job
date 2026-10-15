@@ -1,7 +1,7 @@
 {
   "company": "vivo",
   "count": 33,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "beisen-055e87e5e911",
@@ -601,6 +601,105 @@
       "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
     },
     {
+      "id": "beisen-32b66aae8ed0",
+      "company": "vivo",
+      "title": "电商运营经理-27届秋招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "我们是vivo&iQOO中国市场领域团队，负责vivo&iQOO的全球品牌、渠道销售和市场操盘。通过专业的市场营销和渠道管理运作，精准触达用户人群和客户，打造良好的用户口碑和高效的渠道通路，为消费者提供更加极致的产品和服务。 在这里， 你可以了解：线上与线下的市场运作、电商运营、品牌管理等所有市场营销的组成模块； 你可以体验：全国乃至全球前沿的营销玩法，与vivo&iQOO的高端玩家们一起打造更加伟大的品牌； 你可以实现：对市场营销的梦想和理念，与一群充满希望和力量的同伴们并肩前进，实现个人价值； 你将成为vivo&iQOO中国市场领域的未来之星。 你将与我们一起专注于： 1、 根据公司经营目标制定线上渠道销售目标及销售计划， 2、负责天猫、京东、拼多多、官方商城等渠道的销售和运营； 3、 深度洞察销售者和竞争趋势，通过数据分析制定相应的优化方案； 4、负责电商营销策划方案的制定和落地，并实现营销方案和线上销售充分的结合。",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、怀揣对电商行业的热情，为梦想驱动，不断向前； 3、具备优秀的逻辑思维能力，富有洞察力、想象力和执行力； 4、拥有强大的内驱力和优秀的沟通交流能力； 5、积极面对生活和工作，踏实主动，责任心爆棚。",
+      "JD": "我们是vivo&iQOO中国市场领域团队，负责vivo&iQOO的全球品牌、渠道销售和市场操盘。通过专业的市场营销和渠道管理运作，精准触达用户人群和客户，打造良好的用户口碑和高效的渠道通路，为消费者提供更加极致的产品和服务。 在这里， 你可以了解：线上与线下的市场运作、电商运营、品牌管理等所有市场营销的组成模块； 你可以体验：全国乃至全球前沿的营销玩法，与vivo&iQOO的高端玩家们一起打造更加伟大的品牌； 你可以实现：对市场营销的梦想和理念，与一群充满希望和力量的同伴们并肩前进，实现个人价值； 你将成为vivo&iQOO中国市场领域的未来之星。 你将与我们一起专注于： 1、 根据公司经营目标制定线上渠道销售目标及销售计划， 2、负责天猫、京东、拼多多、官方商城等渠道的销售和运营； 3、 深度洞察销售者和竞争趋势，通过数据分析制定相应的优化方案； 4、负责电商营销策划方案的制定和落地，并实现营销方案和线上销售充分的结合。\n1、本科及以上学历，专业不限； 2、怀揣对电商行业的热情，为梦想驱动，不断向前； 3、具备优秀的逻辑思维能力，富有洞察力、想象力和执行力； 4、拥有强大的内驱力和优秀的沟通交流能力； 5、积极面对生活和工作，踏实主动，责任心爆棚。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "电商运营"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "电商",
+        "用户",
+        "数据",
+        "营销",
+        "品牌",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "纯销售"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "20",
+        "min": 20,
+        "max": 20,
+        "scope": "job",
+        "display": "20人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "20 20 我们是vivo&iQOO中国市场领域团队，负责vivo&iQOO的全球品牌、渠道"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=7af4ea2d-cd75-4468-b12a-538503d0545e",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
       "id": "beisen-48b0bdc903fd",
       "company": "vivo",
       "title": "品牌经理-27届秋招",
@@ -973,105 +1072,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=d6f32027-aa6a-4882-bd87-2c7972cccad6",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
-    },
-    {
-      "id": "beisen-32b66aae8ed0",
-      "company": "vivo",
-      "title": "电商运营经理-27届秋招",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "东莞",
-      "jobDescription": "我们是vivo&iQOO中国市场领域团队，负责vivo&iQOO的全球品牌、渠道销售和市场操盘。通过专业的市场营销和渠道管理运作，精准触达用户人群和客户，打造良好的用户口碑和高效的渠道通路，为消费者提供更加极致的产品和服务。 在这里， 你可以了解：线上与线下的市场运作、电商运营、品牌管理等所有市场营销的组成模块； 你可以体验：全国乃至全球前沿的营销玩法，与vivo&iQOO的高端玩家们一起打造更加伟大的品牌； 你可以实现：对市场营销的梦想和理念，与一群充满希望和力量的同伴们并肩前进，实现个人价值； 你将成为vivo&iQOO中国市场领域的未来之星。 你将与我们一起专注于： 1、 根据公司经营目标制定线上渠道销售目标及销售计划， 2、负责天猫、京东、拼多多、官方商城等渠道的销售和运营； 3、 深度洞察销售者和竞争趋势，通过数据分析制定相应的优化方案； 4、负责电商营销策划方案的制定和落地，并实现营销方案和线上销售充分的结合。",
-      "jobRequirements": "1、本科及以上学历，专业不限； 2、怀揣对电商行业的热情，为梦想驱动，不断向前； 3、具备优秀的逻辑思维能力，富有洞察力、想象力和执行力； 4、拥有强大的内驱力和优秀的沟通交流能力； 5、积极面对生活和工作，踏实主动，责任心爆棚。",
-      "JD": "我们是vivo&iQOO中国市场领域团队，负责vivo&iQOO的全球品牌、渠道销售和市场操盘。通过专业的市场营销和渠道管理运作，精准触达用户人群和客户，打造良好的用户口碑和高效的渠道通路，为消费者提供更加极致的产品和服务。 在这里， 你可以了解：线上与线下的市场运作、电商运营、品牌管理等所有市场营销的组成模块； 你可以体验：全国乃至全球前沿的营销玩法，与vivo&iQOO的高端玩家们一起打造更加伟大的品牌； 你可以实现：对市场营销的梦想和理念，与一群充满希望和力量的同伴们并肩前进，实现个人价值； 你将成为vivo&iQOO中国市场领域的未来之星。 你将与我们一起专注于： 1、 根据公司经营目标制定线上渠道销售目标及销售计划， 2、负责天猫、京东、拼多多、官方商城等渠道的销售和运营； 3、 深度洞察销售者和竞争趋势，通过数据分析制定相应的优化方案； 4、负责电商营销策划方案的制定和落地，并实现营销方案和线上销售充分的结合。\n1、本科及以上学历，专业不限； 2、怀揣对电商行业的热情，为梦想驱动，不断向前； 3、具备优秀的逻辑思维能力，富有洞察力、想象力和执行力； 4、拥有强大的内驱力和优秀的沟通交流能力； 5、积极面对生活和工作，踏实主动，责任心爆棚。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，专业不限"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "电商运营"
-      ],
-      "skills": [
-        "数据分析",
-        "电商"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "市场",
-        "电商",
-        "用户",
-        "数据",
-        "营销",
-        "品牌",
-        "客户"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "纯销售"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "20",
-        "min": 20,
-        "max": 20,
-        "scope": "job",
-        "display": "20人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "20 20 我们是vivo&iQOO中国市场领域团队，负责vivo&iQOO的全球品牌、渠道"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=7af4ea2d-cd75-4468-b12a-538503d0545e",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -1465,104 +1465,6 @@
       "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
     },
     {
-      "id": "beisen-c6698fddc7b6",
-      "company": "vivo",
-      "title": "用户研究经理（IOT方向）-27届秋招",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，心理学、社会学、人类学、人机交互、工业设计、统计学、市场营销或相关专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "东莞",
-      "jobDescription": "1、协助开展IoT产品（如智能家居、可穿戴设备、智能音频等）的用户体验研究项目，参与消费者人群洞察、用户画像构建及使用场景分析，为产品规划提供基础研究支持； 2、综合运用定性与定量研究方法，包括深度访谈、焦点小组、可用性测试、问卷调研、数据分析等，逐步掌握理解用户真实需求与潜在期望的研究能力； 3、关注年轻消费群体的生活趋势与文化动态，协助收集并整理行业资讯、社交平台内容及竞品用户反馈，形成有价值的人群认知输入； 4、配合用户大数据的整理与基础分析，完成数据清洗、初步统计及可视化呈现，协助产出数据洞察小结； 5、参与研究项目的全流程管理，从方案设计、执行推进到报告撰写，确保各环节按时交付，并主动同步进度与问题； 6、与产品、设计、硬件、软件、市场等跨职能团队紧密协作，传递研究发现，跟进洞察在开发各阶段的落地情况，并协助进行效果追踪与信息反馈。",
-      "jobRequirements": "1、本科及以上学历，心理学、社会学、人类学、人机交互、工业设计、统计学、市场营销或相关专业优先； 2、对用户研究有浓厚兴趣，有课程项目、实习或社团调研经历者优先（可附作品集或研究报告样例）； 3、了解基本的定性与定量研究方法，具备基础的数据处理能力（如Excel、SPSS、Python/R中的一种更佳）； 4、对年轻人群体的生活方式、消费习惯、文化趋势有好奇心，善于观察和提炼； 5、逻辑清晰，具备良好的文字表达与沟通能力，乐于团队协作； 6、主动性强，抗压能力好，能够适应多任务并行的工作节奏； 7、加分项： （1）自己写过用户调研报告或做过可用性测试； （2）有运营过社群、做过用户运营的实习经历； （3）是某个IoT产品的深度用户，能滔滔不绝讲出它的好与坏。",
-      "JD": "1、协助开展IoT产品（如智能家居、可穿戴设备、智能音频等）的用户体验研究项目，参与消费者人群洞察、用户画像构建及使用场景分析，为产品规划提供基础研究支持； 2、综合运用定性与定量研究方法，包括深度访谈、焦点小组、可用性测试、问卷调研、数据分析等，逐步掌握理解用户真实需求与潜在期望的研究能力； 3、关注年轻消费群体的生活趋势与文化动态，协助收集并整理行业资讯、社交平台内容及竞品用户反馈，形成有价值的人群认知输入； 4、配合用户大数据的整理与基础分析，完成数据清洗、初步统计及可视化呈现，协助产出数据洞察小结； 5、参与研究项目的全流程管理，从方案设计、执行推进到报告撰写，确保各环节按时交付，并主动同步进度与问题； 6、与产品、设计、硬件、软件、市场等跨职能团队紧密协作，传递研究发现，跟进洞察在开发各阶段的落地情况，并协助进行效果追踪与信息反馈。\n1、本科及以上学历，心理学、社会学、人类学、人机交互、工业设计、统计学、市场营销或相关专业优先； 2、对用户研究有浓厚兴趣，有课程项目、实习或社团调研经历者优先（可附作品集或研究报告样例）； 3、了解基本的定性与定量研究方法，具备基础的数据处理能力（如Excel、SPSS、Python/R中的一种更佳）； 4、对年轻人群体的生活方式、消费习惯、文化趋势有好奇心，善于观察和提炼； 5、逻辑清晰，具备良好的文字表达与沟通能力，乐于团队协作； 6、主动性强，抗压能力好，能够适应多任务并行的工作节奏； 7、加分项： （1）自己写过用户调研报告或做过可用性测试； （2）有运营过社群、做过用户运营的实习经历； （3）是某个IoT产品的深度用户，能滔滔不绝讲出它的好与坏。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，心理学、社会学、人类学、人机交互、工业设计、统计学、市场营销或相关专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "项目",
-        "市场",
-        "用户",
-        "数据",
-        "营销"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": true,
-        "raw": "5",
-        "min": 5,
-        "max": 5,
-        "scope": "job",
-        "display": "5人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "5 5 1、协助开展IoT产品（如智能家居、可穿戴设备、智能音频等）的用户体验研究项目，参"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=40d705f1-3fbb-40b2-b1d6-7e7426d4d3e8",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
-    },
-    {
       "id": "beisen-9b7dcf6a40ed",
       "company": "vivo",
       "title": "商务经理-27届秋招",
@@ -1654,6 +1556,104 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=0056ec69-45b7-40c4-9f6d-1a54910d37be",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
+      "id": "beisen-c6698fddc7b6",
+      "company": "vivo",
+      "title": "用户研究经理（IOT方向）-27届秋招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，心理学、社会学、人类学、人机交互、工业设计、统计学、市场营销或相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "1、协助开展IoT产品（如智能家居、可穿戴设备、智能音频等）的用户体验研究项目，参与消费者人群洞察、用户画像构建及使用场景分析，为产品规划提供基础研究支持； 2、综合运用定性与定量研究方法，包括深度访谈、焦点小组、可用性测试、问卷调研、数据分析等，逐步掌握理解用户真实需求与潜在期望的研究能力； 3、关注年轻消费群体的生活趋势与文化动态，协助收集并整理行业资讯、社交平台内容及竞品用户反馈，形成有价值的人群认知输入； 4、配合用户大数据的整理与基础分析，完成数据清洗、初步统计及可视化呈现，协助产出数据洞察小结； 5、参与研究项目的全流程管理，从方案设计、执行推进到报告撰写，确保各环节按时交付，并主动同步进度与问题； 6、与产品、设计、硬件、软件、市场等跨职能团队紧密协作，传递研究发现，跟进洞察在开发各阶段的落地情况，并协助进行效果追踪与信息反馈。",
+      "jobRequirements": "1、本科及以上学历，心理学、社会学、人类学、人机交互、工业设计、统计学、市场营销或相关专业优先； 2、对用户研究有浓厚兴趣，有课程项目、实习或社团调研经历者优先（可附作品集或研究报告样例）； 3、了解基本的定性与定量研究方法，具备基础的数据处理能力（如Excel、SPSS、Python/R中的一种更佳）； 4、对年轻人群体的生活方式、消费习惯、文化趋势有好奇心，善于观察和提炼； 5、逻辑清晰，具备良好的文字表达与沟通能力，乐于团队协作； 6、主动性强，抗压能力好，能够适应多任务并行的工作节奏； 7、加分项： （1）自己写过用户调研报告或做过可用性测试； （2）有运营过社群、做过用户运营的实习经历； （3）是某个IoT产品的深度用户，能滔滔不绝讲出它的好与坏。",
+      "JD": "1、协助开展IoT产品（如智能家居、可穿戴设备、智能音频等）的用户体验研究项目，参与消费者人群洞察、用户画像构建及使用场景分析，为产品规划提供基础研究支持； 2、综合运用定性与定量研究方法，包括深度访谈、焦点小组、可用性测试、问卷调研、数据分析等，逐步掌握理解用户真实需求与潜在期望的研究能力； 3、关注年轻消费群体的生活趋势与文化动态，协助收集并整理行业资讯、社交平台内容及竞品用户反馈，形成有价值的人群认知输入； 4、配合用户大数据的整理与基础分析，完成数据清洗、初步统计及可视化呈现，协助产出数据洞察小结； 5、参与研究项目的全流程管理，从方案设计、执行推进到报告撰写，确保各环节按时交付，并主动同步进度与问题； 6、与产品、设计、硬件、软件、市场等跨职能团队紧密协作，传递研究发现，跟进洞察在开发各阶段的落地情况，并协助进行效果追踪与信息反馈。\n1、本科及以上学历，心理学、社会学、人类学、人机交互、工业设计、统计学、市场营销或相关专业优先； 2、对用户研究有浓厚兴趣，有课程项目、实习或社团调研经历者优先（可附作品集或研究报告样例）； 3、了解基本的定性与定量研究方法，具备基础的数据处理能力（如Excel、SPSS、Python/R中的一种更佳）； 4、对年轻人群体的生活方式、消费习惯、文化趋势有好奇心，善于观察和提炼； 5、逻辑清晰，具备良好的文字表达与沟通能力，乐于团队协作； 6、主动性强，抗压能力好，能够适应多任务并行的工作节奏； 7、加分项： （1）自己写过用户调研报告或做过可用性测试； （2）有运营过社群、做过用户运营的实习经历； （3）是某个IoT产品的深度用户，能滔滔不绝讲出它的好与坏。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，心理学、社会学、人类学、人机交互、工业设计、统计学、市场营销或相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "数据",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、协助开展IoT产品（如智能家居、可穿戴设备、智能音频等）的用户体验研究项目，参"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=40d705f1-3fbb-40b2-b1d6-7e7426d4d3e8",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -2309,187 +2309,6 @@
       "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
     },
     {
-      "id": "beisen-fc917a60d462",
-      "company": "vivo",
-      "title": "互联网产品经理（系统方向）-27届秋招",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，专业不限",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "系统，是一座城市，由无数产品构成，而你，就是这个城市的设计师和运营者。这里的每一个细节都需要你的精心打造，好让人们享受这座城市所带来的惊喜、便捷和快乐，没错，这就是一个构筑梦想的职业-产品经理。 在这里，有5亿+的用户在等待你的惊喜，有前沿的AI技术在等待你的探索，有一个专业的团队在等待你的加入。 你将和我们一起： 1、深挖用户场景、需求、价值、数据，还原用户的本质诉求，设计提供满足用户核心需求的产品； 2、洞察行业趋势，剖析行业竞品，持续创新，打造具有行业竞争力的产品，为vivo产品和品牌赋能； 3、探索和挖掘产品流量价值，建立合适的商业化变现能力； 4、整合产品资源和能力，贯通系统各产品入口，共同提升用户粘性和使用体验； 5、参与并规划包括但不限AI服务、搜索服务、影音服务、基础服务、桌面平台、内容平台等涵盖各个场景的平台型产品。",
-      "jobRequirements": "1、本科及以上学历，专业不限； 2、具有较好的逻辑思维与分析能力，具备出色的产品设计、规划能力； 3、有良好的沟通能力，优秀的大局观和团队意识，具有合作精神； 4、好奇心强，想象力丰富，具有有创新意识且做事严谨； 5、互联网公司实习经验者优先，全国及以上级别产品设计比赛获奖者优先。",
-      "JD": "系统，是一座城市，由无数产品构成，而你，就是这个城市的设计师和运营者。这里的每一个细节都需要你的精心打造，好让人们享受这座城市所带来的惊喜、便捷和快乐，没错，这就是一个构筑梦想的职业-产品经理。 在这里，有5亿+的用户在等待你的惊喜，有前沿的AI技术在等待你的探索，有一个专业的团队在等待你的加入。 你将和我们一起： 1、深挖用户场景、需求、价值、数据，还原用户的本质诉求，设计提供满足用户核心需求的产品； 2、洞察行业趋势，剖析行业竞品，持续创新，打造具有行业竞争力的产品，为vivo产品和品牌赋能； 3、探索和挖掘产品流量价值，建立合适的商业化变现能力； 4、整合产品资源和能力，贯通系统各产品入口，共同提升用户粘性和使用体验； 5、参与并规划包括但不限AI服务、搜索服务、影音服务、基础服务、桌面平台、内容平台等涵盖各个场景的平台型产品。\n1、本科及以上学历，专业不限； 2、具有较好的逻辑思维与分析能力，具备出色的产品设计、规划能力； 3、有良好的沟通能力，优秀的大局观和团队意识，具有合作精神； 4、好奇心强，想象力丰富，具有有创新意识且做事严谨； 5、互联网公司实习经验者优先，全国及以上级别产品设计比赛获奖者优先。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，专业不限"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "运营",
-        "内容",
-        "用户",
-        "数据",
-        "品牌"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "15",
-        "min": 15,
-        "max": 15,
-        "scope": "job",
-        "display": "15人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "15 15 系统，是一座城市，由无数产品构成，而你，就是这个城市的设计师和运营者。这里的每一"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=2dd0b0de-52af-454f-9002-19a3b476227a",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
-    },
-    {
-      "id": "beisen-3f107ea14f45",
-      "company": "vivo",
-      "title": "互联网产品经理（平台方向）-27届秋招",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1、本科及以上学历，计算机、大数据、人工智能等专业优先",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "深圳",
-      "jobDescription": "我们是vivo互联网平台产品团队，围绕云计算、大数据、人工智能等前沿领域，构建行业领先的企业级信息高速公路，打造企业用户热爱的数字化平台和产品，提升互联网业务经营效率和行业竞争力。 这里拥有顶尖的工程师，你将有机会实现你的任何想法； 这里拥有海量的用户群，你将有机会影响数亿人的互联网生活； 这里拥有广泛的产品线，你将有机会获得最全面的认知与成长。 加入我们，你将和我们一起： 1、 系统化学习ToB产品方法论，打造企业用户热爱的数字化平台和产品； 2、 围绕vivo互联网业务全生命周期，设计支撑海量规模的中后台技术产品解决方案； 3、 参与云计算、大数据、机器学习等平台的规划&设计与落地，构建企业新质生产力。",
-      "jobRequirements": "1、本科及以上学历，计算机、大数据、人工智能等专业优先； 2、热爱互联网，熟悉互联网产品，并对产品背后的技术实现有好奇心； 3、优秀的逻辑思维和分析能力、沟通和总结能力、想象力和同理心； 4、结果导向，热爱挑战，擅长与人协作完成目标。",
-      "JD": "我们是vivo互联网平台产品团队，围绕云计算、大数据、人工智能等前沿领域，构建行业领先的企业级信息高速公路，打造企业用户热爱的数字化平台和产品，提升互联网业务经营效率和行业竞争力。 这里拥有顶尖的工程师，你将有机会实现你的任何想法； 这里拥有海量的用户群，你将有机会影响数亿人的互联网生活； 这里拥有广泛的产品线，你将有机会获得最全面的认知与成长。 加入我们，你将和我们一起： 1、 系统化学习ToB产品方法论，打造企业用户热爱的数字化平台和产品； 2、 围绕vivo互联网业务全生命周期，设计支撑海量规模的中后台技术产品解决方案； 3、 参与云计算、大数据、机器学习等平台的规划&设计与落地，构建企业新质生产力。\n1、本科及以上学历，计算机、大数据、人工智能等专业优先； 2、热爱互联网，熟悉互联网产品，并对产品背后的技术实现有好奇心； 3、优秀的逻辑思维和分析能力、沟通和总结能力、想象力和同理心； 4、结果导向，热爱挑战，擅长与人协作完成目标。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1、本科及以上学历，计算机、大数据、人工智能等专业优先"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "用户",
-        "数据"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "3",
-        "min": 3,
-        "max": 3,
-        "scope": "job",
-        "display": "3人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "3 3 我们是vivo互联网平台产品团队，围绕云计算、大数据、人工智能等前沿领域，构建行业"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=e835aac9-e9f0-43e3-a1f9-a3c492a59262",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
-    },
-    {
       "id": "beisen-f1335c40f2be",
       "company": "vivo",
       "title": "艺术创意设计师-27届秋招",
@@ -2664,6 +2483,187 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=39649424-a5b0-44e4-a2e5-cfe817e93fe3",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
+      "id": "beisen-fc917a60d462",
+      "company": "vivo",
+      "title": "互联网产品经理（系统方向）-27届秋招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "系统，是一座城市，由无数产品构成，而你，就是这个城市的设计师和运营者。这里的每一个细节都需要你的精心打造，好让人们享受这座城市所带来的惊喜、便捷和快乐，没错，这就是一个构筑梦想的职业-产品经理。 在这里，有5亿+的用户在等待你的惊喜，有前沿的AI技术在等待你的探索，有一个专业的团队在等待你的加入。 你将和我们一起： 1、深挖用户场景、需求、价值、数据，还原用户的本质诉求，设计提供满足用户核心需求的产品； 2、洞察行业趋势，剖析行业竞品，持续创新，打造具有行业竞争力的产品，为vivo产品和品牌赋能； 3、探索和挖掘产品流量价值，建立合适的商业化变现能力； 4、整合产品资源和能力，贯通系统各产品入口，共同提升用户粘性和使用体验； 5、参与并规划包括但不限AI服务、搜索服务、影音服务、基础服务、桌面平台、内容平台等涵盖各个场景的平台型产品。",
+      "jobRequirements": "1、本科及以上学历，专业不限； 2、具有较好的逻辑思维与分析能力，具备出色的产品设计、规划能力； 3、有良好的沟通能力，优秀的大局观和团队意识，具有合作精神； 4、好奇心强，想象力丰富，具有有创新意识且做事严谨； 5、互联网公司实习经验者优先，全国及以上级别产品设计比赛获奖者优先。",
+      "JD": "系统，是一座城市，由无数产品构成，而你，就是这个城市的设计师和运营者。这里的每一个细节都需要你的精心打造，好让人们享受这座城市所带来的惊喜、便捷和快乐，没错，这就是一个构筑梦想的职业-产品经理。 在这里，有5亿+的用户在等待你的惊喜，有前沿的AI技术在等待你的探索，有一个专业的团队在等待你的加入。 你将和我们一起： 1、深挖用户场景、需求、价值、数据，还原用户的本质诉求，设计提供满足用户核心需求的产品； 2、洞察行业趋势，剖析行业竞品，持续创新，打造具有行业竞争力的产品，为vivo产品和品牌赋能； 3、探索和挖掘产品流量价值，建立合适的商业化变现能力； 4、整合产品资源和能力，贯通系统各产品入口，共同提升用户粘性和使用体验； 5、参与并规划包括但不限AI服务、搜索服务、影音服务、基础服务、桌面平台、内容平台等涵盖各个场景的平台型产品。\n1、本科及以上学历，专业不限； 2、具有较好的逻辑思维与分析能力，具备出色的产品设计、规划能力； 3、有良好的沟通能力，优秀的大局观和团队意识，具有合作精神； 4、好奇心强，想象力丰富，具有有创新意识且做事严谨； 5、互联网公司实习经验者优先，全国及以上级别产品设计比赛获奖者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "用户",
+        "数据",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "15",
+        "min": 15,
+        "max": 15,
+        "scope": "job",
+        "display": "15人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "15 15 系统，是一座城市，由无数产品构成，而你，就是这个城市的设计师和运营者。这里的每一"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=2dd0b0de-52af-454f-9002-19a3b476227a",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
+      "id": "beisen-3f107ea14f45",
+      "company": "vivo",
+      "title": "互联网产品经理（平台方向）-27届秋招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、本科及以上学历，计算机、大数据、人工智能等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "我们是vivo互联网平台产品团队，围绕云计算、大数据、人工智能等前沿领域，构建行业领先的企业级信息高速公路，打造企业用户热爱的数字化平台和产品，提升互联网业务经营效率和行业竞争力。 这里拥有顶尖的工程师，你将有机会实现你的任何想法； 这里拥有海量的用户群，你将有机会影响数亿人的互联网生活； 这里拥有广泛的产品线，你将有机会获得最全面的认知与成长。 加入我们，你将和我们一起： 1、 系统化学习ToB产品方法论，打造企业用户热爱的数字化平台和产品； 2、 围绕vivo互联网业务全生命周期，设计支撑海量规模的中后台技术产品解决方案； 3、 参与云计算、大数据、机器学习等平台的规划&设计与落地，构建企业新质生产力。",
+      "jobRequirements": "1、本科及以上学历，计算机、大数据、人工智能等专业优先； 2、热爱互联网，熟悉互联网产品，并对产品背后的技术实现有好奇心； 3、优秀的逻辑思维和分析能力、沟通和总结能力、想象力和同理心； 4、结果导向，热爱挑战，擅长与人协作完成目标。",
+      "JD": "我们是vivo互联网平台产品团队，围绕云计算、大数据、人工智能等前沿领域，构建行业领先的企业级信息高速公路，打造企业用户热爱的数字化平台和产品，提升互联网业务经营效率和行业竞争力。 这里拥有顶尖的工程师，你将有机会实现你的任何想法； 这里拥有海量的用户群，你将有机会影响数亿人的互联网生活； 这里拥有广泛的产品线，你将有机会获得最全面的认知与成长。 加入我们，你将和我们一起： 1、 系统化学习ToB产品方法论，打造企业用户热爱的数字化平台和产品； 2、 围绕vivo互联网业务全生命周期，设计支撑海量规模的中后台技术产品解决方案； 3、 参与云计算、大数据、机器学习等平台的规划&设计与落地，构建企业新质生产力。\n1、本科及以上学历，计算机、大数据、人工智能等专业优先； 2、热爱互联网，熟悉互联网产品，并对产品背后的技术实现有好奇心； 3、优秀的逻辑思维和分析能力、沟通和总结能力、想象力和同理心； 4、结果导向，热爱挑战，擅长与人协作完成目标。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、本科及以上学历，计算机、大数据、人工智能等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 我们是vivo互联网平台产品团队，围绕云计算、大数据、人工智能等前沿领域，构建行业"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=e835aac9-e9f0-43e3-a1f9-a3c492a59262",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -2859,6 +2859,96 @@
       "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
     },
     {
+      "id": "beisen-8fb84fbac758",
+      "company": "vivo",
+      "title": "CMF设计师-27届秋招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给予用户更极致丰富的产品体验。致力于打造与品牌文化高度一致的产品设计语言，创造出更多人机交互的可能性，拉近用户与设计的距离，是vivo CMF设计师坚持不懈的追求！ 你将有机会共同打造未来移动科技的极致体验，影响数亿用户的生活方式； 你将有机会找到行业最聚集资深大牛的宝藏营地，学习最核心的设计表达方法与新技术运用的精髓； 你将有机会发现更强大的自己，与vivo共同成长，让每一代产品的辉煌都有你的印记。 在这里，你将与我们一起专注于： 1、深入理解产品设计定位及策略，提出创新性的、高感知的CMF工艺方案； 2、各系列产品的工艺设计和材料的应用，在项目中评估新工艺、新材料应用的可行性，及时开展对新工艺、新材料设计预研和设计验证，跟进产品的整个创意和开发流程，制定工艺技术发展路标； 3、 完善各系列产品生产制程，优化外观表面效果，提升精致精细度，优化成本，保证产品市场竞争力； 4、解决系列项目产品外观品质异常，保证产品顺利生产，提升各外观件的直通率； 5、对全球优质供应商资源进行收集和提炼，为整体产品做好设计资源储备，定期发布供应商技术前沿信息报告。",
+      "jobRequirements": "1、本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）； 2、熟练运用相关设计软件，比如CORELDRAW\\PS\\RHINO\\C4D等，擅长平面/3D/渲染； 3、有创新意识，能敏锐捕捉时尚潮流的方向，对产品CMF（即color（颜色）、material（材料）与finishing（表面处理）)有一定了解及强烈的兴趣； 4、诚恳、认真、积极、有责任感，对设计事业充满热情与理想，有良好的沟通能力和团队协作能力。",
+      "JD": "工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给予用户更极致丰富的产品体验。致力于打造与品牌文化高度一致的产品设计语言，创造出更多人机交互的可能性，拉近用户与设计的距离，是vivo CMF设计师坚持不懈的追求！ 你将有机会共同打造未来移动科技的极致体验，影响数亿用户的生活方式； 你将有机会找到行业最聚集资深大牛的宝藏营地，学习最核心的设计表达方法与新技术运用的精髓； 你将有机会发现更强大的自己，与vivo共同成长，让每一代产品的辉煌都有你的印记。 在这里，你将与我们一起专注于： 1、深入理解产品设计定位及策略，提出创新性的、高感知的CMF工艺方案； 2、各系列产品的工艺设计和材料的应用，在项目中评估新工艺、新材料应用的可行性，及时开展对新工艺、新材料设计预研和设计验证，跟进产品的整个创意和开发流程，制定工艺技术发展路标； 3、 完善各系列产品生产制程，优化外观表面效果，提升精致精细度，优化成本，保证产品市场竞争力； 4、解决系列项目产品外观品质异常，保证产品顺利生产，提升各外观件的直通率； 5、对全球优质供应商资源进行收集和提炼，为整体产品做好设计资源储备，定期发布供应商技术前沿信息报告。\n1、本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）； 2、熟练运用相关设计软件，比如CORELDRAW\\PS\\RHINO\\C4D等，擅长平面/3D/渲染； 3、有创新意识，能敏锐捕捉时尚潮流的方向，对产品CMF（即color（颜色）、material（材料）与finishing（表面处理）)有一定了解及强烈的兴趣； 4、诚恳、认真、积极、有责任感，对设计事业充满热情与理想，有良好的沟通能力和团队协作能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）；"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "用户",
+        "品牌"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "10",
+        "min": 10,
+        "max": 10,
+        "scope": "job",
+        "display": "10人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "10 10 工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=c636060b-3816-48df-af16-593cd80e2c58",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
+    },
+    {
       "id": "beisen-5f468138fa2d",
       "company": "vivo",
       "title": "软件产品经理-27届秋招",
@@ -3028,96 +3118,6 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=59344513-d8ad-46af-8ce5-7add208ceb7c",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申与初筛→线上笔试（仅研发岗）→线下面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | vivo校招官网流程 | https://hr-campus.vivo.com/custom/a67785ee-f8ab-3bfb-379f-2273e31a477e | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 湖南大学就业网校招公告 | https://scc.hnu.edu.cn/detail/career?id=694321 | 2026-09-17"
-    },
-    {
-      "id": "beisen-8fb84fbac758",
-      "company": "vivo",
-      "title": "CMF设计师-27届秋招",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）；",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "东莞",
-      "jobDescription": "工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给予用户更极致丰富的产品体验。致力于打造与品牌文化高度一致的产品设计语言，创造出更多人机交互的可能性，拉近用户与设计的距离，是vivo CMF设计师坚持不懈的追求！ 你将有机会共同打造未来移动科技的极致体验，影响数亿用户的生活方式； 你将有机会找到行业最聚集资深大牛的宝藏营地，学习最核心的设计表达方法与新技术运用的精髓； 你将有机会发现更强大的自己，与vivo共同成长，让每一代产品的辉煌都有你的印记。 在这里，你将与我们一起专注于： 1、深入理解产品设计定位及策略，提出创新性的、高感知的CMF工艺方案； 2、各系列产品的工艺设计和材料的应用，在项目中评估新工艺、新材料应用的可行性，及时开展对新工艺、新材料设计预研和设计验证，跟进产品的整个创意和开发流程，制定工艺技术发展路标； 3、 完善各系列产品生产制程，优化外观表面效果，提升精致精细度，优化成本，保证产品市场竞争力； 4、解决系列项目产品外观品质异常，保证产品顺利生产，提升各外观件的直通率； 5、对全球优质供应商资源进行收集和提炼，为整体产品做好设计资源储备，定期发布供应商技术前沿信息报告。",
-      "jobRequirements": "1、本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）； 2、熟练运用相关设计软件，比如CORELDRAW\\PS\\RHINO\\C4D等，擅长平面/3D/渲染； 3、有创新意识，能敏锐捕捉时尚潮流的方向，对产品CMF（即color（颜色）、material（材料）与finishing（表面处理）)有一定了解及强烈的兴趣； 4、诚恳、认真、积极、有责任感，对设计事业充满热情与理想，有良好的沟通能力和团队协作能力。",
-      "JD": "工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给予用户更极致丰富的产品体验。致力于打造与品牌文化高度一致的产品设计语言，创造出更多人机交互的可能性，拉近用户与设计的距离，是vivo CMF设计师坚持不懈的追求！ 你将有机会共同打造未来移动科技的极致体验，影响数亿用户的生活方式； 你将有机会找到行业最聚集资深大牛的宝藏营地，学习最核心的设计表达方法与新技术运用的精髓； 你将有机会发现更强大的自己，与vivo共同成长，让每一代产品的辉煌都有你的印记。 在这里，你将与我们一起专注于： 1、深入理解产品设计定位及策略，提出创新性的、高感知的CMF工艺方案； 2、各系列产品的工艺设计和材料的应用，在项目中评估新工艺、新材料应用的可行性，及时开展对新工艺、新材料设计预研和设计验证，跟进产品的整个创意和开发流程，制定工艺技术发展路标； 3、 完善各系列产品生产制程，优化外观表面效果，提升精致精细度，优化成本，保证产品市场竞争力； 4、解决系列项目产品外观品质异常，保证产品顺利生产，提升各外观件的直通率； 5、对全球优质供应商资源进行收集和提炼，为整体产品做好设计资源储备，定期发布供应商技术前沿信息报告。\n1、本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）； 2、熟练运用相关设计软件，比如CORELDRAW\\PS\\RHINO\\C4D等，擅长平面/3D/渲染； 3、有创新意识，能敏锐捕捉时尚潮流的方向，对产品CMF（即color（颜色）、material（材料）与finishing（表面处理）)有一定了解及强烈的兴趣； 4、诚恳、认真、积极、有责任感，对设计事业充满热情与理想，有良好的沟通能力和团队协作能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，工业设计、产品设计、游戏动画、平面设计、服装设计，漫画、插画设计等）；"
-        ],
-        "eligibilityClauses": [],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目",
-        "市场",
-        "用户",
-        "品牌"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "10",
-        "min": 10,
-        "max": 10,
-        "scope": "job",
-        "display": "10人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "10 10 工业设计，不应是一种单纯的以商业为目的的行为，而是将艺术美学与商业价值相结合，给"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://hr-campus.vivo.com/campus/detail?jobAdId=c636060b-3816-48df-af16-593cd80e2c58",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",

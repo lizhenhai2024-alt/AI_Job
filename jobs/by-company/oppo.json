@@ -1,7 +1,7 @@
 {
   "company": "OPPO",
-  "count": 24,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "count": 26,
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "oppo-6d4e654c521f",
@@ -397,6 +397,100 @@
       "source": "OPPO官方2027校招官网",
       "officialURL": "https://careers.oppo.com/university/oppo/campus/post/1869",
       "publishedAt": "2026-07-20",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→简历筛选→测评→笔试&AI面试（部分岗位）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 西电就业网校招公告 | https://job.xidian.edu.cn/campus/view/id/756587 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | OPPO校招官网 | https://careers.oppo.com/campus | 2026-09-17"
+    },
+    {
+      "id": "oppo-5bb7bd9b4cec",
+      "company": "OPPO",
+      "title": "市场管理培训生（自营电商）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "在这里，你将与OPPO自营电商团队一起，以用户为中心，以自营电商平台为基础，不断为用户打造优质的官方阵地体验，达成经营结果，提升品牌认知与口碑，共同成就自营电商事业。 在这里，多国家的业务和成熟的团队将有助于你充分施展个人才能，以最快的速度绽放光芒，成为优秀的电商人才！ 具体工作方向包括： 1、负责OPPO官方商城业务的销售运营工作，为商城的经营结果负责； 2、负责平台资源管理、流量与用户运营、产品运营等工作，不断为用户打造优质的官方阵地体验； 3、负责OPPO会员运营，接触千万级用户量的会员线上线下运营工作。",
+      "jobRequirements": "1、了解、热爱消费类电子产品；对电商业务感兴趣； 2、具备良好的数据分析能力，对数据敏感；具备良好的市场敏锐度和洞察力；具备一定的用户思维； 3、具有系统性的逻辑思维，喜欢思考和总结；充满热情活力，外向积极，敢于挑战自我和拥抱变化； 4、具备较强的沟通表达能力，良好的人际敏感度； 5、责任心强，抗压能力强，面对困难能坚持不懈。 我们更希望你： 1、在校期间，有过电商/运营相关实习经验或自主创业经验； 2.有学生会、社团学生干部经验； 3.懂AI功能使用，会用AI产品融入现有的工作链路中。",
+      "JD": "在这里，你将与OPPO自营电商团队一起，以用户为中心，以自营电商平台为基础，不断为用户打造优质的官方阵地体验，达成经营结果，提升品牌认知与口碑，共同成就自营电商事业。 在这里，多国家的业务和成熟的团队将有助于你充分施展个人才能，以最快的速度绽放光芒，成为优秀的电商人才！ 具体工作方向包括： 1、负责OPPO官方商城业务的销售运营工作，为商城的经营结果负责； 2、负责平台资源管理、流量与用户运营、产品运营等工作，不断为用户打造优质的官方阵地体验； 3、负责OPPO会员运营，接触千万级用户量的会员线上线下运营工作。\n1、了解、热爱消费类电子产品；对电商业务感兴趣； 2、具备良好的数据分析能力，对数据敏感；具备良好的市场敏锐度和洞察力；具备一定的用户思维； 3、具有系统性的逻辑思维，喜欢思考和总结；充满热情活力，外向积极，敢于挑战自我和拥抱变化； 4、具备较强的沟通表达能力，良好的人际敏感度； 5、责任心强，抗压能力强，面对困难能坚持不懈。 我们更希望你： 1、在校期间，有过电商/运营相关实习经验或自主创业经验； 2.有学生会、社团学生干部经验； 3.懂AI功能使用，会用AI产品融入现有的工作链路中。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "市场"
+      ],
+      "skills": [
+        "数据分析",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "电商",
+        "用户",
+        "数据",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "OPPO官方2027校招官网",
+      "officialURL": "https://careers.oppo.com/university/oppo/campus/post/1891",
+      "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1499,6 +1593,97 @@
       "source": "OPPO官方2027校招官网",
       "officialURL": "https://careers.oppo.com/university/oppo/campus/post/1839",
       "publishedAt": "2026-07-15",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "简历投递→简历筛选→测评→笔试&AI面试（部分岗位）→面试→Offer",
+      "recruitmentProcessEvidence": "E2 | 西电就业网校招公告 | https://job.xidian.edu.cn/campus/view/id/756587 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | OPPO校招官网 | https://careers.oppo.com/campus | 2026-09-17"
+    },
+    {
+      "id": "oppo-91ebd77b5984",
+      "company": "OPPO",
+      "title": "AI产品经理（零售产品方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "东莞",
+      "jobDescription": "在这里，你将获得以AI 技术为原点的，接触行业最先进最顶尖的AI技术，你将拥有最简单轻松的工作关系。你需要洞察AI行业发展趋势，掌握行业最新技术，深入挖掘用户生活方式和场景，分析用户潜在需求和痛点，打造高用户价值的零售AI产品。 具体工作内容包括： 1. 参与零售场景的AI应用产品的识别、落地、持续优化； 2. 协调运营、算法、研发等资源，设计产品方案并高效推进落地； 3. 持续体验并分析国内外AI在零售/电商领域的应用动态；定期输出竞品体验报告、技术趋势简报，探索智能化在零售领域的新方向应用。",
+      "jobRequirements": "1.有一定的AI相关知识学习基础，熟悉或深度使用过主流 AI 产品（如对话助手、Agent 类产品等），对 AIGC、智能问答有浓厚兴趣； 2.在校期间，有AI产品相关实习经验或相关实践经验； 3.对产品经理的工作有一定的了解并感兴趣，对产品有独到见解和创新的想法； 4.了解行业最新AI产品、技术发展，了解AI的最佳实践； 5、逻辑清晰，善于拆解问题，具有优秀的学习能力、行业/用户洞察分析能力。",
+      "JD": "在这里，你将获得以AI 技术为原点的，接触行业最先进最顶尖的AI技术，你将拥有最简单轻松的工作关系。你需要洞察AI行业发展趋势，掌握行业最新技术，深入挖掘用户生活方式和场景，分析用户潜在需求和痛点，打造高用户价值的零售AI产品。 具体工作内容包括： 1. 参与零售场景的AI应用产品的识别、落地、持续优化； 2. 协调运营、算法、研发等资源，设计产品方案并高效推进落地； 3. 持续体验并分析国内外AI在零售/电商领域的应用动态；定期输出竞品体验报告、技术趋势简报，探索智能化在零售领域的新方向应用。\n1.有一定的AI相关知识学习基础，熟悉或深度使用过主流 AI 产品（如对话助手、Agent 类产品等），对 AIGC、智能问答有浓厚兴趣； 2.在校期间，有AI产品相关实习经验或相关实践经验； 3.对产品经理的工作有一定的了解并感兴趣，对产品有独到见解和创新的想法； 4.了解行业最新AI产品、技术发展，了解AI的最佳实践； 5、逻辑清晰，善于拆解问题，具有优秀的学习能力、行业/用户洞察分析能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "在校期间，有AI产品相关实习经验或相关实践经验"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "电商",
+        "用户",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "OPPO官方2027校招官网",
+      "officialURL": "https://careers.oppo.com/university/oppo/campus/post/1890",
+      "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

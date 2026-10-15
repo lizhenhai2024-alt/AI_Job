@@ -1,7 +1,7 @@
 {
   "company": "大家保险集团",
-  "count": 19,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "count": 23,
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "beisen-add8cf803225",
@@ -537,6 +537,91 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://djbx.zhiye.com/campus/detail?jobAdId=16c1283b-e11e-47ad-b3b2-57145577777c",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-8ad862cf08e5",
+      "company": "大家保险集团",
+      "title": "大家资产公司 大资产管理类 投资运营方向-固收交易(J14788)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2、知名高校全日制硕士及以上学历，经济、金融、财务等相关专业背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "经济、金融、财务等相关专业背景"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责根据交易指令完成债券、资金交易询价及系统成交工作； 2、负责基金、存款等场外交易业务; 3、负责做好交易记录，及时汇报交易结果。",
+      "jobRequirements": "1、思想政治觉悟高，品行端正，具有较强的保密意识，中共党员优先； 2、知名高校全日制硕士及以上学历，经济、金融、财务等相关专业背景； 3、具备扎实的金融证券知识，熟悉国家相关政策、行业法律法规； 4、工作细致、认真，具有较好的人际沟通、协调能力，团队合作意识强； 5、通过初面后需实习考核。",
+      "JD": "1、负责根据交易指令完成债券、资金交易询价及系统成交工作； 2、负责基金、存款等场外交易业务; 3、负责做好交易记录，及时汇报交易结果。\n1、思想政治觉悟高，品行端正，具有较强的保密意识，中共党员优先； 2、知名高校全日制硕士及以上学历，经济、金融、财务等相关专业背景； 3、具备扎实的金融证券知识，熟悉国家相关政策、行业法律法规； 4、工作细致、认真，具有较好的人际沟通、协调能力，团队合作意识强； 5、通过初面后需实习考核。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、知名高校全日制硕士及以上学历，经济、金融、财务等相关专业背景"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责根据交易指令完成债券、资金交易询价及系统成交工作； 2、负责基金、存款等场"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://djbx.zhiye.com/campus/detail?jobAdId=205c149e-cb3e-4e30-9bbe-b07445266deb",
       "publishedAt": "2026-09-24",
       "lastVerified": "",
       "sourceType": "official",
@@ -1121,6 +1206,258 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://djbx.zhiye.com/campus/detail?jobAdId=db7b0fbd-9c28-4dec-a185-8f86ba5f208b",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f4f0aca7b540",
+      "company": "大家保险集团",
+      "title": "大家资产公司 大资产管理类 投资研究方向-行业研究(J14784)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2、知名高校全日制硕士及以上学历，理工科或理工科及经济金融学复合背景优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、跟踪所属行业变化，搜集整理行业最新政策、数据和信息，全面掌握行业发展模式、景气周期、产业格局等情况，据此给出行业超低配建议； 2、跟踪行业重点股票及内部持仓标的，及时提示市场机会或风险；对推荐标的进行投资价值的深入分析并给出投资建议；定期对个股季报、半年报和年报进行点评； 3、定期维护和管理行业股票池，将研究成果及时推送投资部和所属模拟盘，加强投研转化价值； 4、部门其他日常工作。",
+      "jobRequirements": "1、思想政治觉悟高，品行端正，具有较强的保密意识，中共党员优先； 2、知名高校全日制硕士及以上学历，理工科或理工科及经济金融学复合背景优先； 3、通过CFA/CPA/FRM等专业能力考试优先； 4、具备行业研究实习经验优先； 5、通过初面后需实习考核。",
+      "JD": "1、跟踪所属行业变化，搜集整理行业最新政策、数据和信息，全面掌握行业发展模式、景气周期、产业格局等情况，据此给出行业超低配建议； 2、跟踪行业重点股票及内部持仓标的，及时提示市场机会或风险；对推荐标的进行投资价值的深入分析并给出投资建议；定期对个股季报、半年报和年报进行点评； 3、定期维护和管理行业股票池，将研究成果及时推送投资部和所属模拟盘，加强投研转化价值； 4、部门其他日常工作。\n1、思想政治觉悟高，品行端正，具有较强的保密意识，中共党员优先； 2、知名高校全日制硕士及以上学历，理工科或理工科及经济金融学复合背景优先； 3、通过CFA/CPA/FRM等专业能力考试优先； 4、具备行业研究实习经验优先； 5、通过初面后需实习考核。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、知名高校全日制硕士及以上学历，理工科或理工科及经济金融学复合背景优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、跟踪所属行业变化，搜集整理行业最新政策、数据和信息，全面掌握行业发展模式、景气"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://djbx.zhiye.com/campus/detail?jobAdId=db52500a-4917-47b5-8b18-06e97dd2b38a",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-800f061eddca",
+      "company": "大家保险集团",
+      "title": "大家资产公司 大资产管理类 风控管理方向-全面风险管理(J14787)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2、知名高校全日制硕士及以上学历，经济、金融、风险管理等相关专业背景",
+        "hardRestriction": true,
+        "hardClauses": [
+          "经济、金融、风险管理等相关专业背景"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、负责持续推进公司全面风险管理体系的完善和优化；实施全面风险管理关键指标的持续跟踪、监测和报告； 2、协助进行风险计量模型研究，从投资风险管理角度评估各类投资风险特征及建议风控措施。",
+      "jobRequirements": "1、思想政治觉悟高，品行端正，具有较强的保密意识，中共党员优先； 2、知名高校全日制硕士及以上学历，经济、金融、风险管理等相关专业背景； 3、责任心强，具备良好的学习能力、数据处理能力和沟通能力，有团队合作精神； 4、通过FRM、CFA、CPA等相关资格考试者优先； 5、通过初面后需实习考核。",
+      "JD": "1、负责持续推进公司全面风险管理体系的完善和优化；实施全面风险管理关键指标的持续跟踪、监测和报告； 2、协助进行风险计量模型研究，从投资风险管理角度评估各类投资风险特征及建议风控措施。\n1、思想政治觉悟高，品行端正，具有较强的保密意识，中共党员优先； 2、知名高校全日制硕士及以上学历，经济、金融、风险管理等相关专业背景； 3、责任心强，具备良好的学习能力、数据处理能力和沟通能力，有团队合作精神； 4、通过FRM、CFA、CPA等相关资格考试者优先； 5、通过初面后需实习考核。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、知名高校全日制硕士及以上学历，经济、金融、风险管理等相关专业背景"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、负责持续推进公司全面风险管理体系的完善和优化；实施全面风险管理关键指标的持续跟"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://djbx.zhiye.com/campus/detail?jobAdId=ab5cb021-faa8-4d9c-b38d-1b8fc928da3a",
+      "publishedAt": "2026-09-24",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-7094fe624dbe",
+      "company": "大家保险集团",
+      "title": "大家资产公司 科技赋能类 IT运维方向 数据安全岗(J14789)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士研究生及以上学历应届毕业生",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、协助制定和完善公司数据安全管理制度、标准与流程； 2、参与数据分类分级管理，维护数据目录，落实差异化保护措施； 3、协助开展数据安全风险评估、监测预警及事件应急处置； 4、跟踪数据安全法规动态，组织内部宣贯培训； 5、配合数据安全相关其他交办事项。",
+      "jobRequirements": "1、思想政治觉悟高，品行端正，具有较强的保密意识，中共党员优先； 2、硕士研究生及以上学历应届毕业生； 3、对金融行业数据安全、合规管理有基本认知和兴趣； 4、具备较好的逻辑分析能力和文字表达能力，责任心强、学习能力强，善于沟通协作； 5、熟练使用办公软件，对数据库、信息系统有基本了解者优先； 6、通过初面后需实习考核。",
+      "JD": "1、协助制定和完善公司数据安全管理制度、标准与流程； 2、参与数据分类分级管理，维护数据目录，落实差异化保护措施； 3、协助开展数据安全风险评估、监测预警及事件应急处置； 4、跟踪数据安全法规动态，组织内部宣贯培训； 5、配合数据安全相关其他交办事项。\n1、思想政治觉悟高，品行端正，具有较强的保密意识，中共党员优先； 2、硕士研究生及以上学历应届毕业生； 3、对金融行业数据安全、合规管理有基本认知和兴趣； 4、具备较好的逻辑分析能力和文字表达能力，责任心强、学习能力强，善于沟通协作； 5、熟练使用办公软件，对数据库、信息系统有基本了解者优先； 6、通过初面后需实习考核。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士研究生及以上学历应届毕业生"
+        ],
+        "eligibilityClauses": [
+          "硕士研究生及以上学历应届毕业生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、协助制定和完善公司数据安全管理制度、标准与流程； 2、参与数据分类分级管理，维"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://djbx.zhiye.com/campus/detail?jobAdId=97aef000-e3c5-4497-a089-076a3c67e225",
       "publishedAt": "2026-09-24",
       "lastVerified": "",
       "sourceType": "official",

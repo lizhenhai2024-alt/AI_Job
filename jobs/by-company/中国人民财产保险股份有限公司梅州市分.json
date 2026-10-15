@@ -1,7 +1,7 @@
 {
   "company": "中国人民财产保险股份有限公司梅州市分公司",
-  "count": 231,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "count": 246,
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "university-7a044774cc7f7b",
@@ -1046,6 +1046,87 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=98b6af2d-3084-4a2e-bd23-88f209f6a2f2",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-f754633d3e2d",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-人力资源岗-2027届校招（山东省分公司）(J80280)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，公文写作能力突出，熟练各类办公台账制作；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1. 统筹基层党支部标准化建设，落实三会一课、主题教育、组织生活等常规党务工作； 2. 融合党管干部、党管人才要求，配合开展干部考察、评优评先、人才培养； 3. 撰写党建材料、宣传简讯，策划党建活动，落实党风廉政与意识形态工作； 4. 对接上级党委，完成党建考核、巡视整改及人力条线协同工作。",
+      "jobRequirements": "1. 中共党员（含预备），熟悉国企党务工作流程与党建政策法规； 2. 硕士及以上学历，公文写作能力突出，熟练各类办公台账制作； 3. 有国企、金融保险行业党务、人力党建复合实习经历优先； 4. 工作严谨保密，具备活动策划、多方对接协调能力。",
+      "JD": "1. 统筹基层党支部标准化建设，落实三会一课、主题教育、组织生活等常规党务工作； 2. 融合党管干部、党管人才要求，配合开展干部考察、评优评先、人才培养； 3. 撰写党建材料、宣传简讯，策划党建活动，落实党风廉政与意识形态工作； 4. 对接上级党委，完成党建考核、巡视整改及人力条线协同工作。\n1. 中共党员（含预备），熟悉国企党务工作流程与党建政策法规； 2. 硕士及以上学历，公文写作能力突出，熟练各类办公台账制作； 3. 有国企、金融保险行业党务、人力党建复合实习经历优先； 4. 工作严谨保密，具备活动策划、多方对接协调能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士及以上学历，公文写作能力突出，熟练各类办公台账制作；"
+        ],
+        "eligibilityClauses": [
+          "2027届校招（山东省分公司）"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 统筹基层党支部标准化建设，落实三会一课、主题教育、组织生活等常规党务工作； "
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=757f2e0e-34ab-4f90-97c5-11d6a380e490",
+      "publishedAt": "2026-08-03",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -6157,6 +6238,91 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=7244ca1e-1b85-405c-b76a-9250d80c2883",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-41d134a53cc5",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-非车险大案处理岗（水险）-2027届校招（山东省分公司）(J80281)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "研究生，船舶险专业，英语六级，沟通能力强",
+        "hardRestriction": true,
+        "hardClauses": [
+          "船舶险专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "处理全省船舶险、货运险大额案件",
+      "jobRequirements": "研究生，船舶险专业，英语六级，沟通能力强",
+      "JD": "处理全省船舶险、货运险大额案件\n研究生，船舶险专业，英语六级，沟通能力强",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "研究生，船舶险专业，英语六级，沟通能力强"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 处理全省船舶险、货运险大额案件 研究生，船舶险专业，英语六级，沟通能力强 公司官方"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=e30a75f4-34f8-4e39-acd3-2247de48c5cf",
       "publishedAt": "2026-08-03",
       "lastVerified": "",
       "sourceType": "official",
@@ -14666,6 +14832,989 @@
       "deadline": ""
     },
     {
+      "id": "beisen-e2911829fcae",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-人伤跟踪岗-2027届校招(临沂市分公司)(J80265)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·临沂市",
+      "jobDescription": "对人伤案件进行跟踪审核，参与本公司伤残鉴定审核、伤调解方案审核，对人伤费用审核及以上工作的解释说明工作。",
+      "jobRequirements": "1.本科及以上学历；2.医学相关专业优先。",
+      "JD": "对人伤案件进行跟踪审核，参与本公司伤残鉴定审核、伤调解方案审核，对人伤费用审核及以上工作的解释说明工作。\n1.本科及以上学历；2.医学相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 对人伤案件进行跟踪审核，参与本公司伤残鉴定审核、伤调解方案审核，对人伤费用审核及以"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=d4df988f-90e7-4083-a93b-5f1a4427cfbe",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-b4c112a3a893",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-基层商团/法人业务维护岗-2027届校招(临沂市分公司)(J80266)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·临沂市",
+      "jobDescription": "管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体策略，制定业务整合营销方案，分析指标和考核评价体系，协助公司开展客户管理，对客户消费行为研究，挖掘客户价值。",
+      "jobRequirements": "1.本科及以上学历；2.理工类专业优先",
+      "JD": "管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体策略，制定业务整合营销方案，分析指标和考核评价体系，协助公司开展客户管理，对客户消费行为研究，挖掘客户价值。\n1.本科及以上学历；2.理工类专业优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "3",
+        "min": 3,
+        "max": 3,
+        "scope": "job",
+        "display": "3人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "3 3 管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=b74edfb7-b87f-4d9d-8bf4-af7056ec9ef3",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-691c5e30c8e2",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-基层个人业务维护岗-2027届校招(临沂市分公司)(J80267)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.金融相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·临沂市",
+      "jobDescription": "管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体策略，制定业务整合营销方案，分析指标和考核评价体系，协助公司开展客户管理，对客户消费行为研究，挖掘客户价值。",
+      "jobRequirements": "1.本科及以上学历；2.金融相关专业优先。",
+      "JD": "管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体策略，制定业务整合营销方案，分析指标和考核评价体系，协助公司开展客户管理，对客户消费行为研究，挖掘客户价值。\n1.本科及以上学历；2.金融相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.金融相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=969b0972-b616-4465-8ad4-7c720018aceb",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1ed5d9274bfd",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-业务管理岗（法人业务）-2027届校招(德州市分公司)(J80269)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2.专业不限，金融、理工类相关等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·德州市",
+      "jobDescription": "负责法人业务统筹管理、流程管控、数据统计分析，维护重点客户，协助业务拓展与政策落地等相关工作",
+      "jobRequirements": "1.硕士研究生及以上学历；2.专业不限，金融、理工类相关等专业优先。",
+      "JD": "负责法人业务统筹管理、流程管控、数据统计分析，维护重点客户，协助业务拓展与政策落地等相关工作\n1.硕士研究生及以上学历；2.专业不限，金融、理工类相关等专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.专业不限，金融、理工类相关等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责法人业务统筹管理、流程管控、数据统计分析，维护重点客户，协助业务拓展与政策落地"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=d1e48b13-5eb0-4de2-81d9-8dfc722bc743",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a08a6d7c0ce6",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-车险查勘定损岗-2027届校招(德州市分公司)(J80270)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.专业不限，车辆工程、机械、保险等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·德州市",
+      "jobDescription": "统筹车险、送修等具体案件处理工作，协助开展理赔送修资源管理、维修网络建设等工作。",
+      "jobRequirements": "1.本科及以上学历；2.专业不限，车辆工程、机械、保险等专业优先。",
+      "JD": "统筹车险、送修等具体案件处理工作，协助开展理赔送修资源管理、维修网络建设等工作。\n1.本科及以上学历；2.专业不限，车辆工程、机械、保险等专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.专业不限，车辆工程、机械、保险等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 统筹车险、送修等具体案件处理工作，协助开展理赔送修资源管理、维修网络建设等工作。 "
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=3cc93ecb-2daf-4f5b-81e4-7fea428b2d39",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-d19f4d48f010",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-人伤跟踪岗-2027届校招(德州市分公司)(J80271)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2.专业不限，医学及法学等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·德州市",
+      "jobDescription": "负责人伤案件全程跟踪调解，对接伤者、医院及律所，审核医疗费用，管控理赔成本，做好案件沟通、资料收集及合规处置等工作",
+      "jobRequirements": "1.本科及以上学历；2.专业不限，医学及法学等相关专业优先。",
+      "JD": "负责人伤案件全程跟踪调解，对接伤者、医院及律所，审核医疗费用，管控理赔成本，做好案件沟通、资料收集及合规处置等工作\n1.本科及以上学历；2.专业不限，医学及法学等相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.专业不限，医学及法学等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 负责人伤案件全程跟踪调解，对接伤者、医院及律所，审核医疗费用，管控理赔成本，做好案"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=3ecc9290-8283-45a4-ab62-54a5db44bf9f",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-a3ea33397d4d",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-基层农险业务管理岗-2027届校招(潍坊市分公司)(J80272)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·潍坊市",
+      "jobDescription": "管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体策略，制定业务整合营销方案，分析指标和考核评价体系，协助公司开展客户管理，对客户消费行为研究，挖掘客户价值。",
+      "jobRequirements": "1.本科及以上学历；2.应届毕业生；3.农学相关专业优先。",
+      "JD": "管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体策略，制定业务整合营销方案，分析指标和考核评价体系，协助公司开展客户管理，对客户消费行为研究，挖掘客户价值。\n1.本科及以上学历；2.应届毕业生；3.农学相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 管理公司客户资源，落实公司业务发展的渠道策略、产品策略和服务策略，执行公司发展具体"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=110f486d-e3af-489a-836f-8dd3f77b72a4",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-005646701882",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-基层社保业务管理岗-2027届校招(潍坊市分公司)(J80273)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·潍坊市",
+      "jobDescription": "依据保险政策、保障项目经办规则、诊疗规范，审核新业态伤者病历、检查报告、收费票据、费用清单；甄别过度检查、不合理用药、超适应症治疗、自费项目违规纳入等情形，依规予以核减，出具正式医疗审核意见。",
+      "jobRequirements": "1.本科及以上学历；2.应届毕业生；3.医学相关专业优先。",
+      "JD": "依据保险政策、保障项目经办规则、诊疗规范，审核新业态伤者病历、检查报告、收费票据、费用清单；甄别过度检查、不合理用药、超适应症治疗、自费项目违规纳入等情形，依规予以核减，出具正式医疗审核意见。\n1.本科及以上学历；2.应届毕业生；3.医学相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 依据保险政策、保障项目经办规则、诊疗规范，审核新业态伤者病历、检查报告、收费票据、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=8fc42c87-8ae2-4dde-a4d1-808d6b339b57",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-60fda3acfd9d",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-人伤跟踪岗-2027届校招(潍坊市分公司)(J80274)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·潍坊市",
+      "jobDescription": "对人伤案件进行跟踪审核，参与本公司伤残鉴定审核、伤调解方案审核，对人伤费用审核及以上工作的解释说明工作。",
+      "jobRequirements": "1.本科及以上学历；2.应届毕业生；3.医学相关专业优先。",
+      "JD": "对人伤案件进行跟踪审核，参与本公司伤残鉴定审核、伤调解方案审核，对人伤费用审核及以上工作的解释说明工作。\n1.本科及以上学历；2.应届毕业生；3.医学相关专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 对人伤案件进行跟踪审核，参与本公司伤残鉴定审核、伤调解方案审核，对人伤费用审核及以"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=82f9f941-e20f-4bf8-9d2e-014c02685088",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c93c78df30f4",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-业务管理岗-2027届校招（山东省分公司）(J80275)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "2.理工类（数学、统计、核物理、工程、电力、机械、化工、新能源类）专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1、协助规划全省相关业务条线发展； 2、根据上级和领导要求，开展分析和指导省内相关业务发展相关工作。",
+      "jobRequirements": "1.硕士及以上学历；2.理工类（数学、统计、核物理、工程、电力、机械、化工、新能源类）专业优先；3.责任心强，综合素质高，具有较高的沟通协调能力和文字能力；4.能够适应业务节奏，对在保险行业发展有明确的意愿和规划。",
+      "JD": "1、协助规划全省相关业务条线发展； 2、根据上级和领导要求，开展分析和指导省内相关业务发展相关工作。\n1.硕士及以上学历；2.理工类（数学、统计、核物理、工程、电力、机械、化工、新能源类）专业优先；3.责任心强，综合素质高，具有较高的沟通协调能力和文字能力；4.能够适应业务节奏，对在保险行业发展有明确的意愿和规划。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2.理工类（数学、统计、核物理、工程、电力、机械、化工、新能源类）专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、协助规划全省相关业务条线发展； 2、根据上级和领导要求，开展分析和指导省内相关"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=0022f0ce-2e43-4281-b00b-ba92ff3c4b6d",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-51b3e5f9bcd6",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-养殖险业务管理岗-2027届校招（山东省分公司）(J80276)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "专业：农业、畜牧、水产等涉农专业背景；；具有研究生及以上学历并获得相应学位；",
+        "hardRestriction": true,
+        "hardClauses": [
+          "专业：农业、畜牧、水产等涉农专业背景"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1. 统筹区域水产养殖保险业务规划、市场拓展与政企对接，落地政策性养殖保险项目； 2. 负责标的验标、投保审核、保单管理、保费及财政补贴申报，全流程管控承保风险； 3. 组织出险查勘定损、案件核赔、纠纷处置，严控理赔道德风险，保障理赔合规落地； 4. 开展养殖风险排查、防灾减损宣传，培训基层业务人员，统计经营数据并撰写分析报告； 5. 严守监管与公司制度，做好业务档案归档与全流程合规管理。",
+      "jobRequirements": "1.专业：农业、畜牧、水产等涉农专业背景； 2.具有研究生及以上学历并获得相应学位；",
+      "JD": "1. 统筹区域水产养殖保险业务规划、市场拓展与政企对接，落地政策性养殖保险项目； 2. 负责标的验标、投保审核、保单管理、保费及财政补贴申报，全流程管控承保风险； 3. 组织出险查勘定损、案件核赔、纠纷处置，严控理赔道德风险，保障理赔合规落地； 4. 开展养殖风险排查、防灾减损宣传，培训基层业务人员，统计经营数据并撰写分析报告； 5. 严守监管与公司制度，做好业务档案归档与全流程合规管理。\n1.专业：农业、畜牧、水产等涉农专业背景； 2.具有研究生及以上学历并获得相应学位；",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "专业：农业、畜牧、水产等涉农专业背景；",
+          "具有研究生及以上学历并获得相应学位；"
+        ],
+        "eligibilityClauses": [
+          "2027届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "市场",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 统筹区域水产养殖保险业务规划、市场拓展与政企对接，落地政策性养殖保险项目； "
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=8aa64385-ed85-4a1c-b586-6dbc714852a8",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-31902a581596",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "人保财险-山东分公司-综合类-综合岗-2027届校招（山东省分公司）(J80277)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1、统筹公司日常行政综合等方面事务； 2、对接上级部门做好相关政策传达及工作安排； 3、撰写文字材料，完成部门交办的其他工作。",
+      "jobRequirements": "1.硕士及以上学历；2.理工、文秘、行政相关专业优先；3.中共党员（含预备）。",
+      "JD": "1、统筹公司日常行政综合等方面事务； 2、对接上级部门做好相关政策传达及工作安排； 3、撰写文字材料，完成部门交办的其他工作。\n1.硕士及以上学历；2.理工、文秘、行政相关专业优先；3.中共党员（含预备）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、统筹公司日常行政综合等方面事务； 2、对接上级部门做好相关政策传达及工作安排；"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc1.zhiye.com/campus/detail?jobAdId=4f973454-374c-450b-b11e-f9503cabd71f",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-78b03a7fdfb3",
       "company": "中国人民财产保险股份有限公司梅州市分公司",
       "title": "人保寿险公司-青海省分公司-银团类-队伍发展岗-2027届校招(J78715)",
@@ -17173,6 +18322,87 @@
       "publishedAt": "2026-07-31",
       "lastVerified": "",
       "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "university-3af6aa0b1107ce",
+      "company": "中国人民财产保险股份有限公司梅州市分公司",
+      "title": "管培生（理赔方向）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2、专业不限，理工类、农学类、医学类、法学等专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "2、专业不限，理工类、农学类、医学类、法学等专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "广东外语外贸大学就业信息网",
+      "officialURL": "https://career.gdufs.edu.cn/web/Index/job-detail?id=9146",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "secondary",
       "deadline": ""
     },
     {

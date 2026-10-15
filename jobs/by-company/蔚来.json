@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
-  "count": 201,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "count": 200,
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -8633,101 +8633,6 @@
       "annualSalary": "未披露",
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027376418392366/detail",
-      "publishedAt": "2026-08-12",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
-    },
-    {
-      "id": "feishu-49f725-7673027365039704329",
-      "company": "蔚来",
-      "title": "校招-数据分析",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "1. 本科及以上学历，专业不限，大数据、计算机、统计学、数据、自动化等专业优先考虑；2. 具备统计模型、大数据挖掘算法、机器学习/AI模型等学科知识，对基础理论和常用算法有深刻理解和工程实践能力",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 为售后多业务场景提供数据服务，包括不限于构建自动化、可视化模型报表/看板，支持总部&区域公司业务数据化运营； 2. 基于NIO数据平台建立数据模型，包括业务底层数据建模、开发&指标可视化； 3. 支撑业务自动化、智能化运营，应用机器学习/AI技术，建立实时/离线数据挖掘模型，并协同产品&开发团队实现模型算法产品化。",
-      "jobRequirements": "1. 本科及以上学历，专业不限，大数据、计算机、统计学、数据、自动化等专业优先考虑； 2. 具备统计模型、大数据挖掘算法、机器学习/AI模型等学科知识，对基础理论和常用算法有深刻理解和工程实践能力； 3. 了解大模型基础架构，能够利用大模型+RAG/智能体实现一些业务智能化应用； 4. 熟练应用SQL、Hive、Python等工具，具备扎实的算法和数据结构功底； 5. 业务理解和责任心强，乐于并擅长内外部沟通、协调。",
-      "JD": "1. 为售后多业务场景提供数据服务，包括不限于构建自动化、可视化模型报表/看板，支持总部&区域公司业务数据化运营； 2. 基于NIO数据平台建立数据模型，包括业务底层数据建模、开发&指标可视化； 3. 支撑业务自动化、智能化运营，应用机器学习/AI技术，建立实时/离线数据挖掘模型，并协同产品&开发团队实现模型算法产品化。\n1. 本科及以上学历，专业不限，大数据、计算机、统计学、数据、自动化等专业优先考虑； 2. 具备统计模型、大数据挖掘算法、机器学习/AI模型等学科知识，对基础理论和常用算法有深刻理解和工程实践能力； 3. 了解大模型基础架构，能够利用大模型+RAG/智能体实现一些业务智能化应用； 4. 熟练应用SQL、Hive、Python等工具，具备扎实的算法和数据结构功底； 5. 业务理解和责任心强，乐于并擅长内外部沟通、协调。",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [
-          "1. 本科及以上学历，专业不限，大数据、计算机、统计学、数据、自动化等专业优先考虑",
-          "2. 具备统计模型、大数据挖掘算法、机器学习/AI模型等学科知识，对基础理论和常用算法有深刻理解和工程实践能力"
-        ],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "SQL"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "数据",
-        "招聘"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "蔚来官方飞书招聘",
-      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027365039704329/detail",
       "publishedAt": "2026-08-12",
       "lastVerified": "",
       "sourceType": "official",

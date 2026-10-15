@@ -1,7 +1,7 @@
 {
   "company": "中国人民保险集团",
-  "count": 245,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "count": 247,
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
     {
       "id": "beisen-cae8c615acdd",
@@ -1052,6 +1052,89 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=98b6af2d-3084-4a2e-bd23-88f209f6a2f2",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-539eefd0d6f5",
+      "company": "中国人民保险集团",
+      "title": "人保财险-山东分公司-综合类-人力资源岗-2027届校招（山东省分公司）(J80280)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "硕士及以上学历，公文写作能力突出，熟练各类办公台账制作；",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1. 统筹基层党支部标准化建设，落实三会一课、主题教育、组织生活等常规党务工作； 2. 融合党管干部、党管人才要求，配合开展干部考察、评优评先、人才培养； 3. 撰写党建材料、宣传简讯，策划党建活动，落实党风廉政与意识形态工作； 4. 对接上级党委，完成党建考核、巡视整改及人力条线协同工作。",
+      "jobRequirements": "1. 中共党员（含预备），熟悉国企党务工作流程与党建政策法规； 2. 硕士及以上学历，公文写作能力突出，熟练各类办公台账制作； 3. 有国企、金融保险行业党务、人力党建复合实习经历优先； 4. 工作严谨保密，具备活动策划、多方对接协调能力。",
+      "JD": "1. 统筹基层党支部标准化建设，落实三会一课、主题教育、组织生活等常规党务工作； 2. 融合党管干部、党管人才要求，配合开展干部考察、评优评先、人才培养； 3. 撰写党建材料、宣传简讯，策划党建活动，落实党风廉政与意识形态工作； 4. 对接上级党委，完成党建考核、巡视整改及人力条线协同工作。\n1. 中共党员（含预备），熟悉国企党务工作流程与党建政策法规； 2. 硕士及以上学历，公文写作能力突出，熟练各类办公台账制作； 3. 有国企、金融保险行业党务、人力党建复合实习经历优先； 4. 工作严谨保密，具备活动策划、多方对接协调能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "硕士及以上学历，公文写作能力突出，熟练各类办公台账制作；"
+        ],
+        "eligibilityClauses": [
+          "人保财险-山东分公司-综合类-人力资源岗-2027届校招（山东省分公司）(J80280)"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "资料/流程"
+        ]
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 统筹基层党支部标准化建设，落实三会一课、主题教育、组织生活等常规党务工作； "
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=757f2e0e-34ab-4f90-97c5-11d6a380e490",
+      "publishedAt": "2026-08-03",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -6156,6 +6239,91 @@
       "annualSalary": "未披露",
       "source": "公司官方北森校招官网",
       "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=7244ca1e-1b85-405c-b76a-9250d80c2883",
+      "publishedAt": "2026-08-03",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-e7093acf46a4",
+      "company": "中国人民保险集团",
+      "title": "人保财险-山东分公司-综合类-非车险大案处理岗（水险）-2027届校招（山东省分公司）(J80281)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "研究生，船舶险专业，英语六级，沟通能力强",
+        "hardRestriction": true,
+        "hardClauses": [
+          "船舶险专业"
+        ]
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "处理全省船舶险、货运险大额案件",
+      "jobRequirements": "研究生，船舶险专业，英语六级，沟通能力强",
+      "JD": "处理全省船舶险、货运险大额案件\n研究生，船舶险专业，英语六级，沟通能力强",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "研究生，船舶险专业，英语六级，沟通能力强"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 处理全省船舶险、货运险大额案件 研究生，船舶险专业，英语六级，沟通能力强 公司官方"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://picc.zhiye.com/campus/detail?jobAdId=e30a75f4-34f8-4e39-acd3-2247de48c5cf",
       "publishedAt": "2026-08-03",
       "lastVerified": "",
       "sourceType": "official",

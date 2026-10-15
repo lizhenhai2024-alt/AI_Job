@@ -1,8 +1,95 @@
 {
   "company": "保利和润房地产投资顾问有限公司",
-  "count": 49,
-  "updatedAt": "2026-10-15T00:43:56.782Z",
+  "count": 50,
+  "updatedAt": "2026-10-15T14:13:18.915Z",
   "jobs": [
+    {
+      "id": "university-afcd966fdc6556",
+      "company": "保利和润房地产投资顾问有限公司",
+      "title": "经纪管培生（广州总部）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobRequirements": "",
+      "JD": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2026-11-06"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "产品营销",
+        "内容运营",
+        "市场"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "市场分析",
+        "PPT"
+      ],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "二手岗位来源，待官网复核",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "广东外语外贸大学就业信息网",
+      "officialURL": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11279",
+      "publishedAt": "2026-11-06",
+      "lastVerified": "",
+      "sourceType": "secondary",
+      "deadline": "2026-11-06"
+    },
     {
       "id": "university-6da90dc938acfc",
       "company": "保利和润房地产投资顾问有限公司",
@@ -89,9 +176,9 @@
       "deadline": "2026-11-06"
     },
     {
-      "id": "university-9b8e55aecd250a",
+      "id": "university-a28e3ea5ea00fa",
       "company": "保利和润房地产投资顾问有限公司",
-      "title": "AI产品经理",
+      "title": "保利和润2027届营销和伙人校园招聘",
       "graduationYear": [
         "2027"
       ],
@@ -101,7 +188,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1. 2027 届应届本科或硕士毕业生，计算机、软件工程、信息管理、人工智能相关专业优先",
+        "raw": "",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -111,31 +198,24 @@
         "minorLanguageRequired": false
       },
       "location": "广州",
-      "jobDescription": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "jobDescription": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
       "jobRequirements": "",
-      "JD": "广东外语外贸大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
+      "JD": "北京语言大学就业信息网发现的招聘信息。该渠道用于岗位发现与交叉取证；正式投递前仍需回公司官方校招官网核验具体岗位、届别与要求。",
       "jdEvidence": {
         "source": "regex-v1",
-        "majorClauses": [
-          "1. 2027 届应届本科或硕士毕业生，计算机、软件工程、信息管理、人工智能相关专业优先"
-        ],
+        "majorClauses": [],
         "eligibilityClauses": [
           "招聘对象：2027届",
           "投递截止：2026-11-06"
         ],
-        "technicalDuties": [
-          "模型/算法"
-        ],
+        "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
-        "项目管理"
+        "产品营销",
+        "HR"
       ],
-      "skills": [
-        "数据分析",
-        "SQL",
-        "跨部门沟通"
-      ],
+      "skills": [],
       "experienceKeywords": [],
       "preferenceTags": [],
       "riskTags": [],
@@ -169,9 +249,9 @@
       "salary": "",
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
-      "source": "广东外语外贸大学就业信息网",
-      "officialURL": "https://career.gdufs.edu.cn/web/Index/job-detail?id=11275",
-      "publishedAt": "2026-11-06",
+      "source": "北京语言大学就业信息网",
+      "officialURL": "https://jobs.blcu.edu.cn/front/zpxx.jspa?tid=2110544240625545217",
+      "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "secondary",
       "deadline": "2026-11-06"
