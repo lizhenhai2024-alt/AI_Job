@@ -37432,5 +37432,112 @@
    "开发实现"
   ],
   "businessDuties": []
+ },
+ "feishu-4031ce-7697203534919567657:8f974fca5c8f4d07:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7697205078940109082:1d73251d14788607:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [
+   "问题根因"
+  ],
+  "businessDuties": [
+   "翻译/本地化",
+   "国际业务",
+   "合同",
+   "客户关系"
+  ]
+ },
+ "feishu-4031ce-7670882853140662538:c7a6704363f00a57:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7697203277666765099:9c34c9cb87370023:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "面向应届毕业生。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "商务测算",
+   "客户关系",
+   "资料/流程"
+  ]
+ },
+ "beisen-bf806df61653:9d739ca118f7a326:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "2027届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7697203277667191083:f10090b1f3338d8d:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-6fd28368b27d:59a4f6c03b06ab76:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "保险、精算、营销等相关专业优先。"
+  ],
+  "eligibilityClauses": [
+   "2027届毕业生，保险、精算、营销等相关专业优先。"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-9bed4e55c478:5a37ecb8d46deea4:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科或硕士应届毕业生"
+  ],
+  "eligibilityClauses": [
+   "本科或硕士应届毕业生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "商务测算",
+   "跨文化沟通",
+   "客户关系"
+  ]
+ },
+ "feishu-c93cd7-7697214922413525291:d822b66662876bd7:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "美术科班，美术功底扎实，熟悉影视动画基础理论。"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-de602553d00b:4d02eebd05374ad9:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历,护理专业优先"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

@@ -1,7 +1,7 @@
 {
   "company": "SHEIN",
-  "count": 39,
-  "updatedAt": "2026-10-16T00:32:19.049Z",
+  "count": 37,
+  "updatedAt": "2026-10-16T14:04:18.428Z",
   "jobs": [
     {
       "id": "moka-ae191e7a3f8b",
@@ -788,91 +788,6 @@
       "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
     },
     {
-      "id": "moka-d7443c7c5347",
-      "company": "SHEIN",
-      "title": "全球仓储EHS管培生（肇庆）-安全-2027届",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "全球仓储EHS管培生（肇庆）-安全-2027届 发布于 2026-09-29 全职 全职 | 广东·肇庆市 广东·肇庆市",
-      "jobRequirements": "",
-      "JD": "全球仓储EHS管培生（肇庆）-安全-2027届 发布于 2026-09-29 全职 全职 | 广东·肇庆市 广东·肇庆市",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/c559e1cc-09aa-4b08-ac4b-d8439a96fd3b",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递(9/4起)→简历初筛→笔试(仅部分岗位)→面试(2-4轮)→Offer(9月下旬起)",
-      "recruitmentProcessEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
-    },
-    {
       "id": "moka-dd3520d5d8eb",
       "company": "SHEIN",
       "title": "项目管理专员（广州）-服装- 2027届",
@@ -1219,9 +1134,9 @@
       "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
     },
     {
-      "id": "moka-5271b0b0d622",
+      "id": "moka-d7443c7c5347",
       "company": "SHEIN",
-      "title": "服装质量运营专员（广州）-2027届",
+      "title": "全球仓储EHS管培生（肇庆）-安全-2027届",
       "graduationYear": [
         "2027"
       ],
@@ -1240,10 +1155,10 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "广州",
-      "jobDescription": "服装质量运营专员（广州）-2027届 发布于 2026-09-29 全职 全职 | 广东·广州市 广东·广州市",
+      "location": "待核",
+      "jobDescription": "国际物流与仓储类 全职 广东省肇庆市四会市255乡道维龙肇庆高新区物流园",
       "jobRequirements": "",
-      "JD": "服装质量运营专员（广州）-2027届 发布于 2026-09-29 全职 全职 | 广东·广州市 广东·广州市",
+      "JD": "国际物流与仓储类 全职 广东省肇庆市四会市255乡道维龙肇庆高新区物流园",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -1257,10 +1172,10 @@
         "其他"
       ],
       "skills": [],
-      "experienceKeywords": [
-        "运营"
+      "experienceKeywords": [],
+      "preferenceTags": [
+        "国际业务"
       ],
-      "preferenceTags": [],
       "riskTags": [],
       "headcount": {
         "disclosed": false,
@@ -1293,8 +1208,8 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/8bddae11-e68b-4dd0-af9d-6a846dad4b84",
-      "publishedAt": "",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/c559e1cc-09aa-4b08-ac4b-d8439a96fd3b",
+      "publishedAt": "2026-09-29",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1383,6 +1298,92 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/5f22f113-0ca2-41f0-a2a1-54820b831ad6",
       "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递(9/4起)→简历初筛→笔试(仅部分岗位)→面试(2-4轮)→Offer(9月下旬起)",
+      "recruitmentProcessEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
+    },
+    {
+      "id": "moka-5271b0b0d622",
+      "company": "SHEIN",
+      "title": "服装质量运营专员（广州）-2027届",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "服装供应链类 全职 广州市番禺区汉溪大道东390号四海城5栋（南村万博地铁站B出口）",
+      "jobRequirements": "",
+      "JD": "服装供应链类 全职 广州市番禺区汉溪大道东390号四海城5栋（南村万博地铁站B出口）",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/8bddae11-e68b-4dd0-af9d-6a846dad4b84",
+      "publishedAt": "2026-09-29",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1637,172 +1638,6 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/c9b06c32-0ebd-483a-bc40-84e0722ad3df",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递(9/4起)→简历初筛→笔试(仅部分岗位)→面试(2-4轮)→Offer(9月下旬起)",
-      "recruitmentProcessEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
-    },
-    {
-      "id": "moka-8c7ab12cb191",
-      "company": "SHEIN",
-      "title": "买手（广州）-内睡-2027届",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "买手（广州）-内睡-2027届 发布于 2026-09-29 全职 全职 | 广东·广州市 广东·广州市",
-      "jobRequirements": "",
-      "JD": "买手（广州）-内睡-2027届 发布于 2026-09-29 全职 全职 | 广东·广州市 广东·广州市",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/c40914fa-a6bd-4f44-a808-9d7f6131fbce",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递(9/4起)→简历初筛→笔试(仅部分岗位)→面试(2-4轮)→Offer(9月下旬起)",
-      "recruitmentProcessEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
-    },
-    {
-      "id": "moka-b7190a7106dd",
-      "company": "SHEIN",
-      "title": "关务专员（广州）-2027届",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "广州",
-      "jobDescription": "关务专员（广州）-2027届 发布于 2026-09-18 全职 全职 | 广东·广州市 广东·广州市",
-      "jobRequirements": "",
-      "JD": "关务专员（广州）-2027届 发布于 2026-09-18 全职 全职 | 广东·广州市 广东·广州市",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/c2d24ff7-4cd5-4b22-9357-43f91fc73a9e",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -2981,6 +2816,89 @@
       "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
     },
     {
+      "id": "moka-8c7ab12cb191",
+      "company": "SHEIN",
+      "title": "买手（广州）-内睡-2027届",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广州",
+      "jobDescription": "商品平台类 全职 广州市番禺区汉溪大道东390号四海城5栋（南村万博地铁站B出口）",
+      "jobRequirements": "",
+      "JD": "商品平台类 全职 广州市番禺区汉溪大道东390号四海城5栋（南村万博地铁站B出口）",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/c40914fa-a6bd-4f44-a808-9d7f6131fbce",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递(9/4起)→简历初筛→笔试(仅部分岗位)→面试(2-4轮)→Offer(9月下旬起)",
+      "recruitmentProcessEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
+    },
+    {
       "id": "moka-2f2d97f32716",
       "company": "SHEIN",
       "title": "仓网计划专员（肇庆）-2027届",
@@ -3137,89 +3055,6 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/18cf815a-e8ab-41f3-b5b8-52d28b56d5bb",
-      "publishedAt": "",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递(9/4起)→简历初筛→笔试(仅部分岗位)→面试(2-4轮)→Offer(9月下旬起)",
-      "recruitmentProcessEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | SHEIN校招官网 | https://careers.shein.cn/Students-&-Graduates | 2026-09-17"
-    },
-    {
-      "id": "moka-5992c54a4d78",
-      "company": "SHEIN",
-      "title": "产品专员（南京）-2027届",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "南京",
-      "jobDescription": "产品专员（南京）-2027届 发布于 2026-09-03 全职 全职 | 江苏·南京市 江苏·南京市",
-      "jobRequirements": "",
-      "JD": "产品专员（南京）-2027届 发布于 2026-09-03 全职 全职 | 江苏·南京市 江苏·南京市",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/shein/2932#/job/41d86c2b-8f3a-4120-a3e6-0260f9f5a4fc",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",

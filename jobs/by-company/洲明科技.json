@@ -1,7 +1,7 @@
 {
   "company": "洲明科技",
   "count": 9,
-  "updatedAt": "2026-10-16T00:32:19.049Z",
+  "updatedAt": "2026-10-16T14:04:18.428Z",
   "jobs": [
     {
       "id": "beisen-4999ee99651f",
@@ -182,6 +182,94 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://unilumin.zhiye.com/campus/detail?jobAdId=bd7ae4c1-4c22-4248-9cb2-36a44e0347a4",
       "publishedAt": "2026-08-26",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "线上网申→简历初筛→笔试→面试→测评→offer→三方",
+      "recruitmentProcessEvidence": "E2 | 西安电子科技大学就业网洲明科技校招 | https://job.xidian.edu.cn/teachin/view/id/125552 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 西安电子科技大学就业网洲明科技校招 | https://job.xidian.edu.cn/teachin/view/id/125552 | 2026-09-17"
+    },
+    {
+      "id": "beisen-bf806df61653",
+      "company": "洲明科技",
+      "title": "项目工程师（2027届校招）(J13712)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "惠州",
+      "jobDescription": "1、项目全生命周期管控； 2、项目资源、计划、沟通与进度管理； 3、项目需求、变更、风险及过程质量管控； 4、项目成本管控； 5、项目收尾总结复盘、过程资产沉淀、持续优化研发项目流程。",
+      "jobRequirements": "1、极强的跨部门沟通推动能力； 2、逻辑清晰、自驱执行力强； 3、具备项目管理实习经验，可使用一种及以上项目管理工具； 4、对项目管理体系有一定认知，持有PMP证书优先；",
+      "JD": "1、项目全生命周期管控； 2、项目资源、计划、沟通与进度管理； 3、项目需求、变更、风险及过程质量管控； 4、项目成本管控； 5、项目收尾总结复盘、过程资产沉淀、持续优化研发项目流程。\n1、极强的跨部门沟通推动能力； 2、逻辑清晰、自驱执行力强； 3、具备项目管理实习经验，可使用一种及以上项目管理工具； 4、对项目管理体系有一定认知，持有PMP证书优先；",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "2027届校招"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "项目管理",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://unilumin.zhiye.com/campus/detail?jobAdId=07b592eb-6701-4ef8-bed0-5909df6008ee",
+      "publishedAt": "2026-09-09",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -375,93 +463,6 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://unilumin.zhiye.com/campus/detail?jobAdId=89715db6-a2aa-457d-96eb-b92f659a6e18",
       "publishedAt": "2026-08-26",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "线上网申→简历初筛→笔试→面试→测评→offer→三方",
-      "recruitmentProcessEvidence": "E2 | 西安电子科技大学就业网洲明科技校招 | https://job.xidian.edu.cn/teachin/view/id/125552 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 西安电子科技大学就业网洲明科技校招 | https://job.xidian.edu.cn/teachin/view/id/125552 | 2026-09-17"
-    },
-    {
-      "id": "beisen-bf806df61653",
-      "company": "洲明科技",
-      "title": "项目工程师（2027届校招）(J13712)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "惠州",
-      "jobDescription": "1、项目全生命周期管控； 2、项目资源、计划、沟通与进度管理； 3、项目需求、变更、风险及过程质量管控； 4、项目成本管控； 5、项目收尾总结复盘、过程资产沉淀、持续优化研发项目流程。",
-      "jobRequirements": "1、极强的跨部门沟通推动能力； 2、逻辑清晰、自驱执行力强； 3、持有PMP证书优先；",
-      "JD": "1、项目全生命周期管控； 2、项目资源、计划、沟通与进度管理； 3、项目需求、变更、风险及过程质量管控； 4、项目成本管控； 5、项目收尾总结复盘、过程资产沉淀、持续优化研发项目流程。\n1、极强的跨部门沟通推动能力； 2、逻辑清晰、自驱执行力强； 3、持有PMP证书优先；",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "2027届校招"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "跨部门沟通"
-      ],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://unilumin.zhiye.com/campus/detail?jobAdId=07b592eb-6701-4ef8-bed0-5909df6008ee",
-      "publishedAt": "2026-09-09",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

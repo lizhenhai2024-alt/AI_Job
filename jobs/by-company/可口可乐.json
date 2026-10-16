@@ -1,7 +1,7 @@
 {
   "company": "可口可乐",
-  "count": 3,
-  "updatedAt": "2026-10-16T00:32:19.049Z",
+  "count": 9,
+  "updatedAt": "2026-10-16T14:04:18.428Z",
   "jobs": [
     {
       "id": "moka-6b50ddaf4da5",
@@ -79,7 +79,7 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/13cb2ff0-f868-441b-b92d-c2f84ebccdbd",
-      "publishedAt": "2026-10-15",
+      "publishedAt": "2026-10-16",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -87,7 +87,7 @@
     {
       "id": "moka-3b67a376b804",
       "company": "可口可乐",
-      "title": "广东太古管培生（粤东）-市场销售方向",
+      "title": "广东太古管培生 (粤东)-市场销售方向",
       "graduationYear": [
         "2027"
       ],
@@ -160,7 +160,169 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/184c4ada-02ed-4491-ba6e-473b4fa6d3a8",
-      "publishedAt": "2026-10-15",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-b1d165282c9f",
+      "company": "可口可乐",
+      "title": "江苏太古管培生-市场销售方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "市场销售 市场销售类 华创路65号智信大厦C3栋",
+      "jobRequirements": "",
+      "JD": "市场销售 市场销售类 华创路65号智信大厦C3栋",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/3f11ad10-6fa2-4832-801c-a8ea75711fda",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-6f40f5633fce",
+      "company": "可口可乐",
+      "title": "广东太古管培生-市场销售方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "广东太古可口可乐有限公司（粤西利润中心） 市场销售类 黄埔大道东998号",
+      "jobRequirements": "",
+      "JD": "广东太古可口可乐有限公司（粤西利润中心） 市场销售类 黄埔大道东998号",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/b7eafe22-9ea1-4a79-b985-d666a6fa6932",
+      "publishedAt": "2026-10-16",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -168,7 +330,7 @@
     {
       "id": "moka-aae09b442905",
       "company": "可口可乐",
-      "title": "郑州太古-市场销售方向",
+      "title": "郑州太古管培生-市场销售方向",
       "graduationYear": [
         "2027"
       ],
@@ -241,7 +403,329 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/ce06e44e-c0a4-4261-97dd-64a5ce4931d1",
-      "publishedAt": "2026-10-15",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-d924ee498adf",
+      "company": "可口可乐",
+      "title": "江苏太古管培生-市场销售方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "市场销售 市场销售类 华创路65号智信大厦C3栋",
+      "jobRequirements": "",
+      "JD": "市场销售 市场销售类 华创路65号智信大厦C3栋",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/65c5e715-6cfa-49df-a0f3-f1fa58aa6ba6",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-7db443ddd62a",
+      "company": "可口可乐",
+      "title": "浙江太古管培生-制造方向",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "浙江太古可口可乐饮料有限公司 供应链类 下沙经济技术开发区8号大街18号\\11号大街12号3幢1-2层",
+      "jobRequirements": "",
+      "JD": "浙江太古可口可乐饮料有限公司 供应链类 下沙经济技术开发区8号大街18号\\11号大街12号3幢1-2层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/e33ed848-e65d-4e66-be94-ffe3d5a61bbf",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-be8fdd719026",
+      "company": "可口可乐",
+      "title": "可口可乐业务代表-顺德（容桂）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "广东太古可口可乐有限公司（粤西利润中心） 市场销售类",
+      "jobRequirements": "",
+      "JD": "广东太古可口可乐有限公司（粤西利润中心） 市场销售类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/464b1ce6-3fbf-4d88-b75d-ca340510267c",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-c1d51f38793d",
+      "company": "可口可乐",
+      "title": "储备人才STEM",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "制造 其它 黄埔大道东998号",
+      "jobRequirements": "",
+      "JD": "制造 其它 黄埔大道东998号",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/swirecocacola/147484#/job/60adde99-551b-4388-adc3-ffd06e706e8b",
+      "publishedAt": "2026-10-16",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

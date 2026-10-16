@@ -1,8 +1,94 @@
 {
   "company": "宝洁",
-  "count": 8,
-  "updatedAt": "2026-10-16T00:32:19.049Z",
+  "count": 10,
+  "updatedAt": "2026-10-16T14:04:18.428Z",
   "jobs": [
+    {
+      "id": "phenom-13a3aed569bc",
+      "company": "宝洁",
+      "title": "(Taiwan) Campus Recruiting - 2027 P&G Graduate Program- Brand Manager",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "Taiwan",
+      "jobDescription": "宝洁官方校园招聘岗位；部门：品牌管理部/市场部。子类：Brand Management/Marketing。简介：We are currently hiring a Brand Manager for the 2027 P&G Graduate Program in Taiwan. Lead strategic marketing initiatives, collaborate with cross-functional teams, and drive brand growth. Ideal for ca。投递前请打开官方校招页确认最新状态。",
+      "jobRequirements": "",
+      "JD": "宝洁官方校园招聘岗位；部门：品牌管理部/市场部。子类：Brand Management/Marketing。简介：We are currently hiring a Brand Manager for the 2027 P&G Graduate Program in Taiwan. Lead strategic marketing initiatives, collaborate with cross-functional teams, and drive brand growth. Ideal for ca。投递前请打开官方校招页确认最新状态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场",
+        "品牌"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "宝洁官方校招官网",
+      "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/683583ca-59fe-41bd-bd03-567591d0db6b",
+      "publishedAt": "2026-10-15",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申及在线测评→两轮面试(9月起，无群面，全程视频面试)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 清华大学就业网校招公告 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxx?zpxxid=561473968 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 宝洁中国招聘官网招聘流程 | https://careers.pg.com.cn/cn/zh/hiring-process | 2026-09-17"
+    },
     {
       "id": "phenom-7f177efee613",
       "company": "宝洁",
@@ -251,6 +337,91 @@
       "source": "宝洁官方校招官网",
       "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/7912638d-718f-461e-beb6-7c764bf5be89",
       "publishedAt": "2026-08-18",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申及在线测评→两轮面试(9月起，无群面，全程视频面试)→Offer发放(10月起)",
+      "recruitmentProcessEvidence": "E3 | 清华大学就业网校招公告 | https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxx?zpxxid=561473968 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 宝洁中国招聘官网招聘流程 | https://careers.pg.com.cn/cn/zh/hiring-process | 2026-09-17"
+    },
+    {
+      "id": "phenom-39c1715dcd59",
+      "company": "宝洁",
+      "title": "(Taiwan) Campus Recruiting - 2027 P&G Graduate Program- Finance Manager",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "Taiwan",
+      "jobDescription": "宝洁官方校园招聘岗位；部门：财务部。子类：Finance and Accounting。简介：Become part of our team as a Finance Manager, leading strategic initiatives and financial analysis across business functions. Collaborate with cross-functional teams to drive business planning and inv。投递前请打开官方校招页确认最新状态。",
+      "jobRequirements": "",
+      "JD": "宝洁官方校园招聘岗位；部门：财务部。子类：Finance and Accounting。简介：Become part of our team as a Finance Manager, leading strategic initiatives and financial analysis across business functions. Collaborate with cross-functional teams to drive business planning and inv。投递前请打开官方校招页确认最新状态。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "财务"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "宝洁官方校招官网",
+      "officialURL": "https://recruit.pg.com.cn/campus-recruitment/pg/91935#/job/19461ac2-c7ca-4223-b850-512ca8b5001b",
+      "publishedAt": "2026-10-15",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

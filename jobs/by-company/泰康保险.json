@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 317,
-  "updatedAt": "2026-10-16T00:32:19.049Z",
+  "count": 321,
+  "updatedAt": "2026-10-16T14:04:18.428Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -620,6 +620,95 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=2e85db45-2da0-42e9-806f-65e36568aa8e",
       "publishedAt": "2026-09-07",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-8d8ab3b06239",
+      "company": "泰康保险",
+      "title": "养老-山东-运营管培生（内勤，27届校招）(J89917)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山东省·济南市",
+      "jobDescription": "1、获客产品统筹管理：统筹管理各类获客产品（包括短期险及健康服务产品），通过项目调研、客户访谈与数据分析，识别业务痛点与客户需求，提供针对性产品支持方案和产品创新。 2、产品策略制定、宣导与培训： 结合机构发展阶段与实际业务需求，筛选适配产品形成应用方案。组织宣导产品知识培训，助力队伍准确把握产品内容及使用思路。 3、产品全流程管理：负责产品投保全流程系统支持、流程问题处理及凭证打印、单证管理、数据管理等运营工作 4、员福业务核保管理：负责员工福利业务的日常定价、承保与系统审核，严格执行核保规则与业务标准，确保业务承保质量与合规。",
+      "jobRequirements": "保险、医学相关专业优先",
+      "JD": "1、获客产品统筹管理：统筹管理各类获客产品（包括短期险及健康服务产品），通过项目调研、客户访谈与数据分析，识别业务痛点与客户需求，提供针对性产品支持方案和产品创新。 2、产品策略制定、宣导与培训： 结合机构发展阶段与实际业务需求，筛选适配产品形成应用方案。组织宣导产品知识培训，助力队伍准确把握产品内容及使用思路。 3、产品全流程管理：负责产品投保全流程系统支持、流程问题处理及凭证打印、单证管理、数据管理等运营工作 4、员福业务核保管理：负责员工福利业务的日常定价、承保与系统审核，严格执行核保规则与业务标准，确保业务承保质量与合规。\n保险、医学相关专业优先",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "物流执行"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、获客产品统筹管理：统筹管理各类获客产品（包括短期险及健康服务产品），通过项目调"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=2f2b1497-0730-40e1-bbba-c3bf9873f6c1",
+      "publishedAt": "2026-10-12",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
@@ -8060,6 +8149,92 @@
       "deadline": ""
     },
     {
+      "id": "beisen-6fd28368b27d",
+      "company": "泰康保险",
+      "title": "人寿-厦门分公司-高客经营岗（2027年校招）(J89901)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "保险、精算、营销等相关专业优先。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "厦门",
+      "jobDescription": "1、负责高客服务产品体系搭建与运营管理。搭建分公司服务产品体系，统筹分公司高客服务运营、预算及满意度管理。 2、高客活动策划与客群拓展推动。组织培训，策划高客与私享活动，推动分公司拓客方案的实施，赋能队伍经营。 3、负责家办客户活动与家办运营，提供空间、赋能及数据支持，保障家办服务有效落地。",
+      "jobRequirements": "1.2027届毕业生，保险、精算、营销等相关专业优先。 2.有良好的团队协作及沟通表达能力。 3.有较强的目标感及执行力。 4.善于思考乐于学习。",
+      "JD": "1、负责高客服务产品体系搭建与运营管理。搭建分公司服务产品体系，统筹分公司高客服务运营、预算及满意度管理。 2、高客活动策划与客群拓展推动。组织培训，策划高客与私享活动，推动分公司拓客方案的实施，赋能队伍经营。 3、负责家办客户活动与家办运营，提供空间、赋能及数据支持，保障家办服务有效落地。\n1.2027届毕业生，保险、精算、营销等相关专业优先。 2.有良好的团队协作及沟通表达能力。 3.有较强的目标感及执行力。 4.善于思考乐于学习。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "保险、精算、营销等相关专业优先。"
+        ],
+        "eligibilityClauses": [
+          "2027届毕业生，保险、精算、营销等相关专业优先。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "数据",
+        "营销",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 1、负责高客服务产品体系搭建与运营管理。搭建分公司服务产品体系，统筹分公司高客服务"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=bc409823-3aab-4ef6-83cd-9e9ebf7164da",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-6c4c4002afce",
       "company": "泰康保险",
       "title": "总公司-行业合作部-行业研究推动岗（校招）(J89989)",
@@ -14505,6 +14680,168 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2028-06-08"
+    },
+    {
+      "id": "beisen-ea0ecf95d47d",
+      "company": "泰康保险",
+      "title": "人寿-山西分公司大健康服务岗（2027年校招）（J82193）(J82835)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "大学本科及以上学历，金融、保险、法律、数学、医学与统计专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "山西省·太原市/大同市",
+      "jobDescription": "网络拓展：负责当地医疗健康网络拓展；推动当地医疗健康网络深度合作；负责定点医院管理及医院信息维护。 理赔服务：根据公司理赔各项政策规定，推动督导理赔制度、规则与流程有效落地；做好分支机构理赔管理，做好专业培训及常态化辅导。",
+      "jobRequirements": "大学本科及以上学历，金融、保险、法律、数学、医学与统计专业优先。",
+      "JD": "网络拓展：负责当地医疗健康网络拓展；推动当地医疗健康网络深度合作；负责定点医院管理及医院信息维护。 理赔服务：根据公司理赔各项政策规定，推动督导理赔制度、规则与流程有效落地；做好分支机构理赔管理，做好专业培训及常态化辅导。\n大学本科及以上学历，金融、保险、法律、数学、医学与统计专业优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "大学本科及以上学历，金融、保险、法律、数学、医学与统计专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 网络拓展：负责当地医疗健康网络拓展；推动当地医疗健康网络深度合作；负责定点医院管理"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=d51cfcc8-0704-4dc7-8571-913219273a25",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-de602553d00b",
+      "company": "泰康保险",
+      "title": "之家-秦园-护士【2027届】(J85534)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历,护理专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "西安",
+      "jobDescription": "1、协助居民照护计划制定与执行,照护风险识别与管理; 2、协助护理部门内部制度梳理、流程优化、运营分析、效率提升等工作; 3、专业技能培训的组织实施; 4、照护质量管理体系优化与改进,照护质量的监管。",
+      "jobRequirements": "1、本科及以上学历,护理专业优先; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、具备扎实的专业知识和沟通协调能力。",
+      "JD": "1、协助居民照护计划制定与执行,照护风险识别与管理; 2、协助护理部门内部制度梳理、流程优化、运营分析、效率提升等工作; 3、专业技能培训的组织实施; 4、照护质量管理体系优化与改进,照护质量的监管。\n1、本科及以上学历,护理专业优先; 2、对养老行业有热情,具备服务意识,有亲和力,有耐心; 3、具备扎实的专业知识和沟通协调能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历,护理专业优先"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、协助居民照护计划制定与执行,照护风险识别与管理; 2、协助护理部门内部制度梳理"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=754cd4f1-bbf5-4c7f-b582-093a4c621b91",
+      "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
       "id": "beisen-1d078ca78593",

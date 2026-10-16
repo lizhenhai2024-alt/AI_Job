@@ -1,7 +1,7 @@
 {
   "company": "沐瞳科技",
-  "count": 60,
-  "updatedAt": "2026-10-16T00:32:19.049Z",
+  "count": 61,
+  "updatedAt": "2026-10-16T14:04:18.428Z",
   "jobs": [
     {
       "id": "feishu-c93cd7-7669720585748482358",
@@ -3172,6 +3172,92 @@
       "source": "沐瞳科技官方飞书招聘",
       "officialURL": "https://moonton.jobs.feishu.cn/campus/m/position/7667878288485091638/detail",
       "publishedAt": "2026-07-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申→笔试/面试/测评（无统一笔试）→Offer",
+      "recruitmentProcessEvidence": "E2 | 四川美术学院就业网校招简章 | https://www.scfai.edu.cn/xsc/info/1015/20302.htm | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E3 | 沐瞳校招FAQ文档 | https://portal-oss.zhiye.com/104294/resource/83fd87fc-6317-400b-8682-e0f6ba8a91c4.html | 2026-09-17"
+    },
+    {
+      "id": "feishu-c93cd7-7697214922413525291",
+      "company": "沐瞳科技",
+      "title": "【2027届秋招】分镜画师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "美术科班，美术功底扎实，熟悉影视动画基础理论。",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 根据导演，策划、原画，的剧情脚本，完成 MOBA 英雄皮肤展示动画分镜绘制。 2. 拆解关键镜头，输出视觉指引，配合导演指导美术完成 Color Key。 3. 协同导演对接上下游制作环节，把控视觉效果，保障成片落地。 4. 沉淀不同等级皮肤分镜方法论；对接外包供应商，配合 导演PM 完成发包、跟进与验收。",
+      "jobRequirements": "1. 美术科班，美术功底扎实，熟悉影视动画基础理论。 2. 熟练分镜绘制工具；拥有游戏 CG / 英雄展示动画落地经验，掌握剪辑，会使用 Seedance2.0 等 AI 影视工具。 3. 可独立完成分镜与运镜设计，擅长画面叙事与动画节奏把控。 4. 热爱游戏 CG 与 AI 影视，具备较强问题解决能力，适应项目快速迭代。",
+      "JD": "1. 根据导演，策划、原画，的剧情脚本，完成 MOBA 英雄皮肤展示动画分镜绘制。 2. 拆解关键镜头，输出视觉指引，配合导演指导美术完成 Color Key。 3. 协同导演对接上下游制作环节，把控视觉效果，保障成片落地。 4. 沉淀不同等级皮肤分镜方法论；对接外包供应商，配合 导演PM 完成发包、跟进与验收。\n1. 美术科班，美术功底扎实，熟悉影视动画基础理论。 2. 熟练分镜绘制工具；拥有游戏 CG / 英雄展示动画落地经验，掌握剪辑，会使用 Seedance2.0 等 AI 影视工具。 3. 可独立完成分镜与运镜设计，擅长画面叙事与动画节奏把控。 4. 热爱游戏 CG 与 AI 影视，具备较强问题解决能力，适应项目快速迭代。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "美术科班，美术功底扎实，熟悉影视动画基础理论。"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "沐瞳科技官方飞书招聘",
+      "officialURL": "https://moonton.jobs.feishu.cn/campus/m/position/7697214922413525291/detail",
+      "publishedAt": "2026-10-16",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
