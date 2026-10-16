@@ -37396,5 +37396,41 @@
   ],
   "technicalDuties": [],
   "businessDuties": []
+ },
+ "bytedance-717125b5ebd6:78100d7b9dc63abd:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-9859967ae0f7:c03968b7a3ef0a74:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-83aef7587b92:04c41f075404aed6:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [
+   "模型/算法",
+   "开发实现"
+  ],
+  "businessDuties": []
  }
 }

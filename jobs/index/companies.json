@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-15T19:24:02.045Z",
-  "totalJobs": 6721,
+  "updatedAt": "2026-10-16T00:32:19.049Z",
+  "totalJobs": 6749,
   "totalCompanies": 140,
   "companies": [
     {
@@ -50,7 +50,7 @@
       "company": "保利和润房地产投资顾问有限公司",
       "slug": "保利和润房地产投资顾问",
       "file": "jobs/by-company/保利和润房地产投资顾问.json",
-      "count": 50
+      "count": 48
     },
     {
       "company": "比亚迪",
@@ -117,12 +117,6 @@
       "slug": "德佑",
       "file": "jobs/by-company/德佑.json",
       "count": 13
-    },
-    {
-      "company": "电商独角兽",
-      "slug": "电商独角兽",
-      "file": "jobs/by-company/电商独角兽.json",
-      "count": 1
     },
     {
       "company": "东风汽车集团有限公司",
@@ -311,6 +305,12 @@
       "count": 2
     },
     {
+      "company": "联想",
+      "slug": "联想",
+      "file": "jobs/by-company/联想.json",
+      "count": 25
+    },
+    {
       "company": "零跑汽车",
       "slug": "零跑汽车",
       "file": "jobs/by-company/零跑汽车.json",
@@ -332,7 +332,7 @@
       "company": "美团",
       "slug": "美团",
       "file": "jobs/by-company/美团.json",
-      "count": 53
+      "count": 54
     },
     {
       "company": "蒙牛",
@@ -746,7 +746,7 @@
       "company": "中国人民财产保险股份有限公司梅州市分公司",
       "slug": "中国人民财产保险股份有限公司梅州市分",
       "file": "jobs/by-company/中国人民财产保险股份有限公司梅州市分.json",
-      "count": 246
+      "count": 244
     },
     {
       "company": "中国人寿",
@@ -794,7 +794,7 @@
       "company": "字节跳动",
       "slug": "字节跳动",
       "file": "jobs/by-company/字节跳动.json",
-      "count": 212
+      "count": 219
     },
     {
       "company": "Babycare",
