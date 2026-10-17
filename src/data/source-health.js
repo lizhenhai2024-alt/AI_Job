@@ -587,7 +587,7 @@ export const sourceHealth = {
       "company": "蒙牛",
       "status": "healthy",
       "healthy": true,
-      "reason": "北森源正常：扫描208，源内保留101"
+      "reason": "北森源正常：扫描214，源内保留101"
     },
     {
       "provider": "beisen",
@@ -944,21 +944,21 @@ export const sourceHealth = {
       "company": "创维集团",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出137，源内保留135"
+      "reason": "HotJob源正常：列出127，源内保留125"
     },
     {
       "provider": "hotjob",
       "company": "宁德新能源科技有限公司",
-      "status": "error",
+      "status": "empty",
       "healthy": false,
-      "reason": "来源抓取存在 1 个错误"
+      "reason": "HotJob源本轮没有列出岗位"
     },
     {
       "provider": "hotjob",
       "company": "荣耀",
       "status": "healthy",
       "healthy": true,
-      "reason": "HotJob源正常：列出101，源内保留100"
+      "reason": "HotJob源正常：列出61，源内保留61"
     },
     {
       "provider": "hotjob",
@@ -1042,14 +1042,14 @@ export const sourceHealth = {
       "company": "字节跳动",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量980，源内保留184"
+      "reason": "官方源正常：本轮活动量1000，源内保留184"
     },
     {
       "provider": "meituan",
       "company": "美团",
       "status": "healthy",
       "healthy": true,
-      "reason": "官方源正常：本轮活动量196，源内保留196"
+      "reason": "官方源正常：本轮活动量196，源内保留195"
     },
     {
       "provider": "lenovo",
@@ -1117,16 +1117,16 @@ export const sourceHealth = {
     {
       "provider": "job51",
       "company": "联合利华",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "job51",
       "company": "雅诗兰黛",
-      "status": "unknown",
+      "status": "error",
       "healthy": false,
-      "reason": "本轮缺少足够来源健康统计"
+      "reason": "来源抓取存在 1 个错误"
     },
     {
       "provider": "phenom",
@@ -1196,7 +1196,7 @@ export const sourceHealth = {
       "company": "对外经济贸易大学",
       "status": "error",
       "healthy": false,
-      "reason": "来源抓取存在 9 个错误"
+      "reason": "来源抓取存在 8 个错误"
     },
     {
       "provider": "university",
@@ -1565,12 +1565,12 @@ export const sourceHealth = {
   ],
   "counts": {
     "healthy": 150,
-    "empty": 10,
-    "error": 16,
-    "unknown": 47
+    "empty": 11,
+    "error": 17,
+    "unknown": 45
   },
   "total": 223,
   "healthy": 150,
   "attention": 73,
-  "updatedAt": "2026-10-17T00:37:32.200Z"
+  "updatedAt": "2026-10-17T12:59:03.205Z"
 };
