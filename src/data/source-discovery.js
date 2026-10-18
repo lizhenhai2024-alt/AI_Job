@@ -74,7 +74,7 @@ export const sourceDiscovery = [
     "officialUrl": "https://polyharmony.zhiye.com/",
     "reason": "高校详情页明确给出北森招聘入口；等价官方源已存在",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-18T00:11:13.408Z",
+    "lastCheckedAt": "2026-10-18T13:18:49.179Z",
     "nextCheckAfter": ""
   },
   {
@@ -1020,8 +1020,8 @@ export const sourceDiscovery = [
     "officialUrl": "https://campus.sf-express.com/",
     "reason": "已发现公司官方招聘入口，但当前站点 campus.sf-express.com 尚无自动抓取适配器",
     "attempts": 0,
-    "lastCheckedAt": "2026-10-18T00:11:13.408Z",
-    "nextCheckAfter": "2026-10-19T00:11:13.412Z"
+    "lastCheckedAt": "2026-10-18T13:18:49.179Z",
+    "nextCheckAfter": "2026-10-19T13:18:49.182Z"
   },
   {
     "name": "一、招聘岗位",
@@ -1488,7 +1488,7 @@ export const sourceDiscovery = [
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-18T12:37:11.486Z",
+  "updatedAt": "2026-10-18T13:18:49.179Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
