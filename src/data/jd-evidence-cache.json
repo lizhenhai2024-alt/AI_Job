@@ -37552,5 +37552,31 @@
    "资料/流程",
    "国际业务"
   ]
+ },
+ "bytedance-d8ea940ff756:2edfff1ad638dfc9:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "bytedance-265ff81306e0:0fc116d7667edb93:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "信息安全相关专业"
+  ],
+  "eligibilityClauses": [
+   "2027届获得本科及以上学历，信息安全相关专业"
+  ],
+  "technicalDuties": [
+   "技术评估"
+  ],
+  "businessDuties": [
+   "资料/流程"
+  ]
  }
 }

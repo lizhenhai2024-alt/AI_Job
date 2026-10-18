@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T17:53:21.883Z",
-  "totalJobs": 6691,
-  "totalCompanies": 139,
+  "updatedAt": "2026-10-18T00:11:16.701Z",
+  "totalJobs": 6719,
+  "totalCompanies": 140,
   "companies": [
     {
       "company": "阿里巴巴",
@@ -303,6 +303,12 @@
       "slug": "莉莉丝游戏",
       "file": "jobs/by-company/莉莉丝游戏.json",
       "count": 2
+    },
+    {
+      "company": "联想",
+      "slug": "联想",
+      "file": "jobs/by-company/联想.json",
+      "count": 25
     },
     {
       "company": "零跑汽车",
@@ -788,7 +794,7 @@
       "company": "字节跳动",
       "slug": "字节跳动",
       "file": "jobs/by-company/字节跳动.json",
-      "count": 224
+      "count": 227
     },
     {
       "company": "Babycare",
