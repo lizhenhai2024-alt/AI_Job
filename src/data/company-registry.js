@@ -56,6 +56,11 @@ const COMPANY_ALIAS_KEYS = new Map([
   ['seres', '赛力斯'],
   ['中微公司', '中微半导体设备'],
   ['amec', '中微半导体设备'],
+  ['4399', '4399游戏'],
+  ['torras', '图拉斯'],
+  ['千问办公', '阿里巴巴千问办公'],
+  ['阿里千问办公', '阿里巴巴千问办公'],
+  ['tcl华星', 'tcl华星光电'],
 ]);
 
 export function canonicalCompanyKey(value = '') {
@@ -93,10 +98,14 @@ export function normalizeTracks(targetTracks = [], legacyCities = []) {
 function findMatch(records, name) {
   const key = canonicalCompanyKey(name);
   if (!key) return null;
+  // Prefer an exact canonical company/brand match before fuzzy containment.
+  // Otherwise a parent company such as “阿里巴巴” can swallow a first-class
+  // business brand such as “阿里巴巴千问办公” simply because it appears first.
+  const exact = records.find((record) => canonicalCompanyKey(record.name) === key);
+  if (exact) return exact;
   return records.find((record) => {
     const candidate = canonicalCompanyKey(record.name);
     if (!candidate) return false;
-    if (candidate === key) return true;
     return Math.min(candidate.length, key.length) >= 3 && (candidate.includes(key) || key.includes(candidate));
   }) || null;
 }
