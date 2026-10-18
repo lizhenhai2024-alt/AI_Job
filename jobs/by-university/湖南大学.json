@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T01:25:07.324Z",
+  "updatedAt": "2026-10-18T01:15:07.590Z",
   "sourcePool": "university-employment",
   "school": "湖南大学",
   "segments": [
@@ -8,12 +8,12 @@
     "211",
     "双一流"
   ],
-  "totalJobs": 95,
+  "totalJobs": 94,
   "jobs": [
     {
-      "id": "university-98756331ba2c55",
-      "company": "济南市人才服务局",
-      "title": "济南市人才服务局",
+      "id": "university-427e4bcb1f4a86",
+      "company": "国机重型装备集团股份有限公司",
+      "title": "国机重型装备集团股份有限公司",
       "graduationYear": [
         "2027"
       ],
@@ -33,9 +33,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-17 校园宣讲会：济南市人才服务局，宣讲时间 09:00，宣讲地点 复临舍一楼大厅。详情见 https://scc.hnu.edu.cn/detail/career?id=726721",
+      "jobDescription": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：国机重型装备集团股份有限公司，宣讲时间 09:00，宣讲地点 复临舍503教室。详情见 https://scc.hnu.edu.cn/detail/career?id=727422",
       "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-17 校园宣讲会：济南市人才服务局，宣讲时间 09:00，宣讲地点 复临舍一楼大厅。详情见 https://scc.hnu.edu.cn/detail/career?id=726721",
+      "JD": "湖南大学就业信息网发布 2026-10-19 校园宣讲会：国机重型装备集团股份有限公司，宣讲时间 09:00，宣讲地点 复临舍503教室。详情见 https://scc.hnu.edu.cn/detail/career?id=727422",
       "jdEvidence": {},
       "roleFamily": [
         "其他"
@@ -51,13 +51,13 @@
       "annualSalary": "",
       "source": "university-employment",
       "officialURL": "",
-      "publishedAt": "2026-10-17",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "secondary",
       "deadline": "",
       "sourceChannel": "university",
       "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=726721",
+      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=727422",
       "verification": "高校就业信息网官方发布 · 待公司官网复核",
       "sourceEvidence": [
         {
@@ -66,7 +66,7 @@
         },
         {
           "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=726721"
+          "url": "https://scc.hnu.edu.cn/detail/career?id=727422"
         }
       ],
       "universitySource": {
@@ -7228,83 +7228,6 @@
         {
           "label": "湖南大学宣讲会详情",
           "url": "https://scc.hnu.edu.cn/detail/career?id=727207"
-        }
-      ],
-      "universitySource": {
-        "school": "湖南大学",
-        "segments": [
-          "985",
-          "211",
-          "双一流"
-        ],
-        "priority": 103
-      },
-      "universitySchool": "湖南大学",
-      "universitySegments": [
-        "985",
-        "211",
-        "双一流"
-      ],
-      "universityElite": true,
-      "universitySpecialty": false
-    },
-    {
-      "id": "university-ffea8400959ea9",
-      "company": "江苏凤凰出版传媒集团有限公司",
-      "title": "江苏凤凰出版传媒集团有限公司",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "湖南大学就业信息网发布 2026-10-27 校园宣讲会：江苏凤凰出版传媒集团有限公司，宣讲时间 15:00，宣讲地点 复临舍208教室。详情见 https://scc.hnu.edu.cn/detail/career?id=726738",
-      "jobRequirements": "",
-      "JD": "湖南大学就业信息网发布 2026-10-27 校园宣讲会：江苏凤凰出版传媒集团有限公司，宣讲时间 15:00，宣讲地点 复临舍208教室。详情见 https://scc.hnu.edu.cn/detail/career?id=726738",
-      "jdEvidence": {},
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {},
-      "compensation": {},
-      "salary": "",
-      "monthlySalary": "",
-      "annualSalary": "",
-      "source": "university-employment",
-      "officialURL": "",
-      "publishedAt": "2026-10-27",
-      "lastVerified": "",
-      "sourceType": "secondary",
-      "deadline": "",
-      "sourceChannel": "university",
-      "sourcePool": "university-employment",
-      "sourceURL": "https://scc.hnu.edu.cn/detail/career?id=726738",
-      "verification": "高校就业信息网官方发布 · 待公司官网复核",
-      "sourceEvidence": [
-        {
-          "label": "湖南大学就业信息网",
-          "url": "https://scc.hnu.edu.cn/"
-        },
-        {
-          "label": "湖南大学宣讲会详情",
-          "url": "https://scc.hnu.edu.cn/detail/career?id=726738"
         }
       ],
       "universitySource": {
