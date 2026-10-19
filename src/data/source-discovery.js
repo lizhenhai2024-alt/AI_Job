@@ -29,9 +29,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://careers.iqiyi.com/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 103,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 104,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "百度",
@@ -436,9 +436,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://campus.jd.com/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 79,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 80,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "京人才·新未来——京新药业",
@@ -491,9 +491,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://campus-recruitment-delivery.colipu.com/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 79,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 80,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "科沃斯",
@@ -821,9 +821,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://sunda.gllue.com/portal/portal",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 79,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 80,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "厦门松霖科技",
@@ -1294,9 +1294,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://aidc-jobs.alibaba.com/campus/home",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 79,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 80,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "Amazon",
@@ -1305,9 +1305,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://www.amazon.jobs/content/en/career-programs/university/undergraduate-non-tech",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 103,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 104,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "Apple",
@@ -1327,9 +1327,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://hr.baseus.cn/Campus/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 79,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 80,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "Bilibili",
@@ -1338,9 +1338,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://www.bilibili.com/blackboard/join-list.html",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 102,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 103,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "DJI",
@@ -1371,9 +1371,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://www.lazada.com/en/careers/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 104,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 105,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "Lenovo",
@@ -1448,9 +1448,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://careers.pddglobalhr.com/campus",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 79,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 80,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "TikTok",
@@ -1459,9 +1459,9 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://lifeattiktok.com/",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 103,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 104,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   },
   {
     "name": "Ugreen",
@@ -1481,14 +1481,14 @@ export const sourceDiscovery = [
     "provider": "",
     "officialUrl": "https://www.zururecruit.cn/campus",
     "reason": "找到疑似官方招聘页，但当前不是已支持ATS；进入适配队列，不自动注册",
-    "attempts": 78,
-    "lastCheckedAt": "2026-10-19T15:35:51.353Z",
-    "nextCheckAfter": "2026-10-22T15:35:51.353Z"
+    "attempts": 79,
+    "lastCheckedAt": "2026-10-19T23:42:14.065Z",
+    "nextCheckAfter": "2026-10-22T23:42:14.065Z"
   }
 ];
 
 export const sourceDiscoveryMeta = {
-  "updatedAt": "2026-10-19T20:33:20.361Z",
+  "updatedAt": "2026-10-19T23:42:14.065Z",
   "lastRun": {
     "processed": 12,
     "sourcesAdded": 0,
