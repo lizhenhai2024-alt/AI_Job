@@ -1,7 +1,7 @@
 {
   "company": "蔚来",
-  "count": 200,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "count": 202,
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "feishu-49f725-7673027221094975795",
@@ -7412,6 +7412,102 @@
       "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
     },
     {
+      "id": "feishu-49f725-7698198906156828970",
+      "company": "蔚来",
+      "title": "校招-现场应用工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "学历硕士在读， 机械/汽车专业有电驱或电机设计经验优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "合肥",
+      "jobDescription": "负责EDS总成内除高压器件、高压线束、电子元件、模块总成外的机械零件与装配关系相关失效分析； 对接并管理EDS全生命周期各阶段质量问题分析需求并高质量闭环，包括但不限于开发阶段、生产现场、整车工厂0公里以及各车型售后相关质量问题分析； 支持EDS生命周期内产品质量改进相关需求收集与跟踪； 作为EH与EI之间资源需求接口，高效协调工程资源支持EI业务需求； 其他需求协调工作。 Core Responsibilities主要职责: 收集并管理现场质量问题分析需求，建立问题台账； 组织故障件拆解，收集完整故障信息，编写8D报告； 收集必要车辆、电驱总成及零部件相关必要数据，运用分析工具处理分析，识别根因制定建议措施； 组织跨部门问题分析会议，收集分析建议，编写分析或验证计划； 开展跨部门沟通，跟踪计划、收集交付报告； 沟通测试资源，支持问题分析与相关验证； 总结质量问题经验，掌握质量分析工具应用，提升分析活动质量和效率； 其他相关工作。",
+      "jobRequirements": "学历硕士在读， 机械/汽车专业有电驱或电机设计经验优先; 语言能力：英文（书面及口语）； 计算机能力 : 熟练运用Office/Excel/PPT； 其他要求 ：有责任心，自驱力强，学习能力强 性格开朗、善于沟通、乐于合作 认同企业价值观",
+      "JD": "负责EDS总成内除高压器件、高压线束、电子元件、模块总成外的机械零件与装配关系相关失效分析； 对接并管理EDS全生命周期各阶段质量问题分析需求并高质量闭环，包括但不限于开发阶段、生产现场、整车工厂0公里以及各车型售后相关质量问题分析； 支持EDS生命周期内产品质量改进相关需求收集与跟踪； 作为EH与EI之间资源需求接口，高效协调工程资源支持EI业务需求； 其他需求协调工作。 Core Responsibilities主要职责: 收集并管理现场质量问题分析需求，建立问题台账； 组织故障件拆解，收集完整故障信息，编写8D报告； 收集必要车辆、电驱总成及零部件相关必要数据，运用分析工具处理分析，识别根因制定建议措施； 组织跨部门问题分析会议，收集分析建议，编写分析或验证计划； 开展跨部门沟通，跟踪计划、收集交付报告； 沟通测试资源，支持问题分析与相关验证； 总结质量问题经验，掌握质量分析工具应用，提升分析活动质量和效率； 其他相关工作。\n学历硕士在读， 机械/汽车专业有电驱或电机设计经验优先; 语言能力：英文（书面及口语）； 计算机能力 : 熟练运用Office/Excel/PPT； 其他要求 ：有责任心，自驱力强，学习能力强 性格开朗、善于沟通、乐于合作 认同企业价值观",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "学历硕士在读， 机械/汽车专业有电驱或电机设计经验优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "质量技术"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "PPT",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7698198906156828970/detail",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
       "id": "feishu-49f725-7673027365040589065",
       "company": "蔚来",
       "title": "校招-产品经理（营销服）",
@@ -10307,6 +10403,99 @@
       "source": "蔚来官方飞书招聘",
       "officialURL": "https://nio.jobs.feishu.cn/campus/position/7673027258017384742/detail",
       "publishedAt": "2026-08-12",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申&内推→笔试/测评→面试→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 蔚来校招官网招聘动态 | https://campus.nio.com/?theme=dark#/trends | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 蔚来校招官网FAQ | https://campus.nio.com/?theme=dark#/trends | 2026-09-17"
+    },
+    {
+      "id": "feishu-49f725-7698200224753928499",
+      "company": "蔚来",
+      "title": "校招-蔚来金融sparks",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "金融、财务、经济等相关专业，本科及以上学历",
+        "hardRestriction": true,
+        "hardClauses": [
+          "金融、财务、经济等相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "蔚来金融专注汽车金融业务，我们围绕\"怎么让用户更容易把蔚来开回家\"展开业务，是贴近用户和销售一线的业务岗，非投融资/资本运作方向。我们希望你落地、扎实。 管培生会有为期2年的轮岗安排，会视实际情况安排至不同部门轮岗，深入了解公司金融团队运作： 战略类：涉及支付、金融科技等创新业务 市场类：与外部机构对接，迭代购车金融/保险产品；赋能培训销售团队，确保一线销售、交付人员高效使用金融工具 风控类：跟进贷前、贷中、贷后全流程风控；参与反欺诈模型与风控策略设计，降低风险与坏账 运营类：跟进资金管理工作；监控业务数据、输出报表，发现并推动流程优化 轮岗期间，希望你善于从一线发现流程问题、提出改进建议并推动落地，持续提升效率与交付质量。",
+      "jobRequirements": "金融、财务、经济等相关专业，本科及以上学历； 逻辑清晰、数据敏感，具备较好的统计与分析能力； 做事严谨踏实、责任心强，善于沟通协作，有较强的上进心和快速学习能力； 加分项：对新能源、汽车金融或保险行业有了解，有相关实习经历。",
+      "JD": "蔚来金融专注汽车金融业务，我们围绕\"怎么让用户更容易把蔚来开回家\"展开业务，是贴近用户和销售一线的业务岗，非投融资/资本运作方向。我们希望你落地、扎实。 管培生会有为期2年的轮岗安排，会视实际情况安排至不同部门轮岗，深入了解公司金融团队运作： 战略类：涉及支付、金融科技等创新业务 市场类：与外部机构对接，迭代购车金融/保险产品；赋能培训销售团队，确保一线销售、交付人员高效使用金融工具 风控类：跟进贷前、贷中、贷后全流程风控；参与反欺诈模型与风控策略设计，降低风险与坏账 运营类：跟进资金管理工作；监控业务数据、输出报表，发现并推动流程优化 轮岗期间，希望你善于从一线发现流程问题、提出改进建议并推动落地，持续提升效率与交付质量。\n金融、财务、经济等相关专业，本科及以上学历； 逻辑清晰、数据敏感，具备较好的统计与分析能力； 做事严谨踏实、责任心强，善于沟通协作，有较强的上进心和快速学习能力； 加分项：对新能源、汽车金融或保险行业有了解，有相关实习经历。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "金融、财务、经济等相关专业，本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "市场",
+        "用户",
+        "数据",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "蔚来官方飞书招聘",
+      "officialURL": "https://nio.jobs.feishu.cn/campus/position/7698200224753928499/detail",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

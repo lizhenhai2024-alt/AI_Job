@@ -1,7 +1,7 @@
 {
   "company": "宁德时代新能源科技股份有限公司",
-  "count": 82,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "count": 85,
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "moka-f076bae1491d",
@@ -4831,6 +4831,182 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17"
     },
     {
+      "id": "moka-98b31a551d8d",
+      "company": "宁德时代新能源科技股份有限公司",
+      "title": "国内乘用车项目管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "市场类",
+      "jobRequirements": "",
+      "JD": "市场类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/catlhr/148948#/job/d9e2fce4-1f21-41d7-9a58-1767cbf77e7b",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申投递→AI面试→在线测评→专业面试→offer发放",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17"
+    },
+    {
+      "id": "moka-6663ecef1791",
+      "company": "宁德时代新能源科技股份有限公司",
+      "title": "国内商用车项目管理工程师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "市场类",
+      "jobRequirements": "",
+      "JD": "市场类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "项目管理"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/catlhr/148948#/job/f1995995-15ec-437b-9ce0-c793bf50f397",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申投递→AI面试→在线测评→专业面试→offer发放",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17"
+    },
+    {
       "id": "moka-663bc9a04a5c",
       "company": "宁德时代新能源科技股份有限公司",
       "title": "海外乘用车销售代表",
@@ -5391,6 +5567,100 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/catlhr/148948#/job/560538f8-c778-4103-a1c4-f8a093231e94",
+      "publishedAt": "",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申投递→AI面试→在线测评→专业面试→offer发放",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17"
+    },
+    {
+      "id": "moka-46d49de4caff",
+      "company": "宁德时代新能源科技股份有限公司",
+      "title": "规划和发展分析师",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "发布于 2026-10-08 2 2 | 福建·宁德市 福建·宁德市 一、岗位职责描述：【岗位职责】1.负责商用车、乘用车、储能相关领域的行业研究、政策研究及客户研究，持续跟踪市场变化，研判并量化趋势性机会与风险，输出周报、月报、专题报告及季度分析报告。2.支持电池市场需求预测，围绕终端销量、电动化率、单车带电量、客户提货节奏、产品结构等关键维度，形成对市场空间、提货量及产品组合的判断，并支持短期及中长期产能规划。3.承接体系内其他业务单元的分析需求，包括但不限于行业需求、重点客户、产品结构、产能布局、竞争格局等，提供数据支持与策略建议。4.支持电池相关竞对研究，重点跟踪全球及国内主要竞争对手的战略方向、客户进展、产能布局、技术路线及产品规划，形成可落地的竞争情报分析5.开展内外部市场调研，整合行业访谈、客户交流、渠道反馈及公开信息，形成调研结论，为市场判断、资源投入和产能决策提供依据。6.推动跨部门协同，与销售、产品、研发、制造、供应链等团队联动，促进市场判断向业务决策和经营动作转化。二、岗位要求：1.具备较强的数据分析和结构化思维能力，能够完成研究框架搭建、数据整理分析、报告撰写及结论输出2.具备较强的自驱力、责任心和抗压能力，适应快节奏、高强度的工作环境 一、岗位职责描述： 【岗位职责】 1.负责商用车、乘用车、储能相关领域的行业研究、政策研究及客户研究，持续跟踪市场变化，研判并量化趋势性机会与风险，输出周报、月报、专题报告及季度分析报告。 2.支持电池市场需求预测，围绕终端销量、电动化率、单车带电量、客户提货节奏、产品结构等关键维度，形成对市场空间、提货量及产品组合的判断，并支持短期及中长期产能规划。 3.承接体系内其他业务单元的分析需求，包括但不限于行业需求、重点客户、产品结构、产能布局、竞争格局等，提供数据支持与策略建议。 4.支持电池相关竞对研究，重点跟踪全球及国内主要竞争对手的战略方向、客户进展、产能布局、技术路线及产品规划，形成可落地的竞争情报分析 5.开展内外部市场调研，整合行业访谈、客户交流、渠道反馈及公开信息，形成调研结论，为市场判断、资源投入和产能决策提供依据。 6.推动跨部门协同，与销售、产品、研发、制造、供应链等团队联动，促进市场判断向业务决策和经营动作转化。 二、岗位要求： 1.具备较强的数据分析和结构化思维能力，能够完成研究框架搭建、数据整理分析、报告撰写及结论输出 2.具备较强的自驱力、责任心和抗压能力，适应快节奏、高强度的工作环境 2027届全球校园招聘允许投递3次，请选择适合的职位进行投递 立即投递",
+      "jobRequirements": "",
+      "JD": "发布于 2026-10-08 2 2 | 福建·宁德市 福建·宁德市 一、岗位职责描述：【岗位职责】1.负责商用车、乘用车、储能相关领域的行业研究、政策研究及客户研究，持续跟踪市场变化，研判并量化趋势性机会与风险，输出周报、月报、专题报告及季度分析报告。2.支持电池市场需求预测，围绕终端销量、电动化率、单车带电量、客户提货节奏、产品结构等关键维度，形成对市场空间、提货量及产品组合的判断，并支持短期及中长期产能规划。3.承接体系内其他业务单元的分析需求，包括但不限于行业需求、重点客户、产品结构、产能布局、竞争格局等，提供数据支持与策略建议。4.支持电池相关竞对研究，重点跟踪全球及国内主要竞争对手的战略方向、客户进展、产能布局、技术路线及产品规划，形成可落地的竞争情报分析5.开展内外部市场调研，整合行业访谈、客户交流、渠道反馈及公开信息，形成调研结论，为市场判断、资源投入和产能决策提供依据。6.推动跨部门协同，与销售、产品、研发、制造、供应链等团队联动，促进市场判断向业务决策和经营动作转化。二、岗位要求：1.具备较强的数据分析和结构化思维能力，能够完成研究框架搭建、数据整理分析、报告撰写及结论输出2.具备较强的自驱力、责任心和抗压能力，适应快节奏、高强度的工作环境 一、岗位职责描述： 【岗位职责】 1.负责商用车、乘用车、储能相关领域的行业研究、政策研究及客户研究，持续跟踪市场变化，研判并量化趋势性机会与风险，输出周报、月报、专题报告及季度分析报告。 2.支持电池市场需求预测，围绕终端销量、电动化率、单车带电量、客户提货节奏、产品结构等关键维度，形成对市场空间、提货量及产品组合的判断，并支持短期及中长期产能规划。 3.承接体系内其他业务单元的分析需求，包括但不限于行业需求、重点客户、产品结构、产能布局、竞争格局等，提供数据支持与策略建议。 4.支持电池相关竞对研究，重点跟踪全球及国内主要竞争对手的战略方向、客户进展、产能布局、技术路线及产品规划，形成可落地的竞争情报分析 5.开展内外部市场调研，整合行业访谈、客户交流、渠道反馈及公开信息，形成调研结论，为市场判断、资源投入和产能决策提供依据。 6.推动跨部门协同，与销售、产品、研发、制造、供应链等团队联动，促进市场判断向业务决策和经营动作转化。 二、岗位要求： 1.具备较强的数据分析和结构化思维能力，能够完成研究框架搭建、数据整理分析、报告撰写及结论输出 2.具备较强的自驱力、责任心和抗压能力，适应快节奏、高强度的工作环境 2027届全球校园招聘允许投递3次，请选择适合的职位进行投递 立即投递",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "市场",
+        "数据",
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/catlhr/148948#/job/bd3b89cc-34c0-4143-bc97-ca1cacb8b0ae",
       "publishedAt": "",
       "lastVerified": "",
       "sourceType": "official",
@@ -6871,89 +7141,6 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17"
     },
     {
-      "id": "moka-9d6d495b59da",
-      "company": "宁德时代新能源科技股份有限公司",
-      "title": "产业资本投资专员招聘",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "职能类",
-      "jobRequirements": "",
-      "JD": "职能类",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/catlhr/148948#/job/34bca5cf-871b-401d-b58e-8a5087722cd6",
-      "publishedAt": "2026-10-09",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申投递→AI面试→在线测评→专业面试→offer发放",
-      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17"
-    },
-    {
       "id": "moka-d1143bc9bbad",
       "company": "宁德时代新能源科技股份有限公司",
       "title": "积极文化专员",
@@ -7675,9 +7862,9 @@
       "hasAssessmentEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17"
     },
     {
-      "id": "moka-46d49de4caff",
+      "id": "moka-113231e49906",
       "company": "宁德时代新能源科技股份有限公司",
-      "title": "规划和发展分析师",
+      "title": "国内乘用车销售代表",
       "graduationYear": [
         "2027"
       ],
@@ -7697,9 +7884,9 @@
         "minorLanguageRequired": false
       },
       "location": "待核",
-      "jobDescription": "供应链与运营类",
+      "jobDescription": "市场类",
       "jobRequirements": "",
-      "JD": "供应链与运营类",
+      "JD": "市场类",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [],
@@ -7710,12 +7897,11 @@
         "businessDuties": []
       },
       "roleFamily": [
-        "其他"
+        "销售"
       ],
       "skills": [],
       "experienceKeywords": [
-        "运营",
-        "供应链"
+        "市场"
       ],
       "preferenceTags": [],
       "riskTags": [],
@@ -7750,8 +7936,93 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/catlhr/148948#/job/bd3b89cc-34c0-4143-bc97-ca1cacb8b0ae",
-      "publishedAt": "2026-10-08",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/catlhr/148948#/job/97463ba4-4e7a-42fc-95ed-7a5ca1160faa",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申投递→AI面试→在线测评→专业面试→offer发放",
+      "recruitmentProcessEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 南开大学就业指导中心宁德时代校招 | https://career.nankai.edu.cn/recruitment/content/type/2/id/6065.html | 2026-09-17"
+    },
+    {
+      "id": "moka-a13ab7952222",
+      "company": "宁德时代新能源科技股份有限公司",
+      "title": "国内商用车销售代表",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "市场类",
+      "jobRequirements": "",
+      "JD": "市场类",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "销售"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "市场"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/catlhr/148948#/job/6e10212c-8111-44b2-912d-b72e9daff185",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

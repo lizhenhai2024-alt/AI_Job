@@ -1,7 +1,7 @@
 {
   "company": "兆易创新",
-  "count": 10,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "count": 11,
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "moka-6f2953764aff",
@@ -165,6 +165,85 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/gigadevice/92215#/job/6476666e-5c60-4c7b-905c-b35c5de463e7",
       "publishedAt": "2026-10-16",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "moka-7f7f07c70f9c",
+      "company": "兆易创新",
+      "title": "模拟版图设计工程师-2027届校招",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "MCU BU 其它 银泰城写字楼9号楼19层 安定路5号城奥大厦6层",
+      "jobRequirements": "",
+      "JD": "MCU BU 其它 银泰城写字楼9号楼19层 安定路5号城奥大厦6层",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/gigadevice/92215#/job/ac8b7bc6-e286-4a73-a8f8-a8a738efead5",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""

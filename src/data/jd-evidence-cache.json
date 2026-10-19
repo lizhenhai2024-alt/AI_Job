@@ -37578,5 +37578,170 @@
   "businessDuties": [
    "资料/流程"
   ]
+ },
+ "beisen-915d0d929ef2:92ee3bd4eabdc23f:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "院校：国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-4031ce-7698324481216383275:ade8ec4bb9100fa3:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科以上学历"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670425234923407658:c44a8adea44b9299:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "feishu-96da49-7670423980151032118:2ee11458dcb325b9:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届应届生"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-fb62ab95a323:20f977f774f63194:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [],
+  "eligibilityClauses": [
+   "国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）",
+   "本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "商务测算",
+   "合同",
+   "客户关系",
+   "物流执行",
+   "资料/流程"
+  ]
+ },
+ "feishu-c93cd7-7697147640467441930:d822b66662876bd7:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "美术科班"
+  ],
+  "eligibilityClauses": [
+   "【2027届秋招】"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-e2f7fa4e358f:e8977a4912a77e8c:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "给排水等相关专业，研究生及以上学历"
+  ],
+  "eligibilityClauses": [
+   "2027届校招"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-c85aeb1dc74f:5b32aa7e41e0af5a:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "护理专业优先"
+  ],
+  "eligibilityClauses": [
+   "2027届",
+   "本科及以上学历"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-ca4268223a3f:598c80be11d8f88f:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业"
+  ],
+  "eligibilityClauses": [
+   "2027届"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-66f53d0ec29d:ca8ac9272dc6ecda:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "国内普通高等院校（2027年毕业）或教育部承认的海外高等院校（2026或2027年毕业）"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系",
+   "物流执行",
+   "资料/流程"
+  ]
+ },
+ "beisen-7b289e986885:3b4a5903c7998dcc:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历",
+   "有社工专业背景者优先"
+  ],
+  "eligibilityClauses": [
+   "2027届"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "beisen-d34e7c11d651:a61935f7502eb669:gemini-3.5-flash-lite": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历"
+  ],
+  "eligibilityClauses": [
+   "深圳-课程顾问-27校招(J67553)"
+  ],
+  "technicalDuties": [],
+  "businessDuties": [
+   "客户关系"
+  ]
+ },
+ "beisen-1afdc2bb756b:5a6abef0b3d1794c:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "本科及以上学历，社会工作相关专业"
+  ],
+  "eligibilityClauses": [],
+  "technicalDuties": [],
+  "businessDuties": []
+ },
+ "hotjob-412037be618e:9dd1ebf2f3adb62b:deepseek-flash": {
+  "source": "llm",
+  "majorClauses": [
+   "专业不限，市场营销、工商管理、经济贸易等相关专业优先",
+   "2027届本科及以上学历毕业生"
+  ],
+  "eligibilityClauses": [
+   "2027届本科及以上学历毕业生",
+   "简历接收周期：2026-10-19~2027-06-19"
+  ],
+  "technicalDuties": [],
+  "businessDuties": []
  }
 }

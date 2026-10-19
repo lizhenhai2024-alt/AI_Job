@@ -1,7 +1,7 @@
 {
   "company": "岚图汽车",
   "count": 17,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "moka-911c60023c3b",
@@ -175,7 +175,7 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4275078d-b72b-4cfe-8be4-904e02ad1041",
-      "publishedAt": "2026-10-16",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -262,7 +262,7 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/b423395c-78da-4efd-8680-8c534cfe946b",
-      "publishedAt": "2026-10-16",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -902,6 +902,91 @@
       "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
     },
     {
+      "id": "moka-84fd45ebb00b",
+      "company": "岚图汽车",
+      "title": "备件技术",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "待核",
+      "jobDescription": "用户服务中心 后台",
+      "jobRequirements": "",
+      "JD": "用户服务中心 后台",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方Moka校招官网",
+      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4b3c8d35-179e-417e-89b0-ae10cb3193e6",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
+      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
+    },
+    {
       "id": "moka-73f341c73388",
       "company": "岚图汽车",
       "title": "能源服务管理",
@@ -977,7 +1062,7 @@
       "annualSalary": "未披露",
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/d8a666eb-6722-4390-ad04-d1fa0b98728d",
-      "publishedAt": "2026-10-16",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -1061,91 +1146,6 @@
       "source": "公司官方Moka校招官网",
       "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4b77fd3d-8d1a-4645-b46f-04b231c43d00",
       "publishedAt": "2026-09-21",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递简历→测评/AI面试→业务面试→offer签约",
-      "recruitmentProcessEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E2 | 吉林大学就业网岚图汽车2027校招 | https://jdjyw.jlu.edu.cn/portal/recruit/details?id=3dc3bb065021448ea7946ac0fb8c54a7 | 2026-09-17"
-    },
-    {
-      "id": "moka-84fd45ebb00b",
-      "company": "岚图汽车",
-      "title": "备件技术",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "待核",
-      "jobDescription": "用户服务中心 后台",
-      "jobRequirements": "",
-      "JD": "用户服务中心 后台",
-      "jdEvidence": {
-        "source": "regex-v1",
-        "majorClauses": [],
-        "eligibilityClauses": [
-          "招聘对象：2027届"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "用户"
-      ],
-      "preferenceTags": [],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方Moka校招官网",
-      "officialURL": "https://app.mokahr.com/campus-recruitment/voyah/146293#/job/4b3c8d35-179e-417e-89b0-ae10cb3193e6",
-      "publishedAt": "2026-08-31",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

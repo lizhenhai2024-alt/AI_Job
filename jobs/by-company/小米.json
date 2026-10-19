@@ -1,7 +1,7 @@
 {
   "company": "小米",
-  "count": 250,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "count": 253,
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "feishu-4031ce-7670882755622422835",
@@ -4188,19 +4188,19 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
-      "id": "feishu-4031ce-7670882853140662538",
+      "id": "feishu-4031ce-7670882479952333065",
       "company": "小米",
-      "title": "合规认证项目经理",
+      "title": "渠道运营专员",
       "graduationYear": [
         "2027"
       ],
       "education": {
         "raw": "",
-        "min": "",
+        "min": "本科",
         "masterRequired": false
       },
       "major": {
-        "raw": "",
+        "raw": "1. 本科及以上学历，应届毕业生，理工科优先",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -4210,25 +4210,34 @@
         "minorLanguageRequired": false
       },
       "location": "北京",
-      "jobDescription": "1. 国际全品类产品的合规工作的管理，包括合规需求的收集、梳理、解读与导入跟进； 2. 合规专项的推进，如澄清合规需求、保障合规方案准时落地； 3. 与海外合规管理人员协同，包括合规信息互通、合规资产建设、跨部门流程拉通； 4. 海外合规相关的卡点问题梳理与解决；",
-      "jobRequirements": "1. 英语可作为工作语言，与外籍人事无障碍交流； 2. 细心、责任心、好奇心、坚韧乐观",
-      "JD": "1. 国际全品类产品的合规工作的管理，包括合规需求的收集、梳理、解读与导入跟进； 2. 合规专项的推进，如澄清合规需求、保障合规方案准时落地； 3. 与海外合规管理人员协同，包括合规信息互通、合规资产建设、跨部门流程拉通； 4. 海外合规相关的卡点问题梳理与解决；\n1. 英语可作为工作语言，与外籍人事无障碍交流； 2. 细心、责任心、好奇心、坚韧乐观",
+      "jobDescription": "负责公司国际服务体系中维修渠道的日常运营与管理，支持全球维修网络的高效运转。通过数据分析、流程优化和跨部门协作，提升客户服务体验与渠道效能。优秀者将有机会外派至海外分支机构，参与国际化业务拓展。 1. 负责海外售后渠道运营指标的统计，组织相关区域进行评估分析，提供业务改善方案并持续跟进闭环。 2. 组织协调相关区域在海外的服务门店建设和翻新，门店运营物料的采购提需以及实物海外调拨。 3. 根据区域业务需要组织渠道服务商引入/清退评审，管理服务商数据。 4. 监控服务门店日常运营指标和工单数据，支持服务经理管理和考核海外服务门店和人员。",
+      "jobRequirements": "1. 本科及以上学历，应届毕业生，理工科优先。 2. 达到英语六级及以上，可处理英文邮件，口语流利者加分。 3. 逻辑清晰，擅长跨团队沟通与多任务管理。 4. 熟练使用Excel/PPT。 5. 愿意接受外派。",
+      "JD": "负责公司国际服务体系中维修渠道的日常运营与管理，支持全球维修网络的高效运转。通过数据分析、流程优化和跨部门协作，提升客户服务体验与渠道效能。优秀者将有机会外派至海外分支机构，参与国际化业务拓展。 1. 负责海外售后渠道运营指标的统计，组织相关区域进行评估分析，提供业务改善方案并持续跟进闭环。 2. 组织协调相关区域在海外的服务门店建设和翻新，门店运营物料的采购提需以及实物海外调拨。 3. 根据区域业务需要组织渠道服务商引入/清退评审，管理服务商数据。 4. 监控服务门店日常运营指标和工单数据，支持服务经理管理和考核海外服务门店和人员。\n1. 本科及以上学历，应届毕业生，理工科优先。 2. 达到英语六级及以上，可处理英文邮件，口语流利者加分。 3. 逻辑清晰，擅长跨团队沟通与多任务管理。 4. 熟练使用Excel/PPT。 5. 愿意接受外派。",
       "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [],
-        "eligibilityClauses": [],
+        "source": "regex-v1",
+        "majorClauses": [
+          "1. 本科及以上学历，应届毕业生，理工科优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
         "technicalDuties": [],
         "businessDuties": []
       },
       "roleFamily": [
-        "项目管理"
+        "其他"
       ],
       "skills": [
-        "英语"
+        "英语",
+        "Excel",
+        "数据分析",
+        "PPT"
       ],
       "experienceKeywords": [
         "海外",
-        "项目",
+        "运营",
+        "数据",
+        "客户",
         "招聘"
       ],
       "preferenceTags": [
@@ -4266,7 +4275,7 @@
       "monthlySalary": "未披露",
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670882853140662538/detail",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670882479952333065/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -5034,6 +5043,95 @@
       "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
     },
     {
+      "id": "feishu-4031ce-7670885568703760678",
+      "company": "小米",
+      "title": "合规认证项目经理",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 国际全品类产品的合规工作的管理，包括合规需求的收集、梳理、解读与导入跟进； 2. 合规专项的推进，如澄清合规需求、保障合规方案准时落地； 3. 与海外合规管理人员协同，包括合规信息互通、合规资产建设、跨部门流程拉通； 4. 海外合规相关的卡点问题梳理与解决；",
+      "jobRequirements": "1. 英语可作为工作语言，与外籍人事无障碍交流； 2. 细心、责任心、好奇心、坚韧乐观",
+      "JD": "1. 国际全品类产品的合规工作的管理，包括合规需求的收集、梳理、解读与导入跟进； 2. 合规专项的推进，如澄清合规需求、保障合规方案准时落地； 3. 与海外合规管理人员协同，包括合规信息互通、合规资产建设、跨部门流程拉通； 4. 海外合规相关的卡点问题梳理与解决；\n1. 英语可作为工作语言，与外籍人事无障碍交流； 2. 细心、责任心、好奇心、坚韧乐观",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "项目管理"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "海外",
+        "项目",
+        "招聘"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885568703760678/detail",
+      "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
       "id": "feishu-4031ce-7670885531078002954",
       "company": "小米",
       "title": "包材项目经理",
@@ -5115,104 +5213,6 @@
       "annualSalary": "未披露",
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885531078002954/detail",
-      "publishedAt": "2026-08-06",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
-      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
-    },
-    {
-      "id": "feishu-4031ce-7670885336150460718",
-      "company": "小米",
-      "title": "渠道运营专员",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历，应届毕业生，专业不限。",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "英语、日语、韩语",
-        "english": true,
-        "minorLanguageRequired": false
-      },
-      "location": "北京",
-      "jobDescription": "负责公司国际服务体系中维修渠道的日常运营与管理，支持全球维修网络的高效运转。通过数据分析、流程优化和跨部门协作，提升客户服务体验与渠道效能。优秀者将有机会外派至海外分支机构，参与国际化业务拓展。 1. 负责海外售后渠道运营指标的统计，组织相关区域进行评估分析，提供业务改善方案并持续跟进闭环。 2. 组织协调相关区域在海外的服务门店建设和翻新，门店运营物料的采购提需以及实物海外调拨。 3. 根据区域业务需要组织渠道服务商引入/清退评审，管理服务商数据。 4. 监控服务门店日常运营指标和工单数据，支持服务经理管理和考核海外服务门店和人员。",
-      "jobRequirements": "1. 本科及以上学历，应届毕业生，专业不限。 2. 达到日语N1或韩语TOPIK6级及以上，能够日常交流和书面撰写。 3. 达到英语六级及以上，可处理英文邮件，口语流利者加分。 4. 逻辑清晰，擅长跨团队沟通与多任务管理。 5. 熟练使用Excel/PPT。 6. 愿意接受外派。",
-      "JD": "负责公司国际服务体系中维修渠道的日常运营与管理，支持全球维修网络的高效运转。通过数据分析、流程优化和跨部门协作，提升客户服务体验与渠道效能。优秀者将有机会外派至海外分支机构，参与国际化业务拓展。 1. 负责海外售后渠道运营指标的统计，组织相关区域进行评估分析，提供业务改善方案并持续跟进闭环。 2. 组织协调相关区域在海外的服务门店建设和翻新，门店运营物料的采购提需以及实物海外调拨。 3. 根据区域业务需要组织渠道服务商引入/清退评审，管理服务商数据。 4. 监控服务门店日常运营指标和工单数据，支持服务经理管理和考核海外服务门店和人员。\n1. 本科及以上学历，应届毕业生，专业不限。 2. 达到日语N1或韩语TOPIK6级及以上，能够日常交流和书面撰写。 3. 达到英语六级及以上，可处理英文邮件，口语流利者加分。 4. 逻辑清晰，擅长跨团队沟通与多任务管理。 5. 熟练使用Excel/PPT。 6. 愿意接受外派。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历，应届毕业生，专业不限。"
-        ],
-        "eligibilityClauses": [
-          "本科及以上学历，应届毕业生，专业不限。"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "英语",
-        "Excel",
-        "数据分析",
-        "PPT"
-      ],
-      "experienceKeywords": [
-        "海外",
-        "运营",
-        "数据",
-        "客户",
-        "招聘"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "小米官方飞书招聘",
-      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670885336150460718/detail",
       "publishedAt": "2026-08-06",
       "lastVerified": "",
       "sourceType": "official",
@@ -5500,6 +5500,194 @@
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670934839563028755/detail",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7698325415798393142",
+      "company": "小米",
+      "title": "内容策划",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、挖掘产品与技术亮点，将专业技术转化为用户易理解、有传播力的内容； 2、新品上市、技术传播、产品种草等项目的内容策划与创意落地； 3、微博、抖音、小红书等新媒体平台的选题策划与内容运营，结合热点持续打造优质内容； 4、策划米粉活动等用户运营项目，通过用户互动与反馈，持续优化产品传播； 5、关注家电行业、用户需求及内容趋势，持续探索新的营销内容和传播方式。",
+      "jobRequirements": "1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限； 2、对家电、科技产品和消费电子有兴趣，愿意主动研究产品和技术； 3、有较好的用户洞察和内容敏感度，能从用户视角发现有价值、有意思的传播点； 4、具备良好的文案和策划能力，有校园媒体、新媒体运营、广告营销、内容创作等相关实践经验优先； 5、思维活跃，有创意，对微博、抖音、小红书等社交平台和热点内容敏感； 6、具备良好的沟通协作和执行能力，责任心强，能够推动事情落地； 7、熟悉AI工具，有使用AI辅助调研、策划、内容创作等经验者优先。",
+      "JD": "1、挖掘产品与技术亮点，将专业技术转化为用户易理解、有传播力的内容； 2、新品上市、技术传播、产品种草等项目的内容策划与创意落地； 3、微博、抖音、小红书等新媒体平台的选题策划与内容运营，结合热点持续打造优质内容； 4、策划米粉活动等用户运营项目，通过用户互动与反馈，持续优化产品传播； 5、关注家电行业、用户需求及内容趋势，持续探索新的营销内容和传播方式。\n1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限； 2、对家电、科技产品和消费电子有兴趣，愿意主动研究产品和技术； 3、有较好的用户洞察和内容敏感度，能从用户视角发现有价值、有意思的传播点； 4、具备良好的文案和策划能力，有校园媒体、新媒体运营、广告营销、内容创作等相关实践经验优先； 5、思维活跃，有创意，对微博、抖音、小红书等社交平台和热点内容敏感； 6、具备良好的沟通协作和执行能力，责任心强，能够推动事情落地； 7、熟悉AI工具，有使用AI辅助调研、策划、内容创作等经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，市场营销、广告、新闻传播等相关专业优先，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "内容运营"
+      ],
+      "skills": [
+        "内容运营",
+        "文案"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "内容",
+        "项目",
+        "市场",
+        "用户",
+        "营销",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7698325415798393142/detail",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7698324481216383275",
+      "company": "小米",
+      "title": "品牌专员",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、协助整体品牌策略规划，输出品牌传播相关方案； 2、结合阶段品牌认知目标，协助制定品牌营销专项，并负责落地执行及复盘； 3、为创意执行提供思路，与团队一同策划创意事件； 4、根据市场热点、趋势，快速反应制作与品牌和产品相关的创意内容。",
+      "jobRequirements": "1、本科以上学历； 2、具备一定的创意、策划、文案等专业技能； 3、对主流社交媒体平台关注； 4、热爱创意和内容，有好奇心； 5、具备良好的沟通能力，掌握沟通技巧。",
+      "JD": "1、协助整体品牌策略规划，输出品牌传播相关方案； 2、结合阶段品牌认知目标，协助制定品牌营销专项，并负责落地执行及复盘； 3、为创意执行提供思路，与团队一同策划创意事件； 4、根据市场热点、趋势，快速反应制作与品牌和产品相关的创意内容。\n1、本科以上学历； 2、具备一定的创意、策划、文案等专业技能； 3、对主流社交媒体平台关注； 4、热爱创意和内容，有好奇心； 5、具备良好的沟通能力，掌握沟通技巧。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科以上学历"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "文案"
+      ],
+      "experienceKeywords": [
+        "内容",
+        "市场",
+        "营销",
+        "品牌",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7698324481216383275/detail",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -14565,6 +14753,95 @@
       "source": "小米官方飞书招聘",
       "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7670884403308808494/detail",
       "publishedAt": "2026-08-06",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→在线测评→简历筛选→面试（2-3轮）→Offer发放",
+      "recruitmentProcessEvidence": "E1 | 小米招聘官网校招流程 | https://hr.xiaomi.com/website/campus.html | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 小米招聘官网FAQ | https://hr.xiaomi.com/m/campus/recruitment?tabId=3 | 2026-09-17"
+    },
+    {
+      "id": "feishu-4031ce-7698324239817394473",
+      "company": "小米",
+      "title": "用户研究员-汽车",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "4. 加分项：热爱驾驶，汽车工程、计算机相关专业或工作经验者优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1. 负责持续洞察和分析汽车用户群体，为产品决策提供支持，不断优化及提升产品体验。 2. 负责根据整车或模块产品需求，制定用户研究计划和方法，确保提供有效的研究活动。 3. 负责支持竞品分析，洞察竞品产品及用户特点。",
+      "jobRequirements": "1. 极致追求提升用户产品体验，真诚热爱，挑战突破认知。 2. 具备较强的团队协同能力以及较强的表达沟通逻辑。 3. 学习能力强，能够通过积极主动的学习快速适应岗位要求。 4. 加分项：热爱驾驶，汽车工程、计算机相关专业或工作经验者优先。",
+      "JD": "1. 负责持续洞察和分析汽车用户群体，为产品决策提供支持，不断优化及提升产品体验。 2. 负责根据整车或模块产品需求，制定用户研究计划和方法，确保提供有效的研究活动。 3. 负责支持竞品分析，洞察竞品产品及用户特点。\n1. 极致追求提升用户产品体验，真诚热爱，挑战突破认知。 2. 具备较强的团队协同能力以及较强的表达沟通逻辑。 3. 学习能力强，能够通过积极主动的学习快速适应岗位要求。 4. 加分项：热爱驾驶，汽车工程、计算机相关专业或工作经验者优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "4. 加分项：热爱驾驶，汽车工程、计算机相关专业或工作经验者优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "洞察",
+        "招聘"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "小米官方飞书招聘",
+      "officialURL": "https://xiaomi.jobs.f.mioffice.cn/campus/m/position/7698324239817394473/detail",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

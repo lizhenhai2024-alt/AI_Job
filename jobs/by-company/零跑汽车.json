@@ -1,7 +1,7 @@
 {
   "company": "零跑汽车",
-  "count": 41,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "count": 42,
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "beisen-c36e90eb3861",
@@ -361,6 +361,97 @@
       "source": "公司官方北森校招官网",
       "officialURL": "https://leapmotor.zhiye.com/campus/detail?jobAdId=36b784b0-1376-4b85-89f2-5d146b038663",
       "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "网申/内推→测评/笔试（以岗位需求为准）→面试（初复试）→OFFER/三方（10月开启）",
+      "recruitmentProcessEvidence": "E2 | 零跑汽车官方校招门户 | https://leapmotor.zhiye.com/campus | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 零跑汽车官方校招Q&A | https://leapmotor.zhiye.com/intern | 2026-09-17"
+    },
+    {
+      "id": "beisen-1740338750e4",
+      "company": "零跑汽车",
+      "title": "校招-人力资源专员/助理(J18451)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届本科及以上学历，专业不限（理工科背景优先）",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "杭州",
+      "jobDescription": "1、对接业务部门，了解业务需求，做好人力资源相关支持工作； 2、负责/协助开展招聘、培训、员工关系、人事服务等相关模块工作； 3、协助完善人力资源管理制度与流程，并推动在业务部门的落地执行； 4、完成上级交办的其他人力资源相关工作。 【特别说明】： 本岗位提供全模块轮岗学习机会，未来发展方向多元；可前置实习到岗者优先录用。",
+      "jobRequirements": "1、2027届本科及以上学历，专业不限（理工科背景优先） 2、具备良好的沟通表达与共情能力，逻辑清晰，责任心强，有较强的问题解决能力； 3、对业务有好奇心，愿意深入理解业务逻辑，抗压能力强； 4、熟练使用Office办公软件，具备一定的数据敏感度。 加分项： 有校级组织就职经历、HR相关实习经验或大型活动组织经验； 具备一定AI工具应用或数据分析能力。",
+      "JD": "1、对接业务部门，了解业务需求，做好人力资源相关支持工作； 2、负责/协助开展招聘、培训、员工关系、人事服务等相关模块工作； 3、协助完善人力资源管理制度与流程，并推动在业务部门的落地执行； 4、完成上级交办的其他人力资源相关工作。 【特别说明】： 本岗位提供全模块轮岗学习机会，未来发展方向多元；可前置实习到岗者优先录用。\n1、2027届本科及以上学历，专业不限（理工科背景优先） 2、具备良好的沟通表达与共情能力，逻辑清晰，责任心强，有较强的问题解决能力； 3、对业务有好奇心，愿意深入理解业务逻辑，抗压能力强； 4、熟练使用Office办公软件，具备一定的数据敏感度。 加分项： 有校级组织就职经历、HR相关实习经验或大型活动组织经验； 具备一定AI工具应用或数据分析能力。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届本科及以上学历，专业不限（理工科背景优先）"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "HR"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://leapmotor.zhiye.com/campus/detail?jobAdId=9cd628fd-5ec4-43fd-b575-d3be2f24d227",
+      "publishedAt": "2026-10-19",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",

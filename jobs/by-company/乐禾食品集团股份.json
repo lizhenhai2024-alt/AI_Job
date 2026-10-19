@@ -1,7 +1,7 @@
 {
   "company": "乐禾食品集团股份有限公司",
-  "count": 12,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "count": 15,
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "beisen-ed606662d83e",
@@ -101,6 +101,95 @@
       "deadline": ""
     },
     {
+      "id": "beisen-255679bdf4b2",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-客户成功岗（北部-2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届及优秀往届生，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责",
+      "jobRequirements": "1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配（北部大区-京津冀辽等）",
+      "JD": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责\n1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配（北部大区-京津冀辽等）",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届及优秀往届生，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=5bf8e3cc-8f04-414b-abbb-4884aef1b13b",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-72f8a80a6bf9",
       "company": "乐禾食品集团股份有限公司",
       "title": "管培生-经营支持岗（2027）",
@@ -194,9 +283,9 @@
       "deadline": ""
     },
     {
-      "id": "beisen-d44ddc8ed19e",
+      "id": "beisen-c134500bc959",
       "company": "乐禾食品集团股份有限公司",
-      "title": "管培生-客户成功岗（2027）",
+      "title": "管培生-客户成功岗（中部-2027）",
       "graduationYear": [
         "2027"
       ],
@@ -215,10 +304,99 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "全国",
+      "location": "湖南省、湖北省",
       "jobDescription": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责",
-      "jobRequirements": "1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配。",
-      "JD": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责\n1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配。",
+      "jobRequirements": "1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配（湖南、湖北等）。",
+      "JD": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责\n1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配（湖南、湖北等）。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届及优秀往届生，专业不限"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "商务测算",
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "供应链",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=67ba6447-970d-4afc-86aa-1f51b4542170",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9ae2a504b84a",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-客户成功岗（东部-2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届及优秀往届生，专业不限",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "浙江省、山东省·济宁市、江苏省",
+      "jobDescription": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责",
+      "jobRequirements": "1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配（东部：浙江-杭州宁波温州、江苏、山东-济宁）。",
+      "JD": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责\n1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配（东部：浙江-杭州宁波温州、江苏、山东-济宁）。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
@@ -369,9 +547,9 @@
       "deadline": ""
     },
     {
-      "id": "beisen-9de0f1cb2207",
+      "id": "beisen-d44ddc8ed19e",
       "company": "乐禾食品集团股份有限公司",
-      "title": "管培生-投资岗（2027）",
+      "title": "管培生-客户成功岗（2027）",
       "graduationYear": [
         "2027"
       ],
@@ -381,7 +559,7 @@
         "masterRequired": false
       },
       "major": {
-        "raw": "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先",
+        "raw": "1、2027届及优秀往届生，专业不限",
         "hardRestriction": false,
         "hardClauses": []
       },
@@ -390,44 +568,46 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "广东省",
-      "jobDescription": "1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告； 2、参与业务与法律板块尽职调查，识别风险点并输出规范建议； 3、跟踪食材供应链行业政策与法规动向，输出行业研究与竞对分析报告。",
-      "jobRequirements": "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先； 2、具备思考力与逻辑思维清晰，有上进心与韧性、能持续学习； 3、具备较强的信息检索、数据分析与书面表达能力，有会计师事务所或投研实习经历优先； 4、可接受项目尽调短期出差。",
-      "JD": "1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告； 2、参与业务与法律板块尽职调查，识别风险点并输出规范建议； 3、跟踪食材供应链行业政策与法规动向，输出行业研究与竞对分析报告。\n1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先； 2、具备思考力与逻辑思维清晰，有上进心与韧性、能持续学习； 3、具备较强的信息检索、数据分析与书面表达能力，有会计师事务所或投研实习经历优先； 4、可接受项目尽调短期出差。",
+      "location": "全国",
+      "jobDescription": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责",
+      "jobRequirements": "1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配。",
+      "JD": "1、承接所辖客户的食材交付全链路管理，对持续贡献利润负责； 2、管控客户成本与费用，输出报价测算、债权回收与保证金台账； 3、处理订单履约异常与客诉，对履约交付满意度负责\n1、2027届及优秀往届生，专业不限；要求本科及以上，特别优秀者可放宽至大专； 2、具备服务意识、沟通协调和团队协作能力，能在快节奏履约中抗压并持续学习成长； 3、持有 C1 驾照，能早起跟车、适应夜班与现场轮岗作业； 4、党员、学生干部或有参军服役、相关实习经历优先； 5、认同食材供应链行业快节奏的服务模式，有长期深耕意愿；接受区域内调配。",
       "jdEvidence": {
         "source": "regex-v1",
         "majorClauses": [
-          "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先"
+          "1、2027届及优秀往届生，专业不限"
         ],
         "eligibilityClauses": [
           "招聘对象：2027届"
         ],
         "technicalDuties": [],
-        "businessDuties": []
+        "businessDuties": [
+          "商务测算",
+          "跨文化沟通"
+        ]
       },
       "roleFamily": [
         "其他"
       ],
-      "skills": [
-        "数据分析"
-      ],
+      "skills": [],
       "experienceKeywords": [
-        "项目",
-        "数据",
-        "供应链"
+        "供应链",
+        "客户"
       ],
       "preferenceTags": [],
-      "riskTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
       "headcount": {
-        "disclosed": true,
-        "raw": "5",
-        "min": 5,
-        "max": 5,
-        "scope": "job",
-        "display": "5人",
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
         "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "5 5 1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告"
+        "confidence": "none",
+        "evidence": ""
       },
       "compensation": {
         "disclosed": true,
@@ -443,13 +623,13 @@
         "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
         "sourceLabel": "企业官方JD/ATS",
         "confidence": "high",
-        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；投递前请打开官方职位页确"
       },
       "salary": "6K-8K 元/月",
       "monthlySalary": "6k–8k/月",
       "annualSalary": "7.2万–9.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
-      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=12df29d3-3573-452c-a079-c8f5de4c4df7",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=3226b9ec-98e1-4f58-9968-516b0c07d0c4",
       "publishedAt": "2026-09-29",
       "lastVerified": "",
       "sourceType": "official",
@@ -660,7 +840,7 @@
         "english": false,
         "minorLanguageRequired": false
       },
-      "location": "广东省",
+      "location": "全国",
       "jobDescription": "1、协助搭建集团各食材品类供应管理体系，推行供应商开发与管理策略； 2、基于数据分析开展品类毛利管理，输出毛利优化方案； 3、分析并指导分子公司供应商定价与客户报价，完善定价机制。",
       "jobRequirements": "岗位要求 1、2027 届应届毕业生，本科及以上院校，供应链管理、物流相关专业优先； 2、具备经营思维与成本意识，沟通协调、抗压与团队协作能力强，能以数据分析驱动决策并持续学习； 3、有采购或供应链实习经历优先； 4、认同食材供应链行业，可适应产地、市场走访、分子公司出差支援； 5、需接受在总部培训后调派至大区、分子公司的安排。",
       "JD": "1、协助搭建集团各食材品类供应管理体系，推行供应商开发与管理策略； 2、基于数据分析开展品类毛利管理，输出毛利优化方案； 3、分析并指导分子公司供应商定价与客户报价，完善定价机制。\n岗位要求 1、2027 届应届毕业生，本科及以上院校，供应链管理、物流相关专业优先； 2、具备经营思维与成本意识，沟通协调、抗压与团队协作能力强，能以数据分析驱动决策并持续学习； 3、有采购或供应链实习经历优先； 4、认同食材供应链行业，可适应产地、市场走访、分子公司出差支援； 5、需接受在总部培训后调派至大区、分子公司的安排。",
@@ -723,6 +903,93 @@
       "annualSalary": "7.2万–9.6万/年（按12薪推算）",
       "source": "公司官方北森校招官网",
       "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=0f31880a-544c-4d3d-9ebe-abeb84702f60",
+      "publishedAt": "2026-09-29",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-9de0f1cb2207",
+      "company": "乐禾食品集团股份有限公司",
+      "title": "管培生-投资岗（2027）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "广东省",
+      "jobDescription": "1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告； 2、参与业务与法律板块尽职调查，识别风险点并输出规范建议； 3、跟踪食材供应链行业政策与法规动向，输出行业研究与竞对分析报告。",
+      "jobRequirements": "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先； 2、具备思考力与逻辑思维清晰，有上进心与韧性、能持续学习； 3、具备较强的信息检索、数据分析与书面表达能力，有会计师事务所或投研实习经历优先； 4、可接受项目尽调短期出差。",
+      "JD": "1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告； 2、参与业务与法律板块尽职调查，识别风险点并输出规范建议； 3、跟踪食材供应链行业政策与法规动向，输出行业研究与竞对分析报告。\n1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先； 2、具备思考力与逻辑思维清晰，有上进心与韧性、能持续学习； 3、具备较强的信息检索、数据分析与书面表达能力，有会计师事务所或投研实习经历优先； 4、可接受项目尽调短期出差。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027 届应届毕业生，本科及以上院校，财务与会计、法律、投资相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "5",
+        "min": 5,
+        "max": 5,
+        "scope": "job",
+        "display": "5人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "5 5 1、参与对外投资项目的立项、调研与评估，编制立项报告、尽职调查报告、可行性研究报告"
+      },
+      "compensation": {
+        "disclosed": true,
+        "raw": "6K-8K 元/月",
+        "monthlyMin": 6000,
+        "monthlyMax": 8000,
+        "annualMin": 72000,
+        "annualMax": 96000,
+        "salaryMonths": 12,
+        "monthlyEstimated": false,
+        "annualEstimated": true,
+        "monthlyDisplay": "6k–8k/月",
+        "annualDisplay": "7.2万–9.6万/年（按12薪推算）",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "6K-8K 元/月 公司官方北森校招岗位；识别关键词：数据分析。投"
+      },
+      "salary": "6K-8K 元/月",
+      "monthlySalary": "6k–8k/月",
+      "annualSalary": "7.2万–9.6万/年（按12薪推算）",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://lehe.zhiye.com/campus/detail?jobAdId=12df29d3-3573-452c-a079-c8f5de4c4df7",
       "publishedAt": "2026-09-29",
       "lastVerified": "",
       "sourceType": "official",

@@ -1,7 +1,7 @@
 {
   "company": "得物App",
   "count": 132,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "feishu-96da49-7670381893178853695",
@@ -1002,107 +1002,6 @@
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7677512186726107443/detail",
       "publishedAt": "2026-08-24",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
-      "id": "feishu-96da49-7670423980151032118",
-      "company": "得物App",
-      "title": "【27届校招】供应链售后运营岗",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 负责承接各类新业务、新模式的导入，对接前端项目初期介入，适配业务全链路制定与调优逆向售后策略； 2. 识别买家、卖家、交易平台、干系业务运营的需求与痛点，提供系统性解决方案，明确行动路径与协作分工机制，推动方案落地； 3. 深入挖掘国际、国内售后业务跨域链路场景的痛点，按品类、买卖家角色、交易模式与供应链环节等多维度，制定与调优全链路售后解决方案； 4. 承接指标异动后的整体解决方案输出，跟进异动改善闭环；保障售后前端体验，拆解交易前端资损，挖掘降损机会并推动全链路止损闭环。",
-      "jobRequirements": "1. 2027届应届生，本科及以上学历 2. 对数据敏感，具备基础的数据分析能力，熟练使用Excel，了解SQL者加分 3. 逻辑清晰，具备良好的问题拆解和结构化思维能力 4. 优秀的沟通协调能力和跨团队协作意识，有学生干部/社团负责人经验者优先 5. 有供应链、物流、电商相关实习经验者优先 6. 责任心强，抗压能力好，愿意深入一线了解业务实操。",
-      "JD": "1. 负责承接各类新业务、新模式的导入，对接前端项目初期介入，适配业务全链路制定与调优逆向售后策略； 2. 识别买家、卖家、交易平台、干系业务运营的需求与痛点，提供系统性解决方案，明确行动路径与协作分工机制，推动方案落地； 3. 深入挖掘国际、国内售后业务跨域链路场景的痛点，按品类、买卖家角色、交易模式与供应链环节等多维度，制定与调优全链路售后解决方案； 4. 承接指标异动后的整体解决方案输出，跟进异动改善闭环；保障售后前端体验，拆解交易前端资损，挖掘降损机会并推动全链路止损闭环。\n1. 2027届应届生，本科及以上学历 2. 对数据敏感，具备基础的数据分析能力，熟练使用Excel，了解SQL者加分 3. 逻辑清晰，具备良好的问题拆解和结构化思维能力 4. 优秀的沟通协调能力和跨团队协作意识，有学生干部/社团负责人经验者优先 5. 有供应链、物流、电商相关实习经验者优先 6. 责任心强，抗压能力好，愿意深入一线了解业务实操。",
-      "jdEvidence": {
-        "source": "llm:gemini-free:gemini-3.5-flash-lite",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届应届生，本科及以上学历"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "Excel",
-        "数据分析",
-        "SQL",
-        "电商"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "电商",
-        "数据",
-        "供应链",
-        "物流"
-      ],
-      "preferenceTags": [
-        "国际业务"
-      ],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670423980151032118/detail",
-      "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
@@ -2173,102 +2072,6 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670430270454401299/detail",
-      "publishedAt": "2026-08-05",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "",
-      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
-      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
-      "hasAssessment": "有",
-      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
-    },
-    {
-      "id": "feishu-96da49-7670425234923407658",
-      "company": "得物App",
-      "title": "【27届校招】供应链售后运营岗（增值服务）",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科及以上学历",
-        "hardRestriction": false,
-        "hardClauses": []
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "上海",
-      "jobDescription": "1. 增值服务能力升级：围绕增值选品、接单、修复等维度，按类目、按瑕疵类型定向输出增值方案 2. 围绕增值方案输出SOP操作文档、标准工时、单件成本等标准化文件 3. 增值服务商管理：建设并提升服务能力，推动操作流程及交付结果标准化，达成质量、时效、成本等履约指标 4. 面对用户需求：不断探索新的增值服务场景和能力。",
-      "jobRequirements": "1. 2027届应届生，本科及以上学历 2. 具备数据分析和问题定位能力，并进行拆解和下钻，形成解决方案并高效落地 3. 具备较强的跨部门沟通和协调能力，能够有效推动项目的落地和实施 4. 清晰的逻辑思维能力和优秀的表达能力 5. 较强的主动性和自驱性，较强的抗压能力。",
-      "JD": "1. 增值服务能力升级：围绕增值选品、接单、修复等维度，按类目、按瑕疵类型定向输出增值方案 2. 围绕增值方案输出SOP操作文档、标准工时、单件成本等标准化文件 3. 增值服务商管理：建设并提升服务能力，推动操作流程及交付结果标准化，达成质量、时效、成本等履约指标 4. 面对用户需求：不断探索新的增值服务场景和能力。\n1. 2027届应届生，本科及以上学历 2. 具备数据分析和问题定位能力，并进行拆解和下钻，形成解决方案并高效落地 3. 具备较强的跨部门沟通和协调能力，能够有效推动项目的落地和实施 4. 清晰的逻辑思维能力和优秀的表达能力 5. 较强的主动性和自驱性，较强的抗压能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科及以上学历"
-        ],
-        "eligibilityClauses": [
-          "2027届应届生"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [
-        "数据分析",
-        "跨部门沟通"
-      ],
-      "experienceKeywords": [
-        "运营",
-        "项目",
-        "用户",
-        "数据",
-        "供应链"
-      ],
-      "preferenceTags": [],
-      "riskTags": [
-        "节奏快"
-      ],
-      "headcount": {
-        "disclosed": false,
-        "raw": "",
-        "min": null,
-        "max": null,
-        "scope": "",
-        "display": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": ""
-      },
-      "salary": "",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "得物App官方飞书招聘",
-      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670425234923407658/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
@@ -3814,6 +3617,107 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670428463174338858/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
+      "id": "feishu-96da49-7670423980151032118",
+      "company": "得物App",
+      "title": "【27届校招】售后链路解决方案",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 负责承接各类新业务、新模式的导入，对接前端项目初期介入，适配业务全链路制定与调优逆向售后策略； 2. 识别买家、卖家、交易平台、干系业务运营的需求与痛点，提供系统性解决方案，明确行动路径与协作分工机制，推动方案落地； 3. 深入挖掘国际、国内售后业务跨域链路场景的痛点，按品类、买卖家角色、交易模式与供应链环节等多维度，制定与调优全链路售后解决方案； 4. 承接指标异动后的整体解决方案输出，跟进异动改善闭环；保障售后前端体验，拆解交易前端资损，挖掘降损机会并推动全链路止损闭环。",
+      "jobRequirements": "1. 2027届应届生，本科及以上学历 2. 对数据敏感，具备基础的数据分析能力，熟练使用Excel，了解SQL者加分 3. 逻辑清晰，具备良好的问题拆解和结构化思维能力 4. 优秀的沟通协调能力和跨团队协作意识，有学生干部/社团负责人经验者优先 5. 有供应链、物流、电商相关实习经验者优先 6. 责任心强，抗压能力好，愿意深入一线了解业务实操。",
+      "JD": "1. 负责承接各类新业务、新模式的导入，对接前端项目初期介入，适配业务全链路制定与调优逆向售后策略； 2. 识别买家、卖家、交易平台、干系业务运营的需求与痛点，提供系统性解决方案，明确行动路径与协作分工机制，推动方案落地； 3. 深入挖掘国际、国内售后业务跨域链路场景的痛点，按品类、买卖家角色、交易模式与供应链环节等多维度，制定与调优全链路售后解决方案； 4. 承接指标异动后的整体解决方案输出，跟进异动改善闭环；保障售后前端体验，拆解交易前端资损，挖掘降损机会并推动全链路止损闭环。\n1. 2027届应届生，本科及以上学历 2. 对数据敏感，具备基础的数据分析能力，熟练使用Excel，了解SQL者加分 3. 逻辑清晰，具备良好的问题拆解和结构化思维能力 4. 优秀的沟通协调能力和跨团队协作意识，有学生干部/社团负责人经验者优先 5. 有供应链、物流、电商相关实习经验者优先 6. 责任心强，抗压能力好，愿意深入一线了解业务实操。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届应届生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "Excel",
+        "数据分析",
+        "SQL",
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "数据",
+        "供应链",
+        "物流"
+      ],
+      "preferenceTags": [
+        "国际业务"
+      ],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670423980151032118/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",
@@ -6199,6 +6103,101 @@
       "annualSalary": "未披露",
       "source": "得物App官方飞书招聘",
       "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670432734426532139/detail",
+      "publishedAt": "2026-08-05",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递&内推→笔试/测评→面试→Offer沟通与发放",
+      "recruitmentProcessEvidence": "E2 | 郑州大学就业网校招简章 | https://job.zzu.edu.cn/campus/view/id/1018722 | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 得物校招官网FAQ | https://poizon.jobs.feishu.cn/578078/m/page-shvd6g | 2026-09-17"
+    },
+    {
+      "id": "feishu-96da49-7670425234923407658",
+      "company": "得物App",
+      "title": "【27届校招】售后链路解决方案（增值服务）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "上海",
+      "jobDescription": "1. 增值服务能力升级：围绕增值选品、接单、修复等维度，按类目、按瑕疵类型定向输出增值方案 2. 围绕增值方案输出SOP操作文档、标准工时、单件成本等标准化文件 3. 增值服务商管理：建设并提升服务能力，推动操作流程及交付结果标准化，达成质量、时效、成本等履约指标 4. 面对用户需求：不断探索新的增值服务场景和能力。",
+      "jobRequirements": "1. 2027届应届生，本科及以上学历 2. 具备数据分析和问题定位能力，并进行拆解和下钻，形成解决方案并高效落地 3. 具备较强的跨部门沟通和协调能力，能够有效推动项目的落地和实施 4. 清晰的逻辑思维能力和优秀的表达能力 5. 较强的主动性和自驱性，较强的抗压能力。",
+      "JD": "1. 增值服务能力升级：围绕增值选品、接单、修复等维度，按类目、按瑕疵类型定向输出增值方案 2. 围绕增值方案输出SOP操作文档、标准工时、单件成本等标准化文件 3. 增值服务商管理：建设并提升服务能力，推动操作流程及交付结果标准化，达成质量、时效、成本等履约指标 4. 面对用户需求：不断探索新的增值服务场景和能力。\n1. 2027届应届生，本科及以上学历 2. 具备数据分析和问题定位能力，并进行拆解和下钻，形成解决方案并高效落地 3. 具备较强的跨部门沟通和协调能力，能够有效推动项目的落地和实施 4. 清晰的逻辑思维能力和优秀的表达能力 5. 较强的主动性和自驱性，较强的抗压能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届应届生"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析",
+        "跨部门沟通"
+      ],
+      "experienceKeywords": [
+        "项目",
+        "用户",
+        "数据",
+        "供应链"
+      ],
+      "preferenceTags": [],
+      "riskTags": [
+        "节奏快"
+      ],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "得物App官方飞书招聘",
+      "officialURL": "https://poizon.jobs.feishu.cn/578078/m/position/7670425234923407658/detail",
       "publishedAt": "2026-08-05",
       "lastVerified": "",
       "sourceType": "official",

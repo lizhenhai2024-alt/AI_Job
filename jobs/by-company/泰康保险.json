@@ -1,7 +1,7 @@
 {
   "company": "泰康保险",
-  "count": 321,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "count": 327,
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "beisen-8c5d8168b055",
@@ -1894,6 +1894,94 @@
       "deadline": ""
     },
     {
+      "id": "beisen-f942ba51050d",
+      "company": "泰康保险",
+      "title": "人寿总公司-运营中心-投诉管理岗（2027校招）(J90109)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，金融、保险、统计、精算、计算机、经济等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、建立健全投诉管理体系，建立标准、制度、流程、机制、系统及指标体系。 2、完善投诉系统基础功能和智能化建设，优化流程；推动投诉系统与业务系统对接，完善标签，主动进行风险预警，提升系统化管理能力。 3、开展投诉分析，建立闭环管理与溯源改善机制，推动问题前置解决。 4、对接监管各项规定，妥善协调处理各类投诉案件，按时落实各项工作汇报要求。 5、开展分支机构投诉队伍管理，落实常态化培训、作业情况抽查，提升队伍专业化水平和合规作业水平。",
+      "jobRequirements": "1、硕士及以上学历，金融、保险、统计、精算、计算机、经济等相关专业优先； 2、具备良好的逻辑思维能力及数据分析能力，能熟练使用Office办公软件； 3、具有较强的沟通协调能力，有责任心和团队协作精神。",
+      "JD": "1、建立健全投诉管理体系，建立标准、制度、流程、机制、系统及指标体系。 2、完善投诉系统基础功能和智能化建设，优化流程；推动投诉系统与业务系统对接，完善标签，主动进行风险预警，提升系统化管理能力。 3、开展投诉分析，建立闭环管理与溯源改善机制，推动问题前置解决。 4、对接监管各项规定，妥善协调处理各类投诉案件，按时落实各项工作汇报要求。 5、开展分支机构投诉队伍管理，落实常态化培训、作业情况抽查，提升队伍专业化水平和合规作业水平。\n1、硕士及以上学历，金融、保险、统计、精算、计算机、经济等相关专业优先； 2、具备良好的逻辑思维能力及数据分析能力，能熟练使用Office办公软件； 3、具有较强的沟通协调能力，有责任心和团队协作精神。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，金融、保险、统计、精算、计算机、经济等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "数据分析"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、建立健全投诉管理体系，建立标准、制度、流程、机制、系统及指标体系。 2、完善投"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=b3b705cb-965e-421f-a77c-543c571c7c5e",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
       "id": "beisen-75bce2e3f972",
       "company": "泰康保险",
       "title": "人寿-山东分公司-管培生（2027年校招）(J89928)",
@@ -2431,6 +2519,93 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": ""
+    },
+    {
+      "id": "beisen-85c2c7b6f864",
+      "company": "泰康保险",
+      "title": "人寿总公司-运营中心-消费者权益保护岗（2027校招）(J90108)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "硕士",
+        "masterRequired": true
+      },
+      "major": {
+        "raw": "1、硕士及以上学历，保险、金融、法律、管理等相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "1、推进消保体制机制建设。落实消保会议汇报机制，完善消保制度体系； 2、横向组织协调消保相关部门完善消保制度体系；纵向指导分支机构开展消保工作，建立总分支消保管理体系； 3、建立和完善各项消保工作机制，统筹并推进适当性管理、营销行为管理、多元纠纷化解、个人信息保护、金融教育、消费者服务等各项工作落实； 4、搭建并完善公司消费者权益保护系统，提升自动化管理水平。 5、加强消保队伍建设及管理，组织开展培训与日常工作指导，提升岗位专业能力与工作技能。",
+      "jobRequirements": "1、硕士及以上学历，保险、金融、法律、管理等相关专业优先； 2、了解相关金融消费者权益保护政策或法律法规等优先； 3、具备良好的逻辑思维能力、文字表达能力、创新能力； 4、具有较强的沟通协调能力，有责任心和团队协作精神，能熟练使用Office办公软件。",
+      "JD": "1、推进消保体制机制建设。落实消保会议汇报机制，完善消保制度体系； 2、横向组织协调消保相关部门完善消保制度体系；纵向指导分支机构开展消保工作，建立总分支消保管理体系； 3、建立和完善各项消保工作机制，统筹并推进适当性管理、营销行为管理、多元纠纷化解、个人信息保护、金融教育、消费者服务等各项工作落实； 4、搭建并完善公司消费者权益保护系统，提升自动化管理水平。 5、加强消保队伍建设及管理，组织开展培训与日常工作指导，提升岗位专业能力与工作技能。\n1、硕士及以上学历，保险、金融、法律、管理等相关专业优先； 2、了解相关金融消费者权益保护政策或法律法规等优先； 3、具备良好的逻辑思维能力、文字表达能力、创新能力； 4、具有较强的沟通协调能力，有责任心和团队协作精神，能熟练使用Office办公软件。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、硕士及以上学历，保险、金融、法律、管理等相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届",
+          "投递截止：2027-07-30"
+        ],
+        "technicalDuties": [],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营",
+        "营销"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1、推进消保体制机制建设。落实消保会议汇报机制，完善消保制度体系； 2、横向组织协"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=d414690f-de70-49c4-988d-1c47fde327ec",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-07-30"
     },
     {
       "id": "beisen-8cce476f3956",
@@ -14680,6 +14855,336 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2028-06-08"
+    },
+    {
+      "id": "beisen-7b289e986885",
+      "company": "泰康保险",
+      "title": "之家-赣园社区-文娱活动师（2027届）(J90054)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历；有社工专业背景者优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江西省·南昌市",
+      "jobDescription": "\"1、研究居民的课程与活动需求，设计、开发并组织艺术、益智、休闲等各类活动； 2、协助居民创建和发展各类俱乐部，开展自主活动； 3、参与社区居民大型庆典活动的组织策划。\"",
+      "jobRequirements": "\"1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、有社工专业背景者优先，有文艺特长或文体活动组织经验优先。\"",
+      "JD": "\"1、研究居民的课程与活动需求，设计、开发并组织艺术、益智、休闲等各类活动； 2、协助居民创建和发展各类俱乐部，开展自主活动； 3、参与社区居民大型庆典活动的组织策划。\"\n\"1、本科及以上学历； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、有社工专业背景者优先，有文艺特长或文体活动组织经验优先。\"",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历",
+          "有社工专业背景者优先"
+        ],
+        "eligibilityClauses": [
+          "2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 \"1、研究居民的课程与活动需求，设计、开发并组织艺术、益智、休闲等各类活动； 2、"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=2e0a76b1-6aeb-4e14-8f94-b5080f6bbdef",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-c85aeb1dc74f",
+      "company": "泰康保险",
+      "title": "之家-赣园康复医院-护士（2027届）(J90058)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "护理专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江西省·南昌市",
+      "jobDescription": "\"1、协助居民照护计划制定与执行，照护风险识别与管理； 2、协助护理部门内部制度梳理、流程优化、运营分析、效率提升等工作； 3、专业技能培训的组织实施； 4、照护质量管理体系优化与改进，照护质量的监管。\"",
+      "jobRequirements": "\"1、本科及以上学历，护理专业优先； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力。\"",
+      "JD": "\"1、协助居民照护计划制定与执行，照护风险识别与管理； 2、协助护理部门内部制度梳理、流程优化、运营分析、效率提升等工作； 3、专业技能培训的组织实施； 4、照护质量管理体系优化与改进，照护质量的监管。\"\n\"1、本科及以上学历，护理专业优先； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力。\"",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "护理专业优先"
+        ],
+        "eligibilityClauses": [
+          "2027届",
+          "本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "运营"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "2",
+        "min": 2,
+        "max": 2,
+        "scope": "job",
+        "display": "2人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "2 2 \"1、协助居民照护计划制定与执行，照护风险识别与管理； 2、协助护理部门内部制度梳"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=3f10b4ce-f9a4-48e3-81ef-eedb0e493114",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-1afdc2bb756b",
+      "company": "泰康保险",
+      "title": "之家-赣园社区-社工（2027届）(J90056)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，社会工作相关专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "社会工作相关专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江西省·南昌市",
+      "jobDescription": "\"1、结合居民需求、风险评价及意愿，组织实施专业个案或小组活动。 2、召开定期的个案研讨，为居民制定和更新服务方案，协调安排并参与居民的各类评估。 3、协调外部资源，为居民提供社工、法律等方面的服务。\"",
+      "jobRequirements": "\"1、本科及以上学历，社会工作相关专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力，熟练应用办公、制图、视频等相关办公软件。\"",
+      "JD": "\"1、结合居民需求、风险评价及意愿，组织实施专业个案或小组活动。 2、召开定期的个案研讨，为居民制定和更新服务方案，协调安排并参与居民的各类评估。 3、协调外部资源，为居民提供社工、法律等方面的服务。\"\n\"1、本科及以上学历，社会工作相关专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力，熟练应用办公、制图、视频等相关办公软件。\"",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科及以上学历，社会工作相关专业"
+        ],
+        "eligibilityClauses": [],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 \"1、结合居民需求、风险评价及意愿，组织实施专业个案或小组活动。 2、召开定期的个"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=268d697a-1a24-4f5f-904b-98f3258e1afb",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
+    },
+    {
+      "id": "beisen-ca4268223a3f",
+      "company": "泰康保险",
+      "title": "之家-赣园社区-运动指导师（2027届）(J90055)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业",
+        "hardRestriction": true,
+        "hardClauses": [
+          "条件优异者可放宽至社会体育指导、体育教育专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江西省·南昌市",
+      "jobDescription": "\"1、为居民提供相关评估并提供科学的运康训练方案，帮助居民通过运动保持并提升身心机能； 2、为居民提供一对一运动健康训练及团体运动健康训练； 3、参与组织运动文化赛事与运康服务推广活动； 4、保障场馆、设施使用安全，排除安全隐患，必要时制止危险操作。 5、对常见的运动损伤进行初步应急处理。\"",
+      "jobRequirements": "\"1、本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力。\"",
+      "JD": "\"1、为居民提供相关评估并提供科学的运康训练方案，帮助居民通过运动保持并提升身心机能； 2、为居民提供一对一运动健康训练及团体运动健康训练； 3、参与组织运动文化赛事与运康服务推广活动； 4、保障场馆、设施使用安全，排除安全隐患，必要时制止危险操作。 5、对常见的运动损伤进行初步应急处理。\"\n\"1、本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业； 2、对养老行业有热情，具备服务意识，有亲和力，有耐心； 3、具备扎实的专业知识和沟通协调能力。\"",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "本科及以上学历，运动康复、运动人体科学、运动医学、体能训练等专业优先，条件优异者可放宽至社会体育指导、体育教育专业"
+        ],
+        "eligibilityClauses": [
+          "2027届"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 \"1、为居民提供相关评估并提供科学的运康训练方案，帮助居民通过运动保持并提升身心机"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://jobtaikang.zhiye.com/campus/detail?jobAdId=9817257c-abf3-470c-b08d-2e15d753f80e",
+      "publishedAt": "2026-10-19",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": ""
     },
     {
       "id": "beisen-ea0ecf95d47d",

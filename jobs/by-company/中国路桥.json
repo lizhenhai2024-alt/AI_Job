@@ -1,7 +1,7 @@
 {
   "company": "中国路桥",
   "count": 160,
-  "updatedAt": "2026-10-19T00:21:47.018Z",
+  "updatedAt": "2026-10-19T16:24:06.854Z",
   "jobs": [
     {
       "id": "beisen-fef4dd791a1e",
@@ -1881,15 +1881,17 @@
         "minorLanguageRequired": false
       },
       "location": "珠海",
-      "jobDescription": "1.配合项目负责人从事相关专业的设计、咨询工作； 2.配合公司参与本部门或本专业的招投标工作； 3.参与本部门及本专业的技术创新、科技开发工作； 4..负责领导交办的其他工作。",
+      "jobDescription": "1.配合项目负责人从事相关专业的设计、咨询工作； 2.配合公司参与本部门或本专业的招投标工作； 3.参与本部门及本专业的技术创新、科技开发工作； 4.负责领导交办的其他工作。",
       "jobRequirements": "1.给排水等相关专业，研究生及以上学历； 2.熟悉相关行业设计技术、项目管理相关知识，熟悉本行业专业设计规范； 3.具有高度的敬业精神和责任心，较好的沟通协调能力以及团队合作精神，较强的执行能力，计算机使用熟练; 4.在校期间，具有学生干部经历者、工程实践经验者和海外留学经历者优先。",
-      "JD": "1.配合项目负责人从事相关专业的设计、咨询工作； 2.配合公司参与本部门或本专业的招投标工作； 3.参与本部门及本专业的技术创新、科技开发工作； 4..负责领导交办的其他工作。\n1.给排水等相关专业，研究生及以上学历； 2.熟悉相关行业设计技术、项目管理相关知识，熟悉本行业专业设计规范； 3.具有高度的敬业精神和责任心，较好的沟通协调能力以及团队合作精神，较强的执行能力，计算机使用熟练; 4.在校期间，具有学生干部经历者、工程实践经验者和海外留学经历者优先。",
+      "JD": "1.配合项目负责人从事相关专业的设计、咨询工作； 2.配合公司参与本部门或本专业的招投标工作； 3.参与本部门及本专业的技术创新、科技开发工作； 4.负责领导交办的其他工作。\n1.给排水等相关专业，研究生及以上学历； 2.熟悉相关行业设计技术、项目管理相关知识，熟悉本行业专业设计规范； 3.具有高度的敬业精神和责任心，较好的沟通协调能力以及团队合作精神，较强的执行能力，计算机使用熟练; 4.在校期间，具有学生干部经历者、工程实践经验者和海外留学经历者优先。",
       "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
         "majorClauses": [
           "给排水等相关专业，研究生及以上学历"
         ],
-        "eligibilityClauses": [],
+        "eligibilityClauses": [
+          "2027届校招"
+        ],
         "technicalDuties": [],
         "businessDuties": []
       },
@@ -11226,93 +11228,6 @@
       "deadline": "2027-06-30"
     },
     {
-      "id": "beisen-dd38874d4b55",
-      "company": "中国路桥",
-      "title": "2027届校招中交海峰风电安全管理岗(J48355)",
-      "graduationYear": [
-        "2027"
-      ],
-      "education": {
-        "raw": "",
-        "min": "本科",
-        "masterRequired": false
-      },
-      "major": {
-        "raw": "本科学历，安全工程专业。",
-        "hardRestriction": true,
-        "hardClauses": [
-          "安全工程专业"
-        ]
-      },
-      "language": {
-        "raw": "",
-        "english": false,
-        "minorLanguageRequired": false
-      },
-      "location": "江苏省·南通市",
-      "jobDescription": "1. 参与海上风电项目现场安全管理体系的建立与日常运行，协助编制、修订安全管理制度、操作规程及应急预案。 2. 开展施工现场日常安全巡检、隐患排查与整改闭环管理，监督高风险作业（如吊装、登高、临水、动火等）的安全措施落实。 3. 组织开展安全教育培训、应急演练及事故调查初步配合工作，做好安全台账、检查记录及监管资料归档。 4. 协同总包、分包单位落实安全生产责任制，推动安全文明施工标准化建设。 5. 配合政府主管部门及业主单位的安全监督检查，及时响应并反馈相关整改要求。",
-      "jobRequirements": "1. 本科学历，安全工程专业。 2. 具备扎实的安全生产管理基础知识，熟悉《安全生产法》《海上风电开发建设管理办法》《电力建设工程施工安全监督管理办法》等法规标准者优先。 3. 具有良好的沟通协调能力、责任心和执行力，能适应海上风电项目现场工作环境（含阶段性出海、驻场作业）。 4. 持有注册安全工程师（初级）证书或通过国家统一考试科目者优先；熟练使用办公软件，具备基础CAD识图能力。 5. 2027届应届毕业生，学习成绩优良，无不良记录，具备团队协作意识与持续学习能力。",
-      "JD": "1. 参与海上风电项目现场安全管理体系的建立与日常运行，协助编制、修订安全管理制度、操作规程及应急预案。 2. 开展施工现场日常安全巡检、隐患排查与整改闭环管理，监督高风险作业（如吊装、登高、临水、动火等）的安全措施落实。 3. 组织开展安全教育培训、应急演练及事故调查初步配合工作，做好安全台账、检查记录及监管资料归档。 4. 协同总包、分包单位落实安全生产责任制，推动安全文明施工标准化建设。 5. 配合政府主管部门及业主单位的安全监督检查，及时响应并反馈相关整改要求。\n1. 本科学历，安全工程专业。 2. 具备扎实的安全生产管理基础知识，熟悉《安全生产法》《海上风电开发建设管理办法》《电力建设工程施工安全监督管理办法》等法规标准者优先。 3. 具有良好的沟通协调能力、责任心和执行力，能适应海上风电项目现场工作环境（含阶段性出海、驻场作业）。 4. 持有注册安全工程师（初级）证书或通过国家统一考试科目者优先；熟练使用办公软件，具备基础CAD识图能力。 5. 2027届应届毕业生，学习成绩优良，无不良记录，具备团队协作意识与持续学习能力。",
-      "jdEvidence": {
-        "source": "llm:deepseek:deepseek-flash",
-        "majorClauses": [
-          "本科学历，安全工程专业。"
-        ],
-        "eligibilityClauses": [
-          "2027届应届毕业生，学习成绩优良，无不良记录，具备团队协作意识与持续学习能力。"
-        ],
-        "technicalDuties": [],
-        "businessDuties": []
-      },
-      "roleFamily": [
-        "其他"
-      ],
-      "skills": [],
-      "experienceKeywords": [
-        "项目"
-      ],
-      "preferenceTags": [
-        "出海"
-      ],
-      "riskTags": [],
-      "headcount": {
-        "disclosed": true,
-        "raw": "1",
-        "min": 1,
-        "max": 1,
-        "scope": "job",
-        "display": "1人",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "high",
-        "evidence": "1 1 1. 参与海上风电项目现场安全管理体系的建立与日常运行，协助编制、修订安全管理制度"
-      },
-      "compensation": {
-        "disclosed": false,
-        "raw": "面议",
-        "monthlyMin": null,
-        "monthlyMax": null,
-        "annualMin": null,
-        "annualMax": null,
-        "salaryMonths": null,
-        "monthlyEstimated": false,
-        "annualEstimated": false,
-        "monthlyDisplay": "未披露",
-        "annualDisplay": "未披露",
-        "sourceLabel": "企业官方JD/ATS",
-        "confidence": "none",
-        "evidence": "面议"
-      },
-      "salary": "面议",
-      "monthlySalary": "未披露",
-      "annualSalary": "未披露",
-      "source": "公司官方北森校招官网",
-      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=71cba35e-39cc-4283-890e-751b2e8b0b3f",
-      "publishedAt": "2026-08-28",
-      "lastVerified": "",
-      "sourceType": "official",
-      "deadline": "2027-07-01"
-    },
-    {
       "id": "beisen-6158a341c44f",
       "company": "中国路桥",
       "title": "2027届校招中交四航局二公司综合管理岗(J48356)",
@@ -11483,6 +11398,93 @@
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "2027-06-30"
+    },
+    {
+      "id": "beisen-dd38874d4b55",
+      "company": "中国路桥",
+      "title": "2027届校招中交海峰风电安全管理岗(J48355)",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "本科学历，安全工程专业。",
+        "hardRestriction": true,
+        "hardClauses": [
+          "安全工程专业"
+        ]
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "江苏省·南通市",
+      "jobDescription": "1. 参与海上风电项目现场安全管理体系的建立与日常运行，协助编制、修订安全管理制度、操作规程及应急预案。 2. 开展施工现场日常安全巡检、隐患排查与整改闭环管理，监督高风险作业（如吊装、登高、临水、动火等）的安全措施落实。 3. 组织开展安全教育培训、应急演练及事故调查初步配合工作，做好安全台账、检查记录及监管资料归档。 4. 协同总包、分包单位落实安全生产责任制，推动安全文明施工标准化建设。 5. 配合政府主管部门及业主单位的安全监督检查，及时响应并反馈相关整改要求。",
+      "jobRequirements": "1. 本科学历，安全工程专业。 2. 具备扎实的安全生产管理基础知识，熟悉《安全生产法》《海上风电开发建设管理办法》《电力建设工程施工安全监督管理办法》等法规标准者优先。 3. 具有良好的沟通协调能力、责任心和执行力，能适应海上风电项目现场工作环境（含阶段性出海、驻场作业）。 4. 持有注册安全工程师（初级）证书或通过国家统一考试科目者优先；熟练使用办公软件，具备基础CAD识图能力。 5. 2027届应届毕业生，学习成绩优良，无不良记录，具备团队协作意识与持续学习能力。",
+      "JD": "1. 参与海上风电项目现场安全管理体系的建立与日常运行，协助编制、修订安全管理制度、操作规程及应急预案。 2. 开展施工现场日常安全巡检、隐患排查与整改闭环管理，监督高风险作业（如吊装、登高、临水、动火等）的安全措施落实。 3. 组织开展安全教育培训、应急演练及事故调查初步配合工作，做好安全台账、检查记录及监管资料归档。 4. 协同总包、分包单位落实安全生产责任制，推动安全文明施工标准化建设。 5. 配合政府主管部门及业主单位的安全监督检查，及时响应并反馈相关整改要求。\n1. 本科学历，安全工程专业。 2. 具备扎实的安全生产管理基础知识，熟悉《安全生产法》《海上风电开发建设管理办法》《电力建设工程施工安全监督管理办法》等法规标准者优先。 3. 具有良好的沟通协调能力、责任心和执行力，能适应海上风电项目现场工作环境（含阶段性出海、驻场作业）。 4. 持有注册安全工程师（初级）证书或通过国家统一考试科目者优先；熟练使用办公软件，具备基础CAD识图能力。 5. 2027届应届毕业生，学习成绩优良，无不良记录，具备团队协作意识与持续学习能力。",
+      "jdEvidence": {
+        "source": "llm:deepseek:deepseek-flash",
+        "majorClauses": [
+          "本科学历，安全工程专业。"
+        ],
+        "eligibilityClauses": [
+          "2027届应届毕业生，学习成绩优良，无不良记录，具备团队协作意识与持续学习能力。"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "项目"
+      ],
+      "preferenceTags": [
+        "出海"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": true,
+        "raw": "1",
+        "min": 1,
+        "max": 1,
+        "scope": "job",
+        "display": "1人",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "high",
+        "evidence": "1 1 1. 参与海上风电项目现场安全管理体系的建立与日常运行，协助编制、修订安全管理制度"
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "面议",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": "面议"
+      },
+      "salary": "面议",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "公司官方北森校招官网",
+      "officialURL": "https://ccccltd.zhiye.com/campus/detail?jobAdId=71cba35e-39cc-4283-890e-751b2e8b0b3f",
+      "publishedAt": "2026-08-28",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "2027-07-01"
     },
     {
       "id": "beisen-cda9fc9be4ae",
