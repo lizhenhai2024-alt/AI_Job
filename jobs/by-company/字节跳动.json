@@ -1,7 +1,7 @@
 {
   "company": "字节跳动",
-  "count": 232,
-  "updatedAt": "2026-10-19T16:24:06.854Z",
+  "count": 235,
+  "updatedAt": "2026-10-19T20:33:24.180Z",
   "jobs": [
     {
       "id": "bytedance-4fc8391024f5",
@@ -11012,6 +11012,105 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
+      "id": "bytedance-cb2a711f74ef",
+      "company": "字节跳动",
+      "title": "模型搜索专项运营 - AI数据与安全",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届获得本科及以上学历，计算机、数据科学、人工智能等理工类相关专业优先；2、英语能作为工作语言，可独立完成需求判别、文档撰写与跨地域沟通，有国际化或多语种业务背景者优先，有其他小语种读写能力更佳",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "英语",
+        "english": true,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "团队介绍：AI 数据与安全团队为 Seed 基座模型及 AI 原生应用提供跨模态数据服务，覆盖数据生产全流程，包含模型评估标准的制定、数据规模化生产、数据飞轮搭建，不断提升数据质量，支持模型快速迭代。 团队由产品经理、数据工程、数据运营等跨职能人才组成，并通过与 Seed 研究员、行业专家、全球顶尖数据供应商紧密合作，从真实场景中收集反馈并分析模型表现数据，解决 AI 前沿突破过程中的复杂数据问题，推动模型性能与用户体验的双重提升。我们既是帮助模型技术迭代的一线贡献者，也是模型和 AI 产品的一手用户。 1、搜索专项运营，与算法、产品、工程团队密切协作，深度参与国际化大模型搜索的专项优化，提供定制化的标注评估流程方案； 2、模型迭代闭环，专注于数据集建立、标评体系构建、策略效果验证等模型迭代全流程，驱动搜索功能持续优化； 3、数据运营提效，通过PE、Agent、Workflow等手段开发人工评测提效工具，推动标注与评估流程自动化。",
+      "jobRequirements": "1、2027届获得本科及以上学历，计算机、数据科学、人工智能等理工类相关专业优先； 2、英语能作为工作语言，可独立完成需求判别、文档撰写与跨地域沟通，有国际化或多语种业务背景者优先，有其他小语种读写能力更佳； 3、具备扎实的搜索或模型评测经验，对模型搜索链路有深刻理解，能独立设计指标体系，并能密切跟进策略迭代和产品优化； 4、熟练使用全球主流的大模型相关应用，具备评估数据处理与脚本开发能力，有PE、Agent、Workflow设计开发应用经验加分； 5、对AI技术应用有较强的探索热情，具备负责人意识与数据敏感度，具备学习能力和优秀的沟通协调能力及团队合作精神优先。",
+      "JD": "团队介绍：AI 数据与安全团队为 Seed 基座模型及 AI 原生应用提供跨模态数据服务，覆盖数据生产全流程，包含模型评估标准的制定、数据规模化生产、数据飞轮搭建，不断提升数据质量，支持模型快速迭代。 团队由产品经理、数据工程、数据运营等跨职能人才组成，并通过与 Seed 研究员、行业专家、全球顶尖数据供应商紧密合作，从真实场景中收集反馈并分析模型表现数据，解决 AI 前沿突破过程中的复杂数据问题，推动模型性能与用户体验的双重提升。我们既是帮助模型技术迭代的一线贡献者，也是模型和 AI 产品的一手用户。 1、搜索专项运营，与算法、产品、工程团队密切协作，深度参与国际化大模型搜索的专项优化，提供定制化的标注评估流程方案； 2、模型迭代闭环，专注于数据集建立、标评体系构建、策略效果验证等模型迭代全流程，驱动搜索功能持续优化； 3、数据运营提效，通过PE、Agent、Workflow等手段开发人工评测提效工具，推动标注与评估流程自动化。\n1、2027届获得本科及以上学历，计算机、数据科学、人工智能等理工类相关专业优先； 2、英语能作为工作语言，可独立完成需求判别、文档撰写与跨地域沟通，有国际化或多语种业务背景者优先，有其他小语种读写能力更佳； 3、具备扎实的搜索或模型评测经验，对模型搜索链路有深刻理解，能独立设计指标体系，并能密切跟进策略迭代和产品优化； 4、熟练使用全球主流的大模型相关应用，具备评估数据处理与脚本开发能力，有PE、Agent、Workflow设计开发应用经验加分； 5、对AI技术应用有较强的探索热情，具备负责人意识与数据敏感度，具备学习能力和优秀的沟通协调能力及团队合作精神优先。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届获得本科及以上学历，计算机、数据科学、人工智能等理工类相关专业优先",
+          "2、英语能作为工作语言，可独立完成需求判别、文档撰写与跨地域沟通，有国际化或多语种业务背景者优先，有其他小语种读写能力更佳"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": [
+          "跨文化沟通"
+        ]
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "英语"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [
+        "国际业务",
+        "跨文化"
+      ],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-09-09",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
       "id": "bytedance-2c47e078d225",
       "company": "字节跳动",
       "title": "Agent自动评测（ToB方向） - AI数据与安全",
@@ -17494,6 +17593,100 @@
       "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
     },
     {
+      "id": "bytedance-7bf35abf5cd5",
+      "company": "字节跳动",
+      "title": "交易产品经理 - 财经业务",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "本科",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "2027届获得本科及以上学历",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "北京",
+      "jobDescription": "团队介绍：抖音集团财经业务致力于成为科技驱动业务增长的先锋，服务抖音集团生态内数亿活跃用户与广大商户的多元化金融科技需求，全面涵盖支付、消费金融、小微商户贷、保险经纪等核心板块。 在这里，你将置身于年轻、充满活力的团队氛围中，亲历行业第一的增长速度，感受科技赋能金融的无限可能。 为了支撑业务的高效拓展与价值挖掘，我们正在寻找优秀的伙伴加入，目前重点开放的岗位包括：增长、用户产品、策略运营、算法、风控、数据科学、研发、工程等。期待你的加入，与我们一起用科技重塑金融服务体验，共创更大的商业价值！ 1、负责抖音支付交易产品或模块，识别业务需求或问题，产出产品设计和规划，推动产品迭代升级； 2、负责协同业务、BP、技术、外部合作方等，推进项目和产品规划落地，持续拿到结果； 3、与运营团队一起，持续完善相关用户、商户运营服务流程，提升客户满意度； 4、关注支付行业动态，能结合所负责产品/模块，评估影响或给出建议。",
+      "jobRequirements": "1、2027届获得本科及以上学历； 2、对电商、游戏、生活服务、出行、收单、消费金融等其中1个或多个支付服务场景感兴趣； 3、有较好的好奇心、学习能力；能深刻理解、洞见客户痛点，归本溯源，制定解决计划，包括最终用户、直接业务方； 4、有良好的用户体验意识、产品意识和数据意识； 5、优秀的跨团队/机构组织推动力、沟通能力。",
+      "JD": "团队介绍：抖音集团财经业务致力于成为科技驱动业务增长的先锋，服务抖音集团生态内数亿活跃用户与广大商户的多元化金融科技需求，全面涵盖支付、消费金融、小微商户贷、保险经纪等核心板块。 在这里，你将置身于年轻、充满活力的团队氛围中，亲历行业第一的增长速度，感受科技赋能金融的无限可能。 为了支撑业务的高效拓展与价值挖掘，我们正在寻找优秀的伙伴加入，目前重点开放的岗位包括：增长、用户产品、策略运营、算法、风控、数据科学、研发、工程等。期待你的加入，与我们一起用科技重塑金融服务体验，共创更大的商业价值！ 1、负责抖音支付交易产品或模块，识别业务需求或问题，产出产品设计和规划，推动产品迭代升级； 2、负责协同业务、BP、技术、外部合作方等，推进项目和产品规划落地，持续拿到结果； 3、与运营团队一起，持续完善相关用户、商户运营服务流程，提升客户满意度； 4、关注支付行业动态，能结合所负责产品/模块，评估影响或给出建议。\n1、2027届获得本科及以上学历； 2、对电商、游戏、生活服务、出行、收单、消费金融等其中1个或多个支付服务场景感兴趣； 3、有较好的好奇心、学习能力；能深刻理解、洞见客户痛点，归本溯源，制定解决计划，包括最终用户、直接业务方； 4、有良好的用户体验意识、产品意识和数据意识； 5、优秀的跨团队/机构组织推动力、沟通能力。",
+      "jdEvidence": {
+        "source": "llm:gemini-free:gemini-3.5-flash-lite",
+        "majorClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "eligibilityClauses": [
+          "2027届获得本科及以上学历"
+        ],
+        "technicalDuties": [],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [
+        "电商"
+      ],
+      "experienceKeywords": [
+        "运营",
+        "项目",
+        "电商",
+        "用户",
+        "数据",
+        "客户"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-10-10",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
       "id": "bytedance-9ac523111738",
       "company": "字节跳动",
       "title": "云与AI咨询销售（汽车行业线） - 火山引擎",
@@ -20198,6 +20391,96 @@
       "source": "字节跳动官方2027校招官网",
       "officialURL": "https://jobs.bytedance.com/campus",
       "publishedAt": "2026-07-17",
+      "lastVerified": "",
+      "sourceType": "official",
+      "deadline": "",
+      "recruitmentProcess": "投递→（笔试视岗位安排）→面试→Offer",
+      "recruitmentProcessEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17",
+      "hasAssessment": "有",
+      "hasAssessmentEvidence": "E1 | 字节跳动校招官网FAQ | https://jobs.bytedance.com/campus/m/page-6272Gc | 2026-09-17"
+    },
+    {
+      "id": "bytedance-752d63c8c12c",
+      "company": "字节跳动",
+      "title": "基于多模态大模型与用户行为理解的下一代分发与交互技术-抖音推荐技术（北京/上海/杭州/深圳）",
+      "graduationYear": [
+        "2027"
+      ],
+      "education": {
+        "raw": "",
+        "min": "",
+        "masterRequired": false
+      },
+      "major": {
+        "raw": "1、2027届毕业，获得博士学位，人工智能、计算机、数学相关专业优先",
+        "hardRestriction": false,
+        "hardClauses": []
+      },
+      "language": {
+        "raw": "",
+        "english": false,
+        "minorLanguageRequired": false
+      },
+      "location": "深圳",
+      "jobDescription": "团队介绍：抖音推荐技术团队，负责抖音使用时长占比最高的推荐页的基础推荐算法，底层模型同时支持抖音其他重要业务场景。我们的工作涉及大规模推荐算法的优化、推荐大模型的应用、多模态大模型的落地探索等，对多种场景的推荐架构的设计和实现和对产品数据的复杂深入的分析工作。 课题介绍：本课题旨在探索基于多模态大模型的模态理解与表征、世界知识、推理等能力，并深度的与信息分发（推荐、搜索等）中的用户行为理解和建模结合起来，构建支撑下一代分发与交互技术的基础模型和系统范式。通过基础技术突破和探索，既尝试解决原有分发技术中对长尾兴趣分发、用户复杂意图理解、多模态与行为协同融合、System Bias、分发系统的算力与推理分配等一系列关键问题，也探索基于新的多模态大模型与用户对齐的理解，支持全新的可对话性需求满足、可自然交互性的分发调节与个性化等能力和产品形态上的突破。 课题挑战： 1、多模态大模型的完整流程的训练，以及与大规模用户行为深度理解和对齐； 2、突破多模态大模型与长序列高并发高效推理的瓶颈； 3、实现大模型泛化推理能力与复杂推荐业务目标的深度对齐。 课题价值： 1、打破信息茧房，提供个性化可解释推荐，提升长尾/冷启分发效率； 2、沉淀大模型Scaling Up范式，重塑大模型时代的下一代推荐系统； 3、探索全新的支持下一代交互场景的分发基础技术突破。",
+      "jobRequirements": "1、2027届毕业，获得博士学位，人工智能、计算机、数学相关专业优先； 2、优秀的代码能力、数据结构和基础算法功底，熟练C/C++（传统编码方向）或Python（智能编码方向）； 3、智能编码方向要求有扎实的机器学习基础，在TPAMI/CVPR/NeurIPS/ICCV等顶级期刊会议上发表论文者优先； 4、有向标准组织提出过提案并参加标准会议经验的同学优先； 5、出色的问题分析和解决能力，有自主探索解决方案的能力，良好的沟通协作能力，能和团队一起探索新技术，推进技术进步； 6、出色的心理素质与应变能力，面对困难勇于迎接挑战；面对复杂局面沉着、冷静、灵活。",
+      "JD": "团队介绍：抖音推荐技术团队，负责抖音使用时长占比最高的推荐页的基础推荐算法，底层模型同时支持抖音其他重要业务场景。我们的工作涉及大规模推荐算法的优化、推荐大模型的应用、多模态大模型的落地探索等，对多种场景的推荐架构的设计和实现和对产品数据的复杂深入的分析工作。 课题介绍：本课题旨在探索基于多模态大模型的模态理解与表征、世界知识、推理等能力，并深度的与信息分发（推荐、搜索等）中的用户行为理解和建模结合起来，构建支撑下一代分发与交互技术的基础模型和系统范式。通过基础技术突破和探索，既尝试解决原有分发技术中对长尾兴趣分发、用户复杂意图理解、多模态与行为协同融合、System Bias、分发系统的算力与推理分配等一系列关键问题，也探索基于新的多模态大模型与用户对齐的理解，支持全新的可对话性需求满足、可自然交互性的分发调节与个性化等能力和产品形态上的突破。 课题挑战： 1、多模态大模型的完整流程的训练，以及与大规模用户行为深度理解和对齐； 2、突破多模态大模型与长序列高并发高效推理的瓶颈； 3、实现大模型泛化推理能力与复杂推荐业务目标的深度对齐。 课题价值： 1、打破信息茧房，提供个性化可解释推荐，提升长尾/冷启分发效率； 2、沉淀大模型Scaling Up范式，重塑大模型时代的下一代推荐系统； 3、探索全新的支持下一代交互场景的分发基础技术突破。\n1、2027届毕业，获得博士学位，人工智能、计算机、数学相关专业优先； 2、优秀的代码能力、数据结构和基础算法功底，熟练C/C++（传统编码方向）或Python（智能编码方向）； 3、智能编码方向要求有扎实的机器学习基础，在TPAMI/CVPR/NeurIPS/ICCV等顶级期刊会议上发表论文者优先； 4、有向标准组织提出过提案并参加标准会议经验的同学优先； 5、出色的问题分析和解决能力，有自主探索解决方案的能力，良好的沟通协作能力，能和团队一起探索新技术，推进技术进步； 6、出色的心理素质与应变能力，面对困难勇于迎接挑战；面对复杂局面沉着、冷静、灵活。",
+      "jdEvidence": {
+        "source": "regex-v1",
+        "majorClauses": [
+          "1、2027届毕业，获得博士学位，人工智能、计算机、数学相关专业优先"
+        ],
+        "eligibilityClauses": [
+          "招聘对象：2027届"
+        ],
+        "technicalDuties": [
+          "模型/算法"
+        ],
+        "businessDuties": []
+      },
+      "roleFamily": [
+        "其他"
+      ],
+      "skills": [],
+      "experienceKeywords": [
+        "用户",
+        "数据"
+      ],
+      "preferenceTags": [],
+      "riskTags": [],
+      "headcount": {
+        "disclosed": false,
+        "raw": "",
+        "min": null,
+        "max": null,
+        "scope": "",
+        "display": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "compensation": {
+        "disclosed": false,
+        "raw": "",
+        "monthlyMin": null,
+        "monthlyMax": null,
+        "annualMin": null,
+        "annualMax": null,
+        "salaryMonths": null,
+        "monthlyEstimated": false,
+        "annualEstimated": false,
+        "monthlyDisplay": "未披露",
+        "annualDisplay": "未披露",
+        "sourceLabel": "企业官方JD/ATS",
+        "confidence": "none",
+        "evidence": ""
+      },
+      "salary": "",
+      "monthlySalary": "未披露",
+      "annualSalary": "未披露",
+      "source": "字节跳动官方2027校招官网",
+      "officialURL": "https://jobs.bytedance.com/campus",
+      "publishedAt": "2026-04-15",
       "lastVerified": "",
       "sourceType": "official",
       "deadline": "",
